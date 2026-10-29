@@ -1,0 +1,62 @@
+id: gpt-image-face-swap-woman-beside-ink-sketch-twin
+title:
+  en: Woman posing beside her ink sketch twin
+  zh: 真人与黑白线稿分身并排站姿
+model: GPT Image 2.5
+mode: image-edit
+category: edit
+tags:
+- face-swap
+- identity-reference
+- line-art
+- constraint-list
+source:
+  name: '@warraich_Ai2 on X'
+  url: https://x.com/warraich_Ai2/status/2100776665500836060
+  credit: Azka Ai
+  likes: 41
+  captured: '2026-10-28'
+  posted: '2026-09-18'
+notes:
+  en: Names the target image as the master composition and the reference photo as face identity only, then lists every element to keep unchanged. A final rule line and an explicit do not use list stop hair, clothing and pose from leaking in, while the sketch keeps its wink and tongue out expression.
+  zh: 把目标图定为唯一构图、参考照片只提供面部身份，再逐项列出必须保持不变的元素。结尾的总则和禁用清单防止发型、服装、姿势被带入，线稿分身仍保留眨眼吐舌的表情。
+prompt: |
+  Use the uploaded TARGET IMAGE as the exact master composition.
+
+  Use the uploaded REFERENCE PHOTO only as the facial identity reference for the woman.
+
+  FACE IDENTITY:
+  Replace the woman's face in the TARGET IMAGE with the face of the woman from the REFERENCE PHOTO. Preserve her recognizable facial features, face shape, eyes, eyebrows, nose, lips, cheeks, jawline, skin tone and natural facial proportions.
+
+  IMPORTANT:
+  The real woman on the left and the illustrated woman on the right must represent the SAME woman and have the SAME facial identity.
+
+  For the illustrated version, translate the same reference woman's facial identity into the existing black-and-white hand-drawn illustration style. Keep the illustration's original playful expression, wink and tongue-out expression while making the facial identity clearly match the reference woman.
+
+  DO NOT CHANGE ANYTHING ELSE.
+
+  Keep the TARGET IMAGE exactly the same:
+  - Same real woman's body and physique
+  - Same hairstyle and hair arrangement
+  - Same yellow T-shirt
+  - Same cream/white wide-leg pants
+  - Same white sneakers
+  - Same earrings and accessories
+  - Same crossed-arm pose
+  - Same bent-leg position
+  - Same camera angle and framing
+  - Same wall and floor
+  - Same lighting and shadows
+  - Same black-and-white illustration
+  - Same illustrated pose and proportions
+  - Same hearts, stars, sparkles and motion lines
+  - Same composition and spacing
+  - Same image quality and aspect ratio
+
+  Do NOT use the reference photo's hairstyle, clothing, body, pose, background or accessories.
+
+  FINAL RULE:
+  TARGET IMAGE = everything except facial identity.
+  REFERENCE PHOTO = facial identity only.
+
+  The final image must look almost identical to the TARGET IMAGE, with only the woman's facial identity changed. The real photo and the illustrated character must clearly look like the same woman.

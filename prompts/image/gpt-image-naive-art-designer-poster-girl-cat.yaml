@@ -1,0 +1,25 @@
+id: gpt-image-naive-art-designer-poster-girl-cat
+title:
+  en: Naive art poster of girl with cat
+  zh: 朴素艺术风格少女与猫海报
+model: GPT Image 2.5
+mode: text-to-image
+category: illustration
+tags:
+- naive-art
+- hand-drawn
+- paper-texture
+- flat-color
+- designer-poster
+source:
+  name: '@j_smeaton99 on X'
+  url: https://x.com/j_smeaton99/status/2114352687366156785
+  credit: Jack
+  likes: 44
+  captured: '2026-10-29'
+  posted: '2026-10-25'
+notes:
+  en: 'The prompt names a style (modern naive art) and lists its hand-made traits: imperfect pencil outlines, visible sketch marks, doodles, flat colors and paper texture. It also bans shadows, gradients and 3D, which keeps the result flat and print-like.'
+  zh: 提示词先点明现代朴素艺术风格，再列出手绘特征：不完美的铅笔轮廓、可见草稿线、涂鸦装饰、平涂色彩和纸张纹理。同时禁用阴影、渐变和3D，让画面保持扁平的印刷海报质感。
+prompt: |
+  Create an original modern naïve art illustration as a premium designer poster. Feature a charming, whimsical character in a simple everyday setting, with playful proportions, expressive minimal facial features, and an imaginative composition. Use a minimalist hand-drawn aesthetic with imperfect pencil outlines, visible sketch marks, decorative doodles, and soft yet contrasting flat colors. Incorporate subtle paper texture and an authentic handmade feel, like an illustration drawn by an independent contemporary artist. Keep shapes organic, details intentionally imperfect, and the overall design artistic, warm, and visually distinctive. No shadows, gradients, photorealism, or 3D effects. Clean composition, balanced negative space, sophisticated color palette, gallery-worthy editorial design, high-quality print poster aesthetic. Generate the complete artwork from scratch without using or requiring any reference image.

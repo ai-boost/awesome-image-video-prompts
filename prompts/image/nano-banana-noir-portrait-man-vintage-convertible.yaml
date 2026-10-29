@@ -1,0 +1,208 @@
+id: nano-banana-noir-portrait-man-vintage-convertible
+title:
+  en: Black and white portrait in vintage convertible
+  zh: 老式敞篷车里的黑白男士肖像
+model: Nano Banana 2
+mode: text-to-image
+category: portrait
+tags:
+- black-and-white
+- json-prompt
+- vintage-car
+- editorial
+- film-grain
+source:
+  name: '@pictsbyai on X'
+  url: https://x.com/pictsbyai/status/2039256212496163327
+  credit: Picts by AI
+  likes: 140
+  captured: '2026-10-28'
+  posted: '2026-04-01'
+notes:
+  en: A structured JSON prompt specifies composition, lighting, lens and grain, then adds a short plain text prompt, so the model gets exact photographic controls. Shallow depth of field, a single directional light and film grain give the noir editorial look.
+  zh: 用结构化 JSON 逐项写明构图、光线、镜头和颗粒，再附上一段简短的自然语言提示，让模型得到精确的摄影控制。浅景深、单一方向光和胶片颗粒营造出黑色电影的杂志质感。
+prompt: |
+  {
+  "metadata": {
+  "image_type": "photograph",
+  "primary_purpose": "editorial"
+  },
+  "composition": {
+  "rule_applied": "rule of thirds",
+  "aspect_ratio": "4:5",
+  "layout": "layered",
+  "focal_points": [
+  "Man's face and intense eyes",
+  "Left hand resting near the chrome car mirror"
+  ],
+  "visual_hierarchy": "Eye starts at the subject's face, follows the line of his left arm down to his hand, and reflects back along the glossy car edge",
+  "balance": "asymmetric"
+  },
+  "color_profile": {
+  "dominant_colors": [
+  {
+  "color": "Black",
+  "hex": "#0a0a0a",
+  "percentage": "45%",
+  "role": "background, car exterior, and clothing"
+  },
+  {
+  "color": "Mid-Gray",
+  "hex": "#5a5a5a",
+  "percentage": "40%",
+  "role": "skin tones and blurred background elements"
+  },
+  {
+  "color": "White",
+  "hex": "#f5f5f5",
+  "percentage": "15%",
+  "role": "highlights, car interior, and chrome reflections"
+  }
+  ],
+  "color_palette": "monochromatic",
+  "temperature": "neutral",
+  "saturation": "black and white",
+  "contrast": "high contrast"
+  },
+  "lighting": {
+  "type": "natural window/outdoor diffused",
+  "source_count": "single source",
+  "direction": "front and slightly top",
+  "directionality": "highly directional",
+  "quality": "soft light with dramatic falloff",
+  "intensity": "moody",
+  "contrast_ratio": "high contrast (dramatic shadows)",
+  "mood": "dramatic",
+  "shadows": {
+  "type": "soft gradual edges",
+  "density": "deep black",
+  "placement": "under chin, right side of face, interior of car",
+  "length": "medium"
+  },
+  "highlights": {
+  "treatment": "preserved",
+  "placement": "on forehead, cheekbones, nose bridge, and specular highlights on car chrome"
+  },
+  "ambient_fill": "absent",
+  "light_temperature": "neutral"
+  },
+  "technical_specs": {
+  "medium": "digital photography",
+  "style": "realistic",
+  "texture": "grainy",
+  "sharpness": "tack sharp on subject face",
+  "grain": "film grain",
+  "depth_of_field": "shallow",
+  "perspective": "straight on slightly elevated"
+  },
+  "artistic_elements": {
+  "genre": "portrait",
+  "influences": [
+  "Classic Hollywood automotive photography",
+  "Cinematic noir"
+  ],
+  "mood": "sophisticated",
+  "atmosphere": "Brooding, timeless, and elegant cinematic tension",
+  "visual_style": "clean"
+  },
+  "typography": {
+  "present": false,
+  "fonts": [],
+  "placement": "none",
+  "integration": "none"
+  },
+  "subject_analysis": {
+  "primary_subject": "Adult male, estimated 30s, with short dark hair, trimmed beard, wearing a dark collared shirt. Hair is 2-3 inches on top, styled back with natural volume and texture. Hair texture shows natural imperfections with slight flyaways, individual strands visible against the light, and uneven layering typical of a textured scissor cut. Styling indicates matte product use. Hair part is unrefined, pushed back organically rather than sharply divided.",
+  "positioning": "center",
+  "scale": "medium",
+  "interaction": "interacting with environment",
+  "facial_expression": {
+  "mouth": "closed neutral",
+  "smile_intensity": "no smile",
+  "eyes": "intense",
+  "eyebrows": "furrowed",
+  "overall_emotion": "serious",
+  "authenticity": "posed"
+  },
+  "hands_and_gestures": {
+  "left_hand": "resting on car door frame, index finger extended lightly touching or pointing near the chrome side mirror",
+  "right_hand": "not visible",
+  "finger_positions": "relaxed, index finger slightly extended, remaining fingers softly curled inward",
+  "finger_interlacing": "none",
+  "hand_tension": "relaxed",
+  "interaction": "resting on car exterior",
+  "naturalness": "deliberately posed"
+  },
+  "body_positioning": {
+  "posture": "sitting",
+  "angle": "facing camera",
+  "weight_distribution": "leaning left",
+  "shoulders": "tilted"
+  }
+  },
+  "background": {
+  "setting_type": "outdoor",
+  "spatial_depth": "shallow",
+  "elements_detailed": [
+  {
+  "item": "Vintage convertible car body",
+  "position": "bottom",
+  "distance": "foreground",
+  "size": "dominant",
+  "condition": "pristine",
+  "specific_features": "dark glossy paint with sharp reflections"
+  },
+  {
+  "item": "Chrome side mirror",
+  "position": "center",
+  "distance": "midground",
+  "size": "small",
+  "condition": "pristine",
+  "specific_features": "highly reflective, bullet-style vintage mirror"
+  },
+  {
+  "item": "Windshield frame",
+  "position": "left",
+  "distance": "midground",
+  "size": "medium",
+  "condition": "pristine",
+  "specific_features": "chrome trim"
+  }
+  ],
+  "wall_surface": {
+  "material": "not applicable - outdoor background",
+  "surface_treatment": "blurred",
+  "texture": "perfectly smooth bokeh",
+  "finish": "matte",
+  "color": "mid-gray",
+  "color_variation": "gradient",
+  "features": "out of focus shapes indicating trees or street structures",
+  "wear_indicators": "none"
+  },
+  "floor_surface": {
+  "material": "asphalt",
+  "color": "dark gray",
+  "pattern": "blurred"
+  },
+  "objects_catalog": "Vintage convertible automobile, chrome side mirror, windshield trim, light-colored car interior seats",
+  "background_treatment": "blurred"
+  },
+  "generation_parameters": {
+  "prompts": [
+  "Black and white cinematic photography, medium shot of a handsome man in his 30s sitting in the driver's seat of a classic vintage convertible car. He is leaning his left arm on the car door, hand relaxed near a chrome side mirror. He has short textured dark hair, trimmed beard, furrowed brows, intense brooding gaze, wearing a dark collared shirt. Shallow depth of field, blurred outdoor background. High contrast, directional soft lighting, deep shadows, fine film grain, editorial fashion style.",
+  "Vintage Hollywood style portrait, black and white, man in classic car leaning out window, dramatic shadows, sharp focus on face, Leica 50mm, f/2.0."
+  ],
+  "keywords": [
+  "black and white",
+  "cinematic portrait",
+  "vintage car",
+  "editorial",
+  "male model",
+  "brooding",
+  "film grain",
+  "classic automotive"
+  ],
+  "technical_settings": "50mm lens, f/2.0 aperture for shallow depth of field, 1/250s shutter speed, ISO 400 to introduce natural film grain",
+  "post_processing": "Black and white conversion with crushed blacks, lifted midtone contrast, and added analog film grain"
+  }
+  }

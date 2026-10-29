@@ -1,0 +1,27 @@
+id: nano-banana-concept-word-typography-2x2-grid
+title:
+  en: Four concept words shaped into typographic symbols
+  zh: 四个概念词化作符号造型的字体插画
+model: Nano Banana 2.1
+mode: text-to-image
+category: poster
+tags:
+- typography
+- logo-design
+- gestalt
+- vector-style
+- grid
+source:
+  name: '@Gdgtify on X'
+  url: https://x.com/Gdgtify/status/2109259469557563658
+  credit: Gadgetify
+  likes: 22
+  captured: '2026-10-29'
+  posted: '2026-10-11'
+notes:
+  en: A single template with a bracketed word slot and AI_INFER placeholders lets the model pick the symbol, texture and palette for each word. Numeric weights after each clause (::5 for the main idea, a negative weight for 3D and illegible text) steer the layout, and a 2x2 grid request gives four concepts in one render.
+  zh: 同一模板用方括号留出词语位置，再用 AI_INFER 占位让模型自选每个词的象征物、质感和配色。每段末尾的数字权重（核心描述 ::5，3D 与难辨文字用负权重）引导画面，并用 2x2 网格一次生成四个概念。
+prompt: |
+  Nano Banana 2.1's timing couldn't be any better. I have TONS of logo prompts to test.
+
+  Prompt: 2x2 grid, do this for truth, conflict, creativity, and humanity:      A clever, striking typographic illustration on a pure white background::5  The Typography: The word "[WORD/CONCEPT]" written in massive, bold font. The letters stretch, bend, and warp to perfectly form the physical shape of AI_INFER(a symbol representing the word)::5  The Details: AI_INFER(Highly stylized textures, flowing ribbons, ink splatters, or mechanical parts seamlessly blending into the letters)::4  The Palette: AI_INFER(A bold, thematic color scheme fitting the concept), high contrast, graphic design, vector art style::4  Style: Award-winning typography, Dribbble shot, logo design, gestalt illusion::3  3D render, messy, illegible, text overlay, unreadable, photography::-4

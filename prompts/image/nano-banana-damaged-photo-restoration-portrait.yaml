@@ -1,0 +1,29 @@
+id: nano-banana-damaged-photo-restoration-portrait
+title:
+  en: Cracked vintage photo restored into modern portrait
+  zh: 破损老照片修复为现代人像
+model: Nano Banana 2
+mode: image-edit
+category: edit
+tags:
+- photo-restoration
+- old-photo
+- portrait
+- upscale
+- json-prompt
+source:
+  name: '@doctorwasif on X'
+  url: https://x.com/doctorwasif/status/2030566053286457783
+  credit: WasifAI
+  likes: 552
+  captured: '2026-10-28'
+  posted: '2026-03-08'
+notes:
+  en: A positive prompt that locks identity, facial structure and composition, paired with a negative list against style change and plastic skin, keeps the restoration faithful. Cinematic camera and grading cues then lift the result to a modern photographic look.
+  zh: 正向提示词锁定身份、五官结构和构图，再用负面清单排除风格改变和塑料皮肤，让修复忠于原照片。最后用电影摄影机和调色关键词提升为现代照片质感。
+prompt: |
+  { "task": "image_restoration_upscale", "positive_prompt":
+  "Restore and enhance the provided image. Preserve original identity, facial structure, proportions and composition. High-fidelity photo restoration, ultra-realistic, natural skin texture, accurate details, professional photographic look. 4K output, sharp but natural focus, modern cinematic lighting, subtle volumetric lighting, professional color grading, depth of field, HDR. Shot on Arri Alexa, raw photo aesthetic, masterpiece.",
+  "negative_prompt": "Creative reinterpretation, style change, identity alteration, face reshaping, exaggerated features, cartoonish, painting, illustration, over-sharpening, plastic skin, blur, noise, film grain, jpeg artifacts, distortion, bad anatomy, overexposed, underexposed, washed out colors.", "parameters":
+  { "steps": 30, "cfg_scale": 6.5, "denoising_strength": 0.45,
+  "upscaler": "4x_NMKD_Siax_200k", "target_resolution": "4K" } }

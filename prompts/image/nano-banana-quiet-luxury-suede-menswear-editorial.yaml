@@ -1,0 +1,37 @@
+id: nano-banana-quiet-luxury-suede-menswear-editorial
+title:
+  en: Quiet luxury menswear portrait against sandstone wall
+  zh: 砂岩墙前的静奢风男装人像
+model: Nano Banana 2.1
+mode: text-to-image
+category: portrait
+tags:
+- menswear
+- fashion-editorial
+- quiet-luxury
+- golden-hour
+- portrait
+source:
+  name: '@iamsofiaijaz on X'
+  url: https://x.com/iamsofiaijaz/status/2112387493178020109
+  credit: Aijaz
+  likes: 55
+  captured: '2026-10-28'
+  posted: '2026-10-20'
+notes:
+  en: The prompt is split into labeled blocks for outfit, pose, environment, lighting and photography style. It adds an 85mm f/2.8 lens, golden hour from the upper right, and a negative prompt that targets plastic skin and distorted hands.
+  zh: 提示词按服装、姿势、环境、光线和摄影风格分块标注，并指定85mm f/2.8镜头和右上方黄金时刻光线，再用负面提示词排除塑料皮肤和畸形手部。
+prompt: |
+  Create an ultra-realistic luxury menswear editorial photograph of a stylish, handsome young man with thick, voluminous, swept-back dark brown hair, a neatly trimmed beard and mustache, and black rectangular sunglasses. He is leaning casually against a warm, textured beige sandstone wall, adjusting his sunglasses with one hand while keeping the other hand in his trouser pocket. His expression is calm, confident, masculine, and effortlessly sophisticated.
+
+  Outfit: A premium taupe-beige suede zip-up overshirt jacket with a structured collar, double-ended metal zipper, large patch chest pocket, and relaxed tailored fit. Underneath, a crisp white button-down shirt with the collar slightly open and cuffs visible. Matching light beige tailored trousers with subtle pleats. A sophisticated luxury wristwatch with a black leather strap completes the outfit.
+
+  Pose and composition: Three-quarter to nearly full-body portrait, subject positioned slightly left of center, body leaning naturally against the wall, one elbow bent as he adjusts his sunglasses, the other hand resting inside his pocket. Relaxed posture with a refined fashion-model presence.
+
+  Environment: Minimalist architectural setting with a warm sand-colored textured plaster wall, subtle natural imperfections, earthy brown and beige tones, and no distracting background elements.
+
+  Lighting: Soft natural golden-hour sunlight entering from the upper right, creating gentle highlights on the hair, face, suede jacket, and wall. Soft shadows, warm cinematic color grading, realistic skin texture, and beautiful tonal depth.
+
+  Photography style: High-end luxury fashion campaign, quiet luxury aesthetic, old-money menswear editorial, photorealistic skin and fabric textures, 85mm portrait lens, f/2.8, shallow depth of field, sophisticated neutral color palette, natural proportions, sharp facial details, premium magazine photography, vertical 2:3 composition, 8K detail.
+
+  Negative prompt: cartoon, illustration, CGI, plastic skin, excessive retouching, distorted hands, extra fingers, asymmetrical sunglasses, unnatural body proportions, blurry face, oversaturated colors, harsh flash, artificial lighting, logos, text, watermark, cluttered background.

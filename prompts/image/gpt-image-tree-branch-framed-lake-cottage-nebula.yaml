@@ -1,0 +1,25 @@
+id: gpt-image-tree-branch-framed-lake-cottage-nebula
+title:
+  en: Tree Branch Framing Lake Cottage at Sunset
+  zh: 树枝环绕的日落湖畔小屋
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- fantasy-landscape
+- digital-painting
+- lens-flare
+- dreamlike
+- framing
+source:
+  name: '@churvikv on X'
+  url: https://x.com/churvikv/status/2094483613085581472
+  credit: Viki
+  likes: 147
+  captured: '2026-10-29'
+  posted: '2026-08-31'
+notes:
+  en: A sweeping branch is named as the frame and dissolves into a glowing particle nebula, which gives the scene a strong focal composition. Layered depth from misty mountains, sunburst flares and a warm to cool palette adds the dreamlike light.
+  zh: 提示词把弯曲树枝设为画框并让它化为发光粒子星云，构图焦点明确。雾中远山、日芒光晕和冷暖色板层层叠加，营造梦幻光感。
+prompt: |
+  A surreal, dreamlike landscape featuring a serene river flowing through a mist-covered forest, seamlessly transitioning from a lush, terrestrial meadow into an ethereal underwater perspective. The upper portion depicts a misty morning woodland with vibrant, fiery red-leafed trees standing in contrast against dark, skeletal pines and soft, golden-yellow grassy banks. Delicate pink wildflowers dot the landscape, leading the eye toward the center. The foreground merges into a liquid, glass-like fluid surface, rippling with dark, translucent waves of mossy olive and deep emerald hues. Numerous perfectly round, glistening water droplets of varying sizes float within this aqueous environment, refracting soft light. The composition is split by a flowing, liquid curve that frames the tranquil river, creating a magical, hybrid nature scene. The atmosphere is quiet, contemplative, and mystical, bathed in a soft, diffused glow. The artistic style blends hyper-realistic textures with fantasy, characterized by smooth transitions, subtle gradients, and a serene, harmonious color palette of amber, forest green, fiery red, and muted, foggy grays.

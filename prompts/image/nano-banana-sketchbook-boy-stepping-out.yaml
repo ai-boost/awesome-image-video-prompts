@@ -1,0 +1,25 @@
+id: nano-banana-sketchbook-boy-stepping-out
+title:
+  en: 3D cartoon boy stepping out of a sketchbook drawing
+  zh: 3D卡通男孩从素描本画中走出来
+model: Nano Banana 2
+mode: text-to-image
+category: character
+tags:
+- 3d-cartoon
+- sketchbook
+- character
+- bokeh
+- cozy
+source:
+  name: '@Emmma___0 on X'
+  url: https://x.com/Emmma___0/status/2029025071009022334
+  credit: Emma
+  likes: 338
+  captured: '2026-10-28'
+  posted: '2026-03-04'
+notes:
+  en: The prompt shows the same character twice, as a pencil sketch on the page and as a 3D render, and a leg crossing the page edge sells the magic. Warm fairy light bokeh, scattered pencils and a shallow depth of field keep the desk scene cozy and believable.
+  zh: 提示词让同一个角色同时出现两次，一次是页面上的铅笔素描，一次是3D渲染，再用一条腿跨出纸面来表现魔法感。暖色灯串虚化、散落的彩铅和浅景深让桌面场景温馨又可信。
+prompt: |
+  A cute stylized 3D cartoon boy stepping out of a sketchbook drawing on a wooden desk, the notebook page showing a pencil sketch version of the same boy labeled "MY WORLD – SKETCHES". The boy has big expressive eyes, short messy brown hair, wearing a white and blue raglan t-shirt, blue jeans, and red sneakers. One leg is stepping out of the sketchbook into the real world. Warm cozy studio lighting, bokeh fairy lights in the background, colored pencils and art supplies scattered on the desk, shallow depth of field, Pixar-style character design, ultra-detailed, cinematic lighting, soft shadows, photorealistic textures, magical creative atmosphere, 3D render, high resolution.

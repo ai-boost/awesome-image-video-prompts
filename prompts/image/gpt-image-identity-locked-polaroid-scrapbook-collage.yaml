@@ -1,0 +1,59 @@
+id: gpt-image-identity-locked-polaroid-scrapbook-collage
+title:
+  en: Polaroid scrapbook collage of one woman in many poses
+  zh: 同一女孩多种姿势的拍立得手帐拼贴
+model: GPT Image 2.5
+mode: image-edit
+category: collage
+tags:
+- scrapbook
+- polaroid
+- identity-lock
+- memory-board
+- lifestyle
+source:
+  name: '@mehwishkiran07 on X'
+  url: https://x.com/mehwishkiran07/status/2106208037136642520
+  credit: Mehwish kiran
+  likes: 115
+  captured: '2026-10-28'
+  posted: '2026-10-03'
+notes:
+  en: One uploaded photo is named as the only identity reference, and the prompt repeats the lock at the start and end. A fixed outfit and a list of seven distinct poses and expressions around a large central portrait keep the frames varied but consistent, while paper, tape and handwritten text details build the scrapbook layer.
+  zh: 开头和结尾都强调上传照片是唯一的身份参考，并固定服装，再列出七种不同的姿势和表情围绕中央大图，既保持人物一致又有变化，纸张、胶带和手写文字细节则构成手帐层次。
+prompt: |
+  > Create a highly detailed, photorealistic scrapbook-style photo collage using my uploaded image as the ONLY identity reference. Preserve my exact facial identity, facial features, skin tone, hairstyle, hair color, and overall appearance consistently in every photo. Do not change or beautify my face and do not create a different person.
+
+  Create a cozy aesthetic memory-board collage featuring the same woman in multiple candid lifestyle photographs. She is wearing a cream and olive-green striped oversized knit sweater, light blue loose-fit jeans, and clean white sneakers.
+
+  Arrange several realistic Polaroid-style photographs around one large central portrait. The central image shows her sitting casually on a vintage wooden crate, one knee raised, wearing the striped sweater and jeans, looking softly at the camera with a warm natural smile.
+
+  Include multiple smaller photographs showing different natural expressions and poses:
+
+  eyes closed with a peaceful smile
+
+  making a cute peace sign toward the camera
+
+  playful surprised expression with both hands on her cheeks
+
+  looking sideways with a gentle smile while holding small white flowers
+
+  taking a selfie with a smartphone
+
+  resting her face on one hand while smiling at the camera
+
+  a relaxed playful pose with one arm raised
+
+  Keep the same person, same outfit, same hairstyle, and consistent facial identity across every photograph.
+
+  Build the collage on a warm beige vintage paper background with layered torn newspaper pages, masking tape, paper scraps, film strips, handwritten doodles, hearts, stars, arrows, smiley faces, and small white daisies.
+
+  Add realistic Polaroid frames with slightly imperfect handmade placement, subtle shadows, paper texture, vintage photography details, and a cozy nostalgic scrapbook aesthetic.
+
+  Include handwritten-style decorative text such as “Best Day Ever ♡”, “Oops!”, “So Happy Today :)”, “Love This ♡” and small doodles around the photographs.
+
+  Add a vintage Pentax K1000 film camera resting on stacked old books near the bottom of the composition, with visible book titles such as “Good Vibes”, “Memories”, and “A Brighter Day.”
+
+  Warm natural indoor lighting, soft cinematic depth of field, realistic skin texture, high-end editorial photography, authentic candid expressions, detailed paper textures, realistic shadows, premium lifestyle photography, harmonious composition, ultra-realistic, high resolution.
+
+  Important: Use my uploaded image as the identity reference. Preserve my face exactly and consistently in all frames. Only change the poses, expressions, composition, and environment. Do not alter my identity.

@@ -1,0 +1,25 @@
+id: gpt-image-photo-to-handmade-collage-split-poster
+title:
+  en: Split editorial poster pairing photo with handmade collage
+  zh: 上半真实照片下半手作拼贴的编辑海报
+model: GPT Image 2
+mode: image-edit
+category: poster
+tags:
+- editorial-poster
+- mixed-media
+- split-layout
+- photo-reinterpretation
+- negative-space
+source:
+  name: '@saniaspeaks_ on X'
+  url: https://x.com/saniaspeaks_/status/2097176979497791899
+  credit: 𝗦𝗮𝗻𝗶𝗮
+  likes: 653
+  captured: '2026-10-28'
+  posted: '2026-09-08'
+notes:
+  en: A strict two equal halves layout keeps the faithful photo on top and a tiny handmade collage in ivory negative space below. Limiting the palette to four colors extracted from the photo, plus named textures like torn paper and gouache, ties the two halves together.
+  zh: 严格上下等分的版式，上半保留忠实原图，下半在象牙白留白中放一幅小型手作拼贴。调色限定为从照片提取的四种颜色，并点名撕纸和水粉等质感，让两半画面彼此呼应。
+prompt: |
+  Create a premium editorial art poster for every uploaded photograph, treating each image as its own independent composition and never merging multiple photos together. Use a strict 3:4 vertical format with the canvas split into two perfectly equal horizontal halves: the upper half should remain a faithful, photorealistic presentation of the original image, preserving the subject’s exact identity, facial features, proportions, pose, clothing, objects, composition, lighting, shadows, mood, and natural colors, enhanced only with sophisticated editorial color grading and seamless environmental extension where necessary; the lower half should transform the visual story into an entirely different artistic interpretation—a tiny, carefully composed handmade mixed-media artwork centered within expansive warm ivory negative space, occupying no more than 10–20% of the lower section, using expressive ink sketching, layered gouache-like color fields, subtle collage textures, torn-paper edges, imperfect brushwork, visible fibers, soft pigment variations, and charming human imperfections while retaining the most recognizable silhouette, gesture, objects, and emotional narrative from the original photo. Extract up to four dominant harmonious colors from each photograph and reinterpret them in a muted, sophisticated palette. Add only occasional understated editorial typography when it genuinely enhances the composition, such as a poetic title, place, date, or single word. The overall result should feel like a collectible contemporary art publication cover—minimal, poetic, tactile, elegant, emotionally quiet, visually distinctive, and unmistakably connected to its original photograph.

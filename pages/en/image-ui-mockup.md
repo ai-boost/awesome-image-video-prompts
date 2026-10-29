@@ -444,21 +444,21 @@ Place the UI mockup in an iPhone frame.
 
 </details>
 
-<a id="gpt-image-laptop-screen-facetime-night-phone-photo"></a>
-### Phone photo of a laptop FaceTime call at night
+<a id="gpt-image-smartphone-chat-screen-glare-photo"></a>
+### Handheld Phone Photo of Boss Employee Chat
 
-<a href="https://x.com/kaanakz/status/2056290465503171000"><img src="../../previews/gpt-image-laptop-screen-facetime-night-phone-photo.jpg" width="360"></a>
+<a href="https://x.com/Gorden_Sun/status/2047178119854145562"><img src="../../previews/gpt-image-smartphone-chat-screen-glare-photo.jpg" width="360"></a>
 
-The prompt says raw phone photo, not a screenshot, then lists screen artifacts such as subpixel grid, moire, dust, fingerprints and uneven reflections. Fixed window layering and exact note text keep the interface believable.
+Stacks real-world imperfections onto the screen: fingerprints, scratches, glare from a direct light source, a tilted handheld frame and an off-center composition. The chat content is spelled out as a short scripted exchange with a document attachment, so the screen text stays coherent.
 
-GPT Image 2 · Text-to-image · Source: [@kaanakz on X](https://x.com/kaanakz/status/2056290465503171000) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+GPT Image 2 · Text-to-image · Source: [@Gorden_Sun on X](https://x.com/Gorden_Sun/status/2047178119854145562) · found via [ZeroLu/awesome-gpt-image](https://github.com/ZeroLu/awesome-gpt-image)
 
-[`laptop-screen`](tags.md#tag-laptop-screen) [`facetime`](tags.md#tag-facetime) [`macos`](tags.md#tag-macos) [`smartphone-photo`](tags.md#tag-smartphone-photo) [`night`](tags.md#tag-night)
+[`smartphone-photo`](tags.md#tag-smartphone-photo) [`chat-interface`](tags.md#tag-chat-interface) [`screen-glare`](tags.md#tag-screen-glare) [`handheld`](tags.md#tag-handheld) [`realism`](tags.md#tag-realism)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-Create a raw smartphone photo of a laptop screen, not a screenshot. Aspect ratio 3:4, high-angle downward POV from someone standing over a desk at night. The laptop display fills most of the frame, with a narrow strip of black keyboard and trackpad visible at the bottom. Strong realism: visible RGB subpixel grid, subtle moire bands, small dust specks, faint fingerprints, uneven glass reflections, handheld phone noise, slight perspective skew, no studio polish. macOS dark mode. Background app: Apple Notes with a late-night study note titled "Design Critique" and short visible bullets: "layout", "lighting", "source links", "ship tomorrow". Foreground app: FaceTime live preview window floating lower-right, showing a fictional adult man in his 20s sitting at a cluttered desk, hoodie, tired but amused expression, warm desk lamp behind him, books and sticky notes in the room. A second small Finder window with image thumbnails is partly visible behind it. Make it feel like an accidental real phone photo of a working laptop screen. No real-person likeness, no beauty filter, no perfect UI, no screenshot, no watermark, no cartoon, no 3D render.
+Generate an image, aspect ratio 3:4. A real-life smartphone photo, with the phone screen displaying a WeChat chat interface in Chinese dialogue, featuring chat bubbles and a Word document attachment. The interface has green and gray bubbles. The screen shows obvious fingerprints, smudges, and scratches. The glass has strong reflections and a direct light source creating glare. The frame is slightly tilted, handheld shot, natural ambient light, imperfect composition, strong sense of realism, casual everyday snapshot, high detail, 4K. The dialogue is between a boss and an employee: the employee sends a file to the boss, and the boss replies that they will take a look first.
 ```
 
 </details>

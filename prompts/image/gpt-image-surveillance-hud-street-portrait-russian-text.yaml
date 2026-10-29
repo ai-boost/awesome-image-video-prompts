@@ -1,0 +1,25 @@
+id: gpt-image-surveillance-hud-street-portrait-russian-text
+title:
+  en: Street portrait with Russian surveillance HUD overlay
+  zh: 街头人像叠加俄文监控界面
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- hud-overlay
+- surveillance-style
+- street-photography
+- multilingual-text
+- template
+source:
+  name: '@codewithhajra on X'
+  url: https://x.com/codewithhajra/status/2074473336327802940
+  credit: H A J R A
+  likes: 111
+  captured: '2026-10-29'
+  posted: '2026-07-07'
+notes:
+  en: A candid photo from an elevated surveillance angle is combined with a list of specific HUD parts such as a face frame, ID card, scan lines and timestamp. Forcing all overlay text into one language and banning English keeps the labels consistent, and bracketed slots for outfit, place, animal and palette make it a reusable template.
+  zh: 以监控视角的抓拍照为底，再列出人脸框、身份卡、扫描线、时间戳等具体界面元素。要求所有界面文字统一为俄语并禁用英文，保证标签一致，服装、地点、动物和色板用方括号留空，可直接套用。
+prompt: |
+  Cyber-core editorial photography of [your details] wearing [clothing], walking through [location] with [animal]. A realistic candid street photograph captured from a slightly elevated surveillance-style angle, featuring natural movement, stylish everyday fashion, and a calm cinematic atmosphere. Add elegant digital interface elements, including a facial detection frame, object labels, an identity card panel, subtle scan lines, thin HUD boxes, small data text, tracking points, a timestamp, and minimal biometric graphics. Keep the interface clean, refined, and well-spaced. All visible interface text, labels, captions, ID panel content, biometric data, object tags, timestamps, and digital overlay elements must be written entirely in Russian. Do not use any English text anywhere in the image. Use a [color palette] with realistic lighting, polished editorial photography, soft contrast, sharp details, and a sophisticated futuristic design language. Beautiful, minimal, and uncluttered. Aspect ratio: 4:5.

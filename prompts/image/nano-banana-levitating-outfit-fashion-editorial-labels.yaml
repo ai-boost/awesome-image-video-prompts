@@ -1,0 +1,30 @@
+id: nano-banana-levitating-outfit-fashion-editorial-labels
+title:
+  en: Levitating Outfit Editorial With Callout Labels
+  zh: 悬浮服装时装大片与标注框
+model: Nano Banana 2
+mode: text-to-image
+category: poster
+tags:
+- fashion
+- levitation
+- editorial
+- template
+- callout-labels
+source:
+  name: '@AllaAisling on X'
+  url: https://x.com/AllaAisling/status/2034382842084708533
+  credit: Alexandra Aisling
+  likes: 503
+  captured: '2026-10-28'
+  posted: '2026-03-18'
+notes:
+  en: The prompt lists garments in order from footwear up to headwear and gives each fabric its own physics. A fixed label format of uppercase name, italic fabric and one defining detail, plus a three-part light setup of key, warm fill and cool rim, keeps the invisible-body look consistent.
+  zh: 提示词按从鞋到帽的顺序列出单品,并为每种面料指定垂坠物理表现。标签格式固定为大写名称、斜体面料和一个关键细节,再配合主光、暖色补光和冷色轮廓光三段布光,让隐形人体的效果保持稳定。
+prompt: |
+  Prompt Studio: Gravity Fashion Editorial, with Nano Banana 2 in Firefly
+
+  Complete [STYLE] outfit floating in its exact worn position around  an invisible body with every piece suspended mid-breath, mid-billow.  LOOK (bottom to top): [FOOTWEAR] → [BOTTOMS] → [TOP] → [LAYER] →  [ACCESSORIES] → [JEWELLERY] → [HEADWEAR]  FABRIC PHYSICS: each material true to its weight, wool hangs,  silk drapes, denim holds its crease, leather keeps its shape.  Every edge lifting slightly as if caught in one silent gust.  LABELS: hairline leader to floating label box. "[GARMENT]" uppercase / "[FABRIC]" italic / "[ONE DEFINING DETAIL]"  LIGHTING: soft directional from upper left + warm fill from below  catching linings and sole edges + cool rim outlining the silhouette. BACKGROUND: [COLOR] seamless, fashion-forward. TITLE: "[LOOK NAME]" elegant serif type, top right. SUBTITLE: "[MOOD / OCCASION]" italic.  Mood: high-concept levitation editorial, the outfit exists,  the person is imagination. 4K, extraordinary fabric fidelity, tack sharp.
+
+  Check ALTs for ideas 👇
+  @AdobeFirefly

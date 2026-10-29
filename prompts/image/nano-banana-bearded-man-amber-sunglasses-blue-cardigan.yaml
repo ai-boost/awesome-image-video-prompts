@@ -1,0 +1,27 @@
+id: nano-banana-bearded-man-amber-sunglasses-blue-cardigan
+title:
+  en: Bearded man in amber sunglasses and cardigan
+  zh: 戴琥珀色墨镜、穿蓝色针织开衫的胡须男士
+model: Nano Banana 2
+mode: text-to-image
+category: portrait
+tags:
+- portrait
+- sunglasses
+- knitwear
+- street-style
+- cinematic
+source:
+  name: '@rovvmut_ on X'
+  url: https://x.com/rovvmut_/status/2052273526758121636
+  credit: Heisenberg
+  likes: 163
+  captured: '2026-10-28'
+  posted: '2026-05-07'
+notes:
+  en: The prompt lists the face, eyewear, clothing and props in separate sentences, then sets bright natural light and a soft focus blue vehicle backdrop. Naming specific textures and a cool background against warm accents keeps the portrait cinematic.
+  zh: 提示词按脸部、眼镜、服装和道具分句逐项描写，再交代明亮自然光和虚化的蓝色老车背景。点明材质细节，并用冷色背景衬托暖色镜框与肤色，画面更有电影感。
+prompt: |
+  Nano Banana 2 on Gemini.
+
+  Prompt: A stylish, rugged portrait of a man with a relaxed yet sophisticated urban look. He features messy dark hair with natural highlights and a well-maintained, thick beard. He is wearing distinctive vintage-style sunglasses with translucent amber frames and dark, circular lenses that feature a unique metal flip-up bridge mechanism. He is dressed for cool weather in a chunky, blue ribbed-knit cardigan with a thick lapel, worn over a simple white t-shirt. In the foreground, his hand is partially visible, holding a white disposable coffee cup with a matching white lid. The lighting is bright and natural, casting soft shadows that emphasize the texture of his knitwear and facial hair. The background is a soft-focus blue vintage vehicle with horizontal grille lines, creating a cool-toned, cinematic backdrop that makes the warm tones of his sunglasses and skin pop.

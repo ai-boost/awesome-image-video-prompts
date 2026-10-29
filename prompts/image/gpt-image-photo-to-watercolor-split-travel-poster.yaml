@@ -4,7 +4,7 @@ title:
   zh: 旅行照片与水彩重绘上下分屏海报
 model: GPT Image 2.5
 mode: image-edit
-category: poster
+category: photo-to-art
 tags:
 - photo-to-watercolor
 - split-layout

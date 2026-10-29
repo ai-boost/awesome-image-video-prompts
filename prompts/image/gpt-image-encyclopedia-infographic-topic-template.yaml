@@ -1,0 +1,103 @@
+id: gpt-image-encyclopedia-infographic-topic-template
+title:
+  en: Encyclopedia infographic card of the James Webb Telescope
+  zh: 詹姆斯韦伯望远镜百科信息图卡片
+model: GPT Image 2
+mode: text-to-image
+category: infographic
+tags:
+- encyclopedia
+- infographic
+- template
+- knowledge-card
+- editorial-layout
+source:
+  name: '@oggii_0 on X'
+  url: https://x.com/oggii_0/status/2051889025229930547
+  credit: Oogie
+  likes: 1622
+  captured: '2026-10-29'
+  posted: '2026-05-06'
+notes:
+  en: A TOPIC placeholder is filled in by a list of modular panel types such as profile, taxonomy, pros and cons, and rating summary. Explicit style anchors like collectible handbook and natural history guidebook, plus a light background and rounded boxes, keep the layout consistent across a series.
+  zh: 用 TOPIC 占位符加一份模块化面板清单（基础档案、分类、优缺点、评分总结等）。收藏手册和自然史图鉴这类风格锚点，配合浅色背景和圆角框，让整个系列版式统一。
+prompt: |
+  Create educational encyclopedia style images with GPT Image 2 on
+  @itsPolloAI
+
+
+  Prompt: Based on { TOPIC }, create a high-quality vertical “encyclopedia-style educational infographic image.”
+
+  This image should NOT look like a regular poster or a simple illustration. Instead, it should feel like a structured knowledge guide that combines:
+
+  the feeling of a collectible reference handbook
+
+  a modern encyclopedia page
+
+  a lifestyle knowledge card
+
+  and a highly shareable social-media infographic
+
+  The overall style should resemble a premium natural-history guidebook mixed with modern editorial infographic design.
+
+  The image should include:
+
+  One beautiful and highly detailed main subject image
+
+  Several zoomed-in detail sections highlighting important features
+
+  Multiple modular information panels with rounded corners
+
+  Clear title hierarchy and highlighted key labels
+
+  Concise yet information-rich encyclopedia content
+
+  Visual scoring systems, quick summaries, or “Top 5” modules
+
+  The information sections should automatically adapt to the topic. Select and combine relevant categories such as:
+
+  Basic profile
+
+  Classification / taxonomy
+
+  Physical characteristics
+
+  Behavior / ecology / habits
+
+  Structure or formation mechanisms
+
+  Growth conditions or usage methods
+
+  Care, maintenance, or optimization tips
+
+  Risks, warnings, and important notes
+
+  Suitable users or application scenarios
+
+  Pros and cons comparison
+
+  Quick rating tags or summary cards
+
+  Visual requirements:
+
+  Clean light-colored background
+
+  Soft and elegant color palette
+
+  Gentle shadows
+
+  Small refined icons
+
+  Rounded information boxes
+
+  Organized editorial layout
+
+  High information density without feeling crowded
+
+  Comfortable reading experience
+
+  The final result should feel like a real publishable encyclopedia knowledge card designed for reading, collecting, and creating as part of a consistent series — NOT like a commercial advertisement poster.
+
+  The image must strongly emphasize:
+
+  “knowledge integration + modular information design + handbook/reference-style presentation.”

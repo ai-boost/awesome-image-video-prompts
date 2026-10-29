@@ -1,0 +1,25 @@
+id: gpt-image-fisheye-tiny-planet-red-tracksuit-plaza
+title:
+  en: Fisheye tiny planet plaza with leaping woman
+  zh: 鱼眼小星球广场与跃起的红裤女孩
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- fisheye
+- tiny-planet
+- low-angle
+- street-fashion
+- travel-photography
+source:
+  name: '@AvelyrahnAI on X'
+  url: https://x.com/AvelyrahnAI/status/2063816992583487927
+  credit: Avelyrah
+  likes: 177
+  captured: '2026-10-28'
+  posted: '2026-06-08'
+notes:
+  en: An 8mm fisheye lens and a ground level viewpoint are stated up front, and the foot is placed over the camera to exaggerate scale. A tiny planet curve wraps the architecture around the edges while the sky fills the center.
+  zh: 开头就写明8mm鱼眼镜头和贴地视角，并让鞋底压向镜头来夸大纵深。小星球式弯曲把建筑卷到画面边缘，天空占据中心。
+prompt: |
+  Ultra-realistic action photography, extreme fisheye lens (8mm), worm’s-eye view from ground level, dynamic urban plaza scene. A stylish young woman appears to be stepping over the camera, one sneaker sole dominating the foreground, hand reaching toward the lens. She wears oversized red track pants with white side stripes, a fitted white crop top, red-and-white high-top sneakers, and silver headphones. Wind-blown dark hair, natural beauty, confident expression. Massive circular “tiny planet” perspective with historic European architecture curving around the edges of the frame, bright blue sky filled with fluffy white clouds at the center. Cinematic composition, dramatic distortion, ultra-wide angle, vibrant colors, sharp focus, HDR, photorealistic, highly detailed skin texture, travel photography aesthetic, motion energy, depth and scale, 8K resolution, professional DSLR quality, masterpiece, Instagram viral shot.

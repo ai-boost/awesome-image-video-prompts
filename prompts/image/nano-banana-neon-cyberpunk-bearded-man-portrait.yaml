@@ -1,0 +1,29 @@
+id: nano-banana-neon-cyberpunk-bearded-man-portrait
+title:
+  en: Bearded man in pink sunglasses, neon portrait
+  zh: 粉色墨镜络腮胡男子的霓虹肖像
+model: Nano Banana 2
+mode: text-to-image
+category: portrait
+tags:
+- portrait
+- neon
+- cyberpunk
+- studio-lighting
+- sunglasses
+source:
+  name: '@Sheldon056 on X'
+  url: https://x.com/Sheldon056/status/2033335996889379057
+  credit: Duet | AI
+  likes: 117
+  captured: '2026-10-28'
+  posted: '2026-03-16'
+notes:
+  en: Names the subject, expression and wardrobe, then sets teal and magenta lighting to cast bold shadows across the face. A closing style line (cyberpunk-inspired studio photography) fixes the mood, and the reflective lenses add neon detail.
+  zh: 先写明人物、神态和服装，再用青色与洋红色光源在脸上打出强烈明暗。结尾的风格句（赛博朋克风格影棚摄影）定下整体气质，反光镜片则增加了霓虹细节。
+prompt: |
+  Generated with Nano Banana 2 on
+  @yapper_so
+  .
+
+  Prompt: Create a bold, cinematic portrait 8k ultra HD high details resulation of a confident young man a well groomed beard, looking upward with purpose. He wears vibrant pink sunglasses reflecting neon lights, He wears a black t-shirts. Dramatic lighting in teal and magenta casts bold shadows and highlights across his face. Style: edgy, modern, cyberpunk-inspired studio photography.

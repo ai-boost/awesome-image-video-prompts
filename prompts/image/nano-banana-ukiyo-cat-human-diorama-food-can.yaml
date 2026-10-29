@@ -1,0 +1,31 @@
+id: nano-banana-ukiyo-cat-human-diorama-food-can
+title:
+  en: Edo cat people diorama rising from opened tin can
+  zh: 开罐后升起的江户猫人立体微缩景观
+model: Nano Banana 2
+mode: text-to-image
+category: illustration
+tags:
+- ukiyo-e
+- diorama
+- miniature
+- cat
+- tin-can
+source:
+  name: '@KanaWorks_AI on X'
+  url: https://x.com/KanaWorks_AI/status/2072146043551281217
+  credit: KANA｜東京AI映像
+  likes: 62
+  captured: '2026-10-29'
+  posted: '2026-07-01'
+notes:
+  en: The prompt sets up a plain industrial can first, then reveals a miniature diorama rising from it once the lid opens. That before and after framing, together with a named ukiyo-e artist as the style reference, gives a clear object and a coherent scene.
+  zh: 提示词先写出朴素的工业罐头外观，再描述开盖后微缩景观升起的反差，并用具体的浮世绘画家作风格参照，使物体结构清晰、场景统一。
+prompt: |
+  Based on Utagawa Kuniyoshi’s famous ukiyo-e cat-human imagery,
+  this is a creatively designed art food can.
+  At first glance, it appears to be an ordinary, restrained, and industrial food can.
+  But the moment the lid is opened—
+  the whimsical half-cat, half-human figures from Kuniyoshi’s ukiyo-e world
+  slowly rise from inside the can
+  in the form of a miniature diorama landscape.

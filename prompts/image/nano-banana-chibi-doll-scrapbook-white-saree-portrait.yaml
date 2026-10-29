@@ -1,0 +1,26 @@
+id: nano-banana-chibi-doll-scrapbook-white-saree-portrait
+title:
+  en: Chibi doll scrapbook collage portrait in white saree
+  zh: 白色纱丽人像与Q版娃娃手账拼贴
+model: Nano Banana 2
+mode: image-edit
+category: collage
+tags:
+- chibi
+- scrapbook
+- doodle
+- reference-photo
+- portrait-collage
+source:
+  name: '@HaniaAi12 on X'
+  url: https://x.com/HaniaAi12/status/2067928015519269285
+  credit: Hania Ai
+  likes: 124
+  captured: '2026-10-28'
+  posted: '2026-06-19'
+notes:
+  en: Starts with a short style label, then uses a reference photo to anchor a realistic hero portrait. Surrounding it with chibi doll copies of the same subject, doodle hearts, handwritten words and a scrapbook layout makes a layered collage.
+  zh: 开头先用简短风格词定调，再以参考图锁定写实主体人像。周围加入同一人物的Q版娃娃分身、涂鸦爱心、手写文字和手账版式，形成层次丰富的拼贴。
+prompt: |
+  Doodle chibi Art .
+  Use reference photo to create a ultra-realistic cinematic portrait of a beautiful Indian woman in elegant white saree with embroidered blouse, jasmine flowers in long black hair, looking back with sweet smile, warm aesthetic lighting, surrounded by cute 3D chibi doll versions of herself in different poses, white doodle hearts and sparkles, handwritten words, dreamy scrapbook collage style, Disney Pixar inspired, soft glow, cozy feminine vibe, ultra detailed, 8k.

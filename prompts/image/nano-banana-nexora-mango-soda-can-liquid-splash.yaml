@@ -1,0 +1,46 @@
+id: nano-banana-nexora-mango-soda-can-liquid-splash
+title:
+  en: Mango passion fruit soda can with liquid splash
+  zh: 芒果百香果汽水罐与液体飞溅
+model: Nano Banana 2
+mode: text-to-image
+category: product
+tags:
+- beverage
+- product-photography
+- condensation
+- liquid-splash
+- template
+source:
+  name: '@Draymen424 on X'
+  url: https://x.com/Draymen424/status/2082742013892628511
+  credit: Mr Suhail Ai
+  likes: 113
+  captured: '2026-10-28'
+  posted: '2026-07-30'
+notes:
+  en: Fruit, color and liquid texture are exposed as swappable placeholders, so one template covers any flavor. Lighting is listed as discrete luxury campaign sources, and an 85mm macro lens with shallow depth of field keeps the logo and condensation sharp.
+  zh: 水果、颜色和液体质感做成可替换占位符，一套模板可套用任意口味。光线按奢华广告的方式逐项列出，85mm 微距浅景深让标志和冷凝水珠保持锐利。
+prompt: |
+  Ultra-realistic premium beverage commercial featuring a chilled Nexora aluminum can suspended in mid-air inside a futuristic luxury studio. The environment is surrounded by elegant floating crystal panels and soft volumetric light, with a seamless premium gradient backdrop inspired by {argument name="fruit type" default="FRUIT"} colors, blending deep {argument name="color shade" default="COLOR"} tones into soft glowing highlights.
+
+  The matte aluminum can has a sophisticated satin gradient finish inspired by the fruit palette, covered in microscopic condensation droplets with realistic cold texture. The bold flowing "Nexora" logo is embossed with a glossy metallic gradient, accompanied by minimalist premium typography and a subtle metallic authenticity seal.
+
+  Instead of resting on a surface, the can levitates at the center while an elegant spiral ribbon of {argument name="liquid texture" default="TEXTURE"} liquid wraps around it in slow motion. The liquid forms smooth twisting arcs with ultra-realistic viscosity, tiny droplets, and delicate mist particles.
+
+  Fresh [FRUIT] slices, whole fruits, leaves, and tiny juice droplets orbit naturally around the can with cinematic motion. Small sparkling ice crystals float through the air, emphasizing freshness and premium quality.
+
+  Below the floating product, a transparent reflective glass pedestal catches subtle reflections while remaining visually clean. Soft atmospheric particles create depth without distracting from the product.
+
+  Lighting is crafted like a luxury perfume campaign:
+
+  Large softbox key light for silky reflections
+  Warm rim lighting outlining every curve
+  Gentle top spotlight emphasizing condensation
+  Cinematic volumetric glow
+  Soft reflective bounce light from below
+  High-end commercial HDR lighting
+
+  Camera uses an 85mm macro cinema lens, shallow depth of field, eye-level perspective, extremely sharp focus on the logo and condensation, with creamy background bokeh and elegant compression.
+
+  Color grading is luxurious and vibrant, combining premium beverage advertising aesthetics with fashion-brand sophistication.

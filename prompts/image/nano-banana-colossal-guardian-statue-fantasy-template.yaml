@@ -1,0 +1,31 @@
+id: nano-banana-colossal-guardian-statue-fantasy-template
+title:
+  en: Colossal Winged Guardian Statue Over Futuristic City
+  zh: 俯瞰未来都市的巨型有翼守护神雕像
+model: Nano Banana 2
+mode: text-to-image
+category: illustration
+tags:
+- template
+- fantasy
+- statue
+- scale
+- cinematic
+source:
+  name: '@yourPlugAI on X'
+  url: https://x.com/yourPlugAI/status/2068350429243523152
+  credit: Gilbert Odera | Your AI Plug
+  likes: 145
+  captured: '2026-10-28'
+  posted: '2026-06-18'
+notes:
+  en: A bracketed template fixes the subject, material, pedestal text, landscape and lighting as separate slots, so each part can be swapped without breaking the scene. Engraved base text, rim lighting and a distant background layer give the sense of scale.
+  zh: 方括号模板把主体、材质、基座文字、地貌和光线拆成独立槽位，可以单独替换而不破坏画面。基座刻字、轮廓光和远景层次共同营造出宏大的尺度感。
+prompt: |
+  A high-detail, cinematic fantasy photograph of a colossal [MYTHICAL FIGURE/DEITY/GUARDIAN] standing majestically in [EPIC LOCATION]. The gigantic statue is sculpted from [MATERIAL AND TEXTURE], featuring [PHYSICAL FEATURES, POSE, AND ACCESSORIES].
+
+  The monument stands upon an ornate [PEDESTAL TYPE] with the bold engraved text "[TEXT]" clearly visible on the base. The surrounding environment includes [LANDSCAPE ELEMENTS], leading toward [DISTANT BACKGROUND FEATURES].
+
+  The scene is illuminated by [LIGHTING CONDITIONS AND TIME OF DAY], creating dramatic shadows, atmospheric depth, rim lighting, and emphasizing the immense scale of both the sculpture and the environment.
+
+  Ultra-detailed textures, cinematic composition, epic sense of scale, volumetric atmosphere, fantasy realism, masterpiece photography, highly immersive worldbuilding. --ar 1:1

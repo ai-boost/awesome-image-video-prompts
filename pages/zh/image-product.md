@@ -1,6 +1,6 @@
 # 产品图与电商
 
-[返回目录](../../README_zh.md) · 全部 9 条
+[返回目录](../../README_zh.md) · 全部 19 条
 
 <a id="gpt-image-pet-papercraft-cube-template"></a>
 ### 高地牛纸模立方体玩具展开图
@@ -79,6 +79,281 @@ Add clean minimalist text labels with thin pointer lines using these exact label
 “Milk”
 “Glass”
 Ultra-realistic liquid detail, sharp reflections, premium commercial photography, 8K.
+```
+
+</details>
+
+<a id="nano-banana-soda-can-paper-tear-fruit-reveal"></a>
+### 撕开纸面与易拉罐露出新鲜水果的汽水罐
+
+<a href="https://x.com/Arminn_Ai/status/2027470188644626803"><img src="../../previews/nano-banana-soda-can-paper-tear-fruit-reveal.jpg" width="360"></a>
+
+一条连续的撕纸裂口横贯罐身与背景，末端卷成纸卷，裂口里露出密实的水果。方括号槽位覆盖罐型、底色、水果、墨色和品牌名，可以换口味反复套用。
+
+Nano Banana 2 · 文生图 · 出处: [@Arminn_Ai on X](https://x.com/Arminn_Ai/status/2027470188644626803) · 589 赞，统计于 2026-10-28
+
+[`soda-can`](tags.md#tag-soda-can) [`paper-tear`](tags.md#tag-paper-tear) [`fruit`](tags.md#tag-fruit) [`packaging`](tags.md#tag-packaging) [`template`](tags.md#tag-template)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A photorealistic, highly detailed commercial product photograph of a standard aluminum [Type of Soda Can] centered against a minimal, textured [Background Color] paper background, with subtle fibers visible. A single, continuous horizontal paper-tear strip runs across the entire width of the frame, seamless from the far-right edge to the far-left edge. The torn channel cuts through the metal body of the can and continues across the background on both sides with a barely perceptible and minimal diagonal slope towards the upper-left. The tear channel is significantly broader, revealing a dense, glistening, and vibrant layer of [Description of Fruit Segments/Sacs/Berries] tightly packed inside. Near the extreme far-left end of this tear, the paper is neatly rolled into a tight, realistic coil that occupies almost the entire left margin. The can features a newly designed, minimalist branding: the upper portion has a stylized, abstract line-art illustration of [Fruit Branch/Plant] in a contrasting [Ink Color], set against a subtle matte geometric [Pattern Type] pattern on the can surface. Below this, the brand name "[Brand Name]" is printed in an elegant, modern dark typography, with smaller technical text "330ml - NATURAL EXTRACT" and a small "Recyclable" logo. A small, detailed graphic of the fruit is located below the torn path. The lighting is soft and cinematic, casting delicate drop shadows beneath the torn paper edges and the large left coil. 8k resolution, macro details on fibrous paper and glossy fruit texture.
+```
+
+</details>
+
+<a id="nano-banana-radial-exploded-view-smartphone"></a>
+### 智能手机部件的放射状爆炸分解图
+
+<a href="https://x.com/AllaAisling/status/2032126653309030481"><img src="../../previews/nano-banana-radial-exploded-view-smartphone.jpg" width="360"></a>
+
+提示词按由内向外列出部件，并分别描述玻璃、金属、电路板和橡胶的材质。同时固定了标签字体、三种光源以及标题和参数块的位置，替换占位符即可用于其他产品。
+
+Nano Banana 2 · 文生图 · 出处: [@AllaAisling on X](https://x.com/AllaAisling/status/2032126653309030481) · 468 赞，统计于 2026-10-28
+
+[`exploded-view`](tags.md#tag-exploded-view) [`product-teardown`](tags.md#tag-product-teardown) [`3d-render`](tags.md#tag-3d-render) [`infographic-labels`](tags.md#tag-infographic-labels) [`dark-background`](tags.md#tag-dark-background)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Prompt Studio: 3D Radial Explosion with Nano Banana 2 in Firefly
+
+Hyperrealistic 3D radial exploded view of [PRODUCT]  [NUMBER] components  bursting outward from a central axis in every direction, frozen in mid-air.  True spatial explosion, not a vertical stack, depth and parallax visible.  COMPONENTS (core outward): [SHELL] → [DISPLAY] → [FRAME] → [MAINBOARD] →  [BATTERY] → [MICRO PARTS shown in 3x floating callout circles]  MATERIALS: glass refracts and catches specular highlights, aluminium shows  brushed grain and machined edges, PCB traces glow faintly amber,   rubber gaskets matte with micro-texture, cables with soft bend physics.  LABELS: hairline leader to floating box. "[COMPONENT]" uppercase /  "[FUNCTION]" italic / "[KEY SPEC]" monospace. Radiate outward, no overlaps.  LIGHTING: cool diffused overhead + warm amber underlighting on internals +  thin blue rim on outer shell. Displays emit soft UI glow. Circuits self-illuminate.  BACKGROUND: [COLOR], deep, non-reflective. Midnight black recommended. TITLE: "[PRODUCT NAME]" top right. SUBTITLE: "[TAGLINE]".  SPEC BLOCK: "[SPEC 1] / [SPEC 2] / [SPEC 3]" bottom left in monospace.  Mood: iFixit teardown meets NASA manual meets WIRED cover. 4K, tack sharp, extraordinary material fidelity.
+
+Check ALTs for ideas 👇
+@AdobeFirefly
+```
+
+</details>
+
+<a id="nano-banana-uv-unwrapped-albedo-texture-box-device"></a>
+### 硬表面盒状设备的UV展开反照率贴图
+
+<a href="https://x.com/boredmaxx/status/2044862943498809685"><img src="../../previews/nano-banana-uv-unwrapped-albedo-texture-box-device.jpg" width="360"></a>
+
+以渲染好的三维物体作为参考图，要求输出平面UV展开图。用否定约束排除透视、阴影和光照，并固定1:1画布，得到干净的PBR基础色贴图。
+
+Nano Banana 2 · 上传图改图 · 出处: [@boredmaxx on X](https://x.com/boredmaxx/status/2044862943498809685) · 182 赞，统计于 2026-10-29
+
+[`uv-unwrap`](tags.md#tag-uv-unwrap) [`albedo-map`](tags.md#tag-albedo-map) [`pbr-texture`](tags.md#tag-pbr-texture) [`hard-surface`](tags.md#tag-hard-surface) [`reference-image`](tags.md#tag-reference-image)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+or just use Nano Banana 2
+
+prompt: UV unwrapped albedo texture map of a hard surface box device, flat 2D layout only, no 3D rendering, no perspective distortion, no shadows or lighting effects, seamless unwrap filling the entire 1:1 square canvas, high-resolution PBR base color map, macro close-up texture details
+```
+
+</details>
+
+<a id="nano-banana-exploded-view-headphones-diagram"></a>
+### 无线耳机爆炸图结构示意
+
+<a href="https://x.com/Strength04_X/status/2028442638781984986"><img src="../../previews/nano-banana-exploded-view-headphones-diagram.jpg" width="360"></a>
+
+这是一个可替换物体的填空式模板，用爆炸图格式、白色背景和影棚产品光来限定画面。highly detailed internal components 这一句促使模型把内部零件逐一拆开并标注。
+
+Nano Banana 2 · 文生图 · 出处: [@Strength04_X on X](https://x.com/Strength04_X/status/2028442638781984986) · 160 赞，统计于 2026-10-29
+
+[`exploded-view`](tags.md#tag-exploded-view) [`product-design`](tags.md#tag-product-design) [`diagram`](tags.md#tag-diagram) [`white-background`](tags.md#tag-white-background) [`studio-lighting`](tags.md#tag-studio-lighting)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+product design, [object or vehicle with material accents], exploded view diagram, white background, three-dimensional, highly detailed internal components, studio lighting, product photography, best quality
+```
+
+</details>
+
+<a id="nano-banana-luxury-gold-plaque-dessert-cones"></a>
+### 带金色铭牌的奢华巧克力焦糖脆筒
+
+<a href="https://x.com/yourPlugAI/status/2070528605986124079"><img src="../../previews/nano-banana-luxury-gold-plaque-dessert-cones.jpg" width="360"></a>
+
+模板用方括号槽位替换涂层、奶油、配料和配色，固定的金色铭牌、角落淡化签名和灯光组合保持不变。微距美食摄影、金色散景室内背景以及轮廓光加主光，营造出奢侈品广告质感。
+
+Nano Banana 2 · 文生图 · 出处: [@yourPlugAI on X](https://x.com/yourPlugAI/status/2070528605986124079) · 152 赞，统计于 2026-10-28
+
+[`food`](tags.md#tag-food) [`dessert`](tags.md#tag-dessert) [`luxury`](tags.md#tag-luxury) [`template`](tags.md#tag-template) [`macro`](tags.md#tag-macro)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Ultra realistic luxury food advertisement photography of two premium "GILBERTO" dessert cones. Handcrafted waffle cones coated in [COATING MATERIAL AND TEXTURE], overflowing with [PRIMARY CREAM], [MAIN TOPPINGS], [DRIZZLES OR SAUCES], and [ACCENT INGREDIENTS]. Textures are indulgent, luxurious, highly detailed, with realistic moisture, shine, and layered depth.
+
+Add an elegant metallic gold plaque around the center of each cone engraved with the brand name "GILBERTO". Remove all other logos or signatures.
+
+At the bottom left corner place a subtle, semi-transparent gold signature text reading "GILBERTO", softly faded into the scene, elegant and unobtrusive.
+
+Color palette: [PRIMARY COLORS], [ACCENT COLORS], [METALLIC DETAILS].
+
+Background: luxurious [ENVIRONMENT TYPE] with [COLOR TONES], cinematic golden bokeh lights, softly blurred premium interior details, reflective surfaces, sophisticated atmosphere, shallow depth of field.
+
+Lighting: cinematic studio lighting with [LIGHT TEMPERATURE], soft front key light, dramatic rim lighting, subtle backlighting, high-contrast shadows, and rich specular highlights emphasizing the ingredients and coatings.
+
+Composition: centered hero shot, macro food photography, shallow depth of field, premium confectionery advertising campaign, ultra photorealistic textures, luxury magazine quality, hyper detailed, HDR, 8K, masterpiece, aspect ratio 1:1.
+```
+
+</details>
+
+<a id="nano-banana-luxury-watch-macro-contact-sheet"></a>
+### 蓝色表盘奢华腕表微距九宫格
+
+<a href="https://x.com/kellyyjjones/status/2078418060374106127"><img src="../../previews/nano-banana-luxury-watch-macro-contact-sheet.jpg" width="360"></a>
+
+提示词逐一点名蓝宝石镜面、放射纹表盘、透底机芯和摆轮等部件，让每个微距画面都有明确主体。360度环绕、单束金色聚光、黑色背景和水珠等镜头与光线设定，使各画面之间有变化。
+
+Nano Banana 2 · 文生图 · 出处: [@kellyyjjones on X](https://x.com/kellyyjjones/status/2078418060374106127) · 130 赞，统计于 2026-10-29
+
+[`watch`](tags.md#tag-watch) [`macro`](tags.md#tag-macro) [`luxury`](tags.md#tag-luxury) [`product-shot`](tags.md#tag-product-shot) [`cinematic`](tags.md#tag-cinematic)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Ultra-realistic cinematic luxury fashion commercial featuring a confident, well-dressed gentleman wearing an elegant premium luxury wristwatch. He is dressed in a perfectly tailored black suit, crisp white shirt, and silk tie, standing inside a modern luxury penthouse overlooking a breathtaking city skyline at golden hour. The camera begins with an extreme macro close-up of the luxury watch on his wrist, revealing the flawless sapphire crystal, polished stainless-steel case, deep sunburst dial, luminous hands, diamond-cut hour markers, and smooth sweeping second hand. As he adjusts his cuff, the watch catches the warm sunlight, creating beautiful cinematic reflections. The camera slowly circles around his wrist while the intricate mechanical movement is visible through the transparent exhibition case back. Premium leather strap with handcrafted stitching, scratch-resistant finish, exceptional craftsmanship, precision engineering, timeless elegance, luxury lifestyle, confidence, success, sophistication. Soft golden sunlight, volumetric lighting, shallow depth of field, realistic skin textures, premium fashion photography, smooth cinematic camera movement, ARRI Alexa 65 look, 8K HDR, hyper-realistic, luxury advertisement, masterpiece quality, no logos, no text, no watermark.Ultra-realistic cinematic luxury watch commercial,
+ 8-second sequence. The film opens with an extreme macro shot of a premium luxury wristwatch emerging from darkness as a single golden spotlight slowly illuminates every detail. The camera performs a smooth 360° orbit around the watch while the polished stainless-steel case reflects elegant studio lights. The sapphire crystal sparkles with flawless clarity, revealing a deep sunburst dial with diamond-cut hour markers and precision-crafted luminous hands. The sweeping second hand moves perfectly smoothly, emphasizing the high-precision automatic movement. The camera transitions into the transparent exhibition case back, where hundreds of intricate mechanical gears, polished bridges, ruby jewels, and the oscillating balance wheel move in perfect harmony. Slow-motion water droplets glide across the scratch-resistant sapphire crystal and premium metal case, demonstrating exceptional water resistance. Fine leather strap stitching and luxury finishing are revealed through cinematic macro close-ups. Floating golden dust particles, soft volumetric lighting, elegant reflections, dramatic black background, shallow depth of field, premium product cinematography, ARRI Alexa 65 look, 8K HDR, hyper-realistic textures, smooth camera motion, luxury advertisement, timeless elegance, precision engineering, exclusivity, masterpiece quality, no text, no logos, no watermark.
+```
+
+</details>
+
+<a id="nano-banana-honey-jar-wheat-field-macro"></a>
+### 麦田中木凹槽里的高端蜂蜜罐
+
+<a href="https://x.com/Just_sharon7/status/2039694451552272532"><img src="../../previews/nano-banana-honey-jar-wheat-field-macro.jpg" width="360"></a>
+
+用低角度微距、傍晚逆光和 90mm f/2.2 镜头参数，让蜂蜜透光发亮并虚化前景麦穗。常春藤、两只蜜蜂和空气中的花粉增加真实感，标签文字用引号写明。
+
+Nano Banana 2 · 文生图 · 出处: [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2039694451552272532) · 119 赞，统计于 2026-10-29
+
+[`product-shot`](tags.md#tag-product-shot) [`macro`](tags.md#tag-macro) [`honey`](tags.md#tag-honey) [`backlit`](tags.md#tag-backlit) [`organic-brand`](tags.md#tag-organic-brand)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Ultra-realistic cinematic product shot of a premium honey jar placed inside a shallow wooden hollow surrounded by tall wild wheat and tiny yellow meadow flowers, captured from an intimate low-angle macro perspective with slight cinematic depth, transparent glass jar filled with luminous deep golden honey, topped with a satin bronze metallic lid and a narrow cream seal strip crossing vertically over the cap, minimal luxury label reading “HUNSET”, jar lightly touched by thin climbing ivy strands for a refined organic detail, one realistic honeybee hovering near the front glass surface while another rests on a wheat stem behind the jar, environment set in a quiet countryside field during late afternoon, warm sunlight filtering through wheat stalks from behind creating glowing translucency inside the honey and soft halo edges around the jar, foreground with blurred wheat tips and soft natural bokeh, distant background fading into creamy green and amber tones, shallow depth of field with extreme sharpness on jar textures, visible honey thickness, subtle glass reflections, detailed plant fibers and pollen particles in air, cinematic luxury advertising mood, shot on 90mm macro lens, f/2.2, ultra-detailed natural textures, premium organic brand campaign style, 8k resolution, no text, no watermark.
+```
+
+</details>
+
+<a id="nano-banana-nexora-mango-soda-can-liquid-splash"></a>
+### 芒果百香果汽水罐与液体飞溅
+
+<a href="https://x.com/Draymen424/status/2082742013892628511"><img src="../../previews/nano-banana-nexora-mango-soda-can-liquid-splash.jpg" width="360"></a>
+
+水果、颜色和液体质感做成可替换占位符，一套模板可套用任意口味。光线按奢华广告的方式逐项列出，85mm 微距浅景深让标志和冷凝水珠保持锐利。
+
+Nano Banana 2 · 文生图 · 出处: [@Draymen424 on X](https://x.com/Draymen424/status/2082742013892628511) · 113 赞，统计于 2026-10-28
+
+[`beverage`](tags.md#tag-beverage) [`product-photography`](tags.md#tag-product-photography) [`condensation`](tags.md#tag-condensation) [`liquid-splash`](tags.md#tag-liquid-splash) [`template`](tags.md#tag-template)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Ultra-realistic premium beverage commercial featuring a chilled Nexora aluminum can suspended in mid-air inside a futuristic luxury studio. The environment is surrounded by elegant floating crystal panels and soft volumetric light, with a seamless premium gradient backdrop inspired by {argument name="fruit type" default="FRUIT"} colors, blending deep {argument name="color shade" default="COLOR"} tones into soft glowing highlights.
+
+The matte aluminum can has a sophisticated satin gradient finish inspired by the fruit palette, covered in microscopic condensation droplets with realistic cold texture. The bold flowing "Nexora" logo is embossed with a glossy metallic gradient, accompanied by minimalist premium typography and a subtle metallic authenticity seal.
+
+Instead of resting on a surface, the can levitates at the center while an elegant spiral ribbon of {argument name="liquid texture" default="TEXTURE"} liquid wraps around it in slow motion. The liquid forms smooth twisting arcs with ultra-realistic viscosity, tiny droplets, and delicate mist particles.
+
+Fresh [FRUIT] slices, whole fruits, leaves, and tiny juice droplets orbit naturally around the can with cinematic motion. Small sparkling ice crystals float through the air, emphasizing freshness and premium quality.
+
+Below the floating product, a transparent reflective glass pedestal catches subtle reflections while remaining visually clean. Soft atmospheric particles create depth without distracting from the product.
+
+Lighting is crafted like a luxury perfume campaign:
+
+Large softbox key light for silky reflections
+Warm rim lighting outlining every curve
+Gentle top spotlight emphasizing condensation
+Cinematic volumetric glow
+Soft reflective bounce light from below
+High-end commercial HDR lighting
+
+Camera uses an 85mm macro cinema lens, shallow depth of field, eye-level perspective, extremely sharp focus on the logo and condensation, with creamy background bokeh and elegant compression.
+
+Color grading is luxurious and vibrant, combining premium beverage advertising aesthetics with fashion-brand sophistication.
+```
+
+</details>
+
+<a id="nano-banana-face-wash-tube-water-splash-pedestal"></a>
+### 黑色石台上的洗面奶与水花产品图
+
+<a href="https://x.com/Aqib__786Ai/status/2075432044637876431"><img src="../../previews/nano-banana-face-wash-tube-water-splash-pedestal.jpg" width="360"></a>
+
+先列出水花、绿叶、气泡和薄雾等辅助元素来表达清洁与保湿，再写明柔光箱、轮廓光和反射的布光。结尾要求留出大片空白，方便后期加品牌文字。
+
+Nano Banana 2 · 文生图 · 出处: [@Aqib__786Ai on X](https://x.com/Aqib__786Ai/status/2075432044637876431) · 112 赞，统计于 2026-10-28
+
+[`product-photography`](tags.md#tag-product-photography) [`skincare`](tags.md#tag-skincare) [`water-splash`](tags.md#tag-water-splash) [`studio-lighting`](tags.md#tag-studio-lighting) [`negative-space`](tags.md#tag-negative-space)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Refresh Your Skin with Every Wash. made with Nano banana 2 on
+@Lart_AI
+
+
+Try here 👇 👇
+
+https://
+lartai.com/?TG=15347
+
+Model : Nana banana 2
+
+Resolution 1080
+
+Ratio 4:5
+
+Prompht: 1
+
+Create a premium commercial product photography image of a luxury face wash tube standing upright on a polished black stone pedestal.
+
+The product is surrounded by crystal-clear water splashes, fresh green leaves, soft bubbles, and subtle mist to represent deep cleansing and hydration.
+
+Background is a soft blue-to-white gradient with elegant lighting and premium skincare aesthetics.
+
+Professional beauty studio lighting with softbox, rim light, realistic reflections, and natural shadows.
+
+Ultra-realistic packaging, sharp details, glossy finish, luxury skincare advertisement, premium cosmetic photography, photorealistic, HDR, 8K quality.
+
+Minimal composition with plenty of negative space for branding.
+
+Prompt 2:
+
+Create a high-end commercial skincare advertisement featuring a premium face wash tube placed on a natural white marble rock beside flowing crystal-clear water.
+
+Fresh aloe vera leaves, cucumber slices, mint leaves, water droplets, soft foam, and floating botanical elements surround the product.
+
+Golden sunrise light mixed with cool blue ambient lighting creates a luxurious skincare atmosphere.
+
+Background is bright, clean, and premium with soft bokeh, realistic reflections, and subtle mist.
+
+Luxury cosmetic campaign style, ultra-photorealistic, cinematic lighting, premium packaging, extremely detailed textures, HDR, ray tracing, award-winning commercial product photography.
+```
+
+</details>
+
+<a id="nano-banana-strawberry-yogurt-jar-cotton-candy-clouds"></a>
+### 粉色棉花糖云朵中的草莓酸奶玻璃罐
+
+<a href="https://x.com/oggii_0/status/2027789311383621877"><img src="../../previews/nano-banana-strawberry-yogurt-jar-cotton-candy-clouds.jpg" width="360"></a>
+
+提示词先设定超现实的粉蓝天空，再依次交代玻璃罐、标签形状、罐口草莓和云朵位置，层次清楚。柔和漫射日光、对称构图和浅景深但主体清晰的写法，让画面既写实又梦幻。
+
+Nano Banana 2 · 文生图 · 出处: [@oggii_0 on X](https://x.com/oggii_0/status/2027789311383621877) · 103 赞，统计于 2026-10-28
+
+[`product-photography`](tags.md#tag-product-photography) [`pastel`](tags.md#tag-pastel) [`strawberry`](tags.md#tag-strawberry) [`cotton-candy`](tags.md#tag-cotton-candy) [`surreal`](tags.md#tag-surreal)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Nano Banana 2 on
+@SocialSight
+
+
+Prompt: Ultra-realistic dreamy product photography in a surreal pastel sky environment. A transparent plastic jar filled with thick pink strawberry yogurt smoothie sits centered and slightly embedded inside fluffy cotton-candy-like pink clouds, the jar open at the top with creamy surface visible and a fresh whole strawberry resting on the rim. The jar label is a soft white scalloped shape with simple elegant pink brand text and small strawberry illustrations around the container.
+Additional ripe strawberries are placed around the jar partially resting on the clouds. The background is a soft pale blue sky filled with multiple floating pink cotton candy clouds, some clouds containing small strawberries nestled inside them. Lighting is soft diffused daylight creating gentle shadows and glossy highlights on the creamy texture and plastic surface. Clean symmetrical composition, whimsical dessert advertising aesthetic, soft pastel color palette dominated by pink and light blue, shallow depth of field but product fully sharp, highly detailed textures on clouds and fruit, photorealistic 8k quality.
 ```
 
 </details>
@@ -184,32 +459,6 @@ GPT Image 2 · 文生图 · 出处: [@xpg0970 on X](https://x.com/xpg0970/status
 
 </details>
 
-<a id="gpt-image-shampoo-highway-billboard"></a>
-### 日落高速路旁的洗发水广告牌
-
-<a href="https://developers.openai.com/api/docs/guides/image-prompting#refine-an-image-across-turns"><img src="../../previews/gpt-image-shampoo-highway-billboard.jpg" width="360"></a>
-
-把照片里的产品放上广告牌，文案注明逐字照写，并规定字体和只出现一次。预览图为 Sunburst 版本。
-
-GPT Image 2.5 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#refine-an-image-across-turns)
-
-[`billboard`](tags.md#tag-billboard) [`product`](tags.md#tag-product) [`text-render`](tags.md#tag-text-render)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a realistic billboard mockup of the shampoo on a highway scene during sunset.
-Billboard text (EXACT, verbatim, no extra characters):
-"Fresh and clean"
-Typography: bold sans-serif, high contrast, centered, clean kerning.
-Ensure text appears once and is perfectly legible.
-No watermarks, no logos.
-```
-
-</details>
-
-输入素材: [1](https://developers.openai.com/images/platform/guides/image-prompting/shampoo.webp)
-
 <a id="gpt-image-three-reference-amber-shampoo-bottle-ad"></a>
 ### 琥珀色洗发露瓶广告配叶影
 
@@ -226,6 +475,44 @@ GPT Image 2.5 · 上传图改图 · 出处: [@jackzhang123vip on X](https://x.co
 ```text
 Image 1 is the primary reference for the product itself; Image 2 provides only the color, lighting, tonal values, and overall atmosphere; Image 3 provides only the composition, product placement, visual proportions, and negative space structure. Conflict priority: Product authenticity and label accuracy from Image 1 > Layout structure from Image 3 > Color and lighting from Image 2. Create a 1024×1536 vertical commercial product advertisement. Use the exact shampoo bottle from Image 1, placing it fully on the left side of the frame, while reserving a large, clean, and uniform area of ​​negative space for copy on the right, as shown in Image 3. Apply the atmosphere from Image 2—featuring soft warm light entering from the top-left, low-saturation creamy tones, pale apricot hues, and grey-green accents—but do not replicate the objects found in Image 2. Fully preserve the product's shape, proportions, amber glass, ivory-white pump structure, label size and placement, leaf graphic, and the two lines of accurate text ("“山野洗发露”" and "“净含量 300毫升”"). The text must be clear, in the correct order, and appear only on the product label. Do not redesign, recolor, distort, crop, duplicate, or alter the product. Only physically accurate reflections and natural contact shadows may be added to integrate the product into the environment. The product must be fully visible with safe margins around it; no text may be generated on the right side. Do not replicate the spheres, glass cubes, fabric, cylinders, products, text, logos, or branding elements from Image 2 or Image 3.
 Do not add copy, placeholder text, English text, garbled characters, QR codes, watermarks, extra packaging, props, people, or a second product.
+```
+
+</details>
+
+<a id="gpt-image-toy-airplane-collectible-box"></a>
+### 节日限定玩具飞机收藏版包装
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise"><img src="../../previews/gpt-image-toy-airplane-collectible-box.jpg" width="360"></a>
+
+用产品摄影的说法写材质、灯光和标签印刷，要求原创设计，包装文字逐字固定。预览图为 Sunburst 版本。
+
+GPT Image 2.5 · 文生图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise)
+
+[`packaging`](tags.md#tag-packaging) [`product`](tags.md#tag-product) [`toy`](tags.md#tag-toy)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a collectible action figure of a vintage-style toy propeller airplane with rounded wings, a front-mounted spinning propeller, slightly worn paint edges, classic childhood proportions, designed as a nostalgic holiday collectible, in blister packaging.
+
+Concept:
+A nostalgic holiday collectible inspired by the simple toy airplanes
+children used to play with during winter holidays.
+Evokes warmth, imagination, and childhood wonder.
+
+Style:
+Premium toy photography, realistic plastic and painted metal textures,
+studio lighting, shallow depth of field,
+sharp label printing, high-end retail presentation.
+
+Constraints:
+- Original design only
+- No trademarks
+- No watermarks
+- No logos
+
+Include ONLY this packaging text (verbatim):
+"Christmas Memories Edition"
 ```
 
 </details>

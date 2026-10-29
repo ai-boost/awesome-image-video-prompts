@@ -1,0 +1,45 @@
+id: nano-banana-vanilla-ice-cream-recipe-infographic
+title:
+  en: Pastel vanilla ice cream recipe infographic
+  zh: 粉彩香草冰淇淋食谱信息图
+model: Nano Banana 2
+mode: text-to-image
+category: infographic
+tags:
+- infographic
+- recipe
+- dessert
+- pastel
+- social-media
+source:
+  name: '@Strength04_X on X'
+  url: https://x.com/Strength04_X/status/2033184147003633695
+  credit: M-studioAi
+  likes: 160
+  captured: '2026-10-28'
+  posted: '2026-03-13'
+notes:
+  en: The prompt splits the layout into named sections (ingredients, steps, additional info), each with a specific content spec. It also sets a hero visual, a pastel palette and a square output format, so the model arranges every element around the central dessert.
+  zh: 提示词把版面拆成带名称的区块（食材、步骤、附加信息），每块都写明具体内容。同时指定主视觉、粉彩配色和方形输出，让模型围绕中心甜品排布所有元素。
+prompt: |
+  Made with Kling AI + Nano Banana 2 on
+  @hedra_labs
+
+
+  Vanilla ice cream recipe infographic with clean modern design🍨
+
+  Prompt: Ultra-clean modern recipe infographic. Showcase Vanilla Ice Cream Scoops with syrup and toppings in angled perspective.
+
+  Ingredients Section: Icons for milk, cream, sugar, vanilla.
+
+  Steps Section: Mixing base, freezing, scooping shown with numbered panels.
+
+  Additional Info: Calories, prep time, servings displayed in badges.
+
+  Visual Style: Dessert infographic with pastel colors, soft gradients, modern typography.
+
+  Composition Guidelines: Ice cream scoops as hero visual with ingredients and steps around it.
+
+  Lighting & Background: Soft dessert-style lighting with minimal background.
+
+  Output: 1080×1080, ultra-crisp, social-feed optimized, no watermark.

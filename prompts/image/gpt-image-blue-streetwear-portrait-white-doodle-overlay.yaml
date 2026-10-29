@@ -1,0 +1,113 @@
+id: gpt-image-blue-streetwear-portrait-white-doodle-overlay
+title:
+  en: Blue streetwear portrait with white doodle overlays
+  zh: 蓝色街头风人像搭配白色手绘涂鸦
+model: GPT Image 2.5
+mode: image-edit
+category: portrait
+tags:
+- json-prompt
+- face-reference
+- doodle-overlay
+- blue-palette
+- streetwear
+source:
+  name: '@AiwithBloodline on X'
+  url: https://x.com/AiwithBloodline/status/2114366276743352666
+  credit: Dr Bloodline | AI
+  likes: 39
+  captured: '2026-10-29'
+  posted: '2026-10-25'
+notes:
+  en: A JSON prompt splits meta, subject, wardrobe, graphic elements and reconstruction notes, and locks the face to the reference while listing clothing, pose, lighting and background as things not to copy. A blue on blue palette with white line art keeps the photo and vector layers cleanly separated.
+  zh: 提示词用 JSON 分成元信息、主体、服装、图形元素和复原要点，只锁定参考图的面部，并明确列出服装、姿势、光线和背景不要照搬。蓝底蓝衣加白色线稿的配色，让照片层与矢量层分离清晰。
+prompt: |
+  {
+    "meta": {
+      "image_quality": "High",
+      "image_type": "Mixed Media (Photography + Vector Illustration)",
+      "reference_image_usage": "Use the attached image strictly for facial identity matching only. Face shape, beard, glasses, eyes, nose, lips, and hair texture must match exactly. Do not copy clothing, lighting, or background from the reference.",
+      "resolution_estimation": "High resolution, sharp vector edges",
+      "file_characteristics": {
+        "compression_artifacts": "Low",
+        "noise_level": "None",
+        "lens_type_estimation": "Standard portrait look (35–50mm equivalent)"
+      }
+    },
+    "global_context": {
+      "scene_description": "A full-body studio portrait of a young man in a dynamic, confident pose against a solid bright blue background. The image blends realistic photography with white hand-drawn vector doodles and abstract blue liquid shapes, creating a modern street-art editorial look.",
+      "environment_type": "Studio / Graphic Design Composition",
+      "atmosphere": "Energetic, urban, creative, cool",
+      "lighting": {
+        "source": "Artificial studio lighting",
+        "direction": "Front-right dominant",
+        "quality": "Soft and diffused",
+        "color_temperature": "Neutral white"
+      },
+      "color_palette": {
+        "dominant_colors": [
+          "Bright blue background",
+          "Deep blue clothing",
+          "White graphic accents"
+        ],
+        "contrast_level": "High"
+      }
+    },
+    "composition": {
+      "camera_angle": "Low-angle, slightly upward",
+      "framing": "Full body (head to toe)",
+      "depth_of_field": "Deep focus",
+      "focal_point": "Face and upper torso",
+      "balance": "Asymmetrical with graphics filling negative space"
+    },
+    "subject": {
+      "identity_source": "Attached reference image",
+      "gender": "Male",
+      "pose": "Standing with relaxed confidence, body angled slightly right, head tilted slightly left, one hand raised near the face, legs casually crossed",
+      "expression": "Neutral, confident, calm",
+      "face_constraints": {
+        "glasses": "Round black eyeglasses",
+        "facial_hair": "Trimmed beard",
+        "hair": "Short, slightly tousled",
+        "must_match_reference": true
+      }
+    },
+    "wardrobe": {
+      "style": "Monochromatic blue streetwear",
+      "upper_body": "Blue fleece-style jacket worn open",
+      "inner_layer": "Blue t-shirt with large white abstract graphic symbol",
+      "lower_body": "Dark blue denim jeans with visible white contrast stitching and rolled cuffs",
+      "footwear": "Clean white low-top sneakers"
+    },
+    "graphic_elements": {
+      "style": "Hand-drawn white vector doodles",
+      "elements": [
+        "Microphone outline near raised hand",
+        "Boombox line-art floating to the side",
+        "Radiating sound or motion lines around head",
+        "Cracked ground illustration beneath feet"
+      ],
+      "background_graphics": "Abstract blue liquid shapes layered behind the subject"
+    },
+    "background_details": {
+      "color": "Solid bright blue",
+      "texture": "Flat, uniform",
+      "lighting_behavior": "Even, shadow-free background"
+    },
+    "reconstruction_notes": {
+      "mandatory": [
+        "Exact facial identity match from reference image",
+        "Full-body pose",
+        "Blue-on-blue color harmony",
+        "White doodle overlays",
+        "Sharp separation between photo and vector layers"
+      ],
+      "do_not_copy_from_reference": [
+        "Clothing",
+        "Pose",
+        "Lighting",
+        "Background"
+      ],
+      "intended_use": "High-impact editorial image or start frame for image-to-video animation"
+    }
+  }

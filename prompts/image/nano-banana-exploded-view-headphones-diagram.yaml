@@ -1,0 +1,25 @@
+id: nano-banana-exploded-view-headphones-diagram
+title:
+  en: Exploded view diagram of wireless headphones
+  zh: 无线耳机爆炸图结构示意
+model: Nano Banana 2
+mode: text-to-image
+category: product
+tags:
+- exploded-view
+- product-design
+- diagram
+- white-background
+- studio-lighting
+source:
+  name: '@Strength04_X on X'
+  url: https://x.com/Strength04_X/status/2028442638781984986
+  credit: M-studioAi
+  likes: 160
+  captured: '2026-10-29'
+  posted: '2026-03-01'
+notes:
+  en: A fill in the blank template that names the exploded view diagram format, a white background and studio product lighting. The phrase highly detailed internal components makes the model separate and label each part.
+  zh: 这是一个可替换物体的填空式模板，用爆炸图格式、白色背景和影棚产品光来限定画面。highly detailed internal components 这一句促使模型把内部零件逐一拆开并标注。
+prompt: |
+  product design, [object or vehicle with material accents], exploded view diagram, white background, three-dimensional, highly detailed internal components, studio lighting, product photography, best quality

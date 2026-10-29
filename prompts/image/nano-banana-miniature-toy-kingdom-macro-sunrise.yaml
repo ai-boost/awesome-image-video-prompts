@@ -1,0 +1,28 @@
+id: nano-banana-miniature-toy-kingdom-macro-sunrise
+title:
+  en: Miniature toy kingdom with trains, waterfalls and airship
+  zh: 有火车、瀑布和飞艇的微缩玩具王国
+model: Nano Banana 2
+mode: text-to-image
+category: realism
+tags:
+- miniature
+- toy-world
+- macro
+- golden-light
+- fantasy
+source:
+  name: '@kellyyjjones on X'
+  url: https://x.com/kellyyjjones/status/2076163025464348955
+  credit: Kelly Jones
+  likes: 82
+  captured: '2026-10-29'
+  posted: '2026-07-12'
+notes:
+  en: The prompt lists concrete scene elements (market streets, trains, bridges, waterfalls) and material textures such as plastic, wood, fabric and metal. It then fixes a macro lens, extreme shallow depth of field and golden sunrise volumetric light so the toys read as real. A second paragraph adds a giant human observer for scale.
+  zh: 提示词先列出具体场景元素（集市街道、火车、桥、瀑布）和塑料、木头、布料、金属的材质，再用微距镜头、极浅景深和金色日出体积光，让玩具世界显得真实。第二段加入俯视的巨人观察者来强调尺度对比。
+prompt: |
+  A breathtaking ultra-realistic miniature toy universe where every living toy has its own thriving civilization. Tiny colorful cities filled with beautifully crafted toy houses, bustling streets, miniature trains, toy cars, bicycles, and tiny marketplaces full of life. Little toy people laugh, work, and explore while mechanical birds fly overhead and tiny airships drift across the sky. Enormous toy trees tower above the landscape, surrounded by crystal-clear rivers, glowing waterfalls, magical bridges, miniature mountains, and lush forests. Every surface reveals realistic plastic, wood, fabric, and metal textures with intricate craftsmanship. Warm golden sunrise light bathes the world in soft cinematic rays, creating volumetric lighting, gentle lens flares, and dreamy atmospheric fog. Captured in macro photography with an extreme shallow depth of field, making the tiny world feel astonishingly real. Pixar-inspired wonder blended with Hollywood fantasy, ultra-photorealistic, hyper-detailed, Unreal Engine 5 quality, global illumination, ray tracing, HDR, 8K, masterpiece, award-winning cinematic concept art.
+
+  A breathtaking ultra-realistic cinematic scene of a giant human standing above a magical toy universe, carefully observing the tiny toy world below. The man looks amazed and curious as he watches miniature toy cities, toy people, tiny vehicles, colorful houses, and a fantasy toy kingdom built like a living world. Massive scale difference between the human and the miniature world, macro photography perspective, cinematic lighting, warm golden sunlight, realistic textures, shallow depth of field, fantasy atmosphere, ultra detailed, 8K, masterpiece quality.
+  Is koo b improve karoo

@@ -1,0 +1,25 @@
+id: gpt-image-terrestrial-life-educational-infographic-template
+title:
+  en: Terrestrial Life educational infographic template with labeled anatomy
+  zh: 带解剖标注的陆地生命科普信息图模板
+model: GPT Image 2.5
+mode: text-to-image
+category: infographic
+tags:
+- infographic
+- educational
+- template
+- anatomy
+- scientific
+source:
+  name: '@iamsofiaijaz on X'
+  url: https://x.com/iamsofiaijaz/status/2113870479987753371
+  credit: Aijaz
+  likes: 140
+  captured: '2026-10-28'
+  posted: '2026-10-24'
+notes:
+  en: 'A reusable [Subject] slot sits inside a fixed layout: a central 3D illustration with pointer line labels, then named data modules such as Quick Profile, Size Comparison and Conservation Status. Quoted module titles and a four-cell macro close-up column make the model render consistent, legible text on a beige palette.'
+  zh: 用可替换的 [Subject] 占位符配合固定版式：中央3D插图加引线标注，再逐一点名各个数据模块，如快速档案、大小对比和保护状态。模块标题和四格微距特写栏写得具体，让模型在米色底上稳定输出清晰的文字。
+prompt: |
+  A professional educational infographic for a [Subject], designed in a modern "Terrestrial Life" series style. The layout features a large, realistic 3D central illustration of the [Subject] with anatomical labels like "Compound Eyes," "Thorax," and "Abdomen" using thin pointer lines. The color palette is clean with soft beige and muted tones. The composition includes multiple data modules: a "Quick Profile" sidebar, a "Top 5 Amazing Facts" list, a "Size Comparison" chart against a human silhouette, and a "Knowledge Score" star rating system. Include a "Detail Focus" section on the right with four square macro-photography close-ups of life stages or specific features. The bottom features "Habitat" and "Diet" icons, a "Conservation Status" slider, and a small "Did You Know?" footer. High resolution, crisp typography, clean vector lines, and a professional scientific journal aesthetic.

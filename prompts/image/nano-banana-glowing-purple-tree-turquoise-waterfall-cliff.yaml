@@ -1,0 +1,25 @@
+id: nano-banana-glowing-purple-tree-turquoise-waterfall-cliff
+title:
+  en: Purple glowing tree beside turquoise waterfall at sunset
+  zh: 黄昏悬崖边的紫色发光树与青绿瀑布
+model: Nano Banana 2
+mode: text-to-image
+category: illustration
+tags:
+- landscape
+- fantasy
+- pastel
+- sunset
+- vertical
+source:
+  name: '@churvikv on X'
+  url: https://x.com/churvikv/status/2090858753583169966
+  credit: Viki
+  likes: 173
+  captured: '2026-10-29'
+  posted: '2026-08-21'
+notes:
+  en: The prompt names a single focal tree, a lone small figure for scale, and one luminous accent stream. A restrained pastel palette keeps the scene cohesive. Setting the mood with words like serene and mystical gives the soft gradients.
+  zh: 提示词只设一个视觉主体大树，用渺小人物衬托尺度，再加一道发光的青绿水流作点缀。统一的柔和粉彩色调保持画面和谐，宁静神秘的情绪词带出柔和渐变。
+prompt: |
+  A surreal landscape featuring a lone figure standing beneath a large tree with glowing purple leaves on a cliff edge, overlooking a distant mountain at sunset. A stream of luminous turquoise water flows down the cliff, emitting magical sparkles. The scene is bathed in soft pastel colors, creating a tranquil and mystical atmosphere.

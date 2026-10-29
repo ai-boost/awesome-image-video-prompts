@@ -1,0 +1,30 @@
+id: nano-banana-floor-plan-rising-miniature-diner
+title:
+  en: Diner Rising Out of Architectural Floor Plan
+  zh: 从建筑平面图中升起的复古餐厅微缩场景
+model: Nano Banana 2
+mode: text-to-image
+category: architecture
+tags:
+- floor-plan
+- miniature
+- architecture
+- template
+- blueprint
+source:
+  name: '@AllaAisling on X'
+  url: https://x.com/AllaAisling/status/2029242137397678368
+  credit: Alexandra Aisling
+  likes: 547
+  captured: '2026-10-28'
+  posted: '2026-03-04'
+notes:
+  en: A fill in template names the plan on a drafting table, then states that walls are both lines and partitions so the drawing and the miniature merge. Slot variables for rooms, furniture and lighting plus a list of drafting tools keep the scene specific and reusable.
+  zh: 模板先设定画在绘图桌上的平面图，再声明墙体既是线条也是实体隔断，让图纸与微缩场景融为一体。房间、家具、光线等占位变量加上绘图工具清单，让画面既具体又可复用。
+prompt: |
+  Prompt Studio: Architectural Floor Plan with Nano Banana 2 in Firefly
+
+  An architectural floor plan of {BUILDING_TYPE} spread across a drafting table, with the spaces rising into inhabitable miniature. {ROOM_1} emerges with {FURNITURE_1} and {ACTIVITY_1} in progress, {ROOM_2} rises with {DESIGN_ELEMENT} and {HUMAN_MOMENT}, {ROOM_3} pushes up with {DETAIL_1} and {LIGHTING_1}. Walls exist as both lines and actual partitions simultaneously. Sight lines marked on the plan become actual views between spaces. The mechanical systems in the plan, HVAC, plumbing, electrical, pulse with invisible function. Human circulation patterns appear as ghosted movement trails. Architectural scale figures become actual tiny inhabitants living their tiny lives. Section cuts reveal vertical relationships. The architect's tools surround: scales, pencils, trace paper. Golden design studio light, the plan as promise and proof, 8K, architecture as life container.
+
+  Check ALTs for ideas 👇
+  @AdobeFirefly

@@ -1,0 +1,25 @@
+id: nano-banana-korean-four-cut-photo-booth-strip
+title:
+  en: Korean four cut photo booth strip, pastel border
+  zh: 韩式四格大头贴照片条，粉彩边框
+model: Nano Banana 2
+mode: image-edit
+category: collage
+tags:
+- photo-booth
+- korean-style
+- four-cut
+- pastel
+- selfie
+source:
+  name: '@AiwithLariab on X'
+  url: https://x.com/AiwithLariab/status/2050792903136735610
+  credit: Laraib Fatima‎
+  likes: 110
+  captured: '2026-10-28'
+  posted: '2026-05-03'
+notes:
+  en: Specifies the layout (four vertically stacked frames), the booth filter effects (brightened skin, aegyo sal, soft blush), and border colours with icon types. A date stamp, a style reference to real booth brands, and a face accuracy instruction keep the result consistent with the source photo.
+  zh: 提示词写明版式（四格竖排）、滤镜效果（提亮肤色、卧蚕、淡粉腮红）以及边框配色和图标类型。再加上日期戳、真实拍照机品牌的风格参照和保持五官准确的要求，让结果与原照片保持一致。
+prompt: |
+  Transform this photo into a Korean selca zone 4-cut photo strip. Create 4 vertically stacked frames with the same person in slightly different cute poses. Apply the classic Korean photo booth filter: brightened skin, subtle aegyo-sal enhancement, soft pink blush. Add a pastel mint and pink border with small decorative icons (bears, hearts, clouds). Include a date stamp '2026.03.8' at the bottom. The aesthetic should match modern Korean 4-cut photo booths like Photoism or Haru Film. Keep facial features accurate.

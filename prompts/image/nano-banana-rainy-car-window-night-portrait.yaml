@@ -1,0 +1,27 @@
+id: nano-banana-rainy-car-window-night-portrait
+title:
+  en: Cinematic Night Portrait Through Rainy Car Window
+  zh: 雨夜车窗外拍的电影感人像
+model: Nano Banana 2
+mode: image-edit
+category: portrait
+tags:
+- cinematic
+- rain
+- night
+- portrait
+- bokeh
+source:
+  name: '@NikhilRajX on X'
+  url: https://x.com/NikhilRajX/status/2035707444777865469
+  credit: Nikhil
+  likes: 155
+  captured: '2026-10-28'
+  posted: '2026-03-22'
+notes:
+  en: The camera is placed outside the car so the wet glass sits between lens and subject, and raindrops, neon reflections and red, blue and yellow bokeh are all named. Shallow depth of field and low ambient lighting on the face give the film still mood, while the uploaded face reference keeps the identity.
+  zh: 把机位放在车外,让湿玻璃隔在镜头和人物之间,并明确写出雨滴、霓虹倒影和红蓝黄色虚化光斑。浅景深加低环境光打在脸上形成电影剧照氛围,上传的人脸图用来保持身份一致。
+prompt: |
+  Nano Banana 2 on Google Gemini
+
+  Prompt: Create a highly cinematic and realistic photo of a person using the face from the uploaded image. The person is sitting inside a car at night, looking out through a rain-covered window. The camera is positioned outside the car, capturing the person through the wet glass. Raindrops and streaks of water are clearly visible on the window, with reflections of city lights, neon signs, and passing cars blending into the glass. The person’s face is softly lit by ambient street lights and subtle interior car lighting, creating a moody and emotional expression. The background outside is blurred with colorful bokeh lights (red, blue, yellow), giving a deep cinematic feel. The person is wearing a modern outfit like a hoodie or jacket. The mood feels introspective and film-like. Ultra realistic photography, shallow depth of field, dramatic lighting, reflections, rain texture, Hollywood movie scene composition, high detail.

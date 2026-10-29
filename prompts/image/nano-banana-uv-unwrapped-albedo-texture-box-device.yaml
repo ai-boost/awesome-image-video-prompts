@@ -1,0 +1,27 @@
+id: nano-banana-uv-unwrapped-albedo-texture-box-device
+title:
+  en: UV unwrapped albedo texture map of a device
+  zh: 硬表面盒状设备的UV展开反照率贴图
+model: Nano Banana 2
+mode: image-edit
+category: product
+tags:
+- uv-unwrap
+- albedo-map
+- pbr-texture
+- hard-surface
+- reference-image
+source:
+  name: '@boredmaxx on X'
+  url: https://x.com/boredmaxx/status/2044862943498809685
+  credit: Boring Always Bored
+  likes: 182
+  captured: '2026-10-29'
+  posted: '2026-04-16'
+notes:
+  en: Give the model a rendered 3D object as the reference, then ask for a flat UV unwrap. Negative constraints (no perspective, no shadows or lighting) and a fixed 1:1 canvas keep the output a clean PBR base color map.
+  zh: 以渲染好的三维物体作为参考图，要求输出平面UV展开图。用否定约束排除透视、阴影和光照，并固定1:1画布，得到干净的PBR基础色贴图。
+prompt: |
+  or just use Nano Banana 2
+
+  prompt: UV unwrapped albedo texture map of a hard surface box device, flat 2D layout only, no 3D rendering, no perspective distortion, no shadows or lighting effects, seamless unwrap filling the entire 1:1 square canvas, high-resolution PBR base color map, macro close-up texture details

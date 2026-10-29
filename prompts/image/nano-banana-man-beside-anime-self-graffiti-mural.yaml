@@ -1,0 +1,27 @@
+id: nano-banana-man-beside-anime-self-graffiti-mural
+title:
+  en: Man before graffiti mural of his anime self
+  zh: 男子站在自己动漫形象的涂鸦墙前
+model: Nano Banana 2
+mode: text-to-image
+category: portrait
+tags:
+- graffiti
+- anime-mural
+- mixed-style
+- street-art
+- portrait
+source:
+  name: '@Minahil42298354 on X'
+  url: https://x.com/Minahil42298354/status/2032956520057414135
+  credit: Minahil
+  likes: 70
+  captured: '2026-10-29'
+  posted: '2026-03-14'
+notes:
+  en: A realistic foreground subject is paired with a mural of the same person in cel shaded manga style, so the realistic and anime renderings sit in one frame. Naming the mural palette, katakana text and tag lettering, plus a gritty alley floor, keeps the wall vivid and the foreground photographic.
+  zh: 写实前景人物与同一人物的赛璐璐漫画风壁画同框，形成真人与动漫的对照。提示词点明壁画配色、片假名文字和涂鸦签名，再用脏旧的小巷地面收住前景，让墙面鲜艳而前景保持照片质感。
+prompt: |
+  A medium shot of a real-life man with short dark hair and a beard, wearing a black hoodie, standing in a pensive pose with his fingers to his temple. He is positioned in front of a massive, vibrant graffiti mural on a concrete wall. The mural depicts an anime-style version of the same man in a dynamic action pose, holding a spray paint can. The art style is bold cel-shaded manga with thick outlines, featuring Japanese katakana text, bright orange and purple splashes, and "
+  http://
+  YAPPER.SO" tags. Hyper-realistic foreground, gritty urban alleyway floor with scattered paint cans.

@@ -1,0 +1,29 @@
+id: nano-banana-golden-hour-coastal-portrait-pair
+title:
+  en: Golden hour coastal portrait of a man
+  zh: 海岸金色时刻的男性特写肖像
+model: Nano Banana 2.1
+mode: text-to-image
+category: portrait
+tags:
+- golden-hour
+- portrait
+- film-still
+- backlight
+- photoreal
+source:
+  name: '@ozansihay on X'
+  url: https://x.com/ozansihay/status/2107565033186083128
+  credit: Ozan Sihay
+  likes: 68
+  captured: '2026-10-28'
+  posted: '2026-10-06'
+notes:
+  en: A matched pair of prompts reuses identical framing, light direction and background wording so the man and woman portraits stay consistent. Exact face fill, eye placement, 85mm f/1.4 lens and backlight versus sky fill details keep the film still look.
+  zh: 一对提示词沿用完全相同的构图、光线方向和背景描述，让男女肖像保持一致。脸部占比、眼睛位置、85mm f/1.4 镜头以及逆光加天空补光的细节，营造出电影剧照质感。
+prompt: |
+  Woman
+  Cinematic outdoor close-up at golden hour of a beautiful woman in her late 20s with Mediterranean features, warm olive skin, dark brown eyes catching the low sun, soft freckles, natural slightly parted lips, loose dark wavy hair lifted by a light breeze across her right cheek. Head-and-shoulders, face filling about 60% of the frame, eyes on the upper third, body turned three-quarter toward camera-left while she looks just past the lens. Real sunset backlight from behind-right wrapping her hair in warm rim glow, soft open-shade fill on the face from the sky, long gentle shadows. Background: softly blurred coastal landscape with amber sky, distant hills and a hint of sea sparkle, empty of people and props. Shot like an arthouse film still on 85mm f/1.4, creamy bokeh, fine film grain, natural skin texture, warm gold highlights against cool blue shadow pockets, photoreal, no flash look, no plastic skin, no text.
+
+  Man
+  Cinematic outdoor close-up at golden hour of a handsome man in his early 30s, strong jaw under short dark stubble, hazel eyes catching the low sun, messy black hair with a few wind-blown strands on the forehead, natural lips slightly closed. Identical framing to the female portrait: head-and-shoulders, face filling about 60% of the frame, eyes on the upper third, body turned three-quarter toward camera-left while he looks just past the lens. Real sunset backlight from behind-right wrapping his hair and shoulders in warm rim glow, soft open-shade fill on the face from the sky, long gentle shadows. Background: the same softly blurred coastal landscape with amber sky, distant hills and a hint of sea sparkle, empty of people and props. Shot like an arthouse film still on 85mm f/1.4, creamy bokeh, fine film grain, visible pores and microtexture, warm gold highlights against cool blue shadow pockets, photoreal, no flash look, no plastic skin, no text.

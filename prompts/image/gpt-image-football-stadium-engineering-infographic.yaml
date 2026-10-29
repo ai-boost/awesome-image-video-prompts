@@ -1,0 +1,112 @@
+id: gpt-image-football-stadium-engineering-infographic
+title:
+  en: Futuristic football stadium engineering handbook infographic
+  zh: 未来感足球场工程手册信息图
+model: GPT Image 2
+mode: text-to-image
+category: infographic
+tags:
+- infographic
+- stadium
+- architecture
+- sports
+- template
+source:
+  name: '@j_smeaton99 on X'
+  url: https://x.com/j_smeaton99/status/2056209800627974490
+  credit: Jack
+  likes: 246
+  captured: '2026-10-29'
+  posted: '2026-05-18'
+notes:
+  en: A fixed square layout names a central aerial nighttime render, then lists ten callout topics and seventeen modular sections so the model fills a dense card grid. Style keywords and an Avoid list keep it editorial and encyclopedic instead of advertising.
+  zh: 提示词先固定正方形构图和夜间航拍主体，再列出十项标注主题和十七个模块化版块，让模型铺满高密度卡片网格。风格关键词与避免清单把画面稳定在百科式编辑风格，避开广告感。
+prompt: |
+  Create a premium square “reference-style sports architecture infographic” centered around a futuristic modern football stadium called the {STADIUM_NAME}, designed as a beautifully curated stadium-engineering handbook page rather than a sports advertisement poster.
+
+  The composition should feel like a modern visual encyclopedia mixed with an elite stadium-design field guide and high-end editorial infographic system.
+
+  Visual Direction:
+
+  • 1:1 square composition
+  • Dark premium architectural-tech background with subtle blueprint textures, stadium schematics, and cinematic city-light overlays
+  • Elegant palette using deep navy, matte black, steel blue, titanium silver, and glowing electric-blue accents
+  • Refined editorial typography hierarchy with modern sports-engineering aesthetics
+  • Rounded modular information cards with clean spacing
+  • Gentle realistic reflections and premium HUD-style dividers
+  • Minimal sports infrastructure iconography
+  • Extremely detailed central stadium render viewed in dramatic aerial three-quarter perspective during nighttime match lighting
+  • Thin precision annotation lines pointing toward structural systems and smart-stadium technologies
+  • Clean, organized “knowledge-first” layout with high information density but breathable spacing
+
+  Main Subject Presentation:
+
+  A stunning ultra-detailed realistic render of the {STADIUM_NAME} placed at the center, featuring illuminated seating bowls, glowing LED façade lighting, retractable roof systems, realistic crowd ambience, premium landscaping, advanced pitch engineering, and world-class architectural realism.
+
+  Surround the stadium with scientific and engineering callouts explaining:
+
+  • retractable roof technology
+  • LED lighting systems
+  • seating bowl acoustics
+  • pitch and drainage engineering
+  • structural steel framework
+  • crowd management systems
+  • smart surveillance & security
+  • sustainability systems
+  • transport and accessibility integration
+  • digital fan-experience technology
+
+  Include modular infographic sections such as:
+
+  • Stadium Overview
+  • Technical Specifications
+  • Dimensions & Blueprint Views
+  • Seating Capacity & Bowl Design
+  • Pitch Engineering System
+  • Structural & Roof Technology
+  • Smart Stadium Infrastructure
+  • Fan Experience & Hospitality
+  • Security & Safety Systems
+  • Sustainability Features
+  • Transportation & Access Planning
+  • Acoustics & Audio Systems
+  • Matchday Operations Workflow
+  • Multi-Event Capability
+  • Construction Timeline
+  • “Top 5 Innovations” section
+  • Built for Legacy & Future Expansion
+
+  Add small premium visualization modules like:
+
+  • stadium blueprint diagrams
+  • seating-distribution graphics
+  • roof-opening mechanism visuals
+  • sustainability performance charts
+  • crowd-flow maps
+  • transport integration diagrams
+  • smart surveillance graphics
+  • pitch-layer cutaway illustrations
+  • acoustics waveform displays
+  • aerial site-plan schematics
+
+  Style Keywords:
+
+  “premium stadium architecture encyclopedia”
+  “editorial sports infrastructure handbook”
+  “high-end football stadium infographic”
+  “scientific sports architecture poster”
+  “museum-quality stadium reference page”
+  “modular sports-engineering knowledge system”
+  “clean architectural editorial design”
+  “ultra-detailed stadium visualization”
+
+  Avoid:
+
+  • generic sports advertisements
+  • cartoon football aesthetics
+  • cluttered sponsor-heavy layouts
+  • unrealistic sci-fi fantasy stadiums
+  • excessive neon cyberpunk overload
+  • chaotic crowd-focused compositions
+
+  The final result should resemble a professionally published sports-architecture reference-book page created for architects, engineers, football fans, stadium planners, designers, and educational infrastructure archives.

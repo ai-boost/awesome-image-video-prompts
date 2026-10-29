@@ -1,6 +1,6 @@
 # 照片编辑
 
-[返回目录](../../README_zh.md) · 全部 22 条
+[返回目录](../../README_zh.md) · 全部 25 条
 
 <a id="gpt-image-selfie-chibi-sticker-doodle-edit"></a>
 ### 电梯镜面自拍加Q版贴纸涂鸦
@@ -21,207 +21,175 @@ Edit this photo into a cute Pinterest/Xiaohongshu-style doodle aesthetic edit wh
 
 </details>
 
-<a id="nano-banana-json-reconstruction"></a>
-### 逐项复刻一张照片的 JSON 提示词
+<a id="nano-banana-old-photo-dslr-restoration"></a>
+### 模糊的老照片幼儿像修复成单反画质
 
-<a href="https://x.com/ViralOps_/status/2107538470818484305"><img src="../../previews/nano-banana-json-reconstruction.jpg" width="360"></a>
+<a href="https://x.com/Naiknelofar788/status/2030574333853069387"><img src="../../previews/nano-banana-old-photo-dslr-restoration.jpg" width="360"></a>
 
-按 JSON 字段写（构图、光线、色彩、负面词）。原帖用同一段 JSON 对比了 Nano Banana 2.1 和 GPT Image 2.5。
+用具体的相机型号佳能 EOS R6 II 作为画质目标，给模型明确的色彩、细节与放大参照。同时要求保留准确的面部特征并保持自然，避免修复时改变人物。
 
-Nano Banana 2.1 · 上传图改图 · 出处: [@ViralOps_ on X](https://x.com/ViralOps_/status/2107538470818484305) · 326 赞，统计于 2026-10-27
+Nano Banana 2 · 上传图改图 · 出处: [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2030574333853069387) · 987 赞，统计于 2026-10-28
 
-[`json`](tags.md#tag-json) [`reconstruction`](tags.md#tag-reconstruction) [`comparison`](tags.md#tag-comparison)
+[`photo-restoration`](tags.md#tag-photo-restoration) [`upscale`](tags.md#tag-upscale) [`old-photo`](tags.md#tag-old-photo) [`portrait`](tags.md#tag-portrait) [`camera-reference`](tags.md#tag-camera-reference)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Restore this old photo into portrait of DLSR - quality colour and detail, using an advanced upscaling algorithm comparable to the results from canon EOS R6 II. Ensure the restored the image looks natural, retains exact facial features, has great clarity"
+```
+
+</details>
+
+<a id="nano-banana-damaged-photo-restoration-portrait"></a>
+### 破损老照片修复为现代人像
+
+<a href="https://x.com/doctorwasif/status/2030566053286457783"><img src="../../previews/nano-banana-damaged-photo-restoration-portrait.jpg" width="360"></a>
+
+正向提示词锁定身份、五官结构和构图，再用负面清单排除风格改变和塑料皮肤，让修复忠于原照片。最后用电影摄影机和调色关键词提升为现代照片质感。
+
+Nano Banana 2 · 上传图改图 · 出处: [@doctorwasif on X](https://x.com/doctorwasif/status/2030566053286457783) · 552 赞，统计于 2026-10-28
+
+[`photo-restoration`](tags.md#tag-photo-restoration) [`old-photo`](tags.md#tag-old-photo) [`portrait`](tags.md#tag-portrait) [`upscale`](tags.md#tag-upscale) [`json-prompt`](tags.md#tag-json-prompt)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+{ "task": "image_restoration_upscale", "positive_prompt":
+"Restore and enhance the provided image. Preserve original identity, facial structure, proportions and composition. High-fidelity photo restoration, ultra-realistic, natural skin texture, accurate details, professional photographic look. 4K output, sharp but natural focus, modern cinematic lighting, subtle volumetric lighting, professional color grading, depth of field, HDR. Shot on Arri Alexa, raw photo aesthetic, masterpiece.",
+"negative_prompt": "Creative reinterpretation, style change, identity alteration, face reshaping, exaggerated features, cartoonish, painting, illustration, over-sharpening, plastic skin, blur, noise, film grain, jpeg artifacts, distortion, bad anatomy, overexposed, underexposed, washed out colors.", "parameters":
+{ "steps": 30, "cfg_scale": 6.5, "denoising_strength": 0.45,
+"upscaler": "4x_NMKD_Siax_200k", "target_resolution": "4K" } }
+```
+
+</details>
+
+<a id="nano-banana-damaged-vintage-photo-restoration-upscale"></a>
+### 开裂的老照片修复为清晰4K人像
+
+<a href="https://x.com/doctorwasif/status/2048998423471481059"><img src="../../previews/nano-banana-damaged-vintage-photo-restoration-upscale.jpg" width="360"></a>
+
+用JSON把任务、正向提示、负向提示和参数分开，正向提示开头先锁定身份、比例和构图。负向词禁止改风格、塑料皮肤和过度锐化，较低的降噪强度让结果忠实于原图。
+
+Nano Banana 2 · 上传图改图 · 出处: [@doctorwasif on X](https://x.com/doctorwasif/status/2048998423471481059) · 297 赞，统计于 2026-10-28
+
+[`photo-restoration`](tags.md#tag-photo-restoration) [`upscale`](tags.md#tag-upscale) [`json-prompt`](tags.md#tag-json-prompt) [`vintage-photo`](tags.md#tag-vintage-photo) [`negative-prompt`](tags.md#tag-negative-prompt)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+{ "task": "image_restoration_upscale", "positive_prompt":
+"Restore and enhance the provided image. Preserve original identity, facial structure, proportions and composition. High-fidelity photo restoration, ultra-realistic, natural skin texture, accurate details, professional photographic look. 4K output, sharp but natural focus, modern cinematic lighting, subtle volumetric lighting, professional color grading, depth of field, HDR. Shot on Arri Alexa, raw photo aesthetic, masterpiece.",
+"negative_prompt": "Creative reinterpretation, style change, identity alteration, face reshaping, exaggerated features, cartoonish, painting, illustration, over-sharpening, plastic skin, blur, noise, film grain, jpeg artifacts, distortion, bad anatomy, overexposed, underexposed, washed out colors.", "parameters":
+{ "steps": 30, "cfg_scale": 6.5, "denoising_strength": 0.45,
+"upscaler": "4x_NMKD_Siax_200k", "target_resolution": "4K" } }
+```
+
+</details>
+
+<a id="nano-banana-cozy-portrait-cartoon-cat-overlay"></a>
+### 叠加卡通猫涂鸦的温馨人像
+
+<a href="https://x.com/Just_sharon7/status/2029006238101680432"><img src="../../previews/nano-banana-cozy-portrait-cartoon-cat-overlay.jpg" width="360"></a>
+
+用结构化 JSON 把人物、道具、环境、插画效果和渲染分开描述。真实质感与光滑矢量卡通叠加、白色涂鸦轮廓形成对比。
+
+Nano Banana 2 · 上传图改图 · 出处: [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2029006238101680432) · 246 赞，统计于 2026-10-28
+
+[`cartoon-overlay`](tags.md#tag-cartoon-overlay) [`mixed-media`](tags.md#tag-mixed-media) [`cozy`](tags.md#tag-cozy) [`json-prompt`](tags.md#tag-json-prompt) [`cat`](tags.md#tag-cat)
 
 <details><summary><b>提示词</b></summary>
 
 ```text
 {
-  "prompt_type": "detailed_image_reconstruction",
-  "aspect_ratio": "4:5 vertical portrait",
-  "overall_goal": "Recreate the visual appearance, framing, lighting, styling, and casual smartphone-photo feel of the reference image as closely as possible while keeping the result photorealistic and natural.",
-
+  "title": "Whimsical Cozy Portrait",
+  "input_image": "[UPLOAD YOUR IMAGE]",
+  "description": "Transform the uploaded image into a 64K DSLR-quality ultra-hyperrealistic cozy, whimsical mixed-media portrait combining realistic photography with playful cartoon illustrations.",
   "subject": {
-    "type": "young adult woman",
-    "age_range": "early to mid 20s",
-    "pose": "standing indoors, upper body turned slightly away from the camera while her face turns toward the lens",
-    "body_position": "relaxed casual posture with shoulders slightly angled",
-    "expression": "soft neutral expression with a subtle pout, calm and confident",
-    "gaze": "looking directly toward the camera",
-    "styling": "minimal everyday styling, clean and natural"
-  },
-
-  "face": {
-    "shape": "soft oval face with a gently tapered jawline",
-    "forehead": "medium-height forehead partly framed by center-parted hair",
-    "eyebrows": "natural medium-thick dark brown eyebrows with a soft arch",
-    "eyes": {
-      "shape": "almond-shaped",
-      "color": "light brown to hazel",
-      "appearance": "bright eyes with visible catchlights",
-      "lashes": "long defined eyelashes with subtle mascara"
+    "person": {
+      "appearance": {
+        "hair": "blonde, loosely tied with soft strands framing the face",
+        "eyes": "light green",
+        "makeup": "natural",
+        "top": "dark grey layered over black long-sleeve shirt",
+        "expression": "resting cheek gently on one hand, dreamy and slightly tired",
+        "accessories": [
+          "black-and-pink cat ears",
+          "small cute hair clip"
+        ]
+      },
+      "pose": "sitting at a wooden table, holding a white ceramic mug in one hand"
     },
-    "nose": "small straight nose with a softly rounded tip",
-    "lips": {
-      "shape": "full lips with a defined cupid's bow",
-      "color": "natural rosy pink",
-      "finish": "soft satin finish, not glossy"
-    },
-    "skin": {
-      "tone": "light warm-neutral skin tone",
-      "texture": "smooth natural skin with subtle pores and realistic tonal variation",
-      "cheeks": "soft natural pink flush",
-      "finish": "fresh luminous skin without heavy retouching"
-    },
-    "makeup": "very light natural makeup, softly defined lashes, subtle blush, natural pink lips, no dramatic contour"
-  },
-
-  "hair": {
-    "color": "rich medium-to-dark chocolate brown",
-    "length": "very long, extending well below the chest",
-    "parting": "clean center part",
-    "texture": "mostly straight with very soft natural bends through the lower lengths",
-    "density": "thick and healthy-looking",
-    "finish": "smooth and glossy but still realistic",
-    "front_sections": "two thin face-framing strands falling naturally along both sides of the face",
-    "details": "visible individual strands, subtle flyaways near the crown, realistic highlights from sunlight, natural uneven strand separation",
-    "movement": "hair hanging naturally over both shoulders and down the front of the shirt"
-  },
-
-  "clothing": {
-    "top": "oversized plain white crew-neck T-shirt",
-    "fit": "loose casual fit",
-    "fabric": "soft slightly wrinkled cotton",
-    "logos": "none",
-    "accessories": "no visible jewelry or prominent accessories"
-  },
-
-  "composition": {
-    "shot_type": "close upper-body portrait",
-    "camera_angle": "slightly above chest level, close to eye level",
-    "camera_distance": "approximately arm's-length smartphone distance",
-    "subject_position": "face slightly right of center with long hair occupying much of the lower frame",
-    "crop": "top of head fully visible, image extending down to around lower torso",
-    "orientation": "vertical",
-    "perspective": "natural wide smartphone-camera perspective with mild close-range distortion"
-  },
-
-  "lighting": {
-    "primary_source": "strong warm natural sunlight entering from the side/front through a nearby window",
-    "direction": "sunlight striking the subject from camera-left/front",
-    "face_effect": "bright warm illumination across the forehead, cheeks, nose, and hair",
-    "hair_effect": "distinct brown highlights and soft reflective streaks along individual strands",
-    "shadow_quality": "strong but soft-edged natural indoor shadows",
-    "exposure": "face slightly brightly exposed while the room behind remains much darker",
-    "color_temperature": "warm daylight"
-  },
-
-  "environment": {
-    "location": "casual indoor residential room",
-    "background": "dark gray walls with a white ceiling cornice",
-    "left_background": "open doorway or darker hallway area",
-    "right_background": "dark wall and partially visible household objects",
-    "lower_right": "part of a black tripod or light stand visible",
-    "overall_feel": "ordinary lived-in room rather than a studio",
-    "depth": "background moderately out of focus but still recognizable"
-  },
-
-  "camera": {
-    "capture_device": "modern smartphone camera",
-    "lens_equivalent": "approximately 24-28mm full-frame equivalent",
-    "focus": "sharp focus on face and front hair",
-    "depth_of_field": "mostly natural smartphone depth of field with gentle background softness",
-    "dynamic_range": "realistic phone-camera HDR with slightly clipped highlights in direct sun",
-    "image_character": "casual social-media selfie/photo, not professionally staged"
-  },
-
-  "photorealism_details": [
-    "real individual hair strands",
-    "natural skin pores and micro-texture",
-    "subtle peach fuzz",
-    "realistic eyelash separation",
-    "tiny variations in lip texture",
-    "slight fabric creases in the T-shirt",
-    "small flyaway hairs around the crown",
-    "natural sunlight falloff across the face",
-    "slightly imperfect casual framing",
-    "realistic indoor shadow noise"
-  ],
-
-  "style": {
-    "visual_style": "highly photorealistic casual smartphone portrait",
-    "mood": "soft, youthful, relaxed, sunlit",
-    "processing": "light social-media style processing with warm skin tones and slightly enhanced clarity",
-    "avoid": [
-      "cinematic movie lighting",
-      "studio portrait lighting",
-      "overly smooth plastic skin",
-      "CGI appearance",
-      "anime or illustration",
-      "heavy beauty filter",
-      "extreme facial symmetry",
-      "over-sharpened hair",
-      "artificial jet-black hair",
-      "dramatic makeup",
-      "excessive background blur",
-      "professional studio backdrop",
-      "text",
-      "watermarks",
-      "logos"
+    "animated_elements": [
+      {
+        "type": "cartoon_cat",
+        "color": "bright orange",
+        "expression": "excited, curious",
+        "action": "climbing up her arm",
+        "features": "exaggerated big eyes, expressive paws"
+      },
+      {
+        "type": "cartoon_tail",
+        "color": "grey",
+        "position": "right side, partially out of frame"
+      }
     ]
   },
-
-  "negative_prompt": "cartoon, anime, illustration, CGI, plastic skin, waxy face, over-retouched skin, excessive beauty filter, unnatural facial symmetry, distorted eyes, crossed eyes, malformed lips, warped face, duplicate hair strands, fake wig appearance, overly black hair, metallic hair shine, stiff hair, messy anatomy, distorted shoulders, extra limbs, extra fingers, studio backdrop, cinematic lighting, dramatic color grading, excessive bokeh, oversaturated colors, text, logo, watermark"
+  "props": {
+    "mug": {
+      "color": "white",
+      "illustration": "cute cartoon face with big expressive eyes and small mustache",
+      "drink": "pink foam bubbles rising from the top"
+    },
+    "dessert": {
+      "type": "chocolate cake",
+      "toppings": ["whipped cream", "sliced strawberries", "peach slice"]
+    }
+  },
+  "environment": {
+    "room": {
+      "walls": "beige textured",
+      "lighting": "soft daylight streaming through window with sheer white curtains",
+      "decor": "vintage framed photographs in casual gallery arrangement",
+      "atmosphere": "warm, cozy, intimate"
+    }
+  },
+  "illustration_effects": {
+    "style": [
+      "hand-drawn cartoon overlays",
+      "white doodle-style accents: bubbles, playful lines, sparkles, hand-drawn crown",
+      "soft white illustrated outlines around woman and objects"
+    ]
+  },
+  "composition": {
+    "aspect_ratio": ["1:1", "4:5 vertical"],
+    "depth_of_field": "shallow",
+    "mood": ["cozy", "cute", "whimsical", "soft", "playful", "warm"]
+  },
+  "rendering": {
+    "technique": ["Octane render", "Ultra-hyperrealistic", "Unreal Engine 5"],
+    "details": "ultra-detailed, high-resolution, soft natural lighting, warm tones, Instagram-worthy",
+    "texture_contrast": "realistic textures (skin, fabric, wood, wall) vs smooth vector-style illustrations"
+  }
 }
 ```
 
 </details>
 
-<a id="gpt-image-mural-twin-half-heart-illusion"></a>
-### 女子与壁画分身合成一颗爱心
+<a id="nano-banana-old-photo-restore-dslr-portrait"></a>
+### 开裂老照片修复为彩色人像
 
-<a href="https://x.com/Kubra_286/status/2102235098703880428"><img src="../../previews/gpt-image-mural-twin-half-heart-illusion.jpg" width="360"></a>
+<a href="https://x.com/doctorwasif/status/2030803471041954150"><img src="../../previews/nano-banana-old-photo-restore-dslr-portrait.jpg" width="360"></a>
 
-把壁画和真人分成两个带标签的段落并保持同款穿搭，指尖才能拼成完整爱心。结尾补充强制透视和砖纹叠加，让画面看起来像画在墙上。
+以佳能 EOS R6 II 作为画质基准并要求高级放大效果，同时明确要求保留原有面部特征，让修复结果忠于原照片。
 
-GPT Image 2.5 · 上传图改图 · 出处: [@Kubra_286 on X](https://x.com/Kubra_286/status/2102235098703880428) · 241 赞，统计于 2026-10-28
+Nano Banana 2 · 上传图改图 · 出处: [@doctorwasif on X](https://x.com/doctorwasif/status/2030803471041954150) · 206 赞，统计于 2026-10-28
 
-[`mural`](tags.md#tag-mural) [`trompe-l-oeil`](tags.md#tag-trompe-l-oeil) [`forced-perspective`](tags.md#tag-forced-perspective) [`street-art`](tags.md#tag-street-art) [`selfie`](tags.md#tag-selfie)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Ultra realistic cinematic photo of a young woman making a half heart sign with her mural twin, interactive street art illusion.
-
-Face match 100%
-
-Mural on brick wall: giant hyper-realistic painting of the same woman, shoulder-length wavy blonde hair with dark roots, smiling side profile, wearing light pink ribbed cropped t-shirt, small hoop earrings, delicate 'Clariz' name necklace, right hand raised making half heart shape with thumb and index finger. Photorealistic mural style, brick texture visible through paint, black graffiti background.
-
-Real woman: same woman, same face, shoulder-length wavy blonde hair, same pink ribbed crop top, brown dark cargo pants with side pockets, blue and white sneakers. Standing on sidewalk facing the mural, left hand raised completing the other half of the heart shape with the painted hand, fingers almost touching, perfect alignment forming a full heart. Smiling at mural.
-
-Environment: urban alley brick wall with graffiti, posters and stickers on adjacent wall, small green plants growing along wall base, concrete sidewalk, soft natural daylight.
-
-Style: true to life color grading, photorealistic, DSLR 8K, ultra detailed skin, same face recognizable, natural shadows, 9:16 vertical portrait, trompe-l'oeil, Instagram couple bestie heart hand trend.
-*Pro tip to get it perfect:*
-two people making heart shape, one real one painted, fingertip connection point, forced perspective heart illusion, brick overlay on mural, same outfit mural and real
-```
-
-</details>
-
-<a id="gpt-image-minimi-tiny-figures-photo-world"></a>
-### 人像照片周围的迷你3D小人互动
-
-<a href="https://x.com/Zyrellix/status/2055486410749309438"><img src="../../previews/gpt-image-minimi-tiny-figures-photo-world.jpg" width="360"></a>
-
-提示词列出小人的具体互动，如坐在肩上和包上、挥手、模仿姿势，每个小人都有明确动作。同时要求保留原照片并带真实阴影和景深，让小人自然融入而不是重绘照片。
-
-GPT Image 2 · 上传图改图 · 出处: [@Zyrellix on X](https://x.com/Zyrellix/status/2055486410749309438) · 212 赞，统计于 2026-10-28
-
-[`minimi`](tags.md#tag-minimi) [`miniature`](tags.md#tag-miniature) [`photo-to-3d`](tags.md#tag-photo-to-3d) [`portrait`](tags.md#tag-portrait) [`chibi`](tags.md#tag-chibi)
+[`photo-restoration`](tags.md#tag-photo-restoration) [`old-photo`](tags.md#tag-old-photo) [`portrait`](tags.md#tag-portrait) [`upscale`](tags.md#tag-upscale) [`colorize`](tags.md#tag-colorize)
 
 <details><summary><b>提示词</b></summary>
 
 ```text
-Transform this photo into a tiny “Minimi” world where miniature 3D characters interact naturally around me — sitting on my shoulder and bag, waving, copying my pose, and exploring the scene. Keep the original photo intact with realistic shadows, depth, motion, warm emotions. Title: “Tiny Moments Beside Me”
+"Restore this old photo into professional portrait of DLSR - quality colour and detail, using an advanced upscaling algorithm comparable to the results from canon EOS R6 II. Ensure the restored the image looks natural, retains exact facial features, has great clarity......"
 ```
 
 </details>
@@ -326,21 +294,43 @@ A hyper-realistic, 8K resolution cinematic close-up portrait of the person in th
 
 </details>
 
-<a id="gpt-image-blue-backdrop-studio-portrait-character-swap"></a>
-### 蓝色背景棚拍肖像角色替换
+<a id="nano-banana-doodle-sticker-chibi-photo-edit"></a>
+### 手绘涂鸦与Q版贴纸风人像照片
 
-<a href="https://x.com/john_my07/status/2099162876842049901"><img src="../../previews/gpt-image-blue-backdrop-studio-portrait-character-swap.jpg" width="360"></a>
+<a href="https://x.com/john_my07/status/2051162500780208297"><img src="../../previews/nano-banana-doodle-sticker-chibi-photo-edit.jpg" width="360"></a>
 
-先逐项列出参考图的构图、姿态、视线和光线要求,再替换为指定角色并锁定面部特征。结尾用一组明确的禁止修改条款,固定背景、取景和五官。
+先锁定原图构图、光线与背景，再叠加细白线涂鸦、少量吉祥物和简短手写字幕。列出跳跃、挥手、坐姿、拿饮料等姿势，生成带白边的3D Q版自己。
 
-GPT Image 2.5 · 上传图改图 · 出处: [@john_my07 on X](https://x.com/john_my07/status/2099162876842049901) · 85 赞，统计于 2026-10-28
+Nano Banana 2 · 上传图改图 · 出处: [@john_my07 on X](https://x.com/john_my07/status/2051162500780208297) · 160 赞，统计于 2026-10-28
 
-[`studio-portrait`](tags.md#tag-studio-portrait) [`character-swap`](tags.md#tag-character-swap) [`blue-backdrop`](tags.md#tag-blue-backdrop) [`editorial`](tags.md#tag-editorial) [`fashion`](tags.md#tag-fashion)
+[`doodle`](tags.md#tag-doodle) [`chibi`](tags.md#tag-chibi) [`sticker`](tags.md#tag-sticker) [`xiaohongshu`](tags.md#tag-xiaohongshu) [`photo-edit`](tags.md#tag-photo-edit)
 
 <details><summary><b>提示词</b></summary>
 
 ```text
-Do not alter the background color or studio environment. Do not change the pose, framing, crop, perspective, subject distance, lighting direction, or gaze. Do not modify facial identity, facial proportions, skin tone, or hairstyle. Avoid excessive retouching, artificial skin smoothing, stylized illustration effects, exaggerated sharpening, extra accessories, text overlays, logos, watermarks, duplicate subjects, or unrealistic clothing physics.
+Transform the provided photo into a soft, Pinterest/Xiaohongshu-inspired doodle aesthetic while preserving the original composition, facial identity, and natural color tones. Keep the lighting gentle, warm, and realistic, avoid heavy color grading, oversaturation, HDR effects, or strong filters. The overall feel should remain airy, clean, and naturally bright.
+Enhance the image with subtle, hand-drawn doodle accents placed around the subject:
+thin white outline strokes
+delicate sparkles, stars, and tiny hearts
+curved arrows, soft swirls, and mini floral sketches
+light motion lines that complement the pose
+Incorporate a few small, charming mascot-style illustrations (e.g., a tiny bear, smiling beverage, cute snack character, dreamy cloud), ensuring they stay minimal and don’t overpower the image.
+Add short handwritten-style white captions in a casual doodle font—keep them minimal and expressive (examples: “shine,” “good mood,” “soft day,” “stay cozy”). Avoid clutter or excessive text.
+Maintain the original background exactly as is. Keep shadows soft and natural with clean, warm lighting.
+
+Around the composition, include several small 3D chibi-style versions of the subject, preserving recognizable facial features. These mini characters should have a glossy, soft pastel finish and appear in varied playful poses such as:
+jumping happily
+waving
+sitting relaxed
+holding a drink
+expressing cute, lively emotions
+Style details:
+clean layout with balanced spacing
+white sticker-like outlines
+soft pastel accents with realistic base tones
+high-detail, polished 3D chibi look
+cute, modern Korean-inspired aesthetic
+Ensure the final result feels cohesive, light, and aesthetically pleasing without overwhelming the original image.
 ```
 
 </details>
@@ -374,56 +364,78 @@ Some ideas become much harder to leave in a folder once you can see what they co
 
 </details>
 
-<a id="gpt-image-1942-arcade-city-pilot-walk"></a>
-### 飞行员走过街机空战主题的战时城市
+<a id="gpt-image-face-swap-woman-beside-ink-sketch-twin"></a>
+### 真人与黑白线稿分身并排站姿
 
-<a href="https://x.com/Xaroon_x/status/2056940561148363010"><img src="../../previews/gpt-image-1942-arcade-city-pilot-walk.jpg" width="360"></a>
+<a href="https://x.com/warraich_Ai2/status/2100776665500836060"><img src="../../previews/gpt-image-face-swap-woman-beside-ink-sketch-twin.jpg" width="360"></a>
 
-提示词按世界观、喜剧细节、光线和镜头分段列出清单，让背景塞满层次分明的小细节。用 exact face 锁定参考人脸，同时把服装逐件写明。
+把目标图定为唯一构图、参考照片只提供面部身份，再逐项列出必须保持不变的元素。结尾的总则和禁用清单防止发型、服装、姿势被带入，线稿分身仍保留眨眼吐舌的表情。
 
-GPT Image 2 · 上传图改图 · 出处: [@Xaroon_x on X](https://x.com/Xaroon_x/status/2056940561148363010) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+GPT Image 2.5 · 上传图改图 · 出处: [@warraich_Ai2 on X](https://x.com/warraich_Ai2/status/2100776665500836060) · 41 赞，统计于 2026-10-28
 
-[`wwii`](tags.md#tag-wwii) [`arcade`](tags.md#tag-arcade) [`cinematic`](tags.md#tag-cinematic) [`worldbuilding`](tags.md#tag-worldbuilding) [`face-reference`](tags.md#tag-face-reference)
+[`face-swap`](tags.md#tag-face-swap) [`identity-reference`](tags.md#tag-identity-reference) [`line-art`](tags.md#tag-line-art) [`constraint-list`](tags.md#tag-constraint-list)
 
 <details><summary><b>提示词</b></summary>
 
 ```text
-Ultra-realistic cinematic “1942 City” scene, retro WWII arcade-shooter-inspired metropolis in real life, intense aerial-war atmosphere, vertical 4:5 editorial composition
+Use the uploaded TARGET IMAGE as the exact master composition.
 
-Male, exact face, vintage military-pilot-inspired streetwear from head to toe, bomber jacket with retro aviation patches, fitted cargo trousers, rugged combat boots, fingerless gloves, pilot goggles hanging around neck, walking through the city with fearless ace-pilot expression while fighter planes soar overhead
+Use the uploaded REFERENCE PHOTO only as the facial identity reference for the woman.
 
-✈️ 1942 CITY WORLDBUILDING
+FACE IDENTITY:
+Replace the woman's face in the TARGET IMAGE with the face of the woman from the REFERENCE PHOTO. Preserve her recognizable facial features, face shape, eyes, eyebrows, nose, lips, cheeks, jawline, skin tone and natural facial proportions.
 
-entire city functions like a living 1942 arcade shooter universe
-• massive WWII fighter planes dogfighting above skyscrapers
-• giant anti-aircraft cannons mounted across rooftops
-• endless bullet patterns streaking through cloudy skies
-• retro military airfields integrated into urban districts
-• giant “MISSION START” alerts projected into the clouds
-• dramatic explosion trails lighting the skyline at night
-• aircraft carriers docked beside futuristic city ports
-• glowing power-up icons floating through aerial battle zones
-• giant radar systems rotating above downtown towers
-• endless enemy squadrons emerging from storm clouds
-• cinematic ocean-and-warzone environments surrounding the metropolis
+IMPORTANT:
+The real woman on the left and the illustrated woman on the right must represent the SAME woman and have the SAME facial identity.
 
-😂 COMEDIC DETAILS
+For the illustrated version, translate the same reference woman's facial identity into the existing black-and-white hand-drawn illustration style. Keep the illustration's original playful expression, wink and tongue-out expression while making the facial identity clearly match the reference woman.
 
-• random civilians casually dodging fighter planes on the way to work 😭
-• one pilot barrel-rolling dramatically for absolutely no reason
-• giant billboard flashing: “PLAYER 1 READY.”
-• pedestrians treating near-miss explosions like normal traffic
-• somebody still trying to collect every floating power-up midair
-• random mechanic repairing planes using pure confidence
-• one legendary pilot surviving impossible situations through arcade logic alone
+DO NOT CHANGE ANYTHING ELSE.
 
-💡 LIGHTING & STYLE
+Keep the TARGET IMAGE exactly the same:
+- Same real woman's body and physique
+- Same hairstyle and hair arrangement
+- Same yellow T-shirt
+- Same cream/white wide-leg pants
+- Same white sneakers
+- Same earrings and accessories
+- Same crossed-arm pose
+- Same bent-leg position
+- Same camera angle and framing
+- Same wall and floor
+- Same lighting and shadows
+- Same black-and-white illustration
+- Same illustrated pose and proportions
+- Same hearts, stars, sparkles and motion lines
+- Same composition and spacing
+- Same image quality and aspect ratio
 
-retro war-film cinematic lighting, fiery aerial-battle atmosphere, dramatic clouds and explosion reflections, hyper-detailed realistic textures mixed with nostalgic arcade-shooter aesthetics, intense blockbuster-war energy, masterpiece quality
+Do NOT use the reference photo's hairstyle, clothing, body, pose, background or accessories.
 
-🎥 CAMERA
+FINAL RULE:
+TARGET IMAGE = everything except facial identity.
+REFERENCE PHOTO = facial identity only.
 
-cinematic aerial tracking shot, immersive dogfight atmosphere, dynamic motion blur from fighter planes and explosions, documentary-meets-retro-arcade realism, futuristic Manila-inspired 1942 metropolis, “classic arcade air combat became civilization” atmosphere
+The final image must look almost identical to the TARGET IMAGE, with only the woman's facial identity changed. The real photo and the illustrated character must clearly look like the same woman.
+```
+
+</details>
+
+<a id="nano-banana-selective-anime-hair-bowl-photo-edit"></a>
+### 照片中仅头发、碗和筷子变成动漫插画
+
+<a href="https://x.com/madpencil_/status/2107815983729750427"><img src="../../previews/nano-banana-selective-anime-hair-bowl-photo-edit.jpg" width="360"></a>
+
+提示词先点明只转换的少数元素,再逐项列出必须保持不变的内容:脸、皮肤、面条、汤、背景、光线、姿势和构图。风格用干净线稿、平涂赛璐珞和粉彩色限定,让动漫效果只作用于局部。
+
+Nano Banana 2.1 · 上传图改图 · 出处: [@madpencil_ on X](https://x.com/madpencil_/status/2107815983729750427) · 25 赞，统计于 2026-10-28
+
+[`selective-edit`](tags.md#tag-selective-edit) [`anime`](tags.md#tag-anime) [`photo-to-art`](tags.md#tag-photo-to-art) [`preserve-details`](tags.md#tag-preserve-details) [`food`](tags.md#tag-food)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Convert only her hair, the bowl, and the chopsticks into a 2D hand-drawn anime illustration with clean linework, flat cel shading, and vibrant pastel colours. Keep her face, skin, eyes, lips, noodles, broth, background, lighting, pose, and framing the same as in the original photo.
 ```
 
 </details>

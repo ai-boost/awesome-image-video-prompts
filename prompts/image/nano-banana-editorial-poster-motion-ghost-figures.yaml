@@ -1,0 +1,40 @@
+id: nano-banana-editorial-poster-motion-ghost-figures
+title:
+  en: Editorial portrait poster with blurred ghost figures
+  zh: 带动态模糊虚影的编辑风人像海报
+model: Nano Banana 2.1
+mode: image-edit
+category: poster
+tags:
+- editorial-poster
+- identity-lock
+- typography
+- motion-blur
+- cinematic
+source:
+  name: '@CodeByPoonam on X'
+  url: https://x.com/CodeByPoonam/status/2107769327751709117
+  credit: Poonam Soni
+  likes: 83
+  captured: '2026-10-28'
+  posted: '2026-10-07'
+notes:
+  en: Locks identity to the uploaded photo, then fixes the layout in labeled blocks for scene, background, lighting and text. Big condensed type overlaps the lower body for depth, and a closing negative list blocks stray shapes and extra text.
+  zh: 先锁定上传照片的人脸特征，再按场景、背景、光线、文字分块写清版式。粗体窄字压在下半身前形成层次，结尾用否定清单排除多余图形和文字。
+prompt: |
+  Use the uploaded photo of me as the main subject. Keep my face, skin tone, hair and features exactly the same. Recreate the style and layout of the reference poster.
+
+  Scene: A vertical 4:5 editorial poster. I stand in the center, facing the camera with a calm, serious expression. My head is slightly tilted. I wear a flowy, elegant midi dress in a deep charcoal navy shade. The fabric has soft natural folds.
+
+  Background: A soft blue-grey studio wall with a cinematic teal and navy gradient. Two blurred, motion-smeared figures in dark oversized clothing stand on the left and right edges. They look like long-exposure ghosts. Keep them out of focus.
+
+  Lighting: Soft, moody natural light. Gentle rim light on my hair. Muted film tones, fine grain, shallow depth of field. Fashion editorial look.
+
+  Text layout:
+  - Top center: small, wide-spaced white text "SONI"
+  - Center, over the lower body: huge, bold, condensed white sans-serif text "PROMPT". It sits in front of the dress, slightly overlapping me.
+  - Just below it: orange handwritten script text "NanoBanana 2.1", slightly tilted
+
+  Do not add any arrow, button, oval or pill shape. Do not add any other text, logos or watermarks.
+
+  Style: premium magazine poster, clean typography, high contrast text, cinematic, photorealistic, 4:5  aspect ratio

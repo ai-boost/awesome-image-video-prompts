@@ -1,6 +1,25 @@
 # Comics and storyboards
 
-[Back to the list](../../README.md) · All 9 entries
+[Back to the list](../../README.md) · All 12 entries
+
+<a id="nano-banana-fluffy-creatures-treehouse-story"></a>
+### Three Fluffy Creatures Planning a Treehouse
+
+<a href="https://x.com/GoogleAI/status/2027094912357761319"><img src="../../previews/nano-banana-fluffy-creatures-treehouse-story.jpg" width="360"></a>
+
+Asks for a four part story with an emotional arc in a fixed 16:9 format, generated one image at a time. A direct instruction to keep identity consistent across the three characters holds the look steady from frame to frame.
+
+Nano Banana 2 · Text-to-image · Source: [@GoogleAI on X](https://x.com/GoogleAI/status/2027094912357761319) · 1,256 likes on 2026-10-28
+
+[`storyboard`](tags.md#tag-storyboard) [`multi-image`](tags.md#tag-multi-image) [`consistent-characters`](tags.md#tag-consistent-characters) [`fluffy-creatures`](tags.md#tag-fluffy-creatures) [`16-9`](tags.md#tag-16-9)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a funny 4-part story featuring 3 fluffy creatures building a treehouse. The story has emotional highs and lows and ends in a happy moment. Maintain consistent identity across the 3 characters. Generate 4 images in 16:9 format, one at a time.
+```
+
+</details>
 
 <a id="gpt-image-corporate-noir-teaser-storyboard-six-panels"></a>
 ### Corporate noir revenge thriller six panel storyboard
@@ -178,6 +197,31 @@ Always optimize for followability over completeness.
 
 </details>
 
+<a id="nano-banana-video-to-comic-alien-hairy-ball-theorem"></a>
+### Alien math teacher comic explaining the hairy ball theorem
+
+<a href="https://x.com/fofrAI/status/2060039009636606073"><img src="../../previews/nano-banana-video-to-comic-alien-hairy-ball-theorem.jpg" width="360"></a>
+
+A short instruction paired with a video or YouTube URL lets the model read the source as context and turn its narration into sequenced panels. The same character and kitchen setting stay consistent across panels, and a diagram panel is added to explain the idea.
+
+Nano Banana 2 · Edit · Source: [@fofrAI on X](https://x.com/fofrAI/status/2060039009636606073) · 579 likes on 2026-10-28
+
+[`video-to-image`](tags.md#tag-video-to-image) [`comic-strip`](tags.md#tag-comic-strip) [`video-context`](tags.md#tag-video-context) [`educational`](tags.md#tag-educational) [`character-consistency`](tags.md#tag-character-consistency)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Fun new feature landing in Nano Banana 2 today:
+
+video-to-image
+
+Pass a video or YouTube URL to Nano Banana 2 along with your prompt, and it'll use the video as context to make the image.
+
+> create a comic strip from this video
+```
+
+</details>
+
 <a id="gpt-image-luxury-fragrance-candle-storyboard-grid"></a>
 ### Luxury fragrance candle storyboard in twelve frames
 
@@ -203,36 +247,70 @@ Step 3: Hard-cut into final ad. Add soft ambient music and subtle cinematic SFX.
 
 </details>
 
-<a id="gpt-image-iced-matcha-latte-six-panel-storyboard"></a>
-### Iced matcha latte six panel food storyboard
+<a id="nano-banana-noir-boxer-four-panel-fight"></a>
+### Four panel film noir boxer fight sequence
 
-<a href="https://x.com/DuaFatimaAi/status/2095669775456407975"><img src="../../previews/gpt-image-iced-matcha-latte-six-panel-storyboard.jpg" width="360"></a>
+<a href="https://x.com/kaanakz/status/2027814444437307602"><img src="../../previews/nano-banana-noir-boxer-four-panel-fight.jpg" width="360"></a>
 
-Each panel gets its own numbered step, from ingredient flat lay to hero shot, while one shared block fixes props, palette, lighting and lens look. A closing continuity rule and a no faces limit keep all six frames consistent.
+One shared style block fixes the lighting, grain and setting, then each stacked panel gets its own camera angle: bird's eye, side profile, extreme close up and rear medium wide. Naming a lighting type per panel (split, rim) and a fight round keeps the same boxer consistent while the story escalates.
 
-GPT Image 2 · Text-to-image · Source: [@DuaFatimaAi on X](https://x.com/DuaFatimaAi/status/2095669775456407975) · 272 likes on 2026-10-28
+Nano Banana 2 · Text-to-image · Source: [@kaanakz on X](https://x.com/kaanakz/status/2027814444437307602) · 312 likes on 2026-10-28
 
-[`food-photography`](tags.md#tag-food-photography) [`storyboard`](tags.md#tag-storyboard) [`matcha`](tags.md#tag-matcha) [`6-panel-grid`](tags.md#tag-6-panel-grid) [`photorealistic`](tags.md#tag-photorealistic)
+[`film-noir`](tags.md#tag-film-noir) [`multi-panel`](tags.md#tag-multi-panel) [`camera-angles`](tags.md#tag-camera-angles) [`black-and-white`](tags.md#tag-black-and-white) [`boxing`](tags.md#tag-boxing)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-Create a premium photorealistic vertical 6-panel food photography storyboard for an iced matcha latte, arranged in a clean 2×3 grid. Use the same warm natural visual identity, props, lighting, composition, and green color palette across all six panels. Rustic Japanese-inspired kitchen aesthetic, cinematic editorial food photography, soft natural window light, realistic human hands, shallow depth of field, highly detailed textures, creamy matcha, transparent ice cubes, elegant glassware, green linen/checkered cloth, bamboo matcha whisk, ceramic bowls, blueberries, and wooden accents.
-Panel 1 — INGREDIENT PREPARATION:
-Top-down flat lay showing a bowl of vibrant green matcha powder, bamboo whisk, small ceramic pitcher of milk, bowl of sugar, glass of green matcha liquid, bowl of ice cubes, and cream/milk arranged beautifully on a dark green tabletop with a checkered cloth.
-Panel 2 — MATCHA PREPARATION:
-Close-up of realistic hands whisking vibrant green matcha powder in a rustic ceramic bowl using a traditional bamboo matcha whisk. Foamy matcha texture forming naturally.
-Panel 3 — INITIAL MIXING:
-Pour freshly prepared bright green matcha into a transparent measuring glass filled with ice and milk. Capture the pouring action, swirling green-and-white layers, realistic splashes and condensation.
-Panel 4 — MAIN PROCESS:
-Extreme close-up of creamy milk being poured over iced matcha in a clear glass. Beautiful green-and-white marbling around transparent ice cubes, highly appetizing texture, cinematic macro photography.
-Panel 5 — SERVING:
-A spoon gently adds a generous layer of white whipped cream/cream foam onto the top of the iced matcha latte. Full glass visible, surrounded by matcha powder, bamboo whisk, blueberries and rustic props.
-Panel 6 — FINAL HERO SHOT:
-Premium hero shot of the finished iced matcha latte in a tall crystal-clear glass, vibrant green matcha with creamy white swirls and a soft cream topping, condensation on the glass, ice cubes visible, matcha bowl and bamboo whisk softly blurred in the background, blueberries scattered naturally around the glass.
-Visual style: luxury beverage advertisement, photorealistic, cinematic food commercial, warm earthy tones, natural soft lighting, realistic materials, subtle film grain, professional food styling, 85mm macro lens look, shallow depth of field, HDR, ultra-detailed, premium editorial photography, appetizing and authentic.
-Aspect ratio: 4:5 vertical.
-Important: Maintain consistent props, glass, lighting, tabletop, color palette and visual continuity across all six panels. No people’s faces, only natural hands where required.
+Create a single film noir–style cinematic image divided into four horizontal panels, all depicting the same boxer and the same boxing ring environment, unified by lighting, atmosphere, and narrative progression across four stages of a fight.
+
+Overall style:
+
+Vintage Film Noir Lighting, Low Key Lighting, Hard Shadows Lighting, Split Lighting, moody and tense atmosphere, minimal fill light, deep blacks, sharp contrast, visible film grain, slight vignetting, subtle haze in the air from sweat and dust. Industrial warehouse boxing gym setting, night atmosphere, light beams cutting through darkness, damp canvas reflecting highlights. Clean horizontal separation between panels, cinematic split-screen composition, consistent character identity across all panels.
+
+Top panel – ROUND 1, BIRD’S-EYE SHOT:
+
+Bird’s Eye View of the boxing ring. Stark top-down composition, ropes forming geometric frames. Two boxers circling each other. Our main subject slightly forward in stance, gloves raised. Overhead spotlight creating strong geometric shadows across the canvas. Sweat barely visible. Light slicing through darkness, corners of the ring fading into black.
+
+Second panel – ROUND 2, SIDE CLOSE-UP SHOT:
+
+Side-profile close-up of the main boxer mid-fight. From Side, intense expression, jaw clenched. One side of the face sharply lit by a hard key light, the other completely swallowed in shadow. Sweat and minor bruising beginning to appear. Split Lighting carving the facial structure in classic noir sculpting. Background dissolves into darkness, only faint ring ropes visible.
+
+Third panel – ROUND 3, EXTREME CLOSE-UP:
+
+Extreme Close-Up on a critical detail, eye behind a battered glove or sweat dripping from brow to canvas. Heavy shadow dominance. Light catching only the iris and the texture of the glove leather. Micro cuts, swelling, fine skin texture visible. Film grain pronounced. The rest of the frame nearly pure black.
+
+Bottom panel – FINAL ROUND, MEDIUM WIDE BACK SHOT:
+
+Medium Wide Shot from behind the boxer. From Behind perspective. The subject standing alone in the ring after a decisive moment, shoulders rising with breath. Opponent down or barely visible in shadow. Rim Lighting outlining the silhouette. Wet canvas reflecting fragmented light. Light haze in the air enhancing depth. The ring fading into darkness beyond the ropes.
+
+High detail, High Quality, Photorealism Style, cinematic composition, cohesive identity across all four panels, dramatic storytelling progression within a single unified noir frame.
+
+
+@ImagineArt_X
+
+@imagineart_creo
+```
+
+</details>
+
+<a id="nano-banana-giant-comic-portal-bedroom-sequence"></a>
+### Man Kneeling Before Giant Comic Portal
+
+<a href="https://x.com/Minahil42298354/status/2034230423014740304"><img src="../../previews/nano-banana-giant-comic-portal-bedroom-sequence.jpg" width="360"></a>
+
+The prompt describes a two frame before and after sequence, then repeats the same outfit and smile so the character stays consistent. Naming the book title, the cyan portal light and the cast shadows ties the fantasy event to a believable room.
+
+Nano Banana 2 · Text-to-image · Source: [@Minahil42298354 on X](https://x.com/Minahil42298354/status/2034230423014740304) · 72 likes on 2026-10-29
+
+[`sequential-frames`](tags.md#tag-sequential-frames) [`portal`](tags.md#tag-portal) [`comic-book`](tags.md#tag-comic-book) [`bedroom`](tags.md#tag-bedroom) [`cinematic-lighting`](tags.md#tag-cinematic-lighting)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A hyper-realistic photograph captures a sequential moment across two side-by-side frames within a vintage-decorated bedroom.
+​In the left frame, a young man in a red hoodie and jeans is kneeling on a wooden floor, his hand outstretched with a look of pure astonishment. He is gazing at a massive, floor-standing comic book titled 'ASCENSION #1: THE RIFT' that has come to life. The pages are actively illuminated, and an electric blue energy portal is pulsing violently through the right-hand page.
+​The right frame shows the immediate aftermath of that discovery. The same young man, maintaining the identical smile and attire, has now completely emerged from the pulsing blue portal and is standing on the bedroom floor in mid-stride, stepping confidently away from the giant book and into the reality of the room. He is smiling.
+​The environment in both frames is a cozy bedroom filled with memorabilia, including multiple vintage superhero posters (Silver Surfer, Doctor Strange), a full bookshelf, and a glowing bedside lamp. The lighting is dominated by the magical, cyan energy of the portal, which casts long shadows across the textured floor.
 ```
 
 </details>

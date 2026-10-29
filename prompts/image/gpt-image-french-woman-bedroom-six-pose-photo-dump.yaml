@@ -1,0 +1,46 @@
+id: gpt-image-french-woman-bedroom-six-pose-photo-dump
+title:
+  en: Six pose bedroom portrait collage of one woman
+  zh: 同一女生卧室六种姿势的闪光灯写真拼图
+model: GPT Image 2.5
+mode: text-to-image
+category: collage
+tags:
+- photo-dump
+- portrait-grid
+- identity-consistency
+- direct-flash
+- candid
+source:
+  name: '@john_my07 on X'
+  url: https://x.com/john_my07/status/2113636699888885986
+  credit: Johnn
+  likes: 174
+  captured: '2026-10-28'
+  posted: '2026-10-23'
+notes:
+  en: A fixed 3×2 grid, 3:4 ratio and a numbered list of six distinct poses give each frame its own job. Identity locks (freckles, eye color, hair, one outfit) and a compact camera direct flash look keep the faces consistent and candid.
+  zh: 固定3×2网格和3:4比例，再用编号列出六个不同姿势，让每一格各司其职。用雀斑、瞳色、发色和同一套服装锁定身份，并以卡片机直闪的质感保持人物一致又自然随性。
+prompt: |
+  Create an ultra-realistic 6-photo portrait collage arranged in a seamless 3×2 grid, featuring the same naturally beautiful young French woman in her early 20s. She has warm fair-olive skin, delicate freckles across her cheeks and nose, expressive hazel-brown eyes, long, naturally tousled dark chestnut hair, full eyebrows, and naturally glossy pink lips. Her appearance should feel authentic, youthful, and effortlessly Parisian.
+
+  Photography Style: Candid European Instagram photo dump, resembling casual Canon PowerShot G7 X Mark III snapshots. Direct camera flash, crisp facial details, realistic skin pores, subtle digital grain, natural shadows, slightly imperfect framing, and warm indoor lighting.
+
+  Setting: A cozy bedroom with an off-white textured wall, neutral bedding, and a softly blurred background. Maintain consistent surroundings throughout all six photographs.
+
+  Outfit & Accessories: She wears the same cream-colored, long-sleeved ribbed top with tiny red floral prints and delicate lace trim in every photograph. The top has a modest, higher neckline with full chest coverage. Add small gold hoop earrings and a delicate gold pendant necklace. Her makeup is minimal, with naturally flushed cheeks, glossy lips, and lightly defined lashes. Her hairstyle remains consistent in color and length, but falls differently with each pose.
+
+  Six Distinct Poses:
+
+  1. Playful selfie: Resting one cheek against her hand, looking into the camera with gently pursed lips and a relaxed expression.
+  2. Winking snapshot: Looking directly into the lens, winking playfully with a slight pout, one arm casually extended toward the camera.
+  3. Relaxed happy moment: Eyes closed, smiling softly with her head tilted back slightly and both hands casually lifting her hair.
+  4. Over-the-shoulder portrait: Turning her face toward the camera over one shoulder, giving a subtle side glance with loose hair cascading naturally.
+  5. Caught laughing: Looking toward someone outside the frame, laughing genuinely with her head tilted sideways and hair falling across one cheek.
+  6. Quiet cozy mood: Leaning against a pillow, resting her chin against the sleeve of her top, gazing thoughtfully into the camera.
+
+  Identity Consistency: The exact same woman must appear in all six photographs, with consistent facial proportions, eye color, freckles, skin tone, and hair color. Each frame must have a distinctly different pose, expression, head angle, and natural hair arrangement.
+
+  Realism Details: Authentic skin texture, fine baby hairs, natural facial asymmetry, believable hands, sharp eyes, realistic fabric texture, subtle exposure variations, and natural compact-camera flash. Avoid excessive retouching, artificial skin smoothing, duplicated expressions, malformed fingers, distorted anatomy, or overly polished AI-generated aesthetics.
+
+  Output: Vertical 3:4 aspect ratio, exactly six photographs in a balanced 3-column × 2-row grid, clean alignment, no gutters, no borders, no text, no watermark. Photorealistic, intimate, youthful, spontaneous, and effortlessly French.

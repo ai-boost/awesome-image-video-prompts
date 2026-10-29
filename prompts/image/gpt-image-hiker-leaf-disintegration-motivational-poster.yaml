@@ -1,0 +1,28 @@
+id: gpt-image-hiker-leaf-disintegration-motivational-poster
+title:
+  en: Hiker disintegrating into autumn leaves motivational poster
+  zh: 徒步女孩化作秋叶的励志海报
+model: GPT Image 2.5
+mode: image-edit
+category: poster
+tags:
+- motivational-poster
+- disintegration
+- autumn
+- typography
+- golden-hour
+source:
+  name: '@mehwishkiran07 on X'
+  url: https://x.com/mehwishkiran07/status/2100787007811362831
+  credit: Mehwish kiran
+  likes: 121
+  captured: '2026-10-28'
+  posted: '2026-09-18'
+notes:
+  en: One side of the figure is told to disintegrate into leaves, dust and birds, which gives the poster a single focal effect. Exact quoted text for each typographic element, plus a second framed version with a torn-paper border, produces a two-panel layout.
+  zh: 指定人物一侧化作落叶、尘埃和飞鸟，让海报有唯一的视觉焦点。每处文字都给出确切内容，再要求带撕纸边框的第二版，形成上下两幅的版式。
+prompt: |
+  Create a cinematic, ultra-realistic motivational poster of a young woman hiking on a rocky mountain trail at golden hour, with a breathtaking lake, mountains, and warm sunset in the background. She wears a cozy beige fleece jacket over a black top, olive cargo pants, hiking boots, and a backpack. Her hair is tied in a messy bun, with a natural, confident expression.
+  Create a dramatic disintegration effect on the right side of her body, where her figure transforms into flying autumn leaves, dust particles, and small fragments carried into the sky. Add several black birds flying among the leaves. Include ancient stone ruins on the right side and a large rock with the text “SAME HUSTLE BIGGER TOMORROW.”
+  On the left side, add elegant typography: “Progress” in stylish handwritten script, followed by “LOOKS GOOD ON YOU” in clean uppercase serif lettering. Use warm orange, brown, and golden tones, cinematic lighting, shallow depth of field, realistic textures, atmospheric perspective, high detail, professional advertising photography, 8K quality.
+  Create a second framed version below with a white artistic torn-paper/paint-splatter border and autumn leaves around the edges. At the bottom add the handwritten text “Same Girl… Bigger Dreams ♡” and below it: “REAL MOMENTS • BRIGHTER DAYS • A KINDER ME.”

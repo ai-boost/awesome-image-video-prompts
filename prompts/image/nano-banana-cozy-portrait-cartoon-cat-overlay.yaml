@@ -1,0 +1,95 @@
+id: nano-banana-cozy-portrait-cartoon-cat-overlay
+title:
+  en: Cozy Portrait with Cartoon Cat Doodles
+  zh: 叠加卡通猫涂鸦的温馨人像
+model: Nano Banana 2
+mode: image-edit
+category: edit
+tags:
+- cartoon-overlay
+- mixed-media
+- cozy
+- json-prompt
+- cat
+source:
+  name: '@Just_sharon7 on X'
+  url: https://x.com/Just_sharon7/status/2029006238101680432
+  credit: Sharon Riley
+  likes: 246
+  captured: '2026-10-28'
+  posted: '2026-03-04'
+notes:
+  en: A structured JSON prompt splits subject, props, environment, illustration effects and rendering. It pairs realistic textures with smooth vector style cartoon overlays and white doodle outlines.
+  zh: 用结构化 JSON 把人物、道具、环境、插画效果和渲染分开描述。真实质感与光滑矢量卡通叠加、白色涂鸦轮廓形成对比。
+prompt: |
+  {
+    "title": "Whimsical Cozy Portrait",
+    "input_image": "[UPLOAD YOUR IMAGE]",
+    "description": "Transform the uploaded image into a 64K DSLR-quality ultra-hyperrealistic cozy, whimsical mixed-media portrait combining realistic photography with playful cartoon illustrations.",
+    "subject": {
+      "person": {
+        "appearance": {
+          "hair": "blonde, loosely tied with soft strands framing the face",
+          "eyes": "light green",
+          "makeup": "natural",
+          "top": "dark grey layered over black long-sleeve shirt",
+          "expression": "resting cheek gently on one hand, dreamy and slightly tired",
+          "accessories": [
+            "black-and-pink cat ears",
+            "small cute hair clip"
+          ]
+        },
+        "pose": "sitting at a wooden table, holding a white ceramic mug in one hand"
+      },
+      "animated_elements": [
+        {
+          "type": "cartoon_cat",
+          "color": "bright orange",
+          "expression": "excited, curious",
+          "action": "climbing up her arm",
+          "features": "exaggerated big eyes, expressive paws"
+        },
+        {
+          "type": "cartoon_tail",
+          "color": "grey",
+          "position": "right side, partially out of frame"
+        }
+      ]
+    },
+    "props": {
+      "mug": {
+        "color": "white",
+        "illustration": "cute cartoon face with big expressive eyes and small mustache",
+        "drink": "pink foam bubbles rising from the top"
+      },
+      "dessert": {
+        "type": "chocolate cake",
+        "toppings": ["whipped cream", "sliced strawberries", "peach slice"]
+      }
+    },
+    "environment": {
+      "room": {
+        "walls": "beige textured",
+        "lighting": "soft daylight streaming through window with sheer white curtains",
+        "decor": "vintage framed photographs in casual gallery arrangement",
+        "atmosphere": "warm, cozy, intimate"
+      }
+    },
+    "illustration_effects": {
+      "style": [
+        "hand-drawn cartoon overlays",
+        "white doodle-style accents: bubbles, playful lines, sparkles, hand-drawn crown",
+        "soft white illustrated outlines around woman and objects"
+      ]
+    },
+    "composition": {
+      "aspect_ratio": ["1:1", "4:5 vertical"],
+      "depth_of_field": "shallow",
+      "mood": ["cozy", "cute", "whimsical", "soft", "playful", "warm"]
+    },
+    "rendering": {
+      "technique": ["Octane render", "Ultra-hyperrealistic", "Unreal Engine 5"],
+      "details": "ultra-detailed, high-resolution, soft natural lighting, warm tones, Instagram-worthy",
+      "texture_contrast": "realistic textures (skin, fabric, wood, wall) vs smooth vector-style illustrations"
+    }
+  }

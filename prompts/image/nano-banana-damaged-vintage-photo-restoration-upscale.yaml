@@ -1,0 +1,29 @@
+id: nano-banana-damaged-vintage-photo-restoration-upscale
+title:
+  en: Cracked vintage portrait restored to sharp 4K
+  zh: 开裂的老照片修复为清晰4K人像
+model: Nano Banana 2
+mode: image-edit
+category: edit
+tags:
+- photo-restoration
+- upscale
+- json-prompt
+- vintage-photo
+- negative-prompt
+source:
+  name: '@doctorwasif on X'
+  url: https://x.com/doctorwasif/status/2048998423471481059
+  credit: WasifAI
+  likes: 297
+  captured: '2026-10-28'
+  posted: '2026-04-28'
+notes:
+  en: A JSON structure splits the task, positive prompt, negative prompt and parameters, and the positive text opens by locking identity, proportions and composition. The negative list blocks restyling, plastic skin and over sharpening, and a low denoising strength keeps the result faithful to the source.
+  zh: 用JSON把任务、正向提示、负向提示和参数分开，正向提示开头先锁定身份、比例和构图。负向词禁止改风格、塑料皮肤和过度锐化，较低的降噪强度让结果忠实于原图。
+prompt: |
+  { "task": "image_restoration_upscale", "positive_prompt":
+  "Restore and enhance the provided image. Preserve original identity, facial structure, proportions and composition. High-fidelity photo restoration, ultra-realistic, natural skin texture, accurate details, professional photographic look. 4K output, sharp but natural focus, modern cinematic lighting, subtle volumetric lighting, professional color grading, depth of field, HDR. Shot on Arri Alexa, raw photo aesthetic, masterpiece.",
+  "negative_prompt": "Creative reinterpretation, style change, identity alteration, face reshaping, exaggerated features, cartoonish, painting, illustration, over-sharpening, plastic skin, blur, noise, film grain, jpeg artifacts, distortion, bad anatomy, overexposed, underexposed, washed out colors.", "parameters":
+  { "steps": 30, "cfg_scale": 6.5, "denoising_strength": 0.45,
+  "upscaler": "4x_NMKD_Siax_200k", "target_resolution": "4K" } }

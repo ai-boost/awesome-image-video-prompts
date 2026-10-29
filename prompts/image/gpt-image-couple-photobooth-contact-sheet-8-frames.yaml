@@ -1,0 +1,53 @@
+id: gpt-image-couple-photobooth-contact-sheet-8-frames
+title:
+  en: Young couple photobooth contact sheet, eight frames
+  zh: 年轻情侣八格拍立得照相亭联系表
+model: GPT Image 2.5
+mode: text-to-image
+category: collage
+tags:
+- photobooth
+- contact-sheet
+- couple
+- film-grain
+- scrapbook
+source:
+  name: '@frametheory058 on X'
+  url: https://x.com/frametheory058/status/2099882958106878177
+  credit: Nexora
+  likes: 79
+  captured: '2026-10-28'
+  posted: '2026-09-15'
+notes:
+  en: Locks both characters with a fixed hair and clothing description, then numbers eight distinct spontaneous moments so the frames do not repeat poses. Film stock, direct flash and grain cues, plus a negative list against beauty filters, push the result toward a real photo.
+  zh: 先用固定的发型和服装描述锁定两位人物，再逐条编号八个不同的自然瞬间，避免姿势重复。胶片型号、直闪和颗粒的描述，加上禁用美颜滤镜的排除项，让画面更接近真实照片。
+prompt: |
+  Create an ultra-realistic vertical 2×4 photobooth contact-sheet collage of the same adorable young couple across all 8 frames. They should look like genuine real people photographed together, never AI-generated: natural facial asymmetry, realistic pores and skin texture, tiny imperfections, individual hair strands, authentic eyes, believable hands and anatomy.
+
+  Character continuity: cute young woman with long soft dark-brown hair, warm expressive eyes, subtle natural makeup, oversized cream knit sweater. Cute young man with messy naturally curly dark-brown hair, warm expressive eyes, dark charcoal hoodie/jacket over a simple white T-shirt. Keep their faces, hairstyles, age, proportions and clothing perfectly consistent in every frame.
+
+  Make every frame feel like a different spontaneous moment rather than repeated poses:
+
+  1. She rests her cheek on her hand while he looks at her with a tiny smile.
+
+  2. Both lean extremely close to the camera, laughing naturally, slightly imperfect framing.
+
+  3. She kisses his cheek while gently squishing his face; his eyes close with a genuine smile.
+
+  4. Both hide half their faces inside their oversized sleeves, only their eyes visible.
+
+  5. They wear matching dark vintage baseball caps; she makes a playful pout while he looks toward her.
+
+  6. A genuine mid-laugh shot where she covers her smile and he laughs beside her.
+
+  7. She makes a small heart with both hands in the foreground while he rests his cheek against her head.
+
+  8. Final emotional frame: he kisses her forehead while she closes her eyes and hugs him tightly.
+
+  Shot like a real late-night photobooth session on Kodak Portra 400, direct on-camera flash, slightly warm neutral white balance, soft shadow behind them, realistic flash falloff, subtle highlight bloom, fine 35mm grain, mild lens softness, tiny exposure inconsistencies and imperfect candid framing. No beauty filter, plastic skin, excessive sharpening, CGI or AI aesthetic.
+
+  Arrange all eight photographs inside distressed black analog contact-sheet borders on a matte black scrapbook background. Add tiny orange film-edge markings, subtle scratches and dust. Around the photographs, add sparse handwritten white-ink doodles and small imperfect hearts with phrases such as “Better Together ♡”, “My Happy Place”, “Same People, Different Moments”, “Still You ♡” and “More Silly Moments Please.” Keep typography secondary to the photographs and authentically handwritten rather than digitally perfect.
+
+  At the bottom, handwritten: “A thousand little moments with you ♡” with a small handwritten date.
+
+  The overall result should feel like a real couple accidentally created the perfect roll of film, intimate, youthful, nostalgic, cute and highly shareable—not a polished commercial photoshoot. Premium editorial composition, believable analog photography, extremely detailed faces, clean tonal separation, excellent contrast and natural cinematic color grading, 8K-quality realism, 9:16 vertical, absolutely no obvious AI artifacts.

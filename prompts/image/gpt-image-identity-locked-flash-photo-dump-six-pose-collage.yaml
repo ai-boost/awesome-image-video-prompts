@@ -1,0 +1,27 @@
+id: gpt-image-identity-locked-flash-photo-dump-six-pose-collage
+title:
+  en: Six pose flash portrait photo dump collage
+  zh: 六种姿势闪光灯人像照片合集拼图
+model: GPT Image 2.5
+mode: image-edit
+category: collage
+tags:
+- photo-dump
+- flash-photography
+- identity-lock
+- pose-grid
+- portrait
+source:
+  name: '@MissDelulu9 on X'
+  url: https://x.com/MissDelulu9/status/2113461687902994578
+  credit: Eesha
+  likes: 197
+  captured: '2026-10-28'
+  posted: '2026-10-23'
+notes:
+  en: The reference photo is used for identity only, with face, eye color and hair spelled out. Six numbered poses with different hair positions, a named compact camera with direct flash, and a plain wall give a convincing photo dump look.
+  zh: 参考图只用于锁定身份，并写明五官、瞳色和发质。六个编号的姿势各带不同发型，再配上指定的卡片相机直闪和纯色墙面，呈现出真实的照片合集感。
+prompt: |
+  Ultra-realistic 6-photo collage (3×2 grid) of the same person using client photo for identity only (exact face, facial features, eye color, natural hair color/length/volume/texture). Plain light grey-blue wall background, black thin-strap camisole, minimal jewelry, Canon PowerShot G7X Mark III strong direct flash, hard shadows, sharp focus, natural skin texture, slight film grain.
+
+  Instagram photo dump aesthetic. Six unique expressions/poses: (1) soft smile, hands on cheeks, (2) wink, big smile, hand in hair, (3) eyes closed, tongue slightly out, both hands lifting hair, (4) confident side glance, hand under chin, (5) laughing, looking away, hair flipped, (6) dreamy look, hand touching hair. Different hair positions in every frame. No AI look, no distorted hands, no extra fingers. --ar 3:4

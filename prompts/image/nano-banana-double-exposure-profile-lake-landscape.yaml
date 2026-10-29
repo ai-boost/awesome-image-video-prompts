@@ -1,0 +1,25 @@
+id: nano-banana-double-exposure-profile-lake-landscape
+title:
+  en: Double exposure profile portrait with misty lake
+  zh: 侧脸双重曝光人像与薄雾湖景
+model: Nano Banana 2
+mode: image-edit
+category: photo-to-art
+tags:
+- double-exposure
+- profile-portrait
+- surreal
+- landscape
+- reference-image
+source:
+  name: '@HaniaAi12 on X'
+  url: https://x.com/HaniaAi12/status/2032993631792148666
+  credit: Hania Ai
+  likes: 174
+  captured: '2026-10-28'
+  posted: '2026-03-13'
+notes:
+  en: A reference image is named twice, once for the main profile and once for the small figure, so the same person appears at two scales. The silhouette is filled with a scene of lake, mountains and mist, and bare branches, a minimal white background and poster framing keep it clean.
+  zh: 提示词两次引用参考图，分别用于大侧脸和小人物，让同一人物以两种比例出现。剪影内填入湖泊、山脉与薄雾场景，枯枝、极简白底和海报构图让画面保持干净。
+prompt: |
+  double exposure portrait of the character(reference image) in side profile looking left, blending into bare tree branches, surreal artistic composition, inside the silhouette a peaceful lake landscape with mountains and mist, a small character(of the same reference image) in a standing on mossy rocks holding a curved tree trunk, dreamy atmosphere, soft natural light, minimal white background, ethereal and poetic mood, fine art photography, ultra detailed, cinematic lighting, high resolution, poster design.

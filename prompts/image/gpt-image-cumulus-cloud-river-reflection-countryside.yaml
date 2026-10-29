@@ -1,0 +1,52 @@
+id: gpt-image-cumulus-cloud-river-reflection-countryside
+title:
+  en: Cumulus clouds mirrored in a countryside river
+  zh: 乡村河流中倒映的积云与小教堂
+model: GPT Image 2
+mode: text-to-image
+category: realism
+tags:
+- landscape
+- clouds
+- reflection
+- aerial-view
+- countryside
+source:
+  name: '@churvikv on X'
+  url: https://x.com/churvikv/status/2095472478340468762
+  credit: Viki
+  likes: 148
+  captured: '2026-10-29'
+  posted: '2026-09-03'
+notes:
+  en: The prompt is split into labeled Environment, Lighting, Materials and Composition blocks, and each block states what to avoid, such as blown out whites and roads dominating the frame. A high aerial viewpoint and an S curve river anchor the cloud reflection as the hero.
+  zh: 提示词按环境、光线、材质、构图分块，并在每块里写明要避免的内容，如过曝的白色和占据画面的道路。高空俯视视角加上 S 形河道，把云的倒影托成画面主角。
+prompt: |
+  A painterly, highly detailed landscape scene with a luminous blue summer sky dominated by towering white cumulus clouds, rendered in a romantic fine-art campaign style. The hero is the dramatic cloud formation and its near-symmetrical reflection in a calm winding river, with patchwork farmland, dense green trees, and a small village church adding scale and pastoral elegance.
+
+  Environment:
+  • Elevated panoramic view over a rural countryside with a broad horizon line
+  • Massive vertical cloud towers filling most of the upper frame, clustered and sculptural, with soft lavender-gray shading in their interiors
+  • A reflective river curves through the center of the landscape, mirroring the clouds almost perfectly
+  • Surrounding fields in green, tan, and muted gold arranged in large geometric plots
+  • Dense tree lines along the riverbanks, with a few small red-roofed buildings near the water
+  • A church with a tall dark spire and pale walls positioned right of center in the mid-distance
+  • Avoid urban elements, roads dominating the frame, modern infrastructure, and visual clutter
+
+  Lighting:
+  • Bright daytime sunlight with crisp atmospheric clarity
+  • Soft but defined illumination across the clouds, emphasizing volume and height
+  • Even landscape exposure with gentle contrast and clear reflections in the water
+  • No harsh blown-out whites, no muddy shadows, no dramatic sunset tones
+
+  Materials:
+  • Billowing cloud masses with soft, cotton-like texture and subtle cool-shadow coloration
+  • Glassy river surface with mirror-like reflection and slight natural softness
+  • Organic tree canopies, cultivated farmland textures, stucco walls, dark church spire, clay-tile rooftops
+
+  Composition:
+  • Vertical aspect ratio
+  • High aerial or hilltop viewpoint looking slightly downward across the valley
+  • River forms a strong S-curve leading from foreground to mid-ground
+  • Cloud reflection occupies the lower center, echoing the cloud mass above
+  • Church and village serve as secondary focal

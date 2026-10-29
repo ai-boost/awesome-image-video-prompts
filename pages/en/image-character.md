@@ -1,6 +1,6 @@
 # Characters and figures
 
-[Back to the list](../../README.md) · All 29 entries
+[Back to the list](../../README.md) · All 45 entries
 
 <a id="gpt-image-dance-pose-sheet-4x4-character"></a>
 ### Sixteen panel dance pose sheet of anime girl
@@ -59,6 +59,173 @@ Final output: one polished square image containing a clearly organized 4×4 grid
 
 </details>
 
+<a id="gpt-image-grayscale-3d-household-chores-step-grid"></a>
+### Grayscale 3D household chores instruction grid
+
+<a href="https://x.com/john_my07/status/2048803726312571335"><img src="../../previews/gpt-image-grayscale-3d-household-chores-step-grid.jpg" width="360"></a>
+
+Labeled blocks fix style, grid, character, wardrobe and scene, then a per panel template sets step title, pose, instruction lines and motion arrows. A reference image locks the face across all 16 panels, and a restrictions block keeps the sheet clean enough to use as an animation reference.
+
+GPT Image 2 · Edit · Source: [@john_my07 on X](https://x.com/john_my07/status/2048803726312571335) · 1,187 likes on 2026-10-28
+
+[`instructional-grid`](tags.md#tag-instructional-grid) [`grayscale`](tags.md#tag-grayscale) [`3d-render`](tags.md#tag-3d-render) [`motion-arrows`](tags.md#tag-motion-arrows) [`reference-image`](tags.md#tag-reference-image)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+[VISUAL STYLE]
+Monochrome grayscale composition featuring a highly detailed 3D-rendered female character. Designed like a professional instructional guide with a technical, diagram-inspired layout. Clean white background, soft studio lighting, and strong contrast to highlight posture, actions, and object interaction.
+[GRID LAYOUT]
+Structured 4×4 panel grid (16 frames total), evenly spaced with thin black divider lines. Each panel is identical in size and clearly numbered from 1 to 16, showing a continuous sequence of household activities.
+[CHARACTER]
+Use the provided reference image for the face and overall likeness.
+Same facial features, skin tone, and proportions
+Natural makeup, soft expression
+Consistent identity across all 16 panels
+Realistic proportions and clean hairstyle (loose or tied back)
+[WARDROBE]
+Modern, modest casual outfit:
+Fitted crop top (not revealing, clean neckline, practical for movement)
+High-waisted straight or slightly wide-leg jeans (full length, neat fit)
+Optional minimal sneakers or barefoot indoor styling
+Fabric should react naturally to movement (subtle folds and tension)
+[SCENE APPROACH]
+Minimal, clean environment per panel — only essential props related to the chore.
+No clutter, no complex backgrounds — focus stays on the subject and action.
+[PANEL STRUCTURE – EACH FRAME]
+Top-left: Step number + task title (e.g., “Step 4 – Vacuum Floor”)
+Center: Full-body pose performing the chore
+Bottom-left: 3–4 concise instruction lines
+Overlay: Motion arrows and directional guides showing action flow
+[CHORE SEQUENCE EXAMPLES]
+Make the Bed
+Tidy Up Room
+Dust Surfaces
+Vacuum Floor
+Sweep Floor
+Mop Floor
+Do Laundry
+Hang Clothes
+Fold Clothes
+Clean Kitchen Counter
+Wash Dishes
+Take Out Trash
+Water Plants
+Clean Bathroom
+Organize Shelves
+Final Room Reset
+[MOTION INDICATORS]
+Curved arrows → fluid actions (wiping, folding)
+Straight arrows → directional movement
+Circular arrows → repetitive motions (scrubbing, mopping)
+[RENDER QUALITY]
+High-detail sculpted 3D style with smooth grayscale shading, soft shadows, and clean linework. Polished, concept-art level finish with clarity in every pose and object interaction.
+[RESTRICTIONS]
+No color, no unnecessary background detail, no extra characters, no revealing clothing, no clutter — only the subject, props, and instructional elements.
+```
+
+</details>
+
+<a id="gpt-image-character-identity-board-from-reference"></a>
+### Artbook character identity board from a reference image
+
+<a href="https://x.com/aimikoda/status/2068989070332543027"><img src="../../previews/gpt-image-character-identity-board-from-reference.jpg" width="360"></a>
+
+An image reference locks the subject and medium, and an identity lock list keeps face, hair, outfit and proportions consistent across every view. An asymmetrical layout with one large hero figure, a no overlap rule and small silhouette, expression and detail studies makes a useful production reference.
+
+GPT Image 2 · Edit · Source: [@aimikoda on X](https://x.com/aimikoda/status/2068989070332543027) · 1,149 likes on 2026-10-28
+
+[`character-sheet`](tags.md#tag-character-sheet) [`identity-board`](tags.md#tag-identity-board) [`reference-image`](tags.md#tag-reference-image) [`artbook`](tags.md#tag-artbook) [`consistency`](tags.md#tag-consistency)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create an artistic 16:9 CHARACTER IDENTITY BOARD.
+
+Use Image A as the subject and the visual medium. Name: Clara. Fix headphones. (just change this line as your needs.)
+
+Soft off-white background. No environment, no logo, no watermark.
+
+DESIGN DIRECTION:
+Do not create a standard character reference sheet.
+Create a cinematic identity board that feels like a high-end animation studio character study mixed with an artbook layout.
+
+The layout should be asymmetrical, elegant and visually memorable.
+Use large empty space, varied image scale and intentional imbalance.
+Avoid grids, blueprint design, catalog layout and repetitive turnaround presentation.
+
+IMPORTANT LAYOUT RULE:
+Do not overlap any character images.
+Every view must have clear separation and breathing room.
+Keep all bodies, portraits, silhouettes and detail studies visually distinct.
+No cropped faces, no hidden limbs, no stacked figures, no merged poses.
+
+MAIN COMPOSITION:
+Place one large hero full-body view slightly off-center as the visual anchor.
+
+Around it, arrange smaller supporting studies with clean spacing:
+neutral full-body view, back view, profile view, seated pose, leaning pose, crouching pose, top-down body angle, low-angle body angle, expressive portrait studies.
+
+Each view should feel like a separate clean character study, not a frame from one scene.
+
+IDENTITY LOCK:
+Preserve strict identity consistency across all views:
+same face, same facial proportions, same hairstyle, same outfit, same body proportions, same posture language, same visual personality.
+
+USEFUL REFERENCE DETAILS:
+Make the character readable for future image and video generation:
+clear face shape, clear hair silhouette, clear outfit silhouette, clear body shape, clear hands, clear posture, clear expression range.
+
+ARTISTIC SECTIONS:
+Include a small silhouette study area with 2-3 simplified black character silhouettes.
+Include a small expression study area with subtle emotional variations.
+Include a small detail study area showing key visual features of the face, hair and outfit.
+
+TEXT DESIGN:
+Add one stylish CHARACTER ID block.
+Keep it minimal, bold and art-directed.
+Use only:
+NAME
+ROLE
+CORE MOOD
+VISUAL SIGNATURE
+
+Use small handwritten-style labels only where helpful.
+Subtle editorial arrows and annotation marks are allowed, but keep them minimal and elegant.
+
+STYLE:
+minimal, cinematic, premium, artbook-like, clean, expressive, useful for production.
+
+The final image should feel like an artistic character identity board designed to help an AI model understand the character’s face, silhouette, outfit, posture and emotional range.
+```
+
+</details>
+
+<a id="nano-banana-3d-caricature-elongated-neck-portrait"></a>
+### Stylized 3D caricature portrait with elongated neck
+
+<a href="https://x.com/Naiknelofar788/status/2032256273782358153"><img src="../../previews/nano-banana-3d-caricature-elongated-neck-portrait.jpg" width="360"></a>
+
+Uses a reference photo and asks to keep likeness while deforming specific features such as neck length, droopy eyelids and heavy lips. A long negative list (no grain, no noise, no freckles) plus flat neutral studio light keeps the render clean and collectible.
+
+Nano Banana 2 · Edit · Source: [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2032256273782358153) · 1,034 likes on 2026-10-28
+
+[`3d-caricature`](tags.md#tag-3d-caricature) [`reference-photo`](tags.md#tag-reference-photo) [`studio-lighting`](tags.md#tag-studio-lighting) [`street-fashion`](tags.md#tag-street-fashion) [`portrait`](tags.md#tag-portrait)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create an exaggerated stylized 3D caricature character portrait with strong intentional deformation and a clean, controlled surface finish. Use the person from the ATTACHED REFERENCE PHOTO. Preserve the subject’s identity, facial likeness, skin tone, and defining features, but reinterpret them into a bold caricatured 3D form with an elongated neck, oversized head-to-neck ratio, droopy eyelids, heavy lips, and slightly asymmetrical facial structure.Render as a human-like 3D character with smooth, studio-clean skin and intentionally designed detail, avoiding random texture or noise. Style with bold accessories such as round or oval glasses, hoop earrings, gold chains, headscarves or bandanas, and street-luxury clothing.
+
+Use neutral studio lighting with soft shadows and even illumination, no dramatic contrast, against a plain neutral grey or off-white background. The overall aesthetic should feel weird, fashion-forward, collectible, and character-driven rather than cute or realistic.
+
+Ultra high definition, premium cinematic 3D render quality, hyper-realistic hyper realism, clean materials, no freckles, no dirt, no grain, no noise, no speckling, no text, no logos, no watermarks.
+
+Aspect ratio 4:5.
+```
+
+</details>
+
 <a id="gpt-image-kawaii-character-profile-sheet-from-photo"></a>
 ### Kawaii character profile sheet from a portrait photo
 
@@ -82,6 +249,65 @@ Action poses (running, playing) (based on personality)
 Small object icons
 Color palette section
 Profile section with name and personality.
+```
+
+</details>
+
+<a id="gpt-image-cute-crazy-scale-expression-grid"></a>
+### Sixteen panel expression grid from cute to crazy
+
+<a href="https://x.com/aimikoda/status/2055036470583263712"><img src="../../previews/gpt-image-cute-crazy-scale-expression-grid.jpg" width="360"></a>
+
+The prompt numbers every panel in a fixed emotional order and forbids random intensity, so the expressions escalate steadily from top left to bottom right. A reference character locks the identity, while header text, label style and framing are specified once for the whole grid.
+
+GPT Image 2 · Edit · Source: [@aimikoda on X](https://x.com/aimikoda/status/2055036470583263712) · 476 likes on 2026-10-28
+
+[`expression-grid`](tags.md#tag-expression-grid) [`character-consistency`](tags.md#tag-character-consistency) [`4x4-grid`](tags.md#tag-4x4-grid) [`emotion-scale`](tags.md#tag-emotion-scale) [`typography`](tags.md#tag-typography)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a clean 4x4 emotional performance grid using the provided character as the fixed identity reference.
+
+Visual style:
+Clean modern graphic design layout. Elegant serif header at the top, soft off-white background, even spacing, small readable handwritten-style labels centered below each panel.
+
+Header text:
+“MY CUTE ↔ CRAZY SCALE”
+
+Preserve strict facial identity consistency across all 16 panels.
+
+Follow the exact emotional progression from top-left to bottom-right.
+Do not randomize expressions or intensity.
+
+GRID ORDER:
+
+Row 1:
+1. soft innocent cute
+2. shy cute
+3. playful cute
+4. teasing cute
+
+Row 2:
+5. energetic cute
+6. chaotic playful
+7. emotionally intense
+8. unstable smile
+
+Row 3:
+9. overly excited
+10. wild eyes
+11. manic happiness
+12. emotionally unhinged
+
+Row 4:
+13. chaotic stare
+14. dangerous excitement
+15. beautiful insanity
+16. fully crazy
+
+Format:
+4x4 grid, cinematic portrait photography style, neutral background, tight close-up framing, shallow depth of field, no watermark.
 ```
 
 </details>
@@ -135,110 +361,97 @@ Final output: one polished square image containing a clearly organized 4×4 grid
 
 </details>
 
-<a id="gpt-image-knitted-puppet-bust"></a>
-### Photo to knitted stop-motion puppet bust
+<a id="nano-banana-grumpy-toddler-3d-render-from-reference"></a>
+### Grumpy Toddler Girl Pixar Style 3D Render
 
-<a href="https://x.com/oggii_0/status/2114585881059459119"><img src="../../previews/gpt-image-knitted-puppet-bust.jpg" width="360"></a>
+<a href="https://x.com/Naiknelofar788/status/2028747310759542860"><img src="../../previews/nano-banana-grumpy-toddler-3d-render-from-reference.jpg" width="360"></a>
 
-Very long material spec (yarn, stitches, felt) with a final rule not to invent anything the photo does not show.
+Reference photo identity is locked by listing exact facial features to replicate, then age is shifted to toddler. Expression, hair, outfit, pose and render style each get a labeled section, which keeps the pout and chin on palm pose controllable.
 
-GPT Image 2.5 · Edit · Source: [@oggii_0 on X](https://x.com/oggii_0/status/2114585881059459119) · 327 likes on 2026-10-27
+Nano Banana 2 · Edit · Source: [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2028747310759542860) · 369 likes on 2026-10-28
 
-[`3d`](tags.md#tag-3d) [`textile`](tags.md#tag-textile) [`toy`](tags.md#tag-toy)
+[`toddler`](tags.md#tag-toddler) [`3d-render`](tags.md#tag-3d-render) [`pixar-style`](tags.md#tag-pixar-style) [`reference-photo`](tags.md#tag-reference-photo) [`white-background`](tags.md#tag-white-background)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-Task: Create a 1:1 Square 3D Textile Art Toy Bust from the Attached Real Photograph
+Create a super cute, hyper-realistic 3D render of a toddler girl who is a younger version of the person in the provided reference photo.
 
-Use the attached real photograph to create a square 1:1, stylized 3D textile art toy bust. Interpret the inputs by their roles: the real photograph is the source of identity and content, while the minimalist white-background toy image is the style reference. Their order does not matter.
+The facial structure must strongly match the reference image. Accurately replicate the exact eye shape, eye color, skin tone, lip shape, nose structure, cheek fullness, eyebrow shape, and overall facial proportions. The toddler version should clearly resemble the same person at a younger age while maintaining realistic childlike softness and rounded features.
+If any accessory (such as an earring or similar detail) appears in the reference image, replicate it accurately in size, colour, and placement.
+Expression:
 
-Preserve the subject’s identity, facial expression, pose, and spatial relationships between objects. Reconstruct the subject as an exaggerated, humorous designer collectible toy. Do not apply a simple fuzzy or plush filter to the original photograph.
+Distinctly grumpy and pouty. Chin resting on her left palm. One eye slightly squinted in mild annoyance. Eyebrows gently furrowed. Lips pushed forward in a stubborn pout. Expression must feel natural and emotionally believable, not exaggerated.
+Hair:
 
-## 1. Style Reference
+Hairstyle should be adapted from the reference image while keeping it toddler-appropriate. Styled in a messy high bun with soft, natural baby hair strands framing the face.
+Outfit:
 
-Borrow only these visual characteristics from the reference image:
+White short-sleeve t-shirt under classic blue denim overalls with visible stitching and metal clasps.
+Pose & Background:
 
-- An oversized, horizontally broad head with rounded corners.
-- Extremely small, centrally concentrated facial features with generous facial negative space.
-- Sculptural knitted forms, clustered yarn shapes, and soft textile construction.
-- Subtle asymmetry for a handmade, designer-toy appearance.
-- Contrast between fine-grained flocked surfaces and chunky knitted textures.
-- A deliberate primary and accent color hierarchy.
-- Clean, minimalist white studio photography.
+Sitting cross-legged on a clean white studio background. Feet slightly angled toward the camera. Balanced composition with full body visible.
+Style & Quality:
 
-Do not inherit the reference character’s body, pose, hairstyle, hat, glasses, clothing, props, or colors.
+Ultra-detailed Pixar/Disney-inspired 3D animation aesthetic. Professional CGI rendering. 1:1 aspect ratio. 8K resolution. Sharp focus. Cinematic studio lighting with soft subsurface scattering on the skin. Smooth textures, realistic fabric physics, soft global illumination, and natural shadow falloff.
+```
 
-## 2. Subject and Identity Preservation
+</details>
 
-The real photograph is the exclusive source of visible content. Reproduce only the body parts, hairstyle, clothing, accessories, objects, poses, and contact relationships that are actually visible in the original image. Never invent or complete details that extend beyond the photograph.
+<a id="nano-banana-character-3d-model-rpg-gameplay-sheet"></a>
+### Anime knight as 3D model and RPG screen
 
-Identify 2–5 distinctive identity anchors from the source image. Exaggerate 1–2 of them while simplifying the remaining details to maintain recognizability.
+<a href="https://x.com/AI_Kei75/status/2032736793292886320"><img src="../../previews/nano-banana-character-3d-model-rpg-gameplay-sheet.jpg" width="360"></a>
 
-- **Head:** Transform it into a broad, thick, rounded rectangular block or a short cylindrical form with softened corners.
-- **Eyes:** Use tiny black beads or capsule-shaped forms.
-- **Nose:** Reduce it to a small, rounded rectangular block.
-- **Mouth:** Preserve the original expression using a short line or a small opening, as appropriate.
-- **Hair:** Reconstruct it as large yarn loops, chunky knitted clusters, or sculptural bundles of wool.
-- **Hands:** Strictly preserve the number of visible hands. If no hands are visible, add none. If one hand is visible, reproduce only one. Preserve its orientation, sleeve cuff, and contact with the original object.
-- **Text and logos:** Convert any visible lettering or branding into illegible woven or knitted texture rather than readable text.
+A design lock clause with heavy weights keeps the same character across every panel. The top row steps from flat line art to a wireframe viewport to a lit game render, and the bottom half is a separate third person combat screenshot with a Japanese HUD. A negative prompt blocks flat 2D drawing and layout bleed.
 
-## 3. Composition
+Nano Banana 2 · Edit · Source: [@AI_Kei75 on X](https://x.com/AI_Kei75/status/2032736793292886320) · 362 likes on 2026-10-28
 
-Create a compact, close-up head-and-shoulders composition.
+[`game-ui`](tags.md#tag-game-ui) [`3d-render`](tags.md#tag-3d-render) [`character-sheet`](tags.md#tag-character-sheet) [`split-layout`](tags.md#tag-split-layout) [`reference-image`](tags.md#tag-reference-image)
 
-- The head should occupy approximately 75–90% of the image width.
-- Compress the body into a small supporting form, retaining only the essential visible pose, gestures, and objects.
-- Allow elements to be cropped by the image boundaries when necessary.
-- Do not add body parts or anatomy extending beyond the original photograph.
-- Maintain a clear silhouette and recognizable relationships between the subject and any visible objects.
+<details><summary><b>Prompt</b></summary>
 
-## 4. Visual Style
+```text
+Masterpiece, best quality, (complex split screen presentation layout:1.7), (game development showcase:1.5).
 
-**Stylized 3D textile art toy, oversized head, tiny concentrated facial features, sculptural knitted forms, micro-flocked surfaces.**
+(CRITICAL GLOBAL CONSTRAINT - DESIGN LOCK):
+(The exact same character design, hair, and outfit MUST be used across ALL sections of the image:2.0).
 
-Prioritize abstract exaggeration over photorealism while preserving recognizability through the subject’s silhouette, hairstyle, facial expression, pose, clothing, and visible objects.
+[TOP HALF: 3-Panel Horizontal Grid - Static Pose]
+The top half is divided into 3 horizontal panels showing the character in the EXACT SAME static pose.
+Top Left: (Original 2D blueprint:1.5), flat anime illustration style. It accurately traces the original image.
+Top Middle: (3D modeling UI viewport:1.5), grey clay render with visible wireframe topology.
+Top Right: (Final in-game 3D render:1.7), fantasy background. (High-end 3D anime game model:1.6), (rendered in Unreal Engine 5:1.5), (volumetric lighting, specular highlights, ambient occlusion, rim light:1.5). The character has clear 3D volume, stylized PBR textures, and prominent 3D shading.
 
-The result should feel like a thoughtfully designed, premium collectible art toy rather than a conventional 3D cartoon character.
+[BOTTOM HALF: Full Width Gameplay Screenshot - Action Pose]
+The bottom half is a single, wide (third-person Action JRPG gameplay screenshot:1.8).
+The EXACT SAME character is shown from a dynamic third-person perspective (viewed from slightly behind/side), in a (dynamic combat action pose:1.6).
+Action: The character is fighting a fantasy monster in a lush, grassy open world 3D environment.
+Style: (High-end 3D anime game engine graphics:1.7), identical to the Top Right panel's 3D render style. (Unreal Engine 5, ray tracing, depth of field, 3D magic particles:1.5).
+Overlay Elements: (Stylish Japanese game UI HUD, minimap, character portrait, skill icons, glowing magic 3D combat effects, particle sparks:1.6). The base language used for the UI is Japanese.
 
-## 5. Color Palette
+(Technical Tags): (collage:1.4), (presentation sheet), sharp boundaries between panels.
+(Negative prompt): (2D illustration in top right and bottom panels:2.0), (flat drawing:2.0), (anime painting:1.8), (bleeding borders:1.5), (messy layout:1.5), (changing character design:2.0), (photorealism:1.5), (missing UI in bottom half), (static pose in bottom half:1.5), low quality, text bleeding.
+</prompt>
+```
 
-Automatically develop a cohesive palette of 3–5 colors, including:
+</details>
 
-- A dominant primary color.
-- A contrasting accent color with a clear difference in temperature or brightness.
-- One or more supporting colors.
-- A neutral color for balance.
+<a id="nano-banana-sketchbook-boy-stepping-out"></a>
+### 3D cartoon boy stepping out of a sketchbook drawing
 
-Non-identity-defining elements may be recolored to improve visual harmony. Preserve the essential identity cues of the original subject while avoiding monotonous palettes, excessive neutrals, evenly distributed rainbow colors, or repetitive mechanical stripes.
+<a href="https://x.com/Emmma___0/status/2029025071009022334"><img src="../../previews/nano-banana-sketchbook-boy-stepping-out.jpg" width="360"></a>
 
-## 6. Materials, Texture, and Lighting
+The prompt shows the same character twice, as a pencil sketch on the page and as a 3D render, and a leg crossing the page edge sells the magic. Warm fairy light bokeh, scattered pencils and a shallow depth of field keep the desk scene cozy and believable.
 
-Use distinct textile treatments for different surfaces:
+Nano Banana 2 · Text-to-image · Source: [@Emmma___0 on X](https://x.com/Emmma___0/status/2029025071009022334) · 338 likes on 2026-10-28
 
-- **Face, hands, and small components:** Fine, dense micro-flocked or short-fiber felt surfaces.
-- **Hair, hats, and clothing:** Chunky knitting, crochet structures, large yarn loops, and clustered wool forms, applied only where those elements exist in the original photograph.
+[`3d-cartoon`](tags.md#tag-3d-cartoon) [`sketchbook`](tags.md#tag-sketchbook) [`character`](tags.md#tag-character) [`bokeh`](tags.md#tag-bokeh) [`cozy`](tags.md#tag-cozy)
 
-Create visible material contrast between the fine-grained felt and the coarser knitted structures. The surfaces should appear sculpted from real textile materials, not covered with a generic fuzzy filter.
+<details><summary><b>Prompt</b></summary>
 
-Use a subtly warm-white seamless background, soft high-key studio lighting, gentle highlights, and short, delicate shadows. Keep the presentation clean, bright, and premium.
-
-## 7. Strict Exclusions
-
-- No photorealistic eyeballs, detailed nostrils, realistic lips, natural skin texture, or individual hair strands.
-- No copying the reference character’s identity or distinctive design elements.
-- No invented body parts, hand gestures, accessories, clothing, or props absent from the source photograph.
-- No conventional 3D cartoon aesthetics.
-- No plastic, polymer clay, wax figure, or long-pile plush appearance.
-- No readable text, logos, or branding.
-- No rooms, environmental scenes, or complex backgrounds.
-- No generic fuzzy overlay that obscures the underlying sculptural textile construction.
-
-## Final Priority
-
-**The source photograph determines WHAT is depicted. The style reference determines HOW it is depicted.**
-
-Deliver a polished, humorous, exaggerated 1:1 square 3D textile art toy bust with a distinctive oversized head, tiny facial features, sculptural yarn construction, contrasting textile textures, a deliberate color palette, and clean white studio lighting. Preserve the original subject’s identity and visible content without inventing anything beyond the photographic evidence.
+```text
+A cute stylized 3D cartoon boy stepping out of a sketchbook drawing on a wooden desk, the notebook page showing a pencil sketch version of the same boy labeled "MY WORLD – SKETCHES". The boy has big expressive eyes, short messy brown hair, wearing a white and blue raglan t-shirt, blue jeans, and red sneakers. One leg is stepping out of the sketchbook into the real world. Warm cozy studio lighting, bokeh fairy lights in the background, colored pencils and art supplies scattered on the desk, shallow depth of field, Pixar-style character design, ultra-detailed, cinematic lighting, soft shadows, photorealistic textures, magical creative atmosphere, 3D render, high resolution.
 ```
 
 </details>
@@ -346,6 +559,116 @@ Generic choreography, copied reference poses, repetitive or mirrored duplicates,
 
 </details>
 
+<a id="gpt-image-designer-toy-3d-caricature-before-after-inset"></a>
+### Designer toy 3D caricature with original photo inset
+
+<a href="https://x.com/Waseem__786Ai/status/2063062634455273585"><img src="../../previews/gpt-image-designer-toy-3d-caricature-before-after-inset.jpg" width="360"></a>
+
+The prompt locks identity details first (face, hairstyle, skin tone, age, expression), then sets the caricature proportions of an oversized head on a smaller realistic body. A precise inset spec (corner, 15 to 20 percent of frame, white border, soft shadow) adds a before and after comparison, and a negative list rules out pedestals, busts and cartoon looks.
+
+GPT Image 2 · Edit · Source: [@Waseem__786Ai on X](https://x.com/Waseem__786Ai/status/2063062634455273585) · 275 likes on 2026-10-28
+
+[`3d-caricature`](tags.md#tag-3d-caricature) [`designer-toy`](tags.md#tag-designer-toy) [`before-after`](tags.md#tag-before-after) [`photo-to-3d`](tags.md#tag-photo-to-3d) [`studio-lighting`](tags.md#tag-studio-lighting)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a premium stylized 3D caricature of the person in the uploaded image, preserving their exact identity, facial features, hairstyle, skin tone, age, and expression. Oversized head, smaller realistic upper body, luxury designer-toy aesthetic, visible torso and arms, confident natural pose, ultra-detailed CGI, smooth premium materials, soft studio lighting, neutral gray background, hyper-realistic rendering, sharp focus, 1:1 composition.
+
+Include the original uploaded photo as a rounded-corner inset in the bottom-right corner (15–20% of frame) with a subtle white border and soft shadow, creating a clean before-and-after comparison.
+
+Negative prompt: pedestal, base, bust statue, floating head, Pixar, anime, cartoon, low-poly, blurry, distorted face, extra limbs, text, watermark, logo, cluttered background, low quality.
+
+Try it with your own image and share the result 👇🔥
+```
+
+</details>
+
+<a id="gpt-image-grayscale-dance-movement-sheet-4x4"></a>
+### Grayscale 4x4 dance movement reference sheet
+
+<a href="https://x.com/ChillaiKalan__/status/2049007457918198128"><img src="../../previews/gpt-image-grayscale-dance-movement-sheet-4x4.jpg" width="360"></a>
+
+Bracketed sections for layout, character, panel structure, arrows and rendering style keep the 16 numbered cells consistent, and a negative block removes colour and background clutter. The sheet then serves as a reference image for animating the dance in a video model.
+
+GPT Image 2 · Text-to-image · Source: [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2049007457918198128) · 253 likes on 2026-10-28
+
+[`movement-sheet`](tags.md#tag-movement-sheet) [`grayscale`](tags.md#tag-grayscale) [`3d-render`](tags.md#tag-3d-render) [`dance`](tags.md#tag-dance) [`reference-sheet`](tags.md#tag-reference-sheet)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Monochromatic grayscale illustration, 3D-rendered character, clean instructional reference sheet.
+White background, comic-style cell grid layout, technical diagram aesthetic.
+[LAYOUT]
+4×4 grid layout (16 panels total).
+Each panel separated by thin black border lines.
+Panels are evenly sized and consistently aligned.
+Each cell is clearly numbered from 1 to 16.
+[CHARACTER]
+(Insert character description)
+Example: Young female dancer with an athletic build, ponytail hairstyle, wearing a crop top, baggy pants, and sneakers.
+The same character must appear consistently in all panels.
+[PANEL STRUCTURE – per cell]
+Top-left: bold number badge + Korean title text
+Center: full-body character pose illustration
+Bottom-left: Korean description text (3–4 lines)
+Overlay: directional arrows indicating movement flow
+[ARROWS / MOTION INDICATORS]
+Curved arrows, straight arrows, and circular rotation indicators.
+Arrows should be placed around the character to clearly show movement direction and flow.
+[RENDERING STYLE]
+Highly detailed 3D sculpted style.
+Soft studio lighting with subtle shadows.
+No color — grayscale only.
+Clean linework, polished finish, game concept art quality.
+[NEGATIVE PROMPT]
+No background scenery.
+No color tones.
+No additional characters.
+No cluttered or complex backgrounds.
+```
+
+</details>
+
+<a id="nano-banana-pixar-style-3d-portrait-gradient-background"></a>
+### Pixar style 3D portrait on orange pink gradient
+
+<a href="https://x.com/Taaruk_/status/2041366570149265865"><img src="../../previews/nano-banana-pixar-style-3d-portrait-gradient-background.jpg" width="360"></a>
+
+The prompt stacks character traits (eyes, glasses, hairstyle, outfit, head tilt) before the lighting and render keywords. A bold gradient background with soft rim light keeps the subject separated and clean.
+
+Nano Banana 2 · Text-to-image · Source: [@Taaruk_ on X](https://x.com/Taaruk_/status/2041366570149265865) · 226 likes on 2026-10-28
+
+[`pixar-style`](tags.md#tag-pixar-style) [`3d-render`](tags.md#tag-3d-render) [`portrait`](tags.md#tag-portrait) [`gradient-background`](tags.md#tag-gradient-background) [`character`](tags.md#tag-character)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A stylized Pixar-style 3D portrait of a young person with smooth skin, large expressive blue eyes, soft facial features, wearing round transparent glasses, modern hairstyle (short styled hair / soft bob cut), casual outfit (hoodie or minimal sweater), slight head tilt and warm smile, friendly and approachable expression, ultra-clean character design, vibrant orange-to-pink gradient background, soft studio lighting with subtle rim light, cinematic depth of field, ultra-detailed, 8K render, octane render style.
+```
+
+</details>
+
+<a id="gpt-image-minimi-tiny-figures-photo-world"></a>
+### Miniature 3D figures playing around a portrait
+
+<a href="https://x.com/Zyrellix/status/2055486410749309438"><img src="../../previews/gpt-image-minimi-tiny-figures-photo-world.jpg" width="360"></a>
+
+Lists concrete interactions for the tiny figures (sitting on the shoulder and bag, waving, copying the pose), which gives each one a role in the scene. It also says to keep the original photo intact with realistic shadows and depth, so the figures blend in and the photo does not get redrawn.
+
+GPT Image 2 · Edit · Source: [@Zyrellix on X](https://x.com/Zyrellix/status/2055486410749309438) · 212 likes on 2026-10-28
+
+[`minimi`](tags.md#tag-minimi) [`miniature`](tags.md#tag-miniature) [`photo-to-3d`](tags.md#tag-photo-to-3d) [`portrait`](tags.md#tag-portrait) [`chibi`](tags.md#tag-chibi)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Transform this photo into a tiny “Minimi” world where miniature 3D characters interact naturally around me — sitting on my shoulder and bag, waving, copying my pose, and exploring the scene. Keep the original photo intact with realistic shadows, depth, motion, warm emotions. Title: “Tiny Moments Beside Me”
+```
+
+</details>
+
 <a id="gpt-image-paper-cutout-rabbit-mail-carrier"></a>
 ### Paper cut-out rabbit mail carrier walking on grass
 
@@ -443,6 +766,54 @@ Do not add watermarks, logos, social media handles or promotional text.
 
 
 @WizstarAI
+```
+
+</details>
+
+<a id="gpt-image-anime-idol-16-pose-dance-sheet"></a>
+### Anime idol 16 pose dance choreography sheet
+
+<a href="https://x.com/MahnoorAi12/status/2098691200513720328"><img src="../../previews/gpt-image-anime-idol-16-pose-dance-sheet.jpg" width="360"></a>
+
+A numbered 4 by 4 grid fixes the choreography order, and the prompt locks identity details and a fixed front camera. Each pose gets a 0.5 second slot with a start pose and a transition, so the sheet can drive a video.
+
+GPT Image 2.5 · Edit · Source: [@MahnoorAi12 on X](https://x.com/MahnoorAi12/status/2098691200513720328) · 151 likes on 2026-10-28
+
+[`anime`](tags.md#tag-anime) [`pose-sheet`](tags.md#tag-pose-sheet) [`dance`](tags.md#tag-dance) [`character-consistency`](tags.md#tag-character-consistency) [`cel-shading`](tags.md#tag-cel-shading)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Use this sheet for character appearance and choreography. Follow poses 1→16 from left to right, top to bottom, connecting them into one continuous dance.
+
+Create a continuous 2D anime, crisp cel-shading, vibrant colors animation of the character from the reference sheet, dancing in a plain white space. Preserve her exact face, hairstyle, colors, proportions, outfit, and accessories, matching the reference precisely in every frame. Keep her identity fully consistent throughout.
+
+Her performance is bright, sparkly, and full of hope, with wide-eyed wonder in every gesture.
+
+Use a fixed front-facing camera in one uninterrupted full-body shot. Start immediately in pose 1. Keep her entire silhouette — including hands, hair, wings/tail if present, and feet — inside the frame with comfortable white margins. A soft light-gray oval shadow grounds her on the floor and remains during jumps.
+
+The grid defines choreography order only. Show one character in one continuous space. No reference sheet, split screens, borders, numbers, captions, duplicate figures, afterimages, cuts, or camera movement.
+
+Each numbered pose occupies 0.5 seconds (16 poses = 8 seconds total). Clearly articulate each pose's silhouette, then transition through natural movement into the next. Maintain continuous anatomy and weight transfer: feet push off and land, joints absorb impact, hips and shoulders guide turns. Hair, clothing, and accessories follow with slightly delayed motion. Avoid slideshow transitions, morphing, foot sliding, or sudden changes in limb position.
+
+0.0–0.5s — Pose 1: She stands with feet apart, one hand over the chest and the other arm extended low in welcome, bright smile; bounces softly through the knees, then draws both elbows inward and raises the hands.
+0.5–1.0s — Pose 2: She holds both fists near shoulder height with elbows bent, balanced on one leg while the other bends back with the heel lifted; adds a buoyant shoulder accent, then lowers the foot into a wider stance.
+1.0–1.5s — Pose 3: She extends one arm horizontally with an open palm while the other hand rests at the waist, front foot pointed outward, leaning gently into the gesture; brings the feet closer as both hands rise toward the face.
+1.5–2.0s — Pose 4: She frames the cheeks with both open hands, elbows angled down, feet together, knees soft, head tilted with a sweet smile; releases the gesture and steps outward.
+2.0–2.5s — Pose 5: She plants the feet apart and crosses both forearms over the chest with a crisp rhythmic accent, shoulders relaxed; uncrosses the arms and shifts weight onto one leg.
+2.5–3.0s — Pose 6: She lifts the opposite knee forward in a lively marching step, one fist near the cheek and the other lower beside the body; lowers the raised foot into a crossing step while opening the arms.
+3.0–3.5s — Pose 7: She spreads both arms horizontally with open palms and crosses one foot in front of the other, facing camera with a welcoming smile; uncrosses slightly and draws the hands toward the chest.
+3.5–4.0s — Pose 8: She forms a clear heart shape with both hands at chest height, balanced on one leg with the other bent back, gives a playful wink; lowers the foot and opens the hands to begin a turn.
+4.0–4.5s — Pose 9: She pivots into a three-quarter back view, looking back over one shoulder with both arms open and low; continues the grounded pivot back toward the front.
+4.5–5.0s — Pose 10: She leans forward slightly and extends one foot into a low heel tap, reaching one hand toward the viewer while the opposite arm extends back; retracts the foot and rises smoothly.
+5.0–5.5s — Pose 11: She opens into a wide diagonal pose, reaching one arm high overhead while the opposite arm extends low, smiling toward camera; sweeps both arms upward as the knees bend to prepare a jump.
+5.5–6.0s — Pose 12: She performs a small joyful jump with both feet leaving the floor and knees bending back, arms open into a high V, eyes closed in a broad smile; descends into a soft, controlled landing.
+6.0–6.5s — Pose 13: She lands with both knees bent slightly inward and feet apart, reaching both open palms forward near waist height; lets the knees absorb the landing, then straightens gently and begins a side turn.
+6.5–7.0s — Pose 14: She turns into an angled stance, curving one arm above the head while the other extends horizontally, stepping through the turn with one heel raised; rotates back toward the camera.
+7.0–7.5s — Pose 15: She makes a V-sign beside one eye and extends the opposite hand toward the viewer in an inviting gesture, winks and taps the opposite foot forward; draws the foot back and begins raising the V-sign arm.
+7.5–8.0s — Pose 16: She finishes facing forward with feet confidently apart, extending one arm straight upward with the index finger pointing to the sky while the other hand rests on the hip, radiant smile; holds and settles.
+
+Complete the final pose by 7.8 seconds and hold through 8.0 seconds while her hair and clothing settle.
 ```
 
 </details>
@@ -559,6 +930,364 @@ Make it look like a professional AI character reference sheet created for a film
 
 </details>
 
+<a id="gpt-image-character-dance-reference-sheet-4x4"></a>
+### Chibi character 16 frame dance reference sheet
+
+<a href="https://x.com/Scenario_gg/status/2099797670516695385"><img src="../../previews/gpt-image-character-dance-reference-sheet-4x4.jpg" width="360"></a>
+
+Numbered choreography steps give each of the 16 panels a distinct pose, so the sequence reads as one continuous routine. Explicit rules for identity lock, secondary motion of hair and fabric, and a fixed camera keep the character consistent across panels.
+
+GPT Image 2.5 · Edit · Source: [@Scenario_gg on X](https://x.com/Scenario_gg/status/2099797670516695385) · 123 likes on 2026-10-28
+
+[`dance`](tags.md#tag-dance) [`pose-sheet`](tags.md#tag-pose-sheet) [`grid`](tags.md#tag-grid) [`character-reference`](tags.md#tag-character-reference) [`choreography`](tags.md#tag-choreography)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a polished square-format dance reference sheet featuring the character from the uploaded reference image. The final image should be arranged as a clean 4×4 grid containing exactly 16 equally sized panels. Each panel represents the next key pose in a single uninterrupted dance sequence, read from left to right and then top to bottom.
+
+Reference Fidelity
+
+Treat the uploaded character as the definitive visual reference throughout the sheet.
+
+Across all 16 frames, keep the character’s identity completely stable, including:
+
+face and facial features
+hairstyle and hair length
+color palette
+body proportions and species
+clothing and garment construction
+accessories
+overall illustration and rendering style
+
+Any part of the character that is not visible in the reference should be inferred conservatively and then depicted the same way throughout the entire sequence.
+
+Choose a style of dance that feels natural for the character’s personality, anatomy, outfit, and available range of motion.
+
+Movement Logic
+
+The sixteen images are consecutive moments from one continuous routine, not sixteen unrelated dance poses.
+
+Every pose should flow naturally into the next through small steps, weight transfers, pivots, or continuing arm gestures. Keep the supporting limbs and direction of rotation physically consistent from frame to frame.
+
+Changes in orientation, body height, balance, and momentum should happen progressively rather than suddenly.
+
+Each frame should remain visually distinct while the overall routine develops through a clear progression: a relaxed opening, gradual build-up, expressive peak, and controlled settling finish.
+
+Choreography
+
+Follow this exact movement sequence:
+
+1. Begin with feet comfortably apart, knees relaxed, and arms resting low.
+
+2. Shift weight left, tapping the right foot outward as the hands drift left.
+
+3. Transfer weight onto the right foot, letting both hands sweep low toward the right.
+
+4. Draw the left foot inward while the hands continue upward to waist height.
+
+5. Step the left foot forward diagonally, turning the torso slightly left as the arms round forward.
+
+6. Rock onto the front left foot, allowing the rounded arms to rise toward chest height.
+
+7. Push gently back onto the right foot, drawing the elbows toward the ribs.
+
+8. Step the left foot out to the left, opening the left arm in the same direction.
+
+9. Settle into a shallow left lunge while the right arm sweeps across the chest toward the left.
+
+10. Deepen the lunge slightly as the right arm continues its arc overhead into a gentle left side bend.
+
+11. Straighten gradually, keeping the right arm overhead while the left arm opens outward.
+
+12. Reach the routine’s peak in a tall, grounded stance, extending both arms into an open upward diagonal.
+
+13. Soften the knees and lower both arms outward through shoulder height.
+
+14. Shift weight onto the left foot and pivot a quarter-turn left, letting the arms continue downward.
+
+15. Bring the right foot forward into a small staggered stance, lifting the chest as the arms settle low behind the hips.
+
+16. Finish in that same stance, turning the head toward the viewer with a character-appropriate expression and relaxed, deliberate hands.
+
+If the character has nonhuman anatomy, reinterpret the steps and gestures as the closest anatomically appropriate equivalents while preserving the same order, rhythm, direction, and continuity.
+
+Secondary Motion
+
+Hair, loose garments, and hanging accessories should react naturally to the choreography rather than remaining static.
+
+Their movement should follow the character’s momentum:
+
+hair and fabric lag slightly behind steps and sweeping gestures
+loose elements swing naturally during turns
+hair and garments fall with gravity during bends
+movement gradually settles as the routine approaches the final pose
+light fabrics flutter subtly
+heavier fabrics move with greater weight and slower follow-through
+fitted clothing develops believable folds around bending and twisting joints
+
+Keep all secondary motion proportional to this relatively gentle routine.
+
+Hair length, clothing construction, and accessory placement must remain consistent in every frame.
+
+Communicate movement through the changing shapes and positions of the hair and fabric themselves. Do not use motion lines, speed lines, ghosting, or movement trails.
+
+Sheet Presentation
+
+Use a square canvas containing a precise 4×4 grid.
+
+The presentation should include:
+
+exactly 16 equally sized panels
+one full-body character in every panel
+small, clearly readable numbers 1–16 in the upper-left corner of their corresponding panels
+a clean white background
+thin grid lines
+consistent character scale
+a fixed camera viewpoint
+consistent lighting and rendering
+comfortable empty space around every limb, hairstyle, ear, wing, tail, garment, and accessory
+subtle ground shadows
+clear silhouettes
+anatomically plausible joints
+convincing weight distribution and balance
+
+The character should never be cropped by the panel boundaries.
+
+Constraints
+
+Do not introduce repeated or near-identical poses, abrupt movement transitions, identity drift, costume changes, additional characters, new props, scenery, captions, or watermarks.
+
+Avoid extra or missing limbs, malformed hands, implausible joints, inconsistent supporting feet, accidental panel overlap, cropped features, sudden changes in character scale, or unexplained changes in orientation.
+
+The finished sheet should read immediately as sixteen carefully selected consecutive keyframes from one coherent dance performance by the same character.
+```
+
+</details>
+
+<a id="nano-banana-photorealistic-character-sheet-three-views"></a>
+### Photorealistic character sheet with portrait and three views
+
+<a href="https://x.com/MrDavids1/status/2027869658313826744"><img src="../../previews/nano-banana-photorealistic-character-sheet-three-views.jpg" width="360"></a>
+
+The prompt fixes the layout in plain terms: a left aligned closeup, then front, side and back full body views on white with no text or borders. The outfit and props sit in a bracketed block that can be swapped, while an uploaded reference photo keeps the identity consistent.
+
+Nano Banana 2 · Edit · Source: [@MrDavids1 on X](https://x.com/MrDavids1/status/2027869658313826744) · 112 likes on 2026-10-29
+
+[`character-sheet`](tags.md#tag-character-sheet) [`turnaround`](tags.md#tag-turnaround) [`identity-consistency`](tags.md#tag-identity-consistency) [`reference-image`](tags.md#tag-reference-image) [`photorealistic`](tags.md#tag-photorealistic)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+I'm definitely noticing some improvements to character identity with Nano Banana 2 making it super useful for character sheets. Tested one of myself. Just upload your own image as reference and adjust the character description in brackets in the prompt as needed. I'm using character sheets with video models that have an OMNI feature as you can easily insert yourself into any location in a video with a character sheet.
+
+🗒️Prompt: Create a photorealistic character sheet. Include a closeup portrait which is left aligned, no borders, with a neutral expression and then also include a full view shot that shows the front, side and back of the character. The character is placed on a white background. Don't include any text. No borders, no soft gradients. [The character is a male. He is wearing an oversized olive jacket, insignia on the back of the jacket shows a logo with a hornet and arched text that says HORNETS. He also wears a weathered white t-shirt and dark grey cargo pants, with grey and black converse sneakers. He stands in a confident pose holding a customized shotgun with African wood engravings and a leather shoulder strap attached to the shotgun that has red beads as a decoration.]
+
+You can use Nano Banana 2 via
+@Hailuo_AI
+```
+
+</details>
+
+<a id="nano-banana-isometric-pixel-art-rogue-dual-daggers"></a>
+### Isometric Pixel Art Rogue With Two Daggers
+
+<a href="https://x.com/GrilliotTodd/status/2047452990987256077"><img src="../../previews/nano-banana-isometric-pixel-art-rogue-dual-daggers.jpg" width="360"></a>
+
+A short semicolon-separated prompt that fixes the art style, facing direction, isometric view, solid background and held items in one line. Nano Banana 2 renders it at high resolution with a clean pixel grid, though it may add a floor unless told not to.
+
+Nano Banana 2 · Text-to-image · Source: [@GrilliotTodd on X](https://x.com/GrilliotTodd/status/2047452990987256077) · 104 likes on 2026-10-28
+
+[`pixel-art`](tags.md#tag-pixel-art) [`game-sprite`](tags.md#tag-game-sprite) [`isometric`](tags.md#tag-isometric) [`rogue`](tags.md#tag-rogue) [`solid-background`](tags.md#tag-solid-background)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+gpt-image-2 was trained on real game art, while Nano banana was trained on high res pixel art portraits. That's my take.
+
+gpt image 2 on the left, nano banana 2 on the right. same prompt, same pixel post processing.
+
+> gpt image 2 - about 80px tall
+> nanobanana 2 - about 150px tall, huge!
+
+NB will always make high res pixel art characters with elaborate backgrounds if you don't carefully prompt it otherwise. - even on this prompt, it includes a floor that i didn't ask for.
+
+gpt-image-2 loves to leave out the background for character work, you don't even have to ask most of the time. Very game ready character sprites.
+
+Nano banana is actually better at pixel grid adherence. It keeps the grid clean at high resolutions. gpt-image-2 can make a mess at higher resoutions.
+
+prompt: "pixel art; a rogue game character facing south east. isometric view. solid background. cape and two daggars, one in each hand."
+```
+
+</details>
+
+<a id="nano-banana-toy-character-sprinting-through-design-sheets"></a>
+### Toy character sprinting through torn design sheets
+
+<a href="https://x.com/edizkan_/status/2033783098773569785"><img src="../../previews/nano-banana-toy-character-sprinting-through-design-sheets.jpg" width="360"></a>
+
+A bean sized toy built from an uploaded reference runs across giant sketch pages. The prompt breaks the pose down limb by limb and sets a critical likeness lock covering both the toy and the sketches. A single hard spotlight, an 85mm macro lens and a shallow depth of field sell the scale illusion.
+
+Nano Banana 2 · Edit · Source: [@edizkan_ on X](https://x.com/edizkan_/status/2033783098773569785) · 89 likes on 2026-10-29
+
+[`toy-photography`](tags.md#tag-toy-photography) [`macro`](tags.md#tag-macro) [`character-sheet`](tags.md#tag-character-sheet) [`spotlight`](tags.md#tag-spotlight) [`reference-image`](tags.md#tag-reference-image)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+The moment your character stops being designed…
+and starts existing. #AKCB
+
+Recommended generator: Nano Banana 2 (Gemini – Thinking Mode)
+
+Try it and show your results 👇
+
+A cinematic macro toy-photography scene.
+A bean-sized version of the uploaded reference character is sprinting explosively captured at the peak stride moment of a high-speed sprint with visual effect.
+
+Character Pose
+A dynamic, mid-sprint action pose with amazing visual effects captured from a three-quarter side profile.
+Torso: Leaning forward at a sharp angle to convey momentum.
+Arms: One arm is bent sharply at the elbow with the fist tucked near the chest; the other arm is extended backward, trailing behind the torso.
+Legs: In a full stride. The lead leg is bent forward with the knee high, while the trailing leg is fully extended back with the foot pointed.
+Head: Facing forward, aligned with the direction of the run.
+
+The character runs across the surface of several giant black-and-white character design pages fully covering the ground, featuring the same character.
+Likeness Preservation (CRITICAL)
+The identity of the character must remain exactly identical to the reference in both:
+• the miniature physical character
+
+• the character shown in the design sketches
+The sketch pages must show the  same character, including:
+• dynamic poses small sketches
+
+• head studies and shape explorations
+
+• proportion notes
+
+• accessory sketches
+
+• construction diagrams
+
+• small handwritten annotations
+Maintain the exact:
+• head shape
+
+• eye shape and spacing
+
+• stylization
+
+• silhouette
+
+• materials and clothing design
+If the character wears a balaclava, mask, helmet, or covered face, the sketches must not invent facial anatomy.
+No added nose.
+
+No added mouth.
+
+No visible skin where the reference does not show it.
+Do not humanize the character.
+
+Do not reinterpret anatomy.
+Subject & Action
+The miniature character sprints explosively across the design pages, tearing through the sketch sheet as it runs.
+The character is captured at the peak stride moment of a full-speed sprint.
+Running pose details:
+• the body leans sharply forward as if accelerating
+
+• one leg is fully extended forward while the other drives powerfully backward
+
+• arms pump in opposite running motion
+
+• the torso twists slightly creating a dynamic curved spine line
+
+• the pose feels like a high-speed comic-book sprint
+The character’s momentum rips through the paper, creating a jagged torn path behind it.
+A trail of torn paper curls and fragments with vfx follows behind the running character as if it burst out of its own design.
+Oversized design sheets surround the character, each page showing different stages of development of the same character.
+One small grey 3d print of the character is in the background as an exact copy of the uploaded image.
+Camera & Perspective
+Captured from a medium camera distance above the desk, allowing a wider portion of the surrounding design pages to be visible.
+Shot with an 85mm macro lens, creating natural compression while keeping the environment readable.
+The camera sits slightly elevated and angled downward toward the running character.
+The character remains the focal point but occupies roughly one third of the frame, revealing more of the design sheets and workspace around it.
+The character remains slightly off-center within the spotlight.
+Depth of Field
+Extremely shallow depth of field.
+The sprinting miniature character and the immediate section of the torn sketch page are razor sharp.
+Surrounding pages and distant elements fall into soft blur.
+Lighting (VERY DRAMATIC)
+A single narrow spotlight / flashlight beam hits the character.
+The beam comes from a side-front direction, creating a bright circular pool of light on the design page.
+Lighting characteristics:
+• extremely hard light
+
+• very high contrast
+
+• no ambient fill light
+
+• the surrounding elements fades into near-total darkness
+
+• sharp dramatic shadows stretch across the paper
+
+• edges of the light beam fall rapidly into black
+The environment outside the spotlight should feel almost completely swallowed by darkness, as if the character has been suddenly caught under a stage light.
+Dust particles float through the beam.
+Environment & Surface Detail
+Macro-level detail of the design pages:
+• ink texture
+
+• pencil strokes
+
+• paper fibers
+
+• subtle reflections on graphite lines
+The torn paper edge reveals fibrous paper layers and curled fragments along the ripped path.
+
+Subtle Heat Burn Detail
+Along parts of the torn path, the paper shows light scorching caused by extreme speed friction:
+• edges of some tears are slightly darkened and singed
+
+• faint burnt browning transitions into the white paper fibers
+
+• tiny ember-like glowing specks appear briefly along the freshest tear points
+
+• very subtle wisps of heat distortion or smoke rise from a few edges
+The burn effect must remain minimal, believable, and physically grounded, enhancing realism without turning into flames or overpowering the scene.
+
+Color Grade
+Desaturated sketch pages and environment.
+The character receives cool cinematic highlights from the spotlight.
+Moody macro photography atmosphere.
+Rendering Style
+Photorealistic macro toy photography, emphasizing scale illusion between the tiny character and the giant design pages.
+Speed Energy VFX
+A stylized high-speed energy trail follows behind the running character, emphasizing the explosive sprint.
+The trail consists of thin luminous motion streaks and glowing particles streaming backward from the character’s movement direction.
+Characteristics:
+• energy streaks originate from behind the character’s shoulders, arms, and legs
+
+• streaks extend diagonally backward, following the direction of motion
+
+• the lines are semi-transparent glowing blue light trails
+
+• small sparkling particles scatter along the trail
+
+• the effect should feel like comic-book speed energy, not smoke or fire
+
+• the VFX enhances motion but does not cover or obscure the character
+The light streaks interact subtly with the environment:
+• faint glow reflecting on the torn paper edges
+
+• slight blue rim light on the character’s silhouette
+
+• a few glowing particles floating through the spotlight beam
+The energy trail should feel fast, sharp, and directional, reinforcing the sense that the character is sprinting at extreme speed.
+ar 3:2
+```
+
+</details>
+
 <a id="gpt-image-fox-pixel-art-idle-sprite-sheet"></a>
 ### Pixel art fox idle animation sprite sheet
 
@@ -634,6 +1363,27 @@ GPT Image 2.5 · Text-to-image · Source: [@Adnan_Ai2 on X](https://x.com/Adnan_
 
 ```text
 A highly realistic humanoid futuristic robot chef standing inside a premium futuristic restaurant kitchen. The robot has a sleek silver metallic body with detailed mechanical joints and realistic humanoid proportions. It has glowing cyan-blue eyes, circular futuristic ear components, a metallic face and neck, and an advanced sophisticated robotic design. The robot is holding a large white serving tray with both hands and looking slightly toward the left with a calm and helpful expression. The background features a stainless-steel futuristic kitchen with modern cooking equipment, metallic countertops, ovens, and ventilation systems. Cyan neon accent lights illuminate the kitchen, combined with warm cinematic lighting. Realistic metallic reflections, subtle steam rising in the background, highly detailed mechanical textures, photorealistic 3D rendering, cinematic composition, ultra-realistic, 4K quality, sharp details, natural depth of field, vertical 9:16 composition.
+```
+
+</details>
+
+<a id="gpt-image-amigurumi-doll-from-photo-diorama"></a>
+### Crocheted amigurumi doll in a cozy diorama
+
+<a href="https://x.com/MrDasCreates/status/2115351638353613255"><img src="../../previews/gpt-image-amigurumi-doll-from-photo-diorama.jpg" width="360"></a>
+
+Names the yarn medium and its visible stitches, then fixes the proportions with an oversized head and tiny body. Embroidered features, a pastel palette and a miniature diorama setting with warm light keep the photo conversion consistently handmade.
+
+GPT Image 2.5 · Edit · Source: [@MrDasCreates on X](https://x.com/MrDasCreates/status/2115351638353613255) · 32 likes on 2026-10-29
+
+[`amigurumi`](tags.md#tag-amigurumi) [`crochet`](tags.md#tag-crochet) [`plush`](tags.md#tag-plush) [`diorama`](tags.md#tag-diorama) [`photo-to-doll`](tags.md#tag-photo-to-doll)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Turn your photo into a cozy hand-crocheted amigurumi doll using GPT Image 2.5
+
+Prompt: Transform the uploaded photo into a hand-crocheted amigurumi style doll. Soft chunky yarn with visible stitches, oversized rounded head and tiny body, embroidered facial features with gentle blush, pastel color palette, cozy handmade imperfections, plush texture, sitting in a miniature diorama scene, warm soft lighting, charming stop-motion plush aesthetic.
 ```
 
 </details>
@@ -1041,6 +1791,50 @@ No background scenery, no color tones, no additional characters, no complex back
 
 </details>
 
+<a id="gpt-image-doodle-fashion-chibi-striped-sweater"></a>
+### Hand drawn doodle chibi in striped sweater
+
+<a href="https://x.com/Sairah_0/status/2092473965927334071"><img src="../../previews/gpt-image-doodle-fashion-chibi-striped-sweater.jpg" width="360"></a>
+
+Starts from a reference image and keeps its identity cues, then specifies the character proportions as a list: oversized head, dot eyes, rosy blush. Separate art style bullets for loose ink lines, light crayon colour and negative space keep the result looking handmade rather than vector.
+
+GPT Image 2 · Edit · Source: [@Sairah_0 on X](https://x.com/Sairah_0/status/2092473965927334071) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`doodle`](tags.md#tag-doodle) [`chibi`](tags.md#tag-chibi) [`fashion-sketch`](tags.md#tag-fashion-sketch) [`hand-drawn`](tags.md#tag-hand-drawn) [`character`](tags.md#tag-character)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Transform the subject from the reference image into a cute, quirky hand-drawn doodle illustration.
+
+Use a minimalist children’s storybook / fashion sketch aesthetic with loose, imperfect black ink lines, visible scribbly pencil strokes, subtle cross-hatching, and a charming handmade feel. Keep the character’s recognizable facial features, hairstyle, face shape, clothing, accessories, and overall identity from the reference while simplifying them into a cute illustrated character.
+
+Character design:
+- Oversized head and small simplified body
+- Simple dot-like eyes and tiny minimal mouth
+- Soft rounded facial features
+- Slight rosy pink blush on the cheeks
+- Messy, expressive hand-drawn hair with many loose sketch lines
+- Slightly exaggerated, playful proportions
+- Natural, relaxed pose with a whimsical fashion-illustration feel
+
+Art style:
+- Black-and-white pencil/ink doodle drawing
+- Rough, imperfect sketch lines rather than clean digital outlines
+- Dense scribbled hair and clothing details
+- Light hand-colored accents
+- Subtle watercolor/crayon-like coloring
+- Minimal shading
+- White or off-white clean background
+- Lots of negative space
+- Cute, innocent, playful, cozy aesthetic
+- Looks like an original handmade notebook/fashion doodle illustration
+
+Preserve the important details of the reference image while converting everything into this consistent doodle-art style. The final image should feel hand-sketched, slightly imperfect, adorable, expressive, and effortlessly stylish, not like polished vector art or 3D cartoon art.
+```
+
+</details>
+
 <a id="gpt-image-forest-hero-character-sheet"></a>
 ### Watercolor hero for a children's book
 
@@ -1079,47 +1873,6 @@ Constraints:
 ```
 
 </details>
-
-<a id="gpt-image-forest-hero-squirrel-rescue"></a>
-### Same hero rescues a squirrel in the snow
-
-<a href="https://developers.openai.com/api/docs/guides/image-prompting#keep-a-character-consistent"><img src="../../previews/gpt-image-forest-hero-squirrel-rescue.jpg" width="360"></a>
-
-Feeds the character image back in and repeats its defining details under Character Consistency, so the outfit and face stay the same in a new scene. Preview: the Sunburst variant.
-
-GPT Image 2.5 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#keep-a-character-consistent)
-
-[`character`](tags.md#tag-character) [`consistency`](tags.md#tag-consistency) [`childrens-book`](tags.md#tag-childrens-book)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Continue the children’s book story using the same character.
-
-Scene:
-The same young forest hero is gently helping a frightened squirrel
-out of a fallen tree after a winter storm.
-The character kneels beside the squirrel, offering reassurance.
-
-Character Consistency:
-- Same green hooded tunic
-- Same facial features, proportions, and color palette
-- Same gentle, heroic personality
-
-Style:
-Children’s book watercolor illustration,
-soft lighting, snowy forest environment,
-warm and comforting mood.
-
-Constraints:
-- Do not redesign the character
-- No text
-- No watermarks
-```
-
-</details>
-
-Inputs: [1](https://developers.openai.com/images/platform/guides/image-prompting/childrens-book-illustration-1-gpt-image-2-5-sunburst.webp)
 
 <a id="gpt-image-kawaii-character-design-sheet"></a>
 ### Kawaii Girl Character Design Sheet with Expressions

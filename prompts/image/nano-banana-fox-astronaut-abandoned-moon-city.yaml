@@ -1,0 +1,26 @@
+id: nano-banana-fox-astronaut-abandoned-moon-city
+title:
+  en: Tiny Fox Astronaut in Neon Moon City
+  zh: 霓虹月球废墟城中的小狐狸宇航员
+model: Nano Banana 2
+mode: text-to-image
+category: illustration
+tags:
+- sci-fi
+- astronaut
+- fox
+- moon
+- neon
+- cinematic
+source:
+  name: '@Zarlish_Shahid on X'
+  url: https://x.com/Zarlish_Shahid/status/2077531900374405514
+  credit: Zarlish
+  likes: 116
+  captured: '2026-10-28'
+  posted: '2026-07-15'
+notes:
+  en: A small glowing hero is set against a huge Earth and ruined skyscrapers, so scale contrast carries the story. Neon flowers and holographic butterflies add colored light against the dark lunar ground, and volumetric lighting ties the layers together.
+  zh: 用渺小的发光主角对比巨大的地球和破败高楼，靠尺度反差讲故事。霓虹花与全息蝴蝶在深色月面上提供彩色光源，体积光把前中后景连在一起。
+prompt: |
+  A tiny glowing fox astronaut discovering an abandoned futuristic city on the Moon, massive Earth rising in the background, neon flowers growing through broken skyscrapers, floating holographic butterflies, cinematic atmosphere, volumetric lighting, ultra-detailed fur, reflective space suit, breathtaking composition, emotional storytelling, hyper-realistic, Unreal Engine 5, masterpiece, award-winning photography, 8K, HDR, trending on X, viral AI art, perfect lighting, insanely detailed, vibrant colors.

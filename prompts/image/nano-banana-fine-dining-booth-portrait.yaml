@@ -1,0 +1,25 @@
+id: nano-banana-fine-dining-booth-portrait
+title:
+  en: Elegant woman portrait in restaurant booth
+  zh: 高级餐厅卡座里的优雅女性肖像
+model: Nano Banana 2
+mode: text-to-image
+category: portrait
+tags:
+- portrait
+- photorealistic
+- restaurant
+- fashion-editorial
+- negative-prompt
+source:
+  name: '@kingofdairyque on X'
+  url: https://x.com/kingofdairyque/status/2066969440151847294
+  credit: Simply Ray
+  likes: 94
+  captured: '2026-10-29'
+  posted: '2026-06-16'
+notes:
+  en: Stacks subject, wardrobe, jewelry, lighting and setting details, then adds DSLR and cinematic depth of field cues for realism. A long negative prompt targets plastic skin, warped jewelry and malformed glassware.
+  zh: 依次叠加人物、服饰、首饰、光线和环境细节，再用单反与电影感景深提示强化真实感。较长的负面提示针对塑料皮肤、变形首饰和扭曲玻璃杯。
+prompt: |
+  low quality, blurry, pixelated, bad anatomy, deformed face, asymmetrical eyes, extra limbs, extra fingers, missing fingers, distorted hands, unrealistic proportions, plastic skin, waxy skin, excessive airbrushing, oversaturated colors, underexposed, overexposed, CGI, 3D render, anime, cartoon, painting, illustration, motion blur, duplicate objects, warped jewelry, malformed glass, text, watermark, logo, jpeg artifacts, noisy image, out of frame, cropped face, unnatural lighting, unrealistic reflections, poor skin texture.

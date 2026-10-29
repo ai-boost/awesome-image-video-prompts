@@ -1,0 +1,25 @@
+id: nano-banana-selective-anime-hair-bowl-photo-edit
+title:
+  en: Photo with only hair, bowl and chopsticks as anime
+  zh: 照片中仅头发、碗和筷子变成动漫插画
+model: Nano Banana 2.1
+mode: image-edit
+category: edit
+tags:
+- selective-edit
+- anime
+- photo-to-art
+- preserve-details
+- food
+source:
+  name: '@madpencil_ on X'
+  url: https://x.com/madpencil_/status/2107815983729750427
+  credit: madpencil_
+  likes: 25
+  captured: '2026-10-28'
+  posted: '2025-08-21'
+notes:
+  en: 'The prompt names the few elements to convert, then lists everything that must stay identical: face, skin, noodles, broth, background, lighting, pose and framing. The style is pinned down with clean linework, flat cel shading and pastel colours, so the anime layer stays local.'
+  zh: 提示词先点明只转换的少数元素,再逐项列出必须保持不变的内容:脸、皮肤、面条、汤、背景、光线、姿势和构图。风格用干净线稿、平涂赛璐珞和粉彩色限定,让动漫效果只作用于局部。
+prompt: |
+  Convert only her hair, the bowl, and the chopsticks into a 2D hand-drawn anime illustration with clean linework, flat cel shading, and vibrant pastel colours. Keep her face, skin, eyes, lips, noodles, broth, background, lighting, pose, and framing the same as in the original photo.

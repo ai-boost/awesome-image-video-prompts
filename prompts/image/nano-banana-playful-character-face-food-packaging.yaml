@@ -1,0 +1,25 @@
+id: nano-banana-playful-character-face-food-packaging
+title:
+  en: Playful food packaging shaped as smiling character faces
+  zh: 笑脸角色造型的趣味食品包装设计
+model: Nano Banana 2
+mode: text-to-image
+category: brand
+tags:
+- packaging
+- character-face
+- flat-vector
+- product-mockup
+- die-cut
+source:
+  name: '@azed_ai on X'
+  url: https://x.com/azed_ai/status/2044053391832486350
+  credit: Amira Zairi
+  likes: 280
+  captured: '2026-10-28'
+  posted: '2026-04-14'
+notes:
+  en: The prompt makes the box mechanics form the face, so the flap or die cut becomes the mouth and the real product fills it. A product name placeholder, flat vector styling, a pure white background and a 1:1 ratio keep the set consistent.
+  zh: 提示词让包装结构本身构成脸部，开口翻盖或镂空窗成为嘴巴，真实产品填满其中。用产品名占位符、扁平矢量风格、纯白背景和 1:1 比例，让整套结果保持一致。
+prompt: |
+  Playful concept packaging design for [product name], box structure creatively shaped to reflect the product theme, bold illustrated character face integrated across the front panels, the opening flap or die-cut window forms the character’s mouth, teeth or expression, real product visible inside completing the face illusion, clever interaction between packaging mechanics and facial expression, flat vector illustration style, bold graphic lines, high-contrast colors, minimal modern branding, smooth matte cardboard texture, clean structural details, studio product photography, centered composition, pure white background, soft realistic shadow beneath, ultra-detailed, high-end creative packaging mockup, 1:1 aspect ratio.

@@ -1,0 +1,25 @@
+id: nano-banana-mixed-media-urban-painting-man-dog
+title:
+  en: Mixed media urban painting of man and dog
+  zh: 男子与狗的都市混合媒介绘画
+model: Nano Banana 2
+mode: text-to-image
+category: illustration
+tags:
+- mixed-media
+- template
+- painting
+- urban
+- negative-space
+source:
+  name: '@kingofdairyque on X'
+  url: https://x.com/kingofdairyque/status/2069642160668827684
+  credit: Simply Ray
+  likes: 159
+  captured: '2026-10-29'
+  posted: '2026-06-24'
+notes:
+  en: A fill in the blank template fixes the human, clothing, pose, animal and scenery slots, then stacks material cues such as ink silhouettes, charcoal marks, scraped acrylic and paint drips over a cold grey base. A minimal background with stains and floating dots keeps the gallery wall look.
+  zh: 用可替换的人物、服装、姿势、动物和场景占位符搭出模板，再叠加墨色剪影、炭笔线条、刮擦丙烯和颜料流淌等材质词，铺在冷灰底色上。极简背景加污渍和漂浮色点，保持画廊墙面的质感。
+prompt: |
+  Contemporary mixed-media urban painting of [HUMAN], wearing [CLOTHING], [POSE] beside [ANIMAL] in [SCENERY]. Use [COLORS] over a cold grey and white base, with harsh black ink silhouettes, loose charcoal sketch marks, scraped acrylic blocks, translucent color washes, circular graphic shapes, vertical paint drips, splatter noise, unfinished collage edges, high-contrast negative space, semi-abstract anatomy, expressive brush texture, and a raw gallery-wall composition. The background is [BACKGROUND], minimal but layered with stains, smears, thin wires, broken rectangles and floating color dots. Vertical 4:5.

@@ -1,0 +1,48 @@
+id: nano-banana-sketchbook-airport-diorama
+title:
+  en: Airport Terminal Diorama Rising From Sketchbook
+  zh: 从素描本中升起的机场航站楼微缩模型
+model: Nano Banana 2
+mode: text-to-image
+category: architecture
+tags:
+- miniature
+- diorama
+- tilt-shift
+- airport
+- sketchbook
+source:
+  name: '@yourPlugAI on X'
+  url: https://x.com/yourPlugAI/status/2032858910512562544
+  credit: Gilbert Odera | Your AI Plug
+  likes: 108
+  captured: '2026-10-28'
+  posted: '2026-03-14'
+notes:
+  en: A tilt shift low angle aerial view makes the terminal read as a handmade physical model. The surroundings fade into hand drawn sketch lines on the page, and a bracketed template (airport, roof design, time of day) lets the same prompt be reused for any airport.
+  zh: 倾斜移轴的低角度航拍视角让航站楼看起来像手工实体模型，周边环境逐渐过渡为纸面上的手绘线稿。方括号模板（机场、屋顶造型、时间段）可以复用于任意机场。
+prompt: |
+  Universal Sketchbook Airport Diorama Prompt
+
+  A hyper realistic 3D miniature diorama of [AIRPORT NAME] ([IATA CODE]) in [CITY], [COUNTRY] rising magically from an open sketchbook placed on a wooden desk.
+
+  Tilted low angle aerial isometric view using tilt shift macro photography to emphasize the extreme miniature scale and handcrafted physical model appearance.
+
+  The scene focuses on the main airport terminal complex, highlighting its distinctive architectural features such as [ROOF DESIGN / TERMINAL SHAPE / GLASS FACADES / CONTROL TOWER STYLE].
+
+  The air traffic control tower stands prominently within the composition, accurately reflecting the design identity of the airport.
+
+  Multiple miniature commercial airplanes in [AIRLINE LIVERIES OR MIXED INTERNATIONAL AIRLINES] are parked at the terminal gates along extended concourses. Some aircraft are positioned on taxiways preparing for departure or arrival.
+
+  The tarmac is filled with micro scale airport ground operations, including baggage carts, fuel trucks, catering vehicles, pushback tractors, airport buses, and maintenance crews actively servicing the aircraft.
+  Tiny miniature airport staff and travelers move across jet bridges, service roads, and terminal entrances, adding life and scale to the scene.
+
+  The surrounding airport infrastructure includes runways, taxiways, parking structures, access highways, and landscaped green areas, all rendered in detailed miniature form.
+
+  The wider airport environment gradually transitions into hand drawn architectural sketch lines on the white sketchbook paper, creating the illusion that the entire airport is emerging from the page.
+
+  Lighting reflects [TIME OF DAY such as golden hour sunset, bright daylight, blue hour evening, or night runway lighting], casting realistic shadows and reflections across the glass terminals and aircraft surfaces.
+
+  Ultra detailed 8K macro photography, cinematic realism, museum quality miniature diorama, highly detailed aviation environment.
+
+  Aspect Ratio 4:5

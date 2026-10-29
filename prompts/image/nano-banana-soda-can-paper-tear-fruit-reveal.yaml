@@ -1,0 +1,25 @@
+id: nano-banana-soda-can-paper-tear-fruit-reveal
+title:
+  en: Soda cans torn open to reveal fresh fruit
+  zh: 撕开纸面与易拉罐露出新鲜水果的汽水罐
+model: Nano Banana 2
+mode: text-to-image
+category: product
+tags:
+- soda-can
+- paper-tear
+- fruit
+- packaging
+- template
+source:
+  name: '@Arminn_Ai on X'
+  url: https://x.com/Arminn_Ai/status/2027470188644626803
+  credit: ΛRMIN
+  likes: 589
+  captured: '2026-10-28'
+  posted: '2026-02-27'
+notes:
+  en: One continuous paper tear crosses both the can and the backdrop, with a rolled coil at the far end, and the tear reveals tightly packed fruit. Bracketed slots for can type, color, fruit, ink and brand name make the template reusable across flavors.
+  zh: 一条连续的撕纸裂口横贯罐身与背景，末端卷成纸卷，裂口里露出密实的水果。方括号槽位覆盖罐型、底色、水果、墨色和品牌名，可以换口味反复套用。
+prompt: |
+  A photorealistic, highly detailed commercial product photograph of a standard aluminum [Type of Soda Can] centered against a minimal, textured [Background Color] paper background, with subtle fibers visible. A single, continuous horizontal paper-tear strip runs across the entire width of the frame, seamless from the far-right edge to the far-left edge. The torn channel cuts through the metal body of the can and continues across the background on both sides with a barely perceptible and minimal diagonal slope towards the upper-left. The tear channel is significantly broader, revealing a dense, glistening, and vibrant layer of [Description of Fruit Segments/Sacs/Berries] tightly packed inside. Near the extreme far-left end of this tear, the paper is neatly rolled into a tight, realistic coil that occupies almost the entire left margin. The can features a newly designed, minimalist branding: the upper portion has a stylized, abstract line-art illustration of [Fruit Branch/Plant] in a contrasting [Ink Color], set against a subtle matte geometric [Pattern Type] pattern on the can surface. Below this, the brand name "[Brand Name]" is printed in an elegant, modern dark typography, with smaller technical text "330ml - NATURAL EXTRACT" and a small "Recyclable" logo. A small, detailed graphic of the fruit is located below the torn path. The lighting is soft and cinematic, casting delicate drop shadows beneath the torn paper edges and the large left coil. 8k resolution, macro details on fibrous paper and glossy fruit texture.

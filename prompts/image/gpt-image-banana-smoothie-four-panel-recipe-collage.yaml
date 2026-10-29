@@ -1,0 +1,35 @@
+id: gpt-image-banana-smoothie-four-panel-recipe-collage
+title:
+  en: Four panel banana smoothie recipe collage
+  zh: 香蕉奶昔四格食谱拼图
+model: GPT Image 2
+mode: text-to-image
+category: infographic
+tags:
+- recipe
+- food-photography
+- collage
+- step-by-step
+- photorealistic
+source:
+  name: '@DuaFatimaAi on X'
+  url: https://x.com/DuaFatimaAi/status/2096033405259682193
+  credit: Dua Fatima
+  likes: 152
+  captured: '2026-10-29'
+  posted: '2026-09-05'
+notes:
+  en: Each panel of the 2x2 grid is described separately by position, with its own ingredients and action, so the steps stay in order. A shared closing line sets the lighting, glassware, depth of field and no text rule for a consistent look.
+  zh: 按位置逐格描述 2x2 画面，每格写明食材与动作，步骤顺序清晰。结尾统一光线、玻璃器皿、景深和无文字要求，让四格风格一致。
+prompt: |
+  Create a photorealistic 2×2 four-panel recipe collage showing the preparation of a creamy banana smoothie on a rustic dark wooden kitchen table.
+
+  Top-left: Several ripe yellow bananas, one peeled banana, a clear glass of milk, a small glass bowl of thick white yogurt, and a bowl of ice cubes neatly arranged as ingredients.
+
+  Top-right: Close-up of hands peeling a ripe banana and placing banana pieces into a transparent glass blender jar.
+
+  Bottom-left: Milk being poured from a transparent measuring cup into the blender containing banana pieces, yogurt, and ice cubes.
+
+  Bottom-right: Thick creamy banana smoothie being poured from the blender into a clear drinking glass, with another finished smoothie glass in the background and a few banana slices on the wooden table.
+
+  Warm natural kitchen lighting, realistic food textures, creamy pale-yellow smoothie, transparent glassware, shallow depth of field, rustic wooden background, clean composition, professional food photography, highly detailed, realistic hands, natural shadows, 4K photorealism, no text, no labels, no watermark.

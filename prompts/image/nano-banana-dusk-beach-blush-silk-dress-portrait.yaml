@@ -1,0 +1,27 @@
+id: nano-banana-dusk-beach-blush-silk-dress-portrait
+title:
+  en: Barefoot woman in pink silk dress on dusk beach
+  zh: 黄昏海滩上身穿粉色丝绸长裙的赤脚女子
+model: Nano Banana 2.1
+mode: image-edit
+category: portrait
+tags:
+- beach
+- dusk
+- fashion-photography
+- reference-image
+- silk-dress
+source:
+  name: '@bmx_ai13 on X'
+  url: https://x.com/bmx_ai13/status/2114226447636402356
+  credit: BMX
+  likes: 26
+  captured: '2026-10-29'
+  posted: '2026-10-25'
+notes:
+  en: 'An uploaded reference image locks the face and hair details, while the scene is built in layers: location and time, wardrobe, pose, then wind. Lens and aperture values, diffused sunset light, skin and fabric texture cues and a closing negative list push the result toward a real photograph.'
+  zh: 用上传的参考图锁定面部和发型细节，再按地点时间、服装、姿态、微风的顺序逐层搭建场景。镜头与光圈参数、柔和日落光、皮肤与丝绸质感词，加上结尾的排除项，把画面推向真实摄影。
+prompt: |
+  Blush by the Ocean
+
+  Nano Banana 2.1 Prompt: Use uploaded image as the adult character reference; preserve her face, mauve spiral updo, beauty marks and crescent forehead detail. Real cinematic fashion photograph on an empty beach at dusk. She wears a dusty-pink silk maxi dress with a plunging neckline, an open back and a side slit, barefoot on wet sand. Standing in three-quarter profile, she gently gathers the skirt at one hip and looks toward the horizon. A light sea breeze moves the hem while her sculpted hair stays intact. Full-length composition with a soft ocean horizon. 70mm lens, f/2.8, diffused sunset light, warm skin against cool water, natural pores and realistic silk. Subtle film grain, tasteful sensuality, no illustration, CGI, text or watermark.

@@ -4,7 +4,7 @@ title:
   zh: 逐项复刻一张照片的 JSON 提示词
 model: Nano Banana 2.1
 mode: image-edit
-category: edit
+category: realism
 tags:
 - json
 - reconstruction

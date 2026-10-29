@@ -1,0 +1,33 @@
+id: gpt-image-giant-fruit-miniature-workers-watercolor-pair
+title:
+  en: Giant fruit with tiny workers, photo and watercolor
+  zh: 巨型水果与迷你工人的实拍和水彩双版本
+model: GPT Image 2.5
+mode: text-to-image
+category: realism
+tags:
+- miniature
+- diorama
+- macro
+- watercolor
+- dual-style
+source:
+  name: '@mehwishkiran07 on X'
+  url: https://x.com/mehwishkiran07/status/2107803591281168600
+  credit: Mehwish kiran
+  likes: 91
+  captured: '2026-10-28'
+  posted: '2026-10-07'
+notes:
+  en: The prompt fixes the scene by listing worker count, outfits and ladder positions, then adds macro photography and golden hour light terms for realism. A second version in watercolor scrapbook style reuses the same composition and adds serif text at the bottom, giving a matched pair in one image.
+  zh: 提示词逐一写明工人数量、着装和梯子位置来锁定画面，再用微距摄影和黄金时段光线词强化真实感。第二版要求沿用同一构图改成水彩手账风并在底部加衬线文字，一张图里得到风格成对的两个版本。
+prompt: |
+  A whimsical miniature fantasy scene featuring a gigantic ripe red strawberry growing in a lush green strawberry field. The strawberry is enormous, perfectly centered, with highly detailed glossy red skin covered in hundreds of tiny yellow seeds and fresh green leaves on top. A short brown stem rises from the center.
+  Surrounding the giant strawberry are five tiny miniature farm workers wearing dark navy work clothes, orange safety helmets, and work boots. They are working around the strawberry as if maintaining and harvesting it. Two workers are climbing tall wooden ladders on both sides of the strawberry, carefully working near its surface. Another worker stands halfway up the right ladder, while another works near the bottom using a small gardening tool. The tiny human scale compared with the enormous strawberry creates a magical miniature-world effect.
+  The strawberry sits directly on rich dark soil surrounded by tiny green strawberry plants, grass, leaves, and natural ground details. The background is a beautiful softly blurred green agricultural field with warm golden sunlight streaming from above, creating glowing rays, atmospheric haze, creamy bokeh, and a dreamy cinematic mood.
+  Ultra-realistic macro photography, photorealistic miniature diorama, highly detailed strawberry texture, realistic tiny workers, intricate wooden ladders, natural soil and vegetation, cinematic depth of field, soft background blur, warm golden-hour lighting, volumetric sun rays, realistic shadows, vibrant natural colors, magical scale contrast, whimsical fantasy realism, premium AI art.
+  Then create a second version in a vintage watercolor scrapbook illustration style using the exact same composition and characters. Place the scene on textured warm cream watercolor paper, surrounded by loose watercolor splashes of orange, yellow, green, and earthy tones. Add soft painted foliage and an artistic sunset circle behind the strawberry, with visible watercolor brush strokes, subtle paper grain, handmade imperfections, and an elegant nostalgic storybook aesthetic.
+  At the bottom of the watercolor version, add elegant minimalist serif typography:
+  “SWEET MOMENTS”
+  “LIFE”
+  Vertical composition, centered subject, premium editorial scrapbook poster, charming miniature fantasy, highly detailed, cinematic realism blended with delicate watercolor art.

@@ -1,0 +1,25 @@
+id: nano-banana-papercraft-globe-country-travel-poster
+title:
+  en: Papercraft globe travel poster for Brazil
+  zh: 巴西纸艺地球旅行海报
+model: Nano Banana 2
+mode: text-to-image
+category: poster
+tags:
+- travel-poster
+- papercraft
+- globe
+- template
+- diorama
+source:
+  name: '@SimplyAnnisa on X'
+  url: https://x.com/SimplyAnnisa/status/2070347440423576022
+  credit: Anissa
+  likes: 125
+  captured: '2026-10-28'
+  posted: '2026-06-26'
+notes:
+  en: 'A fill in the blank template swaps one country into a fixed layout: serif title, corner quote and badge, a five item checklist, and a traveler seated on a papercraft globe. Naming each text slot and the miniature props around the base keeps the poster composition stable across countries.'
+  zh: 模板只替换国家名，版式固定：衬线标题、角落引语与徽章、五项清单，以及坐在纸艺地球上的旅行者。逐一写明文字位置和地球底部的微缩道具，让不同国家的海报构图保持稳定。
+prompt: |
+  Design a premium vintage-inspired travel poster on a clean cream background featuring a highly detailed 3D papercraft globe of {COUNTRY} filled with its iconic landmarks, landscapes, wildlife, cultural symbols, regional labels, transportation, food, and famous attractioAt the top place the bold serif title "{COUNTRY}", with "{TOP LEFT QUOTE}" on the upper left, a circular badge reading "{COUNTRY} {BADGE TEXT}" on the upper right, and the subtitle "{COUNTRY SUBTITLE}" below the title. Position a famous {COUNTRY} celebrity/traveler sitting on top of the globe wearing stylish travel clothing and holding a {TRAVEL ACCESSORY}. Add a left vertical checklist with five themed experiences and minimalist icons.Arrange miniature vehicles, traditional foods, wildlife, souvenirs, and famous monuments neatly around the base of the globe. Finish with the bottom slogan "{BOTTOM TAGLINE}". Hyper-realistic, intricate papercraft diorama, editorial travel poster, premium print design, vibrant colors, soft shadows, centered composition, ultra-detailed, 8K.

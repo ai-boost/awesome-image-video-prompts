@@ -4,7 +4,7 @@ title:
   zh: 窗边照片延伸为墨线手绘纸面
 model: GPT Image 2.5
 mode: image-edit
-category: collage
+category: photo-to-art
 tags:
 - split-canvas
 - paper-collage

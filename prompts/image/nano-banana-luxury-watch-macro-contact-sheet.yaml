@@ -1,0 +1,26 @@
+id: nano-banana-luxury-watch-macro-contact-sheet
+title:
+  en: Luxury blue dial watch macro shot grid
+  zh: 蓝色表盘奢华腕表微距九宫格
+model: Nano Banana 2
+mode: text-to-image
+category: product
+tags:
+- watch
+- macro
+- luxury
+- product-shot
+- cinematic
+source:
+  name: '@kellyyjjones on X'
+  url: https://x.com/kellyyjjones/status/2078418060374106127
+  credit: Kelly Jones
+  likes: 130
+  captured: '2026-10-29'
+  posted: '2026-07-18'
+notes:
+  en: The prompt lists named watch parts such as sapphire crystal, sunburst dial, exhibition case back and balance wheel, which gives each macro frame its own subject. Camera moves like a 360 degree orbit, a single golden spotlight on a black background and water droplets add variety across frames.
+  zh: 提示词逐一点名蓝宝石镜面、放射纹表盘、透底机芯和摆轮等部件，让每个微距画面都有明确主体。360度环绕、单束金色聚光、黑色背景和水珠等镜头与光线设定，使各画面之间有变化。
+prompt: |
+  Ultra-realistic cinematic luxury fashion commercial featuring a confident, well-dressed gentleman wearing an elegant premium luxury wristwatch. He is dressed in a perfectly tailored black suit, crisp white shirt, and silk tie, standing inside a modern luxury penthouse overlooking a breathtaking city skyline at golden hour. The camera begins with an extreme macro close-up of the luxury watch on his wrist, revealing the flawless sapphire crystal, polished stainless-steel case, deep sunburst dial, luminous hands, diamond-cut hour markers, and smooth sweeping second hand. As he adjusts his cuff, the watch catches the warm sunlight, creating beautiful cinematic reflections. The camera slowly circles around his wrist while the intricate mechanical movement is visible through the transparent exhibition case back. Premium leather strap with handcrafted stitching, scratch-resistant finish, exceptional craftsmanship, precision engineering, timeless elegance, luxury lifestyle, confidence, success, sophistication. Soft golden sunlight, volumetric lighting, shallow depth of field, realistic skin textures, premium fashion photography, smooth cinematic camera movement, ARRI Alexa 65 look, 8K HDR, hyper-realistic, luxury advertisement, masterpiece quality, no logos, no text, no watermark.Ultra-realistic cinematic luxury watch commercial,
+   8-second sequence. The film opens with an extreme macro shot of a premium luxury wristwatch emerging from darkness as a single golden spotlight slowly illuminates every detail. The camera performs a smooth 360° orbit around the watch while the polished stainless-steel case reflects elegant studio lights. The sapphire crystal sparkles with flawless clarity, revealing a deep sunburst dial with diamond-cut hour markers and precision-crafted luminous hands. The sweeping second hand moves perfectly smoothly, emphasizing the high-precision automatic movement. The camera transitions into the transparent exhibition case back, where hundreds of intricate mechanical gears, polished bridges, ruby jewels, and the oscillating balance wheel move in perfect harmony. Slow-motion water droplets glide across the scratch-resistant sapphire crystal and premium metal case, demonstrating exceptional water resistance. Fine leather strap stitching and luxury finishing are revealed through cinematic macro close-ups. Floating golden dust particles, soft volumetric lighting, elegant reflections, dramatic black background, shallow depth of field, premium product cinematography, ARRI Alexa 65 look, 8K HDR, hyper-realistic textures, smooth camera motion, luxury advertisement, timeless elegance, precision engineering, exclusivity, masterpiece quality, no text, no logos, no watermark.

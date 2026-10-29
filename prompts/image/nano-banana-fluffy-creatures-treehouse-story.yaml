@@ -1,0 +1,25 @@
+id: nano-banana-fluffy-creatures-treehouse-story
+title:
+  en: Three Fluffy Creatures Planning a Treehouse
+  zh: 三只毛茸茸生物规划树屋
+model: Nano Banana 2
+mode: text-to-image
+category: comic
+tags:
+- storyboard
+- multi-image
+- consistent-characters
+- fluffy-creatures
+- 16-9
+source:
+  name: '@GoogleAI on X'
+  url: https://x.com/GoogleAI/status/2027094912357761319
+  credit: Google AI
+  likes: 1256
+  captured: '2026-10-28'
+  posted: '2026-02-26'
+notes:
+  en: Asks for a four part story with an emotional arc in a fixed 16:9 format, generated one image at a time. A direct instruction to keep identity consistent across the three characters holds the look steady from frame to frame.
+  zh: 要求生成带情绪起伏的四段故事，固定 16:9 画幅并逐张生成。明确要求三个角色保持一致的形象，让各画面中的外观稳定不变。
+prompt: |
+  Create a funny 4-part story featuring 3 fluffy creatures building a treehouse. The story has emotional highs and lows and ends in a happy moment. Maintain consistent identity across the 3 characters. Generate 4 images in 16:9 format, one at a time.

@@ -1,6 +1,63 @@
 # 标志、广告与包装
 
-[返回目录](../../README_zh.md) · 全部 11 条
+[返回目录](../../README_zh.md) · 全部 14 条
+
+<a id="gpt-image-vinco-fictional-brand-lookbook-grid"></a>
+### 虚构街头品牌的六图服装画册
+
+<a href="https://x.com/jayrizpop/status/2046725951640441151"><img src="../../previews/gpt-image-vinco-fictional-brand-lookbook-grid.jpg" width="360"></a>
+
+先给出虚构品牌名、张数和画幅，再把意大利档案平面设计与加州滑板街头风格混合。文字被要求作为实物出现，如卡片、号码布和酒标，并为每张图指定不同场景，使整组画面保持统一。
+
+GPT Image 2 · 文生图 · 出处: [@jayrizpop on X](https://x.com/jayrizpop/status/2046725951640441151) · 607 赞，统计于 2026-10-28
+
+[`lookbook`](tags.md#tag-lookbook) [`fictional-brand`](tags.md#tag-fictional-brand) [`streetwear`](tags.md#tag-streetwear) [`series`](tags.md#tag-series) [`typography`](tags.md#tag-typography)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+above the prompt. Just a quick screenshot of an arena board of mine
+```
+
+</details>
+
+<a id="nano-banana-playful-character-face-food-packaging"></a>
+### 笑脸角色造型的趣味食品包装设计
+
+<a href="https://x.com/azed_ai/status/2044053391832486350"><img src="../../previews/nano-banana-playful-character-face-food-packaging.jpg" width="360"></a>
+
+提示词让包装结构本身构成脸部，开口翻盖或镂空窗成为嘴巴，真实产品填满其中。用产品名占位符、扁平矢量风格、纯白背景和 1:1 比例，让整套结果保持一致。
+
+Nano Banana 2 · 文生图 · 出处: [@azed_ai on X](https://x.com/azed_ai/status/2044053391832486350) · 280 赞，统计于 2026-10-28
+
+[`packaging`](tags.md#tag-packaging) [`character-face`](tags.md#tag-character-face) [`flat-vector`](tags.md#tag-flat-vector) [`product-mockup`](tags.md#tag-product-mockup) [`die-cut`](tags.md#tag-die-cut)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Playful concept packaging design for [product name], box structure creatively shaped to reflect the product theme, bold illustrated character face integrated across the front panels, the opening flap or die-cut window forms the character’s mouth, teeth or expression, real product visible inside completing the face illusion, clever interaction between packaging mechanics and facial expression, flat vector illustration style, bold graphic lines, high-contrast colors, minimal modern branding, smooth matte cardboard texture, clean structural details, studio product photography, centered composition, pure white background, soft realistic shadow beneath, ultra-detailed, high-end creative packaging mockup, 1:1 aspect ratio.
+```
+
+</details>
+
+<a id="gpt-image-logo-to-brand-kit-3x3-grid"></a>
+### 由单个标志生成的品牌套件九宫格
+
+<a href="https://x.com/erenalkis/status/2047305079737205066"><img src="../../previews/gpt-image-logo-to-brand-kit-3x3-grid.jpg" width="360"></a>
+
+提示词只给一个标志参考图，并规定无边框的 3x3 网格，每格 4x3 比例。再逐项列出所需内容：标志、字体、色板、网站、包装和社交媒体模板。
+
+GPT Image 2 · 上传图改图 · 出处: [@erenalkis on X](https://x.com/erenalkis/status/2047305079737205066) · 190 赞，统计于 2026-10-29
+
+[`brand-kit`](tags.md#tag-brand-kit) [`logo`](tags.md#tag-logo) [`grid-layout`](tags.md#tag-grid-layout) [`packaging`](tags.md#tag-packaging) [`social-templates`](tags.md#tag-social-templates)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Hayır kendim derleme yaptım. Prompt: Ekteki logoyu kullanarak, marka için dış çizgileri olmayan, her biri 4x3 boyutunda olan, 3x3 çok görüntülü bir marka kiti oluştur. Marka logosu, yazı tipi ve renk paleti gibi ana marka bileşenlerinin yanı sıra web sitesi, ambalaj tasarımı ve sosyal medya şablon örneklerini de eklediğinden emin ol.
+```
+
+</details>
 
 <a id="gpt-image-bakery-logo-transparent"></a>
 ### 透明背景的面包店标志
@@ -94,6 +151,47 @@ In the style of ABCD (a black cover design), design a VI system for Tu Ni Tai Me
 
 </details>
 
+<a id="gpt-image-fisheye-strawberry-ice-cup-summer-ad"></a>
+### 杯内鱼眼视角的草莓冰饮夏日广告
+
+<a href="https://x.com/lovimg_com/status/2077036659028484375"><img src="../../previews/gpt-image-fisheye-strawberry-ice-cup-summer-ad.jpg" width="360"></a>
+
+提示词按主体、人物、服装、光线、镜头、质感和负面词分段书写。它把相机放在杯内的极端低角度并指定鱼眼镜头，同时写明对焦、光向和色彩对比，因此景深与折射效果稳定。
+
+GPT Image 2 · 文生图 · 出处: [@lovimg_com on X](https://x.com/lovimg_com/status/2077036659028484375) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`fisheye`](tags.md#tag-fisheye) [`summer`](tags.md#tag-summer) [`product-ad`](tags.md#tag-product-ad) [`strawberry`](tags.md#tag-strawberry) [`japanese`](tags.md#tag-japanese)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+主題：
+氷越しの夏
+
+主体：
+縦長2:3のリアル写真。透明な大型プラスチックカップの内側から見上げるような超広角フィッシュアイ構図。画面下半分いっぱいに赤いいちご果肉とクラッシュアイスが迫り、中央から太いグリーンのストローが奥へ一直線に伸びる。丸く歪んだカップの開口部の向こうに、女性の顔が中央に大きく収まる。
+
+人物・表情：
+自然で現実感のある若い女性。黒髪に近いダークブラウンの髪を高めのお団子にまとめ、薄い前髪と顔まわりの後れ毛が日差しで細く光っている。透明感のあるナチュラルメイク、淡いピンクの頬、つやのあるリップ。目を大きく開いてカメラをまっすぐ見つめ、唇を小さく丸めてストローをくわえている。少し驚いたような、可愛らしく無邪気な表情。
+
+服装・ポーズ：
+白いレース素材のブラウス。首元と肩まわりに細かなフリルがあり、夏らしく軽い質感。人物はカップの向こう側に顔を近づけ、両肩は下部に少しだけ見える。ストローは人物の口元に自然に接触し、奥から手前の赤い氷へ向かって強い奥行きを作る。
+
+背景・光：
+背景は晴れた夏の日の古い商店街。木造風の店先、かき氷屋の暖簾、苺柄の看板、白い小さな旗、街路樹が見える。文字はすべてぼかされた読めない装飾として扱う。左上から強い太陽光が入り、透明カップの水滴、カップ縁、氷、赤い果肉に細かな反射とハイライトが出る。影は右下へ落ち、白いクリームの残りがカップ内側にリング状についている。
+
+構図・カメラ：
+カメラはカップの底付近、赤い氷のすぐ上に置いたような極端なローアングル。フィッシュアイレンズでカップの円形リムが大きく湾曲し、周囲の商店街も軽く歪む。画面下45％は赤い氷と果肉の前ボケ、中央はストローと女性の顔、上部は青空とカップの透明な縁。ピントは女性の目と口元、手前の氷はきらめく浅いボケ。
+
+質感・スタイル：
+プロ用カメラで撮影した夏の広告写真風。透明プラスチックの屈折、水滴の粒、氷の冷たさ、いちご果肉の瑞々しさを高精細に表現。青空、赤い氷、グリーンのストロー、白いブラウスの色の対比を鮮やかにする。肌は自然な質感を残し、過度な美肌補正はしない。明るくポップで、少しユーモラスな日本の夏スイーツ写真。
+
+ネガティブ：
+実在ブランドロゴ、読める文字、商標の再現、不自然な顔、不自然な視線、歯や唇の崩れ、ストローとの接触不良、余分な指、欠けた指、手足の融合、氷の浮遊、不自然な重力、誤った遠近法、光源と矛盾する影、文字化け、透かし、過度な美肌補正、プラスチックのような肌。
+```
+
+</details>
+
 <a id="gpt-image-four-seasons-packaging-campaign-grid"></a>
 ### 四季包装宣传图 2x2 宫格
 
@@ -114,25 +212,6 @@ PHASE 3 - COMPOSITION: each quadrant a full campaign scene with props and enviro
 PHASE 4 - CONSISTENCY: same product silhouette, four distinct palettes
 
 Swap: [ITEM] / [MATERIAL] / [LABEL STYLE]
-```
-
-</details>
-
-<a id="gpt-image-jewelry-necklace-miniature-city-poster"></a>
-### 红宝石项链微缩城市广告海报
-
-<a href="https://x.com/Umar__786Ai/status/2055664244138349055"><img src="../../previews/gpt-image-jewelry-necklace-miniature-city-poster.jpg" width="360"></a>
-
-把珠宝放大成建筑地标，再列出高速路、桥梁、无人机、小人等微缩城市元素围绕它。深红单色配金色点缀，加移轴景深和顶部引号标题文字，整体保持高端广告质感。
-
-GPT Image 2 · 文生图 · 出处: [@Umar__786Ai on X](https://x.com/Umar__786Ai/status/2055664244138349055) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-[`jewelry`](tags.md#tag-jewelry) [`miniature-world`](tags.md#tag-miniature-world) [`luxury-ad`](tags.md#tag-luxury-ad) [`monochrome`](tags.md#tag-monochrome) [`typography`](tags.md#tag-typography)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a hyper-detailed luxury advertising poster in a cinematic miniature-world style. A gigantic royal diamond necklace with intricate gold filigree and massive ruby gemstones stands in the center like an architectural monument. Surround the necklace with a futuristic miniature city built around and inside the jewelry piece, including skyscrapers, elevated highways, bridges, spiral staircases, tiny human figures, luxury billboards, drones, helicopters, and cinematic urban activity. Use a deep crimson red monochrome background with gold and ruby accents. Add premium fashion-ad aesthetics, ultra-realistic textures, glossy reflections, dramatic studio lighting, depth of field, tilt-shift miniature effect, and high-end commercial composition. Include bold elegant typography at the top saying: “EMBRACE THE EXTRAORDINARY”. Style inspired by luxury jewelry campaigns, surreal city-building concepts, and premium 3D advertising renders. Ultra realistic, 8K, octane render, sharp focus, highly detailed, cinematic shadows, symmetrical composition.
 ```
 
 </details>
@@ -485,6 +564,32 @@ GPT Image 2 · 文生图 · 出处: [@MrLarus on X](https://x.com/MrLarus/status
 
 </details>
 
+<a id="gpt-image-shampoo-highway-billboard"></a>
+### 日落高速路旁的洗发水广告牌
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#refine-an-image-across-turns"><img src="../../previews/gpt-image-shampoo-highway-billboard.jpg" width="360"></a>
+
+把照片里的产品放上广告牌，文案注明逐字照写，并规定字体和只出现一次。预览图为 Sunburst 版本。
+
+GPT Image 2.5 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#refine-an-image-across-turns)
+
+[`billboard`](tags.md#tag-billboard) [`product`](tags.md#tag-product) [`text-render`](tags.md#tag-text-render)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a realistic billboard mockup of the shampoo on a highway scene during sunset.
+Billboard text (EXACT, verbatim, no extra characters):
+"Fresh and clean"
+Typography: bold sans-serif, high contrast, centered, clean kerning.
+Ensure text appears once and is perfectly legible.
+No watermarks, no logos.
+```
+
+</details>
+
+输入素材: [1](https://developers.openai.com/images/platform/guides/image-prompting/shampoo.webp)
+
 <a id="gpt-image-streetwear-campaign-tagline"></a>
 ### 街头服饰广告大片，标语只出现一次
 
@@ -505,44 +610,6 @@ Make it feel like a polished campaign image for a youth streetwear audience: sty
 Use clean composition, strong color direction, natural poses, and premium fashion photography cues.
 Render the tagline exactly once, clearly and legibly, integrated into the ad layout.
 No extra text, no watermarks, no unrelated logos.
-```
-
-</details>
-
-<a id="gpt-image-toy-airplane-collectible-box"></a>
-### 节日限定玩具飞机收藏版包装
-
-<a href="https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise"><img src="../../previews/gpt-image-toy-airplane-collectible-box.jpg" width="360"></a>
-
-用产品摄影的说法写材质、灯光和标签印刷，要求原创设计，包装文字逐字固定。预览图为 Sunburst 版本。
-
-GPT Image 2.5 · 文生图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise)
-
-[`packaging`](tags.md#tag-packaging) [`product`](tags.md#tag-product) [`toy`](tags.md#tag-toy)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a collectible action figure of a vintage-style toy propeller airplane with rounded wings, a front-mounted spinning propeller, slightly worn paint edges, classic childhood proportions, designed as a nostalgic holiday collectible, in blister packaging.
-
-Concept:
-A nostalgic holiday collectible inspired by the simple toy airplanes
-children used to play with during winter holidays.
-Evokes warmth, imagination, and childhood wonder.
-
-Style:
-Premium toy photography, realistic plastic and painted metal textures,
-studio lighting, shallow depth of field,
-sharp label printing, high-end retail presentation.
-
-Constraints:
-- Original design only
-- No trademarks
-- No watermarks
-- No logos
-
-Include ONLY this packaging text (verbatim):
-"Christmas Memories Edition"
 ```
 
 </details>

@@ -1,0 +1,25 @@
+id: nano-banana-pink-picnic-blanket-peony-portrait
+title:
+  en: Pink Picnic Portrait with Peonies and Lemonade
+  zh: 粉色野餐布上的牡丹人像
+model: Nano Banana 2
+mode: text-to-image
+category: portrait
+tags:
+- picnic
+- pink
+- peony
+- golden-hour
+- top-down
+source:
+  name: '@Just_sharon7 on X'
+  url: https://x.com/Just_sharon7/status/2075819429372305722
+  credit: Sharon Riley
+  likes: 186
+  captured: '2026-10-28'
+  posted: '2026-07-11'
+notes:
+  en: The prompt stacks a single baby pink palette across hair, dress, blanket and flowers, so every element reads as one color story. A top-down view, golden hour light and bokeh keep the park scene soft and dreamy.
+  zh: 提示词让发色、裙子、野餐布和花朵统一在同一种婴儿粉色调里,整体色彩集中。俯拍视角、黄金时段光线和背景虚化让公园场景柔和梦幻。
+prompt: |
+  A beautiful young East Asian woman lying on her back on a soft baby pink floral picnic blanket, top-down view, long voluminous wavy platinum blonde hair with baby pink highlights dramatically spread out around her head like a golden-pink halo, soft bangs, fair flawless skin, bright cheerful smile showing perfect white teeth, large expressive brown eyes, wearing a cute baby pink summer dress with puffed short sleeves and square neckline showing cleavage, delicate gold layered necklaces with heart pendant, small gold hoop earrings, sunny outdoor park picnic scene, large vibrant baby pink peonies and roses placed around her, wicker picnic basket in the corner, glass of fresh lemonade with lemon slice nearby, soft golden hour sunlight with gentle pink tones, beautiful natural lighting, bokeh background, highly detailed, photorealistic, cinematic composition, vibrant baby pink color palette, dreamy summer atmosphere.

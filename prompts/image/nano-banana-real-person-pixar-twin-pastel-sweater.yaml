@@ -1,0 +1,29 @@
+id: nano-banana-real-person-pixar-twin-pastel-sweater
+title:
+  en: Real man beside giant Pixar twin
+  zh: 真人与巨型皮克斯风格分身并肩合影
+model: Nano Banana 2
+mode: image-edit
+category: portrait
+tags:
+- pixar-style
+- reference-image
+- identity-lock
+- studio-portrait
+- negative-prompt
+source:
+  name: '@Sheldon056 on X'
+  url: https://x.com/Sheldon056/status/2029351307451260938
+  credit: Duet | AI
+  likes: 160
+  captured: '2026-10-29'
+  posted: '2026-03-05'
+notes:
+  en: Anchors both figures to one uploaded reference by locking face, clothing, height and pose, then sets a contrast only in the Pixar twin's stance and smirk. A plain studio backdrop plus a long negative prompt keeps the pose and proportions from drifting.
+  zh: 用同一张参考图同时锁定两个形象的脸、服装、身高和姿势，只让皮克斯分身在站姿和坏笑上有差异。纯色影棚背景加上较长的负面提示词，避免姿势和比例跑偏。
+prompt: |
+  Generated with Nano Banana 2 on Yapper
+
+  Prompt: Ultra-high-quality hyper-realistic photo showing a real person and a giant 3D Pixar-style version of the SAME person, both strictly based on the uploaded reference image. The real person and the Pixar character must have identical facial structure, hairstyle, facial expression, body proportions, height, and clothing. Both are wearing a knitted sweater with a gradient from light yellow to pink, high-waisted blue jeans, and white high-top sneakers. The pose must exactly match the reference: the real person stands relaxed with a friendly smile, with one hand naturally resting on the Pixar character’s shoulder. The Pixar version stands slightly wider, with hands confidently positioned near the pockets, with a playful mischievous smirk, a raised eyebrow, and expressive Pixar-style eyes. The size of the Pixar character should be proportionally larger but anatomically identical to the real person. The facial expression, head tilt, posture, and body language must precisely replicate the reference image. Clean grey-blue studio background, soft even studio lighting, realistic shadows, crisp fabric texture, smooth Pixar skin shading, cinematic sharpness. Do NOT change the pose, reaction, clothing, or proportions. Strict adherence to the reference.
+
+  Negative prompt: incorrect clothing, different pose, different facial expression, mismatched face, exaggerated cartoon style, thin or bulky body, incorrect Pixar proportions, incorrect height ratio, smile instead of smirk, neutral face, realistic render instead of Pixar, distorted anatomy, different clothing colors, weak resemblance, generic Pixar face.

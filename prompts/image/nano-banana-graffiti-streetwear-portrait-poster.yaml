@@ -1,0 +1,33 @@
+id: nano-banana-graffiti-streetwear-portrait-poster
+title:
+  en: Graffiti Streetwear Portrait Poster with Spray Lettering
+  zh: 喷漆字体街头潮牌人像海报
+model: Nano Banana 2
+mode: text-to-image
+category: poster
+tags:
+- graffiti
+- streetwear
+- fashion-poster
+- spray-paint
+- editorial
+source:
+  name: '@SadiaMalik182 on X'
+  url: https://x.com/SadiaMalik182/status/2068623080491012278
+  credit: Sadia
+  likes: 138
+  captured: '2026-10-28'
+  posted: '2026-06-21'
+notes:
+  en: Stacks named graffiti elements (typography, drips, stickers, splashes) around a posed fashion subject. The line asking for a premium editorial look rather than a messy mural keeps the busy background controlled, and a negative prompt guards against artifacts.
+  zh: 把涂鸦字体、滴漆、贴纸和泼溅等元素逐项列出，围绕一位摆拍的时尚模特。要求高级编辑感而非杂乱壁画，让繁复的背景保持克制，再用负面提示词压制瑕疵。
+prompt: |
+  Create a high-detail portrait poster in a bold American graffiti-inspired art style, combining modern urban street aesthetics with expressive American visual culture. Feature dynamic graffiti typography, layered spray-paint textures, hand-drawn symbols, abstract paint splashes, neon brush strokes, urban sticker elements, American calligraphy accents, and decorative ornaments that reinforce a vibrant street-art atmosphere.
+
+  The subject should pose confidently in fashionable contemporary streetwear, wearing layered oversized urban fashion pieces, premium casual styling, cargo denim, statement sneakers, and expressive accessories. Use a charismatic fashion-model pose with natural attitude and cinematic presence.
+
+  Fill the background with colorful graffiti walls, spray textures, stickers, urban signage, painted symbols, paint drips, street culture graphics, and modern American-inspired visual motifs. Maintain a premium editorial campaign look rather than a messy street mural.
+
+  Cinematic lighting, realistic skin texture, strong contrast, ultra-sharp details, vibrant color harmony, luxury street-fashion campaign aesthetic, poster-ready composition, immersive storytelling, ultra-detailed textures, premium urban atmosphere, 8K ultra-high resolution.
+
+  Negative Prompt: blurry details, bad anatomy, extra fingers, distorted face, low quality, dull colors, messy composition, watermark, logo, text artifacts.

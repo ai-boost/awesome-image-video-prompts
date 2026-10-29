@@ -1,0 +1,31 @@
+id: nano-banana-video-to-comic-alien-hairy-ball-theorem
+title:
+  en: Alien math teacher comic explaining the hairy ball theorem
+  zh: 外星人讲解毛球定理的六格数学漫画
+model: Nano Banana 2
+mode: image-edit
+category: comic
+tags:
+- video-to-image
+- comic-strip
+- video-context
+- educational
+- character-consistency
+source:
+  name: '@fofrAI on X'
+  url: https://x.com/fofrAI/status/2060039009636606073
+  credit: fofr
+  likes: 579
+  captured: '2026-10-28'
+  posted: '2026-05-28'
+notes:
+  en: A short instruction paired with a video or YouTube URL lets the model read the source as context and turn its narration into sequenced panels. The same character and kitchen setting stay consistent across panels, and a diagram panel is added to explain the idea.
+  zh: 一句简短指令加上视频或 YouTube 链接，模型就把视频当作上下文，把讲解内容拆成连续分格。角色和厨房场景在各格之间保持一致，还加入一格示意图来解释概念。
+prompt: |
+  Fun new feature landing in Nano Banana 2 today:
+
+  video-to-image
+
+  Pass a video or YouTube URL to Nano Banana 2 along with your prompt, and it'll use the video as context to make the image.
+
+  > create a comic strip from this video

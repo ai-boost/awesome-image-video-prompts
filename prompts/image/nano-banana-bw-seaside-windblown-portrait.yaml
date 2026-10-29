@@ -1,0 +1,34 @@
+id: nano-banana-bw-seaside-windblown-portrait
+title:
+  en: Black and white seaside portrait with windblown hair
+  zh: 黑白海边风吹发丝特写肖像
+model: Nano Banana 2
+mode: image-edit
+category: portrait
+tags:
+- black-and-white
+- film-grain
+- macro-portrait
+- face-reference
+- coastal
+source:
+  name: '@SimplyAnnisa on X'
+  url: https://x.com/SimplyAnnisa/status/2070720737426428068
+  credit: Anissa
+  likes: 102
+  captured: '2026-10-28'
+  posted: '2026-06-27'
+notes:
+  en: Locks the face to an uploaded reference with explicit identity and no beautification rules, then stacks disposable film grain, 85mm shallow focus and an extreme macro framing line. A closing list of negatives (no clean digital sharpness, no centered portrait) keeps the result looking candid.
+  zh: 先用参考图锁定面部并明确禁止美化，再叠加一次性胶片颗粒、85mm浅景深和极致微距构图描述。结尾的否定清单（不要数码锐利、不要居中构图）让画面保持抓拍感。
+prompt: |
+  Nano banana 2 on
+  @Lart_AI
+
+
+  https://
+  lartai.com/?TG=10259
+  Intimate Wind Whisper
+  Composition: Extreme macro close-up focusing tightly on the face with wind-blown hair strands delicately framing the features and shallow focus on natural skin texture
+  Prompt: Using the uploaded photo as the exact face reference. Keep the face identity 100% unchanged, do not alter facial features, proportions, expression structure, or skin details. No face distortion, no beautification, no AI-looking changes. Photorealistic candid snapshot taken on a low-quality disposable film camera, black and white cinematic film photography, authentic 35mm grain, subtle imperfections, natural texture, vintage analog look. The woman has full voluminous hair slightly messy and blown by ocean wind, strands of hair falling naturally across the face, chin slightly raised, eyes gently closed, dreamy peaceful expression, soft genuine smile. She is wearing a voluminous white dress, sitting on wet textured seaside rocks. The background shows a dramatic massive coastal cliff covered in mist under a heavy overcast grey sky creating a moody coastal atmosphere with raw cinematic realism. Natural diffused daylight casts soft shadows in an emotional editorial photography style, realistic film exposure, high dynamic range, shallow depth of field, shot on 85mm lens, cinematic framing, authentic documentary feeling. Extreme close-up macro framing tightly captures her face, highlighting the texture of her skin and the delicate strands of wind-blown hair resting across her closed eyes and smile, with the white dress softly visible at the lower frame edge and the misty cliff gently out of focus behind.
+  no clean digital sharpness, no CGI look, no poster composition, no centered portrait, no black bars –ar 9:16

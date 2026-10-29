@@ -1,0 +1,29 @@
+id: nano-banana-film-strip-memory-collage-portrait
+title:
+  en: Film strip memory collage with chibi spirits
+  zh: 带萌系小精灵的胶片记忆拼贴
+model: Nano Banana 2
+mode: image-edit
+category: collage
+tags:
+- film-strip
+- collage
+- polaroid
+- chibi-doodles
+- reference-face
+source:
+  name: '@AiwithLariab on X'
+  url: https://x.com/AiwithLariab/status/2051256840143642633
+  credit: Laraib Fatima‎
+  likes: 104
+  captured: '2026-10-28'
+  posted: '2026-05-04'
+notes:
+  en: Anchors identity to a reference face, then varies hairstyle, outfit and background per frame so one person reads as a timeline of moments. Layering film strips, Polaroids and hand drawn doodles with a Portra grade and a 9:16 layout keeps the collage cohesive.
+  zh: 先用参考图锁定人脸，再让每一帧的发型、服装和背景各不相同，一个人物就成了一条记忆时间线。胶片条、拍立得和手绘涂鸦叠加，配合 Portra 色调与 9:16 版式，拼贴依然统一。
+prompt: |
+  Asymmetrical cinematic film-strip style collage featuring a young woman using the exact face from the reference image, preserving identity and natural skin texture. The composition is arranged like a rolling timeline of memories captured in overlapping film frames and negatives. Each frame shows different emotional micro-moments: laughing while walking, looking out a window, fixing hair in mirror, holding coffee, and soft candid smile.
+  Frames are styled as vintage film strips, contact sheets, and Polaroid negatives with light leaks and grain textures. Hairstyle subtly changes per frame (loose hair, ponytail, messy bun, soft braid). Korean soft glam makeup with natural glow and dewy skin.
+  Include floating pastel chibi “memory spirits” representing emotions (joy, calm, curiosity, nostalgia) interacting with frames. Add hand-drawn doodles like timestamps, arrows, film marks, stars, and scribbles.
+  Outfit is casual chic layered wardrobe (trench coat, knit sweater, denim jacket) in muted tones (beige, soft pink, grey, dusty blue). Background varies slightly per memory scene (street café, sunset road, cozy room, rainy window).
+  Soft cinematic lighting, shallow depth of field, film photography style (Kodak Portra tone), warm nostalgic color grading, vertical 9:16 layout.

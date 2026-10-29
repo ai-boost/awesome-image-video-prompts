@@ -1,0 +1,34 @@
+id: gpt-image-bag-pov-ios-incoming-call-portrait
+title:
+  en: Bag POV portrait with iOS incoming call overlay
+  zh: 包内视角人像叠加 iOS 来电界面
+model: GPT Image 2.5
+mode: image-edit
+category: portrait
+tags:
+- face-reference
+- pov
+- ios-ui-overlay
+- street-style
+- realistic
+source:
+  name: '@TheVirtualMuse on X'
+  url: https://x.com/TheVirtualMuse/status/2110015285323559093
+  credit: Areeba
+  likes: 43
+  captured: '2026-10-28'
+  posted: '2026-10-13'
+notes:
+  en: An unusual camera position, looking up from inside a fleece lined bag, frames the shot with fuzzy edges, while a foreshortened hand in the foreground adds depth. Quoted UI labels and an explicit face reference instruction keep the overlay text and identity accurate.
+  zh: 镜头设在毛绒内衬包内向上拍，绒毛自然成框，前景透视变形的手指增加纵深。界面文字逐一写明，并明确要求以参考图锁定面部，因此来电界面文字准确、人物身份稳定。
+prompt: |
+  Use my uploaded photo as the face reference. 3:4 vertical. Point-of-view shot from inside a grey fleece-lined bag looking up. The soft
+  fuzzy lining frames every edge of the image. the person in reference, keeping her exact face, hairstyle and identity, reaches down into the
+  bag toward the camera, her fingers foreshortened in the foreground and stacked with chunky silver rings. She wears a black ribbed beanie,
+  black oval sunglasses, a navy blazer and a blue-and-white striped shirt: a white London
+  townhouse with a dark grey-green front door numbered 27, black iron railings and a small olive tree. Overlaid iOS incoming call interface
+  in white system font: a "Message" button on the left and a "Voicemail" button on the right as frosted round icons, and at the bottom a
+  frosted glass pill slider reading "slide to answer" with a white circle holding a green phone icon. Natural daylight, candid street-style
+  fashion photography, realistic skin texture.
+  Make it realistic
+  Improve its colour grading

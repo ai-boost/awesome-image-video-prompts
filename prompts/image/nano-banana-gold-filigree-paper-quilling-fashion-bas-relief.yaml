@@ -1,0 +1,44 @@
+id: nano-banana-gold-filigree-paper-quilling-fashion-bas-relief
+title:
+  en: Gold filigree and paper relief fashion figure
+  zh: 金丝与纸艺浮雕的时尚人物
+model: Nano Banana 2
+mode: text-to-image
+category: illustration
+tags:
+- bas-relief
+- fashion
+- template
+- gold-filigree
+- papercraft
+source:
+  name: '@yourPlugAI on X'
+  url: https://x.com/yourPlugAI/status/2071918501204295712
+  credit: Gilbert Odera | Your AI Plug
+  likes: 127
+  captured: '2026-10-28'
+  posted: '2026-06-30'
+notes:
+  en: A fill in the blank template lists material behaviors for gold filigree, glass, embroidery and papercraft, so one prompt can switch media. Camera angle, lighting style and a corner brand name are slots that keep the composition consistent.
+  zh: 模板用空位列出金丝、玻璃、刺绣和纸艺四种材质的表现特征，一个提示词即可切换媒介。镜头角度、光线风格和角落品牌名都设为空位，保证构图一致。
+prompt: |
+  Create a premium 3D bas-relief fashion artwork featuring [MAIN SUBJECT] in a graceful [POSE/ACTION], viewed from [CAMERA ANGLE], designed with a luxurious [ART MEDIUM] aesthetic.
+
+  The figure wears [OUTFIT DESCRIPTION] with [ACCESSORIES], while carrying or interacting with [PROP]. The clothing must integrate naturally into the chosen artistic medium, emphasizing handcrafted precision and flowing organic forms.
+
+  Construct the artwork using authentic material behavior specific to [ART MEDIUM]:
+
+  • Gold Filigree: intricate metallic wirework, layered ornamental curves, polished reflective gold edges.
+  • Glass Relief: translucent resin surfaces, glossy raised contours, subtle internal reflections, liquid-glass depth.
+  • Embroidery: dense satin stitching, layered thread work, woven textile textures, dimensional floral needlework.
+  • Papercraft: precision-cut layered paper ribbons, folded geometric structures, matte handcrafted surfaces, crisp paper edges.
+
+  Surround the subject with [DECORATIVE ELEMENTS] that complement the material language while maintaining elegant visual balance.
+
+  Set the composition against [BACKGROUND MATERIAL] featuring [BACKGROUND DETAILS], designed to enhance depth without distracting from the subject.
+
+  Illuminate the scene using [LIGHTING STYLE], creating soft ambient shadows, strong dimensional separation, and cinematic highlights that emphasize the physical properties of the chosen material.
+
+  Apply a refined luxury editorial aesthetic with exceptional craftsmanship, flawless composition, museum-quality detailing, elegant negative space, octane render, hyper-realistic textures, cinematic depth, premium advertising quality, masterpiece, ultra-high detail, 1:1 aspect ratio.
+
+  Place the brand name "[BRAND NAME]" elegantly embossed, engraved, embroidered, or integrated into the lower-left corner according to the selected material.

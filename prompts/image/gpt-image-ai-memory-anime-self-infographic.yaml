@@ -1,0 +1,29 @@
+id: gpt-image-ai-memory-anime-self-infographic
+title:
+  en: Anime cartoon infographic about the user, from memory
+  zh: 根据聊天记忆生成的动漫卡通个人信息图
+model: GPT Image 2
+mode: text-to-image
+category: infographic
+tags:
+- infographic
+- anime
+- self-portrait
+- chatgpt-memory
+- personalized
+source:
+  name: '@icreatelife on X'
+  url: https://x.com/icreatelife/status/2047042187683066100
+  credit: Kris Kashtanova
+  likes: 209
+  captured: '2026-10-28'
+  posted: '2026-04-22'
+notes:
+  en: The prompt hands the content to ChatGPT memory, so the model fills in a personal bio, values and hobbies without any details typed in. Naming two formats, infographic and cartoon anime, gets a layout of labeled panels around a character portrait.
+  zh: 提示词把内容交给 ChatGPT 的记忆，不用手写任何个人细节，模型自己补全简介、价值观和爱好。同时指定信息图和卡通动漫两种形式，得到围绕角色肖像的分区标注版面。
+prompt: |
+  Ask ChatGPT knowing everything it knows about you to generate an image of yourself with GPT Image 2
+
+  prompt: Knowing everything you know about me,  make an infographic of me. Make a cartoon anime style image.
+
+  I'd love to see what you got.

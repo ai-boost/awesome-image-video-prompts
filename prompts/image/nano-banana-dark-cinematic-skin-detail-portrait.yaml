@@ -1,0 +1,35 @@
+id: nano-banana-dark-cinematic-skin-detail-portrait
+title:
+  en: Dark Cinematic Close-Up with Extreme Skin Detail
+  zh: 极致皮肤细节的暗调电影感特写人像
+model: Nano Banana 2
+mode: image-edit
+category: portrait
+tags:
+- portrait
+- close-up
+- skin-detail
+- dramatic-lighting
+- face-reference
+source:
+  name: '@Ozayrr_irl on X'
+  url: https://x.com/Ozayrr_irl/status/2078676250244354493
+  credit: Ozair AI
+  likes: 119
+  captured: '2026-10-29'
+  posted: '2026-07-19'
+notes:
+  en: Locks identity to a reference face, then specifies a tight crop, a single narrow spotlight from above and the side, no fill light and a thin rim light. Skin is described feature by feature (pores, stubble, sheen, capillary flush, iris fibers) so the raking light reads as texture.
+  zh: 先锁定参考图人脸，再规定紧凑裁切、高位侧向单一窄光斑、无补光和一道细边缘光。皮肤按毛孔、胡茬、油光、毛细血管红润和虹膜纤维逐项描述，让侧逆光呈现出质感。
+prompt: |
+  Use the exact same face from the reference image and generate a dark cinematic portrait where obsessive skin detail and dramatic lighting collide into a single devastating image — where every pore becomes a universe and the darkness makes the face feel sacred.
+
+  Extreme close-up — face filling 90% of the frame, tight crop from just above the brows to just below the lips, ears dissolving at the edges into darkness. No outfit visible. No distractions. Just the face and the dark consuming everything around it.
+
+  Expression carries absolute still weight — eyes open and fully present, staring directly into the lens with a calm devastating intensity that requires no performance. Lips naturally sealed with the faintest natural tension. Every facial muscle completely still — the specific stillness of someone who knows exactly who they are and needs nothing from the world to confirm it.
+
+  Skin is the complete obsession — rendered at a level that makes dermatologists lean forward and photographers put down their cameras. Every individual pore with its own unique diameter, depth, shadow and raised wall structure simultaneously visible. Sebaceous filaments as dark pinpoint details across the nose wings and chin. The micro-topography of real skin — hills valleys ridges plateaus all visible as a landscape under raking light. Individual stubble hairs at follicle level — each one with its own emergence angle, thickness tapering from root to glowing tip, its own micro-shadow cast across the surrounding skin. Some hairs just breaking the surface, some fully emerged, some curling slightly — completely individual and real. Natural skin pigmentation variation — micro spots, subtle uneven tone, the biological truth of real skin. The specific oil distribution of real skin — slight natural sheen concentrated at the nose tip center forehead and cupid's bow, more matte at the jaw and temples. Natural capillary flush beneath the skin surface at the cheeks and nose — warmth visible under the skin like embers under ash. Under-eye skin showing its specific delicate thinness, the faint natural shadow of the tear trough. Every eyelash rendered individually with unique length thickness curl spacing and the way they catch the single light source and glow at their tips. Iris at microscopic fiber-pattern level — individual collagen fibers radiating from the pupil, natural color variation within the iris, the limbal ring a precise dark circle, the pupil a deep black with internal dimensional depth. A single sharp catch light in each eye from the key source — small, precise, alive.
+
+  Lighting is a single narrow Fresnel spotlight from high above and sharply to one side — the most brutal and revealing light possible, a column of cold white-blue light cutting across the face at a steep diagonal angle. The lit side of the face mercilessly exposed — every pore every follicle every skin surface variation caught by the raking light and made three-dimensional by micro-shadows. The light transition across the nose bridge razor sharp — lit side in brilliant cold detail, shadow side dissolving gradually into absolute black. No fill light anywhere — the shadow side is genuine darkness, total and final, only the faintest ghost of a razor-thin cold rim light from directly behind tracing the ear edge and jaw line with a thread of blue-white light — the only evidence the shadow side of the face exists.
+
+  The lit areas of skin catch the cold spotlight with scientific precision — the nose tip the highest highlight point, the forehead plane catching a wide sweep of light, the cheekbone a sharp bright ridge, the upper lip a subtle highlight above the sealed mouth. Every surface variation between these points creating its own micro-shadow under the raking light — the face as a topographic map of human biology.

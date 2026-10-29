@@ -1,0 +1,30 @@
+id: nano-banana-exploded-architecture-library-room
+title:
+  en: Exploded 3D library room floating in void
+  zh: 悬浮在黑暗中的爆炸视图图书馆房间
+model: Nano Banana 2
+mode: text-to-image
+category: architecture
+tags:
+- exploded-view
+- architecture
+- interior
+- labels
+- dark-background
+source:
+  name: '@AllaAisling on X'
+  url: https://x.com/AllaAisling/status/2035390729527378146
+  credit: Alexandra Aisling
+  likes: 453
+  captured: '2026-10-28'
+  posted: '2026-03-21'
+notes:
+  en: A bracketed template names the room, then gives an explosion order for ceiling, walls, floor and furniture. Lighting stays tied to each element's original source, and labels are limited to architectural parts with surface, material and dimension.
+  zh: 用方括号模板指定房间类型,并按天花板、墙、地板、家具的顺序描述拆解。光线保持各元素原有光源,标注只限建筑构件,包含表面、材质和尺寸。
+prompt: |
+  Prompt Studio: Exploded Architecture, with Nano Banana 2 in Firefly
+
+  [ROOM TYPE] pulled apart in 3D, every surface and object  floating at its exact position, slightly separated.  EXPLOSION: ceiling lifted, four walls sliding outward,  floor dropped, furniture floating in place,  objects orbiting their surfaces, light sources  still emitting across the exploded void.  The ghost of the room readable in the arrangement.  Labels on architectural elements only: "[SURFACE]" / "[MATERIAL]" / "[DIMENSION]"  LIGHTING: each element still lit by its original source,  windows casting light across the gap, lamps throwing cones  into empty space.  BACKGROUND: deep dark, the room floats in void. TITLE: "[ROOM NAME]" / SUBTITLE: "[BUILDING TYPE] [PERIOD]"  Mood: architectural model that became a universe. 4K, extraordinary spatial clarity, tack sharp.
+
+  Check ALTs for ideas 👇
+  @AdobeFirefly

@@ -1,0 +1,116 @@
+id: nano-banana-candid-athleisure-smoothie-la-street
+title:
+  en: Candid olive athleisure woman walking with green smoothie
+  zh: 身穿橄榄绿运动套装、手拿绿色奶昔的街头抓拍
+model: Nano Banana 2
+mode: image-edit
+category: portrait
+tags:
+- json-prompt
+- candid
+- athleisure
+- reference-identity
+- street-photo
+source:
+  name: '@astronomerozge1 on X'
+  url: https://x.com/astronomerozge1/status/2045415777197518948
+  credit: Özge Döner
+  likes: 132
+  captured: '2026-10-29'
+  posted: '2026-04-17'
+notes:
+  en: A structured JSON prompt splits the request into subject, scene, pose, camera and texture blocks, and locks identity to a reference image. A 50mm lens, a slightly off center angle and a mid stride pose give the paparazzi feel, and a negative list keeps the background clean.
+  zh: 用结构化 JSON 把主体、场景、姿态、镜头和质感分块描述，并以参考图锁定人物身份。50mm 镜头、略偏离中心的机位和行走中的姿态带来抓拍感，负面清单保证背景干净。
+prompt: |
+  {
+    "generation_request": {
+      "meta_data": {
+        "tool": "Nano Banana 2",
+        "task_type": "erewhon_wellness_luxury_candid",
+        "language": "en",
+        "priority": "highest",
+        "version": "v2.0_LA_CLEAN_GIRL_LUXURY"
+      },
+
+      "input": {
+        "mode": "image_to_image",
+        "reference_image_usage": "very_high",
+        "preserve_identity": true,
+        "notes": "Use the reference woman. Scene set outside Erewhon Market in Los Angeles. She exits holding a smoothie in a natural candid moment. The vibe is paparazzi-meets-editorial. She is not posing directly, caught mid-walk with confident effortless energy."
+      },
+
+      "output_settings": {
+        "aspect_ratio": "4:5",
+        "orientation": "portrait",
+        "resolution_target": "ultra_high_res",
+        "render_style": "luxury_wellness_editorial",
+        "sharpness": "ultra_crisp",
+        "dynamic_range": "clean_bright_daylight",
+        "color_grade": "neutral_beige_green_wellness"
+      },
+
+      "subject": {
+        "identity": "reference woman",
+        "expression": "neutral confident face, slightly detached, cool-girl energy",
+        "hair": "sleek high ponytail or slick bun, ultra clean finish",
+        "makeup": "no-makeup makeup, dewy skin, subtle glow, natural lips",
+        "outfit": "ultra premium fitted athleisure set (sculpting leggings + cropped top), neutral tones like beige, olive or soft grey",
+        "accessories": "designer sunglasses, minimalist tote bag, smoothie cup",
+        "body": "perfect anatomy, natural walking posture"
+      },
+
+      "scene": {
+        "environment": "Erewhon Market exterior with clean modern facade, glass, greenery",
+        "lighting": "bright soft California daylight, no harsh shadows",
+        "mood": "clean, elite, wellness-focused, understated luxury"
+      },
+
+      "pose_language": {
+        "pose": "mid-step walking out of store, one arm holding smoothie, other relaxed",
+        "hands": "natural grip, relaxed fingers",
+        "posture": "confident, straight, effortless"
+      },
+
+      "camera": {
+        "lens": "50mm lifestyle lens",
+        "angle": "slightly off-center candid angle",
+        "framing": "mid-full body",
+        "focus": "sharp subject, lightly blurred background",
+        "depth_of_field": "moderately shallow"
+      },
+
+      "texture_details": {
+        "skin_texture": "natural dewy skin with realistic pores",
+        "fabric_texture": "tight athletic fabric with subtle stretch and sheen",
+        "hair_texture": "clean sleek strands, controlled finish"
+      },
+
+      "color_grading": {
+        "palette": "beige, soft greens, whites, clean neutral tones",
+        "style": "minimal luxury wellness aesthetic"
+      },
+
+      "must_have": [
+        "Erewhon style setting",
+        "smoothie",
+        "athleisure luxury",
+        "clean girl aesthetic",
+        "same identity",
+        "perfect anatomy",
+        "no text"
+      ],
+
+      "negative_prompt": [
+        "messy background",
+        "fast food setting",
+        "heavy glam makeup",
+        "cheap outfit",
+        "bad anatomy",
+        "extra fingers",
+        "over-posed",
+        "text",
+        "logo",
+        "watermark"
+      ]
+    }
+  }

@@ -1,0 +1,79 @@
+id: gpt-image-red-white-motivational-fashion-poster-triple-portrait
+title:
+  en: Red and white motivational fashion poster with triple portrait
+  zh: 红白配色励志时尚海报，同一人三种景别
+model: GPT Image 2.5
+mode: image-edit
+category: poster
+tags:
+- fashion-poster
+- identity-reference
+- typography
+- red-white
+- triple-portrait
+source:
+  name: '@mehwishkiran07 on X'
+  url: https://x.com/mehwishkiran07/status/2102714995427737651
+  credit: Mehwish kiran
+  likes: 92
+  captured: '2026-10-28'
+  posted: '2026-09-23'
+notes:
+  en: One reference photo is locked as the identity source, then placed at three scales (huge close-up, mid-shot, full-body) with numbered layout positions so the poster layers without looking duplicated. Every text block is given a position and a style, such as deep red brush script for one word and small dark type for the rest, and the closing line asks for correct spelling.
+  zh: 以上传照片锁定身份，并用编号分别指定特写、半身、全身三种景别的位置，让同一人物在海报中分层而不显重复。每段文字都写明位置和字体风格，如单词用深红毛笔体、其余用深色小字，结尾再要求拼写正确。
+prompt: |
+  > Use the uploaded reference image as the primary identity reference. Preserve the subject’s exact facial identity, facial structure, skin tone, hairstyle, eyes, nose, lips, jawline, and overall likeness. Create a premium cinematic motivational fashion poster in a vertical 4:5 composition.
+
+  The poster features the same person in three integrated appearances/scales:
+
+  1. A huge close-up portrait occupying the upper-left and center background, showing the face in sharp detail with a confident, subtle smile and natural realistic skin texture.
+
+  2. A large half/full upper-body portrait positioned on the right side, slightly behind the main subject, maintaining the exact same identity and hairstyle.
+
+  3. A full-body fashion portrait in the center foreground, walking confidently toward the camera with both hands naturally placed in the trouser pockets.
+
+  Create a luxury editorial fashion campaign aesthetic, cinematic photography, ultra-realistic skin texture, realistic hair strands, natural facial proportions, premium studio lighting, sharp focus, sophisticated confident expression.
+
+  Outfit: elegant monochromatic white fashion outfit. For the female version, a tailored white blazer, fitted white top, high-waisted white trousers and clean white sneakers. For the male version, a perfectly tailored white blazer, open-collar white shirt, white trousers and clean white sneakers. Add a premium minimalist wristwatch.
+
+  Background: dramatic white and deep crimson-red abstract paint splashes, energetic brush strokes, textured grunge effects, dark red metropolitan city skyline silhouettes emerging from the paint, cinematic reflections on a glossy wet floor, strong red atmospheric glow, high contrast between white and crimson.
+
+  The composition should feel like a high-end fashion magazine cover mixed with a motivational movie poster. Layer the large portraits naturally into the background without looking duplicated or artificial. Maintain realistic depth, scale, perspective, shadows and lighting consistency across all three versions of the subject.
+
+  Add elegant editorial typography integrated into the design:
+
+  Top right: SAME
+  DREAMS
+  BIGGER
+  MOVES
+
+  Left side: DISCIPLINE
+  CREATIVITY
+  PROGRESS
+  FREEDOM
+
+  Large lower-left text:
+  VISION
+
+  Large handwritten brush-script text on lower-right:
+  Better
+
+  Under it: THAN
+  YESTERDAY
+
+  Bottom-left: A
+  YOUNG
+  MIND
+  WITH
+  A BIG
+  VISION
+
+  Bottom-right: GOOD
+  IDEAS
+  TAKE TIME
+
+  Typography should be elegant, editorial, clean and perfectly aligned, with deep red brush lettering for “Better” and subtle black/dark typography for the smaller text.
+
+  Overall style: ultra-photorealistic, cinematic, premium luxury fashion campaign, sophisticated editorial composition, dramatic red-and-white color palette, realistic photography, high detail, sharp facial features, natural skin pores, realistic hair, volumetric lighting, glossy reflections, professional art direction, 8K quality, highly polished commercial poster.
+
+  Important: Keep the subject’s identity consistent across all three appearances. Do not change the face, age, ethnicity, facial proportions or recognizable features. No extra fingers, distorted hands, duplicated limbs, warped face, unnatural anatomy, blurry face, cartoon appearance or plastic skin. Ensure all typography is correctly spelled and readable.

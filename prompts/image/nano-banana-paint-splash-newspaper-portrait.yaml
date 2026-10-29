@@ -1,0 +1,32 @@
+id: nano-banana-paint-splash-newspaper-portrait
+title:
+  en: Blue and orange paint splash newspaper collage portrait
+  zh: 蓝橙泼墨与旧报纸拼贴的艺术肖像
+model: Nano Banana 2
+mode: image-edit
+category: portrait
+tags:
+- portrait
+- paint-splash
+- newspaper-collage
+- blue-orange
+- identity-preserve
+source:
+  name: '@weiinberg on X'
+  url: https://x.com/weiinberg/status/2027610358035423634
+  credit: Weinberg
+  likes: 175
+  captured: '2026-10-28'
+  posted: '2026-02-28'
+notes:
+  en: A strict identity lock on the reference face is paired with a separate illustration style, so the likeness stays while the rendering turns painterly. Named complementary blue and orange splashes over a vintage newspaper collage background, with cinematic lighting and a clean-not-cluttered limit, keep the poster controlled.
+  zh: 先对参考照片的面部下达严格的身份锁定，再单独指定插画风格，既保留相貌又呈现绘画质感。蓝橙互补色泼墨叠在复古报纸拼贴背景上，配合电影感布光和干净不杂乱的限定，让海报画面保持克制。
+prompt: |
+  Create a high-end stylized artistic portrait of the same person in a modern digital painting / illustrated poster style. The face must remain 100% identical to the reference photo — preserve exact facial structure, proportions, skin tone, facial features, age, hairstyle, and identity. No modification, beautification, reshaping, or enhancement of the face is allowed. Absolute identity accuracy required.
+  The subject is shown in a half-body or close-up framing, looking slightly upward with a confident and calm expression. Maintain realistic proportions and natural anatomy while rendering in a detailed illustration style.
+  The face must be ultra-detailed and sharply focused, with realistic skin texture translated into a refined digital painting finish — not cartoonish, not exaggerated, not distorted.
+  Surround the portrait with dynamic colorful paint splashes and expressive ink strokes, blending organically into the composition. Use bold yet controlled blue and orange tones for contrast and energy.
+  Background: layered vintage newspaper collage texture with subtle typography fragments, distressed paper details, and abstract paint splashes integrated naturally into the layout. The collage should feel artistic but clean, not cluttered.
+  Lighting: cinematic high-contrast lighting with dramatic highlights and controlled shadows, enhancing depth while maintaining natural facial realism.
+  Color grading: vibrant but balanced, strong blue and orange contrast, modern poster aesthetic.
+  Output: ultra-detailed, 4K resolution, clean edges, sharp rendering, professional poster art quality, modern digital illustration with realistic depth and premium finish

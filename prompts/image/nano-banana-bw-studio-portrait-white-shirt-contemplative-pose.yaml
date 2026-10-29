@@ -1,0 +1,28 @@
+id: nano-banana-bw-studio-portrait-white-shirt-contemplative-pose
+title:
+  en: Black and white studio portrait in white shirt
+  zh: 白衬衫黑白棚拍男士肖像
+model: Nano Banana 2
+mode: image-edit
+category: portrait
+tags:
+- black-and-white
+- studio-portrait
+- identity-preserving
+- editorial
+- 85mm
+source:
+  name: '@weiinberg on X'
+  url: https://x.com/weiinberg/status/2079797303280591190
+  credit: Weinberg
+  likes: 211
+  captured: '2026-10-29'
+  posted: '2026-07-22'
+notes:
+  en: Starts from an uploaded photo and locks identity, hairstyle and facial hair before describing wardrobe and a specific hand to chin pose. Names the light direction, a seamless charcoal backdrop and an 85mm shallow depth of field to get an editorial monochrome look.
+  zh: 以上传照片为基础,先锁定面部特征、发型和胡须,再写服装与手托下巴的具体姿势。用明确的光线方向、无缝炭黑背景和85mm浅景深营造杂志感黑白效果。
+prompt: |
+  Nano Banana 2 on OpenArt.
+
+  Prompt: Create a premium black-and-white studio portrait of the uploaded man, preserving his recognizable facial identity, natural hairstyle, skin texture, and existing facial hair. Frame him from the upper thighs upward, standing confidently, subtle body tilt and facing the camera with an intense, sharp expression.Dress him in a crisp fitted white dress shirt with the collar slightly open and the sleeves neatly rolled to the elbows, paired with tailored black trousers. Pose him with one arm folded horizontally across his waist, supporting the opposite elbow, while the raised hand rests naturally against his lips or chin in a contemplative gesture. Add a classic round analog wristwatch with a dark leather strap on the raised wrist.
+  Place him against a clean, seamless charcoal-black studio background with a subtle soft gradient behind the upper body and no visible corners or props. Use soft directional light from the upper camera-right side, creating sculpted highlights on one side of the face and shirt while the opposite side falls into rich shadow. Keep strong subject-to-background separation, balanced contrast, crisp focus on the eyes, face, hands, and watch, realistic fabric folds, natural anatomy, and refined monochrome editorial toning. Shot with an 85mm portrait lens, shallow depth of field, high-end professional photography, 4:5 aspect ratio.

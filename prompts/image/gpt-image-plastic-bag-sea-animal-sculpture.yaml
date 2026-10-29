@@ -1,0 +1,35 @@
+id: gpt-image-plastic-bag-sea-animal-sculpture
+title:
+  en: Humpback whale sculpture made of plastic bags
+  zh: 塑料袋拼成的座头鲸雕塑
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- plastic-bags
+- sculpture
+- sea-animals
+- environmental
+- template
+source:
+  name: '@ShamsAmin56 on X'
+  url: https://x.com/ShamsAmin56/status/2062836449729474727
+  credit: Shams
+  likes: 214
+  captured: '2026-10-28'
+  posted: '2026-06-02'
+notes:
+  en: A fill in the blank template swaps the animal, body features, bag colors and background, so one structure yields a whole series. Naming visible textures, knots, strings and printed bag sections pushes the model toward handmade realism, and a flat pastel backdrop with loose bags at the edges frames the subject.
+  zh: 模板把动物、身体特征、塑料袋颜色和背景做成可替换的空位，一套结构就能出一整个系列。写明袋面纹理、绑结、白色提手和印刷图案，让画面更像手工雕塑的真实质感，纯色柔和背景加边角散落的塑料袋用来收束构图。
+prompt: |
+  A highly detailed realistic photograph of a creative sculpture of a [SEA ANIMAL] made entirely from colorful recycled plastic bags and shopping bags tied and shaped into the animal form, with [specific features like fins, tentacles, shell, etc] from knotted and arranged [color] bags, head/eyes from cutouts or printed sections, in the exact style of handmade plastic bag animal art sculptures with visible bag textures, wrinkles, ties, white strings/handles, and brand prints. Solid soft light [background color like mint green / turquoise / pale blue] background, 9:16 portrait ratio. Add a few loose colorful plastic bags scattered subtly at the bottom and side borders of the frame, slightly visible.
+
+  How to Edit (Very Easy Steps):
+
+  Replace [SEA ANIMAL] → e.g. sea turtle, shark, octopus, dolphin, jellyfish
+
+  Replace [SPECIFIC FEATURES] → Describe the body parts Example: detailed shell patterns, flippers from knotted blue and green bags
+
+  Replace [COLORS] → Main colors used Example: blue, green, yellow and white
+
+  Replace [BACKGROUND COLOR] → Choose soft colors Example: mint green, turquoise, pale blue, light gray-blue, coral pink

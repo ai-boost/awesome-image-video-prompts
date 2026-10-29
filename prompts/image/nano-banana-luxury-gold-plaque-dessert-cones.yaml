@@ -1,0 +1,37 @@
+id: nano-banana-luxury-gold-plaque-dessert-cones
+title:
+  en: Luxury chocolate caramel cones with gold brand plaque
+  zh: 带金色铭牌的奢华巧克力焦糖脆筒
+model: Nano Banana 2
+mode: text-to-image
+category: product
+tags:
+- food
+- dessert
+- luxury
+- template
+- macro
+source:
+  name: '@yourPlugAI on X'
+  url: https://x.com/yourPlugAI/status/2070528605986124079
+  credit: Gilbert Odera | Your AI Plug
+  likes: 152
+  captured: '2026-10-28'
+  posted: '2026-06-26'
+notes:
+  en: A fill in the blank template swaps coating, cream, toppings and palette while the fixed brand plaque, faded corner signature and lighting stack stay constant. Macro food photography terms, golden bokeh interior and rim plus key lighting give a luxury ad look.
+  zh: 模板用方括号槽位替换涂层、奶油、配料和配色，固定的金色铭牌、角落淡化签名和灯光组合保持不变。微距美食摄影、金色散景室内背景以及轮廓光加主光，营造出奢侈品广告质感。
+prompt: |
+  Ultra realistic luxury food advertisement photography of two premium "GILBERTO" dessert cones. Handcrafted waffle cones coated in [COATING MATERIAL AND TEXTURE], overflowing with [PRIMARY CREAM], [MAIN TOPPINGS], [DRIZZLES OR SAUCES], and [ACCENT INGREDIENTS]. Textures are indulgent, luxurious, highly detailed, with realistic moisture, shine, and layered depth.
+
+  Add an elegant metallic gold plaque around the center of each cone engraved with the brand name "GILBERTO". Remove all other logos or signatures.
+
+  At the bottom left corner place a subtle, semi-transparent gold signature text reading "GILBERTO", softly faded into the scene, elegant and unobtrusive.
+
+  Color palette: [PRIMARY COLORS], [ACCENT COLORS], [METALLIC DETAILS].
+
+  Background: luxurious [ENVIRONMENT TYPE] with [COLOR TONES], cinematic golden bokeh lights, softly blurred premium interior details, reflective surfaces, sophisticated atmosphere, shallow depth of field.
+
+  Lighting: cinematic studio lighting with [LIGHT TEMPERATURE], soft front key light, dramatic rim lighting, subtle backlighting, high-contrast shadows, and rich specular highlights emphasizing the ingredients and coatings.
+
+  Composition: centered hero shot, macro food photography, shallow depth of field, premium confectionery advertising campaign, ultra photorealistic textures, luxury magazine quality, hyper detailed, HDR, 8K, masterpiece, aspect ratio 1:1.

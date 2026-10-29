@@ -1,0 +1,25 @@
+id: nano-banana-black-ink-silhouette-yellow-profile
+title:
+  en: Black ink silhouette profile on yellow
+  zh: 黄底黑色墨迹剪影侧脸肖像
+model: Nano Banana 2
+mode: text-to-image
+category: illustration
+tags:
+- silhouette
+- ink-splash
+- black-and-yellow
+- profile
+- graphic-novel
+source:
+  name: '@iamsofiaijaz on X'
+  url: https://x.com/iamsofiaijaz/status/2031047318502568186
+  credit: Aijaz
+  likes: 260
+  captured: '2026-10-28'
+  posted: '2026-03-09'
+notes:
+  en: A two color palette of black and bright yellow is stated outright, with a silhouette style and a fixed facing direction to keep the composition clean. Ink splashes are set to burst from the head and shoulders, which adds motion without breaking the profile shape.
+  zh: 明确限定黑黄双色并指定剪影风格与朝向,让构图保持干净。墨迹从头部和肩部迸发,在不破坏侧脸轮廓的前提下增加动感。
+prompt: |
+  Side profile portrait of a young man with short messy hair and round glasses, minimalist black silhouette style, facing left, dramatic lighting, bright yellow background, dynamic black ink splashes and paint streaks exploding from the head and shoulders, abstract motion effect, modern digital illustration, high contrast black and yellow color palette, cinematic composition, sharp details, graphic novel style, paint splatter art, ultra clean background, 4k.

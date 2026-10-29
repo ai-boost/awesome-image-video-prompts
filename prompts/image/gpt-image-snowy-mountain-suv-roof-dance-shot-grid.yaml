@@ -1,0 +1,34 @@
+id: gpt-image-snowy-mountain-suv-roof-dance-shot-grid
+title:
+  en: Woman dancing on SUV roof in snowy mountains
+  zh: 雪山中站在越野车顶跳舞的女子
+model: GPT Image 2
+mode: text-to-image
+category: collage
+tags:
+- cinematic
+- shot-grid
+- snow-mountain
+- dance
+- lifestyle
+source:
+  name: '@itxabdullaa on X'
+  url: https://x.com/itxabdullaa/status/2067464091476853121
+  credit: ÀBDŪLLÂH
+  likes: 188
+  captured: '2026-10-28'
+  posted: '2026-06-18'
+notes:
+  en: One prompt fixes the subject, outfit, action, setting and mood, then a labeled breakdown lists subject, action, setting, object and cinematography. The result reads as a nine shot coverage sheet from wide establishing to close-up, with the same cool grade and overcast light throughout.
+  zh: 一条提示词锁定人物、服装、动作、场景与氛围，再用主体、动作、场景、物体、摄影五项拆解补充。结果像一张九镜头分镜表，从远景到特写，冷色调和阴天光线始终一致。
+prompt: |
+  To get the best result if you are tweaking this for a specific tool, consider these key elements captured in the video:
+
+  Subject: Woman, long dark hair, wearing a New York Yankees cap, grey cropped knit sweater, matching grey sweatpants.
+
+  Action: Rhythmic, slow, fluid dancing.
+  Setting: High-altitude, snowy mountain landscape, epic scenery.
+
+  Object: Standing on the roof of a dark grey modern SUV.
+
+  Cinematography: Wide-angle, cinematic lifestyle photography, cool color grading, moody daylight.

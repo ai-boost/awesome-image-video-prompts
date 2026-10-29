@@ -1,0 +1,27 @@
+id: nano-banana-bw-vogue-hard-light-portrait
+title:
+  en: Black and white editorial portrait with hard side light
+  zh: 硬侧光黑白时尚编辑人像
+model: Nano Banana 2.1
+mode: text-to-image
+category: portrait
+tags:
+- black-and-white
+- editorial
+- chiaroscuro
+- hard-light
+- fashion
+source:
+  name: '@MissDelulu9 on X'
+  url: https://x.com/MissDelulu9/status/2113862505504407630
+  credit: Eesha
+  likes: 126
+  captured: '2026-10-29'
+  posted: '2026-10-24'
+notes:
+  en: Names the pose, hair, and wardrobe first, then locks the look with hard side lighting, chiaroscuro, and a dark background. Camera cues such as 85mm, shallow depth of field, and film grain keep the skin and eyes sharp and photographic.
+  zh: 先写姿态、发型和服装，再用硬侧光、明暗对比和暗背景锁定画面氛围。85mm、浅景深和胶片颗粒等镜头词让眼睛和皮肤保持锐利真实。
+prompt: |
+  Ultra-realistic cinematic black-and-white Vogue editorial portrait of a beautiful Japanese woman. Three-quarter profile pose, shoulders turned away from the camera, head gently tilted upward and looking off-frame with a calm, dreamy expression and softly parted lips. Long, naturally wavy black hair with loose strands flowing across the face. Elegant off-shoulder white satin blouse, delicate sparkling earrings.
+
+  Dramatic hard side lighting casting bold diagonal shadows across the eyes and face, high-contrast chiaroscuro, minimal dark studio background. 85mm lens, shallow depth of field, razor-sharp eyes, hyper-detailed natural skin texture, subtle film grain, luxury fashion photography, timeless editorial aesthetic, ultra-photorealistic, 8K.

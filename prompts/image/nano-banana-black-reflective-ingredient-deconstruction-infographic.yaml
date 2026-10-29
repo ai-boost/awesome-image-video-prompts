@@ -1,0 +1,37 @@
+id: nano-banana-black-reflective-ingredient-deconstruction-infographic
+title:
+  en: Deconstructed Margherita Pizza Ingredient Infographic on Black
+  zh: 黑色反光背景上的玛格丽特披萨食材拆解信息图
+model: Nano Banana 2
+mode: text-to-image
+category: infographic
+tags:
+- infographic
+- food-photography
+- ingredients
+- json-template
+- black-background
+source:
+  name: '@Maercihh on X'
+  url: https://x.com/Maercihh/status/2047643979110601154
+  credit: Maercih
+  likes: 128
+  captured: '2026-10-28'
+  posted: '2026-04-24'
+notes:
+  en: 'A JSON template with a SUBJECT placeholder fixes the layout: hero dish in the center, ingredients in bowls around it, and thin leader lines to bold headers with short sub-text. The style notes lock the palette (black, orange, white) and the reflective surface, so the template works for any dish.'
+  zh: 用带 SUBJECT 占位符的 JSON 模板固定版式：中央主菜，四周小碗盛放食材，细引线连到加粗标题和简短说明。风格备注锁定黑色、橙色、白色配色和反光台面，换任何菜品都能复用。
+prompt: |
+  {
+    "image_request": {
+      "subject": "Subject Name",
+      "prompt_template": "An infographic-style food photography shot of [SUBJECT] on a black reflective background. In the center is a high-resolution, delicious [SUBJECT]. Surrounding the center dish are various individual ingredients (deconstructed) in small bowls or piles, with thin elegant lines pointing from the text descriptions to the specific parts of the food. Each ingredient has a bold header in English followed by a short descriptive sub-text. Professional studio lighting, cinematic composition, 8k resolution, flat design elements mixed with realistic 3D food textures.",
+      "style_notes": [
+        "Black background",
+        "Reflective surface",
+        "Floating ingredients",
+        "Minimalist sans-serif typography",
+        "Orange and white accent colors for text"
+      ]
+    }
+  }

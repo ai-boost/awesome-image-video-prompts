@@ -1,0 +1,26 @@
+id: nano-banana-black-white-street-portrait-city-crowd
+title:
+  en: Black and white street portrait in crowd
+  zh: 人群中静立的黑白街头肖像
+model: Nano Banana 2
+mode: text-to-image
+category: portrait
+tags:
+- street-portrait
+- black-and-white
+- motion-blur
+- night
+- cinematic
+source:
+  name: '@iamrealsnow on X'
+  url: https://x.com/iamrealsnow/status/2031179469617320282
+  credit: Snow
+  likes: 152
+  captured: '2026-10-28'
+  posted: '2026-03-10'
+notes:
+  en: Pairing a sharp-focus subject with a motion-blurred crowd and shallow depth of field isolates the figure inside a busy scene. Dramatic contrast lighting with a soft rim light on the face keeps the night street cinematic.
+  zh: 清晰的主体搭配动态模糊的人群和浅景深，让人物在喧闹场景中被单独突出。强对比光加脸部柔和轮廓光，保持夜晚街头的电影感。
+prompt: |
+  .
+  A cinematic black and white street portrait of a handsome man standing still in a busy city crowd, sharp focus on the subject while people around him are motion-blurred, shallow depth of field, intense masculine facial features textured beard, slightly messy wavy hair, wearing a dark tailored coat, calm yet powerful expression, dramatic contrast lighting, soft rim light on face, urban night atmosphere,

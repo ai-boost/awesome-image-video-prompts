@@ -1,0 +1,39 @@
+id: gpt-image-neon-yacht-moonlit-harbour-reflections
+title:
+  en: Neon yacht in moonlit harbour at night
+  zh: 月夜港湾中的霓虹游艇
+model: GPT Image 2.5
+mode: text-to-image
+category: realism
+tags:
+- night-scene
+- harbour
+- neon
+- reflections
+- panoramic
+source:
+  name: '@churvikv on X'
+  url: https://x.com/churvikv/status/2109710598972035578
+  credit: Viki
+  likes: 127
+  captured: '2026-10-28'
+  posted: '2026-10-12'
+notes:
+  en: The prompt is split into labelled blocks (harbour, moon, boat, hills, town, reflections, palette), so each element gets a fixed position and colour. A separate reflections block assigns magenta and cyan bands under the yacht and amber columns elsewhere, which gives the water its ribbon look.
+  zh: 提示词按港口、月亮、游艇、山丘、小镇、倒影、色板分成带标签的段落，每个元素都有固定位置和颜色。单独的倒影段落规定了游艇下方的洋红与青色色带和其余水面的琥珀色光柱，水面因此呈现丝带般的效果。
+prompt: |
+  Photorealistic night harbour scene, wide 16:9 panoramic composition, cinematic, ultra-detailed. Edge to edge, no frame, no border.
+
+  HARBOUR: the lower half is calm black water rippling in fine horizontal chop, carrying long smeared vertical reflections that stretch down the frame.
+
+  MOON: high in the upper middle of the deep navy night sky hangs one enormous, sharply detailed full moon, its craters crisp, ringed by a soft cool blue-white halo. The sky is darkest at the top corners, paling slightly toward the horizon.
+
+  BOAT: just left of centre sits a sleek modern white motor yacht at rest, seen broadside from the front-left. Its flanks are washed in vivid neon ultraviolet magenta along the hull and glowing electric cyan along the upper deck and railings, with a dark tinted glass bridge, a radar mast, a blue-lit stern platform and a line of small dark portholes.
+
+  HILLS: behind, layered dark ridgelines rise across the full width, their slopes dotted with scattered warm gold lights of hillside villas and small windows.
+
+  TOWN: along the water's edge runs a continuous waterfront promenade of low pale buildings with warm golden lit façades, arcades, windows and streetlamps. A row of moored white boats and small yachts lines the quay in dark silhouette.
+
+  REFLECTIONS: the water is split into ribbons of colour. Directly beneath the yacht run two bold vertical bands — bright magenta and electric cyan — vivid and saturated, broken into short ripples. Across the rest of the surface, the town lights throw long warm amber and orange columns, with cooler teal and deep green streaks threading between them in the lower right.
+
+  PALETTE: deep navy, near-black water, brilliant magenta, electric cyan, warm amber gold, teal green, silver-white moon. Sharp focus, high dynamic range, glossy wet highlights, clean and unmarked.

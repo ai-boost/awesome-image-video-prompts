@@ -1,0 +1,29 @@
+id: nano-banana-map-screenshot-anime-panorama-shibuya
+title:
+  en: Anime style panorama of Shibuya Crossing from map screenshot
+  zh: 由地图截图生成的涩谷十字路口动漫全景
+model: Nano Banana 2
+mode: image-edit
+category: illustration
+tags:
+- map-to-scene
+- panorama
+- anime
+- screenshot-reference
+- cityscape
+source:
+  name: '@icreatelife on X'
+  url: https://x.com/icreatelife/status/2027085364872024311
+  credit: Kris Kashtanova
+  likes: 936
+  captured: '2026-10-29'
+  posted: '2026-02-26'
+notes:
+  en: A map screenshot is the only visual input, and a one line instruction asks for a panorama in a named style. The model reads the street layout and landmark labels on the map and rebuilds them as a coherent anime street scene.
+  zh: 仅以一张地图截图作为视觉输入，再用一句指令指定全景和动漫风格。模型读取地图上的街道布局与地标标注，并将其重建为连贯的动漫街景。
+prompt: |
+  The coolest use-case for AI animation I found of new Nano Banana 2 is that you can screenshot a map and ask it to generate a panorama in anime / cartoon style.
+
+  Nano Banana 2 is fully supported in Adobe Firefly web
+
+  prompt: make me a panorama of this location in an anime style

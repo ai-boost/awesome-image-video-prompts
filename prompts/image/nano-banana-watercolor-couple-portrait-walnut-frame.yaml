@@ -1,0 +1,104 @@
+id: nano-banana-watercolor-couple-portrait-walnut-frame
+title:
+  en: Framed watercolor portrait of a couple
+  zh: 胡桃木框中的情侣水彩肖像
+model: Nano Banana 2
+mode: image-edit
+category: photo-to-art
+tags:
+- watercolor
+- couple-portrait
+- reference-photo
+- framed-art
+- identity-preservation
+source:
+  name: '@Naiknelofar788 on X'
+  url: https://x.com/Naiknelofar788/status/2029104746477563913
+  credit: simeon-sanai
+  likes: 533
+  captured: '2026-10-28'
+  posted: '2026-03-04'
+notes:
+  en: Locks identity to the reference photo with explicit do not beautify rules, then fixes pose, head angle and expressions in a strict composition block. Separate wet on wet and wet on dry instructions, plus a framing and wall mockup spec, give a convincing real watercolor look.
+  zh: 先用不美化不重塑的硬性规则锁定参考照片中的人物身份，再用严格的构图段落固定姿势、头部角度和表情。分别写明湿画法与干画法，并补充画框和墙面展示的规格，让成品更像真实水彩。
+prompt: |
+  Create a 4k resolution, 4:5 aspect ratio, high-quality digitally rendered watercolor-style portrait of a couple, presented inside a dark walnut wooden frame. The artwork must combine precise digital illustration with the soft, fluid characteristics of traditional watercolor painting.
+  Use the provided reference image to accurately replicate BOTH subjects identity.
+
+  Do NOT beautify, idealize, reshape, smooth excessively, or invent new features.
+
+  The final result must look like the exact same two people in watercolor form.
+  Subject Composition (Strict — Do Not Modify)
+  Intimate bust portrait, cropped slightly below mid-chest.
+  Male positioned on the left, female on the right.
+  Their upper bodies angled very slightly inward toward each other.
+  Shoulders gently overlapping, with the female subtly leaning into the male’s shoulder for a natural, connected feel.
+  Heads placed close together with temples nearly touching.
+  Both faces turned almost straight toward camera with only a minimal inward rotation (very subtle 5–10° inward angle).
+  Chins level and aligned at similar height (no exaggerated tilt).
+  Posture upright but relaxed — not stiff, not exaggerated.
+  Expressions soft and warm:
+
+  Male — calm, subtle closed-mouth smile.
+
+  Female — bright, open smile with gentle warmth.
+  Eye contact directed toward the viewer.
+  No dramatic head tilt. No exaggerated lean. Keep connection natural and balanced.
+  Outfit  (Automatic From Reference)
+  Carefully analyze the uploaded reference image and:
+  Detect exact clothing type (shirt, blouse, jacket, saree, kurta, suit, casualwear, etc.)
+
+  Preserve accurate fabric color, texture, and material type.
+
+  Replicate neckline, collar style, sleeve length, layering, visible accessories.
+  Maintain realistic folds and garment structure.
+  Do NOT replace clothing unless explicitly instructed.
+
+  Enhance subtle fabric texture slightly for watercolor realism, while keeping authenticity.
+  Artistic Style & Watercolor Execution
+  Medium Simulation:
+  Blend wet-on-wet soft gradients in background.
+
+  Use wet-on-dry precision around facial features.
+  Allow organic pigment bleeding around edges.
+  Maintain visible watercolor paper grain texture.
+  Brushwork Detail:
+  Fine strokes for eyelashes and individual hair strands.
+
+  Controlled detailing around eyes and lips.
+  Broad translucent washes for clothing.
+  Subtle pigment pooling and natural gradient transitions.
+
+  Soft watercolor blooms around outer edges.
+  Do NOT over-sharpen or make it look like a digital painting — it must feel like genuine watercolor.
+  Color Palette (Adaptive + Balanced)
+  Maintain accurate skin tones from reference.
+
+  Use soft warm neutrals (cream, beige, tan) as base tones.
+  Introduce complementary cool washes when appropriate.
+
+  Background should remain light, airy, and minimally dominant.
+  Avoid heavy contrast or overly saturated tones.
+   Lighting & Depth
+  Soft, natural, diffused lighting from slightly above and front-facing.
+  Gentle highlight across forehead, cheekbones, and nose bridge.
+  Subtle shadow under jawline and neck area for depth.
+  No dramatic side-lighting.
+  High-key, airy atmosphere.
+  Enhance depth subtly while maintaining watercolor softness.
+
+  Presentation & Framing
+  Artwork displayed inside a dark walnut or espresso-finished wooden frame.
+  Modern flat frame profile with subtle wood grain.
+  No visible matting.
+  Art extends near edges for a contemporary full-bleed look.
+  Visible watercolor paper texture inside frame.
+  Clean neutral wall mockup presentation.
+  Frame visible evenly on all four sides with centered wall alignment.
+  Slightly Increased Quality Controls (For Better Results)
+  Increase fine facial detailing by 15–20% while maintaining watercolor softness.
+  Improve edge control around eyes and lips for clarity.
+
+  Maintain subtle texture contrast between skin and clothing.
+
+  Ensure both subjects remain equally sharp and balanced.

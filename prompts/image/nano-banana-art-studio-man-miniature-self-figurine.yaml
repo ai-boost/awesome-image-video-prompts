@@ -1,0 +1,25 @@
+id: nano-banana-art-studio-man-miniature-self-figurine
+title:
+  en: Smiling Artist With Miniature Self Figurine
+  zh: 微笑画师与桌上的迷你自己手办
+model: Nano Banana 2
+mode: text-to-image
+category: portrait
+tags:
+- miniature
+- scale-contrast
+- studio-portrait
+- shallow-depth-of-field
+- cinematic
+source:
+  name: '@Taaruk_ on X'
+  url: https://x.com/Taaruk_/status/2039625508535885876
+  credit: Taaruk
+  likes: 164
+  captured: '2026-10-28'
+  posted: '2026-04-02'
+notes:
+  en: A scale contrast illusion is named outright and paired with a figurine detail cue, so the tiny double reads as a real object on the desk. A warm desk lamp, shallow depth of field and a 50mm lens keep the studio scene photographic.
+  zh: 直接点明比例反差错觉，并用手办细节描述让桌上的迷你分身显得真实可信。暖色台灯、浅景深和 50mm 镜头让整个画室场景保持摄影质感。
+prompt: |
+  Ultra-realistic cinematic portrait of a young man sitting at a wooden desk in a cozy art studio, smiling warmly at the camera, with a tiny miniature version of himself standing on the table in front of him, perfectly detailed like a small figurine, surrounded by paint brushes, sketches, and art tools, warm ambient lighting from a desk lamp, shallow depth of field, soft bokeh background, creative storytelling composition, scale contrast illusion, hyper-detailed textures, 50mm lens, photorealistic, 8K.

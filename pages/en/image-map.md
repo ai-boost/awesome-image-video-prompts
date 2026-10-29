@@ -1,6 +1,6 @@
 # Maps
 
-[Back to the list](../../README.md) · All 5 entries
+[Back to the list](../../README.md) · All 7 entries
 
 <a id="gpt-image-isometric-anime-world-map-diorama-poster"></a>
 ### Isometric Anime World Map Diorama Poster
@@ -103,6 +103,116 @@ OPTIONAL DETAILS:
 
 </details>
 
+<a id="gpt-image-isometric-terrain-slab-world-diorama-poster"></a>
+### Istanbul city diorama carved as floating terrain slab
+
+<a href="https://x.com/MahnoorAi12/status/2091858610255261949"><img src="../../previews/gpt-image-isometric-terrain-slab-world-diorama-poster.jpg" width="360"></a>
+
+The prompt makes the real map outline the physical base, a terrain slab with broken rock sides and soil layers, then adds lore accurate landmarks and tiny museum style labels. A fixed 4:5 layout keeps the upper third empty for tracked uppercase title typography, and soft warm studio light gives a collectible miniature look.
+
+GPT Image 2 · Text-to-image · Source: [@MahnoorAi12 on X](https://x.com/MahnoorAi12/status/2091858610255261949) · 354 likes on 2026-10-28
+
+[`diorama`](tags.md#tag-diorama) [`isometric`](tags.md#tag-isometric) [`miniature`](tags.md#tag-miniature) [`world-building`](tags.md#tag-world-building) [`editorial-poster`](tags.md#tag-editorial-poster)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Ultra-detailed photorealistic isometric miniature diorama of the world from [ANIME], presented as a premium collectible-scale landscape sculpture floating above a clean warm off-white studio background with a subtle natural shadow underneath.
+
+(For best accuracy, upload a clear reference image of the official map/world layout.)
+
+WORLD SHAPE & GEOGRAPHY
+
+If [ANIME] features a fictional world, continent, island or region, recreate its canonical map silhouette exactly. The entire landmass should appear physically carved from the earth and lifted upward as one continuous miniature terrain slab, with naturally broken rock sides, exposed soil layers, cliffs and geological textures.
+
+If [ANIME] takes place in a real or semi-real location, use the most important canonical city, region or country as the physical base shape, maintaining its recognizable geographic outline.
+
+The outer boundary must feel like an actual piece of land cut directly from the map — never like a flat printed map or floating board.
+
+CANONICAL WORLD RECONSTRUCTION
+
+Rebuild the world of [ANIME] across the entire miniature surface with maximum lore accuracy.
+
+Every major region, settlement, city, landmark, mountain, river, forest, road, battlefield, castle, shrine, futuristic structure or other recognizable location should appear in its correct relative position.
+
+Preserve the distinctive visual language of the anime:
+
+- canonical architecture
+- recognizable environments
+- authentic terrain
+- faction territories
+- signature landmarks
+- characteristic colors
+- world-specific technology or fantasy elements
+- environmental atmosphere
+
+Avoid generic Western architecture or realistic substitutions. The result must immediately feel like [ANIME] transformed into a physical miniature world.
+
+Add tiny but readable location markers for important places, designed like elegant museum-style cartographic labels rather than large text.
+
+MICRO-SCALE STORY DETAILS
+
+Fill the landscape with carefully placed miniature storytelling elements: tiny characters wearing recognizable show-accurate outfits, world-specific creatures, vehicles, ships, trains, flags, faction symbols, market areas, farms, bridges, pathways, trees, vegetation and other details that make the world feel alive.
+
+Characters should remain small environmental elements rather than dominating the composition.
+
+Include subtle activity throughout the terrain so the diorama feels like a living snapshot of the anime universe.
+
+MATERIAL & PHOTOGRAPHY
+
+Hyper-realistic premium miniature photography combined with high-end cinematic environment design.
+
+Extremely crisp micro-details, realistic rock formations, miniature vegetation, tiny architectural textures, believable scale relationships and physically accurate materials.
+
+Everything should remain sharply focused with no artificial background blur.
+
+Use soft warm studio illumination from above with gentle contact shadows and subtle ambient occlusion between buildings, terrain and rock layers.
+
+The miniature should have a sophisticated museum-quality collectible appearance while still preserving the anime's original visual identity.
+
+COLOR & ATMOSPHERE
+
+Use the authentic color language of [ANIME] as the primary visual reference.
+
+Translate the anime's signature palette into realistic miniature materials without losing its recognizable mood, atmosphere or world identity.
+
+Rich but controlled colors, cinematic tonal depth, premium print-like contrast and realistic surface textures.
+
+COMPOSITION
+
+Center the complete shaped diorama in the lower two-thirds of the 4:5 vertical frame.
+
+Leave generous clean negative space around the entire landmass.
+
+The diorama must never touch the frame edges.
+
+The upper third remains almost completely empty and off-white, creating a sophisticated editorial poster composition.
+
+At the very top, place small widely tracked uppercase typography showing the world / region name.
+
+Directly underneath, place:
+
+[ANIME]
+
+in a bold condensed sans-serif typeface, medium charcoal grey, large and dominant.
+
+Below it, add a smaller widely tracked uppercase line containing the studio name and year.
+
+Typography should feel like a luxury museum exhibition poster — restrained, elegant and secondary to the miniature world.
+
+FINAL ART DIRECTION
+
+Premium editorial travel-poster aesthetic + cinematic miniature photography + collectible world-building sculpture + museum-quality cartography.
+
+The final image should look as though the entire world of [ANIME] was physically sculpted from the earth and photographed inside a professional studio.
+
+No generic fantasy map, no flat illustration, no random landmarks, no duplicated buildings, no distorted geography, no excessive text, no modern Western substitutions.
+
+4:5 vertical aspect ratio, ultra-high detail, photorealistic materials, cinematic lighting, premium print quality.
+```
+
+</details>
+
 <a id="gpt-image-maps-notification-papercraft-miniature-travel"></a>
 ### Shanghai clay and paper map travel campaign
 
@@ -192,6 +302,56 @@ At the top, display the city’s name in sophisticated vintage typography, with 
 The result should feel like a real city has magically escaped its map — imaginative, visually striking, geographically recognizable, and beautifully detailed.
 
 Ultra-high detail, realistic materials, exceptional composition, premium art-poster aesthetic, no distorted buildings, no fictional architecture, no clutter.
+```
+
+</details>
+
+<a id="gpt-image-pisa-tower-survey-plate-split-poster"></a>
+### Leaning Tower of Pisa photo and survey map
+
+<a href="https://x.com/sebatheepan/status/2100914552682450985"><img src="../../previews/gpt-image-pisa-tower-survey-plate-split-poster.jpg" width="360"></a>
+
+A split canvas pairs a real photo on top with a mid century topographic reconstruction below. Placeholders for structure, light, density and caption let one master prompt yield four plates, and fixed positions for the title block and red bar keep the set consistent.
+
+GPT Image 2.5 · Text-to-image · Source: [@sebatheepan on X](https://x.com/sebatheepan/status/2100914552682450985) · 40 likes on 2026-10-29
+
+[`architecture`](tags.md#tag-architecture) [`landmark`](tags.md#tag-landmark) [`survey-map`](tags.md#tag-survey-map) [`split-layout`](tags.md#tag-split-layout) [`template`](tags.md#tag-template)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+─────────────────────────
+One poster, 3:4 vertical canvas. Split into two roughly equal zones — a realistic photograph on top, a printed reconstruction below — divided by one clean sharp horizontal line. The structure must not be stretched, warped, tilted or repositioned unnaturally.
+
+TOP HALF — THE REAL SHOT
+{STRUCTURE DESCRIPTION}. {PLATE LIGHT}. Preserve the structure faithfully: same architecture, proportions, perspective, distinctive details, natural light and shadow. Add only a subtle high-end color grade and the faintest film grain. Never redesign or reinterpret the architecture.
+
+BOTTOM HALF — THE PRINTED RECONSTRUCTION
+Rebuild the same structure as a mid-century surveyor's topographic map sheet: the building and its site rendered in fine brown contour lines that wrap around the mass and terrain, elevation index numbers printed along the contours, small triangular benchmark markers with elevation tags, a compass rose, a thin scale bar, faint theodolite sight-lines and the blocky vintage lettering of a USGS quadrangle sheet. The photograph dissolves outward into contour lines, survey ticks and a faint grid. The structure must remain immediately recognizable. {PLATE DENSITY}.
+Texture: yellowed map paper with fiber grain, worn fold creases, faint old stains, restrained crop marks, one small red calibration bar. Color: aged-paper ground, warm brown and black survey inks, the structure's original muted colors, a single red accent. Never fully desaturate the structure.
+The structure occupies roughly 60-88% of the frame width. Leave 22-38% of the paper visibly untouched and empty — generous negative space so the poster reads as an archival specimen, not a packed screen.
+
+TYPOGRAPHY — a clean fixed-width architectural title block, pinned top-left at a small fixed inset, black ink, monospaced technical typeface, verbatim, each line in caps:
+"{NAME}"
+"{CITY, COUNTRY}"
+"SURVEY PLATE 0N"
+A thin horizontal rule under the third line, then one short observational caption verbatim:
+"{CAPTION}"
+
+A solid vertical red rectangle — the only red in the poster — is pinned to the bottom-right corner zone about 12% from the bottom and right edges. Four thin black crop marks sit in the four corners of the bottom half at identical insets. Red bar, crop marks and text block keep exactly the same position and size relative to the frame.
+
+MOOD: field survey notebook crossed with modern travel editorial — the landmark as a place the surveyor has measured. Sophisticated, minimal, tactile, intellectual, slightly mysterious, highly collectible.
+
+AVOID: solid black terminal backgrounds, dense walls of code, cyberpunk neon, excessive decorative glyphs, distorted architecture, impossible geometry, invented architectural details, fake technical specifications, random meaningless symbols, garbled text, extra colors, brand logos, QR codes, watermarks, author credits, tourist-poster clichés.
+
+Priority: preserve the structure's identity and architectural accuracy first. The experimental print treatment enhances the architecture, never hides it.
+
+THE FOUR VARIATIONS (one axis change per plate)
+
+PLATE 01 — DENSE · light: "Golden-hour sunlight with long warm shadows" · density: "The print treatment is at its densest and richest: layered marks, full system detail"
+PLATE 02 — LINEWORK · light: "Soft overcast daylight, muted flat tones" · density: "The print is linework-forward: thin drafting lines and technical geometry dominate the reconstruction"
+PLATE 03 — FRAGMENT · light: "Blue-hour dusk with cool tones and lit windows glowing" · density: "The print is fragment-forward: torn photographic fragments dominate, with fewer system marks around them"
+PLATE 04 — MINIMAL · light: "Bright midday sunlight with crisp shadows" · density: "The print is the minimal plate of the set: sparse marks, maximum untouched paper"
 ```
 
 </details>

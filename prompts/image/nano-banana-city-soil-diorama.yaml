@@ -1,0 +1,25 @@
+id: nano-banana-city-soil-diorama
+title:
+  en: London landmark diorama on a soil cross section
+  zh: 土壤剖面上的伦敦地标微缩景观
+model: Nano Banana 2
+mode: text-to-image
+category: illustration
+tags:
+- diorama
+- cityscape
+- soil-cross-section
+- landmarks
+- template
+source:
+  name: '@Sheldon056 on X'
+  url: https://x.com/Sheldon056/status/2027239150966231299
+  credit: Duet | AI
+  likes: 139
+  captured: '2026-10-28'
+  posted: '2026-02-27'
+notes:
+  en: 'A [CITY] placeholder makes the prompt reusable for any city. It stacks a fixed structure: a carved square block, an exposed soil layer below and a fairytale cityscape above. A label built into the block, a pure white studio background and DSLR quality wording keep the render clean.'
+  zh: 用 [CITY] 占位符，换城市即可复用。结构固定：方形切块、下方裸露土层、上方童话城景，再加上融入块体的城市名标签、纯白影棚背景和 DSLR 画质描述，画面干净统一。
+prompt: |
+  Hyper-realistic 3D square diorama of [CITY], carved out with exposed soil cross-section beneath showing rocks, roots, and earth layers. Above: whimsical fairytale cityscape featuring iconic landmarks, architecture, and cultural elements of [CITY]. Modern white “CITY” label integrated naturally. Pure white studio background with soft natural lighting. DSLR photograph quality - crisp, vibrant, magical realism style. 1080x1080 dimensions.

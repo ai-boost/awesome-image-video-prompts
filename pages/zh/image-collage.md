@@ -1,6 +1,6 @@
 # 拼贴
 
-[返回目录](../../README_zh.md) · 全部 30 条
+[返回目录](../../README_zh.md) · 全部 41 条
 
 <a id="gpt-image-failed-photos-grid"></a>
 ### 任意角色的九张失败照片
@@ -46,6 +46,44 @@ Composition: keep the real person as the central focus, surrounded by chibi stic
 
 </details>
 
+<a id="gpt-image-six-photo-portrait-grid"></a>
+### 同一个人的六宫格人像
+
+<a href="https://x.com/john_my07/status/2112737725430554781"><img src="../../previews/gpt-image-six-photo-portrait-grid.jpg" width="360"></a>
+
+先把人物写细一次，再写六个画面；要求不留缝，九宫格读起来像一整张。
+
+GPT Image 2.5 · 文生图 · 出处: [@john_my07 on X](https://x.com/john_my07/status/2112737725430554781) · 651 赞，统计于 2026-10-27
+
+[`portrait`](tags.md#tag-portrait) [`grid`](tags.md#tag-grid) [`consistency`](tags.md#tag-consistency)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create an ultra-realistic 6-photo portrait collage arranged in a seamless 3×2 grid, featuring a naturally beautiful young Portuguese woman in her early 20s. She has warm olive-toned skin, expressive hazel-brown eyes, long chestnut-brown hair with subtle natural highlights, soft face-framing layers, naturally full eyebrows, and delicate, distinctive facial features. Her appearance should feel authentic and individual, with realistic skin texture, tiny imperfections, and minimal everyday makeup.
+
+Visual aesthetic: Effortless European Instagram photo dump, reminiscent of candid photographs taken on a Canon PowerShot G7 X Mark III. Direct built-in camera flash, crisp details, bright facial highlights, hard shadows, slightly imperfect framing, subtle digital noise, and a nostalgic early-2000s point-and-shoot feel.
+
+Setting and styling: A warm off-white bedroom wall with subtle texture, a few natural shadows, and no distracting decorations. She wears a fitted burgundy scoop-neck top, tiny gold hoop earrings, and a delicate necklace. Her makeup is understated, with softly flushed cheeks, natural glossy lips, and lightly defined lashes. Her long hair remains the same color and length but falls differently in every photograph.
+
+Six distinct photographs:
+
+1. Sweet candid: Sitting close to the camera, resting her cheek against one hand, smiling gently with relaxed eyes and loose hair framing her face.
+2. Playful snapshot: Looking directly into the lens with a mischievous half-smile, one eyebrow slightly raised, fingers casually tucked behind her ear.
+3. Messy-girl moment: Eyes closed and laughing softly, both hands lifting her hair away from her shoulders, a few loose strands catching the flash.
+4. Effortless confidence: Turning her face over one shoulder, giving the camera a subtle side-eye, with one hand lightly resting against her neck.
+5. Caught laughing: Looking toward someone outside the frame, laughing naturally with her head tilted to the side and hair falling across one cheek.
+6. Quiet evening mood: Leaning against the wall, gazing thoughtfully into the lens, lips relaxed, fingertips gently twisting a strand of hair.
+
+Identity consistency: The same Portuguese woman must appear in all six frames, with identical facial proportions, eye color, skin tone, hair color, and recognizable features. Each photograph should have a different pose, expression, head angle, and hair arrangement, as if captured within the same casual photo session.
+
+Photography details: Realistic compact-camera flash, authentic skin pores, fine baby hairs, natural facial asymmetry, believable hands, sharp eyes, slight variations in exposure, and candid framing. Avoid excessive retouching, artificial skin smoothing, exaggerated beauty standards, duplicated expressions, malformed fingers, distorted anatomy, or the overly polished appearance of AI-generated portraits.
+
+Output: Vertical 3:4 aspect ratio, exactly six photographs in a balanced 3-column × 2-row grid, clean alignment, no gutters, no text, no watermark. Photorealistic, youthful, spontaneous, intimate, and effortlessly stylish.
+```
+
+</details>
+
 <a id="gpt-image-chibi-sticker-street-photo-doodles"></a>
 ### 街头人像周围环绕3D Q版自己
 
@@ -61,6 +99,35 @@ GPT Image 2 · 上传图改图 · 出处: [@im_shahid7 on X](https://x.com/im_sh
 
 ```text
 Use a real face as a reference photo. The background is the same as in the photo. The lighting is warm, soft, and clean, with subtle shadows. Around the image, add several mini chibi (3D cute style) versions of the character, while maintaining the original facial features. Chibi characters have various poses and expressions:￼jumping cheerfully waving sitting relaxed holding a drink cute and playful expressions Add hand-drawn white doodle elements: outline around the main body stars, hearts, sparkles motion lines small cute icons Add aesthetic handwriting such as: "shine," "bright day," "happy," "smile," etc. (casual doodle font) Overall style: clean & aesthetic composition white sticker outline soft pastel color tone high detail 3D chibi glossy look cute Korean.￼
+```
+
+</details>
+
+<a id="gpt-image-low-angle-pose-grid-blue-sky-doodles"></a>
+### 蓝天涂鸦九宫格姿势拼图
+
+<a href="https://x.com/HaniaAi12/status/2064674801159967138"><img src="../../previews/gpt-image-low-angle-pose-grid-blue-sky-doodles.jpg" width="360"></a>
+
+提示词先固定同一套服装和纯蓝天背景，再按行列逐格写出九个姿势，让整张网格保持一致。低机位视角、手绘粉彩涂鸦和上传的参考图让每一格都是同一个人。
+
+GPT Image 2 · 上传图改图 · 出处: [@HaniaAi12 on X](https://x.com/HaniaAi12/status/2064674801159967138) · 282 赞，统计于 2026-10-28
+
+[`grid-collage`](tags.md#tag-grid-collage) [`pose-sheet`](tags.md#tag-pose-sheet) [`doodle-overlay`](tags.md#tag-doodle-overlay) [`low-angle`](tags.md#tag-low-angle) [`social-media`](tags.md#tag-social-media)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A 3x3 grid collage containing nine separate photos of a single young Asian woman From the uploaded image with a light skin tone, styled for a lifestyle and social media content creator aesthetic. She is wearing a red fitted croptop, white Denim short, white sneakers and large white over-ear headphones and eyeglasses. The entire background of every photo is a solid, vibrant, clear bright blue sky on a sunny day.
+
+Around her in each grid frame are playful, hand-drawn digital doodles in bright pastel colors, including pink hearts, yellow flowers, white clouds, paper airplanes, and dynamic motion lines. The collage captures nine different energetic and fun poses from low-angle perspectives:
+
+Top Row: Left photo shows her dynamically kicking her leg out sideways while wearing blue clogs; middle photo shows her standing with one hand raised in a peace sign; right photo features a giant, close-up view of the bottom of her clog sole with a hand-drawn smiley face doodled onto it.
+
+Middle Row: Left photo is a close-up where she leans forward and holds out her white headphones toward the camera; middle photo shows her standing confidently with hands on her hips; right photo shows her playfully leaning to the side with arms outstretched like a plane.
+
+Bottom Row: Left photo captures her in a joyful jumping pose with arms out; middle photo shows her mid-air in a floating star-jump pose; right photo is a seated close-up looking down at the camera while making a peace sign close to the lens.
+
+The overall style is a crisp, bright, hyper-realistic, fashion-forward digital photograph with vibrant color saturation and clean, sharp lighting.
 ```
 
 </details>
@@ -189,69 +256,91 @@ Vertical 3:4 canvas, six equally sized photographs, precise grid alignment, no b
 
 </details>
 
-<a id="gpt-image-photo-to-paper-second-world"></a>
-### 窗边照片延伸为墨线手绘纸面
+<a id="gpt-image-identity-locked-flash-photo-dump-six-pose-collage"></a>
+### 六种姿势闪光灯人像照片合集拼图
 
-<a href="https://x.com/harboriis/status/2110328832352010584"><img src="../../previews/gpt-image-photo-to-paper-second-world.jpg" width="360"></a>
+<a href="https://x.com/MissDelulu9/status/2113461687902994578"><img src="../../previews/gpt-image-identity-locked-flash-photo-dump-six-pose-collage.jpg" width="360"></a>
 
-画面对半分割，让窗台这一结构穿过分界线，照片自然延续成纸面与线稿。撕纸边缘顺着原有结构走，并用一句简短手写字幕收尾。
+参考图只用于锁定身份，并写明五官、瞳色和发质。六个编号的姿势各带不同发型，再配上指定的卡片相机直闪和纯色墙面，呈现出真实的照片合集感。
 
-GPT Image 2.5 · 上传图改图 · 出处: [@harboriis on X](https://x.com/harboriis/status/2110328832352010584) · 171 赞，统计于 2026-10-28
+GPT Image 2.5 · 上传图改图 · 出处: [@MissDelulu9 on X](https://x.com/MissDelulu9/status/2113461687902994578) · 197 赞，统计于 2026-10-28
 
-[`split-canvas`](tags.md#tag-split-canvas) [`paper-collage`](tags.md#tag-paper-collage) [`line-doodle`](tags.md#tag-line-doodle) [`continuity`](tags.md#tag-continuity) [`editorial`](tags.md#tag-editorial)
+[`photo-dump`](tags.md#tag-photo-dump) [`flash-photography`](tags.md#tag-flash-photography) [`identity-lock`](tags.md#tag-identity-lock) [`pose-grid`](tags.md#tag-pose-grid) [`portrait`](tags.md#tag-portrait)
 
 <details><summary><b>提示词</b></summary>
 
 ```text
-Vertical 3:4 canvas split into two strictly equal horizontal halves: top 50% and bottom 50%. The upper half stays photographic; the lower half becomes the continued Second World. Together they must read as one scene.
+Ultra-realistic 6-photo collage (3×2 grid) of the same person using client photo for identity only (exact face, facial features, eye color, natural hair color/length/volume/texture). Plain light grey-blue wall background, black thin-strap camisole, minimal jewelry, Canon PowerShot G7X Mark III strong direct flash, hard shadows, sharp focus, natural skin texture, slight film grain.
 
-the
+Instagram photo dump aesthetic. Six unique expressions/poses: (1) soft smile, hands on cheeks, (2) wink, big smile, hand in hair, (3) eyes closed, tongue slightly out, both hands lifting hair, (4) confident side glance, hand under chin, (5) laughing, looking away, hair flipped, (6) dreamy look, hand touching hair. Different hair positions in every frame. No AI look, no distorted hands, no extra fingers. --ar 3:4
+```
 
-UPPER HALF
+</details>
 
-Keep the photo faithful. Preserve the subject, pose, spatial relationships, color atmosphere, and natural light. Do not redesign, repaint, replace, or restage it. Only necessary proportional
+<a id="gpt-image-snowy-mountain-suv-roof-dance-shot-grid"></a>
+### 雪山中站在越野车顶跳舞的女子
 
-cropping is allowed.
+<a href="https://x.com/itxabdullaa/status/2067464091476853121"><img src="../../previews/gpt-image-snowy-mountain-suv-roof-dance-shot-grid.jpg" width="360"></a>
 
-CONTINUITY (highest priority)
+一条提示词锁定人物、服装、动作、场景与氛围，再用主体、动作、场景、物体、摄影五项拆解补充。结果像一张九镜头分镜表，从远景到特写，冷色调和阴天光线始终一致。
 
-Identify one source structure that naturally reaches the center split: a road, shoreline, water, reflection, branch, beam of light, piece of architecture, or body movement. This structure must cross the boundary and continue into the lower half. The Second World begins from the photograph itself, so the same scene passes through the seam and simply changes its physical rules.
+GPT Image 2 · 文生图 · 出处: [@itxabdullaa on X](https://x.com/itxabdullaa/status/2067464091476853121) · 188 赞，统计于 2026-10-28
 
-TRANSITION EDGE
+[`cinematic`](tags.md#tag-cinematic) [`shot-grid`](tags.md#tag-shot-grid) [`snow-mountain`](tags.md#tag-snow-mountain) [`dance`](tags.md#tag-dance) [`lifestyle`](tags.md#tag-lifestyle)
 
-The center may use an irregular torn-paper edge, but the tear must follow the source structure, never act as decoration. Source elements may touch, follow, break through, or extend beyond edge. Never force the same tear shape onto every image.
+<details><summary><b>提示词</b></summary>
 
-The Second World
+```text
+To get the best result if you are tweaking this for a specific tool, consider these key elements captured in the video:
 
-LOWER HALF
+Subject: Woman, long dark hair, wearing a New York Yankees cap, grey cropped knit sweater, matching grey sweatpants.
 
-Ivory paper with subtle fibers and abundant negative space. Continue the chosen structure downward from the exact point where it meets the split, then reinterpret it with restrained photo fragments, cut-paper forms, and minimal black hand-drawn lines. The lower world must stay visibly attached Never isolate it as a separate portal, window, stage, platform, or floating vignette unless it clearly comes from the photo.
+Action: Rhythmic, slow, fluid dancing.
+Setting: High-altitude, snowy mountain landscape, epic scenery.
 
-SECOND WORLD LOGIC
+Object: Standing on the roof of a dark grey modern SUV.
 
-Ask: if this structure became touchable, usable, enterable, or changeable, what would it naturally become? Create one image-specific interaction. For example, water may stay attached while being pulled, a road may continue as a drawn path, or light may become something held. Do not repeat actions mechanically.
+Cinematography: Wide-angle, cinematic lifestyle photography, cool color grading, moody daylight.
+```
 
-FIGURES
+</details>
 
-Add 0-3 tiny black line figures only when useful. They must physically interact with the continued structure. If the photo already contains strong human action, add none. Never use figures as decoration.
+<a id="gpt-image-french-woman-bedroom-six-pose-photo-dump"></a>
+### 同一女生卧室六种姿势的闪光灯写真拼图
 
-World
+<a href="https://x.com/john_my07/status/2113636699888885986"><img src="../../previews/gpt-image-french-woman-bedroom-six-pose-photo-dump.jpg" width="360"></a>
 
-CAPTION
+固定3×2网格和3:4比例，再用编号列出六个不同姿势，让每一格各司其职。用雀斑、瞳色、发色和同一套服装锁定身份，并以卡片机直闪的质感保持人物一致又自然随性。
 
-One
+GPT Image 2.5 · 文生图 · 出处: [@john_my07 on X](https://x.com/john_my07/status/2113636699888885986) · 174 赞，统计于 2026-10-28
 
-short handwritten English caption (2-6 words) based on the action. Natural, light, slightly witty. Spell it correctly. No inspirational quotes and no fixed "Same..., different..." phrasing.
+[`photo-dump`](tags.md#tag-photo-dump) [`portrait-grid`](tags.md#tag-portrait-grid) [`identity-consistency`](tags.md#tag-identity-consistency) [`direct-flash`](tags.md#tag-direct-flash) [`candid`](tags.md#tag-candid)
 
-STYLE
+<details><summary><b>提示词</b></summary>
 
-Real photography above, warm paper below, minimal black line doodles, subtle handmade collage texture, independent-magazine mood. Bright, airy, restrained. It should feel as if the Second already hidden inside the photo and simply continued downward.
+```text
+Create an ultra-realistic 6-photo portrait collage arranged in a seamless 3×2 grid, featuring the same naturally beautiful young French woman in her early 20s. She has warm fair-olive skin, delicate freckles across her cheeks and nose, expressive hazel-brown eyes, long, naturally tousled dark chestnut hair, full eyebrows, and naturally glossy pink lips. Her appearance should feel authentic, youthful, and effortlessly Parisian.
 
-was
+Photography Style: Candid European Instagram photo dump, resembling casual Canon PowerShot G7 X Mark III snapshots. Direct camera flash, crisp facial details, realistic skin pores, subtle digital grain, natural shadows, slightly imperfect framing, and warm indoor lighting.
 
-NEGATIVE
+Setting: A cozy bedroom with an off-white textured wall, neutral bedding, and a softly blurred background. Maintain consistent surroundings throughout all six photographs.
 
-No detached lower-half illustration, no generic torn-paper template, no isolated portal, no unrelated vignette, no broken continuity, no dense illustration, no random decoration, no crowd, altered photo colors, no redesign of the upper image, no glossy 3D, no scrapbook clutter, no gibberish text, no watermark, no logo, no UI.
+Outfit & Accessories: She wears the same cream-colored, long-sleeved ribbed top with tiny red floral prints and delicate lace trim in every photograph. The top has a modest, higher neckline with full chest coverage. Add small gold hoop earrings and a delicate gold pendant necklace. Her makeup is minimal, with naturally flushed cheeks, glossy lips, and lightly defined lashes. Her hairstyle remains consistent in color and length, but falls differently with each pose.
+
+Six Distinct Poses:
+
+1. Playful selfie: Resting one cheek against her hand, looking into the camera with gently pursed lips and a relaxed expression.
+2. Winking snapshot: Looking directly into the lens, winking playfully with a slight pout, one arm casually extended toward the camera.
+3. Relaxed happy moment: Eyes closed, smiling softly with her head tilted back slightly and both hands casually lifting her hair.
+4. Over-the-shoulder portrait: Turning her face toward the camera over one shoulder, giving a subtle side glance with loose hair cascading naturally.
+5. Caught laughing: Looking toward someone outside the frame, laughing genuinely with her head tilted sideways and hair falling across one cheek.
+6. Quiet cozy mood: Leaning against a pillow, resting her chin against the sleeve of her top, gazing thoughtfully into the camera.
+
+Identity Consistency: The exact same woman must appear in all six photographs, with consistent facial proportions, eye color, freckles, skin tone, and hair color. Each frame must have a distinctly different pose, expression, head angle, and natural hair arrangement.
+
+Realism Details: Authentic skin texture, fine baby hairs, natural facial asymmetry, believable hands, sharp eyes, realistic fabric texture, subtle exposure variations, and natural compact-camera flash. Avoid excessive retouching, artificial skin smoothing, duplicated expressions, malformed fingers, distorted anatomy, or overly polished AI-generated aesthetics.
+
+Output: Vertical 3:4 aspect ratio, exactly six photographs in a balanced 3-column × 2-row grid, clean alignment, no gutters, no borders, no text, no watermark. Photorealistic, intimate, youthful, spontaneous, and effortlessly French.
 ```
 
 </details>
@@ -359,33 +448,6 @@ NO TEXT. NO TYPOGRAPHY. NO LETTERS. NO LOGOS. NO BRAND NAMES. NO WATERMARKS. NO 
 
 </details>
 
-<a id="gpt-image-photo-to-watercolor-scrapbook-poster"></a>
-### 奶油色手账海报上的照片与水彩画对照
-
-<a href="https://x.com/Alina_with_Ai/status/2102714815793992093"><img src="../../previews/gpt-image-photo-to-watercolor-scrapbook-poster.jpg" width="360"></a>
-
-提示词把上传照片的写实版放在上方,下方用水彩重绘同一场景,并逐项列出需要保持一致的人物身份、服装和姿势。纸张质感、泼溅、边缘和手写题字等细节让版面有编辑感手账风格。
-
-GPT Image 2.5 · 上传图改图 · 出处: [@Alina_with_Ai on X](https://x.com/Alina_with_Ai/status/2102714815793992093) · 157 赞，统计于 2026-10-28
-
-[`watercolor`](tags.md#tag-watercolor) [`scrapbook`](tags.md#tag-scrapbook) [`photo-reference`](tags.md#tag-photo-reference) [`poster`](tags.md#tag-poster) [`handmade-paper`](tags.md#tag-handmade-paper)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a vertical scrapbook-style artistic poster using the uploaded photo as the exact reference. Keep the woman’s identity, facial features, hairstyle, pink button-up shirt, light blue wide-leg jeans, white sneakers, pose, proportions, and outfit consistent.
-
-The poster is printed on textured warm ivory watercolor paper. At the top, place a clean, realistic version of the original photograph, showing the woman casually leaning against a terrace railing with one hand resting on the railing and the other in her pocket. Preserve the scenic lake, distant mountains, hillside houses, tall trees, warm sunlight, stone terrace, and vibrant pink bougainvillea.
-
-Below the photo, create a beautiful hand-painted watercolor version of the exact same scene and pose, with soft blue mountain washes, a calm lake, warm beige architecture, green trees, pink flowers, delicate paper texture, natural watercolor bleeding, visible brush strokes, subtle paint splatters, and irregular artistic edges. Make the watercolor version clearly recognizable as the same woman and location.
-
-Leave generous cream-colored paper space around both images for a premium editorial scrapbook aesthetic. Add elegant handwritten-style text underneath: “sunny days”, with a thin decorative line and a tiny heart beneath it.
-
-Soft natural color palette, cozy travel-journal aesthetic, realistic photo + delicate watercolor illustration, sophisticated composition, high detail, subtle film grain, authentic handmade paper texture, balanced spacing, clean vertical 4:5 composition, Pinterest/Instagram editorial aesthetic, photorealistic upper image and artistic watercolor lower image.
-```
-
-</details>
-
 <a id="gpt-image-frame-collage-identity-consistent-woman"></a>
 ### 女子在复古木相框中的多姿势拼贴
 
@@ -431,6 +493,76 @@ Important: Keep the same person recognizable in every frame, consistent clothing
 
 </details>
 
+<a id="gpt-image-face-locked-cafe-scrapbook-poster"></a>
+### 巴黎咖啡馆女子的手账风编辑海报
+
+<a href="https://x.com/KrishnaBio1/status/2102550122752311623"><img src="../../previews/gpt-image-face-locked-cafe-scrapbook-poster.jpg" width="360"></a>
+
+用严格的身份锁定把人脸参考限定为只控制长相，并单独说明灵感图只控制构图与风格。主体、发型、服装、场景、手账版式和光线分段描述，再给出确切的海报文字和负面提示词，版面更干净。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@KrishnaBio1 on X](https://x.com/KrishnaBio1/status/2102550122752311623) · 143 赞，统计于 2026-10-28
+
+[`face-reference`](tags.md#tag-face-reference) [`scrapbook`](tags.md#tag-scrapbook) [`cafe`](tags.md#tag-cafe) [`editorial`](tags.md#tag-editorial) [`identity-lock`](tags.md#tag-identity-lock)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Use the uploaded face reference image ONLY as the identity reference for the woman.
+STRICT FACE IDENTITY LOCK:
+Preserve her recognizable facial identity exactly from the face reference. Keep the same facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheek structure, skin tone, and natural facial proportions. Do not beautify, redesign, age, de-age, or replace her face. Do not create a different person.
+Use the provided images ONLY as visual inspiration for the overall composition, lifestyle concept, outfit styling, café atmosphere, photography angle, color palette, scrapbook layout, and editorial aesthetic. Do not copy another person's facial identity.
+Create a premium ultra-photorealistic lifestyle editorial photograph of the woman enjoying an elegant café moment in a sophisticated outdoor European-style café.
+Subject & Face:
+The woman has the exact recognizable face from the reference image, with natural elegant makeup, realistic skin texture, expressive eyes, and a soft relaxed expression. Keep her identity completely consistent and authentic.
+Hair:
+Long, thick, naturally flowing dark hair with soft waves, realistic individual strands, subtle natural shine, and an effortless feminine appearance.
+Outfit:
+Elegant ivory/cream-white feminine outfit with delicate lace and embroidered details, sheer textured fabric, refined sleeves, and sophisticated styling. Add tasteful gold jewelry, an elegant watch, delicate rings, and cream pointed-toe heels. Include a refined luxury handbag placed naturally beside her.
+Scene & Pose:
+Create two complementary lifestyle moments within the same visual concept:
+A beautiful overhead café photograph showing the woman seated at a marble café table, her elegant lace outfit visible, one hand naturally holding a ceramic coffee cup with beautiful heart-shaped latte art. A slice of berry cheesecake sits on a delicate white plate beside the coffee.
+A softly framed portrait moment of the same woman sitting at the café, resting one hand gently against her cheek while looking naturally toward the side with a calm, subtle smile. Coffee, dessert, flowers, and her handbag remain naturally arranged on the table.
+Environment:
+A beautiful upscale outdoor European café with marble tables, elegant chairs, soft greenery, small white flowers, warm natural sunlight, and a softly blurred sophisticated street in the background. The environment should feel authentic, peaceful, luxurious, and naturally photographed.
+Scrapbook Editorial Design:
+Present the final composition as a refined vintage scrapbook-style editorial poster on warm ivory textured paper. Use softly painted/watercolor edges around the main photograph, an organic imperfect cutout effect, subtle paper grain, delicate botanical illustrations, tiny vintage postal elements, and elegant minimal decorative lines.
+Add tasteful typography with a sophisticated editorial feel, such as:
+“A MOMENT OF PURE BLISS”
+and underneath:
+“Good Coffee, Better Days”
+with a small elegant heart or botanical ornament. Keep the typography minimal, refined, and beautifully integrated into the paper layout.
+Color & Lighting:
+Warm ivory, cream, beige, soft brown, muted green, and subtle golden tones. Natural afternoon sunlight, gentle highlights, realistic shadows, soft cinematic glow, subtle analog film grain, delicate depth of field, and premium editorial color grading.
+Overall Style:
+Ultra-photorealistic, high-end lifestyle photography, luxury café editorial, sophisticated feminine aesthetic, realistic skin and fabric texture, authentic hands and fingers, natural body proportions, realistic coffee and dessert details, cinematic photography, premium magazine quality, 8K detail, crisp but soft natural image quality, elegant nostalgic atmosphere, sophisticated Pinterest/editorial scrapbook aesthetic.
+IMPORTANT:
+The face reference controls ONLY the woman's identity. The uploaded inspiration images control the visual concept, composition, styling, café atmosphere, colors, and scrapbook presentation. Do not merge another person's face into the subject. Keep the woman's identity recognizable and consistent throughout the entire composition.
+Negative Prompt:
+different face, altered identity, face swap, beautified face, distorted facial features, extra fingers, malformed hands, unrealistic skin, plastic skin, cartoon, 3D render, CGI look, blurry face, low resolution, oversaturated colors, artificial lighting, duplicate objects, distorted coffee cup, malformed dessert, excessive text, watermark, logo, messy composition, unnatural pose, unrealistic body proportions.
+```
+
+</details>
+
+<a id="nano-banana-chibi-doll-scrapbook-white-saree-portrait"></a>
+### 白色纱丽人像与Q版娃娃手账拼贴
+
+<a href="https://x.com/HaniaAi12/status/2067928015519269285"><img src="../../previews/nano-banana-chibi-doll-scrapbook-white-saree-portrait.jpg" width="360"></a>
+
+开头先用简短风格词定调，再以参考图锁定写实主体人像。周围加入同一人物的Q版娃娃分身、涂鸦爱心、手写文字和手账版式，形成层次丰富的拼贴。
+
+Nano Banana 2 · 上传图改图 · 出处: [@HaniaAi12 on X](https://x.com/HaniaAi12/status/2067928015519269285) · 124 赞，统计于 2026-10-28
+
+[`chibi`](tags.md#tag-chibi) [`scrapbook`](tags.md#tag-scrapbook) [`doodle`](tags.md#tag-doodle) [`reference-photo`](tags.md#tag-reference-photo) [`portrait-collage`](tags.md#tag-portrait-collage)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Doodle chibi Art .
+Use reference photo to create a ultra-realistic cinematic portrait of a beautiful Indian woman in elegant white saree with embroidered blouse, jasmine flowers in long black hair, looking back with sweet smile, warm aesthetic lighting, surrounded by cute 3D chibi doll versions of herself in different poses, white doodle hearts and sparkles, handwritten words, dreamy scrapbook collage style, Disney Pixar inspired, soft glow, cozy feminine vibe, ultra detailed, 8k.
+```
+
+</details>
+
 <a id="gpt-image-european-woman-six-scene-instagram-photo-dump"></a>
 ### 六宫格日常风 Instagram 随拍合集
 
@@ -468,6 +600,59 @@ Identity consistency: The same woman must appear in every panel, with identical 
 Realism details: Authentic skin pores, fine baby hairs, natural facial asymmetry, realistic hands, believable fabric textures, subtle exposure differences, realistic reflections, and natural environmental lighting. Avoid excessive retouching, plastic skin, duplicated expressions, distorted fingers, inconsistent facial features, or overly polished AI-generated aesthetics.
 
 Output requirements: Vertical 3:4 aspect ratio, exactly six equally sized photographs in a balanced 3-column × 2-row grid, clean alignment, no gutters, no borders, no text, no watermark. Photorealistic, youthful, spontaneous, stylish, and full of personality, like a genuine collection of everyday moments shared on Instagram.
+```
+
+</details>
+
+<a id="gpt-image-identity-locked-polaroid-scrapbook-collage"></a>
+### 同一女孩多种姿势的拍立得手帐拼贴
+
+<a href="https://x.com/mehwishkiran07/status/2106208037136642520"><img src="../../previews/gpt-image-identity-locked-polaroid-scrapbook-collage.jpg" width="360"></a>
+
+开头和结尾都强调上传照片是唯一的身份参考，并固定服装，再列出七种不同的姿势和表情围绕中央大图，既保持人物一致又有变化，纸张、胶带和手写文字细节则构成手帐层次。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@mehwishkiran07 on X](https://x.com/mehwishkiran07/status/2106208037136642520) · 115 赞，统计于 2026-10-28
+
+[`scrapbook`](tags.md#tag-scrapbook) [`polaroid`](tags.md#tag-polaroid) [`identity-lock`](tags.md#tag-identity-lock) [`memory-board`](tags.md#tag-memory-board) [`lifestyle`](tags.md#tag-lifestyle)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+> Create a highly detailed, photorealistic scrapbook-style photo collage using my uploaded image as the ONLY identity reference. Preserve my exact facial identity, facial features, skin tone, hairstyle, hair color, and overall appearance consistently in every photo. Do not change or beautify my face and do not create a different person.
+
+Create a cozy aesthetic memory-board collage featuring the same woman in multiple candid lifestyle photographs. She is wearing a cream and olive-green striped oversized knit sweater, light blue loose-fit jeans, and clean white sneakers.
+
+Arrange several realistic Polaroid-style photographs around one large central portrait. The central image shows her sitting casually on a vintage wooden crate, one knee raised, wearing the striped sweater and jeans, looking softly at the camera with a warm natural smile.
+
+Include multiple smaller photographs showing different natural expressions and poses:
+
+eyes closed with a peaceful smile
+
+making a cute peace sign toward the camera
+
+playful surprised expression with both hands on her cheeks
+
+looking sideways with a gentle smile while holding small white flowers
+
+taking a selfie with a smartphone
+
+resting her face on one hand while smiling at the camera
+
+a relaxed playful pose with one arm raised
+
+Keep the same person, same outfit, same hairstyle, and consistent facial identity across every photograph.
+
+Build the collage on a warm beige vintage paper background with layered torn newspaper pages, masking tape, paper scraps, film strips, handwritten doodles, hearts, stars, arrows, smiley faces, and small white daisies.
+
+Add realistic Polaroid frames with slightly imperfect handmade placement, subtle shadows, paper texture, vintage photography details, and a cozy nostalgic scrapbook aesthetic.
+
+Include handwritten-style decorative text such as “Best Day Ever ♡”, “Oops!”, “So Happy Today :)”, “Love This ♡” and small doodles around the photographs.
+
+Add a vintage Pentax K1000 film camera resting on stacked old books near the bottom of the composition, with visible book titles such as “Good Vibes”, “Memories”, and “A Brighter Day.”
+
+Warm natural indoor lighting, soft cinematic depth of field, realistic skin texture, high-end editorial photography, authentic candid expressions, detailed paper textures, realistic shadows, premium lifestyle photography, harmonious composition, ultra-realistic, high resolution.
+
+Important: Use my uploaded image as the identity reference. Preserve my face exactly and consistently in all frames. Only change the poses, expressions, composition, and environment. Do not alter my identity.
 ```
 
 </details>
@@ -519,6 +704,123 @@ TARGET IMAGE = everything.
 REFERENCE IMAGE = face identity only.
 Change nothing else.
 The final result must look like the original TARGET IMAGE, with only the woman's facial identity replaced by the woman from the reference photo.
+```
+
+</details>
+
+<a id="nano-banana-korean-four-cut-photo-booth-strip"></a>
+### 韩式四格大头贴照片条，粉彩边框
+
+<a href="https://x.com/AiwithLariab/status/2050792903136735610"><img src="../../previews/nano-banana-korean-four-cut-photo-booth-strip.jpg" width="360"></a>
+
+提示词写明版式（四格竖排）、滤镜效果（提亮肤色、卧蚕、淡粉腮红）以及边框配色和图标类型。再加上日期戳、真实拍照机品牌的风格参照和保持五官准确的要求，让结果与原照片保持一致。
+
+Nano Banana 2 · 上传图改图 · 出处: [@AiwithLariab on X](https://x.com/AiwithLariab/status/2050792903136735610) · 110 赞，统计于 2026-10-28
+
+[`photo-booth`](tags.md#tag-photo-booth) [`korean-style`](tags.md#tag-korean-style) [`four-cut`](tags.md#tag-four-cut) [`pastel`](tags.md#tag-pastel) [`selfie`](tags.md#tag-selfie)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Transform this photo into a Korean selca zone 4-cut photo strip. Create 4 vertically stacked frames with the same person in slightly different cute poses. Apply the classic Korean photo booth filter: brightened skin, subtle aegyo-sal enhancement, soft pink blush. Add a pastel mint and pink border with small decorative icons (bears, hearts, clouds). Include a date stamp '2026.03.8' at the bottom. The aesthetic should match modern Korean 4-cut photo booths like Photoism or Haru Film. Keep facial features accurate.
+```
+
+</details>
+
+<a id="nano-banana-film-strip-memory-collage-portrait"></a>
+### 带萌系小精灵的胶片记忆拼贴
+
+<a href="https://x.com/AiwithLariab/status/2051256840143642633"><img src="../../previews/nano-banana-film-strip-memory-collage-portrait.jpg" width="360"></a>
+
+先用参考图锁定人脸，再让每一帧的发型、服装和背景各不相同，一个人物就成了一条记忆时间线。胶片条、拍立得和手绘涂鸦叠加，配合 Portra 色调与 9:16 版式，拼贴依然统一。
+
+Nano Banana 2 · 上传图改图 · 出处: [@AiwithLariab on X](https://x.com/AiwithLariab/status/2051256840143642633) · 104 赞，统计于 2026-10-28
+
+[`film-strip`](tags.md#tag-film-strip) [`collage`](tags.md#tag-collage) [`polaroid`](tags.md#tag-polaroid) [`chibi-doodles`](tags.md#tag-chibi-doodles) [`reference-face`](tags.md#tag-reference-face)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Asymmetrical cinematic film-strip style collage featuring a young woman using the exact face from the reference image, preserving identity and natural skin texture. The composition is arranged like a rolling timeline of memories captured in overlapping film frames and negatives. Each frame shows different emotional micro-moments: laughing while walking, looking out a window, fixing hair in mirror, holding coffee, and soft candid smile.
+Frames are styled as vintage film strips, contact sheets, and Polaroid negatives with light leaks and grain textures. Hairstyle subtly changes per frame (loose hair, ponytail, messy bun, soft braid). Korean soft glam makeup with natural glow and dewy skin.
+Include floating pastel chibi “memory spirits” representing emotions (joy, calm, curiosity, nostalgia) interacting with frames. Add hand-drawn doodles like timestamps, arrows, film marks, stars, and scribbles.
+Outfit is casual chic layered wardrobe (trench coat, knit sweater, denim jacket) in muted tones (beige, soft pink, grey, dusty blue). Background varies slightly per memory scene (street café, sunset road, cozy room, rainy window).
+Soft cinematic lighting, shallow depth of field, film photography style (Kodak Portra tone), warm nostalgic color grading, vertical 9:16 layout.
+```
+
+</details>
+
+<a id="nano-banana-italy-travel-scrapbook-collage-poster"></a>
+### 带人像的意大利旅行拼贴海报
+
+<a href="https://x.com/iamrealsnow/status/2049042453198782674"><img src="../../previews/nano-banana-italy-travel-scrapbook-collage-poster.jpg" width="360"></a>
+
+以参考人脸作为中央抠图主体，周围叠加撕纸、明信片、邮票和贴纸等层次。做旧大标题置于主体之后，搭配手写小字和暖色复古色调统一整个拼贴。
+
+Nano Banana 2 · 上传图改图 · 出处: [@iamrealsnow on X](https://x.com/iamrealsnow/status/2049042453198782674) · 104 赞，统计于 2026-10-28
+
+[`travel`](tags.md#tag-travel) [`collage`](tags.md#tag-collage) [`scrapbook`](tags.md#tag-scrapbook) [`poster`](tags.md#tag-poster) [`face-reference`](tags.md#tag-face-reference)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+.
+Ultra-realistic travel collage poster featuring a young man (use my face) as the central subject, standing confidently with a relaxed, adventurous expression. He is wearing a casual explorer outfit, light linen shirt, neutral trousers, sunglasses, and a crossbody bag, holding a map or camera. Warm sunlight highlights his face, giving a summer travel vibe.
+
+Background is a layered scrapbook-style composition inspired by a vibrant travel destination (choose a different country, e.g. Italy or Turkey). Include iconic landmarks, vintage architecture, local street scenes, and cultural elements blended seamlessly around him. Add torn paper textures, postcards, stamps, and travel stickers for a handcrafted aesthetic.
+
+Typography: bold, oversized headline text with a distressed texture (e.g. “LOST IN ITALY” or similar), placed prominently behind or above the subject. Include smaller handwritten-style phrases like “no plans, just vibes”, “explore more”, or “wander often”.
+
+Add lifestyle elements like local food, transport (tram, scooter), street lamps, or cultural performers integrated into the collage. Use warm tones, reds, yellows, and earthy textures for a nostalgic travel feel.
+
+Lighting: cinematic, slightly grainy, vintage color grading. High detail, sharp focus on subject, soft depth blending into background collage. Poster-style composition, highly aesthetic, social media ready.
+```
+
+</details>
+
+<a id="gpt-image-couple-photobooth-contact-sheet-8-frames"></a>
+### 年轻情侣八格拍立得照相亭联系表
+
+<a href="https://x.com/frametheory058/status/2099882958106878177"><img src="../../previews/gpt-image-couple-photobooth-contact-sheet-8-frames.jpg" width="360"></a>
+
+先用固定的发型和服装描述锁定两位人物，再逐条编号八个不同的自然瞬间，避免姿势重复。胶片型号、直闪和颗粒的描述，加上禁用美颜滤镜的排除项，让画面更接近真实照片。
+
+GPT Image 2.5 · 文生图 · 出处: [@frametheory058 on X](https://x.com/frametheory058/status/2099882958106878177) · 79 赞，统计于 2026-10-28
+
+[`photobooth`](tags.md#tag-photobooth) [`contact-sheet`](tags.md#tag-contact-sheet) [`couple`](tags.md#tag-couple) [`film-grain`](tags.md#tag-film-grain) [`scrapbook`](tags.md#tag-scrapbook)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create an ultra-realistic vertical 2×4 photobooth contact-sheet collage of the same adorable young couple across all 8 frames. They should look like genuine real people photographed together, never AI-generated: natural facial asymmetry, realistic pores and skin texture, tiny imperfections, individual hair strands, authentic eyes, believable hands and anatomy.
+
+Character continuity: cute young woman with long soft dark-brown hair, warm expressive eyes, subtle natural makeup, oversized cream knit sweater. Cute young man with messy naturally curly dark-brown hair, warm expressive eyes, dark charcoal hoodie/jacket over a simple white T-shirt. Keep their faces, hairstyles, age, proportions and clothing perfectly consistent in every frame.
+
+Make every frame feel like a different spontaneous moment rather than repeated poses:
+
+1. She rests her cheek on her hand while he looks at her with a tiny smile.
+
+2. Both lean extremely close to the camera, laughing naturally, slightly imperfect framing.
+
+3. She kisses his cheek while gently squishing his face; his eyes close with a genuine smile.
+
+4. Both hide half their faces inside their oversized sleeves, only their eyes visible.
+
+5. They wear matching dark vintage baseball caps; she makes a playful pout while he looks toward her.
+
+6. A genuine mid-laugh shot where she covers her smile and he laughs beside her.
+
+7. She makes a small heart with both hands in the foreground while he rests his cheek against her head.
+
+8. Final emotional frame: he kisses her forehead while she closes her eyes and hugs him tightly.
+
+Shot like a real late-night photobooth session on Kodak Portra 400, direct on-camera flash, slightly warm neutral white balance, soft shadow behind them, realistic flash falloff, subtle highlight bloom, fine 35mm grain, mild lens softness, tiny exposure inconsistencies and imperfect candid framing. No beauty filter, plastic skin, excessive sharpening, CGI or AI aesthetic.
+
+Arrange all eight photographs inside distressed black analog contact-sheet borders on a matte black scrapbook background. Add tiny orange film-edge markings, subtle scratches and dust. Around the photographs, add sparse handwritten white-ink doodles and small imperfect hearts with phrases such as “Better Together ♡”, “My Happy Place”, “Same People, Different Moments”, “Still You ♡” and “More Silly Moments Please.” Keep typography secondary to the photographs and authentically handwritten rather than digitally perfect.
+
+At the bottom, handwritten: “A thousand little moments with you ♡” with a small handwritten date.
+
+The overall result should feel like a real couple accidentally created the perfect roll of film, intimate, youthful, nostalgic, cute and highly shareable—not a polished commercial photoshoot. Premium editorial composition, believable analog photography, extremely detailed faces, clean tonal separation, excellent contrast and natural cinematic color grading, 8K-quality realism, 9:16 vertical, absolutely no obvious AI artifacts.
 ```
 
 </details>
@@ -664,6 +966,25 @@ A photograph someone would instantly stop scrolling to understand — first they
 
 </details>
 
+<a id="gpt-image-morning-diaries-travel-scrapbook-poster"></a>
+### 由照片生成的晨间日记旅行手账海报
+
+<a href="https://x.com/Aqsahere_/status/2104395935438581848"><img src="../../previews/gpt-image-morning-diaries-travel-scrapbook-poster.jpg" width="360"></a>
+
+提示词先锁定上传照片中人物的身份与服装，只改变时间氛围，再逐项列出手账元素和排版文字，并限定配色与3:4比例。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@Aqsahere_ on X](https://x.com/Aqsahere_/status/2104395935438581848) · 63 赞，统计于 2026-10-28
+
+[`scrapbook`](tags.md#tag-scrapbook) [`travel-journal`](tags.md#tag-travel-journal) [`photo-edit`](tags.md#tag-photo-edit) [`editorial-poster`](tags.md#tag-editorial-poster) [`identity-lock`](tags.md#tag-identity-lock)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a high-end morning editorial scrapbook poster from the uploaded photo. Transform the sunset scene into a fresh early-morning atmosphere with soft golden morning sunlight, clear blue sky, fluffy white clouds, crisp green mountains, and bright wildflowers. Keep the woman’s appearance, outfit, pose, facial features, hair, pink bucket hat, pink T-shirt, dark jacket tied around her waist, and overall identity consistent. Design it as a sophisticated travel-journal collage with torn cream paper, Polaroid frames, subtle washi tape, film-strip details, pressed daisies, delicate botanical sketches, handwritten notes, and vintage paper textures. Use the main photo prominently in the center with several smaller snapshots showing different natural angles from the same scene. Add elegant editorial typography reading “MORNING Diaries”, with small phrases such as “clear skies · brighter days”, “same places, different mornings”, and “good views, good mood”. Keep the palette soft and refined: sky blue, fresh green, warm cream, pale pink, and subtle beige. Make it feel like a premium independent travel magazine mixed with a personal morning diary—artistic, airy, nostalgic, natural, and beautifully composed, not like an advertisement. Strict 3:4 vertical composition, realistic photography blended seamlessly with refined scrapbook elements.
+```
+
+</details>
+
 <a id="gpt-image-scrapbook-collage-identity-reference"></a>
 ### 同一人物的暖色手帐风相框拼贴
 
@@ -683,43 +1004,6 @@ Create the same warm scrapbook-style collage, but featuring the exact same boy f
 
 </details>
 
-<a id="gpt-image-90s-apartment-scene-reference-board"></a>
-### 90年代公寓夜景场景参考板
-
-<a href="https://x.com/Iancu_ai/status/2051287273581203888"><img src="../../previews/gpt-image-90s-apartment-scene-reference-board.jpg" width="360"></a>
-
-用 JSON 固定版面：两个宽幅机位、六格道具特写条和色温镜头页脚。逐一写明机位角度并按格列出道具，让各画格里的房间保持一致。
-
-GPT Image 2 · 文生图 · 出处: [@Iancu_ai on X](https://x.com/Iancu_ai/status/2051287273581203888) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-[`scene-reference`](tags.md#tag-scene-reference) [`production-design`](tags.md#tag-production-design) [`cinematic`](tags.md#tag-cinematic) [`interior`](tags.md#tag-interior) [`35mm`](tags.md#tag-35mm)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-{
-  "type": "scene reference board — 90s apartment living room, cinematic night",
-  "style": "cinematic film photography, 35mm grain, warm amber shadow fill, deep chiaroscuro lighting, hyper-detailed interior, production design reference quality",
-  "layout": {
-    "main_panel_center_left": {
-      "label": "CAMERA A — FRONT VIEW",
-      "scene": "Wide shot, L-shaped tan sectional sofa, grey knit throw blanket, wooden coffee table (remote, mug, ashtray, Rolling Stone stack), lava lamp left, table lamp right, rain-streaked city window behind, Nirvana poster left wall. 35mm grain."
-    },
-    "main_panel_center_right": {
-      "label": "CAMERA B — REVERSE VIEW",
-      "scene": "Wide reverse from behind sofa. CRT TV prominent right, grey static screen. Tall bookshelf, VHS tapes. Cool blue backlight from window behind camera. Deep shadow."
-    },
-    "prop_strip_bottom": "6 close-up tiles: 1. LAVA LAMP — chrome base, blue-green wax blobs; 2. COFFEE TABLE — remote, mug, ashtray, magazines; 3. NIRVANA POSTER — black smiley face, wall texture; 4. CRT TELEVISION — static screen, VHS stack; 5. WINDOW/RAIN — city bokeh, water streaks; 6. THROW BLANKET — sofa corner, worn upholstery",
-    "top_right_inset": "SOURCE REF thumbnail — original photo",
-    "footer": "2700K PRACTICAL · 4100K CITY NIGHT · 24mm · 35MM"
-  },
-  "background": "deep charcoal #1a1a1a, thin white separators",
-  "dimensions": "wide landscape 3:1, high resolution"
-}
-```
-
-</details>
-
 <a id="gpt-image-alphabet-object-grid-a"></a>
 ### 十乘十网格，展示以A开头的物品
 
@@ -735,6 +1019,33 @@ GPT Image 2 · 文生图 · 出处: [@umesh_ai on X](https://x.com/umesh_ai/stat
 
 ```text
 Create an image with a 10x10 grid of objects whose names all start with the letter A
+```
+
+</details>
+
+<a id="gpt-image-cafe-photo-cartoon-doodle-overlay"></a>
+### 咖啡馆写实照片叠加卡通咖啡涂鸦
+
+<a href="https://x.com/Jawad_Rahman_/status/2049796647237066971"><img src="../../previews/gpt-image-cafe-photo-cartoon-doodle-overlay.jpg" width="360"></a>
+
+把画面拆成写实摄影层和 2D 卡通叠加层，并逐一点名漂浮的卡通元素。黄金时段光线与浅景深让人物保持清晰，涂鸦依然鲜明。
+
+GPT Image 2 · 文生图 · 出处: [@Jawad_Rahman_ on X](https://x.com/Jawad_Rahman_/status/2049796647237066971) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`photo-cartoon-mix`](tags.md#tag-photo-cartoon-mix) [`cafe`](tags.md#tag-cafe) [`doodle-overlay`](tags.md#tag-doodle-overlay) [`golden-hour`](tags.md#tag-golden-hour) [`pop-art`](tags.md#tag-pop-art)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A trendy young woman sitting at an outdoor café table, holding a hot coffee cup near her lips. She has short curly black hair and wears oversized tinted sunglasses, a cropped beige sweater, loose brown high-waisted pants, and chunky white sneakers. A tote bag with minimal coffee-themed illustrations hangs on her shoulder.
+
+The scene blends realistic photography with playful 2D cartoon overlays. Floating around her are animated coffee elements: a smiling cappuccino cup with heart-shaped latte art, cute coffee beans with tiny faces, and stylized splashes of caramel forming comic-style shapes. Soft doodle steam rises into hearts and stars.
+
+On the table: a croissant, a notebook with sketch drawings, and a second coffee cup.
+
+Background: a realistic cozy café street with brick walls, plants, warm golden hour lighting, and soft shadows. Slight depth of field, subject in sharp focus.
+
+Style: mix of photorealism and vibrant cartoon illustration, pop-art aesthetic, high saturation but warm tones, clean composition, Instagram-worthy, soft glow, 4k detail.
 ```
 
 </details>
@@ -862,6 +1173,33 @@ GPT Image 2 · 文生图 · 出处: [@Gdgtify on X](https://x.com/Gdgtify/status
 
 ```text
 <instructions> input: continent pick 4 lesser known countries in that continent function drawx($lesser known country){ > Anchor 1: "$lesser known's famous architecture" (it's texture, material and color) > Anchor 2: "$lesser known's famous fashion " (it's texture, material and color) > Anchor 3: "$lesser known's famous food " (it's texture, material and color) > > **Instruction:** Render a dress design that exists at the exact center of this triangle. } output: 2x2 grid, drawx( for each lesser known country)
+```
+
+</details>
+
+<a id="gpt-image-japanese-cafe-couple-dessert-scrapbook"></a>
+### 日系咖啡馆情侣分享甜点写真
+
+<a href="https://x.com/sha_zdiii/status/2054047328420634927"><img src="../../previews/gpt-image-japanese-cafe-couple-dessert-scrapbook.jpg" width="360"></a>
+
+用方括号槽位控制服装、道具、光线、涂鸦颜色和色调，一条提示词可以生成多种变体。背景虚化的日文招牌加上画面四周的手写涂鸦，营造出真实照片与手帐拼贴结合的效果。
+
+GPT Image 2 · 文生图 · 出处: [@sha_zdiii on X](https://x.com/sha_zdiii/status/2054047328420634927) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`cafe`](tags.md#tag-cafe) [`couple`](tags.md#tag-couple) [`scrapbook`](tags.md#tag-scrapbook) [`japanese`](tags.md#tag-japanese) [`template`](tags.md#tag-template)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Ultra-realistic cozy Japanese-Korean café photography featuring a cute young [Japanese/Korean] couple sitting together naturally in a trendy aesthetic café. The young couple should look stylish and youthful, wearing [fashion style/outfit colors], smiling softly and enjoying desserts together.
+
+The table is beautifully filled with [desserts/foods] such as pancakes, strawberry cakes, macarons, croissants, pastries, iced coffees, matcha lattes, fruit desserts, and aesthetic drinks arranged in a visually satisfying composition. Add small aesthetic café props like [flowers/ribbons/books/candles/pearls/notebooks] on the table for a premium Pinterest moodboard feel.
+
+Soft [lighting style] lighting enters through the café windows creating dreamy highlights, creamy shadows, glossy reflections on drinks, and realistic dessert textures. Background should contain softly blurred [Japanese/Korean] signs, glowing café boards, handwritten Japanese text, neon typography, and aesthetic city café elements for an authentic Tokyo/Seoul vibe.
+
+Add cute scrapbook-style doodles and handwritten notes around the image in [doodle color] ink — tiny hearts, stars, sparkles, ribbons, arrows, smiley sketches, bows, diary stickers, and handwritten café notes.
+
+Color palette should focus on [color theme] tones. Style inspired by viral Pinterest café photography, Korean lifestyle aesthetics, Japanese cozy café culture, dreamy Gen-Z romance mood, shallow depth of field, cinematic composition, ultra realistic food textures, soft blurry background, ultra detailed realistic photography, clean aesthetic layout, 8k.
 ```
 
 </details>
@@ -1062,53 +1400,6 @@ Row 3 - Frame 12 (Rooftop skyline): selfie with Tokyo skyline behind, arm extend
 Row 3 - Frame 13 (Nara park): crouching down in a park in Nara, she holds out a deer cracker toward a deer, the deer bows its head toward her, she bursts into genuine laughter mid-reaction, surprised and slightly leaning back, another deer nudges her from behind causing her to lose balance slightly, camera captures the moment imperfectly with slight shake and off-center framing, soft natural daylight, open park background with trees and space, unscripted chaotic energy, candid expression.
 
 Young female travel vlogger exploring Tokyo across 13 candid moments in a grid collage, extremely beautiful with long dark wavy hair, wearing stylish Japanese streetwear, expressive and spontaneous, scenes include Tokyo Tower selfie, Shibuya crossing at night, convenience store snack moment, park bench quiet scene, takoyaki reaction, vending machine glow, train window reflection, torii gate walk, immersive light exhibit, Gundam statue low angle, lantern alley walk, rooftop skyline selfie, Harajuku street ending, each frame slightly imperfect with motion blur.
-```
-
-</details>
-
-<a id="gpt-image-twelve-hairstyle-lookbook-same-face"></a>
-### 同一人脸十二款发型对照网格
-
-<a href="https://x.com/Ciri_ai/status/2092452220768002400"><img src="../../previews/gpt-image-twelve-hairstyle-lookbook-same-face.jpg" width="360"></a>
-
-先用身份锚点逐项锁定五官特征,再用硬性规则固定背景、发色、妆容和服装,只允许发型变化。十二种发型各有简短的形态描述,配合相机参数和编号面板保持整张网格一致。
-
-GPT Image 2 · 上传图改图 · 出处: [@Ciri_ai on X](https://x.com/Ciri_ai/status/2092452220768002400) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-[`hairstyle`](tags.md#tag-hairstyle) [`lookbook`](tags.md#tag-lookbook) [`grid`](tags.md#tag-grid) [`identity-lock`](tags.md#tag-identity-lock) [`studio-portrait`](tags.md#tag-studio-portrait)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a 12-panel grid (3 columns × 4 rows, numbered 1 to 12) showing the SAME person from the reference photo with 12 different hairstyles. This is a hairstyle lookbook. Final image aspect ratio: 4:5 (vertical/portrait).
-THE ONLY THING THAT CHANGES BETWEEN PANELS IS THE HAIR ON THE HEAD (shape, style and length only). Everything else stays exactly as in the reference photo.
-Identity Anchor (Critical)
-The face must be IDENTICAL to the reference photo in every single panel. Preserve exactly: facial bone structure, jawline, cheekbones, nose shape, lips, eye shape and spacing, eyebrows, skin tone, skin texture (pores, natural imperfections), and overall facial proportions. This is the same real person in all 12 frames. Do NOT beautify, slim, or alter the face. Same age, same expression as in the reference.
-Mandatory Rules (Do Not Violate)
-- NO SUNGLASSES. Eyes must be fully visible in all 12 panels.
-- NO ENVIRONMENTAL BACKGROUNDS. Every panel must have a plain, uniform, solid light grey studio backdrop with zero objects, zero textures, zero gradients. Just flat neutral grey.
-- Hair COLOR stays exactly as it appears in the reference photo in all 12 panels. Only the shape, length and style changes, never the color.
-Keep Identical in Every Panel (Do Not Change)
-- MAKEUP AND SKIN: If the person in the reference photo wears makeup, replicate it identically in every panel. Same lip color, same eye makeup, same brow grooming. If they wear no makeup, keep all panels makeup-free. Do NOT add, remove, or alter makeup between panels.
-- Clothing: the same clothing visible in the reference photo, replicated exactly.
-- Accessories: preserve ALL visible accessories from the reference photo (earrings, necklaces, rings, bracelets, piercings, watch, glasses, etc.). Do not omit, resize, recolor, or restyle any accessory. If the person wears prescription glasses (not sunglasses), keep them in every panel.
-- Background: plain solid light grey studio backdrop in every panel. No room, no furniture, no environment.
-The 12 Hairstyles
-1. Pixie cut: very short, textured, slightly tousled on top with tapered sides and nape
-2. Classic bob: chin-length, straight, blunt ends, clean middle part
-3. Long layered waves: past the shoulders, soft voluminous waves with face-framing layers
-4. Sleek low bun: hair pulled back smoothly into a tight low bun at the nape, no flyaways
-5. Curtain bangs with medium-length hair: soft parted fringe framing the face, hair falling just past the shoulders
-6. High ponytail: hair pulled up into a sleek high ponytail, smooth crown, length falling behind
-7. French bob: short bob ending at the jawline with a soft blunt micro-fringe across the forehead
-8. Long straight hair with middle part: very long, sleek, pin-straight, falling well past the shoulders
-9. Shaggy wolf cut: medium length, heavy layers, choppy fringe, textured and voluminous with a slightly wild look
-10. Elegant updo: hair swept up into a polished chignon with soft face-framing tendrils
-11. Short curly crop: short voluminous curls all over, natural texture, tapered at the sides
-12. Side-swept Hollywood waves: long glamorous deep side part, sculpted vintage waves cascading over one shoulder
-Photographic Specs
-Shot on a Canon EOS R5 with an 85mm f/1.4 lens, studio portrait lighting (soft key light, subtle fill), shallow depth of field with sharp focus on the face. PLAIN SOLID LIGHT GREY STUDIO BACKGROUND in every panel. Natural skin rendering with visible pores and realistic hair strands (no plastic or CGI look). Consistent lighting, color grading and exposure across all 12 panels. Photorealistic, high detail, hyperrealistic, 8K. No illustration, no painterly effect, no over-smoothing. NO SUNGLASSES.
-Each panel clearly numbered 1 to 12 in the top-left corner. Overall output aspect ratio 4:5.
 ```
 
 </details>

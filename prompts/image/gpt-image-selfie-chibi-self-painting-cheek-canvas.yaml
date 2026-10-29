@@ -1,0 +1,47 @@
+id: gpt-image-selfie-chibi-self-painting-cheek-canvas
+title:
+  en: Selfie with chibi self painting her cheek
+  zh: 自拍中画布上的Q版自己为她涂画脸颊
+model: GPT Image 2.5
+mode: image-edit
+category: portrait
+tags:
+- selfie
+- chibi
+- paint-splatter
+- fourth-wall
+- art-studio
+source:
+  name: '@Arina_hoqe on X'
+  url: https://x.com/Arina_hoqe/status/2098966830874595582
+  credit: Arina Ai
+  likes: 85
+  captured: '2026-10-28'
+  posted: '2026-09-13'
+notes:
+  en: A labeled block structure (hair, face, outfit, concept, chibi, background, style, camera) keeps the real woman and her painted twin consistent. Matching paint splatters and a fourth wall breaking gesture blend photo realism with 3D chibi art, while face reference rules preserve identity from the uploaded photo.
+  zh: 提示词按发型、面部、服装、概念、Q版形象、背景、风格、镜头分块，让真人与画中的自己保持一致。相同的颜料飞溅和打破第四面墙的动作把写实照片与3D Q版插画融为一体，面部参考规则则保留上传照片中的人物特征。
+prompt: |
+  Study the uploaded photo’s facial features and use them as inspiration to create a fun selfie-style photo of a similar-looking young woman with a creative cartoon canvas twist.
+
+  Hair: Messy, tousled dark hair with colorful paint splatters scattered naturally across the hair and face, soft loose strands, light natural texture.
+
+  Face/Skin: Preserve the recognizable facial features and overall identity from the reference image while creating a female version. Natural youthful skin with colorful paint speckles in purple, orange, and blue across the face. Big laughing open-mouth smile, playful joyful expression, expressive eyes, natural feminine appearance, no jewelry, no tattoos.
+
+  Outfit: Purple/lavender knit sweater, casual artistic look with colorful paint splatters on the clothing.
+
+  Concept: Taking a close-up selfie next to an easel canvas, where a cute chibi cartoon version of herself is painted on the canvas. The illustrated cartoon character is playfully reaching out of the canvas, holding a paintbrush and painting/touching the real woman’s cheek with colorful paint, creating a fun fourth-wall-breaking interaction between the real person and the illustration.
+
+  Chibi Cartoon on Canvas: A cute female chibi version of the same woman, with the same messy dark hair, colorful paint splatters, big expressive cartoon eyes, cheerful laughing smile, wearing a purple/lavender off-shoulder top. She is leaning out of the canvas frame with one arm extended, holding a paintbrush and playfully touching the real woman’s cheek.
+
+  Background: Cozy creative art studio, softly blurred art supplies, colorful paint bottles, brushes, canvases, and wooden shelves in the background. Warm natural window lighting. Wooden easel with clearly visible paint-splattered edges.
+
+  Art Style: Photorealistic selfie photography seamlessly blended with a vibrant high-quality 3D chibi cartoon illustration. Realistic skin texture, natural facial details, colorful paint-splatter texture throughout, playful energetic composition, premium photography, high detail.
+
+  Camera: Close-up selfie perspective, slightly wide-angle lens, natural handheld selfie framing, capturing both the real woman’s face and the full interaction with the canvas painting. Realistic depth of field, cinematic lighting, sharp facial details.
+
+  Face Reference Rules: Use the uploaded image as the primary facial reference. Preserve the same recognizable facial structure, eyes, nose, lips, face shape, skin tone, and overall identity as closely as possible. Do not replace the identity with a generic face. Keep the woman looking naturally like the reference person while adapting the appearance into a feminine version of the concept.
+
+  Text Overlay: Small stylish signature-style text in the top corner reading exactly: “Arina Ai”
+
+  Negative Prompt: blurry face, distorted facial features, extra fingers, extra limbs, duplicate person, deformed hands, bad anatomy, jewelry, tattoos, masculine body, plastic skin, unrealistic face, anime real person, low quality, excessive makeup, text errors, misspelled “Arina Ai”, watermark, logo.

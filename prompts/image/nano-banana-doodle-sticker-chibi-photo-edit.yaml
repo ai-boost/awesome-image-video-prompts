@@ -1,0 +1,47 @@
+id: nano-banana-doodle-sticker-chibi-photo-edit
+title:
+  en: Photo with doodle accents and chibi stickers
+  zh: 手绘涂鸦与Q版贴纸风人像照片
+model: Nano Banana 2
+mode: image-edit
+category: edit
+tags:
+- doodle
+- chibi
+- sticker
+- xiaohongshu
+- photo-edit
+source:
+  name: '@john_my07 on X'
+  url: https://x.com/john_my07/status/2051162500780208297
+  credit: Johnn
+  likes: 160
+  captured: '2026-10-28'
+  posted: '2026-05-04'
+notes:
+  en: Keeps the original photo, lighting and background fixed, then layers thin white doodle strokes, minimal mascots and short handwritten captions. A list of chibi poses (jumping, waving, sitting, holding a drink) adds 3D sticker versions of the subject.
+  zh: 先锁定原图构图、光线与背景，再叠加细白线涂鸦、少量吉祥物和简短手写字幕。列出跳跃、挥手、坐姿、拿饮料等姿势，生成带白边的3D Q版自己。
+prompt: |
+  Transform the provided photo into a soft, Pinterest/Xiaohongshu-inspired doodle aesthetic while preserving the original composition, facial identity, and natural color tones. Keep the lighting gentle, warm, and realistic, avoid heavy color grading, oversaturation, HDR effects, or strong filters. The overall feel should remain airy, clean, and naturally bright.
+  Enhance the image with subtle, hand-drawn doodle accents placed around the subject:
+  thin white outline strokes
+  delicate sparkles, stars, and tiny hearts
+  curved arrows, soft swirls, and mini floral sketches
+  light motion lines that complement the pose
+  Incorporate a few small, charming mascot-style illustrations (e.g., a tiny bear, smiling beverage, cute snack character, dreamy cloud), ensuring they stay minimal and don’t overpower the image.
+  Add short handwritten-style white captions in a casual doodle font—keep them minimal and expressive (examples: “shine,” “good mood,” “soft day,” “stay cozy”). Avoid clutter or excessive text.
+  Maintain the original background exactly as is. Keep shadows soft and natural with clean, warm lighting.
+
+  Around the composition, include several small 3D chibi-style versions of the subject, preserving recognizable facial features. These mini characters should have a glossy, soft pastel finish and appear in varied playful poses such as:
+  jumping happily
+  waving
+  sitting relaxed
+  holding a drink
+  expressing cute, lively emotions
+  Style details:
+  clean layout with balanced spacing
+  white sticker-like outlines
+  soft pastel accents with realistic base tones
+  high-detail, polished 3D chibi look
+  cute, modern Korean-inspired aesthetic
+  Ensure the final result feels cohesive, light, and aesthetically pleasing without overwhelming the original image.

@@ -1,0 +1,37 @@
+id: nano-banana-seaside-wind-triptych-portrait
+title:
+  en: Windy seaside triptych portrait with seagulls
+  zh: 海风海鸥三联幅人像
+model: Nano Banana 2
+mode: image-edit
+category: portrait
+tags:
+- triptych
+- identity-reference
+- seaside
+- cinematic-portrait
+- overcast-light
+source:
+  name: '@rovvmut_ on X'
+  url: https://x.com/rovvmut_/status/2028344848517062936
+  credit: Heisenberg
+  likes: 352
+  captured: '2026-10-28'
+  posted: '2026-03-02'
+notes:
+  en: 'The prompt locks identity to the uploaded photo, then defines each frame by shot size: wide, side medium, close-up. A shared scene, lens, light and grading spec keeps the three frames consistent.'
+  zh: 提示词先用上传照片锁定人物身份，再按景别逐幅定义：远景、侧面中景、特写。统一的场景、镜头、光线和调色说明让三幅画面保持一致。
+prompt: |
+  Google Nano Banana 2 on Yapper
+
+  Prompt: Use the uploaded photo as the exact identity reference. Keep the same person, the same face, the same facial features, proportions, and natural expression.
+  Create a photorealistic cinematic triptych portrait, a three-frame composition combined into one image.
+  Scene: a windy seaside with a cold sea, overcast sky, flying seagulls, strong ocean wind, and a vivid, alive atmosphere.
+  Frame 1 (top): wide cinematic shot. The person stands by the sea, smiling naturally. Their hair is blowing in the wind. Seagulls are flying in the background.
+  Frame 2 (middle): medium shot from behind or from the side. The person is looking at the sea. Their coat and hair are moving in the wind. Seagulls fly nearby.
+  Frame 3 (bottom): close-up emotional portrait. Wind in the hair, natural skin texture, thoughtful gaze, cinematic mood.
+  Style: real photography, cinematic lifestyle portrait, documentary fashion photography.
+  Lighting: natural overcast daylight, soft shadows, cold seaside tones.
+  Camera: full-frame DSLR look, 85mm lens aesthetic, shallow depth of field.
+  Color grading: muted cinematic colors, cool palette, film-like mood.
+  Ultra photorealistic, natural skin texture, real moment. No illustration, no CGI. No text, no logos, no watermark.

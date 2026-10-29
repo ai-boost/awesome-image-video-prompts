@@ -1,0 +1,29 @@
+id: nano-banana-double-exposure-profile-ruined-city
+title:
+  en: Double exposure profile portrait with ruined city sunset
+  zh: 侧脸剪影双重曝光，内嵌夕阳废墟街道
+model: Nano Banana 2
+mode: image-edit
+category: photo-to-art
+tags:
+- double-exposure
+- side-profile
+- golden-hour
+- identity-lock
+- cinematic
+source:
+  name: '@HaniaAi12 on X'
+  url: https://x.com/HaniaAi12/status/2027628259467313402
+  credit: Hania Ai
+  likes: 534
+  captured: '2026-10-28'
+  posted: '2026-02-28'
+notes:
+  en: Strict identity lock on the reference face, then a clean side profile silhouette that holds a separate scene. The inner street uses symmetrical perspective lines and a backlit sun at the horizon, with a request for smooth blended edges between portrait and city.
+  zh: 先对参考照片锁定面部身份，再指定干净的侧脸剪影作为容器，里面嵌入独立场景。内部街景用对称透视线和地平线逆光太阳，并要求人像与城市的边缘平滑融合。
+prompt: |
+  Use the uploaded picture as a reference (Strict identity lock, the face must match the attached reference photo exactly, preserving facial structure, skin tone, expression, and hairstyle (same haircut and hair texture) to create an ultra-realistic cinematic double exposure portrait of me in a clean left-facing side profile, sharp jawline and natural facial structure clearly defined.
+  The outer silhouette is dark and well-contoured against a soft warm beige sunset background. Inside the silhouette, seamlessly blend a dramatic urban street scene at golden hour: a lone me walking forward in the center of an empty destroyed city road, symmetrical perspective lines, damaged buildings on both sides, broken debris scattered along sidewalks, electric poles and cables stretching into the distance.
+  The sun positioned directly at the horizon behind the walking figure, creating strong backlight glow and long stretched shadow toward the camera.
+  Warm orange sunlight flooding through the internal city scene, high contrast, cinematic depth, realistic textures, smooth blending edges between portrait and environment.
+  Moody yet hopeful atmosphere, 8K resolution, sharp detail, soft vignette. size 4 5 image generate.

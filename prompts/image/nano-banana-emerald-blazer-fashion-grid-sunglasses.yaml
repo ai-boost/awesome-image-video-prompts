@@ -1,0 +1,38 @@
+id: nano-banana-emerald-blazer-fashion-grid-sunglasses
+title:
+  en: Four pose fashion grid in emerald blazer
+  zh: 祖母绿西装墨镜四宫格时尚写真
+model: Nano Banana 2
+mode: image-edit
+category: portrait
+tags:
+- fashion
+- studio-portrait
+- grid-layout
+- identity-reference
+- editorial
+source:
+  name: '@weiinberg on X'
+  url: https://x.com/weiinberg/status/2033048967777497600
+  credit: Weinberg
+  likes: 113
+  captured: '2026-10-28'
+  posted: '2026-03-15'
+notes:
+  en: Uses an uploaded photo as the identity reference and fixes the 2x2 layout, outfit and each of the four poses. Studio lighting positions, camera settings and skin detail cues push the result toward editorial realism.
+  zh: 以上传照片作为身份参考，明确 2x2 版式、服装和四个姿势。再用布光位置、相机参数和皮肤细节描述把画面推向杂志级写实。
+prompt: |
+  Use my uploaded photo as the identity reference.
+  Create a professional studio fashion photoshoot in a 2×2 grid collage showing four poses of the same person wearing black sunglasses.
+
+  Outfit: deep emerald green tailored blazer, cream/off-white dress shirt, black slim trousers, burgundy tie, optional silver watch. Blazer appears differently across frames (worn, draped over shoulder, partially removed, held).
+  Background: clean teal-to-turquoise gradient studio backdrop, minimal fashion studio setting.
+  Poses:
+  1.Close portrait adjusting tie.
+  2.Seated editorial pose leaning forward with elbow on knee.
+  3.Relaxed pose with vintage camera around neck.
+  4.Stylish pose running hand through hair while holding blazer.
+  Lighting: professional three-point studio lighting — softbox key light 45° camera left, soft fill light camera right, subtle rim light behind subject.
+  Camera: Sony A7R V, 85mm portrait lens, f/2.2, ISO 100, 1/160s, WB 5600K, shallow depth of field, focus on eyes.
+  Realism: natural skin pores, hair strands, subtle fabric wrinkles, realistic shadows, lens compression, reflections in sunglasses.
+  Output: ultra-realistic GQ/Vogue-style editorial photography, sharp detail, 4K resolution, clean 2×2 grid layout.

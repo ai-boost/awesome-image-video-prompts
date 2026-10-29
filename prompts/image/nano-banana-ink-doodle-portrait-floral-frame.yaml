@@ -1,0 +1,27 @@
+id: nano-banana-ink-doodle-portrait-floral-frame
+title:
+  en: Black ink doodle portrait with floral border
+  zh: 黑色墨线涂鸦肖像配花卉装饰边框
+model: Nano Banana 2
+mode: image-edit
+category: photo-to-art
+tags:
+- ink-doodle
+- line-art
+- portrait
+- reference-photo
+- hand-drawn
+source:
+  name: '@NikhilRajX on X'
+  url: https://x.com/NikhilRajX/status/2030916225107398873
+  credit: Nikhil
+  likes: 181
+  captured: '2026-10-28'
+  posted: '2026-03-09'
+notes:
+  en: The prompt stacks pen technique cues (varying line weight, cross hatched shading) with a list of named decorative motifs that fill the frame around the head. It locks likeness, expression and hairstyle to the reference photo and limits the palette to pure black ink on off white paper.
+  zh: 提示词先给出笔法线索（粗细变化的线条、交叉排线阴影），再列出环绕头部的具体装饰元素。它要求保持参考照片的相貌、表情和发型，并把配色限定为米白纸上的纯黑墨线。
+prompt: |
+  Gemini Nano Banana 2
+
+  Prompt: Create a whimsical black ink line art doodle portrait of the person in the reference photo, hand-drawn sketch style with varying line thickness, detailed curly wavy hair flowing naturally, big expressive smiling eyes with lashes, warm happy smile showing teeth, soft cross-hatched shading on face for depth, surrounded by playful floating decorative doodles like small flowers, daisies, hearts, clouds, stars, tiny spirals, dots, triangles, abstract swirls and leaves all around the head and shoulders in a cute decorative frame, loose energetic pen lines, high detail in facial features to keep exact likeness, expression and hairstyle identical, clean beige or off-white paper background, no color, pure black ink illustration, charming notebook doodle aesthetic, intricate but not overcrowded --ar 3:4 --stylize 250 --v 6

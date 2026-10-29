@@ -1,0 +1,31 @@
+id: gpt-image-designer-toy-3d-caricature-before-after-inset
+title:
+  en: Designer toy 3D caricature with original photo inset
+  zh: 设计师玩具风3D漫画像，附原照对比小图
+model: GPT Image 2
+mode: image-edit
+category: character
+tags:
+- 3d-caricature
+- designer-toy
+- before-after
+- photo-to-3d
+- studio-lighting
+source:
+  name: '@Waseem__786Ai on X'
+  url: https://x.com/Waseem__786Ai/status/2063062634455273585
+  credit: Waseem Ai
+  likes: 275
+  captured: '2026-10-28'
+  posted: '2026-06-06'
+notes:
+  en: The prompt locks identity details first (face, hairstyle, skin tone, age, expression), then sets the caricature proportions of an oversized head on a smaller realistic body. A precise inset spec (corner, 15 to 20 percent of frame, white border, soft shadow) adds a before and after comparison, and a negative list rules out pedestals, busts and cartoon looks.
+  zh: 提示词先锁定身份特征（五官、发型、肤色、年龄、表情），再设定大头小身的漫画比例。对原照小图的位置、占比、白边和阴影写得很精确，形成前后对比，负面词则排除底座、半身像和卡通感。
+prompt: |
+  Create a premium stylized 3D caricature of the person in the uploaded image, preserving their exact identity, facial features, hairstyle, skin tone, age, and expression. Oversized head, smaller realistic upper body, luxury designer-toy aesthetic, visible torso and arms, confident natural pose, ultra-detailed CGI, smooth premium materials, soft studio lighting, neutral gray background, hyper-realistic rendering, sharp focus, 1:1 composition.
+
+  Include the original uploaded photo as a rounded-corner inset in the bottom-right corner (15–20% of frame) with a subtle white border and soft shadow, creating a clean before-and-after comparison.
+
+  Negative prompt: pedestal, base, bust statue, floating head, Pixar, anime, cartoon, low-poly, blurry, distorted face, extra limbs, text, watermark, logo, cluttered background, low quality.
+
+  Try it with your own image and share the result 👇🔥

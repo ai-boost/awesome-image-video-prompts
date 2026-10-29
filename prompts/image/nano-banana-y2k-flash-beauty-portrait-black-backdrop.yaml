@@ -1,0 +1,45 @@
+id: nano-banana-y2k-flash-beauty-portrait-black-backdrop
+title:
+  en: Y2K flash beauty portrait on black backdrop
+  zh: 黑色背景下的Y2K闪光灯美妆人像
+model: Nano Banana 2
+mode: text-to-image
+category: portrait
+tags:
+- y2k
+- flash-photography
+- beauty-portrait
+- rim-light
+- editorial
+source:
+  name: '@SimplyAnnisa on X'
+  url: https://x.com/SimplyAnnisa/status/2072293670007796111
+  credit: Anissa
+  likes: 171
+  captured: '2026-10-28'
+  posted: '2026-07-01'
+notes:
+  en: The prompt is split into labeled blocks for makeup, hair, expression, outfit and lighting, so each element can be tuned separately. Direct flash combined with rim backlight gives the glowing halo against pure black, and a closing list of style boosters locks in the early 2000s camera look.
+  zh: 提示词按妆容、发型、表情、服装、光线分块标注，便于单独调整每个元素。直闪加轮廓逆光在纯黑背景上形成光晕，结尾的风格关键词串则锁定2000年代初数码相机的质感。
+prompt: |
+  Ultra-realistic beauty portrait of a stunning young woman, photographed from a slightly low-angle smartphone selfie perspective. Captured with an authentic early-2000s digital camera aesthetic using an intense direct flash. Deep pure-black background completely isolates the subject, creating dramatic contrast and making the face glow against darkness. Strong Y2K flash photography produces bright specular highlights, glass-like eye reflections, glossy skin sheen, and a nostalgic nightlife editorial atmosphere.
+
+  MAKEUP:
+  The woman has large almond-shaped hazel-brown eyes with luminous reflections, thick wispy manga-inspired lashes, naturally full fluffy eyebrows, soft freckles scattered across the bridge of the nose and upper cheeks, a delicate button nose with rosy blush concentrated on the tip, and full naturally plump lips wearing dusty rose pink lipstick with a subtle glossy finish. Flawless porcelain skin with realistic pores, natural texture, and soft peachy undertones. Soft feminine glam makeup. Neutral taupe eyeshadow, elongated fox-eye liner extending toward the temples, dramatic clustered lashes, luminous inner-corner shimmer, subtle contouring, flushed rosy cheeks and nose bridge, softly overlined lips, glossy highlights enhanced by direct flash. Luxury editorial beauty makeup.
+
+  HAIR
+  Extremely voluminous supermodel blowout hairstyle with rich chocolate-brown tones and warm caramel undertones. Dramatic crown lift, feathered layers, luxurious salon-finished texture, silky shine, flowing movement, soft flyaways. Powerful luminous halo surrounding the hair and face. Strong rim lighting traces every strand of hair, creating a radiant angelic aura. Backlit glow creates a dreamy cinematic effect with soft bloom around illuminated edges.
+
+  EXPRESSION:
+  Dreamy upward gaze looking away from the camera, confident yet ethereal expression.
+
+  OUTFIT
+  Sleeveless charcoal-gray pinstripe fitted top with black ribbon lace-up neckline. Elegant feminine silhouette. Modern Y2K-inspired styling.
+
+  LIGHTING
+  Strong direct Y2K camera flash combined with subtle backlighting. Bright flash creates crisp facial definition, intense eye reflections, glossy lips, luminous cheekbones, and reflective skin highlights. Ethereal halo surrounding the entire silhouette. Soft bloom effect around highlights, subtle lens glow, dreamy atmospheric diffusion.
+
+  Vogue beauty editorial, luxury cosmetics campaign, fashion magazine cover photography, cinematic beauty portrait, ultra-detailed skin texture, shallow depth of field, HDR photography, hyper-realistic eyes, nostalgic digital camera grain, flash bloom, glamorous nightlife energy, dark feminine aesthetic, angelic glow, luxury fashion campaign, 8K ultra realism.
+
+  STYLE BOOSTERS
+  Y2K digital camera flash, cyber-feminine glamour, dreamy halo glow, luminous aura, glowing silhouette, flash photography, nostalgic 2003 party photography, supermodel beauty campaign, luxury editorial portrait, soft bloom, cinematic rim light, glossy highlights, dark aesthetic, hyperrealism, magazine cover quality.

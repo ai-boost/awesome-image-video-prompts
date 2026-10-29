@@ -1,0 +1,25 @@
+id: nano-banana-ghibli-margherita-recipe-infographic
+title:
+  en: Ghibli style margherita pizza recipe infographic
+  zh: 吉卜力风格玛格丽特披萨食谱信息图
+model: Nano Banana 2
+mode: text-to-image
+category: infographic
+tags:
+- infographic
+- recipe
+- ghibli-style
+- food
+- painterly
+source:
+  name: '@azed_ai on X'
+  url: https://x.com/azed_ai/status/2027140890247246017
+  credit: Amira Zairi
+  likes: 126
+  captured: '2026-10-28'
+  posted: '2026-02-26'
+notes:
+  en: The prompt places the hero dish in the center and arranges labeled ingredients around it, with numeric quantities in the text. Style cues for light, texture and handwritten notebook labels keep the layout organized and readable.
+  zh: 提示词把主菜放在画面中央，周围环绕带标签的食材，并写明具体克数。光线、质感和手写笔记本标签等风格词让版面有序且文字清晰可读。
+prompt: |
+  margherita pizza recipe infographic, Studio Ghibli inspired illustration, traditional Italian kitchen setting, warm golden sunset light, whole pizza in center with bubbling cheese, ingredients illustrated around in cute containers, dough ball, tomato sauce 150g, mozzarella 200g, fresh basil leaves, olive oil drizzle, handwritten notebook style labels, soft pastel tones, painterly textures, gentle steam and magical glow, whimsical cozy feeling, clean organized layout, readable text, high detail

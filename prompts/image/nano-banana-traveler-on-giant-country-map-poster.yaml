@@ -1,0 +1,41 @@
+id: nano-banana-traveler-on-giant-country-map-poster
+title:
+  en: Traveler Sitting on Giant Country Map Poster
+  zh: 坐在巨型国家地图上的旅行者海报
+model: Nano Banana 2
+mode: image-edit
+category: poster
+tags:
+- travel
+- map
+- reference-face
+- editorial
+- template
+source:
+  name: '@frametheory058 on X'
+  url: https://x.com/frametheory058/status/2038934237479674133
+  credit: Nexora
+  likes: 252
+  captured: '2026-10-28'
+  posted: '2026-03-31'
+notes:
+  en: A reference photo keeps the face while placeholders for continent, country and landmarks make the prompt reusable. Layered scene directions (map and pins in the foreground, landmark horizon behind, floating country name in the sky) are followed by camera, lighting and film grade details.
+  zh: 用参考照片锁定人脸,大洲、国家和地标用占位符,换个国家就能复用。画面按层次描述(前景地图和图钉、背景地标天际线、天空中的国名大字),再补充相机、光线和胶片调色。
+prompt: |
+  "Ultra-realistic editorial travel concept.
+  A wanderer with the same face as in the reference photo is sitting casually on a giant, hyper-realistic travel map of [CONTINENT], zoomed into [COUNTRY]. On the map, there are large 3D location pins marking destinations across [COUNTRY].
+  Behind him stretches a breathtaking, cinematic horizon of [COUNTRY], featuring iconic landmarks like [LANDMARK 1], [LANDMARK 2], and [LANDMARK 3], seamlessly blended into one visually stunning environment. The word “[COUNTRY NAME IN CAPS]” floats boldly in clean luxury travel typography across the sky.
+  He is dressed in versatile streetwear suitable for any destination: cream cargo pants, a light pink hoodie, chunky sneakers, a crossbody bag, a cap, and carrying a Sony A7C II camera.
+  Surrounding elements include playful sketches of airplanes, flight tickets, passport stamps, and subtle [COUNTRY-THEMED ELEMENTS] (like cultural patterns, textures, environment-specific elements).
+  Shot on Sony A7C II, 35mm f/1.4 lens, ultra-shallow depth of field, razor-sharp focus on subject, creamy cinematic bokeh in background.
+  High-end commercial lighting setup, soft diffused key light, subtle rim light outlining the subject, global illumination, HDR tone mapping, realistic light falloff, soft shadows.
+  Hyper-detailed skin texture, realistic fabric folds, micro-details, physically accurate materials, 8K resolution, ultra high dynamic range.
+  Professional color grading based on environment:
+  Warm golden tones for deserts/tropical
+  Cool blue tones for winter/mountains
+  Neon tones for city/night scenes
+  Kodak Portra 400 film look, soft contrast, rich highlights, clean whites, no overexposure.
+  Rule of thirds composition, depth layering (foreground, midground, background), cinematic perspective, slight low-angle shot for dominance.
+  Atmospheric depth with light haze, volumetric lighting, subtle particles in air, environment interaction (fog, snow, sand, rain depending on location).
+  Vogue-style editorial photography, high-end travel magazine aesthetic, luxury advertisement quality, global campaign look.
+  Ultra photorealistic, no CGI look, indistinguishable from real photograph, insanely realistic, trending on Instagram, cinematic masterpiece.

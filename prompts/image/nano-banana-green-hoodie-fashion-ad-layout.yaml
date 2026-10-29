@@ -1,0 +1,49 @@
+id: nano-banana-green-hoodie-fashion-ad-layout
+title:
+  en: Green hoodie fashion ad with serif headline and ribbon
+  zh: 绿色卫衣时尚广告，衬线大标题与斜向丝带
+model: Nano Banana 2
+mode: image-edit
+category: poster
+tags:
+- fashion-ad
+- typography
+- hoodie
+- studio-lighting
+- layout
+source:
+  name: '@rovvmut_ on X'
+  url: https://x.com/rovvmut_/status/2029599397483532714
+  credit: Heisenberg
+  likes: 193
+  captured: '2026-10-28'
+  posted: '2026-03-05'
+notes:
+  en: The prompt splits the ad into attire, graphic design and layout, and environment blocks, and it gives exact text strings, positions and a three color palette. Naming UI accents such as a size pill, a thumbnail and color swatches places every element precisely around the uploaded model.
+  zh: 提示词把广告拆成服装、图形排版和环境三个模块，并给出精确的文字内容、位置和三色配色。尺码胶囊、缩略图、色板等界面元素逐一指明位置，让它们围绕上传的人物照片准确排布。
+prompt: |
+  Nano Banana 2 Product Advertisement Prompt:
+
+  A professional commercial fashion advertisement featuring a young male model in the uploaded image, sitting on a minimalist white matte cube. He has a neutral, confident expression and is looking directly at the camera.
+
+  Attire & Styling:
+  Hoodie: A high-quality, heavyweight forest green (British Racing Green) hoodie. It features a relaxed fit, a spacious kangaroo pocket, and metal-tipped drawstrings.
+  Bottoms: Clean, slim-fit white trousers with visible seams.
+  Footwear: Stylish low-top sneakers in a color-blocked design of forest green, navy blue, and white, with off-white midsoles and white laces.
+  Accessories: Simple silver bands/rings on his fingers.
+
+  Graphic Design & Layout:
+  Typography: The word "HOODIE" is written in a massive, elegant high-contrast serif font across the top. A small, four-pointed yellow spark icon is centered inside the "O". Above this, "K A I R O  P R E M I U M" is printed in a wide-spaced sans-serif font.
+  Branding Elements: A dark green diagonal "caution tape" style ribbon crosses the bottom third of the frame, with the words "PREMIUM HOODIE" repeating in white uppercase text.
+  UI Accents: * A yellow pill-shaped size selector labeled "S M L XL" on the left.
+  A small thumbnail of the hoodie floating on the mid-left.
+  Three circular color swatches (Green, Yellow, Black) on the right side.
+  Two blocks of justified serif body text describing the product's comfort and eco-friendly materials.
+  The URL "
+  http://
+  kairofashion.com" in the bottom left corner.
+
+  Environment & Lighting:
+  Setting: A clean, bright, white-on-white minimalist studio cove.
+  Lighting: Soft, diffused studio lighting creates gentle shadows under the model and the cube, emphasizing the rich texture of the green fabric and the crispness of the white pants.
+  Color Palette: Deep forest green, bright white, and golden yellow accents.

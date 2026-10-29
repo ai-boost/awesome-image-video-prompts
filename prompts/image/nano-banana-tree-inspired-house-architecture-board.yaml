@@ -1,0 +1,43 @@
+id: nano-banana-tree-inspired-house-architecture-board
+title:
+  en: Tree Inspired House Architecture Competition Board
+  zh: 树形灵感住宅建筑竞赛展板
+model: Nano Banana 2
+mode: text-to-image
+category: architecture
+tags:
+- architecture
+- presentation-board
+- biomimetic
+- technical-drawing
+- stormy-atmosphere
+source:
+  name: '@ShamsAmin56 on X'
+  url: https://x.com/ShamsAmin56/status/2053128293537272235
+  credit: Shams
+  likes: 96
+  captured: '2026-10-29'
+  posted: '2026-05-09'
+notes:
+  en: The prompt splits the sheet into named zones (elevation, axonometric, plans, material callouts) and sets a separate render quality, atmosphere and paper texture block for each. Naming style references and a restrained charcoal palette keeps the drafting lines and the photoreal render in one consistent board.
+  zh: 提示词把图板拆成命名分区（立面、轴测、平面、材料标注），并为渲染质感、氛围和纸张底纹分别设块。写明风格参照并限定炭灰配色，让制图线条和写实渲染统一在同一张展板里。
+prompt: |
+  Ultra-realistic architectural competition presentation board, portrait A1 layout, 4K resolution, mixed media visualization
+
+  SHEET COMPOSITION:
+  Full architectural board layout with balanced visual hierarchy. Top-third: large detailed 2D front elevation with fine linework, grid lines, section markers, and dimensional annotations in millimeters. Center-left: side and rear elevations in precise white technical drafting. Center-right: 3D isometric views and exploded axonometric component diagrams. Bottom section: concept development diagrams, design idea sketches, structural annotations, material palette callouts with timber / exposed concrete / glass labels, human scale reference figures, and landscape integration drawings. Modern architectural typography, minimal clean labeling. Negative space used intentionally for breathing room. Blueprint overlay fading at edges.
+
+  ARCHITECTURE TREE-INSPIRED MODERN CONCEPTUAL HOUSE:
+  Organic branching structural columns mimicking tree trunks and limbs, cantilevered volumes projecting asymmetrically, full-height glass curtain walls with slim mullions, exposed board-formed concrete cores, warm-toned timber cladding panels, green terraces cascading at each floor level, rooftop garden with native planting, elevated platform volumes integrated between existing trees, natural cross-ventilation cutaways shown in section, passive solar and sustainable strategy diagrams annotated with arrows, floor plan levels clearly marked, structural grid expressed through glazing.
+
+  3D RENDERING QUALITY:
+  Photorealistic materials wet concrete catching light, timber with visible grain, reflective wet stone paving, glass reflecting stormy sky dramatic warm amber interior glow bleeding through floor-to-ceiling glazing, high contrast shadows, cinematic environmental depth, ultra-sharp drafting lines overlaid on realistic render textures, Zaha Hadid / BIG / Kengo Kuma competition board aesthetic.
+
+  ATMOSPHERE:
+  Dark stormy sky, heavy overcast with volumetric fog and mist rolling through trees, moody cinematic lighting, soft rain-wet reflective ground surfaces, deep shadow gradients, warm glowing interiors contrasting cold exterior environment, dramatic chiaroscuro, photorealistic environmental depth.
+
+  BACKGROUND & BOARD TEXTURE:
+  Charcoal and deep graphite toned paper texture, subtle blueprint grid lines fading behind drawings, faint construction reference lines, elegant monochromatic palette blacks, greys, off-whites with selective warm amber and timber-tone highlights, no clutter, premium studio presentation quality.
+
+  STYLE REFERENCES:
+  Architectural competition panel, mixed media board, Kengo Kuma material sensitivity, BIG diagram clarity, Zaha Hadid parametric organic geometry, photorealistic studio visualization, portrait orientation full sheet layout.

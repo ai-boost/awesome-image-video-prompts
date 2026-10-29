@@ -1,0 +1,25 @@
+id: nano-banana-pixar-style-3d-portrait-gradient-background
+title:
+  en: Pixar style 3D portrait on orange pink gradient
+  zh: 橙粉渐变背景的皮克斯风格3D人像
+model: Nano Banana 2
+mode: text-to-image
+category: character
+tags:
+- pixar-style
+- 3d-render
+- portrait
+- gradient-background
+- character
+source:
+  name: '@Taaruk_ on X'
+  url: https://x.com/Taaruk_/status/2041366570149265865
+  credit: Taaruk
+  likes: 226
+  captured: '2026-10-28'
+  posted: '2026-04-07'
+notes:
+  en: The prompt stacks character traits (eyes, glasses, hairstyle, outfit, head tilt) before the lighting and render keywords. A bold gradient background with soft rim light keeps the subject separated and clean.
+  zh: 提示词先逐项写角色特征（眼睛、眼镜、发型、服装、歪头），再补光线和渲染关键词。鲜明的渐变背景配柔和轮廓光，让主体干净突出。
+prompt: |
+  A stylized Pixar-style 3D portrait of a young person with smooth skin, large expressive blue eyes, soft facial features, wearing round transparent glasses, modern hairstyle (short styled hair / soft bob cut), casual outfit (hoodie or minimal sweater), slight head tilt and warm smile, friendly and approachable expression, ultra-clean character design, vibrant orange-to-pink gradient background, soft studio lighting with subtle rim light, cinematic depth of field, ultra-detailed, 8K render, octane render style.

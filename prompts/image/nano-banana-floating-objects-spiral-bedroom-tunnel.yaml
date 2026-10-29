@@ -1,0 +1,25 @@
+id: nano-banana-floating-objects-spiral-bedroom-tunnel
+title:
+  en: Woman in Tunnel of Floating Household Objects
+  zh: 漂浮日用品螺旋隧道中的卧室女子
+model: Nano Banana 2
+mode: text-to-image
+category: realism
+tags:
+- surreal
+- spiral
+- bedroom
+- wide-angle
+- bokeh
+source:
+  name: '@AiwithLariab on X'
+  url: https://x.com/AiwithLariab/status/2048074285953290537
+  credit: Laraib Fatima‎
+  likes: 207
+  captured: '2026-10-28'
+  posted: '2026-04-25'
+notes:
+  en: Describes a spiral of everyday objects receding toward the back wall to build tunnel depth around a calm centered subject. A wide angle, shallow depth of field and subtle motion blur sell the rotation, and render engine keywords set the finish.
+  zh: 用日常物品组成向房间深处收拢的螺旋，在居中安静的人物周围形成隧道纵深。广角、浅景深和轻微动态模糊表现旋转感，渲染引擎关键词定下质感。
+prompt: |
+  A women sitting calmly at the center of a wide horizontal swirling spiral made of everyday objects (books, cups, pens, shoes, clothes, pillows, blankets, bags etc) floating and rotating gently around her, the swirling motion expanding outward and receding deep into the bedroom toward the back wall, creating a dynamic tunnel-like depth effect. The room is a normal cozy bedroom with a bed, desk, and soft daylight from a window. Cinematic wide-angle composition, natural warm lighting, shallow depth of field with creamy bokeh, subtle motion blur showing rotation, sharp focus on the man's face. Octane render & unreal engine 5.

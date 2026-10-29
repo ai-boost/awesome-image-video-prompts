@@ -1,0 +1,27 @@
+id: nano-banana-minimalist-luxury-sunglasses-profile-campaign
+title:
+  en: Minimalist luxury campaign portrait with windswept hair
+  zh: 极简奢华广告风侧脸墨镜人像，发丝飞扬
+model: Nano Banana 2.1
+mode: image-edit
+category: portrait
+tags:
+- fashion-editorial
+- luxury
+- motion-blur
+- negative-space
+- sunglasses
+source:
+  name: '@weiinberg on X'
+  url: https://x.com/weiinberg/status/2112776041064476736
+  credit: Weinberg
+  likes: 37
+  captured: '2026-10-28'
+  posted: '2026-10-21'
+notes:
+  en: A single all caps line stacks campaign mood, pose, motion blur on the hair, gradient backdrop and shallow depth of field. A reference image tag keeps the model's identity consistent.
+  zh: 用一行全大写提示词依次叠加广告氛围、姿态、发丝动态模糊、渐变背景和浅景深，并以参考图标记锁定模特形象。
+prompt: |
+  Nano Banana 2.1.
+
+  Prompt: MINIMALIST MODERN LUXURY CAMPAIGN, FEMALE  MODEL as in <<<image_1>>> IN PROFILE, LOOKING BEHIND CAMERA, WEARING PREMIUM SUNGLASSES, FAST MOTION BLUR HAIR MOVEMENT, COOL GRADIENT BACKDROP, AIRY NEGATIVE SPACE, CALM CINEMATIC LIGHTING, MATTE TEXTURES, UNDERSTATED LUXURY FASHION AESTHETIC, HIGH-END EDITORIAL PHOTOGRAPHY, SHALLOW DEPTH OF FIELD

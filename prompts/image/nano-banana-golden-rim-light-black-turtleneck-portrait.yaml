@@ -1,0 +1,25 @@
+id: nano-banana-golden-rim-light-black-turtleneck-portrait
+title:
+  en: Golden rim lit portrait on black background
+  zh: 黑色背景下的金色轮廓光人像
+model: Nano Banana 2
+mode: text-to-image
+category: portrait
+tags:
+- portrait
+- rim-lighting
+- bokeh
+- studio
+- fashion
+source:
+  name: '@Soaima_Ai on X'
+  url: https://x.com/Soaima_Ai/status/2064199999135907913
+  credit: Soaima
+  likes: 140
+  captured: '2026-10-28'
+  posted: '2026-06-09'
+notes:
+  en: The prompt stacks specific physical details with one dominant light source, a warm golden-orange rim light through the hair against a pitch black studio background. Floating golden bokeh, shallow depth of field and a fashion photography framing keep the focus on the glowing hair.
+  zh: 提示词把具体的外貌细节和单一主光源叠加起来，用暖金橙色轮廓光穿过发丝，衬在纯黑影棚背景上。漂浮的金色光斑、浅景深和时尚摄影的取景让视觉重点落在发光的头发上。
+prompt: |
+  A hyper-realistic AI portrait of a beautiful young woman with long voluminous wavy black hair with stunning warm golden-orange rim lighting glowing through the hair, fair porcelain skin, soft hazel-brown eyes with warm eye makeup, soft pink lips with a gentle confident smile, small nose piercing, silver hoop earrings, wearing a black ribbed turtleneck sweater, one hand raised touching her hair gracefully, dramatic pitch black studio background with glowing golden bokeh particles floating in the air, cinematic rim lighting, ultra-realistic, 8K, shallow depth of field, professional fashion portrait photography

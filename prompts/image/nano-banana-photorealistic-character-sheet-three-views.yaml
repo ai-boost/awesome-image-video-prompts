@@ -1,0 +1,30 @@
+id: nano-banana-photorealistic-character-sheet-three-views
+title:
+  en: Photorealistic character sheet with portrait and three views
+  zh: 写实角色设定图：特写肖像加正侧背三视图
+model: Nano Banana 2
+mode: image-edit
+category: character
+tags:
+- character-sheet
+- turnaround
+- identity-consistency
+- reference-image
+- photorealistic
+source:
+  name: '@MrDavids1 on X'
+  url: https://x.com/MrDavids1/status/2027869658313826744
+  credit: Travis Davids
+  likes: 112
+  captured: '2026-10-29'
+  posted: '2026-02-27'
+notes:
+  en: 'The prompt fixes the layout in plain terms: a left aligned closeup, then front, side and back full body views on white with no text or borders. The outfit and props sit in a bracketed block that can be swapped, while an uploaded reference photo keeps the identity consistent.'
+  zh: 提示词用简明语言固定版式：左侧特写，加白底上的正面、侧面、背面全身视图，不要文字和边框。服装与道具放在可替换的方括号段落里，再上传参考照片来保持人物一致。
+prompt: |
+  I'm definitely noticing some improvements to character identity with Nano Banana 2 making it super useful for character sheets. Tested one of myself. Just upload your own image as reference and adjust the character description in brackets in the prompt as needed. I'm using character sheets with video models that have an OMNI feature as you can easily insert yourself into any location in a video with a character sheet.
+
+  🗒️Prompt: Create a photorealistic character sheet. Include a closeup portrait which is left aligned, no borders, with a neutral expression and then also include a full view shot that shows the front, side and back of the character. The character is placed on a white background. Don't include any text. No borders, no soft gradients. [The character is a male. He is wearing an oversized olive jacket, insignia on the back of the jacket shows a logo with a hornet and arched text that says HORNETS. He also wears a weathered white t-shirt and dark grey cargo pants, with grey and black converse sneakers. He stands in a confident pose holding a customized shotgun with African wood engravings and a leather shoulder strap attached to the shotgun that has red beads as a decoration.]
+
+  You can use Nano Banana 2 via
+  @Hailuo_AI

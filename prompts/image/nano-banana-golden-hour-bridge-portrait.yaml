@@ -1,0 +1,25 @@
+id: nano-banana-golden-hour-bridge-portrait
+title:
+  en: Golden hour portrait on a suspension bridge
+  zh: 悬索桥上的黄金时刻人像
+model: Nano Banana 2
+mode: text-to-image
+category: portrait
+tags:
+- golden-hour
+- portrait
+- street-photography
+- cinematic
+- bridge
+source:
+  name: '@ZaraIrahh on X'
+  url: https://x.com/ZaraIrahh/status/2027672194805874699
+  credit: Zara
+  likes: 143
+  captured: '2026-10-28'
+  posted: '2026-02-28'
+notes:
+  en: The prompt lists wardrobe and accessories in concrete detail, then adds a warm sunset light direction and a blurred skyline for depth. Camera terms such as 85mm, shallow depth of field and soft grain steer the result toward editorial street photography.
+  zh: 提示词先具体列出服装和配饰，再写明暖色日落光线方向，并用虚化天际线营造纵深。85mm、浅景深、柔和颗粒等镜头词把画面引向编辑感街拍。
+prompt: |
+  Cinematic golden hour portrait of a stylish young woman standing on a historic suspension bridge with a city skyline in the background. She has sleek brown hair tied in a high ponytail, natural glam makeup, and small elegant stud earrings. She is wearing a dark brown coat with a thick oversized brown scarf wrapped around her neck, and a shoulder bag with a gold chain strap. She gazes into camera with soft smile. Warm sunset light casts a soft amber glow across her face and the wooden bridge walkway. The skyline behind her is softly blurred, urban atmosphere with subtle pedestrian movement. Shot on 85mm lens, shallow depth of field, filmic tones, soft grain, editorial street photography style, photorealistic, high detail, 4K resolution.

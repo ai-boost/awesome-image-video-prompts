@@ -1,0 +1,25 @@
+id: gpt-image-vinco-fictional-brand-lookbook-grid
+title:
+  en: Six image lookbook for fictional streetwear brand
+  zh: 虚构街头品牌的六图服装画册
+model: GPT Image 2
+mode: text-to-image
+category: brand
+tags:
+- lookbook
+- fictional-brand
+- streetwear
+- series
+- typography
+source:
+  name: '@jayrizpop on X'
+  url: https://x.com/jayrizpop/status/2046725951640441151
+  credit: Justin Rands
+  likes: 607
+  captured: '2026-10-28'
+  posted: '2026-04-21'
+notes:
+  en: Names a fictional brand, a series count and an aspect ratio, then blends two reference worlds, Italian archival graphics and Californian skate streetwear. Typography is requested as physical objects such as cards, bibs and labels, and each frame gets a different context so the set stays coherent.
+  zh: 先给出虚构品牌名、张数和画幅，再把意大利档案平面设计与加州滑板街头风格混合。文字被要求作为实物出现，如卡片、号码布和酒标，并为每张图指定不同场景，使整组画面保持统一。
+prompt: |
+  above the prompt. Just a quick screenshot of an arena board of mine

@@ -1,0 +1,29 @@
+id: nano-banana-underwater-sinking-man-triptych-poster
+title:
+  en: Three frame underwater movie poster of sinking man
+  zh: 男子下沉水中的三格电影海报
+model: Nano Banana 2
+mode: text-to-image
+category: poster
+tags:
+- movie-poster
+- underwater
+- triptych
+- cinematic
+- volumetric-light
+source:
+  name: '@NikhilRajX on X'
+  url: https://x.com/NikhilRajX/status/2029451287914528979
+  credit: Nikhil
+  likes: 118
+  captured: '2026-10-28'
+  posted: '2026-03-05'
+notes:
+  en: 'The prompt splits the poster into top, middle and bottom frames, each with its own shot size: close up, medium and wide. This builds a sense of scale from face to abyss. Volumetric light beams, bubbles and teal grading unify the frames, and a short title line sets the poster typography.'
+  zh: 提示词把海报分成上中下三格，分别指定特写、中景和远景，从面部一路拉到深海，形成尺度感。体积光束、气泡和青蓝调色统一三格画面，最后用一行简短片名确定海报字体。
+prompt: |
+  Gemini Nano Banana 2 on Yapper.
+
+  Prompt: A cinematic underwater movie poster showing a young man slowly sinking in deep ocean water. The composition is split into three horizontal cinematic frames. In the top frame, a close-up of the man’s face underwater with small air bubbles escaping from his mouth, soft sunlight rays penetrating from the surface above, illuminating floating particles in the water. In the middle frame, a medium shot of the man floating weightlessly underwater, wearing a loose white shirt and dark pants, his hair and clothes drifting naturally with the water currents, dramatic volumetric light beams from above. In the bottom frame, a wide shot showing the man alone in the vast deep blue ocean abyss, surrounded by darkness and fading light rays, creating a sense of scale and isolation.
+  Atmosphere is emotional, mysterious, and cinematic. Deep teal and blue color grading, soft foggy underwater diffusion, ultra-realistic water physics, bubbles and particles, dramatic lighting, shallow depth of field, high contrast, IMAX movie poster style, 8k, hyper-realistic photography.
+  Minimal movie title text at the bottom: “BEYOND THE DEPTHS”, elegant cinematic typography.

@@ -1,0 +1,30 @@
+id: nano-banana-strawberry-yogurt-jar-cotton-candy-clouds
+title:
+  en: Strawberry yogurt jar nested in pink cotton candy clouds
+  zh: 粉色棉花糖云朵中的草莓酸奶玻璃罐
+model: Nano Banana 2
+mode: text-to-image
+category: product
+tags:
+- product-photography
+- pastel
+- strawberry
+- cotton-candy
+- surreal
+source:
+  name: '@oggii_0 on X'
+  url: https://x.com/oggii_0/status/2027789311383621877
+  credit: Oogie
+  likes: 103
+  captured: '2026-10-28'
+  posted: '2026-02-28'
+notes:
+  en: The prompt places the product in a surreal pastel sky and fixes the jar, label shape, rim strawberry and cloud placement in one clear order. Soft diffused daylight, a symmetrical layout and a shallow depth of field with a sharp product keep it realistic yet dreamy.
+  zh: 提示词先设定超现实的粉蓝天空，再依次交代玻璃罐、标签形状、罐口草莓和云朵位置，层次清楚。柔和漫射日光、对称构图和浅景深但主体清晰的写法，让画面既写实又梦幻。
+prompt: |
+  Nano Banana 2 on
+  @SocialSight
+
+
+  Prompt: Ultra-realistic dreamy product photography in a surreal pastel sky environment. A transparent plastic jar filled with thick pink strawberry yogurt smoothie sits centered and slightly embedded inside fluffy cotton-candy-like pink clouds, the jar open at the top with creamy surface visible and a fresh whole strawberry resting on the rim. The jar label is a soft white scalloped shape with simple elegant pink brand text and small strawberry illustrations around the container.
+  Additional ripe strawberries are placed around the jar partially resting on the clouds. The background is a soft pale blue sky filled with multiple floating pink cotton candy clouds, some clouds containing small strawberries nestled inside them. Lighting is soft diffused daylight creating gentle shadows and glossy highlights on the creamy texture and plastic surface. Clean symmetrical composition, whimsical dessert advertising aesthetic, soft pastel color palette dominated by pink and light blue, shallow depth of field but product fully sharp, highly detailed textures on clouds and fruit, photorealistic 8k quality.

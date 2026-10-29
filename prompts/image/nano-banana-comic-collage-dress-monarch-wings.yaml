@@ -1,0 +1,25 @@
+id: nano-banana-comic-collage-dress-monarch-wings
+title:
+  en: Comic page collage dress with monarch wings
+  zh: 漫画拼贴礼服与帝王蝶翅披风
+model: Nano Banana 2
+mode: text-to-image
+category: portrait
+tags:
+- fashion
+- editorial
+- pop-art
+- butterfly
+- studio-lighting
+source:
+  name: '@Ozayrr_irl on X'
+  url: https://x.com/Ozayrr_irl/status/2059559152024739856
+  credit: Ozair AI
+  likes: 65
+  captured: '2026-10-29'
+  posted: '2026-05-27'
+notes:
+  en: The prompt names one dramatic garment material, then adds a single oversized secondary element, the monarch wing cape, so the silhouette reads at a glance. A bright white hallway, studio lighting and a red shoe accent keep the colorful dress as the focal point.
+  zh: 提示词先交代礼服的拼贴材质，再叠加帝王蝶翅披风这一个超大元素，让轮廓一眼可辨。明亮的白色走廊、棚拍布光和红色高跟鞋点缀，让彩色礼服成为视觉焦点。
+prompt: |
+  Avant-garde high-fashion photography of a female model in an editorial pose. She is wearing a dramatic dress made from a collage of colorful pop art and yellow comic book pages. The back of the dress features massive, realistic yellow and black monarch butterfly wings as a cape. Elegant floral headpiece, red high heels, bright white luxury hallway background, professional studio lighting, vivid colors, photorealistic.

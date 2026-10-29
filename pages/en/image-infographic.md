@@ -1,70 +1,240 @@
 # Infographics and slides
 
-[Back to the list](../../README.md) · All 27 entries
+[Back to the list](../../README.md) · All 42 entries
 
-<a id="gpt-image-grayscale-3d-household-chores-step-grid"></a>
-### Grayscale 3D household chores instruction grid
+<a id="gpt-image-encyclopedia-infographic-topic-template"></a>
+### Encyclopedia infographic card of the James Webb Telescope
 
-<a href="https://x.com/john_my07/status/2048803726312571335"><img src="../../previews/gpt-image-grayscale-3d-household-chores-step-grid.jpg" width="360"></a>
+<a href="https://x.com/oggii_0/status/2051889025229930547"><img src="../../previews/gpt-image-encyclopedia-infographic-topic-template.jpg" width="360"></a>
 
-Labeled blocks fix style, grid, character, wardrobe and scene, then a per panel template sets step title, pose, instruction lines and motion arrows. A reference image locks the face across all 16 panels, and a restrictions block keeps the sheet clean enough to use as an animation reference.
+A TOPIC placeholder is filled in by a list of modular panel types such as profile, taxonomy, pros and cons, and rating summary. Explicit style anchors like collectible handbook and natural history guidebook, plus a light background and rounded boxes, keep the layout consistent across a series.
 
-GPT Image 2 · Edit · Source: [@john_my07 on X](https://x.com/john_my07/status/2048803726312571335) · 1,187 likes on 2026-10-28
+GPT Image 2 · Text-to-image · Source: [@oggii_0 on X](https://x.com/oggii_0/status/2051889025229930547) · 1,622 likes on 2026-10-29
 
-[`instructional-grid`](tags.md#tag-instructional-grid) [`grayscale`](tags.md#tag-grayscale) [`3d-render`](tags.md#tag-3d-render) [`motion-arrows`](tags.md#tag-motion-arrows) [`reference-image`](tags.md#tag-reference-image)
+[`encyclopedia`](tags.md#tag-encyclopedia) [`infographic`](tags.md#tag-infographic) [`template`](tags.md#tag-template) [`knowledge-card`](tags.md#tag-knowledge-card) [`editorial-layout`](tags.md#tag-editorial-layout)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-[VISUAL STYLE]
-Monochrome grayscale composition featuring a highly detailed 3D-rendered female character. Designed like a professional instructional guide with a technical, diagram-inspired layout. Clean white background, soft studio lighting, and strong contrast to highlight posture, actions, and object interaction.
-[GRID LAYOUT]
-Structured 4×4 panel grid (16 frames total), evenly spaced with thin black divider lines. Each panel is identical in size and clearly numbered from 1 to 16, showing a continuous sequence of household activities.
-[CHARACTER]
-Use the provided reference image for the face and overall likeness.
-Same facial features, skin tone, and proportions
-Natural makeup, soft expression
-Consistent identity across all 16 panels
-Realistic proportions and clean hairstyle (loose or tied back)
-[WARDROBE]
-Modern, modest casual outfit:
-Fitted crop top (not revealing, clean neckline, practical for movement)
-High-waisted straight or slightly wide-leg jeans (full length, neat fit)
-Optional minimal sneakers or barefoot indoor styling
-Fabric should react naturally to movement (subtle folds and tension)
-[SCENE APPROACH]
-Minimal, clean environment per panel — only essential props related to the chore.
-No clutter, no complex backgrounds — focus stays on the subject and action.
-[PANEL STRUCTURE – EACH FRAME]
-Top-left: Step number + task title (e.g., “Step 4 – Vacuum Floor”)
-Center: Full-body pose performing the chore
-Bottom-left: 3–4 concise instruction lines
-Overlay: Motion arrows and directional guides showing action flow
-[CHORE SEQUENCE EXAMPLES]
-Make the Bed
-Tidy Up Room
-Dust Surfaces
-Vacuum Floor
-Sweep Floor
-Mop Floor
-Do Laundry
-Hang Clothes
-Fold Clothes
-Clean Kitchen Counter
-Wash Dishes
-Take Out Trash
-Water Plants
-Clean Bathroom
-Organize Shelves
-Final Room Reset
-[MOTION INDICATORS]
-Curved arrows → fluid actions (wiping, folding)
-Straight arrows → directional movement
-Circular arrows → repetitive motions (scrubbing, mopping)
-[RENDER QUALITY]
-High-detail sculpted 3D style with smooth grayscale shading, soft shadows, and clean linework. Polished, concept-art level finish with clarity in every pose and object interaction.
-[RESTRICTIONS]
-No color, no unnecessary background detail, no extra characters, no revealing clothing, no clutter — only the subject, props, and instructional elements.
+Create educational encyclopedia style images with GPT Image 2 on
+@itsPolloAI
+
+
+Prompt: Based on { TOPIC }, create a high-quality vertical “encyclopedia-style educational infographic image.”
+
+This image should NOT look like a regular poster or a simple illustration. Instead, it should feel like a structured knowledge guide that combines:
+
+the feeling of a collectible reference handbook
+
+a modern encyclopedia page
+
+a lifestyle knowledge card
+
+and a highly shareable social-media infographic
+
+The overall style should resemble a premium natural-history guidebook mixed with modern editorial infographic design.
+
+The image should include:
+
+One beautiful and highly detailed main subject image
+
+Several zoomed-in detail sections highlighting important features
+
+Multiple modular information panels with rounded corners
+
+Clear title hierarchy and highlighted key labels
+
+Concise yet information-rich encyclopedia content
+
+Visual scoring systems, quick summaries, or “Top 5” modules
+
+The information sections should automatically adapt to the topic. Select and combine relevant categories such as:
+
+Basic profile
+
+Classification / taxonomy
+
+Physical characteristics
+
+Behavior / ecology / habits
+
+Structure or formation mechanisms
+
+Growth conditions or usage methods
+
+Care, maintenance, or optimization tips
+
+Risks, warnings, and important notes
+
+Suitable users or application scenarios
+
+Pros and cons comparison
+
+Quick rating tags or summary cards
+
+Visual requirements:
+
+Clean light-colored background
+
+Soft and elegant color palette
+
+Gentle shadows
+
+Small refined icons
+
+Rounded information boxes
+
+Organized editorial layout
+
+High information density without feeling crowded
+
+Comfortable reading experience
+
+The final result should feel like a real publishable encyclopedia knowledge card designed for reading, collecting, and creating as part of a consistent series — NOT like a commercial advertisement poster.
+
+The image must strongly emphasize:
+
+“knowledge integration + modular information design + handbook/reference-style presentation.”
+```
+
+</details>
+
+<a id="gpt-image-museum-encyclopedia-cat-breeds-infographic"></a>
+### Natural history encyclopedia infographic of cat breeds
+
+<a href="https://x.com/GeekCatX/status/2047354608717332691"><img src="../../previews/gpt-image-museum-encyclopedia-cat-breeds-infographic.jpg" width="360"></a>
+
+Bracketed sections fix the parchment canvas, a single vermillion accent colour, a dense overlapping collage layout and a typography hierarchy with bilingual labels. The swappable SUBJECT slot lets one template cover cats, dogs or professions.
+
+GPT Image 2 · Text-to-image · Source: [@GeekCatX on X](https://x.com/GeekCatX/status/2047354608717332691) · 1,166 likes on 2026-10-28
+
+[`encyclopedia`](tags.md#tag-encyclopedia) [`parchment`](tags.md#tag-parchment) [`cat-breeds`](tags.md#tag-cat-breeds) [`bilingual-labels`](tags.md#tag-bilingual-labels) [`template`](tags.md#tag-template)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+首页封面：
+A breathtakingly intricate masterpiece conceptual infographic of [SUBJECT: 11 species of Canidae cubs / various cat breeds / professional characters], strictly designed based on a natural history museum encyclopedia aesthetic.
+
+[CANVAS & COLOR DICTATORSHIP]
+BASE CANVAS (L0): Aged vintage parchment texture, warm hex #E8DFD1, featuring subtle water stains, distressed paper edges, and organic fiber grain.
+SYSTEMIC COLOR (L1): Highly realistic and naturalistic rendering of [SUBJECT], capturing every fine detail of fur, skin, and eyes.
+ACCENT COLOR (L3): Vermillion red (#A3262A) strictly reserved for traditional Chinese seals, title brackets, and critical tier markers (S, A, B, C).
+
+[SPATIAL GRAVITY & TOPOLOGY]
+COMPOSITION: A dense, layered collage of multiple [SUBJECT] subjects. Larger, more significant subjects are placed slightly centrally, while smaller ones fill the periphery with subtle overlapping to create 3D depth.
+BOUNDARIES: No hard frames for individual subjects; they breathe naturally on the parchment. A thin, 1pt technical border defines the entire composition's outer limits.
+MODULE TOPOLOGY: Approximately 9-15 distinct subjects arranged in a multi-node grid. Each subject acts as an independent information module.
+
+[DIMENSIONALITY & GRAPHIC PHYSICS]
+STYLE: Digital scientific illustration. A fusion of 19th-century zoological sketches and modern high-fidelity 3D rendering. Ultra-fine detail on textures (fur, feathers, or clothing).
+LINE LANGUAGE: 0.5pt micro-technical lines for labels and taxonomy guides.
+
+[TYPOGRAPHY ECOSYSTEM — ADAPTIVE DENSITY]
+TYPOGRAPHY DENSITY: Visual-heavy (70% subjects / 30% text).
+T1 MACRO HEADER: Massive, ultra-bold Traditional Chinese "Kaiti" or "Songti" characters enclosed in large black or red brackets 「 」. Estimated ~96px. Must be strictly pure Chinese (Hanzi).
+T2/T3 LABELS: Each subject is accompanied by its name in bilingual format: small-caps English (Sans-serif) and medium-weight Chinese (Heiti).
+T4 ANNOTATIONS: Micro-text placeholders for scientific descriptions, arranged in crisp technical blocks near each subject.
+TEXT PHYSICAL BEHAVIOR: Text is "floating" beside subjects with precise spatial alignment. High contrast (dark ink on light parchment).
+
+[NARRATIVE FLOW]
+NARRATIVE MODE: Comparison and Classification.
+VISUAL ENTRY POINT: The central T1 Header at the top, then the eye moves to the largest central subject.
+COGNITIVE LOAD: Information is chunked by individual subject modules, each with its own ID and label.
+
+[ICONOGRAPHY & METAPHOR]
+ICON STYLE: Scientific pictograms and vintage wax seals.
+CORE METAPHOR: The "Natural History Encyclopedia" page.
+SPECIAL ELEMENTS: Include "S/A/B/C Tier" medals in red/gold gradients for hierarchy, and a traditional red ink artist seal at the bottom right.
+
+[FINAL EXECUTION LOCK]
+Render as a single unified composition. All visual systems must be internally consistent. High-density detail, museum-quality print aesthetic, scientific clarity.
+
+主体：布偶猫、缅因猫、英国短毛猫、波斯猫、苏格兰折耳猫、孟加拉猫、西伯利亚猫、阿比西尼亚猫、暹罗猫、挪威森林猫。比例3:4， 文字清晰可读。
+
+单体图：
+Role: World-class Scientific Encyclopedia Illustrator & Knowledge Graph Architect.
+
+Task: Generate a highly detailed, extremely intricate, and visually stunning "Universal Illustrated Encyclopedia Science Infographic" in a classic, unbranded (NO logos) scientific encyclopedia style.
+
+Subject Matter: Choose one from [People, Plants, or Animals].
+
+Specific Subject: [e.g., The Giant Squid / Leonardo da Vinci / The Sequoia Tree].
+
+Style: Fine, detailed scientific illustration on a retro, aged beige paper background. Delicate linework. Intricately complex and professional.
+
+Key Visual Requirements:
+
+1.  Lifelike 3D Effect (The Central Subject): The central subject in the "C position" must be rendered with extraordinary realism and dynamism. Create a dramatic sense of depth where the character, plant, or animal appears to break the frame, leaping or bursting out of the flat paper towards the viewer (an effect similar to anamorphic 3D or dynamic pop-out, with high-precision realism).
+
+2.  Layout & Strategic White Space:
+    * Central Subject: Dominates the center, with intentional "strategic white space" around it to enhance the popping-out effect and make the figure the clear focal point.
+    * Surrounding Modules: The surrounding area (left, right, top, bottom, and corners) must be filled with 6-8 distinct, highly organized knowledge modules, depending on the subject. There should be a sense of organized density, not random clutter. The modules themselves must have clear borders, headers, and extensive, detailed content.
+
+3.  Connections: Use a complex, logical network of fine leader lines, arrows, brackets, dotted lines, and small connection points to link the central figure to all surrounding modules, and interconnect the modules themselves into a cohesive knowledge web.
+
+4.  Text & Annotation (Hard Requirement - Must be CLEAR Chinese):
+    * Main Title: A large, prominent, beautifully executed **Chinese calligraphy** (书法体) of the specific subject's name [e.g., "大王乌贼"].
+    * Calligraphic Accents: Scattered throughout the main content and module titles, use beautiful, clear Chinese calligraphy for important terms.
+    * Standard Chinese Text: All other descriptive text, handwritten notes (大量清晰中文手写注释), module content, and annotations must be clear, legible Chinese characters (简体中文), not gibberish or unreadable symbols. Ensure text clarity is prioritized.
+    * Leader Line Annotations: Every single small component, detail, submodule, diagram, or illustration within the modules must have detailed leader line annotations (拟解剖图) pointing directly to it for maximum professionalism and educational value. Every part should be labeled.
+
+Subject-Specific Module Structure (Example for general reference):
+
+A. For Humans [People]:
+   - Module 1: Anatomy & Skeletal Structure (w/ magnified cross-sections)
+   - Module 2: Physiological Processes (e.g., Circulatory/Nervous System)
+   - Module 3: Historical Context & Timeline (Key Achievements)
+   - Module 4: Major Contribution Diagram (Detailed breakdown)
+   - Module 5: Cognitive Process / Psychological Insight
+   - Module 6: Genetic Profile / Evolution
+   - Module 7: Global Influence & Cultural Impact
+   - Module 8: Cultural Representations / Legacy
+
+B. For Animals:
+   - Module 1: Full External Sketch & Anatomy (w/ microscope magnified detail circular windows)
+   - Module 2: Behavioral Patterns & Lifecycle (e.g., Mating/Migration, Flowchart style)
+   - Module 3: Digestive & Skeletal System
+   - Module 4: Habitats & Distribution Map (with environmental details)
+   - Module 5: Unique Adaptations (e.g., camouflage, hunting tools)
+   - Module 6: Evolutionary History & Relatives
+   - Module 7: Symbiotic Relationships / Ecosystem Role
+   - Module 8: Conservation Status & Human Interaction
+
+C. For Plants:
+   - Module 1: Full Plant Sketch & Anatomy (w/ magnified leaf/root details)
+   - Module 2: Photosynthesis & Lifecycle Flow (w/ icons for environment)
+   - Module 3: Cellular Structure (Magnified circular views)
+   - Module 4: Medicinal Properties / Practical Applications (as in original original prompt)
+   - Module 5: Environmental Adaptations / Unique Features
+   - Module 6: Distribution Map & Environmental Context
+   - Module 7: Genetic Variations & Cultivation
+   - Module 8: Historical Usage & Folklore
+
+Overall Composition: Extremely dense with information, organized into 6-8 structured modules, but balanced with strategic empty space around the center to allow the main, hyper-realistic figure to pop. Hard-core, professional, academic, but visually engaging due to the dynamic 3D central figure. No branding from any specific encyclopedia (e.g., no "DK" logos). All annotations must be legible. All handwritten notes must be clear. Main titles in Chinese calligraphy. Aspect Ratio: 3:4.
+
+[主题内容]
+```
+
+</details>
+
+<a id="gpt-image-endangered-animal-infographic-bengal-tiger"></a>
+### Endangered Bengal Tiger Annotated Infographic Poster
+
+<a href="https://x.com/MrDasCreates/status/2052064402866851981"><img src="../../previews/gpt-image-endangered-animal-infographic-bengal-tiger.jpg" width="360"></a>
+
+The prompt asks for a photorealistic central animal supported by annotated callouts, icons and color blocking, instead of generic sections. Having the model research a real species first fills the layered layout with accurate, dense facts.
+
+GPT Image 2 · Text-to-image · Source: [@MrDasCreates on X](https://x.com/MrDasCreates/status/2052064402866851981) · 819 likes on 2026-10-28
+
+[`infographic`](tags.md#tag-infographic) [`animal`](tags.md#tag-animal) [`endangered-species`](tags.md#tag-endangered-species) [`photorealistic`](tags.md#tag-photorealistic) [`callouts`](tags.md#tag-callouts)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Animal Infographic by GPT Image 2 on ChatGPT app
+
+Prompt: Create a visually rich infographic about an endangered animal. Start by finding one online, research its habitat, diet, and unique traits. Present information through annotated visuals and structured callouts, not generic sections. Style it like a bold graphic illustration: a detailed, photorealistic central animal as the focal point, supported by diagrams, callouts, and concise text elements. Use clean backgrounds and a mix of photorealism with strong graphic elements (shapes, icons, color blocking) in a layered composition. Make it dense, tactile, and professionally authored.
 ```
 
 </details>
@@ -178,49 +348,455 @@ GPT Image 2 · Text-to-image · Source: [@TechieBySA on X](https://x.com/TechieB
 
 </details>
 
-<a id="gpt-image-grayscale-dance-movement-sheet-4x4"></a>
-### Grayscale 4x4 dance movement reference sheet
+<a id="gpt-image-premium-recipe-poster-tempura-bowl"></a>
+### Premium tempura bowl recipe poster with steps
 
-<a href="https://x.com/ChillaiKalan__/status/2049007457918198128"><img src="../../previews/gpt-image-grayscale-dance-movement-sheet-4x4.jpg" width="360"></a>
+<a href="https://x.com/Preda2005/status/2047883394152088004"><img src="../../previews/gpt-image-premium-recipe-poster-tempura-bowl.jpg" width="360"></a>
 
-Bracketed sections for layout, character, panel structure, arrows and rendering style keep the 16 numbered cells consistent, and a negative block removes colour and background clutter. The sheet then serves as a reference image for animating the dance in a video model.
+A single reusable template with a dish name placeholder lists the layout parts in order: hero dish, ingredients, step by step process, cream background. Style cues like warm natural lighting and refined English typography keep the poster cohesive.
 
-GPT Image 2 · Text-to-image · Source: [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2049007457918198128) · 253 likes on 2026-10-28
+GPT Image 2 · Text-to-image · Source: [@Preda2005 on X](https://x.com/Preda2005/status/2047883394152088004) · 455 likes on 2026-10-28
 
-[`movement-sheet`](tags.md#tag-movement-sheet) [`grayscale`](tags.md#tag-grayscale) [`3d-render`](tags.md#tag-3d-render) [`dance`](tags.md#tag-dance) [`reference-sheet`](tags.md#tag-reference-sheet)
+[`recipe`](tags.md#tag-recipe) [`food-poster`](tags.md#tag-food-poster) [`typography`](tags.md#tag-typography) [`template`](tags.md#tag-template) [`cream-background`](tags.md#tag-cream-background)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-Monochromatic grayscale illustration, 3D-rendered character, clean instructional reference sheet.
-White background, comic-style cell grid layout, technical diagram aesthetic.
-[LAYOUT]
-4×4 grid layout (16 panels total).
-Each panel separated by thin black border lines.
-Panels are evenly sized and consistently aligned.
-Each cell is clearly numbered from 1 to 16.
-[CHARACTER]
-(Insert character description)
-Example: Young female dancer with an athletic build, ponytail hairstyle, wearing a crop top, baggy pants, and sneakers.
-The same character must appear consistently in all panels.
-[PANEL STRUCTURE – per cell]
-Top-left: bold number badge + Korean title text
-Center: full-body character pose illustration
-Bottom-left: Korean description text (3–4 lines)
-Overlay: directional arrows indicating movement flow
-[ARROWS / MOTION INDICATORS]
-Curved arrows, straight arrows, and circular rotation indicators.
-Arrows should be placed around the character to clearly show movement direction and flow.
-[RENDERING STYLE]
-Highly detailed 3D sculpted style.
-Soft studio lighting with subtle shadows.
-No color — grayscale only.
-Clean linework, polished finish, game concept art quality.
-[NEGATIVE PROMPT]
-No background scenery.
-No color tones.
-No additional characters.
-No cluttered or complex backgrounds.
+Create a premium food preparation poster for
+ [ DISH NAME ], with a beautiful hero dish, warm natural lighting, cream background, elegant step-by-step recipe layout, ingredients, cooking process, premium food photography, refined English typography, luxury restaurant advertisement style, clean design, rich colors, highly detailed, visually irresistible, cinematic masterpiece.
+```
+
+</details>
+
+<a id="gpt-image-ai-fitness-coach-analysis-poster"></a>
+### AI fitness analysis poster from a gym selfie
+
+<a href="https://x.com/frametheory058/status/2054461225413870014"><img src="../../previews/gpt-image-ai-fitness-coach-analysis-poster.jpg" width="360"></a>
+
+The prompt locks the uploaded face and identity, then lists every dashboard section, food card and exercise panel by name, so the model fills a dense glassmorphism layout around a centered subject. A bright luxury palette with explicit bans on dark gym looks keeps the poster clean and premium.
+
+GPT Image 2 · Edit · Source: [@frametheory058 on X](https://x.com/frametheory058/status/2054461225413870014) · 454 likes on 2026-10-28
+
+[`fitness`](tags.md#tag-fitness) [`poster`](tags.md#tag-poster) [`dashboard-ui`](tags.md#tag-dashboard-ui) [`glassmorphism`](tags.md#tag-glassmorphism) [`selfie`](tags.md#tag-selfie)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+I will upload a gym mirror selfie/body photo.
+
+Create an ULTRA PREMIUM AI FITNESS ANALYSIS POSTER that looks like a luxury futuristic wellness brand advertisement mixed with a high-end fitness app dashboard.
+
+IMPORTANT:
+The uploaded face and identity must remain EXACTLY THE SAME.
+Do not change:
+
+face structure
+
+eyes
+
+jawline
+
+hairstyle
+
+skin tone
+
+facial proportions
+
+Only enhance:
+
+body presentation
+
+outfit styling
+
+lighting
+
+pose atmosphere
+
+premium visual composition
+
+STYLE DIRECTION:
+Avoid dark black backgrounds.
+
+Instead create:
+
+bright luxury studio aesthetic
+
+soft silver + white + warm beige + matte charcoal tones
+
+premium Apple / Gymshark / WHOOP / Technogym inspired design
+
+clean modern luxury UI
+
+cinematic natural lighting
+
+subtle reflections and depth
+
+rich soft shadows
+
+elegant futuristic fitness branding
+
+The entire poster should feel:
+MINIMAL + EXPENSIVE + VIRAL + HIGH STATUS
+
+LAYOUT:
+4:5 vertical composition optimized for Twitter/X virality.
+
+CENTER SUBJECT:
+
+Place the uploaded person in the middle
+
+Natural confident Gen-Z mirror selfie pose
+
+Slight V-taper physique
+
+Lean aesthetic body
+
+Realistic muscles, not overdone
+
+Premium sweatpants or luxury athletic wear
+
+Clean modern hairstyle
+
+iPhone mirror selfie vibe
+
+BACKGROUND:
+Create a premium luxury gym or wellness studio:
+
+polished concrete
+
+soft LED strip lights
+
+luxury mirrors
+
+brushed steel gym equipment
+
+natural depth blur
+
+warm daylight mixed with cinematic lighting
+
+NO dark horror gym aesthetic.
+
+COLOR PALETTE:
+
+matte white
+
+platinum silver
+
+warm cream
+
+champagne gold accents
+
+soft graphite
+
+subtle neon beige glow
+
+UI DESIGN:
+Create floating modern fitness-analysis cards around the body.
+
+Use:
+
+glassmorphism panels
+
+floating transparent UI
+
+thin elegant borders
+
+soft glowing shadows
+
+futuristic clean typography
+
+SECTIONS TO INCLUDE:
+
+• Body Fat Estimate
+• Muscle Strengths
+• Weak Points
+• Calorie Goal
+• Protein Intake
+• Recommended Split
+• Best Cardio
+• Recovery Score
+• Physique Rating
+
+FOOD SECTION:
+Instead of basic circles, create:
+
+floating premium food cards
+
+realistic luxury food photography
+
+elegant shadows
+
+soft glowing borders
+
+Include:
+
+salmon
+
+eggs
+
+chicken breast
+
+avocado
+
+oats
+
+almonds
+
+banana
+
+greek yogurt
+
+whey protein
+
+EXERCISE SECTION:
+Use sleek cinematic mini-panels for:
+
+incline bench
+
+pull-ups
+
+shoulder press
+
+squats
+
+deadlift
+
+WOW FACTORS:
+
+luxury reflections
+
+floating holographic UI
+
+subtle particles
+
+soft ambient glow
+
+premium health-tech aesthetic
+
+cinematic depth
+
+realistic skin texture
+
+ultra sharp details
+
+TEXT STYLE:
+Minimal and bold.
+Very clean typography like premium tech advertisements.
+
+QUALITY:
+
+hyper realistic
+
+ultra detailed
+
+8K
+
+cinematic realism
+
+viral social media quality
+
+extremely polished
+
+visually addictive
+
+should instantly make people stop scrolling
+
+FINAL GOAL:
+The poster should look so premium and believable that people instantly think:
+“Wait… AI can actually create a personalized fitness coach like this?”
+```
+
+</details>
+
+<a id="nano-banana-strawberry-ice-cream-ingredient-infographic"></a>
+### Strawberry ice cream ingredient and step infographic
+
+<a href="https://x.com/Strength04_X/status/2048303530902265949"><img src="../../previews/nano-banana-strawberry-ice-cream-ingredient-infographic.jpg" width="360"></a>
+
+A centered hero product is ringed by flat icons with curved arrows, and rounded step cards sit on one side. Badges for serving details, a light grey gradient background and a fixed square format keep the layout clean.
+
+Nano Banana 2 · Text-to-image · Source: [@Strength04_X on X](https://x.com/Strength04_X/status/2048303530902265949) · 319 likes on 2026-10-29
+
+[`infographic`](tags.md#tag-infographic) [`food`](tags.md#tag-food) [`ice-cream`](tags.md#tag-ice-cream) [`product-story`](tags.md#tag-product-story) [`instagram`](tags.md#tag-instagram)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+I built this full ad Using Nano Banana 2 + Kling 3.0 4K on
+@Kling_ai
+
+
+From product shot to ingredient story to final serve
+Everything flows like a real commercial 🍨
+
+No studio ~ no team
+Just vision and execution
+
+Prompt: A modern, clean product infographic featuring a delicious strawberry ice cream at the center of the composition. The ice cream is presented as a beautifully swirled scoop in a glass cup (or wafile cone), showcasing a rich. creamy texture with soft pink tones and visible strawberry bits. Glossy highlights and slight melting edges enhance the fresh, indulgent feel. Fresh strawberries and subtle syrup drizzles add a vibrant, appetizing touch. Background is light grey with soft gradients and gentle shadows for a premium, clean commercial aesthetic.
+
+Surrounding the central ice cream are neatly arranged ingredient and element icons in a minimal flat illustration style: fresh strawberries, sliced strawberries, milk splash, sugar crystals, ice cubes, and a dessert cup icon. Thin curved arrows point from each element toward the ice cream, creating a clean, balanced infographic flow.
+
+On the right side, rounded white step cards with soft shadows display the
+
+process:
+
+1. Select Fresh Strawberries
+
+2. Blend with Cream & Sugar
+
+3. Freeze & Churn
+
+4. Serve Chilled
+
+Each step includes simple illustrations (cutting strawberries, blending mixture, churning ice cream, serving in cup cone) with short, clean text.
+
+At the bottom corner, minimal infographic badges show: serving temperature, freshness level, sweetness level, calories per serving, and serving size.
+
+Minimal Ul design, modern typography, balanced spacing, premium dessert advertising style, creamy texture details, glossy highlights, ultra high resolution, editorial ice cream infographic. Instagram-ready composition.
+
+Aspect Ratio: 1:1
+
+Image Size: 1080 1080 pixels
+```
+
+</details>
+
+<a id="gpt-image-iced-matcha-latte-six-panel-storyboard"></a>
+### Iced matcha latte six panel food storyboard
+
+<a href="https://x.com/DuaFatimaAi/status/2095669775456407975"><img src="../../previews/gpt-image-iced-matcha-latte-six-panel-storyboard.jpg" width="360"></a>
+
+Each panel gets its own numbered step, from ingredient flat lay to hero shot, while one shared block fixes props, palette, lighting and lens look. A closing continuity rule and a no faces limit keep all six frames consistent.
+
+GPT Image 2 · Text-to-image · Source: [@DuaFatimaAi on X](https://x.com/DuaFatimaAi/status/2095669775456407975) · 272 likes on 2026-10-28
+
+[`food-photography`](tags.md#tag-food-photography) [`storyboard`](tags.md#tag-storyboard) [`matcha`](tags.md#tag-matcha) [`6-panel-grid`](tags.md#tag-6-panel-grid) [`photorealistic`](tags.md#tag-photorealistic)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a premium photorealistic vertical 6-panel food photography storyboard for an iced matcha latte, arranged in a clean 2×3 grid. Use the same warm natural visual identity, props, lighting, composition, and green color palette across all six panels. Rustic Japanese-inspired kitchen aesthetic, cinematic editorial food photography, soft natural window light, realistic human hands, shallow depth of field, highly detailed textures, creamy matcha, transparent ice cubes, elegant glassware, green linen/checkered cloth, bamboo matcha whisk, ceramic bowls, blueberries, and wooden accents.
+Panel 1 — INGREDIENT PREPARATION:
+Top-down flat lay showing a bowl of vibrant green matcha powder, bamboo whisk, small ceramic pitcher of milk, bowl of sugar, glass of green matcha liquid, bowl of ice cubes, and cream/milk arranged beautifully on a dark green tabletop with a checkered cloth.
+Panel 2 — MATCHA PREPARATION:
+Close-up of realistic hands whisking vibrant green matcha powder in a rustic ceramic bowl using a traditional bamboo matcha whisk. Foamy matcha texture forming naturally.
+Panel 3 — INITIAL MIXING:
+Pour freshly prepared bright green matcha into a transparent measuring glass filled with ice and milk. Capture the pouring action, swirling green-and-white layers, realistic splashes and condensation.
+Panel 4 — MAIN PROCESS:
+Extreme close-up of creamy milk being poured over iced matcha in a clear glass. Beautiful green-and-white marbling around transparent ice cubes, highly appetizing texture, cinematic macro photography.
+Panel 5 — SERVING:
+A spoon gently adds a generous layer of white whipped cream/cream foam onto the top of the iced matcha latte. Full glass visible, surrounded by matcha powder, bamboo whisk, blueberries and rustic props.
+Panel 6 — FINAL HERO SHOT:
+Premium hero shot of the finished iced matcha latte in a tall crystal-clear glass, vibrant green matcha with creamy white swirls and a soft cream topping, condensation on the glass, ice cubes visible, matcha bowl and bamboo whisk softly blurred in the background, blueberries scattered naturally around the glass.
+Visual style: luxury beverage advertisement, photorealistic, cinematic food commercial, warm earthy tones, natural soft lighting, realistic materials, subtle film grain, professional food styling, 85mm macro lens look, shallow depth of field, HDR, ultra-detailed, premium editorial photography, appetizing and authentic.
+Aspect ratio: 4:5 vertical.
+Important: Maintain consistent props, glass, lighting, tabletop, color palette and visual continuity across all six panels. No people’s faces, only natural hands where required.
+```
+
+</details>
+
+<a id="gpt-image-football-stadium-engineering-infographic"></a>
+### Futuristic football stadium engineering handbook infographic
+
+<a href="https://x.com/j_smeaton99/status/2056209800627974490"><img src="../../previews/gpt-image-football-stadium-engineering-infographic.jpg" width="360"></a>
+
+A fixed square layout names a central aerial nighttime render, then lists ten callout topics and seventeen modular sections so the model fills a dense card grid. Style keywords and an Avoid list keep it editorial and encyclopedic instead of advertising.
+
+GPT Image 2 · Text-to-image · Source: [@j_smeaton99 on X](https://x.com/j_smeaton99/status/2056209800627974490) · 246 likes on 2026-10-29
+
+[`infographic`](tags.md#tag-infographic) [`stadium`](tags.md#tag-stadium) [`architecture`](tags.md#tag-architecture) [`sports`](tags.md#tag-sports) [`template`](tags.md#tag-template)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a premium square “reference-style sports architecture infographic” centered around a futuristic modern football stadium called the {STADIUM_NAME}, designed as a beautifully curated stadium-engineering handbook page rather than a sports advertisement poster.
+
+The composition should feel like a modern visual encyclopedia mixed with an elite stadium-design field guide and high-end editorial infographic system.
+
+Visual Direction:
+
+• 1:1 square composition
+• Dark premium architectural-tech background with subtle blueprint textures, stadium schematics, and cinematic city-light overlays
+• Elegant palette using deep navy, matte black, steel blue, titanium silver, and glowing electric-blue accents
+• Refined editorial typography hierarchy with modern sports-engineering aesthetics
+• Rounded modular information cards with clean spacing
+• Gentle realistic reflections and premium HUD-style dividers
+• Minimal sports infrastructure iconography
+• Extremely detailed central stadium render viewed in dramatic aerial three-quarter perspective during nighttime match lighting
+• Thin precision annotation lines pointing toward structural systems and smart-stadium technologies
+• Clean, organized “knowledge-first” layout with high information density but breathable spacing
+
+Main Subject Presentation:
+
+A stunning ultra-detailed realistic render of the {STADIUM_NAME} placed at the center, featuring illuminated seating bowls, glowing LED façade lighting, retractable roof systems, realistic crowd ambience, premium landscaping, advanced pitch engineering, and world-class architectural realism.
+
+Surround the stadium with scientific and engineering callouts explaining:
+
+• retractable roof technology
+• LED lighting systems
+• seating bowl acoustics
+• pitch and drainage engineering
+• structural steel framework
+• crowd management systems
+• smart surveillance & security
+• sustainability systems
+• transport and accessibility integration
+• digital fan-experience technology
+
+Include modular infographic sections such as:
+
+• Stadium Overview
+• Technical Specifications
+• Dimensions & Blueprint Views
+• Seating Capacity & Bowl Design
+• Pitch Engineering System
+• Structural & Roof Technology
+• Smart Stadium Infrastructure
+• Fan Experience & Hospitality
+• Security & Safety Systems
+• Sustainability Features
+• Transportation & Access Planning
+• Acoustics & Audio Systems
+• Matchday Operations Workflow
+• Multi-Event Capability
+• Construction Timeline
+• “Top 5 Innovations” section
+• Built for Legacy & Future Expansion
+
+Add small premium visualization modules like:
+
+• stadium blueprint diagrams
+• seating-distribution graphics
+• roof-opening mechanism visuals
+• sustainability performance charts
+• crowd-flow maps
+• transport integration diagrams
+• smart surveillance graphics
+• pitch-layer cutaway illustrations
+• acoustics waveform displays
+• aerial site-plan schematics
+
+Style Keywords:
+
+“premium stadium architecture encyclopedia”
+“editorial sports infrastructure handbook”
+“high-end football stadium infographic”
+“scientific sports architecture poster”
+“museum-quality stadium reference page”
+“modular sports-engineering knowledge system”
+“clean architectural editorial design”
+“ultra-detailed stadium visualization”
+
+Avoid:
+
+• generic sports advertisements
+• cartoon football aesthetics
+• cluttered sponsor-heavy layouts
+• unrealistic sci-fi fantasy stadiums
+• excessive neon cyberpunk overload
+• chaotic crowd-focused compositions
+
+The final result should resemble a professionally published sports-architecture reference-book page created for architects, engineers, football fans, stadium planners, designers, and educational infrastructure archives.
 ```
 
 </details>
@@ -240,6 +816,276 @@ GPT Image 2.5 · Text-to-image · Source: [@iamsofiaijaz on X](https://x.com/iam
 
 ```text
 A professional educational infographic for a [Subject], designed in a modern "Terrestrial Life" series style. The layout features a large, realistic 3D central illustration of the [Subject] with anatomical labels like "Compound Eyes," "Thorax," and "Abdomen" using thin pointer lines. The color palette is clean with soft beige and muted tones. The composition includes multiple data modules: a "Quick Profile" sidebar, a "Top 5 Amazing Facts" list, a "Size Comparison" chart against a human silhouette, and a "Knowledge Score" star rating system. Include a "Detail Focus" section on the right with four square macro-photography close-ups of life stages or specific features. The bottom features "Habitat" and "Diet" icons, a "Conservation Status" slider, and a small "Did You Know?" footer. High resolution, crisp typography, clean vector lines, and a professional scientific journal aesthetic.
+```
+
+</details>
+
+<a id="nano-banana-exploded-food-infographic-layers"></a>
+### Exploded Layer Infographic of Food Dishes
+
+<a href="https://x.com/TechieBySA/status/2028451530198642753"><img src="../../previews/nano-banana-exploded-food-infographic-layers.jpg" width="360"></a>
+
+A fill in [FOOD] template that stacks the dish top to bottom as floating layers from garnish particles to plate. A pure white background, macro lighting and thin pointer line labels keep it clean and readable.
+
+Nano Banana 2 · Text-to-image · Source: [@TechieBySA on X](https://x.com/TechieBySA/status/2028451530198642753) · 218 likes on 2026-10-29
+
+[`exploded-view`](tags.md#tag-exploded-view) [`food`](tags.md#tag-food) [`infographic`](tags.md#tag-infographic) [`macro-photography`](tags.md#tag-macro-photography) [`template`](tags.md#tag-template)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+“Create a hyper-realistic exploded vertical infographic composition of [FOOD].
+At the top, characteristic particles, droplets, or garnishes associated with the food, frozen mid-air.
+Below it, the primary surface or topping layer with rich texture and realistic material detail.
+Underneath, the core ingredient layer showing structure, depth, and natural variation.
+Below that, the supporting base or interior layer, slightly separated to reveal construction.
+At the bottom, a minimal plate, bowl, cup, or base appropriate to the food’s presentation.
+Pure white background, soft studio lighting, subtle shadows beneath each floating element, ultra-sharp focus, DSLR macro photography, clean infographic text labels with thin pointer lines, premium editorial food photography aesthetic, 8K quality.”
+```
+
+</details>
+
+<a id="gpt-image-ai-memory-anime-self-infographic"></a>
+### Anime cartoon infographic about the user, from memory
+
+<a href="https://x.com/icreatelife/status/2047042187683066100"><img src="../../previews/gpt-image-ai-memory-anime-self-infographic.jpg" width="360"></a>
+
+The prompt hands the content to ChatGPT memory, so the model fills in a personal bio, values and hobbies without any details typed in. Naming two formats, infographic and cartoon anime, gets a layout of labeled panels around a character portrait.
+
+GPT Image 2 · Text-to-image · Source: [@icreatelife on X](https://x.com/icreatelife/status/2047042187683066100) · 209 likes on 2026-10-28
+
+[`infographic`](tags.md#tag-infographic) [`anime`](tags.md#tag-anime) [`self-portrait`](tags.md#tag-self-portrait) [`chatgpt-memory`](tags.md#tag-chatgpt-memory) [`personalized`](tags.md#tag-personalized)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Ask ChatGPT knowing everything it knows about you to generate an image of yourself with GPT Image 2
+
+prompt: Knowing everything you know about me,  make an infographic of me. Make a cartoon anime style image.
+
+I'd love to see what you got.
+```
+
+</details>
+
+<a id="nano-banana-french-fries-recipe-infographic"></a>
+### French Fries Recipe Infographic with Steps
+
+<a href="https://x.com/Strength04_X/status/2032503970099503191"><img src="../../previews/nano-banana-french-fries-recipe-infographic.jpg" width="360"></a>
+
+The prompt names each section (ingredients, steps, info badges) and gives a hero object with a layout rule for the rest. Style, lighting and output size are stated explicitly.
+
+Nano Banana 2 · Text-to-image · Source: [@Strength04_X on X](https://x.com/Strength04_X/status/2032503970099503191) · 203 likes on 2026-10-28
+
+[`infographic`](tags.md#tag-infographic) [`recipe`](tags.md#tag-recipe) [`food`](tags.md#tag-food) [`editorial`](tags.md#tag-editorial) [`social-feed`](tags.md#tag-social-feed)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Created with Kling 2.6 AI + Nano Banana 2 on
+@SocialSight
+
+
+And the clarity looks like a real editorial design🍟
+
+Prompt: Ultra-clean modern recipe infographic. Showcase Crispy French Fries in a basket with dipping sauce in angled perspective.
+
+Ingredients Section: Icons for potatoes, oil, salt, spices.
+
+Steps Section: Potato cutting, frying, seasoning shown with numbered panels.
+
+Additional Info: Calories, cook time, servings displayed as badges.
+
+Visual Style: Editorial fast-food infographic with vibrant textures and modern typography.
+
+Composition Guidelines: Fries basket as hero visual with ingredients and steps around it.
+
+Lighting & Background: Warm studio lighting with minimal gradient background.
+
+Output: 1080×1080, ultra-crisp, social-feed optimized, no watermark.
+```
+
+</details>
+
+<a id="nano-banana-vanilla-ice-cream-recipe-infographic"></a>
+### Pastel vanilla ice cream recipe infographic
+
+<a href="https://x.com/Strength04_X/status/2033184147003633695"><img src="../../previews/nano-banana-vanilla-ice-cream-recipe-infographic.jpg" width="360"></a>
+
+The prompt splits the layout into named sections (ingredients, steps, additional info), each with a specific content spec. It also sets a hero visual, a pastel palette and a square output format, so the model arranges every element around the central dessert.
+
+Nano Banana 2 · Text-to-image · Source: [@Strength04_X on X](https://x.com/Strength04_X/status/2033184147003633695) · 160 likes on 2026-10-28
+
+[`infographic`](tags.md#tag-infographic) [`recipe`](tags.md#tag-recipe) [`dessert`](tags.md#tag-dessert) [`pastel`](tags.md#tag-pastel) [`social-media`](tags.md#tag-social-media)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Made with Kling AI + Nano Banana 2 on
+@hedra_labs
+
+
+Vanilla ice cream recipe infographic with clean modern design🍨
+
+Prompt: Ultra-clean modern recipe infographic. Showcase Vanilla Ice Cream Scoops with syrup and toppings in angled perspective.
+
+Ingredients Section: Icons for milk, cream, sugar, vanilla.
+
+Steps Section: Mixing base, freezing, scooping shown with numbered panels.
+
+Additional Info: Calories, prep time, servings displayed in badges.
+
+Visual Style: Dessert infographic with pastel colors, soft gradients, modern typography.
+
+Composition Guidelines: Ice cream scoops as hero visual with ingredients and steps around it.
+
+Lighting & Background: Soft dessert-style lighting with minimal background.
+
+Output: 1080×1080, ultra-crisp, social-feed optimized, no watermark.
+```
+
+</details>
+
+<a id="gpt-image-banana-smoothie-four-panel-recipe-collage"></a>
+### Four panel banana smoothie recipe collage
+
+<a href="https://x.com/DuaFatimaAi/status/2096033405259682193"><img src="../../previews/gpt-image-banana-smoothie-four-panel-recipe-collage.jpg" width="360"></a>
+
+Each panel of the 2x2 grid is described separately by position, with its own ingredients and action, so the steps stay in order. A shared closing line sets the lighting, glassware, depth of field and no text rule for a consistent look.
+
+GPT Image 2 · Text-to-image · Source: [@DuaFatimaAi on X](https://x.com/DuaFatimaAi/status/2096033405259682193) · 152 likes on 2026-10-29
+
+[`recipe`](tags.md#tag-recipe) [`food-photography`](tags.md#tag-food-photography) [`collage`](tags.md#tag-collage) [`step-by-step`](tags.md#tag-step-by-step) [`photorealistic`](tags.md#tag-photorealistic)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a photorealistic 2×2 four-panel recipe collage showing the preparation of a creamy banana smoothie on a rustic dark wooden kitchen table.
+
+Top-left: Several ripe yellow bananas, one peeled banana, a clear glass of milk, a small glass bowl of thick white yogurt, and a bowl of ice cubes neatly arranged as ingredients.
+
+Top-right: Close-up of hands peeling a ripe banana and placing banana pieces into a transparent glass blender jar.
+
+Bottom-left: Milk being poured from a transparent measuring cup into the blender containing banana pieces, yogurt, and ice cubes.
+
+Bottom-right: Thick creamy banana smoothie being poured from the blender into a clear drinking glass, with another finished smoothie glass in the background and a few banana slices on the wooden table.
+
+Warm natural kitchen lighting, realistic food textures, creamy pale-yellow smoothie, transparent glassware, shallow depth of field, rustic wooden background, clean composition, professional food photography, highly detailed, realistic hands, natural shadows, 4K photorealism, no text, no labels, no watermark.
+```
+
+</details>
+
+<a id="nano-banana-vehicle-technical-annotation-infographic"></a>
+### Vehicle photo infographics with black ink technical annotations
+
+<a href="https://x.com/TechieBySA/status/2038586040231801230"><img src="../../previews/nano-banana-vehicle-technical-annotation-infographic.jpg" width="360"></a>
+
+A photoreal object sits under black technical pen overlays such as cutaways, dimensions, material callouts and flow arrows. A pure white background and a strict black only palette keep it looking like an engineering manual. One VEHICLE placeholder makes it reusable for any object.
+
+Nano Banana 2 · Text-to-image · Source: [@TechieBySA on X](https://x.com/TechieBySA/status/2038586040231801230) · 148 likes on 2026-10-29
+
+[`infographic`](tags.md#tag-infographic) [`technical-annotation`](tags.md#tag-technical-annotation) [`engineering`](tags.md#tag-engineering) [`black-and-white`](tags.md#tag-black-and-white) [`vehicle`](tags.md#tag-vehicle)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Simply replace [VEHICLE]:✨
+
+“Create an infographic image of [VEHICLE], combining a realistic photograph or photoreal render of the object with technical annotation overlays placed directly on top.
+
+Use black ink–style line drawings and text (technical pen / architectural sketch look) on a pure white studio background, including:
+•Key component labels
+•Internal cutaway or exploded-view outlines
+•Measurements, dimensions, and scale markers
+•Material callouts and quantities
+•Arrows indicating function, force, or flow (air, sound, power, pressure)
+•Simple schematic or sectional diagrams where relevant
+
+Place the title “VEHICLE” inside a hand-drawn technical annotation box in one corner.
+
+Style & layout rules:
+•The real object remains clearly visible beneath the annotations
+•Annotations feel sketched, technical, and architectural
+•Clean composition with balanced negative space
+•Educational, museum-exhibit / engineering-manual vibe
+
+Visual style:
+Minimal technical illustration aesthetic, black linework over realistic imagery, precise but slightly hand-drawn feel.
+
+Color palette:
+White background, black annotation lines and text only. No colors.
+
+Output:
+1080×1080, ultra-crisp, social-feed optimized, no watermark.”
+```
+
+</details>
+
+<a id="gpt-image-terrestrial-life-educational-infographic-template"></a>
+### Terrestrial Life educational infographic template with labeled anatomy
+
+<a href="https://x.com/iamsofiaijaz/status/2113870479987753371"><img src="../../previews/gpt-image-terrestrial-life-educational-infographic-template.jpg" width="360"></a>
+
+A reusable [Subject] slot sits inside a fixed layout: a central 3D illustration with pointer line labels, then named data modules such as Quick Profile, Size Comparison and Conservation Status. Quoted module titles and a four-cell macro close-up column make the model render consistent, legible text on a beige palette.
+
+GPT Image 2.5 · Text-to-image · Source: [@iamsofiaijaz on X](https://x.com/iamsofiaijaz/status/2113870479987753371) · 140 likes on 2026-10-28
+
+[`infographic`](tags.md#tag-infographic) [`educational`](tags.md#tag-educational) [`template`](tags.md#tag-template) [`anatomy`](tags.md#tag-anatomy) [`scientific`](tags.md#tag-scientific)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A professional educational infographic for a [Subject], designed in a modern "Terrestrial Life" series style. The layout features a large, realistic 3D central illustration of the [Subject] with anatomical labels like "Compound Eyes," "Thorax," and "Abdomen" using thin pointer lines. The color palette is clean with soft beige and muted tones. The composition includes multiple data modules: a "Quick Profile" sidebar, a "Top 5 Amazing Facts" list, a "Size Comparison" chart against a human silhouette, and a "Knowledge Score" star rating system. Include a "Detail Focus" section on the right with four square macro-photography close-ups of life stages or specific features. The bottom features "Habitat" and "Diet" icons, a "Conservation Status" slider, and a small "Did You Know?" footer. High resolution, crisp typography, clean vector lines, and a professional scientific journal aesthetic.
+```
+
+</details>
+
+<a id="nano-banana-black-reflective-ingredient-deconstruction-infographic"></a>
+### Deconstructed Margherita Pizza Ingredient Infographic on Black
+
+<a href="https://x.com/Maercihh/status/2047643979110601154"><img src="../../previews/nano-banana-black-reflective-ingredient-deconstruction-infographic.jpg" width="360"></a>
+
+A JSON template with a SUBJECT placeholder fixes the layout: hero dish in the center, ingredients in bowls around it, and thin leader lines to bold headers with short sub-text. The style notes lock the palette (black, orange, white) and the reflective surface, so the template works for any dish.
+
+Nano Banana 2 · Text-to-image · Source: [@Maercihh on X](https://x.com/Maercihh/status/2047643979110601154) · 128 likes on 2026-10-28
+
+[`infographic`](tags.md#tag-infographic) [`food-photography`](tags.md#tag-food-photography) [`ingredients`](tags.md#tag-ingredients) [`json-template`](tags.md#tag-json-template) [`black-background`](tags.md#tag-black-background)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+{
+  "image_request": {
+    "subject": "Subject Name",
+    "prompt_template": "An infographic-style food photography shot of [SUBJECT] on a black reflective background. In the center is a high-resolution, delicious [SUBJECT]. Surrounding the center dish are various individual ingredients (deconstructed) in small bowls or piles, with thin elegant lines pointing from the text descriptions to the specific parts of the food. Each ingredient has a bold header in English followed by a short descriptive sub-text. Professional studio lighting, cinematic composition, 8k resolution, flat design elements mixed with realistic 3D food textures.",
+    "style_notes": [
+      "Black background",
+      "Reflective surface",
+      "Floating ingredients",
+      "Minimalist sans-serif typography",
+      "Orange and white accent colors for text"
+    ]
+  }
+}
+```
+
+</details>
+
+<a id="nano-banana-ghibli-margherita-recipe-infographic"></a>
+### Ghibli style margherita pizza recipe infographic
+
+<a href="https://x.com/azed_ai/status/2027140890247246017"><img src="../../previews/nano-banana-ghibli-margherita-recipe-infographic.jpg" width="360"></a>
+
+The prompt places the hero dish in the center and arranges labeled ingredients around it, with numeric quantities in the text. Style cues for light, texture and handwritten notebook labels keep the layout organized and readable.
+
+Nano Banana 2 · Text-to-image · Source: [@azed_ai on X](https://x.com/azed_ai/status/2027140890247246017) · 126 likes on 2026-10-28
+
+[`infographic`](tags.md#tag-infographic) [`recipe`](tags.md#tag-recipe) [`ghibli-style`](tags.md#tag-ghibli-style) [`food`](tags.md#tag-food) [`painterly`](tags.md#tag-painterly)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+margherita pizza recipe infographic, Studio Ghibli inspired illustration, traditional Italian kitchen setting, warm golden sunset light, whole pizza in center with bubbling cheese, ingredients illustrated around in cute containers, dough ball, tomato sauce 150g, mozzarella 200g, fresh basil leaves, olive oil drizzle, handwritten notebook style labels, soft pastel tones, painterly textures, gentle steam and magical glow, whimsical cozy feeling, clean organized layout, readable text, high detail
 ```
 
 </details>

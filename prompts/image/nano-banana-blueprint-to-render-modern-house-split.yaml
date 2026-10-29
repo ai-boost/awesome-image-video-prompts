@@ -1,0 +1,134 @@
+id: nano-banana-blueprint-to-render-modern-house-split
+title:
+  en: Dark Blueprint Above Matching Modern House Render
+  zh: 上方深色蓝图与下方对应的现代住宅渲染
+model: Nano Banana 2
+mode: text-to-image
+category: architecture
+tags:
+- blueprint
+- architecture
+- split-layout
+- json-prompt
+- house-render
+source:
+  name: '@craftian_keskin on X'
+  url: https://x.com/craftian_keskin/status/2048795880392704044
+  credit: Keskin
+  likes: 114
+  captured: '2026-10-28'
+  posted: '2026-04-27'
+notes:
+  en: A structured JSON prompt splits the canvas into a blueprint and a render. Layout mapping rules and consistency rules tie room positions together, and negative constraints block extra rooms.
+  zh: 用结构化 JSON 把画面分成蓝图和实景两部分，布局对应规则与一致性规则锁定房间位置，负面约束防止多出房间。
+prompt: |
+  {
+    "objective": "Create a split architectural visualization where the top is a detailed dark-themed blueprint and the bottom is a photorealistic house that matches the blueprint EXACTLY",
+
+    "aspect_ratio": "3:4",
+
+    "composition": {
+      "layout": "vertical split",
+      "top_section": "blueprint",
+      "bottom_section": "realistic render",
+      "alignment": "perfect structural correspondence between both sections"
+    },
+
+    "top_section": {
+      "type": "architectural blueprint",
+      "style": "dark luxury blueprint (similar to reference image 2)",
+
+      "visual_style": {
+        "background": "deep navy / charcoal blue",
+        "lines": "thin glowing beige/gold lines",
+        "walls": "slightly extruded 3D effect",
+        "labels": "clean modern sans-serif",
+        "lighting": "soft ambient glow"
+      },
+
+      "content": {
+        "rooms": [
+          "3 bedrooms (left, right, bottom-right)",
+          "central living room",
+          "kitchen + dining (top center)",
+          "2 bathrooms",
+          "garage (left side connected)",
+          "front porch",
+          "backyard pool with deck"
+        ],
+        "details": [
+          "furniture outlines (beds, sofa, dining table)",
+          "door swings and openings",
+          "window placements",
+          "circulation paths",
+          "exact proportions and spacing"
+        ]
+      }
+    },
+
+    "bottom_section": {
+      "type": "photorealistic house render",
+
+      "constraint": "MUST MATCH THE BLUEPRINT EXACTLY — no added, removed, or shifted rooms",
+
+      "architecture": {
+        "style": "modern single-story house",
+        "roof": "flat layered roof",
+        "materials": [
+          "smooth concrete walls",
+          "wood panel accents",
+          "large glass windows"
+        ]
+      },
+
+      "layout_mapping_rules": [
+        "garage must be on the left side exactly as blueprint",
+        "main entrance aligned with living room",
+        "pool positioned in backyard matching blueprint dimensions",
+        "window placements correspond to each room location",
+        "bedroom volumes visible externally in correct positions"
+      ],
+
+      "environment": {
+        "setting": "suburban neighborhood",
+        "elements": [
+          "green lawn",
+          "minimal landscaping",
+          "clean driveway leading to garage",
+          "pool deck matching blueprint footprint"
+        ]
+      },
+
+      "lighting": {
+        "time": "golden hour",
+        "style": "soft natural light with realistic shadows"
+      },
+
+      "camera": {
+        "angle": "slightly elevated front perspective",
+        "lens": "35mm architectural view"
+      }
+    },
+
+    "consistency_rules": [
+      "room positions must be identical between blueprint and render",
+      "no extra structures added in render",
+      "all doors and windows must align logically",
+      "pool size and placement must match exactly",
+      "garage placement must match blueprint"
+    ],
+
+    "style": {
+      "top": "architectural visualization (dark premium)",
+      "bottom": "photorealistic modern house",
+      "overall": "clean, high-end architectural presentation"
+    },
+
+    "negative_constraints": [
+      "no mismatch between blueprint and render",
+      "no extra rooms",
+      "no fantasy elements",
+      "no unrealistic proportions",
+      "no cluttered environment"
+    ]
+  }

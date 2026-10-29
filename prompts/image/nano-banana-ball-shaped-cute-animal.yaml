@@ -1,0 +1,27 @@
+id: nano-banana-ball-shaped-cute-animal
+title:
+  en: Ball-shaped baby sea otter floating in kelp
+  zh: 漂浮在海藻间的球形小海獭
+model: Nano Banana 2
+mode: text-to-image
+category: illustration
+tags:
+- cute
+- animal
+- ball-shaped
+- template
+- habitat
+source:
+  name: '@NanoBanana on X'
+  url: https://x.com/NanoBanana/status/2027298143134478451
+  credit: Nano Banana 2.1
+  likes: 851
+  captured: '2026-10-28'
+  posted: '2026-02-27'
+notes:
+  en: A single [animal] placeholder makes the prompt reusable across species. Fusing head and body into one near sphere, adding oversized eyes with an upward glance, and placing the animal in its usual habitat keeps the result cute and coherent.
+  zh: 用 [animal] 占位符让提示词可以套用到任何动物。头身合一的近似球体、超大的向上看的眼睛，再加上动物的日常栖息环境，画面既可爱又自然。
+prompt: |
+  This prompt works best with Nano Banana 2:
+
+  Prompt: Make a photo of a cute ball-shaped version of a [animal], with big adorable over-sized eyes, it has no head, instead its face is part of the ball, its head and body are one. They are in their usual habitat. Must be almost spherical and cartoonishly cute. Its eyes are looking up in the most adorable cheeky fashion.

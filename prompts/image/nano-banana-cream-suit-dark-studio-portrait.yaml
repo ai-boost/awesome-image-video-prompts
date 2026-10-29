@@ -1,0 +1,25 @@
+id: nano-banana-cream-suit-dark-studio-portrait
+title:
+  en: Cream Suit Studio Portrait on Black
+  zh: 黑色背景下的奶油色西装棚拍人像
+model: Nano Banana 2
+mode: text-to-image
+category: portrait
+tags:
+- fashion
+- studio-portrait
+- editorial
+- suit
+- low-key
+source:
+  name: '@iamsofiaijaz on X'
+  url: https://x.com/iamsofiaijaz/status/2038838879852376336
+  credit: Aijaz
+  likes: 136
+  captured: '2026-10-28'
+  posted: '2026-03-31'
+notes:
+  en: The prompt specifies fabric, trim colour and a hand gesture, so the suit texture and pose come out exact. Lens, lighting and mood terms like 85mm, shallow depth of field and a dark minimal backdrop give the editorial look.
+  zh: 提示词写明面料、镶边颜色和手部动作，让西装质感与姿势准确呈现。85mm、浅景深和深色极简背景等镜头与光线用语带出杂志大片的质感。
+prompt: |
+  A cinematic portrait of a handsome young man with neatly styled brown hair and light stubble, wearing a cream-colored tailored suit with subtle gold trim details, paired with a black dress shirt and black tie. He is adjusting his jacket with one hand, wearing a luxury wristwatch. The background is dark and minimal, creating a dramatic contrast. Soft studio lighting highlights his face and the texture of the suit, with a moody, elegant, high-fashion editorial style. Ultra-realistic, sharp focus, shallow depth of field, 85mm lens, professional photography, luxury aesthetic, high contrast, warm tones.

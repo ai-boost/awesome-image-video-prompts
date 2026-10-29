@@ -1,0 +1,25 @@
+id: nano-banana-pastel-ice-mountain-pagoda-sakura
+title:
+  en: Pastel Pagoda on Glowing Ice Mountains
+  zh: 冰晶山峦上的粉彩宝塔与樱花
+model: Nano Banana 2
+mode: text-to-image
+category: illustration
+tags:
+- fantasy
+- landscape
+- 3d-render
+- pastel
+- cherry-blossom
+source:
+  name: '@churvikv on X'
+  url: https://x.com/churvikv/status/2064113423135478120
+  credit: Viki
+  likes: 181
+  captured: '2026-10-29'
+  posted: '2026-06-08'
+notes:
+  en: 'Fixes the framing first: vertical, low front angle, temple just right of center, blossom branch from the upper left. It then pins a 35mm deep focus lens, a restricted pastel palette and cool cyan against warm pink light, with explicit bans on grain and hard shadows.'
+  zh: 先锁定构图：竖构图、低角度正面、宝塔略偏右、左上角伸入樱枝。再指定35mm深焦镜头、限定的粉彩色板、冷青与暖粉的光色对比，并明确排除颗粒和硬阴影。
+prompt: |
+  A dreamy pastel fantasy landscape in a vertical composition, showing a glowing East Asian pagoda-style temple perched halfway up a cluster of towering crystalline ice mountains, surrounded by delicate pink cherry blossom trees and drifting petals. The scene is framed as a wide environmental shot from a slightly low, front-facing angle with a centered composition, the temple placed just right of center, a branch of blossoms entering from the upper left, and a layered foreground of smooth rock forms, luminous cascading waterfalls, and a reflective pool with soft pink light traces; the perspective feels like a 35mm lens with deep focus and gentle atmospheric depth rather than strong blur. Render it as a highly polished 3D fantasy illustration with ultra-smooth surfaces, sculpted matte rocks, translucent icy peaks, and subtle volumetric haze, combining ethereal neon glow with a clean, almost porcelain-like finish. Lighting is soft and diffuse like overcast twilight, with cool cyan-blue emission radiating from the mountains and waterfalls, contrasted by warm pastel pink and peach illumination from the temple windows and accents, creating a serene bioluminescent look with soft bloom and faint edge glow. The color palette is dominated by pale icy blue, lavender-gray, blush pink, and pearly white, with low contrast, high softness, and a calm magical mood; the background is minimal and misty with no visible horizon, making the mountain formation feel isolated in a tranquil dream world. Include fine details such as tiered temple architecture with glowing outlines, stylized stairways and stone base, multiple sakura trees rooted in the rocky terraces, silky water motion, tiny floating petals, and subtle reflections in the water. The final image should feel immaculate and cinematic, with no visible grain, no hard shadows, very light bloom, soft post-processing, and a luminous pastel fantasy aesthetic reminiscent of premium concept art or high-end CGI environment design.

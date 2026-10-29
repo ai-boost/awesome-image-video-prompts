@@ -1,0 +1,25 @@
+id: gpt-image-morning-diaries-travel-scrapbook-poster
+title:
+  en: Morning Diaries travel scrapbook poster from photo
+  zh: 由照片生成的晨间日记旅行手账海报
+model: GPT Image 2.5
+mode: image-edit
+category: collage
+tags:
+- scrapbook
+- travel-journal
+- photo-edit
+- editorial-poster
+- identity-lock
+source:
+  name: '@Aqsahere_ on X'
+  url: https://x.com/Aqsahere_/status/2104395935438581848
+  credit: Aqsa
+  likes: 63
+  captured: '2026-10-28'
+  posted: '2026-09-28'
+notes:
+  en: The prompt first locks the subject's identity and outfit from the uploaded photo, then changes only the time of day. It lists the scrapbook elements and exact typography strings, and caps the palette and 3:4 ratio.
+  zh: 提示词先锁定上传照片中人物的身份与服装，只改变时间氛围，再逐项列出手账元素和排版文字，并限定配色与3:4比例。
+prompt: |
+  Create a high-end morning editorial scrapbook poster from the uploaded photo. Transform the sunset scene into a fresh early-morning atmosphere with soft golden morning sunlight, clear blue sky, fluffy white clouds, crisp green mountains, and bright wildflowers. Keep the woman’s appearance, outfit, pose, facial features, hair, pink bucket hat, pink T-shirt, dark jacket tied around her waist, and overall identity consistent. Design it as a sophisticated travel-journal collage with torn cream paper, Polaroid frames, subtle washi tape, film-strip details, pressed daisies, delicate botanical sketches, handwritten notes, and vintage paper textures. Use the main photo prominently in the center with several smaller snapshots showing different natural angles from the same scene. Add elegant editorial typography reading “MORNING Diaries”, with small phrases such as “clear skies · brighter days”, “same places, different mornings”, and “good views, good mood”. Keep the palette soft and refined: sky blue, fresh green, warm cream, pale pink, and subtle beige. Make it feel like a premium independent travel magazine mixed with a personal morning diary—artistic, airy, nostalgic, natural, and beautifully composed, not like an advertisement. Strict 3:4 vertical composition, realistic photography blended seamlessly with refined scrapbook elements.

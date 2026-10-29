@@ -1,6 +1,6 @@
 # Photo to art
 
-[Back to the list](../../README.md) · All 38 entries
+[Back to the list](../../README.md) · All 52 entries
 
 <a id="gpt-image-photo-to-watercolor-travel"></a>
 ### Upper half photo, lower half watercolour travel sketch
@@ -311,6 +311,417 @@ Final Result: A refined, minimalist, hand-crafted paper illustration with genero
 
 </details>
 
+<a id="nano-banana-double-exposure-profile-ruined-city"></a>
+### Double exposure profile portrait with ruined city sunset
+
+<a href="https://x.com/HaniaAi12/status/2027628259467313402"><img src="../../previews/nano-banana-double-exposure-profile-ruined-city.jpg" width="360"></a>
+
+Strict identity lock on the reference face, then a clean side profile silhouette that holds a separate scene. The inner street uses symmetrical perspective lines and a backlit sun at the horizon, with a request for smooth blended edges between portrait and city.
+
+Nano Banana 2 · Edit · Source: [@HaniaAi12 on X](https://x.com/HaniaAi12/status/2027628259467313402) · 534 likes on 2026-10-28
+
+[`double-exposure`](tags.md#tag-double-exposure) [`side-profile`](tags.md#tag-side-profile) [`golden-hour`](tags.md#tag-golden-hour) [`identity-lock`](tags.md#tag-identity-lock) [`cinematic`](tags.md#tag-cinematic)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Use the uploaded picture as a reference (Strict identity lock, the face must match the attached reference photo exactly, preserving facial structure, skin tone, expression, and hairstyle (same haircut and hair texture) to create an ultra-realistic cinematic double exposure portrait of me in a clean left-facing side profile, sharp jawline and natural facial structure clearly defined.
+The outer silhouette is dark and well-contoured against a soft warm beige sunset background. Inside the silhouette, seamlessly blend a dramatic urban street scene at golden hour: a lone me walking forward in the center of an empty destroyed city road, symmetrical perspective lines, damaged buildings on both sides, broken debris scattered along sidewalks, electric poles and cables stretching into the distance.
+The sun positioned directly at the horizon behind the walking figure, creating strong backlight glow and long stretched shadow toward the camera.
+Warm orange sunlight flooding through the internal city scene, high contrast, cinematic depth, realistic textures, smooth blending edges between portrait and environment.
+Moody yet hopeful atmosphere, 8K resolution, sharp detail, soft vignette. size 4 5 image generate.
+```
+
+</details>
+
+<a id="nano-banana-watercolor-couple-portrait-walnut-frame"></a>
+### Framed watercolor portrait of a couple
+
+<a href="https://x.com/Naiknelofar788/status/2029104746477563913"><img src="../../previews/nano-banana-watercolor-couple-portrait-walnut-frame.jpg" width="360"></a>
+
+Locks identity to the reference photo with explicit do not beautify rules, then fixes pose, head angle and expressions in a strict composition block. Separate wet on wet and wet on dry instructions, plus a framing and wall mockup spec, give a convincing real watercolor look.
+
+Nano Banana 2 · Edit · Source: [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2029104746477563913) · 533 likes on 2026-10-28
+
+[`watercolor`](tags.md#tag-watercolor) [`couple-portrait`](tags.md#tag-couple-portrait) [`reference-photo`](tags.md#tag-reference-photo) [`framed-art`](tags.md#tag-framed-art) [`identity-preservation`](tags.md#tag-identity-preservation)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 4k resolution, 4:5 aspect ratio, high-quality digitally rendered watercolor-style portrait of a couple, presented inside a dark walnut wooden frame. The artwork must combine precise digital illustration with the soft, fluid characteristics of traditional watercolor painting.
+Use the provided reference image to accurately replicate BOTH subjects identity.
+
+Do NOT beautify, idealize, reshape, smooth excessively, or invent new features.
+
+The final result must look like the exact same two people in watercolor form.
+Subject Composition (Strict — Do Not Modify)
+Intimate bust portrait, cropped slightly below mid-chest.
+Male positioned on the left, female on the right.
+Their upper bodies angled very slightly inward toward each other.
+Shoulders gently overlapping, with the female subtly leaning into the male’s shoulder for a natural, connected feel.
+Heads placed close together with temples nearly touching.
+Both faces turned almost straight toward camera with only a minimal inward rotation (very subtle 5–10° inward angle).
+Chins level and aligned at similar height (no exaggerated tilt).
+Posture upright but relaxed — not stiff, not exaggerated.
+Expressions soft and warm:
+
+Male — calm, subtle closed-mouth smile.
+
+Female — bright, open smile with gentle warmth.
+Eye contact directed toward the viewer.
+No dramatic head tilt. No exaggerated lean. Keep connection natural and balanced.
+Outfit  (Automatic From Reference)
+Carefully analyze the uploaded reference image and:
+Detect exact clothing type (shirt, blouse, jacket, saree, kurta, suit, casualwear, etc.)
+
+Preserve accurate fabric color, texture, and material type.
+
+Replicate neckline, collar style, sleeve length, layering, visible accessories.
+Maintain realistic folds and garment structure.
+Do NOT replace clothing unless explicitly instructed.
+
+Enhance subtle fabric texture slightly for watercolor realism, while keeping authenticity.
+Artistic Style & Watercolor Execution
+Medium Simulation:
+Blend wet-on-wet soft gradients in background.
+
+Use wet-on-dry precision around facial features.
+Allow organic pigment bleeding around edges.
+Maintain visible watercolor paper grain texture.
+Brushwork Detail:
+Fine strokes for eyelashes and individual hair strands.
+
+Controlled detailing around eyes and lips.
+Broad translucent washes for clothing.
+Subtle pigment pooling and natural gradient transitions.
+
+Soft watercolor blooms around outer edges.
+Do NOT over-sharpen or make it look like a digital painting — it must feel like genuine watercolor.
+Color Palette (Adaptive + Balanced)
+Maintain accurate skin tones from reference.
+
+Use soft warm neutrals (cream, beige, tan) as base tones.
+Introduce complementary cool washes when appropriate.
+
+Background should remain light, airy, and minimally dominant.
+Avoid heavy contrast or overly saturated tones.
+ Lighting & Depth
+Soft, natural, diffused lighting from slightly above and front-facing.
+Gentle highlight across forehead, cheekbones, and nose bridge.
+Subtle shadow under jawline and neck area for depth.
+No dramatic side-lighting.
+High-key, airy atmosphere.
+Enhance depth subtly while maintaining watercolor softness.
+
+Presentation & Framing
+Artwork displayed inside a dark walnut or espresso-finished wooden frame.
+Modern flat frame profile with subtle wood grain.
+No visible matting.
+Art extends near edges for a contemporary full-bleed look.
+Visible watercolor paper texture inside frame.
+Clean neutral wall mockup presentation.
+Frame visible evenly on all four sides with centered wall alignment.
+Slightly Increased Quality Controls (For Better Results)
+Increase fine facial detailing by 15–20% while maintaining watercolor softness.
+Improve edge control around eyes and lips for clarity.
+
+Maintain subtle texture contrast between skin and clothing.
+
+Ensure both subjects remain equally sharp and balanced.
+```
+
+</details>
+
+<a id="nano-banana-photo-ink-split-poster"></a>
+### Half photo, half black-ink illustration poster
+
+<a href="https://x.com/ChillaiKalan__/status/2110581440085987751"><img src="../../previews/nano-banana-photo-ink-split-poster.jpg" width="360"></a>
+
+Asks for an exact 50/50 split, then specifies how each half treats the same subject.
+
+Nano Banana 2.1 · Edit · Source: [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2110581440085987751) · 414 likes on 2026-10-27
+
+[`split-composition`](tags.md#tag-split-composition) [`ink`](tags.md#tag-ink) [`photo-to-art`](tags.md#tag-photo-to-art)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Using the uploaded reference image, create a single high-resolution vertical 2:3 editorial art poster.
+
+Divide the canvas into two perfectly equal horizontal sections, each occupying exactly 50% of the total height. Separate them with a clean, perfectly straight horizontal dividing line.
+
+1. TOP HALF — ORIGINAL REFERENCE PHOTOGRAPH
+
+Use the uploaded reference photograph directly in the upper 50% of the poster.
+
+Preserve its original photographic quality, sharpness, natural lighting, and color relationships.
+
+Allow only subtle, intelligent cropping around the outer edges when necessary, without compromising the main subject.
+
+If required, naturally extend a small portion of the surrounding environment to fit the composition.
+
+Do not redraw, illustrate, stretch, blur, or modify the subject's appearance, structure, or spatial relationships.
+
+Do not introduce black borders, white margins, or empty edges.
+
+2. BOTTOM HALF — MINIMALIST EDITORIAL ILLUSTRATION
+
+Use a warm, near-white ivory paper background with an extremely subtle paper texture.
+
+Analyze the main subject and visual story of the uploaded reference image.
+
+Extract only the primary subject, preserving one or two essential identifying elements.
+
+Remove or heavily simplify all secondary details, including background architecture, crowds, vehicles, fences, signs, trees, and other unnecessary elements.
+
+Transform the primary subject into a sophisticated black-ink editorial illustration.
+
+ILLUSTRATION STYLE:
+
+Use natural, clean pen strokes with varied line weight.
+
+Preserve an authentic hand-drawn appearance with expressive but controlled linework.
+
+Avoid overly precise engraving aesthetics, excessive internal details, and dense cross-hatching.
+
+Place a large, nearly pure-black rectangular ink block behind the illustrated subject.
+
+The rectangular block should have subtly imperfect, handmade print-style edges.
+
+Keep the black background clean, with only fine paper grain and minimal noise.
+
+Avoid obvious hatching, scratches, architectural lines, or complex textures.
+
+ILLUSTRATION SCALE AND COMPOSITION:
+
+The illustrated subject must occupy approximately 72–77% of the canvas width and 58–64% of the bottom section's height.
+
+Maintain a clear visual focal point with generous negative space surrounding the illustration.
+
+3. COLOR RULES
+
+The bottom illustration must follow a strictly black-and-white color palette by default.
+
+Preserve only one localized accent color if the original reference image contains a clearly distinctive, concentrated color element with meaningful narrative importance.
+
+Ordinary blue skies, green vegetation, stone surfaces, skin tones, and environmental colors must not be treated as accent colors.
+
+Any preserved accent color must remain strictly localized to the relevant subject or area.
+
+Never allow accent colors to spread across the entire illustration.
+
+4. TYPOGRAPHY AND EDITORIAL LAYOUT
+
+Automatically generate concise, meaningful English typography based on the content of the uploaded reference photograph.
+
+The typography must resemble handwritten editorial annotations from an independent art publication.
+
+TOP-LEFT CORNER:
+
+Generate a short handwritten title consisting of 2–5 words, arranged across two lines.
+
+Directly beneath the title, include three short English action verbs relevant to the photograph.
+
+TOP-RIGHT CORNER:
+
+Display only two lines of geographic coordinates:
+
+Latitude
+Longitude
+
+Do not include any additional text in this area.
+
+BOTTOM-LEFT CORNER:
+
+Display the location name followed by the word "DIARY."
+
+Directly beneath it, add one short descriptive English sentence inspired by the photograph.
+
+TYPOGRAPHY STYLE:
+
+Use a rough, upright, slightly irregular handwritten typeface.
+
+Maintain subtle imperfections and a natural editorial annotation aesthetic.
+
+Avoid elegant cursive, calligraphy, overly decorative lettering, and excessively polished typography.
+
+5. FINAL ART DIRECTION
+
+The finished poster must combine:
+
+Authentic, high-quality photography.
+Minimalist black-and-white editorial illustration.
+Generous negative space.
+Independent art publication aesthetics.
+Quiet, restrained, sophisticated visual storytelling.
+Natural handwritten typography.
+A balanced relationship between documentary realism and expressive hand-drawn artwork.
+
+The overall result should resemble a carefully designed, collectible editorial art print.
+
+6. FINAL OUTPUT REQUIREMENTS
+
+ASPECT RATIO:
+2:3 vertical.
+
+RESOLUTION:
+High-resolution, sharp, print-quality output.
+
+COMPOSITION:
+
+Exactly 50% original reference photography on top.
+
+Exactly 50% editorial illustration on the bottom.
+
+One perfectly straight horizontal dividing line.
+
+One complete, standalone poster.
+
+RESTRICTIONS:
+
+No collages.
+No multi-poster layouts.
+No combined images.
+No unnecessary decorative elements.
+No modifications to the original subject's identity or appearance.
+No excessive illustration details.
+No changes to the original photograph's natural color relationships.
+
+FINAL GOAL:
+
+Create a sophisticated, visually balanced editorial art poster that faithfully preserves the uploaded reference photograph while transforming its primary subject into an expressive, minimalist black-ink illustration.
+```
+
+</details>
+
+<a id="gpt-image-editorial-photo-paper-illustration-poster"></a>
+### Editorial poster with photo and paper illustration
+
+<a href="https://x.com/saniaspeaks_/status/2097293815698612309"><img src="../../previews/gpt-image-editorial-photo-paper-illustration-poster.jpg" width="360"></a>
+
+A strict 3:4 layout split into two equal halves locks the structure, with the top half held faithful to the source photo and the bottom half restyled as a small handmade paper illustration. Limiting the palette to four colors sampled from the photo ties both halves together, and the never combine images rule keeps each upload as its own poster.
+
+GPT Image 2 · Edit · Source: [@saniaspeaks_ on X](https://x.com/saniaspeaks_/status/2097293815698612309) · 329 likes on 2026-10-28
+
+[`editorial-poster`](tags.md#tag-editorial-poster) [`split-layout`](tags.md#tag-split-layout) [`paper-illustration`](tags.md#tag-paper-illustration) [`art-book`](tags.md#tag-art-book) [`photo-to-art`](tags.md#tag-photo-to-art)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Premium editorial poster for every uploaded photo never combine images. Use a strict 3:4 vertical layout split into two equal horizontal halves. Keep the top half as a faithful photorealistic version of the original image, preserving the subject’s identity, pose, clothing, composition, lighting, colors, and atmosphere with only subtle high-end editorial grading.
+Transform the bottom half into a warm off-white minimalist art space featuring a small centered handmade paper-style illustration inspired by the main subject and key elements of the photo. Use imperfect sketch lines, flat acrylic-like shapes, visible paper texture, rough brush marks, and organic edges. Keep plenty of negative space and limit the palette to four harmonious colors sampled from the original image. Optional minimal editorial text may be added if it naturally fits. The overall result should feel quiet, poetic, artistic, refined, and like a premium contemporary art-book cover.
+```
+
+</details>
+
+<a id="gpt-image-knitted-puppet-bust"></a>
+### Photo to knitted stop-motion puppet bust
+
+<a href="https://x.com/oggii_0/status/2114585881059459119"><img src="../../previews/gpt-image-knitted-puppet-bust.jpg" width="360"></a>
+
+Very long material spec (yarn, stitches, felt) with a final rule not to invent anything the photo does not show.
+
+GPT Image 2.5 · Edit · Source: [@oggii_0 on X](https://x.com/oggii_0/status/2114585881059459119) · 327 likes on 2026-10-27
+
+[`3d`](tags.md#tag-3d) [`textile`](tags.md#tag-textile) [`toy`](tags.md#tag-toy)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Task: Create a 1:1 Square 3D Textile Art Toy Bust from the Attached Real Photograph
+
+Use the attached real photograph to create a square 1:1, stylized 3D textile art toy bust. Interpret the inputs by their roles: the real photograph is the source of identity and content, while the minimalist white-background toy image is the style reference. Their order does not matter.
+
+Preserve the subject’s identity, facial expression, pose, and spatial relationships between objects. Reconstruct the subject as an exaggerated, humorous designer collectible toy. Do not apply a simple fuzzy or plush filter to the original photograph.
+
+## 1. Style Reference
+
+Borrow only these visual characteristics from the reference image:
+
+- An oversized, horizontally broad head with rounded corners.
+- Extremely small, centrally concentrated facial features with generous facial negative space.
+- Sculptural knitted forms, clustered yarn shapes, and soft textile construction.
+- Subtle asymmetry for a handmade, designer-toy appearance.
+- Contrast between fine-grained flocked surfaces and chunky knitted textures.
+- A deliberate primary and accent color hierarchy.
+- Clean, minimalist white studio photography.
+
+Do not inherit the reference character’s body, pose, hairstyle, hat, glasses, clothing, props, or colors.
+
+## 2. Subject and Identity Preservation
+
+The real photograph is the exclusive source of visible content. Reproduce only the body parts, hairstyle, clothing, accessories, objects, poses, and contact relationships that are actually visible in the original image. Never invent or complete details that extend beyond the photograph.
+
+Identify 2–5 distinctive identity anchors from the source image. Exaggerate 1–2 of them while simplifying the remaining details to maintain recognizability.
+
+- **Head:** Transform it into a broad, thick, rounded rectangular block or a short cylindrical form with softened corners.
+- **Eyes:** Use tiny black beads or capsule-shaped forms.
+- **Nose:** Reduce it to a small, rounded rectangular block.
+- **Mouth:** Preserve the original expression using a short line or a small opening, as appropriate.
+- **Hair:** Reconstruct it as large yarn loops, chunky knitted clusters, or sculptural bundles of wool.
+- **Hands:** Strictly preserve the number of visible hands. If no hands are visible, add none. If one hand is visible, reproduce only one. Preserve its orientation, sleeve cuff, and contact with the original object.
+- **Text and logos:** Convert any visible lettering or branding into illegible woven or knitted texture rather than readable text.
+
+## 3. Composition
+
+Create a compact, close-up head-and-shoulders composition.
+
+- The head should occupy approximately 75–90% of the image width.
+- Compress the body into a small supporting form, retaining only the essential visible pose, gestures, and objects.
+- Allow elements to be cropped by the image boundaries when necessary.
+- Do not add body parts or anatomy extending beyond the original photograph.
+- Maintain a clear silhouette and recognizable relationships between the subject and any visible objects.
+
+## 4. Visual Style
+
+**Stylized 3D textile art toy, oversized head, tiny concentrated facial features, sculptural knitted forms, micro-flocked surfaces.**
+
+Prioritize abstract exaggeration over photorealism while preserving recognizability through the subject’s silhouette, hairstyle, facial expression, pose, clothing, and visible objects.
+
+The result should feel like a thoughtfully designed, premium collectible art toy rather than a conventional 3D cartoon character.
+
+## 5. Color Palette
+
+Automatically develop a cohesive palette of 3–5 colors, including:
+
+- A dominant primary color.
+- A contrasting accent color with a clear difference in temperature or brightness.
+- One or more supporting colors.
+- A neutral color for balance.
+
+Non-identity-defining elements may be recolored to improve visual harmony. Preserve the essential identity cues of the original subject while avoiding monotonous palettes, excessive neutrals, evenly distributed rainbow colors, or repetitive mechanical stripes.
+
+## 6. Materials, Texture, and Lighting
+
+Use distinct textile treatments for different surfaces:
+
+- **Face, hands, and small components:** Fine, dense micro-flocked or short-fiber felt surfaces.
+- **Hair, hats, and clothing:** Chunky knitting, crochet structures, large yarn loops, and clustered wool forms, applied only where those elements exist in the original photograph.
+
+Create visible material contrast between the fine-grained felt and the coarser knitted structures. The surfaces should appear sculpted from real textile materials, not covered with a generic fuzzy filter.
+
+Use a subtly warm-white seamless background, soft high-key studio lighting, gentle highlights, and short, delicate shadows. Keep the presentation clean, bright, and premium.
+
+## 7. Strict Exclusions
+
+- No photorealistic eyeballs, detailed nostrils, realistic lips, natural skin texture, or individual hair strands.
+- No copying the reference character’s identity or distinctive design elements.
+- No invented body parts, hand gestures, accessories, clothing, or props absent from the source photograph.
+- No conventional 3D cartoon aesthetics.
+- No plastic, polymer clay, wax figure, or long-pile plush appearance.
+- No readable text, logos, or branding.
+- No rooms, environmental scenes, or complex backgrounds.
+- No generic fuzzy overlay that obscures the underlying sculptural textile construction.
+
+## Final Priority
+
+**The source photograph determines WHAT is depicted. The style reference determines HOW it is depicted.**
+
+Deliver a polished, humorous, exaggerated 1:1 square 3D textile art toy bust with a distinctive oversized head, tiny facial features, sculptural yarn construction, contrasting textile textures, a deliberate color palette, and clean white studio lighting. Preserve the original subject’s identity and visible content without inventing anything beyond the photographic evidence.
+```
+
+</details>
+
 <a id="gpt-image-blue-doodle-couple-photo"></a>
 ### Photo turned into blue doodle couple
 
@@ -372,6 +783,76 @@ Nano Banana 2.1 · Edit · Source: [@Just_sharon7 on X](https://x.com/Just_sharo
 
 ```text
 {   "name": "Second World",   "version": "1.2",   "task": "Using each uploaded photo as an independent source, generate one complete poster per photo. Do not merge multiple photos onto the same canvas.",   "output": {     "aspect_ratio": "3:4",     "orientation": "vertical",     "one_poster_per_photo": true,     "layout": "Canvas horizontally divided at exactly 50% height, with upper and lower sections each occupying 50%, same width",     "no_mockup": true   },   "core_principle": "The Second World is already hidden in the photo. Let the same scene pass through the midline and continue downward, changing only the physical rules in the lower half. Continuity of the cross-boundary structure is the highest visual priority.",   "upper_half": {     "source": "The current uploaded photo",     "preserve": [       "Subject identity and appearance",       "Character poses, expressions, and actions",       "Spatial relationships, proportions, and perspective",       "Original color atmosphere",       "Natural lighting and shadows",       "Environment and important details"     ],     "allowed_change": "Only necessary proportional cropping to fit the upper half, avoiding cutting off key subjects or connection structures",     "forbidden": [       "Redesigning the photo",       "Redrawing or replacing the subject",       "Rearranging characters and objects",       "Changing the photo's colors",       "Fictional lighting or background"     ],     "fidelity_rule": "Prioritize directly reusing the original photo; do not claim generative redrawing as lossless preservation of the original. If the tool cannot meet original preservation and precise layout, state the limitations—do not lower requirements and claim full compliance."   },   "continuity": {     "choose_one_source_structure": "Identify a structure from the original photo that can naturally extend to the midline, such as a road, shoreline, water surface, reflection, tree branch, light beam, architectural line, clothing flow, or body movement",     "requirements": [       "The structure must continue into the lower half at the exact midline meeting point",       "Maintain believable continuity in direction, position, scale, and occlusion relationships",       "Establish a visible connection first, then develop the lower half's imagination",       "Both halves must read as the same scene, not like two independent images stacked vertically"     ],     "transition_edge": {       "optional": "Allow irregular torn paper edges",       "rule": "Tearing must follow the original image's structure, not just as decoration, and avoid using the same tearing shape for every image",       "interaction": "Source elements can touch, cling to, pass through, or cross over the torn edge"     }   },   "lower_half": {     "background": "Warm ivory paper texture, with subtle visible fibers, rich negative space",     "media": [       "Restrained photo fragments",       "Simple cut-paper shapes",       "Minimal black hand-drawn lines"     ],     "construction": "Extend downward from where the upper half's source structure meets the midline, then gradually reinterpret it as the Second World",     "prohibited": "Do not turn it into an isolated entrance, window, stage, platform, or floating vignette, unless the form clearly grows continuously from the original photo",     "density": "Bright, airy, restrained—avoid dense drawing or collage buildup"   },   "second_world_logic": {     "question": "If the structure in the photo could be touched, used, entered, folded, stretched, or changed, what would it naturally become?",     "interaction_count": 1,     "instruction": "Establish only one specific, clear, and interesting interaction per image, prioritizing possibilities discovered from the original image's shapes and actions, not reverse-engineering from fixed props or templates.",     "examples_for_logic_only": [       "Water surface remains connected to the lake while being rolled up or stretched",       "Road extends onto the paper, becoming a path that can be continued by drawing",       "An existing light beam extends downward, becoming something gently graspable"     ],     "variation": "Judge each work individually—do not mechanically repeat actions, connection structures, compositions, or jokes. Examples are not required content."   },   "tiny_figures": {     "count": "0–3",     "appearance": "Minimalist, tiny black line figures",     "add_only_if": "Figures can engage in necessary and explicit physical interaction with the extending structure",     "omit_if": "Source photo already contains strong human actions",     "forbidden": "Using little figures as irrelevant decorations or adding crowds just for liveliness"   },   "copy": {     "language": "Primarily Chinese, paired with a short English accent",     "main_text": "A short, witty, cute, humorous Chinese marginal note, or one with a slight surprising insight",     "english": "Shorter, lighter English supplement; can complement the Chinese without word-for-word translation",     "intent": "Make viewers smile knowingly after seeing the image and then the small text, or suddenly understand one more layer",     "requirements": [       "Recreate based on this photo's specific interaction with the Second World",       "Don't just name the action or mechanically describe the image",       "Can include anthropomorphism, slight contrasts, deadpan little jokes, or gentle self-deprecation",       "Can have a wake-up-call vibe, but no grand life lessons",       "Don't force self-love, motivational, or emotional comfort templates",       "Humor targets the situation, without belittling characters' appearance, identity, or circumstances"     ],     "avoid": [       "Vague inspirational fluff",       "Grand maxims",       "Preachiness",       "Ad slogans",       "Irrelevant internet memes",       "Fixed 'same..., different...' sentence structures",       "Reusing the same copy for every image"     ],     "examples_for_tone_only": [       {         "context": "Taking away the sunset",         "chinese": "这个不算超重吧",         "english": "just a little sunset"       },       {         "context": "Rolling the lake surface into a paper ribbon",         "chinese": "不用袋子，我卷着走",         "english": "no bag, thanks"       },       {         "context": "Shadow rolled into a bed corner",         "chinese": "影子先躺了，我再走会儿",         "english": "five more minutes"       }     ],     "example_rule": "Borrow only the humor mechanism—do not fix example sentences into new works."   },   "handwriting": {     "scale": "Small marginal notes, English even smaller—no huge titles stealing the scene",     "placement": "In natural white space, not obscuring subjects, cross-boundary connection points, or key interactions",     "chinese": "Truly natural, slightly messy handwriting, not neat computer-generated script",     "english": "Similarly like casually scribbled, relaxed and irregular",     "details": [       "Slight variations in character size",       "Baseline with minor undulations",       "Tilt angles not perfectly consistent",       "Natural variations in spacing",       "Strokes with pressure and pauses",       "Minimal overlapping or incomplete ink traces"     ],     "corrections": {       "allowed": true,       "frequency": "Occasional only—not required for every image",       "method": "Can gently strike through a mistaken or revised word, adding the correct version nearby or above",       "limit": "Usually at most 1–2 instances—don't turn the whole page into a repeatedly scribbled draft",       "legibility": "Final meaning must be clear—no simulating handwriting with gibberish or meaningless errors"     }   },   "overall_style": {     "mood": [       "Indie magazine vibe",       "Bright and airy",       "Warm paper texture",       "Restrained",       "Lightly humorous",       "Subtle handmade traces"     ],     "hierarchy": [       "Original photo and cross-boundary structure",       "Clear interaction in the lower half",       "Small bilingual handwritten marginal notes"     ],     "finish": "Like gently unveiling a hidden world in the photo, not pasting an extra illustration below it"   },   "negative_prompt": [     "Detached lower-half illustrations",     "Broken cross-boundary continuity",     "Generic torn-paper templates",     "Isolated entrances or windows",     "Irrelevant vignettes",     "Dense illustrations",     "Random decorations",     "Decorative crowds",     "Altering original photo colors",     "Redesigning the upper photo",     "Glossy 3D",     "Scrapbook clutter",     "Huge titles",     "Neat printed-style handwriting",     "Nonsensical text",     "Motivational fluff",     "Watermarks",     "Logos",     "UI elements",     "Merging multiple photos",     "Grid layouts"   ],   "final_check": [     "Does each original image correspond to one independent 3:4 poster?",     "Do upper and lower sections strictly each occupy 50%?",     "Is the upper half's original photo faithfully preserved, with only necessary cropping?",     "Is there one authentic source structure accurately continuing at the midline?",     "Does the lower half belong to the same scene as the original image, not an isolated illustration?",     "Is there only one clear, natural, and non-repetitive templated interaction?",     "Is the Chinese interesting and lingering, not just a simple action label or preachiness?",     "Are the Chinese and English in small, natural, messy, and readable handwriting?",     "Is sufficient negative space preserved?"   ] }  Note: The above are target requirements; generated results still need checking for original image preservation, seams, and text—do not treat generative redrawing as lossless original preservation.
+```
+
+</details>
+
+<a id="gpt-image-photo-to-ink-wash-split-seaside-tower"></a>
+### Seaside tower photo above ink wash twin
+
+<a href="https://x.com/Ziha_ai/status/2109118256045002828"><img src="../../previews/gpt-image-photo-to-ink-wash-split-seaside-tower.jpg" width="360"></a>
+
+The prompt splits the canvas into two equal halves, with a faithful photo on top and a minimalist ink wash rebuild below. It controls the lower half with paper texture, limited colour spots, negative space ratios and sparse text.
+
+GPT Image 2.5 · Text-to-image · Source: [@Ziha_ai on X](https://x.com/Ziha_ai/status/2109118256045002828) · 257 likes on 2026-10-28
+
+[`ink-wash`](tags.md#tag-ink-wash) [`split-layout`](tags.md#tag-split-layout) [`photo-to-art`](tags.md#tag-photo-to-art) [`negative-space`](tags.md#tag-negative-space) [`eastern-aesthetics`](tags.md#tag-eastern-aesthetics)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+The image is in a 3:4 vertical composition, divided into two regions, with a strict 1:1 ratio, each taking up 50% of the image.
+
+Upper Region - Original Photo Shoot Area
+
+Preserves the subject's identity, structure, perspective, and true material, natural light, and original color atmosphere, with only slight high-end color grading and image purification, presenting it with the texture of art magazines or exhibition photography. It allows for a moderate expansion of the background to fit the screen size, but does not stretch, distort, or reshape the subject, without changing the subject's structure, posture, and core composition.
+
+Lower Region - Minimalist Ink Wash Reconstruction Area
+
+First, refine the subject with the most memorable details, such as the outline, structure, trend, perspective, rhythm, and atmosphere, and then reconstruct the same scene into a minimalist ink wash material landscape. Do not copy the photo details, do not make a realistic copy, only preserve the most recognizable structure and charm, allowing people to recognize the corresponding relationship between the upper region and the original photo at first glance.
+
+The overall base of the lower half is milky white, warm white or paper white, with delicate paper fiber and natural texture. The main body is reconstructed in ink wash blending, dry-wet interplay, flying white, seepage, ink accumulation, and white space, forming a quiet, restrained, and poetic Eastern visual. Removing secondary details, only retaining the most distinctive contours, structural turns, spatial layers, and breath, not pursuing realistic completeness, but rather summarizing, refining, and leaving a lingering impression. The use of ink in black, gray, and light ink tones, layered and progressing, with varying intensities and rhythms.
+
+The most vibrant colors can be extracted from the original image to create a few spots of dyeing or coloring, without mechanically replicating the color values. The colors can be transformed locally into clear blue-gray, distant blue, soft gold, warm yellow, vermilion red, light cyan, etc., to emphasize the main focus and emotional rhythm, but the overall composition is still dominated by ink tones and negative space. Avoiding dull, heavy, old brown, excessive decoration, and vulgar color combinations.
+
+The main core areas should be more refined and concentrated, with edges gradually loosening, breaking away, disappearing, and scattering, forming a sense of breathing with the large negative space. The lower half of the composition should account for about 30%-45%, with the rest reserved for large negative spaces. The composition can be biased, framed, suspended, or slightly cut, but must maintain an asymmetrical balance and a high-end editorial feel. Negative space is not blank, but an important component of the visual structure. It is better to reduce information than to fill the entire image, so that the main focus looks like an ink seal or an oriental material work displayed on a page.
+
+Text Treatment
+
+Text is only allowed a very small amount of editing intervention, without preset titles and numbers. A small number of words or short sentences can be extracted from the subject, location, time, action, emotion, or metaphor, and quietly placed in the blank area or the edge of the subject. The text should be restrained, sparse, and have a sense of breathing, not noisy or dominant.
+
+Overall Presentation
+
+Contemporary Eastern aesthetics, minimalist ink wash reconstruction, large-scale art blank, small-scale seal impression, quiet editing layout and exhibition poster style. Avoid complex backgrounds, piled-up real details, overly decorative, excessive text, template layout and filled composition
+```
+
+</details>
+
+<a id="gpt-image-watercolor-travel-journal-woman-overwater-villas"></a>
+### Watercolor island travel portrait with overwater villas
+
+<a href="https://x.com/KrishnaBio1/status/2102793005837242737"><img src="../../previews/gpt-image-watercolor-travel-journal-woman-overwater-villas.jpg" width="360"></a>
+
+The prompt splits the layout into a realistic photo section and a watercolor section that redraws the same scenes. It lists each destination with the outfit and setting, and tells the model to keep the woman's face consistent across all four.
+
+GPT Image 2.5 · Edit · Source: [@KrishnaBio1 on X](https://x.com/KrishnaBio1/status/2102793005837242737) · 229 likes on 2026-10-28
+
+[`watercolor`](tags.md#tag-watercolor) [`travel-journal`](tags.md#tag-travel-journal) [`photo-to-illustration`](tags.md#tag-photo-to-illustration) [`identity-consistency`](tags.md#tag-identity-consistency) [`editorial-layout`](tags.md#tag-editorial-layout)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a refined luxury editorial travel-art composition inspired by all four reference photographs, seamlessly combining four distinct travel moments into one sophisticated vertical travel journal artwork: Dubai coastline with the iconic sail-shaped Burj Al Arab and a stylish woman in a beige trench coat during golden hour; Icelandic snowy mountains beneath a dramatic glowing green and violet Northern Lights sky, with the woman wearing a warm beige knit beanie, turtleneck and coat; lush tropical Bali rice terraces surrounded by palm trees and misty green mountains, with the woman in a beige trench coat and soft cream knitwear; and a dreamy tropical island setting with turquoise ocean, traditional overwater thatched villas, palm trees and a dramatic volcanic mountain in the background, with the woman wearing a beige trench coat over a black top.
+
+Upper section: create a sophisticated realistic cinematic travel photography sequence that naturally blends these four destinations while keeping each environment visually recognizable and beautifully composed. Preserve the woman’s facial identity, facial proportions, hairstyle, skin tone, expression and overall appearance consistently across the different scenes. Authentic candid travel photography, natural realistic lighting appropriate to each destination, subtle film grain, detailed textures, realistic skin and clothing, atmospheric depth, elegant muted color grading, premium high-end travel magazine photography, cinematic composition, refined European-editorial travel aesthetic.
+
+Lower section: transform the exact same four travel scenes into delicate handmade watercolor illustrations, maintaining the recognizable landscapes, architecture, mountains, ocean, rice terraces, Burj Al Arab, Northern Lights, overwater villas, palm trees, clothing, poses and overall composition from the photographic scenes. Use loose translucent watercolor washes, delicate ink outlines, soft pigment bleeding, imperfect hand-painted brushwork, visible paper texture, airy negative space, subtle pastel tones and naturally faded watercolor edges. Keep the woman recognizable and consistent across all four illustrated scenes.
+
+Arrange the four destinations as one harmonious artistic travel story rather than four unrelated images, with smooth visual transitions and balanced spacing. Surround the artwork with generous warm ivory/off-white textured handmade paper. Add a small elegant handwritten travel-journal caption near the bottom, such as “Four Places, One Journey” or “Wander Beyond the Ordinary”, followed by a thin minimalist horizontal line.
+
+Overall aesthetic: luxury travel journal, fine-art watercolor postcard, cinematic travel photography, nostalgic wanderlust, contemporary editorial design, sophisticated and serene, tactile handmade paper, premium art direction, elegant natural proportions, highly detailed realistic photography transitioning beautifully into airy watercolor artwork, clean composition, no clutter, no heavy borders, no unnecessary graphic elements.
+
+Portrait orientation, premium editorial layout, cohesive visual storytelling, realistic-to-watercolor transformation, sophisticated travel magazine quality, high detail.
 ```
 
 </details>
@@ -548,6 +1029,140 @@ Maintain realistic anatomy, natural body proportions, recognizable faces, believ
 
 </details>
 
+<a id="nano-banana-ink-doodle-portrait-floral-frame"></a>
+### Black ink doodle portrait with floral border
+
+<a href="https://x.com/NikhilRajX/status/2030916225107398873"><img src="../../previews/nano-banana-ink-doodle-portrait-floral-frame.jpg" width="360"></a>
+
+The prompt stacks pen technique cues (varying line weight, cross hatched shading) with a list of named decorative motifs that fill the frame around the head. It locks likeness, expression and hairstyle to the reference photo and limits the palette to pure black ink on off white paper.
+
+Nano Banana 2 · Edit · Source: [@NikhilRajX on X](https://x.com/NikhilRajX/status/2030916225107398873) · 181 likes on 2026-10-28
+
+[`ink-doodle`](tags.md#tag-ink-doodle) [`line-art`](tags.md#tag-line-art) [`portrait`](tags.md#tag-portrait) [`reference-photo`](tags.md#tag-reference-photo) [`hand-drawn`](tags.md#tag-hand-drawn)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Gemini Nano Banana 2
+
+Prompt: Create a whimsical black ink line art doodle portrait of the person in the reference photo, hand-drawn sketch style with varying line thickness, detailed curly wavy hair flowing naturally, big expressive smiling eyes with lashes, warm happy smile showing teeth, soft cross-hatched shading on face for depth, surrounded by playful floating decorative doodles like small flowers, daisies, hearts, clouds, stars, tiny spirals, dots, triangles, abstract swirls and leaves all around the head and shoulders in a cute decorative frame, loose energetic pen lines, high detail in facial features to keep exact likeness, expression and hairstyle identical, clean beige or off-white paper background, no color, pure black ink illustration, charming notebook doodle aesthetic, intricate but not overcrowded --ar 3:4 --stylize 250 --v 6
+```
+
+</details>
+
+<a id="nano-banana-double-exposure-profile-lake-landscape"></a>
+### Double exposure profile portrait with misty lake
+
+<a href="https://x.com/HaniaAi12/status/2032993631792148666"><img src="../../previews/nano-banana-double-exposure-profile-lake-landscape.jpg" width="360"></a>
+
+A reference image is named twice, once for the main profile and once for the small figure, so the same person appears at two scales. The silhouette is filled with a scene of lake, mountains and mist, and bare branches, a minimal white background and poster framing keep it clean.
+
+Nano Banana 2 · Edit · Source: [@HaniaAi12 on X](https://x.com/HaniaAi12/status/2032993631792148666) · 174 likes on 2026-10-28
+
+[`double-exposure`](tags.md#tag-double-exposure) [`profile-portrait`](tags.md#tag-profile-portrait) [`surreal`](tags.md#tag-surreal) [`landscape`](tags.md#tag-landscape) [`reference-image`](tags.md#tag-reference-image)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+double exposure portrait of the character(reference image) in side profile looking left, blending into bare tree branches, surreal artistic composition, inside the silhouette a peaceful lake landscape with mountains and mist, a small character(of the same reference image) in a standing on mossy rocks holding a curved tree trunk, dreamy atmosphere, soft natural light, minimal white background, ethereal and poetic mood, fine art photography, ultra detailed, cinematic lighting, high resolution, poster design.
+```
+
+</details>
+
+<a id="gpt-image-photo-to-paper-second-world"></a>
+### Window Photo Continuing Into Ink Sketch Paper
+
+<a href="https://x.com/harboriis/status/2110328832352010584"><img src="../../previews/gpt-image-photo-to-paper-second-world.jpg" width="360"></a>
+
+A split canvas makes one structure, here the windowsill, cross the seam so the photo continues as paper and line drawing. A torn edge follows the source shape, and a short handwritten caption closes the scene.
+
+GPT Image 2.5 · Edit · Source: [@harboriis on X](https://x.com/harboriis/status/2110328832352010584) · 171 likes on 2026-10-28
+
+[`split-canvas`](tags.md#tag-split-canvas) [`paper-collage`](tags.md#tag-paper-collage) [`line-doodle`](tags.md#tag-line-doodle) [`continuity`](tags.md#tag-continuity) [`editorial`](tags.md#tag-editorial)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Vertical 3:4 canvas split into two strictly equal horizontal halves: top 50% and bottom 50%. The upper half stays photographic; the lower half becomes the continued Second World. Together they must read as one scene.
+
+the
+
+UPPER HALF
+
+Keep the photo faithful. Preserve the subject, pose, spatial relationships, color atmosphere, and natural light. Do not redesign, repaint, replace, or restage it. Only necessary proportional
+
+cropping is allowed.
+
+CONTINUITY (highest priority)
+
+Identify one source structure that naturally reaches the center split: a road, shoreline, water, reflection, branch, beam of light, piece of architecture, or body movement. This structure must cross the boundary and continue into the lower half. The Second World begins from the photograph itself, so the same scene passes through the seam and simply changes its physical rules.
+
+TRANSITION EDGE
+
+The center may use an irregular torn-paper edge, but the tear must follow the source structure, never act as decoration. Source elements may touch, follow, break through, or extend beyond edge. Never force the same tear shape onto every image.
+
+The Second World
+
+LOWER HALF
+
+Ivory paper with subtle fibers and abundant negative space. Continue the chosen structure downward from the exact point where it meets the split, then reinterpret it with restrained photo fragments, cut-paper forms, and minimal black hand-drawn lines. The lower world must stay visibly attached Never isolate it as a separate portal, window, stage, platform, or floating vignette unless it clearly comes from the photo.
+
+SECOND WORLD LOGIC
+
+Ask: if this structure became touchable, usable, enterable, or changeable, what would it naturally become? Create one image-specific interaction. For example, water may stay attached while being pulled, a road may continue as a drawn path, or light may become something held. Do not repeat actions mechanically.
+
+FIGURES
+
+Add 0-3 tiny black line figures only when useful. They must physically interact with the continued structure. If the photo already contains strong human action, add none. Never use figures as decoration.
+
+World
+
+CAPTION
+
+One
+
+short handwritten English caption (2-6 words) based on the action. Natural, light, slightly witty. Spell it correctly. No inspirational quotes and no fixed "Same..., different..." phrasing.
+
+STYLE
+
+Real photography above, warm paper below, minimal black line doodles, subtle handmade collage texture, independent-magazine mood. Bright, airy, restrained. It should feel as if the Second already hidden inside the photo and simply continued downward.
+
+was
+
+NEGATIVE
+
+No detached lower-half illustration, no generic torn-paper template, no isolated portal, no unrelated vignette, no broken continuity, no dense illustration, no random decoration, no crowd, altered photo colors, no redesign of the upper image, no glossy 3D, no scrapbook clutter, no gibberish text, no watermark, no logo, no UI.
+```
+
+</details>
+
+<a id="gpt-image-photo-to-watercolor-scrapbook-poster"></a>
+### Photo paired with watercolor painting on cream scrapbook poster
+
+<a href="https://x.com/Alina_with_Ai/status/2102714815793992093"><img src="../../previews/gpt-image-photo-to-watercolor-scrapbook-poster.jpg" width="360"></a>
+
+The prompt stacks a realistic copy of the uploaded photo above a watercolor repaint of the same scene, and lists identity, outfit and pose to keep consistent. Paper texture, splatter, edge and caption details give the layout an editorial scrapbook finish.
+
+GPT Image 2.5 · Edit · Source: [@Alina_with_Ai on X](https://x.com/Alina_with_Ai/status/2102714815793992093) · 157 likes on 2026-10-28
+
+[`watercolor`](tags.md#tag-watercolor) [`scrapbook`](tags.md#tag-scrapbook) [`photo-reference`](tags.md#tag-photo-reference) [`poster`](tags.md#tag-poster) [`handmade-paper`](tags.md#tag-handmade-paper)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a vertical scrapbook-style artistic poster using the uploaded photo as the exact reference. Keep the woman’s identity, facial features, hairstyle, pink button-up shirt, light blue wide-leg jeans, white sneakers, pose, proportions, and outfit consistent.
+
+The poster is printed on textured warm ivory watercolor paper. At the top, place a clean, realistic version of the original photograph, showing the woman casually leaning against a terrace railing with one hand resting on the railing and the other in her pocket. Preserve the scenic lake, distant mountains, hillside houses, tall trees, warm sunlight, stone terrace, and vibrant pink bougainvillea.
+
+Below the photo, create a beautiful hand-painted watercolor version of the exact same scene and pose, with soft blue mountain washes, a calm lake, warm beige architecture, green trees, pink flowers, delicate paper texture, natural watercolor bleeding, visible brush strokes, subtle paint splatters, and irregular artistic edges. Make the watercolor version clearly recognizable as the same woman and location.
+
+Leave generous cream-colored paper space around both images for a premium editorial scrapbook aesthetic. Add elegant handwritten-style text underneath: “sunny days”, with a thin decorative line and a tiny heart beneath it.
+
+Soft natural color palette, cozy travel-journal aesthetic, realistic photo + delicate watercolor illustration, sophisticated composition, high detail, subtle film grain, authentic handmade paper texture, balanced spacing, clean vertical 4:5 composition, Pinterest/Instagram editorial aesthetic, photorealistic upper image and artistic watercolor lower image.
+```
+
+</details>
+
 <a id="gpt-image-minimalist-paper-texture-art-cover"></a>
 ### Photo turned into minimalist paper textured art cover
 
@@ -630,6 +1245,172 @@ Avoid
 - Too much text.
 
 Final Result: A refined, minimalist, hand-crafted paper illustration with generous negative space, restrained colors, subtle tactile textures, and the sophistication of an independent art-book cover.
+```
+
+</details>
+
+<a id="gpt-image-photo-to-watercolor-split-travel-poster"></a>
+### Travel photo and watercolor redraw split poster
+
+<a href="https://x.com/miratechtool/status/2102656456478589340"><img src="../../previews/gpt-image-photo-to-watercolor-split-travel-poster.jpg" width="360"></a>
+
+The prompt locks the reference photo as unchanged in the top half and asks for the same scene redrawn in watercolor, colored pencil and ink in the bottom half. A soft seamless transition, a warm paper background and a short handwritten title keep the two halves reading as one editorial piece.
+
+GPT Image 2.5 · Edit · Source: [@miratechtool on X](https://x.com/miratechtool/status/2102656456478589340) · 151 likes on 2026-10-28
+
+[`photo-to-watercolor`](tags.md#tag-photo-to-watercolor) [`split-layout`](tags.md#tag-split-layout) [`editorial-poster`](tags.md#tag-editorial-poster) [`travel`](tags.md#tag-travel) [`handwritten-title`](tags.md#tag-handwritten-title)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Made with GPT Image 2.5 on
+@itsPolloAI
+
+
+Prompt : Use the uploaded image as the exact reference. Preserve the original subjects, identities, poses, composition, colors, lighting, background, and key details. Do not add, remove, or rearrange major elements.
+
+Create a vertical 3:4 editorial poster with two sections:
+
+- Top half: keep the original photo natural, sharp, and essentially unchanged.
+- Bottom half: recreate the exact same scene as a refined hand-drawn illustration in soft watercolor, colored pencil, and fine ink sketch style.
+
+Keep the same subjects, positions, perspective, and recognizable details. Use soft pastel tones, a warm off-white paper background, subtle paper texture, and a premium editorial / art-book / postcard feel. Add a soft seamless transition between the photo and illustration.
+
+Add minimal elegant typography: a handwritten-style title and a small simple subtitle. Use context-appropriate text such as “A Brighter Day” and “A Slower Life”, or for pets/family “Good Friends”, “Brighter Days”, or “Happier Tails ♡”.
+
+Optional: add a few subtle hand-drawn decorative details like tiny petals, leaves, hearts, or sketch marks only if they naturally fit.
+
+Do not change identities or the scene, and do not make the lower section look like photorealism, 3D, anime, or cartoon.
+```
+
+</details>
+
+<a id="gpt-image-photo-to-manga-split-panel-poster"></a>
+### Photo and manga redraw split poster, girl on petals
+
+<a href="https://x.com/oggii_0/status/2114943832894972403"><img src="../../previews/gpt-image-photo-to-manga-split-panel-poster.jpg" width="360"></a>
+
+A strict 50/50 split keeps the original photo untouched above while the lower half is redrawn as a limited palette manga print with hex coded ink, cream and accent colors. Rules per subject type, a size cap for the illustration and generated handwritten captions keep the redraw faithful and airy.
+
+GPT Image 2.5 · Edit · Source: [@oggii_0 on X](https://x.com/oggii_0/status/2114943832894972403) · 136 likes on 2026-10-28
+
+[`photo-to-manga`](tags.md#tag-photo-to-manga) [`split-panel`](tags.md#tag-split-panel) [`limited-palette`](tags.md#tag-limited-palette) [`handwritten-caption`](tags.md#tag-handwritten-caption) [`print-poster`](tags.md#tag-print-poster)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Turn any photo into a minimalist Japanese manga print poster with GPT Image 2.5.
+
+Prompt: Task: Create a 3:4 Split-Panel Photo-to-Japanese Illustration Poster
+
+Transform the uploaded photograph into a vertically composed 3:4 comparison poster. The upper half displays the original photograph, while the lower half features a Japanese hand-drawn manga illustration with a limited-color print-poster aesthetic, faithfully redrawn from the same photograph.
+
+Divide the canvas into two equal horizontal sections, each occupying exactly 50% of the total height. Both sections must have the same width. The horizontal division should connect seamlessly, with no gap, border, overlap, or decorative separator.
+
+1. Upper Half — Original Photograph
+
+- Preserve the original photograph exactly as it is.
+- Do not redraw, recolor, retouch, or add any text to the photograph.
+- Scale proportionally without stretching or distorting the image.
+- If necessary, crop peripheral background areas first while preserving the main subject and important visual details.
+- If the aspect ratio cannot be accommodated without compromising essential content, extend the edges with a light grayish-cream background. Never invent or reconstruct missing parts of the original photograph.
+
+2. Lower Half — Japanese Hand-Drawn Illustration
+
+Redraw the photograph as a Japanese-inspired hand-drawn manga illustration with a minimalist, limited-color screen-print poster aesthetic.
+
+The original photograph is the exclusive source of the subject's identity, appearance, pose, structure, composition, layout, and relationships between objects.
+
+For people:
+
+- Preserve recognizable facial shape, hairstyle silhouette, expression, pose, gestures, and clothing category.
+- Simplify the face into clean manga-style shapes.
+- Render hair as grouped, flowing masses rather than individual strands.
+- Express clothing through elegant, simplified fashion silhouettes.
+
+For animals:
+
+- Preserve the species, body proportions, distinctive coat-color patterns, and pose.
+- Use simplified contours and flat color blocks to retain recognizability.
+
+For objects:
+
+- Preserve the original silhouette, essential structural details, and proportions.
+
+For landscapes and scenery:
+
+- Preserve the terrain, architecture, distribution of visible elements, and spatial depth.
+- Redraw the main landscape as a cohesive illustration rather than reducing it to an isolated object.
+
+Preserve all visible contact, overlap, and occlusion relationships. Depict only what is visible in the source photograph. Do not introduce new subjects, props, gestures, or structures outside the original image.
+
+If an additional style reference is provided, use it only for drawing technique, color palette, and layout. Never copy its subjects or content.
+
+3. Linework and Color Treatment
+
+Use a consistent combination of delicate ink outlines, naturally simplified shapes, and limited-color flat fills.
+
+- Ink outline: Near-black "#02030B", with varied pressure, subtle line-weight changes, occasional pauses, and slightly irregular hand-drawn edges.
+- Keep internal lines minimal, retaining only the structural details necessary to define form.
+- Use clean, continuous, opaque color blocks.
+- Merge shadows into a small number of hard-edged color shapes.
+- Avoid individual hair strands, dense hatching, photorealistic textures, and excessive decorative detail.
+- Preserve the subject's essential natural colors and distinctive identifying color patterns.
+
+Lower-panel background: Light grayish cream "#ECEDE5".
+
+Primary accent: Warm red "#E9444B".
+
+Secondary accent: Muted blue-gray "#5296BD".
+
+Use red as the dominant accent and blue sparingly. Ensure that accent colors complement the subject without compromising its recognizability.
+
+Simplify the background to the cream paper tone, retaining only the environmental details needed to communicate the setting, explain the action, and preserve spatial relationships. For landscape photographs, translate the principal scenery into the illustration rather than omitting it.
+
+4. Lower Panel — Minimalist Poster Layout
+
+Create a refined editorial composition with a small illustration surrounded by generous negative space.
+
+- Treat the subject and essential environmental elements as one cohesive illustration.
+- Scale the complete illustration proportionally and center it within the lower panel.
+- Keep the entire illustration group within approximately 65–70% of the panel width and 60–65% of the panel height.
+- Fit the illustration within these limits without stretching or distorting it.
+- Maintain generous light grayish-cream margins on all sides.
+- Do not let the illustration touch the edges or fill the entire panel.
+- Do not use large background color blocks to fill the empty space.
+- Do not add a border around the illustration.
+
+The overall layout should resemble a thoughtfully designed Japanese art-print poster: restrained, balanced, airy, and visually sophisticated.
+
+5. Handwritten Typography
+
+Add two small handwritten text elements within the negative space of the lower panel.
+
+Top area: Place a small, delicate, near-black handwritten phrase, such as:
+
+“FROM LIFE TO LINES.”
+
+Beside the illustration: Add an even smaller, casual handwritten phrase, such as:
+
+“another way to see.”
+
+Generate both phrases automatically based on the subject, setting, and emotional atmosphere of the original photograph. The wording should feel concise, natural, poetic, and contextually relevant.
+
+The example phrases are references for tone and placement only. Do not use them automatically if a more fitting caption can be generated.
+
+Typography must remain subtle and secondary to the illustration. Use a natural handwritten style with fine, slightly imperfect strokes. Ensure all generated text is spelled correctly and legible.
+
+6. Final Output Requirements
+
+- Aspect ratio: 3:4 portrait.
+- Upper half: 50% of canvas height, displaying the untouched original photograph.
+- Lower half: 50% of canvas height, displaying the Japanese-inspired hand-drawn illustration.
+- Equal panel widths, seamless horizontal transition, no gap, no frame, and no overlap.
+- Consistent minimalist Japanese manga linework and limited-color print-poster styling.
+- Small, centered illustration with generous cream-colored negative space.
+- Subtle, context-aware handwritten typography in the lower panel.
+
+Core principle: The original photograph determines what is depicted. The illustration style determines how the lower half is redrawn. Preserve the source's identity and composition while transforming the lower panel into an elegant, minimalist Japanese illustration poster.
 ```
 
 </details>
@@ -940,6 +1721,44 @@ Keep the original photographic background behind it so the contrast between the 
 
 </details>
 
+<a id="gpt-image-monochrome-ink-side-profile-portrait"></a>
+### Monochrome ink portrait of a man in sunglasses
+
+<a href="https://x.com/AiWithTariq/status/2100427348789363114"><img src="../../previews/gpt-image-monochrome-ink-side-profile-portrait.jpg" width="360"></a>
+
+Anchors the result to an uploaded reference by naming the pose, angle, texture and background to keep, then limits the palette to black, charcoal, gray and beige. Listing grunge elements like ink wash, splatter, scribbles and faded type, plus negative space, gives a gallery poster look.
+
+GPT Image 2.5 · Edit · Source: [@AiWithTariq on X](https://x.com/AiWithTariq/status/2100427348789363114) · 91 likes on 2026-10-28
+
+[`monochrome`](tags.md#tag-monochrome) [`ink-wash`](tags.md#tag-ink-wash) [`side-profile`](tags.md#tag-side-profile) [`editorial`](tags.md#tag-editorial) [`grunge`](tags.md#tag-grunge)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Use the uploaded image as the main composition and style reference. Recreate the artwork almost exactly, keeping the same overall pose, side-profile angle, moody expression, rough painterly texture, abstract ink treatment, distressed overlays, and minimal beige background.
+
+Create a high-contrast black-and-white editorial portrait illustration of a stylish man shown in left-facing side profile, wearing round dark sunglasses and a dark jacket, with his head slightly lowered in a thoughtful pose. Keep one hand raised near his mouth/chin in the same position as the reference.
+
+Important change:
+Everything else should remain primarily monochrome black, charcoal, gray, and off-white/beige.
+
+Preserve the same grunge fine-art aesthetic:
+
+* rough ink wash textures
+* distressed brush strokes
+* splattered paint effects
+* abstract smudges
+* layered handwritten scribbles and sketch marks around the figure
+* fragmented editorial collage feeling
+* subtle textural blocks and faded typographic elements integrated into the background
+
+Keep the figure vertically centered with a clean off-white / warm beige background, lots of negative space, and the lower body dissolving into abstract painterly textures. Maintain the same premium fashion-poster / gallery-art vibe.
+
+Style: ultra-detailed monochrome mixed-media portrait, contemporary editorial wall art, expressive ink illustration, dramatic contrast, textured fine-art poster, premium minimalist composition.
+```
+
+</details>
+
 <a id="gpt-image-minimalist-doodle-sketchbook-photo"></a>
 ### Photo turned into minimalist black ink doodle
 
@@ -959,6 +1778,101 @@ Transform the image into a minimalist hand-drawn doodle illustration. Use simple
 
 </details>
 
+<a id="gpt-image-watercolor-travel-poster-rider-flag-beach"></a>
+### Watercolor travel poster of rider with flag
+
+<a href="https://x.com/Rosey_watson/status/2098452763256492128"><img src="../../previews/gpt-image-watercolor-travel-poster-rider-flag-beach.jpg" width="360"></a>
+
+Turns an uploaded photo into a handmade art book illustration by listing what to preserve (person, pose, clothing, landmark) and capping the palette at 4 to 6 colors from the source. Explicit bans on the original photo, collage and extra text keep the layout clean, with a single swappable caption and year.
+
+GPT Image 2.5 · Edit · Source: [@Rosey_watson on X](https://x.com/Rosey_watson/status/2098452763256492128) · 85 likes on 2026-10-28
+
+[`travel-poster`](tags.md#tag-travel-poster) [`watercolor`](tags.md#tag-watercolor) [`photo-to-illustration`](tags.md#tag-photo-to-illustration) [`minimalist`](tags.md#tag-minimalist) [`editorial`](tags.md#tag-editorial)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a premium minimalist editorial travel illustration based on the uploaded reference photo.
+
+Create ONLY the illustrated artwork.
+Do not place the original photograph anywhere in the composition.
+No split-screen, no collage, no before/after layout.
+
+ILLUSTRATION STYLE
+Reinterpret the uploaded photograph as a refined hand-drawn travel poster / art-book illustration.
+
+Preserve the most recognizable elements from the reference:
+– the main person or people
+– their pose and body proportions
+– recognizable clothing and accessories
+– important objects they are holding
+– the main architectural or environmental landmark
+– the relationship between the person and the location
+
+Keep the scene immediately recognizable, but simplify unnecessary photographic details.
+
+Use:
+– delicate hand-drawn ink lines
+– slightly imperfect outlines
+– flat acrylic and watercolor-like color shapes
+– visible handmade brush texture
+– subtle paper grain
+– irregular organic edges
+– restrained editorial detailing
+
+The illustration should feel handmade rather than digitally polished.
+
+BACKGROUND
+Warm white / ivory textured paper.
+Large areas of clean negative space.
+Do not fill the entire background with detail.
+
+COMPOSITION
+Place the main illustrated scene approximately in the middle-to-lower portion of the vertical canvas.
+
+The person should remain one of the main recognizable elements.
+
+Simplify the surrounding architecture, landscape, water, vegetation or city details into elegant hand-painted shapes.
+
+Use only a limited color palette extracted from the original photograph, approximately 4–6 dominant colors.
+
+The overall result should feel:
+quiet, sophisticated, artistic, premium, nostalgic, editorial, relaxed and collectible.
+
+Think:
+luxury travel sketchbook,
+independent art-book cover,
+designer postcard,
+fashion editorial illustration,
+contemporary illustrated travel diary.
+
+TYPOGRAPHY
+
+At the bottom of the composition add:
+
+MAIN CAPTION:
+United States
+
+YEAR / SECONDARY CAPTION:
+"2026"
+
+IMPORTANT:
+The text inside [CHANGE TITLE HERE] and [CHANGE YEAR HERE] is the ONLY variable caption area.
+Replace these placeholders with the desired location, event, phrase and year when creating a new card.
+
+Typography should be elegant and understated.
+
+Use a refined handwritten or editorial script for the main title and a small clean serif or spaced uppercase style for the year.
+
+Keep plenty of breathing room around the typography.
+
+Do not add any additional random words, logos, dates or captions.
+
+HIGH-END EDITORIAL QUALITY
+```
+
+</details>
+
 <a id="gpt-image-naive-pencil-illustration-from-photo-2"></a>
 ### Classroom girl in headphones as colored pencil illustration
 
@@ -974,35 +1888,6 @@ GPT Image 2.5 · Edit · Source: [@harboriis on X](https://x.com/harboriis/statu
 
 ```text
 Turn this photo into a contemporary, artist-made naïve illustration: minimalist and hand-drawn, with playful proportions, uneven outlines, flat colors that are soft yet contrasting, and decorative pencil strokes. No shadows, gradients, or 3D effects. Give it the feel of a high-end designer poster drawn with colored pencils. Keep it cute and cartoon-like.
-```
-
-</details>
-
-<a id="gpt-image-japanese-comic-poster-photo-comparison"></a>
-### Photo and Japanese comic poster comparison of Istanbul cats
-
-<a href="https://x.com/Goodmanprotocol/status/2114688658746028256"><img src="../../previews/gpt-image-japanese-comic-poster-photo-comparison.jpg" width="360"></a>
-
-The image splits into two halves, with the uploaded photo untouched on top and a redrawn version below. Exact hex colors for ink, red, blue and paper, plus a headline split across two lines in two colors, keep the screen-print look consistent.
-
-GPT Image 2.5 · Edit · Source: [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2114688658746028256) · 69 likes on 2026-10-28
-
-[`comparison`](tags.md#tag-comparison) [`screen-print`](tags.md#tag-screen-print) [`japanese-comic`](tags.md#tag-japanese-comic) [`poster`](tags.md#tag-poster) [`limited-palette`](tags.md#tag-limited-palette)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a 3:4 vertical comparison image divided into two equal horizontal halves, seamlessly joined without borders or gaps.
-
-TOP HALF: Display the uploaded photograph exactly as it is, without editing, recoloring, or adding text. Preserve proportions; crop only peripheral background if necessary.
-
-BOTTOM HALF: Redraw the same subject as a Japanese hand-drawn comic poster with minimalist, limited-color screen-print aesthetics. Preserve the subject's recognizable features, pose, proportions, colors, and relationships between objects. Adapt naturally to people, animals, objects, or landscapes. Keep the essential scenery and add nothing absent from the original photograph.
-
-ART STYLE: Delicate, slightly irregular ink-black outlines (#02030B), simplified shapes, clean opaque color blocks, and minimal hard-edged shadows. Use warm red (#E9444B), muted gray-blue (#5296BD), and off-white paper (#ECEDE5), with red dominant over blue. Avoid photorealistic textures, dense hatching, 3D effects, and excessive details.
-
-LAYOUT & TEXT: Position the illustration in the upper-middle of the bottom half, with generous negative space and bold, hand-carved typography below. Add a small handwritten, subject-related caption at the top and a short handwritten annotation beside the subject, both in black. The main headline reads “Jen” in warm red on the first line and “Style” in gray-blue on the second. Each appears once. Keep all text within the bottom half, fully legible and uncropped. Replace sample text only when the user provides alternatives.
-
-FINAL RESULT: One complete 3:4 image, with the untouched original photograph above and its Japanese hand-drawn, limited-color poster interpretation below. No extra borders, watermarks, invented elements, or decorative clutter.
 ```
 
 </details>
@@ -1091,6 +1976,37 @@ Nano Banana 2.1 · Edit · Source: [@harboriis on X](https://x.com/harboriis/sta
 
 ```text
 No extra text, logos, outlined cartoon style, glossy 3D, realistic skin, photorealism, coarse canvas texture, busy background, extra limbs, distorted anatomy, excessive facial detail, photorealistic shading, random objects, clutter, watermark. Include a small rounded picture-in-picture card in the bottom right corner displaying the original reference photo
+```
+
+</details>
+
+<a id="nano-banana-photo-to-painting-editorial-poster-seoul"></a>
+### Photo and Painted Version Stacked in Editorial Poster
+
+<a href="https://x.com/saniaspeaks_/status/2113118463824671218"><img src="../../previews/nano-banana-photo-to-painting-editorial-poster-seoul.jpg" width="360"></a>
+
+The prompt stacks a realistic photo above a painted redraw and locks pose, outfit, props and light direction so both read as one moment. A cream paper layout with tracked uppercase headline and tagline slots keeps the poster reusable.
+
+Nano Banana 2.1 · Edit · Source: [@saniaspeaks_ on X](https://x.com/saniaspeaks_/status/2113118463824671218) · 62 likes on 2026-10-28
+
+[`photo-to-painting`](tags.md#tag-photo-to-painting) [`editorial-layout`](tags.md#tag-editorial-layout) [`magazine-poster`](tags.md#tag-magazine-poster) [`before-after`](tags.md#tag-before-after) [`pastel`](tags.md#tag-pastel)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Design a sophisticated vertical magazine-style poster built around a seamless transition from reality to illustration. At the top, present the subject as a highly realistic lifestyle photograph, naturally placed within the original environment. Use soft golden sunlight, lifelike skin and hair details, subtle facial expression, natural shadows, and a shallow cinematic focus for an authentic photographic feel.
+
+Directly beneath it, reinterpret the very same moment as a refined hand-painted artwork. Keep the character instantly recognizable by matching the original composition, body position, hairstyle, outfit, smartphone, lighting direction, and surrounding environment. Give the artwork a gentle painterly finish with visible brushwork, soft edges, organic forms, muted pastel tones, and a nostalgic illustrated-magazine atmosphere.
+
+Arrange both scenes within a carefully designed editorial layout surrounded by warm cream-colored paper with subtle grain and tactile print texture. Add a few delicate botanical or seasonal accents around the artwork without overwhelming the composition.
+
+Under the illustrated panel, create a clean typography section with a centered uppercase headline: “[MAIN TITLE]”. Use elegant, widely tracked lettering with a refined fashion-editorial feel. Beneath it, place “[TAGLINE]” in a smaller, understated typeface with generous spacing. Finish the typography area with one short horizontal pastel accent rule.
+
+Keep the entire composition calm, premium, and visually cohesive. The photographic and illustrated versions should feel like two interpretations of the exact same moment rather than separate scenes.
+
+Use a vertical 3:4 poster format, high-resolution output, balanced negative space, soft natural color grading, polished print aesthetics, and contemporary editorial art direction.
+
+Do not introduce unnecessary text, dramatic borders, oversaturated colors, visual clutter, unrealistic anatomy, mismatched facial features, or changes to the subject’s identity and clothing.
 ```
 
 </details>
@@ -1196,50 +2112,6 @@ A cute young woman standing on a modern city street at blue hour, surrounded by 
 Render the character in a charming Japanese hand-drawn anime/chibi illustration style with expressive large eyes, soft blush on the cheeks, delicate facial details, textured pencil-and-ink outlines, subtle watercolor-like coloring, and slightly imperfect handmade sketch details. Keep the background photorealistic and highly detailed, creating a beautiful contrast between the illustrated character and the real-world environment.
 
 Cinematic composition, natural perspective, soft evening lighting, warm Christmas glow, realistic background depth, detailed clothing texture, cozy winter atmosphere, high detail, aesthetically pleasing, vertical portrait composition.
-```
-
-</details>
-
-<a id="gpt-image-doodle-fashion-chibi-striped-sweater"></a>
-### Hand drawn doodle chibi in striped sweater
-
-<a href="https://x.com/Sairah_0/status/2092473965927334071"><img src="../../previews/gpt-image-doodle-fashion-chibi-striped-sweater.jpg" width="360"></a>
-
-Starts from a reference image and keeps its identity cues, then specifies the character proportions as a list: oversized head, dot eyes, rosy blush. Separate art style bullets for loose ink lines, light crayon colour and negative space keep the result looking handmade rather than vector.
-
-GPT Image 2 · Edit · Source: [@Sairah_0 on X](https://x.com/Sairah_0/status/2092473965927334071) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-[`doodle`](tags.md#tag-doodle) [`chibi`](tags.md#tag-chibi) [`fashion-sketch`](tags.md#tag-fashion-sketch) [`hand-drawn`](tags.md#tag-hand-drawn) [`character`](tags.md#tag-character)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Transform the subject from the reference image into a cute, quirky hand-drawn doodle illustration.
-
-Use a minimalist children’s storybook / fashion sketch aesthetic with loose, imperfect black ink lines, visible scribbly pencil strokes, subtle cross-hatching, and a charming handmade feel. Keep the character’s recognizable facial features, hairstyle, face shape, clothing, accessories, and overall identity from the reference while simplifying them into a cute illustrated character.
-
-Character design:
-- Oversized head and small simplified body
-- Simple dot-like eyes and tiny minimal mouth
-- Soft rounded facial features
-- Slight rosy pink blush on the cheeks
-- Messy, expressive hand-drawn hair with many loose sketch lines
-- Slightly exaggerated, playful proportions
-- Natural, relaxed pose with a whimsical fashion-illustration feel
-
-Art style:
-- Black-and-white pencil/ink doodle drawing
-- Rough, imperfect sketch lines rather than clean digital outlines
-- Dense scribbled hair and clothing details
-- Light hand-colored accents
-- Subtle watercolor/crayon-like coloring
-- Minimal shading
-- White or off-white clean background
-- Lots of negative space
-- Cute, innocent, playful, cozy aesthetic
-- Looks like an original handmade notebook/fashion doodle illustration
-
-Preserve the important details of the reference image while converting everything into this consistent doodle-art style. The final image should feel hand-sketched, slightly imperfect, adorable, expressive, and effortlessly stylish, not like polished vector art or 3D cartoon art.
 ```
 
 </details>

@@ -1,0 +1,31 @@
+id: nano-banana-exploded-food-infographic-layers
+title:
+  en: Exploded Layer Infographic of Food Dishes
+  zh: 美食分层爆炸信息图
+model: Nano Banana 2
+mode: text-to-image
+category: infographic
+tags:
+- exploded-view
+- food
+- infographic
+- macro-photography
+- template
+source:
+  name: '@TechieBySA on X'
+  url: https://x.com/TechieBySA/status/2028451530198642753
+  credit: TechieSA
+  likes: 218
+  captured: '2026-10-29'
+  posted: '2026-01-11'
+notes:
+  en: A fill in [FOOD] template that stacks the dish top to bottom as floating layers from garnish particles to plate. A pure white background, macro lighting and thin pointer line labels keep it clean and readable.
+  zh: 用 [FOOD] 占位符做模板，把菜品从顶部的装饰颗粒到底部的盘子按层悬浮排列。纯白背景、微距布光和细引线标签让画面干净易读。
+prompt: |
+  “Create a hyper-realistic exploded vertical infographic composition of [FOOD].
+  At the top, characteristic particles, droplets, or garnishes associated with the food, frozen mid-air.
+  Below it, the primary surface or topping layer with rich texture and realistic material detail.
+  Underneath, the core ingredient layer showing structure, depth, and natural variation.
+  Below that, the supporting base or interior layer, slightly separated to reveal construction.
+  At the bottom, a minimal plate, bowl, cup, or base appropriate to the food’s presentation.
+  Pure white background, soft studio lighting, subtle shadows beneath each floating element, ultra-sharp focus, DSLR macro photography, clean infographic text labels with thin pointer lines, premium editorial food photography aesthetic, 8K quality.”

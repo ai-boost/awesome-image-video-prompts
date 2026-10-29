@@ -1,0 +1,27 @@
+id: gpt-image-amigurumi-doll-from-photo-diorama
+title:
+  en: Crocheted amigurumi doll in a cozy diorama
+  zh: 温馨迷你场景中的钩织娃娃
+model: GPT Image 2.5
+mode: image-edit
+category: character
+tags:
+- amigurumi
+- crochet
+- plush
+- diorama
+- photo-to-doll
+source:
+  name: '@MrDasCreates on X'
+  url: https://x.com/MrDasCreates/status/2115351638353613255
+  credit: Mr Das
+  likes: 32
+  captured: '2026-10-29'
+  posted: '2026-10-28'
+notes:
+  en: Names the yarn medium and its visible stitches, then fixes the proportions with an oversized head and tiny body. Embroidered features, a pastel palette and a miniature diorama setting with warm light keep the photo conversion consistently handmade.
+  zh: 先点明毛线材质和可见针脚,再用大头小身比例固定造型。刺绣五官、粉彩配色、迷你场景和暖光,让照片转换保持统一的手工质感。
+prompt: |
+  Turn your photo into a cozy hand-crocheted amigurumi doll using GPT Image 2.5
+
+  Prompt: Transform the uploaded photo into a hand-crocheted amigurumi style doll. Soft chunky yarn with visible stitches, oversized rounded head and tiny body, embroidered facial features with gentle blush, pastel color palette, cozy handmade imperfections, plush texture, sitting in a miniature diorama scene, warm soft lighting, charming stop-motion plush aesthetic.

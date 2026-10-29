@@ -1,0 +1,31 @@
+id: nano-banana-paint-tube-squeeze-impasto-painting-grid
+title:
+  en: Paint tubes squeezing 3D impasto landscapes in a 2x2 grid
+  zh: 颜料管挤出立体厚涂画作的四宫格
+model: Nano Banana 2.1
+mode: text-to-image
+category: illustration
+tags:
+- impasto
+- paint-tube
+- oil-painting
+- grid
+- miniature
+source:
+  name: '@Gdgtify on X'
+  url: https://x.com/Gdgtify/status/2108132040474280332
+  credit: Gadgetify
+  likes: 18
+  captured: '2026-10-29'
+  posted: '2026-10-08'
+notes:
+  en: 'The prompt first asks the model to analyze a named painting and pick four lesser known works in a similar style. It then fixes one visual formula for every cell: a giant tube, paint that rises into 3D relief, studio props, a tiny painter at an easel, and north light.'
+  zh: 提示词先让模型分析指定画作并挑出四幅风格相近的冷门作品，再给每格套用同一套视觉公式：巨型颜料管、挤出后隆起的立体浮雕、画室道具、小画家与画架，以及北向自然光。
+prompt: |
+  I used to do these painting prompts a lot but stopped after GPT started restricting them. With Nano Banana 2.1, I am back in business.
+
+  Prompt; Do this for Scream <instructions> I want you to act as a world class painting expert and visual artist. I want you to analyze the input by the user (painting name or artist), it style, subject, character, and come up with 4 paintings by artists past or present, no matter what country, who are less known but have a similar in style.
+
+  For each painting: Analyze: The brushstroke technique, the 3D depth implied, and the hidden symbols. Goal: A "Paint Tube Squeeze." A giant, realistic oil paint tube sitting on a palette. Rules: Action: The tube is being squeezed, and the paint coming out is not just a blob, but it forms the 3D landscape of the painting. The main feature is emerging in 3D relief from the 2D smear of paint. Texture: Viscous, thick oil paint texture (impasto). Props: Paintbrushes, a dirty rag, a palette knife, plus culture appropriate tools and environment and tiny 3D printed version of the painter on the desk drawing it on a tiny easel and a newspaper headline covering the inspiration behind it. Lighting: North-light studio lighting, true color representation.  artistic process" aesthetic.
+  Output: 2x2 grid, each grid with a different painting
+  </instruction>

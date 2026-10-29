@@ -1,0 +1,25 @@
+id: nano-banana-colored-pencil-daisies-rain-sunbeams
+title:
+  en: Colored Pencil Daisy Field in Sunlit Rain
+  zh: 阳光雨中的彩铅雏菊花田
+model: Nano Banana 2
+mode: text-to-image
+category: illustration
+tags:
+- colored-pencil
+- daisies
+- rain
+- god-rays
+- nature
+source:
+  name: '@churvikv on X'
+  url: https://x.com/churvikv/status/2092546640716419297
+  credit: Viki
+  likes: 139
+  captured: '2026-10-28'
+  posted: '2026-08-26'
+notes:
+  en: The prompt fixes the medium and portrait format first, then layers foreground, midground and background with a limited palette of greens, white and yellow. Glass-like suspended droplets and golden god rays from a top-center light source add depth and atmosphere.
+  zh: 提示词先锁定彩铅媒介和竖版构图，再按前景、中景、背景分层，并限定绿、白、黄的配色。悬浮的玻璃质水滴和顶部中央光源的金色光束增加了纵深和氛围。
+prompt: |
+  A vibrant colored-pencil illustration in portrait orientation. A lush field of white daisies with bright sunny-yellow centers fills the foreground and mid-ground, with delicate white petals covered in glistening water droplets, some petals slightly drooping under the weight of the rain. Large, clear, teardrop-shaped water droplets hang suspended in the air throughout the scene, refracting the light like tiny lenses and adding a sense of motion and atmosphere. A soft summer rain falls in visible diagonal streaks of water. The background is a deep, vibrant green of grass and foliage. At the top center, a bright, glowing light source breaks through the soft clouds and casts luminous golden "god rays" that filter down through the rain, giving the entire scene a warm, golden-green glow. The palette is dominated by rich greens (from deep forest green to bright lime), crisp white, and sunny yellow, accented by cool, transparent reflective droplets. The composition is dense and immersive, with larger detailed daisies in the foreground and smaller, softer ones receding into the distance. The style is reminiscent of colored pencil art, with visible textures creating a soft, fresh, rejuvenating mood. The overall atmosphere is bright, refreshing, and slightly surreal, capturing a fleeting moment where sunlight and rain coexist.

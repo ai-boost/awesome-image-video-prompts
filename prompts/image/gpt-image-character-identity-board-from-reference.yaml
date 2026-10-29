@@ -1,0 +1,81 @@
+id: gpt-image-character-identity-board-from-reference
+title:
+  en: Artbook character identity board from a reference image
+  zh: 基于参考图的艺术画册式角色身份板
+model: GPT Image 2
+mode: image-edit
+category: character
+tags:
+- character-sheet
+- identity-board
+- reference-image
+- artbook
+- consistency
+source:
+  name: '@aimikoda on X'
+  url: https://x.com/aimikoda/status/2068989070332543027
+  credit: Kōda
+  likes: 1149
+  captured: '2026-10-28'
+  posted: '2026-06-17'
+notes:
+  en: An image reference locks the subject and medium, and an identity lock list keeps face, hair, outfit and proportions consistent across every view. An asymmetrical layout with one large hero figure, a no overlap rule and small silhouette, expression and detail studies makes a useful production reference.
+  zh: 用参考图锁定主体与画风，再用身份锁定清单保证各视角的脸、发型、服装和体型一致。非对称布局配一个大主视图，加上禁止重叠规则和小型剪影、表情、细节研究区，便于后续生成使用。
+prompt: |
+  Create an artistic 16:9 CHARACTER IDENTITY BOARD.
+
+  Use Image A as the subject and the visual medium. Name: Clara. Fix headphones. (just change this line as your needs.)
+
+  Soft off-white background. No environment, no logo, no watermark.
+
+  DESIGN DIRECTION:
+  Do not create a standard character reference sheet.
+  Create a cinematic identity board that feels like a high-end animation studio character study mixed with an artbook layout.
+
+  The layout should be asymmetrical, elegant and visually memorable.
+  Use large empty space, varied image scale and intentional imbalance.
+  Avoid grids, blueprint design, catalog layout and repetitive turnaround presentation.
+
+  IMPORTANT LAYOUT RULE:
+  Do not overlap any character images.
+  Every view must have clear separation and breathing room.
+  Keep all bodies, portraits, silhouettes and detail studies visually distinct.
+  No cropped faces, no hidden limbs, no stacked figures, no merged poses.
+
+  MAIN COMPOSITION:
+  Place one large hero full-body view slightly off-center as the visual anchor.
+
+  Around it, arrange smaller supporting studies with clean spacing:
+  neutral full-body view, back view, profile view, seated pose, leaning pose, crouching pose, top-down body angle, low-angle body angle, expressive portrait studies.
+
+  Each view should feel like a separate clean character study, not a frame from one scene.
+
+  IDENTITY LOCK:
+  Preserve strict identity consistency across all views:
+  same face, same facial proportions, same hairstyle, same outfit, same body proportions, same posture language, same visual personality.
+
+  USEFUL REFERENCE DETAILS:
+  Make the character readable for future image and video generation:
+  clear face shape, clear hair silhouette, clear outfit silhouette, clear body shape, clear hands, clear posture, clear expression range.
+
+  ARTISTIC SECTIONS:
+  Include a small silhouette study area with 2-3 simplified black character silhouettes.
+  Include a small expression study area with subtle emotional variations.
+  Include a small detail study area showing key visual features of the face, hair and outfit.
+
+  TEXT DESIGN:
+  Add one stylish CHARACTER ID block.
+  Keep it minimal, bold and art-directed.
+  Use only:
+  NAME
+  ROLE
+  CORE MOOD
+  VISUAL SIGNATURE
+
+  Use small handwritten-style labels only where helpful.
+  Subtle editorial arrows and annotation marks are allowed, but keep them minimal and elegant.
+
+  STYLE:
+  minimal, cinematic, premium, artbook-like, clean, expressive, useful for production.
+
+  The final image should feel like an artistic character identity board designed to help an AI model understand the character’s face, silhouette, outfit, posture and emotional range.

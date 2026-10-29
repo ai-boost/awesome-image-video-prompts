@@ -1,0 +1,25 @@
+id: nano-banana-conservatory-monstera-dappled-portrait
+title:
+  en: Conservatory Portrait Behind Monstera Leaf Shadows
+  zh: 温室里龟背竹叶后的斑驳光影人像
+model: Nano Banana 2.1
+mode: text-to-image
+category: portrait
+tags:
+- conservatory
+- dappled-light
+- botanical
+- shallow-depth-of-field
+- portrait
+source:
+  name: '@bmx_ai13 on X'
+  url: https://x.com/bmx_ai13/status/2114613454292283394
+  credit: BMX
+  likes: 26
+  captured: '2026-10-29'
+  posted: '2026-10-26'
+notes:
+  en: The prompt sets the scene first, then partial occlusion by foreground leaves, then light described as dappled sun through a glass ceiling. Shallow depth of field and a plain linen shirt keep the focus on the face and the shadow patterns.
+  zh: 提示词先交代场景，再用前景叶片遮挡部分面部，并把光线写成透过玻璃顶的斑驳阳光。浅景深和朴素的亚麻衬衫让视线落在面部与光影图案上。
+prompt: |
+  Nano banana 2.1 Prompt: Inside a hyper realistic, lush botanical conservatory. Face is partially obscured by large, vibrant Monstera leaves and hanging ferns. Lighting: dappled sunlight breaking through a glass ceiling, creating intricate shadow patterns on skin. Wearing a simple, high quality linen shirt. Depth of field: shallow, with a soft bokeh effect on the tropical greenery in the background. Feels intimate and ethereal.

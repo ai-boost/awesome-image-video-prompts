@@ -1,0 +1,27 @@
+id: gpt-image-endangered-animal-infographic-bengal-tiger
+title:
+  en: Endangered Bengal Tiger Annotated Infographic Poster
+  zh: 濒危孟加拉虎注解信息图海报
+model: GPT Image 2
+mode: text-to-image
+category: infographic
+tags:
+- infographic
+- animal
+- endangered-species
+- photorealistic
+- callouts
+source:
+  name: '@MrDasCreates on X'
+  url: https://x.com/MrDasCreates/status/2052064402866851981
+  credit: Mr Das
+  likes: 819
+  captured: '2026-10-28'
+  posted: '2026-05-06'
+notes:
+  en: The prompt asks for a photorealistic central animal supported by annotated callouts, icons and color blocking, instead of generic sections. Having the model research a real species first fills the layered layout with accurate, dense facts.
+  zh: 提示词要求以写实主体动物为中心,配合注解标注、图标和色块,而不是千篇一律的分区。先让模型查找真实物种资料,版面的信息才密集而准确。
+prompt: |
+  Animal Infographic by GPT Image 2 on ChatGPT app
+
+  Prompt: Create a visually rich infographic about an endangered animal. Start by finding one online, research its habitat, diet, and unique traits. Present information through annotated visuals and structured callouts, not generic sections. Style it like a bold graphic illustration: a detailed, photorealistic central animal as the focal point, supported by diagrams, callouts, and concise text elements. Use clean backgrounds and a mix of photorealism with strong graphic elements (shapes, icons, color blocking) in a layered composition. Make it dense, tactile, and professionally authored.

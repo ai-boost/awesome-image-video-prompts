@@ -1,0 +1,246 @@
+id: gpt-image-ai-fitness-coach-analysis-poster
+title:
+  en: AI fitness analysis poster from a gym selfie
+  zh: 根据健身房自拍生成的 AI 健身分析海报
+model: GPT Image 2
+mode: image-edit
+category: infographic
+tags:
+- fitness
+- poster
+- dashboard-ui
+- glassmorphism
+- selfie
+source:
+  name: '@frametheory058 on X'
+  url: https://x.com/frametheory058/status/2054461225413870014
+  credit: Nexora
+  likes: 454
+  captured: '2026-10-28'
+  posted: '2026-05-13'
+notes:
+  en: The prompt locks the uploaded face and identity, then lists every dashboard section, food card and exercise panel by name, so the model fills a dense glassmorphism layout around a centered subject. A bright luxury palette with explicit bans on dark gym looks keeps the poster clean and premium.
+  zh: 提示词先锁定上传照片的人脸与身份，再逐一列出每个分析模块、食物卡片和训练面板，让模型围绕居中人物排出密集的玻璃拟态版面。明确的明亮奢华配色并禁用暗黑健身房风格，使整体干净高级。
+prompt: |
+  I will upload a gym mirror selfie/body photo.
+
+  Create an ULTRA PREMIUM AI FITNESS ANALYSIS POSTER that looks like a luxury futuristic wellness brand advertisement mixed with a high-end fitness app dashboard.
+
+  IMPORTANT:
+  The uploaded face and identity must remain EXACTLY THE SAME.
+  Do not change:
+
+  face structure
+
+  eyes
+
+  jawline
+
+  hairstyle
+
+  skin tone
+
+  facial proportions
+
+  Only enhance:
+
+  body presentation
+
+  outfit styling
+
+  lighting
+
+  pose atmosphere
+
+  premium visual composition
+
+  STYLE DIRECTION:
+  Avoid dark black backgrounds.
+
+  Instead create:
+
+  bright luxury studio aesthetic
+
+  soft silver + white + warm beige + matte charcoal tones
+
+  premium Apple / Gymshark / WHOOP / Technogym inspired design
+
+  clean modern luxury UI
+
+  cinematic natural lighting
+
+  subtle reflections and depth
+
+  rich soft shadows
+
+  elegant futuristic fitness branding
+
+  The entire poster should feel:
+  MINIMAL + EXPENSIVE + VIRAL + HIGH STATUS
+
+  LAYOUT:
+  4:5 vertical composition optimized for Twitter/X virality.
+
+  CENTER SUBJECT:
+
+  Place the uploaded person in the middle
+
+  Natural confident Gen-Z mirror selfie pose
+
+  Slight V-taper physique
+
+  Lean aesthetic body
+
+  Realistic muscles, not overdone
+
+  Premium sweatpants or luxury athletic wear
+
+  Clean modern hairstyle
+
+  iPhone mirror selfie vibe
+
+  BACKGROUND:
+  Create a premium luxury gym or wellness studio:
+
+  polished concrete
+
+  soft LED strip lights
+
+  luxury mirrors
+
+  brushed steel gym equipment
+
+  natural depth blur
+
+  warm daylight mixed with cinematic lighting
+
+  NO dark horror gym aesthetic.
+
+  COLOR PALETTE:
+
+  matte white
+
+  platinum silver
+
+  warm cream
+
+  champagne gold accents
+
+  soft graphite
+
+  subtle neon beige glow
+
+  UI DESIGN:
+  Create floating modern fitness-analysis cards around the body.
+
+  Use:
+
+  glassmorphism panels
+
+  floating transparent UI
+
+  thin elegant borders
+
+  soft glowing shadows
+
+  futuristic clean typography
+
+  SECTIONS TO INCLUDE:
+
+  • Body Fat Estimate
+  • Muscle Strengths
+  • Weak Points
+  • Calorie Goal
+  • Protein Intake
+  • Recommended Split
+  • Best Cardio
+  • Recovery Score
+  • Physique Rating
+
+  FOOD SECTION:
+  Instead of basic circles, create:
+
+  floating premium food cards
+
+  realistic luxury food photography
+
+  elegant shadows
+
+  soft glowing borders
+
+  Include:
+
+  salmon
+
+  eggs
+
+  chicken breast
+
+  avocado
+
+  oats
+
+  almonds
+
+  banana
+
+  greek yogurt
+
+  whey protein
+
+  EXERCISE SECTION:
+  Use sleek cinematic mini-panels for:
+
+  incline bench
+
+  pull-ups
+
+  shoulder press
+
+  squats
+
+  deadlift
+
+  WOW FACTORS:
+
+  luxury reflections
+
+  floating holographic UI
+
+  subtle particles
+
+  soft ambient glow
+
+  premium health-tech aesthetic
+
+  cinematic depth
+
+  realistic skin texture
+
+  ultra sharp details
+
+  TEXT STYLE:
+  Minimal and bold.
+  Very clean typography like premium tech advertisements.
+
+  QUALITY:
+
+  hyper realistic
+
+  ultra detailed
+
+  8K
+
+  cinematic realism
+
+  viral social media quality
+
+  extremely polished
+
+  visually addictive
+
+  should instantly make people stop scrolling
+
+  FINAL GOAL:
+  The poster should look so premium and believable that people instantly think:
+  “Wait… AI can actually create a personalized fitness coach like this?”

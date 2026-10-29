@@ -1,0 +1,25 @@
+id: nano-banana-giant-object-miniature-world-macro
+title:
+  en: Miniature people building worlds on giant everyday objects
+  zh: 微缩小人在巨型日常物件上搭建的世界
+model: Nano Banana 2
+mode: text-to-image
+category: realism
+tags:
+- macro
+- miniature
+- surreal
+- template
+- tilt-shift
+source:
+  name: '@DrSadek_ on X'
+  url: https://x.com/DrSadek_/status/2033136123342401904
+  credit: DrSadek
+  likes: 219
+  captured: '2026-10-28'
+  posted: '2026-03-15'
+notes:
+  en: A fill in the blank template where only the everyday object changes while the macro lens, f/1.8 depth of field and directional micro shadow cues stay fixed. Dust and surface scratches on the object sell the scale difference against the tiny figures.
+  zh: 填空式模板，只替换日常物件，固定 85mm 微距镜头、f/1.8 浅景深和方向性微阴影。物件表面的灰尘与划痕强化了与小人之间的尺度对比。
+prompt: |
+  Create a hyper-realistic macro photograph of a miniature surreal scene. The environment is dominated by a giant, oversized <everyday object>, which has been repurposed as a bustling landscape. Tiny, highly detailed miniature human figures are interacting around and on the object. Shot on an 85mm macro lens with a shallow depth of field (f/1.8) to heavily blur the distant background. Lighting is soft, directional, and casts appropriate micro-shadows to emphasize the massive scale of the object relative to the figures. Intricate environmental details like dust particles and surface scratches are visible on the object. Cinematic, photorealistic, 4K.

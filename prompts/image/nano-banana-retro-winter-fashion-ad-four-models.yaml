@@ -1,0 +1,45 @@
+id: nano-banana-retro-winter-fashion-ad-four-models
+title:
+  en: Retro Winter Fashion Ad With Four Models
+  zh: 四位模特的复古冬季时装广告
+model: Nano Banana 2
+mode: text-to-image
+category: poster
+tags:
+- fashion
+- advertisement
+- retro
+- typography
+- group-portrait
+source:
+  name: '@rovvmut_ on X'
+  url: https://x.com/rovvmut_/status/2029228739192865157
+  credit: Heisenberg
+  likes: 238
+  captured: '2026-10-28'
+  posted: '2026-03-04'
+notes:
+  en: Each model gets its own clothing, pose and position, and a hex coded teal grey and burnt orange palette keeps the group cohesive. Header, footer and a large serif wordmark overlapping the models are specified separately to create a layered poster look.
+  zh: 为每位模特分别写明服装、姿势和位置，并用十六进制色值锁定青灰与焦橙配色，让画面统一。页眉、页脚和压在人物前的大号衬线字标分开描述，形成层叠的海报效果。
+prompt: |
+  A wide-angle, studio fashion advertisement with a sophisticated retro-modern aesthetic. The scene is set against a monochromatic teal-grey (#506D6D) architectural backdrop featuring minimalist geometric props, including a fluted column and stepped circular platforms. The lighting is professionally diffused studio light, creating soft, graduated shadows that provide depth without harshness.
+
+  The Subjects:
+  Four models are posed in a cohesive, stylish group dynamic:
+
+  A Black man on the far left, standing tall in a brown tweed blazer, a deep burgundy turtleneck, and dark yellow-and-brown checkered trousers. He is smiling and warmly holding the hand of the woman next to him.
+
+  A Black woman with a voluminous afro, sitting sideways on a vintage 1950s wooden television set. She wears a dark brown knit top and vibrant burnt orange (#E88D4D) trousers with sleek brown leather boots.
+
+  A White woman sitting on the floor in the center, leaning forward with her hand to her face. she wears a vintage-style headband, an argyle-patterned sleeveless top in orange and slate blue, a brown wool skirt, and white wedge sandals.
+
+  A White man leaning into the frame from the center-right, hands on his knees. He wears a heavy cream-colored cable-knit sweater with dark trim and tailored brown trousers.
+  Furniture & Props:
+  To the right stands a minimalist dark teal industrial clothing rack. It displays curated garments including hanging shirts, a wide-brimmed white fedora, and a prominent structured orange leather messenger bag. At the base of the rack are white high-top sneakers and sandals. A single, truncated orange cone prop sits in the foreground.
+  Primary Text: A massive, high-contrast white serif font (Bodoni-style) reading "KAIRO" is overlaid across the center-left, partially occluding the models to create a layered, 3D effect.
+  Header: At the top center, the words "winter" (in orange cursive script) and "COLLECTION" (in white clean sans-serif) are centered.
+  Footer: The URL "
+  http://
+  KAIROFASHION.COM" is printed in small, wide-tracked white sans-serif in the bottom right corner.
+  Color Palette:
+  A sophisticated mix of Teal-Grey, Burnt Orange, Chocolate Brown, and Crisp White, creating a warm yet muted autumnal atmosphere.

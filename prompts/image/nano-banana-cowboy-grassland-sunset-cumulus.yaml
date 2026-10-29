@@ -1,0 +1,25 @@
+id: nano-banana-cowboy-grassland-sunset-cumulus
+title:
+  en: Cowboy on Horseback Before Golden Sunset Cloud
+  zh: 金色落日积云前的骑马牛仔
+model: Nano Banana 2.1
+mode: text-to-image
+category: realism
+tags:
+- landscape
+- cowboy
+- cumulus-cloud
+- golden-hour
+- telephoto
+source:
+  name: '@im_shahid7 on X'
+  url: https://x.com/im_shahid7/status/2109289268107776324
+  credit: Al-Shamus
+  likes: 72
+  captured: '2026-10-29'
+  posted: '2026-10-11'
+notes:
+  en: Splits the cloud into a gilded side and a shadow side to force strong light contrast. A telephoto lens, a low horizon and a vertical frame keep the small rider against the huge cloud.
+  zh: 把积云分成镀金的一面和深阴影的一面，制造强烈明暗对比。长焦镜头、低地平线和竖构图让小小的骑手衬出巨大的云。
+prompt: |
+  Vertical landscape photography, vast grassland horizon, a cowboy with black wide-brim hat riding a dark black horse walking horizontally, behind him stands a towering massive cumulus cloud, one side of the cloud is gilded with warm golden sunset light, the other side has deep shadow, strong light and shadow contrast, clear deep blue sky, soft side light from sunset, natural light on meadow, cinematic wilderness atmosphere, realistic outdoor photo, rich light detail, shot on telephoto lens, 8K ultra high definition --ar 9:16 --v 6.0 --style raw --s 220 --q 2

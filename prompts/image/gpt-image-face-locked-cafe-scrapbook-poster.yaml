@@ -1,0 +1,56 @@
+id: gpt-image-face-locked-cafe-scrapbook-poster
+title:
+  en: Woman at Paris cafe in scrapbook editorial poster
+  zh: 巴黎咖啡馆女子的手账风编辑海报
+model: GPT Image 2.5
+mode: image-edit
+category: collage
+tags:
+- face-reference
+- scrapbook
+- cafe
+- editorial
+- identity-lock
+source:
+  name: '@KrishnaBio1 on X'
+  url: https://x.com/KrishnaBio1/status/2102550122752311623
+  credit: KrishnaG
+  likes: 143
+  captured: '2026-10-28'
+  posted: '2026-09-23'
+notes:
+  en: A strict identity lock limits the face reference to identity only, and a separate block lists what the inspiration images may control. Labeled sections for subject, hair, outfit, scene, scrapbook layout and lighting give the model clear targets, and exact poster text plus a negative prompt keep the layout clean.
+  zh: 用严格的身份锁定把人脸参考限定为只控制长相，并单独说明灵感图只控制构图与风格。主体、发型、服装、场景、手账版式和光线分段描述，再给出确切的海报文字和负面提示词，版面更干净。
+prompt: |
+  Use the uploaded face reference image ONLY as the identity reference for the woman.
+  STRICT FACE IDENTITY LOCK:
+  Preserve her recognizable facial identity exactly from the face reference. Keep the same facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheek structure, skin tone, and natural facial proportions. Do not beautify, redesign, age, de-age, or replace her face. Do not create a different person.
+  Use the provided images ONLY as visual inspiration for the overall composition, lifestyle concept, outfit styling, café atmosphere, photography angle, color palette, scrapbook layout, and editorial aesthetic. Do not copy another person's facial identity.
+  Create a premium ultra-photorealistic lifestyle editorial photograph of the woman enjoying an elegant café moment in a sophisticated outdoor European-style café.
+  Subject & Face:
+  The woman has the exact recognizable face from the reference image, with natural elegant makeup, realistic skin texture, expressive eyes, and a soft relaxed expression. Keep her identity completely consistent and authentic.
+  Hair:
+  Long, thick, naturally flowing dark hair with soft waves, realistic individual strands, subtle natural shine, and an effortless feminine appearance.
+  Outfit:
+  Elegant ivory/cream-white feminine outfit with delicate lace and embroidered details, sheer textured fabric, refined sleeves, and sophisticated styling. Add tasteful gold jewelry, an elegant watch, delicate rings, and cream pointed-toe heels. Include a refined luxury handbag placed naturally beside her.
+  Scene & Pose:
+  Create two complementary lifestyle moments within the same visual concept:
+  A beautiful overhead café photograph showing the woman seated at a marble café table, her elegant lace outfit visible, one hand naturally holding a ceramic coffee cup with beautiful heart-shaped latte art. A slice of berry cheesecake sits on a delicate white plate beside the coffee.
+  A softly framed portrait moment of the same woman sitting at the café, resting one hand gently against her cheek while looking naturally toward the side with a calm, subtle smile. Coffee, dessert, flowers, and her handbag remain naturally arranged on the table.
+  Environment:
+  A beautiful upscale outdoor European café with marble tables, elegant chairs, soft greenery, small white flowers, warm natural sunlight, and a softly blurred sophisticated street in the background. The environment should feel authentic, peaceful, luxurious, and naturally photographed.
+  Scrapbook Editorial Design:
+  Present the final composition as a refined vintage scrapbook-style editorial poster on warm ivory textured paper. Use softly painted/watercolor edges around the main photograph, an organic imperfect cutout effect, subtle paper grain, delicate botanical illustrations, tiny vintage postal elements, and elegant minimal decorative lines.
+  Add tasteful typography with a sophisticated editorial feel, such as:
+  “A MOMENT OF PURE BLISS”
+  and underneath:
+  “Good Coffee, Better Days”
+  with a small elegant heart or botanical ornament. Keep the typography minimal, refined, and beautifully integrated into the paper layout.
+  Color & Lighting:
+  Warm ivory, cream, beige, soft brown, muted green, and subtle golden tones. Natural afternoon sunlight, gentle highlights, realistic shadows, soft cinematic glow, subtle analog film grain, delicate depth of field, and premium editorial color grading.
+  Overall Style:
+  Ultra-photorealistic, high-end lifestyle photography, luxury café editorial, sophisticated feminine aesthetic, realistic skin and fabric texture, authentic hands and fingers, natural body proportions, realistic coffee and dessert details, cinematic photography, premium magazine quality, 8K detail, crisp but soft natural image quality, elegant nostalgic atmosphere, sophisticated Pinterest/editorial scrapbook aesthetic.
+  IMPORTANT:
+  The face reference controls ONLY the woman's identity. The uploaded inspiration images control the visual concept, composition, styling, café atmosphere, colors, and scrapbook presentation. Do not merge another person's face into the subject. Keep the woman's identity recognizable and consistent throughout the entire composition.
+  Negative Prompt:
+  different face, altered identity, face swap, beautified face, distorted facial features, extra fingers, malformed hands, unrealistic skin, plastic skin, cartoon, 3D render, CGI look, blurry face, low resolution, oversaturated colors, artificial lighting, duplicate objects, distorted coffee cup, malformed dessert, excessive text, watermark, logo, messy composition, unnatural pose, unrealistic body proportions.

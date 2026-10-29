@@ -1,0 +1,52 @@
+id: nano-banana-vehicle-technical-annotation-infographic
+title:
+  en: Vehicle photo infographics with black ink technical annotations
+  zh: 载具照片叠加黑色墨线技术标注的信息图
+model: Nano Banana 2
+mode: text-to-image
+category: infographic
+tags:
+- infographic
+- technical-annotation
+- engineering
+- black-and-white
+- vehicle
+source:
+  name: '@TechieBySA on X'
+  url: https://x.com/TechieBySA/status/2038586040231801230
+  credit: TechieSA
+  likes: 148
+  captured: '2026-10-29'
+  posted: '2026-01-23'
+notes:
+  en: A photoreal object sits under black technical pen overlays such as cutaways, dimensions, material callouts and flow arrows. A pure white background and a strict black only palette keep it looking like an engineering manual. One VEHICLE placeholder makes it reusable for any object.
+  zh: 写实物体之上叠加黑色技术笔标注，包括剖视、尺寸、材料说明和流向箭头。纯白背景加仅限黑色的配色，让画面像工程手册。只需替换一个VEHICLE占位词，就能套用到任何物体。
+prompt: |
+  Simply replace [VEHICLE]:✨
+
+  “Create an infographic image of [VEHICLE], combining a realistic photograph or photoreal render of the object with technical annotation overlays placed directly on top.
+
+  Use black ink–style line drawings and text (technical pen / architectural sketch look) on a pure white studio background, including:
+  •Key component labels
+  •Internal cutaway or exploded-view outlines
+  •Measurements, dimensions, and scale markers
+  •Material callouts and quantities
+  •Arrows indicating function, force, or flow (air, sound, power, pressure)
+  •Simple schematic or sectional diagrams where relevant
+
+  Place the title “VEHICLE” inside a hand-drawn technical annotation box in one corner.
+
+  Style & layout rules:
+  •The real object remains clearly visible beneath the annotations
+  •Annotations feel sketched, technical, and architectural
+  •Clean composition with balanced negative space
+  •Educational, museum-exhibit / engineering-manual vibe
+
+  Visual style:
+  Minimal technical illustration aesthetic, black linework over realistic imagery, precise but slightly hand-drawn feel.
+
+  Color palette:
+  White background, black annotation lines and text only. No colors.
+
+  Output:
+  1080×1080, ultra-crisp, social-feed optimized, no watermark.”

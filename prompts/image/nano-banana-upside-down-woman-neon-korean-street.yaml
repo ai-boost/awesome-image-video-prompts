@@ -1,0 +1,25 @@
+id: nano-banana-upside-down-woman-neon-korean-street
+title:
+  en: Upside Down Woman Over Neon Rainy Street
+  zh: 霓虹雨街上倒挂天空的女子
+model: Nano Banana 2
+mode: text-to-image
+category: portrait
+tags:
+- surreal
+- neon
+- rainy-street
+- reflection
+- cinematic
+source:
+  name: '@iamsofiaijaz on X'
+  url: https://x.com/iamsofiaijaz/status/2041558867897938137
+  credit: Aijaz
+  likes: 102
+  captured: '2026-10-28'
+  posted: '2026-04-07'
+notes:
+  en: 'The prompt describes the inverted layout directly: feet on an asphalt ceiling at the top, the street below. It then adds a puddle reflection, mist and neon signs for depth, and closes with lens and aspect ratio cues.'
+  zh: 提示词直接描述倒置构图：脚踩顶部沥青天花板，下半部是街道。再用水坑倒影、薄雾和霓虹招牌增加层次，最后补上镜头与画幅参数。
+prompt: |
+  A surreal, cinematic full-body shot of a woman wearing a purple denim jacket and black jeans, appearing to hang upside down from the sky. Her feet are firmly touching a dark, wet asphalt surface that forms the "ceiling" at the top of the frame. The bottom half of the image features a glowing, rain-slicked city street with vibrant neon Korean storefront signs, reflecting her perfectly in the deep puddles. The atmosphere is moody and overcast with thick mist and high contrast lighting. 8k resolution, photorealistic, shot on a 35mm lens, 3:4 aspect ratio.

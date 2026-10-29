@@ -1,6 +1,6 @@
 # 海报与编辑排版
 
-[返回目录](../../README_zh.md) · 全部 81 条
+[返回目录](../../README_zh.md) · 全部 97 条
 
 <a id="gpt-image-flat-vector-city-travel-poster-template"></a>
 ### 适用任意城市的扁平矢量旅行海报模板
@@ -176,6 +176,106 @@ Minimalist editorial poster aesthetic, premium print quality, 4:5 aspect ratio.�
 
 </details>
 
+<a id="nano-banana-monoline-city-travel-poster-kyoto"></a>
+### 京都街景红色单线旅行海报
+
+<a href="https://x.com/Goodmanprotocol/status/2052974175435026714"><img src="../../previews/nano-banana-monoline-city-travel-poster-kyoto.jpg" width="360"></a>
+
+用目的地占位符让同一模板适配任意城市。提示词限定单一主色加单一底色并给出各城市配色示例,要求密集的单线细节和当地语言招牌,再用文字质量条款保证字体清晰可读。
+
+Nano Banana 2 · 文生图 · 出处: [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2052974175435026714) · 1,436 赞，统计于 2026-10-29
+
+[`travel-poster`](tags.md#tag-travel-poster) [`line-art`](tags.md#tag-line-art) [`monochrome`](tags.md#tag-monochrome) [`swiss-modernist`](tags.md#tag-swiss-modernist) [`template`](tags.md#tag-template)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create an ultra-high-resolution minimalist line-art travel poster of [DESTINATION], portraying the city as a stylish everyday urban scene rather than a tourist postcard.
+
+CORE COMPOSITION:
+- Central composition shows the city’s most iconic street, intersection, alley, tram street, or pedestrian avenue
+- Foreground includes locals, commuters, cyclists, travelers, shoppers, students, café visitors
+- People should naturally reflect the city’s local lifestyle and fashion culture
+- Background filled with realistic local signage, cafés, restaurants, transportation signs, storefronts, and architectural details
+- Landmarks should appear naturally integrated into everyday life, never exaggerated
+- Include authentic local-language typography and culturally recognizable visual elements
+- Large bold typography at the top center:
+  “[DESTINATION]”
+- Subtitle below:
+  local language + country name
+  examples:
+  東京 JAPAN
+  서울 KOREA
+  ΚΟΛΩΝΙΑ GERMANY
+
+STYLE:
+ultra clean vector illustration,
+Swiss modernist travel poster,
+minimal line art,
+monoline drawing,
+mid-century editorial aesthetic,
+architectural illustration,
+Japanese graphic poster style,
+precise geometric perspective,
+extremely clean negative space,
+premium travel branding aesthetic
+
+LINE STYLE:
+- monochrome line-based illustration only
+- thin and highly precise linework
+- minimal fill areas
+- intricate city-map-like detail density
+- rhythmic layering of signs, buildings, windows, and street objects
+- visually dense yet highly organized composition
+
+COLOR SYSTEM — VERY IMPORTANT:
+- use only ONE main color + ONE background color
+- automatically choose a color that best represents the city’s atmosphere
+- monochrome silkscreen poster aesthetic
+- no rainbow palettes
+- no excessive neon
+- color should reflect the city’s architecture, climate, nightlife, and cultural identity
+
+Examples:
+Tokyo → vivid red on warm ivory
+Paris → deep navy on cream
+New York → charcoal black on light gray
+Kyoto → muted burgundy on warm cream
+Hong Kong → teal blue on pale ivory
+Santorini → Mediterranean blue on white
+Cairo → desert sepia on sand beige
+
+COMPOSITION:
+- vertical poster layout
+- frontal street-level perspective
+- pedestrians crossing streets or moving naturally
+- balanced urban rhythm and visual flow
+- should feel like a premium city-brand campaign poster
+
+MOOD:
+stylish urban life,
+calm but lively,
+editorial travel magazine cover,
+timeless city identity,
+premium tourism campaign visual,
+minimal yet highly detailed
+
+TEXT QUALITY — EXTREMELY IMPORTANT:
+- all typography must be readable and accurate
+- no random characters
+- no broken or distorted letters
+- local signage should feel authentic and natural
+- professional editorial typography alignment
+
+OUTPUT:
+- vertical poster composition
+- 8K ultra detailed
+- print-ready
+- ultra sharp vector quality
+```
+
+</details>
+
 <a id="gpt-image-city-placeholder-flat-vector-travel-poster"></a>
 ### 可替换城市名的扁平矢量旅行海报
 
@@ -317,6 +417,25 @@ No unnecessary decorative elements.
 
 </details>
 
+<a id="gpt-image-photo-to-handmade-collage-split-poster"></a>
+### 上半真实照片下半手作拼贴的编辑海报
+
+<a href="https://x.com/saniaspeaks_/status/2097176979497791899"><img src="../../previews/gpt-image-photo-to-handmade-collage-split-poster.jpg" width="360"></a>
+
+严格上下等分的版式，上半保留忠实原图，下半在象牙白留白中放一幅小型手作拼贴。调色限定为从照片提取的四种颜色，并点名撕纸和水粉等质感，让两半画面彼此呼应。
+
+GPT Image 2 · 上传图改图 · 出处: [@saniaspeaks_ on X](https://x.com/saniaspeaks_/status/2097176979497791899) · 653 赞，统计于 2026-10-28
+
+[`editorial-poster`](tags.md#tag-editorial-poster) [`mixed-media`](tags.md#tag-mixed-media) [`split-layout`](tags.md#tag-split-layout) [`photo-reinterpretation`](tags.md#tag-photo-reinterpretation) [`negative-space`](tags.md#tag-negative-space)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a premium editorial art poster for every uploaded photograph, treating each image as its own independent composition and never merging multiple photos together. Use a strict 3:4 vertical format with the canvas split into two perfectly equal horizontal halves: the upper half should remain a faithful, photorealistic presentation of the original image, preserving the subject’s exact identity, facial features, proportions, pose, clothing, objects, composition, lighting, shadows, mood, and natural colors, enhanced only with sophisticated editorial color grading and seamless environmental extension where necessary; the lower half should transform the visual story into an entirely different artistic interpretation—a tiny, carefully composed handmade mixed-media artwork centered within expansive warm ivory negative space, occupying no more than 10–20% of the lower section, using expressive ink sketching, layered gouache-like color fields, subtle collage textures, torn-paper edges, imperfect brushwork, visible fibers, soft pigment variations, and charming human imperfections while retaining the most recognizable silhouette, gesture, objects, and emotional narrative from the original photo. Extract up to four dominant harmonious colors from each photograph and reinterpret them in a muted, sophisticated palette. Add only occasional understated editorial typography when it genuinely enhances the composition, such as a poetic title, place, date, or single word. The overall result should feel like a collectible contemporary art publication cover—minimal, poetic, tactile, elegant, emotionally quiet, visually distinctive, and unmistakably connected to its original photograph.
+```
+
+</details>
+
 <a id="nano-banana-monstera-leaf-hidden-words"></a>
 ### 龟背竹叶片缝隙中浮现隐藏文字
 
@@ -332,6 +451,30 @@ Nano Banana 2.1 · 文生图 · 出处: [@fofrAI on X](https://x.com/fofrAI/stat
 
 ```text
 A photo of a monstera leaf against a simple backdrop, cleverly and organically appearing within the natural gaps of the leaf are the words Nano Banana
+```
+
+</details>
+
+<a id="nano-banana-levitating-outfit-fashion-editorial-labels"></a>
+### 悬浮服装时装大片与标注框
+
+<a href="https://x.com/AllaAisling/status/2034382842084708533"><img src="../../previews/nano-banana-levitating-outfit-fashion-editorial-labels.jpg" width="360"></a>
+
+提示词按从鞋到帽的顺序列出单品,并为每种面料指定垂坠物理表现。标签格式固定为大写名称、斜体面料和一个关键细节,再配合主光、暖色补光和冷色轮廓光三段布光,让隐形人体的效果保持稳定。
+
+Nano Banana 2 · 文生图 · 出处: [@AllaAisling on X](https://x.com/AllaAisling/status/2034382842084708533) · 503 赞，统计于 2026-10-28
+
+[`fashion`](tags.md#tag-fashion) [`levitation`](tags.md#tag-levitation) [`editorial`](tags.md#tag-editorial) [`template`](tags.md#tag-template) [`callout-labels`](tags.md#tag-callout-labels)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Prompt Studio: Gravity Fashion Editorial, with Nano Banana 2 in Firefly
+
+Complete [STYLE] outfit floating in its exact worn position around  an invisible body with every piece suspended mid-breath, mid-billow.  LOOK (bottom to top): [FOOTWEAR] → [BOTTOMS] → [TOP] → [LAYER] →  [ACCESSORIES] → [JEWELLERY] → [HEADWEAR]  FABRIC PHYSICS: each material true to its weight, wool hangs,  silk drapes, denim holds its crease, leather keeps its shape.  Every edge lifting slightly as if caught in one silent gust.  LABELS: hairline leader to floating label box. "[GARMENT]" uppercase / "[FABRIC]" italic / "[ONE DEFINING DETAIL]"  LIGHTING: soft directional from upper left + warm fill from below  catching linings and sole edges + cool rim outlining the silhouette. BACKGROUND: [COLOR] seamless, fashion-forward. TITLE: "[LOOK NAME]" elegant serif type, top right. SUBTITLE: "[MOOD / OCCASION]" italic.  Mood: high-concept levitation editorial, the outfit exists,  the person is imagination. 4K, extraordinary fabric fidelity, tack sharp.
+
+Check ALTs for ideas 👇
+@AdobeFirefly
 ```
 
 </details>
@@ -707,168 +850,6 @@ Add elegant handwritten text: “A Beautiful Day” above and “Memories to Kee
 
 </details>
 
-<a id="nano-banana-photo-ink-split-poster"></a>
-### 一半照片一半水墨的海报
-
-<a href="https://x.com/ChillaiKalan__/status/2110581440085987751"><img src="../../previews/nano-banana-photo-ink-split-poster.jpg" width="360"></a>
-
-要求严格五五分，再分别规定两半如何处理同一主体。
-
-Nano Banana 2.1 · 上传图改图 · 出处: [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2110581440085987751) · 414 赞，统计于 2026-10-27
-
-[`split-composition`](tags.md#tag-split-composition) [`ink`](tags.md#tag-ink) [`photo-to-art`](tags.md#tag-photo-to-art)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Using the uploaded reference image, create a single high-resolution vertical 2:3 editorial art poster.
-
-Divide the canvas into two perfectly equal horizontal sections, each occupying exactly 50% of the total height. Separate them with a clean, perfectly straight horizontal dividing line.
-
-1. TOP HALF — ORIGINAL REFERENCE PHOTOGRAPH
-
-Use the uploaded reference photograph directly in the upper 50% of the poster.
-
-Preserve its original photographic quality, sharpness, natural lighting, and color relationships.
-
-Allow only subtle, intelligent cropping around the outer edges when necessary, without compromising the main subject.
-
-If required, naturally extend a small portion of the surrounding environment to fit the composition.
-
-Do not redraw, illustrate, stretch, blur, or modify the subject's appearance, structure, or spatial relationships.
-
-Do not introduce black borders, white margins, or empty edges.
-
-2. BOTTOM HALF — MINIMALIST EDITORIAL ILLUSTRATION
-
-Use a warm, near-white ivory paper background with an extremely subtle paper texture.
-
-Analyze the main subject and visual story of the uploaded reference image.
-
-Extract only the primary subject, preserving one or two essential identifying elements.
-
-Remove or heavily simplify all secondary details, including background architecture, crowds, vehicles, fences, signs, trees, and other unnecessary elements.
-
-Transform the primary subject into a sophisticated black-ink editorial illustration.
-
-ILLUSTRATION STYLE:
-
-Use natural, clean pen strokes with varied line weight.
-
-Preserve an authentic hand-drawn appearance with expressive but controlled linework.
-
-Avoid overly precise engraving aesthetics, excessive internal details, and dense cross-hatching.
-
-Place a large, nearly pure-black rectangular ink block behind the illustrated subject.
-
-The rectangular block should have subtly imperfect, handmade print-style edges.
-
-Keep the black background clean, with only fine paper grain and minimal noise.
-
-Avoid obvious hatching, scratches, architectural lines, or complex textures.
-
-ILLUSTRATION SCALE AND COMPOSITION:
-
-The illustrated subject must occupy approximately 72–77% of the canvas width and 58–64% of the bottom section's height.
-
-Maintain a clear visual focal point with generous negative space surrounding the illustration.
-
-3. COLOR RULES
-
-The bottom illustration must follow a strictly black-and-white color palette by default.
-
-Preserve only one localized accent color if the original reference image contains a clearly distinctive, concentrated color element with meaningful narrative importance.
-
-Ordinary blue skies, green vegetation, stone surfaces, skin tones, and environmental colors must not be treated as accent colors.
-
-Any preserved accent color must remain strictly localized to the relevant subject or area.
-
-Never allow accent colors to spread across the entire illustration.
-
-4. TYPOGRAPHY AND EDITORIAL LAYOUT
-
-Automatically generate concise, meaningful English typography based on the content of the uploaded reference photograph.
-
-The typography must resemble handwritten editorial annotations from an independent art publication.
-
-TOP-LEFT CORNER:
-
-Generate a short handwritten title consisting of 2–5 words, arranged across two lines.
-
-Directly beneath the title, include three short English action verbs relevant to the photograph.
-
-TOP-RIGHT CORNER:
-
-Display only two lines of geographic coordinates:
-
-Latitude
-Longitude
-
-Do not include any additional text in this area.
-
-BOTTOM-LEFT CORNER:
-
-Display the location name followed by the word "DIARY."
-
-Directly beneath it, add one short descriptive English sentence inspired by the photograph.
-
-TYPOGRAPHY STYLE:
-
-Use a rough, upright, slightly irregular handwritten typeface.
-
-Maintain subtle imperfections and a natural editorial annotation aesthetic.
-
-Avoid elegant cursive, calligraphy, overly decorative lettering, and excessively polished typography.
-
-5. FINAL ART DIRECTION
-
-The finished poster must combine:
-
-Authentic, high-quality photography.
-Minimalist black-and-white editorial illustration.
-Generous negative space.
-Independent art publication aesthetics.
-Quiet, restrained, sophisticated visual storytelling.
-Natural handwritten typography.
-A balanced relationship between documentary realism and expressive hand-drawn artwork.
-
-The overall result should resemble a carefully designed, collectible editorial art print.
-
-6. FINAL OUTPUT REQUIREMENTS
-
-ASPECT RATIO:
-2:3 vertical.
-
-RESOLUTION:
-High-resolution, sharp, print-quality output.
-
-COMPOSITION:
-
-Exactly 50% original reference photography on top.
-
-Exactly 50% editorial illustration on the bottom.
-
-One perfectly straight horizontal dividing line.
-
-One complete, standalone poster.
-
-RESTRICTIONS:
-
-No collages.
-No multi-poster layouts.
-No combined images.
-No unnecessary decorative elements.
-No modifications to the original subject's identity or appearance.
-No excessive illustration details.
-No changes to the original photograph's natural color relationships.
-
-FINAL GOAL:
-
-Create a sophisticated, visually balanced editorial art poster that faithfully preserves the uploaded reference photograph while transforming its primary subject into an expressive, minimalist black-ink illustration.
-```
-
-</details>
-
 <a id="gpt-image-editorial-city-travel-artwork-reflection"></a>
 ### 旧金山编辑风旅行海报与玻璃倒影
 
@@ -953,22 +934,54 @@ Low-saturation geometric window
 
 </details>
 
-<a id="gpt-image-editorial-photo-paper-illustration-poster"></a>
-### 上半实拍下半手作纸面插画的编辑海报
+<a id="gpt-image-product-campaign-poster-grid-template"></a>
+### 基于产品参考图的高端广告海报模板
 
-<a href="https://x.com/saniaspeaks_/status/2097293815698612309"><img src="../../previews/gpt-image-editorial-photo-paper-illustration-poster.jpg" width="360"></a>
+<a href="https://x.com/ZaraIrahh/status/2054139543423492547"><img src="../../previews/gpt-image-product-campaign-poster-grid-template.jpg" width="360"></a>
 
-严格的 3:4 版式分成上下两等份，上半保持原照片的真实感，下半改为小幅手作纸面插画。调色限定为从原图取样的四种颜色，让上下两部分自然呼应，而每张上传图各自成海报的要求避免了多图合并。
+先把产品参考图设为唯一依据，再用12栏网格和四层结构（色块、裁切大字、模特与产品、平面文字）控制版式。所有文字逐项列出且只出现一次，并用占位符便于替换，排版更干净。
 
-GPT Image 2 · 上传图改图 · 出处: [@saniaspeaks_ on X](https://x.com/saniaspeaks_/status/2097293815698612309) · 329 赞，统计于 2026-10-28
+GPT Image 2 · 上传图改图 · 出处: [@ZaraIrahh on X](https://x.com/ZaraIrahh/status/2054139543423492547) · 289 赞，统计于 2026-10-29
 
-[`editorial-poster`](tags.md#tag-editorial-poster) [`split-layout`](tags.md#tag-split-layout) [`paper-illustration`](tags.md#tag-paper-illustration) [`art-book`](tags.md#tag-art-book) [`photo-to-art`](tags.md#tag-photo-to-art)
+[`product-poster`](tags.md#tag-product-poster) [`campaign-template`](tags.md#tag-campaign-template) [`glassmorphism`](tags.md#tag-glassmorphism) [`reference-image`](tags.md#tag-reference-image) [`typography`](tags.md#tag-typography)
 
 <details><summary><b>提示词</b></summary>
 
 ```text
-Premium editorial poster for every uploaded photo never combine images. Use a strict 3:4 vertical layout split into two equal horizontal halves. Keep the top half as a faithful photorealistic version of the original image, preserving the subject’s identity, pose, clothing, composition, lighting, colors, and atmosphere with only subtle high-end editorial grading.
-Transform the bottom half into a warm off-white minimalist art space featuring a small centered handmade paper-style illustration inspired by the main subject and key elements of the photo. Use imperfect sketch lines, flat acrylic-like shapes, visible paper texture, rough brush marks, and organic edges. Keep plenty of negative space and limit the palette to four harmonious colors sampled from the original image. Optional minimal editorial text may be added if it naturally fits. The overall result should feel quiet, poetic, artistic, refined, and like a premium contemporary art-book cover.
+REFERENCE IMAGE INSTRUCTION: Use the uploaded product photo as the exact source of truth for the product's appearance, color, finish, branding, and form factor. Do not invent or alter any product detail. Reproduce it with photorealistic precision.
+---
+Create a photorealistic premium [PRODUCT CATEGORY] campaign poster in a 4:5 vertical aspect ratio. Design it as a clean global OOH, digital, and social campaign layout with strict grid alignment, premium white space, and precise typography. The campaign idea is "[CAMPAIGN TAGLINE]," but do not render that phrase as visible text.
+
+Use a strict 12-column poster grid with 6% outer margins. Keep all text aligned to this grid. The image has four layers: background shape, giant background typography, subject/product photography, and clean graphic text overlays.
+
+BACKGROUND: Pure matte white canvas. Place one large rounded-rectangle block behind the subject, occupying roughly 70% of the poster height and 76% of the width, centered slightly above the middle. The block uses a controlled [PRIMARY BRAND COLOR] gradient, glowing gently from top-left to bottom-right. Behind the subject and product, place giant cropped typography reading "[BACKGROUND HERO WORD]" in ultra-bold geometric sans-serif letters. The word is a background layer only: huge, partially cropped by the frame edges, wide letter spacing, darker [PRIMARY BRAND COLOR] than the rectangle, subtle embossed depth, soft shadow, and low enough contrast that it does not fight the product.
+
+SUBJECT AND PRODUCT: [DESCRIBE MODEL OR SUBJECT — e.g., "a female model with a clean editorial look, neutral confident expression, natural slightly wind-touched hair, muted off-white outfit, and [ACCENT COLOR] jacket"]. Shoot from a slightly low hero angle. Body angled for depth, face turned toward the viewer with direct eye contact. One hand extends toward the camera holding the product from the uploaded reference image. The product is the dominant foreground object, slightly tilted to reveal [KEY PRODUCT DETAIL — e.g., "the triple camera system, brushed titanium edges, and centered brand logo"]. Keep the product sharp with realistic surface reflections, material texture, faint micro-details, and soft bloom around premium features. Keep the model's face readable behind it.
+
+LIGHTING: Soft studio key light from front-left, warm rim light from the right, and subtle [PRIMARY BRAND COLOR] bounce from the background block. Skin remains natural and non-airbrushed with realistic catchlights. Product edges have clean [MATERIAL FINISH — e.g., "metallic / matte / glossy"] highlights. Shadows are soft and controlled.
+
+TYPOGRAPHY OVERLAY: All text must be flat, crisp, perfectly aligned graphic typography — not painted onto the scene. Render exactly these text elements once, with no extra text:
+
+Top left, small black logo: [BRAND LOGO NAME/MARK]
+
+Top right, thin sans-serif: "[BRAND SUB-TAGLINE — e.g., 'Built for Apple Intelligence.']"
+
+Mid left, glassmorphism pill: "[PRODUCT NAME — e.g., 'iPhone 17 Pro']"
+
+Large background type: "[BACKGROUND HERO WORD]"
+
+Bottom right body copy, small clean sans-serif:
+"[PRODUCT NAME]. [POWER STATEMENT — one sentence.]
+[FEATURE 1]. [FEATURE 2].
+[CLOSING LINE — e.g., 'Designed for what's next.']"
+
+BOTTOM FEATURE STRIP: Place four equal-width glass-white rounded cards along the bottom, aligned to the grid, same height, same spacing, same baseline alignment. Each card has one minimal line icon above the heading. Render exactly:
+Card 1: "[FEATURE HEADING 1]" / "[FEATURE SUBLINE 1]"
+Card 2: "[FEATURE HEADING 2]" / "[FEATURE SUBLINE 2]"
+Card 3: "[FEATURE HEADING 3]" / "[FEATURE SUBLINE 3]"
+Card 4: "[FEATURE HEADING 4]" / "[FEATURE SUBLINE 4]"
+
+GRAPHIC DETAILS: Two or three small sparkle icons only, subtle grain, soft glassmorphism, controlled [PRIMARY BRAND COLOR]-white-[ACCENT COLOR] palette, no neon, no oversaturation.
 ```
 
 </details>
@@ -1019,43 +1032,37 @@ Avoid clutter, excessive text, distorted anatomy, inconsistent facial features, 
 
 </details>
 
-<a id="gpt-image-photo-to-ink-wash-split-seaside-tower"></a>
-### 海边高楼写实照与水墨重构对照
+<a id="nano-banana-traveler-on-giant-country-map-poster"></a>
+### 坐在巨型国家地图上的旅行者海报
 
-<a href="https://x.com/Ziha_ai/status/2109118256045002828"><img src="../../previews/gpt-image-photo-to-ink-wash-split-seaside-tower.jpg" width="360"></a>
+<a href="https://x.com/frametheory058/status/2038934237479674133"><img src="../../previews/nano-banana-traveler-on-giant-country-map-poster.jpg" width="360"></a>
 
-提示词把画面等分为上下两区，上方保留写实照片，下方重构为极简水墨。通过纸张肌理、少量点染色彩、留白比例和稀疏文字来控制下半部分。
+用参考照片锁定人脸,大洲、国家和地标用占位符,换个国家就能复用。画面按层次描述(前景地图和图钉、背景地标天际线、天空中的国名大字),再补充相机、光线和胶片调色。
 
-GPT Image 2.5 · 文生图 · 出处: [@Ziha_ai on X](https://x.com/Ziha_ai/status/2109118256045002828) · 257 赞，统计于 2026-10-28
+Nano Banana 2 · 上传图改图 · 出处: [@frametheory058 on X](https://x.com/frametheory058/status/2038934237479674133) · 252 赞，统计于 2026-10-28
 
-[`ink-wash`](tags.md#tag-ink-wash) [`split-layout`](tags.md#tag-split-layout) [`photo-to-art`](tags.md#tag-photo-to-art) [`negative-space`](tags.md#tag-negative-space) [`eastern-aesthetics`](tags.md#tag-eastern-aesthetics)
+[`travel`](tags.md#tag-travel) [`map`](tags.md#tag-map) [`reference-face`](tags.md#tag-reference-face) [`editorial`](tags.md#tag-editorial) [`template`](tags.md#tag-template)
 
 <details><summary><b>提示词</b></summary>
 
 ```text
-The image is in a 3:4 vertical composition, divided into two regions, with a strict 1:1 ratio, each taking up 50% of the image.
-
-Upper Region - Original Photo Shoot Area
-
-Preserves the subject's identity, structure, perspective, and true material, natural light, and original color atmosphere, with only slight high-end color grading and image purification, presenting it with the texture of art magazines or exhibition photography. It allows for a moderate expansion of the background to fit the screen size, but does not stretch, distort, or reshape the subject, without changing the subject's structure, posture, and core composition.
-
-Lower Region - Minimalist Ink Wash Reconstruction Area
-
-First, refine the subject with the most memorable details, such as the outline, structure, trend, perspective, rhythm, and atmosphere, and then reconstruct the same scene into a minimalist ink wash material landscape. Do not copy the photo details, do not make a realistic copy, only preserve the most recognizable structure and charm, allowing people to recognize the corresponding relationship between the upper region and the original photo at first glance.
-
-The overall base of the lower half is milky white, warm white or paper white, with delicate paper fiber and natural texture. The main body is reconstructed in ink wash blending, dry-wet interplay, flying white, seepage, ink accumulation, and white space, forming a quiet, restrained, and poetic Eastern visual. Removing secondary details, only retaining the most distinctive contours, structural turns, spatial layers, and breath, not pursuing realistic completeness, but rather summarizing, refining, and leaving a lingering impression. The use of ink in black, gray, and light ink tones, layered and progressing, with varying intensities and rhythms.
-
-The most vibrant colors can be extracted from the original image to create a few spots of dyeing or coloring, without mechanically replicating the color values. The colors can be transformed locally into clear blue-gray, distant blue, soft gold, warm yellow, vermilion red, light cyan, etc., to emphasize the main focus and emotional rhythm, but the overall composition is still dominated by ink tones and negative space. Avoiding dull, heavy, old brown, excessive decoration, and vulgar color combinations.
-
-The main core areas should be more refined and concentrated, with edges gradually loosening, breaking away, disappearing, and scattering, forming a sense of breathing with the large negative space. The lower half of the composition should account for about 30%-45%, with the rest reserved for large negative spaces. The composition can be biased, framed, suspended, or slightly cut, but must maintain an asymmetrical balance and a high-end editorial feel. Negative space is not blank, but an important component of the visual structure. It is better to reduce information than to fill the entire image, so that the main focus looks like an ink seal or an oriental material work displayed on a page.
-
-Text Treatment
-
-Text is only allowed a very small amount of editing intervention, without preset titles and numbers. A small number of words or short sentences can be extracted from the subject, location, time, action, emotion, or metaphor, and quietly placed in the blank area or the edge of the subject. The text should be restrained, sparse, and have a sense of breathing, not noisy or dominant.
-
-Overall Presentation
-
-Contemporary Eastern aesthetics, minimalist ink wash reconstruction, large-scale art blank, small-scale seal impression, quiet editing layout and exhibition poster style. Avoid complex backgrounds, piled-up real details, overly decorative, excessive text, template layout and filled composition
+"Ultra-realistic editorial travel concept.
+A wanderer with the same face as in the reference photo is sitting casually on a giant, hyper-realistic travel map of [CONTINENT], zoomed into [COUNTRY]. On the map, there are large 3D location pins marking destinations across [COUNTRY].
+Behind him stretches a breathtaking, cinematic horizon of [COUNTRY], featuring iconic landmarks like [LANDMARK 1], [LANDMARK 2], and [LANDMARK 3], seamlessly blended into one visually stunning environment. The word “[COUNTRY NAME IN CAPS]” floats boldly in clean luxury travel typography across the sky.
+He is dressed in versatile streetwear suitable for any destination: cream cargo pants, a light pink hoodie, chunky sneakers, a crossbody bag, a cap, and carrying a Sony A7C II camera.
+Surrounding elements include playful sketches of airplanes, flight tickets, passport stamps, and subtle [COUNTRY-THEMED ELEMENTS] (like cultural patterns, textures, environment-specific elements).
+Shot on Sony A7C II, 35mm f/1.4 lens, ultra-shallow depth of field, razor-sharp focus on subject, creamy cinematic bokeh in background.
+High-end commercial lighting setup, soft diffused key light, subtle rim light outlining the subject, global illumination, HDR tone mapping, realistic light falloff, soft shadows.
+Hyper-detailed skin texture, realistic fabric folds, micro-details, physically accurate materials, 8K resolution, ultra high dynamic range.
+Professional color grading based on environment:
+Warm golden tones for deserts/tropical
+Cool blue tones for winter/mountains
+Neon tones for city/night scenes
+Kodak Portra 400 film look, soft contrast, rich highlights, clean whites, no overexposure.
+Rule of thirds composition, depth layering (foreground, midground, background), cinematic perspective, slight low-angle shot for dominance.
+Atmospheric depth with light haze, volumetric lighting, subtle particles in air, environment interaction (fog, snow, sand, rain depending on location).
+Vogue-style editorial photography, high-end travel magazine aesthetic, luxury advertisement quality, global campaign look.
+Ultra photorealistic, no CGI look, indistinguishable from real photograph, insanely realistic, trending on Instagram, cinematic masterpiece.
 ```
 
 </details>
@@ -1094,6 +1101,74 @@ Nano Banana 2.1 · 上传图改图 · 出处: [@Emmma___0 on X](https://x.com/Em
 
 ```text
 Transform the uploaded image into a modern studio portrait. Preserve the subject’s identity and features. Show half the face on the left; stack [NAME] vertically on the right, with each letter filled by matching details from the hidden half. Seamless alignment, [BACKGROUND] backdrop, [LIGHTING], modern typography.
+```
+
+</details>
+
+<a id="nano-banana-retro-winter-fashion-ad-four-models"></a>
+### 四位模特的复古冬季时装广告
+
+<a href="https://x.com/rovvmut_/status/2029228739192865157"><img src="../../previews/nano-banana-retro-winter-fashion-ad-four-models.jpg" width="360"></a>
+
+为每位模特分别写明服装、姿势和位置，并用十六进制色值锁定青灰与焦橙配色，让画面统一。页眉、页脚和压在人物前的大号衬线字标分开描述，形成层叠的海报效果。
+
+Nano Banana 2 · 文生图 · 出处: [@rovvmut_ on X](https://x.com/rovvmut_/status/2029228739192865157) · 238 赞，统计于 2026-10-28
+
+[`fashion`](tags.md#tag-fashion) [`advertisement`](tags.md#tag-advertisement) [`retro`](tags.md#tag-retro) [`typography`](tags.md#tag-typography) [`group-portrait`](tags.md#tag-group-portrait)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A wide-angle, studio fashion advertisement with a sophisticated retro-modern aesthetic. The scene is set against a monochromatic teal-grey (#506D6D) architectural backdrop featuring minimalist geometric props, including a fluted column and stepped circular platforms. The lighting is professionally diffused studio light, creating soft, graduated shadows that provide depth without harshness.
+
+The Subjects:
+Four models are posed in a cohesive, stylish group dynamic:
+
+A Black man on the far left, standing tall in a brown tweed blazer, a deep burgundy turtleneck, and dark yellow-and-brown checkered trousers. He is smiling and warmly holding the hand of the woman next to him.
+
+A Black woman with a voluminous afro, sitting sideways on a vintage 1950s wooden television set. She wears a dark brown knit top and vibrant burnt orange (#E88D4D) trousers with sleek brown leather boots.
+
+A White woman sitting on the floor in the center, leaning forward with her hand to her face. she wears a vintage-style headband, an argyle-patterned sleeveless top in orange and slate blue, a brown wool skirt, and white wedge sandals.
+
+A White man leaning into the frame from the center-right, hands on his knees. He wears a heavy cream-colored cable-knit sweater with dark trim and tailored brown trousers.
+Furniture & Props:
+To the right stands a minimalist dark teal industrial clothing rack. It displays curated garments including hanging shirts, a wide-brimmed white fedora, and a prominent structured orange leather messenger bag. At the base of the rack are white high-top sneakers and sandals. A single, truncated orange cone prop sits in the foreground.
+Primary Text: A massive, high-contrast white serif font (Bodoni-style) reading "KAIRO" is overlaid across the center-left, partially occluding the models to create a layered, 3D effect.
+Header: At the top center, the words "winter" (in orange cursive script) and "COLLECTION" (in white clean sans-serif) are centered.
+Footer: The URL "
+http://
+KAIROFASHION.COM" is printed in small, wide-tracked white sans-serif in the bottom right corner.
+Color Palette:
+A sophisticated mix of Teal-Grey, Burnt Orange, Chocolate Brown, and Crisp White, creating a warm yet muted autumnal atmosphere.
+```
+
+</details>
+
+<a id="gpt-image-birthday-poster-man-carved-paper-number"></a>
+### 男子坐在镂空数字里的生日海报
+
+<a href="https://x.com/Alina_with_Ai/status/2067250994954846272"><img src="../../previews/gpt-image-birthday-poster-man-carved-paper-number.jpg" width="360"></a>
+
+整个画面只用白色纹理纸墙一种材质，镂空数字像一扇窗，露出里面的气球和花束。人物坐在数字边缘，肢体探出框外形成立体感，侧面阳光带来真实的层次。原提示词里数字写成了04和18，复用时要统一。
+
+GPT Image 2 · 上传图改图 · 出处: [@Alina_with_Ai on X](https://x.com/Alina_with_Ai/status/2067250994954846272) · 231 赞，统计于 2026-10-28
+
+[`birthday`](tags.md#tag-birthday) [`paper-carving`](tags.md#tag-paper-carving) [`balloons`](tags.md#tag-balloons) [`reference-photo`](tags.md#tag-reference-photo) [`editorial`](tags.md#tag-editorial)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Professional luxury birthday poster, vertical 3:4 ratio. The entire scene is crafted from premium snow-white textured paper walls with elegant architectural depth. A giant number “04” is precisely carved into the wall, featuring realistic depth, refined inner shadows, smooth edges, and luxurious volumetric detailing.
+
+Inside the carved number, a sophisticated birthday celebration setup is revealed, decorated with dark blue, pastel blue, and white balloons, delicate white flowers, premium floral arrangements, and high-end festive styling.
+
+The man from the reference photo is sitting casually on the lower curve of the number “18,” with one leg bent and the other hanging naturally. He wears a radiant smile and looks slightly upward with confidence and joy. His face, shoulder, one arm, and one leg extend beyond the carved number frame, creating a highly realistic 3D pop-out window effect.
+
+Warm cinematic sunlight enters from one side, producing soft highlights, realistic shadows, and elegant depth. Ultra-detailed photorealistic skin texture, natural facial features, premium studio-quality lighting, crystal-clear focus, luxury editorial photography, and masterpiece-level realism.
+
+Elegant wall typography: , ALAINA Ai” “CHAPTER 28” “365 MORE DAYS OF MIRACLES”
+
+Pure minimalist composition, luxury magazine-cover aesthetics, premium art direction, realistic depth and shadows, natural color grading, clean background, no tree shadows, no artificial AI artifacts, no distortion, no extra limbs, no text errors, first-class birthday campaign photography, ultra-realistic, award-winning editorial quality, 8K detail.
 ```
 
 </details>
@@ -1205,6 +1280,49 @@ FORMAT
 
 </details>
 
+<a id="nano-banana-green-hoodie-fashion-ad-layout"></a>
+### 绿色卫衣时尚广告，衬线大标题与斜向丝带
+
+<a href="https://x.com/rovvmut_/status/2029599397483532714"><img src="../../previews/nano-banana-green-hoodie-fashion-ad-layout.jpg" width="360"></a>
+
+提示词把广告拆成服装、图形排版和环境三个模块，并给出精确的文字内容、位置和三色配色。尺码胶囊、缩略图、色板等界面元素逐一指明位置，让它们围绕上传的人物照片准确排布。
+
+Nano Banana 2 · 上传图改图 · 出处: [@rovvmut_ on X](https://x.com/rovvmut_/status/2029599397483532714) · 193 赞，统计于 2026-10-28
+
+[`fashion-ad`](tags.md#tag-fashion-ad) [`typography`](tags.md#tag-typography) [`hoodie`](tags.md#tag-hoodie) [`studio-lighting`](tags.md#tag-studio-lighting) [`layout`](tags.md#tag-layout)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Nano Banana 2 Product Advertisement Prompt:
+
+A professional commercial fashion advertisement featuring a young male model in the uploaded image, sitting on a minimalist white matte cube. He has a neutral, confident expression and is looking directly at the camera.
+
+Attire & Styling:
+Hoodie: A high-quality, heavyweight forest green (British Racing Green) hoodie. It features a relaxed fit, a spacious kangaroo pocket, and metal-tipped drawstrings.
+Bottoms: Clean, slim-fit white trousers with visible seams.
+Footwear: Stylish low-top sneakers in a color-blocked design of forest green, navy blue, and white, with off-white midsoles and white laces.
+Accessories: Simple silver bands/rings on his fingers.
+
+Graphic Design & Layout:
+Typography: The word "HOODIE" is written in a massive, elegant high-contrast serif font across the top. A small, four-pointed yellow spark icon is centered inside the "O". Above this, "K A I R O  P R E M I U M" is printed in a wide-spaced sans-serif font.
+Branding Elements: A dark green diagonal "caution tape" style ribbon crosses the bottom third of the frame, with the words "PREMIUM HOODIE" repeating in white uppercase text.
+UI Accents: * A yellow pill-shaped size selector labeled "S M L XL" on the left.
+A small thumbnail of the hoodie floating on the mid-left.
+Three circular color swatches (Green, Yellow, Black) on the right side.
+Two blocks of justified serif body text describing the product's comfort and eco-friendly materials.
+The URL "
+http://
+kairofashion.com" in the bottom left corner.
+
+Environment & Lighting:
+Setting: A clean, bright, white-on-white minimalist studio cove.
+Lighting: Soft, diffused studio lighting creates gentle shadows under the model and the cube, emphasizing the rich texture of the green fabric and the crispness of the white pants.
+Color Palette: Deep forest green, bright white, and golden yellow accents.
+```
+
+</details>
+
 <a id="gpt-image-split-photo-paper-illustration-poster"></a>
 ### 宠物依偎照片搭配极简手绘纸面插画
 
@@ -1240,38 +1358,23 @@ Prioritize recognition, restraint, negative space, material texture, subtle impe
 
 </details>
 
-<a id="gpt-image-photo-to-watercolor-split-travel-poster"></a>
-### 旅行照片与水彩重绘上下分屏海报
+<a id="nano-banana-novel-cover-woman-reading-candlelit-room"></a>
+### 烛光古董房里读黑色丝绒小说的女子
 
-<a href="https://x.com/miratechtool/status/2102656456478589340"><img src="../../previews/gpt-image-photo-to-watercolor-split-travel-poster.jpg" width="360"></a>
+<a href="https://x.com/JuliaClarky/status/2079417419114942568"><img src="../../previews/nano-banana-novel-cover-woman-reading-candlelit-room.jpg" width="360"></a>
 
-提示词把参考照片原样锁定在上半部分，下半部分用水彩、彩铅和钢笔线稿重绘同一场景。柔和的衔接过渡、暖白纸张底色和简短的手写标题，让上下两半成为一张完整的编辑风海报。
+书名和作者名逐字给出并指定字体与位置，让书封文字清晰可读。烛光、古董家具和暗色花朵营造氛围，第二条提示词沿用同一书名生成配套场景。
 
-GPT Image 2.5 · 上传图改图 · 出处: [@miratechtool on X](https://x.com/miratechtool/status/2102656456478589340) · 151 赞，统计于 2026-10-28
+Nano Banana 2 · 文生图 · 出处: [@JuliaClarky on X](https://x.com/JuliaClarky/status/2079417419114942568) · 159 赞，统计于 2026-10-28
 
-[`photo-to-watercolor`](tags.md#tag-photo-to-watercolor) [`split-layout`](tags.md#tag-split-layout) [`editorial-poster`](tags.md#tag-editorial-poster) [`travel`](tags.md#tag-travel) [`handwritten-title`](tags.md#tag-handwritten-title)
+[`book-cover`](tags.md#tag-book-cover) [`candlelight`](tags.md#tag-candlelight) [`vintage-room`](tags.md#tag-vintage-room) [`typography`](tags.md#tag-typography) [`cinematic`](tags.md#tag-cinematic)
 
 <details><summary><b>提示词</b></summary>
 
 ```text
-Made with GPT Image 2.5 on
-@itsPolloAI
+A luxurious cinematic novel cover poster featuring a beautiful young woman sitting in an elegant dimly lit vintage room, holding a premium black hardcover book in her hands while reading it. She has a captivating expression, a shy mysterious smile, and emotional eyes as she gets lost in the story. The book cover in her hands is clearly visible and features a seductive luxury design with black velvet texture, golden embossed details, deep red roses, and elegant typography. The main title on the book cover reads “HIS TEMPTATION” in a bold sophisticated serif font, and directly underneath the title it says “by Elena Voss” in a smaller elegant font. Add candlelight, antique furniture, dark flowers, dramatic shadows, cinematic lighting, high-fashion editorial style, realistic photography, ultra detailed, 8K, professional bestselling novel cover design, mysterious and intense atmosphere.
 
-
-Prompt : Use the uploaded image as the exact reference. Preserve the original subjects, identities, poses, composition, colors, lighting, background, and key details. Do not add, remove, or rearrange major elements.
-
-Create a vertical 3:4 editorial poster with two sections:
-
-- Top half: keep the original photo natural, sharp, and essentially unchanged.
-- Bottom half: recreate the exact same scene as a refined hand-drawn illustration in soft watercolor, colored pencil, and fine ink sketch style.
-
-Keep the same subjects, positions, perspective, and recognizable details. Use soft pastel tones, a warm off-white paper background, subtle paper texture, and a premium editorial / art-book / postcard feel. Add a soft seamless transition between the photo and illustration.
-
-Add minimal elegant typography: a handwritten-style title and a small simple subtitle. Use context-appropriate text such as “A Brighter Day” and “A Slower Life”, or for pets/family “Good Friends”, “Brighter Days”, or “Happier Tails ♡”.
-
-Optional: add a few subtle hand-drawn decorative details like tiny petals, leaves, hearts, or sketch marks only if they naturally fit.
-
-Do not change identities or the scene, and do not make the lower section look like photorealism, 3D, anime, or cartoon.
+Prompt 2 — “His Temptation” Movie Scene at Home A cinematic back-view shot of a young woman sitting comfortably on a luxurious velvet sofa in her elegant living room at night. She is watching the movie adaptation of the novel “His Temptation” on a large LED screen. The camera is positioned behind her, showing her silhouette, long hair, and relaxed posture as she becomes completely absorbed in the story. The LED screen displays a dramatic romantic scene featuring the mysterious male lead and female lead from the novel. The room has warm golden lamps, candles, a large bookshelf, soft cushions, dark flowers, and a cozy luxury interior. A copy of the book “His Temptation” by Elena Voss rests on the coffee table beside her. Emotional cinematic atmosphere, realistic home setting, professional film camera shot, shallow depth of field, ultra realistic, 8K movie still quality. 🖤
 ```
 
 </details>
@@ -1322,132 +1425,29 @@ FORMAT: 2:3 vertical, exact 50/50 composition, premium editorial travel-poster a
 
 </details>
 
-<a id="gpt-image-photo-to-manga-split-panel-poster"></a>
-### 照片与日式漫画重绘对照海报，花瓣草地上的女孩
+<a id="nano-banana-graffiti-streetwear-portrait-poster"></a>
+### 喷漆字体街头潮牌人像海报
 
-<a href="https://x.com/oggii_0/status/2114943832894972403"><img src="../../previews/gpt-image-photo-to-manga-split-panel-poster.jpg" width="360"></a>
+<a href="https://x.com/SadiaMalik182/status/2068623080491012278"><img src="../../previews/nano-banana-graffiti-streetwear-portrait-poster.jpg" width="360"></a>
 
-上下各占一半，上半保留原图不改动，下半按十六进制色值限定墨线、米色底和点缀色重绘成日式漫画。按人物、动物、物体、风景分别设定规则，并限制插画占比、自动生成手写短句，使重绘忠实又留白。
+把涂鸦字体、滴漆、贴纸和泼溅等元素逐项列出，围绕一位摆拍的时尚模特。要求高级编辑感而非杂乱壁画，让繁复的背景保持克制，再用负面提示词压制瑕疵。
 
-GPT Image 2.5 · 上传图改图 · 出处: [@oggii_0 on X](https://x.com/oggii_0/status/2114943832894972403) · 136 赞，统计于 2026-10-28
+Nano Banana 2 · 文生图 · 出处: [@SadiaMalik182 on X](https://x.com/SadiaMalik182/status/2068623080491012278) · 138 赞，统计于 2026-10-28
 
-[`photo-to-manga`](tags.md#tag-photo-to-manga) [`split-panel`](tags.md#tag-split-panel) [`limited-palette`](tags.md#tag-limited-palette) [`handwritten-caption`](tags.md#tag-handwritten-caption) [`print-poster`](tags.md#tag-print-poster)
+[`graffiti`](tags.md#tag-graffiti) [`streetwear`](tags.md#tag-streetwear) [`fashion-poster`](tags.md#tag-fashion-poster) [`spray-paint`](tags.md#tag-spray-paint) [`editorial`](tags.md#tag-editorial)
 
 <details><summary><b>提示词</b></summary>
 
 ```text
-Turn any photo into a minimalist Japanese manga print poster with GPT Image 2.5.
+Create a high-detail portrait poster in a bold American graffiti-inspired art style, combining modern urban street aesthetics with expressive American visual culture. Feature dynamic graffiti typography, layered spray-paint textures, hand-drawn symbols, abstract paint splashes, neon brush strokes, urban sticker elements, American calligraphy accents, and decorative ornaments that reinforce a vibrant street-art atmosphere.
 
-Prompt: Task: Create a 3:4 Split-Panel Photo-to-Japanese Illustration Poster
+The subject should pose confidently in fashionable contemporary streetwear, wearing layered oversized urban fashion pieces, premium casual styling, cargo denim, statement sneakers, and expressive accessories. Use a charismatic fashion-model pose with natural attitude and cinematic presence.
 
-Transform the uploaded photograph into a vertically composed 3:4 comparison poster. The upper half displays the original photograph, while the lower half features a Japanese hand-drawn manga illustration with a limited-color print-poster aesthetic, faithfully redrawn from the same photograph.
+Fill the background with colorful graffiti walls, spray textures, stickers, urban signage, painted symbols, paint drips, street culture graphics, and modern American-inspired visual motifs. Maintain a premium editorial campaign look rather than a messy street mural.
 
-Divide the canvas into two equal horizontal sections, each occupying exactly 50% of the total height. Both sections must have the same width. The horizontal division should connect seamlessly, with no gap, border, overlap, or decorative separator.
+Cinematic lighting, realistic skin texture, strong contrast, ultra-sharp details, vibrant color harmony, luxury street-fashion campaign aesthetic, poster-ready composition, immersive storytelling, ultra-detailed textures, premium urban atmosphere, 8K ultra-high resolution.
 
-1. Upper Half — Original Photograph
-
-- Preserve the original photograph exactly as it is.
-- Do not redraw, recolor, retouch, or add any text to the photograph.
-- Scale proportionally without stretching or distorting the image.
-- If necessary, crop peripheral background areas first while preserving the main subject and important visual details.
-- If the aspect ratio cannot be accommodated without compromising essential content, extend the edges with a light grayish-cream background. Never invent or reconstruct missing parts of the original photograph.
-
-2. Lower Half — Japanese Hand-Drawn Illustration
-
-Redraw the photograph as a Japanese-inspired hand-drawn manga illustration with a minimalist, limited-color screen-print poster aesthetic.
-
-The original photograph is the exclusive source of the subject's identity, appearance, pose, structure, composition, layout, and relationships between objects.
-
-For people:
-
-- Preserve recognizable facial shape, hairstyle silhouette, expression, pose, gestures, and clothing category.
-- Simplify the face into clean manga-style shapes.
-- Render hair as grouped, flowing masses rather than individual strands.
-- Express clothing through elegant, simplified fashion silhouettes.
-
-For animals:
-
-- Preserve the species, body proportions, distinctive coat-color patterns, and pose.
-- Use simplified contours and flat color blocks to retain recognizability.
-
-For objects:
-
-- Preserve the original silhouette, essential structural details, and proportions.
-
-For landscapes and scenery:
-
-- Preserve the terrain, architecture, distribution of visible elements, and spatial depth.
-- Redraw the main landscape as a cohesive illustration rather than reducing it to an isolated object.
-
-Preserve all visible contact, overlap, and occlusion relationships. Depict only what is visible in the source photograph. Do not introduce new subjects, props, gestures, or structures outside the original image.
-
-If an additional style reference is provided, use it only for drawing technique, color palette, and layout. Never copy its subjects or content.
-
-3. Linework and Color Treatment
-
-Use a consistent combination of delicate ink outlines, naturally simplified shapes, and limited-color flat fills.
-
-- Ink outline: Near-black "#02030B", with varied pressure, subtle line-weight changes, occasional pauses, and slightly irregular hand-drawn edges.
-- Keep internal lines minimal, retaining only the structural details necessary to define form.
-- Use clean, continuous, opaque color blocks.
-- Merge shadows into a small number of hard-edged color shapes.
-- Avoid individual hair strands, dense hatching, photorealistic textures, and excessive decorative detail.
-- Preserve the subject's essential natural colors and distinctive identifying color patterns.
-
-Lower-panel background: Light grayish cream "#ECEDE5".
-
-Primary accent: Warm red "#E9444B".
-
-Secondary accent: Muted blue-gray "#5296BD".
-
-Use red as the dominant accent and blue sparingly. Ensure that accent colors complement the subject without compromising its recognizability.
-
-Simplify the background to the cream paper tone, retaining only the environmental details needed to communicate the setting, explain the action, and preserve spatial relationships. For landscape photographs, translate the principal scenery into the illustration rather than omitting it.
-
-4. Lower Panel — Minimalist Poster Layout
-
-Create a refined editorial composition with a small illustration surrounded by generous negative space.
-
-- Treat the subject and essential environmental elements as one cohesive illustration.
-- Scale the complete illustration proportionally and center it within the lower panel.
-- Keep the entire illustration group within approximately 65–70% of the panel width and 60–65% of the panel height.
-- Fit the illustration within these limits without stretching or distorting it.
-- Maintain generous light grayish-cream margins on all sides.
-- Do not let the illustration touch the edges or fill the entire panel.
-- Do not use large background color blocks to fill the empty space.
-- Do not add a border around the illustration.
-
-The overall layout should resemble a thoughtfully designed Japanese art-print poster: restrained, balanced, airy, and visually sophisticated.
-
-5. Handwritten Typography
-
-Add two small handwritten text elements within the negative space of the lower panel.
-
-Top area: Place a small, delicate, near-black handwritten phrase, such as:
-
-“FROM LIFE TO LINES.”
-
-Beside the illustration: Add an even smaller, casual handwritten phrase, such as:
-
-“another way to see.”
-
-Generate both phrases automatically based on the subject, setting, and emotional atmosphere of the original photograph. The wording should feel concise, natural, poetic, and contextually relevant.
-
-The example phrases are references for tone and placement only. Do not use them automatically if a more fitting caption can be generated.
-
-Typography must remain subtle and secondary to the illustration. Use a natural handwritten style with fine, slightly imperfect strokes. Ensure all generated text is spelled correctly and legible.
-
-6. Final Output Requirements
-
-- Aspect ratio: 3:4 portrait.
-- Upper half: 50% of canvas height, displaying the untouched original photograph.
-- Lower half: 50% of canvas height, displaying the Japanese-inspired hand-drawn illustration.
-- Equal panel widths, seamless horizontal transition, no gap, no frame, and no overlap.
-- Consistent minimalist Japanese manga linework and limited-color print-poster styling.
-- Small, centered illustration with generous cream-colored negative space.
-- Subtle, context-aware handwritten typography in the lower panel.
-
-Core principle: The original photograph determines what is depicted. The illustration style determines how the lower half is redrawn. Preserve the source's identity and composition while transforming the lower panel into an elegant, minimalist Japanese illustration poster.
+Negative Prompt: blurry details, bad anatomy, extra fingers, distorted face, low quality, dull colors, messy composition, watermark, logo, text artifacts.
 ```
 
 </details>
@@ -1736,6 +1736,148 @@ GPT Image 2.5 · 文生图 · 出处: [@Maercihh on X](https://x.com/Maercihh/st
   },
 
   "output_instruction": "Create a single finished vintage screenprint travel poster representing {{USER_INPUT_CITY}}. Preserve the artistic language and visual restraint of the supplied references, but completely redesign the landmarks, transportation, color accents and local details so they authentically belong to the specified city."
+}
+```
+
+</details>
+
+<a id="nano-banana-papercraft-globe-country-travel-poster"></a>
+### 巴西纸艺地球旅行海报
+
+<a href="https://x.com/SimplyAnnisa/status/2070347440423576022"><img src="../../previews/nano-banana-papercraft-globe-country-travel-poster.jpg" width="360"></a>
+
+模板只替换国家名，版式固定：衬线标题、角落引语与徽章、五项清单，以及坐在纸艺地球上的旅行者。逐一写明文字位置和地球底部的微缩道具，让不同国家的海报构图保持稳定。
+
+Nano Banana 2 · 文生图 · 出处: [@SimplyAnnisa on X](https://x.com/SimplyAnnisa/status/2070347440423576022) · 125 赞，统计于 2026-10-28
+
+[`travel-poster`](tags.md#tag-travel-poster) [`papercraft`](tags.md#tag-papercraft) [`globe`](tags.md#tag-globe) [`template`](tags.md#tag-template) [`diorama`](tags.md#tag-diorama)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Design a premium vintage-inspired travel poster on a clean cream background featuring a highly detailed 3D papercraft globe of {COUNTRY} filled with its iconic landmarks, landscapes, wildlife, cultural symbols, regional labels, transportation, food, and famous attractioAt the top place the bold serif title "{COUNTRY}", with "{TOP LEFT QUOTE}" on the upper left, a circular badge reading "{COUNTRY} {BADGE TEXT}" on the upper right, and the subtitle "{COUNTRY SUBTITLE}" below the title. Position a famous {COUNTRY} celebrity/traveler sitting on top of the globe wearing stylish travel clothing and holding a {TRAVEL ACCESSORY}. Add a left vertical checklist with five themed experiences and minimalist icons.Arrange miniature vehicles, traditional foods, wildlife, souvenirs, and famous monuments neatly around the base of the globe. Finish with the bottom slogan "{BOTTOM TAGLINE}". Hyper-realistic, intricate papercraft diorama, editorial travel poster, premium print design, vibrant colors, soft shadows, centered composition, ultra-detailed, 8K.
+```
+
+</details>
+
+<a id="gpt-image-hiker-leaf-disintegration-motivational-poster"></a>
+### 徒步女孩化作秋叶的励志海报
+
+<a href="https://x.com/mehwishkiran07/status/2100787007811362831"><img src="../../previews/gpt-image-hiker-leaf-disintegration-motivational-poster.jpg" width="360"></a>
+
+指定人物一侧化作落叶、尘埃和飞鸟，让海报有唯一的视觉焦点。每处文字都给出确切内容，再要求带撕纸边框的第二版，形成上下两幅的版式。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@mehwishkiran07 on X](https://x.com/mehwishkiran07/status/2100787007811362831) · 121 赞，统计于 2026-10-28
+
+[`motivational-poster`](tags.md#tag-motivational-poster) [`disintegration`](tags.md#tag-disintegration) [`autumn`](tags.md#tag-autumn) [`typography`](tags.md#tag-typography) [`golden-hour`](tags.md#tag-golden-hour)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a cinematic, ultra-realistic motivational poster of a young woman hiking on a rocky mountain trail at golden hour, with a breathtaking lake, mountains, and warm sunset in the background. She wears a cozy beige fleece jacket over a black top, olive cargo pants, hiking boots, and a backpack. Her hair is tied in a messy bun, with a natural, confident expression.
+Create a dramatic disintegration effect on the right side of her body, where her figure transforms into flying autumn leaves, dust particles, and small fragments carried into the sky. Add several black birds flying among the leaves. Include ancient stone ruins on the right side and a large rock with the text “SAME HUSTLE BIGGER TOMORROW.”
+On the left side, add elegant typography: “Progress” in stylish handwritten script, followed by “LOOKS GOOD ON YOU” in clean uppercase serif lettering. Use warm orange, brown, and golden tones, cinematic lighting, shallow depth of field, realistic textures, atmospheric perspective, high detail, professional advertising photography, 8K quality.
+Create a second framed version below with a white artistic torn-paper/paint-splatter border and autumn leaves around the edges. At the bottom add the handwritten text “Same Girl… Bigger Dreams ♡” and below it: “REAL MOMENTS • BRIGHTER DAYS • A KINDER ME.”
+```
+
+</details>
+
+<a id="nano-banana-three-panel-streetwear-editorial-poster"></a>
+### 棕色调街头风三格编辑海报
+
+<a href="https://x.com/saniaspeaks_/status/2040591799757230151"><img src="../../previews/nano-banana-three-panel-streetwear-editorial-poster.jpg" width="360"></a>
+
+用 JSON 结构锁定参考图人物身份，并为三个画格分别指定景别、光线和情绪。统一的棕色调胶片颗粒调色加上负面约束清单，让拼贴保持一致。
+
+Nano Banana 2 · 上传图改图 · 出处: [@saniaspeaks_ on X](https://x.com/saniaspeaks_/status/2040591799757230151) · 119 赞，统计于 2026-10-28
+
+[`json-prompt`](tags.md#tag-json-prompt) [`multi-panel`](tags.md#tag-multi-panel) [`streetwear`](tags.md#tag-streetwear) [`identity-lock`](tags.md#tag-identity-lock) [`film-grain`](tags.md#tag-film-grain)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+"style": "editorial poster, retro analog-digital fusion, urban streetwear aesthetic",
+  "aspect_ratio": "4:5",
+  "resolution": "high resolution",
+  "identity_preservation": {
+    "use_reference_image": true,
+    "strict_identity_lock": true,
+    "notes": "Maintain the exact facial features, proportions, skin texture, and identity from the uploaded reference photo."
+  },
+  "composition": {
+    "layout": "multi-panel collage",
+    "frames": 3,
+    "structure": "asymmetric arrangement",
+    "design": "editorial poster style with layered visual storytelling"
+  },
+  "subject": {
+    "gender": "female",
+    "appearance": {
+      "hair": "softly tousled mid-length hair with natural volume",
+      "features": "delicate facial features",
+      "expression": "subtle, confident, calm"
+    },
+    "styling": {
+      "fashion": "urban streetwear",
+      "palette": "muted brown tones, earthy neutrals",
+      "aesthetic": "modern with retro influence"
+    }
+  },
+  "frames_details": [
+    {
+      "frame": 1,
+      "type": "close-up portrait",
+      "focus": "face and expression",
+      "lighting": "soft cinematic lighting",
+      "mood": "intimate and editorial"
+    },
+    {
+      "frame": 2,
+      "type": "mid-shot",
+      "focus": "outfit and posture",
+      "lighting": "natural street-style lighting",
+      "mood": "confident and modern"
+    },
+    {
+      "frame": 3,
+      "type": "creative angle",
+      "focus": "artistic composition",
+      "lighting": "mixed analog-style light with subtle grain",
+      "mood": "retro-digital fusion aesthetic"
+    }
+  ],
+  "environment": {
+    "setting": "urban street background",
+    "details": [
+      "textured walls",
+      "subtle city elements",
+      "minimal distractions"
+    ],
+    "atmosphere": "calm, stylish, editorial"
+  },
+  "color_grading": {
+    "tones": "muted brown, warm neutrals",
+    "style": "film-inspired with slight grain",
+    "contrast": "balanced cinematic contrast"
+  },
+  "camera": {
+    "style": "editorial photography",
+    "depth_of_field": "shallow",
+    "focus": "sharp on subject, soft background"
+  },
+  "quality": {
+    "realism": "photorealistic",
+    "detail": "high detail skin and fabric textures",
+    "finish": "magazine-quality"
+  },
+  "constraints": [
+    "no face alteration",
+    "no cartoon or illustration",
+    "no distortion",
+    "no watermark",
+    "no text unless part of design"
+  ],
+  "output_goal": "Create a high-end editorial poster-style multi-panel collage of the same woman in three asymmetric frames with a cohesive muted-brown urban streetwear and retro analog-digital aesthetic."
 }
 ```
 
@@ -2073,6 +2215,29 @@ Everything else should maintain the same refined editorial postcard design langu
 
 </details>
 
+<a id="nano-banana-underwater-sinking-man-triptych-poster"></a>
+### 男子下沉水中的三格电影海报
+
+<a href="https://x.com/NikhilRajX/status/2029451287914528979"><img src="../../previews/nano-banana-underwater-sinking-man-triptych-poster.jpg" width="360"></a>
+
+提示词把海报分成上中下三格，分别指定特写、中景和远景，从面部一路拉到深海，形成尺度感。体积光束、气泡和青蓝调色统一三格画面，最后用一行简短片名确定海报字体。
+
+Nano Banana 2 · 文生图 · 出处: [@NikhilRajX on X](https://x.com/NikhilRajX/status/2029451287914528979) · 118 赞，统计于 2026-10-28
+
+[`movie-poster`](tags.md#tag-movie-poster) [`underwater`](tags.md#tag-underwater) [`triptych`](tags.md#tag-triptych) [`cinematic`](tags.md#tag-cinematic) [`volumetric-light`](tags.md#tag-volumetric-light)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Gemini Nano Banana 2 on Yapper.
+
+Prompt: A cinematic underwater movie poster showing a young man slowly sinking in deep ocean water. The composition is split into three horizontal cinematic frames. In the top frame, a close-up of the man’s face underwater with small air bubbles escaping from his mouth, soft sunlight rays penetrating from the surface above, illuminating floating particles in the water. In the middle frame, a medium shot of the man floating weightlessly underwater, wearing a loose white shirt and dark pants, his hair and clothes drifting naturally with the water currents, dramatic volumetric light beams from above. In the bottom frame, a wide shot showing the man alone in the vast deep blue ocean abyss, surrounded by darkness and fading light rays, creating a sense of scale and isolation.
+Atmosphere is emotional, mysterious, and cinematic. Deep teal and blue color grading, soft foggy underwater diffusion, ultra-realistic water physics, bubbles and particles, dramatic lighting, shallow depth of field, high contrast, IMAX movie poster style, 8k, hyper-realistic photography.
+Minimal movie title text at the bottom: “BEYOND THE DEPTHS”, elegant cinematic typography.
+```
+
+</details>
+
 <a id="gpt-image-sahara-double-exposure-travel-poster"></a>
 ### 撒哈拉双重曝光旅行海报与行走的女子
 
@@ -2242,6 +2407,112 @@ No text, numbers, logos, watermarks, borders, added flags, unrelated landmarks, 
 
 </details>
 
+<a id="gpt-image-watercolor-travel-editorial-three-city-woman"></a>
+### 水彩泼溅风旅行海报，女子漫步迪拜
+
+<a href="https://x.com/KrishnaBio1/status/2102691221764477093"><img src="../../previews/gpt-image-watercolor-travel-editorial-three-city-woman.jpg" width="360"></a>
+
+提示词为每张参考图指定城市、服装和氛围，再用水彩泼溅作为场景过渡，让画面连成一个故事。反复强调保持面部与比例一致来锁定人物，底部的手写体标题补全杂志式版面。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@KrishnaBio1 on X](https://x.com/KrishnaBio1/status/2102691221764477093) · 97 赞，统计于 2026-10-28
+
+[`watercolor`](tags.md#tag-watercolor) [`travel-poster`](tags.md#tag-travel-poster) [`scrapbook`](tags.md#tag-scrapbook) [`reference-photos`](tags.md#tag-reference-photos) [`editorial`](tags.md#tag-editorial)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a premium vertical 9:16 luxury travel artwork by seamlessly combining all three uploaded reference images into one cohesive visual story.
+
+Show the same stylish woman traveling through three iconic destinations:
+1. Paris — elegant Parisian streets with the Eiffel Tower, beige sophisticated outfit, black sunglasses and luxury city-walk atmosphere.
+2. Dubai — modern waterfront promenade with Burj Khalifa, soft neutral modest outfit with a flowing scarf, warm upscale atmosphere.
+3. Sydney — Sydney Opera House beside the waterfront, casual white top, light blue jeans, sneakers and relaxed summer-travel mood.
+
+Blend all three destinations together with elegant watercolor splash transitions, soft artistic paint textures, subtle paper details and realistic photographic elements. Keep the woman’s appearance, facial identity, proportions and styling natural and consistent throughout the three scenes.
+
+Luxury travel editorial aesthetic, cinematic natural lighting, premium composition, soft pastel tones, realistic details mixed with artistic watercolor, clean elegant background, sophisticated lifestyle photography, high-end travel magazine design, ultra-detailed, sharp subject, balanced composition, 8K quality.
+
+Add a tasteful handwritten-style title near the bottom:
+“WANDER • DREAM • DISCOVER”
+
+Make the final image feel like one beautiful international travel story rather than three unrelated pictures.
+```
+
+</details>
+
+<a id="gpt-image-red-white-motivational-fashion-poster-triple-portrait"></a>
+### 红白配色励志时尚海报，同一人三种景别
+
+<a href="https://x.com/mehwishkiran07/status/2102714995427737651"><img src="../../previews/gpt-image-red-white-motivational-fashion-poster-triple-portrait.jpg" width="360"></a>
+
+以上传照片锁定身份，并用编号分别指定特写、半身、全身三种景别的位置，让同一人物在海报中分层而不显重复。每段文字都写明位置和字体风格，如单词用深红毛笔体、其余用深色小字，结尾再要求拼写正确。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@mehwishkiran07 on X](https://x.com/mehwishkiran07/status/2102714995427737651) · 92 赞，统计于 2026-10-28
+
+[`fashion-poster`](tags.md#tag-fashion-poster) [`identity-reference`](tags.md#tag-identity-reference) [`typography`](tags.md#tag-typography) [`red-white`](tags.md#tag-red-white) [`triple-portrait`](tags.md#tag-triple-portrait)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+> Use the uploaded reference image as the primary identity reference. Preserve the subject’s exact facial identity, facial structure, skin tone, hairstyle, eyes, nose, lips, jawline, and overall likeness. Create a premium cinematic motivational fashion poster in a vertical 4:5 composition.
+
+The poster features the same person in three integrated appearances/scales:
+
+1. A huge close-up portrait occupying the upper-left and center background, showing the face in sharp detail with a confident, subtle smile and natural realistic skin texture.
+
+2. A large half/full upper-body portrait positioned on the right side, slightly behind the main subject, maintaining the exact same identity and hairstyle.
+
+3. A full-body fashion portrait in the center foreground, walking confidently toward the camera with both hands naturally placed in the trouser pockets.
+
+Create a luxury editorial fashion campaign aesthetic, cinematic photography, ultra-realistic skin texture, realistic hair strands, natural facial proportions, premium studio lighting, sharp focus, sophisticated confident expression.
+
+Outfit: elegant monochromatic white fashion outfit. For the female version, a tailored white blazer, fitted white top, high-waisted white trousers and clean white sneakers. For the male version, a perfectly tailored white blazer, open-collar white shirt, white trousers and clean white sneakers. Add a premium minimalist wristwatch.
+
+Background: dramatic white and deep crimson-red abstract paint splashes, energetic brush strokes, textured grunge effects, dark red metropolitan city skyline silhouettes emerging from the paint, cinematic reflections on a glossy wet floor, strong red atmospheric glow, high contrast between white and crimson.
+
+The composition should feel like a high-end fashion magazine cover mixed with a motivational movie poster. Layer the large portraits naturally into the background without looking duplicated or artificial. Maintain realistic depth, scale, perspective, shadows and lighting consistency across all three versions of the subject.
+
+Add elegant editorial typography integrated into the design:
+
+Top right: SAME
+DREAMS
+BIGGER
+MOVES
+
+Left side: DISCIPLINE
+CREATIVITY
+PROGRESS
+FREEDOM
+
+Large lower-left text:
+VISION
+
+Large handwritten brush-script text on lower-right:
+Better
+
+Under it: THAN
+YESTERDAY
+
+Bottom-left: A
+YOUNG
+MIND
+WITH
+A BIG
+VISION
+
+Bottom-right: GOOD
+IDEAS
+TAKE TIME
+
+Typography should be elegant, editorial, clean and perfectly aligned, with deep red brush lettering for “Better” and subtle black/dark typography for the smaller text.
+
+Overall style: ultra-photorealistic, cinematic, premium luxury fashion campaign, sophisticated editorial composition, dramatic red-and-white color palette, realistic photography, high detail, sharp facial features, natural skin pores, realistic hair, volumetric lighting, glossy reflections, professional art direction, 8K quality, highly polished commercial poster.
+
+Important: Keep the subject’s identity consistent across all three appearances. Do not change the face, age, ethnicity, facial proportions or recognizable features. No extra fingers, distorted hands, duplicated limbs, warped face, unnatural anatomy, blurry face, cartoon appearance or plastic skin. Ensure all typography is correctly spelled and readable.
+```
+
+</details>
+
 <a id="gpt-image-minimalist-ink-sketch-travel-poster"></a>
 ### 地标极简钢笔速写旅行海报
 
@@ -2278,6 +2549,40 @@ At the top, write the destination name in thin, spaced-out uppercase lettering: 
 Overall mood: Peaceful, poetic, artistic, minimalist, nostalgic, and sophisticated — like a page from a beautifully illustrated travel journal.
 
 Technical details: Square 1:1 composition, crisp fine-line drawing, restrained pastel colours, plenty of cream negative space, no photorealism, no 3D effects, no glossy finish, no heavy shadows, no clutter, and no extra text. Ensure the destination name is spelled correctly.
+```
+
+</details>
+
+<a id="nano-banana-editorial-poster-motion-ghost-figures"></a>
+### 带动态模糊虚影的编辑风人像海报
+
+<a href="https://x.com/CodeByPoonam/status/2107769327751709117"><img src="../../previews/nano-banana-editorial-poster-motion-ghost-figures.jpg" width="360"></a>
+
+先锁定上传照片的人脸特征，再按场景、背景、光线、文字分块写清版式。粗体窄字压在下半身前形成层次，结尾用否定清单排除多余图形和文字。
+
+Nano Banana 2.1 · 上传图改图 · 出处: [@CodeByPoonam on X](https://x.com/CodeByPoonam/status/2107769327751709117) · 83 赞，统计于 2026-10-28
+
+[`editorial-poster`](tags.md#tag-editorial-poster) [`identity-lock`](tags.md#tag-identity-lock) [`typography`](tags.md#tag-typography) [`motion-blur`](tags.md#tag-motion-blur) [`cinematic`](tags.md#tag-cinematic)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Use the uploaded photo of me as the main subject. Keep my face, skin tone, hair and features exactly the same. Recreate the style and layout of the reference poster.
+
+Scene: A vertical 4:5 editorial poster. I stand in the center, facing the camera with a calm, serious expression. My head is slightly tilted. I wear a flowy, elegant midi dress in a deep charcoal navy shade. The fabric has soft natural folds.
+
+Background: A soft blue-grey studio wall with a cinematic teal and navy gradient. Two blurred, motion-smeared figures in dark oversized clothing stand on the left and right edges. They look like long-exposure ghosts. Keep them out of focus.
+
+Lighting: Soft, moody natural light. Gentle rim light on my hair. Muted film tones, fine grain, shallow depth of field. Fashion editorial look.
+
+Text layout:
+- Top center: small, wide-spaced white text "SONI"
+- Center, over the lower body: huge, bold, condensed white sans-serif text "PROMPT". It sits in front of the dress, slightly overlapping me.
+- Just below it: orange handwritten script text "NanoBanana 2.1", slightly tilted
+
+Do not add any arrow, button, oval or pill shape. Do not add any other text, logos or watermarks.
+
+Style: premium magazine poster, clean typography, high contrast text, cinematic, photorealistic, 4:5  aspect ratio
 ```
 
 </details>
@@ -2340,6 +2645,35 @@ The finished artwork should feel like a premium independent fashion magazine, co
 STRICT 3:4 VERTICAL | TEXT-ONLY GENERATION | RESTRAINED COLORS | 22–30% NEGATIVE SPACE | PREMIUM EDITORIAL TYPOGRAPHY | SUBTLE FILM GRAIN & PAPER PRINT TEXTURE.
 
 Generate everything autonomously from [COUNTRY / LOCATION / SUBJECT] alone.
+```
+
+</details>
+
+<a id="gpt-image-japanese-comic-poster-photo-comparison"></a>
+### 伊斯坦布尔猫咪照片与日式漫画海报对照图
+
+<a href="https://x.com/Goodmanprotocol/status/2114688658746028256"><img src="../../previews/gpt-image-japanese-comic-poster-photo-comparison.jpg" width="360"></a>
+
+画面分为上下两半，上半保留原照片，下半重绘为海报。墨色、红色、蓝色和纸色都给出了精确色值，标题分两行并分别指定颜色，让丝网印刷风格保持稳定。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2114688658746028256) · 69 赞，统计于 2026-10-28
+
+[`comparison`](tags.md#tag-comparison) [`screen-print`](tags.md#tag-screen-print) [`japanese-comic`](tags.md#tag-japanese-comic) [`poster`](tags.md#tag-poster) [`limited-palette`](tags.md#tag-limited-palette)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 3:4 vertical comparison image divided into two equal horizontal halves, seamlessly joined without borders or gaps.
+
+TOP HALF: Display the uploaded photograph exactly as it is, without editing, recoloring, or adding text. Preserve proportions; crop only peripheral background if necessary.
+
+BOTTOM HALF: Redraw the same subject as a Japanese hand-drawn comic poster with minimalist, limited-color screen-print aesthetics. Preserve the subject's recognizable features, pose, proportions, colors, and relationships between objects. Adapt naturally to people, animals, objects, or landscapes. Keep the essential scenery and add nothing absent from the original photograph.
+
+ART STYLE: Delicate, slightly irregular ink-black outlines (#02030B), simplified shapes, clean opaque color blocks, and minimal hard-edged shadows. Use warm red (#E9444B), muted gray-blue (#5296BD), and off-white paper (#ECEDE5), with red dominant over blue. Avoid photorealistic textures, dense hatching, 3D effects, and excessive details.
+
+LAYOUT & TEXT: Position the illustration in the upper-middle of the bottom half, with generous negative space and bold, hand-carved typography below. Add a small handwritten, subject-related caption at the top and a short handwritten annotation beside the subject, both in black. The main headline reads “Jen” in warm red on the first line and “Style” in gray-blue on the second. Each appears once. Keep all text within the bottom half, fully legible and uncropped. Replace sample text only when the user provides alternatives.
+
+FINAL RESULT: One complete 3:4 image, with the untouched original photograph above and its Japanese hand-drawn, limited-color poster interpretation below. No extra borders, watermarks, invented elements, or decorative clutter.
 ```
 
 </details>
@@ -2599,33 +2933,53 @@ FINAL OBJECTIVE: Produce a refined, collectible-quality editorial poster that fe
 
 </details>
 
-<a id="nano-banana-photo-to-painting-editorial-poster-seoul"></a>
-### 实拍与手绘版叠放的杂志风海报
+<a id="gpt-image-opera-house-riso-zine-split-poster"></a>
+### 悉尼歌剧院实景照片与孔版印刷杂志重构双联海报
 
-<a href="https://x.com/saniaspeaks_/status/2113118463824671218"><img src="../../previews/nano-banana-photo-to-painting-editorial-poster-seoul.jpg" width="360"></a>
+<a href="https://x.com/sebatheepan/status/2101034408253837454"><img src="../../previews/gpt-image-opera-house-riso-zine-split-poster.jpg" width="360"></a>
 
-提示词把实拍照片与手绘重绘上下叠放，并锁定姿势、服装、道具和光线方向，让两幅画面像同一瞬间。奶油色纸面版式加上字距拉开的大写标题与副标题占位，方便反复套用。
+画面上下分区，上半是忠实实景，下半是双色孔版印刷重构，并明确要求保留建筑原貌，地标依然一眼可辨。结构、光线、密度和文字都留成固定槽位，一套母提示词就能批量出系列，并用唯一红色点缀和固定留白统一版面。
 
-Nano Banana 2.1 · 上传图改图 · 出处: [@saniaspeaks_ on X](https://x.com/saniaspeaks_/status/2113118463824671218) · 62 赞，统计于 2026-10-28
+GPT Image 2.5 · 文生图 · 出处: [@sebatheepan on X](https://x.com/sebatheepan/status/2101034408253837454) · 52 赞，统计于 2026-10-29
 
-[`photo-to-painting`](tags.md#tag-photo-to-painting) [`editorial-layout`](tags.md#tag-editorial-layout) [`magazine-poster`](tags.md#tag-magazine-poster) [`before-after`](tags.md#tag-before-after) [`pastel`](tags.md#tag-pastel)
+[`risograph`](tags.md#tag-risograph) [`zine`](tags.md#tag-zine) [`architecture`](tags.md#tag-architecture) [`split-layout`](tags.md#tag-split-layout) [`template`](tags.md#tag-template)
 
 <details><summary><b>提示词</b></summary>
 
 ```text
-Design a sophisticated vertical magazine-style poster built around a seamless transition from reality to illustration. At the top, present the subject as a highly realistic lifestyle photograph, naturally placed within the original environment. Use soft golden sunlight, lifelike skin and hair details, subtle facial expression, natural shadows, and a shallow cinematic focus for an authentic photographic feel.
+─────────────────────────
+One poster, 3:4 vertical canvas. Split into two roughly equal zones — a realistic photograph on top, a printed reconstruction below — divided by one clean sharp horizontal line. The structure must not be stretched, warped, tilted or repositioned unnaturally.
 
-Directly beneath it, reinterpret the very same moment as a refined hand-painted artwork. Keep the character instantly recognizable by matching the original composition, body position, hairstyle, outfit, smartphone, lighting direction, and surrounding environment. Give the artwork a gentle painterly finish with visible brushwork, soft edges, organic forms, muted pastel tones, and a nostalgic illustrated-magazine atmosphere.
+TOP HALF — THE REAL SHOT
+{STRUCTURE DESCRIPTION}. {PLATE LIGHT}. Preserve the structure faithfully: same architecture, proportions, perspective, distinctive details, natural light and shadow. Add only a subtle high-end color grade and the faintest film grain. Never redesign or reinterpret the architecture.
 
-Arrange both scenes within a carefully designed editorial layout surrounded by warm cream-colored paper with subtle grain and tactile print texture. Add a few delicate botanical or seasonal accents around the artwork without overwhelming the composition.
+BOTTOM HALF — THE PRINTED RECONSTRUCTION
+Rebuild the same structure as a two-color risograph zine print: bold flat spot-color shapes (one deep ink layer plus the structure's muted colors as a second spot layer), visible misregistration offsets between the layers, drum streaks, coarse layered ink-grain, halftone texture from overlapping dots, a zine masthead bar, two staple marks and paste-up edges. The photograph dissolves outward into flat spot-color shapes, misaligned layers and grainy ink. The structure must remain immediately recognizable. {PLATE DENSITY}.
+Texture: cheap zine paper, layered soy ink, misregistration, drum streaks, folded-edge wear, cut-and-paste edges, restrained crop marks, one small fluorescent red calibration bar. Color: cream zine paper, black ink, one deep spot color, the structure's original muted colors, a single fluorescent red accent. Never fully desaturate the structure.
+The structure occupies roughly 60-88% of the frame width. Leave 22-38% of the paper visibly untouched and empty — generous negative space so the poster reads as an archival specimen, not a packed screen.
 
-Under the illustrated panel, create a clean typography section with a centered uppercase headline: “[MAIN TITLE]”. Use elegant, widely tracked lettering with a refined fashion-editorial feel. Beneath it, place “[TAGLINE]” in a smaller, understated typeface with generous spacing. Finish the typography area with one short horizontal pastel accent rule.
+TYPOGRAPHY — a clean fixed-width architectural title block, pinned top-left at a small fixed inset, black ink, monospaced technical typeface, verbatim, each line in caps:
+"{NAME}"
+"{CITY, COUNTRY}"
+"ZINE PLATE 0N"
+A thin horizontal rule under the third line, then one short observational caption verbatim:
+"{CAPTION}"
 
-Keep the entire composition calm, premium, and visually cohesive. The photographic and illustrated versions should feel like two interpretations of the exact same moment rather than separate scenes.
+A solid vertical red rectangle — the only red in the poster — is pinned to the bottom-right corner zone about 12% from the bottom and right edges. Four thin black crop marks sit in the four corners of the bottom half at identical insets. Red bar, crop marks and text block keep exactly the same position and size relative to the frame.
 
-Use a vertical 3:4 poster format, high-resolution output, balanced negative space, soft natural color grading, polished print aesthetics, and contemporary editorial art direction.
+MOOD: underground zine crossed with an architecture fanzine — young, tactile, collectible. Sophisticated, minimal, tactile, intellectual, slightly mysterious, highly collectible.
 
-Do not introduce unnecessary text, dramatic borders, oversaturated colors, visual clutter, unrealistic anatomy, mismatched facial features, or changes to the subject’s identity and clothing.
+AVOID: solid black terminal backgrounds, dense walls of code, cyberpunk neon, excessive decorative glyphs, distorted architecture, impossible geometry, invented architectural details, fake technical specifications, random meaningless symbols, garbled text, extra colors, brand logos, QR codes, watermarks, author credits, tourist-poster clichés.
+
+Priority: preserve the structure's identity and architectural accuracy first. The experimental print treatment enhances the architecture, never hides it.
+
+──────────────────────────────────────────────
+THE FOUR VARIATIONS (one axis change per plate)
+──────────────────────────────────────────────
+PLATE 01 — DENSE · light: "Golden-hour sunlight with long warm shadows" · density: "The print treatment is at its densest and richest: layered marks, full system detail"
+PLATE 02 — LINEWORK · light: "Soft overcast daylight, muted flat tones" · density: "The print is linework-forward: thin drafting lines and technical geometry dominate the reconstruction"
+PLATE 03 — FRAGMENT · light: "Blue-hour dusk with cool tones, the shells glowing warm against the dusk" · density: "The print is fragment-forward: torn photographic fragments dominate, with fewer system marks around them"
+PLATE 04 — MINIMAL · light: "Bright midday sunlight with crisp shadows" · density: "The print is the minimal plate of the set: sparse marks, maximum untouched paper"
 ```
 
 </details>
@@ -2666,6 +3020,211 @@ Add minimal typography: [CITY / COUNTRY] — [LANDMARK NAME], with optional coor
 STYLE: premium conceptual travel poster, poetic visual storytelling, real photography + minimalist ink illustration, warm ivory paper, delicate golden thread, sophisticated editorial composition, museum-quality art print, subtle vintage texture, emotional but understated, generous negative space, vertical 4:5 composition.
 
 IMPORTANT: Keep the real photograph visually dominant and authentic. The illustrated section should feel like it is physically connected to the photograph by the single continuous golden thread. No collage clutter, no excessive typography, no random objects, no cartoonish style, no distorted architecture.
+```
+
+</details>
+
+<a id="gpt-image-city-travel-poster-vector-template"></a>
+### 苏黎世矢量旅行海报模板
+
+<a href="https://x.com/Maercihh/status/2113234692199641441"><img src="../../previews/gpt-image-city-travel-poster-vector-template.jpg" width="360"></a>
+
+JSON 提示词只留一个城市名占位符，由模型自动选择地标、交通工具和国家文字。分层景深、固定的藏青与象牙白配色以及独立的文字区，让每个城市都保持同一套复古海报风格。
+
+GPT Image 2.5 · 文生图 · 出处: [@Maercihh on X](https://x.com/Maercihh/status/2113234692199641441) · 44 赞，统计于 2026-10-29
+
+[`travel-poster`](tags.md#tag-travel-poster) [`vector`](tags.md#tag-vector) [`template`](tags.md#tag-template) [`json-prompt`](tags.md#tag-json-prompt) [`city`](tags.md#tag-city)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+{
+"input": {
+"city_name": "{{CITY NAME}}"
+},
+
+"generation": {
+"type": "premium_illustrated_travel_poster",
+"aspect_ratio": "3:4",
+"orientation": "portrait",
+"resolution": "high",
+"reference_mode": "use_uploaded_images_for_style_reference_only",
+"city_adaptation": "fully_automatic"
+},
+
+"creative_direction": {
+"objective": "Create a beautifully composed, destination-specific illustrated travel poster that resembles a premium vintage European travel print with crisp modern vector artwork. Every generated image must feel like an authentic visual postcard of the specified city.",
+
+"art_style": {
+  "primary": "refined_flat_vector_illustration",
+  "secondary": "mid_century_travel_poster",
+  "influences": [
+    "classic European tourism posters",
+    "Japanese illustrated travel prints",
+    "modern editorial vector artwork",
+    "minimalist architectural illustration"
+  ],
+  "rendering": "clean geometric shapes, precise architectural outlines, layered silhouettes, controlled shading, subtle tonal gradients, carefully simplified details",
+  "texture": "smooth matte printed-paper appearance with extremely subtle print texture",
+  "realism_level": "stylized illustration with recognizable architectural accuracy",
+  "avoid": [
+    "photorealism",
+    "3D rendering",
+    "watercolor effects",
+    "rough sketching",
+    "childish cartoon styling",
+    "excessive gradients",
+    "plastic-looking surfaces",
+    "generic AI artwork"
+  ]
+},
+
+"destination_intelligence": {
+  "instruction": "Identify the actual city, its country, and its most recognizable visual landmarks. Build the composition around a carefully selected combination of authentic architecture, local scenery, transportation, public spaces, and cultural elements.",
+  "landmarks": "Select 2 to 4 recognizable landmarks or architectural features associated with the specified city.",
+  "architecture": "Reproduce the city's characteristic architectural styles, rooflines, facades, towers, monuments, and urban structures.",
+  "natural_environment": "Include locally appropriate mountains, rivers, lakes, coastlines, gardens, trees, or other landscape elements when relevant.",
+  "transportation": "Add a locally recognizable train, tram, bus, boat, bicycle, or other transportation element only when appropriate.",
+  "cultural_details": "Include subtle, authentic local details such as street lamps, traditional storefronts, bridges, signage, or regional vegetation.",
+  "accuracy_rule": "Do not invent landmarks or combine unrelated cities. All recognizable locations and cultural details must correspond to the requested destination.",
+  "fallback": "If a city has limited internationally recognizable landmarks, create an authentic composition using its actual architecture, urban character, and regional landscape."
+},
+
+"composition": {
+  "layout": "large illustrated cityscape in the upper portion, destination typography in a separate lower section",
+  "main_illustration": {
+    "coverage": "approximately 78 to 83 percent of the canvas height",
+    "framing": "a carefully composed, almost rectangular scenic illustration with clean edges",
+    "perspective": "slightly elevated or street-level architectural perspective chosen to best showcase the destination",
+    "depth_layers": [
+      "foreground with flowers, trees, benches, railings, steps, pedestrians, or waterfront details",
+      "middle ground with streets, bridges, public spaces, transport, and prominent architecture",
+      "background with the city's skyline, secondary landmarks, and natural landscape"
+    ],
+    "visual_hierarchy": "one dominant landmark supported by complementary architectural elements",
+    "spacing": "balanced, intentional, and visually rich without overcrowding",
+    "human_figures": "small, elegantly simplified pedestrians used sparingly to establish scale",
+    "sky": "clean pale sky with a few minimal stylized clouds or birds when appropriate"
+  },
+
+  "foreground_details": {
+    "instruction": "Select destination-appropriate details that frame the scene naturally without obscuring its important landmarks.",
+    "density": "moderate",
+    "rule": "Avoid forcing flowers, boats, trees, or other elements into cities where they would look geographically or compositionally unnatural."
+  },
+
+  "background": {
+    "color": "warm white or very pale ivory",
+    "style": "minimal, uncluttered, print-ready",
+    "negative_space": "generous space surrounding the illustration and destination typography"
+  }
+},
+
+"color_palette": {
+  "primary": [
+    "deep navy blue",
+    "cobalt blue",
+    "sky blue",
+    "warm ivory",
+    "soft cream"
+  ],
+  "secondary": [
+    "muted forest green",
+    "sage green",
+    "warm architectural beige",
+    "terracotta",
+    "soft grey"
+  ],
+  "adaptation": "Adjust accent colors to complement the city's architecture, national character, and natural surroundings.",
+  "contrast": "clear and harmonious with strong separation between architectural layers",
+  "saturation": "moderate, elegant, and print-friendly",
+  "lighting": "bright, soft daylight with minimal hard shadows"
+},
+
+"typography": {
+  "placement": "centered beneath the illustration",
+  "city_name": {
+    "text": "{{CITY NAME IN UPPERCASE}}",
+    "font_style": "large, elegant, geometric sans-serif",
+    "weight": "regular to medium",
+    "letter_spacing": "very wide",
+    "alignment": "center",
+    "color": "deep navy blue",
+    "importance": "primary visual anchor of the lower section"
+  },
+
+  "country_name": {
+    "text": "Automatically identify the correct country and display its name in uppercase",
+    "font_style": "small, clean sans-serif",
+    "letter_spacing": "wide",
+    "alignment": "center",
+    "color": "muted navy or a restrained destination-appropriate accent",
+    "position": "directly below the city name"
+  },
+
+  "decorative_elements": {
+    "horizontal_lines": "thin symmetrical horizontal lines on either side of the country name when visually appropriate",
+    "national_emblem": "Optional small, accurate national symbol beneath the typography only when suitable",
+    "rule": "Keep typography minimal, legible, accurately spelled, and free of additional promotional copy."
+  }
+},
+
+"image_quality": {
+  "edges": "crisp and clean",
+  "architecture": "recognizable, coherent, and carefully detailed",
+  "shapes": "precise geometric silhouettes",
+  "print_quality": "premium travel-poster finish",
+  "composition_quality": "professional graphic-design balance",
+  "text_quality": "correct city and country spelling",
+  "final_appearance": "a sophisticated collectible illustrated travel poster suitable for high-quality social media publishing"
+}
+
+},
+
+"strict_rules": {
+"preserve_reference_style": true,
+"change_destination_automatically": true,
+"use_real_city_landmarks": true,
+"use_correct_country_name": true,
+"keep_illustration_above_typography": true,
+"maintain_clean_ivory_background": true,
+"maintain_wide_letter_spacing": true,
+"keep_composition_balanced": true,
+"no_unrequested_text": true,
+"no_watermarks": true,
+"no_borders_unless_integral_to_design": true,
+"no_photographic_rendering": true,
+"no_unrelated_landmarks": true,
+"no_misspelled_text": true
+},
+
+"negative_prompt": [
+"photorealistic photography",
+"3D CGI",
+"anime",
+"childlike cartoon",
+"watercolor painting",
+"oil painting",
+"messy sketch lines",
+"overly textured paper",
+"dark dramatic lighting",
+"neon colors",
+"cluttered composition",
+"distorted buildings",
+"incorrect landmarks",
+"geographically inconsistent scenery",
+"unreadable typography",
+"misspelled city name",
+"incorrect country name",
+"random letters",
+"excessive text",
+"watermarks",
+"logos",
+"cropped landmarks",
+"unbalanced typography",
+"photographic cutouts"
+]
+}
 ```
 
 </details>
@@ -2739,21 +3298,44 @@ Avoid visual clutter, excessive typography, thick borders, harsh saturation, dis
 
 </details>
 
-<a id="gpt-image-1994-infomercial-crashed-saucer-frame"></a>
-### 1994年电视购物画面里兜售坠毁的飞碟
+<a id="nano-banana-math-typography-gestalt-2x2-grid"></a>
+### 数学概念文字拼成象征图形的四宫格
 
-<a href="https://x.com/ImagineArt_X/status/2097520474226147462"><img src="../../previews/gpt-image-1994-infomercial-crashed-saucer-frame.jpg" width="360"></a>
+<a href="https://x.com/Gdgtify/status/2114728003737391525"><img src="../../previews/nano-banana-math-typography-gestalt-2x2-grid.jpg" width="360"></a>
 
-开头先点明媒介和年代（1994年电视购物、标清、扫描线），整体质感就定下来了。再用一串具体元素列出主持人、转台、价格爆炸贴、电话号码和法律小字，直接决定版面构成。
+四宫格模板留出词语槽，让模型为每个主题自行推断象征图形、质感和配色。分段加权并对三维、杂乱和照片感设负权重，使画面保持扁平矢量且文字清晰可读。
 
-GPT Image 2.5 · 文生图 · 出处: [@ImagineArt_X on X](https://x.com/ImagineArt_X/status/2097520474226147462) · 发现于 [wangrunlin/awesome-gpt-image-2-5-prompts](https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts)
+Nano Banana 2.1 · 文生图 · 出处: [@Gdgtify on X](https://x.com/Gdgtify/status/2114728003737391525) · 23 赞，统计于 2026-10-29
 
-[`infomercial`](tags.md#tag-infomercial) [`retro-tv`](tags.md#tag-retro-tv) [`scanlines`](tags.md#tag-scanlines) [`ufo`](tags.md#tag-ufo) [`typography`](tags.md#tag-typography)
+[`typography`](tags.md#tag-typography) [`logo-design`](tags.md#tag-logo-design) [`math`](tags.md#tag-math) [`vector-art`](tags.md#tag-vector-art) [`grid`](tags.md#tag-grid)
 
 <details><summary><b>提示词</b></summary>
 
 ```text
-a frame grab from a 1994 infomercial, standard definition video with scanlines. A host in a teal blazer, a battered saucer on a rotating plinth with Antarctic ice frozen around one leg, a price starburst, a phone number, and three lines of legal small print.
+Tested one of my logo prompts with Nano Banana 2.1 & GPT 2.5 for math.
+
+Prompt: 2x2 grid, 16:9, do this 4 math topics,   A clever, striking typographic illustration on a pure white background::5  The Typography: The word "[WORD/CONCEPT]" written in massive, bold font. The letters stretch, bend, and warp to perfectly form the physical shape of AI_INFER(a symbol representing the word)::5  The Details: AI_INFER(Highly stylized textures, flowing ribbons, ink splatters, or mechanical parts seamlessly blending into the letters)::4  The Palette: AI_INFER(A bold, thematic color scheme fitting the concept), high contrast, graphic design, vector art style::4  Style: Award-winning typography, Dribbble shot, logo design, gestalt illusion::3  3D render, messy, illegible, text overlay, unreadable, photography::-4
+```
+
+</details>
+
+<a id="nano-banana-concept-word-typography-2x2-grid"></a>
+### 四个概念词化作符号造型的字体插画
+
+<a href="https://x.com/Gdgtify/status/2109259469557563658"><img src="../../previews/nano-banana-concept-word-typography-2x2-grid.jpg" width="360"></a>
+
+同一模板用方括号留出词语位置，再用 AI_INFER 占位让模型自选每个词的象征物、质感和配色。每段末尾的数字权重（核心描述 ::5，3D 与难辨文字用负权重）引导画面，并用 2x2 网格一次生成四个概念。
+
+Nano Banana 2.1 · 文生图 · 出处: [@Gdgtify on X](https://x.com/Gdgtify/status/2109259469557563658) · 22 赞，统计于 2026-10-29
+
+[`typography`](tags.md#tag-typography) [`logo-design`](tags.md#tag-logo-design) [`gestalt`](tags.md#tag-gestalt) [`vector-style`](tags.md#tag-vector-style) [`grid`](tags.md#tag-grid)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Nano Banana 2.1's timing couldn't be any better. I have TONS of logo prompts to test.
+
+Prompt: 2x2 grid, do this for truth, conflict, creativity, and humanity:      A clever, striking typographic illustration on a pure white background::5  The Typography: The word "[WORD/CONCEPT]" written in massive, bold font. The letters stretch, bend, and warp to perfectly form the physical shape of AI_INFER(a symbol representing the word)::5  The Details: AI_INFER(Highly stylized textures, flowing ribbons, ink splatters, or mechanical parts seamlessly blending into the letters)::4  The Palette: AI_INFER(A bold, thematic color scheme fitting the concept), high contrast, graphic design, vector art style::4  Style: Award-winning typography, Dribbble shot, logo design, gestalt illusion::3  3D render, messy, illegible, text overlay, unreadable, photography::-4
 ```
 
 </details>
@@ -3156,6 +3738,25 @@ GPT Image 2 · 上传图改图 · 出处: [@Johnson998877 on X](https://x.com/Jo
 
 </details>
 
+<a id="gpt-image-jewelry-necklace-miniature-city-poster"></a>
+### 红宝石项链微缩城市广告海报
+
+<a href="https://x.com/Umar__786Ai/status/2055664244138349055"><img src="../../previews/gpt-image-jewelry-necklace-miniature-city-poster.jpg" width="360"></a>
+
+把珠宝放大成建筑地标，再列出高速路、桥梁、无人机、小人等微缩城市元素围绕它。深红单色配金色点缀，加移轴景深和顶部引号标题文字，整体保持高端广告质感。
+
+GPT Image 2 · 文生图 · 出处: [@Umar__786Ai on X](https://x.com/Umar__786Ai/status/2055664244138349055) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`jewelry`](tags.md#tag-jewelry) [`miniature-world`](tags.md#tag-miniature-world) [`luxury-ad`](tags.md#tag-luxury-ad) [`monochrome`](tags.md#tag-monochrome) [`typography`](tags.md#tag-typography)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a hyper-detailed luxury advertising poster in a cinematic miniature-world style. A gigantic royal diamond necklace with intricate gold filigree and massive ruby gemstones stands in the center like an architectural monument. Surround the necklace with a futuristic miniature city built around and inside the jewelry piece, including skyscrapers, elevated highways, bridges, spiral staircases, tiny human figures, luxury billboards, drones, helicopters, and cinematic urban activity. Use a deep crimson red monochrome background with gold and ruby accents. Add premium fashion-ad aesthetics, ultra-realistic textures, glossy reflections, dramatic studio lighting, depth of field, tilt-shift miniature effect, and high-end commercial composition. Include bold elegant typography at the top saying: “EMBRACE THE EXTRAORDINARY”. Style inspired by luxury jewelry campaigns, surreal city-building concepts, and premium 3D advertising renders. Ultra realistic, 8K, octane render, sharp focus, highly detailed, cinematic shadows, symmetrical composition.
+```
+
+</details>
+
 <a id="gpt-image-kaohsiung-watercolor-collage-travel-poster"></a>
 ### 高雄日落水彩拼贴旅行海报
 
@@ -3280,36 +3881,6 @@ GPT Image 2 · 文生图 · 出处: [@Daniel_adsss on X](https://x.com/Daniel_ad
 
 ```text
 Create a premium, highly realistic 1:1 campaign poster for NOIR, a modern streetwear brand. Show one hero oversized hoodie as the main focus against a gritty urban backdrop with wet concrete floors, dramatic low lighting, subtle smoke in the air and a raw street energy. Add bold minimal typography with the brand name NOIR and a short campaign headline like "Wear the Dark." Make it feel like a real high-end streetwear editorial, sharp detail, realistic fabric textures, modern and edgy, deep black tones with subtle grey accents, no clutter, no collage.
-```
-
-</details>
-
-<a id="gpt-image-oversized-button-fashion-split-editorial"></a>
-### 巨型彩色纽扣分屏时尚大片
-
-<a href="https://x.com/Mind_Boticni/status/2053082199436759258"><img src="../../previews/gpt-image-oversized-button-fashion-split-editorial.jpg" width="360"></a>
-
-提示词为每个分屏单独写明景别（左侧全身，右侧上下两个半身），并要求各自不同的面孔、姿势和背景色调。固定的青橙黄红配色加上统一的光泽棚拍灯光，让三个画面保持一致。
-
-GPT Image 2 · 文生图 · 出处: [@Mind_Boticni on X](https://x.com/Mind_Boticni/status/2053082199436759258) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-[`fashion`](tags.md#tag-fashion) [`editorial`](tags.md#tag-editorial) [`split-frame`](tags.md#tag-split-frame) [`buttons`](tags.md#tag-buttons) [`studio`](tags.md#tag-studio)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Use reference image as style guide.
-Surreal minimalist fashion editorial photography with vibrant oversized colorful buttons as main visual theme (cyan, orange, yellow, red palette), glossy 3D surface design, clean studio lighting, ultra-smooth gradients, and high-end commercial fashion look.
-Split-frame composition:
-
-Left side: full-body female model standing from top to bottom, wearing bold minimalist fashion outfit inspired by reference style, confident pose, clean studio background filled with oversized colorful buttons, cinematic lighting, soft shadows, ultra-clean composition.
-
-Right side (vertically split into two parts):
-Top-right: half-body female model, different face, different pose, different outfit variation inspired by same button aesthetic, different background color mood.
-Bottom-right: another half-body female model, completely different expression and pose, different styling, different background tone, maintaining same surreal button universe aesthetic.
-
-Each section visually distinct but unified by the colorful button-inspired design language, glossy surfaces, soft studio reflections, and fashion magazine editorial feel.
-Hyper-realistic, cinematic lighting, ultra-clean composition, high-end luxury campaign style, depth, contrast, 8k, 1:1 aspect ratio --style raw --v 6 --ar 1:1
 ```
 
 </details>
@@ -3823,6 +4394,45 @@ Lighting: soft diffused studio lighting, subtle shadows, high detail, fashion ed
 Style: blend of surrealism and modern streetwear campaign, minimal yet expressive, high-resolution, 8k, sharp focus, natural skin texture.
 
 Mood: introspective, mental weight, identity, self-awareness.
+```
+
+</details>
+
+<a id="gpt-image-teddy-bear-holiday-card"></a>
+### 旧泰迪熊的怀旧圣诞贺卡
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card"><img src="../../previews/gpt-image-teddy-bear-holiday-card.jpg" width="360"></a>
+
+场景、情绪、画风和限制分块写，贺卡文字逐字给出，并规定只能有这一句。预览图为 Sunburst 版本。
+
+GPT Image 2.5 · 文生图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card)
+
+[`holiday`](tags.md#tag-holiday) [`card`](tags.md#tag-card) [`text-render`](tags.md#tag-text-render)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a Christmas holiday card illustration.
+
+Scene:
+a cozy Christmas scene with an old teddy bear sitting inside a keepsake box, slightly worn fur, soft stitching repairs, placed near a window with falling snow outside. The scene suggests the child has grown up, but the memories remain.
+
+Mood:
+Warm, nostalgic, gentle, emotional.
+
+Style:
+Premium holiday card photography, soft cinematic lighting,
+realistic textures, shallow depth of field,
+tasteful bokeh lights, high print-quality composition.
+
+Constraints:
+- Original artwork only
+- No trademarks
+- No watermarks
+- No logos
+
+Include ONLY this card text (verbatim):
+"Merry Christmas — some memories never fade."
 ```
 
 </details>

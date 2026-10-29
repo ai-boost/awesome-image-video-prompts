@@ -1,0 +1,27 @@
+id: nano-banana-paris-flag-miniature-city-diorama
+title:
+  en: Paris flag transformed into miniature landmark city
+  zh: 巴黎旗帜幻化成的微缩地标城市
+model: Nano Banana 2
+mode: text-to-image
+category: realism
+tags:
+- miniature
+- diorama
+- flag
+- landmark
+- photorealistic
+source:
+  name: '@Sheldon056 on X'
+  url: https://x.com/Sheldon056/status/2034418908506296520
+  credit: Duet | AI
+  likes: 106
+  captured: '2026-10-28'
+  posted: '2026-03-18'
+notes:
+  en: A bracketed [PARIS] slot makes the prompt reusable for any country or city flag. Camera body, lens, aperture and light direction anchor the photoreal look, while the fabric to architecture transformation and tiny visitors add the surreal scale.
+  zh: 用方括号 [PARIS] 做占位词，可替换成任意国家或城市的旗帜。相机机身、镜头、光圈和光线方向锁定写实质感，旗帜布料变成建筑加上微缩游客，带来超现实的尺度感。
+prompt: |
+  Google Nano Banana 2 on Gemini.
+
+  Prompt: Photorealistic hero product photography shot on Sony A7III with 85mm f/1.4 lens at f/2.8, soft natural daylight from upper left creating gentle realistic shadows and visible surface textures: A cutaway [PARIS] flag ingeniously transformed into a luxurious miniature landmark city. The fabric forms iconic buildings, rivers, and glowing streets. Miniature visitors in tiny colorful clothes explore monuments, ride boats, and take photos. Intricate details, physically plausible yet surreal. Shot for a luxury architecture magazine cover, ultra-detailed 8K, perfectly centered square composition, aspect ratio 1:1, no text, no artifacts.

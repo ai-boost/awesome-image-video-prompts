@@ -1,0 +1,25 @@
+id: gpt-image-impasto-marsh-sunset-reeds-birds
+title:
+  en: Impasto Oil Painting of Marsh at Sunset
+  zh: 黄昏沼泽的厚涂油画风景
+model: GPT Image 2
+mode: text-to-image
+category: illustration
+tags:
+- oil-painting
+- impasto
+- landscape
+- sunset
+- palette-knife
+source:
+  name: '@churvikv on X'
+  url: https://x.com/churvikv/status/2075544977233342914
+  credit: Viki
+  likes: 144
+  captured: '2026-10-29'
+  posted: '2026-07-10'
+notes:
+  en: 'The prompt fixes the layout by naming each zone: reeds in the left foreground, pond below, sun on the horizon, birds in the upper sky. It then pairs warm sunset and cool water colors with palette knife texture words such as visible brushstrokes and glossy paint ridges.'
+  zh: 提示词逐一指定画面分区：左前景芦苇、下方池塘、地平线落日、上空飞鸟，让构图稳定。再用暖色日落与冷色水面对比，并加入刀触、可见笔触和油亮颜料脊等质感词。
+prompt: |
+  Impasto oil painting of a marsh at sunset, with tall reeds and cattails dominating the left foreground, a calm reflective pond in the lower half, a low glowing sun near the horizon, and three dark birds flying across the upper sky. Vertical composition with a scenic wide view, layered landscape depth, and strong foreground framing; the birds are silhouetted in mid-flight and the distant tree line forms a dark band across the middle ground. Warm golden-orange, peach, and pink sunset tones blend into pale blue-gray clouds, contrasted by deep green vegetation and cool blue water reflections; thick palette-knife texture, visible brushstrokes, and glossy paint ridges throughout create a vivid, expressive fine-art look.

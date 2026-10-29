@@ -1,0 +1,54 @@
+id: gpt-image-anime-idol-16-pose-dance-sheet
+title:
+  en: Anime idol 16 pose dance choreography sheet
+  zh: 动漫偶像16姿势舞蹈编排表
+model: GPT Image 2.5
+mode: image-edit
+category: character
+tags:
+- anime
+- pose-sheet
+- dance
+- character-consistency
+- cel-shading
+source:
+  name: '@MahnoorAi12 on X'
+  url: https://x.com/MahnoorAi12/status/2098691200513720328
+  credit: Mahnoor Fatima
+  likes: 151
+  captured: '2026-10-28'
+  posted: '2026-09-12'
+notes:
+  en: A numbered 4 by 4 grid fixes the choreography order, and the prompt locks identity details and a fixed front camera. Each pose gets a 0.5 second slot with a start pose and a transition, so the sheet can drive a video.
+  zh: 用带编号的4乘4网格固定编舞顺序，并锁定角色外观与固定正面机位。每个姿势占0.5秒，写明起始动作和过渡，方便这张表直接驱动视频生成。
+prompt: |
+  Use this sheet for character appearance and choreography. Follow poses 1→16 from left to right, top to bottom, connecting them into one continuous dance.
+
+  Create a continuous 2D anime, crisp cel-shading, vibrant colors animation of the character from the reference sheet, dancing in a plain white space. Preserve her exact face, hairstyle, colors, proportions, outfit, and accessories, matching the reference precisely in every frame. Keep her identity fully consistent throughout.
+
+  Her performance is bright, sparkly, and full of hope, with wide-eyed wonder in every gesture.
+
+  Use a fixed front-facing camera in one uninterrupted full-body shot. Start immediately in pose 1. Keep her entire silhouette — including hands, hair, wings/tail if present, and feet — inside the frame with comfortable white margins. A soft light-gray oval shadow grounds her on the floor and remains during jumps.
+
+  The grid defines choreography order only. Show one character in one continuous space. No reference sheet, split screens, borders, numbers, captions, duplicate figures, afterimages, cuts, or camera movement.
+
+  Each numbered pose occupies 0.5 seconds (16 poses = 8 seconds total). Clearly articulate each pose's silhouette, then transition through natural movement into the next. Maintain continuous anatomy and weight transfer: feet push off and land, joints absorb impact, hips and shoulders guide turns. Hair, clothing, and accessories follow with slightly delayed motion. Avoid slideshow transitions, morphing, foot sliding, or sudden changes in limb position.
+
+  0.0–0.5s — Pose 1: She stands with feet apart, one hand over the chest and the other arm extended low in welcome, bright smile; bounces softly through the knees, then draws both elbows inward and raises the hands.
+  0.5–1.0s — Pose 2: She holds both fists near shoulder height with elbows bent, balanced on one leg while the other bends back with the heel lifted; adds a buoyant shoulder accent, then lowers the foot into a wider stance.
+  1.0–1.5s — Pose 3: She extends one arm horizontally with an open palm while the other hand rests at the waist, front foot pointed outward, leaning gently into the gesture; brings the feet closer as both hands rise toward the face.
+  1.5–2.0s — Pose 4: She frames the cheeks with both open hands, elbows angled down, feet together, knees soft, head tilted with a sweet smile; releases the gesture and steps outward.
+  2.0–2.5s — Pose 5: She plants the feet apart and crosses both forearms over the chest with a crisp rhythmic accent, shoulders relaxed; uncrosses the arms and shifts weight onto one leg.
+  2.5–3.0s — Pose 6: She lifts the opposite knee forward in a lively marching step, one fist near the cheek and the other lower beside the body; lowers the raised foot into a crossing step while opening the arms.
+  3.0–3.5s — Pose 7: She spreads both arms horizontally with open palms and crosses one foot in front of the other, facing camera with a welcoming smile; uncrosses slightly and draws the hands toward the chest.
+  3.5–4.0s — Pose 8: She forms a clear heart shape with both hands at chest height, balanced on one leg with the other bent back, gives a playful wink; lowers the foot and opens the hands to begin a turn.
+  4.0–4.5s — Pose 9: She pivots into a three-quarter back view, looking back over one shoulder with both arms open and low; continues the grounded pivot back toward the front.
+  4.5–5.0s — Pose 10: She leans forward slightly and extends one foot into a low heel tap, reaching one hand toward the viewer while the opposite arm extends back; retracts the foot and rises smoothly.
+  5.0–5.5s — Pose 11: She opens into a wide diagonal pose, reaching one arm high overhead while the opposite arm extends low, smiling toward camera; sweeps both arms upward as the knees bend to prepare a jump.
+  5.5–6.0s — Pose 12: She performs a small joyful jump with both feet leaving the floor and knees bending back, arms open into a high V, eyes closed in a broad smile; descends into a soft, controlled landing.
+  6.0–6.5s — Pose 13: She lands with both knees bent slightly inward and feet apart, reaching both open palms forward near waist height; lets the knees absorb the landing, then straightens gently and begins a side turn.
+  6.5–7.0s — Pose 14: She turns into an angled stance, curving one arm above the head while the other extends horizontally, stepping through the turn with one heel raised; rotates back toward the camera.
+  7.0–7.5s — Pose 15: She makes a V-sign beside one eye and extends the opposite hand toward the viewer in an inviting gesture, winks and taps the opposite foot forward; draws the foot back and begins raising the V-sign arm.
+  7.5–8.0s — Pose 16: She finishes facing forward with feet confidently apart, extending one arm straight upward with the index finger pointing to the sky while the other hand rests on the hip, radiant smile; holds and settles.
+
+  Complete the final pose by 7.8 seconds and hold through 8.0 seconds while her hair and clothing settle.

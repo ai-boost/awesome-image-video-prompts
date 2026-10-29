@@ -1,0 +1,26 @@
+id: gpt-image-premium-recipe-poster-tempura-bowl
+title:
+  en: Premium tempura bowl recipe poster with steps
+  zh: 天丼食谱海报，含食材与十步做法
+model: GPT Image 2
+mode: text-to-image
+category: infographic
+tags:
+- recipe
+- food-poster
+- typography
+- template
+- cream-background
+source:
+  name: '@Preda2005 on X'
+  url: https://x.com/Preda2005/status/2047883394152088004
+  credit: Marcio Lima 利真 マルシオ 💎
+  likes: 455
+  captured: '2026-10-28'
+  posted: '2026-04-25'
+notes:
+  en: 'A single reusable template with a dish name placeholder lists the layout parts in order: hero dish, ingredients, step by step process, cream background. Style cues like warm natural lighting and refined English typography keep the poster cohesive.'
+  zh: 一条带菜名占位符的通用模板，按顺序写明主图、食材、分步流程和奶油色背景等版面要素。暖色自然光和精致英文排版等风格词让整张海报保持统一。
+prompt: |
+  Create a premium food preparation poster for
+   [ DISH NAME ], with a beautiful hero dish, warm natural lighting, cream background, elegant step-by-step recipe layout, ingredients, cooking process, premium food photography, refined English typography, luxury restaurant advertisement style, clean design, rich colors, highly detailed, visually irresistible, cinematic masterpiece.

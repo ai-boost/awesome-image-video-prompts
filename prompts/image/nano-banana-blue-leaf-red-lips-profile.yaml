@@ -1,0 +1,31 @@
+id: nano-banana-blue-leaf-red-lips-profile
+title:
+  en: Blue Leaf Merging With Red Lips Profile
+  zh: 蓝叶与红唇侧脸的超现实融合
+model: Nano Banana 2
+mode: text-to-image
+category: illustration
+tags:
+- surreal
+- minimalist
+- macro
+- color-contrast
+- leaf
+source:
+  name: '@meng_dagg695 on X'
+  url: https://x.com/meng_dagg695/status/2073967454288777357
+  credit: Shahid Wani
+  likes: 75
+  captured: '2026-10-29'
+  posted: '2026-07-06'
+notes:
+  en: Lists only the visible facial parts (nose, lips, chin) and lets one oversized leaf take over the rest, so the subject stays minimal. A cool blue against vivid red on a white monochrome background gives the contrast, and a macro vein texture keeps the leaf convincing.
+  zh: 只列出可见的鼻子、嘴唇和下巴，其余部分交给一片放大的叶子，画面保持极简。冷蓝与鲜红在纯白背景上形成强对比，微距叶脉纹理让叶片显得真实。
+prompt: |
+  Nature didn't hide her. It became her.
+
+  Made with Nano Banana 2 on
+  @SocialSight
+
+
+  Prompt : Surreal minimalist digital art, extreme close-up side profile of porcelain-white female face, only nose, vivid glossy red lips slightly parted showing teeth, and chin visible, large single deep blue leaf with ultra-detailed vein network texture overlapping and merging with the left half of the face covering the eye and cheek area, leaf spine aligned vertically with the facial profile, hyper-realistic macro leaf texture with intricate branching vein detail, monochrome white background, sharp contrast between vivid red lips and cool blue leaf, soft diffused studio lighting, 3D render quality, vertical 4:5 composition --ar 4:5 --v 6

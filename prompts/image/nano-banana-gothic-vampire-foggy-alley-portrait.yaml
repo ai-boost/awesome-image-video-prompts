@@ -1,0 +1,31 @@
+id: nano-banana-gothic-vampire-foggy-alley-portrait
+title:
+  en: Gothic vampire woman leaning in foggy alley
+  zh: 雾巷石墙边的哥特吸血鬼女子
+model: Nano Banana 2
+mode: text-to-image
+category: portrait
+tags:
+- vampire
+- gothic
+- cinematic
+- fog
+- horror
+source:
+  name: '@The_Kremlinn on X'
+  url: https://x.com/The_Kremlinn/status/2054418680692228271
+  credit: Aaliyah | AI
+  likes: 124
+  captured: '2026-10-28'
+  posted: '2026-05-13'
+notes:
+  en: The scene paragraph stacks concrete set details (wet brick, lamp reflection, volumetric fog) with film terms like 35mm look, grain and shallow depth of field for a cinematic horror still. A camera path from boots up to the eyes and a timed beat sheet of smile, fangs, whisper and fade make it extend naturally to video.
+  zh: 场景段落把具体的环境细节（湿砖墙、路灯倒影、体积雾）和35mm胶片感、颗粒、浅景深等电影术语叠在一起，得到电影感恐怖静帧。再加上从靴子升到眼睛的镜头路径和微笑、獠牙、低语、渐黑的节拍描述，可以顺势扩展成视频。
+prompt: |
+  Dark gothic alley at night, wet brick wall and rain-soaked pavement reflecting a dim street lamp. Heavy fog drifts slowly through the alley. A pale elegant vampire woman in a long black coat and dark red dress leans against the wall, motionless and mysterious. Cinematic horror lighting, dramatic shadows, shallow depth of field, ultra-realistic, 35mm film look, film grain, volumetric fog.
+  The camera begins at her black leather boots and performs a slow cinematic vertical dolly shot upward, moving smoothly from her feet → legs → waist → shoulders → lips → eyes. Suspense builds as the camera rises.
+  When the camera reaches her face, she slowly tilts her head and gives a cold villain smile. Her long sharp vampire fangs slide into view, fresh blood dripping slowly from the tips. Her eyes glow subtly in the darkness.
+  She whispers softly: “Welcome to the night…”
+  Immediately after, she lets out a quiet sinister villain laugh as the fog thickens and the lighting darkens.
+  The scene begins to slowly fade to black, while the camera continues pushing forward into an extreme close-up, zooming closer and closer until the camera enters her mouth, ending in darkness.
+  Style keywords: cinematic horror, gothic vampire, slow camera movement, dramatic lighting, suspenseful, photorealistic, moody atmosphere, shallow depth of field, film grain, volumetric fog.

@@ -1,0 +1,35 @@
+id: gpt-image-birthday-poster-man-carved-paper-number
+title:
+  en: Birthday poster with man sitting in carved number
+  zh: 男子坐在镂空数字里的生日海报
+model: GPT Image 2
+mode: image-edit
+category: poster
+tags:
+- birthday
+- paper-carving
+- balloons
+- reference-photo
+- editorial
+source:
+  name: '@Alina_with_Ai on X'
+  url: https://x.com/Alina_with_Ai/status/2067250994954846272
+  credit: Alina Ai
+  likes: 231
+  captured: '2026-10-28'
+  posted: '2026-06-17'
+notes:
+  en: A single material, white textured paper wall, holds the whole scene, and the carved number acts as a window onto balloons and flowers. The subject sits on the number's edge with limbs breaking the frame, and side sunlight gives believable depth. Note the prompt mixes the numbers 04 and 18, so keep the number consistent when reusing it.
+  zh: 整个画面只用白色纹理纸墙一种材质，镂空数字像一扇窗，露出里面的气球和花束。人物坐在数字边缘，肢体探出框外形成立体感，侧面阳光带来真实的层次。原提示词里数字写成了04和18，复用时要统一。
+prompt: |
+  Professional luxury birthday poster, vertical 3:4 ratio. The entire scene is crafted from premium snow-white textured paper walls with elegant architectural depth. A giant number “04” is precisely carved into the wall, featuring realistic depth, refined inner shadows, smooth edges, and luxurious volumetric detailing.
+
+  Inside the carved number, a sophisticated birthday celebration setup is revealed, decorated with dark blue, pastel blue, and white balloons, delicate white flowers, premium floral arrangements, and high-end festive styling.
+
+  The man from the reference photo is sitting casually on the lower curve of the number “18,” with one leg bent and the other hanging naturally. He wears a radiant smile and looks slightly upward with confidence and joy. His face, shoulder, one arm, and one leg extend beyond the carved number frame, creating a highly realistic 3D pop-out window effect.
+
+  Warm cinematic sunlight enters from one side, producing soft highlights, realistic shadows, and elegant depth. Ultra-detailed photorealistic skin texture, natural facial features, premium studio-quality lighting, crystal-clear focus, luxury editorial photography, and masterpiece-level realism.
+
+  Elegant wall typography: , ALAINA Ai” “CHAPTER 28” “365 MORE DAYS OF MIRACLES”
+
+  Pure minimalist composition, luxury magazine-cover aesthetics, premium art direction, realistic depth and shadows, natural color grading, clean background, no tree shadows, no artificial AI artifacts, no distortion, no extra limbs, no text errors, first-class birthday campaign photography, ultra-realistic, award-winning editorial quality, 8K detail.

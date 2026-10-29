@@ -1,0 +1,141 @@
+id: gpt-image-character-dance-reference-sheet-4x4
+title:
+  en: Chibi character 16 frame dance reference sheet
+  zh: Q版角色16帧舞蹈参考图
+model: GPT Image 2.5
+mode: image-edit
+category: character
+tags:
+- dance
+- pose-sheet
+- grid
+- character-reference
+- choreography
+source:
+  name: '@Scenario_gg on X'
+  url: https://x.com/Scenario_gg/status/2099797670516695385
+  credit: Scenario
+  likes: 123
+  captured: '2026-10-28'
+  posted: '2026-09-15'
+notes:
+  en: Numbered choreography steps give each of the 16 panels a distinct pose, so the sequence reads as one continuous routine. Explicit rules for identity lock, secondary motion of hair and fabric, and a fixed camera keep the character consistent across panels.
+  zh: 按编号写出16步编舞，每格姿势各不相同，整组读起来是一支连贯的舞。身份锁定、头发与衣料的次级运动以及固定机位等规则，让角色在各格中保持一致。
+prompt: |
+  Create a polished square-format dance reference sheet featuring the character from the uploaded reference image. The final image should be arranged as a clean 4×4 grid containing exactly 16 equally sized panels. Each panel represents the next key pose in a single uninterrupted dance sequence, read from left to right and then top to bottom.
+
+  Reference Fidelity
+
+  Treat the uploaded character as the definitive visual reference throughout the sheet.
+
+  Across all 16 frames, keep the character’s identity completely stable, including:
+
+  face and facial features
+  hairstyle and hair length
+  color palette
+  body proportions and species
+  clothing and garment construction
+  accessories
+  overall illustration and rendering style
+
+  Any part of the character that is not visible in the reference should be inferred conservatively and then depicted the same way throughout the entire sequence.
+
+  Choose a style of dance that feels natural for the character’s personality, anatomy, outfit, and available range of motion.
+
+  Movement Logic
+
+  The sixteen images are consecutive moments from one continuous routine, not sixteen unrelated dance poses.
+
+  Every pose should flow naturally into the next through small steps, weight transfers, pivots, or continuing arm gestures. Keep the supporting limbs and direction of rotation physically consistent from frame to frame.
+
+  Changes in orientation, body height, balance, and momentum should happen progressively rather than suddenly.
+
+  Each frame should remain visually distinct while the overall routine develops through a clear progression: a relaxed opening, gradual build-up, expressive peak, and controlled settling finish.
+
+  Choreography
+
+  Follow this exact movement sequence:
+
+  1. Begin with feet comfortably apart, knees relaxed, and arms resting low.
+
+  2. Shift weight left, tapping the right foot outward as the hands drift left.
+
+  3. Transfer weight onto the right foot, letting both hands sweep low toward the right.
+
+  4. Draw the left foot inward while the hands continue upward to waist height.
+
+  5. Step the left foot forward diagonally, turning the torso slightly left as the arms round forward.
+
+  6. Rock onto the front left foot, allowing the rounded arms to rise toward chest height.
+
+  7. Push gently back onto the right foot, drawing the elbows toward the ribs.
+
+  8. Step the left foot out to the left, opening the left arm in the same direction.
+
+  9. Settle into a shallow left lunge while the right arm sweeps across the chest toward the left.
+
+  10. Deepen the lunge slightly as the right arm continues its arc overhead into a gentle left side bend.
+
+  11. Straighten gradually, keeping the right arm overhead while the left arm opens outward.
+
+  12. Reach the routine’s peak in a tall, grounded stance, extending both arms into an open upward diagonal.
+
+  13. Soften the knees and lower both arms outward through shoulder height.
+
+  14. Shift weight onto the left foot and pivot a quarter-turn left, letting the arms continue downward.
+
+  15. Bring the right foot forward into a small staggered stance, lifting the chest as the arms settle low behind the hips.
+
+  16. Finish in that same stance, turning the head toward the viewer with a character-appropriate expression and relaxed, deliberate hands.
+
+  If the character has nonhuman anatomy, reinterpret the steps and gestures as the closest anatomically appropriate equivalents while preserving the same order, rhythm, direction, and continuity.
+
+  Secondary Motion
+
+  Hair, loose garments, and hanging accessories should react naturally to the choreography rather than remaining static.
+
+  Their movement should follow the character’s momentum:
+
+  hair and fabric lag slightly behind steps and sweeping gestures
+  loose elements swing naturally during turns
+  hair and garments fall with gravity during bends
+  movement gradually settles as the routine approaches the final pose
+  light fabrics flutter subtly
+  heavier fabrics move with greater weight and slower follow-through
+  fitted clothing develops believable folds around bending and twisting joints
+
+  Keep all secondary motion proportional to this relatively gentle routine.
+
+  Hair length, clothing construction, and accessory placement must remain consistent in every frame.
+
+  Communicate movement through the changing shapes and positions of the hair and fabric themselves. Do not use motion lines, speed lines, ghosting, or movement trails.
+
+  Sheet Presentation
+
+  Use a square canvas containing a precise 4×4 grid.
+
+  The presentation should include:
+
+  exactly 16 equally sized panels
+  one full-body character in every panel
+  small, clearly readable numbers 1–16 in the upper-left corner of their corresponding panels
+  a clean white background
+  thin grid lines
+  consistent character scale
+  a fixed camera viewpoint
+  consistent lighting and rendering
+  comfortable empty space around every limb, hairstyle, ear, wing, tail, garment, and accessory
+  subtle ground shadows
+  clear silhouettes
+  anatomically plausible joints
+  convincing weight distribution and balance
+
+  The character should never be cropped by the panel boundaries.
+
+  Constraints
+
+  Do not introduce repeated or near-identical poses, abrupt movement transitions, identity drift, costume changes, additional characters, new props, scenery, captions, or watermarks.
+
+  Avoid extra or missing limbs, malformed hands, implausible joints, inconsistent supporting feet, accidental panel overlap, cropped features, sudden changes in character scale, or unexplained changes in orientation.
+
+  The finished sheet should read immediately as sixteen carefully selected consecutive keyframes from one coherent dance performance by the same character.

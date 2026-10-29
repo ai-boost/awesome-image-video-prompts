@@ -1,0 +1,65 @@
+id: gpt-image-cute-crazy-scale-expression-grid
+title:
+  en: Sixteen panel expression grid from cute to crazy
+  zh: 从可爱到疯狂的十六格表情网格
+model: GPT Image 2
+mode: image-edit
+category: character
+tags:
+- expression-grid
+- character-consistency
+- 4x4-grid
+- emotion-scale
+- typography
+source:
+  name: '@aimikoda on X'
+  url: https://x.com/aimikoda/status/2055036470583263712
+  credit: Kōda
+  likes: 476
+  captured: '2026-10-28'
+  posted: '2026-05-14'
+notes:
+  en: The prompt numbers every panel in a fixed emotional order and forbids random intensity, so the expressions escalate steadily from top left to bottom right. A reference character locks the identity, while header text, label style and framing are specified once for the whole grid.
+  zh: 提示词给每个格子编号并固定情绪递进顺序，明确禁止随机强度，所以表情从左上到右下逐步升级。参考角色锁定身份，标题文字、标签样式和构图在整张网格中统一设定。
+prompt: |
+  Create a clean 4x4 emotional performance grid using the provided character as the fixed identity reference.
+
+  Visual style:
+  Clean modern graphic design layout. Elegant serif header at the top, soft off-white background, even spacing, small readable handwritten-style labels centered below each panel.
+
+  Header text:
+  “MY CUTE ↔ CRAZY SCALE”
+
+  Preserve strict facial identity consistency across all 16 panels.
+
+  Follow the exact emotional progression from top-left to bottom-right.
+  Do not randomize expressions or intensity.
+
+  GRID ORDER:
+
+  Row 1:
+  1. soft innocent cute
+  2. shy cute
+  3. playful cute
+  4. teasing cute
+
+  Row 2:
+  5. energetic cute
+  6. chaotic playful
+  7. emotionally intense
+  8. unstable smile
+
+  Row 3:
+  9. overly excited
+  10. wild eyes
+  11. manic happiness
+  12. emotionally unhinged
+
+  Row 4:
+  13. chaotic stare
+  14. dangerous excitement
+  15. beautiful insanity
+  16. fully crazy
+
+  Format:
+  4x4 grid, cinematic portrait photography style, neutral background, tight close-up framing, shallow depth of field, no watermark.

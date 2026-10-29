@@ -444,21 +444,21 @@ Place the UI mockup in an iPhone frame.
 
 </details>
 
-<a id="gpt-image-laptop-screen-facetime-night-phone-photo"></a>
-### 夜间手机拍摄的笔记本 FaceTime 通话屏幕
+<a id="gpt-image-smartphone-chat-screen-glare-photo"></a>
+### 手持手机拍摄的老板员工聊天界面
 
-<a href="https://x.com/kaanakz/status/2056290465503171000"><img src="../../previews/gpt-image-laptop-screen-facetime-night-phone-photo.jpg" width="360"></a>
+<a href="https://x.com/Gorden_Sun/status/2047178119854145562"><img src="../../previews/gpt-image-smartphone-chat-screen-glare-photo.jpg" width="360"></a>
 
-提示词先声明是手机实拍而不是截图，再列出像素网格、摩尔纹、灰尘、指纹和不均匀反光等屏幕瑕疵。窗口层叠关系和便签文字写得很具体，界面因此显得可信。
+把真实拍摄的瑕疵叠加到屏幕上：指纹划痕、直射光反光、倾斜的手持构图和不完美取景。对话内容写成带文档附件的简短剧本，让屏幕文字保持连贯。
 
-GPT Image 2 · 文生图 · 出处: [@kaanakz on X](https://x.com/kaanakz/status/2056290465503171000) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+GPT Image 2 · 文生图 · 出处: [@Gorden_Sun on X](https://x.com/Gorden_Sun/status/2047178119854145562) · 发现于 [ZeroLu/awesome-gpt-image](https://github.com/ZeroLu/awesome-gpt-image)
 
-[`laptop-screen`](tags.md#tag-laptop-screen) [`facetime`](tags.md#tag-facetime) [`macos`](tags.md#tag-macos) [`smartphone-photo`](tags.md#tag-smartphone-photo) [`night`](tags.md#tag-night)
+[`smartphone-photo`](tags.md#tag-smartphone-photo) [`chat-interface`](tags.md#tag-chat-interface) [`screen-glare`](tags.md#tag-screen-glare) [`handheld`](tags.md#tag-handheld) [`realism`](tags.md#tag-realism)
 
 <details><summary><b>提示词</b></summary>
 
 ```text
-Create a raw smartphone photo of a laptop screen, not a screenshot. Aspect ratio 3:4, high-angle downward POV from someone standing over a desk at night. The laptop display fills most of the frame, with a narrow strip of black keyboard and trackpad visible at the bottom. Strong realism: visible RGB subpixel grid, subtle moire bands, small dust specks, faint fingerprints, uneven glass reflections, handheld phone noise, slight perspective skew, no studio polish. macOS dark mode. Background app: Apple Notes with a late-night study note titled "Design Critique" and short visible bullets: "layout", "lighting", "source links", "ship tomorrow". Foreground app: FaceTime live preview window floating lower-right, showing a fictional adult man in his 20s sitting at a cluttered desk, hoodie, tired but amused expression, warm desk lamp behind him, books and sticky notes in the room. A second small Finder window with image thumbnails is partly visible behind it. Make it feel like an accidental real phone photo of a working laptop screen. No real-person likeness, no beauty filter, no perfect UI, no screenshot, no watermark, no cartoon, no 3D render.
+Generate an image, aspect ratio 3:4. A real-life smartphone photo, with the phone screen displaying a WeChat chat interface in Chinese dialogue, featuring chat bubbles and a Word document attachment. The interface has green and gray bubbles. The screen shows obvious fingerprints, smudges, and scratches. The glass has strong reflections and a direct light source creating glare. The frame is slightly tilted, handheld shot, natural ambient light, imperfect composition, strong sense of realism, casual everyday snapshot, high detail, 4K. The dialogue is between a boss and an employee: the employee sends a file to the boss, and the boss replies that they will take a look first.
 ```
 
 </details>

@@ -1,0 +1,29 @@
+id: nano-banana-teen-suit-supercar-sunset-skyline
+title:
+  en: Teen in black suit on supercar at sunset
+  zh: 黄昏城市天际线下坐在超跑车顶的黑西装少年
+model: Nano Banana 2
+mode: text-to-image
+category: portrait
+tags:
+- fashion-editorial
+- supercar
+- golden-hour
+- cityscape
+- luxury
+source:
+  name: '@Zarlish_Shahid on X'
+  url: https://x.com/Zarlish_Shahid/status/2078634279895248920
+  credit: Zarlish
+  likes: 114
+  captured: '2026-10-28'
+  posted: '2026-07-19'
+notes:
+  en: A single subject, a clear location and a short list of props set the scene, and a golden hour skyline adds depth. Photographic cues such as shallow depth of field, glossy reflections and a magazine cover finish keep the render realistic. Asking for no logos keeps the car generic.
+  zh: 单一主体、明确场景和一组道具搭起画面，金色夕阳天际线增加纵深。浅景深、光泽反射和杂志封面质感等摄影词让画面保持写实。要求无标志让车型保持通用。
+prompt: |
+  Luxury Has No Age
+
+  A confident 16-year-old boy sitting on the roof of a futuristic luxury supercar (Bugatti-inspired, no logos), wearing an expensive black tailored suit, premium designer sneakers, a luxury watch, and stylish sunglasses. Surrounded by luxury shopping bags, high-end fashion accessories, and elegant designer clothing. A modern city skyline with golden sunset lighting in the background. Ultra-realistic, cinematic composition, glossy reflections, shallow depth of field, dramatic lighting, luxury lifestyle, rich colors, 8K, hyper-detailed, magazine cover quality, photorealistic, premium fashion editorial style.
+
+  If you could create your dream luxury lifestyle with AI, what would be the first thing you'd add?

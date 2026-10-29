@@ -1,0 +1,32 @@
+id: nano-banana-warm-mirror-selfie-mirrorless-camera-portrait
+title:
+  en: Warm mirror selfie portrait with mirrorless camera
+  zh: 手持无反相机的暖色镜前自拍人像
+model: Nano Banana 2
+mode: image-edit
+category: portrait
+tags:
+- mirror-selfie
+- portrait
+- warm-light
+- face-preserve
+- shallow-depth-of-field
+source:
+  name: '@AIwithSarah_ on X'
+  url: https://x.com/AIwithSarah_/status/2046180588886114701
+  credit: Sarah
+  likes: 133
+  captured: '2026-10-28'
+  posted: '2026-04-20'
+notes:
+  en: The prompt breaks the portrait into framing, pose, hair, makeup, setting and lighting blocks, so each can be controlled separately. A warm yellow and orange light cue, a blurred cream background and the closing line Do not change the face keep the identity stable and the mood cozy.
+  zh: 提示词把人像拆成取景、姿势、发型、妆容、场景和光线几个独立段落，便于分别控制。暖黄橙光线、奶油色虚化背景，加上结尾的保持面部不变，让人物一致且氛围温馨。
+prompt: |
+  Nano Banana 2 on Higgsfield.
+
+  Prompt: A portrait of a young woman with a soft, natural expression, half-body close-up (shoulders up), side angle pose. Her head is slightly tilted to the right, looking at the camera with a subtle smile. She is taking a mirror selfie, holding a mirrorless camera in front of her face. Her hair partially covers one side of her face, giving a candid, relaxed feel.
+  She wears a fitted dusty pink / soft peach t-shirt, minimal and casual with no accessories.
+  Short shoulder-length bob haircut, slightly voluminous and naturally messy, soft and shiny texture, loosely parted, some strands covering one side of the face (only one side visible), natural black or dark brown hair.
+  Natural clean makeup look: light base, smooth glowing skin, soft peach/pink blush, natural pink lips (soft tint), minimal eye makeup, no bold eyeliner, fresh and youthful appearance.
+  Indoor setting, likely a bedroom or small studio, mirror selfie composition, minimal props. Background is plain beige / warm cream, softly blurred (shallow depth of field), clean and uncluttered.
+  Warm lighting (yellow/orange tones), soft light (indoor or sunset), gentle shadows, soft highlights on skin, cozy and intimate mood. Do not change the face.

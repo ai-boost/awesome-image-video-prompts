@@ -1,0 +1,50 @@
+id: nano-banana-picture-book-seed-watering-hand
+title:
+  en: Hand Watering Seed in Open Picture Book
+  zh: 手持小水壶浇灌绘本中的种子
+model: Nano Banana 2
+mode: text-to-image
+category: illustration
+tags:
+- picture-book
+- mixed-media
+- json-prompt
+- golden-light
+- overhead
+source:
+  name: '@Just_sharon7 on X'
+  url: https://x.com/Just_sharon7/status/2038525426084323378
+  credit: Sharon Riley
+  likes: 148
+  captured: '2026-10-28'
+  posted: '2026-03-30'
+notes:
+  en: Mixing a cartoon illustration with a realistic hand makes the image jump out of the page. Overhead close-up framing, warm golden light and a sparkling water stream carry the magical mood, and the JSON fields split style, lighting, mood and perspective into clear controls.
+  zh: 卡通插画与真实手部混搭，让画面从书页里跳出来。俯拍特写、暖金色光线和闪亮水流营造出魔幻氛围，JSON 字段把风格、光线、情绪和视角拆成清晰的控制项。
+prompt: |
+  {
+    "prompt": "An open children’s picture book rests on a wooden table, showing a whimsical illustration of a small brown seed in cartoon soil. A realistic human hand pours water from a tiny can, with a sparkling stream. Warm golden light, magical mood, overhead close-up, photorealistic, 4K.",
+    "style": "photorealistic",
+    "lighting": "warm golden",
+    "mood": "magical",
+    "perspective": "overhead close-up",
+    "resolution": "4K",
+    "elements": [
+      {
+        "type": "book",
+        "description": "children’s picture book open on wooden table"
+      },
+      {
+        "type": "illustration",
+        "description": "whimsical small brown seed in cartoon soil"
+      },
+      {
+        "type": "hand",
+        "description": "realistic human hand pouring water from tiny can"
+      },
+      {
+        "type": "water",
+        "description": "sparkling stream"
+      }
+    ]
+  }

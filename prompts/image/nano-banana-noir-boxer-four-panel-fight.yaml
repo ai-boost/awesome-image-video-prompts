@@ -1,0 +1,52 @@
+id: nano-banana-noir-boxer-four-panel-fight
+title:
+  en: Four panel film noir boxer fight sequence
+  zh: 四格黑色电影风格拳击手比赛叙事
+model: Nano Banana 2
+mode: text-to-image
+category: comic
+tags:
+- film-noir
+- multi-panel
+- camera-angles
+- black-and-white
+- boxing
+source:
+  name: '@kaanakz on X'
+  url: https://x.com/kaanakz/status/2027814444437307602
+  credit: Kaan
+  likes: 312
+  captured: '2026-10-28'
+  posted: '2026-02-28'
+notes:
+  en: 'One shared style block fixes the lighting, grain and setting, then each stacked panel gets its own camera angle: bird''s eye, side profile, extreme close up and rear medium wide. Naming a lighting type per panel (split, rim) and a fight round keeps the same boxer consistent while the story escalates.'
+  zh: 先用统一的风格段锁定光线、颗粒和场景，再为每个横向分格指定独立机位：俯拍、侧面特写、极端特写和背后中远景。每格单独写明光型（分割光、轮廓光）和比赛回合，让同一拳手在叙事推进中保持一致。
+prompt: |
+  Create a single film noir–style cinematic image divided into four horizontal panels, all depicting the same boxer and the same boxing ring environment, unified by lighting, atmosphere, and narrative progression across four stages of a fight.
+
+  Overall style:
+
+  Vintage Film Noir Lighting, Low Key Lighting, Hard Shadows Lighting, Split Lighting, moody and tense atmosphere, minimal fill light, deep blacks, sharp contrast, visible film grain, slight vignetting, subtle haze in the air from sweat and dust. Industrial warehouse boxing gym setting, night atmosphere, light beams cutting through darkness, damp canvas reflecting highlights. Clean horizontal separation between panels, cinematic split-screen composition, consistent character identity across all panels.
+
+  Top panel – ROUND 1, BIRD’S-EYE SHOT:
+
+  Bird’s Eye View of the boxing ring. Stark top-down composition, ropes forming geometric frames. Two boxers circling each other. Our main subject slightly forward in stance, gloves raised. Overhead spotlight creating strong geometric shadows across the canvas. Sweat barely visible. Light slicing through darkness, corners of the ring fading into black.
+
+  Second panel – ROUND 2, SIDE CLOSE-UP SHOT:
+
+  Side-profile close-up of the main boxer mid-fight. From Side, intense expression, jaw clenched. One side of the face sharply lit by a hard key light, the other completely swallowed in shadow. Sweat and minor bruising beginning to appear. Split Lighting carving the facial structure in classic noir sculpting. Background dissolves into darkness, only faint ring ropes visible.
+
+  Third panel – ROUND 3, EXTREME CLOSE-UP:
+
+  Extreme Close-Up on a critical detail, eye behind a battered glove or sweat dripping from brow to canvas. Heavy shadow dominance. Light catching only the iris and the texture of the glove leather. Micro cuts, swelling, fine skin texture visible. Film grain pronounced. The rest of the frame nearly pure black.
+
+  Bottom panel – FINAL ROUND, MEDIUM WIDE BACK SHOT:
+
+  Medium Wide Shot from behind the boxer. From Behind perspective. The subject standing alone in the ring after a decisive moment, shoulders rising with breath. Opponent down or barely visible in shadow. Rim Lighting outlining the silhouette. Wet canvas reflecting fragmented light. Light haze in the air enhancing depth. The ring fading into darkness beyond the ropes.
+
+  High detail, High Quality, Photorealism Style, cinematic composition, cohesive identity across all four panels, dramatic storytelling progression within a single unified noir frame.
+
+
+  @ImagineArt_X
+
+  @imagineart_creo

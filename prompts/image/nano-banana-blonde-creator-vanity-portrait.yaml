@@ -1,0 +1,27 @@
+id: nano-banana-blonde-creator-vanity-portrait
+title:
+  en: Blonde creator speaking to camera at bedroom vanity
+  zh: 卧室梳妆台前直视镜头的金发博主
+model: Nano Banana 2.1
+mode: text-to-image
+category: portrait
+tags:
+- creator-portrait
+- talking-head
+- skin-texture
+- natural-light
+- realistic-person
+source:
+  name: '@purrdoom on X'
+  url: https://x.com/purrdoom/status/2115216612030865415
+  credit: Lucas Prudhomme
+  likes: 22
+  captured: '2026-10-29'
+  posted: '2026-10-19'
+notes:
+  en: 'The prompt describes the subject in layers: age, hair, makeup, skin flaws such as pores and a mole, jewelry and clothing, then a mood line. A separate setting and light block follows, with a negative line banning logos and text. The imperfection details and the soft front light give a believable phone-video look.'
+  zh: 提示词分层描述人物：年龄、发型、妆容、毛孔和痣等皮肤瑕疵、首饰与服装，再加一句神态；随后单独写场景与光线，并用否定句禁止标志和文字。瑕疵细节加柔和正面光，让画面像真实的手机视频截图。
+prompt: |
+  A white woman, 34, a glamorous social media creator with the polished look of a pro athlete's wife. Very long, straight, sleek golden-blonde hair with a center part and slightly darker roots. A natural sun-kissed tan. Full glam makeup with a soft matte finish: voluminous lashes, sculpted arched brows, soft contour, satin peachy-nude overlined lips. Real skin texture: visible pores, faint lines under her eyes, a small mole on her left jaw. Small gold hoop earrings, a thin gold chain necklace, a large oval diamond engagement ring. A fitted ribbed heather-grey scoop-neck tank top. Confident, direct, a little urgent, like a friend about to tell you something you need to hear.
+
+  She sits at a white vanity in her bedroom in the late afternoon. Behind her: a muted sage-grey wall, a dark doorway on the left edge of the frame, and a white ceiling at the top. Warm, soft natural light on her face from the front, with soft catchlights in her eyes. No makeup products in frame. No logos or readable text anywhere in frame.

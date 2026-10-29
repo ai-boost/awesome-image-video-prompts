@@ -1,0 +1,107 @@
+id: nano-banana-three-panel-streetwear-editorial-poster
+title:
+  en: Three panel streetwear editorial poster in muted browns
+  zh: 棕色调街头风三格编辑海报
+model: Nano Banana 2
+mode: image-edit
+category: poster
+tags:
+- json-prompt
+- multi-panel
+- streetwear
+- identity-lock
+- film-grain
+source:
+  name: '@saniaspeaks_ on X'
+  url: https://x.com/saniaspeaks_/status/2040591799757230151
+  credit: 𝗦𝗮𝗻𝗶𝗮
+  likes: 119
+  captured: '2026-10-28'
+  posted: '2026-04-05'
+notes:
+  en: A JSON prompt locks identity to an uploaded reference, then gives each of the three frames its own shot type, lighting and mood. A shared color grade of muted brown with film grain, plus a negative constraints list, keeps the collage cohesive.
+  zh: 用 JSON 结构锁定参考图人物身份，并为三个画格分别指定景别、光线和情绪。统一的棕色调胶片颗粒调色加上负面约束清单，让拼贴保持一致。
+prompt: |
+  "style": "editorial poster, retro analog-digital fusion, urban streetwear aesthetic",
+    "aspect_ratio": "4:5",
+    "resolution": "high resolution",
+    "identity_preservation": {
+      "use_reference_image": true,
+      "strict_identity_lock": true,
+      "notes": "Maintain the exact facial features, proportions, skin texture, and identity from the uploaded reference photo."
+    },
+    "composition": {
+      "layout": "multi-panel collage",
+      "frames": 3,
+      "structure": "asymmetric arrangement",
+      "design": "editorial poster style with layered visual storytelling"
+    },
+    "subject": {
+      "gender": "female",
+      "appearance": {
+        "hair": "softly tousled mid-length hair with natural volume",
+        "features": "delicate facial features",
+        "expression": "subtle, confident, calm"
+      },
+      "styling": {
+        "fashion": "urban streetwear",
+        "palette": "muted brown tones, earthy neutrals",
+        "aesthetic": "modern with retro influence"
+      }
+    },
+    "frames_details": [
+      {
+        "frame": 1,
+        "type": "close-up portrait",
+        "focus": "face and expression",
+        "lighting": "soft cinematic lighting",
+        "mood": "intimate and editorial"
+      },
+      {
+        "frame": 2,
+        "type": "mid-shot",
+        "focus": "outfit and posture",
+        "lighting": "natural street-style lighting",
+        "mood": "confident and modern"
+      },
+      {
+        "frame": 3,
+        "type": "creative angle",
+        "focus": "artistic composition",
+        "lighting": "mixed analog-style light with subtle grain",
+        "mood": "retro-digital fusion aesthetic"
+      }
+    ],
+    "environment": {
+      "setting": "urban street background",
+      "details": [
+        "textured walls",
+        "subtle city elements",
+        "minimal distractions"
+      ],
+      "atmosphere": "calm, stylish, editorial"
+    },
+    "color_grading": {
+      "tones": "muted brown, warm neutrals",
+      "style": "film-inspired with slight grain",
+      "contrast": "balanced cinematic contrast"
+    },
+    "camera": {
+      "style": "editorial photography",
+      "depth_of_field": "shallow",
+      "focus": "sharp on subject, soft background"
+    },
+    "quality": {
+      "realism": "photorealistic",
+      "detail": "high detail skin and fabric textures",
+      "finish": "magazine-quality"
+    },
+    "constraints": [
+      "no face alteration",
+      "no cartoon or illustration",
+      "no distortion",
+      "no watermark",
+      "no text unless part of design"
+    ],
+    "output_goal": "Create a high-end editorial poster-style multi-panel collage of the same woman in three asymmetric frames with a cohesive muted-brown urban streetwear and retro analog-digital aesthetic."
+  }

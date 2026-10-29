@@ -1,0 +1,35 @@
+id: gpt-image-low-angle-pose-grid-blue-sky-doodles
+title:
+  en: Nine pose grid with sky doodles
+  zh: 蓝天涂鸦九宫格姿势拼图
+model: GPT Image 2
+mode: image-edit
+category: collage
+tags:
+- grid-collage
+- pose-sheet
+- doodle-overlay
+- low-angle
+- social-media
+source:
+  name: '@HaniaAi12 on X'
+  url: https://x.com/HaniaAi12/status/2064674801159967138
+  credit: Hania Ai
+  likes: 282
+  captured: '2026-10-28'
+  posted: '2026-06-10'
+notes:
+  en: The prompt fixes one outfit and one solid sky background, then lists all nine poses by row and position, so the grid stays consistent. Low-angle framing, hand-drawn pastel doodles and an uploaded reference image keep the same person across every frame.
+  zh: 提示词先固定同一套服装和纯蓝天背景，再按行列逐格写出九个姿势，让整张网格保持一致。低机位视角、手绘粉彩涂鸦和上传的参考图让每一格都是同一个人。
+prompt: |
+  A 3x3 grid collage containing nine separate photos of a single young Asian woman From the uploaded image with a light skin tone, styled for a lifestyle and social media content creator aesthetic. She is wearing a red fitted croptop, white Denim short, white sneakers and large white over-ear headphones and eyeglasses. The entire background of every photo is a solid, vibrant, clear bright blue sky on a sunny day.
+
+  Around her in each grid frame are playful, hand-drawn digital doodles in bright pastel colors, including pink hearts, yellow flowers, white clouds, paper airplanes, and dynamic motion lines. The collage captures nine different energetic and fun poses from low-angle perspectives:
+
+  Top Row: Left photo shows her dynamically kicking her leg out sideways while wearing blue clogs; middle photo shows her standing with one hand raised in a peace sign; right photo features a giant, close-up view of the bottom of her clog sole with a hand-drawn smiley face doodled onto it.
+
+  Middle Row: Left photo is a close-up where she leans forward and holds out her white headphones toward the camera; middle photo shows her standing confidently with hands on her hips; right photo shows her playfully leaning to the side with arms outstretched like a plane.
+
+  Bottom Row: Left photo captures her in a joyful jumping pose with arms out; middle photo shows her mid-air in a floating star-jump pose; right photo is a seated close-up looking down at the camera while making a peace sign close to the lens.
+
+  The overall style is a crisp, bright, hyper-realistic, fashion-forward digital photograph with vibrant color saturation and clean, sharp lighting.

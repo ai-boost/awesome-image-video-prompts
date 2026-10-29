@@ -1,0 +1,34 @@
+id: nano-banana-italy-travel-scrapbook-collage-poster
+title:
+  en: Italy travel scrapbook collage poster with portrait
+  zh: 带人像的意大利旅行拼贴海报
+model: Nano Banana 2
+mode: image-edit
+category: collage
+tags:
+- travel
+- collage
+- scrapbook
+- poster
+- face-reference
+source:
+  name: '@iamrealsnow on X'
+  url: https://x.com/iamrealsnow/status/2049042453198782674
+  credit: Snow
+  likes: 104
+  captured: '2026-10-28'
+  posted: '2026-04-28'
+notes:
+  en: 'Uses the reference face as the central cutout and builds layers around it: torn paper, postcards, stamps and stickers. A distressed headline sits behind the subject, with handwritten asides and a warm vintage palette to hold the collage together.'
+  zh: 以参考人脸作为中央抠图主体，周围叠加撕纸、明信片、邮票和贴纸等层次。做旧大标题置于主体之后，搭配手写小字和暖色复古色调统一整个拼贴。
+prompt: |
+  .
+  Ultra-realistic travel collage poster featuring a young man (use my face) as the central subject, standing confidently with a relaxed, adventurous expression. He is wearing a casual explorer outfit, light linen shirt, neutral trousers, sunglasses, and a crossbody bag, holding a map or camera. Warm sunlight highlights his face, giving a summer travel vibe.
+
+  Background is a layered scrapbook-style composition inspired by a vibrant travel destination (choose a different country, e.g. Italy or Turkey). Include iconic landmarks, vintage architecture, local street scenes, and cultural elements blended seamlessly around him. Add torn paper textures, postcards, stamps, and travel stickers for a handcrafted aesthetic.
+
+  Typography: bold, oversized headline text with a distressed texture (e.g. “LOST IN ITALY” or similar), placed prominently behind or above the subject. Include smaller handwritten-style phrases like “no plans, just vibes”, “explore more”, or “wander often”.
+
+  Add lifestyle elements like local food, transport (tram, scooter), street lamps, or cultural performers integrated into the collage. Use warm tones, reds, yellows, and earthy textures for a nostalgic travel feel.
+
+  Lighting: cinematic, slightly grainy, vintage color grading. High detail, sharp focus on subject, soft depth blending into background collage. Poster-style composition, highly aesthetic, social media ready.

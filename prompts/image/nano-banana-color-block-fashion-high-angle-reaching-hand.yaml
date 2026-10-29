@@ -1,0 +1,35 @@
+id: nano-banana-color-block-fashion-high-angle-reaching-hand
+title:
+  en: Color Block Fashion Portrait With Reaching Hand
+  zh: 撞色时装人像与伸向镜头的手
+model: Nano Banana 2
+mode: text-to-image
+category: portrait
+tags:
+- fashion
+- editorial
+- wide-angle
+- studio-lighting
+- forced-perspective
+source:
+  name: '@alizagori1 on X'
+  url: https://x.com/alizagori1/status/2078375640416313479
+  credit: Lucia Ai
+  likes: 123
+  captured: '2026-10-28'
+  posted: '2026-07-18'
+notes:
+  en: A high overhead wide angle viewpoint paired with a hand reaching toward the lens creates a strong forced perspective effect. A clean white seamless backdrop, bright even studio light and a named 24mm lens keep the vivid color block outfit as the focus.
+  zh: 俯拍广角加上伸向镜头的手,形成强烈的透视夸张效果。纯白无缝背景、明亮均匀的影棚光和明确的 24mm 镜头参数,让撞色服装成为画面重点。
+prompt: |
+  Made with Gemini Nano Banana 2 on
+  @Lart_AI
+  .
+
+  Model: Gemini Nano Banana 2
+  Aspect Ratio: 9:16
+  Resolution: 2K
+
+  Prompt: Ultra-realistic, high-fashion editorial portrait of a stylish young model captured from a dramatic bird's-eye wide-angle perspective, reaching one hand toward the camera to create an exaggerated perspective effect. Vibrant color-block outfit with modern accessories, clean white seamless studio background, high-key studio lighting, playful Gen Z aesthetic, confident expression, commercial fashion photography, ultra-detailed skin texture, sharp focus, premium styling, 8K, HDR, magazine cover quality, DSLR, 24mm wide-angle lens, f/2.8, crisp details, natural colors.
+  Negative Prompt: Low quality, blurry, noisy, overexposed, underexposed, distorted anatomy, extra fingers, deformed hands, duplicate limbs, bad proportions, cropped, watermark, text, logo, artifacts, motion blur, oversaturated, cartoon, CGI, low resolution.
+  Settings: SDXL, DPM++ 2M Karras, Steps: 30, CFG: 7, Aspect Ratio: 4:5.

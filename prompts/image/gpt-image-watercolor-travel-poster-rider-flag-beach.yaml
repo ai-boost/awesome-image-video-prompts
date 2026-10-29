@@ -1,0 +1,101 @@
+id: gpt-image-watercolor-travel-poster-rider-flag-beach
+title:
+  en: Watercolor travel poster of rider with flag
+  zh: 骑马举旗海滩水彩旅行海报
+model: GPT Image 2.5
+mode: image-edit
+category: photo-to-art
+tags:
+- travel-poster
+- watercolor
+- photo-to-illustration
+- minimalist
+- editorial
+source:
+  name: '@Rosey_watson on X'
+  url: https://x.com/Rosey_watson/status/2098452763256492128
+  credit: Rosey Watson
+  likes: 85
+  captured: '2026-10-28'
+  posted: '2026-09-11'
+notes:
+  en: Turns an uploaded photo into a handmade art book illustration by listing what to preserve (person, pose, clothing, landmark) and capping the palette at 4 to 6 colors from the source. Explicit bans on the original photo, collage and extra text keep the layout clean, with a single swappable caption and year.
+  zh: 先列出要保留的元素（人物、姿势、服饰、地标），再把配色限定为取自原图的 4 到 6 种，把照片转成手绘艺术书插画。明确禁止出现原图、拼贴和多余文字，只保留一处可替换的标题与年份。
+prompt: |
+  Create a premium minimalist editorial travel illustration based on the uploaded reference photo.
+
+  Create ONLY the illustrated artwork.
+  Do not place the original photograph anywhere in the composition.
+  No split-screen, no collage, no before/after layout.
+
+  ILLUSTRATION STYLE
+  Reinterpret the uploaded photograph as a refined hand-drawn travel poster / art-book illustration.
+
+  Preserve the most recognizable elements from the reference:
+  – the main person or people
+  – their pose and body proportions
+  – recognizable clothing and accessories
+  – important objects they are holding
+  – the main architectural or environmental landmark
+  – the relationship between the person and the location
+
+  Keep the scene immediately recognizable, but simplify unnecessary photographic details.
+
+  Use:
+  – delicate hand-drawn ink lines
+  – slightly imperfect outlines
+  – flat acrylic and watercolor-like color shapes
+  – visible handmade brush texture
+  – subtle paper grain
+  – irregular organic edges
+  – restrained editorial detailing
+
+  The illustration should feel handmade rather than digitally polished.
+
+  BACKGROUND
+  Warm white / ivory textured paper.
+  Large areas of clean negative space.
+  Do not fill the entire background with detail.
+
+  COMPOSITION
+  Place the main illustrated scene approximately in the middle-to-lower portion of the vertical canvas.
+
+  The person should remain one of the main recognizable elements.
+
+  Simplify the surrounding architecture, landscape, water, vegetation or city details into elegant hand-painted shapes.
+
+  Use only a limited color palette extracted from the original photograph, approximately 4–6 dominant colors.
+
+  The overall result should feel:
+  quiet, sophisticated, artistic, premium, nostalgic, editorial, relaxed and collectible.
+
+  Think:
+  luxury travel sketchbook,
+  independent art-book cover,
+  designer postcard,
+  fashion editorial illustration,
+  contemporary illustrated travel diary.
+
+  TYPOGRAPHY
+
+  At the bottom of the composition add:
+
+  MAIN CAPTION:
+  United States
+
+  YEAR / SECONDARY CAPTION:
+  "2026"
+
+  IMPORTANT:
+  The text inside [CHANGE TITLE HERE] and [CHANGE YEAR HERE] is the ONLY variable caption area.
+  Replace these placeholders with the desired location, event, phrase and year when creating a new card.
+
+  Typography should be elegant and understated.
+
+  Use a refined handwritten or editorial script for the main title and a small clean serif or spaced uppercase style for the year.
+
+  Keep plenty of breathing room around the typography.
+
+  Do not add any additional random words, logos, dates or captions.
+
+  HIGH-END EDITORIAL QUALITY

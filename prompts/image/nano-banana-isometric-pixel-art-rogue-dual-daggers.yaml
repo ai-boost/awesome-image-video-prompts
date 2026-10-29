@@ -1,0 +1,38 @@
+id: nano-banana-isometric-pixel-art-rogue-dual-daggers
+title:
+  en: Isometric Pixel Art Rogue With Two Daggers
+  zh: 手持双匕首的等距像素风盗贼
+model: Nano Banana 2
+mode: text-to-image
+category: character
+tags:
+- pixel-art
+- game-sprite
+- isometric
+- rogue
+- solid-background
+source:
+  name: '@GrilliotTodd on X'
+  url: https://x.com/GrilliotTodd/status/2047452990987256077
+  credit: Todd Grilliot
+  likes: 104
+  captured: '2026-10-28'
+  posted: '2026-04-23'
+notes:
+  en: A short semicolon-separated prompt that fixes the art style, facing direction, isometric view, solid background and held items in one line. Nano Banana 2 renders it at high resolution with a clean pixel grid, though it may add a floor unless told not to.
+  zh: 一行用分号隔开的短提示词，依次写明画风、朝向、等距视角、纯色背景和手持道具。Nano Banana 2 能在高分辨率下保持干净的像素网格，但若不明确限制，可能会自行加上地面。
+prompt: |
+  gpt-image-2 was trained on real game art, while Nano banana was trained on high res pixel art portraits. That's my take.
+
+  gpt image 2 on the left, nano banana 2 on the right. same prompt, same pixel post processing.
+
+  > gpt image 2 - about 80px tall
+  > nanobanana 2 - about 150px tall, huge!
+
+  NB will always make high res pixel art characters with elaborate backgrounds if you don't carefully prompt it otherwise. - even on this prompt, it includes a floor that i didn't ask for.
+
+  gpt-image-2 loves to leave out the background for character work, you don't even have to ask most of the time. Very game ready character sprites.
+
+  Nano banana is actually better at pixel grid adherence. It keeps the grid clean at high resolutions. gpt-image-2 can make a mess at higher resoutions.
+
+  prompt: "pixel art; a rogue game character facing south east. isometric view. solid background. cape and two daggars, one in each hand."

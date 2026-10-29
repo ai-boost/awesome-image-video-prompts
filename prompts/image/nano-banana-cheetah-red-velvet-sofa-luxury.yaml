@@ -1,0 +1,25 @@
+id: nano-banana-cheetah-red-velvet-sofa-luxury
+title:
+  en: Man with cheetah on red velvet sofa
+  zh: 红色丝绒沙发上抱着猎豹的男人
+model: Nano Banana 2
+mode: image-edit
+category: portrait
+tags:
+- reference-image
+- luxury
+- cinematic-lighting
+- animal
+- portrait
+source:
+  name: '@auqibhabib on X'
+  url: https://x.com/auqibhabib/status/2029721401033384149
+  credit: auqib
+  likes: 111
+  captured: '2026-10-28'
+  posted: '2026-03-06'
+notes:
+  en: Starts with a reference picture to keep the subject's face, then lists wardrobe, props, a sofa setting and blurred guards in the background for depth. Closing cues like cinematic lighting and dramatic atmosphere set the mood.
+  zh: 以参考图锁定人物面部，再依次列出服装、道具、沙发场景和虚化背景中的保镖来营造层次。结尾的电影感光线和戏剧氛围用来定下整体情绪。
+prompt: |
+  Using the reference picture, create A stylish man sitting on a luxurious vintage red velvet sofa, wearing black silk shirt, sunglasses, confi-dently holding a cheetah adorned with cinematic lighting, dollars are spread on sofa too and there are two guards on back side in blur bg, luxury life-style, dramatic atmosphere." 100% Real Face 8K Resolution

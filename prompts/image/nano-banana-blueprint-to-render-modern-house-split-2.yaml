@@ -1,0 +1,147 @@
+id: nano-banana-blueprint-to-render-modern-house-split-2
+title:
+  en: Blueprint and Matching Modern House Render Split
+  zh: 上方蓝图与下方现代住宅渲染对照图
+model: Nano Banana 2
+mode: text-to-image
+category: architecture
+tags:
+- blueprint
+- architecture
+- split-layout
+- json-prompt
+- house
+source:
+  name: '@craftian_keskin on X'
+  url: https://x.com/craftian_keskin/status/2052115300724711764
+  credit: Keskin
+  likes: 257
+  captured: '2026-10-28'
+  posted: '2026-05-06'
+notes:
+  en: A JSON prompt splits the frame into a top-down blueprint and a photorealistic render. An exact match protocol, strict roof rules and a negative constraint list force the house to follow the plan.
+  zh: 用JSON提示词把画面分成俯视蓝图和写实渲染两半，再用严格的一致性协议、屋顶规则和负面约束清单，让房屋与图纸完全对应。
+prompt: |
+  {
+    "objective": "Create a 3:4 split architectural visualization where the top half is a precise top-down blueprint and the bottom half is a photorealistic modern house that matches the blueprint EXACTLY, with strict enforcement that the house is single-story and ALL enclosed rooms are fully covered by a roof",
+
+    "aspect_ratio": "3:4",
+
+    "composition": {
+      "layout": "exact vertical 50/50 split",
+      "top_half": "blueprint",
+      "bottom_half": "photorealistic house render",
+      "alignment": "perfect one-to-one correspondence between blueprint and built house"
+    },
+
+    "top_section": {
+      "type": "architectural blueprint",
+      "view": "true top-down orthographic",
+      "style": "dark luxury blueprint",
+      "visual_style": {
+        "background": "deep navy / charcoal",
+        "lines": "thin glowing beige / gold lines",
+        "walls": "clean, precise, slightly extruded",
+        "labels": "minimal sans-serif",
+        "lighting": "soft ambient glow"
+      },
+      "content_requirements": [
+        "exact outer footprint",
+        "garage placement on the left",
+        "front porch centered",
+        "central living room",
+        "kitchen & dining at rear center",
+        "master bedroom on right side",
+        "secondary bedrooms in correct positions",
+        "bathrooms placed accurately",
+        "backyard pool and deck",
+        "all doors and windows clearly mapped"
+      ],
+      "rule": "blueprint is the absolute source of truth for the render below"
+    },
+
+    "bottom_section": {
+      "type": "photorealistic architectural render",
+      "constraint": "MUST MATCH BLUEPRINT EXACTLY — ZERO DEVIATION",
+
+      "architecture": {
+        "style": "modern luxury house",
+        "floors": "single-story ONLY (no second level, no rooftop living space)",
+        "form_language": [
+          "clean rectangular volumes",
+          "flat roof slabs",
+          "minimalist geometry"
+        ],
+        "materials": [
+          "smooth concrete",
+          "light stone",
+          "wood accents",
+          "glass panels",
+          "dark metal frames"
+        ]
+      },
+
+      "camera": {
+        "angle": "front-facing elevated view",
+        "description": "slightly above eye level to clearly show facade AND full roof layout",
+        "lens": "28mm–35mm"
+      },
+
+      "environment": {
+        "setting": "clean suburban plot",
+        "elements": [
+          "driveway",
+          "lawn",
+          "minimal landscaping",
+          "backyard pool visible"
+        ]
+      },
+
+      "lighting": {
+        "time": "golden hour",
+        "style": "soft natural light"
+      }
+    },
+
+    "exact_match_protocol": {
+      "priority": "absolute",
+      "rules": [
+        "footprint must match EXACTLY",
+        "room positions must match EXACTLY",
+        "garage must match EXACTLY",
+        "pool and deck must match EXACTLY",
+        "no added or missing structures",
+        "no shifting of walls or volumes"
+      ]
+    },
+
+    "roof_rules": {
+      "priority": "critical",
+      "requirements": [
+        "ALL enclosed rooms MUST have roof coverage",
+        "NO room can be left exposed",
+        "roof outline must match footprint EXACTLY",
+        "roof slabs must align with each room mass",
+        "no floating or disconnected roof elements",
+        "porch, deck, and pool remain uncovered ONLY if defined as open areas",
+        "NO second floor structures",
+        "NO rooftop terraces or extra levels"
+      ]
+    },
+
+    "style": {
+      "top": "dark premium blueprint",
+      "bottom": "photorealistic modern house",
+      "overall": "clean, high-end architectural presentation"
+    },
+
+    "negative_constraints": [
+      "no missing roofs",
+      "no second floor",
+      "no rooftop additions",
+      "no mismatch between blueprint and render",
+      "no extra rooms",
+      "no distorted proportions",
+      "no clutter"
+    ]
+  }

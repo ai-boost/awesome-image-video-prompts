@@ -1,0 +1,27 @@
+id: nano-banana-novel-cover-woman-reading-candlelit-room
+title:
+  en: Woman Reading Black Velvet Novel by Candlelight
+  zh: 烛光古董房里读黑色丝绒小说的女子
+model: Nano Banana 2
+mode: text-to-image
+category: poster
+tags:
+- book-cover
+- candlelight
+- vintage-room
+- typography
+- cinematic
+source:
+  name: '@JuliaClarky on X'
+  url: https://x.com/JuliaClarky/status/2079417419114942568
+  credit: Julia Clark
+  likes: 159
+  captured: '2026-10-28'
+  posted: '2026-07-21'
+notes:
+  en: The exact title and author text are quoted with a font style and placement for each, so the book cover renders legibly. Candlelight, antique furniture and dark flowers set the mood, and a second prompt reuses the same title for a matching scene.
+  zh: 书名和作者名逐字给出并指定字体与位置，让书封文字清晰可读。烛光、古董家具和暗色花朵营造氛围，第二条提示词沿用同一书名生成配套场景。
+prompt: |
+  A luxurious cinematic novel cover poster featuring a beautiful young woman sitting in an elegant dimly lit vintage room, holding a premium black hardcover book in her hands while reading it. She has a captivating expression, a shy mysterious smile, and emotional eyes as she gets lost in the story. The book cover in her hands is clearly visible and features a seductive luxury design with black velvet texture, golden embossed details, deep red roses, and elegant typography. The main title on the book cover reads “HIS TEMPTATION” in a bold sophisticated serif font, and directly underneath the title it says “by Elena Voss” in a smaller elegant font. Add candlelight, antique furniture, dark flowers, dramatic shadows, cinematic lighting, high-fashion editorial style, realistic photography, ultra detailed, 8K, professional bestselling novel cover design, mysterious and intense atmosphere.
+
+  Prompt 2 — “His Temptation” Movie Scene at Home A cinematic back-view shot of a young woman sitting comfortably on a luxurious velvet sofa in her elegant living room at night. She is watching the movie adaptation of the novel “His Temptation” on a large LED screen. The camera is positioned behind her, showing her silhouette, long hair, and relaxed posture as she becomes completely absorbed in the story. The LED screen displays a dramatic romantic scene featuring the mysterious male lead and female lead from the novel. The room has warm golden lamps, candles, a large bookshelf, soft cushions, dark flowers, and a cozy luxury interior. A copy of the book “His Temptation” by Elena Voss rests on the coffee table beside her. Emotional cinematic atmosphere, realistic home setting, professional film camera shot, shallow depth of field, ultra realistic, 8K movie still quality. 🖤

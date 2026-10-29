@@ -1,0 +1,45 @@
+id: nano-banana-character-3d-model-rpg-gameplay-sheet
+title:
+  en: Anime knight as 3D model and RPG screen
+  zh: 动漫骑士的3D模型与RPG战斗画面
+model: Nano Banana 2
+mode: image-edit
+category: character
+tags:
+- game-ui
+- 3d-render
+- character-sheet
+- split-layout
+- reference-image
+source:
+  name: '@AI_Kei75 on X'
+  url: https://x.com/AI_Kei75/status/2032736793292886320
+  credit: Kei🍤衣装本舗
+  likes: 362
+  captured: '2026-10-28'
+  posted: '2026-03-14'
+notes:
+  en: A design lock clause with heavy weights keeps the same character across every panel. The top row steps from flat line art to a wireframe viewport to a lit game render, and the bottom half is a separate third person combat screenshot with a Japanese HUD. A negative prompt blocks flat 2D drawing and layout bleed.
+  zh: 用高权重的设计锁定语句让所有分区保持同一角色。上排从平面线稿到线框视图再到带光照的游戏渲染,下排是第三人称战斗截图并带日文HUD,负面提示词则防止画面变平和分区串色。
+prompt: |
+  Masterpiece, best quality, (complex split screen presentation layout:1.7), (game development showcase:1.5).
+
+  (CRITICAL GLOBAL CONSTRAINT - DESIGN LOCK):
+  (The exact same character design, hair, and outfit MUST be used across ALL sections of the image:2.0).
+
+  [TOP HALF: 3-Panel Horizontal Grid - Static Pose]
+  The top half is divided into 3 horizontal panels showing the character in the EXACT SAME static pose.
+  Top Left: (Original 2D blueprint:1.5), flat anime illustration style. It accurately traces the original image.
+  Top Middle: (3D modeling UI viewport:1.5), grey clay render with visible wireframe topology.
+  Top Right: (Final in-game 3D render:1.7), fantasy background. (High-end 3D anime game model:1.6), (rendered in Unreal Engine 5:1.5), (volumetric lighting, specular highlights, ambient occlusion, rim light:1.5). The character has clear 3D volume, stylized PBR textures, and prominent 3D shading.
+
+  [BOTTOM HALF: Full Width Gameplay Screenshot - Action Pose]
+  The bottom half is a single, wide (third-person Action JRPG gameplay screenshot:1.8).
+  The EXACT SAME character is shown from a dynamic third-person perspective (viewed from slightly behind/side), in a (dynamic combat action pose:1.6).
+  Action: The character is fighting a fantasy monster in a lush, grassy open world 3D environment.
+  Style: (High-end 3D anime game engine graphics:1.7), identical to the Top Right panel's 3D render style. (Unreal Engine 5, ray tracing, depth of field, 3D magic particles:1.5).
+  Overlay Elements: (Stylish Japanese game UI HUD, minimap, character portrait, skill icons, glowing magic 3D combat effects, particle sparks:1.6). The base language used for the UI is Japanese.
+
+  (Technical Tags): (collage:1.4), (presentation sheet), sharp boundaries between panels.
+  (Negative prompt): (2D illustration in top right and bottom panels:2.0), (flat drawing:2.0), (anime painting:1.8), (bleeding borders:1.5), (messy layout:1.5), (changing character design:2.0), (photorealism:1.5), (missing UI in bottom half), (static pose in bottom half:1.5), low quality, text bleeding.
+  </prompt>

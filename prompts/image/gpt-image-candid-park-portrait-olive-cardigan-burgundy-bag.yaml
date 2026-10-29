@@ -1,0 +1,28 @@
+id: gpt-image-candid-park-portrait-olive-cardigan-burgundy-bag
+title:
+  en: Candid sunlit park portrait in olive cardigan
+  zh: 公园阳光下身穿橄榄绿开衫的抓拍人像
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- candid-portrait
+- smartphone-photography
+- sunlight
+- film-grain
+- fashion
+source:
+  name: '@Aqsahere_ on X'
+  url: https://x.com/Aqsahere_/status/2095351414524608662
+  credit: Aqsa
+  likes: 233
+  captured: '2026-10-28'
+  posted: '2026-09-03'
+notes:
+  en: The prompt lists outfit colors and fabrics piece by piece, then fixes the pose, setting and light direction in separate paragraphs. Closing keywords like smartphone photography, film grain, lens flare and 4:5 framing give it a candid, unretouched look.
+  zh: 提示词按单品逐一写明颜色和面料，再分段交代姿势、场景和光线方向。结尾用手机摄影、胶片颗粒、镜头光晕和 4:5 竖构图等关键词，做出自然抓拍、不过度修饰的质感。
+prompt: |
+  A photorealistic candid outdoor portrait of a young woman standing in a peaceful urban park on a sunny afternoon. She has long dark-brown hair styled in a loose low ponytail, with wispy face-framing strands gently falling across her face. She gazes softly toward the side with a calm, thoughtful expression.
+  She wears an olive-green cardigan over a delicate white textured ruffle camisole, paired with a long dark-green skirt. A deep burgundy-red shoulder bag hangs naturally at her side. One hand rests gently near her neck while the other is relaxed in front of her.
+  She stands beside a paved walkway surrounded by green grass, mature leafy trees, and subtle urban buildings in the background. Strong sunlight filters through the trees, creating beautiful highlights in her hair, soft shadows, and a subtle lens flare in the upper corner.
+  Natural smartphone photography, candid lifestyle aesthetic, warm sunlight, realistic skin texture, detailed hair strands, authentic fabric textures, soft atmospheric contrast, gentle vintage film grain, muted earthy color palette, shallow depth of field, cinematic natural lighting, peaceful summer mood, highly photorealistic, vertical 4:5 composition.

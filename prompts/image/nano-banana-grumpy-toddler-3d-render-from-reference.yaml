@@ -1,0 +1,43 @@
+id: nano-banana-grumpy-toddler-3d-render-from-reference
+title:
+  en: Grumpy Toddler Girl Pixar Style 3D Render
+  zh: 皮克斯风格的闹脾气幼童女孩3D渲染
+model: Nano Banana 2
+mode: image-edit
+category: character
+tags:
+- toddler
+- 3d-render
+- pixar-style
+- reference-photo
+- white-background
+source:
+  name: '@Naiknelofar788 on X'
+  url: https://x.com/Naiknelofar788/status/2028747310759542860
+  credit: simeon-sanai
+  likes: 369
+  captured: '2026-10-28'
+  posted: '2026-03-03'
+notes:
+  en: Reference photo identity is locked by listing exact facial features to replicate, then age is shifted to toddler. Expression, hair, outfit, pose and render style each get a labeled section, which keeps the pout and chin on palm pose controllable.
+  zh: 先逐项列出要复刻的五官特征来锁定参考照片的身份，再把年龄调成幼童。表情、发型、服装、姿势和渲染风格各自分段，让撅嘴和托腮的姿态更容易控制。
+prompt: |
+  Create a super cute, hyper-realistic 3D render of a toddler girl who is a younger version of the person in the provided reference photo.
+
+  The facial structure must strongly match the reference image. Accurately replicate the exact eye shape, eye color, skin tone, lip shape, nose structure, cheek fullness, eyebrow shape, and overall facial proportions. The toddler version should clearly resemble the same person at a younger age while maintaining realistic childlike softness and rounded features.
+  If any accessory (such as an earring or similar detail) appears in the reference image, replicate it accurately in size, colour, and placement.
+  Expression:
+
+  Distinctly grumpy and pouty. Chin resting on her left palm. One eye slightly squinted in mild annoyance. Eyebrows gently furrowed. Lips pushed forward in a stubborn pout. Expression must feel natural and emotionally believable, not exaggerated.
+  Hair:
+
+  Hairstyle should be adapted from the reference image while keeping it toddler-appropriate. Styled in a messy high bun with soft, natural baby hair strands framing the face.
+  Outfit:
+
+  White short-sleeve t-shirt under classic blue denim overalls with visible stitching and metal clasps.
+  Pose & Background:
+
+  Sitting cross-legged on a clean white studio background. Feet slightly angled toward the camera. Balanced composition with full body visible.
+  Style & Quality:
+
+  Ultra-detailed Pixar/Disney-inspired 3D animation aesthetic. Professional CGI rendering. 1:1 aspect ratio. 8K resolution. Sharp focus. Cinematic studio lighting with soft subsurface scattering on the skin. Smooth textures, realistic fabric physics, soft global illumination, and natural shadow falloff.
