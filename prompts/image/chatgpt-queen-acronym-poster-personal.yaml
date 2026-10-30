@@ -1,0 +1,24 @@
+id: chatgpt-queen-acronym-poster-personal
+title:
+  en: Gold QUEEN acronym poster with personal collage
+  zh: 金色 QUEEN 缩写海报配个人拼贴
+model: ChatGPT
+mode: image-edit
+category: poster
+tags:
+- acronym
+- typography
+- personalized
+- identity-reference
+source:
+  name: '@ninersqueen76 on TikTok'
+  url: https://www.tiktok.com/@ninersqueen76/video/7686313195148954894
+  credit: ❤️NinersQueen76💛🇺🇸
+  likes: 79
+  captured: '2026-10-30'
+  posted: '2026-09-17'
+notes:
+  en: The prompt lets the model choose the word and build the acronym itself, so each letter gets its own trait line. Naming the uploaded photo as the only identity reference keeps the face consistent while props and layout carry the personality.
+  zh: 提示词让模型自行选词并生成缩写，因此每个字母都有一行特质说明。将上传照片设为唯一身份参考，使人脸保持一致，道具和版式则承载人物个性。
+prompt: |
+  Using my uploaded photo as the ONLY identity reference and what you have learned about me through our conversations when available, choose ONE word that best represents who I am, then turn that word into a personalized acronym. Do NOT ask me to choose the word—surprise me. Choose the word independently based entirely on what you know about my personality, humor, interests, hobbies, lifestyle, values, strengths, quirks, boundaries, relationships, things I love, and patterns you have noticed about me. It can be funny, badass, wholesome, chaotic, witchy, sarcastic, slightly unhinged, meaningful, or a mixture—whatever genuinely fits ME. Do not copy or reuse another person’s acronym. Create a detailed cinematic poster featuring me. At the VERY TOP, display my chosen acronym in large, bold letters with a period after EVERY individual letter, including the final letter.

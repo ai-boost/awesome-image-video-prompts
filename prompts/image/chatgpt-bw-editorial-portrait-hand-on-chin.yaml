@@ -1,0 +1,24 @@
+id: chatgpt-bw-editorial-portrait-hand-on-chin
+title:
+  en: Black and white portrait, man with hand on chin
+  zh: 黑白肖像，男子手托下巴
+model: ChatGPT
+mode: image-edit
+category: portrait
+tags:
+- monochrome
+- portrait
+- reference-photo
+- editorial
+source:
+  name: '@onsenfou390 on TikTok'
+  url: https://www.tiktok.com/@onsenfou390/video/7691032466735238420
+  credit: ABC ABC on s’en fou 😜
+  likes: 14052
+  captured: '2026-10-30'
+  posted: '2026-09-29'
+notes:
+  en: The blurred foreground silhouette creates a frame within a frame, and the prompt pins the look with an 85 mm lens, a Leica M11 rendering, soft rim light and monochrome tones. Deep shadows and bright highlights carry the mood while the reference face sets the identity.
+  zh: 前景虚化的剪影形成框中框的构图，提示词用 85 毫米镜头、Leica M11 质感、柔和逆光和单色调来锁定画面风格。深阴影与强高光突出面部表情，参考脸部图像决定人物身份。
+prompt: |
+  En utilisant le visage de référence ci-dessus, crée un portrait de mode noir et blanc à fort contraste d’un jeune homme portant une chemise blanche impeccable, assis dans une pose réfléchie, avec une main près du menton. Il est encadré par une silhouette floue au premier plan, créant une composition cinématographique de type « cadre dans le cadre ». Un éclairage dramatique, avec des ombres profondes et des hautes lumières intenses, met en valeur les traits du visage et l’émotion. L’esthétique est éditoriale, intemporelle et minimaliste, avec un arrière-plan sobre, un léger grain de pellicule en 4K, une texture de peau ultra-réaliste, une mise au point très nette sur les yeux, une faible profondeur de champ, une photographie cinématographique, une ambiance sombre et élégante, un style digne d’un magazine de luxe, un rendu inspiré du Leica M11, un objectif 85 mm, un léger contre-jour (soft rim light), des tons monochromes, un rendu photoréaliste et un niveau de détail très élevé. Image originale.

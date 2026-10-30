@@ -1,0 +1,24 @@
+id: nano-banana-pro-blue-whale-flying-over-city
+title:
+  en: Blue whale flying over coastal city at sunset
+  zh: 夕阳下飞越海滨城市的蓝鲸
+model: Nano Banana Pro / ChatGPT
+mode: text-to-image
+category: realism
+tags:
+- whale
+- sunset
+- cityscape
+- model-comparison
+source:
+  name: '@prabinbashyal100 on TikTok'
+  url: https://www.tiktok.com/@prabinbashyal100/video/7689494838076525844
+  credit: Prabin Bashyal
+  likes: 305
+  captured: '2026-10-30'
+  posted: '2026-09-25'
+notes:
+  en: A short scene prompt with one subject, one setting and a time of day lets the model supply lighting and mood. The sunset cue sets the warm sky and the glowing edge light along the whale's body.
+  zh: 简短的场景描述只包含一个主体、一个环境和一个时间点，让模型自行补全光线与氛围。日落这一提示带来了暖色天空，并在鲸鱼身体边缘形成发光的逆光效果。
+prompt: |
+  A giant blue whale flying above a modern coastal city at sunset

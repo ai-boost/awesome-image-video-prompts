@@ -1,0 +1,24 @@
+id: gemini-man-wooden-stairs-night-portrait
+title:
+  en: Man seated on wooden stairs at night
+  zh: 夜晚坐在木质楼梯上的男子
+model: Gemini
+mode: image-edit
+category: portrait
+tags:
+- portrait
+- night-photo
+- warm-lighting
+- reference-photo
+source:
+  name: '@geminiaiprompt on TikTok'
+  url: https://www.tiktok.com/@geminiaiprompt/video/7687149288106986773
+  credit: JASA EDIT AI | PROMPT AI
+  likes: 854
+  captured: '2026-10-30'
+  posted: '2026-09-19'
+notes:
+  en: Attaching a reference photo locks the subject's identity, and the prompt then describes appearance, lighting, and background in separate labeled blocks. Naming the light source as warm decorative lamps and stating the 3:4 ratio keeps the glow and vertical framing consistent.
+  zh: 附上参考照片可以锁定人物外貌，提示词再按外观、光线和背景分段描述。写明暖色装饰灯的光源和3:4比例，可以让灯光氛围与竖向构图保持一致。
+prompt: |
+  Make a photo showing a man that I attached who is sitting on a wooden staircase at night with a warm and aesthetic outdoor architecture background. Main Subject and Appearance: A black-haired man with a messy haircut stared straight at the camera with a calm and neutral facial expression. He wears thick black framed glasses in a square shape that frames the eye area and his face firmly. The man is wearing a plain white short-sleeved T-shirt with a regular fit cut. He wears jet black trousers that cover his legs when he takes a sitting position. On the left wrist, there is a circle of a smart watch (smartwatch) with a dark strap. His body position is sitting on a wooden step with both hands placed on the front of his thighs, where his fingers are tightly linked together. Lighting and Visual Atmosphere: The lighting in this photo uses the concept of warm ambient lighting (warm ambient lighting) with an artificial light source from decorative lights. The golden yellow light illuminates the front side of the subject's body, giving dimension and separating the subject clearly from the darker background. The wooden surface around the stairs reflects the warm light, displaying the texture of the wood grain in detail and creating a dramatic shadow contrast. Background and Environmental Elements: The subject is in the deck area or exterior wooden stairs (outdoor) which is designed with a neatly arranged horizontal wooden slat structure. Right behind the subject, there is a multi-storey wooden staircase structure that leads to the top of the building with wooden accents, with several windows that light up brightly from inside the room. Along the structure of the stairs and guardrails, several pillar wall lights with a minimalist design are installed that emit warm light towards the stairs. On the upper right side, there is vegetation in the form of green plants and lush leaves that are illuminated by the garden lights, providing a visual balance between artificial architectural elements and natural elements. Aspect Ratio 3:4

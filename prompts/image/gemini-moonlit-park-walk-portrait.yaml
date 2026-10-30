@@ -1,0 +1,24 @@
+id: gemini-moonlit-park-walk-portrait
+title:
+  en: Moonlit park walk portrait with streetlamp glow
+  zh: 月夜公园漫步人像与路灯暖光
+model: Gemini
+mode: image-edit
+category: portrait
+tags:
+- portrait
+- cinematic
+- moonlight
+- reference-photo
+source:
+  name: '@gemini_photo on TikTok'
+  url: https://www.tiktok.com/@gemini_photo/video/7689076503060942094
+  credit: gemini AI
+  likes: 156
+  captured: '2026-10-30'
+  posted: '2026-09-24'
+notes:
+  en: Uploading a reference photo and asking to keep the face the same locks the identity, while the text builds the scene. Splitting the light into cool moonlight and warm streetlamp pools, plus a lens and aperture spec, sets the cinematic mood.
+  zh: 上传参考照片并要求保持脸部一致，由照片锁定身份，文字负责构建场景。将光线分为冷色月光与暖色路灯光池，并加入镜头和光圈参数，营造电影感氛围。
+prompt: |
+  Generate a cinematic, moody portrait of the uploaded handsome man with stylish hair, walking alone along a quiet park pathway on a beautiful moonlit night. He is walking slowly with both hands in his pockets, looking far. He is wearing a black loose fitting sweatshirt with a red, blue graphic print at chest, loose gray sweatpants, white chunky sneakers, and a smartwatch. A dramatic natural size full moon shines through the branches above, while antique streetlamps along the pathway create pools of warm golden light. Dark trees and soft mist surround the path, tree branches with some green and pale red leaves overhead at top left foreground. Cinematic contrast between cool blue moonlight and warm streetlamp light, emotional and reflective atmosphere, photorealistic DSLR photography, sharp focus on subject, 85mm lens, f/1.8, rich cinematic colour grading, ultra-detailed, full HD upscale, 8K, no haze, no AI artifacts. Keep the face exactly the same as the uploaded photo, same identity. Aspect ratio 4:5 .

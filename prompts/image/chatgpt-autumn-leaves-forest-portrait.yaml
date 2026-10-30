@@ -1,0 +1,24 @@
+id: chatgpt-autumn-leaves-forest-portrait
+title:
+  en: Woman tossing maple leaves on a forest path
+  zh: 女子在林间小路上抛洒枫叶
+model: ChatGPT
+mode: image-edit
+category: edit
+tags:
+- autumn
+- fall-leaves
+- portrait
+- photorealistic
+source:
+  name: '@klh000o1 on TikTok'
+  url: https://www.tiktok.com/@klh000o1/video/7682245250466712863
+  credit: Kelly
+  likes: 196
+  captured: '2026-10-30'
+  posted: '2026-09-06'
+notes:
+  en: Anchoring identity to the reference photo with explicit face, hair and body instructions, then specifying an upward camera angle, golden evening backlight and layered maple leaves in the foreground and background gives the scene depth while keeping the subject recognizable. The editorial photography cue sets a clean, professional finish.
+  zh: 先明确用参考照保留脸部、发型和身材，再指定仰拍视角、金色黄昏逆光以及前后景飘落的枫叶，让画面有纵深感，同时保持人物可辨认。编辑摄影的说法则带来干净专业的质感。
+prompt: |
+  Using my photo for face, hair, and body, I'm aiming for a photorealistic autumn shot. Imagine me on a forest path, covered in colorful autumn leaves, laughing and looking straight up at the camera. My arms are stretched out above, as if I'm throwing leaves into the air. I'm wearing a black leather jacket, black top, dark ripped jeans, a belt, and black boots, with sunglasses on my head. I envision a warm, golden evening sun, with strong orange, red, and brown tones. Lots of floating maple leaves in the foreground and background, natural depth of field, dynamic perspective, and high-quality editorial photography. The goal is to keep my face and individual features from the reference photo as true to the original as possible.

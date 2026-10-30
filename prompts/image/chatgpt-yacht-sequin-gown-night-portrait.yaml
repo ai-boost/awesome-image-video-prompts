@@ -1,0 +1,24 @@
+id: chatgpt-yacht-sequin-gown-night-portrait
+title:
+  en: Woman in sequined gown on yacht corridor
+  zh: 游艇走廊中身穿亮片长裙的女子
+model: ChatGPT / Kling
+mode: image-edit
+category: portrait
+tags:
+- fashion
+- night-portrait
+- yacht
+- photo-reference
+source:
+  name: '@amandakravyn on TikTok'
+  url: https://www.tiktok.com/@amandakravyn/video/7684346251210542349
+  credit: Amanda Kravyn🥀🖤
+  likes: 722
+  captured: '2026-10-30'
+  posted: '2026-09-11'
+notes:
+  en: Pinning the identity to an uploaded photo, then fixing pose, gown, setting and lens in a numbered brief keeps the result on-subject. The flash, warm yacht lights and a 35 to 50mm lens with shallow depth of field give it the editorial look.
+  zh: 先用上传的人像照片锁定身份，再把姿势、礼服、场景和镜头写成分项说明，结果更贴合要求。闪光灯、暖色游艇灯光，加上 35 到 50 毫米镜头与浅景深，营造出时尚大片的质感。
+prompt: |
+  Use my uploaded photo as the identity reference and preserve my recognizable facial features, blue eyes, hair characteristics, natural body proportions and authentic skin texture ULTRA-PHOTOREALISTIC • LUXURY NIGHT EDITORIAL • BLACK GLAMOUR • CINEMATIC FLASH PHOTOGRAPHY • VERTICAL 4:5 Create an ultra-photorealistic luxury fashion portrait of an adult woman standing in a narrow exterior corridor/walkway of a private luxury yacht at night. POSE & COMPOSITION: Photograph her from behind at approximately three-quarter length. Her body faces away from the camera while she turns her head gracefully over her shoulder and looks directly into the lens with a confident, subtly seductive expression. One hand lightly rests against the horizontal metallic yacht railing beside her. Her posture is elegant and relaxed, emphasizing the dramatic open-back silhouette of her gown. HAIR & BEAUTY: Style her hair in a glamorous, slightly messy high updo with loose face-framing strands. Makeup is polished evening glam: sculpted brows, defined lashes, softly smoky eyes, luminous natural skin, subtle contour and glossy nude lips. Add small elegant earrings. OUTFIT: A fitted, floor-length black evening gown made from luxurious micro-sequined fabric that catches tiny points of light. The dress has long fitted sleeves, a high neckline and an extremely dramatic open back extending toward the lower waist. Add a very thin black strap across the lower back featuring a small circular crystal or jeweled ornament at the center. The gown should hug the figure elegantly while remaining sophisticated and high-fashion. SETTING: Place her between the sleek white exterior wall of a luxury yacht and a wall of horizontal metallic ventilation louvers/railings. The corridor is narrow, dark and intimate, with warm ambient lights disappearing into the background. Include subtle polished yacht details and reflections to establish the expensive nighttime setting. LIGHTING: Use direct-camera-flash editorial photography mixed with low warm ambient yacht lighting. The flash illuminates her face, exposed back and sparkling black fabric while the background falls naturally into darkness. Create realistic highlights across the sequins and metallic surfaces. Add subtle warm bokeh and tiny points of reflected light in the distance. CAMERA & QUALITY: High-end full-frame fashion photography, approximately 35–50mm lens, shallow depth of field, realistic perspective, crisp focus on the woman, authentic skin texture, individual hair strands, realistic fabric texture, natural anatomy and proportions, subtle film grain, deep blacks, warm highlights, understated luxury. MOOD: Midnight yacht party • quiet luxury • mysterious woman • expensive black-tie glamour • feminine confidence • sophisticated sensuality • paparazzi-meets-fashion-editorial. IMPORTANT: Keep the woman clearly adult. Maintain realistic anatomy, natural skin texture and believable proportions. Avoid excessive airbrushing, plastic-looking skin, distorted hands, exaggerated body proportions or generic AI facial features.

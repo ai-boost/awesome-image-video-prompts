@@ -1,0 +1,24 @@
+id: chatgpt-birthday-photobooth-grid-black-white
+title:
+  en: Nine pose black and white birthday photobooth grid
+  zh: 九宫格黑白生日照片亭人像
+model: ChatGPT
+mode: image-edit
+category: collage
+tags:
+- birthday
+- photobooth
+- black-and-white
+- grid
+source:
+  name: '@creandoconjhonathan on TikTok'
+  url: https://www.tiktok.com/@creandoconjhonathan/video/7689537471096311048
+  credit: Jhonathan
+  likes: 231
+  captured: '2026-10-30'
+  posted: '2026-09-25'
+notes:
+  en: The prompt locks identity, hair, skin, and clothing to the attached photo before describing the layout, so the same person repeats across nine poses. A fixed 3x3 grid with a garland banner that spells the phrase keeps the text and structure as the anchor for the whole frame.
+  zh: 提示词先锁定参考照片中的身份、发型、肤色和服装，再规定3×3网格与彩旗横幅的文字版式，让同一人物在九个姿势中保持一致，文字与构图成为画面的稳定骨架。
+prompt: |
+  Usa la foto adjunta como referencia principal. Mantén exactamente la identidad, rostro, cabello, barba, tono de piel, edad aparente, cuerpo y ropa original. Crea una foto vertical 9:16 en blanco y negro, estilo photobooth vintage de los años 70–90, dividida en un grid 3×3 con 9 retratos de la misma persona, cada uno con una pose y expresión de cumpleaños diferente. Agrega sombrero de cumpleaños y matasuegras en algunas poses. Conecta los cuadros con guirnaldas, serpentinas y banderines que formen claramente “FELIZ CUMPLEAÑOS”. Fotografía editorial de estudio, iluminación suave, grano analógico, elegante y nostálgica. Alta resolución, composición realista y perfectamente alineada. No cambies la apariencia ni el vestuario de la persona.

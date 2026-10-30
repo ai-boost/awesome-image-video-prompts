@@ -1,0 +1,24 @@
+id: nano-banana-pro-strawberry-baker-cake-bakery
+title:
+  en: Strawberry baker character with cake in bakery
+  zh: 草莓烘焙师角色与蛋糕的面包店场景
+model: Nano Banana Pro / ChatGPT
+mode: text-to-image
+category: character
+tags:
+- strawberry
+- miniature
+- food
+- character
+source:
+  name: '@prabinbashyal100 on TikTok'
+  url: https://www.tiktok.com/@prabinbashyal100/video/7689097108044909845
+  credit: Prabin Bashyal
+  likes: 846
+  captured: '2026-10-30'
+  posted: '2026-09-24'
+notes:
+  en: Giving the subject a role and a concrete setting, a miniature bakery, lets the model build a complete scene around one character. The size contrast from the prompt is only loosely followed, so the scale cue works better as mood than as a literal instruction.
+  zh: 为主体赋予角色并给出具体场景（微缩面包店），模型便能围绕一个角色搭建完整画面。提示词中的大小对比只被大致呈现，因此它更多是氛围提示，而非精确的尺寸指令。
+prompt: |
+  A tiny strawberry baker decorating a giant strawberry cake in a miniature bakery

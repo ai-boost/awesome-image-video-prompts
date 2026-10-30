@@ -1,0 +1,24 @@
+id: nano-banana-pro-baby-dragon-medieval-village-sunrise
+title:
+  en: Tiny green dragon on a cobblestone village street
+  zh: 小绿龙走在石板铺就的村庄街道上
+model: Nano Banana Pro / ChatGPT
+mode: text-to-image
+category: realism
+tags:
+- fantasy
+- dragon
+- village
+- sunrise
+source:
+  name: '@prabinbashyal100 on TikTok'
+  url: https://www.tiktok.com/@prabinbashyal100/video/7689461667305999637
+  credit: Prabin Bashyal
+  likes: 358
+  captured: '2026-10-30'
+  posted: '2026-09-25'
+notes:
+  en: A plain subject and setting prompt is enough when the model fills in the details. The sunrise cue supplies the warm low light and long shadows that make the scene feel real.
+  zh: 简单的主体加场景描述就足够，模型会自动补全细节。日出这一时间点带来温暖的低角度光线和长长的影子，让画面更接近真实。
+prompt: |
+  A tiny baby dragon roaming through a medieval European village at sunrise

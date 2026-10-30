@@ -1,0 +1,23 @@
+id: chatgpt-inuyasha-character-card
+title:
+  en: Inuyasha style character profile of a moonlit shrine priestess
+  zh: 犬夜叉风格角色设定卡，月下神社巫女
+model: ChatGPT
+mode: image-edit
+category: character
+tags:
+- anime
+- inuyasha
+- character-sheet
+source:
+  name: '@kathy_scorpio13 on TikTok'
+  url: https://www.tiktok.com/@kathy_scorpio13/video/7681313938935500062
+  credit: kathy_scorpio495
+  likes: 193
+  captured: '2026-10-30'
+  posted: '2026-09-03'
+notes:
+  en: The prompt turns a questionnaire into a structured character sheet, so each question becomes its own labelled panel that the model fills in turn by turn. Naming the franchise and asking for the exact series artwork keeps the anime style consistent across all panels.
+  zh: 提示词把一份问卷变成结构化的角色设定卡，每个问题对应一个带标题的面板，模型逐项作答。点明作品名并要求沿用原作画风，使各个面板的动漫风格保持一致。
+prompt: |
+  Using my photo as reference, turn me into character in the Inuyasha universe with the exact artwork from series. With everything you know about me Pick who my Character would be. What friends I would have if any, would I have a lover ? Who is my enemy where would I live. What ability do I have.

@@ -1,0 +1,24 @@
+id: chatgpt-monochrome-cafe-portrait-iced-coffee
+title:
+  en: Black and white cafe portrait with iced coffee
+  zh: 黑白咖啡馆人像配冰咖啡
+model: ChatGPT
+mode: text-to-image
+category: portrait
+tags:
+- portrait
+- monochrome
+- cafe
+- editorial
+source:
+  name: '@ness_marie_ on TikTok'
+  url: https://www.tiktok.com/@ness_marie_/video/7686203111882411277
+  credit: Ness_🖤🖤
+  likes: 374
+  captured: '2026-10-30'
+  posted: '2026-09-16'
+notes:
+  en: Locks the monochrome editorial look with named light sources (natural window light, soft candle bokeh) and a single pose cue (head resting on one hand, direct eye contact). The closing framing rule to keep the hair, woman and iced coffee inside the frame keeps every key element in view.
+  zh: 用明确的光源描述（自然窗光、柔焦烛光与虚化光斑）锁定黑白杂志人像质感，再用一个姿势指令（头靠在手上、直视镜头）定下亲密而随意的神态。结尾的构图规则要求保留头发、人物和冰咖啡，确保关键元素都在画面内。
+prompt: |
+  Create a photorealistic, cinematic black-and-white autumn portrait of a glamorous dark haired woman sitting at a cozy café table. She has shoulder length, softly curled dark hair, green eyes, natural glamorous makeup, lips glossy and a calm, confident, slightly mysterious expression. She wears a textured oversized black knit sweater hanging off the shoulder. She rests her head gently against one hand while looking directly into the camera with an intimate, effortless expression. Place her in a dark, cozy café with soft out-of-focus lights, subtle candles, and beautiful bokeh in the background. Include an iced coffee on the table. Make the entire image elegant black-and-white with rich blacks, soft gray highlights, beautiful skin tones translated into monochrome, dramatic natural window lighting, subtle film grain, and a timeless editorial photography feel. Keep the mood cozy, sophisticated, mysterious, and beautiful rather than spooky. Ultra-photorealistic, realistic skin texture, detailed hair, realistic knit fabric, shallow depth of field, professional portrait photography, cinematic lighting, high-end magazine aesthetic. Add a very subtle “Misty” watermark in a corner, small and unobtrusive. FORMAT: 1026 × 1536 pixels, vertical composition. Keep the hair, woman, iced coffee, and important elements comfortably inside the frame. Do not crop important details.

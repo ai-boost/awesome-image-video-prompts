@@ -1,0 +1,24 @@
+id: chatgpt-80s-hairstyle-film-portrait
+title:
+  en: Woman with voluminous 80s hair in warm film portrait
+  zh: 蓬松80年代发型女性的暖色胶片肖像
+model: ChatGPT / Gemini
+mode: image-edit
+category: edit
+tags:
+- 80s
+- retro
+- portrait
+- film
+source:
+  name: '@a0tx3sem37 on TikTok'
+  url: https://www.tiktok.com/@a0tx3sem37/video/7685667533122309394
+  credit: GUANXU
+  likes: 34147
+  captured: '2026-10-30'
+  posted: '2026-09-15'
+notes:
+  en: The prompt stacks concrete style cues (hairstyle, fashion, 35mm grain, warm palette, neon ambient light, flash style) in one comma list, which steers the look without naming a subject. Adding realistic skin texture keeps the retro grade from looking plastic.
+  zh: 提示词用逗号列出具体风格要素（发型、服装、35mm颗粒、暖色调、霓虹环境光、闪光灯风格），不指定人物，也能稳定地呈现复古氛围。加入真实肤质描述，可避免复古调色后皮肤显得塑料感。
+prompt: |
+  classic 80s hairstyle, vibrant 80s fashion, grainy 35mm film texture, warm vintage colors, soft neon ambient lighting, flash photo style, realistic skin texture

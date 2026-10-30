@@ -1,0 +1,24 @@
+id: chatgpt-1980s-male-portrait-warm-lamp
+title:
+  en: 1980s man in blazer, silk shirt and gold chain
+  zh: 身穿西装与金链的80年代男子肖像
+model: ChatGPT
+mode: image-edit
+category: portrait
+tags:
+- 1980s
+- portrait
+- film-look
+- identity-preserving
+source:
+  name: '@lenardfrancisco on TikTok'
+  url: https://www.tiktok.com/@lenardfrancisco/video/7683830698725215495
+  credit: Lenard francisco
+  likes: 86
+  captured: '2026-10-30'
+  posted: '2026-09-10'
+notes:
+  en: 'The prompt locks identity with an explicit preserve list, then builds the period look in layers: teased hair, a structured blazer and patterned silk shirt, and an upscale interior. It finishes with camera cues such as soft flash, halation, a named Kodak film stock and a 35mm lens, which push the result toward a scanned print rather than a glossy AI render.'
+  zh: 提示词先用明确的保留清单锁定面部特征，再分层描述发型、西装与花衬衫、高档室内布景，最后给出柔光闪光、光晕、柯达胶片和35mm镜头等相机细节，让结果更像扫描的老照片而非光滑的AI渲染。
+prompt: |
+  Transform this photo into an authentic late-1980s male portrait while preserving my exact facial identity, facial proportions, skin tone, eyes, nose, lips, jawline, facial hair, and all natural facial features. Do not change my face or make me look like another person. Give me authentic 1980s voluminous men’s hair—thick, naturally teased, softly wavy, with plenty of body and realistic individual strands and subtle flyaways. Keep the hairstyle masculine and believable for the late 1980s. Dress me in an authentic late-1980s men’s fashion look: a sophisticated structured blazer with broad shoulders over a luxurious patterned silk shirt with an open collar, subtle gold chain and tasteful gold jewelry. Make the clothing fashionable, elegant, and period-accurate rather than costume-like. Set the scene in an upscale 1980s interior, such as an elegant living room or bedroom with warm table lamps, vintage furniture, framed artwork, rich fabrics, wood details, and subtle period-accurate décor. Create a glamorous but natural atmosphere. Avoid excessive neon or cheesy props. Photograph me as if using a professional 1980s 35mm film camera with a high-quality portrait lens. Use realistic soft flash photography, shallow depth of field, natural skin texture, realistic shadows, subtle halation, gentle highlight bloom, slightly warm Kodak film color rendering, authentic film grain, and minor imperfections from an actual scanned film photograph. Ultra-realistic professional portrait photography, authentic late-1980s Kodak 35mm film aesthetic, realistic skin pores and texture, detailed natural hair, cinematic composition, warm nostalgic color palette, soft flash, realistic depth of field, true-to-life facial features. Do not alter my identity. Do not feminize my face. Do not make me look like a different person. Do not make the image cartoonish, overly smooth, plastic-looking, excessively grainy, distorted, or obviously AI-generated. Avoid modern clothing, modern interiors, excessive neon, exaggerated makeup, fantasy elements, or unrealistic facial features

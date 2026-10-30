@@ -1,0 +1,25 @@
+id: chatgpt-lagos-1980s-portrait-reference
+title:
+  en: Woman in 1980s Lagos street portrait
+  zh: 1980年代拉各斯街头女性肖像
+model: ChatGPT
+mode: image-edit
+category: photo-to-art
+tags:
+- 1980s
+- retro
+- lagos
+- portrait
+- film-grain
+source:
+  name: '@ewawunmi76 on TikTok'
+  url: https://www.tiktok.com/@ewawunmi76/video/7688410480255175956
+  credit: Ewawunmi💍💦🌹💎
+  likes: 190
+  captured: '2026-10-30'
+  posted: '2026-09-22'
+notes:
+  en: Uploading a reference photo and asking to keep the facial features anchors the likeness, while the prompt sets the era through hairstyle, outfit and a named Lagos setting with period cars. Film grain, scratches, faded warm tones and soft focus make the result read as a physical print rather than a modern costume.
+  zh: 先上传参考照片并要求保留五官来锁定人物相貌，再用复古发型、时代服装以及带有老式汽车的拉各斯场景限定年代。颗粒感、划痕、褪色的暖色调和柔焦让画面像一张真实的老照片，而不是现代的服装扮演。
+prompt: |
+  Using my uploaded photo as the facial reference, create a realistic portrait showing what I might have looked like in the 1980s. Keep my facial features and overall appearance recognizable and natural. Give me an authentic 1980s hairstyle, such as voluminous curly hair, and dress me in a stylish vintage 80s outfit with bold shoulders, a beautiful patterned blouse, statement gold earrings, a gold wristwatch and elegant accessories. Give me a confident, classy and sophisticated 1980s woman aesthetic. Place me in an authentic 1980s Nigerian/Lagos setting with vintage cars, old-fashioned buildings and people dressed in period-appropriate clothing. Make the photograph look like it was actually taken in the 1980s, with warm vintage tones, slightly faded colors, realistic film grain, subtle scratches, soft focus and an old printed-photograph texture. Make it elegant, glamorous, nostalgic and realistic rather than looking like a modern costume. The final image should feel like a genuine family photograph or fashion portrait from Lagos in the 1980s.

@@ -1,0 +1,24 @@
+id: chatgpt-cream-shalwar-kameez-garden-portrait
+title:
+  en: Seated man in cream shalwar kameez in garden
+  zh: 花园中身穿米色沙尔瓦卡米兹的坐姿男子
+model: ChatGPT / Gemini
+mode: image-edit
+category: portrait
+tags:
+- portrait
+- identity-preserve
+- photo-reference
+- garden
+source:
+  name: '@mudasirshah9584 on TikTok'
+  url: https://www.tiktok.com/@mudasirshah9584/video/7690828063927487764
+  credit: 𝘎𝘦𝘮𝘪𝘯𝘪 𝘈𝘪🖤 ❀꧂
+  likes: 697
+  captured: '2026-10-30'
+  posted: '2026-09-29'
+notes:
+  en: Uploading a reference photo and naming it the only identity source keeps the face fixed while the text controls pose, outfit and watch. The negative prompt restates what must not change, and the 85mm f/1.8 lens spec gives the shallow garden bokeh.
+  zh: 上传参考照片并将其设为唯一的面部身份来源，同时用文字固定姿势、服装和手表。反向提示词重申不可改变的内容，85mm f/1.8 镜头描述则带来花园虚化的景深效果。
+prompt: |
+  Do not change my face, identity, hairstyle, beard, outfit, or watch. No extra accessories, distorted hands, extra fingers, artificial skin smoothing, cartoon effects, or unrealistic body proportions. FINAL RESULT: A natural, cinematic, ultra-realistic portrait with my original face, cream shalwar kameez, black wristwatch, clasped hands, and beautiful garden background.

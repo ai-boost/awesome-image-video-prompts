@@ -1,0 +1,24 @@
+id: chatgpt-personality-board-game-reveal
+title:
+  en: Navy and gold personality board game reveal
+  zh: 深蓝与金色的性格桌游揭晓图
+model: ChatGPT
+mode: text-to-image
+category: poster
+tags:
+- board-game
+- personality
+- social-media
+- still-life
+source:
+  name: '@susanswearingenbeesley on TikTok'
+  url: https://www.tiktok.com/@susanswearingenbeesley/video/7683917050204474654
+  credit: 🦋🦋Susan🦋🦋
+  likes: 310
+  captured: '2026-10-30'
+  posted: '2026-09-10'
+notes:
+  en: The prompt has the model invent the game (title, rules, sample cards) before designing the reveal, so every prop reads as part of one concept. A single navy and gold palette runs through the cards, dice, board and mug, and the question sits in the dark upper area where the text stays readable.
+  zh: 提示词先让模型设计完整的桌游（名称、规则、示例卡牌），再据此制作揭晓图，因此每件道具都属于同一个概念。深蓝与金色的配色贯穿卡牌、骰子、棋盘和杯子，问题文字放在画面上方的深色区域，清晰可读。
+prompt: |
+  Based on what you know about me, create a custom board game inspired by my personality, daily life, favorite things, habits, humor, and overall vibe. Include a creative game title, a short tagline, what the board game would look like, a few sample cards or spaces, how to play, how to win, and why it fits me. Then design it as a stylish social media reveal image with the game box, board, pieces, cards, and a polished aesthetic that matches my personality.

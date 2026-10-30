@@ -1,0 +1,23 @@
+id: chatgpt-dancing-living-room-hairbrush-mic
+title:
+  en: Woman dancing barefoot with hairbrush microphone
+  zh: 赤脚女子用发刷当麦克风在客厅跳舞
+model: ChatGPT
+mode: text-to-image
+category: realism
+tags:
+- candid
+- lifestyle
+- photorealistic
+source:
+  name: '@jenjusticeunfiltered on TikTok'
+  url: https://www.tiktok.com/@jenjusticeunfiltered/video/7690247838596353311
+  credit: JenJusticeUnfiltered⚖️💣🔥
+  likes: 532
+  captured: '2026-10-30'
+  posted: '2026-09-27'
+notes:
+  en: Concrete wardrobe, prop and emotion cues (barefoot, distressed jeans, hairbrush as microphone, uncontrolled laughter) make the moment read as candid. The 3:4 ratio and warm evening light set the frame and mood.
+  zh: 具体的服装、道具和情绪描述（赤脚、做旧牛仔裤、用发刷当麦克风、止不住地笑）让画面像抓拍的瞬间。3:4 比例和温暖的晚间光线定下画幅与氛围。
+prompt: |
+  Create a candid photo of me dancing by myself in the middle of a cozy living room with music blasting. I'm barefoot, wearing distressed jeans and an oversized vintage band tee, holding a hairbrush like a microphone. My (describe your hair) hair is flying everywhere and I'm laughing uncontrollably. Warm evening lighting, joyful chaos, photorealistic, 3:4.

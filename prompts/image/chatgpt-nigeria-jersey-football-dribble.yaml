@@ -1,0 +1,23 @@
+id: chatgpt-nigeria-jersey-football-dribble
+title:
+  en: Young man dribbling football in Nigeria jersey
+  zh: 身穿尼日利亚球衣带球过人的年轻男子
+model: ChatGPT
+mode: image-edit
+category: realism
+tags:
+- football
+- sports
+- nigeria
+source:
+  name: '@adelex2468 on TikTok'
+  url: https://www.tiktok.com/@adelex2468/video/7681363280471854354
+  credit: Adelex(Easy Life)
+  likes: 8859
+  captured: '2026-10-30'
+  posted: '2026-09-03'
+notes:
+  en: The prompt uploads a reference face and locks identity with an explicit likeness instruction, then builds the scene from exact kit details (jersey, shorts, white boots) and camera cues like mid-dribble motion, shallow depth of field and high speed sports photography.
+  zh: 提示词先上传参考人脸并明确要求保持面部一致，再用球衣、短裤、白色球鞋等具体服装细节，以及带球动态、浅景深和高速体育摄影等镜头描述搭建场景。
+prompt: |
+  Use the uploaded reference image as the exact facial identity reference. Create an ultra-realistic cinematic 8K sports photograph of the same young man confidently performing impressive dribbling skills with a football on a professional stadium pitch. He wears a Nigeria football jersey, matching shorts and white football boots. Capture him mid-dribble with dynamic athletic movement, focused and confident expression, looking handsome and natural. Professional stadium background, realistic green grass, dramatic natural lighting, shallow depth of field, sharp facial details, realistic skin texture, crisp jersey and boot details, high-speed sports photography, clean composition. Make the image extremely neat, clean, sharp, photorealistic, and detailed. Preserve his exact facial likeness without altering his identity.

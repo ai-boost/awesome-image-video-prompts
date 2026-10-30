@@ -1,0 +1,24 @@
+id: chatgpt-young-man-earphones-dusk-portrait
+title:
+  en: Young man with earphones at dusk
+  zh: 黄昏时戴耳机的年轻男子
+model: ChatGPT / Gemini
+mode: text-to-image
+category: portrait
+tags:
+- portrait
+- sunset
+- cinematic
+- backlight
+source:
+  name: '@trungayai on TikTok'
+  url: https://www.tiktok.com/@trungayai/video/7690052053447626004
+  credit: 𝓣𝓻𝓾𝓷𝓰𝓐𝓘
+  likes: 1580
+  captured: '2026-10-30'
+  posted: '2026-09-27'
+notes:
+  en: The prompt places the subject in the lower right and the sun at left, leaving the upper sky empty as negative space, with foliage entering from the top edge as a foreground frame. An 85mm telephoto at f/2.8, a backlit silhouette body and a muted palette make the shot read as candid and cinematic rather than posed.
+  zh: 提示词把人物放在右下、太阳放在左侧，上方天空留白，树枝从画面上缘伸入形成前景框架。85mm 长焦、f/2.8 光圈、逆光剪影的身体和低饱和色调，让画面呈现抓拍般的电影感而非摆拍。
+prompt: |
+  Photorealistic cinematic dusk portrait of a young Asian man , medium-length naturally tousled black hair with soft loose bangs falling across his forehead, delicate refined facial features, wearing an oversized black hooded jacket with a subtle light-colored inner collar and simple white wired earphones. He has a quiet, introspective, slightly melancholic expression, relaxed lips, eyes looking downward and slightly away from the camera, head gently lowered, shoulders naturally relaxed, captured in an unposed candid moment. The scene takes place outdoors during late sunset transitioning into blue hour. The young man stands on the lower-right side of the frame, while an enormous amount of open sky occupies the upper and left portions of the composition. A low warm sun appears near the distant horizon on the left side, rendered as a soft glowing circular orb, heavily defocused. The distant landscape, trees and vegetation are dark and softly blurred. Natural tree branches and clusters of small leaves extend into the frame from the upper edge, forming an organic foreground frame around the empty sky. Some leaves are slightly out of focus, creating layered depth between foreground foliage, the distant sunset and the subject. Strong subtle backlighting from the setting sun creates a dark silhouette-like body and black clothing, while the face retains delicate low-key detail from soft ambient sky light. No artificial flash, no studio lighting. Deep shadows, gentle highlight rolloff, atmospheric low-contrast illumination on the face, natural exposure falloff. Muted cinematic color palette: charcoal black, deep olive green, desaturated blue-gray, warm beige, dusty amber and soft muted orange. Low saturation, slightly cool shadows and warm sunset highlights, restrained contrast, subtle filmic color grading, understated vintage atmosphere. Shot from approximately eye level with a medium-long telephoto lens, around 85mm full-frame equivalent, camera positioned several meters away from the subject. Wide environmental portrait composition, shallow depth of field around f/2–f/2.8, strong background compression, creamy natural bokeh, soft optical falloff. The sun and distant vegetation appear blurred rather than sharply defined. Asymmetrical composition, subject positioned in the lower-right quadrant, large negative space above and to the left, sunset orb on the lower-left side, overhanging foliage framing the top edge. The composition should feel spontaneous and cinematic rather than posed or fashion-editorial.

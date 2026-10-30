@@ -1,0 +1,24 @@
+id: gemini-heartbreak-storm-kneeling-man-woman-steps
+title:
+  en: Heartbroken man kneels in rain as woman turns away
+  zh: 心碎男子雨中跪地，女子背身而坐
+model: Gemini
+mode: image-edit
+category: realism
+tags:
+- heartbreak
+- cinematic
+- rain
+- poster
+source:
+  name: '@sirus_official on TikTok'
+  url: https://www.tiktok.com/@sirus_official/video/7689906533546691848
+  credit: prompt
+  likes: 1199
+  captured: '2026-10-30'
+  posted: '2026-09-26'
+notes:
+  en: The frame splits into a cool storm-lit side and a warm amber side, so the emotional contrast reads at a glance. Symbolic keepsakes like the photo, teddy bear, roses and ring box sit in the foreground and tell the breakup story without any text.
+  zh: 画面分为冷色暴风雨侧与暖色琥珀光侧，情绪对比一目了然。照片、泰迪熊、玫瑰和戒指盒等象征物置于前景，无需文字即可讲述分手的故事。
+prompt: |
+  Photorealistic cinematic heartbreak artwork in a wide **16:9 composition**, depicting a devastated young adult man kneeling in heavy rain on the left and a young adult woman sitting turned away from him on stone steps on the right. A violent thunderstorm and branching white lightning fill the sky above a distant city, contrasting with a warm golden-orange opening in the clouds behind the woman. Dark, emotionally intense, highly detailed music-poster aesthetic, **without text**. **Left foreground:** A young adult man kneels directly on rain-soaked pavement, his body hunched forward and his head deeply bowed. He has short, wet, tousled black hair, a dark trimmed beard, and a distressed expression with tightly lowered eyes. His hands are pressed together vertically in front of his face in a pleading or prayer-like gesture, fingers pointing diagonally upward toward the right. He wears a soaked charcoal-gray button-up shirt with rolled sleeves and dark, distressed jeans. The wet fabric clings to his shoulders and arms, revealing creases, worn textures, and scattered glossy droplets. A large round wristwatch with a dark strap is visible beside his clasped hands. His knees and lower legs fill the lower-left area. Cool storm light outlines his back, while warm light catches his forearms, fingers, cheek, and the front of his shirt. **Right middle ground:** A young adult woman sits sideways on broad, weathered stone steps with her back mostly toward the viewer, facing the glowing horizon on the right. Her face is hidden by her turned head and long, loose, wavy dark-brown hair. She wears a knee-length camel-brown coat over dark clothing, fitted black trousers, and brown lace-up ankle boots. One knee is raised, with her arms folded close around her bent legs. Her coat drapes over the edge of the steps, and her hair blows gently toward the left. Her posture conveys distance, withdrawal, and separation. Warm sunset light traces the edges of her hair and coat. **Symbolic foreground objects:** Across the wet pavement between the two figures, arrange abandoned romantic keepsakes. Near the man’s knees, a small rectangular photograph of a smiling couple leans backward at a slight angle, its surface wet and partly reflective. A small tan teddy bear lies on its side near the center. Several deep crimson roses rest diagonally across the lower center and lower right, with richly layered petals, dark green leaves, and long stems extending toward the right edge. Scatter a few loose red petals on the pavement. Near the bottom center, include a small open, dark jewelry box with a pale interior and a gold-colored ring visible beside its lower edge. Some objects are partially cropped by the bottom border. **Environment:** The ground is dark, rough stone covered in shallow puddles, with rain splashes and shimmering reflections of the lightning, roses, and amber sky. Behind the foreground, a low stone ledge overlooks a distant, softly blurred city skyline. Dense charcoal and steel-gray storm clouds swirl overhead. A brilliant, jagged lightning bolt branches downward through the central sky toward the distant horizon, with additional bright forks spreading across the upper center and upper right. Several black birds fly beneath the clouds, including one larger silhouette just left of the central lightning and a small flock near the upper-right corner. Heavy rain falls across the entire frame in bright, mostly vertical streaks, visibly striking clothing, steps, and pavement. Use dramatic cool blue-gray storm illumination on the left and luminous amber-gold light on the right. Preserve deep shadows while retaining detail in wet hair, skin, fabric, stone, and rose petals. Low camera position near pavement

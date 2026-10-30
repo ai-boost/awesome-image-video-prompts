@@ -1,0 +1,24 @@
+id: gemini-hooded-man-hillside-cafe-night
+title:
+  en: Hooded man relaxing on hillside cafe terrace at night
+  zh: 头戴连帽的男子在山坡咖啡露台夜间放松
+model: Gemini
+mode: image-edit
+category: portrait
+tags:
+- portrait
+- night
+- streetwear
+- reference-photo
+source:
+  name: '@geminiaiprompt on TikTok'
+  url: https://www.tiktok.com/@geminiaiprompt/video/7685850288816753940
+  credit: JASA EDIT AI | PROMPT AI
+  likes: 1049
+  captured: '2026-10-30'
+  posted: '2026-09-15'
+notes:
+  en: Attaching the reference photo and describing clothing, pose and background in labelled sections keeps the person and outfit consistent. Direct front flash separates the subject from the dark hills, while the cool palette makes the warm village lights stand out.
+  zh: 附上参考照片，并用分段方式描述服装、姿势和背景，可以保持人物与穿着一致。正面直闪将主体从黑暗的山景中分离出来，冷色调与暖黄色灯光形成对比。
+prompt: |
+  Make a photo showing a man that I attached who is sitting relaxed on the terrace of a cafe or an open area in a highland area at night, with the background of hills and glittering city lights. Subject and Pose A man sits leaning slightly with his back to the camera with a relaxed gesture on an outdoor folding chair (camping chair). His body is leaning backwards with his left leg crossed slightly straight forward showing only one of his legs crossed, showing a relaxed but photogenic pose. His gaze was directed directly to the camera lens with a slight squint and a calm facial expression, while a few strands of his black hair fell naturally on his forehead blown by the night wind. Clothing and Style Details Top: He wears a black collared jacket that has a unique accent in the form of a silver metallic hook button in the shape of a horizontal toggle and a small hanger with a silver star pattern on the upper chest, behind the collar there is a black hood that is raised to cover the head. Bottom: Faded dark blue denim jeans (light-wash) with loose cut (loose/baggy fit). These pants have a transverse panel stitching detail on the thigh and a large box cargo pocket on the side. Footwear: Classic black vans slip on sneakers with a distinctive white curved line and a white rubber sole with a black stripe on the edge, showing a little white socks. Additional Equipment: On the right side of the chair hangs a dark outdoor backpack with a drinking bottle compartment on the side. Foreground Element (Front Area) The subject sits on a wooden deck with a dark board base. In front of him is a low round table with a circular concentric carving pattern, where a light brown takeaway paper coffee cup with a black lid is placed. The occupied chair is a portable chair with armrests made of light wood and a folding frame made of beige canvas. Background and Landscape Behind the wooden guardrail, the open view directly leads to the hillside that descends into the valley: Berberdak Building: It looks like a white multi-storey villa, cafe, or inn standing on the hillside, decorated with string lights (string lights) and windows with warm yellow lights that glow in the middle of the darkness. Hills: The silhouette of a dark ridge stretches in the distance with rows of trees and several points of street lights and settlements at the top. Sky: The night sky is dominated by thick chunks of dramatic textured clouds that stretch wide, receiving a slight reflection of soft light from the city below. Lighting and Color Palette The main lighting uses a flash (direct flash) directly from the front that illuminates the subject sharply and separates it firmly from the background darkness. The visual palette is dominated by cold color gradations—black, charcoal gray, and denim blue—which contrast with the golden yellow light spots from the buildings in the valley, creating a cool, calm, and aesthetic night hangout atmosphere. Aspect Ratio 3:4

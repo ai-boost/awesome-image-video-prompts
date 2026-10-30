@@ -31,22 +31,22 @@
   - [Nature, travel and aerial](#vid-nature) (11)
   - [Animals and pets](#vid-animal) (26)
   - [VFX and transformations](#vid-vfx) (82)
-- [Image prompts](#image) (1239 entries)
-  - [Posters and editorial layouts](#img-poster) (197)
-  - [Infographics and slides](#img-infographic) (89)
+- [Image prompts](#image) (1307 entries)
+  - [Posters and editorial layouts](#img-poster) (200)
+  - [Infographics and slides](#img-infographic) (90)
   - [Phone and UI mockups](#img-ui-mockup) (28)
   - [Product shots and e-commerce](#img-product) (73)
   - [Logos, ads and packaging](#img-brand) (25)
-  - [Photo realism](#img-realism) (92)
-  - [Portraits](#img-portrait) (245)
-  - [Characters and figures](#img-character) (78)
-  - [Illustration](#img-illustration) (107)
+  - [Photo realism](#img-realism) (105)
+  - [Portraits](#img-portrait) (272)
+  - [Characters and figures](#img-character) (83)
+  - [Illustration](#img-illustration) (108)
   - [Comics and storyboards](#img-comic) (20)
-  - [Photo to art](#img-photo-to-art) (104)
+  - [Photo to art](#img-photo-to-art) (109)
   - [Architecture and interiors](#img-architecture) (23)
   - [Maps](#img-map) (15)
-  - [Collage](#img-collage) (95)
-  - [Photo editing](#img-edit) (48)
+  - [Collage](#img-collage) (97)
+  - [Photo editing](#img-edit) (59)
 - [Agent recipes: editing video](#recipes) (5 entries)
 - [Guides and skills](#guides)
 - [3D with agents](#threed)
@@ -56,18 +56,18 @@
 <a id="recent"></a>
 ## Recently added
 
-- 2026-10-29 · [White corset woman on fur sofa by Christmas tree](pages/en/image-portrait.md#nano-banana-christmas-white-corset-gloves-sofa) · Nano Banana Pro
-- 2026-10-29 · [Dior bottle held by Santa glove in snow](#nano-banana-christmas-luxury-skincare-santa-glove) · Nano Banana Pro
-- 2026-10-29 · [Woman in Santa outfit pouting on bed](pages/en/image-portrait.md#nano-banana-christmas-bed-santa-pout) · Nano Banana Pro
-- 2026-10-29 · [Young woman with Minnie plush at Disney Christmas night](pages/en/image-portrait.md#nano-banana-christmas-disney-minnie-portrait) · Nano Banana Pro
-- 2026-10-29 · [Tiny Christmas portrait figures inside mason jar snow globes](pages/en/image-photo-to-art.md#nano-banana-tiny-christmas-mason-jar-person) · Nano Banana Pro
-- 2026-10-29 · [Woman in gingham top at a Christmas record cafe](pages/en/image-portrait.md#nano-banana-christmas-vinyl-cafe-portrait) · Nano Banana Pro
-- 2026-10-29 · [Man in PSG kit holding lily of the valley](pages/en/image-portrait.md#nano-banana-psg-kit-man-kitchen-props-portrait) · Nano Banana Pro
-- 2026-10-29 · [Woman dancing in red skirt by Christmas tree](pages/en/image-portrait.md#nano-banana-christmas-red-skirt-dance-film-snapshot) · Nano Banana Pro
-- 2026-10-29 · [Four miniature winter cities rising from vintage books](pages/en/image-realism.md#nano-banana-christmas-city-books) · Nano Banana Pro
-- 2026-10-29 · [Smiling woman by Christmas tree with cat](pages/en/image-portrait.md#nano-banana-christmas-red-satin-cami-cat) · Nano Banana Pro
-- 2026-10-29 · [Woman kisses laughing Santa in grotto selfie](pages/en/image-portrait.md#gpt-image-christmas-selfie-santa-kiss-grotto) · GPT Image 1.5
-- 2026-10-29 · [Woman in red Santa hat and sweater](pages/en/image-portrait.md#nano-banana-christmas-santa-hat-off-shoulder-portrait) · Nano Banana Pro
+- 2026-10-30 · [Woman with voluminous 80s hair in warm film portrait](#chatgpt-80s-hairstyle-film-portrait) · ChatGPT / Gemini
+- 2026-10-30 · [Visual personal style report with outfit and color guides](#chatgpt-personal-style-report-stylist) · ChatGPT
+- 2026-10-30 · [Black and white portrait, man with hand on chin](#chatgpt-bw-editorial-portrait-hand-on-chin) · ChatGPT
+- 2026-10-30 · [Young man in baggy jeans at cafe terrace](#nano-banana-cafe-terrace-blue-hour-portrait) · Nano Banana / ChatGPT
+- 2026-10-30 · [Couple mirror selfie in a dark cafe](#chatgpt-couple-mirror-selfie-dark-cafe) · ChatGPT / Gemini
+- 2026-10-30 · [Young man dribbling football in Nigeria jersey](#chatgpt-nigeria-jersey-football-dribble) · ChatGPT
+- 2026-10-30 · [Man in Stussy hoodie sipping iced coffee at night](#nano-banana-stussy-hoodie-night-cafe-terrace) · Nano Banana / ChatGPT
+- 2026-10-30 · [Man sits on wet street curb at night](pages/en/image-realism.md#chatgpt-night-street-curb-candid-hoodie) · ChatGPT / Gemini
+- 2026-10-30 · [Monochrome portrait framed by blurred foreground silhouette](#chatgpt-monochrome-fashion-portrait-frame-in-frame) · ChatGPT
+- 2026-10-30 · [Man in white shirt watching match from pavilion](pages/en/image-portrait.md#chatgpt-stadium-pavilion-match-portrait) · ChatGPT
+- 2026-10-30 · [Seated man surrounded by reaching hands in smoke](pages/en/image-portrait.md#chatgpt-seated-man-reaching-hands-smoke-portrait) · ChatGPT
+- 2026-10-30 · [Mother and child face halves in black and white](#chatgpt-mother-child-face-split-black-white) · ChatGPT
 
 <a id="video"></a>
 ## Video prompts
@@ -2001,7 +2001,7 @@ Prompt for this video: Add the word “SMILE” in bold white sans-serif typogra
 <a id="image"></a>
 ## Image prompts
 
-The most-liked prompts for the top image models on the [Artificial Analysis image arena](https://artificialanalysis.ai/text-to-image/arena), each with its result: shared on X by its author, or from the model maker's own guide. Grouped by what you want to make. Many work on an uploaded photo; the ones marked *Edit* expect one.
+The most-liked prompts for the top image models on the [Artificial Analysis image arena](https://artificialanalysis.ai/text-to-image/arena), each with its result: shared on X or TikTok by its author, or from the model maker's own guide. Grouped by what you want to make. Many work on an uploaded photo; the ones marked *Edit* expect one.
 
 <a id="img-poster"></a>
 ## Posters and editorial layouts
@@ -2290,110 +2290,48 @@ Poster-quality composition
 
 </details>
 
-<a id="nano-banana-monoline-city-travel-poster-kyoto"></a>
-### Kyoto Street Monoline Travel Poster in Red
+<a id="chatgpt-rancher-service-double-exposure-profile"></a>
+### Cowboy profile merged with service and ranch scenes
 
-<a href="https://x.com/Goodmanprotocol/status/2052974175435026714"><img src="previews/nano-banana-monoline-city-travel-poster-kyoto.jpg" width="360"></a>
+<a href="https://www.tiktok.com/@wranglerjf/video/7683621459196955917"><img src="previews/chatgpt-rancher-service-double-exposure-profile.jpg" width="360"></a>
 
-A destination placeholder lets one template serve any city. The prompt fixes a one ink plus one background palette with examples per city, asks for dense monoline detail and local language signage, and sets a text quality clause to keep the typography readable.
+A placeholder template fixes the layout: a large right-facing profile with a dense story collage inside the silhouette. Leaving STORY_THEME blank lets the model build a story that fits the subject's expression, while the grain, lighting and monochrome terms keep the finish gritty rather than plastic.
 
-Nano Banana 2 · Text-to-image · Source: [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2052974175435026714) · 1,436 likes on 2026-10-29
+ChatGPT · Edit · Source: [@wranglerjf on TikTok](https://www.tiktok.com/@wranglerjf/video/7683621459196955917) · 1,498 likes on 2026-10-30
 
-[`travel-poster`](pages/en/tags.md#tag-travel-poster) [`line-art`](pages/en/tags.md#tag-line-art) [`monochrome`](pages/en/tags.md#tag-monochrome) [`swiss-modernist`](pages/en/tags.md#tag-swiss-modernist) [`template`](pages/en/tags.md#tag-template)
+[`double-exposure`](pages/en/tags.md#tag-double-exposure) [`monochrome`](pages/en/tags.md#tag-monochrome) [`portrait`](pages/en/tags.md#tag-portrait) [`editorial-poster`](pages/en/tags.md#tag-editorial-poster)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-Create an ultra-high-resolution minimalist line-art travel poster of [DESTINATION], portraying the city as a stylish everyday urban scene rather than a tourist postcard.
-
-CORE COMPOSITION:
-- Central composition shows the city’s most iconic street, intersection, alley, tram street, or pedestrian avenue
-- Foreground includes locals, commuters, cyclists, travelers, shoppers, students, café visitors
-- People should naturally reflect the city’s local lifestyle and fashion culture
-- Background filled with realistic local signage, cafés, restaurants, transportation signs, storefronts, and architectural details
-- Landmarks should appear naturally integrated into everyday life, never exaggerated
-- Include authentic local-language typography and culturally recognizable visual elements
-- Large bold typography at the top center:
-  “[DESTINATION]”
-- Subtitle below:
-  local language + country name
-  examples:
-  東京 JAPAN
-  서울 KOREA
-  ΚΟΛΩΝΙΑ GERMANY
-
-STYLE:
-ultra clean vector illustration,
-Swiss modernist travel poster,
-minimal line art,
-monoline drawing,
-mid-century editorial aesthetic,
-architectural illustration,
-Japanese graphic poster style,
-precise geometric perspective,
-extremely clean negative space,
-premium travel branding aesthetic
-
-LINE STYLE:
-- monochrome line-based illustration only
-- thin and highly precise linework
-- minimal fill areas
-- intricate city-map-like detail density
-- rhythmic layering of signs, buildings, windows, and street objects
-- visually dense yet highly organized composition
-
-COLOR SYSTEM — VERY IMPORTANT:
-- use only ONE main color + ONE background color
-- automatically choose a color that best represents the city’s atmosphere
-- monochrome silkscreen poster aesthetic
-- no rainbow palettes
-- no excessive neon
-- color should reflect the city’s architecture, climate, nightlife, and cultural identity
-
-Examples:
-Tokyo → vivid red on warm ivory
-Paris → deep navy on cream
-New York → charcoal black on light gray
-Kyoto → muted burgundy on warm cream
-Hong Kong → teal blue on pale ivory
-Santorini → Mediterranean blue on white
-Cairo → desert sepia on sand beige
-
-COMPOSITION:
-- vertical poster layout
-- frontal street-level perspective
-- pedestrians crossing streets or moving naturally
-- balanced urban rhythm and visual flow
-- should feel like a premium city-brand campaign poster
-
-MOOD:
-stylish urban life,
-calm but lively,
-editorial travel magazine cover,
-timeless city identity,
-premium tourism campaign visual,
-minimal yet highly detailed
-
-TEXT QUALITY — EXTREMELY IMPORTANT:
-- all typography must be readable and accurate
-- no random characters
-- no broken or distorted letters
-- local signage should feel authentic and natural
-- professional editorial typography alignment
-
-OUTPUT:
-- vertical poster composition
-- 8K ultra detailed
-- print-ready
-- ultra sharp vector quality
+Create a vertical ASPECT_RATIO monochrome editorial double-exposure portrait based on PERSON_REFERENCE. The final image must preserve the recognizable identity of the person: face shape, skin tone, hairstyle direction, facial proportions, age impression, expression, and overall presence. Transform the person into a large clean side-profile silhouette facing right, with the face and upper torso occupying most of the frame. •Inside the silhouette, show STORY_THEME as several connected cinematic scenes rather than one flat image. If STORY_THEME is blank, fantasize a noir urban story that fits the person's expression and mood. Build the scenes as layered city streets, windows, architectural fragments, small walking figures, interior rooms, and memory-like panels placed inside the head, hair, neck, and torso. The silhouette edge must remain readable, especially the forehead, nose, lips, chin, and neck. •Style target: high-contrast black, charcoal, bone white, and warm gray; gritty pencil-drawing edge; photographic city collage; pixel-dust erosion; scattered square fragments dissolving from the back of the head and lower body. Use layered transparencies and double exposure with a premium editorial poster finish. •Composition: large profile on the right, dense story collage through the center and left, fragmented negative space around the outer silhouette. Keep the interior scenes clear and sequential enough to feel like a story. Add only sparse story-relevant text if it naturally belongs on a sign, book, note, or scene detail; otherwise use no text. •Lighting: luminous glow around forehead and cheek, deep black interior shadows, tiny street-light highlights inside the silhouette, rain-slick reflections where useful. Texture should feel tactile, grainy, imperfect, and cinematic, never plastic.
 ```
 
 </details>
 
-**[All 197 entries](pages/en/image-poster.md)**
+**[All 200 entries](pages/en/image-poster.md)**
 
 <a id="img-infographic"></a>
 ## Infographics and slides
+
+<a id="chatgpt-personal-style-report-stylist"></a>
+### Visual personal style report with outfit and color guides
+
+<a href="https://www.tiktok.com/@iatomiq/video/7687255526056512800"><img src="previews/chatgpt-personal-style-report-stylist.jpg" width="360"></a>
+
+It sets a stylist and color analyst persona, then adds a strict face preservation rule and a 90 percent visual, 10 percent text ratio. Each topic is a fixed named section with BEST and AVOID marks, and the layout is pinned to a clean white luxury magazine look.
+
+ChatGPT · Edit · Source: [@iatomiq on TikTok](https://www.tiktok.com/@iatomiq/video/7687255526056512800) · 24,733 likes on 2026-10-30
+
+[`fashion`](pages/en/tags.md#tag-fashion) [`personal-style`](pages/en/tags.md#tag-personal-style) [`infographic`](pages/en/tags.md#tag-infographic) [`portrait`](pages/en/tags.md#tag-portrait)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create image Act as a professional Image Consultant, Personal Stylist, Color Analyst, Fashion Advisor & Face Shape Expert. Analyze my uploaded portrait and create a PREMIUM visual personal style report. FACE PRESERVATION: Do NOT change, retouch, beautify, reshape or alter my face. Keep my facial structure, eyes, nose, lips, jawline, skin texture, ex-pression and identity 100% natural and realistic. Use my actual face as the reference. PRIORITY: 90% VISUALS, 10% TEXT. Use realistic fashion visuals, outfit mock-ups, diagrams, color palettes, comparison cards, icons and / ×. Avoid long paragraphs. Analyze and visually show: COLOR — Season, undertone, contrast, best/avoid colors, neutrals, ac-cents, white, black & denim. OUTFITS — Casual, Smart Casual, Formal, Party, Traditional, Streetwear & Minimalist. FACE — Face shape + best necklines, collars, shirts, T-shirts, jackets & blaz-ers. HAIR & BEARD — Best short/medium/long hairstyles, fades, textures, side part, slick back, curls & beard styles. Mark BEST / × AVOID. EYEWEAR — Best sunglasses and optical frames. ACCESSORIES — Watches, caps, hats, chains, bags and other suitable ac-cessories. FABRICS & PATTERNS — Best fabrics, stripes, checks, floral, geometric and solid patterns. FOOTWEAR — Sneakers, loafers, boots, Oxfords, running shoes & sandals. JEWELRY — Best metal: Silver, Gold, Rose Gold or Matte Black. STYLE IDENTITY — Identify my strongest style category. GLOW-UP — Current vs Potential Style + Best Hair, Outfit, Colors, Glasses, Beard & Accessories. SHOPPING GUIDE — Best shirts, T-shirts, blazers, pants, shoes, sun-glasses, watches & accessories. DESIGN: Luxury fashion magazine / Pinterest aesthetic. Clean white back-ground, premium layout, realistic clothing mockups, face diagrams, color palettes and before-vs-after comparisons. Keep text minimal. Make it highly visual, polished and easy to understand.
+```
+
+</details>
 
 <a id="gpt-image-encyclopedia-infographic-topic-template"></a>
 ### Encyclopedia infographic card of the James Webb Telescope
@@ -2546,26 +2484,7 @@ Prompt: Create a visually rich infographic about an endangered animal. Start by 
 
 </details>
 
-<a id="nano-banana-f1-australian-gp-2026-qualifying"></a>
-### Australian Grand Prix 2026 qualifying results infographic
-
-<a href="https://x.com/maxescu/status/2030227188679655426"><img src="previews/nano-banana-f1-australian-gp-2026-qualifying.jpg" width="360"></a>
-
-The brief names the event and session and asks for the latest results, which fixes the scope and the data. That one request is enough to produce a full broadcast look with a pole spotlight, a classification table, gaps to pole and a track map.
-
-Nano Banana 2 · Text-to-image · Source: [@maxescu on X](https://x.com/maxescu/status/2030227188679655426) · 659 likes on 2026-10-29
-
-[`f1`](pages/en/tags.md#tag-f1) [`infographic`](pages/en/tags.md#tag-infographic) [`sports-data`](pages/en/tags.md#tag-sports-data) [`web-search`](pages/en/tags.md#tag-web-search)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Generate a detailed infographic showcasing the qualifying results for the Australian Grand Prix 2026 from today. Search the web for the most recent and accurate data.
-```
-
-</details>
-
-**[All 89 entries](pages/en/image-infographic.md)**
+**[All 90 entries](pages/en/image-infographic.md)**
 
 <a id="img-ui-mockup"></a>
 ## Phone and UI mockups
@@ -3416,126 +3335,105 @@ Photoreal handheld phone from inside a car, 3:4 vertical. Arriving motion then s
 
 </details>
 
-<a id="gpt-image-night-tokyo-flash-blur-candid-snapshot"></a>
-### Blurred Flash Snapshot on Night Tokyo Sidewalk
+<a id="nano-banana-cafe-terrace-blue-hour-portrait"></a>
+### Young man in baggy jeans at cafe terrace
 
-<a href="https://x.com/doctorwasif/status/2070011415662842000"><img src="previews/gpt-image-night-tokyo-flash-blur-candid-snapshot.jpg" width="360"></a>
+<a href="https://www.tiktok.com/@el.prompt/video/7687101559158754581"><img src="previews/nano-banana-cafe-terrace-blue-hour-portrait.jpg" width="360"></a>
 
-Stacks accidental phone camera cues such as flash during motion, handheld shake, directional blur, blown highlights and heavy noise to fake a raw snapshot. The negative prompt blocks studio lighting, sharp focus and identity matching.
+The prompt fixes a phone camera framing from slightly above, cropped from the knees up with a candid side glance and light blur. It sets warm interior light against the dim blue hour outside, and grain and natural texture cues keep the result from looking polished.
 
-GPT Image 2 · Text-to-image · Source: [@doctorwasif on X](https://x.com/doctorwasif/status/2070011415662842000) · 713 likes on 2026-10-28
+Nano Banana / ChatGPT · Text-to-image · Source: [@el.prompt on TikTok](https://www.tiktok.com/@el.prompt/video/7687101559158754581) · 11,003 likes on 2026-10-30
 
-[`candid`](pages/en/tags.md#tag-candid) [`smartphone-photo`](pages/en/tags.md#tag-smartphone-photo) [`motion-blur`](pages/en/tags.md#tag-motion-blur) [`night`](pages/en/tags.md#tag-night) [`flash`](pages/en/tags.md#tag-flash)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-GPT Image 2
-
-{
-  "prompt": "Ultra-realistic candid smartphone photo, 3:4 vertical. Original non-identifiable young woman inspired only by general proportions/vibe. Night Tokyo sidewalk beside white ceramic tile wall. Mid-walk, half-profile, turning back in surprise, hand raised toward lens, shy restrained smile, continuing forward, imperfect framing, nearly exiting frame. Flash fired during motion. Strong handheld shake, heavy directional blur, smeared facial details, blurred hand and hair, ghosting, streaked tile wall, deep darkness around. Harsh flash highlights, blown exposure, hard shadows. Raw accidental snapshot, intrusive, playful, fleeting memory. Extremely noisy, heavily blurred, authentic phone-camera look.",
-  "negative_prompt": "identity match, face copy, real person replication, anime, illustration, painting, stylized, studio lighting, beauty lighting, sharp focus, clean face, smooth skin, posed portrait, fashion editorial, cinematic, film still, tripod, professional photography"
-}
-```
-
-</details>
-
-<a id="nano-banana-red-one-piece-swimsuit-pool-steps"></a>
-### Woman in red One Piece swimsuit on pool steps
-
-<a href="https://x.com/KeorUnreal/status/2039691442440802306"><img src="previews/nano-banana-red-one-piece-swimsuit-pool-steps.jpg" width="360"></a>
-
-A nested JSON prompt separates subject, pose, camera, lighting and negative prompt into fields, which keeps the suit emblem, handrail grip and underwater blue light consistent. A 50 to 85mm portrait lens at eye level with moderate depth of field keeps the subject sharp against the night background.
-
-Nano Banana 2 · Text-to-image · Source: [@KeorUnreal on X](https://x.com/KeorUnreal/status/2039691442440802306) · 703 likes on 2026-10-29
-
-[`json-prompt`](pages/en/tags.md#tag-json-prompt) [`fan-art`](pages/en/tags.md#tag-fan-art) [`night-pool`](pages/en/tags.md#tag-night-pool) [`smartphone-photo`](pages/en/tags.md#tag-smartphone-photo)
+[`street-style`](pages/en/tags.md#tag-street-style) [`portrait`](pages/en/tags.md#tag-portrait) [`cafe`](pages/en/tags.md#tag-cafe) [`blue-hour`](pages/en/tags.md#tag-blue-hour)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-{
-  "subject": {
-    "desc": "Young woman, fair skin, long straight brown hair over shoulders/back, symmetrical face with full lips, defined eyebrows, green-hazel eyes",
-    "apparel": {
-      "item": "One Piece inspired bodysuit",
-      "style": "Halter-neck sleeveless bodysuit",
-      "color": "Vibrant red base with bright white neon web pattern, red trim, large glowing white neon one piece emblem on chest",
-      "details": "Stretch fabric with neon red and white web design, matching neon red and white patterned thigh-high stockings"
-    },
-    "anatomy": {
-      "body_type": "Naturally proportioned hourglass figure",
-      "bust": "Full bust",
-      "hips": "Wide hips, full thighs, narrow waist",
-      "skin": "Smooth fair with natural tone variation"
-    }
-  },
-  "pose": {
-    "posture": "Standing on pool steps, body leaning slightly forward, weight balanced with both hands gripping the metal handrails on either side, hips angled naturally, one leg slightly forward on a higher step",
-    "limbs": {
-      "right_arm": "Extended to the side gripping the right metal handrail",
-      "left_arm": "Extended to the side gripping the left metal handrail",
-      "head": "Slight tilt, facing forward"
-    },
-    "gaze": "Direct eye contact, soft neutral confident expression"
-  },
-  "environment": {
-    "location": "Outdoor swimming pool at night",
-    "elements": [
-      "Crystal clear blue illuminated pool water with reflections",
-      "Metal pool handrails in foreground",
-      "Pool ladder and steps",
-      "Dark nighttime background with blurred greenery and warm yellow lights",
-      "Neon white written 'KeorUnreal' on wall in backdrop"
-    ]
-  },
-  "camera": {
-    "shot": "Medium (thighs up), vertical 3:4",
-    "angle": "Eye-level slightly frontal",
-    "lens": "50-85mm portrait",
-    "dof": "Moderate, sharp subject, slightly soft distinct background",
-    "framing": "Centered subject"
-  },
-  "lighting": "Vibrant blue pool lighting from underwater with neon reflections on water and skin, soft nighttime ambient lighting, highlights on body contours and fabric sheen",
-  "mood": "Confident calm, glamorous nighttime pool atmosphere",
-  "style": "Photorealistic smartphone photography, high-fidelity detailed fabric/skin textures, natural color grading, unstyled physical proportions",
-  "colors": "Vibrant neon red and white suit dominant, deep blue pool water, warm background lights, natural contrast/saturation",
-  "quality": "High-def sharp focus on eyes/face/suit pattern, low noise, minimal grain",
-  "negative_prompt": "small/reduced/flattened bust, lifted breasts, slimmed torso/hips, proportion averaging, plastic/airbrushed skin, beautification, stylization, depth flattening, wide distortion, mirror selfies, reflections, phone-in-hand"
-}
+Buat gambar menjadi sangat realistis (ultra-realistis) Subjek: Seorang pria dengan rambut sedikit berantakan menutupi dahi model modern. Sudut kamera/framing: Pengambilan gambar *medium-full body* (dari lutut ke atas) dengan posisi kamera sedikit lebih tinggi, seolah diambil menggunakan ponsel yang dipegang tangan. Komposisi berpusat pada pria yang duduk di meja bundar, memperlihatkan tekstur lantai teras dan panel jendela kaca besar di belakangnya. Pakaian: Kaus katun putih longgar dipadukan dengan celana jin denim biru muda yang sangat longgar (*baggy*) hingga kainnya menumpuk di bagian bawah. Sebuah *hoodie* putih dengan cetakan grafis hitam mencolok dikenakan secara diagonal melintasi tubuh bagian atasnya. Jam tangan perak dan kacamata hitam putih berbingkai tebal yang diletakkan di atas meja melengkapi penampilannya. Pose: Posisi duduk santai dengan tubuh agak membungkuk dan kaki terbuka lebar. Kepala menghadap samping dengan candid ada efek blur. Posisi tangan santai; salah satu tangan memegang gelas plastik bening berisi minuman hijau dan sedotan hitam. Lingkungan: Teras kafe luar ruangan bergaya urban di waktu senja. Terdapat meja bundar dengan permukaan batu abu-abu dan jendela kaca berbingkai hitam yang memperlihatkan interior bistro dengan pencahayaan hangat. Sebuah tanaman palem besar dalam pot gelap diletakkan di sisi kanan, di atas lantai beton bertekstur. Pencahayaan: Pencahayaan senja yang seimbang sempurna. Cahaya hangat dan mengundang dari lampu dalam ruangan kontras dengan suasana luar ruangan yang agak redup khas waktu senja (*blue hour*). Pantulan lembut dan realistis tampak pada kaca jendela, menciptakan estetika alami yang nyata tanpa kesan buatan, lengkap dengan bayangan alami. Gaya akhir: Tampilan fotografi iPhone beresolusi tinggi. Estetika *candid* ala kamera ponsel dengan sedikit *grain* (bintik) khas lensa, tekstur alami, serta nuansa keseharian yang terasa apa adanya dan tidak terlalu sempurna. Sangat sesuai dengan *framing* awal dan komposisi gaya jalanan (*street-style*). Negative Prompt: kualitas terburuk, kualitas rendah, kualitas biasa, resolusi rendah, buram, jelek, terdistorsi, cacat, tanda air, teks, tanda tangan, anatomi buruk, tangan buruk, jari hilang, anggota tubuh tambahan, iris mata cacat, jari menyatu, wajah terdistorsi, kulit tidak alami, plastik, *uncanny valley*
 ```
 
 </details>
 
-<a id="gpt-image-pencil-essay-coffee-stain"></a>
-### Pencil handwritten essay on lined paper with coffee stain
+<a id="chatgpt-couple-mirror-selfie-dark-cafe"></a>
+### Couple mirror selfie in a dark cafe
 
-<a href="https://x.com/chetaslua/status/2095556181012128005"><img src="previews/gpt-image-pencil-essay-coffee-stain.jpg" width="360"></a>
+<a href="https://www.tiktok.com/@sangkara_digitalstudio/video/7688697559899999495"><img src="previews/chatgpt-couple-mirror-selfie-dark-cafe.jpg" width="360"></a>
 
-The prompt fixes the medium (pencil on 8.5x11 lined paper) and the capture method (phone photo). It asks for stroke variance and one small flaw, a coffee stain in a named corner, which gives the realism.
+The prompt names two attached face photos as the identity source and pins each pose and hand overlap so the layout stays fixed. Underexposure, digital grain, soft motion blur on background silhouettes and a smudged mirror placed away from the subjects give it a casual iPhone look.
 
-GPT Image 2.5 · Text-to-image · Source: [@chetaslua on X](https://x.com/chetaslua/status/2095556181012128005) · 614 likes on 2026-10-27
+ChatGPT / Gemini · Edit · Source: [@sangkara_digitalstudio on TikTok](https://www.tiktok.com/@sangkara_digitalstudio/video/7688697559899999495) · 9,264 likes on 2026-10-30
 
-[`handwriting`](pages/en/tags.md#tag-handwriting) [`paper`](pages/en/tags.md#tag-paper) [`phone-photo`](pages/en/tags.md#tag-phone-photo) [`texture`](pages/en/tags.md#tag-texture) [`coffee-stain`](pages/en/tags.md#tag-coffee-stain)
+[`mirror-selfie`](pages/en/tags.md#tag-mirror-selfie) [`couple`](pages/en/tags.md#tag-couple) [`iphone`](pages/en/tags.md#tag-iphone) [`low-light`](pages/en/tags.md#tag-low-light)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-🚨 GPT-Image-2.5 Output
-
-I said it to write like einstein it did it without reference < i did not give image or anything   >
-
-left side is AI and right side is real photo from reddit to compare
-
-Prompt : a photorealistic, taken by phone photo of a handwritten essay in pencil, albert einstein handwriting, on an 8.5x11 piece of lined paper, about the history of money in world. make sure there is variance in the writing in a very einstein way. give it a slight coffee stain on the top right corner
+Gunakan dua foto wajah asli subjek pria dan wanita pada lampiran pertama dan kedua sebagai identitas utama wajah masing-masing subjek. Pertahankan identitas wajah keduanya 100% akurat dan konsisten tanpa mengubah struktur wajah, bentuk mata, alis, hidung, bibir, rahang, warna kulit, tekstur kulit, maupun proporsi kepala. Buat foto pasangan realistis dalam rasio 9:16. pria berdiri tepat di belakang wanita, tubuh pria sedikit condong ke depan, kedua tangan pria memegang iPhone 17 Pro Max dengan casing berwarna hitam doff di depan wajahnya sehingga sebagian besar wajah pria tertutup oleh smartphone, satu tangan memegang sisi smartphone dan tangan lainnya berada didepan wajah wanita dengan posisi lengan sedikit menutupi wajah wanita, dengan jari jari menopang bagian samping smartphone; wanita berdiri di depan pria, tubuh menghadap cermin/kamera, satu tangan wanita terangkat ke depan lengan pria sehingga tertutupi sebagian wajahnya dengan lengan tangan serta smartphone pria, sementara tangan lainnya berada di area lengan tangan pria seolah memegang atau merangkul lengan pria. Pria mengenakan kaus putih polos berbahan tebal dengan cuttingan oversized boxy dengan smartwatch strap abu-abu muda di pergelangan tangan kiri. Wanita mengenakan atasan putih polos lengan pendek fitted, rambut berwarna sama persis seperti pada lampiran, terurai dengan beberapa helai/poni tipis di depan wajah, memakai gelang tipis bernuansa gold/rose-gold dan karet rambut hitam tipis di pergelangan tangan. Gunakan suasana cafe semi-club malam yang gelap dan intimate, dengan cermin besar sebagai permukaan pengambilan foto, interior gelap, sedikit pantulan lampu dan tanaman/elemen interior di background. Tambahkan beberapa orang di belakang yang hanya terlihat sebagai siluet samar dan tidak jelas, sebagian sedang bergerak sehingga mengalami motion blur alami, tanpa ada wajah orang background yang terlihat jelas. Gunakan kamera iPhone, framing vertikal dari jarak dekat dengan perspektif smartphone natural, sedikit wide-angle tetapi tidak berlebihan. Pencahayaan indoor malam yang redup dengan campuran warm-white dan sedikit greenish/cool ambient light, exposure sedikit underexposed, highlight lembut, shadow pekat, dan pantulan cahaya realistis pada cermin. Berikan karakter foto yang tidak terlalu HD: detail sedikit soft, noise/grain digital khas kamera iPhone pada low-light, sedikit motion blur dan softness pada area tertentu, kaca tidak tampak full frame dan berbentuk meliuk liuk (bukan bulat/kontak) dengan jarak agak jauh dari subjek, serta efek kotor/debu tipis pada permukaan kaca/cermin berupa smudge, haze, bintik debu, dan bekas sentuhan yang sangat halus. Terapkan color grading muted, sedikit faded, warm-neutral dengan nuansa malam, sehingga hasil benar-benar terasa seperti foto spontan dari iPhone di cafe malam, bukan foto studio. Negative Prompt: jangan mengubah identitas wajah, jangan membuat wajah generik atau AI-looking, jangan beautify berlebihan, jangan kulit terlalu halus/plastik/waxy, jangan mengubah bentuk atau posisi tangan, jari, lengan, siku, smartphone, kepala, dan tubuh; jangan membuat jari tambahan, jari menyatu, tangan cacat, anatomi tidak natural, smartphone berubah bentuk, atau tangan menembus objek. Jangan membuat pose baru, jangan mengubah posisi pria di belakang dan wanita di depan, jangan menghilangkan overlap tangan seperti referensi. Hindari kualitas terlalu tajam/terlalu HD, HDR, excessive sharpening, excessive clarity, clean digital photography, studio lighting, ring light, flash keras, background terlalu terang, bokeh berlebihan, skin smoothing, oversaturation, neon color, CGI, 3D render, illustration, anime, artificial face swap, duplicated people, background people yang terlalu jelas, motion blur berlebihan, blur pada wajah utama.
 ```
 
 </details>
 
-**[All 92 entries](pages/en/image-realism.md)**
+<a id="chatgpt-nigeria-jersey-football-dribble"></a>
+### Young man dribbling football in Nigeria jersey
+
+<a href="https://www.tiktok.com/@adelex2468/video/7681363280471854354"><img src="previews/chatgpt-nigeria-jersey-football-dribble.jpg" width="360"></a>
+
+The prompt uploads a reference face and locks identity with an explicit likeness instruction, then builds the scene from exact kit details (jersey, shorts, white boots) and camera cues like mid-dribble motion, shallow depth of field and high speed sports photography.
+
+ChatGPT · Edit · Source: [@adelex2468 on TikTok](https://www.tiktok.com/@adelex2468/video/7681363280471854354) · 8,859 likes on 2026-10-30
+
+[`football`](pages/en/tags.md#tag-football) [`sports`](pages/en/tags.md#tag-sports) [`nigeria`](pages/en/tags.md#tag-nigeria)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Use the uploaded reference image as the exact facial identity reference. Create an ultra-realistic cinematic 8K sports photograph of the same young man confidently performing impressive dribbling skills with a football on a professional stadium pitch. He wears a Nigeria football jersey, matching shorts and white football boots. Capture him mid-dribble with dynamic athletic movement, focused and confident expression, looking handsome and natural. Professional stadium background, realistic green grass, dramatic natural lighting, shallow depth of field, sharp facial details, realistic skin texture, crisp jersey and boot details, high-speed sports photography, clean composition. Make the image extremely neat, clean, sharp, photorealistic, and detailed. Preserve his exact facial likeness without altering his identity.
+```
+
+</details>
+
+**[All 105 entries](pages/en/image-realism.md)**
 
 <a id="img-portrait"></a>
 ## Portraits
+
+<a id="chatgpt-bw-editorial-portrait-hand-on-chin"></a>
+### Black and white portrait, man with hand on chin
+
+<a href="https://www.tiktok.com/@onsenfou390/video/7691032466735238420"><img src="previews/chatgpt-bw-editorial-portrait-hand-on-chin.jpg" width="360"></a>
+
+The blurred foreground silhouette creates a frame within a frame, and the prompt pins the look with an 85 mm lens, a Leica M11 rendering, soft rim light and monochrome tones. Deep shadows and bright highlights carry the mood while the reference face sets the identity.
+
+ChatGPT · Edit · Source: [@onsenfou390 on TikTok](https://www.tiktok.com/@onsenfou390/video/7691032466735238420) · 14,052 likes on 2026-10-30
+
+[`monochrome`](pages/en/tags.md#tag-monochrome) [`portrait`](pages/en/tags.md#tag-portrait) [`reference-photo`](pages/en/tags.md#tag-reference-photo) [`editorial`](pages/en/tags.md#tag-editorial)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+En utilisant le visage de référence ci-dessus, crée un portrait de mode noir et blanc à fort contraste d’un jeune homme portant une chemise blanche impeccable, assis dans une pose réfléchie, avec une main près du menton. Il est encadré par une silhouette floue au premier plan, créant une composition cinématographique de type « cadre dans le cadre ». Un éclairage dramatique, avec des ombres profondes et des hautes lumières intenses, met en valeur les traits du visage et l’émotion. L’esthétique est éditoriale, intemporelle et minimaliste, avec un arrière-plan sobre, un léger grain de pellicule en 4K, une texture de peau ultra-réaliste, une mise au point très nette sur les yeux, une faible profondeur de champ, une photographie cinématographique, une ambiance sombre et élégante, un style digne d’un magazine de luxe, un rendu inspiré du Leica M11, un objectif 85 mm, un léger contre-jour (soft rim light), des tons monochromes, un rendu photoréaliste et un niveau de détail très élevé. Image originale.
+```
+
+</details>
+
+<a id="nano-banana-stussy-hoodie-night-cafe-terrace"></a>
+### Man in Stussy hoodie sipping iced coffee at night
+
+<a href="https://www.tiktok.com/@el.prompt/video/7684528778504064276"><img src="previews/nano-banana-stussy-hoodie-night-cafe-terrace.jpg" width="360"></a>
+
+The prompt frames it as a handheld phone photo at a slightly low eye level medium shot and pins the light to ceiling downlights plus warm interior glow with natural falloff. The negative prompt targets plastic skin and uncanny faces, which keeps the result candid rather than polished.
+
+Nano Banana / ChatGPT · Text-to-image · Source: [@el.prompt on TikTok](https://www.tiktok.com/@el.prompt/video/7684528778504064276) · 5,894 likes on 2026-10-30
+
+[`portrait`](pages/en/tags.md#tag-portrait) [`candid`](pages/en/tags.md#tag-candid) [`night-cafe`](pages/en/tags.md#tag-night-cafe) [`streetwear`](pages/en/tags.md#tag-streetwear)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Buat gambar yang sangat realistis (ultra-realistis) Subjek: Seorang pria Sudut kamera/framing: *Medium shot* (bidikan setengah badan) dari sudut pandang sedikit rendah dengan gaya pengambilan gambar genggam (*handheld*). Komposisi berpusat pada subjek yang duduk di meja kafe, menampilkan tubuh bagian atas dan perabotan teras di sekitarnya untuk menciptakan nuansa foto santai setinggi mata agak tinggi (*high-level ringan*) ala jepretan ponsel. Pakaian: hoody tebal berwarna putih stussy dan lipatan kain yang alami. Dipadukan dengan celana panjang longgar hitam. Aksesori kacamata frame tebal. Pose: Duduk di kursi kafe berbahan logam hitam, tubuh condong ke depan. satu tangan santai, satu tangan sedang meminum es cup. Ekspresi wajah netral menghadap samping candid, dengan pandangan mata sedikit tertuju ke bawah secara alami (*candid*), tanpa pose yang dibuat-buat. rambut sedikit berantakan menutupi dahi. Lingkungan: Teras kafe luar ruangan di malam hari. Latar belakang menampilkan jendela kaca besar yang memperlihatkan interior terang benderang dengan meja-meja dan sosok orang di kejauhan. Area luar ruangan berisi kursi kayu dan logam hitam, meja bundar, serta dedaunan gelap yang terlihat di bawah langit malam. Pencahayaan: Pencahayaan malam hari yang autentik. Cahaya lembut dan hangat berasal dari lampu tanam di langit-langit teras serta cahaya yang memancar dari jendela interior. Cahaya menciptakan *highlight* alami pada baju dan kulit subjek dengan transisi cahaya (*falloff*) yang realistis dan tanpa kontras digital buatan. Gaya akhir: Resolusi tinggi, gaya fotografi ponsel (*handheld*), foto *candid*, tidak terlalu sempurna. Negative Prompt: kualitas terburuk, kualitas rendah, kualitas standar, resolusi rendah, buram, jelek, terdistorsi, cacat, tanda air, teks, tanda tangan, anatomi buruk, tangan buruk, jari hilang, anggota tubuh tambahan, iris cacat, jari menyatu, wajah terdistorsi, kulit tidak alami, plastik, *uncanny valley*
+```
+
+</details>
 
 <a id="gpt-image-macbook-screen-photo-booth-selfie"></a>
 ### Dim bedroom selfie in Photo Booth on laptop
@@ -3556,91 +3454,26 @@ GPT Image 2 · Edit · Source: [@tadasgedgaudas on X](https://x.com/tadasgedgaud
 
 </details>
 
-<a id="nano-banana-tongue-out-selfie-engraved-heart-pendant"></a>
-### Blonde woman selfie with tongue out
+<a id="chatgpt-monochrome-fashion-portrait-frame-in-frame"></a>
+### Monochrome portrait framed by blurred foreground silhouette
 
-<a href="https://x.com/KeorUnreal/status/2042931156333543781"><img src="previews/nano-banana-tongue-out-selfie-engraved-heart-pendant.jpg" width="360"></a>
+<a href="https://www.tiktok.com/@hukamedia.zeii/video/7691019172045802760"><img src="previews/chatgpt-monochrome-fashion-portrait-frame-in-frame.jpg" width="360"></a>
 
-A vertical close-up selfie framing plus an engraved heart pendant gives the model a fixed text anchor, and the negative prompt locks its spelling. The manga-face cue comes through pose and expression rather than an art style, so the result stays photorealistic.
+A reference photo keeps the face consistent, and the frame within a frame composition places a blurred foreground silhouette in front of the subject for depth. Camera and lighting terms such as 85 mm lens, soft rim light, Leica M11 rendering and monochrome tones define the editorial look.
 
-Nano Banana 2 · Text-to-image · Source: [@KeorUnreal on X](https://x.com/KeorUnreal/status/2042931156333543781) · 3,443 likes on 2026-10-29
+ChatGPT · Edit · Source: [@hukamedia.zeii on TikTok](https://www.tiktok.com/@hukamedia.zeii/video/7691019172045802760) · 4,129 likes on 2026-10-30
 
-[`selfie`](pages/en/tags.md#tag-selfie) [`photorealistic`](pages/en/tags.md#tag-photorealistic) [`manga-expression`](pages/en/tags.md#tag-manga-expression)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-{
-  "prompt": "Vertical close-up selfie of attractive woman with long blonde hair playfully sticking her tongue out and looking up with crossed eyes like iconic manga girl, wearing a electric pink ribbed tank top with deep cleavage, golden necklaces with a heart pendant engraved 'Keor', soft natural lighting, photorealistic, detailed skin and jewelry textures, playful glamorous vibe, 8k",
-  "negative_prompt": "cropped, bad hands, blurry face, low quality, different pendant text, closed mouth",
-  "parameters": {
-    "aspect_ratio": "9:16",
-    "lighting": "soft natural"
-  }
-}
-```
-
-</details>
-
-<a id="gpt-image-bougainvillea-archway-courtyard-portrait"></a>
-### Woman glancing back under a seaside bougainvillea archway
-
-<a href="https://x.com/abxxai/status/2097698712978087966"><img src="previews/gpt-image-bougainvillea-archway-courtyard-portrait.jpg" width="360"></a>
-
-The prompt describes the near subject in close detail, gives the second figure only clothing and a pose, and builds depth from the flowering arch through the courtyard to the hazy sea. The model kept that layered composition and warm palette but rendered soft natural light instead of the requested direct flash.
-
-GPT Image 2.5 · Text-to-image · Source: [@abxxai on X](https://x.com/abxxai/status/2097698712978087966) · 2,645 likes on 2026-10-28
-
-[`portrait`](pages/en/tags.md#tag-portrait) [`mediterranean`](pages/en/tags.md#tag-mediterranean) [`flash-photography`](pages/en/tags.md#tag-flash-photography) [`y2k`](pages/en/tags.md#tag-y2k) [`candid`](pages/en/tags.md#tag-candid)
+[`portrait`](pages/en/tags.md#tag-portrait) [`monochrome`](pages/en/tags.md#tag-monochrome) [`fashion`](pages/en/tags.md#tag-fashion) [`editorial`](pages/en/tags.md#tag-editorial)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-Two women framed by a sun-bleached stone archway — one in the near foreground at frame right, a woman with long straight golden-brown hair loosely pulled back with soft face-framing pieces, warm honey-blonde balayage catching the light, an oval face with warm brown eyes, softly tanned olive-warm skin and full lips, small stud earrings, wearing a rust-terracotta linen wrap top and matching wide-leg linen trousers cinched with a woven raffia belt, hands clasped in front of her, turned back over her shoulder toward camera; a second woman, features unspecified, stands further back in the courtyard in a deep forest-green silk blouse and wide-leg cream trousers, leaning against a whitewashed stone pillar, gazing out toward the sea. Setting: the threshold of a Mediterranean cliffside courtyard, hand-laid terracotta mosaic floor and a weathered stone archway thick with trailing bougainvillea in the foreground, a sun-drenched courtyard beyond with wrought-iron lanterns, potted olive trees and a low stone fountain, whitewashed rooftops and a pale hazy sea filling the horizon, soft late-afternoon light. Shot on an early-2000s point-and-shoot digicam with harsh direct on-camera fill flash that aggressively illuminates the near woman and the archway, flattening her features and putting sharp specular highlights on the linen, the stone and her shoulders; the courtyard and sea beyond stay visible but hazy, milky and underexposed relative to the flash. Warm, slightly saturated CCD tones, strong bloom and halation at the archway edges, minor digital noise. Candid amateur, Y2K editorial, unpolished but stylized.
+Using the reference face above, create a high-contrast black-and-white fashion portrait of a young man wearing a crisp white shirt, sitting in a thoughtful pose with one hand near his chin. He is framed by a blurred silhouette in the foreground, creating a cinematic “frame within a frame” composition. Dramatic lighting, with deep shadows and intense highlights, emphasizes the facial features and the emotion. The aesthetic is editorial, timeless, and minimalist, with a clean, understated background, subtle 4K film grain, ultra-realistic skin texture, razor-sharp focus on the eyes, shallow depth of field, cinematic photography, a dark and elegant mood, a style worthy of a luxury magazine, a Leica M11-inspired rendering, an 85 mm lens, a slight backlight (soft rim light), monochrome tones, a photorealistic rendering, and a very high level of detail. Original image.
 ```
 
 </details>
 
-<a id="gpt-image-car-door-clifftop-2000s-film-snapshot"></a>
-### Early 2000s film snapshot through open car door
-
-<a href="https://x.com/abxxai/status/2102775797509722602"><img src="previews/gpt-image-car-door-clifftop-2000s-film-snapshot.jpg" width="360"></a>
-
-An uploaded character sheet locks identity, while labeled blocks for scene, wardrobe, background, light, camera and realism keep each concern separate. The old footage look comes from written film terms such as 28mm barrel distortion, lifted blacks, halation and grain rather than a filter, and the car door frame adds a natural foreground.
-
-GPT Image 2.5 · Edit · Source: [@abxxai on X](https://x.com/abxxai/status/2102775797509722602) · 1,687 likes on 2026-10-28
-
-[`film-look`](pages/en/tags.md#tag-film-look) [`candid`](pages/en/tags.md#tag-candid) [`road-trip`](pages/en/tags.md#tag-road-trip) [`character-reference`](pages/en/tags.md#tag-character-reference) [`2000s`](pages/en/tags.md#tag-2000s)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-4/ the start frame, GPT Image 2.5 made
-
-the old footage look is NOT a filter.. Opus wrote it into the prompt:
-
-Promtp:
-
-Use the uploaded character sheet as the strict identity reference. Keep her exact face, bone structure, brown eyes, light freckles across nose and cheeks, natural full lips, and long straight light-brown hair with sun-kissed caramel highlights parted in the middle. Keep the thin gold chain necklace with the small cross pendant.
-
-SCENE: A candid photo taken from inside a parked silver sedan, looking out through the open rear passenger door. The door frame, the grey fabric headliner, the black door panel with its chrome handle, and part of the seat belt frame the shot on both sides. She stands just outside the open door on a rocky clifftop road above the ocean, both arms raised, one hand gripping the top of the door frame and the other resting on the roof edge, leaning slightly toward the camera. Relaxed, unposed, calm expression, looking straight into the lens.
-
-WARDROBE: Fitted cropped white cotton baby tee with a faded, sun-washed vintage graphic print in pale blue and coral red, slightly worn and soft. Light-wash low-rise denim cutoff shorts with frayed hems. Thin brown leather cord bracelets on one wrist. Hair slightly messy and windblown, a few strands across her face.
-
-BACKGROUND: Deep blue Mediterranean sea filling the frame behind her, sparkling sun glints on the water, a flat horizon line at chest height, pale hazy sky, dark rocks and sandy stones at the cliff edge below.
-
-LIGHT: Harsh direct midday summer sun, bright and slightly overexposed. Sun-warmed skin with a natural sheen and slight glow on the cheeks and nose, soft shadows under the chin, a faint reflection of light off the white car interior.
-
-CAMERA AND LOOK: Early 2000s point-and-shoot film photo, 35mm film, 28mm wide lens with slight barrel distortion at the edges, shot from chest height inside the car. Warm, faded, sun-bleached color grade, lifted blacks, low contrast, creamy highlights that gently blow out in the sky, slightly yellowed whites, soft halation around bright edges, fine visible film grain, a touch of softness and imperfect focus. Looks like a real candid snapshot from a summer road trip, not a studio shot.
-
-REALISM: Real skin texture with visible pores and freckles, no retouching, no plastic skin, natural flyaway hairs, real fabric wrinkles on the tee, real dust and wear on the car interior.
-
-Aspect ratio 4:3. No text, no watermark, no logos.
-```
-
-</details>
-
-**[All 245 entries](pages/en/image-portrait.md)**
+**[All 272 entries](pages/en/image-portrait.md)**
 
 <a id="img-character"></a>
 ## Characters and figures
@@ -3763,6 +3596,25 @@ Final output: one polished square image containing a clearly organized 4×4 grid
 
 </details>
 
+<a id="chatgpt-secret-supernatural-world-couple"></a>
+### Gothic couple before a castle under red moon
+
+<a href="https://www.tiktok.com/@nightmareinc2100/video/7690589171370528030"><img src="previews/chatgpt-secret-supernatural-world-couple.jpg" width="360"></a>
+
+The prompt sets a 3:4 cinematic frame and lists lighting and texture cues such as dramatic moonlight, fire, volumetric fog and film grain, plus a clear no text rule. The long list of world elements builds layered depth, so the castle, dragons and ravens fill the background behind the figures.
+
+ChatGPT · Text-to-image · Source: [@nightmareinc2100 on TikTok](https://www.tiktok.com/@nightmareinc2100/video/7690589171370528030) · 1,100 likes on 2026-10-30
+
+[`dark-fantasy`](pages/en/tags.md#tag-dark-fantasy) [`gothic`](pages/en/tags.md#tag-gothic) [`cinematic`](pages/en/tags.md#tag-cinematic) [`no-text`](pages/en/tags.md#tag-no-text)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Based on everything you know about me, create the SECRET SUPERNATURAL WORLD hidden inside my imagination. Do NOT ask me questions. Surprise me. Imagine my personality, memories, interests, fears, relationships, dreams, strengths, weaknesses, darker side, and things I love have somehow created an entire hidden universe. Build that universe around ME. Reveal: • The name of my world • What the name means • What the world looks like • The place where I live • What role I have there • My supernatural title • My appearance and outfit • My powers • My signature weapon • My symbol • My companion creature • The creatures living in my world • My closest ally • My greatest enemy • The forbidden location nobody enters • The most terrifying creature there • The secret hidden beneath my world • The one law everyone must obey • What happens when someone breaks it • My greatest strength • My greatest weakness • The prophecy written about me • My ultimate transformation • The final battle waiting for me • My legendary quote Make every detail symbolize something you genuinely associate with me based on what you’ve learned about my personality, interests, experiences, creative side, fears, dreams, and overall aesthetic. Then explain WHY my mind would create this particular universe. Finally, create a 3:4 cinematic image showing me standing inside my supernatural world. Make the image itself contain NO WORDS OR TEXT. Make it look like a $200-million dark fantasy/horror movie—photorealistic face and skin, realistic clothing, enormous environmental scale, practical-looking creatures, dramatic moonlight, fire, volumetric fog, storms, cinematic shadows, realistic textures, subtle film grain, atmospheric depth, and ultra-detailed 4K realism. If I upload a photo, preserve my recognizable facial features, hairstyle, body proportions, tattoos, and defining characteristics. Do not copy an existing movie, game, character, or universe. Everything must be original. No generic answers. No questions. Build the world that could only belong to ME. 👀 And finally tell me: If someone accidentally entered my world… would I protect them, hunt them, or make them prove they deserve to leave?
+```
+
+</details>
+
 <a id="nano-banana-3d-caricature-elongated-neck-portrait"></a>
 ### Stylized 3D caricature portrait with elongated neck
 
@@ -3788,28 +3640,7 @@ Aspect ratio 4:5.
 
 </details>
 
-<a id="nano-banana-ball-shaped-cute-animal"></a>
-### Ball-shaped baby sea otter floating in kelp
-
-<a href="https://x.com/NanoBanana/status/2027298143134478451"><img src="previews/nano-banana-ball-shaped-cute-animal.jpg" width="360"></a>
-
-A single [animal] placeholder makes the prompt reusable across species. Fusing head and body into one near sphere, adding oversized eyes with an upward glance, and placing the animal in its usual habitat keeps the result cute and coherent.
-
-Nano Banana 2 · Text-to-image · Source: [@NanoBanana on X](https://x.com/NanoBanana/status/2027298143134478451) · 851 likes on 2026-10-28
-
-[`cute`](pages/en/tags.md#tag-cute) [`animal`](pages/en/tags.md#tag-animal) [`ball-shaped`](pages/en/tags.md#tag-ball-shaped) [`template`](pages/en/tags.md#tag-template) [`habitat`](pages/en/tags.md#tag-habitat)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-This prompt works best with Nano Banana 2:
-
-Prompt: Make a photo of a cute ball-shaped version of a [animal], with big adorable over-sized eyes, it has no head, instead its face is part of the ball, its head and body are one. They are in their usual habitat. Must be almost spherical and cartoonishly cute. Its eyes are looking up in the most adorable cheeky fashion.
-```
-
-</details>
-
-**[All 78 entries](pages/en/image-character.md)**
+**[All 83 entries](pages/en/image-character.md)**
 
 <a id="img-illustration"></a>
 ## Illustration
@@ -3900,7 +3731,7 @@ Use a warm ivory background with plenty of negative space, soft ground shadows, 
 
 </details>
 
-**[All 107 entries](pages/en/image-illustration.md)**
+**[All 108 entries](pages/en/image-illustration.md)**
 
 <a id="img-comic"></a>
 ## Comics and storyboards
@@ -4031,6 +3862,25 @@ Lower section: a minimalist handmade watercolor painting of the exact same scene
 Leave generous warm ivory/off-white textured paper space surrounding the watercolor illustration. Add a small elegant handwritten caption near the bottom, such as “summer days” or “a quiet afternoon”, with a thin minimalist horizontal line underneath.
 Overall aesthetic: luxury travel journal, fine-art watercolor postcard, contemporary editorial design, nostalgic European summer, understated elegance, tactile handmade paper, sophisticated and serene.
 Portrait orientation, clean composition, premium art direction, no clutter, no borders, natural proportions, highly detailed photograph transitioning into an airy watercolor illustration.
+```
+
+</details>
+
+<a id="chatgpt-demon-slayer-hashira-red-moon"></a>
+### Dreadlocked Hashira figure under a red moon
+
+<a href="https://www.tiktok.com/@kingkay_34/video/7683545253504109838"><img src="previews/chatgpt-demon-slayer-hashira-red-moon.jpg" width="360"></a>
+
+The prompt asks for an uploaded photo as the identity reference, then lists costume, weapon, palette and breathing effects as explicit requirements, so the image carries the character design. The setting is written to echo the breathing style, with a red moon, drifting petals and a pagoda in the background.
+
+ChatGPT · Edit · Source: [@kingkay_34 on TikTok](https://www.tiktok.com/@kingkay_34/video/7683545253504109838) · 1,539 likes on 2026-10-30
+
+[`anime`](pages/en/tags.md#tag-anime) [`demon-slayer`](pages/en/tags.md#tag-demon-slayer) [`portrait`](pages/en/tags.md#tag-portrait) [`reference-photo`](pages/en/tags.md#tag-reference-photo)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Using everything you know about me from our conversations, turn me into a completely original Demon Slayer Hashira based on my real personality. Do NOT simply choose an existing Hashira, copy an existing Breathing Style, or give me the character you think I would like most. I want you to analyze who I actually am — my personality, strengths, flaws, habits, fears, values, how I handle conflict, how I protect people, how I think under pressure, and the overall energy I give off. If you genuinely do not know enough about me to personalize the result, ask me 5–10 interesting personality questions first. Do not ask questions if you already have enough information from our conversations. Then create my Hashira profile: - Hashira Title: Give me an original title that fits me. - Breathing Style: Invent a unique Breathing Style based specifically on my personality and explain why it suits me. - Fighting Style: Explain how I fight, including whether I rely on speed, strength, precision, strategy, unpredictability, defense, observation, aggression, etc. - Nichirin Weapon: Design my weapon, including its type, blade color, guard, special details, and any unusual characteristics. - Uniform & Haori: Design my Demon Slayer uniform and haori around my personality rather than simply using my favorite colors. - Color Palette & Symbol: Give me a signature color palette and personal symbol or motif. - Strengths: What would make me dangerous enough to become a Hashira? - Fatal Flaw: Give me a genuine weakness that could actually cause problems in battle. Don't make it a disguised compliment. - Breathing Forms: Create 5–8 named forms for my Breathing Style. Give each one a purpose and explain what it does. - Ultimate Form: Create my most dangerous technique and explain what makes using it risky. - Hashira Reputation: Tell me what the other Demon Slayers would say about me when I'm not around. - Demon Perspective: Explain why demons would specifically fear fighting me. - Backstory: Give me a short Demon Slayer backstory inspired by my personality, but do not invent real-life trauma or claim fictional events actually happened to me. - Rankings: Rank my Speed, Strength, Intelligence, Battle IQ, Stamina, Defense, Technique, and Unpredictability from 1–10. - Final Verdict: Tell me where I would realistically fall among the Hashira in overall combat ability and explain why. Make the result feel like I could genuinely exist in the Demon Slayer universe, while still being an original character. Be specific. Be creative. Give me strengths AND weaknesses. Don't make me ridiculously overpowered just because I'm the person asking. After the character profile, create a cinematic visual concept for my Hashira character using the photo I upload as the identity reference. Preserve my recognizable facial features, skin tone, hair characteristics, body type, age, and overall likeness. Transform me into the Hashira you designed above, including the correct uniform, haori, Nichirin weapon, colors, symbols, and Breathing Style effects. The setting and atmosphere should visually represent my unique Breathing Style.
 ```
 
 </details>
@@ -4227,26 +4077,7 @@ Quiet · Poetic · Refined · Minimal · Innocent · Relaxed · Artistic · Thou
 
 </details>
 
-<a id="gpt-image-photo-to-ink-sketch-artbook-page"></a>
-### Candid photo above matching ink sketch artbook page
-
-<a href="https://x.com/Taaruk_/status/2093738868436840604"><img src="previews/gpt-image-photo-to-ink-sketch-artbook-page.jpg" width="360"></a>
-
-The prompt splits the page vertically into a realistic photo and a hand drawn ink redraw of the same scene, while locking subjects, pose, clothing and composition to the reference. Specific paper, line and typography cues like cream negative space, rough cross hatching and a small numbered title give it a journal layout.
-
-GPT Image 2 · Edit · Source: [@Taaruk_ on X](https://x.com/Taaruk_/status/2093738868436840604) · 874 likes on 2026-10-29
-
-[`photo-to-sketch`](pages/en/tags.md#tag-photo-to-sketch) [`artbook`](pages/en/tags.md#tag-artbook) [`ink-illustration`](pages/en/tags.md#tag-ink-illustration) [`editorial-layout`](pages/en/tags.md#tag-editorial-layout) [`reference-image`](pages/en/tags.md#tag-reference-image)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a nostalgic editorial photo-to-sketch artbook page based on the reference image. Preserve the same subjects, pose, facial expressions, clothing, composition, and emotional atmosphere from the original photograph. Divide the page vertically into two connected sections: the upper section is a cinematic, ultra-realistic photograph with soft natural lighting, subtle film grain, shallow depth of field, authentic colors, and an intimate candid feeling; the lower section transforms the exact same scene and characters into a loose black-and-white hand-drawn ink illustration on warm off-white textured paper, with expressive imperfect lines, rough cross-hatching, minimal shading, and a handmade sketchbook aesthetic. Add tasteful editorial typography around the illustration, including a small numbered title, short poetic handwritten-style caption, and tiny documentary-style notes, creating the feeling of a premium contemporary photography journal or Japanese-inspired visual diary. Keep generous cream-colored negative space, subtle paper texture, slightly imperfect ink printing, understated vintage layout, sophisticated minimalist graphic design, emotionally warm and cinematic, cohesive transition between photograph and drawing, high detail, natural proportions, authentic human anatomy, no watermark, no logos.
-```
-
-</details>
-
-**[All 104 entries](pages/en/image-photo-to-art.md)**
+**[All 109 entries](pages/en/image-photo-to-art.md)**
 
 <a id="img-architecture"></a>
 ## Architecture and interiors
@@ -4687,10 +4518,29 @@ Nano Banana 2 · Text-to-image · Source: [@Strength04_X on X](https://x.com/Str
 
 </details>
 
-**[All 95 entries](pages/en/image-collage.md)**
+**[All 97 entries](pages/en/image-collage.md)**
 
 <a id="img-edit"></a>
 ## Photo editing
+
+<a id="chatgpt-80s-hairstyle-film-portrait"></a>
+### Woman with voluminous 80s hair in warm film portrait
+
+<a href="https://www.tiktok.com/@a0tx3sem37/video/7685667533122309394"><img src="previews/chatgpt-80s-hairstyle-film-portrait.jpg" width="360"></a>
+
+The prompt stacks concrete style cues (hairstyle, fashion, 35mm grain, warm palette, neon ambient light, flash style) in one comma list, which steers the look without naming a subject. Adding realistic skin texture keeps the retro grade from looking plastic.
+
+ChatGPT / Gemini · Edit · Source: [@a0tx3sem37 on TikTok](https://www.tiktok.com/@a0tx3sem37/video/7685667533122309394) · 34,147 likes on 2026-10-30
+
+[`80s`](pages/en/tags.md#tag-80s) [`retro`](pages/en/tags.md#tag-retro) [`portrait`](pages/en/tags.md#tag-portrait) [`film`](pages/en/tags.md#tag-film)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+classic 80s hairstyle, vibrant 80s fashion, grainy 35mm film texture, warm vintage colors, soft neon ambient lighting, flash photo style, realistic skin texture
+```
+
+</details>
 
 <a id="nano-banana-charmander-ember-route-101"></a>
 ### Charmander uses Ember on a sunset route
@@ -4768,45 +4618,26 @@ The overall vibe should feel fun, energetic, and feminine.
 
 </details>
 
-<a id="gpt-image-selfie-chibi-sticker-doodle-edit"></a>
-### Mirror selfie with chibi sticker doodle edit
+<a id="chatgpt-mother-child-face-split-black-white"></a>
+### Mother and child face halves in black and white
 
-<a href="https://x.com/ChillaiKalan__/status/2050614367536939243"><img src="previews/gpt-image-selfie-chibi-sticker-doodle-edit.jpg" width="360"></a>
+<a href="https://www.tiktok.com/@tammy_millz/video/7686641184499879181"><img src="previews/chatgpt-mother-child-face-split-black-white.jpg" width="360"></a>
 
-The prompt locks the original lighting and colors, then layers white outline strokes, chibi copies of the same person in varied poses, and short handwritten captions. Limits like few words and subtle mascots keep the doodles from crowding the photo.
+Two uploaded photos are combined into one face by splitting it down the centre line. Asking for black and white and symmetric alignment keeps tone and framing consistent across both halves, so the comparison reads clearly.
 
-GPT Image 2 · Edit · Source: [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2050614367536939243) · 1,255 likes on 2026-10-28
+ChatGPT · Edit · Source: [@tammy_millz on TikTok](https://www.tiktok.com/@tammy_millz/video/7686641184499879181) · 2,158 likes on 2026-10-30
 
-[`doodle`](pages/en/tags.md#tag-doodle) [`chibi`](pages/en/tags.md#tag-chibi) [`sticker-outline`](pages/en/tags.md#tag-sticker-outline) [`xiaohongshu`](pages/en/tags.md#tag-xiaohongshu) [`selfie`](pages/en/tags.md#tag-selfie)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Edit this photo into a cute Pinterest/Xiaohongshu-style doodle aesthetic edit while keeping the original composition and colors natural. Do NOT heavily change the original lighting or color grading. Keep the tones soft, airy, warm, and realistic. Avoid oversaturated colors, HDR effects, strong orange filters, or excessive contrast.￼ Add hand-drawn doodle elements around the main objects: * white outline strokes * sketchy sparkles * stars * hearts * arrows * tiny flowers * playful swirls * mini handwritten notes Add small cute mascot-style doodles that match the vibe of the photo (tiny bear, smiling drink, cute food character, sleepy cloud, etc.) but keep them subtle and balanced. Use handwritten white text with short relatable captions only. Do NOT add too many words or overcrowd the image.Use a real face as a reference photo. The background is the same as in the photo. The lighting is warm, soft, and clean, with subtle shadows. Around the image, add several mini chibi (3D cute style) versions of the character, while maintaining the original facial features.Chibi characters have various poses and expressions: jumping cheerfully waving sitting relaxed holding a drink cute and playful expressions.￼ ￼ Add hand-drawn white doodle elements: outline around the main body stars, hearts, sparkles motion lines small cute icons Add aesthetic handwriting such as: "shine," "bright day," "happy," "smile," etc. (casual doodle font) Overall style: clean & aesthetic composition white sticker outline soft pastel color tone high detail 3D chibi glossy look cute Korean.￼
-```
-
-</details>
-
-<a id="gpt-image-old-photo-restoration-colorize-sharpen"></a>
-### Blurry portrait restored to sharp detail, before and after
-
-<a href="https://x.com/AiwithLariab/status/2075549421073469614"><img src="previews/gpt-image-old-photo-restoration-colorize-sharpen.jpg" width="360"></a>
-
-The prompt lists the damage to fix (scratches, stains, noise, torn areas), then caps the sharpening with a realism limit. It also asks for natural colors suited to the era and a soft background, so the result keeps the original look.
-
-GPT Image 2 · Edit · Source: [@AiwithLariab on X](https://x.com/AiwithLariab/status/2075549421073469614) · 932 likes on 2026-10-29
-
-[`photo-restoration`](pages/en/tags.md#tag-photo-restoration) [`colorize`](pages/en/tags.md#tag-colorize) [`sharpen`](pages/en/tags.md#tag-sharpen) [`old-photo`](pages/en/tags.md#tag-old-photo)
+[`family`](pages/en/tags.md#tag-family) [`lookalike`](pages/en/tags.md#tag-lookalike) [`black-and-white`](pages/en/tags.md#tag-black-and-white) [`face-merge`](pages/en/tags.md#tag-face-merge)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-Restore and enhance an old damaged photo. Remove scratches, stains, and noise. Reconstruct faded or torn areas while preserving original details. Slightly sharpen the image for better clarity, but keep it realistic. Apply natural and era-appropriate colors to skin, hair, and clothing. Use a soft, balanced background color without being too striking. The final result should look like an old photo that has been realistically restored and colorized, while respecting its original appearance.
+Use these pictures of me and my son/daughter to do half my face and half his/her face to see if we look alike. Please make it into black and white. Make them match up symmetrically
 ```
 
 </details>
 
-**[All 48 entries](pages/en/image-edit.md)**
+**[All 59 entries](pages/en/image-edit.md)**
 
 <a id="recipes"></a>
 ## Agent recipes: editing video
@@ -4977,9 +4808,9 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 <a id="tags"></a>
 ## Browse by tag
 
-[`portrait`](pages/en/tags.md#tag-portrait) 186 · [`fashion`](pages/en/tags.md#tag-fashion) 137 · [`template`](pages/en/tags.md#tag-template) 124 · [`multi-shot`](pages/en/tags.md#tag-multi-shot) 113 · [`anime`](pages/en/tags.md#tag-anime) 112 · [`typography`](pages/en/tags.md#tag-typography) 106 · [`cinematic`](pages/en/tags.md#tag-cinematic) 100 · [`handheld`](pages/en/tags.md#tag-handheld) 90 · [`dialogue`](pages/en/tags.md#tag-dialogue) 87 · [`editorial`](pages/en/tags.md#tag-editorial) 87 · [`golden-hour`](pages/en/tags.md#tag-golden-hour) 82 · [`photorealistic`](pages/en/tags.md#tag-photorealistic) 77 · [`christmas`](pages/en/tags.md#tag-christmas) 73 · [`character-consistency`](pages/en/tags.md#tag-character-consistency) 69 · [`macro`](pages/en/tags.md#tag-macro) 67 · [`reference-image`](pages/en/tags.md#tag-reference-image) 66 · [`storyboard`](pages/en/tags.md#tag-storyboard) 62 · [`infographic`](pages/en/tags.md#tag-infographic) 62 · [`json-prompt`](pages/en/tags.md#tag-json-prompt) 61 · [`fantasy`](pages/en/tags.md#tag-fantasy) 60 · [`selfie`](pages/en/tags.md#tag-selfie) 53 · [`action`](pages/en/tags.md#tag-action) 51 · [`collage`](pages/en/tags.md#tag-collage) 51 · [`miniature`](pages/en/tags.md#tag-miniature) 49 · [`reference-images`](pages/en/tags.md#tag-reference-images) 48 · [`travel-poster`](pages/en/tags.md#tag-travel-poster) 48 · [`food`](pages/en/tags.md#tag-food) 45 · [`vlog`](pages/en/tags.md#tag-vlog) 43 · [`timed-beats`](pages/en/tags.md#tag-timed-beats) 42 · [`poster`](pages/en/tags.md#tag-poster) 42 · [`comedy`](pages/en/tags.md#tag-comedy) 41 · [`studio-lighting`](pages/en/tags.md#tag-studio-lighting) 37 · [`watercolor`](pages/en/tags.md#tag-watercolor) 37 · [`diorama`](pages/en/tags.md#tag-diorama) 37 · [`sound-design`](pages/en/tags.md#tag-sound-design) 36 · [`product-ad`](pages/en/tags.md#tag-product-ad) 35 · [`vertical`](pages/en/tags.md#tag-vertical) 35 · [`identity-lock`](pages/en/tags.md#tag-identity-lock) 35 · [`martial-arts`](pages/en/tags.md#tag-martial-arts) 34 · [`lifestyle`](pages/en/tags.md#tag-lifestyle) 34 · [`chibi`](pages/en/tags.md#tag-chibi) 33 · [`grid`](pages/en/tags.md#tag-grid) 33 · [`character-sheet`](pages/en/tags.md#tag-character-sheet) 32 · [`travel`](pages/en/tags.md#tag-travel) 32 · [`film-grain`](pages/en/tags.md#tag-film-grain) 32 · [`pastel`](pages/en/tags.md#tag-pastel) 32 · [`surreal`](pages/en/tags.md#tag-surreal) 31 · [`timed-shots`](pages/en/tags.md#tag-timed-shots) 29 · [`tracking-shot`](pages/en/tags.md#tag-tracking-shot) 29 · [`rain`](pages/en/tags.md#tag-rain) 28 · [`lip-sync`](pages/en/tags.md#tag-lip-sync) 27 · [`character-reference`](pages/en/tags.md#tag-character-reference) 27 · [`sci-fi`](pages/en/tags.md#tag-sci-fi) 27 · [`3d-animation`](pages/en/tags.md#tag-3d-animation) 26 · [`monochrome`](pages/en/tags.md#tag-monochrome) 26 · [`transformation`](pages/en/tags.md#tag-transformation) 25 · [`architecture`](pages/en/tags.md#tag-architecture) 24 · [`low-angle`](pages/en/tags.md#tag-low-angle) 24 · [`doodle`](pages/en/tags.md#tag-doodle) 24 · [`reference-photo`](pages/en/tags.md#tag-reference-photo) 24 · [`luxury`](pages/en/tags.md#tag-luxury) 23 · [`dark-fantasy`](pages/en/tags.md#tag-dark-fantasy) 23 · [`multi-scene`](pages/en/tags.md#tag-multi-scene) 23 · [`candid`](pages/en/tags.md#tag-candid) 23 · [`scrapbook`](pages/en/tags.md#tag-scrapbook) 23 · [`3d-render`](pages/en/tags.md#tag-3d-render) 23 · [`ugc`](pages/en/tags.md#tag-ugc) 22 · [`slow-motion`](pages/en/tags.md#tag-slow-motion) 22 · [`fashion-editorial`](pages/en/tags.md#tag-fashion-editorial) 22 · [`streetwear`](pages/en/tags.md#tag-streetwear) 22 · [`split-layout`](pages/en/tags.md#tag-split-layout) 22 · [`isometric`](pages/en/tags.md#tag-isometric) 22 · [`commercial`](pages/en/tags.md#tag-commercial) 21 · [`night`](pages/en/tags.md#tag-night) 21 · [`long-take`](pages/en/tags.md#tag-long-take) 21 · [`landscape`](pages/en/tags.md#tag-landscape) 21 · [`pixel-art`](pages/en/tags.md#tag-pixel-art) 21 · [`face-reference`](pages/en/tags.md#tag-face-reference) 21 · [`music-video`](pages/en/tags.md#tag-music-video) 20 · [`neon`](pages/en/tags.md#tag-neon) 20 · [`motion-graphics`](pages/en/tags.md#tag-motion-graphics) 20 · [`pov`](pages/en/tags.md#tag-pov) 20 · [`character-lock`](pages/en/tags.md#tag-character-lock) 19 · [`horror`](pages/en/tags.md#tag-horror) 19 · [`dragon`](pages/en/tags.md#tag-dragon) 19 · [`cafe`](pages/en/tags.md#tag-cafe) 19 · [`minimalist`](pages/en/tags.md#tag-minimalist) 19 · [`studio-portrait`](pages/en/tags.md#tag-studio-portrait) 19 · [`documentary`](pages/en/tags.md#tag-documentary) 18 · [`shot-list`](pages/en/tags.md#tag-shot-list) 18 · [`korean`](pages/en/tags.md#tag-korean) 18 · [`vintage`](pages/en/tags.md#tag-vintage) 18 · [`dance`](pages/en/tags.md#tag-dance) 17 · [`film-look`](pages/en/tags.md#tag-film-look) 17 · [`couple`](pages/en/tags.md#tag-couple) 17 · [`editorial-poster`](pages/en/tags.md#tag-editorial-poster) 17 · [`bokeh`](pages/en/tags.md#tag-bokeh) 16 · [`motion-blur`](pages/en/tags.md#tag-motion-blur) 16 · [`beauty`](pages/en/tags.md#tag-beauty) 16 · [`black-and-white`](pages/en/tags.md#tag-black-and-white) 16 · [`mixed-media`](pages/en/tags.md#tag-mixed-media) 16 · [`sunset`](pages/en/tags.md#tag-sunset) 16 · [`pixar-style`](pages/en/tags.md#tag-pixar-style) 16 · [`double-exposure`](pages/en/tags.md#tag-double-exposure) 16 · [`oil-painting`](pages/en/tags.md#tag-oil-painting) 15 · [`character`](pages/en/tags.md#tag-character) 15 · [`cat`](pages/en/tags.md#tag-cat) 15 · [`studio`](pages/en/tags.md#tag-studio) 15 · [`landmark`](pages/en/tags.md#tag-landmark) 15 · [`food-photography`](pages/en/tags.md#tag-food-photography) 15 · [`photo-to-illustration`](pages/en/tags.md#tag-photo-to-illustration) 15 · [`sports`](pages/en/tags.md#tag-sports) 14 · [`timeline`](pages/en/tags.md#tag-timeline) 14 · [`title-sequence`](pages/en/tags.md#tag-title-sequence) 14 · [`city`](pages/en/tags.md#tag-city) 14 · [`storybook`](pages/en/tags.md#tag-storybook) 14 · [`negative-space`](pages/en/tags.md#tag-negative-space) 14 · [`kinetic-typography`](pages/en/tags.md#tag-kinetic-typography) 13 · [`multi-reference`](pages/en/tags.md#tag-multi-reference) 13 · [`first-person`](pages/en/tags.md#tag-first-person) 13 · [`chase`](pages/en/tags.md#tag-chase) 13 · [`dv-camcorder`](pages/en/tags.md#tag-dv-camcorder) 13 · [`animals`](pages/en/tags.md#tag-animals) 13 · [`cyberpunk`](pages/en/tags.md#tag-cyberpunk) 13 · [`flat-vector`](pages/en/tags.md#tag-flat-vector) 13 · [`hand-drawn`](pages/en/tags.md#tag-hand-drawn) 13 · [`japanese`](pages/en/tags.md#tag-japanese) 13 · [`handheld-camera`](pages/en/tags.md#tag-handheld-camera) 13 · [`style-transfer`](pages/en/tags.md#tag-style-transfer) 13 · [`close-up`](pages/en/tags.md#tag-close-up) 13 · [`home-video`](pages/en/tags.md#tag-home-video) 13 · [`advertising`](pages/en/tags.md#tag-advertising) 13 · [`packaging`](pages/en/tags.md#tag-packaging) 13 · [`smartphone-photo`](pages/en/tags.md#tag-smartphone-photo) 13 · [`line-art`](pages/en/tags.md#tag-line-art) 12 · [`one-take`](pages/en/tags.md#tag-one-take) 12 · [`travel-vlog`](pages/en/tags.md#tag-travel-vlog) 12 · [`winter`](pages/en/tags.md#tag-winter) 12 · [`silhouette`](pages/en/tags.md#tag-silhouette) 12 · [`identity-reference`](pages/en/tags.md#tag-identity-reference) 12 · [`desert`](pages/en/tags.md#tag-desert) 12 · [`y2k`](pages/en/tags.md#tag-y2k) 12 · [`layout`](pages/en/tags.md#tag-layout) 12 · [`sketchbook`](pages/en/tags.md#tag-sketchbook) 12 · [`chinese-text`](pages/en/tags.md#tag-chinese-text) 12 · [`product-photography`](pages/en/tags.md#tag-product-photography) 12 · [`game-ui`](pages/en/tags.md#tag-game-ui) 11 · [`slice-of-life`](pages/en/tags.md#tag-slice-of-life) 11 · [`vfx`](pages/en/tags.md#tag-vfx) 11 · [`japan`](pages/en/tags.md#tag-japan) 11 · [`exploded-view`](pages/en/tags.md#tag-exploded-view) 11 · [`japanese-text`](pages/en/tags.md#tag-japanese-text) 11 · [`product-shot`](pages/en/tags.md#tag-product-shot) 11 · [`skincare`](pages/en/tags.md#tag-skincare) 11 · [`turnaround`](pages/en/tags.md#tag-turnaround) 11 · [`stop-motion`](pages/en/tags.md#tag-stop-motion) 11 · [`hud`](pages/en/tags.md#tag-hud) 11 · [`flash-photography`](pages/en/tags.md#tag-flash-photography) 11 · [`grid-layout`](pages/en/tags.md#tag-grid-layout) 11 · [`photo-to-art`](pages/en/tags.md#tag-photo-to-art) 11 · [`campaign`](pages/en/tags.md#tag-campaign) 11 · [`forced-perspective`](pages/en/tags.md#tag-forced-perspective) 11 · [`fitness`](pages/en/tags.md#tag-fitness) 10 · [`locked-camera`](pages/en/tags.md#tag-locked-camera) 10 · [`continuity`](pages/en/tags.md#tag-continuity) 10 · [`aerial`](pages/en/tags.md#tag-aerial) 10 · [`realism`](pages/en/tags.md#tag-realism) 10 · [`beverage`](pages/en/tags.md#tag-beverage) 10 · [`impasto`](pages/en/tags.md#tag-impasto) 10 · [`halftone`](pages/en/tags.md#tag-halftone) 10 · [`perfume`](pages/en/tags.md#tag-perfume) 10 · [`product-commercial`](pages/en/tags.md#tag-product-commercial) 10 · [`pencil-sketch`](pages/en/tags.md#tag-pencil-sketch) 10 · [`street-photography`](pages/en/tags.md#tag-street-photography) 10 · [`consistency`](pages/en/tags.md#tag-consistency) 10 · [`photorealism`](pages/en/tags.md#tag-photorealism) 10 · [`doodle-overlay`](pages/en/tags.md#tag-doodle-overlay) 10 · [`85mm`](pages/en/tags.md#tag-85mm) 10 · [`camera-moves`](pages/en/tags.md#tag-camera-moves) 9 · [`timeline-prompt`](pages/en/tags.md#tag-timeline-prompt) 9 · [`cooking`](pages/en/tags.md#tag-cooking) 9 · [`camera-move`](pages/en/tags.md#tag-camera-move) 9 · [`wildlife`](pages/en/tags.md#tag-wildlife) 9 · [`voiceover`](pages/en/tags.md#tag-voiceover) 9 · [`product`](pages/en/tags.md#tag-product) 9 · [`single-take`](pages/en/tags.md#tag-single-take) 9 · [`structured-prompt`](pages/en/tags.md#tag-structured-prompt) 9 · [`seoul`](pages/en/tags.md#tag-seoul) 9 · [`tokyo`](pages/en/tags.md#tag-tokyo) 9 · [`pet`](pages/en/tags.md#tag-pet) 9 · [`logo`](pages/en/tags.md#tag-logo) 9 · [`reference-face`](pages/en/tags.md#tag-reference-face) 9 · [`product-poster`](pages/en/tags.md#tag-product-poster) 9 · [`kawaii`](pages/en/tags.md#tag-kawaii) 9 · [`fisheye`](pages/en/tags.md#tag-fisheye) 9 · [`cinematic-lighting`](pages/en/tags.md#tag-cinematic-lighting) 9 · [`historical`](pages/en/tags.md#tag-historical) 8 · [`beat-sync`](pages/en/tags.md#tag-beat-sync) 8 · [`autumn`](pages/en/tags.md#tag-autumn) 8 · [`ambient-audio`](pages/en/tags.md#tag-ambient-audio) 8 · [`outfit-change`](pages/en/tags.md#tag-outfit-change) 8 · [`underwater`](pages/en/tags.md#tag-underwater) 8 · [`automotive`](pages/en/tags.md#tag-automotive) 8 · [`reference-lock`](pages/en/tags.md#tag-reference-lock) 8 · [`animal`](pages/en/tags.md#tag-animal) 8 · [`creature`](pages/en/tags.md#tag-creature) 8 · [`street-style`](pages/en/tags.md#tag-street-style) 8 · [`bedroom`](pages/en/tags.md#tag-bedroom) 8 · [`ink-wash`](pages/en/tags.md#tag-ink-wash) 8 · [`sword-fight`](pages/en/tags.md#tag-sword-fight) 8 · [`cartoon`](pages/en/tags.md#tag-cartoon) 8 · [`asmr`](pages/en/tags.md#tag-asmr) 8 · [`text-rendering`](pages/en/tags.md#tag-text-rendering) 8 · [`retro`](pages/en/tags.md#tag-retro) 8 · [`motorcycle`](pages/en/tags.md#tag-motorcycle) 8 · [`mascot`](pages/en/tags.md#tag-mascot) 8 · [`beach`](pages/en/tags.md#tag-beach) 8 · [`interior`](pages/en/tags.md#tag-interior) 8 · [`street-fashion`](pages/en/tags.md#tag-street-fashion) 8 · [`wuxia`](pages/en/tags.md#tag-wuxia) 8 · [`fight-scene`](pages/en/tags.md#tag-fight-scene) 8 · [`mirror-selfie`](pages/en/tags.md#tag-mirror-selfie) 8 · [`video-edit`](pages/en/tags.md#tag-video-edit) 8 · [`animation`](pages/en/tags.md#tag-animation) 8 · [`street`](pages/en/tags.md#tag-street) 8 · [`snow`](pages/en/tags.md#tag-snow) 8 · [`superhero`](pages/en/tags.md#tag-superhero) 8 · [`illustration`](pages/en/tags.md#tag-illustration) 8 · [`cityscape`](pages/en/tags.md#tag-cityscape) 8 · [`sticker`](pages/en/tags.md#tag-sticker) 8 · [`blueprint`](pages/en/tags.md#tag-blueprint) 8 · [`full-body`](pages/en/tags.md#tag-full-body) 8 · [`tilt-shift`](pages/en/tags.md#tag-tilt-shift) 8 · [`menswear`](pages/en/tags.md#tag-menswear) 8 · [`screen-print`](pages/en/tags.md#tag-screen-print) 8 · [`sketch`](pages/en/tags.md#tag-sketch) 8 · [`editorial-layout`](pages/en/tags.md#tag-editorial-layout) 8 · [`natural-light`](pages/en/tags.md#tag-natural-light) 8 · [`education`](pages/en/tags.md#tag-education) 7 · [`music`](pages/en/tags.md#tag-music) 7 · [`coastal`](pages/en/tags.md#tag-coastal) 7 · [`product-reference`](pages/en/tags.md#tag-product-reference) 7 · [`storytelling`](pages/en/tags.md#tag-storytelling) 7 · [`reflection`](pages/en/tags.md#tag-reflection) 7 · [`samurai`](pages/en/tags.md#tag-samurai) 7 · [`night-street`](pages/en/tags.md#tag-night-street) 7 · [`multi-angle`](pages/en/tags.md#tag-multi-angle) 7 · [`golden-light`](pages/en/tags.md#tag-golden-light) 7 · [`cherry-blossom`](pages/en/tags.md#tag-cherry-blossom) 7 · [`rooftop`](pages/en/tags.md#tag-rooftop) 7 · [`realistic`](pages/en/tags.md#tag-realistic) 7 · [`reference-identity`](pages/en/tags.md#tag-reference-identity) 7 · [`urban`](pages/en/tags.md#tag-urban) 7 · [`text-render`](pages/en/tags.md#tag-text-render) 7 · [`photoreal`](pages/en/tags.md#tag-photoreal) 7 · [`shallow-depth-of-field`](pages/en/tags.md#tag-shallow-depth-of-field) 7 · [`day-in-the-life`](pages/en/tags.md#tag-day-in-the-life) 7 · [`morning-routine`](pages/en/tags.md#tag-morning-routine) 7 · [`nature`](pages/en/tags.md#tag-nature) 7 · [`paper-craft`](pages/en/tags.md#tag-paper-craft) 7 · [`papercraft`](pages/en/tags.md#tag-papercraft) 7 · [`cute`](pages/en/tags.md#tag-cute) 7 · [`identity-consistency`](pages/en/tags.md#tag-identity-consistency) 7 · [`social-media`](pages/en/tags.md#tag-social-media) 7 · [`photo-edit`](pages/en/tags.md#tag-photo-edit) 7 · [`chinese-typography`](pages/en/tags.md#tag-chinese-typography) 7 · [`sprite-sheet`](pages/en/tags.md#tag-sprite-sheet) 7 · [`celebrity`](pages/en/tags.md#tag-celebrity) 7 · [`timelapse`](pages/en/tags.md#tag-timelapse) 6 · [`japanese-dialogue`](pages/en/tags.md#tag-japanese-dialogue) 6 · [`product-reveal`](pages/en/tags.md#tag-product-reveal) 6 · [`selfie-vlog`](pages/en/tags.md#tag-selfie-vlog) 6 · [`montage`](pages/en/tags.md#tag-montage) 6 · [`k-pop`](pages/en/tags.md#tag-k-pop) 6 · [`forest`](pages/en/tags.md#tag-forest) 6 · [`match-cut`](pages/en/tags.md#tag-match-cut) 6 · [`camera-tracking`](pages/en/tags.md#tag-camera-tracking) 6 · [`educational`](pages/en/tags.md#tag-educational) 6 · [`timed-scenes`](pages/en/tags.md#tag-timed-scenes) 6 · [`botanical`](pages/en/tags.md#tag-botanical) 6 · [`paris`](pages/en/tags.md#tag-paris) 6 · [`sfx`](pages/en/tags.md#tag-sfx) 6 · [`night-city`](pages/en/tags.md#tag-night-city) 6 · [`camcorder`](pages/en/tags.md#tag-camcorder) 6 · [`lo-fi`](pages/en/tags.md#tag-lo-fi) 6 · [`fight-choreography`](pages/en/tags.md#tag-fight-choreography) 6 · [`seaside`](pages/en/tags.md#tag-seaside) 6 · [`wide-angle`](pages/en/tags.md#tag-wide-angle) 6 · [`gameplay`](pages/en/tags.md#tag-gameplay) 6 · [`kitchen`](pages/en/tags.md#tag-kitchen) 6 · [`embroidery`](pages/en/tags.md#tag-embroidery) 6 · [`family`](pages/en/tags.md#tag-family) 6 · [`restaurant`](pages/en/tags.md#tag-restaurant) 6 · [`scale-contrast`](pages/en/tags.md#tag-scale-contrast) 6 · [`crowd`](pages/en/tags.md#tag-crowd) 6 · [`backlight`](pages/en/tags.md#tag-backlight) 6 · [`before-after`](pages/en/tags.md#tag-before-after) 6 · [`japanese-typography`](pages/en/tags.md#tag-japanese-typography) 6 · [`pop-art`](pages/en/tags.md#tag-pop-art) 6 · [`screenshot`](pages/en/tags.md#tag-screenshot) 6 · [`colored-pencil`](pages/en/tags.md#tag-colored-pencil) 6 · [`recipe`](pages/en/tags.md#tag-recipe) 6 · [`doodles`](pages/en/tags.md#tag-doodles) 6 · [`brand-identity`](pages/en/tags.md#tag-brand-identity) 6 · [`concept-art`](pages/en/tags.md#tag-concept-art) 6 · [`chiaroscuro`](pages/en/tags.md#tag-chiaroscuro) 6 · [`expressions`](pages/en/tags.md#tag-expressions) 6 · [`product-photo`](pages/en/tags.md#tag-product-photo) 6 · [`map`](pages/en/tags.md#tag-map) 6 · [`product-render`](pages/en/tags.md#tag-product-render) 6 · [`mockup`](pages/en/tags.md#tag-mockup) 6 · [`limited-palette`](pages/en/tags.md#tag-limited-palette) 6 · [`3d`](pages/en/tags.md#tag-3d) 6 · [`labels`](pages/en/tags.md#tag-labels) 6 · [`kids`](pages/en/tags.md#tag-kids) 5 · [`audio-sync`](pages/en/tags.md#tag-audio-sync) 5 · [`paper-collage`](pages/en/tags.md#tag-paper-collage) 5 · [`fps`](pages/en/tags.md#tag-fps) 5 · [`korean-dialogue`](pages/en/tags.md#tag-korean-dialogue) 5 · [`noir`](pages/en/tags.md#tag-noir) 5 · [`transition`](pages/en/tags.md#tag-transition) 5 · [`cel-shading`](pages/en/tags.md#tag-cel-shading) 5 · [`reference-character`](pages/en/tags.md#tag-reference-character) 5 · [`kids-education`](pages/en/tags.md#tag-kids-education) 5 · [`time-lapse`](pages/en/tags.md#tag-time-lapse) 5 · [`reference-video`](pages/en/tags.md#tag-reference-video) 5 · [`gothic`](pages/en/tags.md#tag-gothic) 5 · [`storm`](pages/en/tags.md#tag-storm) 5 · [`skateboard`](pages/en/tags.md#tag-skateboard) 5 · [`timestamped-shots`](pages/en/tags.md#tag-timestamped-shots) 5 · [`diegetic-sound`](pages/en/tags.md#tag-diegetic-sound) 5 · [`timestamped`](pages/en/tags.md#tag-timestamped) 5 · [`manga`](pages/en/tags.md#tag-manga) 5 · [`chinese-dialogue`](pages/en/tags.md#tag-chinese-dialogue) 5 · [`nostalgic`](pages/en/tags.md#tag-nostalgic) 5 · [`speed-ramp`](pages/en/tags.md#tag-speed-ramp) 5 · [`native-audio`](pages/en/tags.md#tag-native-audio) 5 · [`found-footage`](pages/en/tags.md#tag-found-footage) 5 · [`physics`](pages/en/tags.md#tag-physics) 5 · [`multi-character`](pages/en/tags.md#tag-multi-character) 5 · [`multilingual`](pages/en/tags.md#tag-multilingual) 5 · [`object-swap`](pages/en/tags.md#tag-object-swap) 5 · [`claymation`](pages/en/tags.md#tag-claymation) 5 · [`live-action`](pages/en/tags.md#tag-live-action) 5 · [`multishot`](pages/en/tags.md#tag-multishot) 5 · [`romance`](pages/en/tags.md#tag-romance) 5 · [`clay`](pages/en/tags.md#tag-clay) 5 · [`zombie`](pages/en/tags.md#tag-zombie) 5 · [`choreography`](pages/en/tags.md#tag-choreography) 5 · [`open-world`](pages/en/tags.md#tag-open-world) 5 · [`comparison`](pages/en/tags.md#tag-comparison) 5 · [`negative-prompt`](pages/en/tags.md#tag-negative-prompt) 5 · [`gym`](pages/en/tags.md#tag-gym) 5 · [`minidv`](pages/en/tags.md#tag-minidv) 5 · [`thriller`](pages/en/tags.md#tag-thriller) 5 · [`painterly`](pages/en/tags.md#tag-painterly) 5 · [`lookbook`](pages/en/tags.md#tag-lookbook) 5 · [`football`](pages/en/tags.md#tag-football) 5 · [`street-portrait`](pages/en/tags.md#tag-street-portrait) 5 · [`pose-sheet`](pages/en/tags.md#tag-pose-sheet) 5 · [`street-art`](pages/en/tags.md#tag-street-art) 5 · [`minimal`](pages/en/tags.md#tag-minimal) 5 · [`birthday`](pages/en/tags.md#tag-birthday) 5 · [`fashion-portrait`](pages/en/tags.md#tag-fashion-portrait) 5 · [`floral`](pages/en/tags.md#tag-floral) 5 · [`santa`](pages/en/tags.md#tag-santa) 5 · [`identity-preserve`](pages/en/tags.md#tag-identity-preserve) 5 · [`photobooth`](pages/en/tags.md#tag-photobooth) 5 · [`contact-sheet`](pages/en/tags.md#tag-contact-sheet) 5 · [`crayon`](pages/en/tags.md#tag-crayon) 5 · [`travel-journal`](pages/en/tags.md#tag-travel-journal) 5 · [`ink-sketch`](pages/en/tags.md#tag-ink-sketch) 5 · [`photo-dump`](pages/en/tags.md#tag-photo-dump) 5 · [`identity-preservation`](pages/en/tags.md#tag-identity-preservation) 5 · [`geometric`](pages/en/tags.md#tag-geometric) 5 · [`fan-art`](pages/en/tags.md#tag-fan-art) 5 · [`polaroid`](pages/en/tags.md#tag-polaroid) 5 · [`risograph`](pages/en/tags.md#tag-risograph) 5 · [`graffiti`](pages/en/tags.md#tag-graffiti) 5 · [`snow-globe`](pages/en/tags.md#tag-snow-globe) 5 · [`sunglasses`](pages/en/tags.md#tag-sunglasses) 5 · [`agent-editing`](pages/en/tags.md#tag-agent-editing) 5 · [`ffmpeg`](pages/en/tags.md#tag-ffmpeg) 5 · [`halloween`](pages/en/tags.md#tag-halloween) 4 · [`hard-cuts`](pages/en/tags.md#tag-hard-cuts) 4 · [`subtitles`](pages/en/tags.md#tag-subtitles) 4 · [`continuous-shot`](pages/en/tags.md#tag-continuous-shot) 4 · [`construction`](pages/en/tags.md#tag-construction) 4 · [`brutalist`](pages/en/tags.md#tag-brutalist) 4 · [`night-scene`](pages/en/tags.md#tag-night-scene) 4 · [`convenience-store`](pages/en/tags.md#tag-convenience-store) 4 · [`vertical-video`](pages/en/tags.md#tag-vertical-video) 4 · [`short-film`](pages/en/tags.md#tag-short-film) 4 · [`landing-page`](pages/en/tags.md#tag-landing-page) 4 · [`anime-action`](pages/en/tags.md#tag-anime-action) 4 · [`game-hud`](pages/en/tags.md#tag-game-hud) 4 · [`fpv-drone`](pages/en/tags.md#tag-fpv-drone) 4 · [`makeup`](pages/en/tags.md#tag-makeup) 4 · [`multi-cut`](pages/en/tags.md#tag-multi-cut) 4 · [`volcano`](pages/en/tags.md#tag-volcano) 4 · [`volumetric-light`](pages/en/tags.md#tag-volumetric-light) 4 · [`minimax-h3`](pages/en/tags.md#tag-minimax-h3) 4 · [`seamless-loop`](pages/en/tags.md#tag-seamless-loop) 4 · [`sitcom`](pages/en/tags.md#tag-sitcom) 4 · [`fashion-ad`](pages/en/tags.md#tag-fashion-ad) 4 · [`livestream`](pages/en/tags.md#tag-livestream) 4 · [`slow motion`](pages/en/tags.md#tag-slowmotion) 4 · [`humor`](pages/en/tags.md#tag-humor) 4 · [`xianxia`](pages/en/tags.md#tag-xianxia) 4 · [`moonlight`](pages/en/tags.md#tag-moonlight) 4 · [`push-in`](pages/en/tags.md#tag-push-in) 4 · [`static-camera`](pages/en/tags.md#tag-static-camera) 4 · [`ambient-sound`](pages/en/tags.md#tag-ambient-sound) 4 · [`single-shot`](pages/en/tags.md#tag-single-shot) 4 · [`ui-design`](pages/en/tags.md#tag-ui-design) 4 · [`camera-angle`](pages/en/tags.md#tag-camera-angle) 4 · [`street-scene`](pages/en/tags.md#tag-street-scene) 4 · [`dog`](pages/en/tags.md#tag-dog) 4 · [`emotion`](pages/en/tags.md#tag-emotion) 4 · [`keyframes`](pages/en/tags.md#tag-keyframes) 4 · [`painting`](pages/en/tags.md#tag-painting) 4 · [`phone-footage`](pages/en/tags.md#tag-phone-footage) 4 · [`multi-turn-edit`](pages/en/tags.md#tag-multi-turn-edit) 4 · [`classroom`](pages/en/tags.md#tag-classroom) 4 · [`time-freeze`](pages/en/tags.md#tag-time-freeze) 4 · [`mecha`](pages/en/tags.md#tag-mecha) 4 · [`giant`](pages/en/tags.md#tag-giant) 4 · [`train`](pages/en/tags.md#tag-train) 4 · [`subway`](pages/en/tags.md#tag-subway) 4 · [`action-comedy`](pages/en/tags.md#tag-action-comedy) 4 · [`fog`](pages/en/tags.md#tag-fog) 4 · [`top-down`](pages/en/tags.md#tag-top-down) 4 · [`comic-book`](pages/en/tags.md#tag-comic-book) 4 · [`scale`](pages/en/tags.md#tag-scale) 4 · [`world-building`](pages/en/tags.md#tag-world-building) 4 · [`worldbuilding`](pages/en/tags.md#tag-worldbuilding) 4 · [`character-design`](pages/en/tags.md#tag-character-design) 4 · [`film-photography`](pages/en/tags.md#tag-film-photography) 4 · [`glassmorphism`](pages/en/tags.md#tag-glassmorphism) 4 · [`self-portrait`](pages/en/tags.md#tag-self-portrait) 4 · [`parody`](pages/en/tags.md#tag-parody) 4 · [`ms-paint`](pages/en/tags.md#tag-ms-paint) 4 · [`vector`](pages/en/tags.md#tag-vector) 4 · [`side-profile`](pages/en/tags.md#tag-side-profile) 4 · [`bilingual`](pages/en/tags.md#tag-bilingual) 4 · [`mediterranean`](pages/en/tags.md#tag-mediterranean) 4 · [`butterfly`](pages/en/tags.md#tag-butterfly) 4 · [`candid-portrait`](pages/en/tags.md#tag-candid-portrait) 4 · [`diagram`](pages/en/tags.md#tag-diagram) 4 · [`game-asset`](pages/en/tags.md#tag-game-asset) 4 · [`billboard`](pages/en/tags.md#tag-billboard) 4 · [`low-light`](pages/en/tags.md#tag-low-light) 4 · [`landmarks`](pages/en/tags.md#tag-landmarks) 4 · [`direct-flash`](pages/en/tags.md#tag-direct-flash) 4 · [`satire`](pages/en/tags.md#tag-satire) 4 · [`cozy`](pages/en/tags.md#tag-cozy) 4 · [`caricature`](pages/en/tags.md#tag-caricature) 4 · [`sepia`](pages/en/tags.md#tag-sepia) 4 · [`zodiac`](pages/en/tags.md#tag-zodiac) 4 · [`movie-poster`](pages/en/tags.md#tag-movie-poster) 4 · [`encyclopedia`](pages/en/tags.md#tag-encyclopedia) 4 · [`summer`](pages/en/tags.md#tag-summer) 4 · [`flat-color`](pages/en/tags.md#tag-flat-color) 4 · [`miniature-world`](pages/en/tags.md#tag-miniature-world) 4 · [`triptych`](pages/en/tags.md#tag-triptych) 4 · [`children-illustration`](pages/en/tags.md#tag-children-illustration) 4 · [`splash`](pages/en/tags.md#tag-splash) 4 · [`iphone-photo`](pages/en/tags.md#tag-iphone-photo) 4 · [`japanese-style`](pages/en/tags.md#tag-japanese-style) 4 · [`color-palette`](pages/en/tags.md#tag-color-palette) 4 · [`white-background`](pages/en/tags.md#tag-white-background) 4 · [`grid-collage`](pages/en/tags.md#tag-grid-collage) 4 · [`paper-texture`](pages/en/tags.md#tag-paper-texture) 4 · [`photo-restoration`](pages/en/tags.md#tag-photo-restoration) 4 · [`street-photo`](pages/en/tags.md#tag-street-photo) 4 · [`photo-to-sketch`](pages/en/tags.md#tag-photo-to-sketch) 4 · [`split-composition`](pages/en/tags.md#tag-split-composition) 4 · [`liquid-splash`](pages/en/tags.md#tag-liquid-splash) 4 · [`brand`](pages/en/tags.md#tag-brand) 4 · [`vintage-film`](pages/en/tags.md#tag-vintage-film) 3 · [`documentary-realism`](pages/en/tags.md#tag-documentary-realism) 3 · [`fashion-film`](pages/en/tags.md#tag-fashion-film) 3 · [`orbit`](pages/en/tags.md#tag-orbit) 3 · [`omni-reference`](pages/en/tags.md#tag-omni-reference) 3 · [`morph`](pages/en/tags.md#tag-morph) 3 · [`emotional`](pages/en/tags.md#tag-emotional) 3 · [`camera-push`](pages/en/tags.md#tag-camera-push) 3 · [`street-fighter`](pages/en/tags.md#tag-street-fighter) 3 · [`handheld-pov`](pages/en/tags.md#tag-handheld-pov) 3 · [`sunrise`](pages/en/tags.md#tag-sunrise) 3 · [`calendar`](pages/en/tags.md#tag-calendar) 3 · [`audio-cues`](pages/en/tags.md#tag-audio-cues) 3 · [`motion-poster`](pages/en/tags.md#tag-motion-poster) 3 · [`macro-shot`](pages/en/tags.md#tag-macro-shot) 3 · [`night-market`](pages/en/tags.md#tag-night-market) 3 · [`pets`](pages/en/tags.md#tag-pets) 3 · [`glass`](pages/en/tags.md#tag-glass) 3 · [`rap`](pages/en/tags.md#tag-rap) 3 · [`style-lock`](pages/en/tags.md#tag-style-lock) 3 · [`2d-animation`](pages/en/tags.md#tag-2d-animation) 3 · [`drama`](pages/en/tags.md#tag-drama) 3 · [`sound-effects`](pages/en/tags.md#tag-sound-effects) 3 · [`3d-typography`](pages/en/tags.md#tag-3d-typography) 3 · [`action-thriller`](pages/en/tags.md#tag-action-thriller) 3 · [`morph-transition`](pages/en/tags.md#tag-morph-transition) 3 · [`lotus`](pages/en/tags.md#tag-lotus) 3 · [`sunlight`](pages/en/tags.md#tag-sunlight) 3 · [`matcha`](pages/en/tags.md#tag-matcha) 3 · [`neon-city`](pages/en/tags.md#tag-neon-city) 3 · [`anamorphic`](pages/en/tags.md#tag-anamorphic) 3 · [`office`](pages/en/tags.md#tag-office) 3 · [`beverage-ad`](pages/en/tags.md#tag-beverage-ad) 3 · [`food-commercial`](pages/en/tags.md#tag-food-commercial) 3 · [`lightning`](pages/en/tags.md#tag-lightning) 3 · [`dashboard`](pages/en/tags.md#tag-dashboard) 3 · [`butterflies`](pages/en/tags.md#tag-butterflies) 3 · [`hard-cut`](pages/en/tags.md#tag-hard-cut) 3 · [`trailer`](pages/en/tags.md#tag-trailer) 3 · [`clouds`](pages/en/tags.md#tag-clouds) 3 · [`ocean`](pages/en/tags.md#tag-ocean) 3 · [`video-reference`](pages/en/tags.md#tag-video-reference) 3 · [`split-screen`](pages/en/tags.md#tag-split-screen) 3 · [`texture`](pages/en/tags.md#tag-texture) 3 · [`wallpaper`](pages/en/tags.md#tag-wallpaper) 3 · [`warehouse`](pages/en/tags.md#tag-warehouse) 3 · [`monster`](pages/en/tags.md#tag-monster) 3 · [`dinosaur`](pages/en/tags.md#tag-dinosaur) 3 · [`ink`](pages/en/tags.md#tag-ink) 3 · [`window-light`](pages/en/tags.md#tag-window-light) 3 · [`bamboo-forest`](pages/en/tags.md#tag-bamboo-forest) 3 · [`period`](pages/en/tags.md#tag-period) 3 · [`medieval`](pages/en/tags.md#tag-medieval) 3 · [`battle`](pages/en/tags.md#tag-battle) 3 · [`felt`](pages/en/tags.md#tag-felt) 3 · [`family-comedy`](pages/en/tags.md#tag-family-comedy) 3 · [`toddler`](pages/en/tags.md#tag-toddler) 3 · [`airport`](pages/en/tags.md#tag-airport) 3 · [`pop-out`](pages/en/tags.md#tag-pop-out) 3 · [`camera-movement`](pages/en/tags.md#tag-camera-movement) 3 · [`timed-segments`](pages/en/tags.md#tag-timed-segments) 3 · [`industrial`](pages/en/tags.md#tag-industrial) 3 · [`portal`](pages/en/tags.md#tag-portal) 3 · [`lip sync`](pages/en/tags.md#tag-lipsync) 3 · [`korean-drama`](pages/en/tags.md#tag-korean-drama) 3 · [`chinese-painting`](pages/en/tags.md#tag-chinese-painting) 3 · [`stunt`](pages/en/tags.md#tag-stunt) 3 · [`concert`](pages/en/tags.md#tag-concert) 3 · [`shot-sequence`](pages/en/tags.md#tag-shot-sequence) 3 · [`dv-look`](pages/en/tags.md#tag-dv-look) 3 · [`fire`](pages/en/tags.md#tag-fire) 3 · [`image-reference`](pages/en/tags.md#tag-image-reference) 3 · [`smartphone-footage`](pages/en/tags.md#tag-smartphone-footage) 3 · [`night-rain`](pages/en/tags.md#tag-night-rain) 3 · [`garden`](pages/en/tags.md#tag-garden) 3 · [`water-splash`](pages/en/tags.md#tag-water-splash) 3 · [`hanfu`](pages/en/tags.md#tag-hanfu) 3 · [`fairy-tale`](pages/en/tags.md#tag-fairy-tale) 3 · [`japanese-school`](pages/en/tags.md#tag-japanese-school) 3 · [`fantasy-action`](pages/en/tags.md#tag-fantasy-action) 3 · [`mixed-reality`](pages/en/tags.md#tag-mixed-reality) 3 · [`new-york`](pages/en/tags.md#tag-new-york) 3 · [`jewelry`](pages/en/tags.md#tag-jewelry) 3 · [`temple`](pages/en/tags.md#tag-temple) 3 · [`game-art`](pages/en/tags.md#tag-game-art) 3 · [`scroll`](pages/en/tags.md#tag-scroll) 3 · [`reference-sheet`](pages/en/tags.md#tag-reference-sheet) 3 · [`skin-texture`](pages/en/tags.md#tag-skin-texture) 3 · [`camera`](pages/en/tags.md#tag-camera) 3 · [`smartphone`](pages/en/tags.md#tag-smartphone) 3 · [`amigurumi`](pages/en/tags.md#tag-amigurumi) 3 · [`fashion-illustration`](pages/en/tags.md#tag-fashion-illustration) 3 · [`magazine-cover`](pages/en/tags.md#tag-magazine-cover) 3 · [`key-visual`](pages/en/tags.md#tag-key-visual) 3 · [`style-conversion`](pages/en/tags.md#tag-style-conversion) 3 · [`e-commerce`](pages/en/tags.md#tag-e-commerce) 3 · [`graphite`](pages/en/tags.md#tag-graphite) 3 · [`city-map`](pages/en/tags.md#tag-city-map) 3 · [`face-consistency`](pages/en/tags.md#tag-face-consistency) 3 · [`cutout`](pages/en/tags.md#tag-cutout) 3 · [`design-system`](pages/en/tags.md#tag-design-system) 3 · [`light-mode`](pages/en/tags.md#tag-light-mode) 3 · [`beauty-portrait`](pages/en/tags.md#tag-beauty-portrait) 3 · [`camera-roll`](pages/en/tags.md#tag-camera-roll) 3 · [`film`](pages/en/tags.md#tag-film) 3 · [`candlelight`](pages/en/tags.md#tag-candlelight) 3 · [`3d-caricature`](pages/en/tags.md#tag-3d-caricature) 3 · [`food-ad`](pages/en/tags.md#tag-food-ad) 3 · [`calligraphy`](pages/en/tags.md#tag-calligraphy) 3 · [`saas`](pages/en/tags.md#tag-saas) 3 · [`comic`](pages/en/tags.md#tag-comic) 3 · [`profile`](pages/en/tags.md#tag-profile) 3 · [`16-9`](pages/en/tags.md#tag-16-9) 3 · [`product-design`](pages/en/tags.md#tag-product-design) 3 · [`expression-grid`](pages/en/tags.md#tag-expression-grid) 3 · [`low-key`](pages/en/tags.md#tag-low-key) 3 · [`chrome`](pages/en/tags.md#tag-chrome) 3 · [`art-studio`](pages/en/tags.md#tag-art-studio) 3 · [`mural`](pages/en/tags.md#tag-mural) 3 · [`photo-collage`](pages/en/tags.md#tag-photo-collage) 3 · [`engineering`](pages/en/tags.md#tag-engineering) 3 · [`9-16`](pages/en/tags.md#tag-9-16) 3 · [`dramatic-lighting`](pages/en/tags.md#tag-dramatic-lighting) 3 · [`strawberry`](pages/en/tags.md#tag-strawberry) 3 · [`portrait-collage`](pages/en/tags.md#tag-portrait-collage) 3 · [`watch`](pages/en/tags.md#tag-watch) 3 · [`campaign-poster`](pages/en/tags.md#tag-campaign-poster) 3 · [`surreal-scale`](pages/en/tags.md#tag-surreal-scale) 3 · [`panoramic`](pages/en/tags.md#tag-panoramic) 3 · [`ad-poster`](pages/en/tags.md#tag-ad-poster) 3 · [`ink-illustration`](pages/en/tags.md#tag-ink-illustration) 3 · [`group-portrait`](pages/en/tags.md#tag-group-portrait) 3 · [`knitwear`](pages/en/tags.md#tag-knitwear) 3 · [`mid-century`](pages/en/tags.md#tag-mid-century) 3 · [`history`](pages/en/tags.md#tag-history) 3 · [`disintegration`](pages/en/tags.md#tag-disintegration) 3 · [`dessert`](pages/en/tags.md#tag-dessert) 3 · [`palette-knife`](pages/en/tags.md#tag-palette-knife) 3 · [`paper-cut`](pages/en/tags.md#tag-paper-cut) 3 · [`text-layout`](pages/en/tags.md#tag-text-layout) 3 · [`textile`](pages/en/tags.md#tag-textile) 3 · [`ink-doodle`](pages/en/tags.md#tag-ink-doodle) 3 · [`local-edit`](pages/en/tags.md#tag-local-edit) 3 · [`brand-poster`](pages/en/tags.md#tag-brand-poster) 3 · [`upscale`](pages/en/tags.md#tag-upscale) 3 · [`color-analysis`](pages/en/tags.md#tag-color-analysis) 3 · [`magazine`](pages/en/tags.md#tag-magazine) 3 · [`skyline`](pages/en/tags.md#tag-skyline) 3 · [`advertisement`](pages/en/tags.md#tag-advertisement) 3 · [`paper-cutout`](pages/en/tags.md#tag-paper-cutout) 3 · [`memory-card`](pages/en/tags.md#tag-memory-card) 3 · [`hard-light`](pages/en/tags.md#tag-hard-light) 3 · [`naive-art`](pages/en/tags.md#tag-naive-art) 3 · [`chinese-style`](pages/en/tags.md#tag-chinese-style) 3 · [`product-mockup`](pages/en/tags.md#tag-product-mockup) 3 · [`macro-photography`](pages/en/tags.md#tag-macro-photography) 3 · [`phone-photo`](pages/en/tags.md#tag-phone-photo) 3 · [`iphone-style`](pages/en/tags.md#tag-iphone-style) 3 · [`photo-reference`](pages/en/tags.md#tag-photo-reference) 3 · [`warm-tones`](pages/en/tags.md#tag-warm-tones) 3 · [`dark-background`](pages/en/tags.md#tag-dark-background) 3 · [`logo-design`](pages/en/tags.md#tag-logo-design) 3 · [`xiaohongshu`](pages/en/tags.md#tag-xiaohongshu) 3 · [`parchment`](pages/en/tags.md#tag-parchment) 3 · [`cinematic-portrait`](pages/en/tags.md#tag-cinematic-portrait) 3 · [`chocolate`](pages/en/tags.md#tag-chocolate) 3 · [`figurine`](pages/en/tags.md#tag-figurine) 3 · [`soft-lighting`](pages/en/tags.md#tag-soft-lighting) 3
+[`portrait`](pages/en/tags.md#tag-portrait) 220 · [`fashion`](pages/en/tags.md#tag-fashion) 144 · [`template`](pages/en/tags.md#tag-template) 124 · [`anime`](pages/en/tags.md#tag-anime) 114 · [`multi-shot`](pages/en/tags.md#tag-multi-shot) 113 · [`typography`](pages/en/tags.md#tag-typography) 108 · [`cinematic`](pages/en/tags.md#tag-cinematic) 106 · [`editorial`](pages/en/tags.md#tag-editorial) 92 · [`handheld`](pages/en/tags.md#tag-handheld) 90 · [`dialogue`](pages/en/tags.md#tag-dialogue) 87 · [`golden-hour`](pages/en/tags.md#tag-golden-hour) 83 · [`photorealistic`](pages/en/tags.md#tag-photorealistic) 79 · [`christmas`](pages/en/tags.md#tag-christmas) 73 · [`character-consistency`](pages/en/tags.md#tag-character-consistency) 69 · [`reference-image`](pages/en/tags.md#tag-reference-image) 67 · [`macro`](pages/en/tags.md#tag-macro) 67 · [`infographic`](pages/en/tags.md#tag-infographic) 64 · [`storyboard`](pages/en/tags.md#tag-storyboard) 62 · [`fantasy`](pages/en/tags.md#tag-fantasy) 61 · [`json-prompt`](pages/en/tags.md#tag-json-prompt) 61 · [`selfie`](pages/en/tags.md#tag-selfie) 54 · [`action`](pages/en/tags.md#tag-action) 51 · [`collage`](pages/en/tags.md#tag-collage) 51 · [`miniature`](pages/en/tags.md#tag-miniature) 50 · [`reference-images`](pages/en/tags.md#tag-reference-images) 48 · [`travel-poster`](pages/en/tags.md#tag-travel-poster) 48 · [`food`](pages/en/tags.md#tag-food) 46 · [`vlog`](pages/en/tags.md#tag-vlog) 43 · [`poster`](pages/en/tags.md#tag-poster) 43 · [`timed-beats`](pages/en/tags.md#tag-timed-beats) 42 · [`comedy`](pages/en/tags.md#tag-comedy) 41 · [`studio-lighting`](pages/en/tags.md#tag-studio-lighting) 39 · [`watercolor`](pages/en/tags.md#tag-watercolor) 37 · [`diorama`](pages/en/tags.md#tag-diorama) 37 · [`sound-design`](pages/en/tags.md#tag-sound-design) 36 · [`vertical`](pages/en/tags.md#tag-vertical) 36 · [`identity-lock`](pages/en/tags.md#tag-identity-lock) 36 · [`product-ad`](pages/en/tags.md#tag-product-ad) 35 · [`lifestyle`](pages/en/tags.md#tag-lifestyle) 35 · [`film-grain`](pages/en/tags.md#tag-film-grain) 35 · [`character-sheet`](pages/en/tags.md#tag-character-sheet) 34 · [`martial-arts`](pages/en/tags.md#tag-martial-arts) 34 · [`grid`](pages/en/tags.md#tag-grid) 34 · [`chibi`](pages/en/tags.md#tag-chibi) 33 · [`travel`](pages/en/tags.md#tag-travel) 32 · [`pastel`](pages/en/tags.md#tag-pastel) 32 · [`surreal`](pages/en/tags.md#tag-surreal) 31 · [`reference-photo`](pages/en/tags.md#tag-reference-photo) 31 · [`monochrome`](pages/en/tags.md#tag-monochrome) 31 · [`timed-shots`](pages/en/tags.md#tag-timed-shots) 29 · [`rain`](pages/en/tags.md#tag-rain) 29 · [`tracking-shot`](pages/en/tags.md#tag-tracking-shot) 29 · [`lip-sync`](pages/en/tags.md#tag-lip-sync) 27 · [`character-reference`](pages/en/tags.md#tag-character-reference) 27 · [`sci-fi`](pages/en/tags.md#tag-sci-fi) 27 · [`3d-animation`](pages/en/tags.md#tag-3d-animation) 26 · [`transformation`](pages/en/tags.md#tag-transformation) 26 · [`candid`](pages/en/tags.md#tag-candid) 26 · [`luxury`](pages/en/tags.md#tag-luxury) 25 · [`low-angle`](pages/en/tags.md#tag-low-angle) 25 · [`architecture`](pages/en/tags.md#tag-architecture) 24 · [`dark-fantasy`](pages/en/tags.md#tag-dark-fantasy) 24 · [`night`](pages/en/tags.md#tag-night) 24 · [`streetwear`](pages/en/tags.md#tag-streetwear) 24 · [`doodle`](pages/en/tags.md#tag-doodle) 24 · [`multi-scene`](pages/en/tags.md#tag-multi-scene) 23 · [`scrapbook`](pages/en/tags.md#tag-scrapbook) 23 · [`3d-render`](pages/en/tags.md#tag-3d-render) 23 · [`ugc`](pages/en/tags.md#tag-ugc) 22 · [`slow-motion`](pages/en/tags.md#tag-slow-motion) 22 · [`fashion-editorial`](pages/en/tags.md#tag-fashion-editorial) 22 · [`face-reference`](pages/en/tags.md#tag-face-reference) 22 · [`split-layout`](pages/en/tags.md#tag-split-layout) 22 · [`isometric`](pages/en/tags.md#tag-isometric) 22 · [`commercial`](pages/en/tags.md#tag-commercial) 21 · [`long-take`](pages/en/tags.md#tag-long-take) 21 · [`cafe`](pages/en/tags.md#tag-cafe) 21 · [`landscape`](pages/en/tags.md#tag-landscape) 21 · [`pixel-art`](pages/en/tags.md#tag-pixel-art) 21 · [`couple`](pages/en/tags.md#tag-couple) 21 · [`music-video`](pages/en/tags.md#tag-music-video) 20 · [`neon`](pages/en/tags.md#tag-neon) 20 · [`motion-graphics`](pages/en/tags.md#tag-motion-graphics) 20 · [`dragon`](pages/en/tags.md#tag-dragon) 20 · [`pov`](pages/en/tags.md#tag-pov) 20 · [`studio-portrait`](pages/en/tags.md#tag-studio-portrait) 20 · [`character-lock`](pages/en/tags.md#tag-character-lock) 19 · [`horror`](pages/en/tags.md#tag-horror) 19 · [`black-and-white`](pages/en/tags.md#tag-black-and-white) 19 · [`film-look`](pages/en/tags.md#tag-film-look) 19 · [`sunset`](pages/en/tags.md#tag-sunset) 19 · [`vintage`](pages/en/tags.md#tag-vintage) 19 · [`minimalist`](pages/en/tags.md#tag-minimalist) 19 · [`documentary`](pages/en/tags.md#tag-documentary) 18 · [`shot-list`](pages/en/tags.md#tag-shot-list) 18 · [`korean`](pages/en/tags.md#tag-korean) 18 · [`editorial-poster`](pages/en/tags.md#tag-editorial-poster) 18 · [`dance`](pages/en/tags.md#tag-dance) 17 · [`beauty`](pages/en/tags.md#tag-beauty) 17 · [`retro`](pages/en/tags.md#tag-retro) 17 · [`double-exposure`](pages/en/tags.md#tag-double-exposure) 17 · [`bokeh`](pages/en/tags.md#tag-bokeh) 16 · [`motion-blur`](pages/en/tags.md#tag-motion-blur) 16 · [`character`](pages/en/tags.md#tag-character) 16 · [`studio`](pages/en/tags.md#tag-studio) 16 · [`mixed-media`](pages/en/tags.md#tag-mixed-media) 16 · [`pixar-style`](pages/en/tags.md#tag-pixar-style) 16 · [`sports`](pages/en/tags.md#tag-sports) 15 · [`oil-painting`](pages/en/tags.md#tag-oil-painting) 15 · [`cat`](pages/en/tags.md#tag-cat) 15 · [`landmark`](pages/en/tags.md#tag-landmark) 15 · [`food-photography`](pages/en/tags.md#tag-food-photography) 15 · [`photo-to-illustration`](pages/en/tags.md#tag-photo-to-illustration) 15 · [`timeline`](pages/en/tags.md#tag-timeline) 14 · [`title-sequence`](pages/en/tags.md#tag-title-sequence) 14 · [`city`](pages/en/tags.md#tag-city) 14 · [`storybook`](pages/en/tags.md#tag-storybook) 14 · [`negative-space`](pages/en/tags.md#tag-negative-space) 14 · [`kinetic-typography`](pages/en/tags.md#tag-kinetic-typography) 13 · [`multi-reference`](pages/en/tags.md#tag-multi-reference) 13 · [`first-person`](pages/en/tags.md#tag-first-person) 13 · [`chase`](pages/en/tags.md#tag-chase) 13 · [`dv-camcorder`](pages/en/tags.md#tag-dv-camcorder) 13 · [`animals`](pages/en/tags.md#tag-animals) 13 · [`cyberpunk`](pages/en/tags.md#tag-cyberpunk) 13 · [`flat-vector`](pages/en/tags.md#tag-flat-vector) 13 · [`hand-drawn`](pages/en/tags.md#tag-hand-drawn) 13 · [`japanese`](pages/en/tags.md#tag-japanese) 13 · [`identity-reference`](pages/en/tags.md#tag-identity-reference) 13 · [`handheld-camera`](pages/en/tags.md#tag-handheld-camera) 13 · [`style-transfer`](pages/en/tags.md#tag-style-transfer) 13 · [`close-up`](pages/en/tags.md#tag-close-up) 13 · [`home-video`](pages/en/tags.md#tag-home-video) 13 · [`advertising`](pages/en/tags.md#tag-advertising) 13 · [`packaging`](pages/en/tags.md#tag-packaging) 13 · [`smartphone-photo`](pages/en/tags.md#tag-smartphone-photo) 13 · [`line-art`](pages/en/tags.md#tag-line-art) 12 · [`one-take`](pages/en/tags.md#tag-one-take) 12 · [`travel-vlog`](pages/en/tags.md#tag-travel-vlog) 12 · [`winter`](pages/en/tags.md#tag-winter) 12 · [`street-style`](pages/en/tags.md#tag-street-style) 12 · [`silhouette`](pages/en/tags.md#tag-silhouette) 12 · [`desert`](pages/en/tags.md#tag-desert) 12 · [`y2k`](pages/en/tags.md#tag-y2k) 12 · [`flash-photography`](pages/en/tags.md#tag-flash-photography) 12 · [`layout`](pages/en/tags.md#tag-layout) 12 · [`sketchbook`](pages/en/tags.md#tag-sketchbook) 12 · [`chinese-text`](pages/en/tags.md#tag-chinese-text) 12 · [`product-photography`](pages/en/tags.md#tag-product-photography) 12 · [`game-ui`](pages/en/tags.md#tag-game-ui) 11 · [`slice-of-life`](pages/en/tags.md#tag-slice-of-life) 11 · [`vfx`](pages/en/tags.md#tag-vfx) 11 · [`japan`](pages/en/tags.md#tag-japan) 11 · [`exploded-view`](pages/en/tags.md#tag-exploded-view) 11 · [`japanese-text`](pages/en/tags.md#tag-japanese-text) 11 · [`product-shot`](pages/en/tags.md#tag-product-shot) 11 · [`realism`](pages/en/tags.md#tag-realism) 11 · [`skincare`](pages/en/tags.md#tag-skincare) 11 · [`turnaround`](pages/en/tags.md#tag-turnaround) 11 · [`stop-motion`](pages/en/tags.md#tag-stop-motion) 11 · [`hud`](pages/en/tags.md#tag-hud) 11 · [`grid-layout`](pages/en/tags.md#tag-grid-layout) 11 · [`photo-to-art`](pages/en/tags.md#tag-photo-to-art) 11 · [`campaign`](pages/en/tags.md#tag-campaign) 11 · [`forced-perspective`](pages/en/tags.md#tag-forced-perspective) 11 · [`autumn`](pages/en/tags.md#tag-autumn) 10 · [`fitness`](pages/en/tags.md#tag-fitness) 10 · [`locked-camera`](pages/en/tags.md#tag-locked-camera) 10 · [`continuity`](pages/en/tags.md#tag-continuity) 10 · [`aerial`](pages/en/tags.md#tag-aerial) 10 · [`beverage`](pages/en/tags.md#tag-beverage) 10 · [`impasto`](pages/en/tags.md#tag-impasto) 10 · [`halftone`](pages/en/tags.md#tag-halftone) 10 · [`perfume`](pages/en/tags.md#tag-perfume) 10 · [`product-commercial`](pages/en/tags.md#tag-product-commercial) 10 · [`pencil-sketch`](pages/en/tags.md#tag-pencil-sketch) 10 · [`street-photography`](pages/en/tags.md#tag-street-photography) 10 · [`consistency`](pages/en/tags.md#tag-consistency) 10 · [`photorealism`](pages/en/tags.md#tag-photorealism) 10 · [`doodle-overlay`](pages/en/tags.md#tag-doodle-overlay) 10 · [`85mm`](pages/en/tags.md#tag-85mm) 10 · [`camera-moves`](pages/en/tags.md#tag-camera-moves) 9 · [`timeline-prompt`](pages/en/tags.md#tag-timeline-prompt) 9 · [`outfit-change`](pages/en/tags.md#tag-outfit-change) 9 · [`cooking`](pages/en/tags.md#tag-cooking) 9 · [`camera-move`](pages/en/tags.md#tag-camera-move) 9 · [`wildlife`](pages/en/tags.md#tag-wildlife) 9 · [`voiceover`](pages/en/tags.md#tag-voiceover) 9 · [`product`](pages/en/tags.md#tag-product) 9 · [`cartoon`](pages/en/tags.md#tag-cartoon) 9 · [`single-take`](pages/en/tags.md#tag-single-take) 9 · [`structured-prompt`](pages/en/tags.md#tag-structured-prompt) 9 · [`motorcycle`](pages/en/tags.md#tag-motorcycle) 9 · [`seoul`](pages/en/tags.md#tag-seoul) 9 · [`tokyo`](pages/en/tags.md#tag-tokyo) 9 · [`pet`](pages/en/tags.md#tag-pet) 9 · [`mirror-selfie`](pages/en/tags.md#tag-mirror-selfie) 9 · [`logo`](pages/en/tags.md#tag-logo) 9 · [`street`](pages/en/tags.md#tag-street) 9 · [`family`](pages/en/tags.md#tag-family) 9 · [`cityscape`](pages/en/tags.md#tag-cityscape) 9 · [`photo-edit`](pages/en/tags.md#tag-photo-edit) 9 · [`menswear`](pages/en/tags.md#tag-menswear) 9 · [`reference-face`](pages/en/tags.md#tag-reference-face) 9 · [`product-poster`](pages/en/tags.md#tag-product-poster) 9 · [`kawaii`](pages/en/tags.md#tag-kawaii) 9 · [`fisheye`](pages/en/tags.md#tag-fisheye) 9 · [`cinematic-lighting`](pages/en/tags.md#tag-cinematic-lighting) 9 · [`historical`](pages/en/tags.md#tag-historical) 8 · [`beat-sync`](pages/en/tags.md#tag-beat-sync) 8 · [`ambient-audio`](pages/en/tags.md#tag-ambient-audio) 8 · [`coastal`](pages/en/tags.md#tag-coastal) 8 · [`underwater`](pages/en/tags.md#tag-underwater) 8 · [`automotive`](pages/en/tags.md#tag-automotive) 8 · [`reference-lock`](pages/en/tags.md#tag-reference-lock) 8 · [`animal`](pages/en/tags.md#tag-animal) 8 · [`reflection`](pages/en/tags.md#tag-reflection) 8 · [`creature`](pages/en/tags.md#tag-creature) 8 · [`bedroom`](pages/en/tags.md#tag-bedroom) 8 · [`ink-wash`](pages/en/tags.md#tag-ink-wash) 8 · [`sword-fight`](pages/en/tags.md#tag-sword-fight) 8 · [`asmr`](pages/en/tags.md#tag-asmr) 8 · [`text-rendering`](pages/en/tags.md#tag-text-rendering) 8 · [`mascot`](pages/en/tags.md#tag-mascot) 8 · [`beach`](pages/en/tags.md#tag-beach) 8 · [`interior`](pages/en/tags.md#tag-interior) 8 · [`street-fashion`](pages/en/tags.md#tag-street-fashion) 8 · [`wuxia`](pages/en/tags.md#tag-wuxia) 8 · [`fight-scene`](pages/en/tags.md#tag-fight-scene) 8 · [`video-edit`](pages/en/tags.md#tag-video-edit) 8 · [`animation`](pages/en/tags.md#tag-animation) 8 · [`snow`](pages/en/tags.md#tag-snow) 8 · [`superhero`](pages/en/tags.md#tag-superhero) 8 · [`nature`](pages/en/tags.md#tag-nature) 8 · [`illustration`](pages/en/tags.md#tag-illustration) 8 · [`social-media`](pages/en/tags.md#tag-social-media) 8 · [`sticker`](pages/en/tags.md#tag-sticker) 8 · [`blueprint`](pages/en/tags.md#tag-blueprint) 8 · [`full-body`](pages/en/tags.md#tag-full-body) 8 · [`tilt-shift`](pages/en/tags.md#tag-tilt-shift) 8 · [`screen-print`](pages/en/tags.md#tag-screen-print) 8 · [`sketch`](pages/en/tags.md#tag-sketch) 8 · [`editorial-layout`](pages/en/tags.md#tag-editorial-layout) 8 · [`natural-light`](pages/en/tags.md#tag-natural-light) 8 · [`education`](pages/en/tags.md#tag-education) 7 · [`music`](pages/en/tags.md#tag-music) 7 · [`product-reference`](pages/en/tags.md#tag-product-reference) 7 · [`storytelling`](pages/en/tags.md#tag-storytelling) 7 · [`samurai`](pages/en/tags.md#tag-samurai) 7 · [`night-street`](pages/en/tags.md#tag-night-street) 7 · [`multi-angle`](pages/en/tags.md#tag-multi-angle) 7 · [`night-city`](pages/en/tags.md#tag-night-city) 7 · [`golden-light`](pages/en/tags.md#tag-golden-light) 7 · [`cherry-blossom`](pages/en/tags.md#tag-cherry-blossom) 7 · [`rooftop`](pages/en/tags.md#tag-rooftop) 7 · [`realistic`](pages/en/tags.md#tag-realistic) 7 · [`reference-identity`](pages/en/tags.md#tag-reference-identity) 7 · [`urban`](pages/en/tags.md#tag-urban) 7 · [`text-render`](pages/en/tags.md#tag-text-render) 7 · [`photoreal`](pages/en/tags.md#tag-photoreal) 7 · [`shallow-depth-of-field`](pages/en/tags.md#tag-shallow-depth-of-field) 7 · [`day-in-the-life`](pages/en/tags.md#tag-day-in-the-life) 7 · [`morning-routine`](pages/en/tags.md#tag-morning-routine) 7 · [`paper-craft`](pages/en/tags.md#tag-paper-craft) 7 · [`papercraft`](pages/en/tags.md#tag-papercraft) 7 · [`cute`](pages/en/tags.md#tag-cute) 7 · [`football`](pages/en/tags.md#tag-football) 7 · [`backlight`](pages/en/tags.md#tag-backlight) 7 · [`identity-consistency`](pages/en/tags.md#tag-identity-consistency) 7 · [`chinese-typography`](pages/en/tags.md#tag-chinese-typography) 7 · [`sprite-sheet`](pages/en/tags.md#tag-sprite-sheet) 7 · [`celebrity`](pages/en/tags.md#tag-celebrity) 7 · [`timelapse`](pages/en/tags.md#tag-timelapse) 6 · [`japanese-dialogue`](pages/en/tags.md#tag-japanese-dialogue) 6 · [`product-reveal`](pages/en/tags.md#tag-product-reveal) 6 · [`selfie-vlog`](pages/en/tags.md#tag-selfie-vlog) 6 · [`montage`](pages/en/tags.md#tag-montage) 6 · [`k-pop`](pages/en/tags.md#tag-k-pop) 6 · [`forest`](pages/en/tags.md#tag-forest) 6 · [`gothic`](pages/en/tags.md#tag-gothic) 6 · [`match-cut`](pages/en/tags.md#tag-match-cut) 6 · [`camera-tracking`](pages/en/tags.md#tag-camera-tracking) 6 · [`educational`](pages/en/tags.md#tag-educational) 6 · [`timed-scenes`](pages/en/tags.md#tag-timed-scenes) 6 · [`botanical`](pages/en/tags.md#tag-botanical) 6 · [`paris`](pages/en/tags.md#tag-paris) 6 · [`sfx`](pages/en/tags.md#tag-sfx) 6 · [`camcorder`](pages/en/tags.md#tag-camcorder) 6 · [`lo-fi`](pages/en/tags.md#tag-lo-fi) 6 · [`fight-choreography`](pages/en/tags.md#tag-fight-choreography) 6 · [`seaside`](pages/en/tags.md#tag-seaside) 6 · [`wide-angle`](pages/en/tags.md#tag-wide-angle) 6 · [`gameplay`](pages/en/tags.md#tag-gameplay) 6 · [`kitchen`](pages/en/tags.md#tag-kitchen) 6 · [`embroidery`](pages/en/tags.md#tag-embroidery) 6 · [`restaurant`](pages/en/tags.md#tag-restaurant) 6 · [`scale-contrast`](pages/en/tags.md#tag-scale-contrast) 6 · [`crowd`](pages/en/tags.md#tag-crowd) 6 · [`birthday`](pages/en/tags.md#tag-birthday) 6 · [`photobooth`](pages/en/tags.md#tag-photobooth) 6 · [`identity-preserve`](pages/en/tags.md#tag-identity-preserve) 6 · [`before-after`](pages/en/tags.md#tag-before-after) 6 · [`japanese-typography`](pages/en/tags.md#tag-japanese-typography) 6 · [`pop-art`](pages/en/tags.md#tag-pop-art) 6 · [`screenshot`](pages/en/tags.md#tag-screenshot) 6 · [`colored-pencil`](pages/en/tags.md#tag-colored-pencil) 6 · [`recipe`](pages/en/tags.md#tag-recipe) 6 · [`doodles`](pages/en/tags.md#tag-doodles) 6 · [`brand-identity`](pages/en/tags.md#tag-brand-identity) 6 · [`concept-art`](pages/en/tags.md#tag-concept-art) 6 · [`chiaroscuro`](pages/en/tags.md#tag-chiaroscuro) 6 · [`expressions`](pages/en/tags.md#tag-expressions) 6 · [`product-photo`](pages/en/tags.md#tag-product-photo) 6 · [`map`](pages/en/tags.md#tag-map) 6 · [`product-render`](pages/en/tags.md#tag-product-render) 6 · [`mockup`](pages/en/tags.md#tag-mockup) 6 · [`limited-palette`](pages/en/tags.md#tag-limited-palette) 6 · [`3d`](pages/en/tags.md#tag-3d) 6 · [`labels`](pages/en/tags.md#tag-labels) 6 · [`vintage-film`](pages/en/tags.md#tag-vintage-film) 5 · [`kids`](pages/en/tags.md#tag-kids) 5 · [`audio-sync`](pages/en/tags.md#tag-audio-sync) 5 · [`paper-collage`](pages/en/tags.md#tag-paper-collage) 5 · [`fps`](pages/en/tags.md#tag-fps) 5 · [`korean-dialogue`](pages/en/tags.md#tag-korean-dialogue) 5 · [`noir`](pages/en/tags.md#tag-noir) 5 · [`transition`](pages/en/tags.md#tag-transition) 5 · [`cel-shading`](pages/en/tags.md#tag-cel-shading) 5 · [`reference-character`](pages/en/tags.md#tag-reference-character) 5 · [`kids-education`](pages/en/tags.md#tag-kids-education) 5 · [`time-lapse`](pages/en/tags.md#tag-time-lapse) 5 · [`reference-video`](pages/en/tags.md#tag-reference-video) 5 · [`storm`](pages/en/tags.md#tag-storm) 5 · [`skateboard`](pages/en/tags.md#tag-skateboard) 5 · [`timestamped-shots`](pages/en/tags.md#tag-timestamped-shots) 5 · [`diegetic-sound`](pages/en/tags.md#tag-diegetic-sound) 5 · [`timestamped`](pages/en/tags.md#tag-timestamped) 5 · [`manga`](pages/en/tags.md#tag-manga) 5 · [`moonlight`](pages/en/tags.md#tag-moonlight) 5 · [`chinese-dialogue`](pages/en/tags.md#tag-chinese-dialogue) 5 · [`nostalgic`](pages/en/tags.md#tag-nostalgic) 5 · [`speed-ramp`](pages/en/tags.md#tag-speed-ramp) 5 · [`native-audio`](pages/en/tags.md#tag-native-audio) 5 · [`found-footage`](pages/en/tags.md#tag-found-footage) 5 · [`physics`](pages/en/tags.md#tag-physics) 5 · [`multi-character`](pages/en/tags.md#tag-multi-character) 5 · [`multilingual`](pages/en/tags.md#tag-multilingual) 5 · [`object-swap`](pages/en/tags.md#tag-object-swap) 5 · [`claymation`](pages/en/tags.md#tag-claymation) 5 · [`live-action`](pages/en/tags.md#tag-live-action) 5 · [`multishot`](pages/en/tags.md#tag-multishot) 5 · [`romance`](pages/en/tags.md#tag-romance) 5 · [`clay`](pages/en/tags.md#tag-clay) 5 · [`zombie`](pages/en/tags.md#tag-zombie) 5 · [`choreography`](pages/en/tags.md#tag-choreography) 5 · [`open-world`](pages/en/tags.md#tag-open-world) 5 · [`comparison`](pages/en/tags.md#tag-comparison) 5 · [`negative-prompt`](pages/en/tags.md#tag-negative-prompt) 5 · [`gym`](pages/en/tags.md#tag-gym) 5 · [`minidv`](pages/en/tags.md#tag-minidv) 5 · [`thriller`](pages/en/tags.md#tag-thriller) 5 · [`painterly`](pages/en/tags.md#tag-painterly) 5 · [`lookbook`](pages/en/tags.md#tag-lookbook) 5 · [`80s`](pages/en/tags.md#tag-80s) 5 · [`film`](pages/en/tags.md#tag-film) 5 · [`low-light`](pages/en/tags.md#tag-low-light) 5 · [`photo-reference`](pages/en/tags.md#tag-photo-reference) 5 · [`color-palette`](pages/en/tags.md#tag-color-palette) 5 · [`personalized`](pages/en/tags.md#tag-personalized) 5 · [`photo-restoration`](pages/en/tags.md#tag-photo-restoration) 5 · [`street-portrait`](pages/en/tags.md#tag-street-portrait) 5 · [`pose-sheet`](pages/en/tags.md#tag-pose-sheet) 5 · [`street-art`](pages/en/tags.md#tag-street-art) 5 · [`minimal`](pages/en/tags.md#tag-minimal) 5 · [`fashion-portrait`](pages/en/tags.md#tag-fashion-portrait) 5 · [`floral`](pages/en/tags.md#tag-floral) 5 · [`santa`](pages/en/tags.md#tag-santa) 5 · [`contact-sheet`](pages/en/tags.md#tag-contact-sheet) 5 · [`crayon`](pages/en/tags.md#tag-crayon) 5 · [`travel-journal`](pages/en/tags.md#tag-travel-journal) 5 · [`ink-sketch`](pages/en/tags.md#tag-ink-sketch) 5 · [`photo-dump`](pages/en/tags.md#tag-photo-dump) 5 · [`identity-preservation`](pages/en/tags.md#tag-identity-preservation) 5 · [`geometric`](pages/en/tags.md#tag-geometric) 5 · [`fan-art`](pages/en/tags.md#tag-fan-art) 5 · [`polaroid`](pages/en/tags.md#tag-polaroid) 5 · [`risograph`](pages/en/tags.md#tag-risograph) 5 · [`graffiti`](pages/en/tags.md#tag-graffiti) 5 · [`snow-globe`](pages/en/tags.md#tag-snow-globe) 5 · [`sunglasses`](pages/en/tags.md#tag-sunglasses) 5 · [`agent-editing`](pages/en/tags.md#tag-agent-editing) 5 · [`ffmpeg`](pages/en/tags.md#tag-ffmpeg) 5 · [`halloween`](pages/en/tags.md#tag-halloween) 4 · [`hard-cuts`](pages/en/tags.md#tag-hard-cuts) 4 · [`subtitles`](pages/en/tags.md#tag-subtitles) 4 · [`continuous-shot`](pages/en/tags.md#tag-continuous-shot) 4 · [`construction`](pages/en/tags.md#tag-construction) 4 · [`brutalist`](pages/en/tags.md#tag-brutalist) 4 · [`night-scene`](pages/en/tags.md#tag-night-scene) 4 · [`convenience-store`](pages/en/tags.md#tag-convenience-store) 4 · [`sunrise`](pages/en/tags.md#tag-sunrise) 4 · [`vertical-video`](pages/en/tags.md#tag-vertical-video) 4 · [`short-film`](pages/en/tags.md#tag-short-film) 4 · [`landing-page`](pages/en/tags.md#tag-landing-page) 4 · [`anime-action`](pages/en/tags.md#tag-anime-action) 4 · [`game-hud`](pages/en/tags.md#tag-game-hud) 4 · [`fpv-drone`](pages/en/tags.md#tag-fpv-drone) 4 · [`makeup`](pages/en/tags.md#tag-makeup) 4 · [`multi-cut`](pages/en/tags.md#tag-multi-cut) 4 · [`volcano`](pages/en/tags.md#tag-volcano) 4 · [`volumetric-light`](pages/en/tags.md#tag-volumetric-light) 4 · [`minimax-h3`](pages/en/tags.md#tag-minimax-h3) 4 · [`seamless-loop`](pages/en/tags.md#tag-seamless-loop) 4 · [`sitcom`](pages/en/tags.md#tag-sitcom) 4 · [`fashion-ad`](pages/en/tags.md#tag-fashion-ad) 4 · [`livestream`](pages/en/tags.md#tag-livestream) 4 · [`slow motion`](pages/en/tags.md#tag-slowmotion) 4 · [`humor`](pages/en/tags.md#tag-humor) 4 · [`xianxia`](pages/en/tags.md#tag-xianxia) 4 · [`push-in`](pages/en/tags.md#tag-push-in) 4 · [`static-camera`](pages/en/tags.md#tag-static-camera) 4 · [`ambient-sound`](pages/en/tags.md#tag-ambient-sound) 4 · [`single-shot`](pages/en/tags.md#tag-single-shot) 4 · [`ui-design`](pages/en/tags.md#tag-ui-design) 4 · [`camera-angle`](pages/en/tags.md#tag-camera-angle) 4 · [`street-scene`](pages/en/tags.md#tag-street-scene) 4 · [`split-screen`](pages/en/tags.md#tag-split-screen) 4 · [`dog`](pages/en/tags.md#tag-dog) 4 · [`emotion`](pages/en/tags.md#tag-emotion) 4 · [`keyframes`](pages/en/tags.md#tag-keyframes) 4 · [`painting`](pages/en/tags.md#tag-painting) 4 · [`phone-footage`](pages/en/tags.md#tag-phone-footage) 4 · [`multi-turn-edit`](pages/en/tags.md#tag-multi-turn-edit) 4 · [`classroom`](pages/en/tags.md#tag-classroom) 4 · [`time-freeze`](pages/en/tags.md#tag-time-freeze) 4 · [`mecha`](pages/en/tags.md#tag-mecha) 4 · [`garden`](pages/en/tags.md#tag-garden) 4 · [`giant`](pages/en/tags.md#tag-giant) 4 · [`train`](pages/en/tags.md#tag-train) 4 · [`subway`](pages/en/tags.md#tag-subway) 4 · [`action-comedy`](pages/en/tags.md#tag-action-comedy) 4 · [`fog`](pages/en/tags.md#tag-fog) 4 · [`top-down`](pages/en/tags.md#tag-top-down) 4 · [`comic-book`](pages/en/tags.md#tag-comic-book) 4 · [`scale`](pages/en/tags.md#tag-scale) 4 · [`world-building`](pages/en/tags.md#tag-world-building) 4 · [`worldbuilding`](pages/en/tags.md#tag-worldbuilding) 4 · [`1980s`](pages/en/tags.md#tag-1980s) 4 · [`phone-photo`](pages/en/tags.md#tag-phone-photo) 4 · [`knitwear`](pages/en/tags.md#tag-knitwear) 4 · [`character-design`](pages/en/tags.md#tag-character-design) 4 · [`film-photography`](pages/en/tags.md#tag-film-photography) 4 · [`glassmorphism`](pages/en/tags.md#tag-glassmorphism) 4 · [`self-portrait`](pages/en/tags.md#tag-self-portrait) 4 · [`parody`](pages/en/tags.md#tag-parody) 4 · [`ms-paint`](pages/en/tags.md#tag-ms-paint) 4 · [`vector`](pages/en/tags.md#tag-vector) 4 · [`side-profile`](pages/en/tags.md#tag-side-profile) 4 · [`bilingual`](pages/en/tags.md#tag-bilingual) 4 · [`mediterranean`](pages/en/tags.md#tag-mediterranean) 4 · [`butterfly`](pages/en/tags.md#tag-butterfly) 4 · [`candid-portrait`](pages/en/tags.md#tag-candid-portrait) 4 · [`diagram`](pages/en/tags.md#tag-diagram) 4 · [`game-asset`](pages/en/tags.md#tag-game-asset) 4 · [`billboard`](pages/en/tags.md#tag-billboard) 4 · [`landmarks`](pages/en/tags.md#tag-landmarks) 4 · [`direct-flash`](pages/en/tags.md#tag-direct-flash) 4 · [`satire`](pages/en/tags.md#tag-satire) 4 · [`cozy`](pages/en/tags.md#tag-cozy) 4 · [`caricature`](pages/en/tags.md#tag-caricature) 4 · [`sepia`](pages/en/tags.md#tag-sepia) 4 · [`zodiac`](pages/en/tags.md#tag-zodiac) 4 · [`movie-poster`](pages/en/tags.md#tag-movie-poster) 4 · [`encyclopedia`](pages/en/tags.md#tag-encyclopedia) 4 · [`summer`](pages/en/tags.md#tag-summer) 4 · [`strawberry`](pages/en/tags.md#tag-strawberry) 4 · [`flat-color`](pages/en/tags.md#tag-flat-color) 4 · [`miniature-world`](pages/en/tags.md#tag-miniature-world) 4 · [`triptych`](pages/en/tags.md#tag-triptych) 4 · [`children-illustration`](pages/en/tags.md#tag-children-illustration) 4 · [`splash`](pages/en/tags.md#tag-splash) 4 · [`iphone-photo`](pages/en/tags.md#tag-iphone-photo) 4 · [`japanese-style`](pages/en/tags.md#tag-japanese-style) 4 · [`white-background`](pages/en/tags.md#tag-white-background) 4 · [`grid-collage`](pages/en/tags.md#tag-grid-collage) 4 · [`paper-texture`](pages/en/tags.md#tag-paper-texture) 4 · [`street-photo`](pages/en/tags.md#tag-street-photo) 4 · [`photo-to-sketch`](pages/en/tags.md#tag-photo-to-sketch) 4 · [`split-composition`](pages/en/tags.md#tag-split-composition) 4 · [`liquid-splash`](pages/en/tags.md#tag-liquid-splash) 4 · [`brand`](pages/en/tags.md#tag-brand) 4 · [`documentary-realism`](pages/en/tags.md#tag-documentary-realism) 3 · [`fashion-film`](pages/en/tags.md#tag-fashion-film) 3 · [`orbit`](pages/en/tags.md#tag-orbit) 3 · [`omni-reference`](pages/en/tags.md#tag-omni-reference) 3 · [`morph`](pages/en/tags.md#tag-morph) 3 · [`emotional`](pages/en/tags.md#tag-emotional) 3 · [`camera-push`](pages/en/tags.md#tag-camera-push) 3 · [`street-fighter`](pages/en/tags.md#tag-street-fighter) 3 · [`handheld-pov`](pages/en/tags.md#tag-handheld-pov) 3 · [`calendar`](pages/en/tags.md#tag-calendar) 3 · [`audio-cues`](pages/en/tags.md#tag-audio-cues) 3 · [`motion-poster`](pages/en/tags.md#tag-motion-poster) 3 · [`macro-shot`](pages/en/tags.md#tag-macro-shot) 3 · [`night-market`](pages/en/tags.md#tag-night-market) 3 · [`pets`](pages/en/tags.md#tag-pets) 3 · [`glass`](pages/en/tags.md#tag-glass) 3 · [`rap`](pages/en/tags.md#tag-rap) 3 · [`style-lock`](pages/en/tags.md#tag-style-lock) 3 · [`2d-animation`](pages/en/tags.md#tag-2d-animation) 3 · [`drama`](pages/en/tags.md#tag-drama) 3 · [`sound-effects`](pages/en/tags.md#tag-sound-effects) 3 · [`3d-typography`](pages/en/tags.md#tag-3d-typography) 3 · [`action-thriller`](pages/en/tags.md#tag-action-thriller) 3 · [`morph-transition`](pages/en/tags.md#tag-morph-transition) 3 · [`lotus`](pages/en/tags.md#tag-lotus) 3 · [`sunlight`](pages/en/tags.md#tag-sunlight) 3 · [`matcha`](pages/en/tags.md#tag-matcha) 3 · [`neon-city`](pages/en/tags.md#tag-neon-city) 3 · [`anamorphic`](pages/en/tags.md#tag-anamorphic) 3 · [`office`](pages/en/tags.md#tag-office) 3 · [`beverage-ad`](pages/en/tags.md#tag-beverage-ad) 3 · [`food-commercial`](pages/en/tags.md#tag-food-commercial) 3 · [`lightning`](pages/en/tags.md#tag-lightning) 3 · [`dashboard`](pages/en/tags.md#tag-dashboard) 3 · [`butterflies`](pages/en/tags.md#tag-butterflies) 3 · [`hard-cut`](pages/en/tags.md#tag-hard-cut) 3 · [`trailer`](pages/en/tags.md#tag-trailer) 3 · [`clouds`](pages/en/tags.md#tag-clouds) 3 · [`ocean`](pages/en/tags.md#tag-ocean) 3 · [`video-reference`](pages/en/tags.md#tag-video-reference) 3 · [`texture`](pages/en/tags.md#tag-texture) 3 · [`wallpaper`](pages/en/tags.md#tag-wallpaper) 3 · [`warehouse`](pages/en/tags.md#tag-warehouse) 3 · [`monster`](pages/en/tags.md#tag-monster) 3 · [`dinosaur`](pages/en/tags.md#tag-dinosaur) 3 · [`ink`](pages/en/tags.md#tag-ink) 3 · [`window-light`](pages/en/tags.md#tag-window-light) 3 · [`bamboo-forest`](pages/en/tags.md#tag-bamboo-forest) 3 · [`period`](pages/en/tags.md#tag-period) 3 · [`medieval`](pages/en/tags.md#tag-medieval) 3 · [`battle`](pages/en/tags.md#tag-battle) 3 · [`felt`](pages/en/tags.md#tag-felt) 3 · [`family-comedy`](pages/en/tags.md#tag-family-comedy) 3 · [`toddler`](pages/en/tags.md#tag-toddler) 3 · [`airport`](pages/en/tags.md#tag-airport) 3 · [`pop-out`](pages/en/tags.md#tag-pop-out) 3 · [`camera-movement`](pages/en/tags.md#tag-camera-movement) 3 · [`timed-segments`](pages/en/tags.md#tag-timed-segments) 3 · [`industrial`](pages/en/tags.md#tag-industrial) 3 · [`portal`](pages/en/tags.md#tag-portal) 3 · [`lip sync`](pages/en/tags.md#tag-lipsync) 3 · [`korean-drama`](pages/en/tags.md#tag-korean-drama) 3 · [`chinese-painting`](pages/en/tags.md#tag-chinese-painting) 3 · [`stunt`](pages/en/tags.md#tag-stunt) 3 · [`concert`](pages/en/tags.md#tag-concert) 3 · [`shot-sequence`](pages/en/tags.md#tag-shot-sequence) 3 · [`dv-look`](pages/en/tags.md#tag-dv-look) 3 · [`fire`](pages/en/tags.md#tag-fire) 3 · [`image-reference`](pages/en/tags.md#tag-image-reference) 3 · [`smartphone-footage`](pages/en/tags.md#tag-smartphone-footage) 3 · [`night-rain`](pages/en/tags.md#tag-night-rain) 3 · [`water-splash`](pages/en/tags.md#tag-water-splash) 3 · [`hanfu`](pages/en/tags.md#tag-hanfu) 3 · [`fairy-tale`](pages/en/tags.md#tag-fairy-tale) 3 · [`istanbul`](pages/en/tags.md#tag-istanbul) 3 · [`japanese-school`](pages/en/tags.md#tag-japanese-school) 3 · [`fantasy-action`](pages/en/tags.md#tag-fantasy-action) 3 · [`mixed-reality`](pages/en/tags.md#tag-mixed-reality) 3 · [`new-york`](pages/en/tags.md#tag-new-york) 3 · [`jewelry`](pages/en/tags.md#tag-jewelry) 3 · [`temple`](pages/en/tags.md#tag-temple) 3 · [`game-art`](pages/en/tags.md#tag-game-art) 3 · [`scroll`](pages/en/tags.md#tag-scroll) 3 · [`reference-sheet`](pages/en/tags.md#tag-reference-sheet) 3 · [`skin-texture`](pages/en/tags.md#tag-skin-texture) 3 · [`camera`](pages/en/tags.md#tag-camera) 3 · [`smartphone`](pages/en/tags.md#tag-smartphone) 3 · [`meme`](pages/en/tags.md#tag-meme) 3 · [`mirror`](pages/en/tags.md#tag-mirror) 3 · [`still-life`](pages/en/tags.md#tag-still-life) 3 · [`stadium`](pages/en/tags.md#tag-stadium) 3 · [`night-portrait`](pages/en/tags.md#tag-night-portrait) 3 · [`amigurumi`](pages/en/tags.md#tag-amigurumi) 3 · [`fashion-illustration`](pages/en/tags.md#tag-fashion-illustration) 3 · [`magazine-cover`](pages/en/tags.md#tag-magazine-cover) 3 · [`key-visual`](pages/en/tags.md#tag-key-visual) 3 · [`style-conversion`](pages/en/tags.md#tag-style-conversion) 3 · [`e-commerce`](pages/en/tags.md#tag-e-commerce) 3 · [`graphite`](pages/en/tags.md#tag-graphite) 3 · [`city-map`](pages/en/tags.md#tag-city-map) 3 · [`face-consistency`](pages/en/tags.md#tag-face-consistency) 3 · [`cutout`](pages/en/tags.md#tag-cutout) 3 · [`design-system`](pages/en/tags.md#tag-design-system) 3 · [`light-mode`](pages/en/tags.md#tag-light-mode) 3 · [`beauty-portrait`](pages/en/tags.md#tag-beauty-portrait) 3 · [`camera-roll`](pages/en/tags.md#tag-camera-roll) 3 · [`candlelight`](pages/en/tags.md#tag-candlelight) 3 · [`3d-caricature`](pages/en/tags.md#tag-3d-caricature) 3 · [`food-ad`](pages/en/tags.md#tag-food-ad) 3 · [`calligraphy`](pages/en/tags.md#tag-calligraphy) 3 · [`saas`](pages/en/tags.md#tag-saas) 3 · [`comic`](pages/en/tags.md#tag-comic) 3 · [`profile`](pages/en/tags.md#tag-profile) 3 · [`16-9`](pages/en/tags.md#tag-16-9) 3 · [`product-design`](pages/en/tags.md#tag-product-design) 3 · [`expression-grid`](pages/en/tags.md#tag-expression-grid) 3 · [`low-key`](pages/en/tags.md#tag-low-key) 3 · [`chrome`](pages/en/tags.md#tag-chrome) 3 · [`art-studio`](pages/en/tags.md#tag-art-studio) 3 · [`mural`](pages/en/tags.md#tag-mural) 3 · [`photo-collage`](pages/en/tags.md#tag-photo-collage) 3 · [`engineering`](pages/en/tags.md#tag-engineering) 3 · [`9-16`](pages/en/tags.md#tag-9-16) 3 · [`dramatic-lighting`](pages/en/tags.md#tag-dramatic-lighting) 3 · [`portrait-collage`](pages/en/tags.md#tag-portrait-collage) 3 · [`watch`](pages/en/tags.md#tag-watch) 3 · [`campaign-poster`](pages/en/tags.md#tag-campaign-poster) 3 · [`surreal-scale`](pages/en/tags.md#tag-surreal-scale) 3 · [`panoramic`](pages/en/tags.md#tag-panoramic) 3 · [`ad-poster`](pages/en/tags.md#tag-ad-poster) 3 · [`ink-illustration`](pages/en/tags.md#tag-ink-illustration) 3 · [`group-portrait`](pages/en/tags.md#tag-group-portrait) 3 · [`mid-century`](pages/en/tags.md#tag-mid-century) 3 · [`history`](pages/en/tags.md#tag-history) 3 · [`disintegration`](pages/en/tags.md#tag-disintegration) 3 · [`dessert`](pages/en/tags.md#tag-dessert) 3 · [`palette-knife`](pages/en/tags.md#tag-palette-knife) 3 · [`paper-cut`](pages/en/tags.md#tag-paper-cut) 3 · [`text-layout`](pages/en/tags.md#tag-text-layout) 3 · [`textile`](pages/en/tags.md#tag-textile) 3 · [`ink-doodle`](pages/en/tags.md#tag-ink-doodle) 3 · [`local-edit`](pages/en/tags.md#tag-local-edit) 3 · [`brand-poster`](pages/en/tags.md#tag-brand-poster) 3 · [`model-comparison`](pages/en/tags.md#tag-model-comparison) 3 · [`upscale`](pages/en/tags.md#tag-upscale) 3 · [`color-analysis`](pages/en/tags.md#tag-color-analysis) 3 · [`magazine`](pages/en/tags.md#tag-magazine) 3 · [`skyline`](pages/en/tags.md#tag-skyline) 3 · [`advertisement`](pages/en/tags.md#tag-advertisement) 3 · [`paper-cutout`](pages/en/tags.md#tag-paper-cutout) 3 · [`memory-card`](pages/en/tags.md#tag-memory-card) 3 · [`hard-light`](pages/en/tags.md#tag-hard-light) 3 · [`naive-art`](pages/en/tags.md#tag-naive-art) 3 · [`chinese-style`](pages/en/tags.md#tag-chinese-style) 3 · [`product-mockup`](pages/en/tags.md#tag-product-mockup) 3 · [`macro-photography`](pages/en/tags.md#tag-macro-photography) 3 · [`iphone-style`](pages/en/tags.md#tag-iphone-style) 3 · [`warm-tones`](pages/en/tags.md#tag-warm-tones) 3 · [`dark-background`](pages/en/tags.md#tag-dark-background) 3 · [`logo-design`](pages/en/tags.md#tag-logo-design) 3 · [`xiaohongshu`](pages/en/tags.md#tag-xiaohongshu) 3 · [`parchment`](pages/en/tags.md#tag-parchment) 3 · [`cinematic-portrait`](pages/en/tags.md#tag-cinematic-portrait) 3 · [`chocolate`](pages/en/tags.md#tag-chocolate) 3 · [`figurine`](pages/en/tags.md#tag-figurine) 3 · [`soft-lighting`](pages/en/tags.md#tag-soft-lighting) 3
 
-**[All 2800 tags](pages/en/tags.md)**
+**[All 2845 tags](pages/en/tags.md)**
 
 <a id="contributing"></a>
 ## Contributing

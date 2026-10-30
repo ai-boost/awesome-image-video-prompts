@@ -1,0 +1,24 @@
+id: chatgpt-couple-80s-studio-portrait
+title:
+  en: Couple posing in a 1980s film studio portrait
+  zh: 情侣在1980年代胶片棚拍中合影
+model: ChatGPT
+mode: image-edit
+category: portrait
+tags:
+- 80s-fashion
+- retro-portrait
+- film-look
+- couple-portrait
+source:
+  name: '@aeziandlysa on TikTok'
+  url: https://www.tiktok.com/@aeziandlysa/video/7683890505742109972
+  credit: Aezi & Lysa
+  likes: 191
+  captured: '2026-10-30'
+  posted: '2026-09-10'
+notes:
+  en: The prompt locks identity with an explicit preserve-faces instruction, then lists each person's hair and outfit item by item. Analog cues such as film grain, soft focus, mild vignette and rim light make the edit read as a real 1980s photo rather than a filtered one.
+  zh: 提示词先用明确的保留五官指令锁定身份，再逐项列出每人的发型和服装。胶片颗粒、柔焦、轻微暗角和发丝轮廓光等模拟胶片的细节，让结果更像真实的1980年代照片，而不是滤镜效果。
+prompt: |
+  Transform this couple photo into an authentic 1980s studio portrait while preserving both people’s exact facial features, face shape, identity, natural skin tone, and recognizable appearance. Do not change their faces or make them look like different people. Give the couple a classic 1980s romantic portrait aesthetic. The woman has voluminous, softly feathered 80s hair, subtle 80s makeup, soft blush, natural glossy lips, gold hoop earrings, and wears a stylish magenta/pink oversized padded-shoulder blazer over a light-colored top with a high-waisted dark skirt. The man wears a vintage 1980s denim jacket with a popped collar over a simple white T-shirt, acid-wash jeans, and a classic chunky 80s watch. Pose them naturally and affectionately as a couple, standing close together with the man slightly behind the woman, his arm around her. Both are looking at the camera with relaxed, genuine expressions. Use a warm vintage studio setting with a muted brown/gray mottled backdrop, soft directional lighting, subtle rim lighting around their hair, gentle shadows, slightly faded colors, authentic analog film grain, soft focus, mild vignette, and nostalgic 35mm film photography. Make it look like a real photograph taken in the 1980s—not a modern photo with a filter and not overly AI-generated. Keep realistic skin texture and natural facial proportions. High-quality vintage family/studio portrait, warm nostalgic atmosphere, authentic 1980s fashion and photography.

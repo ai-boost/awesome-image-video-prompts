@@ -1,0 +1,24 @@
+id: chatgpt-seated-man-reaching-hands-smoke-portrait
+title:
+  en: Seated man surrounded by reaching hands in smoke
+  zh: 坐在烟雾中被伸来的手包围的男子
+model: ChatGPT
+mode: image-edit
+category: portrait
+tags:
+- portrait
+- dark-studio
+- conceptual
+- smoke
+source:
+  name: '@mcsvisuals1 on TikTok'
+  url: https://www.tiktok.com/@mcsvisuals1/video/7684298113783303455
+  credit: MCs
+  likes: 2575
+  captured: '2026-10-30'
+  posted: '2026-09-11'
+notes:
+  en: Asking the model to preserve facial anatomy after a photo upload keeps the subject's face stable while the prompt builds the scene. Describing a narrow overhead spotlight on black, with background hands kept softer than the man, holds the figure as the visual focus.
+  zh: 上传照片后要求保留面部结构，使人物面部保持稳定，同时由提示词搭建场景。描述纯黑背景上的窄幅顶光，并让背景中的手比人物更柔和，使人物保持视觉焦点。
+prompt: |
+  Create a cinematic, photorealistic conceptual portrait of a young man sitting alone in a dark minimalist studio. He sits centered on a simple chair or low seat, leaning slightly forward with his head bowed and hands clasped between his knees. His posture communicates emotional exhaustion, isolation, anxiety, and deep introspection. He wears a plain oversized white T-shirt, loose gray trousers, and rectangular black eyeglasses. His hair is neatly styled backward with a subtle wet or glossy texture. Preserve realistic facial anatomy, natural skin texture, pores, and authentic proportions. His face is partially obscured by the downward angle of his head. Multiple realistic disembodied human hands emerge from the darkness behind and around him. The hands reach toward his shoulders, arms, head, and sides of his body, suggesting pressure, intrusive thoughts, anxiety, emotional manipulation, or overwhelming expectations. Each hand must have anatomically correct fingers, realistic skin texture, natural poses, and subtle shadows. Keep the hands slightly softer and less defined than the main subject so the man remains the visual focus. A dark black background surrounds the subject with dense atmospheric smoke or mist rising above him. The smoke forms subtle organic shapes without becoming supernatural or cartoonish. The background should gradually fade into complete darkness around the edges. Use dramatic overhead and frontal studio lighting. A narrow soft spotlight illuminates the man’s head, face, white shirt, forearms, and hands while the surrounding space remains almost completely black. Create realistic highlights on the glasses and skin, deep controlled shadows, subtle rim lighting, and atmospheric volumetric light through the smoke. Composition: vertical portrait, 4:5 aspect ratio, centered symmetrical framing, medium-full body shot, subject occupying the middle of the frame, large negative space above and around him, hands distributed naturally behind and beside him, strong visual hierarchy. Photography style: psychological fine-art photography, cinematic editorial portrait, dark fashion photography, 85mm lens, shallow depth of field, realistic skin and fabric texture, volumetric lighting, subtle film grain, high dynamic range, professional color grading, deep blacks, muted neutral tones, photorealistic, ultra-detailed, 8K quality. Mood: haunting, vulnerable, psychologically intense, lonely, restrained, introspective, emotionally heavy. Make the image feel like a real professional studio photograph rather than an illustration. Preserve realistic human anatomy and physically believable lighting. No supernatural glow, no cartoon style, no excessive blur, no distorted faces, no malformed hands, no extra fingers, no duplicated limbs, no artificial skin, no text, no watermark, no logos.

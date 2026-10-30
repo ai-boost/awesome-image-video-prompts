@@ -1,6 +1,6 @@
 # Collage
 
-[Back to the list](../../README.md) · All 95 entries
+[Back to the list](../../README.md) · All 97 entries
 
 <a id="gpt-image-failed-photos-grid"></a>
 ### Nine accidental phone snapshots of any character
@@ -581,6 +581,25 @@ GPT Image 2 · Text-to-image · Source: [@noorlewisx on X](https://x.com/noorlew
 
 ```text
 MODERN EDITORIAL COLLAGE POSTER DESIGN. CLEAN MINIMALIST FASHION COMPOSITION. BACKGROUND FEATURES FOUR VERTICALLY STACKED ROUNDED-RECTANGLE PANELS CONTAINING BLACK-AND-WHITE CINEMATIC PORTRAITS OF THE SAME STYLISH YOUNG WOMAN WEARING LUXURY SUNGLASSES IN DIFFERENT HIGH-FASHION POSES. IN THE FOREGROUND, A FULL-BODY HIGH-QUALITY COLOR CUTOUT OF THE SAME WOMAN STANDS CONFIDENTLY, WEARING AN OVERSIZED WHITE SHIRT, TAILORED BLACK PANTS, AND BLACK SUNGLASSES. SOFT REALISTIC SHADOWS, DEPTH LAYERING, PREMIUM MAGAZINE EDITORIAL STYLE, HIGH CONTRAST LIGHTING, CLEAN WHITE BACKGROUND, MODERN FASHION ADVERTISING AESTHETIC, ULTRA-REALISTIC SKIN TEXTURE, SHARP DETAILS, PROFESSIONAL POSTER COMPOSITION, LUXURY VOGUE-INSPIRED DESIGN, PHOTOREALISTIC, 8K, STUDIO QUALITY, NO TEXT, NO TYPOGRAPHY, NO LETTERS, NO LOGOS, NO WATERMARKS.
+```
+
+</details>
+
+<a id="chatgpt-birthday-photobooth-grid-black-white"></a>
+### Nine pose black and white birthday photobooth grid
+
+<a href="https://www.tiktok.com/@creandoconjhonathan/video/7689537471096311048"><img src="../../previews/chatgpt-birthday-photobooth-grid-black-white.jpg" width="360"></a>
+
+The prompt locks identity, hair, skin, and clothing to the attached photo before describing the layout, so the same person repeats across nine poses. A fixed 3x3 grid with a garland banner that spells the phrase keeps the text and structure as the anchor for the whole frame.
+
+ChatGPT · Edit · Source: [@creandoconjhonathan on TikTok](https://www.tiktok.com/@creandoconjhonathan/video/7689537471096311048) · 231 likes on 2026-10-30
+
+[`birthday`](tags.md#tag-birthday) [`photobooth`](tags.md#tag-photobooth) [`black-and-white`](tags.md#tag-black-and-white) [`grid`](tags.md#tag-grid)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Usa la foto adjunta como referencia principal. Mantén exactamente la identidad, rostro, cabello, barba, tono de piel, edad aparente, cuerpo y ropa original. Crea una foto vertical 9:16 en blanco y negro, estilo photobooth vintage de los años 70–90, dividida en un grid 3×3 con 9 retratos de la misma persona, cada uno con una pose y expresión de cumpleaños diferente. Agrega sombrero de cumpleaños y matasuegras en algunas poses. Conecta los cuadros con guirnaldas, serpentinas y banderines que formen claramente “FELIZ CUMPLEAÑOS”. Fotografía editorial de estudio, iluminación suave, grano analógico, elegante y nostálgica. Alta resolución, composición realista y perfectamente alineada. No cambies la apariencia ni el vestuario de la persona.
 ```
 
 </details>
@@ -2123,6 +2142,25 @@ Camera: handheld smartphone photography, high ISO grain, flash photography, shal
 Color grading: desaturated blacks, cool blue-grey shadows, faded contrast, moody night-time atmosphere.
 
 Negative prompt: bright lighting, smiling, colorful clothes, perfect studio lighting, heavy makeup, CGI, anime, cartoon, unrealistic skin, extra fingers, watermark, text, overexposed image, glossy fashion magazine style.
+```
+
+</details>
+
+<a id="chatgpt-iris-center-nature-color-palette"></a>
+### Iris at center ringed by nature color elements
+
+<a href="https://www.tiktok.com/@jessica_feldman_/video/7687762438644600077"><img src="../../previews/chatgpt-iris-center-nature-color-palette.jpg" width="360"></a>
+
+Uploading a close up iris photo and asking for it to sit at the exact center anchors the composition on the real eye. Asking the model to map every iris tone to a named natural object turns the color analysis into a labeled radial layout.
+
+ChatGPT · Edit · Source: [@jessica_feldman_ on TikTok](https://www.tiktok.com/@jessica_feldman_/video/7687762438644600077) · 77 likes on 2026-10-30
+
+[`eye`](tags.md#tag-eye) [`nature`](tags.md#tag-nature) [`color-palette`](tags.md#tag-color-palette)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Analyze the eye color in the photo I uploaded in every possible detail and create an artistic visual for me. Place my iris photo exactly at the center of the composition. Around it, visualize every color found within my iris using real elements from nature.
 ```
 
 </details>

@@ -1,0 +1,24 @@
+id: chatgpt-couple-80s-retro-photo
+title:
+  en: Couple recast as 1980s party portraits
+  zh: 情侣变身80年代派对合影
+model: ChatGPT
+mode: image-edit
+category: edit
+tags:
+- 80s
+- couple
+- retro
+- film-grain
+source:
+  name: '@diegocarvalhoosteo on TikTok'
+  url: https://www.tiktok.com/@diegocarvalhoosteo/video/7682999891639078164
+  credit: Dhyego | Dicas
+  likes: 1039
+  captured: '2026-10-30'
+  posted: '2026-09-08'
+notes:
+  en: 'The prompt tells the model to keep the facial features of the source photo while listing concrete era cues: voluminous hair, bold-colour clothing or high-waisted jeans, and aged film-grain lighting. Naming the identity constraint and the styling cues separately lets the model change the look without changing who is pictured.'
+  zh: 提示词要求保留原图的面部特征，同时列出具体的年代元素：蓬松发型、高饱和色服装或高腰牛仔裤，以及老胶片颗粒光线。把身份约束和造型要素分开描述，模型就能只改造型、不改人物本身。
+prompt: |
+  Com base nessa foto, crie uma imagem ultra realista de como nós seríamos se vivêssemos nos anos 80. Mantenha os traços do rosto mas adicione um penteado volumoso típico da época, roupas clássicas dos anos 80 com cores marcantes ou jeans de cintura alta, e uma iluminação com granulação de filme fotográfico antigo

@@ -1,0 +1,24 @@
+id: chatgpt-bandaged-hands-bearded-man-monochrome
+title:
+  en: Bandaged hands surround a bearded man in monochrome
+  zh: 绷带手环绕蓄须男子的黑白肖像
+model: ChatGPT / Midjourney
+mode: image-edit
+category: portrait
+tags:
+- black-and-white
+- fine-art
+- portrait
+- studio-lighting
+source:
+  name: '@mcsvisuals1 on TikTok'
+  url: https://www.tiktok.com/@mcsvisuals1/video/7684407883559111966
+  credit: MCs
+  likes: 436
+  captured: '2026-10-30'
+  posted: '2026-09-11'
+notes:
+  en: Uploading your own photo anchors the face, while the prompt fixes lighting, lens and composition in detail. Explicit hand-anatomy rules keep the extra arms believable and free of duplicated limbs.
+  zh: 上传自己的照片可以锁定面部特征，提示词则详细规定了布光、镜头和构图。针对每只手解剖结构的明确约束，让额外的手臂看起来真实可信，没有重复的肢体。
+prompt: |
+  Create a cinematic, photorealistic black-and-white fine-art portrait of a rugged bearded man seated against a completely dark minimalist studio background. He wears a sharp black suit jacket with an open collar, creating a sophisticated but vulnerable appearance. Several realistic human arms and hands emerge from behind and around him. The hands are wrapped tightly in layered white gauze bandages. Some hands cover parts of his face and eyes, while others touch his head, shoulders, chest, and arms. One pair of bandaged hands covers his eyes from both sides. Another pair reaches toward his chest, with the man holding his own hands together in a prayer-like gesture. The surrounding hands should symbolize emotional pressure, inner conflict, anxiety, restraint, and feeling trapped. The man looks slightly upward and to the side with a serious, emotionally exhausted expression. Preserve realistic facial anatomy, detailed beard texture, natural skin pores, wrinkles, and subtle imperfections. His face remains the primary focal point. The bandages should look physically realistic, with individual fabric fibers, folds, tension, fraying edges, and natural wrapping around the wrists and fingers. Every hand must have anatomically correct proportions, realistic fingers, believable joints, and natural positioning. Avoid duplicated or malformed limbs. Use dramatic low-key studio lighting. A soft directional light illuminates one side of his face while the opposite side falls into deep shadow. Add subtle rim lighting around his shoulders and the edges of the bandaged hands. Maintain strong contrast between the white bandages, highlights on the face, and nearly black background. Composition: vertical portrait, 2:3 aspect ratio, centered subject, tight medium shot from the waist or chest upward, subject slightly turned toward camera, hands extending into the frame from multiple directions, strong negative space around the figure. Photography style: high-end fine-art black-and-white photography, psychological fashion editorial, dark cinematic portrait, 85mm portrait lens, shallow depth of field, high contrast monochrome tones, rich blacks, detailed highlights, realistic skin texture, subtle film grain, HDR, professional studio photography, photorealistic, ultra-detailed, 8K quality. Mood: haunting, restrained, psychologically intense, vulnerable, mysterious, claustrophobic, introspective, emotionally heavy. Keep everything realistic and photographic. The extra hands should appear physically present in the scene, not supernatural or ghostly. No glowing effects, no fantasy elements, no cartoon appearance, no excessive retouching, no plastic skin, no distorted face, no malformed hands, no extra fingers, no duplicated limbs, no warped anatomy, no text, no logos, no watermark.

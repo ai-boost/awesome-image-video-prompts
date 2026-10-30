@@ -1,0 +1,24 @@
+id: chatgpt-off-shoulder-knit-studio-portrait
+title:
+  en: Off shoulder knit portrait on pale studio backdrop
+  zh: 白色背景下的露肩针织毛衣肖像
+model: ChatGPT
+mode: image-edit
+category: portrait
+tags:
+- portrait
+- editorial
+- studio
+- knitwear
+source:
+  name: '@sandra.social on TikTok'
+  url: https://www.tiktok.com/@sandra.social/video/7685497499645218070
+  credit: Sandra | Selfies & Branding
+  likes: 83
+  captured: '2026-10-30'
+  posted: '2026-09-14'
+notes:
+  en: The prompt anchors identity to the uploaded reference photos and fixes outfit, hair and makeup as locked details so the look stays consistent. The 50mm eye-level framing with the subject in the left third leaves open space on the right for text.
+  zh: 提示词以上传的参考照片锁定人物身份，并把服装、发型和妆容写成固定条件以保持一致。50mm 平视构图将人物置于左三分之一，右侧留出空白供文字排版。
+prompt: |
+  Soft Focus Portrait editorial photoshoot. Use the uploaded reference photos as the only source for the person's face and identity. Preserve the person's facial structure, face shape, skin tone, natural skin texture, body proportions, age, hair color, and overall look from the reference photos. Scene: the same off-white to light gray studio backdrop, diffused even light from the same side, clean and uncluttered with generous negative space. Outfit: the same off-shoulder oatmeal beige ribbed knit sweater, chunky cable-knit texture, wide neckline resting below the shoulders. Hair: long straight deep black hair down and settled over one shoulder, smooth with minimal movement. Keep the person's natural hair color from the uploaded reference photos. Makeup: the same dewy soft-glow finish, warm bronze-taupe eyeshadow, mauve-brown matte lip, polished, not heavy glam. Accessories/props: none visible. No phone. No jewelry. Pose: standing straight facing the camera, shoulders squared, chin level, one hand resting lightly at the collarbone, direct steady gaze into the lens with a calm closed-lip expression. Camera + lens: shot on Canon EOS R5 with a 50mm lens, medium framing from head to chest, no wide-angle distortion. Camera angle: eye level, medium distance, camera centered directly in front. Composition: vertical 9:16, subject placed in the left third of frame, wide open negative space on the right two-thirds for text placement, background soft and evenly lit. Mood: clean, confident, calm, minimal, balanced. Color grading: warm beige and soft off-white tones, even consistent light, subtle film grain, editorial contrast with clean highlight balance. Image quality: vertical 9:16 portrait, 2K quality, minimum 1440 x 2560 px if available, crisp editorial sharpness, no blur, no low-resolution softness, no compression haze. Avoid: distorted hands, extra fingers, plastic skin, heavy glam makeup, cartoonish AI style, CGI, blur, random logos, cluttered background, uneven lighting.

@@ -1,0 +1,24 @@
+id: chatgpt-moana-spiritual-rebirth-eagle
+title:
+  en: Shirtless man merging with glowing blue eagle
+  zh: 无上衣男子与发光蓝色雄鹰融为一体
+model: ChatGPT
+mode: text-to-image
+category: portrait
+tags:
+- transformation
+- animal-spirit
+- cinematic
+- moana
+source:
+  name: '@shadstoker on TikTok'
+  url: https://www.tiktok.com/@shadstoker/video/7682873877566999822
+  credit: Shad Cheyenne Stoker
+  likes: 54
+  captured: '2026-10-30'
+  posted: '2026-09-07'
+notes:
+  en: The prompt gives a clear reference transformation, the Moana grandmother turning into a glowing animal, so the model has a visual template for the change. Asking it to draw on past chats and memory makes the scene personal, while the cinematic style cue sets the lighting and the mountain sunset backdrop.
+  zh: 提示词以《海洋奇缘》中祖母塔拉化身发光动物的场景作为变身模板，为模型提供明确的视觉参照。要求模型参考过往对话和用户信息，使画面更具个人色彩，而电影感的风格描述则决定了光影和山间日落的背景。
+prompt: |
+  Create an image of what my spiritual rebirth would be, like grandmother Tala from Moana was turning into her glowing animal. Make the image in a cinematic and artistic style showing myself and what I would turn into. Base your answer off of all of our previous conversations and what you know about me.

@@ -1,0 +1,24 @@
+id: chatgpt-rancher-service-double-exposure-profile
+title:
+  en: Cowboy profile merged with service and ranch scenes
+  zh: 牛仔侧脸与服役、牧场场景的双重曝光
+model: ChatGPT
+mode: image-edit
+category: poster
+tags:
+- double-exposure
+- monochrome
+- portrait
+- editorial-poster
+source:
+  name: '@wranglerjf on TikTok'
+  url: https://www.tiktok.com/@wranglerjf/video/7683621459196955917
+  credit: Wrangler
+  likes: 1498
+  captured: '2026-10-30'
+  posted: '2026-09-09'
+notes:
+  en: 'A placeholder template fixes the layout: a large right-facing profile with a dense story collage inside the silhouette. Leaving STORY_THEME blank lets the model build a story that fits the subject''s expression, while the grain, lighting and monochrome terms keep the finish gritty rather than plastic.'
+  zh: 模板用占位符固定了构图：右侧是大幅侧脸，轮廓内部是密集的故事拼贴。故事主题留空时，模型会自行构思与人物表情相符的故事，而颗粒、光影和单色等描述让成品保持粗粝质感，而非塑料感。
+prompt: |
+  Create a vertical ASPECT_RATIO monochrome editorial double-exposure portrait based on PERSON_REFERENCE. The final image must preserve the recognizable identity of the person: face shape, skin tone, hairstyle direction, facial proportions, age impression, expression, and overall presence. Transform the person into a large clean side-profile silhouette facing right, with the face and upper torso occupying most of the frame. •Inside the silhouette, show STORY_THEME as several connected cinematic scenes rather than one flat image. If STORY_THEME is blank, fantasize a noir urban story that fits the person's expression and mood. Build the scenes as layered city streets, windows, architectural fragments, small walking figures, interior rooms, and memory-like panels placed inside the head, hair, neck, and torso. The silhouette edge must remain readable, especially the forehead, nose, lips, chin, and neck. •Style target: high-contrast black, charcoal, bone white, and warm gray; gritty pencil-drawing edge; photographic city collage; pixel-dust erosion; scattered square fragments dissolving from the back of the head and lower body. Use layered transparencies and double exposure with a premium editorial poster finish. •Composition: large profile on the right, dense story collage through the center and left, fragmented negative space around the outer silhouette. Keep the interior scenes clear and sequential enough to feel like a story. Add only sparse story-relevant text if it naturally belongs on a sign, book, note, or scene detail; otherwise use no text. •Lighting: luminous glow around forehead and cheek, deep black interior shadows, tiny street-light highlights inside the silhouette, rain-slick reflections where useful. Texture should feel tactile, grainy, imperfect, and cinematic, never plastic.

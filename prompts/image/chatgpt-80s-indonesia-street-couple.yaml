@@ -1,0 +1,24 @@
+id: chatgpt-80s-indonesia-street-couple
+title:
+  en: Couple walking a 1980s Indonesian shopping street
+  zh: 1980年代印尼街头散步的情侣
+model: ChatGPT
+mode: image-edit
+category: edit
+tags:
+- retro-80s
+- couple
+- street-style
+- hijab
+source:
+  name: '@dianaunnie.799 on TikTok'
+  url: https://www.tiktok.com/@dianaunnie.799/video/7684128723154816277
+  credit: Diana Unnie
+  likes: 69
+  captured: '2026-10-30'
+  posted: '2026-09-11'
+notes:
+  en: Starts from a full body photo and asks for an edit rather than a new image, with an explicit instruction to keep the original face. Concrete period cues (colourful Levi jacket, hijab, old shop facades, 80s street) let the model fill the scene with matching signs and props.
+  zh: 以全身照为原图进行编辑而非重新生成，并明确要求保留原有面部。提示词具体列出年代元素（彩色牛仔夹克、头巾、老式店铺立面、80年代街道），让模型补全相符的招牌和道具。
+prompt: |
+  Buat foto ini menjadi foto gaya anak muda sedang pacaran saling merangkul jadul era 80an dan berpakaian anak muda memakai (jaket Levis warna warni era 80an, perempuan tetap memakai jilbab), dengan beground pertokoan jadul dengan jalanan kota tahun 80 an. Buat jangan merubah wajah asli

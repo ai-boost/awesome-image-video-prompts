@@ -1,0 +1,23 @@
+id: chatgpt-iris-center-nature-color-palette
+title:
+  en: Iris at center ringed by nature color elements
+  zh: 虹膜居中，四周环绕自然元素配色
+model: ChatGPT
+mode: image-edit
+category: collage
+tags:
+- eye
+- nature
+- color-palette
+source:
+  name: '@jessica_feldman_ on TikTok'
+  url: https://www.tiktok.com/@jessica_feldman_/video/7687762438644600077
+  credit: jessica_feldman_
+  likes: 77
+  captured: '2026-10-30'
+  posted: '2026-09-20'
+notes:
+  en: Uploading a close up iris photo and asking for it to sit at the exact center anchors the composition on the real eye. Asking the model to map every iris tone to a named natural object turns the color analysis into a labeled radial layout.
+  zh: 上传虹膜特写照片并要求精确放在中心，让整个画面以真实眼睛为锚点。要求把虹膜中的每一种色调对应到一个具体的自然物体，于是颜色分析变成带标签的环形排版。
+prompt: |
+  Analyze the eye color in the photo I uploaded in every possible detail and create an artistic visual for me. Place my iris photo exactly at the center of the composition. Around it, visualize every color found within my iris using real elements from nature.

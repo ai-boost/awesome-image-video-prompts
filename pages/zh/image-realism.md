@@ -1,6 +1,6 @@
 # 写实照片
 
-[返回目录](../../README_zh.md) · 全部 92 条
+[返回目录](../../README_zh.md) · 全部 105 条
 
 <a id="gpt-image-coca-cola-tanker-leak-mentos-truck-dashcam"></a>
 ### 可口可乐罐车漏液，旁边是Mentos货车
@@ -81,6 +81,120 @@ Diegetic audio: road noise while arriving, cola hiss, gulping, metal latch, volc
 
 [STYLE & QUALITY BOOSTERS]
 Photoreal handheld phone from inside a car, 3:4 vertical. Arriving motion then stop. Digital pinch-zooms only, continuous take. One man enters from the RIGHT on foot — never exits a vehicle. Empty jug fills on camera for a clear multi-second hold. Body launched to the vanishing point. Coherent liquid physics. Identity lock to [ref_image] for both trucks, the hole, and the in-car windshield framing.
+```
+
+</details>
+
+<a id="nano-banana-cafe-terrace-blue-hour-portrait"></a>
+### 年轻男子在咖啡馆露台上
+
+<a href="https://www.tiktok.com/@el.prompt/video/7687101559158754581"><img src="../../previews/nano-banana-cafe-terrace-blue-hour-portrait.jpg" width="360"></a>
+
+提示词用手机视角、略高机位和膝盖以上的构图来定义画面，并让室内暖光与室外蓝调时刻形成对比。颗粒感和自然纹理的描述让画面不显得过于精修。
+
+Nano Banana / ChatGPT · 文生图 · 出处: [@el.prompt on TikTok](https://www.tiktok.com/@el.prompt/video/7687101559158754581) · 11,003 赞，统计于 2026-10-30
+
+[`street-style`](tags.md#tag-street-style) [`portrait`](tags.md#tag-portrait) [`cafe`](tags.md#tag-cafe) [`blue-hour`](tags.md#tag-blue-hour)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Buat gambar menjadi sangat realistis (ultra-realistis) Subjek: Seorang pria dengan rambut sedikit berantakan menutupi dahi model modern. Sudut kamera/framing: Pengambilan gambar *medium-full body* (dari lutut ke atas) dengan posisi kamera sedikit lebih tinggi, seolah diambil menggunakan ponsel yang dipegang tangan. Komposisi berpusat pada pria yang duduk di meja bundar, memperlihatkan tekstur lantai teras dan panel jendela kaca besar di belakangnya. Pakaian: Kaus katun putih longgar dipadukan dengan celana jin denim biru muda yang sangat longgar (*baggy*) hingga kainnya menumpuk di bagian bawah. Sebuah *hoodie* putih dengan cetakan grafis hitam mencolok dikenakan secara diagonal melintasi tubuh bagian atasnya. Jam tangan perak dan kacamata hitam putih berbingkai tebal yang diletakkan di atas meja melengkapi penampilannya. Pose: Posisi duduk santai dengan tubuh agak membungkuk dan kaki terbuka lebar. Kepala menghadap samping dengan candid ada efek blur. Posisi tangan santai; salah satu tangan memegang gelas plastik bening berisi minuman hijau dan sedotan hitam. Lingkungan: Teras kafe luar ruangan bergaya urban di waktu senja. Terdapat meja bundar dengan permukaan batu abu-abu dan jendela kaca berbingkai hitam yang memperlihatkan interior bistro dengan pencahayaan hangat. Sebuah tanaman palem besar dalam pot gelap diletakkan di sisi kanan, di atas lantai beton bertekstur. Pencahayaan: Pencahayaan senja yang seimbang sempurna. Cahaya hangat dan mengundang dari lampu dalam ruangan kontras dengan suasana luar ruangan yang agak redup khas waktu senja (*blue hour*). Pantulan lembut dan realistis tampak pada kaca jendela, menciptakan estetika alami yang nyata tanpa kesan buatan, lengkap dengan bayangan alami. Gaya akhir: Tampilan fotografi iPhone beresolusi tinggi. Estetika *candid* ala kamera ponsel dengan sedikit *grain* (bintik) khas lensa, tekstur alami, serta nuansa keseharian yang terasa apa adanya dan tidak terlalu sempurna. Sangat sesuai dengan *framing* awal dan komposisi gaya jalanan (*street-style*). Negative Prompt: kualitas terburuk, kualitas rendah, kualitas biasa, resolusi rendah, buram, jelek, terdistorsi, cacat, tanda air, teks, tanda tangan, anatomi buruk, tangan buruk, jari hilang, anggota tubuh tambahan, iris mata cacat, jari menyatu, wajah terdistorsi, kulit tidak alami, plastik, *uncanny valley*
+```
+
+</details>
+
+<a id="chatgpt-couple-mirror-selfie-dark-cafe"></a>
+### 昏暗咖啡馆中的情侣镜子自拍
+
+<a href="https://www.tiktok.com/@sangkara_digitalstudio/video/7688697559899999495"><img src="../../previews/chatgpt-couple-mirror-selfie-dark-cafe.jpg" width="360"></a>
+
+提示词以两张参考脸作为身份来源，并逐一写明两人的站位、手臂和手的遮挡关系，使构图固定。通过欠曝、数码噪点、背景人物的轻微动态模糊，以及离主体稍远的脏污镜面，营造随手拍的 iPhone 质感。
+
+ChatGPT / Gemini · 上传图改图 · 出处: [@sangkara_digitalstudio on TikTok](https://www.tiktok.com/@sangkara_digitalstudio/video/7688697559899999495) · 9,264 赞，统计于 2026-10-30
+
+[`mirror-selfie`](tags.md#tag-mirror-selfie) [`couple`](tags.md#tag-couple) [`iphone`](tags.md#tag-iphone) [`low-light`](tags.md#tag-low-light)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Gunakan dua foto wajah asli subjek pria dan wanita pada lampiran pertama dan kedua sebagai identitas utama wajah masing-masing subjek. Pertahankan identitas wajah keduanya 100% akurat dan konsisten tanpa mengubah struktur wajah, bentuk mata, alis, hidung, bibir, rahang, warna kulit, tekstur kulit, maupun proporsi kepala. Buat foto pasangan realistis dalam rasio 9:16. pria berdiri tepat di belakang wanita, tubuh pria sedikit condong ke depan, kedua tangan pria memegang iPhone 17 Pro Max dengan casing berwarna hitam doff di depan wajahnya sehingga sebagian besar wajah pria tertutup oleh smartphone, satu tangan memegang sisi smartphone dan tangan lainnya berada didepan wajah wanita dengan posisi lengan sedikit menutupi wajah wanita, dengan jari jari menopang bagian samping smartphone; wanita berdiri di depan pria, tubuh menghadap cermin/kamera, satu tangan wanita terangkat ke depan lengan pria sehingga tertutupi sebagian wajahnya dengan lengan tangan serta smartphone pria, sementara tangan lainnya berada di area lengan tangan pria seolah memegang atau merangkul lengan pria. Pria mengenakan kaus putih polos berbahan tebal dengan cuttingan oversized boxy dengan smartwatch strap abu-abu muda di pergelangan tangan kiri. Wanita mengenakan atasan putih polos lengan pendek fitted, rambut berwarna sama persis seperti pada lampiran, terurai dengan beberapa helai/poni tipis di depan wajah, memakai gelang tipis bernuansa gold/rose-gold dan karet rambut hitam tipis di pergelangan tangan. Gunakan suasana cafe semi-club malam yang gelap dan intimate, dengan cermin besar sebagai permukaan pengambilan foto, interior gelap, sedikit pantulan lampu dan tanaman/elemen interior di background. Tambahkan beberapa orang di belakang yang hanya terlihat sebagai siluet samar dan tidak jelas, sebagian sedang bergerak sehingga mengalami motion blur alami, tanpa ada wajah orang background yang terlihat jelas. Gunakan kamera iPhone, framing vertikal dari jarak dekat dengan perspektif smartphone natural, sedikit wide-angle tetapi tidak berlebihan. Pencahayaan indoor malam yang redup dengan campuran warm-white dan sedikit greenish/cool ambient light, exposure sedikit underexposed, highlight lembut, shadow pekat, dan pantulan cahaya realistis pada cermin. Berikan karakter foto yang tidak terlalu HD: detail sedikit soft, noise/grain digital khas kamera iPhone pada low-light, sedikit motion blur dan softness pada area tertentu, kaca tidak tampak full frame dan berbentuk meliuk liuk (bukan bulat/kontak) dengan jarak agak jauh dari subjek, serta efek kotor/debu tipis pada permukaan kaca/cermin berupa smudge, haze, bintik debu, dan bekas sentuhan yang sangat halus. Terapkan color grading muted, sedikit faded, warm-neutral dengan nuansa malam, sehingga hasil benar-benar terasa seperti foto spontan dari iPhone di cafe malam, bukan foto studio. Negative Prompt: jangan mengubah identitas wajah, jangan membuat wajah generik atau AI-looking, jangan beautify berlebihan, jangan kulit terlalu halus/plastik/waxy, jangan mengubah bentuk atau posisi tangan, jari, lengan, siku, smartphone, kepala, dan tubuh; jangan membuat jari tambahan, jari menyatu, tangan cacat, anatomi tidak natural, smartphone berubah bentuk, atau tangan menembus objek. Jangan membuat pose baru, jangan mengubah posisi pria di belakang dan wanita di depan, jangan menghilangkan overlap tangan seperti referensi. Hindari kualitas terlalu tajam/terlalu HD, HDR, excessive sharpening, excessive clarity, clean digital photography, studio lighting, ring light, flash keras, background terlalu terang, bokeh berlebihan, skin smoothing, oversaturation, neon color, CGI, 3D render, illustration, anime, artificial face swap, duplicated people, background people yang terlalu jelas, motion blur berlebihan, blur pada wajah utama.
+```
+
+</details>
+
+<a id="chatgpt-nigeria-jersey-football-dribble"></a>
+### 身穿尼日利亚球衣带球过人的年轻男子
+
+<a href="https://www.tiktok.com/@adelex2468/video/7681363280471854354"><img src="../../previews/chatgpt-nigeria-jersey-football-dribble.jpg" width="360"></a>
+
+提示词先上传参考人脸并明确要求保持面部一致，再用球衣、短裤、白色球鞋等具体服装细节，以及带球动态、浅景深和高速体育摄影等镜头描述搭建场景。
+
+ChatGPT · 上传图改图 · 出处: [@adelex2468 on TikTok](https://www.tiktok.com/@adelex2468/video/7681363280471854354) · 8,859 赞，统计于 2026-10-30
+
+[`football`](tags.md#tag-football) [`sports`](tags.md#tag-sports) [`nigeria`](tags.md#tag-nigeria)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Use the uploaded reference image as the exact facial identity reference. Create an ultra-realistic cinematic 8K sports photograph of the same young man confidently performing impressive dribbling skills with a football on a professional stadium pitch. He wears a Nigeria football jersey, matching shorts and white football boots. Capture him mid-dribble with dynamic athletic movement, focused and confident expression, looking handsome and natural. Professional stadium background, realistic green grass, dramatic natural lighting, shallow depth of field, sharp facial details, realistic skin texture, crisp jersey and boot details, high-speed sports photography, clean composition. Make the image extremely neat, clean, sharp, photorealistic, and detailed. Preserve his exact facial likeness without altering his identity.
+```
+
+</details>
+
+<a id="chatgpt-night-street-curb-candid-hoodie"></a>
+### 男子夜晚坐在湿润路边石上
+
+<a href="https://www.tiktok.com/@el.prompt/video/7688958043966491925"><img src="../../previews/chatgpt-night-street-curb-candid-hoodie.jpg" width="360"></a>
+
+明确的取景指令，如低角度手持视角、倾斜地平线和广角畸变，让画面像随手拍的手机照片。手机传感器颗粒、轻微运动模糊和基于真实物理的暖色路灯光线，使夜景保持原始质感而非过度饱和。
+
+ChatGPT / Gemini · 文生图 · 出处: [@el.prompt on TikTok](https://www.tiktok.com/@el.prompt/video/7688958043966491925) · 5,123 赞，统计于 2026-10-30
+
+[`street-style`](tags.md#tag-street-style) [`night`](tags.md#tag-night) [`candid`](tags.md#tag-candid) [`phone-photo`](tags.md#tag-phone-photo)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Buat gambar yang sangat realistis (ultra-realistis) Subjek: Seorang pria Sudut kamera/framing: Foto seluruh tubuh (full-body) dari sudut pandang rendah (low angle) ala pengambilan gambar dengan tangan (handheld). Subjek duduk di tepi jalan (trotoar), dengan latar belakang deretan pohon yang menjauh dan jalan aspal yang basah. Komposisi meniru foto kasual ponsel pintar dengan garis cakrawala yang sedikit miring dan distorsi lensa sudut lebar (wide-angle). Pakaian: Hoodie katun hitam tebal dengan tekstur matte dan tali serut yang tebal. Celana pendek bahan teknis (tech-fabric) hitam yang longgar. Kaus kaki putih bertekstur garis (ribbed) dengan logo lingkaran hitam kecil. Sepatu kets kulit putih yang lecet dengan tali datar dan aksen suede abu-abu, memperlihatkan tanda-tanda pemakaian dan kotoran yang realistis. Pose: Duduk di tepi jalan beton dengan kaki kanan di depan. Dia sedikit condong ke arah bingkai foto, tangan kanan diangkat ke wajah dalam gestur santai menutupi mulut. Ekspresinya santai dan tampak sedang berpikir, dengan tatapan langsung ke arah lensa tanpa dibuat-buat. Lingkungan: Jalan perumahan di malam hari dengan aspal gelap yang basah. Sebuah pohon ramping di tengah menampilkan spanduk persegi panjang putih polos yang tergantung secara vertikal. Latar belakang mencakup deretan pohon hijau tua, pagar besi tempa hitam, dan cahaya lampu depan mobil putih yang samar dan kabur dari kejauhan. Pencahayaan: Pencahayaan malam hari yang akurat secara fisik. Cahaya sekitar (ambient) yang redup dan hangat dari lampu jalan yang jauh menciptakan bayangan lembut di tanah. Tidak ada sorotan cahaya buatan atau rona warna yang terlalu jenuh (oversaturated). Cahaya secara alami mengenai tepi dedaunan dan tekstur jalan yang basah, mempertahankan warna hitam yang pekat dan realistis. Gaya akhir: Tampilan fotografi iPhone handheld, resolusi 4K, foto candid, tidak terlalu sempurna. Tekstur berbutir (grainy) khas sensor ponsel untuk kondisi minim cahaya. Estetika mentah (raw) tanpa penyuntingan berlebih, dengan efek flare lensa realistis dari sumber cahaya jauh dan sedikit efek blur akibat gerakan (motion-softness). Negative Prompt: kualitas terburuk, kualitas rendah, kualitas normal, resolusi rendah, buram, jelek, terdistorsi, cacat bentuk, tanda air, teks, tanda tangan, anatomi buruk, tangan buruk, jari hilang, anggota tubuh tambahan, iris mata cacat, jari menyatu, wajah terdistorsi, kulit tidak alami, plastik, uncanny valley 3:4
+```
+
+</details>
+
+<a id="chatgpt-adidas-windbreaker-shutter-hand-over-mouth"></a>
+### 身穿阿迪达斯风衣的男子在卷帘门前遮嘴
+
+<a href="https://www.tiktok.com/@trungayai/video/7689454589904571669"><img src="../../previews/chatgpt-adidas-windbreaker-shutter-hand-over-mouth.jpg" width="360"></a>
+
+提示词明确写出服装细节（双袖条纹、胸前三叶草标、带抽绳连帽）、姿势（手遮住口鼻，下方手部带动态模糊）和背景，因此输出中每一项都能对应。强烈的直射闪光打在深色条纹卷帘门上，形成高反差的街拍质感。
+
+ChatGPT / Gemini · 文生图 · 出处: [@trungayai on TikTok](https://www.tiktok.com/@trungayai/video/7689454589904571669) · 1,492 赞，统计于 2026-10-30
+
+[`street-style`](tags.md#tag-street-style) [`adidas`](tags.md#tag-adidas) [`flash-photography`](tags.md#tag-flash-photography) [`portrait`](tags.md#tag-portrait)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A raw, street-style, candid photograph of a young Asian man standing in a medium waist-up shot. He is wearing a white oversized Adidas original windbreaker jacket with iconic black three-stripes down both sleeves and a small trefoil logo on the chest, a high neck with a hoodie and drawstrings, and black pants. His dark, naturally messy and voluminous hair frames his face. He is looking down and away from the camera, bringing his right hand up to cover his lower face (nose and mouth) in a cool, pensive gesture. His left hand, held lower, shows noticeable motion blur, adding realism. The background is a weathered, dark blue-black metal security shutter door with repetitive horizontal ribs, creating an industrial, urban environment. The lighting is harsh direct flash, brightly illuminating the man and casting deep shadows on his face and sharp shadows onto the shutter behind him, making him stand out. The color palette is high-contrast black, white, and deep urban blues/grays. The texture is gritty with film grain. Composition is eye-level, slightly off-center to the left. 35mm photograph, high contrast, moody atmosphere, cinematic urban street photography, 4k, photorealistic, cinematic lighting
+```
+
+</details>
+
+<a id="gemini-heartbreak-storm-kneeling-man-woman-steps"></a>
+### 心碎男子雨中跪地，女子背身而坐
+
+<a href="https://www.tiktok.com/@sirus_official/video/7689906533546691848"><img src="../../previews/gemini-heartbreak-storm-kneeling-man-woman-steps.jpg" width="360"></a>
+
+画面分为冷色暴风雨侧与暖色琥珀光侧，情绪对比一目了然。照片、泰迪熊、玫瑰和戒指盒等象征物置于前景，无需文字即可讲述分手的故事。
+
+Gemini · 上传图改图 · 出处: [@sirus_official on TikTok](https://www.tiktok.com/@sirus_official/video/7689906533546691848) · 1,199 赞，统计于 2026-10-30
+
+[`heartbreak`](tags.md#tag-heartbreak) [`cinematic`](tags.md#tag-cinematic) [`rain`](tags.md#tag-rain) [`poster`](tags.md#tag-poster)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Photorealistic cinematic heartbreak artwork in a wide **16:9 composition**, depicting a devastated young adult man kneeling in heavy rain on the left and a young adult woman sitting turned away from him on stone steps on the right. A violent thunderstorm and branching white lightning fill the sky above a distant city, contrasting with a warm golden-orange opening in the clouds behind the woman. Dark, emotionally intense, highly detailed music-poster aesthetic, **without text**. **Left foreground:** A young adult man kneels directly on rain-soaked pavement, his body hunched forward and his head deeply bowed. He has short, wet, tousled black hair, a dark trimmed beard, and a distressed expression with tightly lowered eyes. His hands are pressed together vertically in front of his face in a pleading or prayer-like gesture, fingers pointing diagonally upward toward the right. He wears a soaked charcoal-gray button-up shirt with rolled sleeves and dark, distressed jeans. The wet fabric clings to his shoulders and arms, revealing creases, worn textures, and scattered glossy droplets. A large round wristwatch with a dark strap is visible beside his clasped hands. His knees and lower legs fill the lower-left area. Cool storm light outlines his back, while warm light catches his forearms, fingers, cheek, and the front of his shirt. **Right middle ground:** A young adult woman sits sideways on broad, weathered stone steps with her back mostly toward the viewer, facing the glowing horizon on the right. Her face is hidden by her turned head and long, loose, wavy dark-brown hair. She wears a knee-length camel-brown coat over dark clothing, fitted black trousers, and brown lace-up ankle boots. One knee is raised, with her arms folded close around her bent legs. Her coat drapes over the edge of the steps, and her hair blows gently toward the left. Her posture conveys distance, withdrawal, and separation. Warm sunset light traces the edges of her hair and coat. **Symbolic foreground objects:** Across the wet pavement between the two figures, arrange abandoned romantic keepsakes. Near the man’s knees, a small rectangular photograph of a smiling couple leans backward at a slight angle, its surface wet and partly reflective. A small tan teddy bear lies on its side near the center. Several deep crimson roses rest diagonally across the lower center and lower right, with richly layered petals, dark green leaves, and long stems extending toward the right edge. Scatter a few loose red petals on the pavement. Near the bottom center, include a small open, dark jewelry box with a pale interior and a gold-colored ring visible beside its lower edge. Some objects are partially cropped by the bottom border. **Environment:** The ground is dark, rough stone covered in shallow puddles, with rain splashes and shimmering reflections of the lightning, roses, and amber sky. Behind the foreground, a low stone ledge overlooks a distant, softly blurred city skyline. Dense charcoal and steel-gray storm clouds swirl overhead. A brilliant, jagged lightning bolt branches downward through the central sky toward the distant horizon, with additional bright forks spreading across the upper center and upper right. Several black birds fly beneath the clouds, including one larger silhouette just left of the central lightning and a small flock near the upper-right corner. Heavy rain falls across the entire frame in bright, mostly vertical streaks, visibly striking clothing, steps, and pavement. Use dramatic cool blue-gray storm illumination on the left and luminous amber-gold light on the right. Preserve deep shadows while retaining detail in wet hair, skin, fabric, stone, and rose petals. Low camera position near pavement
 ```
 
 </details>
@@ -201,6 +315,44 @@ Prompt : a photorealistic, taken by phone photo of a handwritten essay in pencil
 
 </details>
 
+<a id="chatgpt-dancing-living-room-hairbrush-mic"></a>
+### 赤脚女子用发刷当麦克风在客厅跳舞
+
+<a href="https://www.tiktok.com/@jenjusticeunfiltered/video/7690247838596353311"><img src="../../previews/chatgpt-dancing-living-room-hairbrush-mic.jpg" width="360"></a>
+
+具体的服装、道具和情绪描述（赤脚、做旧牛仔裤、用发刷当麦克风、止不住地笑）让画面像抓拍的瞬间。3:4 比例和温暖的晚间光线定下画幅与氛围。
+
+ChatGPT · 文生图 · 出处: [@jenjusticeunfiltered on TikTok](https://www.tiktok.com/@jenjusticeunfiltered/video/7690247838596353311) · 532 赞，统计于 2026-10-30
+
+[`candid`](tags.md#tag-candid) [`lifestyle`](tags.md#tag-lifestyle) [`photorealistic`](tags.md#tag-photorealistic)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a candid photo of me dancing by myself in the middle of a cozy living room with music blasting. I'm barefoot, wearing distressed jeans and an oversized vintage band tee, holding a hairbrush like a microphone. My (describe your hair) hair is flying everywhere and I'm laughing uncontrollably. Warm evening lighting, joyful chaos, photorealistic, 3:4.
+```
+
+</details>
+
+<a id="chatgpt-istanbul-bridge-car-roof-night-portrait"></a>
+### 男子坐在车顶眺望灯光璀璨的博斯普鲁斯大桥
+
+<a href="https://www.tiktok.com/@onurbinayy/video/7690565480611859730"><img src="../../previews/chatgpt-istanbul-bridge-car-roof-night-portrait.jpg" width="360"></a>
+
+通过参考照片锁定人物身份，并用车型和车牌占位符让车辆可替换。竖版 9:16 构图配合后方斜角与略高视角，结尾的排除项（无文字、无水印、无其他人物）保持画面干净。
+
+ChatGPT · 上传图改图 · 出处: [@onurbinayy on TikTok](https://www.tiktok.com/@onurbinayy/video/7690565480611859730) · 524 赞，统计于 2026-10-30
+
+[`istanbul`](tags.md#tag-istanbul) [`night-city`](tags.md#tag-night-city) [`car`](tags.md#tag-car) [`portrait`](tags.md#tag-portrait)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Use the uploaded reference photo as the exact identity reference for the man. Preserve my real face, facial structure, hairstyle, hairline, beard, skin tone, age, and overall appearance with maximum accuracy. Do not beautify, stylize, or alter my face, hair, or beard. Create an ultra-realistic cinematic vertical night photo in Istanbul. VARIABLES: CAR: [CAR MODEL] PLATE: [LICENSE PLATE] Scene: A [CAR MODEL] is parked in the foreground at a scenic overlook in Istanbul at night, photographed from a rear three-quarter angle. The license plate must read exactly “[LICENSE PLATE]”. Keep the car’s real design, proportions, taillights, wheels, body shape, paint, and trim accurate. In the background, the Bosphorus and the 15 July Martyrs Bridge are clearly visible, dramatically illuminated at night. City lights cover the surrounding hills, with realistic reflections and deep night atmosphere. I am sitting casually on the rear edge / roofline area of the car, facing toward the Bosphorus and bridge, with my back mostly toward the camera. My head is slightly turned so part of my face can still be visible and identifiable. Preserve my exact face, hairstyle, and beard. Do not change them. Pose: relaxed, contemplative, natural posture, as if quietly watching the illuminated bridge and city. Wardrobe: simple white t-shirt, dark pants, clean casual shoes, or clothing matching my reference image if provided. Lighting: realistic ambient city light, subtle red glow from the taillights, cool blue-black night tones, warm city lights in the distance, natural shadows, realistic reflections on the car. Camera: vertical 9:16, medium-wide framing, slightly elevated viewpoint behind the vehicle, cinematic depth, realistic night photography, subtle film grain, high detail, natural contrast. No text, no captions, no play button, no social media UI, no watermark, no extra people.
+```
+
+</details>
+
 <a id="nano-banana-sadie-sink-lifeguard-stand-golden-hour"></a>
 ### 金色时刻救生塔上穿红色泳衣的女性
 
@@ -305,6 +457,25 @@ GPT Image 2 · 文生图 · 出处: [@AiwithLariab on X](https://x.com/AiwithLar
 
 ```text
 Ultra-realistic action photography, extreme fisheye lens, 8mm, worm’s-eye view from ground level, dynamic urban plaza scene. A stylish young person appears to be stepping over the camera, one sneaker sole dominating the foreground, hand reaching toward the lens.. Massive circular “tiny planet” perspective with historic European architecture curving around the edges of the frame, bright blue sky filled with fluffy white clouds at the center. Cinematic composition, dramatic distortion, ultra-wide angle, vibrant colors, sharp focus, HDR, photorealistic, highly detailed skin texture, travel photography aesthetic, motion energy, depth and scale, 8K resolution, professional DSLR quality, masterpiece, Instagram viral shot. Aspect Ratio 4:5.
+```
+
+</details>
+
+<a id="nano-banana-pro-baby-dragon-medieval-village-sunrise"></a>
+### 小绿龙走在石板铺就的村庄街道上
+
+<a href="https://www.tiktok.com/@prabinbashyal100/video/7689461667305999637"><img src="../../previews/nano-banana-pro-baby-dragon-medieval-village-sunrise.jpg" width="360"></a>
+
+简单的主体加场景描述就足够，模型会自动补全细节。日出这一时间点带来温暖的低角度光线和长长的影子，让画面更接近真实。
+
+Nano Banana Pro / ChatGPT · 文生图 · 出处: [@prabinbashyal100 on TikTok](https://www.tiktok.com/@prabinbashyal100/video/7689461667305999637) · 358 赞，统计于 2026-10-30
+
+[`fantasy`](tags.md#tag-fantasy) [`dragon`](tags.md#tag-dragon) [`village`](tags.md#tag-village) [`sunrise`](tags.md#tag-sunrise)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A tiny baby dragon roaming through a medieval European village at sunrise
 ```
 
 </details>
@@ -504,6 +675,25 @@ Realistic vertical phone street snapshot of a young woman on an urban train plat
 Long deep-black hair sweeps left in station wind. Oversized brown gradient sunglasses hide her eyes; head tilted upward, lips relaxed, cool distant expression. Small oval face, soft jawline, clean East Asian Y2K makeup, nude-pink lips. Warm-white cropped halter tank, low neckline, fitted ribbed cotton, subtle wrinkles, hem above waist. Low-rise loose vintage gray-brown jeans, layered gold necklaces, black quilted chain bag.
 
 Warm-beige skin with natural texture on shoulders, collarbones, arms, waist and abdomen. Cool fluorescent station light, metallic reflections, yellow tactile paving, concrete floor, blurred passengers in train windows. Real mobile noise, slight wide-angle feel.
+```
+
+</details>
+
+<a id="nano-banana-pro-blue-whale-flying-over-city"></a>
+### 夕阳下飞越海滨城市的蓝鲸
+
+<a href="https://www.tiktok.com/@prabinbashyal100/video/7689494838076525844"><img src="../../previews/nano-banana-pro-blue-whale-flying-over-city.jpg" width="360"></a>
+
+简短的场景描述只包含一个主体、一个环境和一个时间点，让模型自行补全光线与氛围。日落这一提示带来了暖色天空，并在鲸鱼身体边缘形成发光的逆光效果。
+
+Nano Banana Pro / ChatGPT · 文生图 · 出处: [@prabinbashyal100 on TikTok](https://www.tiktok.com/@prabinbashyal100/video/7689494838076525844) · 305 赞，统计于 2026-10-30
+
+[`whale`](tags.md#tag-whale) [`sunset`](tags.md#tag-sunset) [`cityscape`](tags.md#tag-cityscape) [`model-comparison`](tags.md#tag-model-comparison)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A giant blue whale flying above a modern coastal city at sunset
 ```
 
 </details>
@@ -758,6 +948,25 @@ Replace [SPECIFIC FEATURES] → Describe the body parts Example: detailed shell 
 Replace [COLORS] → Main colors used Example: blue, green, yellow and white
 
 Replace [BACKGROUND COLOR] → Choose soft colors Example: mint green, turquoise, pale blue, light gray-blue, coral pink
+```
+
+</details>
+
+<a id="chatgpt-future-child-trend-car-portrait"></a>
+### 女子在车内抱着小男孩
+
+<a href="https://www.tiktok.com/@nur_raishaa/video/7688305376206408980"><img src="../../previews/chatgpt-future-child-trend-car-portrait.jpg" width="360"></a>
+
+上传女子的参考照片并要求孩子外貌与其相似，可以固定面部特征。把需求描述为真实生活场景，会让模型生成自然光线和不刻意摆拍的构图。
+
+ChatGPT · 上传图改图 · 出处: [@nur_raishaa on TikTok](https://www.tiktok.com/@nur_raishaa/video/7688305376206408980) · 213 赞，统计于 2026-10-30
+
+[`portrait`](tags.md#tag-portrait) [`family`](tags.md#tag-family) [`future-child-trend`](tags.md#tag-future-child-trend) [`realism`](tags.md#tag-realism)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Generate a photo of a woman holding a baby boy. The baby boy appearance should be similar to the uploaded photo of the woman. The photo simulates a real-life scene for a high degree of realism
 ```
 
 </details>
@@ -2378,6 +2587,25 @@ GPT Image 2.5 · 上传图改图 · 出处: [@rewind02 on X](https://x.com/rewin
 
 </details>
 
+<a id="chatgpt-personal-tattoo-meaning-sheet"></a>
+### 花卉手臂纹身，含罗盘、山脉与爪印
+
+<a href="https://www.tiktok.com/@vangiegilley82/video/7682941647562231054"><img src="../../previews/chatgpt-personal-tattoo-meaning-sheet.jpg" width="360"></a>
+
+这个提示词依赖 ChatGPT 保存的用户记忆，无需手动输入个人信息。一次性要求设计图、每个元素的寓意以及最终理由，就能得到带配套图例面板的纹身效果图。
+
+ChatGPT · 文生图 · 出处: [@vangiegilley82 on TikTok](https://www.tiktok.com/@vangiegilley82/video/7682941647562231054) · 49 赞，统计于 2026-10-30
+
+[`tattoo`](tags.md#tag-tattoo) [`personalized`](tags.md#tag-personalized) [`memory`](tags.md#tag-memory) [`infographic`](tags.md#tag-infographic)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+create for me a tattoo that fits my personality perfectly based on everything you know and have learned about me, create an image of the tattoo and descriptions of the meaning behind each part of the tattoo design you created. tell me why the tattoo created suits my personality perfectly
+```
+
+</details>
+
 <a id="gpt-image-infinite-clone-line-emerald-portal"></a>
 ### 翡翠传送门前无尽排列的克隆人
 
@@ -2591,6 +2819,25 @@ that's a MASSIVE difference.
 
 left: OpenAI gpt images 2.5
 right: google's nano banana 2.1
+```
+
+</details>
+
+<a id="chatgpt-barefoot-runner-coastal-sunset-road"></a>
+### 日落时分在海岸公路上赤脚奔跑的女孩
+
+<a href="https://www.tiktok.com/@deniseleadingham/video/7687793692115012894"><img src="../../previews/chatgpt-barefoot-runner-coastal-sunset-road.jpg" width="360"></a>
+
+镜头贴近路面，主体居中对准路中线，前景虚化的运动鞋显得很大，形成强烈纵深。逆光暖色和湿润路面上的金色反光营造出氛围。
+
+ChatGPT · 上传图改图 · 出处: [@deniseleadingham on TikTok](https://www.tiktok.com/@deniseleadingham/video/7687793692115012894) · 37 赞，统计于 2026-10-30
+
+[`sunset`](tags.md#tag-sunset) [`coastal`](tags.md#tag-coastal) [`low-angle`](tags.md#tag-low-angle) [`reference-photo`](tags.md#tag-reference-photo)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Use my uploaded photo as a reference for the person and keep the face, hair, body shape, and recognizable personal features as true to the original as possible. Create a photorealistic, cinematic scene in vertical format: the person is seen from behind and is running barefoot along the center line of a winding coastal road toward a spectacular sunset. Both arms are stretched far out to the sides; the posture appears free, confident, and emotional. Long hair falls loosely over the back and moves slightly in the wind. Clothing: a loose white crop top and light blue, slim-fit, slightly ripped jeans. In the foreground, a pair of white sneakers with a dark side logo is out of focus on the asphalt, while the person is already several meters away. The road leads downhill toward the coast; on the right are steep cliffs, isolated houses, and warm lights on the mountainsides, on the left vegetation and rock. In the background, the sea sparkles in the orange sunlight, with small rocks jutting out of the water. The sky is extremely dramatic, with heavy dark clouds, strong orange, red, and gold tones, and visible rays of sunlight between the clouds. The low sun is near the horizon and creates a strong golden reflection on the sea and on the wet or glossy asphalt. Camera perspective very low, just above the road, centered and symmetrical, person exactly on the center line. Strong sense of depth, foreground sneakers large in the frame, person fully visible, background vast. Photorealistic, natural skin and fabric textures, detailed hair, realistic lighting, warm backlight mood, cinematic photography, slight depth of field blur in the foreground, high dynamic range, dramatic contrasts, high-quality professional photography, no artificially looking skin, no deformed hands or feet, no additional limbs, no unnatural proportions.
 ```
 
 </details>

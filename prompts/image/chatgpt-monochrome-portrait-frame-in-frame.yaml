@@ -1,0 +1,24 @@
+id: chatgpt-monochrome-portrait-frame-in-frame
+title:
+  en: High contrast monochrome portrait of pensive man
+  zh: 高对比黑白肖像，沉思的年轻男子
+model: ChatGPT
+mode: image-edit
+category: portrait
+tags:
+- portrait
+- monochrome
+- fashion
+- face-reference
+source:
+  name: '@djclerger on TikTok'
+  url: https://www.tiktok.com/@djclerger/video/7688398552199892225
+  credit: DJ CLERGER 😎
+  likes: 95
+  captured: '2026-10-30'
+  posted: '2026-09-22'
+notes:
+  en: The prompt pairs a face reference with concrete camera cues (85 mm lens, Leica look, shallow depth of field, sharp focus on the eyes) and a blurred foreground silhouette that creates a frame within a frame. Monochrome tone and dramatic side lighting set the editorial mood.
+  zh: 提示词先提供人脸参考，再给出具体的镜头参数（85 毫米镜头、徕卡质感、浅景深、眼部清晰对焦），并用虚化的前景剪影形成框中框构图。黑白色调和戏剧性光线确定了杂志编辑风格。
+prompt: |
+  En utilisant la référence du visage ci-dessus, crée un portrait noir et blanc à fort contraste, style fashion noir, d'un jeune homme portant une chemise blanche immaculée, assis pensif avec une main près du menton. Il est encadré par une silhouette floue en premier plan, créant une composition cinématographique de « cadre dans un cadre ». Un éclairage dramatique avec de profondes ombres et de fortes lumières met en valeur la structure du visage et l'émotion. L'esthétique est éditoriale et intemporelle, avec un arrière-plan minimaliste, un léger grain de film 4K, une texture de peau ultra réaliste. un focus net sur les yeux, une faible profondeur de champ, une photographie cinématographique, une atmosphère mélancolique, style magazine de luxe, look Leica M11, objectif 85 mm, un léger contour de lumière, des tons monochrome, photoréaliste, très détaillé.

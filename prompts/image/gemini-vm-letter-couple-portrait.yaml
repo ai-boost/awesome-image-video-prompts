@@ -1,0 +1,24 @@
+id: gemini-vm-letter-couple-portrait
+title:
+  en: Couple posing inside a navy VM letter
+  zh: 情侣置身深蓝 VM 字母造型人像
+model: Gemini
+mode: image-edit
+category: photo-to-art
+tags:
+- couple
+- typography
+- 3d-letter
+- luxury
+source:
+  name: '@gemini_photo on TikTok'
+  url: https://www.tiktok.com/@gemini_photo/video/7687294178681818381
+  credit: gemini AI
+  likes: 300
+  captured: '2026-10-30'
+  posted: '2026-09-19'
+notes:
+  en: Upload the couple's photo as a reference so Gemini keeps their faces, then state where each person sits along the V and M strokes. The prompt also fixes the material, lighting and exact text, which keeps the letter readable and the typography clean.
+  zh: 先上传情侣照片作为参考以保持人脸一致，再说明两人在 V 和 M 笔画上的位置。提示词同时固定了材质、光线和文字内容，使字母清晰、排版干净。
+prompt: |
+  Masterpiece, ultra-photorealistic, premium luxury editorial portrait, vertical composition. Create a large three-dimensional capital letter “VM” as the main centerpiece. The V and M must be clearly recognizable, perfectly formed, elegant and symmetrical, with the couple naturally integrated into the structure of the letters. A handsome young man stands on the left side, positioned along the V, wearing an elegant cream/off-white linen shirt with slightly rolled sleeves, matching tailored trousers and clean white sneakers. His body follows the diagonal shape of the V, creating a natural human interpretation of the letter. He gently looks toward the woman with a romantic expression. A beautiful young woman is positioned on the right/lower section of the M, sitting gracefully on one of the diagonal strokes while leaning slightly toward the man. She wears a sophisticated long flowing lavender-blue dress, elegant and modest, with delicate fabric details and soft natural folds. Her pose follows the geometry of the M, creating a visually meaningful connection between the couple and the letter. The couple should look naturally connected, with subtle romantic body language, soft eye contact and elegant chemistry — romantic but classy, not overly sexual. The entire VM letter should be luxurious deep navy blue, with a subtle metallic silver/chrome outline, realistic dimensional depth, glossy reflective edges and intricate elegant texture. Decorate the V and M with premium navy-blue and soft lavender flowers, delicate white flowers and tiny warm fairy lights arranged around the edges, without hiding the letter shape. Set the scene inside a luxurious dark navy studio, with dramatic soft spotlighting, subtle mist, cinematic shadows, warm glowing highlights and a highly polished reflective floor creating beautiful reflections of the couple and VM letter. Add tasteful small typography at the top: “LETTER” and at the bottom: “PORTRAIT”, using thin elegant white serif typography with a tiny heart symbol. Ultra-detailed skin texture, realistic hair strands, realistic fabric, natural anatomy, accurate hands and fingers, realistic shoes, cinematic depth of field, soft bokeh, luxury fashion photography, premium magazine aesthetic, dramatic but elegant lighting, photorealistic, 8K quality. Important: The V and M must remain clearly readable from the first glance, the couple must be positioned according to the actual letter structure, no extra letters, no distorted typography, no cartoon/anime appearance, no duplicated people, no extra limbs or fingers, no deformed faces. .

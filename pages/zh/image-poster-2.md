@@ -1,6 +1,76 @@
 # 海报与编辑排版
 
-[返回目录](../../README_zh.md) · 全部 197 条 · [1](image-poster.md) · **2**
+[返回目录](../../README_zh.md) · 全部 200 条 · [1](image-poster.md) · **2**
+
+<a id="gpt-image-tilt-shift-map-road-travel-poster"></a>
+### 从复古地图延伸出的上海移轴天际线
+
+<a href="https://x.com/Goodmanprotocol/status/2109581797944443143"><img src="../../previews/gpt-image-tilt-shift-map-road-travel-poster.jpg" width="360"></a>
+
+用城市占位符配合前景、中景、远景三层结构，让蜿蜒道路从印刷地图通向天际线。单一车辆作为视觉焦点，黄金时刻光线与移轴微缩质感让画面可信，排除清单则控制了杂乱。
+
+GPT Image 2.5 · 文生图 · 出处: [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2109581797944443143) · 44 赞，统计于 2026-10-28
+
+[`tilt-shift`](tags.md#tag-tilt-shift) [`miniature`](tags.md#tag-miniature) [`travel-poster`](tags.md#tag-travel-poster) [`vintage-map`](tags.md#tag-vintage-map) [`golden-hour`](tags.md#tag-golden-hour)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a premium FULL-FRAME 4:5 vertical miniature tilt-shift travel poster for [CITY / LOCATION].
+
+TEXT-TO-IMAGE ONLY — generate the entire scene from the destination name alone. No reference image required.
+
+CORE CONCEPT:
+A vintage printed city map transforms into a winding elevated road leading toward the destination’s iconic skyline. One realistic local vehicle drives along the curved road, becoming the main focal point.
+
+COMPOSITION:
+Foreground: detailed vintage map with “[CITY NAME]” printed boldly across it. Middle ground: a winding road emerging naturally from the map. Background: recognizable landmarks, authentic architecture, and local scenery arranged in atmospheric depth.
+
+STYLE:
+Photorealistic miniature diorama, tilt-shift photography, intricate cartographic textures, realistic vehicle details, shallow depth of field, warm golden-hour lighting, and cinematic shadows.
+
+FINAL AESTHETIC:
+A premium collectible travel poster blending vintage cartography with a realistic miniature world. Strong visual depth, authentic local atmosphere, and clean, uncluttered composition.
+
+AVOID:
+Unrelated landmarks, distorted roads, oversized vehicles, excessive labels, incorrect text, logos, watermarks, and borders.
+
+FORMAT: Full-bleed 4:5 vertical composition.
+```
+
+</details>
+
+<a id="nano-banana-christmas-city-diorama-template-grid"></a>
+### 红色背景上的等距圣诞城市微缩模型
+
+<a href="https://x.com/TechieBySA/status/2003053984454734030"><img src="../../previews/nano-banana-christmas-city-diorama-template-grid.jpg" width="360"></a>
+
+通过一个 [CITY] 占位符控制整体构图，因此每个城市都使用相同的固定 45° 俯视等距镜头、居中的微缩底座，以及城市名在上、CHRISTMAS EDITION 在下的文字层级。统一的红色背景和自动对比的白色或黑色文字，让系列作品保持一致。
+
+Nano Banana Pro · 文生图 · 出处: [@TechieBySA on X](https://x.com/TechieBySA/status/2003053984454734030) · 35 赞，统计于 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`isometric`](tags.md#tag-isometric) [`diorama`](tags.md#tag-diorama) [`template`](tags.md#tag-template)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+“Present a clear, 45° top-down isometric miniature 3D cartoon scene of [CITY], centered in the composition.
+Depict the city in a festive Christmas theme with seasonal decorations, glowing lights, and appropriate winter or holiday details.
+
+Use soft refined textures, realistic PBR materials, and gentle lifelike lighting with subtle shadows.
+Create a small raised diorama-style city base with clean edges.
+
+Use a clean red christmas background color that contrasts well with the scene.
+
+At the top-center, display [CITY] in large bold text.
+Directly beneath it, display CHRISTMAS EDITION in medium text.
+Optionally place a small round national flag icon below the text.
+
+All text must automatically match background contrast (white or black).
+Composition: perfectly centered, square 1080×1080, ultra-clean festive diorama aesthetic.”
+```
+
+</details>
 
 <a id="gpt-image-move-breakdance-poster"></a>
 ### 霹雳舞者穿插于巨型 MOVE 字母之间

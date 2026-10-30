@@ -1,0 +1,24 @@
+id: chatgpt-barefoot-runner-coastal-sunset-road
+title:
+  en: Barefoot runner on coastal road at sunset
+  zh: 日落时分在海岸公路上赤脚奔跑的女孩
+model: ChatGPT
+mode: image-edit
+category: realism
+tags:
+- sunset
+- coastal
+- low-angle
+- reference-photo
+source:
+  name: '@deniseleadingham on TikTok'
+  url: https://www.tiktok.com/@deniseleadingham/video/7687793692115012894
+  credit: ❤️Denise L ❤️
+  likes: 37
+  captured: '2026-10-30'
+  posted: '2026-09-21'
+notes:
+  en: A very low camera just above the road with the subject centered on the center line makes the blurred foreground sneakers loom large and sets up strong depth. Warm backlight and the golden reflection on wet asphalt carry the mood.
+  zh: 镜头贴近路面，主体居中对准路中线，前景虚化的运动鞋显得很大，形成强烈纵深。逆光暖色和湿润路面上的金色反光营造出氛围。
+prompt: |
+  Use my uploaded photo as a reference for the person and keep the face, hair, body shape, and recognizable personal features as true to the original as possible. Create a photorealistic, cinematic scene in vertical format: the person is seen from behind and is running barefoot along the center line of a winding coastal road toward a spectacular sunset. Both arms are stretched far out to the sides; the posture appears free, confident, and emotional. Long hair falls loosely over the back and moves slightly in the wind. Clothing: a loose white crop top and light blue, slim-fit, slightly ripped jeans. In the foreground, a pair of white sneakers with a dark side logo is out of focus on the asphalt, while the person is already several meters away. The road leads downhill toward the coast; on the right are steep cliffs, isolated houses, and warm lights on the mountainsides, on the left vegetation and rock. In the background, the sea sparkles in the orange sunlight, with small rocks jutting out of the water. The sky is extremely dramatic, with heavy dark clouds, strong orange, red, and gold tones, and visible rays of sunlight between the clouds. The low sun is near the horizon and creates a strong golden reflection on the sea and on the wet or glossy asphalt. Camera perspective very low, just above the road, centered and symmetrical, person exactly on the center line. Strong sense of depth, foreground sneakers large in the frame, person fully visible, background vast. Photorealistic, natural skin and fabric textures, detailed hair, realistic lighting, warm backlight mood, cinematic photography, slight depth of field blur in the foreground, high dynamic range, dramatic contrasts, high-quality professional photography, no artificially looking skin, no deformed hands or feet, no additional limbs, no unnatural proportions.

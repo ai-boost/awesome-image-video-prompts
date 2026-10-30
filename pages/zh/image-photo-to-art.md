@@ -1,6 +1,6 @@
 # 照片转艺术风格
 
-[返回目录](../../README_zh.md) · 全部 104 条
+[返回目录](../../README_zh.md) · 全部 109 条
 
 <a id="gpt-image-photo-to-watercolor-travel"></a>
 ### 上半旅行照片，下半同一场景水彩画
@@ -22,6 +22,25 @@ Lower section: a minimalist handmade watercolor painting of the exact same scene
 Leave generous warm ivory/off-white textured paper space surrounding the watercolor illustration. Add a small elegant handwritten caption near the bottom, such as “summer days” or “a quiet afternoon”, with a thin minimalist horizontal line underneath.
 Overall aesthetic: luxury travel journal, fine-art watercolor postcard, contemporary editorial design, nostalgic European summer, understated elegance, tactile handmade paper, sophisticated and serene.
 Portrait orientation, clean composition, premium art direction, no clutter, no borders, natural proportions, highly detailed photograph transitioning into an airy watercolor illustration.
+```
+
+</details>
+
+<a id="chatgpt-demon-slayer-hashira-red-moon"></a>
+### 红月下戴辫发的鬼杀队柱形象
+
+<a href="https://www.tiktok.com/@kingkay_34/video/7683545253504109838"><img src="../../previews/chatgpt-demon-slayer-hashira-red-moon.jpg" width="360"></a>
+
+提示词要求上传照片作为身份参考，并把服装、武器、配色和呼吸法效果写成明确的要求，因此图像能直接呈现角色设计。背景的红月、飘落的花瓣和宝塔则用来对应呼吸法的氛围。
+
+ChatGPT · 上传图改图 · 出处: [@kingkay_34 on TikTok](https://www.tiktok.com/@kingkay_34/video/7683545253504109838) · 1,539 赞，统计于 2026-10-30
+
+[`anime`](tags.md#tag-anime) [`demon-slayer`](tags.md#tag-demon-slayer) [`portrait`](tags.md#tag-portrait) [`reference-photo`](tags.md#tag-reference-photo)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Using everything you know about me from our conversations, turn me into a completely original Demon Slayer Hashira based on my real personality. Do NOT simply choose an existing Hashira, copy an existing Breathing Style, or give me the character you think I would like most. I want you to analyze who I actually am — my personality, strengths, flaws, habits, fears, values, how I handle conflict, how I protect people, how I think under pressure, and the overall energy I give off. If you genuinely do not know enough about me to personalize the result, ask me 5–10 interesting personality questions first. Do not ask questions if you already have enough information from our conversations. Then create my Hashira profile: - Hashira Title: Give me an original title that fits me. - Breathing Style: Invent a unique Breathing Style based specifically on my personality and explain why it suits me. - Fighting Style: Explain how I fight, including whether I rely on speed, strength, precision, strategy, unpredictability, defense, observation, aggression, etc. - Nichirin Weapon: Design my weapon, including its type, blade color, guard, special details, and any unusual characteristics. - Uniform & Haori: Design my Demon Slayer uniform and haori around my personality rather than simply using my favorite colors. - Color Palette & Symbol: Give me a signature color palette and personal symbol or motif. - Strengths: What would make me dangerous enough to become a Hashira? - Fatal Flaw: Give me a genuine weakness that could actually cause problems in battle. Don't make it a disguised compliment. - Breathing Forms: Create 5–8 named forms for my Breathing Style. Give each one a purpose and explain what it does. - Ultimate Form: Create my most dangerous technique and explain what makes using it risky. - Hashira Reputation: Tell me what the other Demon Slayers would say about me when I'm not around. - Demon Perspective: Explain why demons would specifically fear fighting me. - Backstory: Give me a short Demon Slayer backstory inspired by my personality, but do not invent real-life trauma or claim fictional events actually happened to me. - Rankings: Rank my Speed, Strength, Intelligence, Battle IQ, Stamina, Defense, Technique, and Unpredictability from 1–10. - Final Verdict: Tell me where I would realistically fall among the Hashira in overall combat ability and explain why. Make the result feel like I could genuinely exist in the Demon Slayer universe, while still being an original character. Be specific. Be creative. Give me strengths AND weaknesses. Don't make me ridiculously overpowered just because I'm the person asking. After the character profile, create a cinematic visual concept for my Hashira character using the photo I upload as the identity reference. Preserve my recognizable facial features, skin tone, hair characteristics, body type, age, and overall likeness. Transform me into the Hashira you designed above, including the correct uniform, haori, Nichirin weapon, colors, symbols, and Breathing Style effects. The setting and atmosphere should visually represent my unique Breathing Style.
 ```
 
 </details>
@@ -214,6 +233,25 @@ VISUAL LANGUAGE
 The final poster should feel:
 
 Quiet · Poetic · Refined · Minimal · Innocent · Relaxed · Artistic · Thoughtful · High-recognition · Premium
+```
+
+</details>
+
+<a id="chatgpt-rugrats-kid-reptar"></a>
+### 扎辫女孩变身蠢蛋一族小孩抱着雷普塔
+
+<a href="https://www.tiktok.com/@kenyana940/video/7684885263046249742"><img src="../../previews/chatgpt-rugrats-kid-reptar.jpg" width="360"></a>
+
+指定节目和一个标志性玩具，既给出明确的卡通目标，又借参考照片保留人物相貌。提示词很短，场景、道具和风格由模型自行补充。
+
+ChatGPT · 上传图改图 · 出处: [@kenyana940 on TikTok](https://www.tiktok.com/@kenyana940/video/7684885263046249742) · 997 赞，统计于 2026-10-30
+
+[`rugrats`](tags.md#tag-rugrats) [`cartoon`](tags.md#tag-cartoon) [`reptar`](tags.md#tag-reptar)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+With the picture provided and what you know about me Show me what I would look like as a Rugrats kid. Include the toy Reptar(or whatever one you liked from the show)
 ```
 
 </details>
@@ -957,6 +995,25 @@ Keep it simple but expressive — warm, nostalgic, slightly messy, and full of i
 
 </details>
 
+<a id="gemini-vm-letter-couple-portrait"></a>
+### 情侣置身深蓝 VM 字母造型人像
+
+<a href="https://www.tiktok.com/@gemini_photo/video/7687294178681818381"><img src="../../previews/gemini-vm-letter-couple-portrait.jpg" width="360"></a>
+
+先上传情侣照片作为参考以保持人脸一致，再说明两人在 V 和 M 笔画上的位置。提示词同时固定了材质、光线和文字内容，使字母清晰、排版干净。
+
+Gemini · 上传图改图 · 出处: [@gemini_photo on TikTok](https://www.tiktok.com/@gemini_photo/video/7687294178681818381) · 300 赞，统计于 2026-10-30
+
+[`couple`](tags.md#tag-couple) [`typography`](tags.md#tag-typography) [`3d-letter`](tags.md#tag-3d-letter) [`luxury`](tags.md#tag-luxury)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Masterpiece, ultra-photorealistic, premium luxury editorial portrait, vertical composition. Create a large three-dimensional capital letter “VM” as the main centerpiece. The V and M must be clearly recognizable, perfectly formed, elegant and symmetrical, with the couple naturally integrated into the structure of the letters. A handsome young man stands on the left side, positioned along the V, wearing an elegant cream/off-white linen shirt with slightly rolled sleeves, matching tailored trousers and clean white sneakers. His body follows the diagonal shape of the V, creating a natural human interpretation of the letter. He gently looks toward the woman with a romantic expression. A beautiful young woman is positioned on the right/lower section of the M, sitting gracefully on one of the diagonal strokes while leaning slightly toward the man. She wears a sophisticated long flowing lavender-blue dress, elegant and modest, with delicate fabric details and soft natural folds. Her pose follows the geometry of the M, creating a visually meaningful connection between the couple and the letter. The couple should look naturally connected, with subtle romantic body language, soft eye contact and elegant chemistry — romantic but classy, not overly sexual. The entire VM letter should be luxurious deep navy blue, with a subtle metallic silver/chrome outline, realistic dimensional depth, glossy reflective edges and intricate elegant texture. Decorate the V and M with premium navy-blue and soft lavender flowers, delicate white flowers and tiny warm fairy lights arranged around the edges, without hiding the letter shape. Set the scene inside a luxurious dark navy studio, with dramatic soft spotlighting, subtle mist, cinematic shadows, warm glowing highlights and a highly polished reflective floor creating beautiful reflections of the couple and VM letter. Add tasteful small typography at the top: “LETTER” and at the bottom: “PORTRAIT”, using thin elegant white serif typography with a tiny heart symbol. Ultra-detailed skin texture, realistic hair strands, realistic fabric, natural anatomy, accurate hands and fingers, realistic shoes, cinematic depth of field, soft bokeh, luxury fashion photography, premium magazine aesthetic, dramatic but elegant lighting, photorealistic, 8K quality. Important: The V and M must remain clearly readable from the first glance, the couple must be positioned according to the actual letter structure, no extra letters, no distorted typography, no cartoon/anime appearance, no duplicated people, no extra limbs or fingers, no deformed faces. .
+```
+
+</details>
+
 <a id="gpt-image-blue-doodle-couple-photo"></a>
 ### 照片变成蓝色涂鸦情侣插画
 
@@ -1666,6 +1723,25 @@ Nano Banana 2 · 上传图改图 · 出处: [@Naiknelofar788 on X](https://x.com
 
 ```text
 Use the uploaded image as your main reference point. Keep the same pose, facial features, proportions, and composition of the person. Turn the image into a hand-drawn illustration on lined notepad paper. The character should look like a detailed drawing in colored pencil and ink with cross-hatching and shading of the sketch. Add comic book-style drawings and notes around the character, such as arrows, doodles, “WOW”, “COOL!”and design notes. Circle the character with the smooth red-yellow glow of the sketch. Keep the concentrated composition of the portrait and the proportions of the whole body as in the original photo.The style should be similar to a conceptual drawing from a designer sketchbook: playful doodles, rough lines, warm tones, high detail. concept art for a sketchbook, drawings of characters on sheets of paper, illustrations with colored pencils, a background made of paper for a notebook, design notes made by hand You can choose the aspect ratio depending on the artificial intelligence or design you are using.
+```
+
+</details>
+
+<a id="chatgpt-lagos-1980s-portrait-reference"></a>
+### 1980年代拉各斯街头女性肖像
+
+<a href="https://www.tiktok.com/@ewawunmi76/video/7688410480255175956"><img src="../../previews/chatgpt-lagos-1980s-portrait-reference.jpg" width="360"></a>
+
+先上传参考照片并要求保留五官来锁定人物相貌，再用复古发型、时代服装以及带有老式汽车的拉各斯场景限定年代。颗粒感、划痕、褪色的暖色调和柔焦让画面像一张真实的老照片，而不是现代的服装扮演。
+
+ChatGPT · 上传图改图 · 出处: [@ewawunmi76 on TikTok](https://www.tiktok.com/@ewawunmi76/video/7688410480255175956) · 190 赞，统计于 2026-10-30
+
+[`1980s`](tags.md#tag-1980s) [`retro`](tags.md#tag-retro) [`lagos`](tags.md#tag-lagos) [`portrait`](tags.md#tag-portrait) [`film-grain`](tags.md#tag-film-grain)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Using my uploaded photo as the facial reference, create a realistic portrait showing what I might have looked like in the 1980s. Keep my facial features and overall appearance recognizable and natural. Give me an authentic 1980s hairstyle, such as voluminous curly hair, and dress me in a stylish vintage 80s outfit with bold shoulders, a beautiful patterned blouse, statement gold earrings, a gold wristwatch and elegant accessories. Give me a confident, classy and sophisticated 1980s woman aesthetic. Place me in an authentic 1980s Nigerian/Lagos setting with vintage cars, old-fashioned buildings and people dressed in period-appropriate clothing. Make the photograph look like it was actually taken in the 1980s, with warm vintage tones, slightly faded colors, realistic film grain, subtle scratches, soft focus and an old printed-photograph texture. Make it elegant, glamorous, nostalgic and realistic rather than looking like a modern costume. The final image should feel like a genuine family photograph or fashion portrait from Lagos in the 1980s.
 ```
 
 </details>
@@ -2865,6 +2941,25 @@ GPT Image 2.5 · 上传图改图 · 出处: [@harboriis on X](https://x.com/harb
 
 ```text
 Turn this photo into a contemporary, artist-made naïve illustration: minimalist and hand-drawn, with playful proportions, uneven outlines, flat colors that are soft yet contrasting, and decorative pencil strokes. No shadows, gradients, or 3D effects. Give it the feel of a high-end designer poster drawn with colored pencils. Keep it cute and cartoon-like.
+```
+
+</details>
+
+<a id="chatgpt-1980s-vintage-film-portrait-studio"></a>
+### 1980年代胶片影棚人像，年轻女子
+
+<a href="https://www.tiktok.com/@saorrsa1/video/7690442694497209608"><img src="../../previews/chatgpt-1980s-vintage-film-portrait-studio.jpg" width="360"></a>
+
+提示词先锁定人脸、五官、肤色和表情，再叠加具体的年代线索：经典80年代发型、复古服饰、暖调电影光、褪色色彩和35毫米颗粒，使编辑只改变造型与色调，而不重绘人物。
+
+ChatGPT / Gemini · 上传图改图 · 出处: [@saorrsa1 on TikTok](https://www.tiktok.com/@saorrsa1/video/7690442694497209608) · 74 赞，统计于 2026-10-30
+
+[`vintage`](tags.md#tag-vintage) [`portrait`](tags.md#tag-portrait) [`film`](tags.md#tag-film) [`retro`](tags.md#tag-retro) [`1980s`](tags.md#tag-1980s)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Keep my face identity, facial features, skin tone and natural expression unchanged. Transform my portrait into a realistic 1980s vintage film photograph with classic 80s hairstyle, retro fashion, warm cinematic lighting, faded colors, grainy 35mm texture and nostalgic atmosphere.
 ```
 
 </details>

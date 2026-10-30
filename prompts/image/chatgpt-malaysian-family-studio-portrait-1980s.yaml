@@ -1,0 +1,24 @@
+id: chatgpt-malaysian-family-studio-portrait-1980s
+title:
+  en: Vintage Malaysian family studio portrait with sepia backdrop
+  zh: 马来西亚复古家庭影棚合影，棕褐色背景
+model: ChatGPT
+mode: text-to-image
+category: portrait
+tags:
+- retro
+- family
+- vintage-film
+- malaysia
+source:
+  name: '@nynasweety on TikTok'
+  url: https://www.tiktok.com/@nynasweety/video/7683135740514946324
+  credit: Nynasweety
+  likes: 381
+  captured: '2026-10-30'
+  posted: '2026-09-08'
+notes:
+  en: The prompt names the era, country and exact clothing for each person, then uses scanned-photo texture words such as faded colours, analog film grain and soft warm light to make it look like an old album print. Assigning each outfit to a position in the group keeps a multi-person composition readable.
+  zh: 提示词写明年代、国家以及每个人的具体服装，再用褪色、模拟胶片颗粒和柔和暖光等扫描老照片的质感词，让画面像旧相册里的照片。按站位逐一指定服装，使多人构图清晰可控。
+prompt: |
+  A vintage, nostalgic studio family portrait from the late 1980s or early 1990s in Malaysia. The photo shows a traditional Malaysian family: a father standing at the back wearing a formal grey suit jacket and a striped tie, a mother sitting gracefully in the center wearing a vintage floral Baju Kurung Moden with a matching tudung (hijab), and three young sons. The eldest son stands to the side in a striped collared shirt and high-waisted pleated trousers, while the two younger sons are wearing colorful tucked-in collared shirts and retro trousers. The setting is a classic photography studio with a textured brown-sepia backdrop, an old wooden side table with artificial flowers on a lace doily, and a patterned vintage carpet. The entire image must have a realistic old photograph texture, with soft warm lighting, faded colors, and authentic analog film grain, looking exactly like a scanned photo from an old family album.

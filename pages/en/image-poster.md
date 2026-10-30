@@ -1,6 +1,6 @@
 # Posters and editorial layouts
 
-[Back to the list](../../README.md) · All 197 entries · **1** · [2](image-poster-2.md)
+[Back to the list](../../README.md) · All 200 entries · **1** · [2](image-poster-2.md)
 
 <a id="gpt-image-flat-vector-city-travel-poster-template"></a>
 ### Flat vector travel poster template for any city
@@ -282,6 +282,25 @@ Rendering Quality:
 Ultra-clean vector-style finish
 Poster-quality composition
 4K resolution, high detail
+```
+
+</details>
+
+<a id="chatgpt-rancher-service-double-exposure-profile"></a>
+### Cowboy profile merged with service and ranch scenes
+
+<a href="https://www.tiktok.com/@wranglerjf/video/7683621459196955917"><img src="../../previews/chatgpt-rancher-service-double-exposure-profile.jpg" width="360"></a>
+
+A placeholder template fixes the layout: a large right-facing profile with a dense story collage inside the silhouette. Leaving STORY_THEME blank lets the model build a story that fits the subject's expression, while the grain, lighting and monochrome terms keep the finish gritty rather than plastic.
+
+ChatGPT · Edit · Source: [@wranglerjf on TikTok](https://www.tiktok.com/@wranglerjf/video/7683621459196955917) · 1,498 likes on 2026-10-30
+
+[`double-exposure`](tags.md#tag-double-exposure) [`monochrome`](tags.md#tag-monochrome) [`portrait`](tags.md#tag-portrait) [`editorial-poster`](tags.md#tag-editorial-poster)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a vertical ASPECT_RATIO monochrome editorial double-exposure portrait based on PERSON_REFERENCE. The final image must preserve the recognizable identity of the person: face shape, skin tone, hairstyle direction, facial proportions, age impression, expression, and overall presence. Transform the person into a large clean side-profile silhouette facing right, with the face and upper torso occupying most of the frame. •Inside the silhouette, show STORY_THEME as several connected cinematic scenes rather than one flat image. If STORY_THEME is blank, fantasize a noir urban story that fits the person's expression and mood. Build the scenes as layered city streets, windows, architectural fragments, small walking figures, interior rooms, and memory-like panels placed inside the head, hair, neck, and torso. The silhouette edge must remain readable, especially the forehead, nose, lips, chin, and neck. •Style target: high-contrast black, charcoal, bone white, and warm gray; gritty pencil-drawing edge; photographic city collage; pixel-dust erosion; scattered square fragments dissolving from the back of the head and lower body. Use layered transparencies and double exposure with a premium editorial poster finish. •Composition: large profile on the right, dense story collage through the center and left, fragmented negative space around the outer silhouette. Keep the interior scenes clear and sequential enough to feel like a story. Add only sparse story-relevant text if it naturally belongs on a sign, book, note, or scene detail; otherwise use no text. •Lighting: luminous glow around forehead and cheek, deep black interior shadows, tiny street-light highlights inside the silhouette, rain-slick reflections where useful. Texture should feel tactile, grainy, imperfect, and cinematic, never plastic.
 ```
 
 </details>
@@ -1509,6 +1528,25 @@ professional editorial composition,
 luxury commercial poster realism,
 high-end typography integration,
 award-winning advertising art direction.
+```
+
+</details>
+
+<a id="chatgpt-personality-board-game-reveal"></a>
+### Navy and gold personality board game reveal
+
+<a href="https://www.tiktok.com/@susanswearingenbeesley/video/7683917050204474654"><img src="../../previews/chatgpt-personality-board-game-reveal.jpg" width="360"></a>
+
+The prompt has the model invent the game (title, rules, sample cards) before designing the reveal, so every prop reads as part of one concept. A single navy and gold palette runs through the cards, dice, board and mug, and the question sits in the dark upper area where the text stays readable.
+
+ChatGPT · Text-to-image · Source: [@susanswearingenbeesley on TikTok](https://www.tiktok.com/@susanswearingenbeesley/video/7683917050204474654) · 310 likes on 2026-10-30
+
+[`board-game`](tags.md#tag-board-game) [`personality`](tags.md#tag-personality) [`social-media`](tags.md#tag-social-media) [`still-life`](tags.md#tag-still-life)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Based on what you know about me, create a custom board game inspired by my personality, daily life, favorite things, habits, humor, and overall vibe. Include a creative game title, a short tagline, what the board game would look like, a few sample cards or spaces, how to play, how to win, and why it fits me. Then design it as a stylish social media reveal image with the game box, board, pieces, cards, and a polished aesthetic that matches my personality.
 ```
 
 </details>
@@ -6149,6 +6187,25 @@ Style: premium magazine poster, clean typography, high contrast text, cinematic,
 
 </details>
 
+<a id="chatgpt-queen-acronym-poster-personal"></a>
+### Gold QUEEN acronym poster with personal collage
+
+<a href="https://www.tiktok.com/@ninersqueen76/video/7686313195148954894"><img src="../../previews/chatgpt-queen-acronym-poster-personal.jpg" width="360"></a>
+
+The prompt lets the model choose the word and build the acronym itself, so each letter gets its own trait line. Naming the uploaded photo as the only identity reference keeps the face consistent while props and layout carry the personality.
+
+ChatGPT · Edit · Source: [@ninersqueen76 on TikTok](https://www.tiktok.com/@ninersqueen76/video/7686313195148954894) · 79 likes on 2026-10-30
+
+[`acronym`](tags.md#tag-acronym) [`typography`](tags.md#tag-typography) [`personalized`](tags.md#tag-personalized) [`identity-reference`](tags.md#tag-identity-reference)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Using my uploaded photo as the ONLY identity reference and what you have learned about me through our conversations when available, choose ONE word that best represents who I am, then turn that word into a personalized acronym. Do NOT ask me to choose the word—surprise me. Choose the word independently based entirely on what you know about my personality, humor, interests, hobbies, lifestyle, values, strengths, quirks, boundaries, relationships, things I love, and patterns you have noticed about me. It can be funny, badass, wholesome, chaotic, witchy, sarcastic, slightly unhinged, meaningful, or a mixture—whatever genuinely fits ME. Do not copy or reuse another person’s acronym. Create a detailed cinematic poster featuring me. At the VERY TOP, display my chosen acronym in large, bold letters with a period after EVERY individual letter, including the final letter.
+```
+
+</details>
+
 <a id="gpt-image-humble-pie-pistachio-almond-ad"></a>
 ### Woman holding Humble Pie pistachio ice cream tub ad
 
@@ -6817,249 +6874,6 @@ Add minimal typography: [CITY / COUNTRY] — [LANDMARK NAME], with optional coor
 STYLE: premium conceptual travel poster, poetic visual storytelling, real photography + minimalist ink illustration, warm ivory paper, delicate golden thread, sophisticated editorial composition, museum-quality art print, subtle vintage texture, emotional but understated, generous negative space, vertical 4:5 composition.
 
 IMPORTANT: Keep the real photograph visually dominant and authentic. The illustrated section should feel like it is physically connected to the photograph by the single continuous golden thread. No collage clutter, no excessive typography, no random objects, no cartoonish style, no distorted architecture.
-```
-
-</details>
-
-<a id="gpt-image-city-travel-poster-vector-template"></a>
-### Zurich Vector Travel Poster Template
-
-<a href="https://x.com/Maercihh/status/2113234692199641441"><img src="../../previews/gpt-image-city-travel-poster-vector-template.jpg" width="360"></a>
-
-A JSON prompt with a single city name placeholder lets the model pick the landmarks, transport and country text by itself. Layered depth, a fixed navy and ivory palette and a separate typography band keep every city in the same vintage poster style.
-
-GPT Image 2.5 · Text-to-image · Source: [@Maercihh on X](https://x.com/Maercihh/status/2113234692199641441) · 44 likes on 2026-10-29
-
-[`travel-poster`](tags.md#tag-travel-poster) [`vector`](tags.md#tag-vector) [`template`](tags.md#tag-template) [`json-prompt`](tags.md#tag-json-prompt) [`city`](tags.md#tag-city)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-{
-"input": {
-"city_name": "{{CITY NAME}}"
-},
-
-"generation": {
-"type": "premium_illustrated_travel_poster",
-"aspect_ratio": "3:4",
-"orientation": "portrait",
-"resolution": "high",
-"reference_mode": "use_uploaded_images_for_style_reference_only",
-"city_adaptation": "fully_automatic"
-},
-
-"creative_direction": {
-"objective": "Create a beautifully composed, destination-specific illustrated travel poster that resembles a premium vintage European travel print with crisp modern vector artwork. Every generated image must feel like an authentic visual postcard of the specified city.",
-
-"art_style": {
-  "primary": "refined_flat_vector_illustration",
-  "secondary": "mid_century_travel_poster",
-  "influences": [
-    "classic European tourism posters",
-    "Japanese illustrated travel prints",
-    "modern editorial vector artwork",
-    "minimalist architectural illustration"
-  ],
-  "rendering": "clean geometric shapes, precise architectural outlines, layered silhouettes, controlled shading, subtle tonal gradients, carefully simplified details",
-  "texture": "smooth matte printed-paper appearance with extremely subtle print texture",
-  "realism_level": "stylized illustration with recognizable architectural accuracy",
-  "avoid": [
-    "photorealism",
-    "3D rendering",
-    "watercolor effects",
-    "rough sketching",
-    "childish cartoon styling",
-    "excessive gradients",
-    "plastic-looking surfaces",
-    "generic AI artwork"
-  ]
-},
-
-"destination_intelligence": {
-  "instruction": "Identify the actual city, its country, and its most recognizable visual landmarks. Build the composition around a carefully selected combination of authentic architecture, local scenery, transportation, public spaces, and cultural elements.",
-  "landmarks": "Select 2 to 4 recognizable landmarks or architectural features associated with the specified city.",
-  "architecture": "Reproduce the city's characteristic architectural styles, rooflines, facades, towers, monuments, and urban structures.",
-  "natural_environment": "Include locally appropriate mountains, rivers, lakes, coastlines, gardens, trees, or other landscape elements when relevant.",
-  "transportation": "Add a locally recognizable train, tram, bus, boat, bicycle, or other transportation element only when appropriate.",
-  "cultural_details": "Include subtle, authentic local details such as street lamps, traditional storefronts, bridges, signage, or regional vegetation.",
-  "accuracy_rule": "Do not invent landmarks or combine unrelated cities. All recognizable locations and cultural details must correspond to the requested destination.",
-  "fallback": "If a city has limited internationally recognizable landmarks, create an authentic composition using its actual architecture, urban character, and regional landscape."
-},
-
-"composition": {
-  "layout": "large illustrated cityscape in the upper portion, destination typography in a separate lower section",
-  "main_illustration": {
-    "coverage": "approximately 78 to 83 percent of the canvas height",
-    "framing": "a carefully composed, almost rectangular scenic illustration with clean edges",
-    "perspective": "slightly elevated or street-level architectural perspective chosen to best showcase the destination",
-    "depth_layers": [
-      "foreground with flowers, trees, benches, railings, steps, pedestrians, or waterfront details",
-      "middle ground with streets, bridges, public spaces, transport, and prominent architecture",
-      "background with the city's skyline, secondary landmarks, and natural landscape"
-    ],
-    "visual_hierarchy": "one dominant landmark supported by complementary architectural elements",
-    "spacing": "balanced, intentional, and visually rich without overcrowding",
-    "human_figures": "small, elegantly simplified pedestrians used sparingly to establish scale",
-    "sky": "clean pale sky with a few minimal stylized clouds or birds when appropriate"
-  },
-
-  "foreground_details": {
-    "instruction": "Select destination-appropriate details that frame the scene naturally without obscuring its important landmarks.",
-    "density": "moderate",
-    "rule": "Avoid forcing flowers, boats, trees, or other elements into cities where they would look geographically or compositionally unnatural."
-  },
-
-  "background": {
-    "color": "warm white or very pale ivory",
-    "style": "minimal, uncluttered, print-ready",
-    "negative_space": "generous space surrounding the illustration and destination typography"
-  }
-},
-
-"color_palette": {
-  "primary": [
-    "deep navy blue",
-    "cobalt blue",
-    "sky blue",
-    "warm ivory",
-    "soft cream"
-  ],
-  "secondary": [
-    "muted forest green",
-    "sage green",
-    "warm architectural beige",
-    "terracotta",
-    "soft grey"
-  ],
-  "adaptation": "Adjust accent colors to complement the city's architecture, national character, and natural surroundings.",
-  "contrast": "clear and harmonious with strong separation between architectural layers",
-  "saturation": "moderate, elegant, and print-friendly",
-  "lighting": "bright, soft daylight with minimal hard shadows"
-},
-
-"typography": {
-  "placement": "centered beneath the illustration",
-  "city_name": {
-    "text": "{{CITY NAME IN UPPERCASE}}",
-    "font_style": "large, elegant, geometric sans-serif",
-    "weight": "regular to medium",
-    "letter_spacing": "very wide",
-    "alignment": "center",
-    "color": "deep navy blue",
-    "importance": "primary visual anchor of the lower section"
-  },
-
-  "country_name": {
-    "text": "Automatically identify the correct country and display its name in uppercase",
-    "font_style": "small, clean sans-serif",
-    "letter_spacing": "wide",
-    "alignment": "center",
-    "color": "muted navy or a restrained destination-appropriate accent",
-    "position": "directly below the city name"
-  },
-
-  "decorative_elements": {
-    "horizontal_lines": "thin symmetrical horizontal lines on either side of the country name when visually appropriate",
-    "national_emblem": "Optional small, accurate national symbol beneath the typography only when suitable",
-    "rule": "Keep typography minimal, legible, accurately spelled, and free of additional promotional copy."
-  }
-},
-
-"image_quality": {
-  "edges": "crisp and clean",
-  "architecture": "recognizable, coherent, and carefully detailed",
-  "shapes": "precise geometric silhouettes",
-  "print_quality": "premium travel-poster finish",
-  "composition_quality": "professional graphic-design balance",
-  "text_quality": "correct city and country spelling",
-  "final_appearance": "a sophisticated collectible illustrated travel poster suitable for high-quality social media publishing"
-}
-
-},
-
-"strict_rules": {
-"preserve_reference_style": true,
-"change_destination_automatically": true,
-"use_real_city_landmarks": true,
-"use_correct_country_name": true,
-"keep_illustration_above_typography": true,
-"maintain_clean_ivory_background": true,
-"maintain_wide_letter_spacing": true,
-"keep_composition_balanced": true,
-"no_unrequested_text": true,
-"no_watermarks": true,
-"no_borders_unless_integral_to_design": true,
-"no_photographic_rendering": true,
-"no_unrelated_landmarks": true,
-"no_misspelled_text": true
-},
-
-"negative_prompt": [
-"photorealistic photography",
-"3D CGI",
-"anime",
-"childlike cartoon",
-"watercolor painting",
-"oil painting",
-"messy sketch lines",
-"overly textured paper",
-"dark dramatic lighting",
-"neon colors",
-"cluttered composition",
-"distorted buildings",
-"incorrect landmarks",
-"geographically inconsistent scenery",
-"unreadable typography",
-"misspelled city name",
-"incorrect country name",
-"random letters",
-"excessive text",
-"watermarks",
-"logos",
-"cropped landmarks",
-"unbalanced typography",
-"photographic cutouts"
-]
-}
-```
-
-</details>
-
-<a id="gpt-image-tilt-shift-map-road-travel-poster"></a>
-### Tilt shift Shanghai skyline rising from vintage map
-
-<a href="https://x.com/Goodmanprotocol/status/2109581797944443143"><img src="../../previews/gpt-image-tilt-shift-map-road-travel-poster.jpg" width="360"></a>
-
-A fill in city placeholder drives a clear foreground, middle ground and background layout, with a winding road leading from the printed map to the skyline. One vehicle as the focal point, golden hour light and a tilt shift diorama look keep the scene believable, and the avoid list limits clutter.
-
-GPT Image 2.5 · Text-to-image · Source: [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2109581797944443143) · 44 likes on 2026-10-28
-
-[`tilt-shift`](tags.md#tag-tilt-shift) [`miniature`](tags.md#tag-miniature) [`travel-poster`](tags.md#tag-travel-poster) [`vintage-map`](tags.md#tag-vintage-map) [`golden-hour`](tags.md#tag-golden-hour)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a premium FULL-FRAME 4:5 vertical miniature tilt-shift travel poster for [CITY / LOCATION].
-
-TEXT-TO-IMAGE ONLY — generate the entire scene from the destination name alone. No reference image required.
-
-CORE CONCEPT:
-A vintage printed city map transforms into a winding elevated road leading toward the destination’s iconic skyline. One realistic local vehicle drives along the curved road, becoming the main focal point.
-
-COMPOSITION:
-Foreground: detailed vintage map with “[CITY NAME]” printed boldly across it. Middle ground: a winding road emerging naturally from the map. Background: recognizable landmarks, authentic architecture, and local scenery arranged in atmospheric depth.
-
-STYLE:
-Photorealistic miniature diorama, tilt-shift photography, intricate cartographic textures, realistic vehicle details, shallow depth of field, warm golden-hour lighting, and cinematic shadows.
-
-FINAL AESTHETIC:
-A premium collectible travel poster blending vintage cartography with a realistic miniature world. Strong visual depth, authentic local atmosphere, and clean, uncluttered composition.
-
-AVOID:
-Unrelated landmarks, distorted roads, oversized vehicles, excessive labels, incorrect text, logos, watermarks, and borders.
-
-FORMAT: Full-bleed 4:5 vertical composition.
 ```
 
 </details>

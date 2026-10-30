@@ -1,0 +1,24 @@
+id: chatgpt-stadium-pavilion-match-portrait
+title:
+  en: Man in white shirt watching match from pavilion
+  zh: 白衬衫男子在看台包厢观看足球比赛
+model: ChatGPT
+mode: image-edit
+category: portrait
+tags:
+- football
+- stadium
+- portrait
+- reference-image
+source:
+  name: '@adelex2468 on TikTok'
+  url: https://www.tiktok.com/@adelex2468/video/7680528055911206152
+  credit: Adelex(Easy Life)
+  likes: 3518
+  captured: '2026-10-30'
+  posted: '2026-09-01'
+notes:
+  en: Uploading a reference photo and adding an explicit identity-preservation section keeps the face consistent across the edit. Separate labeled sections for outfit, stadium, pose and photography make each element easy to control.
+  zh: 上传参考照片并加入明确的身份保留段落，可以让编辑后的人脸保持一致。将服装、球场环境、姿势和摄影要求分成带标签的段落，每个元素都便于单独控制。
+prompt: |
+  Use the uploaded reference image as the exact facial identity and appearance reference for the young man. Create an ultra-realistic, cinematic 8K professional photograph of the same young man sitting comfortably in a premium stadium pavilion, watching an exciting live football match from an excellent viewing position. IDENTITY PRESERVATION — CRITICAL: Preserve his exact natural facial identity and likeness from the reference image, including facial structure, skin tone, eyes, eyebrows, nose, lips, jawline, hairstyle, facial proportions, and natural skin texture. Do not reshape, beautify, age, or significantly alter his face. He is seated naturally and confidently in a comfortable VIP-style pavilion seat, focused on the football match happening on the pitch in front of him. His body language is relaxed, composed, and confident, with a natural expression showing genuine interest in the game. OUTFIT: He is wearing a stylish white oversized button-up shirt, slightly relaxed and naturally draped, paired with oversized cream-colored trousers with a premium, elegant fit. Complete the outfit with clean, fashionable white sneakers. The overall look should be modern, minimal, classy, youthful, and effortlessly stylish. STADIUM ENVIRONMENT: A beautiful modern football stadium filled with spectators, vibrant atmosphere, realistic football pitch visible in the background, players actively competing on the field, stadium floodlights illuminating the pitch, subtle crowd details, banners and stadium architecture, creating the authentic feeling of watching a major football match from a premium pavilion. POSE & COMPOSITION: Full-body or three-quarter view, seated naturally in the pavilion, one arm resting comfortably on the seat or railing, relaxed posture, looking toward the football pitch. Capture the image from a slightly cinematic side/front angle that clearly shows both the young man and the football match in the background. PHOTOGRAPHY: Ultra-realistic professional photography, cinematic 8K resolution, sharp facial details, realistic skin pores and texture, natural body proportions, realistic fabric texture, accurate clothing folds, realistic stadium lighting, cinematic depth of field, subtle background bokeh, high dynamic range, realistic shadows and reflections, professional color grading, natural contrast, premium sports-lifestyle photography, authentic atmosphere. Make the final image look like a real professional photograph taken inside a luxury football stadium, not CGI or AI-generated. Preserve maximum facial similarity to the reference image.

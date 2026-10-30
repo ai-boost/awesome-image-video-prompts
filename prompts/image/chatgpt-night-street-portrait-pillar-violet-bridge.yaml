@@ -1,0 +1,24 @@
+id: chatgpt-night-street-portrait-pillar-violet-bridge
+title:
+  en: Man leaning on pillar under violet-lit bridge
+  zh: 男子倚靠柱子，紫光大桥夜景
+model: ChatGPT / Gemini
+mode: image-edit
+category: portrait
+tags:
+- night
+- street
+- portrait
+- cinematic
+source:
+  name: '@trungayai on TikTok'
+  url: https://www.tiktok.com/@trungayai/video/7691155856074870037
+  credit: 𝓣𝓻𝓾𝓷𝓰𝓐𝓘
+  likes: 535
+  captured: '2026-10-30'
+  posted: '2026-09-30'
+notes:
+  en: Pairs an exact lens and eye level framing with a body angled away and a head turned back to camera, then layers light direction, a named color palette and film grain terms. The post has readers upload their own photo as the reference, so the face stays consistent while the scene is written out in detail.
+  zh: 用精确的镜头焦段和平视机位，搭配身体侧转、头部回望镜头的姿态，再叠加光线方向、指定色板和胶片颗粒等描述。帖子要求上传自己的照片作参考，因此人脸能保持一致，场景则由文字细致描述。
+prompt: |
+  Cinematic nighttime urban street portrait of a young man with natural medium-length black hair. He wears a minimalist oversized black short-sleeve shirt, casually leaning his back and shoulder against a large dark cylindrical street pillar. His body is oriented toward the left, while his head turns back toward the camera in a three-quarter profile with a calm, detached expression. Background features a illuminated cable-stayed pedestrian bridge with cool white and violet LED lights and diagonal cables. Busy street below with horizontal motion blur and light streaks from passing traffic. Dark high-rise buildings in the distance. Atmospheric cinematic lighting: deep shadows, soft ambient light on his face from the left, subtle rim light on hair and shoulder. Color palette: charcoal black, midnight blue, cool white, subtle violet, with small amber highlights. Medium street portrait shot (50-70mm lens at eye-level). Authentic candid film style, realistic skin texture, subtle film grain, Korean urban aesthetic, moody and photorealistic.

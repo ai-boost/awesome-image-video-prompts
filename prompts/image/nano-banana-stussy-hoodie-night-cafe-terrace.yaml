@@ -1,0 +1,24 @@
+id: nano-banana-stussy-hoodie-night-cafe-terrace
+title:
+  en: Man in Stussy hoodie sipping iced coffee at night
+  zh: 夜晚咖啡馆露台上身穿Stussy连帽衫喝冰咖啡的男子
+model: Nano Banana / ChatGPT
+mode: text-to-image
+category: portrait
+tags:
+- portrait
+- candid
+- night-cafe
+- streetwear
+source:
+  name: '@el.prompt on TikTok'
+  url: https://www.tiktok.com/@el.prompt/video/7684528778504064276
+  credit: Ranudeliar
+  likes: 5894
+  captured: '2026-10-30'
+  posted: '2026-09-12'
+notes:
+  en: The prompt frames it as a handheld phone photo at a slightly low eye level medium shot and pins the light to ceiling downlights plus warm interior glow with natural falloff. The negative prompt targets plastic skin and uncanny faces, which keeps the result candid rather than polished.
+  zh: 提示词将画面设定为手持手机拍摄的中景，镜头略低于视线，并指定天花板射灯与店内透出的暖光，光线过渡自然。负面提示针对塑料感皮肤和诡异面孔，使画面保持抓拍的随性感而不是刻意摆拍。
+prompt: |
+  Buat gambar yang sangat realistis (ultra-realistis) Subjek: Seorang pria Sudut kamera/framing: *Medium shot* (bidikan setengah badan) dari sudut pandang sedikit rendah dengan gaya pengambilan gambar genggam (*handheld*). Komposisi berpusat pada subjek yang duduk di meja kafe, menampilkan tubuh bagian atas dan perabotan teras di sekitarnya untuk menciptakan nuansa foto santai setinggi mata agak tinggi (*high-level ringan*) ala jepretan ponsel. Pakaian: hoody tebal berwarna putih stussy dan lipatan kain yang alami. Dipadukan dengan celana panjang longgar hitam. Aksesori kacamata frame tebal. Pose: Duduk di kursi kafe berbahan logam hitam, tubuh condong ke depan. satu tangan santai, satu tangan sedang meminum es cup. Ekspresi wajah netral menghadap samping candid, dengan pandangan mata sedikit tertuju ke bawah secara alami (*candid*), tanpa pose yang dibuat-buat. rambut sedikit berantakan menutupi dahi. Lingkungan: Teras kafe luar ruangan di malam hari. Latar belakang menampilkan jendela kaca besar yang memperlihatkan interior terang benderang dengan meja-meja dan sosok orang di kejauhan. Area luar ruangan berisi kursi kayu dan logam hitam, meja bundar, serta dedaunan gelap yang terlihat di bawah langit malam. Pencahayaan: Pencahayaan malam hari yang autentik. Cahaya lembut dan hangat berasal dari lampu tanam di langit-langit teras serta cahaya yang memancar dari jendela interior. Cahaya menciptakan *highlight* alami pada baju dan kulit subjek dengan transisi cahaya (*falloff*) yang realistis dan tanpa kontras digital buatan. Gaya akhir: Resolusi tinggi, gaya fotografi ponsel (*handheld*), foto *candid*, tidak terlalu sempurna. Negative Prompt: kualitas terburuk, kualitas rendah, kualitas standar, resolusi rendah, buram, jelek, terdistorsi, cacat, tanda air, teks, tanda tangan, anatomi buruk, tangan buruk, jari hilang, anggota tubuh tambahan, iris cacat, jari menyatu, wajah terdistorsi, kulit tidak alami, plastik, *uncanny valley*

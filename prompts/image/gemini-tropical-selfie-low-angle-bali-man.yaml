@@ -1,0 +1,24 @@
+id: gemini-tropical-selfie-low-angle-bali-man
+title:
+  en: Low angle selfie of a man under blue sky
+  zh: 蓝天下男子的低角度自拍
+model: Gemini
+mode: image-edit
+category: portrait
+tags:
+- selfie
+- tropical
+- portrait
+- golden hour
+source:
+  name: '@geminiaiprompt on TikTok'
+  url: https://www.tiktok.com/@geminiaiprompt/video/7690085888839191829
+  credit: JASA EDIT AI | PROMPT AI
+  likes: 827
+  captured: '2026-10-30'
+  posted: '2026-09-27'
+notes:
+  en: The prompt works as a checklist that fixes camera angle, subject position, outfit, glasses and background, so the result stays close to the attached photo. Palm fronds, a dark stone statue and a 3:4 frame lock in the composition.
+  zh: 提示词以清单形式固定镜头角度、主体位置、服装、眼镜和背景，使结果与所附照片保持一致。棕榈叶、黑色石雕和 3:4 画幅共同锁定构图。
+prompt: |
+  Make a photo showing a low-angle selfie of a man that I attached outdoors with a tropical background and a bright blue sky. The Subject and Physical Appearance of the man in the photo is in the middle position of the frame (center frame) with a relaxed pose facing the camera. He has hair that looks naturally unraveled by the breeze. His facial expression looks calm and relaxed with a confident smile. The angle of taking pictures from below emphasizes the jaw line and the structure of his face that is evenly exposed to sunlight. Clothes and Accessories Shirt: Wearing a long or short sleeved casual shirt in pastel yellow (butter yellow) with an open collar. The shirt fabric has a fine vertical striped texture similar to textured cotton or seersucker, with the top button left open so that it gives a casual and comfortable impression for warm weather. Glasses: Wearing sunglasses with a thin metal frame (wire-frame) with a rounded hexagonal shape or a variation of the aviator/navigator style. Eyeglass lenses have a gradation effect (tinted gradient) with a transparent blackish nuance that still shows the eye area vaguely. Jewelry: It looks like a thin metal chain necklace hidden behind the neckline of his shirt. Background and Atmosphere Sky: Dominated by a clear cloudless deep blue sky canvas, occupying more than half of the top of the photo composition. Tropical vegetation: In the upper left corner and on the right side, palm or coconut leaves are seen, strengthening the exotic outdoor atmosphere. Architecture and Ornaments: Right behind the left shoulder (right side of the picture), stands a dark gray carved stone statue with a traditional Balinese architectural style or tropical resort ornaments, side by side with a roof with shades of ijuk/straw and a villa building in the distance. Lighting and Color Palette Natural lighting comes from the afternoon or morning sun (golden hour) with warm saturation that shines on the face and clothes, producing a soft shadow on the curves of the neck and clothes. This visual composition creates a complementary color harmony that is contrasting but balanced—combining the warmth of skin color and pastel yellow shirt with the coolness of sky blue and green leaves. Aspect Ratio 3:4

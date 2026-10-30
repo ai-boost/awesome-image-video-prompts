@@ -1,0 +1,24 @@
+id: chatgpt-adidas-windbreaker-shutter-hand-over-mouth
+title:
+  en: Man in Adidas windbreaker covering mouth by shutter
+  zh: 身穿阿迪达斯风衣的男子在卷帘门前遮嘴
+model: ChatGPT / Gemini
+mode: text-to-image
+category: realism
+tags:
+- street-style
+- adidas
+- flash-photography
+- portrait
+source:
+  name: '@trungayai on TikTok'
+  url: https://www.tiktok.com/@trungayai/video/7689454589904571669
+  credit: 𝓣𝓻𝓾𝓷𝓰𝓐𝓘
+  likes: 1492
+  captured: '2026-10-30'
+  posted: '2026-09-26'
+notes:
+  en: The prompt pins the garment details (stripes on both sleeves, chest trefoil logo, drawstring hood), the pose (hand covering nose and mouth, lower hand with motion blur) and the background, so each one appears in the output. Harsh direct flash against a dark ribbed shutter gives the high contrast street look.
+  zh: 提示词明确写出服装细节（双袖条纹、胸前三叶草标、带抽绳连帽）、姿势（手遮住口鼻，下方手部带动态模糊）和背景，因此输出中每一项都能对应。强烈的直射闪光打在深色条纹卷帘门上，形成高反差的街拍质感。
+prompt: |
+  A raw, street-style, candid photograph of a young Asian man standing in a medium waist-up shot. He is wearing a white oversized Adidas original windbreaker jacket with iconic black three-stripes down both sleeves and a small trefoil logo on the chest, a high neck with a hoodie and drawstrings, and black pants. His dark, naturally messy and voluminous hair frames his face. He is looking down and away from the camera, bringing his right hand up to cover his lower face (nose and mouth) in a cool, pensive gesture. His left hand, held lower, shows noticeable motion blur, adding realism. The background is a weathered, dark blue-black metal security shutter door with repetitive horizontal ribs, creating an industrial, urban environment. The lighting is harsh direct flash, brightly illuminating the man and casting deep shadows on his face and sharp shadows onto the shutter behind him, making him stand out. The color palette is high-contrast black, white, and deep urban blues/grays. The texture is gritty with film grain. Composition is eye-level, slightly off-center to the left. 35mm photograph, high contrast, moody atmosphere, cinematic urban street photography, 4k, photorealistic, cinematic lighting

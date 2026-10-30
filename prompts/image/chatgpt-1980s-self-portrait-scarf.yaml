@@ -1,0 +1,24 @@
+id: chatgpt-1980s-self-portrait-scarf
+title:
+  en: Woman in 1980s teal blouse and headscarf
+  zh: 身穿青绿色衬衫和头巾的女子，1980年代风格
+model: ChatGPT
+mode: image-edit
+category: edit
+tags:
+- 80s
+- retro
+- fashion
+- vintage-film
+source:
+  name: '@ishaprayag on TikTok'
+  url: https://www.tiktok.com/@ishaprayag/video/7683911490646199573
+  credit: Isha Prayag
+  likes: 942
+  captured: '2026-10-30'
+  posted: '2026-09-10'
+notes:
+  en: The prompt fixes identity first by asking for recognizable facial features and no face changes, then builds the period look from concrete items such as a scarf, belt and shoulder bag. Framing the result as a real 1980s photograph with film grain, natural light and realistic skin pushes the output toward a candid snapshot rather than a costume render.
+  zh: 提示词先要求保留可辨认的面部特征并且不改变长相，再用头巾、腰带和肩包等具体单品搭建年代感。把结果设定为真实的1980年代照片，并加入胶片颗粒、自然光和真实肤质，使画面更像抓拍而不是造型图。
+prompt: |
+  Transform my appearance into an authentic 1980s version of myself while keeping my facial features and identity recognizable. Give me an iconic 80s scarf, vintage clothing, retro accessories, and an authentic 1980s atmosphere. Make it look like a real photograph taken in the 1980s, with vintage film grain, natural lighting, realistic skin texture, and period-accurate colors. Do not change my face or make me look like a different person.

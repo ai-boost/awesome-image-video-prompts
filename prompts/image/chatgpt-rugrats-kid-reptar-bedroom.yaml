@@ -1,0 +1,24 @@
+id: chatgpt-rugrats-kid-reptar-bedroom
+title:
+  en: Braided girl in Rugrats bedroom with Reptar
+  zh: 编织辫女孩与 Reptar 在《Rugrats》卡通房间里
+model: ChatGPT
+mode: text-to-image
+category: character
+tags:
+- rugrats
+- reptar
+- 80s-nostalgia
+- personalized
+source:
+  name: '@totalparadise on TikTok'
+  url: https://www.tiktok.com/@totalparadise/video/7685035709698297102
+  credit: 👑💎 ♦️𝓒𝓱𝓻𝓲𝓼𝓼𝔂💎👑☕️♣️
+  likes: 969
+  captured: '2026-10-30'
+  posted: '2026-09-13'
+notes:
+  en: Asking for personal details lets the model fill the scene with a notepad checklist, a name necklace and other props that feel custom. Naming the show, the toy Reptar and the cast keeps the cartoon look and the characters recognizable.
+  zh: 要求模型结合个人信息，让画面里出现便签清单、名字项链等定制道具。点明节目、玩具 Reptar 和角色阵容，能让卡通风格和人物都清晰可辨。
+prompt: |
+  With everything you know about me, what would I look like as a Rugrats kid. Include the toy Reptar, other characters and things from the show.

@@ -1,6 +1,25 @@
 # Photo editing
 
-[Back to the list](../../README.md) · All 48 entries
+[Back to the list](../../README.md) · All 59 entries
+
+<a id="chatgpt-80s-hairstyle-film-portrait"></a>
+### Woman with voluminous 80s hair in warm film portrait
+
+<a href="https://www.tiktok.com/@a0tx3sem37/video/7685667533122309394"><img src="../../previews/chatgpt-80s-hairstyle-film-portrait.jpg" width="360"></a>
+
+The prompt stacks concrete style cues (hairstyle, fashion, 35mm grain, warm palette, neon ambient light, flash style) in one comma list, which steers the look without naming a subject. Adding realistic skin texture keeps the retro grade from looking plastic.
+
+ChatGPT / Gemini · Edit · Source: [@a0tx3sem37 on TikTok](https://www.tiktok.com/@a0tx3sem37/video/7685667533122309394) · 34,147 likes on 2026-10-30
+
+[`80s`](tags.md#tag-80s) [`retro`](tags.md#tag-retro) [`portrait`](tags.md#tag-portrait) [`film`](tags.md#tag-film)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+classic 80s hairstyle, vibrant 80s fashion, grainy 35mm film texture, warm vintage colors, soft neon ambient lighting, flash photo style, realistic skin texture
+```
+
+</details>
 
 <a id="nano-banana-charmander-ember-route-101"></a>
 ### Charmander uses Ember on a sunset route
@@ -78,6 +97,25 @@ The overall vibe should feel fun, energetic, and feminine.
 
 </details>
 
+<a id="chatgpt-mother-child-face-split-black-white"></a>
+### Mother and child face halves in black and white
+
+<a href="https://www.tiktok.com/@tammy_millz/video/7686641184499879181"><img src="../../previews/chatgpt-mother-child-face-split-black-white.jpg" width="360"></a>
+
+Two uploaded photos are combined into one face by splitting it down the centre line. Asking for black and white and symmetric alignment keeps tone and framing consistent across both halves, so the comparison reads clearly.
+
+ChatGPT · Edit · Source: [@tammy_millz on TikTok](https://www.tiktok.com/@tammy_millz/video/7686641184499879181) · 2,158 likes on 2026-10-30
+
+[`family`](tags.md#tag-family) [`lookalike`](tags.md#tag-lookalike) [`black-and-white`](tags.md#tag-black-and-white) [`face-merge`](tags.md#tag-face-merge)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Use these pictures of me and my son/daughter to do half my face and half his/her face to see if we look alike. Please make it into black and white. Make them match up symmetrically
+```
+
+</details>
+
 <a id="gpt-image-selfie-chibi-sticker-doodle-edit"></a>
 ### Mirror selfie with chibi sticker doodle edit
 
@@ -97,6 +135,63 @@ Edit this photo into a cute Pinterest/Xiaohongshu-style doodle aesthetic edit wh
 
 </details>
 
+<a id="chatgpt-couple-80s-retro-photo"></a>
+### Couple recast as 1980s party portraits
+
+<a href="https://www.tiktok.com/@diegocarvalhoosteo/video/7682999891639078164"><img src="../../previews/chatgpt-couple-80s-retro-photo.jpg" width="360"></a>
+
+The prompt tells the model to keep the facial features of the source photo while listing concrete era cues: voluminous hair, bold-colour clothing or high-waisted jeans, and aged film-grain lighting. Naming the identity constraint and the styling cues separately lets the model change the look without changing who is pictured.
+
+ChatGPT · Edit · Source: [@diegocarvalhoosteo on TikTok](https://www.tiktok.com/@diegocarvalhoosteo/video/7682999891639078164) · 1,039 likes on 2026-10-30
+
+[`80s`](tags.md#tag-80s) [`couple`](tags.md#tag-couple) [`retro`](tags.md#tag-retro) [`film-grain`](tags.md#tag-film-grain)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Com base nessa foto, crie uma imagem ultra realista de como nós seríamos se vivêssemos nos anos 80. Mantenha os traços do rosto mas adicione um penteado volumoso típico da época, roupas clássicas dos anos 80 com cores marcantes ou jeans de cintura alta, e uma iluminação com granulação de filme fotográfico antigo
+```
+
+</details>
+
+<a id="chatgpt-shalwar-kameez-outfit-swap-pose"></a>
+### Man in light blue shalwar kameez, hand on chin
+
+<a href="https://www.tiktok.com/@mudasirshah9584/video/7688245977966234901"><img src="../../previews/chatgpt-shalwar-kameez-outfit-swap-pose.jpg" width="360"></a>
+
+A short edit instruction that names the exact garment, fabric colour and footwear, then leaves the pose open with any other. The model keeps the original face, lounge chair, wall frames and lighting while replacing only the clothes and posture.
+
+ChatGPT / Gemini · Edit · Source: [@mudasirshah9584 on TikTok](https://www.tiktok.com/@mudasirshah9584/video/7688245977966234901) · 959 likes on 2026-10-30
+
+[`outfit-change`](tags.md#tag-outfit-change) [`pose-change`](tags.md#tag-pose-change) [`menswear`](tags.md#tag-menswear) [`fashion`](tags.md#tag-fashion)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Change my outfit in to light blue cotton shalwaar kameez and black peshawri chappal and change my pose eny other,.
+```
+
+</details>
+
+<a id="chatgpt-1980s-self-portrait-scarf"></a>
+### Woman in 1980s teal blouse and headscarf
+
+<a href="https://www.tiktok.com/@ishaprayag/video/7683911490646199573"><img src="../../previews/chatgpt-1980s-self-portrait-scarf.jpg" width="360"></a>
+
+The prompt fixes identity first by asking for recognizable facial features and no face changes, then builds the period look from concrete items such as a scarf, belt and shoulder bag. Framing the result as a real 1980s photograph with film grain, natural light and realistic skin pushes the output toward a candid snapshot rather than a costume render.
+
+ChatGPT · Edit · Source: [@ishaprayag on TikTok](https://www.tiktok.com/@ishaprayag/video/7683911490646199573) · 942 likes on 2026-10-30
+
+[`80s`](tags.md#tag-80s) [`retro`](tags.md#tag-retro) [`fashion`](tags.md#tag-fashion) [`vintage-film`](tags.md#tag-vintage-film)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Transform my appearance into an authentic 1980s version of myself while keeping my facial features and identity recognizable. Give me an iconic 80s scarf, vintage clothing, retro accessories, and an authentic 1980s atmosphere. Make it look like a real photograph taken in the 1980s, with vintage film grain, natural lighting, realistic skin texture, and period-accurate colors. Do not change my face or make me look like a different person.
+```
+
+</details>
+
 <a id="gpt-image-old-photo-restoration-colorize-sharpen"></a>
 ### Blurry portrait restored to sharp detail, before and after
 
@@ -112,6 +207,25 @@ GPT Image 2 · Edit · Source: [@AiwithLariab on X](https://x.com/AiwithLariab/s
 
 ```text
 Restore and enhance an old damaged photo. Remove scratches, stains, and noise. Reconstruct faded or torn areas while preserving original details. Slightly sharpen the image for better clarity, but keep it realistic. Apply natural and era-appropriate colors to skin, hair, and clothing. Use a soft, balanced background color without being too striking. The final result should look like an old photo that has been realistically restored and colorized, while respecting its original appearance.
+```
+
+</details>
+
+<a id="chatgpt-1985-family-photo-restyle"></a>
+### Family photo restyled as a 1985 snapshot
+
+<a href="https://www.tiktok.com/@katrinayao/video/7683941449594932500"><img src="../../previews/chatgpt-1985-family-photo-restyle.jpg" width="360"></a>
+
+The prompt locks identity first and then changes wardrobe, accessories and setting, so the faces stay recognizable. Analog grain, faded colour, direct flash and a specified red orange date stamp make the result read as a period snapshot.
+
+ChatGPT · Edit · Source: [@katrinayao on TikTok](https://www.tiktok.com/@katrinayao/video/7683941449594932500) · 844 likes on 2026-10-30
+
+[`80s-trend`](tags.md#tag-80s-trend) [`retro`](tags.md#tag-retro) [`date-stamp`](tags.md#tag-date-stamp) [`photo-edit`](tags.md#tag-photo-edit)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Using my uploaded photo, show me what I would have looked like around 1985. Preserve my identity, facial features, skin tone, age, and recognizable appearance. Reimagine my hair, clothing, accessories, and surroundings with bold, unmistakably mid-1980s styling—expressive silhouettes, statement accessories, layered details, distinctive colors, and textures. Make it feel like a genuine 1985 photograph with analog grain, faded color, direct flash, and subtle softness. Add a period-accurate 1980s red-orange date stamp in the lower corner. No modern objects or text.
 ```
 
 </details>
@@ -154,6 +268,25 @@ GPT Image 2 · Edit · Source: [@miratechtool on X](https://x.com/miratechtool/s
 
 ```text
 Recreate the scene as a cozy claymation-style world made from soft modeling clay. Every object should have handmade textures, rounded shapes, fingerprints, and soft lighting like a stop-motion movie. Use warm pastel colors and a cute cinematic atmosphere.
+```
+
+</details>
+
+<a id="chatgpt-conehead-challenge-floral-tiara"></a>
+### Woman as a Conehead wearing a floral tiara
+
+<a href="https://www.tiktok.com/@desirepyaar/video/7685931250074406158"><img src="../../previews/chatgpt-conehead-challenge-floral-tiara.jpg" width="360"></a>
+
+The prompt lists what must stay unchanged (face, body, pose, outfit, tattoos, background, lighting), so the edit only swaps the hair for the cone head. Asking for a crown in the outfit's colours ties the accessory to the photo and keeps the result realistic.
+
+ChatGPT · Edit · Source: [@desirepyaar on TikTok](https://www.tiktok.com/@desirepyaar/video/7685931250074406158) · 246 likes on 2026-10-30
+
+[`conehead`](tags.md#tag-conehead) [`photo-edit`](tags.md#tag-photo-edit) [`meme`](tags.md#tag-meme) [`tiara`](tags.md#tag-tiara)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Transform me into a Conehead inspired by the Coneheads movie. Replace my hair completely with a smooth, skin-toned cone-shaped head that is proportional to my body. Keep my original facial features, body, pose, outfit, tattoos, background, and lighting intact. Add a beautiful crown/tiara that coordinates with the colors of my outfit. Keep the image realistic and recognizable as the original photo.
 ```
 
 </details>
@@ -326,6 +459,25 @@ Nano Banana Pro · Edit · Source: [@saniaspeaks_ on X](https://x.com/saniaspeak
 
 </details>
 
+<a id="chatgpt-autumn-leaves-forest-portrait"></a>
+### Woman tossing maple leaves on a forest path
+
+<a href="https://www.tiktok.com/@klh000o1/video/7682245250466712863"><img src="../../previews/chatgpt-autumn-leaves-forest-portrait.jpg" width="360"></a>
+
+Anchoring identity to the reference photo with explicit face, hair and body instructions, then specifying an upward camera angle, golden evening backlight and layered maple leaves in the foreground and background gives the scene depth while keeping the subject recognizable. The editorial photography cue sets a clean, professional finish.
+
+ChatGPT · Edit · Source: [@klh000o1 on TikTok](https://www.tiktok.com/@klh000o1/video/7682245250466712863) · 196 likes on 2026-10-30
+
+[`autumn`](tags.md#tag-autumn) [`fall-leaves`](tags.md#tag-fall-leaves) [`portrait`](tags.md#tag-portrait) [`photorealistic`](tags.md#tag-photorealistic)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Using my photo for face, hair, and body, I'm aiming for a photorealistic autumn shot. Imagine me on a forest path, covered in colorful autumn leaves, laughing and looking straight up at the camera. My arms are stretched out above, as if I'm throwing leaves into the air. I'm wearing a black leather jacket, black top, dark ripped jeans, a belt, and black boots, with sunglasses on my head. I envision a warm, golden evening sun, with strong orange, red, and brown tones. Lots of floating maple leaves in the foreground and background, natural depth of field, dynamic perspective, and high-quality editorial photography. The goal is to keep my face and individual features from the reference photo as true to the original as possible.
+```
+
+</details>
+
 <a id="gpt-image-big-head-miniature-person-photo-edit"></a>
 ### Big Head Miniature Person Retail Store Selfie
 
@@ -444,6 +596,25 @@ soft pastel accents with realistic base tones
 high-detail, polished 3D chibi look
 cute, modern Korean-inspired aesthetic
 Ensure the final result feels cohesive, light, and aesthetically pleasing without overwhelming the original image.
+```
+
+</details>
+
+<a id="chatgpt-restore-old-photo-faithful"></a>
+### Faithful restoration of an old photograph
+
+<a href="https://www.tiktok.com/@lucasvillano.ai/video/7685861146137529620"><img src="../../previews/chatgpt-restore-old-photo-faithful.jpg" width="360"></a>
+
+The prompt works through constraints: it first lists the damage to fix (stains, scratches, dust, creases, noise), then lists what must stay unchanged (face, expression, hair, clothing, pose, framing). The explicit bans on beauty retouching and added elements keep the edit conservative.
+
+ChatGPT · Edit · Source: [@lucasvillano.ai on TikTok](https://www.tiktok.com/@lucasvillano.ai/video/7685861146137529620) · 143 likes on 2026-10-30
+
+[`photo-restoration`](tags.md#tag-photo-restoration) [`image-restoration`](tags.md#tag-image-restoration) [`old-photos`](tags.md#tag-old-photos)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Restaure esta fotografia mantendo o máximo de fidelidade possível à imagem original. Corrija danos causados pelo tempo, como manchas, riscos, poeira, marcas, dobras, ruídos e perda de definição. Ajuste iluminação, contraste, nitidez e qualidade geral de forma natural. Preserve as características originais das pessoas, incluindo rosto, expressão, cabelo, idade aparente, roupas e proporções. Não altere a identidade das pessoas, não faça retoques de beleza e não adicione elementos que não estejam presentes na fotografia. Mantenha o cenário, os objetos, a pose e o enquadramento originais. Se a imagem for colorizada, utilize cores naturais e discretas, respeitando o contexto da fotografia. O resultado deve parecer uma restauração fotográfica fiel, sem mudanças artificiais ou criação de características que não existiam na imagem original.
 ```
 
 </details>
@@ -679,6 +850,25 @@ Ratio 4:5
 
 </details>
 
+<a id="chatgpt-80s-indonesia-street-couple"></a>
+### Couple walking a 1980s Indonesian shopping street
+
+<a href="https://www.tiktok.com/@dianaunnie.799/video/7684128723154816277"><img src="../../previews/chatgpt-80s-indonesia-street-couple.jpg" width="360"></a>
+
+Starts from a full body photo and asks for an edit rather than a new image, with an explicit instruction to keep the original face. Concrete period cues (colourful Levi jacket, hijab, old shop facades, 80s street) let the model fill the scene with matching signs and props.
+
+ChatGPT · Edit · Source: [@dianaunnie.799 on TikTok](https://www.tiktok.com/@dianaunnie.799/video/7684128723154816277) · 69 likes on 2026-10-30
+
+[`retro-80s`](tags.md#tag-retro-80s) [`couple`](tags.md#tag-couple) [`street-style`](tags.md#tag-street-style) [`hijab`](tags.md#tag-hijab)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Buat foto ini menjadi foto gaya anak muda sedang pacaran saling merangkul jadul era 80an dan berpakaian anak muda memakai (jaket Levis warna warni era 80an, perempuan tetap memakai jilbab), dengan beground pertokoan jadul dengan jalanan kota tahun 80 an. Buat jangan merubah wajah asli
+```
+
+</details>
+
 <a id="nano-banana-christmas-fondant-topper-birthday-cake"></a>
 ### Teal birthday cake with fondant girl topper
 
@@ -905,6 +1095,25 @@ Nano Banana 2 · Edit · Source: [@astronomerozge1 on X](https://x.com/astronome
     }
   }
 }
+```
+
+</details>
+
+<a id="chatgpt-1980s-denim-portrait-parked-car"></a>
+### Man in denim jacket by vintage car
+
+<a href="https://www.tiktok.com/@ginefriadi8/video/7683952832646630674"><img src="../../previews/chatgpt-1980s-denim-portrait-parked-car.jpg" width="360"></a>
+
+The prompt asks for a hyperrealistic 1980s portrait while explicitly keeping the subject's facial features, so identity holds while wardrobe, hair and film texture change. Naming analog film grain sets the photographic look instead of a painted one.
+
+ChatGPT · Edit · Source: [@ginefriadi8 on TikTok](https://www.tiktok.com/@ginefriadi8/video/7683952832646630674) · 28 likes on 2026-10-30
+
+[`80s`](tags.md#tag-80s) [`retro`](tags.md#tag-retro) [`film-grain`](tags.md#tag-film-grain) [`portrait`](tags.md#tag-portrait)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Tukar foto ini ke potret hiperrealistik tahun 1980an. Simpan ciri wajah saya, tambah rambut dan pakaian gaya 80an, serta gunakan estetika fotografi analog dengan butiran filem.
 ```
 
 </details>

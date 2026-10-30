@@ -1,0 +1,24 @@
+id: nano-banana-cafe-terrace-blue-hour-portrait
+title:
+  en: Young man in baggy jeans at cafe terrace
+  zh: 年轻男子在咖啡馆露台上
+model: Nano Banana / ChatGPT
+mode: text-to-image
+category: realism
+tags:
+- street-style
+- portrait
+- cafe
+- blue-hour
+source:
+  name: '@el.prompt on TikTok'
+  url: https://www.tiktok.com/@el.prompt/video/7687101559158754581
+  credit: Ranudeliar
+  likes: 11003
+  captured: '2026-10-30'
+  posted: '2026-09-19'
+notes:
+  en: The prompt fixes a phone camera framing from slightly above, cropped from the knees up with a candid side glance and light blur. It sets warm interior light against the dim blue hour outside, and grain and natural texture cues keep the result from looking polished.
+  zh: 提示词用手机视角、略高机位和膝盖以上的构图来定义画面，并让室内暖光与室外蓝调时刻形成对比。颗粒感和自然纹理的描述让画面不显得过于精修。
+prompt: |
+  Buat gambar menjadi sangat realistis (ultra-realistis) Subjek: Seorang pria dengan rambut sedikit berantakan menutupi dahi model modern. Sudut kamera/framing: Pengambilan gambar *medium-full body* (dari lutut ke atas) dengan posisi kamera sedikit lebih tinggi, seolah diambil menggunakan ponsel yang dipegang tangan. Komposisi berpusat pada pria yang duduk di meja bundar, memperlihatkan tekstur lantai teras dan panel jendela kaca besar di belakangnya. Pakaian: Kaus katun putih longgar dipadukan dengan celana jin denim biru muda yang sangat longgar (*baggy*) hingga kainnya menumpuk di bagian bawah. Sebuah *hoodie* putih dengan cetakan grafis hitam mencolok dikenakan secara diagonal melintasi tubuh bagian atasnya. Jam tangan perak dan kacamata hitam putih berbingkai tebal yang diletakkan di atas meja melengkapi penampilannya. Pose: Posisi duduk santai dengan tubuh agak membungkuk dan kaki terbuka lebar. Kepala menghadap samping dengan candid ada efek blur. Posisi tangan santai; salah satu tangan memegang gelas plastik bening berisi minuman hijau dan sedotan hitam. Lingkungan: Teras kafe luar ruangan bergaya urban di waktu senja. Terdapat meja bundar dengan permukaan batu abu-abu dan jendela kaca berbingkai hitam yang memperlihatkan interior bistro dengan pencahayaan hangat. Sebuah tanaman palem besar dalam pot gelap diletakkan di sisi kanan, di atas lantai beton bertekstur. Pencahayaan: Pencahayaan senja yang seimbang sempurna. Cahaya hangat dan mengundang dari lampu dalam ruangan kontras dengan suasana luar ruangan yang agak redup khas waktu senja (*blue hour*). Pantulan lembut dan realistis tampak pada kaca jendela, menciptakan estetika alami yang nyata tanpa kesan buatan, lengkap dengan bayangan alami. Gaya akhir: Tampilan fotografi iPhone beresolusi tinggi. Estetika *candid* ala kamera ponsel dengan sedikit *grain* (bintik) khas lensa, tekstur alami, serta nuansa keseharian yang terasa apa adanya dan tidak terlalu sempurna. Sangat sesuai dengan *framing* awal dan komposisi gaya jalanan (*street-style*). Negative Prompt: kualitas terburuk, kualitas rendah, kualitas biasa, resolusi rendah, buram, jelek, terdistorsi, cacat, tanda air, teks, tanda tangan, anatomi buruk, tangan buruk, jari hilang, anggota tubuh tambahan, iris mata cacat, jari menyatu, wajah terdistorsi, kulit tidak alami, plastik, *uncanny valley*

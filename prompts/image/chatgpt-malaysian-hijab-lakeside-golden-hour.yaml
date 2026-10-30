@@ -1,0 +1,24 @@
+id: chatgpt-malaysian-hijab-lakeside-golden-hour
+title:
+  en: Hijab woman walking by a lake at golden hour
+  zh: 黄金时刻湖边漫步的头巾女子
+model: ChatGPT
+mode: text-to-image
+category: portrait
+tags:
+- portrait
+- golden-hour
+- fashion
+- malaysia
+source:
+  name: '@mariahalqibtiyyah on TikTok'
+  url: https://www.tiktok.com/@mariahalqibtiyyah/video/7684813808413527314
+  credit: Mariyah Al Qibtiyyah
+  likes: 51
+  captured: '2026-10-30'
+  posted: '2026-09-13'
+notes:
+  en: The prompt is split into labelled sections for face, hijab, outfit, pose, background, lighting, camera and composition, so each detail is set separately. The fixed framing rules (trunks on the left, both shoes in frame) and the 50mm lens spec keep the full-body shot stable.
+  zh: 提示词按人脸、头巾、服装、姿势、背景、光线、摄影和构图分段列出，每项细节单独设定。固定的取景规则（树干位于左侧、双脚都在画面内）和50mm镜头设定让全身构图保持稳定。
+prompt: |
+  Create a highly photorealistic full-body outdoor portrait of a stylish young Malay Muslim woman in her mid-20s, walking naturally beneath large mature shady trees beside a peaceful lake in Malaysia during golden hour. FACE & EXPRESSION: A naturally attractive young Malaysian woman in her mid-20s with soft feminine facial features, youthful smooth flawless-looking skin while retaining realistic natural skin texture, subtle rosy cheeks, neatly shaped eyebrows and minimal natural makeup. She has a gentle soft smile. Her eyes are looking slightly downward, giving a calm, graceful and peaceful expression. Her face is shown at a natural three-quarter angle. HIJAB: She wears a soft light beige / warm ivory chiffon hijab, neatly wrapped around her head and neck in a simple elegant contemporary Malaysian style. The front framing around the face is clean and natural. One long end of the hijab extends dramatically behind her and is gently lifted by the breeze, creating a beautiful flowing translucent fabric effect illuminated by the golden sunlight. Keep the hijab modest, lightweight and realistic. OUTFIT: She wears a simple crisp white long-sleeved blouse, slightly relaxed and modest in fit, with the sleeves casually folded to approximately three-quarter length. The blouse is naturally tucked into the skirt. She wears a dark indigo-blue denim A-line maxi skirt, high-waisted and ankle-length, with a very wide graceful A-line silhouette. The denim should look substantial and realistic, with visible natural seams, stitching and side/back pocket details. The skirt gently moves as she walks. She wears clean white sporty sneakers with a slightly chunky sole and a simple modern design. A minimalist dark wristwatch is visible on one wrist. No handbag. POSE & BODY LANGUAGE: Full-body portrait from head to shoes. Capture her naturally walking slowly along the lakeside path, photographed from a slight side/three-quarter angle. One foot is stepping forward while the other is slightly lifted behind, creating a realistic walking movement. One hand rests casually inside the skirt pocket while the other arm hangs naturally beside her body. Her posture is upright, feminine, relaxed and effortless—not stiff or overly posed. BACKGROUND & ENVIRONMENT: A serene Malaysian lakeside park surrounded by large mature tropical rain trees with thick textured trunks and spreading branches. The calm lake is clearly visible behind her, reflecting warm sunlight. Across the water are softly blurred green forested hills and tropical vegetation. The ground consists of natural grass, dry leaves and a small earthy walking path beneath the trees. LIGHTING: Beautiful late-afternoon golden-hour sunlight coming through the branches behind her. Warm sun rays and subtle backlighting create a soft luminous rim around the hijab and clothing. The flowing chiffon catches the sunlight and appears slightly translucent. Natural highlights on the lake surface, gentle shadows beneath the trees and warm cinematic atmosphere. PHOTOGRAPHY STYLE: High-end lifestyle photography, photorealistic, natural Malaysian outdoor portrait, candid editorial fashion photography, realistic body proportions, authentic fabric textures, natural skin texture, soft cinematic depth of field, warm golden tones, subtle background bokeh, professional full-frame camera look, approximately 50mm lens, sharp focus on the woman, realistic exposure, highly detailed, elegant and peaceful. COMPOSITION: Vertical portrait orientation, approximately 2:3 ratio, full body completely visible including both shoes. Position the woman slightly off-centre with the large tree trunks naturally framing her on the left and the lake extending behind her. Leave sufficient space around the flowing hijab so it is not cropped.

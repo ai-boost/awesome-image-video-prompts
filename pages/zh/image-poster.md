@@ -1,6 +1,6 @@
 # 海报与编辑排版
 
-[返回目录](../../README_zh.md) · 全部 197 条 · **1** · [2](image-poster-2.md)
+[返回目录](../../README_zh.md) · 全部 200 条 · **1** · [2](image-poster-2.md)
 
 <a id="gpt-image-flat-vector-city-travel-poster-template"></a>
 ### 适用任意城市的扁平矢量旅行海报模板
@@ -282,6 +282,25 @@ Rendering Quality:
 Ultra-clean vector-style finish
 Poster-quality composition
 4K resolution, high detail
+```
+
+</details>
+
+<a id="chatgpt-rancher-service-double-exposure-profile"></a>
+### 牛仔侧脸与服役、牧场场景的双重曝光
+
+<a href="https://www.tiktok.com/@wranglerjf/video/7683621459196955917"><img src="../../previews/chatgpt-rancher-service-double-exposure-profile.jpg" width="360"></a>
+
+模板用占位符固定了构图：右侧是大幅侧脸，轮廓内部是密集的故事拼贴。故事主题留空时，模型会自行构思与人物表情相符的故事，而颗粒、光影和单色等描述让成品保持粗粝质感，而非塑料感。
+
+ChatGPT · 上传图改图 · 出处: [@wranglerjf on TikTok](https://www.tiktok.com/@wranglerjf/video/7683621459196955917) · 1,498 赞，统计于 2026-10-30
+
+[`double-exposure`](tags.md#tag-double-exposure) [`monochrome`](tags.md#tag-monochrome) [`portrait`](tags.md#tag-portrait) [`editorial-poster`](tags.md#tag-editorial-poster)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a vertical ASPECT_RATIO monochrome editorial double-exposure portrait based on PERSON_REFERENCE. The final image must preserve the recognizable identity of the person: face shape, skin tone, hairstyle direction, facial proportions, age impression, expression, and overall presence. Transform the person into a large clean side-profile silhouette facing right, with the face and upper torso occupying most of the frame. •Inside the silhouette, show STORY_THEME as several connected cinematic scenes rather than one flat image. If STORY_THEME is blank, fantasize a noir urban story that fits the person's expression and mood. Build the scenes as layered city streets, windows, architectural fragments, small walking figures, interior rooms, and memory-like panels placed inside the head, hair, neck, and torso. The silhouette edge must remain readable, especially the forehead, nose, lips, chin, and neck. •Style target: high-contrast black, charcoal, bone white, and warm gray; gritty pencil-drawing edge; photographic city collage; pixel-dust erosion; scattered square fragments dissolving from the back of the head and lower body. Use layered transparencies and double exposure with a premium editorial poster finish. •Composition: large profile on the right, dense story collage through the center and left, fragmented negative space around the outer silhouette. Keep the interior scenes clear and sequential enough to feel like a story. Add only sparse story-relevant text if it naturally belongs on a sign, book, note, or scene detail; otherwise use no text. •Lighting: luminous glow around forehead and cheek, deep black interior shadows, tiny street-light highlights inside the silhouette, rain-slick reflections where useful. Texture should feel tactile, grainy, imperfect, and cinematic, never plastic.
 ```
 
 </details>
@@ -1509,6 +1528,25 @@ professional editorial composition,
 luxury commercial poster realism,
 high-end typography integration,
 award-winning advertising art direction.
+```
+
+</details>
+
+<a id="chatgpt-personality-board-game-reveal"></a>
+### 深蓝与金色的性格桌游揭晓图
+
+<a href="https://www.tiktok.com/@susanswearingenbeesley/video/7683917050204474654"><img src="../../previews/chatgpt-personality-board-game-reveal.jpg" width="360"></a>
+
+提示词先让模型设计完整的桌游（名称、规则、示例卡牌），再据此制作揭晓图，因此每件道具都属于同一个概念。深蓝与金色的配色贯穿卡牌、骰子、棋盘和杯子，问题文字放在画面上方的深色区域，清晰可读。
+
+ChatGPT · 文生图 · 出处: [@susanswearingenbeesley on TikTok](https://www.tiktok.com/@susanswearingenbeesley/video/7683917050204474654) · 310 赞，统计于 2026-10-30
+
+[`board-game`](tags.md#tag-board-game) [`personality`](tags.md#tag-personality) [`social-media`](tags.md#tag-social-media) [`still-life`](tags.md#tag-still-life)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Based on what you know about me, create a custom board game inspired by my personality, daily life, favorite things, habits, humor, and overall vibe. Include a creative game title, a short tagline, what the board game would look like, a few sample cards or spaces, how to play, how to win, and why it fits me. Then design it as a stylish social media reveal image with the game box, board, pieces, cards, and a polished aesthetic that matches my personality.
 ```
 
 </details>
@@ -6149,6 +6187,25 @@ Style: premium magazine poster, clean typography, high contrast text, cinematic,
 
 </details>
 
+<a id="chatgpt-queen-acronym-poster-personal"></a>
+### 金色 QUEEN 缩写海报配个人拼贴
+
+<a href="https://www.tiktok.com/@ninersqueen76/video/7686313195148954894"><img src="../../previews/chatgpt-queen-acronym-poster-personal.jpg" width="360"></a>
+
+提示词让模型自行选词并生成缩写，因此每个字母都有一行特质说明。将上传照片设为唯一身份参考，使人脸保持一致，道具和版式则承载人物个性。
+
+ChatGPT · 上传图改图 · 出处: [@ninersqueen76 on TikTok](https://www.tiktok.com/@ninersqueen76/video/7686313195148954894) · 79 赞，统计于 2026-10-30
+
+[`acronym`](tags.md#tag-acronym) [`typography`](tags.md#tag-typography) [`personalized`](tags.md#tag-personalized) [`identity-reference`](tags.md#tag-identity-reference)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Using my uploaded photo as the ONLY identity reference and what you have learned about me through our conversations when available, choose ONE word that best represents who I am, then turn that word into a personalized acronym. Do NOT ask me to choose the word—surprise me. Choose the word independently based entirely on what you know about my personality, humor, interests, hobbies, lifestyle, values, strengths, quirks, boundaries, relationships, things I love, and patterns you have noticed about me. It can be funny, badass, wholesome, chaotic, witchy, sarcastic, slightly unhinged, meaningful, or a mixture—whatever genuinely fits ME. Do not copy or reuse another person’s acronym. Create a detailed cinematic poster featuring me. At the VERY TOP, display my chosen acronym in large, bold letters with a period after EVERY individual letter, including the final letter.
+```
+
+</details>
+
 <a id="gpt-image-humble-pie-pistachio-almond-ad"></a>
 ### 女性手持开心果冰淇淋桶的广告海报
 
@@ -7022,76 +7079,6 @@ GPT Image 2.5 · 文生图 · 出处: [@Maercihh on X](https://x.com/Maercihh/st
 "photographic cutouts"
 ]
 }
-```
-
-</details>
-
-<a id="gpt-image-tilt-shift-map-road-travel-poster"></a>
-### 从复古地图延伸出的上海移轴天际线
-
-<a href="https://x.com/Goodmanprotocol/status/2109581797944443143"><img src="../../previews/gpt-image-tilt-shift-map-road-travel-poster.jpg" width="360"></a>
-
-用城市占位符配合前景、中景、远景三层结构，让蜿蜒道路从印刷地图通向天际线。单一车辆作为视觉焦点，黄金时刻光线与移轴微缩质感让画面可信，排除清单则控制了杂乱。
-
-GPT Image 2.5 · 文生图 · 出处: [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2109581797944443143) · 44 赞，统计于 2026-10-28
-
-[`tilt-shift`](tags.md#tag-tilt-shift) [`miniature`](tags.md#tag-miniature) [`travel-poster`](tags.md#tag-travel-poster) [`vintage-map`](tags.md#tag-vintage-map) [`golden-hour`](tags.md#tag-golden-hour)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a premium FULL-FRAME 4:5 vertical miniature tilt-shift travel poster for [CITY / LOCATION].
-
-TEXT-TO-IMAGE ONLY — generate the entire scene from the destination name alone. No reference image required.
-
-CORE CONCEPT:
-A vintage printed city map transforms into a winding elevated road leading toward the destination’s iconic skyline. One realistic local vehicle drives along the curved road, becoming the main focal point.
-
-COMPOSITION:
-Foreground: detailed vintage map with “[CITY NAME]” printed boldly across it. Middle ground: a winding road emerging naturally from the map. Background: recognizable landmarks, authentic architecture, and local scenery arranged in atmospheric depth.
-
-STYLE:
-Photorealistic miniature diorama, tilt-shift photography, intricate cartographic textures, realistic vehicle details, shallow depth of field, warm golden-hour lighting, and cinematic shadows.
-
-FINAL AESTHETIC:
-A premium collectible travel poster blending vintage cartography with a realistic miniature world. Strong visual depth, authentic local atmosphere, and clean, uncluttered composition.
-
-AVOID:
-Unrelated landmarks, distorted roads, oversized vehicles, excessive labels, incorrect text, logos, watermarks, and borders.
-
-FORMAT: Full-bleed 4:5 vertical composition.
-```
-
-</details>
-
-<a id="nano-banana-christmas-city-diorama-template-grid"></a>
-### 红色背景上的等距圣诞城市微缩模型
-
-<a href="https://x.com/TechieBySA/status/2003053984454734030"><img src="../../previews/nano-banana-christmas-city-diorama-template-grid.jpg" width="360"></a>
-
-通过一个 [CITY] 占位符控制整体构图，因此每个城市都使用相同的固定 45° 俯视等距镜头、居中的微缩底座，以及城市名在上、CHRISTMAS EDITION 在下的文字层级。统一的红色背景和自动对比的白色或黑色文字，让系列作品保持一致。
-
-Nano Banana Pro · 文生图 · 出处: [@TechieBySA on X](https://x.com/TechieBySA/status/2003053984454734030) · 35 赞，统计于 2026-10-29
-
-[`christmas`](tags.md#tag-christmas) [`isometric`](tags.md#tag-isometric) [`diorama`](tags.md#tag-diorama) [`template`](tags.md#tag-template)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-“Present a clear, 45° top-down isometric miniature 3D cartoon scene of [CITY], centered in the composition.
-Depict the city in a festive Christmas theme with seasonal decorations, glowing lights, and appropriate winter or holiday details.
-
-Use soft refined textures, realistic PBR materials, and gentle lifelike lighting with subtle shadows.
-Create a small raised diorama-style city base with clean edges.
-
-Use a clean red christmas background color that contrasts well with the scene.
-
-At the top-center, display [CITY] in large bold text.
-Directly beneath it, display CHRISTMAS EDITION in medium text.
-Optionally place a small round national flag icon below the text.
-
-All text must automatically match background contrast (white or black).
-Composition: perfectly centered, square 1080×1080, ultra-clean festive diorama aesthetic.”
 ```
 
 </details>

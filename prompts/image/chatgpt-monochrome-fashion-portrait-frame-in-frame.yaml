@@ -1,0 +1,24 @@
+id: chatgpt-monochrome-fashion-portrait-frame-in-frame
+title:
+  en: Monochrome portrait framed by blurred foreground silhouette
+  zh: 单色人像，模糊前景剪影框住主体
+model: ChatGPT
+mode: image-edit
+category: portrait
+tags:
+- portrait
+- monochrome
+- fashion
+- editorial
+source:
+  name: '@hukamedia.zeii on TikTok'
+  url: https://www.tiktok.com/@hukamedia.zeii/video/7691019172045802760
+  credit: mohamed huka fam zeii❤️
+  likes: 4129
+  captured: '2026-10-30'
+  posted: '2026-09-29'
+notes:
+  en: A reference photo keeps the face consistent, and the frame within a frame composition places a blurred foreground silhouette in front of the subject for depth. Camera and lighting terms such as 85 mm lens, soft rim light, Leica M11 rendering and monochrome tones define the editorial look.
+  zh: 使用参考照片保持人脸一致，框中框构图在主体前方加入模糊的前景剪影以增加纵深。85 毫米镜头、柔和轮廓光、莱卡 M11 风格和单色调等镜头与光线描述共同定义了这种杂志式质感。
+prompt: |
+  Using the reference face above, create a high-contrast black-and-white fashion portrait of a young man wearing a crisp white shirt, sitting in a thoughtful pose with one hand near his chin. He is framed by a blurred silhouette in the foreground, creating a cinematic “frame within a frame” composition. Dramatic lighting, with deep shadows and intense highlights, emphasizes the facial features and the emotion. The aesthetic is editorial, timeless, and minimalist, with a clean, understated background, subtle 4K film grain, ultra-realistic skin texture, razor-sharp focus on the eyes, shallow depth of field, cinematic photography, a dark and elegant mood, a style worthy of a luxury magazine, a Leica M11-inspired rendering, an 85 mm lens, a slight backlight (soft rim light), monochrome tones, a photorealistic rendering, and a very high level of detail. Original image.

@@ -1,0 +1,23 @@
+id: chatgpt-rugrats-kid-reptar
+title:
+  en: Girl with locs as Rugrats kid with Reptar
+  zh: 扎辫女孩变身蠢蛋一族小孩抱着雷普塔
+model: ChatGPT
+mode: image-edit
+category: photo-to-art
+tags:
+- rugrats
+- cartoon
+- reptar
+source:
+  name: '@kenyana940 on TikTok'
+  url: https://www.tiktok.com/@kenyana940/video/7684885263046249742
+  credit: Kenyana940
+  likes: 997
+  captured: '2026-10-30'
+  posted: '2026-09-13'
+notes:
+  en: Naming the show and one iconic toy gives the model a clear cartoon target, while the reference photo keeps the likeness. The prompt is short, so the model supplies the scene, props and styling on its own.
+  zh: 指定节目和一个标志性玩具，既给出明确的卡通目标，又借参考照片保留人物相貌。提示词很短，场景、道具和风格由模型自行补充。
+prompt: |
+  With the picture provided and what you know about me Show me what I would look like as a Rugrats kid. Include the toy Reptar(or whatever one you liked from the show)

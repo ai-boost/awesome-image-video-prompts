@@ -1,0 +1,24 @@
+id: chatgpt-1985-family-photo-restyle
+title:
+  en: Family photo restyled as a 1985 snapshot
+  zh: 家庭合影转换为1985年的老照片
+model: ChatGPT
+mode: image-edit
+category: edit
+tags:
+- 80s-trend
+- retro
+- date-stamp
+- photo-edit
+source:
+  name: '@katrinayao on TikTok'
+  url: https://www.tiktok.com/@katrinayao/video/7683941449594932500
+  credit: Kat😺
+  likes: 844
+  captured: '2026-10-30'
+  posted: '2026-09-10'
+notes:
+  en: The prompt locks identity first and then changes wardrobe, accessories and setting, so the faces stay recognizable. Analog grain, faded colour, direct flash and a specified red orange date stamp make the result read as a period snapshot.
+  zh: 提示词先锁定人物身份，再改变服装、配饰和场景，因此人脸仍然可辨认。模拟颗粒、褪色色调、直闪光和指定的红橙色日期水印，让结果更像真实的时期快照。
+prompt: |
+  Using my uploaded photo, show me what I would have looked like around 1985. Preserve my identity, facial features, skin tone, age, and recognizable appearance. Reimagine my hair, clothing, accessories, and surroundings with bold, unmistakably mid-1980s styling—expressive silhouettes, statement accessories, layered details, distinctive colors, and textures. Make it feel like a genuine 1985 photograph with analog grain, faded color, direct flash, and subtle softness. Add a period-accurate 1980s red-orange date stamp in the lower corner. No modern objects or text.

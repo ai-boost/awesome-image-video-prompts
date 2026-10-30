@@ -1,0 +1,24 @@
+id: chatgpt-demon-slayer-hashira-red-moon
+title:
+  en: Dreadlocked Hashira figure under a red moon
+  zh: 红月下戴辫发的鬼杀队柱形象
+model: ChatGPT
+mode: image-edit
+category: photo-to-art
+tags:
+- anime
+- demon-slayer
+- portrait
+- reference-photo
+source:
+  name: '@kingkay_34 on TikTok'
+  url: https://www.tiktok.com/@kingkay_34/video/7683545253504109838
+  credit: Lonely Child
+  likes: 1539
+  captured: '2026-10-30'
+  posted: '2026-09-09'
+notes:
+  en: The prompt asks for an uploaded photo as the identity reference, then lists costume, weapon, palette and breathing effects as explicit requirements, so the image carries the character design. The setting is written to echo the breathing style, with a red moon, drifting petals and a pagoda in the background.
+  zh: 提示词要求上传照片作为身份参考，并把服装、武器、配色和呼吸法效果写成明确的要求，因此图像能直接呈现角色设计。背景的红月、飘落的花瓣和宝塔则用来对应呼吸法的氛围。
+prompt: |
+  Using everything you know about me from our conversations, turn me into a completely original Demon Slayer Hashira based on my real personality. Do NOT simply choose an existing Hashira, copy an existing Breathing Style, or give me the character you think I would like most. I want you to analyze who I actually am — my personality, strengths, flaws, habits, fears, values, how I handle conflict, how I protect people, how I think under pressure, and the overall energy I give off. If you genuinely do not know enough about me to personalize the result, ask me 5–10 interesting personality questions first. Do not ask questions if you already have enough information from our conversations. Then create my Hashira profile: - Hashira Title: Give me an original title that fits me. - Breathing Style: Invent a unique Breathing Style based specifically on my personality and explain why it suits me. - Fighting Style: Explain how I fight, including whether I rely on speed, strength, precision, strategy, unpredictability, defense, observation, aggression, etc. - Nichirin Weapon: Design my weapon, including its type, blade color, guard, special details, and any unusual characteristics. - Uniform & Haori: Design my Demon Slayer uniform and haori around my personality rather than simply using my favorite colors. - Color Palette & Symbol: Give me a signature color palette and personal symbol or motif. - Strengths: What would make me dangerous enough to become a Hashira? - Fatal Flaw: Give me a genuine weakness that could actually cause problems in battle. Don't make it a disguised compliment. - Breathing Forms: Create 5–8 named forms for my Breathing Style. Give each one a purpose and explain what it does. - Ultimate Form: Create my most dangerous technique and explain what makes using it risky. - Hashira Reputation: Tell me what the other Demon Slayers would say about me when I'm not around. - Demon Perspective: Explain why demons would specifically fear fighting me. - Backstory: Give me a short Demon Slayer backstory inspired by my personality, but do not invent real-life trauma or claim fictional events actually happened to me. - Rankings: Rank my Speed, Strength, Intelligence, Battle IQ, Stamina, Defense, Technique, and Unpredictability from 1–10. - Final Verdict: Tell me where I would realistically fall among the Hashira in overall combat ability and explain why. Make the result feel like I could genuinely exist in the Demon Slayer universe, while still being an original character. Be specific. Be creative. Give me strengths AND weaknesses. Don't make me ridiculously overpowered just because I'm the person asking. After the character profile, create a cinematic visual concept for my Hashira character using the photo I upload as the identity reference. Preserve my recognizable facial features, skin tone, hair characteristics, body type, age, and overall likeness. Transform me into the Hashira you designed above, including the correct uniform, haori, Nichirin weapon, colors, symbols, and Breathing Style effects. The setting and atmosphere should visually represent my unique Breathing Style.

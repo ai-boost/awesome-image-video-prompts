@@ -1,0 +1,24 @@
+id: chatgpt-personal-tattoo-meaning-sheet
+title:
+  en: Floral arm tattoo with compass, mountains and paw prints
+  zh: 花卉手臂纹身，含罗盘、山脉与爪印
+model: ChatGPT
+mode: text-to-image
+category: realism
+tags:
+- tattoo
+- personalized
+- memory
+- infographic
+source:
+  name: '@vangiegilley82 on TikTok'
+  url: https://www.tiktok.com/@vangiegilley82/video/7682941647562231054
+  credit: Vangie Gilley 🫶
+  likes: 49
+  captured: '2026-10-30'
+  posted: '2026-09-07'
+notes:
+  en: The prompt draws on ChatGPT's saved memory of the user, so no personal details need to be typed in. Asking for the design, a meaning for each element and a closing rationale in one message produces a mockup with a matching legend panel.
+  zh: 这个提示词依赖 ChatGPT 保存的用户记忆，无需手动输入个人信息。一次性要求设计图、每个元素的寓意以及最终理由，就能得到带配套图例面板的纹身效果图。
+prompt: |
+  create for me a tattoo that fits my personality perfectly based on everything you know and have learned about me, create an image of the tattoo and descriptions of the meaning behind each part of the tattoo design you created. tell me why the tattoo created suits my personality perfectly

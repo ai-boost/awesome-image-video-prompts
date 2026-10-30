@@ -1,6 +1,6 @@
 # 拼贴
 
-[返回目录](../../README_zh.md) · 全部 95 条
+[返回目录](../../README_zh.md) · 全部 97 条
 
 <a id="gpt-image-failed-photos-grid"></a>
 ### 任意角色的九宫格失败抓拍照
@@ -581,6 +581,25 @@ GPT Image 2 · 文生图 · 出处: [@noorlewisx on X](https://x.com/noorlewisx/
 
 ```text
 MODERN EDITORIAL COLLAGE POSTER DESIGN. CLEAN MINIMALIST FASHION COMPOSITION. BACKGROUND FEATURES FOUR VERTICALLY STACKED ROUNDED-RECTANGLE PANELS CONTAINING BLACK-AND-WHITE CINEMATIC PORTRAITS OF THE SAME STYLISH YOUNG WOMAN WEARING LUXURY SUNGLASSES IN DIFFERENT HIGH-FASHION POSES. IN THE FOREGROUND, A FULL-BODY HIGH-QUALITY COLOR CUTOUT OF THE SAME WOMAN STANDS CONFIDENTLY, WEARING AN OVERSIZED WHITE SHIRT, TAILORED BLACK PANTS, AND BLACK SUNGLASSES. SOFT REALISTIC SHADOWS, DEPTH LAYERING, PREMIUM MAGAZINE EDITORIAL STYLE, HIGH CONTRAST LIGHTING, CLEAN WHITE BACKGROUND, MODERN FASHION ADVERTISING AESTHETIC, ULTRA-REALISTIC SKIN TEXTURE, SHARP DETAILS, PROFESSIONAL POSTER COMPOSITION, LUXURY VOGUE-INSPIRED DESIGN, PHOTOREALISTIC, 8K, STUDIO QUALITY, NO TEXT, NO TYPOGRAPHY, NO LETTERS, NO LOGOS, NO WATERMARKS.
+```
+
+</details>
+
+<a id="chatgpt-birthday-photobooth-grid-black-white"></a>
+### 九宫格黑白生日照片亭人像
+
+<a href="https://www.tiktok.com/@creandoconjhonathan/video/7689537471096311048"><img src="../../previews/chatgpt-birthday-photobooth-grid-black-white.jpg" width="360"></a>
+
+提示词先锁定参考照片中的身份、发型、肤色和服装，再规定3×3网格与彩旗横幅的文字版式，让同一人物在九个姿势中保持一致，文字与构图成为画面的稳定骨架。
+
+ChatGPT · 上传图改图 · 出处: [@creandoconjhonathan on TikTok](https://www.tiktok.com/@creandoconjhonathan/video/7689537471096311048) · 231 赞，统计于 2026-10-30
+
+[`birthday`](tags.md#tag-birthday) [`photobooth`](tags.md#tag-photobooth) [`black-and-white`](tags.md#tag-black-and-white) [`grid`](tags.md#tag-grid)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Usa la foto adjunta como referencia principal. Mantén exactamente la identidad, rostro, cabello, barba, tono de piel, edad aparente, cuerpo y ropa original. Crea una foto vertical 9:16 en blanco y negro, estilo photobooth vintage de los años 70–90, dividida en un grid 3×3 con 9 retratos de la misma persona, cada uno con una pose y expresión de cumpleaños diferente. Agrega sombrero de cumpleaños y matasuegras en algunas poses. Conecta los cuadros con guirnaldas, serpentinas y banderines que formen claramente “FELIZ CUMPLEAÑOS”. Fotografía editorial de estudio, iluminación suave, grano analógico, elegante y nostálgica. Alta resolución, composición realista y perfectamente alineada. No cambies la apariencia ni el vestuario de la persona.
 ```
 
 </details>
@@ -2123,6 +2142,25 @@ Camera: handheld smartphone photography, high ISO grain, flash photography, shal
 Color grading: desaturated blacks, cool blue-grey shadows, faded contrast, moody night-time atmosphere.
 
 Negative prompt: bright lighting, smiling, colorful clothes, perfect studio lighting, heavy makeup, CGI, anime, cartoon, unrealistic skin, extra fingers, watermark, text, overexposed image, glossy fashion magazine style.
+```
+
+</details>
+
+<a id="chatgpt-iris-center-nature-color-palette"></a>
+### 虹膜居中，四周环绕自然元素配色
+
+<a href="https://www.tiktok.com/@jessica_feldman_/video/7687762438644600077"><img src="../../previews/chatgpt-iris-center-nature-color-palette.jpg" width="360"></a>
+
+上传虹膜特写照片并要求精确放在中心，让整个画面以真实眼睛为锚点。要求把虹膜中的每一种色调对应到一个具体的自然物体，于是颜色分析变成带标签的环形排版。
+
+ChatGPT · 上传图改图 · 出处: [@jessica_feldman_ on TikTok](https://www.tiktok.com/@jessica_feldman_/video/7687762438644600077) · 77 赞，统计于 2026-10-30
+
+[`eye`](tags.md#tag-eye) [`nature`](tags.md#tag-nature) [`color-palette`](tags.md#tag-color-palette)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Analyze the eye color in the photo I uploaded in every possible detail and create an artistic visual for me. Place my iris photo exactly at the center of the composition. Around it, visualize every color found within my iris using real elements from nature.
 ```
 
 </details>
