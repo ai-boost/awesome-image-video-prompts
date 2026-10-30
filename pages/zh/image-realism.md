@@ -1,6 +1,6 @@
 # 写实照片
 
-[返回目录](../../README_zh.md) · 全部 84 条
+[返回目录](../../README_zh.md) · 全部 85 条
 
 <a id="gpt-image-coca-cola-tanker-leak-mentos-truck-dashcam"></a>
 ### 可口可乐罐车漏液，旁边是Mentos货车
@@ -913,6 +913,25 @@ GPT Image 2 · 文生图 · 出处: [@AvelyrahnAI on X](https://x.com/AvelyrahnA
 
 ```text
 Ultra-realistic action photography, extreme fisheye lens (8mm), worm’s-eye view from ground level, dynamic urban plaza scene. A stylish young woman appears to be stepping over the camera, one sneaker sole dominating the foreground, hand reaching toward the lens. She wears oversized red track pants with white side stripes, a fitted white crop top, red-and-white high-top sneakers, and silver headphones. Wind-blown dark hair, natural beauty, confident expression. Massive circular “tiny planet” perspective with historic European architecture curving around the edges of the frame, bright blue sky filled with fluffy white clouds at the center. Cinematic composition, dramatic distortion, ultra-wide angle, vibrant colors, sharp focus, HDR, photorealistic, highly detailed skin texture, travel photography aesthetic, motion energy, depth and scale, 8K resolution, professional DSLR quality, masterpiece, Instagram viral shot.
+```
+
+</details>
+
+<a id="nano-banana-florence-red-dress-prosecco"></a>
+### 红裙女子在佛罗伦萨大教堂前举杯欢笑
+
+<a href="https://x.com/KeorUnreal/status/2092706718723575928"><img src="../../previews/nano-banana-florence-red-dress-prosecco.jpg" width="360"></a>
+
+提示词以业余 iPhone 随手拍定调，让画面像抓拍而非影棚人像。点名地标并在裙子和高跟鞋上重复同一红色，使场景与色调保持统一。
+
+Nano Banana 2 · 文生图 · 出处: [@KeorUnreal on X](https://x.com/KeorUnreal/status/2092706718723575928) · 175 赞，统计于 2026-10-29
+
+[`iphone-photo`](tags.md#tag-iphone-photo) [`florence`](tags.md#tag-florence) [`fashion`](tags.md#tag-fashion) [`red-dress`](tags.md#tag-red-dress)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Realistic amateur indoor iphone shot of a fit londoner supermodel wearing a mini elegant tight cremisi dress with glossy cremisi high heels while laughing and drinking prosecco watching in camera in a chill beautiful sunday morning in front of Cattedrale di Santa Maria del Fiore in Firenze among flowers.
 ```
 
 </details>

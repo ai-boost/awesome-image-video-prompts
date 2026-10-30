@@ -1,0 +1,54 @@
+id: nano-banana-santa-monica-spin-dress
+title:
+  en: Woman spinning in colorful dress at Santa Monica Pier
+  zh: 圣莫尼卡码头旋转的彩色连衣裙女子
+model: Nano Banana 2
+mode: image-edit
+category: edit
+tags:
+- fashion
+- motion
+- json-prompt
+- sunset
+source:
+  name: '@astronomerozge1 on X'
+  url: https://x.com/astronomerozge1/status/2045235455298560426
+  credit: Özge Döner
+  likes: 31
+  captured: '2026-10-29'
+  posted: '2026-04-17'
+notes:
+  en: The JSON layout sets identity lock, pose, and camera as separate fields so each attribute is fixed explicitly. A 35mm lens at a slightly low angle with the spinning pose makes the flared hem read as motion.
+  zh: JSON 结构把身份保留、姿势和镜头拆成独立字段，逐项固定每个属性。35mm 镜头配合略低的角度和旋转姿势，让裙摆呈现动感。
+prompt: |
+  {
+    "generation_request": {
+      "meta_data": {
+        "task_type": "santa_monica_fashion_motion",
+        "version": "v3.0_PLAYFUL_EDITORIAL"
+      },
+
+      "input": {
+        "mode": "image_to_image",
+        "preserve_identity": true,
+        "notes": "Santa Monica Pier with ferris wheel background, sunset."
+      },
+
+      "subject": {
+        "outfit": "vibrant fitted mini dress",
+        "hair": "high ponytail swinging",
+        "makeup": "fresh glow + glossy lips",
+        "expression": "playful confident smile"
+      },
+
+      "pose": {
+        "body": "spinning motion, dress moving",
+        "posture": "dynamic"
+      },
+
+      "camera": {
+        "lens": "35mm",
+        "angle": "slightly low motion shot"
+      }
+    }
+  }

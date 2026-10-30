@@ -1,6 +1,6 @@
 # Photo editing
 
-[Back to the list](../../README.md) · All 41 entries
+[Back to the list](../../README.md) · All 43 entries
 
 <a id="nano-banana-charmander-ember-route-101"></a>
 ### Charmander uses Ember on a sunset route
@@ -647,6 +647,92 @@ TARGET IMAGE = everything except facial identity.
 REFERENCE PHOTO = facial identity only.
 
 The final image must look almost identical to the TARGET IMAGE, with only the woman's facial identity changed. The real photo and the illustrated character must clearly look like the same woman.
+```
+
+</details>
+
+<a id="nano-banana-santa-monica-spin-dress"></a>
+### Woman spinning in colorful dress at Santa Monica Pier
+
+<a href="https://x.com/astronomerozge1/status/2045235455298560426"><img src="../../previews/nano-banana-santa-monica-spin-dress.jpg" width="360"></a>
+
+The JSON layout sets identity lock, pose, and camera as separate fields so each attribute is fixed explicitly. A 35mm lens at a slightly low angle with the spinning pose makes the flared hem read as motion.
+
+Nano Banana 2 · Edit · Source: [@astronomerozge1 on X](https://x.com/astronomerozge1/status/2045235455298560426) · 31 likes on 2026-10-29
+
+[`fashion`](tags.md#tag-fashion) [`motion`](tags.md#tag-motion) [`json-prompt`](tags.md#tag-json-prompt) [`sunset`](tags.md#tag-sunset)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+{
+  "generation_request": {
+    "meta_data": {
+      "task_type": "santa_monica_fashion_motion",
+      "version": "v3.0_PLAYFUL_EDITORIAL"
+    },
+
+    "input": {
+      "mode": "image_to_image",
+      "preserve_identity": true,
+      "notes": "Santa Monica Pier with ferris wheel background, sunset."
+    },
+
+    "subject": {
+      "outfit": "vibrant fitted mini dress",
+      "hair": "high ponytail swinging",
+      "makeup": "fresh glow + glossy lips",
+      "expression": "playful confident smile"
+    },
+
+    "pose": {
+      "body": "spinning motion, dress moving",
+      "posture": "dynamic"
+    },
+
+    "camera": {
+      "lens": "35mm",
+      "angle": "slightly low motion shot"
+    }
+  }
+}
+```
+
+</details>
+
+<a id="gpt-image-wildflower-doodle-before-after"></a>
+### Woman with daisy on cream doodle background
+
+<a href="https://x.com/harboriis/status/2115827211223912551"><img src="../../previews/gpt-image-wildflower-doodle-before-after.jpg" width="360"></a>
+
+The prompt keeps the subject as an unaltered photographic cutout and limits the background to monoline doodles with set counts, sizes and a shared ground line. A three-line caption and a few tiny red, pink and yellow accents set the mood without crowding the subject.
+
+GPT Image 2.5 · Edit · Source: [@harboriis on X](https://x.com/harboriis/status/2115827211223912551) · 28 likes on 2026-10-29
+
+[`before-after`](tags.md#tag-before-after) [`doodle`](tags.md#tag-doodle) [`line-art`](tags.md#tag-line-art) [`portrait`](tags.md#tag-portrait)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a vertical 3:4 before-and-after image split into two stacked panels of equal height.
+
+TOP PANEL (before): the original photograph exactly as provided, completely unedited - same subject, pose, background, colors and lighting. Full bleed to the panel edges.
+
+BOTTOM PANEL (after): the same person or people, still fully photographic and realistic, cut out from the original photo and placed centered on a warm cream off-white paper background. Keep their face, identity, expression, pose, clothing and proportions exactly as in the photo - never illustrate, stylize, smooth or redraw the subject. Clean cutout edges including hair.
+
+Replace the entire background with charming hand-drawn doodles in thin black pen line art - monoline, no fill, light and loose like a sketchbook, with a little character and personality in the linework.
+
+Use about eight doodle elements, balanced across the panel. Draw one or two simplified landmarks or buildings from the original background, one on each side of the subject at small scale. Add two or three small cartoon figures doing light actions that suit the scene - riding a bicycle, walking a dog, taking a photo, waving from a shop, holding a balloon. Add three or four small accents scattered in the open areas: a cloud, a sparkle or two, a paper plane with a dotted trail, a musical note, a few flowers or small plants near the ground.
+
+Compose it with breathing room. Keep every doodle at roughly a third of the subject's height or less, and rest the buildings and figures along a shared ground line so the panel has a clear horizon. Let the accents float higher in the empty upper corners to fill the space lightly. Leave a clear margin of untouched cream around the subject on all sides - doodles never overlap or touch them - and keep visible cream gaps between neighbouring elements so nothing clusters.
+
+Ground the subject with a thin sketchy horizontal line under the feet with a few short hatch marks and a soft natural shadow. Keep it light, not a dense scribble.
+
+Place a short handwritten caption in the open upper-left area: three lines, three to five words each, casual lowercase handwriting in thin black ink, warm and reflective in tone. Add one small red hand-drawn heart just below it with space around it.
+
+Everything in the lower panel is black line on cream, except three or four tiny color accents - a
+
+red heart, pink flowers, a yellow sparkle. The subject alone stays in full photographic color. Avoid: a cluttered or busy background, doodles filling every corner, doodles overlapping or touching the subject, large doodles rivaling the subject's size, three or more buildings, dense scribbled shadows, heavy thick linework, shading or crosshatching, long caption text, more than three lines of text, an illustrated or cartoon subject, changed face or identity, beautified skin, altered clothing or pose, colored or filled doodles, 3D rendering, side-by-side panels, watermark
 ```
 
 </details>

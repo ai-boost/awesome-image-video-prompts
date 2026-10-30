@@ -1,6 +1,88 @@
 # 海报与编辑排版
 
-[返回目录](../../README_zh.md) · 全部 187 条 · [1](image-poster.md) · **2**
+[返回目录](../../README_zh.md) · 全部 189 条 · [1](image-poster.md) · **2**
+
+<a id="gpt-image-anime-gender-swap-before-after-poster"></a>
+### 动漫性别反转前后对比杂志封面海报
+
+<a href="https://x.com/ArtistaNozomu/status/2085314580130197811"><img src="../../previews/gpt-image-anime-gender-swap-before-after-poster.jpg" width="360"></a>
+
+提示词把画面拆成小尺寸的前图卡片和占主体的后图人像,并明确卡片与印章的数量以及日文文案原文,保证排版文字清晰。蓝白限定配色加水彩光效让整体统一。
+
+GPT Image 2 · 文生图 · 出处: [@ArtistaNozomu on X](https://x.com/ArtistaNozomu/status/2085314580130197811) · 发现于 [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`anime`](tags.md#tag-anime) [`magazine-cover`](tags.md#tag-magazine-cover) [`gender-swap`](tags.md#tag-gender-swap) [`before-after`](tags.md#tag-before-after) [`japanese-typography`](tags.md#tag-japanese-typography)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Goal: Create a polished anime magazine-cover style “gender swap before/after” poster. The main subject is the transformed After character: an extremely handsome teenage boy who preserves the soft facial resemblance of the original character, with light ash-blonde tousled medium-short hair, sparkling blue eyes, pale luminous skin, a gentle open smile, and an elegant androgynous beauty. He wears a loose white shirt with rolled sleeves, a pale blue loosened necktie, blue suspenders, slim earrings, a delicate bracelet, and a blue belt with silver details. Pose him seated in a relaxed three-quarter view, leaning slightly forward with one hand near his cheek, looking directly at the viewer. Use airy spring lighting, soft bokeh flowers, floating white petals, translucent watercolor highlights, and crisp high-detail anime linework.
+
+Canvas: Vertical 4:5 poster, light pastel blue and white palette, bright dreamy background, plenty of negative space on the left for typography, main After portrait large and dominant on the right and center.
+
+Layout: Include exactly 1 small Before card in the upper-left corner and 1 large After portrait occupying most of the canvas. The Before card should have rounded corners, a thin blue border, and show a cute original girl with the same visual identity: ash-blonde wavy bob hair, blue eyes, white blouse, blue plaid skirt or blue ribbon accents, cheerful expression. Add a small top ribbon label on the card reading 元の姿 and a name under the mini portrait reading のぞむ. Add exactly 1 circular blue stamp near the lower-right of the poster reading 男女\n反転 with tiny sparkle marks.
+
+Text content: Large elegant Japanese headline on the left, set in a mix of black and soft blue calligraphic serif type: この子、\n男の子に\nなったら。. Under it, smaller Japanese subcopy: "面影そのまま、性別だけ反転。" Near the bottom, add a small caption: "可愛さを残した、最高にかっこいい彼。" Use refined magazine typography, with the key words in blue and the rest in dark ink.
+
+Visual style: High-end shoujo anime illustration, glossy magazine cover composition, ethereal watercolor lighting, detailed hair strands, delicate jewelry, soft skin shading, blue-white color harmony, romantic and clean design. Keep all Japanese text legible and integrated into the layout. Avoid photorealism, clutter, extra characters, watermarks, or random additional text.
+```
+
+</details>
+
+<a id="gpt-image-anna-karina-torn-paper-french-poster"></a>
+### 安娜·卡琳娜叼烟肖像的撕纸电影海报
+
+<a href="https://x.com/bananaprompts/status/2048541390900994476"><img src="../../previews/gpt-image-anna-karina-torn-paper-french-poster.jpg" width="360"></a>
+
+在提示词中用固定的深红、钴蓝、暖黄、黑、象牙白五色，并按类型列出拼贴元素（雨中街道、胶片边框、报纸剪报），模型就能围绕中央黑白人像搭出撕纸式版面。标题、副标题和底部文字用占位槽位，保持清晰的字体层级。
+
+GPT Image 2 · 文生图 · 出处: [@bananaprompts on X](https://x.com/bananaprompts/status/2048541390900994476) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`poster`](tags.md#tag-poster) [`collage`](tags.md#tag-collage) [`typography`](tags.md#tag-typography) [`vintage-film`](tags.md#tag-vintage-film)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a vertical poster composition on aged cream paper with a handmade analog feel. Use rough ripped paper edges, layered magazine cutouts, photocopy grain, halftone texture, ink bleed, and slightly imperfect screen-print registration. Keep the subject as the main black-and-white photographic portrait, placed prominently in the center or upper center. Surround the subject with graphic blocks of deep red, cobalt blue, warm yellow, black, and ivory.
+
+Add supporting collage fragments such as a rainy European street, film-strip borders, newspaper clippings, urban silhouettes, and cinematic details, arranged like a handmade 1960s art-house movie poster. Use bold condensed typography with a strong visual hierarchy. Add large headline text: "[MAIN TITLE]". Add smaller subtitle text: "[SUBTITLE]". Add bottom text: "[BRAND NAME / EVENT NAME / COMING SOON / DATE]". If needed, include a small top line reading "[TAGLINE]".
+
+The final result should feel cinematic, intellectual, rebellious, and editorial — like a lost 1960s European film poster with a strong point of view. Keep it raw, tactile, printed, imperfect, and handmade. Avoid a glossy modern finish.
+```
+
+</details>
+
+<a id="gpt-image-annotated-autumn-fashion-lookbook-poster"></a>
+### 粉彩秋季穿搭手写标注图册海报
+
+<a href="https://x.com/LiEvanna85716/status/2097663816339427547"><img src="../../previews/gpt-image-annotated-autumn-fashion-lookbook-poster.jpg" width="360"></a>
+
+提示词固定了配色、边框和标题原文，版式与字体因此可控。手写标签加细箭头把每件单品和名称对应起来，形成商品图册的质感。
+
+GPT Image 2.5 · 文生图 · 出处: [@LiEvanna85716 on X](https://x.com/LiEvanna85716/status/2097663816339427547) · 发现于 [wangrunlin/awesome-gpt-image-2-5-prompts](https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts)
+
+[`fashion`](tags.md#tag-fashion) [`lookbook`](tags.md#tag-lookbook) [`pastel`](tags.md#tag-pastel) [`annotated`](tags.md#tag-annotated) [`e-commerce`](tags.md#tag-e-commerce)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a clean fashion e-commerce lookbook poster featuring a young female model in a cute, simple autumn outfit.
+Use a soft pastel pink, blue and lavender gradient background. Keep the overall design minimal, clean and slightly playful, like a modern Korean/Japanese fashion catalog.
+
+Show the full-body model as the main focus, with realistic skin, natural proportions and clear clothing details. The outfit should be simple and wearable: cardigan or hoodie, fitted top, shorts or pleated skirt, socks and sneakers/Mary Jane shoes.
+
+Add handwritten English annotations with thin arrows pointing to individual clothing pieces, such as “Cardigan”, “Polo Shirt”, “Shorts”, “Sneakers” and “Bag”.
+
+Add a bold English fashion headline at the top: “AUTUMN DAILY OUTFIT”, plus a few small decorative English phrases such as “NEW SEASON 2026”, “SIMPLE · COMFY · BETTER ME” and “OUTFIT IDEAS FOR A BRIGHTER YOU”.
+
+Use a structured rectangular frame around the main content, subtle rounded corners, plenty of negative space, and only a few minimal heart/star doodles.
+
+The final image should feel like a polished fashion e-commerce campaign poster — minimal, youthful, realistic, highly readable typography, clean product presentation, not cluttered, with the outfit as the visual focus.
+
+Vertical 3:4 composition, high-resolution commercial fashion photography.
+```
+
+</details>
 
 <a id="gpt-image-apple-style-nature-science-poster"></a>
 ### 苹果风格野生动物科普海报系列
@@ -1964,7 +2046,7 @@ Mood: introspective, mental weight, identity, self-awareness.
 
 GPT Image 2.5 · 文生图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card)
 
-[`holiday`](tags.md#tag-holiday) [`card`](tags.md#tag-card) [`text-render`](tags.md#tag-text-render)
+[`christmas`](tags.md#tag-christmas) [`holiday`](tags.md#tag-holiday) [`card`](tags.md#tag-card) [`text-render`](tags.md#tag-text-render)
 
 <details><summary><b>提示词</b></summary>
 

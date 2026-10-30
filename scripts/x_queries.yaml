@@ -9,3 +9,6 @@
 - {model: Gemini Omni Flash, kind: video, max: 5, query: '"Gemini Omni" prompt min_faves:150 filter:videos'}
 - {model: GPT Image 2.5, kind: image, max: 10, query: '"GPT Image 2.5" prompt min_faves:250 filter:images'}
 - {model: Nano Banana 2.1, kind: image, max: 8, query: '"Nano Banana 2.1" prompt min_faves:120 filter:images'}
+# Seasonal: Christmas photo prompts for agentcraft.dev/prompts/image/christmas/, searched only in these months.
+- {model: GPT Image 2.5, kind: image, max: 10, months: [11, 12, 1], query: '(christmas OR xmas OR santa) prompt "gpt image 2.5" filter:images min_faves:60'}
+- {model: Nano Banana 2.1, kind: image, max: 10, months: [11, 12, 1], query: '(christmas OR xmas OR santa) prompt "nano banana 2.1" filter:images min_faves:60'}

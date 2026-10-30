@@ -1,6 +1,6 @@
 # Portraits
 
-[Back to the list](../../README.md) · All 213 entries · [1](image-portrait.md) · **2**
+[Back to the list](../../README.md) · All 214 entries · [1](image-portrait.md) · **2**
 
 <a id="gpt-image-realistic-big-head-miniature-pinwheel-portrait"></a>
 ### Realistic big head miniature portrait holding pinwheel
@@ -1324,6 +1324,97 @@ Clean photograph only. No text, watermarks, logos, or interface elements.
 NEGATIVE PROMPT
 
 different woman in each panel, inconsistent identity, altered facial proportions, different eye color, brown hair, chestnut hair, copper hair, auburn hair, blonde hair, gray hair, blue hair, flat hair, short hair, missing hair volume, different clothing, missing necklace, oversized earrings, flat lighting, excessive orange lighting, blown-out face, blurry eyes, blurry lips, plastic skin, excessive airbrushing, artificial glow, overprocessed makeup, distorted face, extra fingers, deformed hands, cartoon, anime, illustration, digital painting, 3D render, CGI, low resolution, pixelation, excessive sharpening, text, watermark, logo, uneven grid, unequal panels, extra panels, overlapping panels, 4:5 aspect ratio
+```
+
+</details>
+
+<a id="nano-banana-snowy-street-umbrella-christmas"></a>
+### Woman under umbrella on snowy Christmas street
+
+<a href="https://x.com/dreamydigiarts/status/2115760563150053583"><img src="../../previews/nano-banana-snowy-street-umbrella-christmas.jpg" width="360"></a>
+
+Shallow depth of field keeps the subject sharp while city lights dissolve into soft bokeh circles. The cool blue shadow grade against warm streetlights and tree lights gives the high-contrast cinematic look, and the over-the-shoulder pose with direct eye contact anchors the portrait.
+
+Nano Banana 2 · Text-to-image · Source: [@dreamydigiarts on X](https://x.com/dreamydigiarts/status/2115760563150053583) · 24 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`winter`](tags.md#tag-winter) [`portrait`](tags.md#tag-portrait) [`cinematic`](tags.md#tag-cinematic) [`bokeh`](tags.md#tag-bokeh)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+{
+
+"subject_id": "fit_female_01",
+
+"biometrics": {
+
+"physique": "Athletic, voluptuous, slim waist, prominent glutes, visible back muscle",
+
+"skin": "Fair, natural texture, realistic pores",
+
+"hair": "Dark brown, messy high bun, wispy bangs"
+
+},
+
+"attire": {
+
+"top": "Black racerback sports bra",
+
+"bottom": "Tight black booty shorts, orange jack-o'-lantern & purple star pattern",
+
+"accessories": ["Gold ring", "Small earrings", "Gold iPhone with puffer case"]
+
+},
+
+"composition": {
+
+"shot_type": "Mirror selfie, medium shot (knees up), vertical 9:16",
+
+"pose": "Back to mirror, torso twisted left, head turned over shoulder",
+
+"focal_length": "26mm smartphone lens",
+
+"depth": "Deep focus, clear subject-background separation"
+
+},
+
+"environment": {
+
+"interior": "Modern apartment, living room background, white door frame",
+
+"exterior_view": "Floor-to-ceiling window, city skyline, blue sky",
+
+"lighting": {
+
+"primary": "Strong natural daylight from left",
+
+"effects": "Directional highlights, high-contrast side lighting"
+
+}
+
+},
+
+"style_profile": {
+
+"aesthetic": "Raw social media snapshot, influencer lifestyle",
+
+"quality": "8k photorealistic, digital sensor noise, no filters",
+
+"mood": "Confident, casual, sultry"
+
+},
+
+"control_params": {
+
+"dw_pose": "Weight 1.0 (lock spine/hips/limbs)",
+
+"zoe_depth": "Weight 0.8 (preserve glute volume/depth)"
+
+},
+
+"negatives": "airbrushed, plastic skin, flattened curves, anatomy normalization, slimmed torso, low-res"
+
+}
 ```
 
 </details>

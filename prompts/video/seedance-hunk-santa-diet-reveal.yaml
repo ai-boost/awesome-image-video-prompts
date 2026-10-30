@@ -1,0 +1,39 @@
+id: seedance-hunk-santa-diet-reveal
+title:
+  en: Chubby Santa wakes in bed, then a muscular reveal
+  zh: 胖胖的圣诞老人在床上醒来，随后是健硕的揭晓
+model: Seedance 2.5
+mode: reference-to-video
+category: commercial
+tags:
+- christmas
+- reference-image
+- transformation
+- time-skip
+source:
+  name: '@mrdejie on X'
+  url: https://x.com/mrdejie/status/2094622082474852770
+  credit: mrdejie
+  captured: '2026-10-29'
+  posted: '2026-09-01'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/mrdejie/status/2094622082474852770
+notes:
+  en: Anchors the transformation on @(reference image) from CUT 8 onward, and hides the face during the time skip with a low camera on boots and legs so the reveal lands as one slow tilt up. Timed segments plus a hard rule (never show the chubby version after the skip) keep the character consistent across cuts.
+  zh: 从第 8 段起用 @(参考图) 锁定健硕形象，时间跳跃时用低机位只拍靴子和双腿并遮住面部，最后靠一次缓慢上摇完成揭晓。按秒分段，并写明跳跃后不再出现胖版的硬性规则，让角色在各镜头间保持一致。
+prompt: |
+  Photorealistic 36-second Santa diet-to-reveal video at the North Pole. Cozy Christmas cabin: wooden walls, fireplace, lights, tree, snow outside. Funny and sincere. Start as classic chubby Santa. From CUT 8 onward use @(reference image) as the exact fit muscular Santa. Never show the chubby version after the time skip. No on-screen text, no subtitles, no watermark.
+
+  0–2s: Chubby Santa wakes up in bed, sleepy, then sits up.
+  2–5s: At the mirror he holds his big belly, shocked.
+  5–8s: At a full holiday table he looks happy at the roasted chicken, then pushes it aside and eats vegetable salad with a fork.
+  8–11s: He jogs in the snow outside his cabin, heavy but determined.
+  11–13s: Shadow boxing in the yard.
+  13–15s: Inside, he lifts dumbbells by the Christmas tree.
+  15–17s: Push-ups on the rug in front of the fireplace.
+  17–20s: Time skip. Low camera. Only fit legs and black boots walk to the door. Face hidden.
+  20–22s: Same low shot. He steps outside and closes the cabin door. Face still hidden.
+  22–25s: Sleigh packed with gifts. Rudolph and the other reindeer see him and jaw-drop in shock.
+  25–28s: Slow tilt from his boots up to his face. Reveal muscular Santa, exact @(reference image).
+  28–33s: Fast funny bodybuilder sequence, 5 poses: double biceps, side chest, back double biceps, one-arm flex, most-muscular. Reindeer keep staring.
+  33–36s: He drops the pose, says "Oh, sorry." Reindeer laugh. Santa says "Let's find and reward the Nice kids."

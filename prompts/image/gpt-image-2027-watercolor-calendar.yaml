@@ -1,0 +1,27 @@
+id: gpt-image-2027-watercolor-calendar
+title:
+  en: 2027 watercolor calendar with one seated man per month
+  zh: 2027 水彩日历海报，每月一位坐姿男子
+model: GPT Image 2
+mode: image-edit
+category: poster
+tags:
+- calendar
+- watercolor
+- character-consistency
+- korean-illustration
+source:
+  name: '@Fujimoto_hina on X'
+  url: https://x.com/Fujimoto_hina/status/2055895559429644702
+  credit: Aegon
+  likes: 516
+  captured: '2026-10-29'
+  posted: '2026-05-17'
+notes:
+  en: The same character is held consistent across twelve panels by fixing the face, curly hair, glasses and beard in every scene. A 3x4 month grid with seasonal doodle borders on a clean white ground keeps the layout orderly.
+  zh: 在十二个月份场景中固定同一角色的脸部、卷发、眼镜和胡须，让人物保持一致。3x4 月历网格配合季节性涂鸦边框和留白背景，使版式清晰有序。
+prompt: |
+  {
+    "prompt": "Create a premium 2027 desktop calendar poster in A4 vertical format featuring the same young man from the reference image, illustrated in a Korean hand-drawn illustration style. Design a 3x4 monthly grid layout from January to December 2027. Each month should feature the character sitting in a different relaxed pose and seasonal environment while maintaining consistent facial identity, curly hair, glasses, beard, warm smile, and cozy aesthetic. Use full-body compositions with natural expressions and dynamic seated poses.\n\nArt style should combine watercolor, ink sketch, comic doodle textures, pastel washes, splatter brush strokes, freehand sketch lines, and soft painterly rendering. Keep a clean white background with artistic negative space. Surround each month with symbolic seasonal doodles and decorative edge elements such as flowers, books, coffee cups, snowflakes, pumpkins, lanterns, cameras, stars, paper planes, autumn leaves, beach props, Christmas decorations, travel icons, and whimsical sketch marks.\n\nCharacter clothing should have highly detailed knit textures, layered winter-fashion inspired outfits, soft neutral tones, rolled pants, sneakers, scarves, and cozy casual aesthetics. Maintain an elegant editorial illustration feel with high detail, atmospheric storytelling, expressive linework, and premium stationery design quality.\n\nMonthly scene concepts:\n- January: sitting with hot coffee and winter doodles\n- February: cozy seated pose with heart and flower sketches\n- March: sitting while sketching in a notebook\n- April: sitting with vintage camera and spring leaves\n- May: reading books beside stacked novels\n- June: relaxed pose with travel and sea doodles\n- July: sitting on beach chair with summer drink\n- August: seated near ocean-themed illustrations\n- September: journaling with autumn leaves\n- October: cozy Halloween-inspired atmosphere with pumpkin doodles\n- November: warm scarf and city sketch background\n- December: sitting beside Christmas decorations and gifts\n\nTypography should be elegant handwritten brush style for month titles and modern minimal calendar formatting. Use soft neutral and pastel color palettes mixed with black ink textures. Add subtle paint splashes, rough paper grain, sketch imperfections, and artistic composition balance. Ultra detailed, high quality, cinematic illustration aesthetic, premium printable calendar poster design.",
+    "size": "1024x1792"
+  }

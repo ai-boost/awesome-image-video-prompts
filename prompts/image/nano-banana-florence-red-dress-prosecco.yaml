@@ -1,0 +1,24 @@
+id: nano-banana-florence-red-dress-prosecco
+title:
+  en: Laughing woman with prosecco before Florence Duomo
+  zh: 红裙女子在佛罗伦萨大教堂前举杯欢笑
+model: Nano Banana 2
+mode: text-to-image
+category: realism
+tags:
+- iphone-photo
+- florence
+- fashion
+- red-dress
+source:
+  name: '@KeorUnreal on X'
+  url: https://x.com/KeorUnreal/status/2092706718723575928
+  credit: KeorUnreal
+  likes: 175
+  captured: '2026-10-29'
+  posted: '2026-08-23'
+notes:
+  en: Stating an amateur iPhone shot makes the image read as a candid snapshot rather than a studio portrait. Naming the landmark and repeating one colour in the dress and heels keeps the location and palette tied together.
+  zh: 提示词以业余 iPhone 随手拍定调，让画面像抓拍而非影棚人像。点名地标并在裙子和高跟鞋上重复同一红色，使场景与色调保持统一。
+prompt: |
+  Realistic amateur indoor iphone shot of a fit londoner supermodel wearing a mini elegant tight cremisi dress with glossy cremisi high heels while laughing and drinking prosecco watching in camera in a chill beautiful sunday morning in front of Cattedrale di Santa Maria del Fiore in Firenze among flowers.

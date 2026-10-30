@@ -1,0 +1,97 @@
+id: nano-banana-snowy-street-umbrella-christmas
+title:
+  en: Woman under umbrella on snowy Christmas street
+  zh: 雪夜圣诞街头撑伞的女子
+model: Nano Banana 2
+mode: text-to-image
+category: portrait
+tags:
+- christmas
+- winter
+- portrait
+- cinematic
+- bokeh
+source:
+  name: '@dreamydigiarts on X'
+  url: https://x.com/dreamydigiarts/status/2115760563150053583
+  credit: dreamy digital arts
+  likes: 24
+  captured: '2026-10-29'
+  posted: '2026-10-29'
+notes:
+  en: Shallow depth of field keeps the subject sharp while city lights dissolve into soft bokeh circles. The cool blue shadow grade against warm streetlights and tree lights gives the high-contrast cinematic look, and the over-the-shoulder pose with direct eye contact anchors the portrait.
+  zh: 浅景深让人物清晰，背景的城市灯光化为柔和光斑。冷蓝色阴影与暖色街灯、树灯形成高对比的电影色调，回头直视镜头的姿态让人像更有张力。
+prompt: |
+  {
+
+  "subject_id": "fit_female_01",
+
+  "biometrics": {
+
+  "physique": "Athletic, voluptuous, slim waist, prominent glutes, visible back muscle",
+
+  "skin": "Fair, natural texture, realistic pores",
+
+  "hair": "Dark brown, messy high bun, wispy bangs"
+
+  },
+
+  "attire": {
+
+  "top": "Black racerback sports bra",
+
+  "bottom": "Tight black booty shorts, orange jack-o'-lantern & purple star pattern",
+
+  "accessories": ["Gold ring", "Small earrings", "Gold iPhone with puffer case"]
+
+  },
+
+  "composition": {
+
+  "shot_type": "Mirror selfie, medium shot (knees up), vertical 9:16",
+
+  "pose": "Back to mirror, torso twisted left, head turned over shoulder",
+
+  "focal_length": "26mm smartphone lens",
+
+  "depth": "Deep focus, clear subject-background separation"
+
+  },
+
+  "environment": {
+
+  "interior": "Modern apartment, living room background, white door frame",
+
+  "exterior_view": "Floor-to-ceiling window, city skyline, blue sky",
+
+  "lighting": {
+
+  "primary": "Strong natural daylight from left",
+
+  "effects": "Directional highlights, high-contrast side lighting"
+
+  }
+
+  },
+
+  "style_profile": {
+
+  "aesthetic": "Raw social media snapshot, influencer lifestyle",
+
+  "quality": "8k photorealistic, digital sensor noise, no filters",
+
+  "mood": "Confident, casual, sultry"
+
+  },
+
+  "control_params": {
+
+  "dw_pose": "Weight 1.0 (lock spine/hips/limbs)",
+
+  "zoe_depth": "Weight 0.8 (preserve glute volume/depth)"
+
+  },
+
+  "negatives": "airbrushed, plastic skin, flattened curves, anatomy normalization, slimmed torso, low-res"
+
+  }

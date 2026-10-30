@@ -1,6 +1,6 @@
 # Illustration
 
-[Back to the list](../../README.md) · All 104 entries
+[Back to the list](../../README.md) · All 105 entries
 
 <a id="nano-banana-map-screenshot-anime-panorama-shibuya"></a>
 ### Anime style panorama of Shibuya Crossing from map screenshot
@@ -1214,6 +1214,32 @@ Nano Banana 2.1 · Text-to-image · Source: [@wilzap on X](https://x.com/wilzap/
 
 ```text
 A stylized 3D cartoon fantasy scene of a giant ancient sea turtle swimming through a starry night sky, carrying an entire floating island on its shell. The island is a magical film studio: tiny glowing mushroom houses, a waterfall made of flowing film strips, and a crooked wizard tower with a giant projector lens for an eye. At the base of the waterfall, the film strips look rough, blocky, and pixelated, like broken stained glass. As they spill over a glowing crystal ledge, a swarm of tiny lantern fairies hammers and polishes them, and they transform mid-fall into crisp, shimmering, ultra-detailed film that glows like liquid gold. At the very top, the wizard tower beams the finished movie across the sky like an aurora, showing a vivid dragon soaring through clouds. Chunky rounded shapes, soft clay-like 3D textures, exaggerated cartoon proportions, glowing bioluminescent accents, deep indigo sky with magenta and electric teal highlights, cinematic rim lighting, volumetric light rays, tilt-shift depth of field, ultra detailed, 16:9.
+```
+
+</details>
+
+<a id="gpt-image-history-landmark-grid"></a>
+### Bastille, Moon landing, Berlin Wall and 9/11 as landmarks
+
+<a href="https://x.com/Gdgtify/status/2114514848881238084"><img src="../../previews/gpt-image-history-landmark-grid.jpg" width="360"></a>
+
+A template with a [SUBJECT] slot, filled four times in one 2x2 grid. Each event becomes a real object shown at monumental scale, with tiny thin-ink figures for scale contrast and a faint construction grid behind it.
+
+GPT Image 2.5 · Text-to-image · Source: [@Gdgtify on X](https://x.com/Gdgtify/status/2114514848881238084) · 27 likes on 2026-10-29
+
+[`grid`](tags.md#tag-grid) [`museum-style`](tags.md#tag-museum-style) [`history`](tags.md#tag-history) [`scale-contrast`](tags.md#tag-scale-contrast)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+2x2 grid, 16:9, do this for 4 days that changed history:  Create a conceptual museum-style illustration for [SUBJECT].
+Analyze the subject and choose one real physical object that serves as its strongest material metaphor. Photograph that object in realistic tactile detail and make it feel monumental, like a landscape, landmark, machine, territory, or sacred artifact.
+Around and across the object, draw a tiny subject-specific civilization in very thin black ink. Infer appropriate people, buildings, tools, roads, symbols, events, systems, and activities from the subject. Tiny figures may climb, build, excavate, measure, study, trade, transport, map, repair, worship, or explore the object.
+The scale contrast is essential:
+REAL OBJECT = enormous terrain
+DRAWN WORLD = tiny human-scale environment
+Transform the object into a major concept or landmark unique to [SUBJECT]. Do not use a generic metaphor.
+Behind the composition, add an extremely faint geometric identity-construction system made from circles, grids, axes, tangencies, measurement arrows, registration marks, and proportional guides.
 ```
 
 </details>

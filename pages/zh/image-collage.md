@@ -1,6 +1,6 @@
 # 拼贴
 
-[返回目录](../../README_zh.md) · 全部 79 条
+[返回目录](../../README_zh.md) · 全部 80 条
 
 <a id="gpt-image-failed-photos-grid"></a>
 ### 任意角色的九宫格失败抓拍照
@@ -298,6 +298,143 @@ Nano Banana 2 · 上传图改图 · 出处: [@Naiknelofar788 on X](https://x.com
       "distorted anatomy"
     ]
   }
+}
+```
+
+</details>
+
+<a id="gpt-image-california-landmarks-grid"></a>
+### 九张手机照片，女子游览加州各地标
+
+<a href="https://x.com/craftian_keskin/status/2056811879008481521"><img src="../../previews/gpt-image-california-landmarks-grid.jpg" width="360"></a>
+
+通过九个固定位置的场景列表，并统一人物和服装设定，使九张图保持同一人物。明确列出颗粒、运动模糊、过曝、构图歪斜等瑕疵，才能做出手机随拍的质感。
+
+GPT Image 2 · 文生图 · 出处: [@craftian_keskin on X](https://x.com/craftian_keskin/status/2056811879008481521) · 322 赞，统计于 2026-10-29
+
+[`instagram-grid`](tags.md#tag-instagram-grid) [`smartphone-photo`](tags.md#tag-smartphone-photo) [`california`](tags.md#tag-california) [`travel`](tags.md#tag-travel)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+{
+"Objective": "Create a 3x3 Instagram-style grid of low-quality smartphone photos featuring the same extremely attractive California model exploring iconic California landmarks, ensuring inclusion of specific requested locations.",
+"Composition": {
+"layout": "3x3 grid",
+"aspect_ratio": "1:1",
+"framing": "each square is a candid, imperfect smartphone moment forming a cohesive Instagram profile"
+},
+"Subject": {
+"type": "beautiful Japanese woman",
+"appearance": {
+"beauty": " extremely attractive",
+"body": "slim, toned, athletic model physique",
+"skin": "natural texture, no glossiness, no smoothing",
+"makeup": "soft glam but realistic",
+"hair": "flowing, slightly messy or wind-blown"
+},
+"consistency": "same woman across all 9 images"
+},
+"Wardrobe": {
+"style": "California chic",
+"outfits": [
+"bikini with light cover-up",
+"denim shorts with crop top",
+"summer dress",
+"casual streetwear",
+"sunglasses and sneakers"
+]
+},
+"Scenes": [
+{
+"position": "top left",
+"location": "Hollywood Walk of Fame (Star street)",
+"pose": "looking down at star on ground, candid"
+},
+{
+"position": "top center",
+"location": "Hollywood Sign",
+"pose": "standing at viewpoint, looking away"
+},
+{
+"position": "top right",
+"location": "Universal Studios theme park ride",
+"pose": "mid-ride candid, motion blur, excited expression"
+},
+{
+"position": "middle left",
+"location": "Disneyland",
+"pose": "posing casually with castle or ride in background"
+},
+{
+"position": "middle center",
+"location": "Beverly Hills street sign",
+"pose": "standing next to sign, casual pose"
+},
+{
+"position": "middle right",
+"location": "Venice Beach",
+"pose": "standing near palm trees, relaxed candid"
+},
+{
+"position": "bottom left",
+"location": "Golden Gate Bridge",
+"pose": "leaning on railing, looking away"
+},
+{
+"position": "bottom center",
+"location": "Santa Monica Pier",
+"pose": "walking casually, slightly blurred"
+},
+{
+"position": "bottom right",
+"location": "Los Angeles street (palm-lined road)",
+"pose": "walking down street, back facing camera"
+}
+],
+"Photography": {
+"camera": "smartphone",
+"style": "Instagram lifestyle",
+"quality": "intentionally low quality",
+"lighting": "natural California sunlight (harsh highlights, uneven exposure)",
+"imperfections": [
+"grain/noise",
+"motion blur",
+"overexposure",
+"lens distortion",
+"bad framing"
+],
+"effects": [
+"no beauty filter",
+"no skin smoothing",
+"inconsistent exposure",
+"authentic raw look"
+]
+},
+"Mood": "carefree, sunny, chaotic travel energy, authentic California lifestyle",
+"Rendering": {
+"style_keywords": [
+"instagram grid",
+"california landmarks",
+"hollywood walk of fame",
+"disneyland",
+"universal studios",
+"smartphone photography",
+"model lifestyle"
+],
+"realism": "highly realistic smartphone aesthetic",
+"detail_level": "natural imperfect detail",
+"aspect_ratio": "--ar 1:1"
+},
+"Response_Format": {
+"type": "image_generation_prompt_json",
+"editable_fields": [
+"scenes",
+"wardrobe",
+"lighting",
+"poses"
+]
+}
 }
 ```
 

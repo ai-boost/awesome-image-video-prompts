@@ -46,7 +46,7 @@ Otherwise accept and write, in the house style:
 - id: short kebab-case slug starting with "{prefix}-"
 - title.en and title.zh: what the result shows, plain and specific, at most 9 English words
 - notes.en and notes.zh: one or two sentences on the technique that makes this prompt work (structure, camera, sound, references), not praise
-- tags: 2 to 5 lowercase kebab-case tags
+- tags: 2 to 5 lowercase kebab-case tags; add "christmas" to any Christmas or Christmas-holiday entry (the site gathers these on one page)
 - mode: one of {modes}
 {cat_line}
 No quotation marks and no dashes in any title or note.

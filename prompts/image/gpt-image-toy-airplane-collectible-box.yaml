@@ -6,6 +6,7 @@ model: GPT Image 2.5
 mode: text-to-image
 category: product
 tags:
+- christmas
 - packaging
 - product
 - toy

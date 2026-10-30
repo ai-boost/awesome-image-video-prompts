@@ -1,6 +1,6 @@
 # 人像
 
-[返回目录](../../README_zh.md) · 全部 213 条 · [1](image-portrait.md) · **2**
+[返回目录](../../README_zh.md) · 全部 214 条 · [1](image-portrait.md) · **2**
 
 <a id="nano-banana-concrete-passage-burgundy-fashion-portrait"></a>
 ### 复古混凝土廊道中的酒红色时装人像
@@ -1203,6 +1203,97 @@ Clean photograph only. No text, watermarks, logos, or interface elements.
 NEGATIVE PROMPT
 
 different woman in each panel, inconsistent identity, altered facial proportions, different eye color, brown hair, chestnut hair, copper hair, auburn hair, blonde hair, gray hair, blue hair, flat hair, short hair, missing hair volume, different clothing, missing necklace, oversized earrings, flat lighting, excessive orange lighting, blown-out face, blurry eyes, blurry lips, plastic skin, excessive airbrushing, artificial glow, overprocessed makeup, distorted face, extra fingers, deformed hands, cartoon, anime, illustration, digital painting, 3D render, CGI, low resolution, pixelation, excessive sharpening, text, watermark, logo, uneven grid, unequal panels, extra panels, overlapping panels, 4:5 aspect ratio
+```
+
+</details>
+
+<a id="nano-banana-snowy-street-umbrella-christmas"></a>
+### 雪夜圣诞街头撑伞的女子
+
+<a href="https://x.com/dreamydigiarts/status/2115760563150053583"><img src="../../previews/nano-banana-snowy-street-umbrella-christmas.jpg" width="360"></a>
+
+浅景深让人物清晰，背景的城市灯光化为柔和光斑。冷蓝色阴影与暖色街灯、树灯形成高对比的电影色调，回头直视镜头的姿态让人像更有张力。
+
+Nano Banana 2 · 文生图 · 出处: [@dreamydigiarts on X](https://x.com/dreamydigiarts/status/2115760563150053583) · 24 赞，统计于 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`winter`](tags.md#tag-winter) [`portrait`](tags.md#tag-portrait) [`cinematic`](tags.md#tag-cinematic) [`bokeh`](tags.md#tag-bokeh)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+{
+
+"subject_id": "fit_female_01",
+
+"biometrics": {
+
+"physique": "Athletic, voluptuous, slim waist, prominent glutes, visible back muscle",
+
+"skin": "Fair, natural texture, realistic pores",
+
+"hair": "Dark brown, messy high bun, wispy bangs"
+
+},
+
+"attire": {
+
+"top": "Black racerback sports bra",
+
+"bottom": "Tight black booty shorts, orange jack-o'-lantern & purple star pattern",
+
+"accessories": ["Gold ring", "Small earrings", "Gold iPhone with puffer case"]
+
+},
+
+"composition": {
+
+"shot_type": "Mirror selfie, medium shot (knees up), vertical 9:16",
+
+"pose": "Back to mirror, torso twisted left, head turned over shoulder",
+
+"focal_length": "26mm smartphone lens",
+
+"depth": "Deep focus, clear subject-background separation"
+
+},
+
+"environment": {
+
+"interior": "Modern apartment, living room background, white door frame",
+
+"exterior_view": "Floor-to-ceiling window, city skyline, blue sky",
+
+"lighting": {
+
+"primary": "Strong natural daylight from left",
+
+"effects": "Directional highlights, high-contrast side lighting"
+
+}
+
+},
+
+"style_profile": {
+
+"aesthetic": "Raw social media snapshot, influencer lifestyle",
+
+"quality": "8k photorealistic, digital sensor noise, no filters",
+
+"mood": "Confident, casual, sultry"
+
+},
+
+"control_params": {
+
+"dw_pose": "Weight 1.0 (lock spine/hips/limbs)",
+
+"zoe_depth": "Weight 0.8 (preserve glute volume/depth)"
+
+},
+
+"negatives": "airbrushed, plastic skin, flattened curves, anatomy normalization, slimmed torso, low-res"
+
+}
 ```
 
 </details>

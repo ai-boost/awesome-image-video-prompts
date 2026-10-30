@@ -1,6 +1,6 @@
 # 角色与手办
 
-[返回目录](../../README_zh.md) · 全部 70 条
+[返回目录](../../README_zh.md) · 全部 71 条
 
 <a id="gpt-image-tanjiro-pixel-sprite-sheet-water-attack"></a>
 ### 炭治郎十六帧像素精灵图与水之呼吸攻击
@@ -1412,6 +1412,25 @@ STYLE RULES:
 
 OUTPUT:
 A collectible fuzzy designer-toy scene where $ SUBJECT becomes soft, expressive, slightly punk, and highly tactile.
+```
+
+</details>
+
+<a id="nano-banana-claymation-gothic-castle-hoodie"></a>
+### 黏土定格人物置于哥特城堡布景中
+
+<a href="https://x.com/arsalannazir07/status/2035948877019316516"><img src="../../previews/nano-banana-claymation-gothic-castle-hoodie.jpg" width="360"></a>
+
+开头先定下媒介（黏土定格动画剧照、微距镜头、浅景深），让模型稳定输出实体黏土质感。参考图锁定人物形象，并写明服装上的确切字样，使文字保持清晰可读。
+
+Nano Banana 2 · 上传图改图 · 出处: [@arsalannazir07 on X](https://x.com/arsalannazir07/status/2035948877019316516) · 18 赞，统计于 2026-10-29
+
+[`claymation`](tags.md#tag-claymation) [`gothic`](tags.md#tag-gothic) [`fashion`](tags.md#tag-fashion) [`stop-motion`](tags.md#tag-stop-motion)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A hyperrealistic, detailed close-up photograph of a meticulously crafted stop-motion claymation figure, sculpted with a textured, tactile matte finish. The figure, inspired by the subject and clothing from image_0.png, portrays the man with his distinct full beard, intense gaze, and slightly elongated, stylized features reminiscent of Tim Burton's 'Corpse Bride' characters. He is wearing the light beige ESSENTIALS Fear of God hoodie (with clear, legible text and black drawstrings) and dark jeans, leaning casually with one hand in his pocket. He is positioned center frame, staring directly at the viewer. The background is a dense, atmospheric, claymation miniature set of a surreal gothic castle interior, heavily influenced by German Expressionism and 'The Nightmare Before Christmas' and 'Corpse Bride.' It's a bizarre, asymmetric structure of crooked stone towers, winding purple and teal staircases, arched doorways with gold and mint green doors, crooked bookshelves, and a myriad of lit candles creating pools of soft, flickering, dramatic light (chiaroscuro). The entire environment is made of sculpted, painted clay. The textures are tangible and raw, highlighting the artisanal quality. Multiple small candles on sconces and platforms illuminate the figure and the labyrinthine architecture. Shot with a macro lens, shallow depth of field, natural film grain. Grainy, textural, dark, and whimsical mood. Visible stop-motion elements and slight character movement. Film still quality.
 ```
 
 </details>

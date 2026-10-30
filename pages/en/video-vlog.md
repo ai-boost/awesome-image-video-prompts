@@ -1,6 +1,6 @@
 # Phone footage and vlogs
 
-[Back to the list](../../README.md) · All 143 entries · **1** · [2](video-vlog-2.md)
+[Back to the list](../../README.md) · All 144 entries · **1** · [2](video-vlog-2.md)
 
 <a id="seedance-seoul-summer-evening-vlog"></a>
 ### A summer evening in Seoul, shot like a home video

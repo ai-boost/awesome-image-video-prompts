@@ -1,6 +1,6 @@
 # 广告与产品
 
-[返回目录](../../README_zh.md) · 全部 123 条 · [1](video-commercial.md) · **2**
+[返回目录](../../README_zh.md) · 全部 124 条 · [1](video-commercial.md) · **2**
 
 <a id="seedance-coffee-machine-ugc-commercial"></a>
 ### 穿米色毛衣的女性在温暖的厨房里走动
@@ -138,6 +138,39 @@ Seedance 2.5｜15s 概念宣传片
 
 00:00-00:01.5 灵感点亮，焦点转移特效，黑暗空间里悬浮一颗细密玻璃质感金色光点，微距固定机位，焦点从远处散景切换到光点，光点轻轻脉动，一声清晰电子音响起 00:01.5-00:03 穿过灵感，快速推进 + 径向运动模糊 + 变速减速特效，镜头冲入金色光点，四周拉扯出蓝金色光线，前方出现明亮矩形光门，镜头沿中心轴高速前进，临近光门平滑减速，门框填满画面 00:03-00:04.5 世界展开，连续空间展开特效，穿过光门，空白大地向远方延伸，建筑沿着街道依次生长成型，雨后未来都市，广角低机位向前滑行，湿滑路面反射冷蓝光，远方天空透出暖金色光晕，建筑立面贴近画面遮挡镜头 00:04.5-00:06 看见细节，25% 慢动作特效，微距侧拍，金属蝴蝶停留在湿润绿叶上，翅膀缓缓舒展，水珠沿着叶缘缓慢坠落，清晰展现金属纹理、叶脉、水珠折射光影，水珠落在画面中心 00:06-00:08 从水滴到宇宙，连续形态变换 + 环绕运镜特效，同一画面位置，水滴平滑演变为蓝色行星，液体纹理慢慢转化为云层与海洋，镜头环绕行星缓慢转动 30 度，后方金色恒星勾勒行星轮廓，画面连续无跳切，镜头沿着行星边缘向右加速 00:08-00:09 创意加速，加速变速 + 右向甩镜 + 方向运动模糊 + 金色光轨特效，行星边缘融化为金色光轨，镜头顺着光轨向右飞驰，光轨串联三个转瞬即逝场景：沙漠、深海、云端，运动方向统一，光轨横贯画面 00:09-00:12 世界成为画面，缓慢拉远特效，镜头向后缓缓拉远，前面出现的未来城市、金属蝴蝶、蓝色行星，变成三块悬浮动态画幅，画幅内部画面持续微动，三块画幅错落悬浮在深邃黑空间，纤细金色线条串联成流畅路径，镜头慢慢静止，音乐转为宽阔长音，画幅缓缓淡出 00:12-00:15 品牌落版，淡出转场特效，纯深黑背景，居中白色主标题 Seedance 2.5，下方浅金色小字：让想象，成为画面。文字稳定不动，保持至片段结束，音乐柔和低音收尾，品牌文字后期叠加保证清晰准确
 负面提示词： UI 界面，按钮，电脑屏幕，数字参数，文字水印，人物，手部操作，粗糙材质，卡通 CG，塑料质感，画面跳变，镜头抖动，过曝，杂乱色彩，字幕乱码，多余文字，变形扭曲
+```
+
+</details>
+
+<a id="seedance-hunk-santa-diet-reveal"></a>
+### 胖胖的圣诞老人在床上醒来，随后是健硕的揭晓
+
+<a href="https://x.com/mrdejie/status/2094622082474852770"><img src="../../previews/seedance-hunk-santa-diet-reveal.jpg" width="360"></a>
+
+从第 8 段起用 @(参考图) 锁定健硕形象，时间跳跃时用低机位只拍靴子和双腿并遮住面部，最后靠一次缓慢上摇完成揭晓。按秒分段，并写明跳跃后不再出现胖版的硬性规则，让角色在各镜头间保持一致。
+
+Seedance 2.5 · 参考生视频 · 出处: [@mrdejie on X](https://x.com/mrdejie/status/2094622082474852770) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`christmas`](tags.md#tag-christmas) [`reference-image`](tags.md#tag-reference-image) [`transformation`](tags.md#tag-transformation) [`time-skip`](tags.md#tag-time-skip)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Photorealistic 36-second Santa diet-to-reveal video at the North Pole. Cozy Christmas cabin: wooden walls, fireplace, lights, tree, snow outside. Funny and sincere. Start as classic chubby Santa. From CUT 8 onward use @(reference image) as the exact fit muscular Santa. Never show the chubby version after the time skip. No on-screen text, no subtitles, no watermark.
+
+0–2s: Chubby Santa wakes up in bed, sleepy, then sits up.
+2–5s: At the mirror he holds his big belly, shocked.
+5–8s: At a full holiday table he looks happy at the roasted chicken, then pushes it aside and eats vegetable salad with a fork.
+8–11s: He jogs in the snow outside his cabin, heavy but determined.
+11–13s: Shadow boxing in the yard.
+13–15s: Inside, he lifts dumbbells by the Christmas tree.
+15–17s: Push-ups on the rug in front of the fireplace.
+17–20s: Time skip. Low camera. Only fit legs and black boots walk to the door. Face hidden.
+20–22s: Same low shot. He steps outside and closes the cabin door. Face still hidden.
+22–25s: Sleigh packed with gifts. Rudolph and the other reindeer see him and jaw-drop in shock.
+25–28s: Slow tilt from his boots up to his face. Reveal muscular Santa, exact @(reference image).
+28–33s: Fast funny bodybuilder sequence, 5 poses: double biceps, side chest, back double biceps, one-arm flex, most-muscular. Reindeer keep staring.
+33–36s: He drops the pose, says "Oh, sorry." Reindeer laugh. Santa says "Let's find and reward the Nice kids."
 ```
 
 </details>

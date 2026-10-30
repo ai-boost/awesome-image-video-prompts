@@ -1,6 +1,6 @@
 # Characters and figures
 
-[Back to the list](../../README.md) · All 70 entries
+[Back to the list](../../README.md) · All 71 entries
 
 <a id="gpt-image-tanjiro-pixel-sprite-sheet-water-attack"></a>
 ### Tanjiro 16 frame pixel sprite sheet with water attack
@@ -1412,6 +1412,25 @@ STYLE RULES:
 
 OUTPUT:
 A collectible fuzzy designer-toy scene where $ SUBJECT becomes soft, expressive, slightly punk, and highly tactile.
+```
+
+</details>
+
+<a id="nano-banana-claymation-gothic-castle-hoodie"></a>
+### Claymation man in gothic castle set
+
+<a href="https://x.com/arsalannazir07/status/2035948877019316516"><img src="../../previews/nano-banana-claymation-gothic-castle-hoodie.jpg" width="360"></a>
+
+Names the medium early (claymation film still, macro lens, shallow focus) so the model commits to a physical clay look. A reference image anchors the subject, and the exact logo text is spelled out so it stays legible.
+
+Nano Banana 2 · Edit · Source: [@arsalannazir07 on X](https://x.com/arsalannazir07/status/2035948877019316516) · 18 likes on 2026-10-29
+
+[`claymation`](tags.md#tag-claymation) [`gothic`](tags.md#tag-gothic) [`fashion`](tags.md#tag-fashion) [`stop-motion`](tags.md#tag-stop-motion)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A hyperrealistic, detailed close-up photograph of a meticulously crafted stop-motion claymation figure, sculpted with a textured, tactile matte finish. The figure, inspired by the subject and clothing from image_0.png, portrays the man with his distinct full beard, intense gaze, and slightly elongated, stylized features reminiscent of Tim Burton's 'Corpse Bride' characters. He is wearing the light beige ESSENTIALS Fear of God hoodie (with clear, legible text and black drawstrings) and dark jeans, leaning casually with one hand in his pocket. He is positioned center frame, staring directly at the viewer. The background is a dense, atmospheric, claymation miniature set of a surreal gothic castle interior, heavily influenced by German Expressionism and 'The Nightmare Before Christmas' and 'Corpse Bride.' It's a bizarre, asymmetric structure of crooked stone towers, winding purple and teal staircases, arched doorways with gold and mint green doors, crooked bookshelves, and a myriad of lit candles creating pools of soft, flickering, dramatic light (chiaroscuro). The entire environment is made of sculpted, painted clay. The textures are tangible and raw, highlighting the artisanal quality. Multiple small candles on sconces and platforms illuminate the figure and the labyrinthine architecture. Shot with a macro lens, shallow depth of field, natural film grain. Grainy, textural, dark, and whimsical mood. Visible stop-motion elements and slight character movement. Film still quality.
 ```
 
 </details>

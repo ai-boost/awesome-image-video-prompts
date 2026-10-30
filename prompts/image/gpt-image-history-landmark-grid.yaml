@@ -1,0 +1,31 @@
+id: gpt-image-history-landmark-grid
+title:
+  en: Bastille, Moon landing, Berlin Wall and 9/11 as landmarks
+  zh: 巴士底狱、登月、柏林墙与9/11化为地标
+model: GPT Image 2.5
+mode: text-to-image
+category: illustration
+tags:
+- grid
+- museum-style
+- history
+- scale-contrast
+source:
+  name: '@Gdgtify on X'
+  url: https://x.com/Gdgtify/status/2114514848881238084
+  credit: Gadgetify
+  likes: 27
+  captured: '2026-10-29'
+  posted: '2026-10-21'
+notes:
+  en: A template with a [SUBJECT] slot, filled four times in one 2x2 grid. Each event becomes a real object shown at monumental scale, with tiny thin-ink figures for scale contrast and a faint construction grid behind it.
+  zh: 这是一个带 [SUBJECT] 占位符的模板，四次填入后组成 2x2 网格。每个事件都化为一件真实物体的巨大尺度，细墨线小人物制造强烈的比例反差，背后淡淡的几何构图线带来博物馆图版的质感。
+prompt: |
+  2x2 grid, 16:9, do this for 4 days that changed history:  Create a conceptual museum-style illustration for [SUBJECT].
+  Analyze the subject and choose one real physical object that serves as its strongest material metaphor. Photograph that object in realistic tactile detail and make it feel monumental, like a landscape, landmark, machine, territory, or sacred artifact.
+  Around and across the object, draw a tiny subject-specific civilization in very thin black ink. Infer appropriate people, buildings, tools, roads, symbols, events, systems, and activities from the subject. Tiny figures may climb, build, excavate, measure, study, trade, transport, map, repair, worship, or explore the object.
+  The scale contrast is essential:
+  REAL OBJECT = enormous terrain
+  DRAWN WORLD = tiny human-scale environment
+  Transform the object into a major concept or landmark unique to [SUBJECT]. Do not use a generic metaphor.
+  Behind the composition, add an extremely faint geometric identity-construction system made from circles, grids, axes, tangencies, measurement arrows, registration marks, and proportional guides.

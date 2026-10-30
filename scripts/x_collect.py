@@ -126,7 +126,7 @@ def faves(query):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--config", help="YAML list of {model, kind, query, max, min_likes}")
+    ap.add_argument("--config", help="YAML list of {model, kind, query, max, min_likes, months}; months limits a seasonal query to those months")
     ap.add_argument("--model")
     ap.add_argument("--kind", choices=["video", "image"])
     ap.add_argument("--query")
@@ -136,6 +136,8 @@ def main():
     OUT.mkdir(exist_ok=True)
     if a.config:
         for q in yaml.safe_load(open(a.config, encoding="utf-8")):
+            if "months" in q and time.localtime().tm_mon not in q["months"]:
+                continue
             run(argparse.Namespace(model=q["model"], kind=q["kind"], query=q["query"],
                                    min_likes=q.get("min_likes", faves(q["query"])), max=q.get("max", 10)))
             time.sleep(20)

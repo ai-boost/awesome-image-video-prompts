@@ -1,6 +1,6 @@
 # 海报与编辑排版
 
-[返回目录](../../README_zh.md) · 全部 187 条 · **1** · [2](image-poster-2.md)
+[返回目录](../../README_zh.md) · 全部 189 条 · **1** · [2](image-poster-2.md)
 
 <a id="gpt-image-flat-vector-city-travel-poster-template"></a>
 ### 适用任意城市的扁平矢量旅行海报模板
@@ -722,6 +722,28 @@ Premium campaign poster, realistic product photography, minimalistic layout, mod
 
 Avoid:
 messy text, extra logos, distorted product, wrong spelling, low-quality graphics, cartoon style, over-saturated colors.
+```
+
+</details>
+
+<a id="gpt-image-2027-watercolor-calendar"></a>
+### 2027 水彩日历海报，每月一位坐姿男子
+
+<a href="https://x.com/Fujimoto_hina/status/2055895559429644702"><img src="../../previews/gpt-image-2027-watercolor-calendar.jpg" width="360"></a>
+
+在十二个月份场景中固定同一角色的脸部、卷发、眼镜和胡须，让人物保持一致。3x4 月历网格配合季节性涂鸦边框和留白背景，使版式清晰有序。
+
+GPT Image 2 · 上传图改图 · 出处: [@Fujimoto_hina on X](https://x.com/Fujimoto_hina/status/2055895559429644702) · 516 赞，统计于 2026-10-29
+
+[`calendar`](tags.md#tag-calendar) [`watercolor`](tags.md#tag-watercolor) [`character-consistency`](tags.md#tag-character-consistency) [`korean-illustration`](tags.md#tag-korean-illustration)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+{
+  "prompt": "Create a premium 2027 desktop calendar poster in A4 vertical format featuring the same young man from the reference image, illustrated in a Korean hand-drawn illustration style. Design a 3x4 monthly grid layout from January to December 2027. Each month should feature the character sitting in a different relaxed pose and seasonal environment while maintaining consistent facial identity, curly hair, glasses, beard, warm smile, and cozy aesthetic. Use full-body compositions with natural expressions and dynamic seated poses.\n\nArt style should combine watercolor, ink sketch, comic doodle textures, pastel washes, splatter brush strokes, freehand sketch lines, and soft painterly rendering. Keep a clean white background with artistic negative space. Surround each month with symbolic seasonal doodles and decorative edge elements such as flowers, books, coffee cups, snowflakes, pumpkins, lanterns, cameras, stars, paper planes, autumn leaves, beach props, Christmas decorations, travel icons, and whimsical sketch marks.\n\nCharacter clothing should have highly detailed knit textures, layered winter-fashion inspired outfits, soft neutral tones, rolled pants, sneakers, scarves, and cozy casual aesthetics. Maintain an elegant editorial illustration feel with high detail, atmospheric storytelling, expressive linework, and premium stationery design quality.\n\nMonthly scene concepts:\n- January: sitting with hot coffee and winter doodles\n- February: cozy seated pose with heart and flower sketches\n- March: sitting while sketching in a notebook\n- April: sitting with vintage camera and spring leaves\n- May: reading books beside stacked novels\n- June: relaxed pose with travel and sea doodles\n- July: sitting on beach chair with summer drink\n- August: seated near ocean-themed illustrations\n- September: journaling with autumn leaves\n- October: cozy Halloween-inspired atmosphere with pumpkin doodles\n- November: warm scarf and city sketch background\n- December: sitting beside Christmas decorations and gifts\n\nTypography should be elegant handwritten brush style for month titles and modern minimal calendar formatting. Use soft neutral and pastel color palettes mixed with black ink textures. Add subtle paint splashes, rough paper grain, sketch imperfections, and artistic composition balance. Ultra detailed, high quality, cinematic illustration aesthetic, premium printable calendar poster design.",
+  "size": "1024x1792"
+}
 ```
 
 </details>
@@ -6940,6 +6962,45 @@ FORMAT: Full-bleed 4:5 vertical composition.
 
 </details>
 
+<a id="gpt-image-move-breakdance-poster"></a>
+### 霹雳舞者穿插于巨型 MOVE 字母之间
+
+<a href="https://x.com/MrLarus/status/2115472681206518096"><img src="../../previews/gpt-image-move-breakdance-poster.jpg" width="360"></a>
+
+一个带填空位的模板，只指定一种技法即巨型字母穿插，要求主体与超大标题相互遮挡而非简单叠放。限定配色、泛黄纸底和套印偏移等细节，营造独立展览海报的印刷质感。
+
+GPT Image 2.5 · 文生图 · 出处: [@MrLarus on X](https://x.com/MrLarus/status/2115472681206518096) · 21 赞，统计于 2026-10-29
+
+[`poster`](tags.md#tag-poster) [`typography`](tags.md#tag-typography) [`japanese-design`](tags.md#tag-japanese-design) [`template`](tags.md#tag-template)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Poster Theme: [Fill in Theme]
+Main Title: [Fill in Title]
+Subtitle: [Fill in Subtitle]
+Core Visual Elements: [Fill in Main Subject]
+Visual Design Technique: [Giant Letter Interspersion / Overprinting Misalignment / Letterform Labyrinth / Geometric Refraction, Choose One]
+Primary Color Scheme: [Fill in Color Palette]
+Exhibition Information: [Fill in Date, Location, etc.]
+
+Design a 9:16 vertical Japanese experimental art poster that fuses Japanese retro graphic design, modern typeface experimentation, and art exhibition visuals. The overall piece should feature a distinct design language, like a professionally laid-out independent art exhibition poster.
+
+Use an oversized title as the primary visual structure of the composition, creating a tangible spatial relationship between the text and core elements. Through interspersion, occlusion, overprinting misalignment, or letterform distortion, craft surprising yet logical visual effects.
+
+The main subject and typography should influence each other, rather than simply being layered on top. Enlarge the most expressive letters or characters, using cropping, overlapping, and scale contrast to ensure viewers immediately spot the visual focal point.
+
+Employ a limited palette of high-contrast colors, paired with a cream-colored aged paper background, natural ink speckles, and vintage printing texture. Subtle areas of color misregistration, edge wear, and silkscreen grain can be retained locally.
+
+Typography should blend large English titles, vertical Chinese or Japanese text, refined English subtitles, and exhibition details. Establish a clear reading hierarchy through font size, weight, and whitespace.
+
+Auxiliary text, geometric markers, and fine lines can be distributed along the edges, but they must revolve around the theme. The composition should feel information-rich while maintaining a clear visual center and comfortable reading rhythm.
+
+The overall image needs to evoke a complete sense of an artwork with strong thumbnail recognizability. Highlight just one core visual technique per piece, avoiding cluttered elements, garbled text, cheap effects, or ordinary text overlays.
+```
+
+</details>
+
 <a id="gpt-image-1994-infomercial-crashed-saucer-frame"></a>
 ### 1994年电视购物画面里兜售坠毁的飞碟
 
@@ -7021,88 +7082,6 @@ Visible text and graphic elements: Include exactly 1 main title cluster in the u
 Visual style: Modern Japanese anime film still, delicate shadows, cool blue classroom atmosphere, warm skin tones, expressive faces, natural hair highlights, detailed desks and windows, crisp but painterly background. The mood should feel like a promotional scene from a school comedy-drama about “losing heroines.”
 
 Constraints: Keep the composition clean and cinematic, preserve exactly the counted characters, posters, desk items, and annotation captions, avoid extra characters, avoid extra random text, avoid watermark or logo beyond the specified title graphics.
-```
-
-</details>
-
-<a id="gpt-image-anime-gender-swap-before-after-poster"></a>
-### 动漫性别反转前后对比杂志封面海报
-
-<a href="https://x.com/ArtistaNozomu/status/2085314580130197811"><img src="../../previews/gpt-image-anime-gender-swap-before-after-poster.jpg" width="360"></a>
-
-提示词把画面拆成小尺寸的前图卡片和占主体的后图人像,并明确卡片与印章的数量以及日文文案原文,保证排版文字清晰。蓝白限定配色加水彩光效让整体统一。
-
-GPT Image 2 · 文生图 · 出处: [@ArtistaNozomu on X](https://x.com/ArtistaNozomu/status/2085314580130197811) · 发现于 [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
-
-[`anime`](tags.md#tag-anime) [`magazine-cover`](tags.md#tag-magazine-cover) [`gender-swap`](tags.md#tag-gender-swap) [`before-after`](tags.md#tag-before-after) [`japanese-typography`](tags.md#tag-japanese-typography)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Goal: Create a polished anime magazine-cover style “gender swap before/after” poster. The main subject is the transformed After character: an extremely handsome teenage boy who preserves the soft facial resemblance of the original character, with light ash-blonde tousled medium-short hair, sparkling blue eyes, pale luminous skin, a gentle open smile, and an elegant androgynous beauty. He wears a loose white shirt with rolled sleeves, a pale blue loosened necktie, blue suspenders, slim earrings, a delicate bracelet, and a blue belt with silver details. Pose him seated in a relaxed three-quarter view, leaning slightly forward with one hand near his cheek, looking directly at the viewer. Use airy spring lighting, soft bokeh flowers, floating white petals, translucent watercolor highlights, and crisp high-detail anime linework.
-
-Canvas: Vertical 4:5 poster, light pastel blue and white palette, bright dreamy background, plenty of negative space on the left for typography, main After portrait large and dominant on the right and center.
-
-Layout: Include exactly 1 small Before card in the upper-left corner and 1 large After portrait occupying most of the canvas. The Before card should have rounded corners, a thin blue border, and show a cute original girl with the same visual identity: ash-blonde wavy bob hair, blue eyes, white blouse, blue plaid skirt or blue ribbon accents, cheerful expression. Add a small top ribbon label on the card reading 元の姿 and a name under the mini portrait reading のぞむ. Add exactly 1 circular blue stamp near the lower-right of the poster reading 男女\n反転 with tiny sparkle marks.
-
-Text content: Large elegant Japanese headline on the left, set in a mix of black and soft blue calligraphic serif type: この子、\n男の子に\nなったら。. Under it, smaller Japanese subcopy: "面影そのまま、性別だけ反転。" Near the bottom, add a small caption: "可愛さを残した、最高にかっこいい彼。" Use refined magazine typography, with the key words in blue and the rest in dark ink.
-
-Visual style: High-end shoujo anime illustration, glossy magazine cover composition, ethereal watercolor lighting, detailed hair strands, delicate jewelry, soft skin shading, blue-white color harmony, romantic and clean design. Keep all Japanese text legible and integrated into the layout. Avoid photorealism, clutter, extra characters, watermarks, or random additional text.
-```
-
-</details>
-
-<a id="gpt-image-anna-karina-torn-paper-french-poster"></a>
-### 安娜·卡琳娜叼烟肖像的撕纸电影海报
-
-<a href="https://x.com/bananaprompts/status/2048541390900994476"><img src="../../previews/gpt-image-anna-karina-torn-paper-french-poster.jpg" width="360"></a>
-
-在提示词中用固定的深红、钴蓝、暖黄、黑、象牙白五色，并按类型列出拼贴元素（雨中街道、胶片边框、报纸剪报），模型就能围绕中央黑白人像搭出撕纸式版面。标题、副标题和底部文字用占位槽位，保持清晰的字体层级。
-
-GPT Image 2 · 文生图 · 出处: [@bananaprompts on X](https://x.com/bananaprompts/status/2048541390900994476) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-[`poster`](tags.md#tag-poster) [`collage`](tags.md#tag-collage) [`typography`](tags.md#tag-typography) [`vintage-film`](tags.md#tag-vintage-film)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a vertical poster composition on aged cream paper with a handmade analog feel. Use rough ripped paper edges, layered magazine cutouts, photocopy grain, halftone texture, ink bleed, and slightly imperfect screen-print registration. Keep the subject as the main black-and-white photographic portrait, placed prominently in the center or upper center. Surround the subject with graphic blocks of deep red, cobalt blue, warm yellow, black, and ivory.
-
-Add supporting collage fragments such as a rainy European street, film-strip borders, newspaper clippings, urban silhouettes, and cinematic details, arranged like a handmade 1960s art-house movie poster. Use bold condensed typography with a strong visual hierarchy. Add large headline text: "[MAIN TITLE]". Add smaller subtitle text: "[SUBTITLE]". Add bottom text: "[BRAND NAME / EVENT NAME / COMING SOON / DATE]". If needed, include a small top line reading "[TAGLINE]".
-
-The final result should feel cinematic, intellectual, rebellious, and editorial — like a lost 1960s European film poster with a strong point of view. Keep it raw, tactile, printed, imperfect, and handmade. Avoid a glossy modern finish.
-```
-
-</details>
-
-<a id="gpt-image-annotated-autumn-fashion-lookbook-poster"></a>
-### 粉彩秋季穿搭手写标注图册海报
-
-<a href="https://x.com/LiEvanna85716/status/2097663816339427547"><img src="../../previews/gpt-image-annotated-autumn-fashion-lookbook-poster.jpg" width="360"></a>
-
-提示词固定了配色、边框和标题原文，版式与字体因此可控。手写标签加细箭头把每件单品和名称对应起来，形成商品图册的质感。
-
-GPT Image 2.5 · 文生图 · 出处: [@LiEvanna85716 on X](https://x.com/LiEvanna85716/status/2097663816339427547) · 发现于 [wangrunlin/awesome-gpt-image-2-5-prompts](https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts)
-
-[`fashion`](tags.md#tag-fashion) [`lookbook`](tags.md#tag-lookbook) [`pastel`](tags.md#tag-pastel) [`annotated`](tags.md#tag-annotated) [`e-commerce`](tags.md#tag-e-commerce)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a clean fashion e-commerce lookbook poster featuring a young female model in a cute, simple autumn outfit.
-Use a soft pastel pink, blue and lavender gradient background. Keep the overall design minimal, clean and slightly playful, like a modern Korean/Japanese fashion catalog.
-
-Show the full-body model as the main focus, with realistic skin, natural proportions and clear clothing details. The outfit should be simple and wearable: cardigan or hoodie, fitted top, shorts or pleated skirt, socks and sneakers/Mary Jane shoes.
-
-Add handwritten English annotations with thin arrows pointing to individual clothing pieces, such as “Cardigan”, “Polo Shirt”, “Shorts”, “Sneakers” and “Bag”.
-
-Add a bold English fashion headline at the top: “AUTUMN DAILY OUTFIT”, plus a few small decorative English phrases such as “NEW SEASON 2026”, “SIMPLE · COMFY · BETTER ME” and “OUTFIT IDEAS FOR A BRIGHTER YOU”.
-
-Use a structured rectangular frame around the main content, subtle rounded corners, plenty of negative space, and only a few minimal heart/star doodles.
-
-The final image should feel like a polished fashion e-commerce campaign poster — minimal, youthful, realistic, highly readable typography, clean product presentation, not cluttered, with the outfit as the visual focus.
-
-Vertical 3:4 composition, high-resolution commercial fashion photography.
 ```
 
 </details>

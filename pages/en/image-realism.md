@@ -1,6 +1,6 @@
 # Photo realism
 
-[Back to the list](../../README.md) · All 84 entries
+[Back to the list](../../README.md) · All 85 entries
 
 <a id="gpt-image-coca-cola-tanker-leak-mentos-truck-dashcam"></a>
 ### Coca Cola tanker leaking beside Mentos truck
@@ -913,6 +913,25 @@ GPT Image 2 · Text-to-image · Source: [@AvelyrahnAI on X](https://x.com/Avelyr
 
 ```text
 Ultra-realistic action photography, extreme fisheye lens (8mm), worm’s-eye view from ground level, dynamic urban plaza scene. A stylish young woman appears to be stepping over the camera, one sneaker sole dominating the foreground, hand reaching toward the lens. She wears oversized red track pants with white side stripes, a fitted white crop top, red-and-white high-top sneakers, and silver headphones. Wind-blown dark hair, natural beauty, confident expression. Massive circular “tiny planet” perspective with historic European architecture curving around the edges of the frame, bright blue sky filled with fluffy white clouds at the center. Cinematic composition, dramatic distortion, ultra-wide angle, vibrant colors, sharp focus, HDR, photorealistic, highly detailed skin texture, travel photography aesthetic, motion energy, depth and scale, 8K resolution, professional DSLR quality, masterpiece, Instagram viral shot.
+```
+
+</details>
+
+<a id="nano-banana-florence-red-dress-prosecco"></a>
+### Laughing woman with prosecco before Florence Duomo
+
+<a href="https://x.com/KeorUnreal/status/2092706718723575928"><img src="../../previews/nano-banana-florence-red-dress-prosecco.jpg" width="360"></a>
+
+Stating an amateur iPhone shot makes the image read as a candid snapshot rather than a studio portrait. Naming the landmark and repeating one colour in the dress and heels keeps the location and palette tied together.
+
+Nano Banana 2 · Text-to-image · Source: [@KeorUnreal on X](https://x.com/KeorUnreal/status/2092706718723575928) · 175 likes on 2026-10-29
+
+[`iphone-photo`](tags.md#tag-iphone-photo) [`florence`](tags.md#tag-florence) [`fashion`](tags.md#tag-fashion) [`red-dress`](tags.md#tag-red-dress)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Realistic amateur indoor iphone shot of a fit londoner supermodel wearing a mini elegant tight cremisi dress with glossy cremisi high heels while laughing and drinking prosecco watching in camera in a chill beautiful sunday morning in front of Cattedrale di Santa Maria del Fiore in Firenze among flowers.
 ```
 
 </details>

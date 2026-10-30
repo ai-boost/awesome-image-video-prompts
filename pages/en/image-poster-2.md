@@ -1,6 +1,64 @@
 # Posters and editorial layouts
 
-[Back to the list](../../README.md) · All 187 entries · [1](image-poster.md) · **2**
+[Back to the list](../../README.md) · All 189 entries · [1](image-poster.md) · **2**
+
+<a id="gpt-image-anime-classroom-losing-heroines-key-visual"></a>
+### Anime classroom key visual with three students and posters
+
+<a href="https://x.com/kiyoshi_shin/status/2090292842992488516"><img src="../../previews/gpt-image-anime-classroom-losing-heroines-key-visual.jpg" width="360"></a>
+
+The prompt fixes every element by count (3 students, 3 desk items, 2 posters, 3 captions) so nothing extra appears, and it sets a desk-height camera angled slightly upward. Writing the exact Japanese title, poster and caption text into the prompt keeps the on-image typography readable.
+
+GPT Image 2 · Text-to-image · Source: [@kiyoshi_shin on X](https://x.com/kiyoshi_shin/status/2090292842992488516) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`anime`](tags.md#tag-anime) [`classroom`](tags.md#tag-classroom) [`key-visual`](tags.md#tag-key-visual) [`japanese-text`](tags.md#tag-japanese-text)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Goal: Create a cinematic anime key visual for a high-school romantic comedy titled 負けヒロインが多すぎる!, set in a classroom with gentle daylight and a slightly melancholic but humorous mood.
+
+Canvas: Wide 16:9 composition, 1200×675 style framing, like a polished TV anime promotional still. Use soft realistic lighting, detailed painted backgrounds, clean character line art, subtle depth of field, and no grain or image noise.
+
+Layout: Three teenage students sit at desks in the foreground and midground. Count exactly 3 students: 1) left foreground main heroine, 2) center boy, 3) right background girl. The camera is at desk height, angled slightly upward, with large classroom windows behind them showing a bright blue sky, distant school buildings, balcony railings, and green hills. A concrete pillar and wall occupy the right side.
+
+Subject details: The left foreground girl is the dominant subject: a cheerful teenage girl with deep navy blue shoulder-length messy hair, blue eyes, flushed cheeks, and a teasing smile. She wears a white short-sleeve school shirt with a blue bow and sits lazily with her cheek resting on one hand, leaning toward the viewer. In front of her are exactly 3 desk items: a pink lunch box, a pink-and-white cloth, and a small yogurt drink carton with a straw labeled in Japanese. The center boy is a nervous teenage boy with short dark brown hair, wide uncertain eyes, a sweat drop, a white school shirt, and a green tie; he looks sideways toward the blue-haired girl as if thinking things are starting again. The right background girl is a withdrawn teenage girl with dark reddish-purple short bobbed hair and hairpins, wearing a white school shirt; she sits apart near the wall, half-hidden behind a phone or small book, looking annoyed and pretending not to care. On the right foreground desk place a dark navy school bag.
+
+Visible text and graphic elements: Include exactly 1 main title cluster in the upper left with the large Japanese title 負けヒロインが多すぎる!, small romanization “MAKEINE,” and small English subtitle “Too Many Losing Heroines!” beneath it. Include exactly 2 wall posters on the right: one larger poster on the pillar reading 負けても、きっと、青春は、終わらない。 with the small English subtitle “Too Many Losing Heroines!”, and one smaller tilted poster in the upper right reading Japanese handwriting that means “Even so, this feeling is surely not losing.” Include exactly 3 handwritten white annotation captions with curved arrows or dotted trails: near the left girl, “やっぱ私は負けヒロインなんだよね〜”; near the boy, “また始まった…”; near the right girl, “別に気にしてない”.
+
+Visual style: Modern Japanese anime film still, delicate shadows, cool blue classroom atmosphere, warm skin tones, expressive faces, natural hair highlights, detailed desks and windows, crisp but painterly background. The mood should feel like a promotional scene from a school comedy-drama about “losing heroines.”
+
+Constraints: Keep the composition clean and cinematic, preserve exactly the counted characters, posters, desk items, and annotation captions, avoid extra characters, avoid extra random text, avoid watermark or logo beyond the specified title graphics.
+```
+
+</details>
+
+<a id="gpt-image-anime-gender-swap-before-after-poster"></a>
+### Anime Gender Swap Before After Magazine Poster
+
+<a href="https://x.com/ArtistaNozomu/status/2085314580130197811"><img src="../../previews/gpt-image-anime-gender-swap-before-after-poster.jpg" width="360"></a>
+
+The prompt separates the canvas into a small Before card and a dominant After portrait, giving exact counts for cards and stamps plus the Japanese text strings to keep typography legible. A restricted blue and white palette with watercolor lighting keeps the layout cohesive.
+
+GPT Image 2 · Text-to-image · Source: [@ArtistaNozomu on X](https://x.com/ArtistaNozomu/status/2085314580130197811) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`anime`](tags.md#tag-anime) [`magazine-cover`](tags.md#tag-magazine-cover) [`gender-swap`](tags.md#tag-gender-swap) [`before-after`](tags.md#tag-before-after) [`japanese-typography`](tags.md#tag-japanese-typography)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Goal: Create a polished anime magazine-cover style “gender swap before/after” poster. The main subject is the transformed After character: an extremely handsome teenage boy who preserves the soft facial resemblance of the original character, with light ash-blonde tousled medium-short hair, sparkling blue eyes, pale luminous skin, a gentle open smile, and an elegant androgynous beauty. He wears a loose white shirt with rolled sleeves, a pale blue loosened necktie, blue suspenders, slim earrings, a delicate bracelet, and a blue belt with silver details. Pose him seated in a relaxed three-quarter view, leaning slightly forward with one hand near his cheek, looking directly at the viewer. Use airy spring lighting, soft bokeh flowers, floating white petals, translucent watercolor highlights, and crisp high-detail anime linework.
+
+Canvas: Vertical 4:5 poster, light pastel blue and white palette, bright dreamy background, plenty of negative space on the left for typography, main After portrait large and dominant on the right and center.
+
+Layout: Include exactly 1 small Before card in the upper-left corner and 1 large After portrait occupying most of the canvas. The Before card should have rounded corners, a thin blue border, and show a cute original girl with the same visual identity: ash-blonde wavy bob hair, blue eyes, white blouse, blue plaid skirt or blue ribbon accents, cheerful expression. Add a small top ribbon label on the card reading 元の姿 and a name under the mini portrait reading のぞむ. Add exactly 1 circular blue stamp near the lower-right of the poster reading 男女\n反転 with tiny sparkle marks.
+
+Text content: Large elegant Japanese headline on the left, set in a mix of black and soft blue calligraphic serif type: この子、\n男の子に\nなったら。. Under it, smaller Japanese subcopy: "面影そのまま、性別だけ反転。" Near the bottom, add a small caption: "可愛さを残した、最高にかっこいい彼。" Use refined magazine typography, with the key words in blue and the rest in dark ink.
+
+Visual style: High-end shoujo anime illustration, glossy magazine cover composition, ethereal watercolor lighting, detailed hair strands, delicate jewelry, soft skin shading, blue-white color harmony, romantic and clean design. Keep all Japanese text legible and integrated into the layout. Avoid photorealism, clutter, extra characters, watermarks, or random additional text.
+```
+
+</details>
 
 <a id="gpt-image-anna-karina-torn-paper-french-poster"></a>
 ### Anna Karina smoking on a torn paper poster
@@ -2019,7 +2077,7 @@ Labeled blocks for scene, mood, style and constraints keep each instruction sepa
 
 GPT Image 2.5 · Text-to-image · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card)
 
-[`holiday`](tags.md#tag-holiday) [`card`](tags.md#tag-card) [`text-render`](tags.md#tag-text-render)
+[`christmas`](tags.md#tag-christmas) [`holiday`](tags.md#tag-holiday) [`card`](tags.md#tag-card) [`text-render`](tags.md#tag-text-render)
 
 <details><summary><b>Prompt</b></summary>
 

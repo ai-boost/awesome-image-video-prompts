@@ -2020,7 +2020,7 @@ Premium toy photography cues set the plastic and worn paint textures, the studio
 
 GPT Image 2.5 · Text-to-image · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise)
 
-[`packaging`](tags.md#tag-packaging) [`product`](tags.md#tag-product) [`toy`](tags.md#tag-toy)
+[`christmas`](tags.md#tag-christmas) [`packaging`](tags.md#tag-packaging) [`product`](tags.md#tag-product) [`toy`](tags.md#tag-toy)
 
 <details><summary><b>Prompt</b></summary>
 

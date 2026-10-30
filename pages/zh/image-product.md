@@ -2020,7 +2020,7 @@ Do not add copy, placeholder text, English text, garbled characters, QR codes, w
 
 GPT Image 2.5 · 文生图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise)
 
-[`packaging`](tags.md#tag-packaging) [`product`](tags.md#tag-product) [`toy`](tags.md#tag-toy)
+[`christmas`](tags.md#tag-christmas) [`packaging`](tags.md#tag-packaging) [`product`](tags.md#tag-product) [`toy`](tags.md#tag-toy)
 
 <details><summary><b>提示词</b></summary>
 
