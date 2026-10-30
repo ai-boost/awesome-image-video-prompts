@@ -1,6 +1,6 @@
 # 海报与编辑排版
 
-[返回目录](../../README_zh.md) · 全部 200 条 · **1** · [2](image-poster-2.md)
+[返回目录](../../README_zh.md) · 全部 199 条 · **1** · [2](image-poster-2.md)
 
 <a id="gpt-image-flat-vector-city-travel-poster-template"></a>
 ### 适用任意城市的扁平矢量旅行海报模板
@@ -1528,25 +1528,6 @@ professional editorial composition,
 luxury commercial poster realism,
 high-end typography integration,
 award-winning advertising art direction.
-```
-
-</details>
-
-<a id="chatgpt-personality-board-game-reveal"></a>
-### 深蓝与金色的性格桌游揭晓图
-
-<a href="https://www.tiktok.com/@susanswearingenbeesley/video/7683917050204474654"><img src="../../previews/chatgpt-personality-board-game-reveal.jpg" width="360"></a>
-
-提示词先让模型设计完整的桌游（名称、规则、示例卡牌），再据此制作揭晓图，因此每件道具都属于同一个概念。深蓝与金色的配色贯穿卡牌、骰子、棋盘和杯子，问题文字放在画面上方的深色区域，清晰可读。
-
-ChatGPT · 文生图 · 出处: [@susanswearingenbeesley on TikTok](https://www.tiktok.com/@susanswearingenbeesley/video/7683917050204474654) · 310 赞，统计于 2026-10-30
-
-[`board-game`](tags.md#tag-board-game) [`personality`](tags.md#tag-personality) [`social-media`](tags.md#tag-social-media) [`still-life`](tags.md#tag-still-life)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Based on what you know about me, create a custom board game inspired by my personality, daily life, favorite things, habits, humor, and overall vibe. Include a creative game title, a short tagline, what the board game would look like, a few sample cards or spaces, how to play, how to win, and why it fits me. Then design it as a stylish social media reveal image with the game box, board, pieces, cards, and a polished aesthetic that matches my personality.
 ```
 
 </details>

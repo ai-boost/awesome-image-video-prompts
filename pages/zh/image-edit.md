@@ -1,25 +1,6 @@
 # 照片编辑
 
-[返回目录](../../README_zh.md) · 全部 59 条
-
-<a id="chatgpt-80s-hairstyle-film-portrait"></a>
-### 蓬松80年代发型女性的暖色胶片肖像
-
-<a href="https://www.tiktok.com/@a0tx3sem37/video/7685667533122309394"><img src="../../previews/chatgpt-80s-hairstyle-film-portrait.jpg" width="360"></a>
-
-提示词用逗号列出具体风格要素（发型、服装、35mm颗粒、暖色调、霓虹环境光、闪光灯风格），不指定人物，也能稳定地呈现复古氛围。加入真实肤质描述，可避免复古调色后皮肤显得塑料感。
-
-ChatGPT / Gemini · 上传图改图 · 出处: [@a0tx3sem37 on TikTok](https://www.tiktok.com/@a0tx3sem37/video/7685667533122309394) · 34,147 赞，统计于 2026-10-30
-
-[`80s`](tags.md#tag-80s) [`retro`](tags.md#tag-retro) [`portrait`](tags.md#tag-portrait) [`film`](tags.md#tag-film)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-classic 80s hairstyle, vibrant 80s fashion, grainy 35mm film texture, warm vintage colors, soft neon ambient lighting, flash photo style, realistic skin texture
-```
-
-</details>
+[返回目录](../../README_zh.md) · 全部 53 条
 
 <a id="nano-banana-charmander-ember-route-101"></a>
 ### 小火龙在日落道路上使用火花攻击
@@ -97,25 +78,6 @@ The overall vibe should feel fun, energetic, and feminine.
 
 </details>
 
-<a id="chatgpt-mother-child-face-split-black-white"></a>
-### 母女面部左右拼接黑白肖像
-
-<a href="https://www.tiktok.com/@tammy_millz/video/7686641184499879181"><img src="../../previews/chatgpt-mother-child-face-split-black-white.jpg" width="360"></a>
-
-上传两张照片，沿中线把两人的面部合并成一张脸。要求黑白并且对称对齐，使两半的色调和构图保持一致，便于直观比较相似之处。
-
-ChatGPT · 上传图改图 · 出处: [@tammy_millz on TikTok](https://www.tiktok.com/@tammy_millz/video/7686641184499879181) · 2,158 赞，统计于 2026-10-30
-
-[`family`](tags.md#tag-family) [`lookalike`](tags.md#tag-lookalike) [`black-and-white`](tags.md#tag-black-and-white) [`face-merge`](tags.md#tag-face-merge)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Use these pictures of me and my son/daughter to do half my face and half his/her face to see if we look alike. Please make it into black and white. Make them match up symmetrically
-```
-
-</details>
-
 <a id="gpt-image-selfie-chibi-sticker-doodle-edit"></a>
 ### 电梯镜面自拍加Q版贴纸涂鸦
 
@@ -150,25 +112,6 @@ ChatGPT · 上传图改图 · 出处: [@diegocarvalhoosteo on TikTok](https://ww
 
 ```text
 Com base nessa foto, crie uma imagem ultra realista de como nós seríamos se vivêssemos nos anos 80. Mantenha os traços do rosto mas adicione um penteado volumoso típico da época, roupas clássicas dos anos 80 com cores marcantes ou jeans de cintura alta, e uma iluminação com granulação de filme fotográfico antigo
-```
-
-</details>
-
-<a id="chatgpt-shalwar-kameez-outfit-swap-pose"></a>
-### 身穿浅蓝色沙尔瓦卡米兹的男子托腮
-
-<a href="https://www.tiktok.com/@mudasirshah9584/video/7688245977966234901"><img src="../../previews/chatgpt-shalwar-kameez-outfit-swap-pose.jpg" width="360"></a>
-
-简短的编辑指令，明确写出服装款式、面料颜色和鞋子，姿势则交由模型自行调整。模型保留原有面部、座椅、墙面画框和光线，只替换服装与姿态。
-
-ChatGPT / Gemini · 上传图改图 · 出处: [@mudasirshah9584 on TikTok](https://www.tiktok.com/@mudasirshah9584/video/7688245977966234901) · 959 赞，统计于 2026-10-30
-
-[`outfit-change`](tags.md#tag-outfit-change) [`pose-change`](tags.md#tag-pose-change) [`menswear`](tags.md#tag-menswear) [`fashion`](tags.md#tag-fashion)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Change my outfit in to light blue cotton shalwaar kameez and black peshawri chappal and change my pose eny other,.
 ```
 
 </details>
@@ -268,25 +211,6 @@ GPT Image 2 · 上传图改图 · 出处: [@miratechtool on X](https://x.com/mir
 
 ```text
 Recreate the scene as a cozy claymation-style world made from soft modeling clay. Every object should have handmade textures, rounded shapes, fingerprints, and soft lighting like a stop-motion movie. Use warm pastel colors and a cute cinematic atmosphere.
-```
-
-</details>
-
-<a id="chatgpt-conehead-challenge-floral-tiara"></a>
-### 戴粉色花朵头冠的圆锥头造型女子
-
-<a href="https://www.tiktok.com/@desirepyaar/video/7685931250074406158"><img src="../../previews/chatgpt-conehead-challenge-floral-tiara.jpg" width="360"></a>
-
-提示词列出了必须保持不变的内容（五官、身体、姿势、服装、纹身、背景、光线），让修改只替换头发为圆锥形头部。要求头冠颜色与服装一致，使配饰与原照片协调，画面保持写实。
-
-ChatGPT · 上传图改图 · 出处: [@desirepyaar on TikTok](https://www.tiktok.com/@desirepyaar/video/7685931250074406158) · 246 赞，统计于 2026-10-30
-
-[`conehead`](tags.md#tag-conehead) [`photo-edit`](tags.md#tag-photo-edit) [`meme`](tags.md#tag-meme) [`tiara`](tags.md#tag-tiara)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Transform me into a Conehead inspired by the Coneheads movie. Replace my hair completely with a smooth, skin-toned cone-shaped head that is proportional to my body. Keep my original facial features, body, pose, outfit, tattoos, background, and lighting intact. Add a beautiful crown/tiara that coordinates with the colors of my outfit. Keep the image realistic and recognizable as the original photo.
 ```
 
 </details>
@@ -596,25 +520,6 @@ soft pastel accents with realistic base tones
 high-detail, polished 3D chibi look
 cute, modern Korean-inspired aesthetic
 Ensure the final result feels cohesive, light, and aesthetically pleasing without overwhelming the original image.
-```
-
-</details>
-
-<a id="chatgpt-restore-old-photo-faithful"></a>
-### 忠实修复旧照片
-
-<a href="https://www.tiktok.com/@lucasvillano.ai/video/7685861146137529620"><img src="../../previews/chatgpt-restore-old-photo-faithful.jpg" width="360"></a>
-
-提示词通过约束发挥作用：先列出要修复的损伤（污渍、划痕、灰尘、折痕、噪点），再逐项列出必须保持不变的内容（脸部、表情、发型、服装、姿势、构图）。明确禁止美颜修饰和添加元素，使修复保持克制。
-
-ChatGPT · 上传图改图 · 出处: [@lucasvillano.ai on TikTok](https://www.tiktok.com/@lucasvillano.ai/video/7685861146137529620) · 143 赞，统计于 2026-10-30
-
-[`photo-restoration`](tags.md#tag-photo-restoration) [`image-restoration`](tags.md#tag-image-restoration) [`old-photos`](tags.md#tag-old-photos)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Restaure esta fotografia mantendo o máximo de fidelidade possível à imagem original. Corrija danos causados pelo tempo, como manchas, riscos, poeira, marcas, dobras, ruídos e perda de definição. Ajuste iluminação, contraste, nitidez e qualidade geral de forma natural. Preserve as características originais das pessoas, incluindo rosto, expressão, cabelo, idade aparente, roupas e proporções. Não altere a identidade das pessoas, não faça retoques de beleza e não adicione elementos que não estejam presentes na fotografia. Mantenha o cenário, os objetos, a pose e o enquadramento originais. Se a imagem for colorizada, utilize cores naturais e discretas, respeitando o contexto da fotografia. O resultado deve parecer uma restauração fotográfica fiel, sem mudanças artificiais ou criação de características que não existiam na imagem original.
 ```
 
 </details>
@@ -1095,25 +1000,6 @@ Nano Banana 2 · 上传图改图 · 出处: [@astronomerozge1 on X](https://x.co
     }
   }
 }
-```
-
-</details>
-
-<a id="chatgpt-1980s-denim-portrait-parked-car"></a>
-### 身穿牛仔外套的男子靠在老式汽车旁
-
-<a href="https://www.tiktok.com/@ginefriadi8/video/7683952832646630674"><img src="../../previews/chatgpt-1980s-denim-portrait-parked-car.jpg" width="360"></a>
-
-提示词要求写实风格的1980年代人像，同时明确保留面部特征，因此人物身份不变，而服装、发型和胶片质感发生变化。点明模拟胶片颗粒可以让画面呈现摄影质感而非绘画感。
-
-ChatGPT · 上传图改图 · 出处: [@ginefriadi8 on TikTok](https://www.tiktok.com/@ginefriadi8/video/7683952832646630674) · 28 赞，统计于 2026-10-30
-
-[`80s`](tags.md#tag-80s) [`retro`](tags.md#tag-retro) [`film-grain`](tags.md#tag-film-grain) [`portrait`](tags.md#tag-portrait)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Tukar foto ini ke potret hiperrealistik tahun 1980an. Simpan ciri wajah saya, tambah rambut dan pakaian gaya 80an, serta gunakan estetika fotografi analog dengan butiran filem.
 ```
 
 </details>

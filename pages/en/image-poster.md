@@ -1,6 +1,6 @@
 # Posters and editorial layouts
 
-[Back to the list](../../README.md) · All 200 entries · **1** · [2](image-poster-2.md)
+[Back to the list](../../README.md) · All 199 entries · **1** · [2](image-poster-2.md)
 
 <a id="gpt-image-flat-vector-city-travel-poster-template"></a>
 ### Flat vector travel poster template for any city
@@ -1528,25 +1528,6 @@ professional editorial composition,
 luxury commercial poster realism,
 high-end typography integration,
 award-winning advertising art direction.
-```
-
-</details>
-
-<a id="chatgpt-personality-board-game-reveal"></a>
-### Navy and gold personality board game reveal
-
-<a href="https://www.tiktok.com/@susanswearingenbeesley/video/7683917050204474654"><img src="../../previews/chatgpt-personality-board-game-reveal.jpg" width="360"></a>
-
-The prompt has the model invent the game (title, rules, sample cards) before designing the reveal, so every prop reads as part of one concept. A single navy and gold palette runs through the cards, dice, board and mug, and the question sits in the dark upper area where the text stays readable.
-
-ChatGPT · Text-to-image · Source: [@susanswearingenbeesley on TikTok](https://www.tiktok.com/@susanswearingenbeesley/video/7683917050204474654) · 310 likes on 2026-10-30
-
-[`board-game`](tags.md#tag-board-game) [`personality`](tags.md#tag-personality) [`social-media`](tags.md#tag-social-media) [`still-life`](tags.md#tag-still-life)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Based on what you know about me, create a custom board game inspired by my personality, daily life, favorite things, habits, humor, and overall vibe. Include a creative game title, a short tagline, what the board game would look like, a few sample cards or spaces, how to play, how to win, and why it fits me. Then design it as a stylish social media reveal image with the game box, board, pieces, cards, and a polished aesthetic that matches my personality.
 ```
 
 </details>

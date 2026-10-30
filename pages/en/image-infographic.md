@@ -1,25 +1,6 @@
 # Infographics and slides
 
-[Back to the list](../../README.md) · All 90 entries
-
-<a id="chatgpt-personal-style-report-stylist"></a>
-### Visual personal style report with outfit and color guides
-
-<a href="https://www.tiktok.com/@iatomiq/video/7687255526056512800"><img src="../../previews/chatgpt-personal-style-report-stylist.jpg" width="360"></a>
-
-It sets a stylist and color analyst persona, then adds a strict face preservation rule and a 90 percent visual, 10 percent text ratio. Each topic is a fixed named section with BEST and AVOID marks, and the layout is pinned to a clean white luxury magazine look.
-
-ChatGPT · Edit · Source: [@iatomiq on TikTok](https://www.tiktok.com/@iatomiq/video/7687255526056512800) · 24,733 likes on 2026-10-30
-
-[`fashion`](tags.md#tag-fashion) [`personal-style`](tags.md#tag-personal-style) [`infographic`](tags.md#tag-infographic) [`portrait`](tags.md#tag-portrait)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create image Act as a professional Image Consultant, Personal Stylist, Color Analyst, Fashion Advisor & Face Shape Expert. Analyze my uploaded portrait and create a PREMIUM visual personal style report. FACE PRESERVATION: Do NOT change, retouch, beautify, reshape or alter my face. Keep my facial structure, eyes, nose, lips, jawline, skin texture, ex-pression and identity 100% natural and realistic. Use my actual face as the reference. PRIORITY: 90% VISUALS, 10% TEXT. Use realistic fashion visuals, outfit mock-ups, diagrams, color palettes, comparison cards, icons and / ×. Avoid long paragraphs. Analyze and visually show: COLOR — Season, undertone, contrast, best/avoid colors, neutrals, ac-cents, white, black & denim. OUTFITS — Casual, Smart Casual, Formal, Party, Traditional, Streetwear & Minimalist. FACE — Face shape + best necklines, collars, shirts, T-shirts, jackets & blaz-ers. HAIR & BEARD — Best short/medium/long hairstyles, fades, textures, side part, slick back, curls & beard styles. Mark BEST / × AVOID. EYEWEAR — Best sunglasses and optical frames. ACCESSORIES — Watches, caps, hats, chains, bags and other suitable ac-cessories. FABRICS & PATTERNS — Best fabrics, stripes, checks, floral, geometric and solid patterns. FOOTWEAR — Sneakers, loafers, boots, Oxfords, running shoes & sandals. JEWELRY — Best metal: Silver, Gold, Rose Gold or Matte Black. STYLE IDENTITY — Identify my strongest style category. GLOW-UP — Current vs Potential Style + Best Hair, Outfit, Colors, Glasses, Beard & Accessories. SHOPPING GUIDE — Best shirts, T-shirts, blazers, pants, shoes, sun-glasses, watches & accessories. DESIGN: Luxury fashion magazine / Pinterest aesthetic. Clean white back-ground, premium layout, realistic clothing mockups, face diagrams, color palettes and before-vs-after comparisons. Keep text minimal. Make it highly visual, polished and easy to understand.
-```
-
-</details>
+[Back to the list](../../README.md) · All 89 entries
 
 <a id="gpt-image-encyclopedia-infographic-topic-template"></a>
 ### Encyclopedia infographic card of the James Webb Telescope

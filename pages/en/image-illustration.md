@@ -1,6 +1,6 @@
 # Illustration
 
-[Back to the list](../../README.md) · All 108 entries
+[Back to the list](../../README.md) · All 107 entries
 
 <a id="nano-banana-map-screenshot-anime-panorama-shibuya"></a>
 ### Anime style panorama of Shibuya Crossing from map screenshot
@@ -981,25 +981,6 @@ GPT Image 2.5 · Text-to-image · Source: [@hey_am_cherry on X](https://x.com/he
   "style": "vibrant painterly storybook illustration",
   "quality": "high"
 }
-```
-
-</details>
-
-<a id="chatgpt-doorway-to-my-future"></a>
-### Split doorway showing past life and future
-
-<a href="https://www.tiktok.com/@_allluvdashay._/video/7683225631181606158"><img src="../../previews/chatgpt-doorway-to-my-future.jpg" width="360"></a>
-
-The prompt hands every creative decision to the model and bans follow up questions, so one message produces a finished image. Setting a left side for what is left behind and a right side for what comes next gives the output a clear before and after structure.
-
-ChatGPT · Text-to-image · Source: [@_allluvdashay._ on TikTok](https://www.tiktok.com/@_allluvdashay._/video/7683225631181606158) · 90 likes on 2026-10-30
-
-[`split-screen`](tags.md#tag-split-screen) [`personal`](tags.md#tag-personal) [`metaphor`](tags.md#tag-metaphor)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Using what you know about me, show me the doorway to my future. Show what I’m leaving behind on one side and what I’m stepping into on the other. Make it personal to me and choose everything yourself. Don’t ask me questions—just create it.
 ```
 
 </details>

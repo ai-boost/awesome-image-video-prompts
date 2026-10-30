@@ -1,8 +1,8 @@
 """Editorial pass for TikTok candidates from scripts/tiktok_collect.py.
 
 Same rules and output as scripts/x_draft.py (the model checks the thumbnail against the prompt,
-rejects or drafts the entry); only the candidate folder and the id prefix differ, since TikTok
-creators name the app they used (ChatGPT, Gemini ...) rather than a model version.
+rejects or drafts the entry), plus stricter rules for TikTok covers (EXTRA). The candidate folder
+and the id prefix also differ, since TikTok creators name the app they used rather than a model version.
 
   python3 scripts/tiktok_draft.py       # then: python3 scripts/build.py
 """
@@ -16,10 +16,19 @@ import x_draft as X
 X.CAND = X.ROOT / ".tt-candidates"
 X.DONE = X.CAND / "done"
 
+# TikTok covers are often not the result. Checked by hand on the first batch (35 of 68 removed).
+EXTRA = """
+TikTok posts need more care. Also reject when:
+- the thumbnail is not the generated picture itself: a title card, text over a photo, a screenshot of the prompt or of a phone, the creator talking to camera, a before/after or app tutorial frame
+- the thumbnail is an ad or a model comparison grid
+- the result is plain: an ordinary selfie or snapshot that anyone could take with a phone, a plain portrait on a blank wall, a person simply sitting somewhere
+Accept only pictures a reader would stop scrolling for: striking, beautiful, funny or clever.
+"""
+
 
 def ask(c):
     prefix = re.sub(r"[^a-z0-9]+", "-", c["model"].split(" / ")[0].lower()).strip("-")
-    text = X.RULES.format(thumb=c["thumb"], prefix=prefix, modes=", ".join(X.MODES[c["kind"]]),
+    text = EXTRA + X.RULES.format(thumb=c["thumb"], prefix=prefix, modes=", ".join(X.MODES[c["kind"]]),
                           cat_line=f"- category: one of {', '.join(X.CATS[c['kind']])}",
                           cat_key=', "category": "..."',
                           model=c["model"], post=c["post_text"][:1500], prompt=c["prompt"])

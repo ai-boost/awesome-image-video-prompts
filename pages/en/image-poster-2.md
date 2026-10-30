@@ -1,6 +1,6 @@
 # Posters and editorial layouts
 
-[Back to the list](../../README.md) · All 200 entries · [1](image-poster.md) · **2**
+[Back to the list](../../README.md) · All 199 entries · [1](image-poster.md) · **2**
 
 <a id="gpt-image-city-travel-poster-vector-template"></a>
 ### Zurich Vector Travel Poster Template

@@ -1,6 +1,6 @@
 # 海报与编辑排版
 
-[返回目录](../../README_zh.md) · 全部 200 条 · [1](image-poster.md) · **2**
+[返回目录](../../README_zh.md) · 全部 199 条 · [1](image-poster.md) · **2**
 
 <a id="gpt-image-tilt-shift-map-road-travel-poster"></a>
 ### 从复古地图延伸出的上海移轴天际线

@@ -1,6 +1,6 @@
 # Characters and figures
 
-[Back to the list](../../README.md) · All 83 entries
+[Back to the list](../../README.md) · All 80 entries
 
 <a id="gpt-image-tanjiro-pixel-sprite-sheet-water-attack"></a>
 ### Tanjiro 16 frame pixel sprite sheet with water attack
@@ -120,25 +120,6 @@ Final output: one polished square image containing a clearly organized 4×4 grid
 
 </details>
 
-<a id="chatgpt-secret-supernatural-world-couple"></a>
-### Gothic couple before a castle under red moon
-
-<a href="https://www.tiktok.com/@nightmareinc2100/video/7690589171370528030"><img src="../../previews/chatgpt-secret-supernatural-world-couple.jpg" width="360"></a>
-
-The prompt sets a 3:4 cinematic frame and lists lighting and texture cues such as dramatic moonlight, fire, volumetric fog and film grain, plus a clear no text rule. The long list of world elements builds layered depth, so the castle, dragons and ravens fill the background behind the figures.
-
-ChatGPT · Text-to-image · Source: [@nightmareinc2100 on TikTok](https://www.tiktok.com/@nightmareinc2100/video/7690589171370528030) · 1,100 likes on 2026-10-30
-
-[`dark-fantasy`](tags.md#tag-dark-fantasy) [`gothic`](tags.md#tag-gothic) [`cinematic`](tags.md#tag-cinematic) [`no-text`](tags.md#tag-no-text)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Based on everything you know about me, create the SECRET SUPERNATURAL WORLD hidden inside my imagination. Do NOT ask me questions. Surprise me. Imagine my personality, memories, interests, fears, relationships, dreams, strengths, weaknesses, darker side, and things I love have somehow created an entire hidden universe. Build that universe around ME. Reveal: • The name of my world • What the name means • What the world looks like • The place where I live • What role I have there • My supernatural title • My appearance and outfit • My powers • My signature weapon • My symbol • My companion creature • The creatures living in my world • My closest ally • My greatest enemy • The forbidden location nobody enters • The most terrifying creature there • The secret hidden beneath my world • The one law everyone must obey • What happens when someone breaks it • My greatest strength • My greatest weakness • The prophecy written about me • My ultimate transformation • The final battle waiting for me • My legendary quote Make every detail symbolize something you genuinely associate with me based on what you’ve learned about my personality, interests, experiences, creative side, fears, dreams, and overall aesthetic. Then explain WHY my mind would create this particular universe. Finally, create a 3:4 cinematic image showing me standing inside my supernatural world. Make the image itself contain NO WORDS OR TEXT. Make it look like a $200-million dark fantasy/horror movie—photorealistic face and skin, realistic clothing, enormous environmental scale, practical-looking creatures, dramatic moonlight, fire, volumetric fog, storms, cinematic shadows, realistic textures, subtle film grain, atmospheric depth, and ultra-detailed 4K realism. If I upload a photo, preserve my recognizable facial features, hairstyle, body proportions, tattoos, and defining characteristics. Do not copy an existing movie, game, character, or universe. Everything must be original. No generic answers. No questions. Build the world that could only belong to ME. 👀 And finally tell me: If someone accidentally entered my world… would I protect them, hunt them, or make them prove they deserve to leave?
-```
-
-</details>
-
 <a id="nano-banana-3d-caricature-elongated-neck-portrait"></a>
 ### Stylized 3D caricature portrait with elongated neck
 
@@ -200,25 +181,6 @@ Nano Banana 2 · Text-to-image · Source: [@NanoBanana on X](https://x.com/NanoB
 This prompt works best with Nano Banana 2:
 
 Prompt: Make a photo of a cute ball-shaped version of a [animal], with big adorable over-sized eyes, it has no head, instead its face is part of the ball, its head and body are one. They are in their usual habitat. Must be almost spherical and cartoonishly cute. Its eyes are looking up in the most adorable cheeky fashion.
-```
-
-</details>
-
-<a id="nano-banana-pro-strawberry-baker-cake-bakery"></a>
-### Strawberry baker character with cake in bakery
-
-<a href="https://www.tiktok.com/@prabinbashyal100/video/7689097108044909845"><img src="../../previews/nano-banana-pro-strawberry-baker-cake-bakery.jpg" width="360"></a>
-
-Giving the subject a role and a concrete setting, a miniature bakery, lets the model build a complete scene around one character. The size contrast from the prompt is only loosely followed, so the scale cue works better as mood than as a literal instruction.
-
-Nano Banana Pro / ChatGPT · Text-to-image · Source: [@prabinbashyal100 on TikTok](https://www.tiktok.com/@prabinbashyal100/video/7689097108044909845) · 846 likes on 2026-10-30
-
-[`strawberry`](tags.md#tag-strawberry) [`miniature`](tags.md#tag-miniature) [`food`](tags.md#tag-food) [`character`](tags.md#tag-character)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A tiny strawberry baker decorating a giant strawberry cake in a miniature bakery
 ```
 
 </details>
@@ -1522,25 +1484,6 @@ A cute orange-brown squirrel character with a big bushy tail, wearing a simple n
 
 Rabbit
 A cute cream-colored rabbit character with tall ears, wearing a simple plum cape with a small gold round clasp. Standing pose, front view, full body, soft storybook illustration style, plain light background.
-```
-
-</details>
-
-<a id="chatgpt-scooby-doo-sixth-member-lore-sheet"></a>
-### Scooby Doo style sixth Mystery Inc. member lore sheet
-
-<a href="https://www.tiktok.com/@ericadebesis/video/7682936309811268895"><img src="../../previews/chatgpt-scooby-doo-sixth-member-lore-sheet.jpg" width="360"></a>
-
-The model designs the character from the user's profile first, then uses the uploaded photo only as a facial identity reference and forbids reproducing the photo itself. The prompt lists every required section and a 9:16 cinematic layout so the profile stays complete and readable.
-
-ChatGPT · Edit · Source: [@ericadebesis on TikTok](https://www.tiktok.com/@ericadebesis/video/7682936309811268895) · 54 likes on 2026-10-30
-
-[`scooby-doo`](tags.md#tag-scooby-doo) [`character-sheet`](tags.md#tag-character-sheet) [`lore`](tags.md#tag-lore) [`vertical`](tags.md#tag-vertical)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Take everything you know about me and imagine who I’d be as an ORIGINAL 6th member of Mystery Inc. alongside Fred, Daphne, Velma, Shaggy & Scooby-Doo. Keep my real name, (“your name”) but TRANSLATE my skills, personality, interests, and quirks into the Scooby-Doo universe rather than simply copying me into it. Create my role in the gang, personality, specialty, catchphrase, outfit, strengths, weaknesses, mystery-solving style, relationships with each member, signature gear, and any other traits that make me feel like an authentic classic Scooby-Doo character. Make me complement the existing gang rather than replace any of them. Using the character you just created, make a cinematic 9:16 character/lore sheet in a classic Scooby-Doo animation-inspired style. Use my uploaded reference photo ONLY as a reference for my facial identity. Keep the character recognizable as me, but DO NOT show or reproduce the reference photo. Use the outfit you designed for the character. Include readable sections for: Name & Role, Personality, Specialty, Catchphrase, Outfit, Signature Gear, Mystery-Solving Method, Strengths & Weaknesses, Relationships with Fred/Daphne/Velma/Shaggy/Scooby, and key character/lore details. Make it feel like an authentic Mystery Inc. character profile, with expressive character poses, illustrations, props, and retro Scooby-Doo visual design.
 ```
 
 </details>

@@ -1,6 +1,6 @@
 # 插画
 
-[返回目录](../../README_zh.md) · 全部 108 条
+[返回目录](../../README_zh.md) · 全部 107 条
 
 <a id="nano-banana-map-screenshot-anime-panorama-shibuya"></a>
 ### 由地图截图生成的涩谷十字路口动漫全景
@@ -981,25 +981,6 @@ GPT Image 2.5 · 文生图 · 出处: [@hey_am_cherry on X](https://x.com/hey_am
   "style": "vibrant painterly storybook illustration",
   "quality": "high"
 }
-```
-
-</details>
-
-<a id="chatgpt-doorway-to-my-future"></a>
-### 分裂的门道，一边是过去，一边是未来
-
-<a href="https://www.tiktok.com/@_allluvdashay._/video/7683225631181606158"><img src="../../previews/chatgpt-doorway-to-my-future.jpg" width="360"></a>
-
-这个提示把所有创作决定交给模型，并禁止追问，因此一条消息就能得到完整图像。用左侧表示离开的过去、右侧表示即将踏入的未来，画面形成清晰的前后对比结构。
-
-ChatGPT · 文生图 · 出处: [@_allluvdashay._ on TikTok](https://www.tiktok.com/@_allluvdashay._/video/7683225631181606158) · 90 赞，统计于 2026-10-30
-
-[`split-screen`](tags.md#tag-split-screen) [`personal`](tags.md#tag-personal) [`metaphor`](tags.md#tag-metaphor)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Using what you know about me, show me the doorway to my future. Show what I’m leaving behind on one side and what I’m stepping into on the other. Make it personal to me and choose everything yourself. Don’t ask me questions—just create it.
 ```
 
 </details>

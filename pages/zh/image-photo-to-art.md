@@ -1,6 +1,6 @@
 # 照片转艺术风格
 
-[返回目录](../../README_zh.md) · 全部 109 条
+[返回目录](../../README_zh.md) · 全部 107 条
 
 <a id="gpt-image-photo-to-watercolor-travel"></a>
 ### 上半旅行照片，下半同一场景水彩画
@@ -22,25 +22,6 @@ Lower section: a minimalist handmade watercolor painting of the exact same scene
 Leave generous warm ivory/off-white textured paper space surrounding the watercolor illustration. Add a small elegant handwritten caption near the bottom, such as “summer days” or “a quiet afternoon”, with a thin minimalist horizontal line underneath.
 Overall aesthetic: luxury travel journal, fine-art watercolor postcard, contemporary editorial design, nostalgic European summer, understated elegance, tactile handmade paper, sophisticated and serene.
 Portrait orientation, clean composition, premium art direction, no clutter, no borders, natural proportions, highly detailed photograph transitioning into an airy watercolor illustration.
-```
-
-</details>
-
-<a id="chatgpt-demon-slayer-hashira-red-moon"></a>
-### 红月下戴辫发的鬼杀队柱形象
-
-<a href="https://www.tiktok.com/@kingkay_34/video/7683545253504109838"><img src="../../previews/chatgpt-demon-slayer-hashira-red-moon.jpg" width="360"></a>
-
-提示词要求上传照片作为身份参考，并把服装、武器、配色和呼吸法效果写成明确的要求，因此图像能直接呈现角色设计。背景的红月、飘落的花瓣和宝塔则用来对应呼吸法的氛围。
-
-ChatGPT · 上传图改图 · 出处: [@kingkay_34 on TikTok](https://www.tiktok.com/@kingkay_34/video/7683545253504109838) · 1,539 赞，统计于 2026-10-30
-
-[`anime`](tags.md#tag-anime) [`demon-slayer`](tags.md#tag-demon-slayer) [`portrait`](tags.md#tag-portrait) [`reference-photo`](tags.md#tag-reference-photo)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Using everything you know about me from our conversations, turn me into a completely original Demon Slayer Hashira based on my real personality. Do NOT simply choose an existing Hashira, copy an existing Breathing Style, or give me the character you think I would like most. I want you to analyze who I actually am — my personality, strengths, flaws, habits, fears, values, how I handle conflict, how I protect people, how I think under pressure, and the overall energy I give off. If you genuinely do not know enough about me to personalize the result, ask me 5–10 interesting personality questions first. Do not ask questions if you already have enough information from our conversations. Then create my Hashira profile: - Hashira Title: Give me an original title that fits me. - Breathing Style: Invent a unique Breathing Style based specifically on my personality and explain why it suits me. - Fighting Style: Explain how I fight, including whether I rely on speed, strength, precision, strategy, unpredictability, defense, observation, aggression, etc. - Nichirin Weapon: Design my weapon, including its type, blade color, guard, special details, and any unusual characteristics. - Uniform & Haori: Design my Demon Slayer uniform and haori around my personality rather than simply using my favorite colors. - Color Palette & Symbol: Give me a signature color palette and personal symbol or motif. - Strengths: What would make me dangerous enough to become a Hashira? - Fatal Flaw: Give me a genuine weakness that could actually cause problems in battle. Don't make it a disguised compliment. - Breathing Forms: Create 5–8 named forms for my Breathing Style. Give each one a purpose and explain what it does. - Ultimate Form: Create my most dangerous technique and explain what makes using it risky. - Hashira Reputation: Tell me what the other Demon Slayers would say about me when I'm not around. - Demon Perspective: Explain why demons would specifically fear fighting me. - Backstory: Give me a short Demon Slayer backstory inspired by my personality, but do not invent real-life trauma or claim fictional events actually happened to me. - Rankings: Rank my Speed, Strength, Intelligence, Battle IQ, Stamina, Defense, Technique, and Unpredictability from 1–10. - Final Verdict: Tell me where I would realistically fall among the Hashira in overall combat ability and explain why. Make the result feel like I could genuinely exist in the Demon Slayer universe, while still being an original character. Be specific. Be creative. Give me strengths AND weaknesses. Don't make me ridiculously overpowered just because I'm the person asking. After the character profile, create a cinematic visual concept for my Hashira character using the photo I upload as the identity reference. Preserve my recognizable facial features, skin tone, hair characteristics, body type, age, and overall likeness. Transform me into the Hashira you designed above, including the correct uniform, haori, Nichirin weapon, colors, symbols, and Breathing Style effects. The setting and atmosphere should visually represent my unique Breathing Style.
 ```
 
 </details>
@@ -2941,25 +2922,6 @@ GPT Image 2.5 · 上传图改图 · 出处: [@harboriis on X](https://x.com/harb
 
 ```text
 Turn this photo into a contemporary, artist-made naïve illustration: minimalist and hand-drawn, with playful proportions, uneven outlines, flat colors that are soft yet contrasting, and decorative pencil strokes. No shadows, gradients, or 3D effects. Give it the feel of a high-end designer poster drawn with colored pencils. Keep it cute and cartoon-like.
-```
-
-</details>
-
-<a id="chatgpt-1980s-vintage-film-portrait-studio"></a>
-### 1980年代胶片影棚人像，年轻女子
-
-<a href="https://www.tiktok.com/@saorrsa1/video/7690442694497209608"><img src="../../previews/chatgpt-1980s-vintage-film-portrait-studio.jpg" width="360"></a>
-
-提示词先锁定人脸、五官、肤色和表情，再叠加具体的年代线索：经典80年代发型、复古服饰、暖调电影光、褪色色彩和35毫米颗粒，使编辑只改变造型与色调，而不重绘人物。
-
-ChatGPT / Gemini · 上传图改图 · 出处: [@saorrsa1 on TikTok](https://www.tiktok.com/@saorrsa1/video/7690442694497209608) · 74 赞，统计于 2026-10-30
-
-[`vintage`](tags.md#tag-vintage) [`portrait`](tags.md#tag-portrait) [`film`](tags.md#tag-film) [`retro`](tags.md#tag-retro) [`1980s`](tags.md#tag-1980s)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Keep my face identity, facial features, skin tone and natural expression unchanged. Transform my portrait into a realistic 1980s vintage film photograph with classic 80s hairstyle, retro fashion, warm cinematic lighting, faded colors, grainy 35mm texture and nostalgic atmosphere.
 ```
 
 </details>

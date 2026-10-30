@@ -1,25 +1,6 @@
 # 信息图与幻灯片
 
-[返回目录](../../README_zh.md) · 全部 90 条
-
-<a id="chatgpt-personal-style-report-stylist"></a>
-### 视觉化个人风格报告，包含穿搭与配色指南
-
-<a href="https://www.tiktok.com/@iatomiq/video/7687255526056512800"><img src="../../previews/chatgpt-personal-style-report-stylist.jpg" width="360"></a>
-
-先设定造型师与色彩顾问的角色，再用严格的面部保留规则以及90%视觉、10%文字的比例约束输出。每个主题都是固定的命名模块，并标注最佳与避免，版面锁定为干净白底的时尚杂志风格。
-
-ChatGPT · 上传图改图 · 出处: [@iatomiq on TikTok](https://www.tiktok.com/@iatomiq/video/7687255526056512800) · 24,733 赞，统计于 2026-10-30
-
-[`fashion`](tags.md#tag-fashion) [`personal-style`](tags.md#tag-personal-style) [`infographic`](tags.md#tag-infographic) [`portrait`](tags.md#tag-portrait)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create image Act as a professional Image Consultant, Personal Stylist, Color Analyst, Fashion Advisor & Face Shape Expert. Analyze my uploaded portrait and create a PREMIUM visual personal style report. FACE PRESERVATION: Do NOT change, retouch, beautify, reshape or alter my face. Keep my facial structure, eyes, nose, lips, jawline, skin texture, ex-pression and identity 100% natural and realistic. Use my actual face as the reference. PRIORITY: 90% VISUALS, 10% TEXT. Use realistic fashion visuals, outfit mock-ups, diagrams, color palettes, comparison cards, icons and / ×. Avoid long paragraphs. Analyze and visually show: COLOR — Season, undertone, contrast, best/avoid colors, neutrals, ac-cents, white, black & denim. OUTFITS — Casual, Smart Casual, Formal, Party, Traditional, Streetwear & Minimalist. FACE — Face shape + best necklines, collars, shirts, T-shirts, jackets & blaz-ers. HAIR & BEARD — Best short/medium/long hairstyles, fades, textures, side part, slick back, curls & beard styles. Mark BEST / × AVOID. EYEWEAR — Best sunglasses and optical frames. ACCESSORIES — Watches, caps, hats, chains, bags and other suitable ac-cessories. FABRICS & PATTERNS — Best fabrics, stripes, checks, floral, geometric and solid patterns. FOOTWEAR — Sneakers, loafers, boots, Oxfords, running shoes & sandals. JEWELRY — Best metal: Silver, Gold, Rose Gold or Matte Black. STYLE IDENTITY — Identify my strongest style category. GLOW-UP — Current vs Potential Style + Best Hair, Outfit, Colors, Glasses, Beard & Accessories. SHOPPING GUIDE — Best shirts, T-shirts, blazers, pants, shoes, sun-glasses, watches & accessories. DESIGN: Luxury fashion magazine / Pinterest aesthetic. Clean white back-ground, premium layout, realistic clothing mockups, face diagrams, color palettes and before-vs-after comparisons. Keep text minimal. Make it highly visual, polished and easy to understand.
-```
-
-</details>
+[返回目录](../../README_zh.md) · 全部 89 条
 
 <a id="gpt-image-encyclopedia-infographic-topic-template"></a>
 ### 詹姆斯韦伯望远镜百科信息图卡片

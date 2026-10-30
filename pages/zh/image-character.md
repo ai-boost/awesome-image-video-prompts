@@ -1,6 +1,6 @@
 # 角色与手办
 
-[返回目录](../../README_zh.md) · 全部 83 条
+[返回目录](../../README_zh.md) · 全部 80 条
 
 <a id="gpt-image-tanjiro-pixel-sprite-sheet-water-attack"></a>
 ### 炭治郎十六帧像素精灵图与水之呼吸攻击
@@ -120,25 +120,6 @@ Final output: one polished square image containing a clearly organized 4×4 grid
 
 </details>
 
-<a id="chatgpt-secret-supernatural-world-couple"></a>
-### 红月下哥特城堡前的一对情侣
-
-<a href="https://www.tiktok.com/@nightmareinc2100/video/7690589171370528030"><img src="../../previews/chatgpt-secret-supernatural-world-couple.jpg" width="360"></a>
-
-提示词设定了 3:4 电影画幅，并列出月光、火焰、体积雾、胶片颗粒等光影与质感线索，同时明确要求画面无文字。长串的世界元素让背景形成多层纵深，城堡、飞龙和乌鸦环绕着人物。
-
-ChatGPT · 文生图 · 出处: [@nightmareinc2100 on TikTok](https://www.tiktok.com/@nightmareinc2100/video/7690589171370528030) · 1,100 赞，统计于 2026-10-30
-
-[`dark-fantasy`](tags.md#tag-dark-fantasy) [`gothic`](tags.md#tag-gothic) [`cinematic`](tags.md#tag-cinematic) [`no-text`](tags.md#tag-no-text)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Based on everything you know about me, create the SECRET SUPERNATURAL WORLD hidden inside my imagination. Do NOT ask me questions. Surprise me. Imagine my personality, memories, interests, fears, relationships, dreams, strengths, weaknesses, darker side, and things I love have somehow created an entire hidden universe. Build that universe around ME. Reveal: • The name of my world • What the name means • What the world looks like • The place where I live • What role I have there • My supernatural title • My appearance and outfit • My powers • My signature weapon • My symbol • My companion creature • The creatures living in my world • My closest ally • My greatest enemy • The forbidden location nobody enters • The most terrifying creature there • The secret hidden beneath my world • The one law everyone must obey • What happens when someone breaks it • My greatest strength • My greatest weakness • The prophecy written about me • My ultimate transformation • The final battle waiting for me • My legendary quote Make every detail symbolize something you genuinely associate with me based on what you’ve learned about my personality, interests, experiences, creative side, fears, dreams, and overall aesthetic. Then explain WHY my mind would create this particular universe. Finally, create a 3:4 cinematic image showing me standing inside my supernatural world. Make the image itself contain NO WORDS OR TEXT. Make it look like a $200-million dark fantasy/horror movie—photorealistic face and skin, realistic clothing, enormous environmental scale, practical-looking creatures, dramatic moonlight, fire, volumetric fog, storms, cinematic shadows, realistic textures, subtle film grain, atmospheric depth, and ultra-detailed 4K realism. If I upload a photo, preserve my recognizable facial features, hairstyle, body proportions, tattoos, and defining characteristics. Do not copy an existing movie, game, character, or universe. Everything must be original. No generic answers. No questions. Build the world that could only belong to ME. 👀 And finally tell me: If someone accidentally entered my world… would I protect them, hunt them, or make them prove they deserve to leave?
-```
-
-</details>
-
 <a id="nano-banana-3d-caricature-elongated-neck-portrait"></a>
 ### 长脖子夸张风格3D漫画肖像
 
@@ -200,25 +181,6 @@ Nano Banana 2 · 文生图 · 出处: [@NanoBanana on X](https://x.com/NanoBanan
 This prompt works best with Nano Banana 2:
 
 Prompt: Make a photo of a cute ball-shaped version of a [animal], with big adorable over-sized eyes, it has no head, instead its face is part of the ball, its head and body are one. They are in their usual habitat. Must be almost spherical and cartoonishly cute. Its eyes are looking up in the most adorable cheeky fashion.
-```
-
-</details>
-
-<a id="nano-banana-pro-strawberry-baker-cake-bakery"></a>
-### 草莓烘焙师角色与蛋糕的面包店场景
-
-<a href="https://www.tiktok.com/@prabinbashyal100/video/7689097108044909845"><img src="../../previews/nano-banana-pro-strawberry-baker-cake-bakery.jpg" width="360"></a>
-
-为主体赋予角色并给出具体场景（微缩面包店），模型便能围绕一个角色搭建完整画面。提示词中的大小对比只被大致呈现，因此它更多是氛围提示，而非精确的尺寸指令。
-
-Nano Banana Pro / ChatGPT · 文生图 · 出处: [@prabinbashyal100 on TikTok](https://www.tiktok.com/@prabinbashyal100/video/7689097108044909845) · 846 赞，统计于 2026-10-30
-
-[`strawberry`](tags.md#tag-strawberry) [`miniature`](tags.md#tag-miniature) [`food`](tags.md#tag-food) [`character`](tags.md#tag-character)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-A tiny strawberry baker decorating a giant strawberry cake in a miniature bakery
 ```
 
 </details>
@@ -1522,25 +1484,6 @@ A cute orange-brown squirrel character with a big bushy tail, wearing a simple n
 
 Rabbit
 A cute cream-colored rabbit character with tall ears, wearing a simple plum cape with a small gold round clasp. Standing pose, front view, full body, soft storybook illustration style, plain light background.
-```
-
-</details>
-
-<a id="chatgpt-scooby-doo-sixth-member-lore-sheet"></a>
-### 史酷比风格神秘事件社第六位成员人物档案
-
-<a href="https://www.tiktok.com/@ericadebesis/video/7682936309811268895"><img src="../../previews/chatgpt-scooby-doo-sixth-member-lore-sheet.jpg" width="360"></a>
-
-先根据用户资料设计角色，再把上传的照片只作为面部身份参考，并明确禁止复现照片本身。提示词列出全部必需栏目并指定9:16电影感版式，让人物档案完整且易读。
-
-ChatGPT · 上传图改图 · 出处: [@ericadebesis on TikTok](https://www.tiktok.com/@ericadebesis/video/7682936309811268895) · 54 赞，统计于 2026-10-30
-
-[`scooby-doo`](tags.md#tag-scooby-doo) [`character-sheet`](tags.md#tag-character-sheet) [`lore`](tags.md#tag-lore) [`vertical`](tags.md#tag-vertical)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Take everything you know about me and imagine who I’d be as an ORIGINAL 6th member of Mystery Inc. alongside Fred, Daphne, Velma, Shaggy & Scooby-Doo. Keep my real name, (“your name”) but TRANSLATE my skills, personality, interests, and quirks into the Scooby-Doo universe rather than simply copying me into it. Create my role in the gang, personality, specialty, catchphrase, outfit, strengths, weaknesses, mystery-solving style, relationships with each member, signature gear, and any other traits that make me feel like an authentic classic Scooby-Doo character. Make me complement the existing gang rather than replace any of them. Using the character you just created, make a cinematic 9:16 character/lore sheet in a classic Scooby-Doo animation-inspired style. Use my uploaded reference photo ONLY as a reference for my facial identity. Keep the character recognizable as me, but DO NOT show or reproduce the reference photo. Use the outfit you designed for the character. Include readable sections for: Name & Role, Personality, Specialty, Catchphrase, Outfit, Signature Gear, Mystery-Solving Method, Strengths & Weaknesses, Relationships with Fred/Daphne/Velma/Shaggy/Scooby, and key character/lore details. Make it feel like an authentic Mystery Inc. character profile, with expressive character poses, illustrations, props, and retro Scooby-Doo visual design.
 ```
 
 </details>
