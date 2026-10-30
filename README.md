@@ -4501,6 +4501,8 @@ Anchoring the scene in aged parchment and naming the physical effect of each map
 Nano Banana 2 · Text-to-image · Source: [@AllaAisling on X](https://x.com/AllaAisling/status/2027140622252179959) · 378 likes on 2026-10-29
 
 [`treasure-map`](pages/en/tags.md#tag-treasure-map) [`parchment`](pages/en/tags.md#tag-parchment) [`diorama`](pages/en/tags.md#tag-diorama) [`firefly`](pages/en/tags.md#tag-firefly)
+- [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
 
 <details><summary><b>Prompt</b></summary>
 
