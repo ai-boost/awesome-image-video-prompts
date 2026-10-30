@@ -4503,6 +4503,9 @@ Nano Banana 2 · Text-to-image · Source: [@AllaAisling on X](https://x.com/Alla
 [`treasure-map`](pages/en/tags.md#tag-treasure-map) [`parchment`](pages/en/tags.md#tag-parchment) [`diorama`](pages/en/tags.md#tag-diorama) [`firefly`](pages/en/tags.md#tag-firefly)
 - [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
 - [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
+- [Alors On Danse Video Maker](https://alorsondansevideo.com) - Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
+- [Bad Times AI](https://badtimesai.dev) - Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) - Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
 
 <details><summary><b>Prompt</b></summary>
 
