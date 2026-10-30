@@ -1,0 +1,28 @@
+id: nano-banana-rockefeller-center-christmas-coordinates
+title:
+  en: Rockefeller Center tree and skating rink at night
+  zh: 夜晚的洛克菲勒中心圣诞树与溜冰场
+model: Nano Banana Pro
+mode: text-to-image
+category: realism
+tags:
+- christmas
+- maps
+- location
+- new-york
+source:
+  name: '@icreatelife on X'
+  url: https://x.com/icreatelife/status/1992256439453417531
+  credit: Kris Kashtanova
+  likes: 44
+  captured: '2026-10-29'
+  posted: '2025-11-22'
+notes:
+  en: Giving only coordinates and a date makes the model resolve the place through Maps and infer what happens there, so no scene has to be described. Asking a question instead of describing a picture lets the model work out both the location and the season itself.
+  zh: 只给出坐标和日期，模型借助地图识别地点，并据此推断当天的场景，无需描述画面。以提问代替画面描述，让模型自行判断地点与季节。
+prompt: |
+  The coolest thing about Nano Banana Pro is that it’s connected to the maps and understands addresses, coordinates and events!
+
+  prompt: What happens at this coordinates 40.7580° N, 73.9781° W on Christmas
+
+  tested it with Firefly app

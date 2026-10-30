@@ -1,6 +1,6 @@
 # 海报与编辑排版
 
-[返回目录](../../README_zh.md) · 全部 195 条 · **1** · [2](image-poster-2.md)
+[返回目录](../../README_zh.md) · 全部 197 条 · **1** · [2](image-poster-2.md)
 
 <a id="gpt-image-flat-vector-city-travel-poster-template"></a>
 ### 适用任意城市的扁平矢量旅行海报模板
@@ -4318,6 +4318,31 @@ MAXIMUM COMMERCIAL IMPACT.
 
 </details>
 
+<a id="nano-banana-christmas-roast-turkey-split-outline"></a>
+### 一半实拍烤火鸡一半线稿插画
+
+<a href="https://x.com/icreatelife/status/2004036691879743733"><img src="../../previews/nano-banana-christmas-roast-turkey-split-outline.jpg" width="360"></a>
+
+一条垂直白线把同一道菜分成实拍照片与匹配的线稿两半，线稿需要沿用照片的形状、比例和视角。菜名、背景色和标签都是可替换的占位，同一模板可用于其他食物。
+
+Nano Banana Pro · 文生图 · 出处: [@icreatelife on X](https://x.com/icreatelife/status/2004036691879743733) · 126 赞，统计于 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`food`](tags.md#tag-food) [`split-composition`](tags.md#tag-split-composition) [`outline-illustration`](tags.md#tag-outline-illustration)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Try this Nano Banana Pro prompt for your favorite Christmas foods and items
+
+I use Nano Banana Pro in Adobe Firefly app
+
+Merry Christmas! 🎄 ✨🥹
+
+prompt: Clean contemporary square culinary poster featuring [FOOD_ITEM] against a flat [BACKGROUND_COLOR] backdrop. A razor-sharp vertical white divider cuts directly down the middle of the composition, separating the primary subject into equal portions. The first half displays a hyper-realistic photograph of the main dish with authentic surface details, true-to-life coloring, and natural illumination, precisely trimmed at the midpoint divider. The second half transforms into a minimal outline illustration that mirrors the identical shape and key features of the photographed side, keeping consistent scale and viewing angle. Surrounding the illustrated portion, scatter whimsical white sketched elements and casual handwritten-style typography stating “[LABEL_TEXT]” using matching line thickness—incorporate directional pointers, dynamic streaks, and basic component graphics tied to the dish. Generous blank space throughout, uniform background tone, balanced diffused studio brightness, minimal shadow presence, contemporary commercial design style, human-free, object-focused composition.
+```
+
+</details>
+
 <a id="gpt-image-kfc-crispy-bucket-miniature-world-poster"></a>
 ### 手持KFC餐桶的男子，桶内是微缩炸鸡世界
 
@@ -7039,41 +7064,34 @@ FORMAT: Full-bleed 4:5 vertical composition.
 
 </details>
 
-<a id="gpt-image-move-breakdance-poster"></a>
-### 霹雳舞者穿插于巨型 MOVE 字母之间
+<a id="nano-banana-christmas-city-diorama-template-grid"></a>
+### 红色背景上的等距圣诞城市微缩模型
 
-<a href="https://x.com/MrLarus/status/2115472681206518096"><img src="../../previews/gpt-image-move-breakdance-poster.jpg" width="360"></a>
+<a href="https://x.com/TechieBySA/status/2003053984454734030"><img src="../../previews/nano-banana-christmas-city-diorama-template-grid.jpg" width="360"></a>
 
-一个带填空位的模板，只指定一种技法即巨型字母穿插，要求主体与超大标题相互遮挡而非简单叠放。限定配色、泛黄纸底和套印偏移等细节，营造独立展览海报的印刷质感。
+通过一个 [CITY] 占位符控制整体构图，因此每个城市都使用相同的固定 45° 俯视等距镜头、居中的微缩底座，以及城市名在上、CHRISTMAS EDITION 在下的文字层级。统一的红色背景和自动对比的白色或黑色文字，让系列作品保持一致。
 
-GPT Image 2.5 · 文生图 · 出处: [@MrLarus on X](https://x.com/MrLarus/status/2115472681206518096) · 21 赞，统计于 2026-10-29
+Nano Banana Pro · 文生图 · 出处: [@TechieBySA on X](https://x.com/TechieBySA/status/2003053984454734030) · 35 赞，统计于 2026-10-29
 
-[`poster`](tags.md#tag-poster) [`typography`](tags.md#tag-typography) [`japanese-design`](tags.md#tag-japanese-design) [`template`](tags.md#tag-template)
+[`christmas`](tags.md#tag-christmas) [`isometric`](tags.md#tag-isometric) [`diorama`](tags.md#tag-diorama) [`template`](tags.md#tag-template)
 
 <details><summary><b>提示词</b></summary>
 
 ```text
-Poster Theme: [Fill in Theme]
-Main Title: [Fill in Title]
-Subtitle: [Fill in Subtitle]
-Core Visual Elements: [Fill in Main Subject]
-Visual Design Technique: [Giant Letter Interspersion / Overprinting Misalignment / Letterform Labyrinth / Geometric Refraction, Choose One]
-Primary Color Scheme: [Fill in Color Palette]
-Exhibition Information: [Fill in Date, Location, etc.]
+“Present a clear, 45° top-down isometric miniature 3D cartoon scene of [CITY], centered in the composition.
+Depict the city in a festive Christmas theme with seasonal decorations, glowing lights, and appropriate winter or holiday details.
 
-Design a 9:16 vertical Japanese experimental art poster that fuses Japanese retro graphic design, modern typeface experimentation, and art exhibition visuals. The overall piece should feature a distinct design language, like a professionally laid-out independent art exhibition poster.
+Use soft refined textures, realistic PBR materials, and gentle lifelike lighting with subtle shadows.
+Create a small raised diorama-style city base with clean edges.
 
-Use an oversized title as the primary visual structure of the composition, creating a tangible spatial relationship between the text and core elements. Through interspersion, occlusion, overprinting misalignment, or letterform distortion, craft surprising yet logical visual effects.
+Use a clean red christmas background color that contrasts well with the scene.
 
-The main subject and typography should influence each other, rather than simply being layered on top. Enlarge the most expressive letters or characters, using cropping, overlapping, and scale contrast to ensure viewers immediately spot the visual focal point.
+At the top-center, display [CITY] in large bold text.
+Directly beneath it, display CHRISTMAS EDITION in medium text.
+Optionally place a small round national flag icon below the text.
 
-Employ a limited palette of high-contrast colors, paired with a cream-colored aged paper background, natural ink speckles, and vintage printing texture. Subtle areas of color misregistration, edge wear, and silkscreen grain can be retained locally.
-
-Typography should blend large English titles, vertical Chinese or Japanese text, refined English subtitles, and exhibition details. Establish a clear reading hierarchy through font size, weight, and whitespace.
-
-Auxiliary text, geometric markers, and fine lines can be distributed along the edges, but they must revolve around the theme. The composition should feel information-rich while maintaining a clear visual center and comfortable reading rhythm.
-
-The overall image needs to evoke a complete sense of an artwork with strong thumbnail recognizability. Highlight just one core visual technique per piece, avoiding cluttered elements, garbled text, cheap effects, or ordinary text overlays.
+All text must automatically match background contrast (white or black).
+Composition: perfectly centered, square 1080×1080, ultra-clean festive diorama aesthetic.”
 ```
 
 </details>

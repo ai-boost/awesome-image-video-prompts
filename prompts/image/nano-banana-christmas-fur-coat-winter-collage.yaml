@@ -1,0 +1,97 @@
+id: nano-banana-christmas-fur-coat-winter-collage
+title:
+  en: Winter collage in fur coat with music player
+  zh: 冬季拼贴，皮草大衣与音乐播放器
+model: Nano Banana Pro
+mode: image-edit
+category: collage
+tags:
+- christmas
+- collage
+- winter-fashion
+- iphone-photo
+source:
+  name: '@Strength04_X on X'
+  url: https://x.com/Strength04_X/status/2000404590232256886
+  credit: M-studioAi
+  likes: 53
+  captured: '2026-10-29'
+  posted: '2025-12-14'
+notes:
+  en: A JSON brief fixes the wardrobe, palette and four-panel layout so every frame stays consistent, and the strict face reference keeps one person across shots. The centred Apple Music style mini player is described as a flat graphic overlay with no shadows, which keeps its text sharp.
+  zh: 用 JSON 固定服装、配色和四格布局，让每个画面保持一致，并用人脸参考图保持同一人物。居中的 Apple Music 风格小播放器被描述为无阴影的平面图层，因此文字保持清晰。
+prompt: |
+  {
+    "image_generation_request": {
+      "meta_protocols": {
+        "reference_adherence": {
+          "instruction": "Use the provided photo as a strict face reference.",
+          "tolerance": "Zero deviation",
+          "parameters": "Preserve facial proportions, skin texture, expression, and identity with 100% accuracy.",
+          "stylization_constraint": "Do not stylize or alter facial features."
+        },
+        "format_style": "Editorial winter poster–style multi-panel collage",
+        "aesthetic_quality": "Spontaneous iPhone photography (candid, cozy, realistic)",
+        "global_textures": "Soft snowfall, subtle analog grain, slight handheld imperfections"
+      },
+      "consistent_elements": {
+        "subject_wardrobe": {
+          "coat": "Short faux-fur coat (light brown/tan)",
+          "legwear": "Black tights",
+          "footwear": "Classic UGG boots (tan/chestnut)",
+          "style_notes": "Simple, cozy, unmistakably winter"
+        },
+        "primary_device": {
+          "model": "iPhone 17 Pro Max",
+          "color": "Silver",
+          "usage": "Held by subject in relevant frames"
+        },
+        "color_palette": [
+          "Warm ambers",
+          "Soft reds",
+          "Pine greens",
+          "Muted winter greys"
+        ]
+      },
+      "layout_configuration": {
+        "panel_1_top_left": {
+          "scene_type": "Reflective shop-window shot at dusk",
+          "lighting_and_atmosphere": "Faint Christmas lights, garlands, frosted glass edges, warm highlights on fur",
+          "subject_action": "Holding phone partially covering face (taking mirror selfie)",
+          "optical_effects": "Passing silhouettes, layered reflections, gentle ghosting, natural glass curvature distortion"
+        },
+        "panel_2_top_right": {
+          "scene_type": "Ultra-wide street portrait (snowy sidewalk/Christmas market)",
+          "camera_angle": "Close, downward-angled",
+          "subject_pose": "Leaning forward casually, hands in coat pockets",
+          "visibility_check": "Black tights and UGG boots clearly visible",
+          "motion_dynamics": "Falling snow with slight motion blur",
+          "lens_characteristics": "Subtle perspective warping to reinforce handheld unstaged feel"
+        },
+        "panel_3_bottom_right": {
+          "scene_type": "Intimate overhead selfie",
+          "lighting": "Warm street or café lighting",
+          "props": {
+            "held_item": "Takeaway holiday drink (coffee or mulled wine) with red straw",
+            "accessories": "Wired earphones visible"
+          },
+          "texture_focus": "Sharply detailed fur texture and winter fabrics",
+          "mood": "Nostalgic holiday atmosphere enhanced by soft grain"
+        },
+        "panel_4_bottom_left": {
+          "scene_type": "Medium shot street portrait (snowy sidewalk/Christmas market)",
+          "camera_angle": "Eye level, slightly upward",
+          "subject_pose": "Standing, looking directly at the camera, hands relaxed by side or in pockets.",
+          "visibility_check": "Full body visible, focusing on the coat and winter street scene.",
+          "motion_dynamics": "Soft snowfall, shallow depth of field focusing on the subject.",
+          "mood": "Candid, cozy, and realistic winter street photo."
+        }
+      },
+      "graphic_overlay": {
+        "element": "Minimal Apple Music–style mini player",
+        "content": "Popular Christmas song (e.g., 'Last Christmas' or 'All I Want for Christmas Is You')",
+        "style": "Rendered flat and clean, no shadows",
+        "position": "Floating across the center of the collage"
+      }
+    }
+  }

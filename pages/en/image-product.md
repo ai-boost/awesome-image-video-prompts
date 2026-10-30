@@ -1,6 +1,6 @@
 # Product shots and e-commerce
 
-[Back to the list](../../README.md) · All 72 entries
+[Back to the list](../../README.md) · All 73 entries
 
 <a id="gpt-image-giant-pepsi-can-seated-model-ad"></a>
 ### Woman leaning on giant Pepsi can ad
@@ -90,6 +90,32 @@ Nano Banana 2 · Text-to-image · Source: [@Arminn_Ai on X](https://x.com/Arminn
 
 ```text
 A photorealistic, highly detailed commercial product photograph of a standard aluminum [Type of Soda Can] centered against a minimal, textured [Background Color] paper background, with subtle fibers visible. A single, continuous horizontal paper-tear strip runs across the entire width of the frame, seamless from the far-right edge to the far-left edge. The torn channel cuts through the metal body of the can and continues across the background on both sides with a barely perceptible and minimal diagonal slope towards the upper-left. The tear channel is significantly broader, revealing a dense, glistening, and vibrant layer of [Description of Fruit Segments/Sacs/Berries] tightly packed inside. Near the extreme far-left end of this tear, the paper is neatly rolled into a tight, realistic coil that occupies almost the entire left margin. The can features a newly designed, minimalist branding: the upper portion has a stylized, abstract line-art illustration of [Fruit Branch/Plant] in a contrasting [Ink Color], set against a subtle matte geometric [Pattern Type] pattern on the can surface. Below this, the brand name "[Brand Name]" is printed in an elegant, modern dark typography, with smaller technical text "330ml - NATURAL EXTRACT" and a small "Recyclable" logo. A small, detailed graphic of the fruit is located below the torn path. The lighting is soft and cinematic, casting delicate drop shadows beneath the torn paper edges and the large left coil. 8k resolution, macro details on fibrous paper and glossy fruit texture.
+```
+
+</details>
+
+<a id="nano-banana-christmas-luxury-skincare-santa-glove"></a>
+### Dior bottle held by Santa glove in snow
+
+<a href="https://x.com/aleenaamiir/status/2003115097116602560"><img src="../../previews/nano-banana-christmas-luxury-skincare-santa-glove.jpg" width="360"></a>
+
+The prompt locks the product as an unchanged hero object and lists exactly which attributes must stay the same, then sets lighting and lens terms for a premium look. Fill-in slots for scene, props and lens let one template cover many product shots.
+
+Nano Banana Pro · Edit · Source: [@aleenaamiir on X](https://x.com/aleenaamiir/status/2003115097116602560) · 484 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`luxury`](tags.md#tag-luxury) [`product-photo`](tags.md#tag-product-photo) [`template`](tags.md#tag-template)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A luxury Christmas-themed product photoshoot set in a [COZY / STUDIO / OUTDOOR] environment. Place the uploaded product image as the hero object, standing upright at the center of the frame. The product must remain EXACTLY unchanged in [shape, size, material, colors, label design, typography, logos, and all visible text]. Do not modify, recreate, translate, enhance, or stylize any product text.
+
+Scene & background: A festive [BACKGROUND TYPE — e.g. wooden windowsill, velvet studio backdrop, snowy landscape] with [SEASONAL DETAILS — e.g. softly falling snow, blurred Christmas tree lights, winter village bokeh]. Foreground includes subtle holiday accents such as [FESTIVE PROPS — e.g. holly, ribbons, ornaments, fairy lights], placed naturally and never covering the product.
+
+Styling: Optional festive accessory on the product such as [HAT / SCARF / RIBBON], perfectly fitted without altering the product’s structure or covering the label.
+Lighting & camera: Warm golden Christmas lighting contrasted with cool winter tones. Soft diffused light, gentle rim lighting for depth, no glare or harsh reflections on the product text. Shallow depth of field with a softly blurred background. Shot on DSLR, [LENS — e.g. 85mm], professional product photography.
+
+Quality & mood: Ultra-high resolution, photorealistic textures, premium holiday advertising aesthetic, clean editorial composition, cozy, elegant, and festive.
 ```
 
 </details>

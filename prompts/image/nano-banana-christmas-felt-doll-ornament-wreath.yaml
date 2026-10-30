@@ -1,0 +1,42 @@
+id: nano-banana-christmas-felt-doll-ornament-wreath
+title:
+  en: Felt doll ornament in teal and gold wreath
+  zh: 毛毡娃娃挂饰点缀的青绿金色圣诞花环
+model: Nano Banana Pro
+mode: image-edit
+category: photo-to-art
+tags:
+- christmas
+- wreath
+- ornament
+- felt-craft
+source:
+  name: '@konmari_tweet on X'
+  url: https://x.com/konmari_tweet/status/2002548674896015701
+  credit: konmari
+  likes: 66
+  captured: '2026-10-29'
+  posted: '2025-12-21'
+notes:
+  en: The prompt first asks the model to extract the palette from the reference image and apply it to the wreath, which keeps the colours consistent with the source. Naming concrete craft styles such as felt plush, carved wood and icing cookie, plus a list of base materials, gives the model a clear handmade vocabulary to follow.
+  zh: 提示词先让模型从参考图提取配色并套用到花环上，使色调与原图保持一致。明确列出毛毡、木雕、糖霜饼干等手工风格和基础材料词，为模型提供清晰的手作质感依据。
+prompt: |
+  **[AI Instruction: Image-to-Ornament Transformation]**
+  Analyze the provided **[Input Image]** carefully.
+  1.  **Color Extraction:** Extract the dominant color palette and mood from the [Input Image] and apply it to the wreath's overall theme (ribbons, flowers, balls).
+  2.  **Motif Creation:** Identify the main character or object in the [Input Image] and reimagine it as a **cute, handcrafted Christmas ornament** (e.g., felt plush, carved wood, or icing cookie style). Place this custom ornament prominently on the wreath.
+
+  **[Main Subject]**
+  A stunning, high-quality **Christmas Wreath** hanging on a simple white wall (or held by hands), featuring a luxurious mix of materials. The design is dense, festive, and voluminous.
+
+  **[Thematic Decoration (Based on Input Image)]**
+  * **Centerpiece/Charms:** The main subject from the [Input Image] is transformed into charming **3D ornaments** attached to the wreath. They look like high-quality handcrafted goods (felted wool, painted wood, or ceramic) that perfectly match the wreath's style.
+  * **Palette:** The flowers, berries, and baubles strictly follow the color scheme of the [Input Image].
+
+  **[Base Materials (Reference Style)]**
+  Similar to the texture of high-end wreaths:
+  * **Natural Elements:** Abundant pine cones (gold-dusted or natural), fluffy cotton flowers, dried leaves, evergreen sprigs, and holly berries.
+  * **Accents:** Velvet or burlap ribbons, a stylish paper tag with elegant typography (like "Merry Christmas" or "Noel"), and touches of gold/silver glitter.
+
+  **[Atmosphere & Quality]**
+  Soft, bright natural lighting. Shallow depth of field to focus on the textures. Photorealistic, 8k, cozy holiday atmosphere, macro details of the materials.

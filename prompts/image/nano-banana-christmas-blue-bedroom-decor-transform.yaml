@@ -1,0 +1,27 @@
+id: nano-banana-christmas-blue-bedroom-decor-transform
+title:
+  en: Blue bedroom transformed with Christmas lights and tree
+  zh: 蓝色卧室装饰圣诞灯、圣诞树与礼物
+model: Nano Banana Pro
+mode: image-edit
+category: edit
+tags:
+- christmas
+- interior
+- holiday-decor
+source:
+  name: '@umesh_ai on X'
+  url: https://x.com/umesh_ai/status/2004214017154601106
+  credit: Umesh
+  likes: 39
+  captured: '2026-10-29'
+  posted: '2025-12-25'
+notes:
+  en: The prompt fixes the subject, layout and camera angle of the input, so the room stays recognizable while only decor is added. Naming specific elements such as string lights, a tree, gift boxes and candy canes, and limiting hats and scarves to where they fit naturally, keeps the result tasteful.
+  zh: 提示词固定输入图的主体、构图和机位，只叠加装饰，因此房间依然可辨认。列出彩灯、圣诞树、礼盒、拐杖糖等具体元素，并限定圣诞帽和围巾只在自然合适时使用，让效果克制得体。
+prompt: |
+  Merry Christmas ⛄
+
+  Turn any picture into a cozy Christmas celebration using this Nano Banana Pro prompt 🎄✨
+
+  Prompt : Take the provided image as the base and keep the main subject, layout, and camera angle unchanged. Transform the scene into a festive Christmas celebration while preserving realistic lighting and proportions. Add warm holiday string lights (soft bokeh), subtle snowfall or sparkling particles, and a cozy red-and-green color accent across decor. Place tasteful Christmas elements that match the context: a decorated tree in the background, wrapped gift boxes, candy canes, holly, and a few ornaments. Add Santa hats or winter scarves only if they fit naturally. Enhance warmth with golden highlights and gentle vignette. Avoid clutter, text, logos, and distorted faces; keep details sharp and natural.

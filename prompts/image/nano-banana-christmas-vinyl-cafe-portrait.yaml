@@ -1,0 +1,125 @@
+id: nano-banana-christmas-vinyl-cafe-portrait
+title:
+  en: Woman in gingham top at a Christmas record cafe
+  zh: 身穿格纹上衣的女子坐在圣诞黑胶咖啡馆
+model: Nano Banana Pro
+mode: text-to-image
+category: portrait
+tags:
+- christmas
+- portrait
+- y2k
+- film-look
+source:
+  name: '@ZaraIrahh on X'
+  url: https://x.com/ZaraIrahh/status/1998043967888515532
+  credit: Zara
+  likes: 332
+  captured: '2026-10-29'
+  posted: '2025-12-08'
+notes:
+  en: The prompt splits the scene into subject, environment, lighting and camera fields, so each prop and the direct flash look are specified separately. Naming a film stock and a point and shoot compact camera sets the Y2K snapshot feel.
+  zh: 提示词把画面拆成主体、环境、光线和相机等字段，分别指定每件道具和直闪效果。点名胶片型号和卡片机，就能做出 Y2K 随手拍的质感。
+prompt: |
+  "subject": {
+        "description": "hyper-realistic portrait of a cute, doll-faced Asian woman sitting at a dark wooden table in a vintage-style room",
+        "face_preservation": true,
+        "pose": {
+          "body_position": "seated at the table",
+          "head": "slightly tilted toward camera",
+          "hands": "chin resting gently on one hand, other hand relaxed on or near the table",
+          "expression": "soft, warm, slightly shy smile with big doll-like eyes looking toward the camera"
+        },
+        "appearance": {
+          "skin_tone": "very fair skin with realistic texture",
+          "hair": {
+            "color": "dark brown",
+            "length": "long",
+            "style": "slightly wind-blown with a few strands falling across her face, layered and softly messy"
+          },
+          "makeup": {
+            "style": "Douyin and Korean-inspired",
+            "eyes": "long curled lashes with subtle liner, bright and glossy look",
+            "blush": "soft pink on cheeks and nose tip",
+            "lips": "glossy rose-pink lips",
+            "overall": "cute doll-like aesthetic"
+          },
+          "clothing": {
+            "top": {
+              "type": "puff-sleeve crop top",
+              "pattern": "red-and-white checkered",
+              "neckline": "wide neckline revealing collarbones and subtle cleavage",
+              "details": "small lace ruffle edges and a bow tie in the center"
+            },
+            "bottom": {
+              "type": "fitted mini skirt",
+              "pattern": "matching red-and-white checkered"
+            }
+          },
+          "accessories": {
+            "necklace": "minimal small-pendant necklace",
+            "nails": "Christmas-themed nail art"
+          }
+        }
+      },
+
+      "environment": {
+        "setting": "retro café or music lounge corner",
+        "walls": {
+          "color": "dark brown",
+          "decor": [
+            "CD shelves",
+            "vinyl records on the wall",
+            "Christmas tree",
+            "Christmas ornaments"
+          ]
+        },
+        "table": {
+          "material": "dark wood",
+          "objects": [
+            "vintage amplifier",
+            "old-style record player",
+            "one iced matcha latte in a clear cup",
+            "beautifully decorated Christmas-themed food and desserts",
+            "red Canon IXY 30S camera placed clearly on the table"
+          ]
+        }
+      },
+
+      "lighting": {
+        "ambient": {
+          "type": "warm tungsten",
+          "color": "orange",
+          "mood": "cozy and festive"
+        },
+        "key_light": {
+          "type": "direct flash",
+          "position": "from camera direction",
+          "effect": "brightens her skin sharply with a slightly yellow-white glow, creates strong hard shadows behind her"
+        },
+        "additional_light": {
+          "type": "soft natural sunlight",
+          "placement": "subtle presence in the room",
+          "effect": "adds gentle highlights and depth"
+        }
+      },
+
+      "photography": {
+        "style": "Y2K / early digital compact camera vibe",
+        "camera_feel": "point-and-shoot compact digital, on-camera flash",
+        "quality": "super sharp 8K hyper-realistic image",
+        "color_profile": "Fujifilm Pro 400H inspired, slightly old-lens filter",
+        "exposure": "bright exposure emphasizing the subject against darker background",
+        "texture": {
+          "skin": "realistic pores and soft sheen",
+          "grain": "light film grain overlay for nostalgic film look"
+        }
+      },
+
+      "composition": {
+        "framing": "medium close-up, centered on subject at the table with upper body visible and table objects clearly shown",
+        "focus": "sharp focus on face and upper body, table items slightly less sharp but still detailed",
+        "background_depth": "background elements recognizable but slightly softer than subject"
+      }
+    }
+  }

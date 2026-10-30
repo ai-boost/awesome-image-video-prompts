@@ -1,0 +1,29 @@
+id: nano-banana-christmas-modern-santa-reindeer-studio
+title:
+  en: Modern Santa with reindeer in red studio
+  zh: 红色摄影棚中的现代圣诞老人与驯鹿
+model: Nano Banana Pro
+mode: image-edit
+category: portrait
+tags:
+- christmas
+- santa
+- studio-portrait
+- reindeer
+source:
+  name: '@rovvmut_ on X'
+  url: https://x.com/rovvmut_/status/2003317930130571608
+  credit: Heisenberg
+  likes: 38
+  captured: '2026-10-29'
+  posted: '2025-12-23'
+notes:
+  en: The uploaded photo is locked as the face and body reference, and a low angle wide lens with strong foreshortening makes the crossed arms and raised sneaker feel bold. Naming each outfit item, a solid red backdrop and the 3:4 frame keeps the result consistent.
+  zh: 上传的照片作为面部和身体的参考锁定，低角度广角镜头配合强透视让交叉手臂和抬起的运动鞋更有张力。逐项列出服装细节、纯红背景和 3:4 画幅让结果保持一致。
+prompt: |
+  Use the uploaded image as the exact reference for the person’s face and body.
+  Full-body low-angle wide-lens studio portrait, arms crossed, one foot pushed toward the camera with strong foreshortening. Modern Santa outfit: red velvet suit with white fur trim, Santa hat, black sunglasses, white canvas sneakers.
+
+  Reindeer standing slightly behind on the left with large antlers and a knitted festive scarf.
+  Solid red studio background with floating silver confetti.
+  Clean soft studio lighting, high contrast, sharp focus, playful modern holiday editorial style. 3:4 aspect ratio.

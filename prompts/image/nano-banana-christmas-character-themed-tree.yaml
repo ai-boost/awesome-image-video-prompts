@@ -1,0 +1,40 @@
+id: nano-banana-christmas-character-themed-tree
+title:
+  en: Blue and gold character tree with doll ornaments
+  zh: 蓝金配色的角色主题圣诞树与娃娃挂饰
+model: Nano Banana Pro
+mode: image-edit
+category: edit
+tags:
+- christmas
+- christmas-tree
+- character
+- ornaments
+source:
+  name: '@konmari_tweet on X'
+  url: https://x.com/konmari_tweet/status/2003611761451368464
+  credit: konmari
+  likes: 71
+  captured: '2026-10-29'
+  posted: '2025-12-23'
+notes:
+  en: 'The prompt runs in three steps: it first extracts the reference character''s palette and motifs, then turns the character into plush and shaped ornaments spread across the tree, and finally designs a topper that represents the character. Reusing one reference image for colours, decorations and topper keeps the whole tree on a single theme.'
+  zh: 提示词分三步：先从参考图角色中提取配色和标志元素，再把角色做成毛绒和造型挂饰分布在树上，最后设计代表角色的顶饰。用同一张参考图统一配色、装饰和顶饰，让整棵树保持一个主题。
+prompt: |
+  **[AI Instruction: The Ultimate Character Tree Designer]**
+  Analyze the provided **[Input Image]**.
+  1.  **Theme & Palette:** Extract the character's main color scheme and iconic motifs from the [Input Image] to define the tree's overall theme (e.g., ribbon colors, bauble colors, light colors).
+  2.  **Custom Ornaments:** Transform the character into various **custom ornaments** (plushies, figures, shaped baubles) and distribute them throughout the tree.
+  3.  **Tree Topper:** Create a unique **tree topper** that symbolizes the character (e.g., their hat, a large star with their emblem, or the character itself sitting on top).
+
+  **[Main Subject: Character Themed Christmas Tree]**
+  A stunning, high-quality photograph of a lavishly decorated **Christmas Tree** dedicated to the character in the **[Input Image]**.
+
+  **[Tree Details]**
+  * **Decorations:** The tree is packed with ornaments inspired by the **[Input Image]**. This includes character plush toys, figures, and baubles in their image colors, along with themed ribbons and garlands.
+  * **Lighting:** Warm or colored LED lights that perfectly complement the character's palette, creating a magical glow.
+  * **The Topper:** A special, eye-catching decoration sits at the very top, representing the character.
+
+  **[Atmosphere]**
+  * **Setting:** A cozy living room or a high-end display space, with wrapped presents under the tree that also match the theme.
+  * **Vibe:** Magical, luxurious, official collaboration quality. 8k resolution.

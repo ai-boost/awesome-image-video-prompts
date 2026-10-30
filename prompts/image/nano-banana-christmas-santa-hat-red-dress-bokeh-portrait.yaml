@@ -1,0 +1,47 @@
+id: nano-banana-christmas-santa-hat-red-dress-bokeh-portrait
+title:
+  en: Smiling woman in Santa hat by glowing tree
+  zh: 戴圣诞帽在发光圣诞树前微笑的女性
+model: Nano Banana Pro
+mode: text-to-image
+category: portrait
+tags:
+- christmas
+- portrait
+- bokeh
+- cinematic-lighting
+source:
+  name: '@Strength04_X on X'
+  url: https://x.com/Strength04_X/status/2003795195272499421
+  credit: M-studioAi
+  likes: 152
+  captured: '2026-10-29'
+  posted: '2025-12-24'
+notes:
+  en: A JSON prompt that pairs a subject-first description with photographic modifiers such as 85mm lens, f/1.8 aperture and depth of field, set to a 9:16 portrait ratio. Describing the background as softly blurred with golden bokeh keeps the tree as a warm frame around the subject.
+  zh: 采用 JSON 结构的提示词，先描述人物，再加入 85mm 镜头、f/1.8 光圈和景深等摄影参数，并设定 9:16 竖版比例。背景描述为柔焦的金色光斑，使圣诞树成为衬托主体的暖色背景。
+prompt: |
+  {
+        "description": "Ultra-realistic 8k portrait of a stunning young woman with long, dark, wavy hair, wearing a plush red and white Santa hat and a fitted red strapless dress. She has a soft, alluring expression and is looking directly at the camera. The background features a softly blurred Christmas tree with glowing golden bokeh lights, creating a warm and festive atmosphere.",
+        "modifiers": [
+          "Ultra-realistic",
+          "8k resolution",
+          "DSLR photography",
+          "Cinematic lighting",
+          "Warm ambient light",
+          "High detail skin texture",
+          "Bokeh effect",
+          "Depth of field",
+          "f/1.8 aperture",
+          "85mm lens",
+          "Photorealistic",
+          "Masterpiece"
+        ],
+        "negative_prompt": "cartoon, 3d render, anime, painting, drawing, low quality, blurry, pixelated, bad anatomy, deformed, ugly, cross-eyed, watermark, text, noise, grain, overexposed"
+      }
+    ],
+    "settings": {
+      "aspect_ratio": "9:16",
+      "style": "Cinematic Portrait"
+    }
+  }

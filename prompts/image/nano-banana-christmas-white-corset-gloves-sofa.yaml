@@ -1,0 +1,66 @@
+id: nano-banana-christmas-white-corset-gloves-sofa
+title:
+  en: White corset woman on fur sofa by Christmas tree
+  zh: 白色束腰裙女子斜倚毛绒沙发，身旁是圣诞树
+model: Nano Banana Pro
+mode: text-to-image
+category: portrait
+tags:
+- christmas
+- portrait
+- fashion
+- holiday-interior
+source:
+  name: '@xmliisu on X'
+  url: https://x.com/xmliisu/status/2003490900542976013
+  credit: Melisa♡
+  likes: 718
+  captured: '2026-10-29'
+  posted: '2025-12-23'
+notes:
+  en: The JSON splits subject, outfit, environment and lighting into separate fields, so the gloves, boots, tree and garland are each named once and stay in the frame. Calling out the satin highlights and warm ambient light builds the glamorous mood without extra style words.
+  zh: 提示词将主体、服装、环境和光线拆成独立字段，手套、靴子、圣诞树和花环各自只写一次，因此都能出现在画面中。明确指出缎面高光和暖色环境光，无需额外堆砌风格词即可营造华丽氛围。
+prompt: |
+  {
+    "subject": {
+      "type": "person",
+      "gender": "female",
+      "pose": "reclining on a textured sofa, leaning back on one arm",
+      "expression": "neutral, confident, slight pout",
+      "gaze": "direct contact with the camera",
+      "hair": {
+        "color": "dark brown",
+        "style": "long, straight, center-parted, flowing over shoulders"
+      },
+      "attire": {
+        "outfit": "white strapless mini dress with a corset-style bodice",
+        "gloves": "white satin opera-length gloves",
+        "footwear": "cream-colored knee-high leather boots with pointed toes and chain detail",
+        "accessories": [
+          "chunky pearl necklace",
+          "gold bracelet worn over the left glove"
+        ]
+      }
+    },
+    "environment": {
+      "setting": "indoor, festive living space",
+      "furniture": "sofa covered with a plush, textured cream/beige fur throw",
+      "decor": [
+        "large Christmas tree heavily decorated with gold and silver ornaments, ribbon, and warm white fairy lights",
+        "frosted pine garland with lights mounted on the upper wall",
+        "small framed picture hanging on the wall"
+      ],
+      "background": "textured beige wall"
+    },
+    "lighting_and_mood": {
+      "lighting": "warm ambient light, soft shadows, highlights on the satin gloves and corset",
+      "atmosphere": "glamorous, cozy, holiday-themed, elegant",
+      "color_palette": [
+        "cream",
+        "white",
+        "gold",
+        "dark green",
+        "warm beige"
+      ]
+    }
+  }

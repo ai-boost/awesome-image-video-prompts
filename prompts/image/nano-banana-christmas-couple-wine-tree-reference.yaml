@@ -1,0 +1,108 @@
+id: nano-banana-christmas-couple-wine-tree-reference
+title:
+  en: Couple with wine by Christmas tree
+  zh: 圣诞树旁举酒杯的情侣合影
+model: Nano Banana Pro
+mode: image-edit
+category: portrait
+tags:
+- christmas
+- portrait
+- couple
+- photoreal
+source:
+  name: '@astronomerozge1 on X'
+  url: https://x.com/astronomerozge1/status/2004920668299682084
+  credit: Özge Döner
+  likes: 198
+  captured: '2026-10-29'
+  posted: '2025-12-27'
+notes:
+  en: Two reference uploads with a near maximum identity lock keep both faces consistent, while a single on camera flash and a 28 to 35mm lens feel give an authentic smartphone snapshot look. The pose is spelled out, with the man hugging from behind and the woman holding a wine glass in front.
+  zh: 两张参考图配合接近最高的身份锁定，保持两人面部一致；单次机位闪光灯和 28 到 35 毫米镜头感营造真实的手机快照质感。文字明确写出了男士从身后环抱、女士在前方举酒杯的姿势。
+prompt: |
+  {
+    "generation_request": {
+      "meta_data": {
+        "tool": "NanoBanana Pro",
+        "task_type": "text_to_image_photoreal_couple_christmas_lifestyle",
+        "version": "v1.1",
+        "priority": "high"
+      },
+      "references": {
+        "reference_images": {
+          "person_A_male": "UPLOAD_MALE_REFERENCE_IMAGE (REQUIRED)",
+          "person_B_female": "UPLOAD_FEMALE_REFERENCE_IMAGE (REQUIRED)",
+          "pose_mood_reference": "UPLOAD_THIS_COUPLE_CHRISTMAS_PHOTO (OPTIONAL)"
+        },
+        "reference_rules": {
+          "preserve_identity_person_A": true,
+          "preserve_identity_person_B": true,
+          "identity_lock_strength_A": 0.995,
+          "identity_lock_strength_B": 0.995,
+          "face_similarity_priority": "MAX",
+          "preserve_facial_proportions": true,
+          "preserve_eye_shape_nose_lips_jawline": true,
+          "keep_age_and_gender_consistent": true,
+          "no_beautify_no_face_morph": true,
+          "do_not_copy_any_unprovided_identity": true
+        }
+      },
+      "output_settings": {
+        "aspect_ratio": "3:4",
+        "orientation": "portrait",
+        "resolution": "ultra_high_res",
+        "render_style": "raw_lifestyle_flash_photo",
+        "sharpness": "high_subject_soft_background",
+        "film_grain": "subtle",
+        "color_grade": "warm_cozy"
+      },
+      "creative_prompt": {
+        "scene_summary": "A candid, cozy Christmas living-room photo of a couple sitting closely in front of a decorated Christmas tree. The woman (identity locked to Person B) sits in the foreground, slightly angled toward camera, smiling warmly with glossy red lips, holding a large wine glass with red wine in her right hand. She wears a strapless black textured/feathered mini dress (photoreal fabric), minimal jewelry, and long straight or softly wavy black hair. The man (identity locked to Person A) sits behind her, leaning in from the left, smiling at the camera, wearing a cream/white short-sleeve shirt and light beige pants. His arm wraps around her waist in a natural cuddle pose. The floor is filled with wrapped presents and gift bags in the foreground. The Christmas tree is lush with red ribbon garlands and ornaments. Realistic on-camera flash look, slightly dim room, warm shadows, authentic home vibe.",
+        "composition": {
+          "framing": "portrait medium shot, couple centered, woman dominant in frame, man behind her slightly left",
+          "camera_angle": "slightly above eye level, handheld",
+          "depth_of_field": "moderate DOF; faces tack sharp; tree and gifts slightly softer",
+          "props": "wine glass in woman’s hand; multiple wrapped gifts in foreground; no extra random objects"
+        },
+        "environment": {
+          "location": "cozy living room at night",
+          "tree_decor": "classic warm holiday decor: red ribbons, gold/neutral ornaments, subtle lights",
+          "gift_wrap": "assorted gift bags and wrapped boxes with ribbons, realistic paper textures"
+        },
+        "lighting_and_camera": {
+          "capture_style": "real smartphone/compact-camera flash photo",
+          "lighting": "single on-camera flash as main light; warm ambient spill from tree lights; natural shadows",
+          "realism": "natural skin texture, realistic pores, no over-smoothing",
+          "lens_feel": "28–35mm equivalent",
+          "noise": "subtle low-light grain (authentic)"
+        },
+        "strict_rules": [
+          "Exactly 2 people only (Person A + Person B)",
+          "Both faces must match their respective references exactly (no identity drift)",
+          "Keep the same couple pose: man behind hugging, woman in front holding wine glass",
+          "Photoreal candid flash look (not studio)",
+          "No text, no logos, no watermark"
+        ]
+      },
+      "negative_prompt": [
+        "identity drift",
+        "different face",
+        "face swap artifacts",
+        "beautify filter",
+        "plastic skin",
+        "over-smoothed face",
+        "cgi look",
+        "anime",
+        "cartoon",
+        "extra people",
+        "extra limbs",
+        "deformed hands",
+        "extra fingers",
+        "blurred faces",
+        "text",
+        "logo",
+        "watermark"
+      ]
+    }
+  }

@@ -1,0 +1,85 @@
+id: nano-banana-xmas-winking-man-bench-sweets-monsters
+title:
+  en: Winking man on bench amid Christmas sweets monsters
+  zh: 眨眼的男子坐在圣诞集市长椅上，被糖果怪兽包围
+model: Nano Banana Pro
+mode: image-edit
+category: portrait
+tags:
+- christmas
+- pop-art
+- portrait
+- json-prompt
+source:
+  name: '@ecommartinez on X'
+  url: https://x.com/ecommartinez/status/1995250288073302501
+  credit: Alejo
+  likes: 155
+  captured: '2026-10-29'
+  posted: '2025-11-28'
+notes:
+  en: A structured JSON prompt locks identity to the reference photo, then layers monster and shape overlays behind and around the subject. The explicit rule to keep the face and hands photorealistic is what makes the pop-art mix work.
+  zh: 结构化 JSON 提示词先把身份锁定在参考照片上，再把怪兽和图形层叠在主体的背后和四周。明确要求面部和手部保持写实，是这种波普拼贴效果成立的关键。
+prompt: |
+  @awesome_visuals
+   para poner tu rostro)
+
+  {
+    "subject": {
+      "type": "the person from the reference photo ONLY",
+      "identity_restriction": "Do NOT use any traits, gender, clothing or body features from previous prompts. Use ONLY the face, body type, and identity from the reference photo.",
+      "pose": "sitting on a wooden market bench with knees pulled up and arms wrapped around them, giving a cheerful wink",
+      "expression": "warm, festive, friendly"
+    },
+
+    "appearance": {
+      "match_reference": "Facial structure, hairstyle, and overall appearance must EXACTLY match the reference photo",
+      "hair": "same hairstyle as reference photo",
+      "clothing": {
+        "style": "winter outfit inspired by reference, adapted for Christmas market",
+        "top": "cozy winter jacket or sweater (match reference photo colors if possible)",
+        "bottom": "neutral comfortable pants or shorts depending on reference",
+        "socks": "winter socks",
+        "shoes": "winter boots"
+      }
+    },
+
+    "environment": {
+      "setting": "outdoor Christmas market",
+      "details": "twinkle lights, wooden stalls, warm hanging lanterns"
+    },
+
+    "lighting": {
+      "type": "warm golden fairy-light glow",
+      "mood": "cozy, festive, romantic"
+    },
+
+    "camera": {
+      "angle": "low-to-mid angle",
+      "lens_effect": "slight wide-angle with warm bloom",
+      "framing": "subject centered among Christmas lights"
+    },
+
+    "art_overlay": {
+      "style": "maximalist Christmas sweets-monster pop-art",
+      "illustrated_elements": {
+        "monsters": "gingerbread goblins, candy-cane worms, snowball blob creatures, hot-cocoa monsters with melting marshmallow faces, cookie reindeer, tiny ornament gremlins, eggnog ghosts, fruitcake beasts",
+        "graphic_shapes": "neon stars, snowflakes, sparkles, swirls, drips, zigzags, holly leaves, ribbon curls, comic bursts without text",
+        "style": "flat neon holiday palette (red, green, gold, icy blue, pink, lime) with thick black outlines"
+      },
+
+      "placement_and_density": {
+        "behind_subject": "background filled with overlapping Christmas monsters and shapes",
+        "around_subject": "monsters peeking from behind shoulders, around boots, near hair, above the bench",
+        "over_clothing": "some gingerbread creatures cling to clothing",
+        "avoid_skin": "face and hands remain fully photorealistic",
+        "depth_layers": "heavy layering front and back for strong pop-art depth",
+        "energy_effects": "glowing rim lights, falling stylized snow, neon speed lines"
+      }
+    },
+
+    "style": {
+      "overall": "cozy Christmas market portrait overwhelmed by neon festive monsters",
+      "aesthetic": "warm, chaotic, holiday-playful, surreal"
+    }
+  }

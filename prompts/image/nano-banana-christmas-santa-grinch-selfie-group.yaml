@@ -1,0 +1,33 @@
+id: nano-banana-christmas-santa-grinch-selfie-group
+title:
+  en: Christmas selfie with Santa and the Grinch
+  zh: 圣诞自拍，与圣诞老人和格林奇同框
+model: Nano Banana Pro
+mode: image-edit
+category: portrait
+tags:
+- christmas
+- selfie
+- grinch
+- santa
+source:
+  name: '@Samann_ai on X'
+  url: https://x.com/Samann_ai/status/2004584088875962826
+  credit: Saman | AI
+  likes: 33
+  captured: '2026-10-29'
+  posted: '2025-12-26'
+notes:
+  en: The prompt fixes the framing (arm length selfie, three faces filling one tight frame, same pose every time) and lists skin, fabric and lens details, so the result reads as a candid phone photo. Upload a photo of the person to fill the subject slot so their own face is kept.
+  zh: 提示词固定了构图（手臂长度的自拍视角，三张脸填满同一个紧凑画面，每次姿势相同），并列出皮肤、面料和镜头细节，因此结果看起来像随手拍的手机照片。上传本人照片填充主体位置，即可保留本人面部。
+prompt: |
+  A cozy Christmas selfie in a warm indoor living room, shot at arm’s length as if taken with a phone camera. In the center is [MAIN SUBJECT / USER FACE], same pose and framing every time: close-up to mid-torso, both arms slightly forward like holding the camera, playful expression (wink or tongue out). The subject wears a fluffy cream sherpa hoodie/sweater , and subtle brown harness-style straps.
+
+  Left side: Santa Claus close to the subject, shoulder-to-shoulder, classic friendly Santa face (realistic human Santa, not cartoon), red Santa hat, natural skin pores and beard detail visible, slightly amused expression.
+  Right side: The Grinch character close to the subject, hyper-realistic cinematic prosthetic/makeup look (not cartoony), detailed green skin texture, wrinkles, pores, and subtle facial hair/fuzz, mischievous grin.
+
+  Background: a decorated Christmas tree with warm white fairy lights and red ornaments, soft bokeh, cozy holiday decor, shallow depth of field.
+
+  Style: ultra photoreal / hyper-real, sharp micro-details (skin texture, pores, fabric fibers), realistic lens and lighting, warm tungsten indoor light with soft shadows. Add subtle film grain/noise, slight chromatic aberration, tiny imperfections to feel like a real candid photo. High dynamic range but natural.
+
+  Composition locked: three faces filling the frame, centered subject, Santa on the left, Grinch on the right, all inside one tight selfie frame.

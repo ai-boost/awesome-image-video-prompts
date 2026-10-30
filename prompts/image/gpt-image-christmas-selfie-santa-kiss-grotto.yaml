@@ -1,0 +1,57 @@
+id: gpt-image-christmas-selfie-santa-kiss-grotto
+title:
+  en: Woman kisses laughing Santa in grotto selfie
+  zh: 女子在圣诞老人脸颊上亲吻的圣诞自拍
+model: GPT Image 1.5
+mode: text-to-image
+category: portrait
+tags:
+- christmas
+- selfie
+- portrait
+source:
+  name: '@KeorUnreal on X'
+  url: https://x.com/KeorUnreal/status/2003512570150347217
+  credit: KeorUnreal
+  likes: 241
+  captured: '2026-10-29'
+  posted: '2025-12-23'
+notes:
+  en: Each subject gets its own block for identity, pose and expression, which keeps the two people distinct. The selfie viewpoint with flash and warm ambient light sets the close, candid mood.
+  zh: 每个人物单独成块，分别写明身份、姿势和表情，使两人互不混淆。自拍视角配合闪光灯与暖色环境光，营造亲近自然的氛围。
+prompt: |
+  {
+    "image_type": "photograph",
+    "perspective": "close-up selfie angle",
+    "subjects": [
+      {
+        "identity": "attractive woman",
+        "appearance": {
+          "hair": "long straight black ponytail ",
+          "skin_tone": "fair",
+          "expression": "blue eyes, puckered lips kissing Santa's cheek"
+        },
+        "clothing": "form-fitting sleeveless open gold with deep neckline sequin short dress",
+        "pose": "leaning right, left arm extended holding phone"
+      },
+      {
+        "identity": "Santa Claus",
+        "appearance": {
+          "facial_features": "older male, rosy cheeks, white beard/mustache",
+          "expression": "hearty laugh, mouth open, eyes squinted"
+        },
+        "clothing": "red Santa hat, red coat with white fur trim, black belt",
+        "pose": "standing, head tilted back laughing"
+      }
+    ],
+    "setting": {
+      "location": "indoor holiday grotto",
+      "background_elements": [
+        "bokeh Christmas tree with warm lights",
+        "wreath on dark wood wall",
+        "wrapped gifts on floor"
+      ]
+    },
+    "lighting": "flash + warm ambient, soft shadows",
+    "atmosphere": "festive joyous humorous"
+  }

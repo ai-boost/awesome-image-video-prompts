@@ -1,0 +1,27 @@
+id: nano-banana-christmas-reindeer-makeup-grid
+title:
+  en: Four panel reindeer makeup and Christmas sticker portraits
+  zh: 四格圣诞驯鹿妆与贴纸人像
+model: Nano Banana Pro
+mode: text-to-image
+category: collage
+tags:
+- christmas
+- makeup
+- collage
+- portrait
+source:
+  name: '@songguoxiansen on X'
+  url: https://x.com/songguoxiansen/status/2003467449195528253
+  credit: 松果先森
+  likes: 154
+  captured: '2026-10-29'
+  posted: '2025-12-23'
+notes:
+  en: The prompt sets a 2x2 grid and gives each cell its own pose, makeup detail and prop, while one identity lock line keeps the same woman across panels. The solid pink backdrop and ring light description fix the color and lighting so the four cells read as one set.
+  zh: 提示词设定2x2分格，为每格指定不同的姿势、妆容细节和道具，并用一句身份锁定指令让同一人物在各格保持一致。纯色粉色背景和环形灯描述统一了色调与光线，让四格看起来是同一组画面。
+prompt: |
+  (杰作, 最高画质, 超细节, 8k分辨率). 一张照片般逼真的4格分屏拼图，所有画面为同一女性角色。
+  [关键：保持精确的面部特征，保留原始脸部结构，整个拼图中角色完全一致]. 角色皮肤白皙，质感自然，眼神明亮。 左上图：特写镜头，角色化着精致的“麋鹿妆”（鼻头画红，脸颊有白色斑点），对着镜头Wink。 右上图：角色双手握拳放在头顶模仿鹿角，吐舌头卖萌，穿着棕色毛绒连帽衫。
+  左下图：角色侧身看着镜头，展示脸颊上的圣诞贴纸（雪花和铃铛图案），眼神妩媚。
+  右下图：角色正对着镜头整理刘海，手里拿着一个小圣诞树，脸上是圣诞树的贴纸，表情自然日常。 环境：粉色或蜜桃色的纯色背景。灯光：环形美妆灯，瞳孔中有漂亮的光圈，皮肤无瑕疵。风格：美妆博主风格，极度强调妆容细节，清晰对焦，少女感。

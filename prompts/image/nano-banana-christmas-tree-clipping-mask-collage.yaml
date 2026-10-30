@@ -1,0 +1,50 @@
+id: nano-banana-christmas-tree-clipping-mask-collage
+title:
+  en: Christmas tree clipping mask photo collage with sticker
+  zh: 聖誕樹剪裁蒙版四照片拼貼與貼紙
+model: Nano Banana Pro
+mode: image-edit
+category: collage
+tags:
+- christmas
+- collage
+- clipping-mask
+- portrait
+source:
+  name: '@BeautyVerse_Lab on X'
+  url: https://x.com/BeautyVerse_Lab/status/2004266176126558267
+  credit: BeautyVerse
+  likes: 46
+  captured: '2026-10-29'
+  posted: '2025-12-25'
+notes:
+  en: The white tree outline is used as a strict clipping mask, so four photos stay inside the tree while the tartan background shows outside it. Naming image_0 as the identity reference keeps the same woman consistent across all four scenes.
+  zh: 白色手繪樹形輪廓作為嚴格的剪裁蒙版，讓四張照片只出現在樹形之內，樹外保留格紋背景。以 image_0 作為人物參考，使四個場景中的人物外貌保持一致。
+prompt: |
+  A festive social media PLOG collage based on image_0.png, focusing on a specific clipping mask effect and a new corner element.
+  1. Corner Sticker Element:
+   * Placement: Positioned in the top-left corner of the composition, overlaying the plaid background.
+   * Style: A decorative, die-cut sticker or a stylized speech bubble with a slight white border, looking like it's pasted onto the background with a cute, scrapbook aesthetic.
+   * Text Content: Inside this sticker/bubble, contain the text "greetings from BeautyVerse" rendered in a playful, handwritten font.
+  2. Global Structure & Background:
+   * Background: Maintain the exact red, green, and yellow tartan plaid pattern from image_0.png.
+   * Tree Outline: Retain the large, hand-drawn white line art outline of the Christmas tree with the neon green star on top, exactly as styled in image_0.png.
+   * Clean up: Ensure the original white speech bubble (bottom left) and all previous ASCII text art are completely removed.
+  3. The Clipping Mask Logic:
+   * Constraint: The organic shape of the hand-drawn white tree outline acts as a strict clipping mask.
+   * Execution: A collage of four distinct photos must be nested strictly inside the tree boundaries. No rectangular edges or photo content should bleed outside the white line art. The tartan background must remain visible everywhere outside the tree shape.
+  4. Content of the 4 Photos:
+   * Subject Reference: The persons in these photos must closely resemble the young woman from image_0.png, maintaining consistent facial features, hair color, and high-quality photorealistic style.
+   * Top section of tree: A photo of the young woman posing happily next to a decorated Christmas tree.
+   * Middle-left section: A candid photo of the young woman sitting down, excitedly unwrapping a Christmas gift.
+   * Middle-right section: An outdoor winter photo of the young woman in gloves, holding a small snowman.
+   * Bottom section of tree: A close-up selfie of the young woman wearing a red Santa hat, winking at the camera.
+  5. Footer:
+   * The green banner at the bottom is kept.
+   * The text inside is changed to a simple, clean white font centered in the banner reading: "Merry Christmas".
+
+  #MerryChristmas #nanobanana
+  https://
+  x.com/beautyverse_la
+  /beautyverse_lab/status/2003412571395883465
+  …

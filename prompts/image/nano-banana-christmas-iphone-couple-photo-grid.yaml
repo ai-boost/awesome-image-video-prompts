@@ -1,0 +1,26 @@
+id: nano-banana-christmas-iphone-couple-photo-grid
+title:
+  en: Hand holding iPhone showing a couple photo grid
+  zh: 手持 iPhone 显示情侣照片网格
+model: Nano Banana Pro
+mode: image-edit
+category: collage
+tags:
+- christmas
+- photo-grid
+- couple
+- iphone-ui
+source:
+  name: '@Tz_2022 on X'
+  url: https://x.com/Tz_2022/status/2003298471713939941
+  credit: Tz
+  likes: 86
+  captured: '2026-10-29'
+  posted: '2025-12-18'
+notes:
+  en: The prompt describes a real phone held in hand with an iOS Photos grid and mixes many scene types such as travel, restaurant, nightclub and beach, so the grid reads as an unfiltered camera roll. Christmas street lights and falling snow in a blurred background frame the phone and set the holiday mood.
+  zh: 提示词描述了一部真实握在手中的手机，屏幕是 iOS 照片的网格视图，并混合了旅行、餐厅、夜店、海边等多种场景，使图库看起来像未经筛选的真实相册。虚化背景中的圣诞街灯和飘雪既衬托手机，也营造节日氛围。
+prompt: |
+  基于【参考照片人物】。一张极其真实的特写照片，一只手拿着一部 iPhone 15 pro。屏幕亮着，显示着苹果 iOS “照片”应用的图库网格视图。屏幕上密密麻麻的缩略图是一个非常自然、未经筛选的情侣生活记录（基于【参考照片人物】）。内容非常多样：有户外旅行的风景合照、在餐厅吃饭的抓拍、在车里的搞怪自拍、模糊的夜店或演唱会照片、海边的背影、当然也有一些居家的温馨时刻。照片的光线、色彩和风格各不相同，看起来非常真实生动。背景是虚化的繁华城市夜景，充满了圣诞节的装饰。可以看到背景中有大片的街道节日彩灯（Christmas lights）、模糊的雪花飘落，以及远处商场橱窗的节日布置。光线更加丰富多彩，营造出一种热闹的圣诞外出氛围。
+
+  （我使用了 Labnana 来获得 4K 高清无水印的 nano banana 图像 ✌️）

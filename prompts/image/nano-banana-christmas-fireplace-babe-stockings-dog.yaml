@@ -1,0 +1,35 @@
+id: nano-banana-christmas-fireplace-babe-stockings-dog
+title:
+  en: Woman holding fluffy dog under BABE stockings
+  zh: 女子抱着白色小狗 壁炉前的BABE袜子
+model: Nano Banana Pro
+mode: image-edit
+category: portrait
+tags:
+- christmas
+- portrait
+- pet
+- selfie
+source:
+  name: '@kingofdairyque on X'
+  url: https://x.com/kingofdairyque/status/2000056327020986416
+  credit: Simply Ray
+  likes: 54
+  captured: '2026-10-29'
+  posted: '2025-12-14'
+notes:
+  en: The prompt sets a casual selfie style iPhone shot with the subject close to the camera, and uses a strict face reference line to keep the identity. Spelling out the exact letters on four red plaid stockings makes the text easy to check in the result.
+  zh: 提示词以随手自拍式的手机构图设定画面，主体靠近镜头，并用参考照片锁定人脸。同时明确写出壁炉上四只红格子袜子的字母，让结果中的文字便于核对。
+prompt: |
+  Gemini nano banana pro:
+  A cozy, festive Christmas portrait captured indoors in front of a modern fireplace, styled to feel like a casual, candid iPhone holiday photo. The main character is seated in the center of the frame, holding a small fluffy dog close to their chest. Both faces are positioned near the camera, creating an intimate, warm, selfie-like composition that feels natural and unposed.
+
+  The main character wears an oversized green Christmas sweater with playful holiday patterns, relaxed and cozy in fit.Their posture is soft and affectionate, arms gently wrapped around the dog. Use the attached photo as a strict face reference — do not alter the face in any way. The facial structure, proportions, expression, skin texture, and all facial details must remain 100% identical to the reference photo, rendered with ultra-high realism and sharp focus.
+
+  The dog appears lively and joyful, tongue slightly out, with natural fur texture and a realistic expression. It sits comfortably inthe character’s arms, interacting naturally with the scene rather than posing stiffly.
+
+  In the background, a dark fireplace frame anchors the composition. Four red plaid Christmas stockings hang above it, clearly spelling “BABE.” The décor feels festive but not cluttered, maintaining a clean, cozy holiday atmosphere. Warm indoor lighting fills the room, casting soft shadows and enhancing the Christmas mood.
+
+  The lighting is natural and iPhone-like, with warm tones,gentle highlights on the face, and soft shadow falloff. There is no harsh flash — exposure feels balanced and realistic, as if captured spontaneously during a holiday moment.
+
+  Overall mood and style are cozy, playful, and affectionate, evoking a Christmas morning vibe. Textures are highly realistic, including fabric, skin, and fur. Depth of field is slightly shallow, with subtle handheld imperfections that reinforce the candid, photorealistic holiday aesthetic.

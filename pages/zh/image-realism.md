@@ -1,6 +1,6 @@
 # 写实照片
 
-[返回目录](../../README_zh.md) · 全部 86 条
+[返回目录](../../README_zh.md) · 全部 92 条
 
 <a id="gpt-image-coca-cola-tanker-leak-mentos-truck-dashcam"></a>
 ### 可口可乐罐车漏液，旁边是Mentos货车
@@ -508,6 +508,25 @@ Warm-beige skin with natural texture on shoulders, collarbones, arms, waist and 
 
 </details>
 
+<a id="nano-banana-christmas-city-books"></a>
+### 四座微缩冬日城市从古书中升起
+
+<a href="https://x.com/TechieBySA/status/1994740862656380961"><img src="../../previews/nano-banana-christmas-city-books.jpg" width="360"></a>
+
+每次只替换一个 [CITY] 占位符，书本、页面字体、机位和光线描述保持不变，因此四张结果风格统一。冷色窗光与暖色节日灯光的对比，加上微缩尺度和浅景深，让场景有纵深感。
+
+Nano Banana Pro · 文生图 · 出处: [@TechieBySA on X](https://x.com/TechieBySA/status/1994740862656380961) · 270 赞，统计于 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`miniature`](tags.md#tag-miniature) [`book-art`](tags.md#tag-book-art) [`winter`](tags.md#tag-winter)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+“A highly detailed, magical miniature winter scene of [CITY] emerging from the open pages of an old vintage book, 1080x1080 square format. The book lies on a wooden table with worn spine, aged pages, scattered coins, ornaments, and a vintage map. The visible page has “[CITY]” elegantly written in vintage typography at the top. Soft snowfall, cold winter daylight from a nearby window, delicate bokeh snow particles. In the center: iconic [CITY] landmarks covered in fresh snow, glowing with warm festive lights. Miniature Christmas market with wooden stalls, steaming drinks, food vendors, people in winter clothes leaving footprints. Snow-covered trees create a magical winter mood. Soft golden illumination, cold diffused daylight mixed with warm festive lights, cinematic shallow depth of field, hyper-detailed miniature textures, realistic snow buildup, glowing particles. Photorealistic, miniature scale, 8k, 1080x1080 square composition”
+```
+
+</details>
+
 <a id="nano-banana-surveillance-crosswalk-face-match-hud"></a>
 ### 带霓虹人脸匹配界面的监控风格路口照片
 
@@ -932,6 +951,72 @@ Nano Banana 2 · 文生图 · 出处: [@KeorUnreal on X](https://x.com/KeorUnrea
 
 ```text
 Realistic amateur indoor iphone shot of a fit londoner supermodel wearing a mini elegant tight cremisi dress with glossy cremisi high heels while laughing and drinking prosecco watching in camera in a chill beautiful sunday morning in front of Cattedrale di Santa Maria del Fiore in Firenze among flowers.
+```
+
+</details>
+
+<a id="nano-banana-christmas-polaroid-couple-red-nails"></a>
+### 手持拍立得照片，情侣穿圣诞毛衣
+
+<a href="https://x.com/astronomerozge1/status/2005010975460577581"><img src="../../previews/nano-banana-christmas-polaroid-couple-red-nails.jpg" width="360"></a>
+
+提示词把画面拆成前景、拍立得内容、背景和相机参数几个部分，手、照片和树各有独立指令。要求拍立得清晰、背景树木大光斑虚化，即可得到所需的景深和暖色光晕。
+
+Nano Banana Pro · 文生图 · 出处: [@astronomerozge1 on X](https://x.com/astronomerozge1/status/2005010975460577581) · 174 赞，统计于 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`polaroid`](tags.md#tag-polaroid) [`portrait`](tags.md#tag-portrait) [`bokeh`](tags.md#tag-bokeh)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+"scene_summary": "A realistic handheld flash photo in a cozy living room at night: a hand with glossy red French-tip nails holds a white instant-film Polaroid photo close to the camera. In the background, a decorated Christmas tree is heavily out of focus with warm golden fairy-light bokeh and red ornaments, creating a dreamy holiday glow. The Polaroid print itself is in focus and shows a cute couple selfie wearing matching red-and-white Christmas knit sweaters; their faces are softly lit like an instant camera flash, slightly imperfect and authentic (true instant-film look). The overall vibe is warm, nostalgic, and cozy.",
+      "composition": {
+        "framing": "close foreground focus on the Polaroid frame, hand visible at bottom-left holding it",
+        "depth_of_field": "very shallow DOF; tree becomes large soft bokeh circles",
+        "focus_priority": "Polaroid print + its white border tack-sharp; background strongly blurred"
+      },
+      "foreground_details": {
+        "hand": "one hand holding the Polaroid by the bottom edge, glossy nude base nails with crisp red French tips",
+        "polaroid": "classic white instant photo border, slight glare from flash, subtle paper texture, tiny imperfections like real instant film"
+      },
+      "polaroid_photo_content": {
+        "subjects": "two young adults close together in a selfie pose, wearing red-and-white Nordic Christmas sweaters",
+        "expressions": "natural casual selfie expressions, warm and slightly playful",
+        "lighting": "direct on-camera flash look inside the Polaroid image, a bit softer and slightly lower resolution than the outer photo"
+      },
+      "background": {
+        "christmas_tree": "large tree filling the background, warm white string lights, red ornaments and ribbons, heavy bokeh",
+        "environment": "cozy indoor night ambience, soft warm tones"
+      },
+      "camera_notes": {
+        "capture_style": "smartphone flash photo (iPhone vibe)",
+        "lens_feel": "26mm equivalent, close focus",
+        "exposure": "foreground properly exposed by flash; background darker but glowing bokeh"
+      },
+      "quality_rules": [
+        "photorealistic",
+        "natural skin texture (no plastic smoothing)",
+        "realistic flash reflections and glare",
+        "no watermark",
+        "no extra text"
+      ]
+    },
+    "negative_prompt": [
+      "watermark",
+      "logo",
+      "text overlay",
+      "overly smooth plastic skin",
+      "cgi look",
+      "anime",
+      "cartoon",
+      "deformed hands",
+      "extra fingers",
+      "blurry polaroid",
+      "illegible faces",
+      "overexposed blown highlights"
+    ]
+  }
+}
 ```
 
 </details>
@@ -2326,6 +2411,71 @@ QUALITY CONTROL: No distorted faces, duplicate body parts, extra limbs, malforme
 
 </details>
 
+<a id="nano-banana-christmas-doodled-plaster-cast-messages"></a>
+### 画满涂鸦与留言的石膏绷带
+
+<a href="https://x.com/KanaWorks_AI/status/2000581961451282557"><img src="../../previews/nano-banana-christmas-doodled-plaster-cast-messages.jpg" width="360"></a>
+
+这是一个带填空位的模板，方括号部分指定石膏所在的部位并由参考图生成一幅涂鸦，其余固定描述统一了留言的风格和虚化的圣诞客厅背景。
+
+Nano Banana Pro · 上传图改图 · 出处: [@KanaWorks_AI on X](https://x.com/KanaWorks_AI/status/2000581961451282557) · 44 赞，统计于 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`doodle`](tags.md#tag-doodle) [`plaster-cast`](tags.md#tag-plaster-cast) [`living-room`](tags.md#tag-living-room)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A close-up shot of 【an arm】 in a plaster cast.
+The cast is covered with doodles drawn out of boredom, 【including one doodle inspired by the reference image.】
+There are also drawings and messages from friends—some offering well wishes, others playful or teasing.
+The setting is an ordinary home living room.
+A warm Christmas atmosphere fills the scene, with the background softly blurred.
+```
+
+</details>
+
+<a id="nano-banana-rockefeller-center-christmas-coordinates"></a>
+### 夜晚的洛克菲勒中心圣诞树与溜冰场
+
+<a href="https://x.com/icreatelife/status/1992256439453417531"><img src="../../previews/nano-banana-rockefeller-center-christmas-coordinates.jpg" width="360"></a>
+
+只给出坐标和日期，模型借助地图识别地点，并据此推断当天的场景，无需描述画面。以提问代替画面描述，让模型自行判断地点与季节。
+
+Nano Banana Pro · 文生图 · 出处: [@icreatelife on X](https://x.com/icreatelife/status/1992256439453417531) · 44 赞，统计于 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`maps`](tags.md#tag-maps) [`location`](tags.md#tag-location) [`new-york`](tags.md#tag-new-york)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+The coolest thing about Nano Banana Pro is that it’s connected to the maps and understands addresses, coordinates and events!
+
+prompt: What happens at this coordinates 40.7580° N, 73.9781° W on Christmas
+
+tested it with Firefly app
+```
+
+</details>
+
+<a id="nano-banana-christmas-musk-altman-coca-cola-polaroid"></a>
+### 马斯克与奥尔特曼戴圣诞帽喝可乐
+
+<a href="https://x.com/drashyakuruwa/status/2001032870962585973"><img src="../../previews/nano-banana-christmas-musk-altman-coca-cola-polaroid.jpg" width="360"></a>
+
+提示词很短，只写了人物、饮料和圣诞帽，模型自行补充了拍立得相框、手持照片、暖色闪光灯和手写标题。加入拍立得这个词是形成复古快照效果的关键。
+
+Nano Banana Pro · 文生图 · 出处: [@drashyakuruwa on X](https://x.com/drashyakuruwa/status/2001032870962585973) · 39 赞，统计于 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`polaroid`](tags.md#tag-polaroid) [`celebrity`](tags.md#tag-celebrity) [`coca-cola`](tags.md#tag-coca-cola)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A polarised selfie photo of Elon Musk and Sam Altman drinking Coca-Cola in Christmas caps
+```
+
+</details>
+
 <a id="nano-banana-candid-izakaya-smartphone-snapshot"></a>
 ### 夜晚居酒屋里的手机抓拍照
 
@@ -2441,6 +2591,62 @@ that's a MASSIVE difference.
 
 left: OpenAI gpt images 2.5
 right: google's nano banana 2.1
+```
+
+</details>
+
+<a id="nano-banana-christmas-croissant-santa-workshop"></a>
+### 微型圣诞老人在巨型羊角面包上施工
+
+<a href="https://x.com/eachlabs/status/2004555026300080557"><img src="../../previews/nano-banana-christmas-croissant-santa-workshop.jpg" width="360"></a>
+
+结构化的 JSON 提示把主体、环境、动作和风格分开描述，让画面的每个部分都有明确指定。移轴摄影配合广角与浅景深，让微型圣诞老人看起来像真实的微缩场景。
+
+Nano Banana Pro · 文生图 · 出处: [@eachlabs on X](https://x.com/eachlabs/status/2004555026300080557) · 37 赞，统计于 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`tilt-shift`](tags.md#tag-tilt-shift) [`miniature`](tags.md#tag-miniature) [`food`](tags.md#tag-food)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+{
+      "id": 20,
+      "title": "Christmas Croissant Workshop",
+      "subject": {
+        "main_element": "Freshly baked croissant",
+        "orientation": "Placed diagonally to emphasize flaky layers",
+        "details": [
+          "Golden crispy exterior",
+          "Visible butter layers",
+          "Light steam rising"
+        ]
+      },
+      "environment": {
+        "setting": "Christmas-themed bakery counter with fairy lights and pine decorations",
+        "elements": [
+          "Miniature scaffolding between pastry layers",
+          "Tiny Santa Claus workers in red suits and hats",
+          "Small Christmas ornaments and candy canes around the scene"
+        ]
+      },
+      "action": [
+        "Santa Claus figures brushing melted butter",
+        "Aligning flaky layers carefully",
+        "Inspecting crispness with festive tools"
+      ],
+      "style": {
+        "camera_view": "Wide-angle view",
+        "technique": "Highly detailed tilt-shift photography",
+        "focus": "Shallow depth of field",
+        "atmosphere": "Warm, cozy, cinematic Christmas bakery lighting"
+      },
+      "parameters": {
+        "aspect_ratio": "--ar 4:3",
+        "reference_constraint": ""
+      }
+    }
+  ]
+}
 ```
 
 </details>

@@ -1,0 +1,30 @@
+id: nano-banana-christmas-rainbow-devil-ugly-sweater
+title:
+  en: Rainbow devil in ugly Christmas sweater
+  zh: 彩虹色恶魔穿丑毛衣
+model: Nano Banana Pro
+mode: image-edit
+category: character
+tags:
+- christmas
+- ugly-sweater
+- image-reference
+source:
+  name: '@GlennHasABeard on X'
+  url: https://x.com/GlennHasABeard/status/1997651720550121815
+  credit: Glenn Williams
+  likes: 46
+  captured: '2026-10-29'
+  posted: '2025-12-07'
+notes:
+  en: The [IMAGE REFERENCE] slot takes any subject photo or character, so the same sweater recipe can be reused on different people. The comma separated list pins the knit details, reindeer, tinsel, pom poms and clashing red and green, while the oversized fit and proud grin set the cozy tacky mood.
+  zh: '[IMAGE REFERENCE] 占位符可以接收任意人物照片或角色参考图，同一套毛衣描述可以反复套用。逗号分隔的短语锁定针织纹样、驯鹿、金银丝带、绒球和红绿撞色，宽松版型与得意的笑容则营造出俗气又温暖的氛围。'
+prompt: |
+  Here's another fun Nano Banana Pro prompt to get festive
+
+  {
+    "theme": "ugly_christmas_sweater",
+    "prompt": "[IMAGE REFERENCE] wearing chunky knit ugly Christmas sweater, garish holiday patterns, embroidered reindeer and snowflakes, tacky tinsel trim, pom pom accents, clashing red and green, oversized cozy fit, proud grin"
+  }
+
+  Change it up a bit and let's get this Ugly Christmas Sweater party started!

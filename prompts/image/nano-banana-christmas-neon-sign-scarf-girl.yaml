@@ -1,0 +1,37 @@
+id: nano-banana-christmas-neon-sign-scarf-girl
+title:
+  en: Girl in scarf as neon sign on brick
+  zh: 围巾女孩霓虹灯牌挂在砖墙上
+model: Nano Banana Pro
+mode: image-edit
+category: photo-to-art
+tags:
+- neon-sign
+- brick-wall
+- image-to-neon
+source:
+  name: '@konmari_tweet on X'
+  url: https://x.com/konmari_tweet/status/2002180864902639789
+  credit: konmari
+  likes: 47
+  captured: '2026-10-29'
+  posted: '2025-12-20'
+notes:
+  en: The prompt asks the model to act as a sign maker and rebuild the input's contours as bent neon tubing, with electrodes and insulators visible. Palette is pulled from the source colours and the dark brick wall gives the glow contrast.
+  zh: 提示词让模型扮演霓虹灯制作师，把原图轮廓重构为弯曲的玻璃灯管，并保留电极和绝缘子等细节。颜色取自原图主色，深色砖墙让光晕更突出。
+prompt: |
+  **[AI Instruction: Structural Translation]**
+  Analyze the provided **[Input Image]**. Act as a professional neon sign manufacturer. Your task is to transform the exact visual subject, lines, and contours of the **[Input Image]** into a physical neon light installation. Do not change the composition or subject matter; simply "construct" it using neon tubes.
+
+  **[Subject & Construction]**
+  A hyper-realistic, macro photograph of a custom-made neon sign based on the **[Input Image]**. The lines and shapes of the original image are replaced by **bent glass neon tubing**.
+  - **Contours:** The main outlines are converted into bright, glowing neon tubes.
+  - **Details:** Finer details are simplified into stylized neon strokes, maintaining the recognizability of the original subject.
+  - **Material:** Real glass texture with visible electrodes, connecting wires, and black insulators holding the tubes off the wall.
+
+  **[Lighting & Color]**
+  - **Colors:** Pull the dominant colors from the **[Input Image]** and convert them into vibrant, saturated neon gas colors (electric blue, hot pink, warm white, etc.).
+  - **Glow:** The sign emits a strong, hazy light that reflects realistically on the wall behind it.
+
+  **[Environment]**
+  Mounted on a **dark, textured brick or concrete wall** to maximize contrast. The atmosphere is cinematic, moody, and electric. 8k resolution, ray-tracing rendering, high fidelity.

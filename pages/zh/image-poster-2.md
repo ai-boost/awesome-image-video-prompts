@@ -1,6 +1,45 @@
 # 海报与编辑排版
 
-[返回目录](../../README_zh.md) · 全部 195 条 · [1](image-poster.md) · **2**
+[返回目录](../../README_zh.md) · 全部 197 条 · [1](image-poster.md) · **2**
+
+<a id="gpt-image-move-breakdance-poster"></a>
+### 霹雳舞者穿插于巨型 MOVE 字母之间
+
+<a href="https://x.com/MrLarus/status/2115472681206518096"><img src="../../previews/gpt-image-move-breakdance-poster.jpg" width="360"></a>
+
+一个带填空位的模板，只指定一种技法即巨型字母穿插，要求主体与超大标题相互遮挡而非简单叠放。限定配色、泛黄纸底和套印偏移等细节，营造独立展览海报的印刷质感。
+
+GPT Image 2.5 · 文生图 · 出处: [@MrLarus on X](https://x.com/MrLarus/status/2115472681206518096) · 21 赞，统计于 2026-10-29
+
+[`poster`](tags.md#tag-poster) [`typography`](tags.md#tag-typography) [`japanese-design`](tags.md#tag-japanese-design) [`template`](tags.md#tag-template)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Poster Theme: [Fill in Theme]
+Main Title: [Fill in Title]
+Subtitle: [Fill in Subtitle]
+Core Visual Elements: [Fill in Main Subject]
+Visual Design Technique: [Giant Letter Interspersion / Overprinting Misalignment / Letterform Labyrinth / Geometric Refraction, Choose One]
+Primary Color Scheme: [Fill in Color Palette]
+Exhibition Information: [Fill in Date, Location, etc.]
+
+Design a 9:16 vertical Japanese experimental art poster that fuses Japanese retro graphic design, modern typeface experimentation, and art exhibition visuals. The overall piece should feature a distinct design language, like a professionally laid-out independent art exhibition poster.
+
+Use an oversized title as the primary visual structure of the composition, creating a tangible spatial relationship between the text and core elements. Through interspersion, occlusion, overprinting misalignment, or letterform distortion, craft surprising yet logical visual effects.
+
+The main subject and typography should influence each other, rather than simply being layered on top. Enlarge the most expressive letters or characters, using cropping, overlapping, and scale contrast to ensure viewers immediately spot the visual focal point.
+
+Employ a limited palette of high-contrast colors, paired with a cream-colored aged paper background, natural ink speckles, and vintage printing texture. Subtle areas of color misregistration, edge wear, and silkscreen grain can be retained locally.
+
+Typography should blend large English titles, vertical Chinese or Japanese text, refined English subtitles, and exhibition details. Establish a clear reading hierarchy through font size, weight, and whitespace.
+
+Auxiliary text, geometric markers, and fine lines can be distributed along the edges, but they must revolve around the theme. The composition should feel information-rich while maintaining a clear visual center and comfortable reading rhythm.
+
+The overall image needs to evoke a complete sense of an artwork with strong thumbnail recognizability. Highlight just one core visual technique per piece, avoiding cluttered elements, garbled text, cheap effects, or ordinary text overlays.
+```
+
+</details>
 
 <a id="gpt-image-four-decades-mascot-collage-poster"></a>
 ### 1950年代至1980年代四格拟人海报

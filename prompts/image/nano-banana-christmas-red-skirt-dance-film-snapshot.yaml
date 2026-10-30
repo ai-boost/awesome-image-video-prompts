@@ -1,0 +1,24 @@
+id: nano-banana-christmas-red-skirt-dance-film-snapshot
+title:
+  en: Woman dancing in red skirt by Christmas tree
+  zh: 红裙女子在圣诞树旁跳舞
+model: Nano Banana Pro
+mode: text-to-image
+category: portrait
+tags:
+- christmas
+- film-grain
+- vintage-photo
+- candid
+source:
+  name: '@craftian_keskin on X'
+  url: https://x.com/craftian_keskin/status/2004992718154633573
+  credit: Keskin
+  likes: 295
+  captured: '2026-10-29'
+  posted: '2025-12-23'
+notes:
+  en: A candid, documentary framing comes from a low close camera angle and a mid-motion pose, while film grain, muted contrast, a faded palette and vignette texture give it an analog snapshot look. Listing the room details (lit tree, wrapped presents, out of focus guests on couches) builds depth and a lived-in feel.
+  zh: 低机位近距离的构图和动态姿势营造出纪实抓拍感，颗粒感、低对比度、褪色色调和暗角纹理则模拟胶片快照的质感。对房间细节的描述（亮灯的圣诞树、礼物、焦外沙发上的人群）增加了层次和生活气息。
+prompt: |
+  A candid indoor holiday scene photographed in a warm, nostalgic vintage style. A cozy living room decorated for Christmas, with a fully lit Christmas tree in the background adorned with glowing string lights, ornaments, and a tree topper. Wrapped presents sit beneath the tree, adding soft points of warm light. The room feels intimate and lived-in, with framed photos on the wall and people seated casually on couches in the background, slightly out of focus. In the foreground, a young beautiful attractive blond adult woman is captured mid-movement, dancing naturally. She is smiling while looking slightly downward, joyful and relaxed. She wears a green knit sweater with a subtle festive pattern, tucked into a high-waisted red skirt. A slim belt cinches the waist. She has a red headband in her hair, which is medium-length, brown, and softly styled with natural volume. Her makeup is minimal and natural, emphasizing a warm smile and expressive eyes. Her posture shows motion, one leg bent, hips angled, arms loose, giving the image a spontaneous, authentic feel. The camera angle is slightly low and close, creating a dynamic perspective and emphasizing movement. Lighting is warm and soft, typical of indoor incandescent bulbs and Christmas lights. The image has visible film grain, slight blur from motion, muted contrast, and a faded color palette reminiscent of analog film photography from the late 1990s or early 2000s. Subtle vignetting and texture overlay give the image a scanned photo look. Photorealistic but nostalgic, documentary-style family snapshot, imperfect and charming. No studio lighting, no posed feeling, pure candid holiday moment.

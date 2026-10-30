@@ -1,0 +1,24 @@
+id: nano-banana-christmas-desk-figurines-computer
+title:
+  en: Christmas figurine sets on computer desks
+  zh: 电脑桌上的圣诞手办组合
+model: Nano Banana Pro
+mode: image-edit
+category: character
+tags:
+- christmas
+- figurine
+- desk-scene
+- multi-pose
+source:
+  name: '@KanaWorks_AI on X'
+  url: https://x.com/KanaWorks_AI/status/2001272403314516199
+  credit: KANA｜東京AI映像
+  likes: 51
+  captured: '2026-10-29'
+  posted: '2025-12-17'
+notes:
+  en: Feeding a reference character and asking for several poses at once yields a consistent set of miniature figures. Naming the desk and the computer in front of it anchors the scale, the warm lamp light and the fairy-light props.
+  zh: 给出参考角色并一次要求多种姿势，可以得到风格统一的一组微缩手办。明确指定桌面和电脑前的摆放位置，能固定比例、暖色台灯光线和彩灯等道具。
+prompt: |
+  Turn the character in the reference image into tabletop Christmas creative figurines in different poses, and place them on a desk in front of a computer.

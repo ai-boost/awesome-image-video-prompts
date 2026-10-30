@@ -1,0 +1,24 @@
+id: nano-banana-red-jacket-spiral-christmas-tree
+title:
+  en: Red jacket faces repeated into a spiral tree
+  zh: 红夹克人脸重复排列成螺旋圣诞树
+model: Nano Banana Pro
+mode: image-edit
+category: collage
+tags:
+- christmas
+- fractal
+- spiral
+- repetition
+source:
+  name: '@gizakdag on X'
+  url: https://x.com/gizakdag/status/1996938549694800304
+  credit: Gizem Akdag
+  likes: 122
+  captured: '2026-10-29'
+  posted: '2025-12-03'
+notes:
+  en: Attaching one portrait and asking for it repeated along a fractal spiral keeps the same subject in every copy. Shrinking the repeats toward the top on a plain white background makes the tree silhouette read clearly.
+  zh: 附上一张人像作为重复单元，并要求沿分形螺旋排列，每个副本都保留同一人物。顶部逐渐缩小、白色背景让树形轮廓清晰可辨。
+prompt: |
+  A creative Christmas tree made entirely from repeated copies of the attached image, arranged in a fractal spiral pattern that forms a triangular Christmas tree silhouette. The repetitions should shrink in scale as they ascend, creating a dynamic visual rhythm. The base of the tree is wide, with larger repeated figures, gradually tapering upward into smaller and tighter spirals. Clean white background, crisp high-contrast edges, graphic design aesthetic, bold visual geometry. The composition should feel cinematic, iconic, and surreal, with perfect alignment and smooth fractal flow, forming a recognizable Christmas tree shape while still showcasing the repeated character from the uploaded image.

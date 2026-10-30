@@ -1,0 +1,71 @@
+id: nano-banana-christmas-polaroid-couple-red-nails
+title:
+  en: Hand holding Polaroid of couple in Christmas sweaters
+  zh: 手持拍立得照片，情侣穿圣诞毛衣
+model: Nano Banana Pro
+mode: text-to-image
+category: realism
+tags:
+- christmas
+- polaroid
+- portrait
+- bokeh
+source:
+  name: '@astronomerozge1 on X'
+  url: https://x.com/astronomerozge1/status/2005010975460577581
+  credit: Özge Döner
+  likes: 174
+  captured: '2026-10-29'
+  posted: '2025-12-27'
+notes:
+  en: The JSON splits the scene into foreground, Polaroid content, background and camera notes, so the hand, the print and the tree each get their own instruction. Asking for a sharp Polaroid against a heavily blurred tree produces the depth and glow the scene needs.
+  zh: 提示词把画面拆成前景、拍立得内容、背景和相机参数几个部分，手、照片和树各有独立指令。要求拍立得清晰、背景树木大光斑虚化，即可得到所需的景深和暖色光晕。
+prompt: |
+  "scene_summary": "A realistic handheld flash photo in a cozy living room at night: a hand with glossy red French-tip nails holds a white instant-film Polaroid photo close to the camera. In the background, a decorated Christmas tree is heavily out of focus with warm golden fairy-light bokeh and red ornaments, creating a dreamy holiday glow. The Polaroid print itself is in focus and shows a cute couple selfie wearing matching red-and-white Christmas knit sweaters; their faces are softly lit like an instant camera flash, slightly imperfect and authentic (true instant-film look). The overall vibe is warm, nostalgic, and cozy.",
+        "composition": {
+          "framing": "close foreground focus on the Polaroid frame, hand visible at bottom-left holding it",
+          "depth_of_field": "very shallow DOF; tree becomes large soft bokeh circles",
+          "focus_priority": "Polaroid print + its white border tack-sharp; background strongly blurred"
+        },
+        "foreground_details": {
+          "hand": "one hand holding the Polaroid by the bottom edge, glossy nude base nails with crisp red French tips",
+          "polaroid": "classic white instant photo border, slight glare from flash, subtle paper texture, tiny imperfections like real instant film"
+        },
+        "polaroid_photo_content": {
+          "subjects": "two young adults close together in a selfie pose, wearing red-and-white Nordic Christmas sweaters",
+          "expressions": "natural casual selfie expressions, warm and slightly playful",
+          "lighting": "direct on-camera flash look inside the Polaroid image, a bit softer and slightly lower resolution than the outer photo"
+        },
+        "background": {
+          "christmas_tree": "large tree filling the background, warm white string lights, red ornaments and ribbons, heavy bokeh",
+          "environment": "cozy indoor night ambience, soft warm tones"
+        },
+        "camera_notes": {
+          "capture_style": "smartphone flash photo (iPhone vibe)",
+          "lens_feel": "26mm equivalent, close focus",
+          "exposure": "foreground properly exposed by flash; background darker but glowing bokeh"
+        },
+        "quality_rules": [
+          "photorealistic",
+          "natural skin texture (no plastic smoothing)",
+          "realistic flash reflections and glare",
+          "no watermark",
+          "no extra text"
+        ]
+      },
+      "negative_prompt": [
+        "watermark",
+        "logo",
+        "text overlay",
+        "overly smooth plastic skin",
+        "cgi look",
+        "anime",
+        "cartoon",
+        "deformed hands",
+        "extra fingers",
+        "blurry polaroid",
+        "illegible faces",
+        "overexposed blown highlights"
+      ]
+    }
+  }

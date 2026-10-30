@@ -1,6 +1,38 @@
 # Posters and editorial layouts
 
-[Back to the list](../../README.md) · All 195 entries · [1](image-poster.md) · **2**
+[Back to the list](../../README.md) · All 197 entries · [1](image-poster.md) · **2**
+
+<a id="nano-banana-christmas-city-diorama-template-grid"></a>
+### Isometric Christmas city dioramas on red
+
+<a href="https://x.com/TechieBySA/status/2003053984454734030"><img src="../../previews/nano-banana-christmas-city-diorama-template-grid.jpg" width="360"></a>
+
+A single [CITY] slot drives the whole layout, so each city gets the same fixed 45 degree top down camera, centered diorama base, and text hierarchy with the city name over CHRISTMAS EDITION. The locked red background and automatic white or black text contrast keep the four cities consistent as a series.
+
+Nano Banana Pro · Text-to-image · Source: [@TechieBySA on X](https://x.com/TechieBySA/status/2003053984454734030) · 35 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`isometric`](tags.md#tag-isometric) [`diorama`](tags.md#tag-diorama) [`template`](tags.md#tag-template)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+“Present a clear, 45° top-down isometric miniature 3D cartoon scene of [CITY], centered in the composition.
+Depict the city in a festive Christmas theme with seasonal decorations, glowing lights, and appropriate winter or holiday details.
+
+Use soft refined textures, realistic PBR materials, and gentle lifelike lighting with subtle shadows.
+Create a small raised diorama-style city base with clean edges.
+
+Use a clean red christmas background color that contrasts well with the scene.
+
+At the top-center, display [CITY] in large bold text.
+Directly beneath it, display CHRISTMAS EDITION in medium text.
+Optionally place a small round national flag icon below the text.
+
+All text must automatically match background contrast (white or black).
+Composition: perfectly centered, square 1080×1080, ultra-clean festive diorama aesthetic.”
+```
+
+</details>
 
 <a id="gpt-image-move-breakdance-poster"></a>
 ### Breakdancer crashing through giant MOVE letters

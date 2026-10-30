@@ -1,0 +1,27 @@
+id: nano-banana-christmas-snow-globe-sulky-character
+title:
+  en: Four sulky characters sealed inside Christmas snow globes
+  zh: 四个生气的角色被封进圣诞水晶球
+model: Nano Banana Pro
+mode: image-edit
+category: character
+tags:
+- christmas
+- snow-globe
+- macro
+- reference-image
+source:
+  name: '@KanaWorks_AI on X'
+  url: https://x.com/KanaWorks_AI/status/2001583779274743896
+  credit: KANA｜東京AI映像
+  likes: 49
+  captured: '2026-10-29'
+  posted: '2025-12-16'
+notes:
+  en: A reference image slot lets one template place any character inside the globe, while the seated pose, folded arms and sulky stare set the mood. Macro framing, shallow depth of field and firelight refracted through the glass create the warm, melancholy atmosphere.
+  zh: 参考图占位让同一模板可以把任意角色放进水晶球，坐姿、抱臂和生气的神情定下基调。微距构图、浅景深和穿过玻璃折射的炉火光，营造出温暖又带点忧伤的氛围。
+prompt: |
+  Close-up shot.
+  On a fireplace mantel filled with Christmas atmosphere sits a crystal-clear snow globe. Warm flames burn softly in the background, and the orange-golden firelight refracts through the glass, creating a gentle glow.
+  Inside the snow globe, 【the character from the reference image 】is trapped within. He sits cross-legged in a sulky pose, arms folded across his chest, staring angrily at the camera with a look of helpless resignation. Around the scene are Christmas pine branches, red ribbons, candles, and softly blurred festive lights, giving the image a warm feeling tinged with subtle tension and fairytale-like melancholy.
+  Macro photography, shallow depth of field, highly detailed glass reflections, volumetric lighting, warm color palette, cinematic mood, fantasy realism style

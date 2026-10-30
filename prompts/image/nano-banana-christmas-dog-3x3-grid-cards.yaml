@@ -1,0 +1,76 @@
+id: nano-banana-christmas-dog-3x3-grid-cards
+title:
+  en: Nine Christmas portraits of one fluffy dog
+  zh: 一只毛茸茸的狗的九张圣诞肖像
+model: Nano Banana Pro
+mode: image-edit
+category: collage
+tags:
+- christmas
+- dog
+- pet-portrait
+- grid
+source:
+  name: '@VibeMarketer_ on X'
+  url: https://x.com/VibeMarketer_/status/1995520270824804642
+  credit: J.B.
+  likes: 31
+  captured: '2026-10-29'
+  posted: '2025-12-01'
+notes:
+  en: The reference photo locks the dog's likeness, then nine specific scenes cover settings, props and studio looks so the set reads as one holiday card collection. Repeating a warm red, green and gold palette and cinematic lighting keeps the grid balanced.
+  zh: 参考照片锁定狗的外形，再用九个具体场景覆盖布景、道具和棚拍风格，让整组看起来像同一套节日卡片。统一的暖色调、红绿金配色和电影感光线使九宫格保持协调。
+prompt: |
+  Create a full Instagram-style 3×3 grid composed of nine different portrait images, all featuring the same dog from the attached reference photo.
+
+  Use the reference photo only to ensure perfect likeness of the dog:
+  – same fur color and pattern
+  – same face shape
+  – same proportions
+  – same expression style
+
+  Christmas-Themed Scenario Requirements
+  Each of the nine tiles should place the dog in a unique, heartwarming, funny, or cinematic Christmas scene, as if the dog is starring in her own holiday card collection.
+  Include a variety of concepts such as:
+
+  Classic Christmas Settings
+  Dog sitting in front of a decorated Christmas tree
+  Dog by a fireplace with stockings and warm golden lights
+  Dog wrapped in soft Christmas lights or garlands (safe, relaxed vibe)
+  Funny Holiday Scenarios
+  Dog dressed as Santa’s little helper
+  Dog popping out of a Christmas gift box
+  Dog wearing reindeer antlers, Santa hat, or cozy scarf
+  Dog sitting proudly at a holiday dinner table like she’s hosting
+  Outdoor Winter Magic
+  Dog in a snowy forest with falling snow
+  Dog wearing winter booties or a tiny jacket
+  Dog on a sled or beside a snowman
+
+  Cozy Indoor Moments
+
+  Dog lying on a holiday blanket with hot cocoa props
+  Dog curled up under a Christmas tree skirt
+  Dog “helping” wrap presents
+  Studio & Commercial Holiday Looks
+
+  Clean studio shots with bold red/green backdrops
+
+  Gift-wrapped product-style poses
+  “Holiday catalog” aesthetic with soft lighting
+
+  Image Quality & Aesthetic Requirements
+
+  All images must be hyperrealistic, with:
+
+  Accurate fur texture
+  Clean, consistent likeness across all nine shots
+  Professional depth of field
+  Cinematic lighting and holiday color tones
+  Warm, festive color grading (reds, greens, golds)
+  Sharp details and high-end portrait quality
+  Balanced aesthetic across the grid (feels like a unified Christmas card set)
+
+  Final Deliverable
+
+  A 3×3 Instagram-style grid of nine separate 3:4 ratio hyperrealistic Christmas-themed portraits featuring ONLY the dog.

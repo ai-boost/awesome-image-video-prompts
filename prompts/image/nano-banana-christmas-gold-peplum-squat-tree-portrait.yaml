@@ -1,0 +1,32 @@
+id: nano-banana-christmas-gold-peplum-squat-tree-portrait
+title:
+  en: Woman squatting by Christmas tree in gold peplum
+  zh: 圣诞树旁蹲姿女子穿金色荷叶边上衣
+model: Nano Banana Pro
+mode: text-to-image
+category: portrait
+tags:
+- christmas
+- portrait
+- fashion
+- structured-prompt
+source:
+  name: '@i_am_shruti68 on X'
+  url: https://x.com/i_am_shruti68/status/2005090085386289397
+  credit: Shruti Singh
+  likes: 32
+  captured: '2026-10-29'
+  posted: '2025-12-27'
+notes:
+  en: A structured JSON prompt splits subject, outfit, pose, makeup, environment, lighting and camera into separate fields so each element stays controllable. The explicit mixed lighting description and the slightly high medium shot give the photorealistic cinematic look.
+  zh: 结构化 JSON 提示把主体、服装、姿势、妆容、环境、光线和镜头拆成独立字段，便于逐项控制。明确的混合光线描述和略高角度的中景镜头带来写实的电影感。
+prompt: |
+  {
+    "subject": "A young woman with long, straight hair center-parted, creating a chic and glamorous look. Her nails are short and painted with a dark, glossy polish.",
+    "outfit": "Strapless metallic gold foil textured peplum top with voluminous tiered ruffles, sheer black pantyhose (tights), zebra print platform block heel sandals with black ankle straps, chunky gold cuff bracelet adorned with large emerald green and burgundy gemstones.",
+    "pose": "Crouching down low in a deep squat pose, resting her right hand against her cheek and chin in a pensive or bored manner, with her left arm hanging loosely between her bent knees.",
+    "makeup": "Glamorous makeup featuring a defined neutral smokey eye with sharp black winged eyeliner, sculpted contouring on cheekbones, and matte nude-mauve lipstick.",
+    "environment": "Luxurious holiday interior; to the left is a majestic floor-to-ceiling Christmas tree with dense branches illuminated by thousands of warm white fairy lights and vintage red baubles. To the right are black-framed glass French doors with a view of a garden, framed by tall mustard-yellow velvet curtains. The floor is dark polished wood covered with a fluffy white faux fur rug.",
+    "lighting": "Mixed lighting atmosphere; warm ambient glow from the Christmas tree lights casting golden highlights, balanced by soft natural daylight entering from the glass doors on the right, creating a high-quality, photorealistic cinematic look.",
+    "camera_angle": "Medium shot taken from a slightly high angle, looking down towards the subject in the squatting pose."
+  }

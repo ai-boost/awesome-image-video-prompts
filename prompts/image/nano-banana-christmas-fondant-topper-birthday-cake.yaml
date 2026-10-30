@@ -1,0 +1,36 @@
+id: nano-banana-christmas-fondant-topper-birthday-cake
+title:
+  en: Teal birthday cake with fondant girl topper
+  zh: 蓝绿色生日蛋糕配糖霜少女摆件
+model: Nano Banana Pro
+mode: image-edit
+category: edit
+tags:
+- cake
+- food-photography
+source:
+  name: '@konmari_tweet on X'
+  url: https://x.com/konmari_tweet/status/2000349853852062001
+  credit: konmari
+  likes: 66
+  captured: '2026-10-29'
+  posted: '2025-12-14'
+notes:
+  en: The prompt maps the input image's dominant colors to a cake flavor and icing palette, then turns the subject into an edible topper. Asking for a sugar or chocolate finish keeps the character recognizable while making it read as a real cake decoration.
+  zh: 提示词先从输入图提取主色，决定蛋糕口味和奶油配色，再把主体转成可食用的装饰摆件。要求呈现糖制或巧克力质感，既保留角色辨识度，又让它像真正的蛋糕装饰。
+prompt: |
+  **[AI Instruction: Image-to-Edible Art]**
+  Analyze the provided **[Input Image]**.
+  1.  **Flavor & Palette:** Extract the dominant colors to determine the cake's flavor theme (e.g., Pink=Strawberry, Brown=Chocolate, Blue=Vanilla/Mint) and icing colors.
+  2.  **Edible Motif:** Transform the main character or object in the [Input Image] into a high-quality **edible cake topper** (e.g., detailed fondant figure, royal icing cookie, or chocolate sculpture).
+
+  **[Main Subject]**
+  A delicious, high-end **Designer Birthday Cake** placed on a ceramic cake stand. The design is celebratory, sweet, and perfectly color-coordinated with the input image.
+
+  **[Thematic Decoration]**
+  * **The Topper:** The [Input Image] subject sits proudly on top as a cute, edible decoration. It retains the original design but looks distinctively made of sugar or chocolate.
+  * **Details:** Decorated with piped buttercream swirls, fresh fruits, macarons, sprinkles, and edible pearls that match the [Input Image]'s color palette.
+  * **Texture:** Soft sponge, glossy ganache drip, fluffy whipped cream.
+
+  **[Atmosphere]**
+  Bright café lighting, mouth-watering food photography, 8k resolution, macro shot focusing on the details of the sweets.

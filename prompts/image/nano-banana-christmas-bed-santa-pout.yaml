@@ -1,0 +1,50 @@
+id: nano-banana-christmas-bed-santa-pout
+title:
+  en: Woman in Santa outfit pouting on bed
+  zh: 穿圣诞装的女子趴在床上撅嘴
+model: Nano Banana Pro
+mode: text-to-image
+category: portrait
+tags:
+- christmas
+- portrait
+- json-prompt
+- high-angle
+source:
+  name: '@xmliisu on X'
+  url: https://x.com/xmliisu/status/2000961513985601954
+  credit: Melisa♡
+  likes: 436
+  captured: '2026-10-29'
+  posted: '2025-12-16'
+notes:
+  en: A nested JSON spec separates subject, pose, outfit, setting and camera, so each detail such as the hat, French-tip nails and crossed ankles gets its own field. The explicit high angle and vertical orientation set the framing.
+  zh: 嵌套的 JSON 结构把主体、姿势、服装、场景和镜头分开描述，帽子、法式美甲、交叉脚踝等细节各占一个字段。明确的俯拍角度和竖向构图决定了画面取景。
+prompt: |
+  {
+    "subject": {
+      "description": "Young woman lying on a bed",
+      "pose": "Lying on stomach, propped up on elbows, legs raised and crossed at the ankles behind her",
+      "expression": "Pouting lips, looking directly at the camera",
+      "hair": "Long, dark brown, loose and straight",
+      "clothing": {
+        "hat": "Red and white Santa hat with white fur trim and pom-pom",
+        "outfit": "Red velvet long-sleeved dress or top with white fur cuffs",
+        "stockings": "Sheer white thigh-high stockings"
+      },
+      "hands": "Right hand raised near face, showing manicured nails with red French tips"
+    },
+    "setting": {
+      "location": "Bedroom interior",
+      "furniture": "Bed with white linens and pillows",
+      "background_elements": [
+        "Cream-colored walls with decorative molding",
+        "Lamp with a pleated shade",
+        "Christmas garland with lights attached to wall/headboard",
+        "Small Christmas tree with lights in the distance"
+      ]
+    },
+    "lighting": "Warm, indoor ambient lighting",
+    "perspective": "High angle, looking down at the subject",
+    "orientation": "Vertical"
+  }

@@ -1,6 +1,6 @@
 # 照片转艺术风格
 
-[返回目录](../../README_zh.md) · 全部 99 条
+[返回目录](../../README_zh.md) · 全部 104 条
 
 <a id="gpt-image-photo-to-watercolor-travel"></a>
 ### 上半旅行照片，下半同一场景水彩画
@@ -798,6 +798,31 @@ The subject is a stylish young woman with long flowing hair, wearing an open dar
 Illuminate the portrait with intense red neon rim lighting that traces the contours of her hair, face, shoulders, and clothing, creating a dramatic glow against the monochrome artwork. The red highlights should add depth, separation, and a futuristic cinematic atmosphere without overpowering the black-and-white design.
 
 Set against a pure black background, emphasizing strong contrast and visual impact. Style the artwork with sharp vector edges, bold shadows, clean negative space, graphic-novel aesthetics, modern streetwear fashion energy, and premium poster-quality composition. Ultra-detailed yet minimalist, edgy, contemporary, visually powerful, and magazine-cover worthy. Strong confident female presence, cinematic attitude, luxury editorial feel, and flawless vector illustration quality.
+```
+
+</details>
+
+<a id="nano-banana-tiny-christmas-mason-jar-person"></a>
+### 玻璃罐圣诞雪景球里的迷你人像
+
+<a href="https://x.com/Samann_ai/status/1998013173123686795"><img src="../../previews/nano-banana-tiny-christmas-mason-jar-person.jpg" width="360"></a>
+
+提示词通过声明小人与圣诞树身高一致来固定比例，并用人脸匹配和禁止变形的条款锁定身份。雪床、玻璃上的雪花和灯串反光等分层细节，让微缩场景有了纵深感。
+
+Nano Banana Pro · 上传图改图 · 出处: [@Samann_ai on X](https://x.com/Samann_ai/status/1998013173123686795) · 344 赞，统计于 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`mason-jar`](tags.md#tag-mason-jar) [`snow-globe`](tags.md#tag-snow-globe) [`portrait`](tags.md#tag-portrait)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+{
+  "model": "image-generation",
+  "input_image": "<PERSON_IMAGE>",
+  "prompt": "Ultra realistic vertical Christmas photo of a closed clear glass mason jar snow globe on a rustic wooden table. Warm golden bokeh Christmas lights in the blurred background, soft shallow depth of field. Inside the jar, on a thick layer of fluffy white artificial snow with a few sparkling silver beads and bright red berries, there are two tiny subjects: one snowy green bottle-brush Christmas tree and, next to it, a tiny highly detailed realistic person that looks exactly like the person in the input image. The tiny person is standing on the snow, same scale as the tree, wearing festive Christmas clothes (cozy knitted Christmas sweater, winter pants, small boots, and a red Santa hat with white fur trim). The person’s face, hair, skin tone, and unique features clearly match the input photo, with a gentle happy smile, looking slightly toward the camera. Frosted snowflakes are painted on the glass of the jar. Warm white fairy lights wrap loosely around the jar on the wooden table, creating glowing reflections on the glass. Hyper realistic, 8K, crisp details, natural lighting, cinematic look, no distortion of the person’s face.",
+  "size": "1024x1792",
+  "n": 1
+}
 ```
 
 </details>
@@ -2798,6 +2823,33 @@ No color, no watercolor, no ink, no oil painting, no digital painting, no cartoo
 
 </details>
 
+<a id="nano-banana-christmas-snow-globe-blowing-snow-portrait"></a>
+### 女子在巨型圣诞雪球中吹雪
+
+<a href="https://x.com/songguoxiansen/status/2002370189384691980"><img src="../../previews/nano-banana-christmas-snow-globe-blowing-snow-portrait.jpg" width="360"></a>
+
+提示词通过方括号内的人脸一致性指令保留原图人物面部，再分层描述场景（球内、球外背景、光线、技术参数），明确处理玻璃折射以及暖色灯串与冷色雪光的混合。把玻璃描述为会弯折背后房间的透镜，是产生彩虹棱镜边缘效果的关键。
+
+Nano Banana Pro · 上传图改图 · 出处: [@songguoxiansen on X](https://x.com/songguoxiansen/status/2002370189384691980) · 77 赞，统计于 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`snow-globe`](tags.md#tag-snow-globe) [`portrait`](tags.md#tag-portrait) [`surreal`](tags.md#tag-surreal)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+(Surrealism, fantasy art, macro photography style). A magical composition where the specific character is captured inside a giant, life-sized glass snow globe. [CRITICAL: Keep the face identical to the source image, maintain consistent facial features within the glass distortion].
+
+Inside the Globe: The character is wearing a white faux fur winter coat and a red Santa hat, catching falling snowflakes with her hands. The environment inside includes miniature snow-covered pine trees decorated with colorful Christmas lights twinkling in red, green, blue, and gold. A tiny wooden cabin sits among the trees. Swirling magical glitter and snow dust fill the air inside the sphere.
+
+Outside the Globe: The background is a blurry, cozy living room with a fireplace, emphasizing that the character is inside the ornament.
+
+Lighting: The snow globe is glowing from within, illuminated by the warm colorful glow of the Christmas tree lights mixing with cool magical blue and white light on the falling snow. The character's face is beautifully lit by this magical mixed lighting. External warm light reflects off the curved glass surface, creating rainbow prismatic effects.
+
+Technical: Ray tracing reflections on the glass, refraction effects, crystal clear focus on the character, magical atmosphere, ethereal and dreamy aesthetic, 8k resolution, intricate details of the snowflakes and Christmas lights bokeh.
+```
+
+</details>
+
 <a id="gpt-image-naive-pencil-illustration-from-photo-2"></a>
 ### 戴耳机的教室女孩彩铅插画
 
@@ -2940,6 +2992,43 @@ Minimal, sophisticated Japanese travel aesthetic, nostalgic winter/early-evening
 
 </details>
 
+<a id="nano-banana-christmas-felt-doll-ornament-wreath"></a>
+### 毛毡娃娃挂饰点缀的青绿金色圣诞花环
+
+<a href="https://x.com/konmari_tweet/status/2002548674896015701"><img src="../../previews/nano-banana-christmas-felt-doll-ornament-wreath.jpg" width="360"></a>
+
+提示词先让模型从参考图提取配色并套用到花环上，使色调与原图保持一致。明确列出毛毡、木雕、糖霜饼干等手工风格和基础材料词，为模型提供清晰的手作质感依据。
+
+Nano Banana Pro · 上传图改图 · 出处: [@konmari_tweet on X](https://x.com/konmari_tweet/status/2002548674896015701) · 66 赞，统计于 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`wreath`](tags.md#tag-wreath) [`ornament`](tags.md#tag-ornament) [`felt-craft`](tags.md#tag-felt-craft)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+**[AI Instruction: Image-to-Ornament Transformation]**
+Analyze the provided **[Input Image]** carefully.
+1.  **Color Extraction:** Extract the dominant color palette and mood from the [Input Image] and apply it to the wreath's overall theme (ribbons, flowers, balls).
+2.  **Motif Creation:** Identify the main character or object in the [Input Image] and reimagine it as a **cute, handcrafted Christmas ornament** (e.g., felt plush, carved wood, or icing cookie style). Place this custom ornament prominently on the wreath.
+
+**[Main Subject]**
+A stunning, high-quality **Christmas Wreath** hanging on a simple white wall (or held by hands), featuring a luxurious mix of materials. The design is dense, festive, and voluminous.
+
+**[Thematic Decoration (Based on Input Image)]**
+* **Centerpiece/Charms:** The main subject from the [Input Image] is transformed into charming **3D ornaments** attached to the wreath. They look like high-quality handcrafted goods (felted wool, painted wood, or ceramic) that perfectly match the wreath's style.
+* **Palette:** The flowers, berries, and baubles strictly follow the color scheme of the [Input Image].
+
+**[Base Materials (Reference Style)]**
+Similar to the texture of high-end wreaths:
+* **Natural Elements:** Abundant pine cones (gold-dusted or natural), fluffy cotton flowers, dried leaves, evergreen sprigs, and holly berries.
+* **Accents:** Velvet or burlap ribbons, a stylish paper tag with elegant typography (like "Merry Christmas" or "Noel"), and touches of gold/silver glitter.
+
+**[Atmosphere & Quality]**
+Soft, bright natural lighting. Shallow depth of field to focus on the textures. Photorealistic, 8k, cozy holiday atmosphere, macro details of the materials.
+```
+
+</details>
+
 <a id="gpt-image-grouchy-green-fur-trash-can-halloween"></a>
 ### 万圣节街头从垃圾桶探出头的绿毛木偶人
 
@@ -3057,6 +3146,72 @@ Ultra-detailed, high-resolution traditional watercolor artwork, refined composit
 
 NEGATIVE PROMPT:
 anime, cartoon, 3D render, CGI, plastic skin, flat digital painting, overly smooth skin, distorted face, altered facial proportions, asymmetrical eyes, extra features, blurry details, harsh outlines, oversaturated colors, photorealistic photography, text, watermark, logo, signature
+```
+
+</details>
+
+<a id="nano-banana-christmas-neon-sign-scarf-girl"></a>
+### 围巾女孩霓虹灯牌挂在砖墙上
+
+<a href="https://x.com/konmari_tweet/status/2002180864902639789"><img src="../../previews/nano-banana-christmas-neon-sign-scarf-girl.jpg" width="360"></a>
+
+提示词让模型扮演霓虹灯制作师，把原图轮廓重构为弯曲的玻璃灯管，并保留电极和绝缘子等细节。颜色取自原图主色，深色砖墙让光晕更突出。
+
+Nano Banana Pro · 上传图改图 · 出处: [@konmari_tweet on X](https://x.com/konmari_tweet/status/2002180864902639789) · 47 赞，统计于 2026-10-29
+
+[`neon-sign`](tags.md#tag-neon-sign) [`brick-wall`](tags.md#tag-brick-wall) [`image-to-neon`](tags.md#tag-image-to-neon)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+**[AI Instruction: Structural Translation]**
+Analyze the provided **[Input Image]**. Act as a professional neon sign manufacturer. Your task is to transform the exact visual subject, lines, and contours of the **[Input Image]** into a physical neon light installation. Do not change the composition or subject matter; simply "construct" it using neon tubes.
+
+**[Subject & Construction]**
+A hyper-realistic, macro photograph of a custom-made neon sign based on the **[Input Image]**. The lines and shapes of the original image are replaced by **bent glass neon tubing**.
+- **Contours:** The main outlines are converted into bright, glowing neon tubes.
+- **Details:** Finer details are simplified into stylized neon strokes, maintaining the recognizability of the original subject.
+- **Material:** Real glass texture with visible electrodes, connecting wires, and black insulators holding the tubes off the wall.
+
+**[Lighting & Color]**
+- **Colors:** Pull the dominant colors from the **[Input Image]** and convert them into vibrant, saturated neon gas colors (electric blue, hot pink, warm white, etc.).
+- **Glow:** The sign emits a strong, hazy light that reflects realistically on the wall behind it.
+
+**[Environment]**
+Mounted on a **dark, textured brick or concrete wall** to maximize contrast. The atmosphere is cinematic, moody, and electric. 8k resolution, ray-tracing rendering, high fidelity.
+```
+
+</details>
+
+<a id="nano-banana-christmas-fair-isle-character-sweater"></a>
+### 带角色图案的提花圣诞毛衣
+
+<a href="https://x.com/konmari_tweet/status/2001769222641443148"><img src="../../previews/nano-banana-christmas-fair-isle-character-sweater.jpg" width="360"></a>
+
+要求模型把输入图像栅格化为像素风的提花针织图案，让主体看起来由一针针毛线织成。再描述周围的驯鹿、雪花和壁炉场景，为画面搭建边框与氛围。
+
+Nano Banana Pro · 上传图改图 · 出处: [@konmari_tweet on X](https://x.com/konmari_tweet/status/2001769222641443148) · 41 赞，统计于 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`knitwear`](tags.md#tag-knitwear) [`sweater`](tags.md#tag-sweater) [`fair-isle`](tags.md#tag-fair-isle)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+**[AI Instruction: Pixel-to-Stitch Translation]**
+Analyze the provided **[Input Image]**.
+1.  **Knitted Pattern:** Rasterize the [Input Image] into a **pixel-art style knitting pattern**. The lines and shapes should look like they are formed by individual yarn stitches (Jacquard weave).
+2.  **Texture:** Replace "ink" with "wool yarn".
+
+**[Main Subject]**
+A cozy, high-quality photograph of a **Chunky Knitted Christmas Sweater** (or warm blanket) folded neatly or worn.
+
+**[The Design]**
+* **Center Motif:** The character or scene from the [Input Image] is featured prominently on the chest as a woven pattern. It has a charming, slightly low-res "fair isle" or "ugly sweater" aesthetic.
+* **Surrounding Patterns:** Traditional winter motifs (snowflakes, reindeer, geometric zig-zags) frame the main image, using colors from the input image.
+
+**[Material & Atmosphere]**
+* **Texture:** Extremely detailed macro shot of the wool fibers. You can feel the softness and fuzzy texture.
+* **Lighting:** Warm indoor lighting, perhaps near a fireplace. Cozy, hygge atmosphere.
 ```
 
 </details>

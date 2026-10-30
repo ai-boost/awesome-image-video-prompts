@@ -1,0 +1,83 @@
+id: nano-banana-year-end-line-sticker-set
+title:
+  en: Chibi LINE sticker grid of end of year phrases
+  zh: 年末主题Q版LINE贴图表情集
+model: Nano Banana Pro
+mode: image-edit
+category: character
+tags:
+- christmas
+- line-sticker
+- chibi
+- year-end
+source:
+  name: '@hAru_mAki_ch on X'
+  url: https://x.com/hAru_mAki_ch/status/1993162367816085840
+  credit: Maki@Sunwood AI Labs.
+  likes: 117
+  captured: '2026-10-29'
+  posted: '2025-11-25'
+notes:
+  en: 'A reference character image is paired with a sticker sheet spec: a 4 by 6 grid, 16:9, an explicit list of Japanese phrases to cover, and a rule to draw an original illustration rather than copy the reference. Winter props such as snowflakes, illumination and fir trees are named as background accents, so each cell reads as a seasonal scene.'
+  zh: 参考角色图配合贴图表单规格：4×6网格、16:9比例、逐条列出要覆盖的日语短语，并要求画成原创插画而不是照搬参考图。背景点缀雪花、灯饰、冷杉等冬季元素，让每格都带有节日场景。
+prompt: |
+  Higgsfield の Nano Banana Pro お試し㊵
+  LINEスタンププロンプト使ってみた
+  年末年始スタイルも良い！！！
+  これで年越しイベントはスタンプ押しまくろう！！！
+
+  ーーー📒プロンプトー年末版（クリスマス〜大晦日）ーー
+  画像のキャラクターをベースに、Q版（デフォルメ/ちびキャラ）のLINEスタンプ風バストアップ表情集を作成してください。
+
+  【テーマ】年末・クリスマス〜大晦日
+
+  【スタイル】
+  - カラフルな手描き風
+  - 頭飾り・髪飾りは正確に再現すること
+  - 元画像をそのままコピーせず、オリジナルのイラストとして描くこと
+  - 冬らしい装飾（雪の結晶、イルミネーション、もみの木など）を背景やアクセントに
+
+  【レイアウト】
+  - 4×6のグリッド配置（計24種類）
+  - 4K解像度、アスペクト比16:9
+
+  【表情・テキスト内容】
+  年末によく使うフレーズを網羅：
+  - メリクリ！、メリークリスマス🎄、サンタさんお願い、プレゼント待ち
+  - 今年もお疲れ様！、良いお年を、年末進行つらい、大掃除中
+  - 年越しそば食べた？、紅白見てる、カウントダウン！、あと○日！
+  - 忘年会シーズン、飲みすぎ注意、寒すぎ、こたつから出られない
+  - 今年もありがとう、来年もよろしく、振り返り中、やり残した…
+
+  すべてのテキストは手書き風の日本語で表記
+
+  ーーー📒プロンプトー年始版（お正月〜新年）ーー
+  画像のキャラクターをベースに、Q版（デフォルメ/ちびキャラ）のLINEスタンプ風バストアップ表情集を作成してください。
+
+  【テーマ】年始・お正月
+
+  【スタイル】
+  - カラフルな手描き風
+  - 頭飾り・髪飾りは正確に再現すること
+  - 元画像をそのままコピーせず、オリジナルのイラストとして描くこと
+  - 和風・お正月らしい装飾（門松、鏡餅、梅の花、だるま、富士山など）を背景やアクセントに
+
+  【レイアウト】
+  - 4×6のグリッド配置（計24種類）
+  - 4K解像度、アスペクト比16:9
+
+  【表情・テキスト内容】
+  年始によく使うフレーズを網羅：
+  - あけおめ！、あけましておめでとう🎍、謹賀新年、今年もよろしく
+  - 初詣行った？、おみくじ引いた、大吉！、凶だった…
+  - お年玉ちょうだい、お年玉あげる、福袋ゲット、初売り参戦
+  - お餅食べすぎ、おせち最高、寝正月、三が日満喫中
+  - 新年の抱負、今年こそは！、正月太り、仕事始めつらい
+  - 巳年だね🐍、今年も頑張ろう、初夢見た？、書き初めした
+
+  すべてのテキストは手書き風の日本語で表記
+
+  ---
+  今なら、Higgsfieldで65% OFF ＆ これから3日以内に
+  @higgsfield_ai
+   に参加した人は Nano Banana Pro を1年間無制限で利用できます。

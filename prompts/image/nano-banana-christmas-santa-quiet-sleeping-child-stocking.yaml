@@ -1,0 +1,39 @@
+id: nano-banana-christmas-santa-quiet-sleeping-child-stocking
+title:
+  en: Santa with finger to lips by a sleeping child
+  zh: 圣诞老人竖起食指示意安静，守在熟睡孩子床边
+model: Nano Banana Pro
+mode: image-edit
+category: edit
+tags:
+- christmas
+- santa
+- family
+source:
+  name: '@nero_sansei on X'
+  url: https://x.com/nero_sansei/status/2003285950571643175
+  credit: ねろ
+  likes: 215
+  captured: '2026-10-29'
+  posted: '2025-12-23'
+notes:
+  en: The prompt adds Santa to a real bedroom photo of a sleeping child and specifies the action (filling an oversized stocking) plus a gesture that shows he knows he is being photographed. Naming the setting and the gesture keeps the added person in the same scene instead of looking pasted in.
+  zh: 提示词在真实卧室照片中加入圣诞老人，并指定动作（往大袜子里放礼物）和知道被拍到的手势（竖起食指示意安静）。明确场景与动作，让新加入的人物与原照片融为一体，而不是贴上去的效果。
+prompt: |
+  「サンタ本物だ！」と子供を喜ばせる方法
+  ① 寝静まった我が子を撮影
+  ② ChatGPT か Nano Banana Pro に写真アップ
+  ③ あるプロンプトでサンタ挿入
+  ④ 完成した画像を朝に見せる
+  所要時間1分、無料。昔は「サンタ=親」ってバラす同級生がいたけど、今は「サンタ＝ChatGPT」になるかもね
+  プロンプト👇
+
+  サンタ追加プロンプト
+  ---
+  子供を起こさないように、でかい靴下にプレゼントを入れてる、グリーランドからきた太ってる本物のサンタさんを追加してください。サンタさんは写真を撮られてることが分かっているので「静かに🤫」という動作も加えてください。
+  ---
+
+  ちなみに、この画像はChatGPTを使って生成しました。でかい靴下がない人は「プレゼントを入れてる」だけでいけるかと思われます。
+  試した方は共有待ってます！写真や子供の反応とか気になりますw
+
+  というかこの写真、クリスマスプレゼントのイメージダイレクトにくるから、おもちゃの広告打つ時に使えそう

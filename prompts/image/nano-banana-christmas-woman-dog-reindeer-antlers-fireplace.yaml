@@ -1,0 +1,120 @@
+id: nano-banana-christmas-woman-dog-reindeer-antlers-fireplace
+title:
+  en: Woman and dog in reindeer antlers by fireplace
+  zh: 驼鹿角头饰女士与狗在壁炉旁
+model: Nano Banana Pro
+mode: image-edit
+category: portrait
+tags:
+- christmas
+- portrait
+- dog
+- identity-lock
+source:
+  name: '@saniaspeaks_ on X'
+  url: https://x.com/saniaspeaks_/status/2005889536342253587
+  credit: 𝗦𝗮𝗻𝗶𝗮
+  likes: 97
+  captured: '2026-10-29'
+  posted: '2025-12-30'
+notes:
+  en: The prompt names the woman and the dog as identity sources to lock to the reference photo, which keeps both faces recognizable after the edit. The medium eye level framing, 85mm lens look and the full length dress constraint keep the composition and pose under control.
+  zh: 提示词把女士和狗都设为需要锁定的参考身份，使两者在编辑后仍可辨认。中景平视构图、85mm 镜头质感以及长裙需完全遮住双腿的约束，让画面取景和姿势保持可控。
+prompt: |
+  "style": "hyper-realistic, cozy holiday lifestyle, cinematic portrait",
+    "identity_preservation": {
+      "human": {
+        "use_reference_image": true,
+        "strict_identity_lock": true,
+        "alter_face": false,
+        "notes": "Preserve 100% of the woman’s facial features, proportions, skin texture, hairstyle, and expression exactly as in the reference image."
+      },
+      "dog": {
+        "use_reference_image": true,
+        "strict_identity_lock": true,
+        "alter_features": false,
+        "notes": "Preserve 100% of the dog’s facial features, fur texture, proportions, and expression exactly as in the reference image."
+      }
+    },
+    "composition": {
+      "framing": "medium shot",
+      "camera_angle": "eye-level",
+      "focus": "sharp focus on woman and dog"
+    },
+    "subject": {
+      "gender": "female",
+      "pose": {
+        "position": "sitting on a carpet with legs fully covered by the dress",
+        "interaction": "holding a friendly dog in her arms"
+      },
+      "expression": "warm smile with an intense, direct gaze into the camera",
+      "appearance": {
+        "hair": {
+          "color": "dark brown",
+          "style": "short pixie cut with casually styled bangs"
+        },
+        "head_accessory": "felt reindeer antlers worn on the head",
+        "makeup": {
+          "style": "natural",
+          "details": [
+            "glowing, hydrated skin",
+            "soft pink blush",
+            "neutral brown eyeshadow",
+            "creamy berry lipstick"
+          ]
+        },
+        "wardrobe": {
+          "outfit": "thick, oversized emerald green chunky-knit sweater dress with a long hem fully covering the legs"
+        },
+        "jewelry": [
+          "small pearl stud earrings",
+          "necklace with a red horse pendant"
+        ]
+      }
+    },
+    "dog": {
+      "pose": "calm and friendly, resting comfortably in the woman’s arms",
+      "accessories": "felt reindeer antlers on the head"
+    },
+    "environment": {
+      "location": "cozy festive living room",
+      "background_elements": [
+        "small decorated Christmas tree with warm white lights",
+        "crackling fireplace",
+        "wooden shelves with holiday decorations"
+      ],
+      "atmosphere": "intimate, warm, festive, and cozy"
+    },
+    "lighting": {
+      "type": "soft warm indoor lighting",
+      "quality": "natural and flattering",
+      "effects": [
+        "gentle highlights on skin",
+        "visible texture of knitted fabric",
+        "detailed dog fur texture"
+      ]
+    },
+    "camera": {
+      "model": "Canon EOS R6 Mark II",
+      "lens": "85mm",
+      "depth_of_field": "shallow to moderate",
+      "resolution": "high resolution"
+    },
+    "mood": {
+      "emotion": "warmth, joy, holiday intimacy",
+      "season": "Christmas / winter holiday"
+    },
+    "quality": {
+      "realism": "ultra-photorealistic",
+      "detail_level": "extreme detail in skin, fur, and fabric textures",
+      "artifacts": "none"
+    },
+    "constraints": [
+      "Do not alter the woman’s face",
+      "Do not alter the dog’s face",
+      "Legs must remain fully covered by the dress",
+      "No artificial filters",
+      "No distorted anatomy",
+      "No text or watermarks"
+    ],
+    "output_goal": "Create a hyper-realistic medium-shot holiday portrait of a woman sitting on a carpet in a cozy festive living room, holding her dog, with her legs fully covered by the dress, preserving both the woman’s and the dog’s exact identities, warm lighting, and an intimate Christmas atmosphere.

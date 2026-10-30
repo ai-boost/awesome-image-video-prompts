@@ -1,0 +1,37 @@
+id: nano-banana-christmas-city-diorama-template-grid
+title:
+  en: Isometric Christmas city dioramas on red
+  zh: 红色背景上的等距圣诞城市微缩模型
+model: Nano Banana Pro
+mode: text-to-image
+category: poster
+tags:
+- christmas
+- isometric
+- diorama
+- template
+source:
+  name: '@TechieBySA on X'
+  url: https://x.com/TechieBySA/status/2003053984454734030
+  credit: TechieSA
+  likes: 35
+  captured: '2026-10-29'
+  posted: '2025-12-22'
+notes:
+  en: A single [CITY] slot drives the whole layout, so each city gets the same fixed 45 degree top down camera, centered diorama base, and text hierarchy with the city name over CHRISTMAS EDITION. The locked red background and automatic white or black text contrast keep the four cities consistent as a series.
+  zh: 通过一个 [CITY] 占位符控制整体构图，因此每个城市都使用相同的固定 45° 俯视等距镜头、居中的微缩底座，以及城市名在上、CHRISTMAS EDITION 在下的文字层级。统一的红色背景和自动对比的白色或黑色文字，让系列作品保持一致。
+prompt: |
+  “Present a clear, 45° top-down isometric miniature 3D cartoon scene of [CITY], centered in the composition.
+  Depict the city in a festive Christmas theme with seasonal decorations, glowing lights, and appropriate winter or holiday details.
+
+  Use soft refined textures, realistic PBR materials, and gentle lifelike lighting with subtle shadows.
+  Create a small raised diorama-style city base with clean edges.
+
+  Use a clean red christmas background color that contrasts well with the scene.
+
+  At the top-center, display [CITY] in large bold text.
+  Directly beneath it, display CHRISTMAS EDITION in medium text.
+  Optionally place a small round national flag icon below the text.
+
+  All text must automatically match background contrast (white or black).
+  Composition: perfectly centered, square 1080×1080, ultra-clean festive diorama aesthetic.”

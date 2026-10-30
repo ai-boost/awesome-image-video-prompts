@@ -1,0 +1,33 @@
+id: gpt-image-christmas-red-sequin-dress-santa-stairs
+title:
+  en: Woman in red sequin dress with Santa on stairs
+  zh: 红色亮片裙女子与圣诞老人同在楼梯上
+model: GPT Image 1.5
+mode: text-to-image
+category: portrait
+tags:
+- christmas
+- portrait
+- fashion
+- santa
+source:
+  name: '@KeorUnreal on X'
+  url: https://x.com/KeorUnreal/status/2003812247890469073
+  credit: KeorUnreal
+  likes: 29
+  captured: '2026-10-29'
+  posted: '2025-12-24'
+notes:
+  en: A JSON prompt that splits shot, subject, pose, outfit, environment and atmosphere into separate fields keeps each element controlled. Dim warm light and a gold-lit tree in the frame set the mood without overpowering the subject.
+  zh: 将镜头、主体、姿态、服装、环境和氛围拆分为独立的 JSON 字段，让每个元素都可控。昏暗暖光与金色灯饰的圣诞树营造氛围，又不抢主体。
+prompt: |
+  {
+    "shot_type": "A medium shot portrait",
+    "subject": "a young woman",
+    "hair": "long, wavy hair",
+    "pose": "standing on a curved staircase with dark wrought-iron railings and stone steps where is sitting santa claus admire her. She poses looking back over her right tattoed butterflies shoulder towards the camera, with her left hand resting on the dark banister.",
+    "outfit": "the same red strapless mini dress with a fitted bodice and tiered ruffle skirt, paired with sheer black pantyhose",
+    "jewelry": "Crucially, her jewelry is much brighter and more prominent than in the original scene.catching the warm light and standing out brilliantly against her skin and the dark dress.",
+    "environment": "To her right is a large Christmas tree richly decorated with warm gold, bronze, and brown ornaments, baubles, and warm white string lights.",
+    "atmosphere": "The general atmosphere remains warm, moody, and low-key with dim evening lighting, but shining jewelry"
+  }

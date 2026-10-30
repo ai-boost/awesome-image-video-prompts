@@ -1,0 +1,30 @@
+id: nano-banana-christmas-roast-turkey-split-outline
+title:
+  en: Split roast turkey photo and line drawing
+  zh: 一半实拍烤火鸡一半线稿插画
+model: Nano Banana Pro
+mode: text-to-image
+category: poster
+tags:
+- christmas
+- food
+- split-composition
+- outline-illustration
+source:
+  name: '@icreatelife on X'
+  url: https://x.com/icreatelife/status/2004036691879743733
+  credit: Kris Kashtanova
+  likes: 126
+  captured: '2026-10-29'
+  posted: '2025-12-25'
+notes:
+  en: A hard vertical divider splits one dish into a photo on one side and a matching line drawing on the other, so the outline has to follow the photo's shape, scale and viewing angle. The fill-in slots for dish, background colour and label make the template reusable for other foods.
+  zh: 一条垂直白线把同一道菜分成实拍照片与匹配的线稿两半，线稿需要沿用照片的形状、比例和视角。菜名、背景色和标签都是可替换的占位，同一模板可用于其他食物。
+prompt: |
+  Try this Nano Banana Pro prompt for your favorite Christmas foods and items
+
+  I use Nano Banana Pro in Adobe Firefly app
+
+  Merry Christmas! 🎄 ✨🥹
+
+  prompt: Clean contemporary square culinary poster featuring [FOOD_ITEM] against a flat [BACKGROUND_COLOR] backdrop. A razor-sharp vertical white divider cuts directly down the middle of the composition, separating the primary subject into equal portions. The first half displays a hyper-realistic photograph of the main dish with authentic surface details, true-to-life coloring, and natural illumination, precisely trimmed at the midpoint divider. The second half transforms into a minimal outline illustration that mirrors the identical shape and key features of the photographed side, keeping consistent scale and viewing angle. Surrounding the illustrated portion, scatter whimsical white sketched elements and casual handwritten-style typography stating “[LABEL_TEXT]” using matching line thickness—incorporate directional pointers, dynamic streaks, and basic component graphics tied to the dish. Generous blank space throughout, uniform background tone, balanced diffused studio brightness, minimal shadow presence, contemporary commercial design style, human-free, object-focused composition.

@@ -1,0 +1,101 @@
+id: nano-banana-christmas-red-snowflake-sweater-kiss
+title:
+  en: Woman in red snowflake sweater blowing a kiss
+  zh: 红色雪花毛衣女子送上飞吻
+model: Nano Banana Pro
+mode: text-to-image
+category: portrait
+tags:
+- christmas
+- portrait
+- flash-photography
+- sweater
+source:
+  name: '@xmliisu on X'
+  url: https://x.com/xmliisu/status/1999830980752715929
+  credit: Melisa♡
+  likes: 214
+  captured: '2026-10-29'
+  posted: '2025-12-13'
+notes:
+  en: 'A structured JSON prompt that separates lighting, background, composition and subject analysis gives a clear setup: camera flash with warm tree light, shallow depth of field, and a 4:5 vertical medium shot centred on the face. The negative prompt rules out daylight and smiling, which keeps the mood candid and cosy.'
+  zh: 结构化 JSON 提示词分别描述光线、背景、构图和主体，设定为相机闪光配合暖色树灯、浅景深，以及面部居中的 4:5 竖版中景。负面提示词排除日光和微笑，让画面保持随性、温馨的氛围。
+prompt: |
+  {
+    "lighting": {
+      "quality": "hard flash with soft ambient",
+      "shadows": "sharp shadows cast by the flash, especially behind the subject and on the window blinds",
+      "direction": "frontal",
+      "highlights": "strong highlights on the subject's face, hands, and sweater from the flash, with small warm points of light from the tree",
+      "ambient_source": "warm LED Christmas lights on tree",
+      "primary_source": "on-camera flash"
+    },
+    "background": {
+      "setting": "indoors, likely a living room at night",
+      "elements": [
+        "flocked Christmas tree with warm white LED lights and a red ribbon bow",
+        "large window with dark horizontal blinds, showing reflections of the flash and room lights",
+        "dark wall"
+      ],
+      "depth_cues": "tree is slightly behind the subject, window is further back, creating depth",
+      "lighting_interaction": "tree lights are warm and soft; flash creates a bright spot on the window glass"
+    },
+    "typography": {
+      "color": "",
+      "presence": "none",
+      "placement": "",
+      "font_style": "",
+      "text_content": ""
+    },
+    "composition": {
+      "frame_type": "medium shot",
+      "focus_point": "subject's face",
+      "orientation": "vertical",
+      "camera_angle": "eye-level",
+      "depth_of_field": "shallow",
+      "subject_placement": "centered"
+    },
+    "color_profile": {
+      "contrast": "high",
+      "saturation": "moderate",
+      "color_balance": "warm",
+      "dominant_colors": [
+        "#FFFFFF",
+        "#E10000",
+        "#4A5D48",
+        "#C9A082"
+      ],
+      "palette_description": "warm and festive palette dominated by white and red from the sweater, with green from the tree and warm yellow tones from the lights"
+    },
+    "technical_specs": {
+      "iso": "high (due to low light environment)",
+      "aperture": "wide (shallow depth of field)",
+      "image_type": "digital photograph",
+      "resolution": "high",
+      "camera_type": "smartphone camera",
+      "file_format": "JPEG",
+      "shutter_speed": "fast (due to flash)"
+    },
+    "subject_analysis": {
+      "hair": "long, wavy, silver grey hair, parted in the middle, falling over shoulders",
+      "pose": "standing, hands pressed to cheeks, making a kissy face with eyes closed",
+      "makeup": "dewy skin, defined eyebrows, long eyelashes, rosy blush, glossy lips",
+      "clothing": "oversized white knit sweater with a red Fair Isle pattern featuring snowflakes and geometric designs",
+      "expression": "playful, pouting kiss",
+      "accessories": "none visible",
+      "subject_type": "young woman",
+      "hands_gestures": "both hands with light pink manicured nails pressing gently against her cheeks, framing her face"
+    },
+    "artistic_elements": {
+      "mood": "playful, festive, cozy",
+      "style": "candid portrait",
+      "texture": "soft knit of the sweater, flocked texture of the tree, glossy reflection on the window",
+      "composition_balance": "subject centered, balanced by the tree on the left and window on the right"
+    },
+    "generation_parameters": {
+      "seed": "festive_portrait_flash",
+      "prompt": "A candid portrait of a young woman with long wavy brown hair, wearing an oversized white and red snowflake knit sweater, posing with a kissy face and hands on her cheeks. She is standing indoors at night next to a flocked Christmas tree decorated with warm lights and a red bow, and a window with dark blinds reflecting a flash. The lighting is a mix of on-camera flash and warm ambient light from the tree.",
+      "aspect_ratio": "4:5",
+      "negative_prompt": "daylight, bright sun, plain wall, no tree, no sweater, smiling, open eyes, no flash"
+    }
+  }

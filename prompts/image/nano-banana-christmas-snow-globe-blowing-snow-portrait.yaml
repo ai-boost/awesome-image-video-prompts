@@ -1,0 +1,32 @@
+id: nano-banana-christmas-snow-globe-blowing-snow-portrait
+title:
+  en: Woman blowing snow inside giant Christmas snow globe
+  zh: 女子在巨型圣诞雪球中吹雪
+model: Nano Banana Pro
+mode: image-edit
+category: photo-to-art
+tags:
+- christmas
+- snow-globe
+- portrait
+- surreal
+source:
+  name: '@songguoxiansen on X'
+  url: https://x.com/songguoxiansen/status/2002370189384691980
+  credit: 松果先森
+  likes: 77
+  captured: '2026-10-29'
+  posted: '2025-12-20'
+notes:
+  en: The prompt keeps the source face through a bracketed identity instruction, then lays out the scene in layers (inside the globe, outside background, lighting, technical) so the glass refraction and the mix of warm tree light with cool blue snow light are handled explicitly. Describing the glass as a lens that bends the room behind it is what produces the rainbow prismatic edges.
+  zh: 提示词通过方括号内的人脸一致性指令保留原图人物面部，再分层描述场景（球内、球外背景、光线、技术参数），明确处理玻璃折射以及暖色灯串与冷色雪光的混合。把玻璃描述为会弯折背后房间的透镜，是产生彩虹棱镜边缘效果的关键。
+prompt: |
+  (Surrealism, fantasy art, macro photography style). A magical composition where the specific character is captured inside a giant, life-sized glass snow globe. [CRITICAL: Keep the face identical to the source image, maintain consistent facial features within the glass distortion].
+
+  Inside the Globe: The character is wearing a white faux fur winter coat and a red Santa hat, catching falling snowflakes with her hands. The environment inside includes miniature snow-covered pine trees decorated with colorful Christmas lights twinkling in red, green, blue, and gold. A tiny wooden cabin sits among the trees. Swirling magical glitter and snow dust fill the air inside the sphere.
+
+  Outside the Globe: The background is a blurry, cozy living room with a fireplace, emphasizing that the character is inside the ornament.
+
+  Lighting: The snow globe is glowing from within, illuminated by the warm colorful glow of the Christmas tree lights mixing with cool magical blue and white light on the falling snow. The character's face is beautifully lit by this magical mixed lighting. External warm light reflects off the curved glass surface, creating rainbow prismatic effects.
+
+  Technical: Ray tracing reflections on the glass, refraction effects, crystal clear focus on the character, magical atmosphere, ethereal and dreamy aesthetic, 8k resolution, intricate details of the snowflakes and Christmas lights bokeh.

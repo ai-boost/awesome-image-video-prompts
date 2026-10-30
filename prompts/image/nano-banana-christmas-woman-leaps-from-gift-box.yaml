@@ -1,0 +1,34 @@
+id: nano-banana-christmas-woman-leaps-from-gift-box
+title:
+  en: Woman leaps from giant red gift box
+  zh: 女子从巨大红色礼盒中跃出
+model: Nano Banana Pro
+mode: text-to-image
+category: portrait
+tags:
+- christmas
+- gift-box
+- portrait
+- motion
+source:
+  name: '@songguoxiansen on X'
+  url: https://x.com/songguoxiansen/status/2002377353855709253
+  credit: 松果先森
+  likes: 89
+  captured: '2026-10-29'
+  posted: '2025-12-20'
+notes:
+  en: Pairs a frozen mid air jump with a lid flying off the box, so the motion comes from ribbons, tags and snow scattering outward. The light is set as a glow from inside the box, which lifts the subject from below against a softly blurred fireplace room.
+  zh: 将定格的空中跳跃与飞出的礼盒盖组合在一起，动感来自向外飞散的丝带、纸片与雪花。盒内透出的暖光从下方照亮人物，背景壁炉虚化，营造温暖的节日氛围。
+prompt: |
+  (Dynamic action photography, explosion composition, festive art style). An explosive surprise composition where a young woman bursts out from a giant Christmas gift box in a moment of pure joy.
+
+  The Action: The character is wearing a white faux fur winter coat and a red Santa hat, leaping upward with arms raised in celebration, frozen in mid-air jump. A huge red and gold wrapped gift box below her is exploding open with the lid flying off.
+
+  Dynamic Elements: Colorful ribbons and wrapping paper pieces explode outward in all directions. Snow and magical glitter burst upward like confetti. Small snow-covered pine trees with colorful Christmas lights shoot out from the box. Gift tags, ornaments, and tinsel swirl in the air. Snowflakes scatter in the explosive motion.
+
+  Background: Soft-focused cozy living room with Christmas decorations, fireplace, creating warm festive atmosphere.
+
+  Lighting: Magical glow emanating from inside the gift box, illuminating the character from below with warm golden light. Colorful Christmas lights create bokeh trails. Dynamic motion blur on flying objects.
+
+  Technical: High-speed photography freeze frame, particle explosion effects, dynamic composition, vibrant festive colors, 8k resolution, joyful and energetic aesthetic.

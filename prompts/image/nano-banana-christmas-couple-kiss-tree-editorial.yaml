@@ -1,0 +1,72 @@
+id: nano-banana-christmas-couple-kiss-tree-editorial
+title:
+  en: Couple kissing beside red and gold Christmas tree
+  zh: 情侣在红金圣诞树前亲吻
+model: Nano Banana Pro
+mode: text-to-image
+category: portrait
+tags:
+- christmas
+- couple
+- portrait
+- editorial
+source:
+  name: '@astronomerozge1 on X'
+  url: https://x.com/astronomerozge1/status/2006427588495905057
+  credit: Özge Döner
+  likes: 76
+  captured: '2026-10-29'
+  posted: '2025-12-31'
+notes:
+  en: A structured JSON brief pins the person count, pose, framing and no-text rule as hard constraints, and a concrete lens and lighting spec (85mm, shallow depth of field, strobe plus soft fill) steers the look toward editorial. Naming the tree and ornament colours in the prompt keeps the palette consistent across the scene.
+  zh: 结构化 JSON 指令把人数、姿势、构图和禁止文字写成硬性约束，并给出具体的镜头与布光参数（85mm、浅景深、影室闪光加柔光补光），使画面呈现编辑风格。在提示中明确树和装饰的颜色，让整体配色保持统一。
+prompt: |
+  {
+    "generation_request": {
+      "meta_data": {
+        "tool": "NanoBanana Pro",
+        "task_type": "photorealistic_couple_holiday_editorial",
+        "version": "v1.0_COUPLE_NYE_TREE_KISS_EDITORIAL",
+        "priority": "highest"
+      },
+      "references": {
+        "female_character_reference_image": "UPLOAD_FEMALE_REFERENCE (OPTIONAL: for identity lock)",
+        "male_character_reference_image": "UPLOAD_MALE_REFERENCE (OPTIONAL: for identity lock)",
+        "pose_reference_image": "UPLOAD_POSE_REFERENCE (OPTIONAL: use this image for same pose/framing)"
+      },
+      "output_settings": {
+        "aspect_ratio": "2:3",
+        "orientation": "portrait",
+        "resolution": "ultra_high_res",
+        "render_style": "ultra_photoreal_high_fashion_holiday_editorial",
+        "sharpness": "crisp_but_natural",
+        "film_grain": "none_or_minimal",
+        "color_grade": "warm_luxury_true_to_life"
+      },
+      "hard_constraints": [
+        "EXACTLY 2 people only: one woman and one man.",
+        "If reference images are provided: perfect identity match (no face/body changes).",
+        "Match the pose and framing: the couple hugging; the man kissing the woman’s cheek; the woman’s arms around his neck; close, intimate stance.",
+        "No text, no logos, no watermarks.",
+        "Perfect anatomy: hands/fingers/teeth correct; no extra limbs.",
+        "Photoreal skin texture (no plastic smoothing).",
+        "Luxury holiday vibe; no cheap party props; no neon club lighting."
+      ],
+      "creative_prompt": {
+        "scene_summary": "Ultra-photoreal luxury holiday editorial portrait. A couple stands in front of a decorated Christmas tree with warm fairy lights and red ornaments. The woman wears a fitted elegant red dress (sleek, sophisticated; floor-length or fitted midi with a long red ribbon/scarf detail trailing down), glamorous makeup with classic red lipstick, soft bronzy blush, and defined brows; long glossy dark-to-warm brunette waves with volume. Her nails are painted red. She smiles subtly toward camera while the man kisses her cheek. The man wears a black suit with a white shirt and a red pocket square; groomed dark hair and a neat beard; one hand at her waist. Lighting: high-end editorial strobe + soft fill, warm ambient bokeh from tree lights, controlled shadows, cinematic but clean. Background: upscale indoor setting with a neutral wall, the Christmas tree positioned to the left, tasteful decorations, premium warm atmosphere. Camera: 85mm portrait look, shallow depth of field for creamy bokeh while keeping faces sharp."
+      },
+      "negative_prompt": [
+        "any text, logo, watermark",
+        "extra people",
+        "blurred faces",
+        "identity drift",
+        "deformed hands, extra fingers, warped anatomy",
+        "cartoon, anime, CGI look",
+        "plastic skin, heavy smoothing, beauty blur",
+        "overexposed highlights, harsh blown-out flash",
+        "neon lighting, nightclub look",
+        "messy background clutter",
+        "duplicate limbs, double heads, distorted kiss"
+      ]
+    }
+  }

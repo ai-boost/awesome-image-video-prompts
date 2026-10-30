@@ -1,6 +1,6 @@
 # Posters and editorial layouts
 
-[Back to the list](../../README.md) · All 195 entries · **1** · [2](image-poster-2.md)
+[Back to the list](../../README.md) · All 197 entries · **1** · [2](image-poster-2.md)
 
 <a id="gpt-image-flat-vector-city-travel-poster-template"></a>
 ### Flat vector travel poster template for any city
@@ -4314,6 +4314,31 @@ JBL ORANGE.
 REAL PRODUCT.
 PHYSICAL SOUND.
 MAXIMUM COMMERCIAL IMPACT.
+```
+
+</details>
+
+<a id="nano-banana-christmas-roast-turkey-split-outline"></a>
+### Split roast turkey photo and line drawing
+
+<a href="https://x.com/icreatelife/status/2004036691879743733"><img src="../../previews/nano-banana-christmas-roast-turkey-split-outline.jpg" width="360"></a>
+
+A hard vertical divider splits one dish into a photo on one side and a matching line drawing on the other, so the outline has to follow the photo's shape, scale and viewing angle. The fill-in slots for dish, background colour and label make the template reusable for other foods.
+
+Nano Banana Pro · Text-to-image · Source: [@icreatelife on X](https://x.com/icreatelife/status/2004036691879743733) · 126 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`food`](tags.md#tag-food) [`split-composition`](tags.md#tag-split-composition) [`outline-illustration`](tags.md#tag-outline-illustration)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Try this Nano Banana Pro prompt for your favorite Christmas foods and items
+
+I use Nano Banana Pro in Adobe Firefly app
+
+Merry Christmas! 🎄 ✨🥹
+
+prompt: Clean contemporary square culinary poster featuring [FOOD_ITEM] against a flat [BACKGROUND_COLOR] backdrop. A razor-sharp vertical white divider cuts directly down the middle of the composition, separating the primary subject into equal portions. The first half displays a hyper-realistic photograph of the main dish with authentic surface details, true-to-life coloring, and natural illumination, precisely trimmed at the midpoint divider. The second half transforms into a minimal outline illustration that mirrors the identical shape and key features of the photographed side, keeping consistent scale and viewing angle. Surrounding the illustrated portion, scatter whimsical white sketched elements and casual handwritten-style typography stating “[LABEL_TEXT]” using matching line thickness—incorporate directional pointers, dynamic streaks, and basic component graphics tied to the dish. Generous blank space throughout, uniform background tone, balanced diffused studio brightness, minimal shadow presence, contemporary commercial design style, human-free, object-focused composition.
 ```
 
 </details>

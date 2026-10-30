@@ -1,6 +1,6 @@
 # 插画
 
-[返回目录](../../README_zh.md) · 全部 106 条
+[返回目录](../../README_zh.md) · 全部 107 条
 
 <a id="nano-banana-map-screenshot-anime-panorama-shibuya"></a>
 ### 由地图截图生成的涩谷十字路口动漫全景
@@ -859,6 +859,27 @@ The image must look like a traditional artist's expressive sketchbook illustrati
 Use a fresh, vibrant color palette of plum purple, watermelon red, mustard yellow, dusty lavender, pale mint, and warm peach skin tones. Medium close-up composition, face large and sharply readable, natural human proportions, expressive eyes and mouth, visible paper texture, sophisticated hand-illustrated magazine art aesthetic. Keep the character visually dominant and the background loose and sketchy.
 
 IMPORTANT STYLE: semi-realistic human illustration, NOT cartoon, NOT anime, NOT 3D, NOT glossy digital art, NOT a photograph. Preserve the raw, loose, textured, imperfect hand-drawn quality of traditional editorial sketch art. Original character, original pose, original outfit, original composition.
+```
+
+</details>
+
+<a id="nano-banana-christmas-market-monsters-pop-art"></a>
+### 圣诞市集长椅上眨眼的女子与节日怪物
+
+<a href="https://x.com/awesome_visuals/status/1994346814825226504"><img src="../../previews/nano-banana-christmas-market-monsters-pop-art.jpg" width="360"></a>
+
+这段 JSON 提示词把主体与叠加层分开描述：皮肤和腿部锁定为真实摄影质感，怪物分层排布在背景、身体周围和衣物上。固定的霓虹配色和粗黑描边让整幅画面的波普风格保持统一。
+
+Nano Banana Pro · 文生图 · 出处: [@awesome_visuals on X](https://x.com/awesome_visuals/status/1994346814825226504) · 100 赞，统计于 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`pop art`](tags.md#tag-popart) [`portrait`](tags.md#tag-portrait) [`mixed media`](tags.md#tag-mixedmedia)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Nano Banana Pro 📸 available on LetzAI
+
+{ "subject": { "type": "beautiful young woman (early 20s)", "pose": "sitting on a wooden market bench with knees pulled up and arms wrapped around them, giving a cheerful wink", "expression": "cute, warm, festive" }, "appearance": { "hair_color": "dark brown", "hair_style": "long loose waves with a cozy knit headband", "complexion": "fair with rosy winter cheeks" }, "clothing": { "top": "cream knit sweater", "bottom": "red corduroy shorts", "socks": "white wool socks", "shoes": "tan winter boots with faux fur" }, "environment": { "setting": "outdoor Christmas market", "details": "twinkle lights, wooden stalls, warm hanging lanterns" }, "lighting": { "type": "warm golden fairy-light glow", "mood": "cozy, festive, romantic" }, "camera": { "angle": "low-to-mid angle", "lens_effect": "slight wide-angle with warm bloom", "framing": "subject centered among Christmas lights" }, "art_overlay": { "style": "maximalist Christmas sweets-monster pop-art", "illustrated_elements": { "monsters": "gingerbread goblins, candy-cane worms, snowball blob creatures, hot-cocoa monsters with melting marshmallow faces, cookie reindeer, tiny ornament gremlins, eggnog ghosts, fruitcake beasts", "graphic_shapes": "neon stars, snowflakes, sparkles, swirls, drips, zigzags, holly leaves, ribbon curls, comic bursts without text", "style": "flat neon holiday palette (red, green, gold, icy blue, pink, lime) with thick black outlines" }, "placement_and_density": { "behind_subject": "background filled with overlapping Christmas monsters and shapes", "around_subject": "monsters peeking over shoulders, around boots, near hair, and above the bench", "over_clothing": "some gingerbread creatures cling to sweater, candy-cane worms wrap lightly around shorts", "avoid_skin": "face, hands, and legs remain completely photorealistic", "depth_layers": "heavy layering in front and behind for pop-art depth", "energy_effects": "glowing rim lights, falling white dots like stylized snow, speed lines in festive neon" } }, "style": { "overall": "cozy Christmas market portrait overwhelmed by neon festive monsters", "aesthetic": "warm, chaotic, holiday-playful, surreal" } }
 ```
 
 </details>

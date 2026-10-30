@@ -1,0 +1,25 @@
+id: nano-banana-christmas-market-red-coat-portrait
+title:
+  en: Bearded man in red coat at snowy Christmas market
+  zh: 红色外套男子站在飘雪的圣诞市集中
+model: Nano Banana Pro
+mode: image-edit
+category: portrait
+tags:
+- christmas
+- portrait
+- snow
+- christmas-market
+source:
+  name: '@NanoBanana_labs on X'
+  url: https://x.com/NanoBanana_labs/status/1999139019075227982
+  credit: Nano Banana Labs
+  likes: 63
+  captured: '2026-10-29'
+  posted: '2025-12-11'
+notes:
+  en: Repeating the front facing, centered framing and naming the coat colour and snowflake detail pins down the composition. Listing market lights, bokeh and a decorated tree as background layers builds the nighttime holiday scene, and the face preservation clause keeps the uploaded person recognizable.
+  zh: 重复强调正面居中构图，并明确外套颜色和雪花细节，稳定了画面主体。将市集灯光、光斑和装饰圣诞树列为背景层次，营造夜晚节日氛围，同时用保留脸部特征的描述让上传者保持可辨识。
+prompt: |
+  Create a cinematic front-facing Christmas market portrait of a subject standing outdoors in softly falling snow. The shot must always be captured from the front, showing the subject clearly and centered. The subject must be wearing a red winter coat. Add natural snowflakes on the hair and coat, with warm glowing market lights, festive bokeh, and a decorated Christmas tree in the background. Preserve the uploaded person’s face, identity, and all facial features exactly as they are. Keep the atmosphere cozy, elegant, and softly illuminated for a nighttime holiday scene.
+  Aspect ratio 5:3

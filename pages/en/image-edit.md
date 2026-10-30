@@ -1,6 +1,6 @@
 # Photo editing
 
-[Back to the list](../../README.md) · All 43 entries
+[Back to the list](../../README.md) · All 48 entries
 
 <a id="nano-banana-charmander-ember-route-101"></a>
 ### Charmander uses Ember on a sunset route
@@ -189,6 +189,41 @@ two people making heart shape, one real one painted, fingertip connection point,
 
 </details>
 
+<a id="nano-banana-christmas-santa-quiet-sleeping-child-stocking"></a>
+### Santa with finger to lips by a sleeping child
+
+<a href="https://x.com/nero_sansei/status/2003285950571643175"><img src="../../previews/nano-banana-christmas-santa-quiet-sleeping-child-stocking.jpg" width="360"></a>
+
+The prompt adds Santa to a real bedroom photo of a sleeping child and specifies the action (filling an oversized stocking) plus a gesture that shows he knows he is being photographed. Naming the setting and the gesture keeps the added person in the same scene instead of looking pasted in.
+
+Nano Banana Pro · Edit · Source: [@nero_sansei on X](https://x.com/nero_sansei/status/2003285950571643175) · 215 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`santa`](tags.md#tag-santa) [`family`](tags.md#tag-family)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+「サンタ本物だ！」と子供を喜ばせる方法
+① 寝静まった我が子を撮影
+② ChatGPT か Nano Banana Pro に写真アップ
+③ あるプロンプトでサンタ挿入
+④ 完成した画像を朝に見せる
+所要時間1分、無料。昔は「サンタ=親」ってバラす同級生がいたけど、今は「サンタ＝ChatGPT」になるかもね
+プロンプト👇
+
+サンタ追加プロンプト
+---
+子供を起こさないように、でかい靴下にプレゼントを入れてる、グリーランドからきた太ってる本物のサンタさんを追加してください。サンタさんは写真を撮られてることが分かっているので「静かに🤫」という動作も加えてください。
+---
+
+ちなみに、この画像はChatGPTを使って生成しました。でかい靴下がない人は「プレゼントを入れてる」だけでいけるかと思われます。
+試した方は共有待ってます！写真や子供の反応とか気になりますw
+
+というかこの写真、クリスマスプレゼントのイメージダイレクトにくるから、おもちゃの広告打つ時に使えそう
+```
+
+</details>
+
 <a id="gpt-image-minimi-tiny-figures-photo-world"></a>
 ### Miniature 3D figures playing around a portrait
 
@@ -204,6 +239,89 @@ GPT Image 2 · Edit · Source: [@Zyrellix on X](https://x.com/Zyrellix/status/20
 
 ```text
 Transform this photo into a tiny “Minimi” world where miniature 3D characters interact naturally around me — sitting on my shoulder and bag, waving, copying my pose, and exploring the scene. Keep the original photo intact with realistic shadows, depth, motion, warm emotions. Title: “Tiny Moments Beside Me”
+```
+
+</details>
+
+<a id="nano-banana-christmas-red-velvet-santa-sack-walk"></a>
+### Woman in red Santa dress carrying gift sack
+
+<a href="https://x.com/saniaspeaks_/status/2004032010482807073"><img src="../../previews/nano-banana-christmas-red-velvet-santa-sack-walk.jpg" width="360"></a>
+
+A structured JSON brief separates identity lock, wardrobe, pose, lighting and camera into named fields, so each part can be changed on its own. Natural daylight and a shallow depth of field keep the snowy market street soft behind a sharp subject.
+
+Nano Banana Pro · Edit · Source: [@saniaspeaks_ on X](https://x.com/saniaspeaks_/status/2004032010482807073) · 197 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`portrait`](tags.md#tag-portrait) [`santa`](tags.md#tag-santa) [`json-prompt`](tags.md#tag-json-prompt)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+"language": "English",
+  "resolution": "UHD",
+  "aspect_ratio": "3:4",
+  "style": "professional, cinematic, photorealistic",
+  "identity_preservation": {
+    "use_reference_image": true,
+    "alter_face": false,
+    "strict_identity_lock": true,
+    "notes": "All facial features, skin texture, proportions, and identity must be preserved exactly from the provided reference photo. No distortion or replacement of facial characteristics."
+  },
+  "subject": {
+    "gender": "female",
+    "role": "Santa Claus (female, elegant and sensual version)",
+    "appearance": {
+      "expression": "confident, warm, charismatic",
+      "recognizability": "the woman must be easily recognizable as the same person from the reference image"
+    },
+    "wardrobe": {
+      "outfit": "female Santa Claus outfit",
+      "style": "stylish, elegant, subtly sensual but tasteful",
+      "details": [
+        "red Santa dress with white fur trim",
+        "matching Santa accessories",
+        "classic festive color palette"
+      ]
+    },
+    "pose": {
+      "action": "walking forward naturally",
+      "props": [
+        "large sack filled with children’s gifts carried over the shoulder"
+      ],
+      "body_language": "dynamic, confident movement"
+    }
+  },
+  "environment": {
+    "time_of_day": "daylight",
+    "lighting_conditions": "natural daylight",
+    "setting": "outdoor festive environment suitable for Santa Claus imagery",
+    "background": {
+      "style": "softly blurred",
+      "depth": "enhanced depth of field for a professional look"
+    }
+  },
+  "lighting": {
+    "type": "natural daylight",
+    "effects": [
+      "balanced exposure",
+      "soft highlights on face and clothing",
+      "realistic shadows",
+      "enhanced depth and clarity"
+    ]
+  },
+  "camera": {
+    "orientation": "vertical",
+    "focus": "sharp focus on the subject",
+    "depth_of_field": "cinematic, shallow background blur"
+  },
+  "quality_constraints": {
+    "photorealism": "high",
+    "no_artifacts": true,
+    "no_face_distortion": true,
+    "no_unrealistic_effects": true
+  },
+  "output_goal": "Generate a professional-quality, photorealistic vertical 3:4 UHD image of the woman from the reference photo dressed as a feminine Santa Claus, walking in daylight while carrying a sack of gifts, with improved lighting and depth of field, while preserving her exact facial identity."
+}
 ```
 
 </details>
@@ -506,6 +624,41 @@ Negative Prompt: helmet, sitting on bike, low quality, blurry face, cartoon, CGI
 
 </details>
 
+<a id="nano-banana-christmas-character-themed-tree"></a>
+### Blue and gold character tree with doll ornaments
+
+<a href="https://x.com/konmari_tweet/status/2003611761451368464"><img src="../../previews/nano-banana-christmas-character-themed-tree.jpg" width="360"></a>
+
+The prompt runs in three steps: it first extracts the reference character's palette and motifs, then turns the character into plush and shaped ornaments spread across the tree, and finally designs a topper that represents the character. Reusing one reference image for colours, decorations and topper keeps the whole tree on a single theme.
+
+Nano Banana Pro · Edit · Source: [@konmari_tweet on X](https://x.com/konmari_tweet/status/2003611761451368464) · 71 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`christmas-tree`](tags.md#tag-christmas-tree) [`character`](tags.md#tag-character) [`ornaments`](tags.md#tag-ornaments)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+**[AI Instruction: The Ultimate Character Tree Designer]**
+Analyze the provided **[Input Image]**.
+1.  **Theme & Palette:** Extract the character's main color scheme and iconic motifs from the [Input Image] to define the tree's overall theme (e.g., ribbon colors, bauble colors, light colors).
+2.  **Custom Ornaments:** Transform the character into various **custom ornaments** (plushies, figures, shaped baubles) and distribute them throughout the tree.
+3.  **Tree Topper:** Create a unique **tree topper** that symbolizes the character (e.g., their hat, a large star with their emblem, or the character itself sitting on top).
+
+**[Main Subject: Character Themed Christmas Tree]**
+A stunning, high-quality photograph of a lavishly decorated **Christmas Tree** dedicated to the character in the **[Input Image]**.
+
+**[Tree Details]**
+* **Decorations:** The tree is packed with ornaments inspired by the **[Input Image]**. This includes character plush toys, figures, and baubles in their image colors, along with themed ribbons and garlands.
+* **Lighting:** Warm or colored LED lights that perfectly complement the character's palette, creating a magical glow.
+* **The Topper:** A special, eye-catching decoration sits at the very top, representing the character.
+
+**[Atmosphere]**
+* **Setting:** A cozy living room or a high-end display space, with wrapped presents under the tree that also match the theme.
+* **Vibe:** Magical, luxurious, official collaboration quality. 8k resolution.
+```
+
+</details>
+
 <a id="nano-banana-zootopia-cable-car-hug"></a>
 ### Man in cable car with Zootopia characters
 
@@ -522,6 +675,39 @@ Nano Banana 2 · Edit · Source: [@frametheory058 on X](https://x.com/frametheor
 ```text
 A photorealistic, eye-level medium shot taken from inside a modern glass cable car. The uploaded man is sitting on a slatted wooden bench, wearing a black long-sleeve crewneck sweater and light beige trousers. He has his arms affectionately wrapped around two highly detailed 3D animated characters from Zootopia: Judy Hopps, wearing her blue police tactical uniform, is seated on his right, and Nick Wilde, wearing his green button-down shirt and striped tie, is seated on his left. Through the large panoramic windows behind them, there is a bright, majestic snow-covered alpine mountain landscape. In the mid-ground outside, a red and white passenger train is crossing an arched stone viaduct bridge. Bright natural daylight illuminates the interior, casting soft shadows and seamlessly blending the 3D cartoon characters into the photorealistic, live-action environment.
 Ratio 4:5
+```
+
+</details>
+
+<a id="nano-banana-christmas-fondant-topper-birthday-cake"></a>
+### Teal birthday cake with fondant girl topper
+
+<a href="https://x.com/konmari_tweet/status/2000349853852062001"><img src="../../previews/nano-banana-christmas-fondant-topper-birthday-cake.jpg" width="360"></a>
+
+The prompt maps the input image's dominant colors to a cake flavor and icing palette, then turns the subject into an edible topper. Asking for a sugar or chocolate finish keeps the character recognizable while making it read as a real cake decoration.
+
+Nano Banana Pro · Edit · Source: [@konmari_tweet on X](https://x.com/konmari_tweet/status/2000349853852062001) · 66 likes on 2026-10-29
+
+[`cake`](tags.md#tag-cake) [`food-photography`](tags.md#tag-food-photography)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+**[AI Instruction: Image-to-Edible Art]**
+Analyze the provided **[Input Image]**.
+1.  **Flavor & Palette:** Extract the dominant colors to determine the cake's flavor theme (e.g., Pink=Strawberry, Brown=Chocolate, Blue=Vanilla/Mint) and icing colors.
+2.  **Edible Motif:** Transform the main character or object in the [Input Image] into a high-quality **edible cake topper** (e.g., detailed fondant figure, royal icing cookie, or chocolate sculpture).
+
+**[Main Subject]**
+A delicious, high-end **Designer Birthday Cake** placed on a ceramic cake stand. The design is celebratory, sweet, and perfectly color-coordinated with the input image.
+
+**[Thematic Decoration]**
+* **The Topper:** The [Input Image] subject sits proudly on top as a cute, edible decoration. It retains the original design but looks distinctively made of sugar or chocolate.
+* **Details:** Decorated with piped buttercream swirls, fresh fruits, macarons, sprinkles, and edible pearls that match the [Input Image]'s color palette.
+* **Texture:** Soft sponge, glossy ganache drip, fluffy whipped cream.
+
+**[Atmosphere]**
+Bright café lighting, mouth-watering food photography, 8k resolution, macro shot focusing on the details of the sweets.
 ```
 
 </details>
@@ -647,6 +833,29 @@ TARGET IMAGE = everything except facial identity.
 REFERENCE PHOTO = facial identity only.
 
 The final image must look almost identical to the TARGET IMAGE, with only the woman's facial identity changed. The real photo and the illustrated character must clearly look like the same woman.
+```
+
+</details>
+
+<a id="nano-banana-christmas-blue-bedroom-decor-transform"></a>
+### Blue bedroom transformed with Christmas lights and tree
+
+<a href="https://x.com/umesh_ai/status/2004214017154601106"><img src="../../previews/nano-banana-christmas-blue-bedroom-decor-transform.jpg" width="360"></a>
+
+The prompt fixes the subject, layout and camera angle of the input, so the room stays recognizable while only decor is added. Naming specific elements such as string lights, a tree, gift boxes and candy canes, and limiting hats and scarves to where they fit naturally, keeps the result tasteful.
+
+Nano Banana Pro · Edit · Source: [@umesh_ai on X](https://x.com/umesh_ai/status/2004214017154601106) · 39 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`interior`](tags.md#tag-interior) [`holiday-decor`](tags.md#tag-holiday-decor)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Merry Christmas ⛄
+
+Turn any picture into a cozy Christmas celebration using this Nano Banana Pro prompt 🎄✨
+
+Prompt : Take the provided image as the base and keep the main subject, layout, and camera angle unchanged. Transform the scene into a festive Christmas celebration while preserving realistic lighting and proportions. Add warm holiday string lights (soft bokeh), subtle snowfall or sparkling particles, and a cozy red-and-green color accent across decor. Place tasteful Christmas elements that match the context: a decorated tree in the background, wrapped gift boxes, candy canes, holly, and a few ornaments. Add Santa hats or winter scarves only if they fit naturally. Enhance warmth with golden highlights and gentle vignette. Avoid clutter, text, logos, and distorted faces; keep details sharp and natural.
 ```
 
 </details>

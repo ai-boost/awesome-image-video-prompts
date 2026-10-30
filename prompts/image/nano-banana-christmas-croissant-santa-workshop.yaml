@@ -1,0 +1,61 @@
+id: nano-banana-christmas-croissant-santa-workshop
+title:
+  en: Miniature Santas work on a giant croissant
+  zh: 微型圣诞老人在巨型羊角面包上施工
+model: Nano Banana Pro
+mode: text-to-image
+category: realism
+tags:
+- christmas
+- tilt-shift
+- miniature
+- food
+source:
+  name: '@eachlabs on X'
+  url: https://x.com/eachlabs/status/2004555026300080557
+  credit: each::labs
+  likes: 37
+  captured: '2026-10-29'
+  posted: '2025-12-13'
+notes:
+  en: A structured JSON prompt separates subject, environment, action and style, so each part of the scene is specified clearly. The tilt shift technique with a wide angle and shallow depth of field makes the tiny Santa figures read as a real miniature set.
+  zh: 结构化的 JSON 提示把主体、环境、动作和风格分开描述，让画面的每个部分都有明确指定。移轴摄影配合广角与浅景深，让微型圣诞老人看起来像真实的微缩场景。
+prompt: |
+  {
+        "id": 20,
+        "title": "Christmas Croissant Workshop",
+        "subject": {
+          "main_element": "Freshly baked croissant",
+          "orientation": "Placed diagonally to emphasize flaky layers",
+          "details": [
+            "Golden crispy exterior",
+            "Visible butter layers",
+            "Light steam rising"
+          ]
+        },
+        "environment": {
+          "setting": "Christmas-themed bakery counter with fairy lights and pine decorations",
+          "elements": [
+            "Miniature scaffolding between pastry layers",
+            "Tiny Santa Claus workers in red suits and hats",
+            "Small Christmas ornaments and candy canes around the scene"
+          ]
+        },
+        "action": [
+          "Santa Claus figures brushing melted butter",
+          "Aligning flaky layers carefully",
+          "Inspecting crispness with festive tools"
+        ],
+        "style": {
+          "camera_view": "Wide-angle view",
+          "technique": "Highly detailed tilt-shift photography",
+          "focus": "Shallow depth of field",
+          "atmosphere": "Warm, cozy, cinematic Christmas bakery lighting"
+        },
+        "parameters": {
+          "aspect_ratio": "--ar 4:3",
+          "reference_constraint": ""
+        }
+      }
+    ]
+  }

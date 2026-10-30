@@ -1,0 +1,28 @@
+id: nano-banana-christmas-disney-minnie-portrait
+title:
+  en: Young woman with Minnie plush at Disney Christmas night
+  zh: 圣诞夜迪士尼乐园里抱着米妮玩偶的年轻女子
+model: Nano Banana Pro
+mode: image-edit
+category: portrait
+tags:
+- christmas
+- disney
+- portrait
+- reference-image
+source:
+  name: '@SimplyAnnisa on X'
+  url: https://x.com/SimplyAnnisa/status/1994565437670207617
+  credit: Anissa
+  likes: 395
+  captured: '2026-10-29'
+  posted: '2025-11-29'
+notes:
+  en: Pairing a reference image with an explicit identity lock (DO NOT CHANGE THE FACE) and a camera spec (eye level, waist up, shallow depth of field) keeps the subject consistent while the scene is rebuilt around her. Listing each prop and the pose in order gives the model concrete, checkable details.
+  zh: 参考图加上明确的人脸锁定指令（不要改变面部），再配合镜头规格（平视、半身、浅景深），在重建场景的同时保持人物一致。按顺序逐一写明道具和姿势，让模型有具体可核对的细节。
+prompt: |
+  Using my reference image. DO NOT CHANGE THE FACE — keep all facial features exactly the same. Create a highly detailed, festive nighttime scene at a Disney theme park during Christmas season. A young woman stands in the foreground, centered in the frame. She wears red fluffy earmuffs, a green fuzzy jacket embroidered with multiple smiling Mickey Mouse faces, a black crop top revealing a subtle navel piercing, high-waisted light blue jeans with a black belt, and carries a small red crossbody purse with gold hardware. In her left hand, she holds a plush Minnie Mouse doll dressed in a red Santa outfit with white trim and a green scarf, while making a playful peace sign near her face and puckering her lips in a cute kiss pose. A delicate gold necklace with a small pendant adorns her neck.
+
+  The shot is an eye-level, straight-on medium portrait from the waist up, captured with a Fujifilm professional camera, using shallow depth of field to keep her in perfect focus while softly blurring the background. Behind her, a classic green lamppost wrapped in Christmas garland, twinkling warm white lights, red ribbons, gold ornaments, and red baubles decorates the scene. To the right, a glowing carousel with a white canopy and colorful string lights illuminates the festive night. The ground is paved brick, and distant bokeh lights from park attractions create a magical atmosphere.
+
+  The overall mood is joyful, whimsical, and full of holiday spirit — vibrant colors, warm golden lighting, cinematic composition, photorealistic style, and 8K ultra-HD quality.

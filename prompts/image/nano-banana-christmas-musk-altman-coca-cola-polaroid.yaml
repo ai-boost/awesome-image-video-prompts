@@ -1,0 +1,24 @@
+id: nano-banana-christmas-musk-altman-coca-cola-polaroid
+title:
+  en: Musk and Altman drinking Coca Cola in Santa hats
+  zh: 马斯克与奥尔特曼戴圣诞帽喝可乐
+model: Nano Banana Pro
+mode: text-to-image
+category: realism
+tags:
+- christmas
+- polaroid
+- celebrity
+- coca-cola
+source:
+  name: '@drashyakuruwa on X'
+  url: https://x.com/drashyakuruwa/status/2001032870962585973
+  credit: Drashya Kuruwa
+  likes: 39
+  captured: '2026-10-29'
+  posted: '2025-12-16'
+notes:
+  en: The prompt is short and names only the subjects, drink and caps, so the model supplies the Polaroid frame, the hand holding the print, warm flash lighting and a handwritten caption on its own. Adding the word Polaroid is what drives the vintage snapshot look.
+  zh: 提示词很短，只写了人物、饮料和圣诞帽，模型自行补充了拍立得相框、手持照片、暖色闪光灯和手写标题。加入拍立得这个词是形成复古快照效果的关键。
+prompt: |
+  A polarised selfie photo of Elon Musk and Sam Altman drinking Coca-Cola in Christmas caps

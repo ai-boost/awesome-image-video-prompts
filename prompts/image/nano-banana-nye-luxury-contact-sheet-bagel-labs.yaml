@@ -1,0 +1,164 @@
+id: nano-banana-nye-luxury-contact-sheet-bagel-labs
+title:
+  en: Nine panel New Year luxury contact sheet ad
+  zh: 九宫格新年奢华广告拼图
+model: Nano Banana Pro
+mode: text-to-image
+category: collage
+tags:
+- new-year
+- contact-sheet
+- luxury
+- christmas
+source:
+  name: '@astronomerozge1 on X'
+  url: https://x.com/astronomerozge1/status/2006423399443148854
+  credit: Özge Döner
+  likes: 46
+  captured: '2026-10-29'
+  posted: '2025-12-31'
+notes:
+  en: A structured JSON prompt that locks one model across a 3x3 panel plan, describing each panel's scene and sharing one camera and lighting setup. The explicit allowlist of the only readable text (BAGEL LABS, HAPPY NEW YEAR, 2026) is why those three words render cleanly.
+  zh: 采用结构化 JSON 提示词，固定同一位模特，用九宫格逐格描述场景，并统一相机与布光。明确列出唯一允许的可读文字（BAGEL LABS、HAPPY NEW YEAR、2026），这是三个词能清晰渲染的关键。
+prompt: |
+  {
+    "generation_request": {
+      "meta_data": {
+        "tool": "NanoBanana Pro",
+        "task_type": "text_to_image_ultra_photoreal_nye_luxury_brand_contact_sheet_ad_campaign",
+        "version": "v2.2",
+        "priority": "high"
+      },
+      "output_settings": {
+        "aspect_ratio": "4:5",
+        "orientation": "portrait",
+        "resolution": "ultra_high_res",
+        "render_style": "ultra_photoreal_beauty_editorial_luxury_ad",
+        "sharpness": "crisp_but_natural",
+        "film_grain": "none_or_minimal",
+        "color_grade": "warm_luxury_clean_true_to_life"
+      },
+      "creative_prompt": {
+        "global_scene_summary": {
+          "en": "Ultra-photoreal luxury brand New Year (NYE) ad post in a 3x3 contact sheet collage (nine panels). ONE consistent model repeated across all panels: hair worn down, long voluminous glossy dark waves with lift at the roots; lean, fit runway physique; high-fashion attractive look. Skin is luminous with realistic texture and premium editorial retouch (no plastic smoothing). Makeup: defined brows, clean eyeliner, soft bronzy blush, bold red lipstick.\n\nBackgrounds are NOT white: each panel uses a warm, color-rich luxury holiday studio backdrop, cohesive as a single campaign. Palette stays premium and consistent across the 3x3: champagne gold, deep burgundy, creamy ivory, soft peach, warm amber bokeh, subtle red-gold gradients, satin/velvet backdrop textures. Atmosphere: warm, inviting, sensual, elegant, high-end.\n\nLighting: luxury beauty studio lighting (large soft key + fill + controlled rim) plus tasteful warm practical bokeh/fairy lights. Face and critical objects/text are tack sharp. Camera: 85mm beauty lens look; portraits at f/4–f/5.6 for creamy bokeh; text/balloons/nails at f/8 for maximum legibility; ISO 100; shutter 1/160.\n\nReadable text is allowed ONLY for: 'BAGEL LABS', 'HAPPY NEW YEAR', '2026'. Typography must be modern bold sans-serif, elegant kerning, perfectly spelled, centered, and fully legible. No other text, no extra logos, no watermark."
+        },
+        "composition": {
+          "layout": "3x3 grid collage, consistent warm-ivory gutters, perfect alignment",
+          "framing": "mix of macro detail, tight beauty close-ups, and medium shots; premium ad look",
+          "focus": "model face + allowed text are tack sharp; backgrounds controlled bokeh/gradients"
+        },
+        "lighting_and_camera": {
+          "lighting": "luxury holiday studio: large soft key + fill + subtle rim; warm practical bokeh lights; controlled specular highlights",
+          "lens": "85mm beauty lens look",
+          "aperture_strategy": "portraits f/4–f/5.6; nails/typography/balloons f/8",
+          "iso": "100",
+          "shutter": "1/160",
+          "avoid": "moody harsh shadows, neon club lighting, dirty backdrops, cheap props"
+        },
+        "brand_art_direction": {
+          "mood": "luxury holiday, warm, inviting, high-fashion, celebratory",
+          "palette": [
+            "champagne_gold",
+            "deep_burgundy",
+            "creamy_ivory",
+            "soft_peach",
+            "warm_amber_bokeh",
+            "subtle_red_gold_gradient"
+          ],
+          "materials": "premium satin/velvet backdrops, tasteful metallic reflections, elegant bokeh fairy lights"
+        },
+        "panel_plan_3x3": {
+          "row_1": {
+            "panel_1_top_left": {
+              "scene": "Macro close-up of NYE-themed manicure: ultra-sharp nails with modern elegant design (red + gold micro-stars/foil). Background: champagne-gold bokeh + creamy satin texture. Realistic skin texture and perfect hand anatomy.",
+              "notes": "No extra fingers; no jewelry branding; premium look."
+            },
+            "panel_2_top_center": {
+              "scene": "Four separate red balloons forming '2026' side-by-side: '2' '0' '2' '6' as individual balloons. Background: soft burgundy-to-amber gradient with warm bokeh. Balloons look premium and photoreal (foil/latex feel), strings neat.",
+              "notes": "2026 must be perfectly readable and undistorted."
+            },
+            "panel_3_top_right": {
+              "scene": "Elegant fireworks burst in gold-white sparkles with thin light trails, minimal smoke. Background: deep burgundy velvet-like backdrop with subtle warm bokeh; high-end editorial composite feel.",
+              "notes": "Clean, premium, not chaotic."
+            }
+          },
+          "row_2": {
+            "panel_4_middle_left": {
+              "scene": "Model in a luxurious red dress (silk/satin look) wearing an elegant NYE party hat (velvet/satin, not cheap plastic). She holds a champagne bottle and a flute in a classy celebratory pose. Background: warm ivory backdrop with gold bokeh lights.",
+              "notes": "Bottle label must be generic/unreadable; no brands."
+            },
+            "panel_5_middle_center": {
+              "scene": "Hero shot: model in the red dress pops champagne. Ultra-photoreal splash/foam droplets frozen mid-air, dramatic but clean; foam does NOT cover the face. Background: champagne-gold gradient with dense but tasteful warm fairy-light bokeh; luxury ad vibe.",
+              "notes": "No artifact shapes; no messy spill; face remains sharp."
+            },
+            "panel_6_middle_right": {
+              "scene": "Typography panel: 'HAPPY NEW YEAR' in a modern elegant sans-serif, perfectly kerned, centered, and fully legible. Background: deep burgundy satin texture with minimal gold bokeh/confetti (very subtle, not interfering with readability).",
+              "notes": "Only this text, nothing else."
+            }
+          },
+          "row_3": {
+            "panel_7_bottom_left": {
+              "scene": "Typography panel: 'BAGEL LABS' in modern luxury holiday styling. Background: creamy ivory with a subtle champagne-gold gradient and micro star bokeh. Premium, minimal, elegant.",
+              "notes": "Only 'BAGEL LABS' text, perfectly readable."
+            },
+            "panel_8_bottom_center": {
+              "scene": "NYE dinner close-up: premium styled table detail (linen, red-gold accents, crystal glassware, candle glow feel) with warm bokeh background. Editorial ad styling, clean composition, appetizing but minimal.",
+              "notes": "No readable labels or brands; no clutter."
+            },
+            "panel_9_bottom_right": {
+              "scene": "Model decorating a minimalist luxury Christmas/New Year tree with red and gold ornaments and warm mini-lights. She’s in the same red dress, smiling naturally. Background: warm peach-to-ivory gradient with bokeh; cozy and elegant.",
+              "notes": "Single model; perfect anatomy; consistent hair/makeup."
+            }
+          }
+        },
+        "hard_constraints": [
+          "ONE model only, repeated consistently across panels (no identity drift)",
+          "3x3 grid collage with perfect alignment and consistent gutters",
+          "Luxury warm color-rich backgrounds (no pure white backdrops)",
+          "Hair down: long, voluminous, glossy dark waves with root lift",
+          "Lean, fit runway physique; high-fashion look",
+          "Red dress on panels: middle-left, middle-center, bottom-right",
+          "Middle-center hero panel: champagne popping with clean frozen splash; face not covered",
+          "Top-center: '2026' as four separate red balloons (2 0 2 6), perfectly readable",
+          "Middle-right: 'HAPPY NEW YEAR' perfectly readable, modern elegant sans-serif",
+          "Bottom-left: 'BAGEL LABS' perfectly readable, modern elegant sans-serif",
+          "Top-left: macro NYE manicure, ultra sharp",
+          "Top-right: elegant fireworks, clean premium look",
+          "Bottom-center: NYE dinner, premium editorial styling",
+          "Only readable text allowed: BAGEL LABS, HAPPY NEW YEAR, 2026",
+          "No other logos/brands/text, no watermark",
+          "Photoreal skin texture; no plastic smoothing",
+          "Hands/fingers anatomically correct; no extra fingers"
+        ]
+      },
+      "negative_prompt": [
+        "misspelled text",
+        "garbled letters",
+        "any readable text other than: BAGEL LABS, HAPPY NEW YEAR, 2026",
+        "extra logos",
+        "watermark",
+        "cheap party aesthetic",
+        "neon nightclub look",
+        "dirty or cluttered background",
+        "multiple different models",
+        "identity drift",
+        "anime",
+        "cartoon",
+        "cgi look",
+        "plastic skin",
+        "over-smoothed skin",
+        "deformed hands",
+        "extra fingers",
+        "blurred typography",
+        "blurred 2026 balloons",
+        "blurred nails",
+        "low resolution",
+        "hair tied up",
+        "flat lifeless hair",
+        "visible alcohol brand labels",
+        "messy champagne splash covering face",
+        "artifact shapes on gradients",
+        "bokeh overlapping the text"
+      ]
+    }
+  }

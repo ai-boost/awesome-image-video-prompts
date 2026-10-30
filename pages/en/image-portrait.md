@@ -1,6 +1,6 @@
 # Portraits
 
-[Back to the list](../../README.md) · All 215 entries · **1** · [2](image-portrait-2.md)
+[Back to the list](../../README.md) · All 245 entries · **1** · [2](image-portrait-2.md)
 
 <a id="gpt-image-macbook-screen-photo-booth-selfie"></a>
 ### Dim bedroom selfie in Photo Booth on laptop
@@ -534,6 +534,67 @@ Hoodie slipping off one shoulder, visible collarbone. Warm indoor lighting, soft
 
 </details>
 
+<a id="nano-banana-christmas-white-corset-gloves-sofa"></a>
+### White corset woman on fur sofa by Christmas tree
+
+<a href="https://x.com/xmliisu/status/2003490900542976013"><img src="../../previews/nano-banana-christmas-white-corset-gloves-sofa.jpg" width="360"></a>
+
+The JSON splits subject, outfit, environment and lighting into separate fields, so the gloves, boots, tree and garland are each named once and stay in the frame. Calling out the satin highlights and warm ambient light builds the glamorous mood without extra style words.
+
+Nano Banana Pro · Text-to-image · Source: [@xmliisu on X](https://x.com/xmliisu/status/2003490900542976013) · 718 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`portrait`](tags.md#tag-portrait) [`fashion`](tags.md#tag-fashion) [`holiday-interior`](tags.md#tag-holiday-interior)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+{
+  "subject": {
+    "type": "person",
+    "gender": "female",
+    "pose": "reclining on a textured sofa, leaning back on one arm",
+    "expression": "neutral, confident, slight pout",
+    "gaze": "direct contact with the camera",
+    "hair": {
+      "color": "dark brown",
+      "style": "long, straight, center-parted, flowing over shoulders"
+    },
+    "attire": {
+      "outfit": "white strapless mini dress with a corset-style bodice",
+      "gloves": "white satin opera-length gloves",
+      "footwear": "cream-colored knee-high leather boots with pointed toes and chain detail",
+      "accessories": [
+        "chunky pearl necklace",
+        "gold bracelet worn over the left glove"
+      ]
+    }
+  },
+  "environment": {
+    "setting": "indoor, festive living space",
+    "furniture": "sofa covered with a plush, textured cream/beige fur throw",
+    "decor": [
+      "large Christmas tree heavily decorated with gold and silver ornaments, ribbon, and warm white fairy lights",
+      "frosted pine garland with lights mounted on the upper wall",
+      "small framed picture hanging on the wall"
+    ],
+    "background": "textured beige wall"
+  },
+  "lighting_and_mood": {
+    "lighting": "warm ambient light, soft shadows, highlights on the satin gloves and corset",
+    "atmosphere": "glamorous, cozy, holiday-themed, elegant",
+    "color_palette": [
+      "cream",
+      "white",
+      "gold",
+      "dark green",
+      "warm beige"
+    ]
+  }
+}
+```
+
+</details>
+
 <a id="gpt-image-spotlight-museum-mural-portrait"></a>
 ### Spotlit woman before Japanese mural in dark museum
 
@@ -754,6 +815,74 @@ Nano Banana 2 · Text-to-image · Source: [@KeorUnreal on X](https://x.com/KeorU
 
 </details>
 
+<a id="nano-banana-christmas-bed-santa-pout"></a>
+### Woman in Santa outfit pouting on bed
+
+<a href="https://x.com/xmliisu/status/2000961513985601954"><img src="../../previews/nano-banana-christmas-bed-santa-pout.jpg" width="360"></a>
+
+A nested JSON spec separates subject, pose, outfit, setting and camera, so each detail such as the hat, French-tip nails and crossed ankles gets its own field. The explicit high angle and vertical orientation set the framing.
+
+Nano Banana Pro · Text-to-image · Source: [@xmliisu on X](https://x.com/xmliisu/status/2000961513985601954) · 436 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`portrait`](tags.md#tag-portrait) [`json-prompt`](tags.md#tag-json-prompt) [`high-angle`](tags.md#tag-high-angle)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+{
+  "subject": {
+    "description": "Young woman lying on a bed",
+    "pose": "Lying on stomach, propped up on elbows, legs raised and crossed at the ankles behind her",
+    "expression": "Pouting lips, looking directly at the camera",
+    "hair": "Long, dark brown, loose and straight",
+    "clothing": {
+      "hat": "Red and white Santa hat with white fur trim and pom-pom",
+      "outfit": "Red velvet long-sleeved dress or top with white fur cuffs",
+      "stockings": "Sheer white thigh-high stockings"
+    },
+    "hands": "Right hand raised near face, showing manicured nails with red French tips"
+  },
+  "setting": {
+    "location": "Bedroom interior",
+    "furniture": "Bed with white linens and pillows",
+    "background_elements": [
+      "Cream-colored walls with decorative molding",
+      "Lamp with a pleated shade",
+      "Christmas garland with lights attached to wall/headboard",
+      "Small Christmas tree with lights in the distance"
+    ]
+  },
+  "lighting": "Warm, indoor ambient lighting",
+  "perspective": "High angle, looking down at the subject",
+  "orientation": "Vertical"
+}
+```
+
+</details>
+
+<a id="nano-banana-christmas-disney-minnie-portrait"></a>
+### Young woman with Minnie plush at Disney Christmas night
+
+<a href="https://x.com/SimplyAnnisa/status/1994565437670207617"><img src="../../previews/nano-banana-christmas-disney-minnie-portrait.jpg" width="360"></a>
+
+Pairing a reference image with an explicit identity lock (DO NOT CHANGE THE FACE) and a camera spec (eye level, waist up, shallow depth of field) keeps the subject consistent while the scene is rebuilt around her. Listing each prop and the pose in order gives the model concrete, checkable details.
+
+Nano Banana Pro · Edit · Source: [@SimplyAnnisa on X](https://x.com/SimplyAnnisa/status/1994565437670207617) · 395 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`disney`](tags.md#tag-disney) [`portrait`](tags.md#tag-portrait) [`reference-image`](tags.md#tag-reference-image)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Using my reference image. DO NOT CHANGE THE FACE — keep all facial features exactly the same. Create a highly detailed, festive nighttime scene at a Disney theme park during Christmas season. A young woman stands in the foreground, centered in the frame. She wears red fluffy earmuffs, a green fuzzy jacket embroidered with multiple smiling Mickey Mouse faces, a black crop top revealing a subtle navel piercing, high-waisted light blue jeans with a black belt, and carries a small red crossbody purse with gold hardware. In her left hand, she holds a plush Minnie Mouse doll dressed in a red Santa outfit with white trim and a green scarf, while making a playful peace sign near her face and puckering her lips in a cute kiss pose. A delicate gold necklace with a small pendant adorns her neck.
+
+The shot is an eye-level, straight-on medium portrait from the waist up, captured with a Fujifilm professional camera, using shallow depth of field to keep her in perfect focus while softly blurring the background. Behind her, a classic green lamppost wrapped in Christmas garland, twinkling warm white lights, red ribbons, gold ornaments, and red baubles decorates the scene. To the right, a glowing carousel with a white canopy and colorful string lights illuminates the festive night. The ground is paved brick, and distant bokeh lights from park attractions create a magical atmosphere.
+
+The overall mood is joyful, whimsical, and full of holiday spirit — vibrant colors, warm golden lighting, cinematic composition, photorealistic style, and 8K ultra-HD quality.
+```
+
+</details>
+
 <a id="nano-banana-chibi-twins-caricature-pairs"></a>
 ### Four celebrities beside Pixar style bobblehead caricatures
 
@@ -839,6 +968,126 @@ Ultra photorealistic, natural skin texture, real moment. No illustration, no CGI
 
 </details>
 
+<a id="nano-banana-christmas-vinyl-cafe-portrait"></a>
+### Woman in gingham top at a Christmas record cafe
+
+<a href="https://x.com/ZaraIrahh/status/1998043967888515532"><img src="../../previews/nano-banana-christmas-vinyl-cafe-portrait.jpg" width="360"></a>
+
+The prompt splits the scene into subject, environment, lighting and camera fields, so each prop and the direct flash look are specified separately. Naming a film stock and a point and shoot compact camera sets the Y2K snapshot feel.
+
+Nano Banana Pro · Text-to-image · Source: [@ZaraIrahh on X](https://x.com/ZaraIrahh/status/1998043967888515532) · 332 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`portrait`](tags.md#tag-portrait) [`y2k`](tags.md#tag-y2k) [`film-look`](tags.md#tag-film-look)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+"subject": {
+      "description": "hyper-realistic portrait of a cute, doll-faced Asian woman sitting at a dark wooden table in a vintage-style room",
+      "face_preservation": true,
+      "pose": {
+        "body_position": "seated at the table",
+        "head": "slightly tilted toward camera",
+        "hands": "chin resting gently on one hand, other hand relaxed on or near the table",
+        "expression": "soft, warm, slightly shy smile with big doll-like eyes looking toward the camera"
+      },
+      "appearance": {
+        "skin_tone": "very fair skin with realistic texture",
+        "hair": {
+          "color": "dark brown",
+          "length": "long",
+          "style": "slightly wind-blown with a few strands falling across her face, layered and softly messy"
+        },
+        "makeup": {
+          "style": "Douyin and Korean-inspired",
+          "eyes": "long curled lashes with subtle liner, bright and glossy look",
+          "blush": "soft pink on cheeks and nose tip",
+          "lips": "glossy rose-pink lips",
+          "overall": "cute doll-like aesthetic"
+        },
+        "clothing": {
+          "top": {
+            "type": "puff-sleeve crop top",
+            "pattern": "red-and-white checkered",
+            "neckline": "wide neckline revealing collarbones and subtle cleavage",
+            "details": "small lace ruffle edges and a bow tie in the center"
+          },
+          "bottom": {
+            "type": "fitted mini skirt",
+            "pattern": "matching red-and-white checkered"
+          }
+        },
+        "accessories": {
+          "necklace": "minimal small-pendant necklace",
+          "nails": "Christmas-themed nail art"
+        }
+      }
+    },
+
+    "environment": {
+      "setting": "retro café or music lounge corner",
+      "walls": {
+        "color": "dark brown",
+        "decor": [
+          "CD shelves",
+          "vinyl records on the wall",
+          "Christmas tree",
+          "Christmas ornaments"
+        ]
+      },
+      "table": {
+        "material": "dark wood",
+        "objects": [
+          "vintage amplifier",
+          "old-style record player",
+          "one iced matcha latte in a clear cup",
+          "beautifully decorated Christmas-themed food and desserts",
+          "red Canon IXY 30S camera placed clearly on the table"
+        ]
+      }
+    },
+
+    "lighting": {
+      "ambient": {
+        "type": "warm tungsten",
+        "color": "orange",
+        "mood": "cozy and festive"
+      },
+      "key_light": {
+        "type": "direct flash",
+        "position": "from camera direction",
+        "effect": "brightens her skin sharply with a slightly yellow-white glow, creates strong hard shadows behind her"
+      },
+      "additional_light": {
+        "type": "soft natural sunlight",
+        "placement": "subtle presence in the room",
+        "effect": "adds gentle highlights and depth"
+      }
+    },
+
+    "photography": {
+      "style": "Y2K / early digital compact camera vibe",
+      "camera_feel": "point-and-shoot compact digital, on-camera flash",
+      "quality": "super sharp 8K hyper-realistic image",
+      "color_profile": "Fujifilm Pro 400H inspired, slightly old-lens filter",
+      "exposure": "bright exposure emphasizing the subject against darker background",
+      "texture": {
+        "skin": "realistic pores and soft sheen",
+        "grain": "light film grain overlay for nostalgic film look"
+      }
+    },
+
+    "composition": {
+      "framing": "medium close-up, centered on subject at the table with upper body visible and table objects clearly shown",
+      "focus": "sharp focus on face and upper body, table items slightly less sharp but still detailed",
+      "background_depth": "background elements recognizable but slightly softer than subject"
+    }
+  }
+}
+```
+
+</details>
+
 <a id="gpt-image-dusk-film-portrait"></a>
 ### Low angle dusk portrait with front flash and film grain
 
@@ -854,6 +1103,27 @@ GPT Image 2.5 · Text-to-image · Source: [@chatgptpaglu on X](https://x.com/cha
 
 ```text
 A low-angle, close-up photograph capturing a young woman with wavy brown hair outdoors at dusk. She is wearing a grey cropped t-shirt with a blue and white graphic text that reads 'DESTINED' above 'SET 1958' and black denim bottoms. Her head is tilted, and she is looking directly into the camera lens. The dark blue evening sky serves as the background, with silhouetted tree branches visible at the bottom of the frame. Strong flash lighting is directed from the front, illuminating her face and highlighting strands of her hair. The composition has a grainy film photography aesthetic.
+```
+
+</details>
+
+<a id="nano-banana-psg-kit-man-kitchen-props-portrait"></a>
+### Man in PSG kit holding lily of the valley
+
+<a href="https://x.com/fofrAI/status/1997340541764161950"><img src="../../previews/nano-banana-psg-kit-man-kitchen-props-portrait.jpg" width="360"></a>
+
+Packs many unrelated props into one scene and pins each one to a body part or a specific spot, so every object has a clear location. The hastily taken photo instruction sets a casual everyday camera feel that keeps the dense detail from looking staged.
+
+Nano Banana Pro · Text-to-image · Source: [@fofrAI on X](https://x.com/fofrAI/status/1997340541764161950) · 299 likes on 2026-10-29
+
+[`portrait`](tags.md#tag-portrait) [`celebrity`](tags.md#tag-celebrity) [`everyday-scene`](tags.md#tag-everyday-scene) [`multi-prop`](tags.md#tag-multi-prop)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Y'all aren't pushing Nano Banana Pro hard enough.
+
+ > A portrait photo of david duchovny, he is wearing a PSG kit, on his shoulder is a parthenos sylvia, in his hand he is holding lily of the valley, behind him there is a poster for the movie "Last Year at Marienbad" and a Garchomp poster. On a plinth there is a jeff koons sculpture. The sky through the window shows lenticular clouds. There is also a Terminator 2 cross-stitch on the wall. On his arm there is a tattoo of a Nissan Qashqai. There's an orange lego Christmas tree. The room has a high end decor, a pot is boiling on the NEFF hob. Next to the pot is a little origami chair made from purple and yellow paper. He has a dangling monstera leaf earring.  There is a pet marine iguana. In his other hand he is making the ok shape. On that hand there is a gold ring. The whole image gives the impression of a hastily taken photo, an everyday scene.
 ```
 
 </details>
@@ -901,6 +1171,25 @@ The girl is not perfectly centered. One elbow is close to the upper edge of the 
 Natural skin, realistic texture of hair, knit fabric, trousers, and stone. Slight digital noise, visible fine film grain, muted nighttime color rendering, deep shadows, subtle vignette, RAW unedited feeling.
 
 Do not use 8K, ultra sharp, HDR, beauty filters, airbrushing, plastic skin, artificial bokeh, studio lighting, perfect symmetry, or a glossy AI look.
+```
+
+</details>
+
+<a id="nano-banana-christmas-red-skirt-dance-film-snapshot"></a>
+### Woman dancing in red skirt by Christmas tree
+
+<a href="https://x.com/craftian_keskin/status/2004992718154633573"><img src="../../previews/nano-banana-christmas-red-skirt-dance-film-snapshot.jpg" width="360"></a>
+
+A candid, documentary framing comes from a low close camera angle and a mid-motion pose, while film grain, muted contrast, a faded palette and vignette texture give it an analog snapshot look. Listing the room details (lit tree, wrapped presents, out of focus guests on couches) builds depth and a lived-in feel.
+
+Nano Banana Pro · Text-to-image · Source: [@craftian_keskin on X](https://x.com/craftian_keskin/status/2004992718154633573) · 295 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`film-grain`](tags.md#tag-film-grain) [`vintage-photo`](tags.md#tag-vintage-photo) [`candid`](tags.md#tag-candid)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A candid indoor holiday scene photographed in a warm, nostalgic vintage style. A cozy living room decorated for Christmas, with a fully lit Christmas tree in the background adorned with glowing string lights, ornaments, and a tree topper. Wrapped presents sit beneath the tree, adding soft points of warm light. The room feels intimate and lived-in, with framed photos on the wall and people seated casually on couches in the background, slightly out of focus. In the foreground, a young beautiful attractive blond adult woman is captured mid-movement, dancing naturally. She is smiling while looking slightly downward, joyful and relaxed. She wears a green knit sweater with a subtle festive pattern, tucked into a high-waisted red skirt. A slim belt cinches the waist. She has a red headband in her hair, which is medium-length, brown, and softly styled with natural volume. Her makeup is minimal and natural, emphasizing a warm smile and expressive eyes. Her posture shows motion, one leg bent, hips angled, arms loose, giving the image a spontaneous, authentic feel. The camera angle is slightly low and close, creating a dynamic perspective and emphasizing movement. Lighting is warm and soft, typical of indoor incandescent bulbs and Christmas lights. The image has visible film grain, slight blur from motion, muted contrast, and a faded color palette reminiscent of analog film photography from the late 1990s or early 2000s. Subtle vignetting and texture overlay give the image a scanned photo look. Photorealistic but nostalgic, documentary-style family snapshot, imperfect and charming. No studio lighting, no posed feeling, pure candid holiday moment.
 ```
 
 </details>
@@ -1087,6 +1376,67 @@ Use the uploaded face reference as a strict identity guide and preserve exact fa
 
 </details>
 
+<a id="nano-banana-christmas-red-satin-cami-cat"></a>
+### Smiling woman by Christmas tree with cat
+
+<a href="https://x.com/astronomerozge1/status/2000613498825662583"><img src="../../previews/nano-banana-christmas-red-satin-cami-cat.jpg" width="360"></a>
+
+A structured JSON prompt with a wardrobe_update block swaps the outfit of a reference photo while a keep list fixes the accessories and hairstyle. Placing props by position (tree on the left, staircase behind) and adding a negative list keeps the scene stable through the edit.
+
+Nano Banana Pro · Edit · Source: [@astronomerozge1 on X](https://x.com/astronomerozge1/status/2000613498825662583) · 270 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`portrait`](tags.md#tag-portrait) [`wardrobe-update`](tags.md#tag-wardrobe-update) [`cat`](tags.md#tag-cat)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+{
+  "prompt": "A young Caucasian woman in her early twenties sits on a soft white rug in front of a glowing, gold-decorated Christmas tree. She is dressed in a festive holiday outfit: a deep red velvet long-sleeve top with subtle shimmer and matching velvet leggings. She wears white faux-fur trim slippers. Her hair is styled in a loose, elegant half-up look with soft waves. She has small gold hoop earrings and a sparkly holiday-themed bracelet.",
+  "environment": {
+    "setting": "Cozy living room",
+    "props": [
+      "Christmas tree with golden ornaments and warm lights",
+      "Dark wooden staircase wrapped in fairy lights",
+      "a ceramic mug of hot chocolate with visible steam, whipped cream and a cinnamon stick",
+      "a grey-and-white British Shorthair cat wearing a tiny Santa hat sitting near her on the rug"
+    ],
+    "lighting": "Soft, warm, golden holiday lighting",
+    "scene_position": "Tree on the left, staircase behind"
+  },
+  "composition": {
+    "shot_type": "Medium shot",
+    "angle": "Eye-level",
+    "focus": "Shallow depth of field emphasizing the woman and festive decor",
+    "pose": "Seated on rug with crossed legs, smiling directly at camera"
+  },
+  "wardrobe_update": {
+    "replace_outfit_with": [
+      "red satin spaghetti-strap cami top (holiday chic, slightly glossy, not see-through)",
+      "matching red satin shorts (comfortable, festive, modest fit)"
+    ],
+    "add_accessory": "classic red Santa hat with white trim and pom-pom",
+    "keep": [
+      "white faux-fur trim slippers",
+      "small gold hoop earrings",
+      "sparkly holiday-themed bracelet",
+      "loose elegant half-up hairstyle with soft waves"
+    ]
+  },
+  "vibe": "Warm, joyful, cozy Christmas atmosphere",
+  "negative_prompt": [
+    "text",
+    "watermark",
+    "UI overlay",
+    "extra people",
+    "distorted hands",
+    "plastic skin",
+    "over-sharpening"
+  ]
+}
+```
+
+</details>
+
 <a id="gpt-image-sunny-park-bench-hoodie-portrait"></a>
 ### Woman in Gray Hoodie on Park Bench
 
@@ -1194,6 +1544,59 @@ Nano Banana 2.1 · Edit · Source: [@Emmma___0 on X](https://x.com/Emmma___0/sta
 
 ```text
 Transform the uploaded image into a modern studio portrait. Preserve the subject’s identity and features. Show half the face on the left; stack [NAME] vertically on the right, with each letter filled by matching details from the hidden half. Seamless alignment, [BACKGROUND] backdrop, [LIGHTING], modern typography.
+```
+
+</details>
+
+<a id="gpt-image-christmas-selfie-santa-kiss-grotto"></a>
+### Woman kisses laughing Santa in grotto selfie
+
+<a href="https://x.com/KeorUnreal/status/2003512570150347217"><img src="../../previews/gpt-image-christmas-selfie-santa-kiss-grotto.jpg" width="360"></a>
+
+Each subject gets its own block for identity, pose and expression, which keeps the two people distinct. The selfie viewpoint with flash and warm ambient light sets the close, candid mood.
+
+GPT Image 1.5 · Text-to-image · Source: [@KeorUnreal on X](https://x.com/KeorUnreal/status/2003512570150347217) · 241 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`selfie`](tags.md#tag-selfie) [`portrait`](tags.md#tag-portrait)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+{
+  "image_type": "photograph",
+  "perspective": "close-up selfie angle",
+  "subjects": [
+    {
+      "identity": "attractive woman",
+      "appearance": {
+        "hair": "long straight black ponytail ",
+        "skin_tone": "fair",
+        "expression": "blue eyes, puckered lips kissing Santa's cheek"
+      },
+      "clothing": "form-fitting sleeveless open gold with deep neckline sequin short dress",
+      "pose": "leaning right, left arm extended holding phone"
+    },
+    {
+      "identity": "Santa Claus",
+      "appearance": {
+        "facial_features": "older male, rosy cheeks, white beard/mustache",
+        "expression": "hearty laugh, mouth open, eyes squinted"
+      },
+      "clothing": "red Santa hat, red coat with white fur trim, black belt",
+      "pose": "standing, head tilted back laughing"
+    }
+  ],
+  "setting": {
+    "location": "indoor holiday grotto",
+    "background_elements": [
+      "bokeh Christmas tree with warm lights",
+      "wreath on dark wood wall",
+      "wrapped gifts on floor"
+    ]
+  },
+  "lighting": "flash + warm ambient, soft shadows",
+  "atmosphere": "festive joyous humorous"
+}
 ```
 
 </details>
@@ -1382,6 +1785,96 @@ Small stylish signature-style text in the top corner: "Mr. Tariq"
 
 </details>
 
+<a id="nano-banana-christmas-santa-hat-off-shoulder-portrait"></a>
+### Woman in red Santa hat and sweater
+
+<a href="https://x.com/saniaspeaks_/status/2001460344288612700"><img src="../../previews/nano-banana-christmas-santa-hat-off-shoulder-portrait.jpg" width="360"></a>
+
+Structured JSON prompt that splits subject, composition, environment and technical specs into separate blocks, so outfit, pose and lighting can each be adjusted. The over the shoulder turn against a blurred tree with warm bokeh builds a cinematic holiday portrait.
+
+Nano Banana Pro · Edit · Source: [@saniaspeaks_ on X](https://x.com/saniaspeaks_/status/2001460344288612700) · 217 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`portrait`](tags.md#tag-portrait) [`json-prompt`](tags.md#tag-json-prompt)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+"subject_details": {
+      "description": "Young woman with a refined, glamorous appearance",
+      "hair": "Long, polished brown hair flowing in soft waves down her back",
+      "outfit": "Classic red Santa hat with plush white fur trim, matching red knit sweater styled slightly off-the-shoulder",
+      "makeup": "Refined and professional, highlighting natural beauty"
+    },
+    "composition": {
+      "pose": "Three-quarter profile, turning head over shoulder to look directly at the camera",
+      "expression": "Confident, calm, conveying holiday sophistication",
+      "framing": "Medium shot, portrait focus"
+    },
+    "environment": {
+      "setting": "Festive holiday interior",
+      "background": "Softly blurred Christmas tree, warm bokeh lights, cozy atmosphere"
+    },
+    "technical_specs": {
+      "style": "Photorealistic, cinematic, high-fashion portrait photography",
+      "lighting": "Soft, warm studio lighting with golden highlights and gentle shadows",
+      "resolution": "8k, highly detailed textures",
+      "aspect_ratio": "3:4"
+    }
+  }
+}
+```
+
+</details>
+
+<a id="nano-banana-christmas-cafe-fur-hat-portrait"></a>
+### Woman in fur hat at Christmas café table
+
+<a href="https://x.com/chatgptpaglu/status/2000024054028243175"><img src="../../previews/nano-banana-christmas-cafe-fur-hat-portrait.jpg" width="360"></a>
+
+Mixes a direct flash with warm tungsten light so the subject glows against a darker café background. The Y2K compact camera look and film grain come from the prompt's style lines, and props like the cotton bouquet and gold camera on the table complete the frame.
+
+Nano Banana Pro · Text-to-image · Source: [@chatgptpaglu on X](https://x.com/chatgptpaglu/status/2000024054028243175) · 215 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`portrait`](tags.md#tag-portrait) [`y2k`](tags.md#tag-y2k) [`flash photography`](tags.md#tag-flashphotography)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a hyper-realistic portrait of a cute Asian woman. She is sitting with her chin resting on her hand at a dark wooden table in front of a vintage-style café.
+
+Fashion & Outfit:
+She wears a shiny black leather jacket, slightly open to reveal a white inner top, showing a beautiful neckline. Matched with a fitted black mini-skirt set. She also wears black fishnet stockings. Add a fluffy fur hat over her outfit.
+
+Background:
+In front of a marble-grey café exterior, decorated with a Christmas theme. Include a realistic Christmas tree, pine decorations, and festive ornaments.
+
+Lighting & Tone:
+Warm orange tungsten lighting for an inviting, cozy atmosphere, combined with a strong direct flash hitting the subject straight on, making her skin bright and glowing, contrasting with the slightly darker background.
+The photo should feel Y2K digital compact-camera style—sharp 8K resolution, realistic skin texture, with light film grain.
+
+Hair & Makeup:
+Long dark-brown hair blowing slightly in the wind, messy layered strands with a few pieces softly covering part of her face—stylish, cool, and subtly sexy.
+Her skin is very fair.
+Makeup style: Douyin/Korean—long curled lashes, soft flushed pink blush on cheeks and nose tip, glossy pink lips.
+She has Christmas-themed nail art.
+
+Props:
+On the table:
+• A large bouquet wrapped in brown kraft paper, containing cotton flowers and pine leaves.
+• A gold Canon IXY 30S camera placed on the table.
+
+She holds a Christmas-decorated drink in her right hand and smiles slightly.
+
+Additional Visual Style:
+The flash creates extremely bright, slightly yellow-tinted skin with a hard shadow behind her.
+High-contrast, ultra-sharp 8K image.
+Warm ambient sunlight.
+Fuji Film Pro 400H color style with old-lens filter and light film grain.
+The subject should appear bright and stand out clearly from the background.
+```
+
+</details>
+
 <a id="gpt-image-korean-cafe-mirror-selfie-portra-film"></a>
 ### Korean Cafe Courtyard Mirror Selfie on Film
 
@@ -1415,6 +1908,102 @@ Background: Aesthetic Korean-style café exterior with cream-colored walls, wood
 Photography Style: Kodak Portra 400, warm pastel tones, soft focus, creamy highlights, realistic skin texture, subtle film grain, shallow depth of field, environmental portrait, HDR, photorealistic, magazine-quality editorial photography, 85mm lens, f/1.8, atmospheric depth, elegant composition, foreground-midground-background layering.
 
 Negative Prompt: anime, cartoon, illustration, CGI, 3D render, painting, blurry face, distorted hands, extra fingers, duplicate objects, unrealistic proportions, overprocessed skin, harsh shadows, oversaturated colors, artificial lighting, watermark, logo, text, cropped subject, low quality.
+```
+
+</details>
+
+<a id="nano-banana-christmas-red-snowflake-sweater-kiss"></a>
+### Woman in red snowflake sweater blowing a kiss
+
+<a href="https://x.com/xmliisu/status/1999830980752715929"><img src="../../previews/nano-banana-christmas-red-snowflake-sweater-kiss.jpg" width="360"></a>
+
+A structured JSON prompt that separates lighting, background, composition and subject analysis gives a clear setup: camera flash with warm tree light, shallow depth of field, and a 4:5 vertical medium shot centred on the face. The negative prompt rules out daylight and smiling, which keeps the mood candid and cosy.
+
+Nano Banana Pro · Text-to-image · Source: [@xmliisu on X](https://x.com/xmliisu/status/1999830980752715929) · 214 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`portrait`](tags.md#tag-portrait) [`flash-photography`](tags.md#tag-flash-photography) [`sweater`](tags.md#tag-sweater)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+{
+  "lighting": {
+    "quality": "hard flash with soft ambient",
+    "shadows": "sharp shadows cast by the flash, especially behind the subject and on the window blinds",
+    "direction": "frontal",
+    "highlights": "strong highlights on the subject's face, hands, and sweater from the flash, with small warm points of light from the tree",
+    "ambient_source": "warm LED Christmas lights on tree",
+    "primary_source": "on-camera flash"
+  },
+  "background": {
+    "setting": "indoors, likely a living room at night",
+    "elements": [
+      "flocked Christmas tree with warm white LED lights and a red ribbon bow",
+      "large window with dark horizontal blinds, showing reflections of the flash and room lights",
+      "dark wall"
+    ],
+    "depth_cues": "tree is slightly behind the subject, window is further back, creating depth",
+    "lighting_interaction": "tree lights are warm and soft; flash creates a bright spot on the window glass"
+  },
+  "typography": {
+    "color": "",
+    "presence": "none",
+    "placement": "",
+    "font_style": "",
+    "text_content": ""
+  },
+  "composition": {
+    "frame_type": "medium shot",
+    "focus_point": "subject's face",
+    "orientation": "vertical",
+    "camera_angle": "eye-level",
+    "depth_of_field": "shallow",
+    "subject_placement": "centered"
+  },
+  "color_profile": {
+    "contrast": "high",
+    "saturation": "moderate",
+    "color_balance": "warm",
+    "dominant_colors": [
+      "#FFFFFF",
+      "#E10000",
+      "#4A5D48",
+      "#C9A082"
+    ],
+    "palette_description": "warm and festive palette dominated by white and red from the sweater, with green from the tree and warm yellow tones from the lights"
+  },
+  "technical_specs": {
+    "iso": "high (due to low light environment)",
+    "aperture": "wide (shallow depth of field)",
+    "image_type": "digital photograph",
+    "resolution": "high",
+    "camera_type": "smartphone camera",
+    "file_format": "JPEG",
+    "shutter_speed": "fast (due to flash)"
+  },
+  "subject_analysis": {
+    "hair": "long, wavy, silver grey hair, parted in the middle, falling over shoulders",
+    "pose": "standing, hands pressed to cheeks, making a kissy face with eyes closed",
+    "makeup": "dewy skin, defined eyebrows, long eyelashes, rosy blush, glossy lips",
+    "clothing": "oversized white knit sweater with a red Fair Isle pattern featuring snowflakes and geometric designs",
+    "expression": "playful, pouting kiss",
+    "accessories": "none visible",
+    "subject_type": "young woman",
+    "hands_gestures": "both hands with light pink manicured nails pressing gently against her cheeks, framing her face"
+  },
+  "artistic_elements": {
+    "mood": "playful, festive, cozy",
+    "style": "candid portrait",
+    "texture": "soft knit of the sweater, flocked texture of the tree, glossy reflection on the window",
+    "composition_balance": "subject centered, balanced by the tree on the left and window on the right"
+  },
+  "generation_parameters": {
+    "seed": "festive_portrait_flash",
+    "prompt": "A candid portrait of a young woman with long wavy brown hair, wearing an oversized white and red snowflake knit sweater, posing with a kissy face and hands on her cheeks. She is standing indoors at night next to a flocked Christmas tree decorated with warm lights and a red bow, and a window with dark blinds reflecting a flash. The lighting is a mix of on-camera flash and warm ambient light from the tree.",
+    "aspect_ratio": "4:5",
+    "negative_prompt": "daylight, bright sun, plain wall, no tree, no sweater, smiling, open eyes, no flash"
+  }
+}
 ```
 
 </details>
@@ -1495,6 +2084,109 @@ GPT Image 2 · Text-to-image · Source: [@noorlewisx on X](https://x.com/noorlew
 
 ```text
 A cinematic portrait of a young woman standing in a snowy village, softly falling snowflakes surrounding her. She wears a delicate blue floral shawl wrapped around her head and shoulders, dusted with snow. Her skin is fair with a natural glow, soft pink lips, and expressive light eyes looking slightly to the side. Her expression is calm and introspective. The background shows a blurred wooden cabin and a faint figure in the distance,creating depth. Cold winter atmosphere, soft diffused lighting, shallow depth of field, ultra-realistic, highly detailed textures, 85mm lens, bokeh, photorealistic, 8K resolution, muted cool color palette, cinematic mood."
+```
+
+</details>
+
+<a id="nano-banana-christmas-couple-wine-tree-reference"></a>
+### Couple with wine by Christmas tree
+
+<a href="https://x.com/astronomerozge1/status/2004920668299682084"><img src="../../previews/nano-banana-christmas-couple-wine-tree-reference.jpg" width="360"></a>
+
+Two reference uploads with a near maximum identity lock keep both faces consistent, while a single on camera flash and a 28 to 35mm lens feel give an authentic smartphone snapshot look. The pose is spelled out, with the man hugging from behind and the woman holding a wine glass in front.
+
+Nano Banana Pro · Edit · Source: [@astronomerozge1 on X](https://x.com/astronomerozge1/status/2004920668299682084) · 198 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`portrait`](tags.md#tag-portrait) [`couple`](tags.md#tag-couple) [`photoreal`](tags.md#tag-photoreal)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+{
+  "generation_request": {
+    "meta_data": {
+      "tool": "NanoBanana Pro",
+      "task_type": "text_to_image_photoreal_couple_christmas_lifestyle",
+      "version": "v1.1",
+      "priority": "high"
+    },
+    "references": {
+      "reference_images": {
+        "person_A_male": "UPLOAD_MALE_REFERENCE_IMAGE (REQUIRED)",
+        "person_B_female": "UPLOAD_FEMALE_REFERENCE_IMAGE (REQUIRED)",
+        "pose_mood_reference": "UPLOAD_THIS_COUPLE_CHRISTMAS_PHOTO (OPTIONAL)"
+      },
+      "reference_rules": {
+        "preserve_identity_person_A": true,
+        "preserve_identity_person_B": true,
+        "identity_lock_strength_A": 0.995,
+        "identity_lock_strength_B": 0.995,
+        "face_similarity_priority": "MAX",
+        "preserve_facial_proportions": true,
+        "preserve_eye_shape_nose_lips_jawline": true,
+        "keep_age_and_gender_consistent": true,
+        "no_beautify_no_face_morph": true,
+        "do_not_copy_any_unprovided_identity": true
+      }
+    },
+    "output_settings": {
+      "aspect_ratio": "3:4",
+      "orientation": "portrait",
+      "resolution": "ultra_high_res",
+      "render_style": "raw_lifestyle_flash_photo",
+      "sharpness": "high_subject_soft_background",
+      "film_grain": "subtle",
+      "color_grade": "warm_cozy"
+    },
+    "creative_prompt": {
+      "scene_summary": "A candid, cozy Christmas living-room photo of a couple sitting closely in front of a decorated Christmas tree. The woman (identity locked to Person B) sits in the foreground, slightly angled toward camera, smiling warmly with glossy red lips, holding a large wine glass with red wine in her right hand. She wears a strapless black textured/feathered mini dress (photoreal fabric), minimal jewelry, and long straight or softly wavy black hair. The man (identity locked to Person A) sits behind her, leaning in from the left, smiling at the camera, wearing a cream/white short-sleeve shirt and light beige pants. His arm wraps around her waist in a natural cuddle pose. The floor is filled with wrapped presents and gift bags in the foreground. The Christmas tree is lush with red ribbon garlands and ornaments. Realistic on-camera flash look, slightly dim room, warm shadows, authentic home vibe.",
+      "composition": {
+        "framing": "portrait medium shot, couple centered, woman dominant in frame, man behind her slightly left",
+        "camera_angle": "slightly above eye level, handheld",
+        "depth_of_field": "moderate DOF; faces tack sharp; tree and gifts slightly softer",
+        "props": "wine glass in woman’s hand; multiple wrapped gifts in foreground; no extra random objects"
+      },
+      "environment": {
+        "location": "cozy living room at night",
+        "tree_decor": "classic warm holiday decor: red ribbons, gold/neutral ornaments, subtle lights",
+        "gift_wrap": "assorted gift bags and wrapped boxes with ribbons, realistic paper textures"
+      },
+      "lighting_and_camera": {
+        "capture_style": "real smartphone/compact-camera flash photo",
+        "lighting": "single on-camera flash as main light; warm ambient spill from tree lights; natural shadows",
+        "realism": "natural skin texture, realistic pores, no over-smoothing",
+        "lens_feel": "28–35mm equivalent",
+        "noise": "subtle low-light grain (authentic)"
+      },
+      "strict_rules": [
+        "Exactly 2 people only (Person A + Person B)",
+        "Both faces must match their respective references exactly (no identity drift)",
+        "Keep the same couple pose: man behind hugging, woman in front holding wine glass",
+        "Photoreal candid flash look (not studio)",
+        "No text, no logos, no watermark"
+      ]
+    },
+    "negative_prompt": [
+      "identity drift",
+      "different face",
+      "face swap artifacts",
+      "beautify filter",
+      "plastic skin",
+      "over-smoothed face",
+      "cgi look",
+      "anime",
+      "cartoon",
+      "extra people",
+      "extra limbs",
+      "deformed hands",
+      "extra fingers",
+      "blurred faces",
+      "text",
+      "logo",
+      "watermark"
+    ]
+  }
+}
 ```
 
 </details>
@@ -1674,6 +2366,29 @@ Ultra-realistic cinematic portrait of a beautiful young woman sitting inside a c
 Dreamy soft blur, gauzy atmosphere, misty lens, delicate glow, cinematic diffusion, velvety focus, soft cinematic haze, romantic film look, gentle bloom, dreamy aesthetic.
 
 Negative Prompt: sharp focus, overly detailed pores, harsh contrast, HDR, oversaturated, crisp edges, strong sharpening, digital look, cartoon, anime, CGI
+```
+
+</details>
+
+<a id="nano-banana-christmas-carousel-tree-portrait"></a>
+### Smiling man holding wrapped Christmas tree at night market
+
+<a href="https://x.com/harboriis/status/2003353808710283751"><img src="../../previews/nano-banana-christmas-carousel-tree-portrait.jpg" width="360"></a>
+
+Camera body, lighting backdrop and a named wardrobe list give the model concrete visual anchors for a realistic editorial frame. The uploaded reference photo supplies the face, so the prompt only has to describe the scene and expression.
+
+Nano Banana Pro · Edit · Source: [@harboriis on X](https://x.com/harboriis/status/2003353808710283751) · 180 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`portrait`](tags.md#tag-portrait) [`realism`](tags.md#tag-realism) [`winter`](tags.md#tag-winter)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Nano Banana Pro on Gemini
+
+Prompt: Hyper-realistic 8K editorial frame. Rustic festive village atmosphere with carousel lights behind. Nikon D5600. Man holding a small wrapped Christmas tree in kraft paper. Snow falling softly. Outfit: beige oversized coat, knitted mittens, winter boots. Emotion: happy, natural candid smile. Highly detailed textures: snow crystals, knitted fibers, tree needles.
+
+Use the face from the uploaded photo.
 ```
 
 </details>
@@ -1984,6 +2699,86 @@ Prompt: Create a highly cinematic and realistic photo of a person using the face
 
 </details>
 
+<a id="nano-banana-xmas-winking-man-bench-sweets-monsters"></a>
+### Winking man on bench amid Christmas sweets monsters
+
+<a href="https://x.com/ecommartinez/status/1995250288073302501"><img src="../../previews/nano-banana-xmas-winking-man-bench-sweets-monsters.jpg" width="360"></a>
+
+A structured JSON prompt locks identity to the reference photo, then layers monster and shape overlays behind and around the subject. The explicit rule to keep the face and hands photorealistic is what makes the pop-art mix work.
+
+Nano Banana Pro · Edit · Source: [@ecommartinez on X](https://x.com/ecommartinez/status/1995250288073302501) · 155 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`pop-art`](tags.md#tag-pop-art) [`portrait`](tags.md#tag-portrait) [`json-prompt`](tags.md#tag-json-prompt)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+@awesome_visuals
+ para poner tu rostro)
+
+{
+  "subject": {
+    "type": "the person from the reference photo ONLY",
+    "identity_restriction": "Do NOT use any traits, gender, clothing or body features from previous prompts. Use ONLY the face, body type, and identity from the reference photo.",
+    "pose": "sitting on a wooden market bench with knees pulled up and arms wrapped around them, giving a cheerful wink",
+    "expression": "warm, festive, friendly"
+  },
+
+  "appearance": {
+    "match_reference": "Facial structure, hairstyle, and overall appearance must EXACTLY match the reference photo",
+    "hair": "same hairstyle as reference photo",
+    "clothing": {
+      "style": "winter outfit inspired by reference, adapted for Christmas market",
+      "top": "cozy winter jacket or sweater (match reference photo colors if possible)",
+      "bottom": "neutral comfortable pants or shorts depending on reference",
+      "socks": "winter socks",
+      "shoes": "winter boots"
+    }
+  },
+
+  "environment": {
+    "setting": "outdoor Christmas market",
+    "details": "twinkle lights, wooden stalls, warm hanging lanterns"
+  },
+
+  "lighting": {
+    "type": "warm golden fairy-light glow",
+    "mood": "cozy, festive, romantic"
+  },
+
+  "camera": {
+    "angle": "low-to-mid angle",
+    "lens_effect": "slight wide-angle with warm bloom",
+    "framing": "subject centered among Christmas lights"
+  },
+
+  "art_overlay": {
+    "style": "maximalist Christmas sweets-monster pop-art",
+    "illustrated_elements": {
+      "monsters": "gingerbread goblins, candy-cane worms, snowball blob creatures, hot-cocoa monsters with melting marshmallow faces, cookie reindeer, tiny ornament gremlins, eggnog ghosts, fruitcake beasts",
+      "graphic_shapes": "neon stars, snowflakes, sparkles, swirls, drips, zigzags, holly leaves, ribbon curls, comic bursts without text",
+      "style": "flat neon holiday palette (red, green, gold, icy blue, pink, lime) with thick black outlines"
+    },
+
+    "placement_and_density": {
+      "behind_subject": "background filled with overlapping Christmas monsters and shapes",
+      "around_subject": "monsters peeking from behind shoulders, around boots, near hair, above the bench",
+      "over_clothing": "some gingerbread creatures cling to clothing",
+      "avoid_skin": "face and hands remain fully photorealistic",
+      "depth_layers": "heavy layering front and back for strong pop-art depth",
+      "energy_effects": "glowing rim lights, falling stylized snow, neon speed lines"
+    }
+  },
+
+  "style": {
+    "overall": "cozy Christmas market portrait overwhelmed by neon festive monsters",
+    "aesthetic": "warm, chaotic, holiday-playful, surreal"
+  }
+}
+```
+
+</details>
+
 <a id="nano-banana-black-white-street-portrait-city-crowd"></a>
 ### Black and white street portrait in crowd
 
@@ -2000,6 +2795,48 @@ Nano Banana 2 · Text-to-image · Source: [@iamrealsnow on X](https://x.com/iamr
 ```text
 .
 A cinematic black and white street portrait of a handsome man standing still in a busy city crowd, sharp focus on the subject while people around him are motion-blurred, shallow depth of field, intense masculine facial features textured beard, slightly messy wavy hair, wearing a dark tailored coat, calm yet powerful expression, dramatic contrast lighting, soft rim light on face, urban night atmosphere,
+```
+
+</details>
+
+<a id="nano-banana-christmas-santa-hat-red-dress-bokeh-portrait"></a>
+### Smiling woman in Santa hat by glowing tree
+
+<a href="https://x.com/Strength04_X/status/2003795195272499421"><img src="../../previews/nano-banana-christmas-santa-hat-red-dress-bokeh-portrait.jpg" width="360"></a>
+
+A JSON prompt that pairs a subject-first description with photographic modifiers such as 85mm lens, f/1.8 aperture and depth of field, set to a 9:16 portrait ratio. Describing the background as softly blurred with golden bokeh keeps the tree as a warm frame around the subject.
+
+Nano Banana Pro · Text-to-image · Source: [@Strength04_X on X](https://x.com/Strength04_X/status/2003795195272499421) · 152 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`portrait`](tags.md#tag-portrait) [`bokeh`](tags.md#tag-bokeh) [`cinematic-lighting`](tags.md#tag-cinematic-lighting)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+{
+      "description": "Ultra-realistic 8k portrait of a stunning young woman with long, dark, wavy hair, wearing a plush red and white Santa hat and a fitted red strapless dress. She has a soft, alluring expression and is looking directly at the camera. The background features a softly blurred Christmas tree with glowing golden bokeh lights, creating a warm and festive atmosphere.",
+      "modifiers": [
+        "Ultra-realistic",
+        "8k resolution",
+        "DSLR photography",
+        "Cinematic lighting",
+        "Warm ambient light",
+        "High detail skin texture",
+        "Bokeh effect",
+        "Depth of field",
+        "f/1.8 aperture",
+        "85mm lens",
+        "Photorealistic",
+        "Masterpiece"
+      ],
+      "negative_prompt": "cartoon, 3d render, anime, painting, drawing, low quality, blurry, pixelated, bad anatomy, deformed, ugly, cross-eyed, watermark, text, noise, grain, overexposed"
+    }
+  ],
+  "settings": {
+    "aspect_ratio": "9:16",
+    "style": "Cinematic Portrait"
+  }
+}
 ```
 
 </details>
@@ -2324,6 +3161,62 @@ Nano Banana 2.1 · Text-to-image · Source: [@dreamydigiarts on X](https://x.com
 
 </details>
 
+<a id="nano-banana-christmas-gift-wrapping-cardigan"></a>
+### Woman laughing while wrapping a Christmas gift
+
+<a href="https://x.com/xmliisu/status/2003864431487222104"><img src="../../previews/nano-banana-christmas-gift-wrapping-cardigan.jpg" width="360"></a>
+
+A structured JSON breakdown of subject, attire, props, and lighting gives the model a precise checklist to follow. Listing the wrapping supplies as floor props and mixing flash with warm ambient light makes the scene read as a candid moment rather than a posed set.
+
+Nano Banana Pro · Text-to-image · Source: [@xmliisu on X](https://x.com/xmliisu/status/2003864431487222104) · 139 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`portrait`](tags.md#tag-portrait) [`lifestyle`](tags.md#tag-lifestyle) [`json-prompt`](tags.md#tag-json-prompt)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+{
+  "image_analysis": {
+    "subject": {
+      "description": "Young woman with long, wavy blonde hair and tan skin.",
+      "expression": "Laughing/smiling broadly, looking off-camera to the left.",
+      "pose": "Sitting on a light wood floor with legs bent and extended."
+    },
+    "attire": {
+      "clothing": "Oversized, chunky-knit cream/beige cardigan worn off-the-shoulder on the left side.",
+      "footwear": "White, fluffy, faux-fur cross-strap slippers.",
+      "accessories": "Minimal; small hoop earrings visible."
+    },
+    "action": {
+      "primary": "Wrapping Christmas gifts.",
+      "specifics": "Holding a rectangular wrapped gift box with a ribbon in both hands."
+    },
+    "environment": {
+      "setting": "Indoor residential space, likely a hallway or living room.",
+      "decor": "Large Christmas tree to the left, decorated with warm white string lights (no ornaments).",
+      "flooring": "Light oak wood planks.",
+      "background": "White walls, white door frame, and a glimpse into a dimly lit adjacent room."
+    },
+    "objects_props": {
+      "on_floor": [
+        "Rolls of cream-colored wrapping paper with a subtle pattern.",
+        "Black-handled scissors.",
+        "Clear tape dispenser.",
+        "Spool of white ribbon.",
+        "Spool of wide bronze/copper satin ribbon.",
+        "White faux-fur rug or tree skirt under the tree."
+      ]
+    },
+    "lighting_and_style": {
+      "type": "Flash photography mixed with warm ambient light.",
+      "mood": "Festive, cozy, joyful, candid.",
+      "colors": "Warm neutrals, cream, beige, green (tree), metallic bronze."
+    }
+  }
+```
+
+</details>
+
 <a id="nano-banana-seated-cap-hoodie-studio-portrait"></a>
 ### Seated man in cap and hoodie on white block
 
@@ -2416,6 +3309,67 @@ Nano Banana 2 · Edit · Source: [@frametheory058 on X](https://x.com/frametheor
     "unnatural fabric folds"
   ]
 }
+```
+
+</details>
+
+<a id="nano-banana-christmas-market-hot-cup-portrait"></a>
+### Woman with hot cup at Christmas market
+
+<a href="https://x.com/SimplyAnnisa/status/2004741328530481155"><img src="../../previews/nano-banana-christmas-market-hot-cup-portrait.jpg" width="360"></a>
+
+The reference photo locks identity while the negative prompt blocks plastic skin and artificial blur. Asking for full-scene sharpness and a mid-gesture pause keeps the result candid, like a smartphone shot.
+
+Nano Banana Pro · Edit · Source: [@SimplyAnnisa on X](https://x.com/SimplyAnnisa/status/2004741328530481155) · 137 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`christmas-market`](tags.md#tag-christmas-market) [`portrait`](tags.md#tag-portrait) [`lifestyle`](tags.md#tag-lifestyle)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+The reference image as a strict and non-negotiable source — preserve 100% facial likeness, proportions, bone structure, skin texture, expression, and hairstyle. Do not alter or stylize the face in any way.
+Photorealistic lifestyle photograph of an adult woman (25+ years old) in a festive outdoor setting.
+Shot & Composition
+Medium shot, front-facing subject standing in a lively Christmas market square, framed from mid-thigh up.The composition feels candid and natural, with a visible crowd and environmental context that enhances real-life authenticity.
+The camera mimics smartphone-style photography with even sharpness across the entire frame — no artificial background blur. Full-scene clarity with both foreground and background in focus.
+Subject & Appearance
+Face & identity: identical to the reference image, hyper-detailed natural facial textures, visible skin texture, realistic highlights from surrounding lights, true-to-life complexion.
+Hair: same hairstyle as the reference image, worn naturally under a knit beanie. Long hair falls down with soft strands framing the face, natural winter texture and movement.
+Silhouette: balanced, natural human proportions with a relaxed, confident presence.
+Wardrobe
+Plush white faux-fur coat with visible fiber texture catching ambient light
+Beige knit beanie
+Beige checked scarf draped loosely, following gravity
+Light blue knit sweater visible at the cuffs
+Dark bottoms partially visible
+All fabrics show realistic folds, layering, and interaction with movement and posture.
+Scene & Environment
+Location: outdoor Christmas market square
+Time: evening / night
+Background: festive market stalls, a large historic building fully outlined with warm white holiday lights, a decorated Christmas tree, colorful pennant banners overhead
+Ground: cobblestone surface with subtle reflections from moisture and foot traffic
+The background remains lively but readable, reinforcing a real urban holiday atmosphere.
+Action & Micro-Details
+Holding a takeaway hot drink cup in one hand
+Lightly lifting a strand of hair with the other
+Subtle steam rising from the hot drink
+Fur fibers, scarf fabric, and hair reacting naturally to movement and ambient air
+Captured in a transitional moment — a brief pause mid-gesture, as if realizing attention, hands still engaged.
+Emotion & Mood
+Cozy, confident, quietly joyful. A relaxed festive presence with natural warmth and subtle holiday energy.
+Lighting & Color
+Mixed lighting from ambient street illumination and warm decorative holiday lights
+Soft, natural illumination on the subject without harsh contrast
+Color palette:
+Warm golds and yellows from holiday lights
+Soft neutral winter tones
+Pops of color from banners and market décor
+Balanced exposure preserving night-time clarity and detail
+Photography Style
+Purely candid, true-to-life influencer photography.
+No cinematic grading, no stylization, no artificial effects — clean, realistic, and authentic.
+Optional Negative Prompt
+altered face, different identity, plastic skin, over-smoothed skin, cinematic effects, artificial blur, CGI, digital art, illustration, harsh flash, distorted anatomy, extra limbs, cartoon look, text, watermark
 ```
 
 </details>
@@ -3030,6 +3984,33 @@ The gown is designed in a striking color palette of [COLOR 1], [COLOR 2], and [C
 
 </details>
 
+<a id="nano-banana-christmas-awkward-90s-siblings-floating-head"></a>
+### Awkward 90s couple in reindeer sweaters with floating head
+
+<a href="https://x.com/venturetwins/status/2003627299074121984"><img src="../../previews/nano-banana-christmas-awkward-90s-siblings-floating-head.jpg" width="360"></a>
+
+Assigning one reference person to a translucent floating head in the corner and the rest to a stool in fixed clothing lets the model place every face in one frame. Naming era cues such as high waisted light wash jeans and a cloudy grey studio backdrop sets the 1990s film look.
+
+Nano Banana Pro · Edit · Source: [@venturetwins on X](https://x.com/venturetwins/status/2003627299074121984) · 119 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`portrait`](tags.md#tag-portrait) [`vintage`](tags.md#tag-vintage) [`family`](tags.md#tag-family)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+We all need an awkward '90s holiday photoshoot with our siblings.
+
+If you missed the boat (like I did), you're in luck - I wrote some prompts you can use with Nano Banana Pro ✨
+
+Upload a photo of each person and then use the following:
+
+"An awkward vintage 1990s studio photograph using the exact likenesses from the three reference photos.The composition features all but one of the people sitting stiffly on a stool in the foreground, wearing a bulky, knitted ugly Christmas sweater with a reindeer pattern and high-waisted light-wash jeans. They are smiling uncomfortably at the camera. Above them in the upper corner, there is a large, translucent "floating head" double-exposure portrait of the last reference photo person. The floating head is looking off into the distance pensively, wearing a red turtleneck, fading into a cloudy, dark grey studio backdrop."
+
+"An incredibly awkward 90s studio photograph using the likenesses of reference photos of the family. The family is posed dynamically against a mottled green and red muslin backdrop. They are all wearing oversized, clashy holiday vests over turtlenecks. One family member is kneeling on the grey carpet floor, holding up a cheap, plastic illuminated snowman lawn ornament as if it is a treasure. The other family members are crowded around behind them, pointing at the plastic snowman with overly exaggerated, fake expressions of surprise and delight (mouths open, pointing fingers stiff). One person has a mullet hairstyle."
+```
+
+</details>
+
 <a id="nano-banana-dark-cinematic-skin-detail-portrait"></a>
 ### Dark Cinematic Close-Up with Extreme Skin Detail
 
@@ -3195,6 +4176,27 @@ Emphasize ultra-realistic skin texture, visible pores, natural complexion detail
 Portrait style
 
 Style: Hyper-realistic, cinematic luxury beauty photography, high-end fashion editorial, premium magazine cover, sophisticated and emotionally captivating.
+```
+
+</details>
+
+<a id="nano-banana-christmas-1970s-shoebox-family-photo"></a>
+### Woman in Fair Isle sweater at 1970s Christmas tree
+
+<a href="https://x.com/icreatelife/status/2004107926412407147"><img src="../../previews/nano-banana-christmas-1970s-shoebox-family-photo.jpg" width="360"></a>
+
+Naming a specific era and the goal of resembling an old family photo from a shoebox sets the film grain, warm color cast and flash snapshot look. Portrait resolution gives a vertical framing that matches a printed keepsake.
+
+Nano Banana Pro · Edit · Source: [@icreatelife on X](https://x.com/icreatelife/status/2004107926412407147) · 115 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`vintage`](tags.md#tag-vintage) [`retro`](tags.md#tag-retro) [`portrait`](tags.md#tag-portrait)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Make a vintage Christmas photo of you and your family with Nano Banana Pro + Adobe Firefly
+
+prompt: Turn me into Al-generated Christmas mornings imagined in the late 1970s and early 1980s. Created to resemble old family photo found in a shoebox in the attic. Portrait resolution
 ```
 
 </details>
@@ -3526,6 +4528,107 @@ The camera is positioned extremely close to her face, recreating the authentic f
 Behind her is a simple warm gray-beige wall with no distracting details. Warm indoor ambient lighting mixed with subtle screen light from the front-left softly illuminates her face and hair, creating gentle highlights and natural shadows. The color palette is muted and cozy, dominated by cream, beige-gray, black, and dusty-pink tones.
 
 Ultra-photorealistic, authentic smartphone selfie aesthetic, natural skin texture, realistic hair detail, subtle imperfections, shallow depth of field, intimate composition, candid everyday atmosphere, high detail, premium photography quality.
+```
+
+</details>
+
+<a id="nano-banana-christmas-red-satin-couple-tree"></a>
+### Couple in red satin and black suit by tree
+
+<a href="https://x.com/astronomerozge1/status/2005718979411673580"><img src="../../previews/nano-banana-christmas-red-satin-couple-tree.jpg" width="360"></a>
+
+Uploading a base photo and adding an identity lock block keeps both faces stable while the outfits, pose and tree are rewritten. The strict rules list and a negative prompt covering identity drift, plastic skin and extra hands fix the wardrobe colours and composition.
+
+Nano Banana Pro · Edit · Source: [@astronomerozge1 on X](https://x.com/astronomerozge1/status/2005718979411673580) · 105 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`couple`](tags.md#tag-couple) [`portrait`](tags.md#tag-portrait) [`holiday`](tags.md#tag-holiday)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+{
+  "generation_request": {
+    "meta_data": {
+      "tool": "NanoBanana Pro",
+      "task_type": "image_edit_photoreal_candid_couple_holiday_indoor",
+      "version": "v1.0",
+      "priority": "high"
+    },
+    "references": {
+      "reference_images": {
+        "base_image": "UPLOAD_THIS_IMAGE",
+        "person_A": "UPLOAD_PERSON_A_REFERENCE_IMAGE (OPTIONAL)",
+        "person_B": "UPLOAD_PERSON_B_REFERENCE_IMAGE (OPTIONAL)"
+      },
+      "reference_rules": {
+        "preserve_identity_person_A": true,
+        "preserve_identity_person_B": true,
+        "identity_lock_strength_A": 0.998,
+        "identity_lock_strength_B": 0.998,
+        "face_similarity_priority": "MAX",
+        "no_beautify_no_face_morph": true,
+        "no_identity_drift": true,
+        "keep_skin_tone_exact": true,
+        "keep_facial_proportions_exact": true
+      }
+    },
+    "output_settings": {
+      "aspect_ratio": "1:1",
+      "orientation": "square",
+      "resolution": "ultra_high_res",
+      "render_style": "photorealistic_editorial_indoor_flash",
+      "sharpness": "natural",
+      "film_grain": "subtle_35mm",
+      "color_grade": "warm_holiday_film"
+    },
+    "creative_prompt": {
+      "scene_summary": {
+        "en": "Photoreal editorial holiday couple portrait indoors. EXACTLY two people, same identities as references/base image. The couple stands close, facing each other with affectionate eye contact and soft smiles. Man: black tailored suit jacket with a white turtleneck underneath, clean classic styling. Woman: elegant fitted red satin dress with thin straps, thigh-high slit, red long gloves, sleek high ponytail, glamorous evening makeup, pearl/diamond necklace. Pose: man’s hands gently around her waist/hip area (respectful, natural), woman leaning toward him with a joyful expression. Background: cozy modern interior with a decorated Christmas tree on the right side (warm lights, gold ornaments), soft bokeh. Lighting: warm indoor ambient + subtle on-camera flash vibe, gentle shadows, cinematic warmth. No text, no logos, no watermark."
+      },
+      "composition": {
+        "framing": "square 1:1, medium-full body, both subjects fully visible from head to mid-thigh",
+        "camera_angle": "eye-level",
+        "distance": "intimate portrait distance, couple centered, Christmas tree visible on right edge",
+        "focus": "faces crisp, background softly blurred"
+      },
+      "style_and_details": {
+        "wardrobe_priority": "keep outfits EXACTLY as described (red satin dress + red gloves; black suit + white turtleneck)",
+        "hair_makeup": "keep high ponytail, glamorous makeup, defined liner, warm blush, glossy lips",
+        "material_rendering": "realistic satin sheen on dress, realistic fabric texture on suit, natural skin texture",
+        "holiday_props": "tree lights with warm bokeh, gold ornaments, subtle indoor décor"
+      },
+      "strict_rules": [
+        "EXACTLY two subjects only",
+        "both faces match references/base image exactly (no identity drift)",
+        "no extra people, no reflections with other faces",
+        "no text, no logos, no watermark",
+        "hands and fingers anatomically correct",
+        "keep composition: couple centered, Christmas tree on the right"
+      ]
+    },
+    "negative_prompt": [
+      "identity drift",
+      "face swap artifacts",
+      "beautify filter",
+      "plastic skin",
+      "over-smoothed face",
+      "cgi look",
+      "anime",
+      "cartoon",
+      "text",
+      "logo",
+      "watermark",
+      "extra people",
+      "extra hands",
+      "extra fingers",
+      "melted hands",
+      "blurred faces",
+      "overexposed highlights",
+      "wrong outfit colors",
+      "missing christmas tree"
+    ]
+  }
+}
 ```
 
 </details>
@@ -3888,6 +4991,121 @@ Off-duty model, spontaneous, playful, intimate, candid, effortlessly stylish, Y2
 
 </details>
 
+<a id="nano-banana-christmas-woman-dog-reindeer-antlers-fireplace"></a>
+### Woman and dog in reindeer antlers by fireplace
+
+<a href="https://x.com/saniaspeaks_/status/2005889536342253587"><img src="../../previews/nano-banana-christmas-woman-dog-reindeer-antlers-fireplace.jpg" width="360"></a>
+
+The prompt names the woman and the dog as identity sources to lock to the reference photo, which keeps both faces recognizable after the edit. The medium eye level framing, 85mm lens look and the full length dress constraint keep the composition and pose under control.
+
+Nano Banana Pro · Edit · Source: [@saniaspeaks_ on X](https://x.com/saniaspeaks_/status/2005889536342253587) · 97 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`portrait`](tags.md#tag-portrait) [`dog`](tags.md#tag-dog) [`identity-lock`](tags.md#tag-identity-lock)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+"style": "hyper-realistic, cozy holiday lifestyle, cinematic portrait",
+  "identity_preservation": {
+    "human": {
+      "use_reference_image": true,
+      "strict_identity_lock": true,
+      "alter_face": false,
+      "notes": "Preserve 100% of the woman’s facial features, proportions, skin texture, hairstyle, and expression exactly as in the reference image."
+    },
+    "dog": {
+      "use_reference_image": true,
+      "strict_identity_lock": true,
+      "alter_features": false,
+      "notes": "Preserve 100% of the dog’s facial features, fur texture, proportions, and expression exactly as in the reference image."
+    }
+  },
+  "composition": {
+    "framing": "medium shot",
+    "camera_angle": "eye-level",
+    "focus": "sharp focus on woman and dog"
+  },
+  "subject": {
+    "gender": "female",
+    "pose": {
+      "position": "sitting on a carpet with legs fully covered by the dress",
+      "interaction": "holding a friendly dog in her arms"
+    },
+    "expression": "warm smile with an intense, direct gaze into the camera",
+    "appearance": {
+      "hair": {
+        "color": "dark brown",
+        "style": "short pixie cut with casually styled bangs"
+      },
+      "head_accessory": "felt reindeer antlers worn on the head",
+      "makeup": {
+        "style": "natural",
+        "details": [
+          "glowing, hydrated skin",
+          "soft pink blush",
+          "neutral brown eyeshadow",
+          "creamy berry lipstick"
+        ]
+      },
+      "wardrobe": {
+        "outfit": "thick, oversized emerald green chunky-knit sweater dress with a long hem fully covering the legs"
+      },
+      "jewelry": [
+        "small pearl stud earrings",
+        "necklace with a red horse pendant"
+      ]
+    }
+  },
+  "dog": {
+    "pose": "calm and friendly, resting comfortably in the woman’s arms",
+    "accessories": "felt reindeer antlers on the head"
+  },
+  "environment": {
+    "location": "cozy festive living room",
+    "background_elements": [
+      "small decorated Christmas tree with warm white lights",
+      "crackling fireplace",
+      "wooden shelves with holiday decorations"
+    ],
+    "atmosphere": "intimate, warm, festive, and cozy"
+  },
+  "lighting": {
+    "type": "soft warm indoor lighting",
+    "quality": "natural and flattering",
+    "effects": [
+      "gentle highlights on skin",
+      "visible texture of knitted fabric",
+      "detailed dog fur texture"
+    ]
+  },
+  "camera": {
+    "model": "Canon EOS R6 Mark II",
+    "lens": "85mm",
+    "depth_of_field": "shallow to moderate",
+    "resolution": "high resolution"
+  },
+  "mood": {
+    "emotion": "warmth, joy, holiday intimacy",
+    "season": "Christmas / winter holiday"
+  },
+  "quality": {
+    "realism": "ultra-photorealistic",
+    "detail_level": "extreme detail in skin, fur, and fabric textures",
+    "artifacts": "none"
+  },
+  "constraints": [
+    "Do not alter the woman’s face",
+    "Do not alter the dog’s face",
+    "Legs must remain fully covered by the dress",
+    "No artificial filters",
+    "No distorted anatomy",
+    "No text or watermarks"
+  ],
+  "output_goal": "Create a hyper-realistic medium-shot holiday portrait of a woman sitting on a carpet in a cozy festive living room, holding her dog, with her legs fully covered by the dress, preserving both the woman’s and the dog’s exact identities, warm lighting, and an intimate Christmas atmosphere.
+```
+
+</details>
+
 <a id="nano-banana-sepia-flash-photobooth-linen-shirt-grid"></a>
 ### Sepia flash photobooth grid in linen shirt
 
@@ -4001,611 +5219,6 @@ Nano Banana 2 · Edit · Source: [@j_smeaton99 on X](https://x.com/j_smeaton99/s
 
 ```text
 Extreme wet close-up portrait. Young woman's face in profile (use uploaded pictures for proper reference) Dark wet hair naturally glued to the skin. Fine droplets of water and thin sweat glistening realistically on her face. Focus on bright natural green/hazel eyes with realistic reflection avoid excessive shine. Moist and shiny lips, soft natural texture. Soft lighting and cool shades with a light grey/white bokeh background colour. Keep same facial features
-```
-
-</details>
-
-<a id="gpt-image-selfie-giant-portrait-beach-birthday-cake"></a>
-### Giant Portrait Behind Beach Birthday Cake at Sunset
-
-<a href="https://x.com/Adnan_Ai2/status/2104759717289681001"><img src="../../previews/gpt-image-selfie-giant-portrait-beach-birthday-cake.jpg" width="360"></a>
-
-A reference photo locks the face, then the scene pairs a large close-up with a small full-body copy seated on the cake for a scale illusion. Exact text strings for the plaque and cake front, plus a request for clean spelling, keep the lettering legible.
-
-GPT Image 2.5 · Edit · Source: [@Adnan_Ai2 on X](https://x.com/Adnan_Ai2/status/2104759717289681001) · 92 likes on 2026-10-28
-
-[`selfie`](tags.md#tag-selfie) [`miniature-world`](tags.md#tag-miniature-world) [`birthday-cake`](tags.md#tag-birthday-cake) [`golden-hour`](tags.md#tag-golden-hour) [`face-reference`](tags.md#tag-face-reference)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Use the uploaded girl reference image as the exact facial and appearance reference. Create a highly detailed cinematic fantasy birthday portrait inspired by the provided cake-and-beach composition. Show the same girl in two versions: a large realistic close-up portrait rising behind the cake, and a smaller full-body version sitting naturally on top of the cake. Keep her recognizable facial features, hairstyle, soft smile, eyes, and overall appearance consistent with the reference image. Dress her in an elegant cozy cream-white knitted outfit with a soft feminine look.
-Place everything on a beautiful beach during golden-hour sunset, with a glowing orange sky, soft clouds, ocean waves, warm sunlight, and cinematic reflections on the water. Create a huge luxurious round vanilla-and-chocolate drip cake in the foreground, covered with creamy white and chocolate frosting swirls, chocolate pieces, truffles, small decorative pearls, and realistic glossy chocolate drips. The small girl should sit naturally on the cake with a relaxed, cute pose, while the large portrait appears behind her with soft glowing edges and artistic depth.
-Add a chocolate plaque beside the girl with the text “Girls Make Life Sweeter ♥” and write “Stay Awesome ♡” on the front of the cake with a small crown above it. Make the text clean, readable, and correctly spelled. Use realistic skin texture, detailed hair strands, natural fabric texture, accurate proportions, soft shadows, warm rim lighting, shallow depth of field, photorealistic details, premium editorial photography, dreamy cinematic color grading, 8K quality, highly polished composition, vertical portrait format.
-```
-
-</details>
-
-<a id="nano-banana-colosseum-seated-man-golden-hour-portrait"></a>
-### Seated man on Colosseum wall at golden hour
-
-<a href="https://x.com/pictsbyai/status/2061848357283266661"><img src="../../previews/nano-banana-colosseum-seated-man-golden-hour-portrait.jpg" width="360"></a>
-
-The prompt fixes the pose with specific limb placement (left hand on thigh, right hand gripping the left cuff) and sets one directional light at 45 degrees from the front left, naming the shadows it casts so the lighting stays consistent. The 85mm lens and wide aperture keep the subject sharp while the landmark stays recognizable but soft behind him.
-
-Nano Banana 2 · Text-to-image · Source: [@pictsbyai on X](https://x.com/pictsbyai/status/2061848357283266661) · 92 likes on 2026-10-29
-
-[`portrait`](tags.md#tag-portrait) [`golden-hour`](tags.md#tag-golden-hour) [`rome`](tags.md#tag-rome) [`menswear`](tags.md#tag-menswear)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A young adult male sits calmly on a highly eroded, unfinished ancient stone wall, his body angled slightly to the right while his weight is comfortably centered. He wears a textured, off-white button-down shirt and deep brown trousers. His face bears a contemplative, confident expression with a neutral mouth and eyes focused distantly off to the right. His wavy brown hair features subtle, natural flyaways catching the warm light. His left hand rests naturally on his left thigh with loosely curled fingers, revealing a silver ring on the ring finger and a square-dial watch with a black leather strap, while his relaxed right hand reaches organically across his torso to gently grip and adjust the cuff of his left sleeve. He is layered over a monumental, deep background featuring the awe-inspiring architecture of the Roman Colosseum, its massive, weathered travertine stone arcades and interior ruins stretching expansively into the center and top of the frame. To the top left, the thriving dark green needle clusters of a Mediterranean pine tree and leafy midground bushes organically frame the ancient structures against a clear blue sky. The foreground seating wall beneath him features a rough, matte masonry surface of warm grays and earth tones, rich with pitted textures, deep crevices, and organic debris. A bright, highly directional single light source of warm golden hour sunlight pours in from a 45-degree front-left angle, creating a striking, high-contrast cinematic mood. This hard light preserves brilliant golden ochre highlights on the left side of his face, hair tips, left shoulder, and arm, while casting dramatic, deep black, harsh-edged shadows across the right side of his face, neck, and torso, including a distinct nose shadow cleanly defined on his right cheek. Shot as a realistic digital photograph on an 85mm lens at a wide aperture, the image maintains tack-sharp focus on the subject and the foreground stone's rugged texture, while a medium depth of field renders the architectural background slightly soft yet distinctly recognizable without any film grain. Post-processing enhances the warm golden and orange highlights, deepens the shadowy blacks for pronounced dramatic effect, and slightly lifts clarity on the fabric and masonry, perfectly encapsulating contemporary lifestyle travel portraiture framed in a 4:5 aspect ratio.
-```
-
-</details>
-
-<a id="nano-banana-hooded-bw-eye-light-portrait"></a>
-### Hooded black and white portrait with eye light
-
-<a href="https://x.com/ChillaiKalan__/status/2073609440037597601"><img src="../../previews/nano-banana-hooded-bw-eye-light-portrait.jpg" width="360"></a>
-
-Stacking lighting, lens and grading terms (Rembrandt light, 85mm f/1.8, high contrast monochrome) gives the model a precise photographic brief. The hood variation confines a narrow beam to the eyes against a pure black background for strong chiaroscuro.
-
-Nano Banana 2 · Text-to-image · Source: [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2073609440037597601) · 92 likes on 2026-10-29
-
-[`black-and-white`](tags.md#tag-black-and-white) [`fashion-portrait`](tags.md#tag-fashion-portrait) [`chiaroscuro`](tags.md#tag-chiaroscuro) [`studio-lighting`](tags.md#tag-studio-lighting)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Ultra-realistic fine art black-and-white portrait, editorial fashion photography, close-up centered composition, direct eye contact, calm yet emotionally powerful expression, flawless natural skin texture with subtle freckles and pores, cinematic high-contrast monochrome grading, dramatic Rembrandt lighting with soft directional light, deep blacks and luminous highlights, razor-sharp eyes with catchlights, premium medium-format camera quality, 85mm portrait lens, f/1.8, shallow depth of field, museum-quality fine art photography, minimalist composition, timeless elegance, luxury Vogue-style editorial, rich tonal range, ultra-detailed facial features, photorealistic, HDR, 8K resolution, award-winning portrait photography.
-
-Variation 1 (Underwater): Half-submerged underwater portrait, crystal-clear water surface crossing the forehead, natural water caustic light patterns dancing across the face and shoulders, floating hair, tiny air bubbles, soft underwater haze, blurred fish in the distant background, tranquil atmosphere, surreal yet realistic, monochrome fine-art aesthetic.
-
-Variation 2 (Studio Hood): Black hooded outfit against a pure black background, narrow beam of light illuminating only the eyes and upper face, soft shadow falloff, symmetrical composition, dramatic chiaroscuro, elegant fashion editorial styling, mysterious cinematic mood, luxury magazine cover aesthetic.
-
-Negative Prompt: low resolution, blurry, overprocessed skin, waxy face, plastic texture, extra limbs, deformed eyes, asymmetrical face, duplicated features, noisy image, oversharpened, artifacts, watermark, logo, text, cropped head, bad anatomy, unrealistic lighting, cartoon, CGI, low quality, distorted proportions.
-```
-
-</details>
-
-<a id="nano-banana-seated-woman-fan-wall-vintage-portrait"></a>
-### Seated woman before a wall of vintage star portraits
-
-<a href="https://x.com/mehvishs25/status/2042256010040197281"><img src="../../previews/nano-banana-seated-woman-fan-wall-vintage-portrait.jpg" width="360"></a>
-
-The prompt pins the framing with a medium shot, centered composition and a named film look (35mm, film grain, shallow depth of field), so the color grade and layout hold together. Describing the background as a magazine cutout collage gives the scene a readable story without naming anyone.
-
-Nano Banana 2 · Text-to-image · Source: [@mehvishs25 on X](https://x.com/mehvishs25/status/2042256010040197281) · 92 likes on 2026-10-29
-
-[`portrait`](tags.md#tag-portrait) [`film-look`](tags.md#tag-film-look) [`vintage`](tags.md#tag-vintage) [`warm-tones`](tags.md#tag-warm-tones)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A cinematic portrait of a young elegant woman sitting in a softly lit room, medium shot, warm ambient lighting, vintage aesthetic. She sits calmly facing the camera with a subtle confident smile. Behind her is a wall covered with magazine cutouts and posters of famous actors and celebrities, creating a fan-wall collage. She is wearing an elegant, classy outfit — a long stylish skirt and refined top, sophisticated and graceful. Soft film grain, shallow depth of field, cozy indoor atmosphere, warm tones, cinematic color grading, realistic skin texture, 35mm film look, portrait photography, centered composition.
-```
-
-</details>
-
-<a id="gpt-image-iphone-photo-woman-in-cafe"></a>
-### Realistic iPhone photo of a woman in cafe
-
-<a href="https://x.com/blueemi99/status/2097602273085931662"><img src="../../previews/gpt-image-iphone-photo-woman-in-cafe.jpg" width="360"></a>
-
-Naming the capture device and a simple scene is enough to trigger a candid phone photo look, with warm pendant lighting, soft background blur, and a casual hand on cheek pose. A very short prompt leaves the model free to choose natural composition.
-
-GPT Image 2.5 · Text-to-image · Source: [@blueemi99 on X](https://x.com/blueemi99/status/2097602273085931662) · 91 likes on 2026-10-28
-
-[`iphone-photo`](tags.md#tag-iphone-photo) [`cafe`](tags.md#tag-cafe) [`candid`](tags.md#tag-candid) [`short-prompt`](tags.md#tag-short-prompt) [`realistic`](tags.md#tag-realistic)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-GPT Image 2.5
-
-"make me a realistic iphone photo of a woman in a cafe"
-
-I dont get how people are getting bad results from this model, genuinely few words prompt and looks so good and realistic
-```
-
-</details>
-
-<a id="nano-banana-douyin-doll-top-down-selfie"></a>
-### Top-down selfie of woman in doll makeup
-
-<a href="https://x.com/kingofdairyque/status/2078461655726592211"><img src="../../previews/nano-banana-douyin-doll-top-down-selfie.jpg" width="360"></a>
-
-Naming a style and then listing concrete details such as garment, lens colour, lash type and blush placement turns a vague beauty request into a checklist the model can follow. A direct line asking to keep the original face anchors identity in an edit.
-
-Nano Banana 2 · Edit · Source: [@kingofdairyque on X](https://x.com/kingofdairyque/status/2078461655726592211) · 91 likes on 2026-10-29
-
-[`douyin-makeup`](tags.md#tag-douyin-makeup) [`selfie`](tags.md#tag-selfie) [`top-down`](tags.md#tag-top-down) [`portrait`](tags.md#tag-portrait)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Don't change her face original—100% authentic with perfect facial symmetry. She should have a youthful, feminine appearance. Create a captivating, intimate top-down portrait selfie inspired by the popular Douyin makeup aesthetic, featuring a young woman lying comfortably on her back in a relaxed pose that radiates femininity and grace. The image is captured directly from above in a slightly tilted bird's-eye perspective, creating a spontaneous, alluring composition focused entirely on her captivating facial features and her direct gaze into the camera. She looks at the lens with wide, sharp eyes and a calm, relaxed expression without an open smile, giving the portrait a mysterious, dramatic, and confident mood. Her makeup follows the signature Douyin doll style with enchanting gray or light-blue colored contact lenses, long, thick, wispy manga-style false lashes, highlighted aegyo-sal to make the eyes appear larger and more alluring, and perfectly brushed, precisely defined eyebrows. Intense pink blush is generously applied beneath the eyes, across the cheeks, and over the tip of the nose to create a soft, flushed complexion, while a delicate beauty mark is clearly visible on the right side of her nose tip. Her lips are full, well-defined, and finished in a matte berry-pink shade that enhances their soft, attractive shape. She wears a fitted, short-sleeved ribbed Henley-style top in light gray with a wide open neckline and small front buttons. Her thick, dark chocolate-brown hair falls naturally in a loose, messy style across the pillow surrounding her head and forehead, emphasizing the relaxed atmosphere. She is lying on a cozy bed or sofa with a soft white or cream-colored pillow featuring an embossed textured pattern behind her head. Soft, diffused indoor lighting evenly illuminates her face, highlighting her velvety skin texture and intricate makeup details without harsh shadows, creating an intimate, cozy mood. Preserve her original facial features exactly without any alteration. Ultra-realistic, HD image quality, 9:16 aspect ratio.
-```
-
-</details>
-
-<a id="nano-banana-peony-bouquet-terracotta-portrait"></a>
-### Woman Behind Oversized Peony Bouquet on Terracotta
-
-<a href="https://x.com/TheVirtualMuse/status/2109224903732089215"><img src="../../previews/nano-banana-peony-bouquet-terracotta-portrait.jpg" width="360"></a>
-
-An identity lock block comes first and keeps the reference face intact. Then the bouquet is itemised flower by flower, the frame is placed in percentages, and the light is set with a named camera and lens.
-
-Nano Banana 2.1 · Edit · Source: [@TheVirtualMuse on X](https://x.com/TheVirtualMuse/status/2109224903732089215) · 90 likes on 2026-10-28
-
-[`floral`](tags.md#tag-floral) [`fashion-editorial`](tags.md#tag-fashion-editorial) [`identity-lock`](tags.md#tag-identity-lock) [`golden-hour`](tags.md#tag-golden-hour) [`studio-portrait`](tags.md#tag-studio-portrait)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Using the uploaded reference image as the ONLY facial identity source, create an ultra-realistic, high-end luxury fashion editorial portrait featuring the exact same person holding an oversized, beautifully arranged floral bouquet.
-
-MASTER IDENTITY LOCK (CRITICAL):
-
-Preserve the reference person's facial identity with maximum possible accuracy. Maintain the exact facial structure, eye shape, eyebrows, nose, lips, jawline, cheekbones, natural skin tone, age, and recognizable facial characteristics.
-
-Retain authentic skin texture, visible pores, natural facial asymmetry, and realistic imperfections. No beautification, facial reconstruction, artificial skin smoothing, or identity changes.
-
-SUBJECT & STYLING:
-
-The woman stands elegantly against a warm, burnt-terracotta studio backdrop, wearing a luxurious oversized beige tailored blazer with structured shoulders, notched lapels, refined stitching, and realistic linen-wool fabric texture.
-
-Her dark brown hair is styled in a voluminous, softly tousled side-parted bob with natural movement, individual flyaway strands, and realistic shine.
-
-Minimal sophisticated makeup, softly defined eyebrows, natural eyelashes, subtle warm blush, and muted nude-pink lips.
-
-Her expression is calm, intimate, and effortlessly confident, looking directly into the camera.
-
-FLORAL ARRANGEMENT (CRITICAL):
-
-She holds an enormous, luxurious asymmetrical bouquet covering most of her upper torso and partially concealing the left side of her face.
-
-The arrangement features:
-
-Large, fully bloomed coral-pink peonies with intricate layered petals and golden centers.
-
-Three prominent ivory-white anthurium flowers with delicate veining, glossy sculptural petals, and pale cream spadices.
-
-Smaller blush-pink peonies and unopened flower buds.
-
-Delicate dried pink astilbe and soft peach botanical fillers.
-
-Pale ivory blossoms scattered naturally throughout the arrangement.
-
-Sculptural dried golden palm leaves extending upward between the flowers.
-
-Every flower must display extraordinary botanical realism, natural petal translucency, delicate imperfections, and physically accurate textures.
-
-The bouquet is wrapped in oversized, sculptural charcoal-black textured floral paper with dramatic angular folds, finished with a long, luxurious matte-black satin ribbon tied into an elegant bow.
-
-POSE & COMPOSITION:
-
-Vertical medium portrait, framed from the upper thighs to slightly above the head.
-
-The subject stands slightly right of center, holding the bouquet naturally across her chest with both arms.
-
-The bouquet dominates the left and central portions of the composition.
-
-One large white anthurium partially overlaps her left eye and cheek, while her right eye remains clearly visible and sharply focused.
-
-Her face emerges naturally from behind the flowers, creating an intimate, mysterious editorial composition.
-
-The flowers occupy approximately 60% of the frame, with the subject's face positioned in the upper-right third.
-
-LIGHTING & ATMOSPHERE:
-
-Dramatic late-afternoon sunlight enters from the upper left, producing warm directional illumination across her face, blazer, and flowers.
-
-Strong yet naturally softened shadows create beautiful dimensional contrast.
-
-Distinct botanical shadows fall across her beige blazer and the terracotta wall behind her.
-
-Rich burnt-orange background tones contrast elegantly with the ivory flowers, coral-pink peonies, beige tailoring, and deep-black bouquet wrapping.
-
-Authentic golden-hour warmth, sophisticated editorial contrast, subtle film grain, natural highlight roll-off, and rich cinematic shadows.
-
-CAMERA & IMAGE QUALITY:
-
-Photographed as a real luxury fashion campaign using a Hasselblad X2D 100C medium-format camera with an 80mm portrait lens.
-
-f/2.8 aperture, ISO 100, realistic optical depth of field, precise eye focus, beautifully resolved flower details, and subtle background softness.
-
-Premium Vogue-inspired floral fashion photography, authentic medium-format rendering, refined luxury magazine color grading, extraordinary photographic detail, realistic dynamic range, and natural skin tones.
-
-8K-quality appearance, exceptionally sharp where focused, physically accurate materials, realistic hands and fingers, and professional studio photography.
-
-FINAL REQUIREMENTS:
-
-The final result must look like an authentic photograph captured by a world-class fashion photographer, not an AI-generated image.
-
-Preserve natural human anatomy, believable flower proportions, realistic shadows, and accurate fabric behavior.
-
-No CGI, 3D rendering, illustration, plastic skin, excessive retouching, artificial HDR, oversaturation, distorted facial features, unnatural hands, duplicated flowers, text, logos, or watermarks.
-
-Aspect Ratio: 9:16 vertical.
-```
-
-</details>
-
-<a id="nano-banana-olive-sweater-terracotta-studio-portrait"></a>
-### Seated studio portrait in olive sweater and beige trousers
-
-<a href="https://x.com/frametheory058/status/2061830756364947855"><img src="../../previews/nano-banana-olive-sweater-terracotta-studio-portrait.jpg" width="360"></a>
-
-Pins the reference pose, framing and hand placement while swapping identity and outfit, so the model edits the person instead of inventing a new scene. The terracotta-to-sand backdrop echoes the olive and beige clothing, and the camera body and lens line adds photographic realism.
-
-Nano Banana 2 · Edit · Source: [@frametheory058 on X](https://x.com/frametheory058/status/2061830756364947855) · 89 likes on 2026-10-29
-
-[`studio-portrait`](tags.md#tag-studio-portrait) [`reference-pose`](tags.md#tag-reference-pose) [`fashion-photo`](tags.md#tag-fashion-photo) [`color-palette`](tags.md#tag-color-palette)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create an ultra premium studio portrait using the uploaded person’s REAL face, hairstyle, beard style, and facial identity. Do NOT copy the reference model’s facial features or hair. Preserve the uploaded person’s natural appearance completely.
-
-Match only the EXACT sitting pose, body angle, hand placement, camera framing, composition, and relaxed posture from the reference image. Maintain the same modern editorial studio aesthetic and confident lifestyle vibe.
-
-Dress the person in a luxurious olive green knitted sweater paired with tailored beige trousers. The background should be a smooth warm terracotta-to-soft sand gradient studio backdrop that perfectly complements the outfit tones and creates a premium harmonious color palette.
-
-Lighting should be soft professional studio lighting with subtle warm highlights, realistic shadows, cinematic depth, and clean luxury contrast. Keep the mood minimal, modern, stylish, and highly Instagram-worthy.
-
-Ultra realistic skin texture, natural body proportions, premium fashion photography style, shallow depth of field, soft background blur, realistic fabric texture, luxury creator-brand photoshoot aesthetic.
-
-Shot on Sony A7 IV, 50mm lens, f/2.2, photorealistic, ultra detailed, high-end color grading, editorial magazine quality, 8k.
-```
-
-</details>
-
-<a id="gpt-image-selfie-chibi-self-painting-cheek-canvas"></a>
-### Selfie with chibi self painting her cheek
-
-<a href="https://x.com/Arina_hoqe/status/2098966830874595582"><img src="../../previews/gpt-image-selfie-chibi-self-painting-cheek-canvas.jpg" width="360"></a>
-
-A labeled block structure (hair, face, outfit, concept, chibi, background, style, camera) keeps the real woman and her painted twin consistent. Matching paint splatters and a fourth wall breaking gesture blend photo realism with 3D chibi art, while face reference rules preserve identity from the uploaded photo.
-
-GPT Image 2.5 · Edit · Source: [@Arina_hoqe on X](https://x.com/Arina_hoqe/status/2098966830874595582) · 85 likes on 2026-10-28
-
-[`selfie`](tags.md#tag-selfie) [`chibi`](tags.md#tag-chibi) [`paint-splatter`](tags.md#tag-paint-splatter) [`fourth-wall`](tags.md#tag-fourth-wall) [`art-studio`](tags.md#tag-art-studio)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Study the uploaded photo’s facial features and use them as inspiration to create a fun selfie-style photo of a similar-looking young woman with a creative cartoon canvas twist.
-
-Hair: Messy, tousled dark hair with colorful paint splatters scattered naturally across the hair and face, soft loose strands, light natural texture.
-
-Face/Skin: Preserve the recognizable facial features and overall identity from the reference image while creating a female version. Natural youthful skin with colorful paint speckles in purple, orange, and blue across the face. Big laughing open-mouth smile, playful joyful expression, expressive eyes, natural feminine appearance, no jewelry, no tattoos.
-
-Outfit: Purple/lavender knit sweater, casual artistic look with colorful paint splatters on the clothing.
-
-Concept: Taking a close-up selfie next to an easel canvas, where a cute chibi cartoon version of herself is painted on the canvas. The illustrated cartoon character is playfully reaching out of the canvas, holding a paintbrush and painting/touching the real woman’s cheek with colorful paint, creating a fun fourth-wall-breaking interaction between the real person and the illustration.
-
-Chibi Cartoon on Canvas: A cute female chibi version of the same woman, with the same messy dark hair, colorful paint splatters, big expressive cartoon eyes, cheerful laughing smile, wearing a purple/lavender off-shoulder top. She is leaning out of the canvas frame with one arm extended, holding a paintbrush and playfully touching the real woman’s cheek.
-
-Background: Cozy creative art studio, softly blurred art supplies, colorful paint bottles, brushes, canvases, and wooden shelves in the background. Warm natural window lighting. Wooden easel with clearly visible paint-splattered edges.
-
-Art Style: Photorealistic selfie photography seamlessly blended with a vibrant high-quality 3D chibi cartoon illustration. Realistic skin texture, natural facial details, colorful paint-splatter texture throughout, playful energetic composition, premium photography, high detail.
-
-Camera: Close-up selfie perspective, slightly wide-angle lens, natural handheld selfie framing, capturing both the real woman’s face and the full interaction with the canvas painting. Realistic depth of field, cinematic lighting, sharp facial details.
-
-Face Reference Rules: Use the uploaded image as the primary facial reference. Preserve the same recognizable facial structure, eyes, nose, lips, face shape, skin tone, and overall identity as closely as possible. Do not replace the identity with a generic face. Keep the woman looking naturally like the reference person while adapting the appearance into a feminine version of the concept.
-
-Text Overlay: Small stylish signature-style text in the top corner reading exactly: “Arina Ai”
-
-Negative Prompt: blurry face, distorted facial features, extra fingers, extra limbs, duplicate person, deformed hands, bad anatomy, jewelry, tattoos, masculine body, plastic skin, unrealistic face, anime real person, low quality, excessive makeup, text errors, misspelled “Arina Ai”, watermark, logo.
-```
-
-</details>
-
-<a id="nano-banana-london-townhouse-street-style-identity-lock"></a>
-### London Townhouse Street Style in Leather Jacket
-
-<a href="https://x.com/iamrealsnow/status/2107680165736468917"><img src="../../previews/nano-banana-london-townhouse-street-style-identity-lock.jpg" width="360"></a>
-
-Opens by locking identity, face, hairstyle and body proportions to the reference image, then specifies the location, door and railings, and each garment with its material. Closes with overcast light, 50mm lens, shallow depth of field, film grain and a no text, no watermark line.
-
-Nano Banana 2.1 · Edit · Source: [@iamrealsnow on X](https://x.com/iamrealsnow/status/2107680165736468917) · 85 likes on 2026-10-28
-
-[`street-style`](tags.md#tag-street-style) [`fashion`](tags.md#tag-fashion) [`identity-reference`](tags.md#tag-identity-reference) [`london`](tags.md#tag-london) [`photorealistic`](tags.md#tag-photorealistic)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Use the reference image as the exact identity reference. Preserve the subject’s facial identity, facial proportions, hairstyle, body proportions and natural appearance. Create a photorealistic high-fashion street-style photograph in London. The subject is standing outside a classic British townhouse with a muted blue-gray paneled door and black wrought-iron railings. She wears a fitted black ribbed turtleneck, oversized dark brown vintage leather jacket with a soft shearling collar, brown mini skirt, and carries a structured dark brown leather handbag with gold hardware. Oversized dark sunglasses, minimal makeup, effortless model-off-duty expression. Overcast natural daylight, muted neutral color palette, realistic shadows, authentic leather texture, subtle film grain, editorial fashion photography, candid street photography, 50mm lens, shallow depth of field, extremely photorealistic, no text, no watermark.
-```
-
-</details>
-
-<a id="nano-banana-cafe-woman-matcha-candid-portrait"></a>
-### Young woman with matcha latte at a café
-
-<a href="https://x.com/Sairah_0/status/2050817729767276713"><img src="../../previews/nano-banana-cafe-woman-matcha-candid-portrait.jpg" width="360"></a>
-
-Specific props, a plain outfit and soft daylight anchor the scene, and the word candid asks for an unposed, casual look. Shallow depth of field and a lifestyle framing make the result read like a real phone photo.
-
-Nano Banana 2 · Text-to-image · Source: [@Sairah_0 on X](https://x.com/Sairah_0/status/2050817729767276713) · 83 likes on 2026-10-29
-
-[`portrait`](tags.md#tag-portrait) [`cafe`](tags.md#tag-cafe) [`lifestyle`](tags.md#tag-lifestyle) [`natural-light`](tags.md#tag-natural-light)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A stylish young woman sitting in the driver’s seat of a luxury convertible car with a red leather interior, parked in front of an elegant modern building. She wears a black sheer blouse and slim black sunglasses, with wavy brown hair and minimal makeup. She turns back over her shoulder, giving a confident, composed look toward the camera. The setting has clean architectural lines and muted colors, enhancing a high-fashion, editorial vibe. Shot in soft daylight, cinematic composition, ultra-realistic, sharp focus, luxury aesthetic.
-```
-
-</details>
-
-<a id="gpt-image-lace-dress-cafe-window-portrait"></a>
-### Woman in lace dress at café window
-
-<a href="https://x.com/DaniaSafvi/status/2071477298944164056"><img src="../../previews/gpt-image-lace-dress-cafe-window-portrait.jpg" width="360"></a>
-
-Shooting from outside through the glass layers street reflections over the warm interior, which gives depth and a candid feel. Naming a body and lens such as Sony A7R V with 85mm f/1.4 plus skin texture terms steers the render toward a real photograph.
-
-GPT Image 2 · Text-to-image · Source: [@DaniaSafvi on X](https://x.com/DaniaSafvi/status/2071477298944164056) · 82 likes on 2026-10-29
-
-[`portrait`](tags.md#tag-portrait) [`cafe`](tags.md#tag-cafe) [`glass-reflection`](tags.md#tag-glass-reflection) [`bokeh`](tags.md#tag-bokeh)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Ultra-realistic cinematic street portrait photography, 9:16 vertical ratio. A young Asian woman with fair, bright skin sitting alone inside a modern cafe near a large glass window facing the city street.
-Pose: sitting sideways on a chair, body slightly turned away from the camera, head turned back to gaze directly at the camera with a calm, elegant, and mysterious expression. And one of her hands is resting on her chin. Wearing a white embroidered lace dress.
-Long, voluminous black hair cascading naturally, minimal natural makeup.
-The shot is taken from outside the cafe through the glass window, creating a soft reflection of vehicles, city buildings, and pedestrians on the glass surface. A small wooden table beside her with a cup of white coffee and a glass of latte. The cafe interior is warm with golden-yellow round pendant lights producing large, soft bokeh. The city background appears blurred with a shallow depth of field.
-Natural spotlight from nighttime street lamps, soft ambient light, cinematic mood, muted colors, premium editorial photography, candid lifestyle shot, realistic skin texture, healthy skin with visible natural pores, high detail face, sharp eyes, soft shadows, creamy bokeh, glass reflection effect, shallow depth of field, Sony A7R V, 85mm f/1.4 lens, photorealistic, HDR, 8K, masterpiece, highly detailed, magazine-quality street cafe portrait.
-```
-
-</details>
-
-<a id="nano-banana-embroidered-dress-beige-tile-portrait"></a>
-### Smiling woman in embroidered dress before beige tiles
-
-<a href="https://x.com/HaniaAi12/status/2060664884035981663"><img src="../../previews/nano-banana-embroidered-dress-beige-tile-portrait.jpg" width="360"></a>
-
-Stacking a precise subject description with lighting, lens and grading cues such as soft daylight, shallow depth of field and warm colour grading produces a convincing photoreal portrait. Naming the outfit colours and the beige tiled wall keeps the palette and background consistent with the scene.
-
-Nano Banana 2 · Text-to-image · Source: [@HaniaAi12 on X](https://x.com/HaniaAi12/status/2060664884035981663) · 82 likes on 2026-10-29
-
-[`portrait`](tags.md#tag-portrait) [`photorealistic`](tags.md#tag-photorealistic) [`fashion`](tags.md#tag-fashion) [`natural-light`](tags.md#tag-natural-light)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A beautiful young woman with fair skin and long, silky dark-brown hair cascading over her shoulders, standing in front of a modern beige tiled wall. She wears a stylish black embroidered ethnic dress featuring vibrant red and orange floral patterns. Soft natural daylight illuminates her face, creating a warm, glowing complexion with subtle makeup and a gentle smile. Ultra-realistic portrait photography, shallow depth of field, soft cinematic lighting, high-detail skin texture, elegant and graceful expression, warm color grading, aesthetic social media reel style, 4K quality, DSLR photography, natural beauty, dreamy atmosphere, highly detailed, photorealistic.
-```
-
-</details>
-
-<a id="nano-banana-low-key-studio-portrait-black-backdrop"></a>
-### Low key studio portrait on seamless black
-
-<a href="https://x.com/john_my07/status/2107801411711123546"><img src="../../previews/nano-banana-low-key-studio-portrait-black-backdrop.jpg" width="360"></a>
-
-One directional light leaves half the face fading into shadow against a seamless black backdrop. Naming skin details like pores and peach fuzz, plus a 35mm lens and film grain, pushes the result toward a real photograph and away from smooth AI skin.
-
-Nano Banana 2.1 · Text-to-image · Source: [@john_my07 on X](https://x.com/john_my07/status/2107801411711123546) · 82 likes on 2026-10-28
-
-[`portrait`](tags.md#tag-portrait) [`low-key`](tags.md#tag-low-key) [`studio-lighting`](tags.md#tag-studio-lighting) [`photorealistic`](tags.md#tag-photorealistic) [`skin-texture`](tags.md#tag-skin-texture)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create an ultra-realistic, high-end cinematic portrait of a beautiful young woman, framed in a tight head-and-shoulders composition. She faces the camera directly with a calm yet intense expression and a confident, captivating gaze.
-
-Use dramatic low-key studio lighting with a strong directional light illuminating one side of her face while the opposite side gradually disappears into deep, atmospheric shadow. Keep the background completely black and seamless, creating a striking contrast around her silhouette.
-
-Her eyes are deep brown with subtle geometric catchlights. Give her naturally textured, slightly damp-looking hair with individual strands visible and realistic volume. She wears a simple, elegant black crew-neck top with no visible logos or patterns.
-
-Capture extremely realistic skin with visible pores, fine facial texture, subtle imperfections, delicate peach fuzz, natural lips, and detailed eyelashes. Avoid overly smooth or plastic-looking skin.
-
-Photographed with a cinematic 35mm lens aesthetic, shallow depth of field, soft optical falloff, realistic tonal range, subtle analog film grain, and premium editorial photography quality. The final image should feel like an authentic photograph captured in a professional studio — sophisticated, raw, atmospheric, and completely photorealistic, with no obvious AI-generated appearance.
-```
-
-</details>
-
-<a id="nano-banana-striped-tee-blue-eyes-portrait"></a>
-### Smiling woman with black hair in green striped tee
-
-<a href="https://x.com/Zarlish_Shahid/status/2079734611962405293"><img src="../../previews/nano-banana-striped-tee-blue-eyes-portrait.jpg" width="360"></a>
-
-Camera and lens cues such as DSLR, 85mm, shallow depth of field and soft sunlight lock in a realistic photo style. The itemized appearance traits give the face a specific, consistent description.
-
-Nano Banana 2 · Text-to-image · Source: [@Zarlish_Shahid on X](https://x.com/Zarlish_Shahid/status/2079734611962405293) · 82 likes on 2026-10-29
-
-[`portrait`](tags.md#tag-portrait) [`photorealism`](tags.md#tag-photorealism) [`85mm-lens`](tags.md#tag-85mm-lens) [`soft-sunlight`](tags.md#tag-soft-sunlight)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A breathtakingly beautiful young woman with long silky black hair, mesmerizing large crystal-blue eyes, flawless fair glowing skin, soft rosy pink lips, naturally defined eyebrows, and a gentle heartwarming smile. She is wearing a stylish green and white T-shirt. Ultra-realistic face, perfect symmetrical features, soft natural makeup, cinematic lighting, shallow depth of field, elegant pose, luxurious hair, photorealistic, DSLR portrait, 85mm lens, soft sunlight, highly detailed skin texture, masterpiece, 8K, ultra HD, realistic photography.
-```
-
-</details>
-
-<a id="gpt-image-cafe-golden-hour-over-shoulder-portrait"></a>
-### Golden hour cafe portrait through foreground bokeh
-
-<a href="https://x.com/mehvishs25/status/2105280094994587829"><img src="../../previews/gpt-image-cafe-golden-hour-over-shoulder-portrait.jpg" width="360"></a>
-
-Over-the-shoulder framing with two blurred foreground figures creates a candid peek through a gap, while the 85mm f/1.4 lens and shallow depth of field keep focus on her eyes. Backlit golden hour light plus named film stocks (Portra 400, Gold 200), grain and halation give the warm analog look.
-
-GPT Image 2.5 · Text-to-image · Source: [@mehvishs25 on X](https://x.com/mehvishs25/status/2105280094994587829) · 78 likes on 2026-10-28
-
-[`candid-portrait`](tags.md#tag-candid-portrait) [`golden-hour`](tags.md#tag-golden-hour) [`film-look`](tags.md#tag-film-look) [`bokeh`](tags.md#tag-bokeh) [`cafe`](tags.md#tag-cafe)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Candid cinematic portrait of a woman with a warm, playful, knowing smile, seated at a café table and looking directly at the camera through a gap between two out-of-focus people in the foreground. She has voluminous, tousled, shoulder-length curly hair in honey-brown and caramel tones with sun-lightened highlights, messy shaggy curtain bangs falling across her forehead and eyes, strands catching the light like a glowing halo. Her skin is sun-kissed and warm, with natural texture, minimal makeup, a soft muted-rose lip, and a slight smirk that reads as relaxed and flirtatious. She wears a black oversized knit cardigan or soft black jacket, layered with delicate thin gold necklaces of different lengths.
-On the wooden table in front of her sits a white-lidded brown paper takeaway coffee cup, and beside it a small glass of amber tea. In the extreme foreground, blurred shoulders and heads frame the shot: on the left, a person in a striped beanie and white t-shirt, on the right, a person in a dark brown top with dark curly hair, both heavily out of focus.
-Setting: a sunlit café interior beside a large window, with a blurred street scene, a soft peach and white building, and a pale sky visible outside.
-Lighting: Strong golden-hour sunlight pouring in from the side and behind, creating a glowing rim light through her hair, warm orange highlights across her face, and deep chocolate-brown shadows. Sun-drenched, hazy, slightly overexposed highlights with a soft bloom.
-Style / Mood: Warm, nostalgic, effortless, and intimate. Candid lifestyle photography with a "captured in the moment" feel. Analog film aesthetic, Kodak Portra 400 / Kodak Gold 200 look, visible film grain, lifted warm blacks, rich amber, honey, and brown color palette, gentle halation and lens glow.
-Camera details: 85mm f/1.4 lens, very shallow depth of field, sharp focus on her eyes and face, layered foreground bokeh (over-the-shoulder framing), vertical 4:5 composition, eye-level shot, slight vignette.
-```
-
-</details>
-
-<a id="nano-banana-sunflower-wooden-frame-portrait"></a>
-### Bearded man framed by a wooden frame in sunflowers
-
-<a href="https://x.com/AiWithTariq/status/2068925139111358658"><img src="../../previews/nano-banana-sunflower-wooden-frame-portrait.jpg" width="360"></a>
-
-The prompt fixes the crop, frame angle and foreground blur in concrete terms, then adds a preserve clause so the edit keeps framing, clothing and haze instead of redrawing them.
-
-Nano Banana 2 · Edit · Source: [@AiWithTariq on X](https://x.com/AiWithTariq/status/2068925139111358658) · 75 likes on 2026-10-29
-
-[`sunflower`](tags.md#tag-sunflower) [`portrait`](tags.md#tag-portrait) [`soft-focus`](tags.md#tag-soft-focus) [`framing`](tags.md#tag-framing)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Gpt Image 2 | Nano banana 2 | Grok | Gemini Prompt 👇
-
-A very tight vertical frame with strong crop pressure, the subject positioned inside a dense sunflower and orange flower field while partially framed by a large tilted wooden picture frame near the center of the image. Large blurred sunflower blooms dominate the upper-right foreground and left foreground edges, partially blocking the frame and subject. The wooden frame leans diagonally from lower-left toward upper-right, surrounding the face and upper torso area while several edges are cropped by foreground flowers and frame borders. Pale blue sky with soft white clouds occupies the upper-left background, with dense green foliage and orange flowers filling the lower and middle background. Preserve the exact asymmetrical placement and tight crop without revealing more body or environment. The face appears near the upper-center area inside the wooden frame, tilted slightly downward toward viewer’s left, eyes open wide directed toward the camera axis, pupils centered, lips softly closed with a slight pout shape and faint glossy pink color. Makeup is soft and bright with pale pink blush, peach-pink eyeshadow, subtle eyeliner, glossy pink lips, smooth bright skin with warm highlights. Small flower stickers remain visible on the cheek. Dark medium-length hair falls around both sides of the face and shoulder area with loose strands near the forehead and cheek, a yellow flower accessory tucked into the hair near the viewer’s left side of the head. One hand grips the lower-left side of the wooden frame while the other arm remains lower and partly hidden by flowers and leaves. Clothing must remain unchanged: a vivid cobalt-blue short-sleeve knit top, close-fitting over the upper torso, with a simple round crew neckline sitting close to the base of the neck, smooth fine-knit fabric texture, short sleeves ending around the upper arm, sleeve edges slightly curved around the arms, fabric softly stretched across the chest and shoulder area with mild natural folds and highlights, no visible logo or pattern. Dense sunflower leaves and stems overlap the lower foreground and right side with several leaves and flowers heavily blurred and cropped by the frame edges. Bright warm sunlight creates strong dreamy haze, pale overexposed highlights, and soft translucent lens flare artifacts near the upper-left and lower-left areas. Dreamy soft-focus image quality, reduced edge sharpness, shallow depth of field, blurred foreground flowers, and soft yellow-green background separation. Preserve the soft haze, bloom lighting, blur, overexposed highlights, and dreamy low-detail quality exactly as visible.
-```
-
-</details>
-
-<a id="gpt-image-1980s-fashion-editorial-red-suit-portrait"></a>
-### 1980s editorial portrait in a red suit
-
-<a href="https://x.com/mehvishs25/status/2098090489811746853"><img src="../../previews/gpt-image-1980s-fashion-editorial-red-suit-portrait.jpg" width="360"></a>
-
-A reference photo locks the face while a detailed list of period outfit pieces and accessories sets the 80s look. Studio backdrop, warm analog light, film grain and lens softness give the magazine feel, and a closing list of negatives keeps modern elements out.
-
-GPT Image 2.5 · Edit · Source: [@mehvishs25 on X](https://x.com/mehvishs25/status/2098090489811746853) · 74 likes on 2026-10-28
-
-[`1980s`](tags.md#tag-1980s) [`fashion-editorial`](tags.md#tag-fashion-editorial) [`film-grain`](tags.md#tag-film-grain) [`reference-image`](tags.md#tag-reference-image) [`vintage`](tags.md#tag-vintage)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a vertical, ultra-photorealistic portrait of the same clearly adult woman from the reference image, preserving her facial identity, facial structure, skin tone, hair characteristics, and overall appearance.
-
-Give her an authentic 1980s fashion-editorial look with a confident, effortless attitude. She is posing confidently with relaxed shoulders, strong posture, and a subtle self-assured expression, looking directly toward the camera. Her pose should feel natural and charismatic rather than overly staged.
-
-Style her in an elegant vintage 80s outfit: a sophisticated fitted top or blouse with tasteful coverage, high-waisted trousers or a classic high-waisted skirt, subtle shoulder structure, and period-accurate accessories such as small statement earrings, a delicate necklace, and a vintage wristwatch. Use rich but tasteful 1980s colors and textures.
-
-Set the scene in a classic 1980s studio fashion environment, with a softly textured backdrop, warm analog lighting, gentle film grain, subtle lens softness, and authentic vintage color rendering. The overall aesthetic should resemble a high-end fashion photograph from an 80s magazine—glamorous, confident, sophisticated, and nostalgic.
-
-Natural skin texture, realistic fabric detail, authentic proportions, realistic hands, cinematic lighting, 35mm film photography aesthetic, subtle grain, soft highlights, shallow depth of field, no modern objects, no contemporary styling, no text or watermark.
-```
-
-</details>
-
-<a id="nano-banana-half-face-soccer-ball-stitch-portrait"></a>
-### Half face portrait stitched into a soccer ball
-
-<a href="https://x.com/ShamsAmin56/status/2066220842485469445"><img src="../../previews/nano-banana-half-face-soccer-ball-stitch-portrait.jpg" width="360"></a>
-
-The [Player Full Name] slot makes one prompt reusable for any player. Dense skin and sweat detail plus named football panels and seams keep the face-to-leather join photoreal, while the white seamless backdrop and 9:16 studio framing keep it clean.
-
-Nano Banana 2 · Text-to-image · Source: [@ShamsAmin56 on X](https://x.com/ShamsAmin56/status/2066220842485469445) · 74 likes on 2026-10-29
-
-[`surreal-composite`](tags.md#tag-surreal-composite) [`soccer`](tags.md#tag-soccer) [`template`](tags.md#tag-template) [`portrait`](tags.md#tag-portrait)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Ultra-realistic photorealistic portrait of [Player Full Name]'s half face seamlessly stitched to half of a classic soccer ball, intricate stitching details where skin meets leather, highly detailed skin texture, pores, sweat, realistic football panels and seams, dramatic cinematic lighting, sharp focus, white seamless background, 9:16 aspect ratio, professional studio photography, 4k resolution.
-
-Super Easy to Edit:
-
-Replace [Player Full Name] with the player’s name.
-Example: Cristiano Ronaldo
-
-Disclaimer:
-AI-generated images • Creative artistic concept • Not a real photo or real stitches.
-```
-
-</details>
-
-<a id="nano-banana-mirror-selfie-sofa-warm-light"></a>
-### Woman takes warm mirror selfie on sofa
-
-<a href="https://x.com/j_smeaton99/status/2050418977697145019"><img src="../../previews/nano-banana-mirror-selfie-sofa-warm-light.jpg" width="360"></a>
-
-A reference image anchors facial identity, then the prompt fixes framing, pose, and camera look. Cropping the lower body and asking for front-camera grain and shallow depth of field keeps the shot candid rather than studio-polished.
-
-Nano Banana 2 · Edit · Source: [@j_smeaton99 on X](https://x.com/j_smeaton99/status/2050418977697145019) · 74 likes on 2026-10-29
-
-[`selfie`](tags.md#tag-selfie) [`mirror`](tags.md#tag-mirror) [`portrait`](tags.md#tag-portrait) [`warm-lighting`](tags.md#tag-warm-lighting)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Ultra-realistic iPhone mirror selfie of a young woman indoors, with facial identity matching exactly the provided reference image. She is seated casually on a modern sofa in a softly lit, warm-toned room with a wooden-framed mirror behind her.
-
-Framing: mid-body composition (waist-up focus), ensuring her legs are minimally visible or mostly cropped out of the frame. Slight natural perspective as seen in casual selfies.
-
-Pose: She holds her phone in one hand at chest level, angled slightly outward. Her head is turned slightly to the side in a soft, flattering profile with a subtle pout or relaxed expression. The pose should feel candid and natural.
-
-Outfit: She is wearing a fitted half-sleeved top (instead of sleeveless), paired with a soft-colored skirt or shorts, but the lower body is mostly out of frame.
-
-Hair & styling: Hair tied back in a neat ponytail, with a few soft strands framing her face. Natural makeup with smooth skin tones and gentle highlights.
-
-Lighting: Soft indoor ambient lighting with a slightly cinematic glow, subtle shadows, and warm color grading. Slight reflection imperfections on the mirror for realism.
-
-Environment details: Minimal, cozy interior, sofa, mirror, wooden textures, possibly a framed picture in the background. Clean but lived-in aesthetic.
-
-Camera style: iPhone front-camera look, ultra-realistic, shallow depth of field, slight grain, natural skin texture, no over-smoothing.
-```
-
-</details>
-
-<a id="nano-banana-streetwear-motion-blur-walk"></a>
-### Streetwear model walking with vertical motion blur
-
-<a href="https://x.com/SadiaMalik182/status/2078088218462007462"><img src="../../previews/nano-banana-streetwear-motion-blur-walk.jpg" width="360"></a>
-
-Listing each garment and tying the identity to the uploaded reference keeps the person and outfit consistent across the edit. The motion blur and glitch smear are described as a separate effect layer over a clean studio backdrop, which produces the ghosted trail behind the figure.
-
-Nano Banana 2 · Edit · Source: [@SadiaMalik182 on X](https://x.com/SadiaMalik182/status/2078088218462007462) · 73 likes on 2026-10-29
-
-[`fashion`](tags.md#tag-fashion) [`streetwear`](tags.md#tag-streetwear) [`portrait`](tags.md#tag-portrait) [`motion-blur`](tags.md#tag-motion-blur)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A stylish young man in a premium editorial fashion photoshoot, wearing an oversized black/dark charcoal T-shirt, relaxed beige or white wide-leg trousers, premium Nike sneakers, optional black sunglasses, silver chain, and luxury wristwatch. Dynamic walking or standing pose with a confident expression, looking slightly away or toward the camera. Minimal clean white/light gray studio background, dramatic soft lighting, soft shadows, high contrast, artistic vertical motion blur and subtle glitch smear effect around the body, ultra-realistic skin texture, luxury streetwear campaign, Vogue-inspired fashion photography, cinematic color grading, 2K resolution, razor-sharp details, masterpiece quality, preserve the exact reference face and identity 100%, do not change my real face.
-```
-
-</details>
-
-<a id="nano-banana-amber-glasses-beanie-side-profile-portrait"></a>
-### Side profile portrait in amber glasses and beanie
-
-<a href="https://x.com/weiinberg/status/2071813959901143140"><img src="../../previews/nano-banana-amber-glasses-beanie-side-profile-portrait.jpg" width="360"></a>
-
-A reference image is limited to identity so the outfit, pose and background can be rewritten. The 3/4 angle, 85mm f/1.8 lens, single side window light and a long negative prompt keep skin texture real and the eyes sharp.
-
-Nano Banana 2 · Edit · Source: [@weiinberg on X](https://x.com/weiinberg/status/2071813959901143140) · 72 likes on 2026-10-29
-
-[`portrait`](tags.md#tag-portrait) [`eyewear`](tags.md#tag-eyewear) [`identity-lock`](tags.md#tag-identity-lock) [`window-light`](tags.md#tag-window-light) [`shallow-depth-of-field`](tags.md#tag-shallow-depth-of-field)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Use the uploaded reference image only for preserving the subject's facial identity, facial proportions, skin tone, hairstyle (unless specified otherwise), and overall likeness. Do not copy the original background, pose, clothing, or lighting.
-
-Create a hyper-realistic close-up portrait from a 3/4 side profile (30–45° angle), with the subject looking slightly away from the camera. Frame from the upper chest to the top of the head, filling 80–90% of the frame. Maintain natural facial anatomy and realistic skin texture with visible pores, subtle imperfections, and authentic details.
-
-Style the subject with transparent amber acetate eyeglasses, a rust-colored ribbed knit beanie, a clean white crew-neck t-shirt, and a thin silver chain necklace. Keep the expression neutral, calm, and thoughtful.
-
-Use soft diffused natural window light from one side, creating gentle shadows and smooth highlights across the face. Background should be a clean off-white or light beige studio wall with minimal distractions. Apply a very shallow depth of field with creamy bokeh and crisp focus on the eyes and face.
-
-Editorial fashion photography, minimalist aesthetic, premium lifestyle portrait, luxury eyewear campaign, muted warm color grading, soft contrast, realistic color tones, DSLR quality, 85mm lens, f/1.8, ISO 100, ultra-sharp focus, photorealistic, HDR, 8K, magazine-quality, high-detail facial features, natural skin, cinematic composition.
-
-Negative prompt: low quality, blurry, oversharpened, plastic skin, extra facial features, distorted anatomy, asymmetrical eyes, duplicate glasses, unrealistic beard or hair, oversaturated colors, watermark, logo, text, frame, cartoon, CGI, illustration, low resolution, noise, artifacts.
 ```
 
 </details>

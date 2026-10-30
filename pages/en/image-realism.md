@@ -1,6 +1,6 @@
 # Photo realism
 
-[Back to the list](../../README.md) · All 86 entries
+[Back to the list](../../README.md) · All 92 entries
 
 <a id="gpt-image-coca-cola-tanker-leak-mentos-truck-dashcam"></a>
 ### Coca Cola tanker leaking beside Mentos truck
@@ -508,6 +508,25 @@ Warm-beige skin with natural texture on shoulders, collarbones, arms, waist and 
 
 </details>
 
+<a id="nano-banana-christmas-city-books"></a>
+### Four miniature winter cities rising from vintage books
+
+<a href="https://x.com/TechieBySA/status/1994740862656380961"><img src="../../previews/nano-banana-christmas-city-books.jpg" width="360"></a>
+
+One [CITY] slot is swapped per result while the book, page typography, camera framing and lighting stay fixed, so the four outputs read as one set. The contrast of cold window daylight against warm festive light, plus the miniature scale and shallow depth of field, gives the scenes their depth.
+
+Nano Banana Pro · Text-to-image · Source: [@TechieBySA on X](https://x.com/TechieBySA/status/1994740862656380961) · 270 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`miniature`](tags.md#tag-miniature) [`book-art`](tags.md#tag-book-art) [`winter`](tags.md#tag-winter)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+“A highly detailed, magical miniature winter scene of [CITY] emerging from the open pages of an old vintage book, 1080x1080 square format. The book lies on a wooden table with worn spine, aged pages, scattered coins, ornaments, and a vintage map. The visible page has “[CITY]” elegantly written in vintage typography at the top. Soft snowfall, cold winter daylight from a nearby window, delicate bokeh snow particles. In the center: iconic [CITY] landmarks covered in fresh snow, glowing with warm festive lights. Miniature Christmas market with wooden stalls, steaming drinks, food vendors, people in winter clothes leaving footprints. Snow-covered trees create a magical winter mood. Soft golden illumination, cold diffused daylight mixed with warm festive lights, cinematic shallow depth of field, hyper-detailed miniature textures, realistic snow buildup, glowing particles. Photorealistic, miniature scale, 8k, 1080x1080 square composition”
+```
+
+</details>
+
 <a id="nano-banana-surveillance-crosswalk-face-match-hud"></a>
 ### Surveillance crosswalk photo with neon face match HUD
 
@@ -932,6 +951,72 @@ Nano Banana 2 · Text-to-image · Source: [@KeorUnreal on X](https://x.com/KeorU
 
 ```text
 Realistic amateur indoor iphone shot of a fit londoner supermodel wearing a mini elegant tight cremisi dress with glossy cremisi high heels while laughing and drinking prosecco watching in camera in a chill beautiful sunday morning in front of Cattedrale di Santa Maria del Fiore in Firenze among flowers.
+```
+
+</details>
+
+<a id="nano-banana-christmas-polaroid-couple-red-nails"></a>
+### Hand holding Polaroid of couple in Christmas sweaters
+
+<a href="https://x.com/astronomerozge1/status/2005010975460577581"><img src="../../previews/nano-banana-christmas-polaroid-couple-red-nails.jpg" width="360"></a>
+
+The JSON splits the scene into foreground, Polaroid content, background and camera notes, so the hand, the print and the tree each get their own instruction. Asking for a sharp Polaroid against a heavily blurred tree produces the depth and glow the scene needs.
+
+Nano Banana Pro · Text-to-image · Source: [@astronomerozge1 on X](https://x.com/astronomerozge1/status/2005010975460577581) · 174 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`polaroid`](tags.md#tag-polaroid) [`portrait`](tags.md#tag-portrait) [`bokeh`](tags.md#tag-bokeh)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+"scene_summary": "A realistic handheld flash photo in a cozy living room at night: a hand with glossy red French-tip nails holds a white instant-film Polaroid photo close to the camera. In the background, a decorated Christmas tree is heavily out of focus with warm golden fairy-light bokeh and red ornaments, creating a dreamy holiday glow. The Polaroid print itself is in focus and shows a cute couple selfie wearing matching red-and-white Christmas knit sweaters; their faces are softly lit like an instant camera flash, slightly imperfect and authentic (true instant-film look). The overall vibe is warm, nostalgic, and cozy.",
+      "composition": {
+        "framing": "close foreground focus on the Polaroid frame, hand visible at bottom-left holding it",
+        "depth_of_field": "very shallow DOF; tree becomes large soft bokeh circles",
+        "focus_priority": "Polaroid print + its white border tack-sharp; background strongly blurred"
+      },
+      "foreground_details": {
+        "hand": "one hand holding the Polaroid by the bottom edge, glossy nude base nails with crisp red French tips",
+        "polaroid": "classic white instant photo border, slight glare from flash, subtle paper texture, tiny imperfections like real instant film"
+      },
+      "polaroid_photo_content": {
+        "subjects": "two young adults close together in a selfie pose, wearing red-and-white Nordic Christmas sweaters",
+        "expressions": "natural casual selfie expressions, warm and slightly playful",
+        "lighting": "direct on-camera flash look inside the Polaroid image, a bit softer and slightly lower resolution than the outer photo"
+      },
+      "background": {
+        "christmas_tree": "large tree filling the background, warm white string lights, red ornaments and ribbons, heavy bokeh",
+        "environment": "cozy indoor night ambience, soft warm tones"
+      },
+      "camera_notes": {
+        "capture_style": "smartphone flash photo (iPhone vibe)",
+        "lens_feel": "26mm equivalent, close focus",
+        "exposure": "foreground properly exposed by flash; background darker but glowing bokeh"
+      },
+      "quality_rules": [
+        "photorealistic",
+        "natural skin texture (no plastic smoothing)",
+        "realistic flash reflections and glare",
+        "no watermark",
+        "no extra text"
+      ]
+    },
+    "negative_prompt": [
+      "watermark",
+      "logo",
+      "text overlay",
+      "overly smooth plastic skin",
+      "cgi look",
+      "anime",
+      "cartoon",
+      "deformed hands",
+      "extra fingers",
+      "blurry polaroid",
+      "illegible faces",
+      "overexposed blown highlights"
+    ]
+  }
+}
 ```
 
 </details>
@@ -2326,6 +2411,71 @@ QUALITY CONTROL: No distorted faces, duplicate body parts, extra limbs, malforme
 
 </details>
 
+<a id="nano-banana-christmas-doodled-plaster-cast-messages"></a>
+### Plaster cast covered in doodles and messages
+
+<a href="https://x.com/KanaWorks_AI/status/2000581961451282557"><img src="../../previews/nano-banana-christmas-doodled-plaster-cast-messages.jpg" width="360"></a>
+
+The prompt is a fill-in template where the bracketed slots set the body part and drive one doodle from a reference image. The fixed lines keep the handwritten get-well messages and the softly blurred Christmas living room consistent across every output.
+
+Nano Banana Pro · Edit · Source: [@KanaWorks_AI on X](https://x.com/KanaWorks_AI/status/2000581961451282557) · 44 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`doodle`](tags.md#tag-doodle) [`plaster-cast`](tags.md#tag-plaster-cast) [`living-room`](tags.md#tag-living-room)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A close-up shot of 【an arm】 in a plaster cast.
+The cast is covered with doodles drawn out of boredom, 【including one doodle inspired by the reference image.】
+There are also drawings and messages from friends—some offering well wishes, others playful or teasing.
+The setting is an ordinary home living room.
+A warm Christmas atmosphere fills the scene, with the background softly blurred.
+```
+
+</details>
+
+<a id="nano-banana-rockefeller-center-christmas-coordinates"></a>
+### Rockefeller Center tree and skating rink at night
+
+<a href="https://x.com/icreatelife/status/1992256439453417531"><img src="../../previews/nano-banana-rockefeller-center-christmas-coordinates.jpg" width="360"></a>
+
+Giving only coordinates and a date makes the model resolve the place through Maps and infer what happens there, so no scene has to be described. Asking a question instead of describing a picture lets the model work out both the location and the season itself.
+
+Nano Banana Pro · Text-to-image · Source: [@icreatelife on X](https://x.com/icreatelife/status/1992256439453417531) · 44 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`maps`](tags.md#tag-maps) [`location`](tags.md#tag-location) [`new-york`](tags.md#tag-new-york)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+The coolest thing about Nano Banana Pro is that it’s connected to the maps and understands addresses, coordinates and events!
+
+prompt: What happens at this coordinates 40.7580° N, 73.9781° W on Christmas
+
+tested it with Firefly app
+```
+
+</details>
+
+<a id="nano-banana-christmas-musk-altman-coca-cola-polaroid"></a>
+### Musk and Altman drinking Coca Cola in Santa hats
+
+<a href="https://x.com/drashyakuruwa/status/2001032870962585973"><img src="../../previews/nano-banana-christmas-musk-altman-coca-cola-polaroid.jpg" width="360"></a>
+
+The prompt is short and names only the subjects, drink and caps, so the model supplies the Polaroid frame, the hand holding the print, warm flash lighting and a handwritten caption on its own. Adding the word Polaroid is what drives the vintage snapshot look.
+
+Nano Banana Pro · Text-to-image · Source: [@drashyakuruwa on X](https://x.com/drashyakuruwa/status/2001032870962585973) · 39 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`polaroid`](tags.md#tag-polaroid) [`celebrity`](tags.md#tag-celebrity) [`coca-cola`](tags.md#tag-coca-cola)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A polarised selfie photo of Elon Musk and Sam Altman drinking Coca-Cola in Christmas caps
+```
+
+</details>
+
 <a id="nano-banana-candid-izakaya-smartphone-snapshot"></a>
 ### Candid smartphone snapshot at a night izakaya
 
@@ -2441,6 +2591,62 @@ that's a MASSIVE difference.
 
 left: OpenAI gpt images 2.5
 right: google's nano banana 2.1
+```
+
+</details>
+
+<a id="nano-banana-christmas-croissant-santa-workshop"></a>
+### Miniature Santas work on a giant croissant
+
+<a href="https://x.com/eachlabs/status/2004555026300080557"><img src="../../previews/nano-banana-christmas-croissant-santa-workshop.jpg" width="360"></a>
+
+A structured JSON prompt separates subject, environment, action and style, so each part of the scene is specified clearly. The tilt shift technique with a wide angle and shallow depth of field makes the tiny Santa figures read as a real miniature set.
+
+Nano Banana Pro · Text-to-image · Source: [@eachlabs on X](https://x.com/eachlabs/status/2004555026300080557) · 37 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`tilt-shift`](tags.md#tag-tilt-shift) [`miniature`](tags.md#tag-miniature) [`food`](tags.md#tag-food)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+{
+      "id": 20,
+      "title": "Christmas Croissant Workshop",
+      "subject": {
+        "main_element": "Freshly baked croissant",
+        "orientation": "Placed diagonally to emphasize flaky layers",
+        "details": [
+          "Golden crispy exterior",
+          "Visible butter layers",
+          "Light steam rising"
+        ]
+      },
+      "environment": {
+        "setting": "Christmas-themed bakery counter with fairy lights and pine decorations",
+        "elements": [
+          "Miniature scaffolding between pastry layers",
+          "Tiny Santa Claus workers in red suits and hats",
+          "Small Christmas ornaments and candy canes around the scene"
+        ]
+      },
+      "action": [
+        "Santa Claus figures brushing melted butter",
+        "Aligning flaky layers carefully",
+        "Inspecting crispness with festive tools"
+      ],
+      "style": {
+        "camera_view": "Wide-angle view",
+        "technique": "Highly detailed tilt-shift photography",
+        "focus": "Shallow depth of field",
+        "atmosphere": "Warm, cozy, cinematic Christmas bakery lighting"
+      },
+      "parameters": {
+        "aspect_ratio": "--ar 4:3",
+        "reference_constraint": ""
+      }
+    }
+  ]
+}
 ```
 
 </details>

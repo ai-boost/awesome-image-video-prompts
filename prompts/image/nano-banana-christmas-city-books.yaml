@@ -1,0 +1,24 @@
+id: nano-banana-christmas-city-books
+title:
+  en: Four miniature winter cities rising from vintage books
+  zh: 四座微缩冬日城市从古书中升起
+model: Nano Banana Pro
+mode: text-to-image
+category: realism
+tags:
+- christmas
+- miniature
+- book-art
+- winter
+source:
+  name: '@TechieBySA on X'
+  url: https://x.com/TechieBySA/status/1994740862656380961
+  credit: TechieSA
+  likes: 270
+  captured: '2026-10-29'
+  posted: '2025-11-29'
+notes:
+  en: One [CITY] slot is swapped per result while the book, page typography, camera framing and lighting stay fixed, so the four outputs read as one set. The contrast of cold window daylight against warm festive light, plus the miniature scale and shallow depth of field, gives the scenes their depth.
+  zh: 每次只替换一个 [CITY] 占位符，书本、页面字体、机位和光线描述保持不变，因此四张结果风格统一。冷色窗光与暖色节日灯光的对比，加上微缩尺度和浅景深，让场景有纵深感。
+prompt: |
+  “A highly detailed, magical miniature winter scene of [CITY] emerging from the open pages of an old vintage book, 1080x1080 square format. The book lies on a wooden table with worn spine, aged pages, scattered coins, ornaments, and a vintage map. The visible page has “[CITY]” elegantly written in vintage typography at the top. Soft snowfall, cold winter daylight from a nearby window, delicate bokeh snow particles. In the center: iconic [CITY] landmarks covered in fresh snow, glowing with warm festive lights. Miniature Christmas market with wooden stalls, steaming drinks, food vendors, people in winter clothes leaving footprints. Snow-covered trees create a magical winter mood. Soft golden illumination, cold diffused daylight mixed with warm festive lights, cinematic shallow depth of field, hyper-detailed miniature textures, realistic snow buildup, glowing particles. Photorealistic, miniature scale, 8k, 1080x1080 square composition”

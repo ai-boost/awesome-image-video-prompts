@@ -1,0 +1,66 @@
+id: nano-banana-christmas-market-hot-cup-portrait
+title:
+  en: Woman with hot cup at Christmas market
+  zh: 圣诞集市上手持热饮的女子
+model: Nano Banana Pro
+mode: image-edit
+category: portrait
+tags:
+- christmas
+- christmas-market
+- portrait
+- lifestyle
+source:
+  name: '@SimplyAnnisa on X'
+  url: https://x.com/SimplyAnnisa/status/2004741328530481155
+  credit: Anissa
+  likes: 137
+  captured: '2026-10-29'
+  posted: '2025-12-27'
+notes:
+  en: The reference photo locks identity while the negative prompt blocks plastic skin and artificial blur. Asking for full-scene sharpness and a mid-gesture pause keeps the result candid, like a smartphone shot.
+  zh: 参考图锁定人物身份，负面提示词排除塑料感皮肤和人工虚化。要求全景清晰，并捕捉手持热饮、轻撩发丝的瞬间，让画面像手机随手拍。
+prompt: |
+  The reference image as a strict and non-negotiable source — preserve 100% facial likeness, proportions, bone structure, skin texture, expression, and hairstyle. Do not alter or stylize the face in any way.
+  Photorealistic lifestyle photograph of an adult woman (25+ years old) in a festive outdoor setting.
+  Shot & Composition
+  Medium shot, front-facing subject standing in a lively Christmas market square, framed from mid-thigh up.The composition feels candid and natural, with a visible crowd and environmental context that enhances real-life authenticity.
+  The camera mimics smartphone-style photography with even sharpness across the entire frame — no artificial background blur. Full-scene clarity with both foreground and background in focus.
+  Subject & Appearance
+  Face & identity: identical to the reference image, hyper-detailed natural facial textures, visible skin texture, realistic highlights from surrounding lights, true-to-life complexion.
+  Hair: same hairstyle as the reference image, worn naturally under a knit beanie. Long hair falls down with soft strands framing the face, natural winter texture and movement.
+  Silhouette: balanced, natural human proportions with a relaxed, confident presence.
+  Wardrobe
+  Plush white faux-fur coat with visible fiber texture catching ambient light
+  Beige knit beanie
+  Beige checked scarf draped loosely, following gravity
+  Light blue knit sweater visible at the cuffs
+  Dark bottoms partially visible
+  All fabrics show realistic folds, layering, and interaction with movement and posture.
+  Scene & Environment
+  Location: outdoor Christmas market square
+  Time: evening / night
+  Background: festive market stalls, a large historic building fully outlined with warm white holiday lights, a decorated Christmas tree, colorful pennant banners overhead
+  Ground: cobblestone surface with subtle reflections from moisture and foot traffic
+  The background remains lively but readable, reinforcing a real urban holiday atmosphere.
+  Action & Micro-Details
+  Holding a takeaway hot drink cup in one hand
+  Lightly lifting a strand of hair with the other
+  Subtle steam rising from the hot drink
+  Fur fibers, scarf fabric, and hair reacting naturally to movement and ambient air
+  Captured in a transitional moment — a brief pause mid-gesture, as if realizing attention, hands still engaged.
+  Emotion & Mood
+  Cozy, confident, quietly joyful. A relaxed festive presence with natural warmth and subtle holiday energy.
+  Lighting & Color
+  Mixed lighting from ambient street illumination and warm decorative holiday lights
+  Soft, natural illumination on the subject without harsh contrast
+  Color palette:
+  Warm golds and yellows from holiday lights
+  Soft neutral winter tones
+  Pops of color from banners and market décor
+  Balanced exposure preserving night-time clarity and detail
+  Photography Style
+  Purely candid, true-to-life influencer photography.
+  No cinematic grading, no stylization, no artificial effects — clean, realistic, and authentic.
+  Optional Negative Prompt
+  altered face, different identity, plastic skin, over-smoothed skin, cinematic effects, artificial blur, CGI, digital art, illustration, harsh flash, distorted anatomy, extra limbs, cartoon look, text, watermark

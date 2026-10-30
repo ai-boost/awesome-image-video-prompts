@@ -1,0 +1,26 @@
+id: gpt-image-christmas-wednesday-addams-mirror-selfie
+title:
+  en: Wednesday Addams mirror selfie in gothic Christmas room
+  zh: 星期三亚当斯在哥特圣诞客厅的镜前自拍
+model: GPT Image 1.5
+mode: text-to-image
+category: character
+tags:
+- christmas
+- wednesday-addams
+- goth
+- mirror-selfie
+source:
+  name: '@KeorUnreal on X'
+  url: https://x.com/KeorUnreal/status/2003876249983143966
+  credit: KeorUnreal
+  likes: 43
+  captured: '2026-10-29'
+  posted: '2025-12-24'
+notes:
+  en: A first-person mirror selfie sets the pose and phone, while the prompt pins the wardrobe, makeup and tree details (black ornaments, skulls, red candles) so the decor reads as goth Christmas. Moody high-contrast lighting and the open doorway into a dark room add depth.
+  zh: 镜面自拍的构图交代了姿势和手机，提示词则固定了服装、妆容以及圣诞树上的黑色饰品、骷髅和红烛细节，让装饰读作哥特圣诞。高对比的暗色光线和通向昏暗房间的门洞增加了纵深感。
+prompt: |
+  {
+    "prompt": "Sultry mirror selfie of beautiful adult Wednesday Addams in gothic Victorian living room of Addams mansion, dramatic black-crimson lighting with subtle Christmas accents. Pale porcelain skin, intense dark brown eyes with sharp winged liner, arched brows, glossy pout smirk. Jet-black hair: blunt bangs, long straight with twin braids. Sparkling onyx choker, fitted short black velvet gothic minidress with lace-trimmed deep sweetheart neckline, sheer black spiderweb stockings. Holding black iPhone to ornate mirror, piercing confident gaze. Background: open door to opulent dark living room with sinister Christmas tree (black ornaments, skulls, red candles, purple lights), macabre portraits, cobweb chandelier, flickering candles. Moody high-contrast goth Christmas vibe, ultra-realistic textures, eerie glamorous atmosphere."
+  }

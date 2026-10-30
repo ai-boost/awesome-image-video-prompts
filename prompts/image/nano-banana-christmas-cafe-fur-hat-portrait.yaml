@@ -1,0 +1,54 @@
+id: nano-banana-christmas-cafe-fur-hat-portrait
+title:
+  en: Woman in fur hat at Christmas café table
+  zh: 戴毛绒帽的女子坐在圣诞咖啡馆桌旁
+model: Nano Banana Pro
+mode: text-to-image
+category: portrait
+tags:
+- christmas
+- portrait
+- y2k
+- flash photography
+source:
+  name: '@chatgptpaglu on X'
+  url: https://x.com/chatgptpaglu/status/2000024054028243175
+  credit: yusra.
+  likes: 215
+  captured: '2026-10-29'
+  posted: '2025-12-14'
+notes:
+  en: Mixes a direct flash with warm tungsten light so the subject glows against a darker café background. The Y2K compact camera look and film grain come from the prompt's style lines, and props like the cotton bouquet and gold camera on the table complete the frame.
+  zh: 将正面闪光灯与暖色钨丝灯混合，让主体在较暗的咖啡馆背景前明亮突出。Y2K 卡片机质感与胶片颗粒来自风格描述，桌上的棉花花束和金色相机作为道具完善了画面。
+prompt: |
+  Create a hyper-realistic portrait of a cute Asian woman. She is sitting with her chin resting on her hand at a dark wooden table in front of a vintage-style café.
+
+  Fashion & Outfit:
+  She wears a shiny black leather jacket, slightly open to reveal a white inner top, showing a beautiful neckline. Matched with a fitted black mini-skirt set. She also wears black fishnet stockings. Add a fluffy fur hat over her outfit.
+
+  Background:
+  In front of a marble-grey café exterior, decorated with a Christmas theme. Include a realistic Christmas tree, pine decorations, and festive ornaments.
+
+  Lighting & Tone:
+  Warm orange tungsten lighting for an inviting, cozy atmosphere, combined with a strong direct flash hitting the subject straight on, making her skin bright and glowing, contrasting with the slightly darker background.
+  The photo should feel Y2K digital compact-camera style—sharp 8K resolution, realistic skin texture, with light film grain.
+
+  Hair & Makeup:
+  Long dark-brown hair blowing slightly in the wind, messy layered strands with a few pieces softly covering part of her face—stylish, cool, and subtly sexy.
+  Her skin is very fair.
+  Makeup style: Douyin/Korean—long curled lashes, soft flushed pink blush on cheeks and nose tip, glossy pink lips.
+  She has Christmas-themed nail art.
+
+  Props:
+  On the table:
+  • A large bouquet wrapped in brown kraft paper, containing cotton flowers and pine leaves.
+  • A gold Canon IXY 30S camera placed on the table.
+
+  She holds a Christmas-decorated drink in her right hand and smiles slightly.
+
+  Additional Visual Style:
+  The flash creates extremely bright, slightly yellow-tinted skin with a hard shadow behind her.
+  High-contrast, ultra-sharp 8K image.
+  Warm ambient sunlight.
+  Fuji Film Pro 400H color style with old-lens filter and light film grain.
+  The subject should appear bright and stand out clearly from the background.

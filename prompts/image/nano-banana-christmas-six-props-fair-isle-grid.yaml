@@ -1,0 +1,35 @@
+id: nano-banana-christmas-six-props-fair-isle-grid
+title:
+  en: Fair isle sweater woman with six Christmas props
+  zh: 费尔岛毛衣女性与六个圣诞道具
+model: Nano Banana Pro
+mode: image-edit
+category: collage
+tags:
+- christmas
+- fair-isle
+- collage-grid
+- studio-portrait
+source:
+  name: '@songguoxiansen on X'
+  url: https://x.com/songguoxiansen/status/2003645804079141286
+  credit: 松果先森
+  likes: 137
+  captured: '2026-10-29'
+  posted: '2025-12-23'
+notes:
+  en: A six panel grid template that locks one subject identity and one outfit, then lists a different prop and action for each panel. A fixed cream backdrop and a 45 degree softbox keep all six frames consistent in look.
+  zh: 六格网格模板，先锁定同一人物身份和同一套服装，再为每一格指定不同的道具和动作。固定的米色背景与 45 度柔光箱让六张画面的风格保持统一。
+prompt: |
+  (6-panel grid, variety of props, studio portraiture). A collage of 6 shots of the specific character interacting with different Christmas objects. [CRITICAL: Maintain exact facial identity, preserve original bone structure].
+
+  Clothing: A cozy fair-isle patterned sweater. Panels:
+
+  Shaking a Snow globe.
+  Kissing a wooden Nutcracker soldier.
+  Reading a pop-up Christmas card.
+  Hugging a plush Reindeer toy.
+  Sipping from a Santa-themed hot cocoa mug.
+  Peek-a-boo behind a bunch of pine branches.
+  Background: Soft beige or cream paper backdrop.
+  Lighting: Softbox lighting from 45 degree angle, creating dimension but keeping it flattering.

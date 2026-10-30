@@ -1,0 +1,30 @@
+id: nano-banana-tiny-christmas-mason-jar-person
+title:
+  en: Tiny Christmas portrait figures inside mason jar snow globes
+  zh: 玻璃罐圣诞雪景球里的迷你人像
+model: Nano Banana Pro
+mode: image-edit
+category: photo-to-art
+tags:
+- christmas
+- mason-jar
+- snow-globe
+- portrait
+source:
+  name: '@Samann_ai on X'
+  url: https://x.com/Samann_ai/status/1998013173123686795
+  credit: Saman | AI
+  likes: 344
+  captured: '2026-10-29'
+  posted: '2025-12-08'
+notes:
+  en: The prompt pins scale by stating the tiny person stands at the same height as the tree, and locks identity with a face-match clause plus a no-distortion instruction. Layered scene details like the snow bed, glass snowflakes and fairy-light reflections give the miniature its depth.
+  zh: 提示词通过声明小人与圣诞树身高一致来固定比例，并用人脸匹配和禁止变形的条款锁定身份。雪床、玻璃上的雪花和灯串反光等分层细节，让微缩场景有了纵深感。
+prompt: |
+  {
+    "model": "image-generation",
+    "input_image": "<PERSON_IMAGE>",
+    "prompt": "Ultra realistic vertical Christmas photo of a closed clear glass mason jar snow globe on a rustic wooden table. Warm golden bokeh Christmas lights in the blurred background, soft shallow depth of field. Inside the jar, on a thick layer of fluffy white artificial snow with a few sparkling silver beads and bright red berries, there are two tiny subjects: one snowy green bottle-brush Christmas tree and, next to it, a tiny highly detailed realistic person that looks exactly like the person in the input image. The tiny person is standing on the snow, same scale as the tree, wearing festive Christmas clothes (cozy knitted Christmas sweater, winter pants, small boots, and a red Santa hat with white fur trim). The person’s face, hair, skin tone, and unique features clearly match the input photo, with a gentle happy smile, looking slightly toward the camera. Frosted snowflakes are painted on the glass of the jar. Warm white fairy lights wrap loosely around the jar on the wooden table, creating glowing reflections on the glass. Hyper realistic, 8K, crisp details, natural lighting, cinematic look, no distortion of the person’s face.",
+    "size": "1024x1792",
+    "n": 1
+  }

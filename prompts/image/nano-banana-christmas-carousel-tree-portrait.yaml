@@ -1,0 +1,28 @@
+id: nano-banana-christmas-carousel-tree-portrait
+title:
+  en: Smiling man holding wrapped Christmas tree at night market
+  zh: 微笑男子抱着包装好的圣诞树站在夜市中
+model: Nano Banana Pro
+mode: image-edit
+category: portrait
+tags:
+- christmas
+- portrait
+- realism
+- winter
+source:
+  name: '@harboriis on X'
+  url: https://x.com/harboriis/status/2003353808710283751
+  credit: Harboris
+  likes: 180
+  captured: '2026-10-29'
+  posted: '2025-12-23'
+notes:
+  en: Camera body, lighting backdrop and a named wardrobe list give the model concrete visual anchors for a realistic editorial frame. The uploaded reference photo supplies the face, so the prompt only has to describe the scene and expression.
+  zh: 用尼康 D5600、旋转木马灯光背景和具体服装清单为模型提供明确的视觉锚点，生成写实的编辑风格画面。人脸由上传的参考照片提供，提示词只需描述场景和表情。
+prompt: |
+  Nano Banana Pro on Gemini
+
+  Prompt: Hyper-realistic 8K editorial frame. Rustic festive village atmosphere with carousel lights behind. Nikon D5600. Man holding a small wrapped Christmas tree in kraft paper. Snow falling softly. Outfit: beige oversized coat, knitted mittens, winter boots. Emotion: happy, natural candid smile. Highly detailed textures: snow crystals, knitted fibers, tree needles.
+
+  Use the face from the uploaded photo.

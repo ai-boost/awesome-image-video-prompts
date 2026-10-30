@@ -1,6 +1,6 @@
 # 角色与手办
 
-[返回目录](../../README_zh.md) · 全部 71 条
+[返回目录](../../README_zh.md) · 全部 78 条
 
 <a id="gpt-image-tanjiro-pixel-sprite-sheet-water-attack"></a>
 ### 炭治郎十六帧像素精灵图与水之呼吸攻击
@@ -923,6 +923,84 @@ The finished sheet should read immediately as sixteen carefully selected consecu
 
 </details>
 
+<a id="nano-banana-year-end-line-sticker-set"></a>
+### 年末主题Q版LINE贴图表情集
+
+<a href="https://x.com/hAru_mAki_ch/status/1993162367816085840"><img src="../../previews/nano-banana-year-end-line-sticker-set.jpg" width="360"></a>
+
+参考角色图配合贴图表单规格：4×6网格、16:9比例、逐条列出要覆盖的日语短语，并要求画成原创插画而不是照搬参考图。背景点缀雪花、灯饰、冷杉等冬季元素，让每格都带有节日场景。
+
+Nano Banana Pro · 上传图改图 · 出处: [@hAru_mAki_ch on X](https://x.com/hAru_mAki_ch/status/1993162367816085840) · 117 赞，统计于 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`line-sticker`](tags.md#tag-line-sticker) [`chibi`](tags.md#tag-chibi) [`year-end`](tags.md#tag-year-end)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Higgsfield の Nano Banana Pro お試し㊵
+LINEスタンププロンプト使ってみた
+年末年始スタイルも良い！！！
+これで年越しイベントはスタンプ押しまくろう！！！
+
+ーーー📒プロンプトー年末版（クリスマス〜大晦日）ーー
+画像のキャラクターをベースに、Q版（デフォルメ/ちびキャラ）のLINEスタンプ風バストアップ表情集を作成してください。
+
+【テーマ】年末・クリスマス〜大晦日
+
+【スタイル】
+- カラフルな手描き風
+- 頭飾り・髪飾りは正確に再現すること
+- 元画像をそのままコピーせず、オリジナルのイラストとして描くこと
+- 冬らしい装飾（雪の結晶、イルミネーション、もみの木など）を背景やアクセントに
+
+【レイアウト】
+- 4×6のグリッド配置（計24種類）
+- 4K解像度、アスペクト比16:9
+
+【表情・テキスト内容】
+年末によく使うフレーズを網羅：
+- メリクリ！、メリークリスマス🎄、サンタさんお願い、プレゼント待ち
+- 今年もお疲れ様！、良いお年を、年末進行つらい、大掃除中
+- 年越しそば食べた？、紅白見てる、カウントダウン！、あと○日！
+- 忘年会シーズン、飲みすぎ注意、寒すぎ、こたつから出られない
+- 今年もありがとう、来年もよろしく、振り返り中、やり残した…
+
+すべてのテキストは手書き風の日本語で表記
+
+ーーー📒プロンプトー年始版（お正月〜新年）ーー
+画像のキャラクターをベースに、Q版（デフォルメ/ちびキャラ）のLINEスタンプ風バストアップ表情集を作成してください。
+
+【テーマ】年始・お正月
+
+【スタイル】
+- カラフルな手描き風
+- 頭飾り・髪飾りは正確に再現すること
+- 元画像をそのままコピーせず、オリジナルのイラストとして描くこと
+- 和風・お正月らしい装飾（門松、鏡餅、梅の花、だるま、富士山など）を背景やアクセントに
+
+【レイアウト】
+- 4×6のグリッド配置（計24種類）
+- 4K解像度、アスペクト比16:9
+
+【表情・テキスト内容】
+年始によく使うフレーズを網羅：
+- あけおめ！、あけましておめでとう🎍、謹賀新年、今年もよろしく
+- 初詣行った？、おみくじ引いた、大吉！、凶だった…
+- お年玉ちょうだい、お年玉あげる、福袋ゲット、初売り参戦
+- お餅食べすぎ、おせち最高、寝正月、三が日満喫中
+- 新年の抱負、今年こそは！、正月太り、仕事始めつらい
+- 巳年だね🐍、今年も頑張ろう、初夢見た？、書き初めした
+
+すべてのテキストは手書き風の日本語で表記
+
+---
+今なら、Higgsfieldで65% OFF ＆ これから3日以内に
+@higgsfield_ai
+ に参加した人は Nano Banana Pro を1年間無制限で利用できます。
+```
+
+</details>
+
 <a id="nano-banana-photorealistic-character-sheet-three-views"></a>
 ### 写实角色设定图：特写肖像加正侧背三视图
 
@@ -1004,6 +1082,25 @@ Game UI must feel like a real next-gen RPG:
 Camera angle: over-the-shoulder cinematic gameplay screenshot, not character showcase pose. Character should be naturally walking through the city while looking slightly back toward camera.
 
 Mood: premium stylish anime GTA-like RPG mixed with modern JRPG aesthetics and urban vacation luxury vibe. Completely fresh composition and color palette.
+```
+
+</details>
+
+<a id="nano-banana-christmas-cartoon-ornaments-scarf"></a>
+### 卡通角色圣诞挂件，系红围巾挂在圣诞树上
+
+<a href="https://x.com/TechieBySA/status/1998777016775065733"><img src="../../previews/nano-banana-christmas-cartoon-ornaments-scarf.jpg" width="360"></a>
+
+[CHARACTER] 占位符让这个提示词可以反复套用，固定的描述词锁定了整体效果：塑料材质、金色挂线、带暖色光斑的虚化圣诞树，以及微距镜头的提示。每次只替换一个角色，主体会更清晰。
+
+Nano Banana Pro · 文生图 · 出处: [@TechieBySA on X](https://x.com/TechieBySA/status/1998777016775065733) · 107 赞，统计于 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`ornament`](tags.md#tag-ornament) [`cartoon`](tags.md#tag-cartoon) [`macro`](tags.md#tag-macro)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+“A hyper-realistic Christmas tree ornament depicting [CHARACTER]. The ornament looks incredibly realistic thanks to its detailed facial features and natural texture. The toy is made of plastic. In the background is a slightly blurred Christmas tree with dark green needles and a warm bokeh. The overall atmosphere of coziness, festivity, and magic is created by the shallow depth of field, soft, warm lighting, and bright, festive colors. He/she/it wears a bright red wool scarf wrapped around his/her/its neck, giving him/her/it a playful, cozy look. The ornament is suspended by a thin gold thread attached to the top. High-resolution macro photography is rich in detail and offers a cinematic appeal. 1080x1080 dimension.”
 ```
 
 </details>
@@ -1266,6 +1363,33 @@ Avoid low quality, blurry details, distorted face, changed identity, altered out
 
 </details>
 
+<a id="nano-banana-zootopia-rabbit-fox-snowman-christmas"></a>
+### 疯狂动物城风格的兔子和狐狸堆雪人
+
+<a href="https://x.com/oggii_0/status/2005557307476943269"><img src="../../previews/nano-banana-zootopia-rabbit-fox-snowman-christmas.jpg" width="360"></a>
+
+用结构化字段（主体、服装、动作、环境、光线、镜头、风格）逐项限定角色、道具和渲染风格。直接点明作品名可锁定动画角色造型，明确的平视中景和黄昏光线则让构图与灯光氛围保持稳定。
+
+Nano Banana Pro · 文生图 · 出处: [@oggii_0 on X](https://x.com/oggii_0/status/2005557307476943269) · 79 赞，统计于 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`animation`](tags.md#tag-animation) [`winter`](tags.md#tag-winter) [`snowman`](tags.md#tag-snowman)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+"subject": "Animated rabbit and fox building a snowman (Zootopia style)",
+  "clothing": "Rabbit in blue vest and red scarf; Fox in green sweater and tie",
+  "action": "Rabbit rolling snow, Fox placing carrot nose",
+  "accessories": "Snowman with stick arms and coal buttons",
+  "environment": "Winter holiday scene, decorated Christmas tree, colorful string lights, falling snowflakes",
+  "lighting": "Magical twilight blue background with warm holiday light glow",
+  "camera": "Medium shot, eye-level, central composition",
+  "style": "3D animation style, Disney/Pixar aesthetic, festive, vibrant colors, high detail"
+}
+```
+
+</details>
+
 <a id="gpt-image-fox-pixel-art-idle-sprite-sheet"></a>
 ### 像素风小狐狸待机动画精灵图
 
@@ -1326,6 +1450,73 @@ A cute cream-colored rabbit character with tall ears, wearing a simple plum cape
 
 </details>
 
+<a id="nano-banana-christmas-desk-figurines-computer"></a>
+### 电脑桌上的圣诞手办组合
+
+<a href="https://x.com/KanaWorks_AI/status/2001272403314516199"><img src="../../previews/nano-banana-christmas-desk-figurines-computer.jpg" width="360"></a>
+
+给出参考角色并一次要求多种姿势，可以得到风格统一的一组微缩手办。明确指定桌面和电脑前的摆放位置，能固定比例、暖色台灯光线和彩灯等道具。
+
+Nano Banana Pro · 上传图改图 · 出处: [@KanaWorks_AI on X](https://x.com/KanaWorks_AI/status/2001272403314516199) · 51 赞，统计于 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`figurine`](tags.md#tag-figurine) [`desk-scene`](tags.md#tag-desk-scene) [`multi-pose`](tags.md#tag-multi-pose)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Turn the character in the reference image into tabletop Christmas creative figurines in different poses, and place them on a desk in front of a computer.
+```
+
+</details>
+
+<a id="nano-banana-christmas-snow-globe-sulky-character"></a>
+### 四个生气的角色被封进圣诞水晶球
+
+<a href="https://x.com/KanaWorks_AI/status/2001583779274743896"><img src="../../previews/nano-banana-christmas-snow-globe-sulky-character.jpg" width="360"></a>
+
+参考图占位让同一模板可以把任意角色放进水晶球，坐姿、抱臂和生气的神情定下基调。微距构图、浅景深和穿过玻璃折射的炉火光，营造出温暖又带点忧伤的氛围。
+
+Nano Banana Pro · 上传图改图 · 出处: [@KanaWorks_AI on X](https://x.com/KanaWorks_AI/status/2001583779274743896) · 49 赞，统计于 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`snow-globe`](tags.md#tag-snow-globe) [`macro`](tags.md#tag-macro) [`reference-image`](tags.md#tag-reference-image)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Close-up shot.
+On a fireplace mantel filled with Christmas atmosphere sits a crystal-clear snow globe. Warm flames burn softly in the background, and the orange-golden firelight refracts through the glass, creating a gentle glow.
+Inside the snow globe, 【the character from the reference image 】is trapped within. He sits cross-legged in a sulky pose, arms folded across his chest, staring angrily at the camera with a look of helpless resignation. Around the scene are Christmas pine branches, red ribbons, candles, and softly blurred festive lights, giving the image a warm feeling tinged with subtle tension and fairytale-like melancholy.
+Macro photography, shallow depth of field, highly detailed glass reflections, volumetric lighting, warm color palette, cinematic mood, fantasy realism style
+```
+
+</details>
+
+<a id="nano-banana-christmas-rainbow-devil-ugly-sweater"></a>
+### 彩虹色恶魔穿丑毛衣
+
+<a href="https://x.com/GlennHasABeard/status/1997651720550121815"><img src="../../previews/nano-banana-christmas-rainbow-devil-ugly-sweater.jpg" width="360"></a>
+
+[IMAGE REFERENCE] 占位符可以接收任意人物照片或角色参考图，同一套毛衣描述可以反复套用。逗号分隔的短语锁定针织纹样、驯鹿、金银丝带、绒球和红绿撞色，宽松版型与得意的笑容则营造出俗气又温暖的氛围。
+
+Nano Banana Pro · 上传图改图 · 出处: [@GlennHasABeard on X](https://x.com/GlennHasABeard/status/1997651720550121815) · 46 赞，统计于 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`ugly-sweater`](tags.md#tag-ugly-sweater) [`image-reference`](tags.md#tag-image-reference)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Here's another fun Nano Banana Pro prompt to get festive
+
+{
+  "theme": "ugly_christmas_sweater",
+  "prompt": "[IMAGE REFERENCE] wearing chunky knit ugly Christmas sweater, garish holiday patterns, embroidered reindeer and snowflakes, tacky tinsel trim, pom pom accents, clashing red and green, oversized cozy fit, proud grin"
+}
+
+Change it up a bit and let's get this Ugly Christmas Sweater party started!
+```
+
+</details>
+
 <a id="gpt-image-naruto-pixel-sprite-energy-blast"></a>
 ### Q版鸣人像素精灵，战斗姿态
 
@@ -1366,6 +1557,27 @@ A transparent 4×4 PNG sprite sheet.
 A transparent animated GIF of the single character, using all 16 frames at 256×256 pixels, looping forever with an approximately 2.2-second cycle.
 A ZIP containing all 16 individual transparent PNG frames.
 Use nearest-neighbor sampling if resizing is needed to preserve crisp pixels. Before finalizing, ensure no stray pixels, clipping, or background artifacts remain, and that the background is truly transparent.
+```
+
+</details>
+
+<a id="gpt-image-christmas-wednesday-addams-mirror-selfie"></a>
+### 星期三亚当斯在哥特圣诞客厅的镜前自拍
+
+<a href="https://x.com/KeorUnreal/status/2003876249983143966"><img src="../../previews/gpt-image-christmas-wednesday-addams-mirror-selfie.jpg" width="360"></a>
+
+镜面自拍的构图交代了姿势和手机，提示词则固定了服装、妆容以及圣诞树上的黑色饰品、骷髅和红烛细节，让装饰读作哥特圣诞。高对比的暗色光线和通向昏暗房间的门洞增加了纵深感。
+
+GPT Image 1.5 · 文生图 · 出处: [@KeorUnreal on X](https://x.com/KeorUnreal/status/2003876249983143966) · 43 赞，统计于 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`wednesday-addams`](tags.md#tag-wednesday-addams) [`goth`](tags.md#tag-goth) [`mirror-selfie`](tags.md#tag-mirror-selfie)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+{
+  "prompt": "Sultry mirror selfie of beautiful adult Wednesday Addams in gothic Victorian living room of Addams mansion, dramatic black-crimson lighting with subtle Christmas accents. Pale porcelain skin, intense dark brown eyes with sharp winged liner, arched brows, glossy pout smirk. Jet-black hair: blunt bangs, long straight with twin braids. Sparkling onyx choker, fitted short black velvet gothic minidress with lace-trimmed deep sweetheart neckline, sheer black spiderweb stockings. Holding black iPhone to ornate mirror, piercing confident gaze. Background: open door to opulent dark living room with sinister Christmas tree (black ornaments, skulls, red candles, purple lights), macabre portraits, cobweb chandelier, flickering candles. Moody high-contrast goth Christmas vibe, ultra-realistic textures, eerie glamorous atmosphere."
+}
 ```
 
 </details>

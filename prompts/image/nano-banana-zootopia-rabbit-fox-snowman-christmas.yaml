@@ -1,0 +1,32 @@
+id: nano-banana-zootopia-rabbit-fox-snowman-christmas
+title:
+  en: Zootopia style rabbit and fox build a snowman
+  zh: 疯狂动物城风格的兔子和狐狸堆雪人
+model: Nano Banana Pro
+mode: text-to-image
+category: character
+tags:
+- christmas
+- animation
+- winter
+- snowman
+source:
+  name: '@oggii_0 on X'
+  url: https://x.com/oggii_0/status/2005557307476943269
+  credit: Oogie
+  likes: 79
+  captured: '2026-10-29'
+  posted: '2025-12-29'
+notes:
+  en: The structured fields (subject, clothing, action, environment, lighting, camera, style) pin each character, prop and the rendering look one at a time. Naming the franchise locks the animated character design, and the explicit eye-level medium shot and twilight lighting keep the framing and glow steady.
+  zh: 用结构化字段（主体、服装、动作、环境、光线、镜头、风格）逐项限定角色、道具和渲染风格。直接点明作品名可锁定动画角色造型，明确的平视中景和黄昏光线则让构图与灯光氛围保持稳定。
+prompt: |
+  "subject": "Animated rabbit and fox building a snowman (Zootopia style)",
+    "clothing": "Rabbit in blue vest and red scarf; Fox in green sweater and tie",
+    "action": "Rabbit rolling snow, Fox placing carrot nose",
+    "accessories": "Snowman with stick arms and coal buttons",
+    "environment": "Winter holiday scene, decorated Christmas tree, colorful string lights, falling snowflakes",
+    "lighting": "Magical twilight blue background with warm holiday light glow",
+    "camera": "Medium shot, eye-level, central composition",
+    "style": "3D animation style, Disney/Pixar aesthetic, festive, vibrant colors, high detail"
+  }

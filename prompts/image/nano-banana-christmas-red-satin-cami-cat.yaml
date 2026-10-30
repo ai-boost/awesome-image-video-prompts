@@ -1,0 +1,66 @@
+id: nano-banana-christmas-red-satin-cami-cat
+title:
+  en: Smiling woman by Christmas tree with cat
+  zh: 圣诞树旁微笑的女子与猫
+model: Nano Banana Pro
+mode: image-edit
+category: portrait
+tags:
+- christmas
+- portrait
+- wardrobe-update
+- cat
+source:
+  name: '@astronomerozge1 on X'
+  url: https://x.com/astronomerozge1/status/2000613498825662583
+  credit: Özge Döner
+  likes: 270
+  captured: '2026-10-29'
+  posted: '2025-12-15'
+notes:
+  en: A structured JSON prompt with a wardrobe_update block swaps the outfit of a reference photo while a keep list fixes the accessories and hairstyle. Placing props by position (tree on the left, staircase behind) and adding a negative list keeps the scene stable through the edit.
+  zh: 采用结构化 JSON 提示词，其中 wardrobe_update 模块替换参考照片的服装，keep 列表固定配饰和发型。通过位置描述道具（左侧圣诞树，后方楼梯）并附加负面提示列表，使编辑后的场景保持稳定。
+prompt: |
+  {
+    "prompt": "A young Caucasian woman in her early twenties sits on a soft white rug in front of a glowing, gold-decorated Christmas tree. She is dressed in a festive holiday outfit: a deep red velvet long-sleeve top with subtle shimmer and matching velvet leggings. She wears white faux-fur trim slippers. Her hair is styled in a loose, elegant half-up look with soft waves. She has small gold hoop earrings and a sparkly holiday-themed bracelet.",
+    "environment": {
+      "setting": "Cozy living room",
+      "props": [
+        "Christmas tree with golden ornaments and warm lights",
+        "Dark wooden staircase wrapped in fairy lights",
+        "a ceramic mug of hot chocolate with visible steam, whipped cream and a cinnamon stick",
+        "a grey-and-white British Shorthair cat wearing a tiny Santa hat sitting near her on the rug"
+      ],
+      "lighting": "Soft, warm, golden holiday lighting",
+      "scene_position": "Tree on the left, staircase behind"
+    },
+    "composition": {
+      "shot_type": "Medium shot",
+      "angle": "Eye-level",
+      "focus": "Shallow depth of field emphasizing the woman and festive decor",
+      "pose": "Seated on rug with crossed legs, smiling directly at camera"
+    },
+    "wardrobe_update": {
+      "replace_outfit_with": [
+        "red satin spaghetti-strap cami top (holiday chic, slightly glossy, not see-through)",
+        "matching red satin shorts (comfortable, festive, modest fit)"
+      ],
+      "add_accessory": "classic red Santa hat with white trim and pom-pom",
+      "keep": [
+        "white faux-fur trim slippers",
+        "small gold hoop earrings",
+        "sparkly holiday-themed bracelet",
+        "loose elegant half-up hairstyle with soft waves"
+      ]
+    },
+    "vibe": "Warm, joyful, cozy Christmas atmosphere",
+    "negative_prompt": [
+      "text",
+      "watermark",
+      "UI overlay",
+      "extra people",
+      "distorted hands",
+      "plastic skin",
+      "over-sharpening"
+    ]
+  }

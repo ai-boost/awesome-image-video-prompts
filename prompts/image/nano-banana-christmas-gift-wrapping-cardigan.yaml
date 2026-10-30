@@ -1,0 +1,61 @@
+id: nano-banana-christmas-gift-wrapping-cardigan
+title:
+  en: Woman laughing while wrapping a Christmas gift
+  zh: 女子笑着包装圣诞礼物
+model: Nano Banana Pro
+mode: text-to-image
+category: portrait
+tags:
+- christmas
+- portrait
+- lifestyle
+- json-prompt
+source:
+  name: '@xmliisu on X'
+  url: https://x.com/xmliisu/status/2003864431487222104
+  credit: Melisa♡
+  likes: 139
+  captured: '2026-10-29'
+  posted: '2025-12-24'
+notes:
+  en: A structured JSON breakdown of subject, attire, props, and lighting gives the model a precise checklist to follow. Listing the wrapping supplies as floor props and mixing flash with warm ambient light makes the scene read as a candid moment rather than a posed set.
+  zh: 用结构化 JSON 分别描述人物、服装、道具和光线，让模型逐项还原画面。把包装用品列为地面道具，并混合闪光灯与暖色环境光，营造抓拍般的真实感。
+prompt: |
+  {
+    "image_analysis": {
+      "subject": {
+        "description": "Young woman with long, wavy blonde hair and tan skin.",
+        "expression": "Laughing/smiling broadly, looking off-camera to the left.",
+        "pose": "Sitting on a light wood floor with legs bent and extended."
+      },
+      "attire": {
+        "clothing": "Oversized, chunky-knit cream/beige cardigan worn off-the-shoulder on the left side.",
+        "footwear": "White, fluffy, faux-fur cross-strap slippers.",
+        "accessories": "Minimal; small hoop earrings visible."
+      },
+      "action": {
+        "primary": "Wrapping Christmas gifts.",
+        "specifics": "Holding a rectangular wrapped gift box with a ribbon in both hands."
+      },
+      "environment": {
+        "setting": "Indoor residential space, likely a hallway or living room.",
+        "decor": "Large Christmas tree to the left, decorated with warm white string lights (no ornaments).",
+        "flooring": "Light oak wood planks.",
+        "background": "White walls, white door frame, and a glimpse into a dimly lit adjacent room."
+      },
+      "objects_props": {
+        "on_floor": [
+          "Rolls of cream-colored wrapping paper with a subtle pattern.",
+          "Black-handled scissors.",
+          "Clear tape dispenser.",
+          "Spool of white ribbon.",
+          "Spool of wide bronze/copper satin ribbon.",
+          "White faux-fur rug or tree skirt under the tree."
+        ]
+      },
+      "lighting_and_style": {
+        "type": "Flash photography mixed with warm ambient light.",
+        "mood": "Festive, cozy, joyful, candid.",
+        "colors": "Warm neutrals, cream, beige, green (tree), metallic bronze."
+      }
+    }

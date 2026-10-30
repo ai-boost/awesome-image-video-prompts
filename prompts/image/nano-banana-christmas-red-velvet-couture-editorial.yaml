@@ -1,0 +1,67 @@
+id: nano-banana-christmas-red-velvet-couture-editorial
+title:
+  en: Woman in red velvet gown by Christmas tree
+  zh: 红色天鹅绒礼服女子站在圣诞树前
+model: Nano Banana Pro
+mode: image-edit
+category: portrait
+tags:
+- christmas
+- fashion
+- portrait
+- editorial
+source:
+  name: '@JadoonKhan281 on X'
+  url: https://x.com/JadoonKhan281/status/2002388800425898354
+  credit: Javeriya 🇺🇸
+  likes: 36
+  captured: '2026-10-29'
+  posted: '2025-12-20'
+notes:
+  en: A labeled section template splits identity, scene, pose, styling and camera into separate fields so each attribute can be controlled on its own. The identity lock block together with the 85mm f/2.8 lens line keeps the face sharp and the editorial look consistent.
+  zh: 采用分段标签的结构化模板，把身份、场景、姿势、造型和镜头分开描述，便于逐项控制。身份保持段与 85mm f/2.8 镜头参数共同保证面部清晰和高定编辑风格的一致性。
+prompt: |
+  [Identity_Preservation]
+  BoneStructure = "identical_symmetry_jawline_cheek_curves"
+  Nose_Lips = "exact_contour_fullness_unaltered"
+  Eyes_Brows = "specific_eyelid_shape_eyebrow_arch_match"
+  Skin_Texture = "fair_tone_subtle_pores_youthful_glow_hyper_real"
+  Stylization = "none_zero_distortion_photorealistic_accuracy"
+
+  [Scene_Environment]
+  Backdrop = "deep_burgundy_velvet_golden_reflections"
+  Decorations = "designer_tree_metallic_ornaments_crystals_ribbons"
+  Props = "gold_accented_gift_boxes_elegant_scattering"
+  Atmosphere = "floating_studio_snow_particles_glossy_floor_reflections"
+  Mood = "high_fashion_festive_drama_glamorous_editorial"
+
+  [Composition_Pose]
+  Shot_Type = "full_body_editorial"
+  Stance = "dynamic_fashion_hip_pop_one_leg_forward_shoulders_back"
+  Framing = "rule_of_thirds_couture_silhouette"
+  Head_Angle = "dramatic_tilt_editorial"
+  Eye_Contact = "intense_direct_camera_engagement"
+
+  [Styling_Beauty]
+  Hair = "voluminous_waves_chestnut_caramel_highlights_crystal_pins"
+  Eyes = "metallic_gold_crimson_shadow_glitter_lashes"
+  Lips = "couture_red_soft_gloss_slightly_parted"
+  Face_Accents = "micro_face_jewels_brow_cheekbone_crystals"
+  Nails = "deep_red_gold_accents_snowflake_tips"
+
+  [Couture_Outfit]
+  Gown = "structured_red_velvet_corset_voluminous_skirt_high_slit"
+  Materials = "satin_tulle_white_faux_fur_trim"
+  Embellishments = "swarovski_crystals_pearls_metallic_studs"
+  Footwear = "metallic_red_stilettos_crystal_straps"
+
+  [Accessories]
+  Jewelry = "layered_asymmetric_necklaces_stacked_cuffs_oversized_earrings"
+  Hands = "jeweled_glove_extensions_multi_joint_rings"
+  Waist = "designer_belt_jeweled_buckle"
+
+  [Technical_Specs]
+  Camera = "Full_frame_DSLR_85mm_lens"
+  Settings = "f/2.8_aperture_ISO100_1/160s"
+  Lighting = "studio_key_sculpting_rim_lighting_jewel_highlights"
+  Resolution = "HDR_Ultra_HD_crystal_clear_textures"

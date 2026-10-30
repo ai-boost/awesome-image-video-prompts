@@ -1,0 +1,88 @@
+id: nano-banana-christmas-red-velvet-santa-sack-walk
+title:
+  en: Woman in red Santa dress carrying gift sack
+  zh: 身穿红色圣诞裙背着礼物袋的女子
+model: Nano Banana Pro
+mode: image-edit
+category: edit
+tags:
+- christmas
+- portrait
+- santa
+- json-prompt
+source:
+  name: '@saniaspeaks_ on X'
+  url: https://x.com/saniaspeaks_/status/2004032010482807073
+  credit: 𝗦𝗮𝗻𝗶𝗮
+  likes: 197
+  captured: '2026-10-29'
+  posted: '2025-12-25'
+notes:
+  en: A structured JSON brief separates identity lock, wardrobe, pose, lighting and camera into named fields, so each part can be changed on its own. Natural daylight and a shallow depth of field keep the snowy market street soft behind a sharp subject.
+  zh: 结构化 JSON 提示词把身份锁定、服装、姿势、光线和镜头分成独立字段，便于单独修改每一部分。自然日光和浅景深让雪天集市街道背景柔和，主体保持清晰。
+prompt: |
+  "language": "English",
+    "resolution": "UHD",
+    "aspect_ratio": "3:4",
+    "style": "professional, cinematic, photorealistic",
+    "identity_preservation": {
+      "use_reference_image": true,
+      "alter_face": false,
+      "strict_identity_lock": true,
+      "notes": "All facial features, skin texture, proportions, and identity must be preserved exactly from the provided reference photo. No distortion or replacement of facial characteristics."
+    },
+    "subject": {
+      "gender": "female",
+      "role": "Santa Claus (female, elegant and sensual version)",
+      "appearance": {
+        "expression": "confident, warm, charismatic",
+        "recognizability": "the woman must be easily recognizable as the same person from the reference image"
+      },
+      "wardrobe": {
+        "outfit": "female Santa Claus outfit",
+        "style": "stylish, elegant, subtly sensual but tasteful",
+        "details": [
+          "red Santa dress with white fur trim",
+          "matching Santa accessories",
+          "classic festive color palette"
+        ]
+      },
+      "pose": {
+        "action": "walking forward naturally",
+        "props": [
+          "large sack filled with children’s gifts carried over the shoulder"
+        ],
+        "body_language": "dynamic, confident movement"
+      }
+    },
+    "environment": {
+      "time_of_day": "daylight",
+      "lighting_conditions": "natural daylight",
+      "setting": "outdoor festive environment suitable for Santa Claus imagery",
+      "background": {
+        "style": "softly blurred",
+        "depth": "enhanced depth of field for a professional look"
+      }
+    },
+    "lighting": {
+      "type": "natural daylight",
+      "effects": [
+        "balanced exposure",
+        "soft highlights on face and clothing",
+        "realistic shadows",
+        "enhanced depth and clarity"
+      ]
+    },
+    "camera": {
+      "orientation": "vertical",
+      "focus": "sharp focus on the subject",
+      "depth_of_field": "cinematic, shallow background blur"
+    },
+    "quality_constraints": {
+      "photorealism": "high",
+      "no_artifacts": true,
+      "no_face_distortion": true,
+      "no_unrealistic_effects": true
+    },
+    "output_goal": "Generate a professional-quality, photorealistic vertical 3:4 UHD image of the woman from the reference photo dressed as a feminine Santa Claus, walking in daylight while carrying a sack of gifts, with improved lighting and depth of field, while preserving her exact facial identity."
+  }

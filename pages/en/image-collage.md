@@ -1,6 +1,6 @@
 # Collage
 
-[Back to the list](../../README.md) · All 84 entries
+[Back to the list](../../README.md) · All 95 entries
 
 <a id="gpt-image-failed-photos-grid"></a>
 ### Nine accidental phone snapshots of any character
@@ -698,6 +698,96 @@ Instagram photo dump aesthetic. Six unique expressions/poses: (1) soft smile, ha
 
 </details>
 
+<a id="nano-banana-christmas-fur-coat-cafe-earphones-collage"></a>
+### Four panel winter fur coat collage with red cup
+
+<a href="https://x.com/xIrissy/status/2002696629103804691"><img src="../../previews/nano-banana-christmas-fur-coat-cafe-earphones-collage.jpg" width="360"></a>
+
+A JSON brief fixes the outfit, palette and layout so every panel shares one look, and a strict face reference keeps the same person across frames. Each panel gets its own camera position and lighting, such as a close downward angle for the street shot, so the set reads as a candid phone photo sequence.
+
+Nano Banana Pro · Edit · Source: [@xIrissy on X](https://x.com/xIrissy/status/2002696629103804691) · 192 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`collage`](tags.md#tag-collage) [`winter-fashion`](tags.md#tag-winter-fashion) [`iphone-photo`](tags.md#tag-iphone-photo)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+{
+  "image_generation_request": {
+    "meta_protocols": {
+      "reference_adherence": {
+        "instruction": "Use the provided photo as a strict face reference.",
+        "tolerance": "Zero deviation",
+        "parameters": "Preserve facial proportions, skin texture, expression, and identity with 100% accuracy.",
+        "stylization_constraint": "Do not stylize or alter facial features."￼},
+      "format_style": "Editorial winter poster–style multi-panel collage",
+      "aesthetic_quality": "Spontaneous iPhone photography (candid, cozy, realistic)",
+      "global_textures": "Soft snowfall, subtle analog grain, slight handheld imperfections"
+    },
+    "consistent_elements": {
+      "subject_look": {
+        "hair": "Long honey-blonde balayage wavy hair, sun-kissed medium skin, amber eyes, soft golden smokey eye, glossy peachy-nude lips, very beautiful, attractive, elegant, captivating (while keeping the same identity and realistic proportions)",
+        "makeup": "Soft golden smokey eye makeup (warm blended tones), defined lashes, subtle eyeliner, natural skin texture (no beauty filter)",
+        "nails": "Glossy black nail polish",
+        "presence": "very beautiful, attractive, elegant, captivating (while keeping the same identity and realistic proportions)"
+      },
+      "subject_wardrobe": {
+        "coat": "Short faux-fur coat",
+        "legwear": "Black tights",
+        "footwear": "Classic UGG boots",
+        "style_notes": "Simple, cozy, unmistakably winter"
+      },
+      "primary_device": {
+        "model": "iPhone 17 Pro Max",
+        "color": "Black",
+        "usage": "Held by subject in relevant frames"
+      },
+      "accessories": {
+        "earphones": "Black Apple wired earphones visible (earbuds + cable clearly visible)"
+      },
+      "color_palette": [
+        "Warm ambers",
+        "Soft reds",
+        "Pine greens",
+        "Muted winter greys"
+      ]
+    },
+    "layout_configuration": {
+      "panel_1_top_left": {
+        "scene_type": "Reflective shop-window shot at dusk",
+        "lighting_and_atmosphere": "Faint Christmas lights, garlands, frosted glass edges, warm highlights on fur",
+        "subject_action": "Holding phone partially covering face",
+        "optical_effects": "Passing silhouettes, layered reflections, gentle ghosting, natural glass curvature distortion"
+      },
+      "panel_2_top_right": {
+        "scene_type": "Ultra-wide street portrait (snowy sidewalk/Christmas market)",
+        "camera_angle": "Close, downward-angled",
+        "subject_pose": "Leaning forward casually, hands in coat pockets",
+        "visibility_check": "Black tights and UGG boots clearly visible",
+        "motion_dynamics": "Falling snow with slight motion blur",
+        "lens_characteristics": "Subtle perspective warping to reinforce handheld unstaged feel"
+      },
+      "panel_3_bottom_right": {
+        "scene_type": "Intimate overhead selfie",
+        "lighting": "Warm street or café lighting",
+        "props": {
+          "held_item": "Takeaway holiday drink (coffee or mulled wine)",
+          "accessories": "Wired earphones visible"
+        },
+        "texture_focus": "Sharply detailed fur texture and winter fabrics",
+        "mood": "Nostalgic holiday atmosphere enhanced by soft grain"
+      }
+    }
+  }
+}
+2x2
+
+1200x1200px
+Picture Ratio: 3x4
+```
+
+</details>
+
 <a id="nano-banana-beige-studio-nine-frame-fashion-grid"></a>
 ### Nine frame beige studio fashion editorial grid
 
@@ -993,6 +1083,28 @@ Important: Keep the same person recognizable in every frame, consistent clothing
 
 </details>
 
+<a id="nano-banana-christmas-reindeer-makeup-grid"></a>
+### Four panel reindeer makeup and Christmas sticker portraits
+
+<a href="https://x.com/songguoxiansen/status/2003467449195528253"><img src="../../previews/nano-banana-christmas-reindeer-makeup-grid.jpg" width="360"></a>
+
+The prompt sets a 2x2 grid and gives each cell its own pose, makeup detail and prop, while one identity lock line keeps the same woman across panels. The solid pink backdrop and ring light description fix the color and lighting so the four cells read as one set.
+
+Nano Banana Pro · Text-to-image · Source: [@songguoxiansen on X](https://x.com/songguoxiansen/status/2003467449195528253) · 154 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`makeup`](tags.md#tag-makeup) [`collage`](tags.md#tag-collage) [`portrait`](tags.md#tag-portrait)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+(杰作, 最高画质, 超细节, 8k分辨率). 一张照片般逼真的4格分屏拼图，所有画面为同一女性角色。
+[关键：保持精确的面部特征，保留原始脸部结构，整个拼图中角色完全一致]. 角色皮肤白皙，质感自然，眼神明亮。 左上图：特写镜头，角色化着精致的“麋鹿妆”（鼻头画红，脸颊有白色斑点），对着镜头Wink。 右上图：角色双手握拳放在头顶模仿鹿角，吐舌头卖萌，穿着棕色毛绒连帽衫。
+左下图：角色侧身看着镜头，展示脸颊上的圣诞贴纸（雪花和铃铛图案），眼神妩媚。
+右下图：角色正对着镜头整理刘海，手里拿着一个小圣诞树，脸上是圣诞树的贴纸，表情自然日常。 环境：粉色或蜜桃色的纯色背景。灯光：环形美妆灯，瞳孔中有漂亮的光圈，皮肤无瑕疵。风格：美妆博主风格，极度强调妆容细节，清晰对焦，少女感。
+```
+
+</details>
+
 <a id="gpt-image-banana-smoothie-four-panel-recipe-collage"></a>
 ### Four panel banana smoothie recipe collage
 
@@ -1072,6 +1184,36 @@ Environment: expansive grassy field, scattered trees, reflective canal, glowing 
 
 </details>
 
+<a id="nano-banana-christmas-six-props-fair-isle-grid"></a>
+### Fair isle sweater woman with six Christmas props
+
+<a href="https://x.com/songguoxiansen/status/2003645804079141286"><img src="../../previews/nano-banana-christmas-six-props-fair-isle-grid.jpg" width="360"></a>
+
+A six panel grid template that locks one subject identity and one outfit, then lists a different prop and action for each panel. A fixed cream backdrop and a 45 degree softbox keep all six frames consistent in look.
+
+Nano Banana Pro · Edit · Source: [@songguoxiansen on X](https://x.com/songguoxiansen/status/2003645804079141286) · 137 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`fair-isle`](tags.md#tag-fair-isle) [`collage-grid`](tags.md#tag-collage-grid) [`studio-portrait`](tags.md#tag-studio-portrait)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+(6-panel grid, variety of props, studio portraiture). A collage of 6 shots of the specific character interacting with different Christmas objects. [CRITICAL: Maintain exact facial identity, preserve original bone structure].
+
+Clothing: A cozy fair-isle patterned sweater. Panels:
+
+Shaking a Snow globe.
+Kissing a wooden Nutcracker soldier.
+Reading a pop-up Christmas card.
+Hugging a plush Reindeer toy.
+Sipping from a Santa-themed hot cocoa mug.
+Peek-a-boo behind a bunch of pine branches.
+Background: Soft beige or cream paper backdrop.
+Lighting: Softbox lighting from 45 degree angle, creating dimension but keeping it flattering.
+```
+
+</details>
+
 <a id="gpt-image-ivory-editorial-collage-skater-breakout"></a>
 ### Skater breaking out of framed mountain photo
 
@@ -1119,6 +1261,46 @@ Nano Banana 2 · Edit · Source: [@HaniaAi12 on X](https://x.com/HaniaAi12/statu
 ```text
 Doodle chibi Art .
 Use reference photo to create a ultra-realistic cinematic portrait of a beautiful Indian woman in elegant white saree with embroidered blouse, jasmine flowers in long black hair, looking back with sweet smile, warm aesthetic lighting, surrounded by cute 3D chibi doll versions of herself in different poses, white doodle hearts and sparkles, handwritten words, dreamy scrapbook collage style, Disney Pixar inspired, soft glow, cozy feminine vibe, ultra detailed, 8k.
+```
+
+</details>
+
+<a id="nano-banana-red-jacket-spiral-christmas-tree"></a>
+### Red jacket faces repeated into a spiral tree
+
+<a href="https://x.com/gizakdag/status/1996938549694800304"><img src="../../previews/nano-banana-red-jacket-spiral-christmas-tree.jpg" width="360"></a>
+
+Attaching one portrait and asking for it repeated along a fractal spiral keeps the same subject in every copy. Shrinking the repeats toward the top on a plain white background makes the tree silhouette read clearly.
+
+Nano Banana Pro · Edit · Source: [@gizakdag on X](https://x.com/gizakdag/status/1996938549694800304) · 122 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`fractal`](tags.md#tag-fractal) [`spiral`](tags.md#tag-spiral) [`repetition`](tags.md#tag-repetition)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A creative Christmas tree made entirely from repeated copies of the attached image, arranged in a fractal spiral pattern that forms a triangular Christmas tree silhouette. The repetitions should shrink in scale as they ascend, creating a dynamic visual rhythm. The base of the tree is wide, with larger repeated figures, gradually tapering upward into smaller and tighter spirals. Clean white background, crisp high-contrast edges, graphic design aesthetic, bold visual geometry. The composition should feel cinematic, iconic, and surreal, with perfect alignment and smooth fractal flow, forming a recognizable Christmas tree shape while still showcasing the repeated character from the uploaded image.
+```
+
+</details>
+
+<a id="nano-banana-christmas-nine-pose-photobooth-grid"></a>
+### Nine poses Christmas photobooth grid on pastel blue
+
+<a href="https://x.com/songguoxiansen/status/2003469962430873963"><img src="../../previews/nano-banana-christmas-nine-pose-photobooth-grid.jpg" width="360"></a>
+
+A [CRITICAL] line locks the face across panels, then nine numbered poses and accessory changes are listed in order so each cell differs while the sweater, lighting and backdrop stay uniform. Stating the 3x3 layout and 9-panel collage format makes the model return one combined image.
+
+Nano Banana Pro · Edit · Source: [@songguoxiansen on X](https://x.com/songguoxiansen/status/2003469962430873963) · 120 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`collage`](tags.md#tag-collage) [`photobooth`](tags.md#tag-photobooth) [`portrait`](tags.md#tag-portrait)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+(9-panel grid collage, photobooth style, studio lighting). A fun and vibrant 3x3 grid featuring the specific character in 9 different poses. [CRITICAL: Maintain exact facial features, preserve original face structure across all panels].
+
+Styling: She is wearing a soft white mohair sweater. Accessories change slightly in panels: a reindeer antler headband, a thick red knitted scarf, and holding a giant Christmas lollipop. Poses: 1. Winking with a V-sign. 2. Pouting while holding a miniature Christmas tree. 3. Surprised face with snowflake stickers on cheeks. 4. Laughing with eyes closed. 5. Blowing a kiss. 6. Holding a wrapped gift box on head. 7. Making a heart shape with hands. 8. Pretending to eat a gingerbread man. 9. Saluting with a serious cute face. Background: Uniform pastel blue studio backdrop for all panels. Lighting: Bright, shadowless beauty lighting, high-key, commercial pop style.
 ```
 
 </details>
@@ -1637,6 +1819,35 @@ The photos are shot on a 35mm film camera with a direct flash, creating subtle s
 
 </details>
 
+<a id="nano-banana-christmas-nine-movie-scenes-grid"></a>
+### Same woman in nine Christmas movie scene styles
+
+<a href="https://x.com/songguoxiansen/status/2000918182660596229"><img src="../../previews/nano-banana-christmas-nine-movie-scenes-grid.jpg" width="360"></a>
+
+A global rule locks one face across the 3x3 grid while each cell names its film, props, outfit and lighting, so the set reads as a movie-poster series. Only expression, makeup and styling change between cells.
+
+Nano Banana Pro · Edit · Source: [@songguoxiansen on X](https://x.com/songguoxiansen/status/2000918182660596229) · 93 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`collage`](tags.md#tag-collage) [`film`](tags.md#tag-film) [`portrait`](tags.md#tag-portrait)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+[全局指令]： 一个3x3的网格拼贴画，所有9个格子里必须是完全同一位女性。严格保持与参考图一致的面部特征。不要改变她的五官，只改变她的表情、妆容和造型以匹配各电影主题。
+格1：《真爱至上》风格-机场告别场景戴圣诞帽，手持包装礼物，温情拥抱，背景机场巨型圣诞树和彩灯装饰，柔和光线
+格2：《小鬼当家》风格-惊讶夸张表情手捂脸颊，戴歪圣诞帽，背景家中圣诞树、礼物堆和装饰彩灯，喜剧效果
+格3：《极地特快》风格-火车窗前戴睡帽，手持热可可配糖果拐杖，窗外魔幻雪景和圣诞村庄，梦幻蓝金色调
+格4：《圣诞怪杰》风格-真实人物绿色调服装配红色圣诞帽，搞怪表情，手持偷来的圣诞装饰，背景圣诞村彩灯和礼物，创意造型
+格5：《34街的奇迹》风格-复古百货商店场景穿经典红色圣诞礼服，手持圣诞购物袋，背景巨型圣诞树和复古装饰，经典好莱坞照明（中心）
+格6：《圣诞精灵》风格-完整精灵装扮（绿色上衣、红色条纹袜、尖头帽配铃铛），欢乐跳跃姿态，手持糖果拐杖，背景糖果色圣诞工坊
+格7：《冰雪奇缘》风格-冰蓝色公主裙配雪花皇冠，手持魔法冰晶，雪花飞舞，背景冰晶城堡和大大的圣诞树，特别的喜庆糖果，迪士尼魔法感
+格8：《真实的谎言》风格-黑色礼服配红色圣诞饰品，手持香槟，背景圣诞派对场景彩灯和装饰球，优雅神秘
+格9：《Last Christmas》风格-时尚女性穿红色复古大衣配绿色围巾和金色耳环，手持圣诞礼物盒，站在伦敦圣诞街市彩灯下，背景科文特花园巨型圣诞树和节日橱窗，温暖夜景灯光，充满希望的表情，现代浪漫电影美学
+每格模仿对应电影的色调、光线和氛围，圣诞装饰元素极其明显，电影海报构图，添加电影感标题文字效果，专业电影剧照质感，4K高清
+```
+
+</details>
+
 <a id="nano-banana-gym-journey-nine-frame-collage"></a>
 ### Nine frame collage of a gym commute by bike
 
@@ -1718,6 +1929,27 @@ Camera
 ARRI Alexa 35, Cooke Anamorphic 50mm lens, macro beauty cinematography, ultra slow motion, shallow depth of field, precision focus.
 Style
 Luxury skincare advertising, premium beauty campaign, high-end cosmetic photography, Hollywood commercial storyboard, advertising agency presentation board, ultra-photorealistic, HDR, 8K, masterpiece quality, impeccable product realism, cinematic composition, flawless visual storytelling.
+```
+
+</details>
+
+<a id="nano-banana-christmas-iphone-couple-photo-grid"></a>
+### Hand holding iPhone showing a couple photo grid
+
+<a href="https://x.com/Tz_2022/status/2003298471713939941"><img src="../../previews/nano-banana-christmas-iphone-couple-photo-grid.jpg" width="360"></a>
+
+The prompt describes a real phone held in hand with an iOS Photos grid and mixes many scene types such as travel, restaurant, nightclub and beach, so the grid reads as an unfiltered camera roll. Christmas street lights and falling snow in a blurred background frame the phone and set the holiday mood.
+
+Nano Banana Pro · Edit · Source: [@Tz_2022 on X](https://x.com/Tz_2022/status/2003298471713939941) · 86 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`photo-grid`](tags.md#tag-photo-grid) [`couple`](tags.md#tag-couple) [`iphone-ui`](tags.md#tag-iphone-ui)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+基于【参考照片人物】。一张极其真实的特写照片，一只手拿着一部 iPhone 15 pro。屏幕亮着，显示着苹果 iOS “照片”应用的图库网格视图。屏幕上密密麻麻的缩略图是一个非常自然、未经筛选的情侣生活记录（基于【参考照片人物】）。内容非常多样：有户外旅行的风景合照、在餐厅吃饭的抓拍、在车里的搞怪自拍、模糊的夜店或演唱会照片、海边的背影、当然也有一些居家的温馨时刻。照片的光线、色彩和风格各不相同，看起来非常真实生动。背景是虚化的繁华城市夜景，充满了圣诞节的装饰。可以看到背景中有大片的街道节日彩灯（Christmas lights）、模糊的雪花飘落，以及远处商场橱窗的节日布置。光线更加丰富多彩，营造出一种热闹的圣诞外出氛围。
+
+（我使用了 Labnana 来获得 4K 高清无水印的 nano banana 图像 ✌️）
 ```
 
 </details>
@@ -2629,6 +2861,98 @@ No text, watermarks, logos, duplicated faces, artificial skin, or inconsistent c
 
 </details>
 
+<a id="nano-banana-christmas-fur-coat-winter-collage"></a>
+### Winter collage in fur coat with music player
+
+<a href="https://x.com/Strength04_X/status/2000404590232256886"><img src="../../previews/nano-banana-christmas-fur-coat-winter-collage.jpg" width="360"></a>
+
+A JSON brief fixes the wardrobe, palette and four-panel layout so every frame stays consistent, and the strict face reference keeps one person across shots. The centred Apple Music style mini player is described as a flat graphic overlay with no shadows, which keeps its text sharp.
+
+Nano Banana Pro · Edit · Source: [@Strength04_X on X](https://x.com/Strength04_X/status/2000404590232256886) · 53 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`collage`](tags.md#tag-collage) [`winter-fashion`](tags.md#tag-winter-fashion) [`iphone-photo`](tags.md#tag-iphone-photo)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+{
+  "image_generation_request": {
+    "meta_protocols": {
+      "reference_adherence": {
+        "instruction": "Use the provided photo as a strict face reference.",
+        "tolerance": "Zero deviation",
+        "parameters": "Preserve facial proportions, skin texture, expression, and identity with 100% accuracy.",
+        "stylization_constraint": "Do not stylize or alter facial features."
+      },
+      "format_style": "Editorial winter poster–style multi-panel collage",
+      "aesthetic_quality": "Spontaneous iPhone photography (candid, cozy, realistic)",
+      "global_textures": "Soft snowfall, subtle analog grain, slight handheld imperfections"
+    },
+    "consistent_elements": {
+      "subject_wardrobe": {
+        "coat": "Short faux-fur coat (light brown/tan)",
+        "legwear": "Black tights",
+        "footwear": "Classic UGG boots (tan/chestnut)",
+        "style_notes": "Simple, cozy, unmistakably winter"
+      },
+      "primary_device": {
+        "model": "iPhone 17 Pro Max",
+        "color": "Silver",
+        "usage": "Held by subject in relevant frames"
+      },
+      "color_palette": [
+        "Warm ambers",
+        "Soft reds",
+        "Pine greens",
+        "Muted winter greys"
+      ]
+    },
+    "layout_configuration": {
+      "panel_1_top_left": {
+        "scene_type": "Reflective shop-window shot at dusk",
+        "lighting_and_atmosphere": "Faint Christmas lights, garlands, frosted glass edges, warm highlights on fur",
+        "subject_action": "Holding phone partially covering face (taking mirror selfie)",
+        "optical_effects": "Passing silhouettes, layered reflections, gentle ghosting, natural glass curvature distortion"
+      },
+      "panel_2_top_right": {
+        "scene_type": "Ultra-wide street portrait (snowy sidewalk/Christmas market)",
+        "camera_angle": "Close, downward-angled",
+        "subject_pose": "Leaning forward casually, hands in coat pockets",
+        "visibility_check": "Black tights and UGG boots clearly visible",
+        "motion_dynamics": "Falling snow with slight motion blur",
+        "lens_characteristics": "Subtle perspective warping to reinforce handheld unstaged feel"
+      },
+      "panel_3_bottom_right": {
+        "scene_type": "Intimate overhead selfie",
+        "lighting": "Warm street or café lighting",
+        "props": {
+          "held_item": "Takeaway holiday drink (coffee or mulled wine) with red straw",
+          "accessories": "Wired earphones visible"
+        },
+        "texture_focus": "Sharply detailed fur texture and winter fabrics",
+        "mood": "Nostalgic holiday atmosphere enhanced by soft grain"
+      },
+      "panel_4_bottom_left": {
+        "scene_type": "Medium shot street portrait (snowy sidewalk/Christmas market)",
+        "camera_angle": "Eye level, slightly upward",
+        "subject_pose": "Standing, looking directly at the camera, hands relaxed by side or in pockets.",
+        "visibility_check": "Full body visible, focusing on the coat and winter street scene.",
+        "motion_dynamics": "Soft snowfall, shallow depth of field focusing on the subject.",
+        "mood": "Candid, cozy, and realistic winter street photo."
+      }
+    },
+    "graphic_overlay": {
+      "element": "Minimal Apple Music–style mini player",
+      "content": "Popular Christmas song (e.g., 'Last Christmas' or 'All I Want for Christmas Is You')",
+      "style": "Rendered flat and clean, no shadows",
+      "position": "Floating across the center of the collage"
+    }
+  }
+}
+```
+
+</details>
+
 <a id="gpt-image-eight-pose-hoodie-portrait-collage"></a>
 ### Eight Pose Portrait Collage in Blue Hoodie
 
@@ -2644,6 +2968,210 @@ GPT Image 2.5 · Edit · Source: [@Adnan_Ai2 on X](https://x.com/Adnan_Ai2/statu
 
 ```text
 Create a photorealistic 2×4 action collage using the reference image, featuring the exact same girl in all eight panels. Preserve her facial identity, long straight dark hair, light blue oversized hoodie, white top, blue jeans and butterfly necklace consistently. Keep the same teal-blue cinematic studio background, soft glowing lights, subtle bokeh and realistic portrait lighting. Show eight different actions: 1) waving hello, 2) pointing toward the camera with a cute wink, 3) laughing naturally, 4) taking a playful smartphone selfie, 5) posing with both hands on her cheeks, 6) making a heart shape with both hands, 7) sitting on a stool while looking back over her shoulder, 8) celebrating happily with one arm raised. Arrange everything in a clean 2×4 grid with clear separation, realistic skin and hair, natural hands and fingers, accurate body proportions, consistent outfit and face, cinematic depth of field, professional photography, ultra-realistic 4K, sharp details, no distortion, no duplicate body parts.
+```
+
+</details>
+
+<a id="nano-banana-christmas-tree-clipping-mask-collage"></a>
+### Christmas tree clipping mask photo collage with sticker
+
+<a href="https://x.com/BeautyVerse_Lab/status/2004266176126558267"><img src="../../previews/nano-banana-christmas-tree-clipping-mask-collage.jpg" width="360"></a>
+
+The white tree outline is used as a strict clipping mask, so four photos stay inside the tree while the tartan background shows outside it. Naming image_0 as the identity reference keeps the same woman consistent across all four scenes.
+
+Nano Banana Pro · Edit · Source: [@BeautyVerse_Lab on X](https://x.com/BeautyVerse_Lab/status/2004266176126558267) · 46 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`collage`](tags.md#tag-collage) [`clipping-mask`](tags.md#tag-clipping-mask) [`portrait`](tags.md#tag-portrait)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A festive social media PLOG collage based on image_0.png, focusing on a specific clipping mask effect and a new corner element.
+1. Corner Sticker Element:
+ * Placement: Positioned in the top-left corner of the composition, overlaying the plaid background.
+ * Style: A decorative, die-cut sticker or a stylized speech bubble with a slight white border, looking like it's pasted onto the background with a cute, scrapbook aesthetic.
+ * Text Content: Inside this sticker/bubble, contain the text "greetings from BeautyVerse" rendered in a playful, handwritten font.
+2. Global Structure & Background:
+ * Background: Maintain the exact red, green, and yellow tartan plaid pattern from image_0.png.
+ * Tree Outline: Retain the large, hand-drawn white line art outline of the Christmas tree with the neon green star on top, exactly as styled in image_0.png.
+ * Clean up: Ensure the original white speech bubble (bottom left) and all previous ASCII text art are completely removed.
+3. The Clipping Mask Logic:
+ * Constraint: The organic shape of the hand-drawn white tree outline acts as a strict clipping mask.
+ * Execution: A collage of four distinct photos must be nested strictly inside the tree boundaries. No rectangular edges or photo content should bleed outside the white line art. The tartan background must remain visible everywhere outside the tree shape.
+4. Content of the 4 Photos:
+ * Subject Reference: The persons in these photos must closely resemble the young woman from image_0.png, maintaining consistent facial features, hair color, and high-quality photorealistic style.
+ * Top section of tree: A photo of the young woman posing happily next to a decorated Christmas tree.
+ * Middle-left section: A candid photo of the young woman sitting down, excitedly unwrapping a Christmas gift.
+ * Middle-right section: An outdoor winter photo of the young woman in gloves, holding a small snowman.
+ * Bottom section of tree: A close-up selfie of the young woman wearing a red Santa hat, winking at the camera.
+5. Footer:
+ * The green banner at the bottom is kept.
+ * The text inside is changed to a simple, clean white font centered in the banner reading: "Merry Christmas".
+
+#MerryChristmas #nanobanana
+https://
+x.com/beautyverse_la
+/beautyverse_lab/status/2003412571395883465
+…
+```
+
+</details>
+
+<a id="nano-banana-nye-luxury-contact-sheet-bagel-labs"></a>
+### Nine panel New Year luxury contact sheet ad
+
+<a href="https://x.com/astronomerozge1/status/2006423399443148854"><img src="../../previews/nano-banana-nye-luxury-contact-sheet-bagel-labs.jpg" width="360"></a>
+
+A structured JSON prompt that locks one model across a 3x3 panel plan, describing each panel's scene and sharing one camera and lighting setup. The explicit allowlist of the only readable text (BAGEL LABS, HAPPY NEW YEAR, 2026) is why those three words render cleanly.
+
+Nano Banana Pro · Text-to-image · Source: [@astronomerozge1 on X](https://x.com/astronomerozge1/status/2006423399443148854) · 46 likes on 2026-10-29
+
+[`new-year`](tags.md#tag-new-year) [`contact-sheet`](tags.md#tag-contact-sheet) [`luxury`](tags.md#tag-luxury) [`christmas`](tags.md#tag-christmas)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+{
+  "generation_request": {
+    "meta_data": {
+      "tool": "NanoBanana Pro",
+      "task_type": "text_to_image_ultra_photoreal_nye_luxury_brand_contact_sheet_ad_campaign",
+      "version": "v2.2",
+      "priority": "high"
+    },
+    "output_settings": {
+      "aspect_ratio": "4:5",
+      "orientation": "portrait",
+      "resolution": "ultra_high_res",
+      "render_style": "ultra_photoreal_beauty_editorial_luxury_ad",
+      "sharpness": "crisp_but_natural",
+      "film_grain": "none_or_minimal",
+      "color_grade": "warm_luxury_clean_true_to_life"
+    },
+    "creative_prompt": {
+      "global_scene_summary": {
+        "en": "Ultra-photoreal luxury brand New Year (NYE) ad post in a 3x3 contact sheet collage (nine panels). ONE consistent model repeated across all panels: hair worn down, long voluminous glossy dark waves with lift at the roots; lean, fit runway physique; high-fashion attractive look. Skin is luminous with realistic texture and premium editorial retouch (no plastic smoothing). Makeup: defined brows, clean eyeliner, soft bronzy blush, bold red lipstick.\n\nBackgrounds are NOT white: each panel uses a warm, color-rich luxury holiday studio backdrop, cohesive as a single campaign. Palette stays premium and consistent across the 3x3: champagne gold, deep burgundy, creamy ivory, soft peach, warm amber bokeh, subtle red-gold gradients, satin/velvet backdrop textures. Atmosphere: warm, inviting, sensual, elegant, high-end.\n\nLighting: luxury beauty studio lighting (large soft key + fill + controlled rim) plus tasteful warm practical bokeh/fairy lights. Face and critical objects/text are tack sharp. Camera: 85mm beauty lens look; portraits at f/4–f/5.6 for creamy bokeh; text/balloons/nails at f/8 for maximum legibility; ISO 100; shutter 1/160.\n\nReadable text is allowed ONLY for: 'BAGEL LABS', 'HAPPY NEW YEAR', '2026'. Typography must be modern bold sans-serif, elegant kerning, perfectly spelled, centered, and fully legible. No other text, no extra logos, no watermark."
+      },
+      "composition": {
+        "layout": "3x3 grid collage, consistent warm-ivory gutters, perfect alignment",
+        "framing": "mix of macro detail, tight beauty close-ups, and medium shots; premium ad look",
+        "focus": "model face + allowed text are tack sharp; backgrounds controlled bokeh/gradients"
+      },
+      "lighting_and_camera": {
+        "lighting": "luxury holiday studio: large soft key + fill + subtle rim; warm practical bokeh lights; controlled specular highlights",
+        "lens": "85mm beauty lens look",
+        "aperture_strategy": "portraits f/4–f/5.6; nails/typography/balloons f/8",
+        "iso": "100",
+        "shutter": "1/160",
+        "avoid": "moody harsh shadows, neon club lighting, dirty backdrops, cheap props"
+      },
+      "brand_art_direction": {
+        "mood": "luxury holiday, warm, inviting, high-fashion, celebratory",
+        "palette": [
+          "champagne_gold",
+          "deep_burgundy",
+          "creamy_ivory",
+          "soft_peach",
+          "warm_amber_bokeh",
+          "subtle_red_gold_gradient"
+        ],
+        "materials": "premium satin/velvet backdrops, tasteful metallic reflections, elegant bokeh fairy lights"
+      },
+      "panel_plan_3x3": {
+        "row_1": {
+          "panel_1_top_left": {
+            "scene": "Macro close-up of NYE-themed manicure: ultra-sharp nails with modern elegant design (red + gold micro-stars/foil). Background: champagne-gold bokeh + creamy satin texture. Realistic skin texture and perfect hand anatomy.",
+            "notes": "No extra fingers; no jewelry branding; premium look."
+          },
+          "panel_2_top_center": {
+            "scene": "Four separate red balloons forming '2026' side-by-side: '2' '0' '2' '6' as individual balloons. Background: soft burgundy-to-amber gradient with warm bokeh. Balloons look premium and photoreal (foil/latex feel), strings neat.",
+            "notes": "2026 must be perfectly readable and undistorted."
+          },
+          "panel_3_top_right": {
+            "scene": "Elegant fireworks burst in gold-white sparkles with thin light trails, minimal smoke. Background: deep burgundy velvet-like backdrop with subtle warm bokeh; high-end editorial composite feel.",
+            "notes": "Clean, premium, not chaotic."
+          }
+        },
+        "row_2": {
+          "panel_4_middle_left": {
+            "scene": "Model in a luxurious red dress (silk/satin look) wearing an elegant NYE party hat (velvet/satin, not cheap plastic). She holds a champagne bottle and a flute in a classy celebratory pose. Background: warm ivory backdrop with gold bokeh lights.",
+            "notes": "Bottle label must be generic/unreadable; no brands."
+          },
+          "panel_5_middle_center": {
+            "scene": "Hero shot: model in the red dress pops champagne. Ultra-photoreal splash/foam droplets frozen mid-air, dramatic but clean; foam does NOT cover the face. Background: champagne-gold gradient with dense but tasteful warm fairy-light bokeh; luxury ad vibe.",
+            "notes": "No artifact shapes; no messy spill; face remains sharp."
+          },
+          "panel_6_middle_right": {
+            "scene": "Typography panel: 'HAPPY NEW YEAR' in a modern elegant sans-serif, perfectly kerned, centered, and fully legible. Background: deep burgundy satin texture with minimal gold bokeh/confetti (very subtle, not interfering with readability).",
+            "notes": "Only this text, nothing else."
+          }
+        },
+        "row_3": {
+          "panel_7_bottom_left": {
+            "scene": "Typography panel: 'BAGEL LABS' in modern luxury holiday styling. Background: creamy ivory with a subtle champagne-gold gradient and micro star bokeh. Premium, minimal, elegant.",
+            "notes": "Only 'BAGEL LABS' text, perfectly readable."
+          },
+          "panel_8_bottom_center": {
+            "scene": "NYE dinner close-up: premium styled table detail (linen, red-gold accents, crystal glassware, candle glow feel) with warm bokeh background. Editorial ad styling, clean composition, appetizing but minimal.",
+            "notes": "No readable labels or brands; no clutter."
+          },
+          "panel_9_bottom_right": {
+            "scene": "Model decorating a minimalist luxury Christmas/New Year tree with red and gold ornaments and warm mini-lights. She’s in the same red dress, smiling naturally. Background: warm peach-to-ivory gradient with bokeh; cozy and elegant.",
+            "notes": "Single model; perfect anatomy; consistent hair/makeup."
+          }
+        }
+      },
+      "hard_constraints": [
+        "ONE model only, repeated consistently across panels (no identity drift)",
+        "3x3 grid collage with perfect alignment and consistent gutters",
+        "Luxury warm color-rich backgrounds (no pure white backdrops)",
+        "Hair down: long, voluminous, glossy dark waves with root lift",
+        "Lean, fit runway physique; high-fashion look",
+        "Red dress on panels: middle-left, middle-center, bottom-right",
+        "Middle-center hero panel: champagne popping with clean frozen splash; face not covered",
+        "Top-center: '2026' as four separate red balloons (2 0 2 6), perfectly readable",
+        "Middle-right: 'HAPPY NEW YEAR' perfectly readable, modern elegant sans-serif",
+        "Bottom-left: 'BAGEL LABS' perfectly readable, modern elegant sans-serif",
+        "Top-left: macro NYE manicure, ultra sharp",
+        "Top-right: elegant fireworks, clean premium look",
+        "Bottom-center: NYE dinner, premium editorial styling",
+        "Only readable text allowed: BAGEL LABS, HAPPY NEW YEAR, 2026",
+        "No other logos/brands/text, no watermark",
+        "Photoreal skin texture; no plastic smoothing",
+        "Hands/fingers anatomically correct; no extra fingers"
+      ]
+    },
+    "negative_prompt": [
+      "misspelled text",
+      "garbled letters",
+      "any readable text other than: BAGEL LABS, HAPPY NEW YEAR, 2026",
+      "extra logos",
+      "watermark",
+      "cheap party aesthetic",
+      "neon nightclub look",
+      "dirty or cluttered background",
+      "multiple different models",
+      "identity drift",
+      "anime",
+      "cartoon",
+      "cgi look",
+      "plastic skin",
+      "over-smoothed skin",
+      "deformed hands",
+      "extra fingers",
+      "blurred typography",
+      "blurred 2026 balloons",
+      "blurred nails",
+      "low resolution",
+      "hair tied up",
+      "flat lifeless hair",
+      "visible alcohol brand labels",
+      "messy champagne splash covering face",
+      "artifact shapes on gradients",
+      "bokeh overlapping the text"
+    ]
+  }
+}
 ```
 
 </details>
@@ -2689,6 +3217,77 @@ Premium Korean lifestyle editorial photography, professional DSLR quality, 85mm 
 
 FINAL QUALITY:
 Photorealistic, crystal-clear, beautifully composed, irresistibly cute, premium Instagram-worthy aesthetic. Maintain identical facial identity, hairstyle, outfit, and kitten appearance across all three panels. Natural human proportions, accurate hands and paws, no facial distortion, no excessive skin smoothing, no artificial CGI or plastic appearance.
+```
+
+</details>
+
+<a id="nano-banana-christmas-dog-3x3-grid-cards"></a>
+### Nine Christmas portraits of one fluffy dog
+
+<a href="https://x.com/VibeMarketer_/status/1995520270824804642"><img src="../../previews/nano-banana-christmas-dog-3x3-grid-cards.jpg" width="360"></a>
+
+The reference photo locks the dog's likeness, then nine specific scenes cover settings, props and studio looks so the set reads as one holiday card collection. Repeating a warm red, green and gold palette and cinematic lighting keeps the grid balanced.
+
+Nano Banana Pro · Edit · Source: [@VibeMarketer_ on X](https://x.com/VibeMarketer_/status/1995520270824804642) · 31 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`dog`](tags.md#tag-dog) [`pet-portrait`](tags.md#tag-pet-portrait) [`grid`](tags.md#tag-grid)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a full Instagram-style 3×3 grid composed of nine different portrait images, all featuring the same dog from the attached reference photo.
+
+Use the reference photo only to ensure perfect likeness of the dog:
+– same fur color and pattern
+– same face shape
+– same proportions
+– same expression style
+
+Christmas-Themed Scenario Requirements
+Each of the nine tiles should place the dog in a unique, heartwarming, funny, or cinematic Christmas scene, as if the dog is starring in her own holiday card collection.
+Include a variety of concepts such as:
+
+Classic Christmas Settings
+Dog sitting in front of a decorated Christmas tree
+Dog by a fireplace with stockings and warm golden lights
+Dog wrapped in soft Christmas lights or garlands (safe, relaxed vibe)
+Funny Holiday Scenarios
+Dog dressed as Santa’s little helper
+Dog popping out of a Christmas gift box
+Dog wearing reindeer antlers, Santa hat, or cozy scarf
+Dog sitting proudly at a holiday dinner table like she’s hosting
+Outdoor Winter Magic
+Dog in a snowy forest with falling snow
+Dog wearing winter booties or a tiny jacket
+Dog on a sled or beside a snowman
+
+Cozy Indoor Moments
+
+Dog lying on a holiday blanket with hot cocoa props
+Dog curled up under a Christmas tree skirt
+Dog “helping” wrap presents
+Studio & Commercial Holiday Looks
+
+Clean studio shots with bold red/green backdrops
+
+Gift-wrapped product-style poses
+“Holiday catalog” aesthetic with soft lighting
+
+Image Quality & Aesthetic Requirements
+
+All images must be hyperrealistic, with:
+
+Accurate fur texture
+Clean, consistent likeness across all nine shots
+Professional depth of field
+Cinematic lighting and holiday color tones
+Warm, festive color grading (reds, greens, golds)
+Sharp details and high-end portrait quality
+Balanced aesthetic across the grid (feels like a unified Christmas card set)
+
+Final Deliverable
+
+A 3×3 Instagram-style grid of nine separate 3:4 ratio hyperrealistic Christmas-themed portraits featuring ONLY the dog.
 ```
 
 </details>

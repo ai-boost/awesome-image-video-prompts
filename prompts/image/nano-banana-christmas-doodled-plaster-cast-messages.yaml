@@ -1,0 +1,28 @@
+id: nano-banana-christmas-doodled-plaster-cast-messages
+title:
+  en: Plaster cast covered in doodles and messages
+  zh: 画满涂鸦与留言的石膏绷带
+model: Nano Banana Pro
+mode: image-edit
+category: realism
+tags:
+- christmas
+- doodle
+- plaster-cast
+- living-room
+source:
+  name: '@KanaWorks_AI on X'
+  url: https://x.com/KanaWorks_AI/status/2000581961451282557
+  credit: KANA｜東京AI映像
+  likes: 44
+  captured: '2026-10-29'
+  posted: '2025-12-14'
+notes:
+  en: The prompt is a fill-in template where the bracketed slots set the body part and drive one doodle from a reference image. The fixed lines keep the handwritten get-well messages and the softly blurred Christmas living room consistent across every output.
+  zh: 这是一个带填空位的模板，方括号部分指定石膏所在的部位并由参考图生成一幅涂鸦，其余固定描述统一了留言的风格和虚化的圣诞客厅背景。
+prompt: |
+  A close-up shot of 【an arm】 in a plaster cast.
+  The cast is covered with doodles drawn out of boredom, 【including one doodle inspired by the reference image.】
+  There are also drawings and messages from friends—some offering well wishes, others playful or teasing.
+  The setting is an ordinary home living room.
+  A warm Christmas atmosphere fills the scene, with the background softly blurred.

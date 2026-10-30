@@ -1,0 +1,106 @@
+id: nano-banana-christmas-red-satin-couple-tree
+title:
+  en: Couple in red satin and black suit by tree
+  zh: 红色缎面礼服与黑色西装的情侣站在圣诞树旁
+model: Nano Banana Pro
+mode: image-edit
+category: portrait
+tags:
+- christmas
+- couple
+- portrait
+- holiday
+source:
+  name: '@astronomerozge1 on X'
+  url: https://x.com/astronomerozge1/status/2005718979411673580
+  credit: Özge Döner
+  likes: 105
+  captured: '2026-10-29'
+  posted: '2025-12-29'
+notes:
+  en: Uploading a base photo and adding an identity lock block keeps both faces stable while the outfits, pose and tree are rewritten. The strict rules list and a negative prompt covering identity drift, plastic skin and extra hands fix the wardrobe colours and composition.
+  zh: 先上传基础照片并加入身份锁定段落，使两人的脸部在改写服装、姿势和场景时保持稳定。严格规则列表与负面提示词覆盖身份漂移、塑料感皮肤和多余手指等问题，固定红色礼服、黑西装和圣诞树的位置。
+prompt: |
+  {
+    "generation_request": {
+      "meta_data": {
+        "tool": "NanoBanana Pro",
+        "task_type": "image_edit_photoreal_candid_couple_holiday_indoor",
+        "version": "v1.0",
+        "priority": "high"
+      },
+      "references": {
+        "reference_images": {
+          "base_image": "UPLOAD_THIS_IMAGE",
+          "person_A": "UPLOAD_PERSON_A_REFERENCE_IMAGE (OPTIONAL)",
+          "person_B": "UPLOAD_PERSON_B_REFERENCE_IMAGE (OPTIONAL)"
+        },
+        "reference_rules": {
+          "preserve_identity_person_A": true,
+          "preserve_identity_person_B": true,
+          "identity_lock_strength_A": 0.998,
+          "identity_lock_strength_B": 0.998,
+          "face_similarity_priority": "MAX",
+          "no_beautify_no_face_morph": true,
+          "no_identity_drift": true,
+          "keep_skin_tone_exact": true,
+          "keep_facial_proportions_exact": true
+        }
+      },
+      "output_settings": {
+        "aspect_ratio": "1:1",
+        "orientation": "square",
+        "resolution": "ultra_high_res",
+        "render_style": "photorealistic_editorial_indoor_flash",
+        "sharpness": "natural",
+        "film_grain": "subtle_35mm",
+        "color_grade": "warm_holiday_film"
+      },
+      "creative_prompt": {
+        "scene_summary": {
+          "en": "Photoreal editorial holiday couple portrait indoors. EXACTLY two people, same identities as references/base image. The couple stands close, facing each other with affectionate eye contact and soft smiles. Man: black tailored suit jacket with a white turtleneck underneath, clean classic styling. Woman: elegant fitted red satin dress with thin straps, thigh-high slit, red long gloves, sleek high ponytail, glamorous evening makeup, pearl/diamond necklace. Pose: man’s hands gently around her waist/hip area (respectful, natural), woman leaning toward him with a joyful expression. Background: cozy modern interior with a decorated Christmas tree on the right side (warm lights, gold ornaments), soft bokeh. Lighting: warm indoor ambient + subtle on-camera flash vibe, gentle shadows, cinematic warmth. No text, no logos, no watermark."
+        },
+        "composition": {
+          "framing": "square 1:1, medium-full body, both subjects fully visible from head to mid-thigh",
+          "camera_angle": "eye-level",
+          "distance": "intimate portrait distance, couple centered, Christmas tree visible on right edge",
+          "focus": "faces crisp, background softly blurred"
+        },
+        "style_and_details": {
+          "wardrobe_priority": "keep outfits EXACTLY as described (red satin dress + red gloves; black suit + white turtleneck)",
+          "hair_makeup": "keep high ponytail, glamorous makeup, defined liner, warm blush, glossy lips",
+          "material_rendering": "realistic satin sheen on dress, realistic fabric texture on suit, natural skin texture",
+          "holiday_props": "tree lights with warm bokeh, gold ornaments, subtle indoor décor"
+        },
+        "strict_rules": [
+          "EXACTLY two subjects only",
+          "both faces match references/base image exactly (no identity drift)",
+          "no extra people, no reflections with other faces",
+          "no text, no logos, no watermark",
+          "hands and fingers anatomically correct",
+          "keep composition: couple centered, Christmas tree on the right"
+        ]
+      },
+      "negative_prompt": [
+        "identity drift",
+        "face swap artifacts",
+        "beautify filter",
+        "plastic skin",
+        "over-smoothed face",
+        "cgi look",
+        "anime",
+        "cartoon",
+        "text",
+        "logo",
+        "watermark",
+        "extra people",
+        "extra hands",
+        "extra fingers",
+        "melted hands",
+        "blurred faces",
+        "overexposed highlights",
+        "wrong outfit colors",
+        "missing christmas tree"
+      ]
+    }
+  }

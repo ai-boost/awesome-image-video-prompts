@@ -1,0 +1,26 @@
+id: nano-banana-psg-kit-man-kitchen-props-portrait
+title:
+  en: Man in PSG kit holding lily of the valley
+  zh: 身穿大巴黎球衣手持铃兰的男子
+model: Nano Banana Pro
+mode: text-to-image
+category: portrait
+tags:
+- portrait
+- celebrity
+- everyday-scene
+- multi-prop
+source:
+  name: '@fofrAI on X'
+  url: https://x.com/fofrAI/status/1997340541764161950
+  credit: fofr
+  likes: 299
+  captured: '2026-10-29'
+  posted: '2025-12-06'
+notes:
+  en: Packs many unrelated props into one scene and pins each one to a body part or a specific spot, so every object has a clear location. The hastily taken photo instruction sets a casual everyday camera feel that keeps the dense detail from looking staged.
+  zh: 在一个场景中堆放大量互不相关的道具，并把每件道具固定到人物身体的某个部位或具体位置，让每个物件都有明确落点。随手拍的描述设定了随意的日常镜头感，使密集的细节不显得刻意摆拍。
+prompt: |
+  Y'all aren't pushing Nano Banana Pro hard enough.
+
+   > A portrait photo of david duchovny, he is wearing a PSG kit, on his shoulder is a parthenos sylvia, in his hand he is holding lily of the valley, behind him there is a poster for the movie "Last Year at Marienbad" and a Garchomp poster. On a plinth there is a jeff koons sculpture. The sky through the window shows lenticular clouds. There is also a Terminator 2 cross-stitch on the wall. On his arm there is a tattoo of a Nissan Qashqai. There's an orange lego Christmas tree. The room has a high end decor, a pot is boiling on the NEFF hob. Next to the pot is a little origami chair made from purple and yellow paper. He has a dangling monstera leaf earring.  There is a pet marine iguana. In his other hand he is making the ok shape. On that hand there is a gold ring. The whole image gives the impression of a hastily taken photo, an everyday scene.

@@ -1,0 +1,31 @@
+id: nano-banana-christmas-luxury-skincare-santa-glove
+title:
+  en: Dior bottle held by Santa glove in snow
+  zh: 圣诞手套托起迪奥瓶身立于雪地
+model: Nano Banana Pro
+mode: image-edit
+category: product
+tags:
+- christmas
+- luxury
+- product-photo
+- template
+source:
+  name: '@aleenaamiir on X'
+  url: https://x.com/aleenaamiir/status/2003115097116602560
+  credit: Aleena Amir
+  likes: 484
+  captured: '2026-10-29'
+  posted: '2025-12-22'
+notes:
+  en: The prompt locks the product as an unchanged hero object and lists exactly which attributes must stay the same, then sets lighting and lens terms for a premium look. Fill-in slots for scene, props and lens let one template cover many product shots.
+  zh: 提示词先将产品锁定为不可改动的主体，并列明形状、标签和文字等须保持不变的属性，再用光线与镜头参数营造高端质感。场景、道具和镜头的占位槽让同一模板可套用于多种产品图。
+prompt: |
+  A luxury Christmas-themed product photoshoot set in a [COZY / STUDIO / OUTDOOR] environment. Place the uploaded product image as the hero object, standing upright at the center of the frame. The product must remain EXACTLY unchanged in [shape, size, material, colors, label design, typography, logos, and all visible text]. Do not modify, recreate, translate, enhance, or stylize any product text.
+
+  Scene & background: A festive [BACKGROUND TYPE — e.g. wooden windowsill, velvet studio backdrop, snowy landscape] with [SEASONAL DETAILS — e.g. softly falling snow, blurred Christmas tree lights, winter village bokeh]. Foreground includes subtle holiday accents such as [FESTIVE PROPS — e.g. holly, ribbons, ornaments, fairy lights], placed naturally and never covering the product.
+
+  Styling: Optional festive accessory on the product such as [HAT / SCARF / RIBBON], perfectly fitted without altering the product’s structure or covering the label.
+  Lighting & camera: Warm golden Christmas lighting contrasted with cool winter tones. Soft diffused light, gentle rim lighting for depth, no glare or harsh reflections on the product text. Shallow depth of field with a softly blurred background. Shot on DSLR, [LENS — e.g. 85mm], professional product photography.
+
+  Quality & mood: Ultra-high resolution, photorealistic textures, premium holiday advertising aesthetic, clean editorial composition, cozy, elegant, and festive.

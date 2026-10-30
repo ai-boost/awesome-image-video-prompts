@@ -1,0 +1,24 @@
+id: nano-banana-christmas-cartoon-ornaments-scarf
+title:
+  en: Cartoon character ornaments with red scarves on tree
+  zh: 卡通角色圣诞挂件，系红围巾挂在圣诞树上
+model: Nano Banana Pro
+mode: text-to-image
+category: character
+tags:
+- christmas
+- ornament
+- cartoon
+- macro
+source:
+  name: '@TechieBySA on X'
+  url: https://x.com/TechieBySA/status/1998777016775065733
+  credit: TechieSA
+  likes: 107
+  captured: '2026-10-29'
+  posted: '2025-12-10'
+notes:
+  en: 'The [CHARACTER] slot makes this a reusable template, and the fixed clauses hold the look: plastic material, gold thread hanger, blurred tree with warm bokeh, and a macro lens cue. Swap in one character per run for a sharp subject.'
+  zh: '[CHARACTER] 占位符让这个提示词可以反复套用，固定的描述词锁定了整体效果：塑料材质、金色挂线、带暖色光斑的虚化圣诞树，以及微距镜头的提示。每次只替换一个角色，主体会更清晰。'
+prompt: |
+  “A hyper-realistic Christmas tree ornament depicting [CHARACTER]. The ornament looks incredibly realistic thanks to its detailed facial features and natural texture. The toy is made of plastic. In the background is a slightly blurred Christmas tree with dark green needles and a warm bokeh. The overall atmosphere of coziness, festivity, and magic is created by the shallow depth of field, soft, warm lighting, and bright, festive colors. He/she/it wears a bright red wool scarf wrapped around his/her/its neck, giving him/her/it a playful, cozy look. The ornament is suspended by a thin gold thread attached to the top. High-resolution macro photography is rich in detail and offers a cinematic appeal. 1080x1080 dimension.”

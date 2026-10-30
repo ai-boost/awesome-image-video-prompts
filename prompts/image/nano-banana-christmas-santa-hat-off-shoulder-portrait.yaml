@@ -1,0 +1,45 @@
+id: nano-banana-christmas-santa-hat-off-shoulder-portrait
+title:
+  en: Woman in red Santa hat and sweater
+  zh: 红色圣诞帽与红毛衣的女性肖像
+model: Nano Banana Pro
+mode: image-edit
+category: portrait
+tags:
+- christmas
+- portrait
+- json-prompt
+source:
+  name: '@saniaspeaks_ on X'
+  url: https://x.com/saniaspeaks_/status/2001460344288612700
+  credit: 𝗦𝗮𝗻𝗶𝗮
+  likes: 217
+  captured: '2026-10-29'
+  posted: '2025-12-18'
+notes:
+  en: Structured JSON prompt that splits subject, composition, environment and technical specs into separate blocks, so outfit, pose and lighting can each be adjusted. The over the shoulder turn against a blurred tree with warm bokeh builds a cinematic holiday portrait.
+  zh: 采用结构化 JSON 写法，把主体、构图、环境和技术参数分块描述，便于单独调整服装、姿势和光线。肩头回望的三四分之一侧身姿态配合虚化的圣诞树与暖色光斑，营造电影感节日人像。
+prompt: |
+  "subject_details": {
+        "description": "Young woman with a refined, glamorous appearance",
+        "hair": "Long, polished brown hair flowing in soft waves down her back",
+        "outfit": "Classic red Santa hat with plush white fur trim, matching red knit sweater styled slightly off-the-shoulder",
+        "makeup": "Refined and professional, highlighting natural beauty"
+      },
+      "composition": {
+        "pose": "Three-quarter profile, turning head over shoulder to look directly at the camera",
+        "expression": "Confident, calm, conveying holiday sophistication",
+        "framing": "Medium shot, portrait focus"
+      },
+      "environment": {
+        "setting": "Festive holiday interior",
+        "background": "Softly blurred Christmas tree, warm bokeh lights, cozy atmosphere"
+      },
+      "technical_specs": {
+        "style": "Photorealistic, cinematic, high-fashion portrait photography",
+        "lighting": "Soft, warm studio lighting with golden highlights and gentle shadows",
+        "resolution": "8k, highly detailed textures",
+        "aspect_ratio": "3:4"
+      }
+    }
+  }

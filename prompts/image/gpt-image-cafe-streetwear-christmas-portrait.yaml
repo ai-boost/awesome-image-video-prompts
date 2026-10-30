@@ -6,7 +6,6 @@ model: GPT Image 2
 mode: text-to-image
 category: portrait
 tags:
-- christmas
 - fashion-portrait
 - streetwear
 - cafe-interior

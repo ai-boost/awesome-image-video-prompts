@@ -1,0 +1,38 @@
+id: nano-banana-christmas-fair-isle-character-sweater
+title:
+  en: Fair isle Christmas sweater with a character motif
+  zh: 带角色图案的提花圣诞毛衣
+model: Nano Banana Pro
+mode: image-edit
+category: photo-to-art
+tags:
+- christmas
+- knitwear
+- sweater
+- fair-isle
+source:
+  name: '@konmari_tweet on X'
+  url: https://x.com/konmari_tweet/status/2001769222641443148
+  credit: konmari
+  likes: 41
+  captured: '2026-10-29'
+  posted: '2025-12-18'
+notes:
+  en: Asking the model to rasterize the input image into a pixel art knitting pattern makes the subject read as a Jacquard stitch design. Naming the surrounding reindeer, snowflakes and fireplace setting builds the frame and mood around it.
+  zh: 要求模型把输入图像栅格化为像素风的提花针织图案，让主体看起来由一针针毛线织成。再描述周围的驯鹿、雪花和壁炉场景，为画面搭建边框与氛围。
+prompt: |
+  **[AI Instruction: Pixel-to-Stitch Translation]**
+  Analyze the provided **[Input Image]**.
+  1.  **Knitted Pattern:** Rasterize the [Input Image] into a **pixel-art style knitting pattern**. The lines and shapes should look like they are formed by individual yarn stitches (Jacquard weave).
+  2.  **Texture:** Replace "ink" with "wool yarn".
+
+  **[Main Subject]**
+  A cozy, high-quality photograph of a **Chunky Knitted Christmas Sweater** (or warm blanket) folded neatly or worn.
+
+  **[The Design]**
+  * **Center Motif:** The character or scene from the [Input Image] is featured prominently on the chest as a woven pattern. It has a charming, slightly low-res "fair isle" or "ugly sweater" aesthetic.
+  * **Surrounding Patterns:** Traditional winter motifs (snowflakes, reindeer, geometric zig-zags) frame the main image, using colors from the input image.
+
+  **[Material & Atmosphere]**
+  * **Texture:** Extremely detailed macro shot of the wool fibers. You can feel the softness and fuzzy texture.
+  * **Lighting:** Warm indoor lighting, perhaps near a fireplace. Cozy, hygge atmosphere.

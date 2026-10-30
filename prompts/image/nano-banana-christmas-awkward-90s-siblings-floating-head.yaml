@@ -1,0 +1,32 @@
+id: nano-banana-christmas-awkward-90s-siblings-floating-head
+title:
+  en: Awkward 90s couple in reindeer sweaters with floating head
+  zh: 复古九十年代情侣驯鹿毛衣与悬浮头像合照
+model: Nano Banana Pro
+mode: image-edit
+category: portrait
+tags:
+- christmas
+- portrait
+- vintage
+- family
+source:
+  name: '@venturetwins on X'
+  url: https://x.com/venturetwins/status/2003627299074121984
+  credit: Justine Moore
+  likes: 119
+  captured: '2026-10-29'
+  posted: '2025-12-24'
+notes:
+  en: Assigning one reference person to a translucent floating head in the corner and the rest to a stool in fixed clothing lets the model place every face in one frame. Naming era cues such as high waisted light wash jeans and a cloudy grey studio backdrop sets the 1990s film look.
+  zh: 把其中一位参考人物设为角落里半透明的悬浮头像，其余人坐在凳子上穿着指定服装，每张脸都能在同一画面中安放。再写明年代细节，如高腰浅色牛仔裤和灰色云雾摄影棚背景，即可还原九十年代胶片质感。
+prompt: |
+  We all need an awkward '90s holiday photoshoot with our siblings.
+
+  If you missed the boat (like I did), you're in luck - I wrote some prompts you can use with Nano Banana Pro ✨
+
+  Upload a photo of each person and then use the following:
+
+  "An awkward vintage 1990s studio photograph using the exact likenesses from the three reference photos.The composition features all but one of the people sitting stiffly on a stool in the foreground, wearing a bulky, knitted ugly Christmas sweater with a reindeer pattern and high-waisted light-wash jeans. They are smiling uncomfortably at the camera. Above them in the upper corner, there is a large, translucent "floating head" double-exposure portrait of the last reference photo person. The floating head is looking off into the distance pensively, wearing a red turtleneck, fading into a cloudy, dark grey studio backdrop."
+
+  "An incredibly awkward 90s studio photograph using the likenesses of reference photos of the family. The family is posed dynamically against a mottled green and red muslin backdrop. They are all wearing oversized, clashy holiday vests over turtlenecks. One family member is kneeling on the grey carpet floor, holding up a cheap, plastic illuminated snowman lawn ornament as if it is a treasure. The other family members are crowded around behind them, pointing at the plastic snowman with overly exaggerated, fake expressions of surprise and delight (mouths open, pointing fingers stiff). One person has a mullet hairstyle."

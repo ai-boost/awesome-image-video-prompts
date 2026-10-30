@@ -1,0 +1,26 @@
+id: nano-banana-christmas-nine-pose-photobooth-grid
+title:
+  en: Nine poses Christmas photobooth grid on pastel blue
+  zh: 淡蓝背景九格圣诞大头贴
+model: Nano Banana Pro
+mode: image-edit
+category: collage
+tags:
+- christmas
+- collage
+- photobooth
+- portrait
+source:
+  name: '@songguoxiansen on X'
+  url: https://x.com/songguoxiansen/status/2003469962430873963
+  credit: 松果先森
+  likes: 120
+  captured: '2026-10-29'
+  posted: '2025-12-22'
+notes:
+  en: A [CRITICAL] line locks the face across panels, then nine numbered poses and accessory changes are listed in order so each cell differs while the sweater, lighting and backdrop stay uniform. Stating the 3x3 layout and 9-panel collage format makes the model return one combined image.
+  zh: 用 [CRITICAL] 约束锁定各格中的人脸，再按编号逐条列出九个姿势和配饰变化，让每格各不相同，而毛衣、光线和背景保持统一。明确写出 3x3 九宫格和 9-panel 拼图版式，使模型输出一张合成图。
+prompt: |
+  (9-panel grid collage, photobooth style, studio lighting). A fun and vibrant 3x3 grid featuring the specific character in 9 different poses. [CRITICAL: Maintain exact facial features, preserve original face structure across all panels].
+
+  Styling: She is wearing a soft white mohair sweater. Accessories change slightly in panels: a reindeer antler headband, a thick red knitted scarf, and holding a giant Christmas lollipop. Poses: 1. Winking with a V-sign. 2. Pouting while holding a miniature Christmas tree. 3. Surprised face with snowflake stickers on cheeks. 4. Laughing with eyes closed. 5. Blowing a kiss. 6. Holding a wrapped gift box on head. 7. Making a heart shape with hands. 8. Pretending to eat a gingerbread man. 9. Saluting with a serious cute face. Background: Uniform pastel blue studio backdrop for all panels. Lighting: Bright, shadowless beauty lighting, high-key, commercial pop style.

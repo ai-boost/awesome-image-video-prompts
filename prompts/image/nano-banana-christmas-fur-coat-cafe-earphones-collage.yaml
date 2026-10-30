@@ -1,0 +1,95 @@
+id: nano-banana-christmas-fur-coat-cafe-earphones-collage
+title:
+  en: Four panel winter fur coat collage with red cup
+  zh: 四格冬季皮草大衣拼贴，搭配红色纸杯
+model: Nano Banana Pro
+mode: image-edit
+category: collage
+tags:
+- christmas
+- collage
+- winter-fashion
+- iphone-photo
+source:
+  name: '@xIrissy on X'
+  url: https://x.com/xIrissy/status/2002696629103804691
+  credit: Iris
+  likes: 192
+  captured: '2026-10-29'
+  posted: '2025-12-21'
+notes:
+  en: A JSON brief fixes the outfit, palette and layout so every panel shares one look, and a strict face reference keeps the same person across frames. Each panel gets its own camera position and lighting, such as a close downward angle for the street shot, so the set reads as a candid phone photo sequence.
+  zh: 用 JSON 固定服装、配色和布局，让每个画面保持同一风格，并用人脸参考图保持同一人物。每个画面都指定了各自的机位和光线，例如街拍使用近距离俯拍角度，让整组画面读起来像随手拍的手机照片。
+prompt: |
+  {
+    "image_generation_request": {
+      "meta_protocols": {
+        "reference_adherence": {
+          "instruction": "Use the provided photo as a strict face reference.",
+          "tolerance": "Zero deviation",
+          "parameters": "Preserve facial proportions, skin texture, expression, and identity with 100% accuracy.",
+          "stylization_constraint": "Do not stylize or alter facial features."￼},
+        "format_style": "Editorial winter poster–style multi-panel collage",
+        "aesthetic_quality": "Spontaneous iPhone photography (candid, cozy, realistic)",
+        "global_textures": "Soft snowfall, subtle analog grain, slight handheld imperfections"
+      },
+      "consistent_elements": {
+        "subject_look": {
+          "hair": "Long honey-blonde balayage wavy hair, sun-kissed medium skin, amber eyes, soft golden smokey eye, glossy peachy-nude lips, very beautiful, attractive, elegant, captivating (while keeping the same identity and realistic proportions)",
+          "makeup": "Soft golden smokey eye makeup (warm blended tones), defined lashes, subtle eyeliner, natural skin texture (no beauty filter)",
+          "nails": "Glossy black nail polish",
+          "presence": "very beautiful, attractive, elegant, captivating (while keeping the same identity and realistic proportions)"
+        },
+        "subject_wardrobe": {
+          "coat": "Short faux-fur coat",
+          "legwear": "Black tights",
+          "footwear": "Classic UGG boots",
+          "style_notes": "Simple, cozy, unmistakably winter"
+        },
+        "primary_device": {
+          "model": "iPhone 17 Pro Max",
+          "color": "Black",
+          "usage": "Held by subject in relevant frames"
+        },
+        "accessories": {
+          "earphones": "Black Apple wired earphones visible (earbuds + cable clearly visible)"
+        },
+        "color_palette": [
+          "Warm ambers",
+          "Soft reds",
+          "Pine greens",
+          "Muted winter greys"
+        ]
+      },
+      "layout_configuration": {
+        "panel_1_top_left": {
+          "scene_type": "Reflective shop-window shot at dusk",
+          "lighting_and_atmosphere": "Faint Christmas lights, garlands, frosted glass edges, warm highlights on fur",
+          "subject_action": "Holding phone partially covering face",
+          "optical_effects": "Passing silhouettes, layered reflections, gentle ghosting, natural glass curvature distortion"
+        },
+        "panel_2_top_right": {
+          "scene_type": "Ultra-wide street portrait (snowy sidewalk/Christmas market)",
+          "camera_angle": "Close, downward-angled",
+          "subject_pose": "Leaning forward casually, hands in coat pockets",
+          "visibility_check": "Black tights and UGG boots clearly visible",
+          "motion_dynamics": "Falling snow with slight motion blur",
+          "lens_characteristics": "Subtle perspective warping to reinforce handheld unstaged feel"
+        },
+        "panel_3_bottom_right": {
+          "scene_type": "Intimate overhead selfie",
+          "lighting": "Warm street or café lighting",
+          "props": {
+            "held_item": "Takeaway holiday drink (coffee or mulled wine)",
+            "accessories": "Wired earphones visible"
+          },
+          "texture_focus": "Sharply detailed fur texture and winter fabrics",
+          "mood": "Nostalgic holiday atmosphere enhanced by soft grain"
+        }
+      }
+    }
+  }
+  2x2
+
+  1200x1200px
+  Picture Ratio: 3x4

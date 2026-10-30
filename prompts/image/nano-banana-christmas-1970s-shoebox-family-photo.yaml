@@ -1,0 +1,26 @@
+id: nano-banana-christmas-1970s-shoebox-family-photo
+title:
+  en: Woman in Fair Isle sweater at 1970s Christmas tree
+  zh: 身穿北欧提花毛衣的女子坐在1970年代圣诞树旁
+model: Nano Banana Pro
+mode: image-edit
+category: portrait
+tags:
+- christmas
+- vintage
+- retro
+- portrait
+source:
+  name: '@icreatelife on X'
+  url: https://x.com/icreatelife/status/2004107926412407147
+  credit: Kris Kashtanova
+  likes: 115
+  captured: '2026-10-29'
+  posted: '2025-12-25'
+notes:
+  en: Naming a specific era and the goal of resembling an old family photo from a shoebox sets the film grain, warm color cast and flash snapshot look. Portrait resolution gives a vertical framing that matches a printed keepsake.
+  zh: 指定年代并要求像在阁楼鞋盒里找到的老家庭照，从而带出胶片颗粒、暖色偏色和闪光灯快照质感。加上肖像分辨率，画面采用竖向构图，更接近老照片的冲印比例。
+prompt: |
+  Make a vintage Christmas photo of you and your family with Nano Banana Pro + Adobe Firefly
+
+  prompt: Turn me into Al-generated Christmas mornings imagined in the late 1970s and early 1980s. Created to resemble old family photo found in a shoebox in the attic. Portrait resolution
