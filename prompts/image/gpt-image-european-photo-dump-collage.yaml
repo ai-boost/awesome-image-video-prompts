@@ -1,0 +1,48 @@
+id: gpt-image-european-photo-dump-collage
+title:
+  en: Six candid European photos of one young woman
+  zh: 同一年轻女性的六张欧式街拍拼图
+model: GPT Image 2.5
+mode: text-to-image
+category: collage
+tags:
+- lifestyle
+- photo-dump
+- collage
+- portrait
+source:
+  name: '@john_my07 on X'
+  url: https://x.com/john_my07/status/2114694283941032291
+  credit: Johnn
+  likes: 78
+  captured: '2026-10-29'
+  posted: '2026-10-26'
+notes:
+  en: The prompt repeats the same face, hair, and outfit description in every frame and then gives each of the six frames its own setting and pose. The camera spec (Canon G7 X Mark III with direct flash) plus the request for visible pores and no retouching gives the candid photo dump look.
+  zh: 提示词在每个画面中重复同一段脸部、发型和服装描述，再为六个画面分别指定不同场景和姿势。佳能 G7 X Mark III 加直闪的相机设定，以及保留毛孔细节、不做磨皮的要求，带来随手拍的真实感。
+prompt: |
+  Create an ultra-realistic 6-photo lifestyle collage arranged in a seamless 3×2 grid, featuring the same naturally beautiful young European woman in her early 20s. She has warm olive skin, delicate freckles across her cheeks and nose, hazel-brown eyes, long chestnut-brown hair with natural waves, soft face-framing layers, full eyebrows, and naturally glossy pink lips. Maintain identical facial identity and recognizable features across all six photographs.
+
+  Outfit consistency: She wears the exact same outfit in every frame: a cream-colored fitted ribbed camisole with delicate lace trim and a modest neckline, relaxed light-wash blue jeans, small gold hoop earrings, and a delicate gold pendant necklace. Her hair is loose, slightly messy, and naturally textured. Makeup is minimal and realistic.
+
+  Photography style: Authentic European Instagram photo dump, captured on a Canon PowerShot G7 X Mark III or a modern smartphone. Direct compact-camera flash mixed with natural ambient light, realistic skin pores, subtle digital grain, imperfect candid framing, gentle highlights, believable shadows, and warm cinematic color grading. Avoid artificial skin smoothing and overly polished AI aesthetics.
+
+  Six different settings and poses:
+
+  1. European city street: Standing on a charming European sidewalk beside a stone building and black iron railing, carrying a small black shoulder bag. She turns her head over her shoulder toward the camera with a subtle, confident smile. Her hair falls naturally down her back.
+
+  2. Stone steps portrait: Sitting casually on wide stone steps with her knees bent, resting her cheek against one hand while gazing thoughtfully to the side. Her long hair falls over both shoulders, with soft daylight illuminating her face.
+
+  3. Garden café moment: Sitting outdoors at a leafy café, holding a clear cup of iced matcha with a straw. Her eyes are gently closed and she smiles peacefully, with greenery and warm sunlight in the background.
+
+  4. Golden-hour window: Sitting sideways beside a large apartment window overlooking European rooftops at sunset. She tilts her face toward the golden light with a relaxed, dreamy expression, creating soft natural highlights in her hair.
+
+  5. Casual bed selfie: Lying comfortably on white bedding, holding the camera at arm's length. She gives a playful pout with slightly tousled hair framing her face. The image feels spontaneous, intimate, and naturally imperfect.
+
+  6. Modern kitchen portrait: Standing beside a clean kitchen counter with a small vase of flowers in the background. She turns her upper body slightly away from the camera and looks back over her shoulder with a gentle, relaxed expression.
+
+  Identity consistency: The same woman must appear in all six frames, with identical facial proportions, eye color, freckles, skin tone, and hair color. Every photograph must have a different pose, head angle, expression, and composition while preserving the exact same outfit and accessories.
+
+  Realism requirements: Natural skin texture, visible freckles, fine baby hairs, realistic hands, believable fabric folds, authentic environmental lighting, sharp eyes, subtle exposure variations, and natural facial asymmetry. No duplicated poses, distorted anatomy, excessive retouching, artificial skin, text, or watermarks.
+
+  Output: Vertical 3:4 aspect ratio, exactly six equally sized photographs in a balanced 3-column × 2-row grid, clean alignment, no gutters, no borders. Photorealistic, youthful, candid, effortlessly stylish, and reminiscent of a genuine European Instagram photo dump.

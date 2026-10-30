@@ -1,6 +1,6 @@
 # Posters and editorial layouts
 
-[Back to the list](../../README.md) · All 189 entries · **1** · [2](image-poster-2.md)
+[Back to the list](../../README.md) · All 195 entries · **1** · [2](image-poster-2.md)
 
 <a id="gpt-image-flat-vector-city-travel-poster-template"></a>
 ### Flat vector travel poster template for any city
@@ -3520,6 +3520,45 @@ flourishes and botanical elements in corners, 4:5 aspect ratio.”
 
 </details>
 
+<a id="gpt-image-time-under-repair-clock-poster"></a>
+### Miniature workers repairing an oversized clock face
+
+<a href="https://x.com/MrLarus/status/2115594522671657387"><img src="../../previews/gpt-image-time-under-repair-clock-poster.jpg" width="360"></a>
+
+The prompt fills a structured template with theme, core object, process, palette and exhibition details, so every element serves one craft idea. Magnifying the clock face while shrinking the workers into a repair scene creates the scale contrast that carries the story.
+
+GPT Image 2.5 · Text-to-image · Source: [@MrLarus on X](https://x.com/MrLarus/status/2115594522671657387) · 147 likes on 2026-10-29
+
+[`poster`](tags.md#tag-poster) [`woodblock-print`](tags.md#tag-woodblock-print) [`japanese-style`](tags.md#tag-japanese-style) [`scale-contrast`](tags.md#tag-scale-contrast)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Poster Theme: [Fill in Theme]
+Core Object or Material: [Fill in Main Subject]
+Craft or Transformation Process: [Fill in Process]
+Key Visual Details: [Fill in Tools, Textures, or Characters]
+Main Title: [Fill in Title]
+Primary Color Scheme: [Fill in Color Palette]
+Exhibition Information: [Fill in Date, Location, etc.]
+
+Design a 9:16 vertical Japanese retro craft art poster that transforms time, material structure, and handmade production processes into a narrative visual work. The overall design fuses the language of traditional woodblock prints, modern editorial typography, and craft archives.
+
+Magnify the core object or material significantly to showcase its internal structure, surface textures, production marks, or repair details. The main subject should feature distinct outlines and rich local variations, serving as the visual center of the entire composition.
+
+Incorporate miniature figures, tools, craft devices, or operational scenes based on the theme. Through scale contrasts between the main subject and auxiliary elements, allow viewers to sense the complexity of the production process while discovering stories hidden within the image.
+
+The composition can employ partial cross-sections, layered structures, oblique perspectives, or interweaving relationships between materials. Different elements should revolve around a single craft, forming a complete visual logic rather than simply listing objects.
+
+Use cream-colored aged paper, a limited high-contrast color palette, hand-drawn lines combining thick and thin strokes, and natural ink wear with woodblock print graininess. Emphasize the inherent texture of the materials themselves, such as the authentic grains of metal, stone layers, clay, or fabrics.
+
+Employ large Chinese-Japanese titles, English exhibition names, small craft annotations, and necessary explanatory text. Text can be interwoven around material structures but must not obscure core details or disrupt the image's layering.
+
+Ultimately, present a retro craft poster with museum exhibition quality, balancing visual impact, material details, and cultural expression. Avoid distortions in material texture, mixing unrelated crafts, and excessive decoration.
+```
+
+</details>
+
 <a id="gpt-image-photo-line-art-travel-poster"></a>
 ### Shanghai skyline photo turning into line art wake
 
@@ -6679,6 +6718,44 @@ PLATE 04 — MINIMAL · light: "Bright midday sunlight with crisp shadows" · de
 
 </details>
 
+<a id="gpt-image-tidal-index-coastline-poster"></a>
+### Japanese tide index poster of a coastline
+
+<a href="https://x.com/MrLarus/status/2115477621920374895"><img src="../../previews/gpt-image-tidal-index-coastline-poster.jpg" width="360"></a>
+
+A fill-in template with slots for subject, observation method, title, palette and exhibition details, so one prompt yields a whole series. It asks for an enlarged central subject, close-up observation nodes joined by fine guide lines, and a vertical title with English subtitles, which creates the scale contrast and editorial rhythm.
+
+GPT Image 2.5 · Text-to-image · Source: [@MrLarus on X](https://x.com/MrLarus/status/2115477621920374895) · 50 likes on 2026-10-29
+
+[`japanese-style`](tags.md#tag-japanese-style) [`poster`](tags.md#tag-poster) [`tide`](tags.md#tag-tide) [`nature-observation`](tags.md#tag-nature-observation)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Observation Subject: [Fill in Subject]
+Core Natural Object: [Fill in Object]
+Primary Observation Method: [Cross-Section Structure / Cyclic Changes / Movement Trajectory / Natural Texture]
+Main Title: [Fill in Title]
+Main Color Scheme: [Fill in Color Palette]
+Exhibition Information: [Fill in Date, Location, etc.]
+
+Create a 9:16 vertical Japanese-style natural observation art poster, blending natural history illustrations, scientific infographics, vintage printing, and modern exhibition design. Transform natural phenomena into visual works that combine artistic beauty with observational value.
+
+Enlarge the core natural object significantly to make it the primary visual focus of the composition. Based on the theme, select methods such as cross-section, cycle, flow trajectory, or morphological changes to showcase the object's most distinctive features.
+
+Surround the main subject with close-up magnifications, observation nodes, fine guiding lines, scales, and structural annotations. The information should have clear logical relationships, allowing viewers to follow the composition's reading path to understand the natural object.
+
+Use an off-white aged paper background overall, paired with natural-themed primary colors and a few accent hues. Through soft color gradients, intricate hand-drawn lines, and vintage printing textures, evoke a timeless natural specimen atlas style.
+
+The composition must balance large-scale subjects with minute details, creating a striking scale contrast. Auxiliary graphics, recording lines, and explanatory text should distribute naturally along the subject's structure, maintaining the precise order characteristic of scientific illustrations.
+
+Typography should integrate large Chinese or Japanese titles, English subtitles, vertical explanatory notes, and small observation labels. Text content must align with the theme, avoiding arbitrary inclusion of meaningless scientific jargon or fabricated data.
+
+The final composition should convey the rigor of natural observation, the visual impact of an art poster, and the maturity of editorial design. Avoid ordinary textbook layouts, mechanical chart stacking, and overly realistic commercial photography effects.
+```
+
+</details>
+
 <a id="gpt-image-photo-to-ink-golden-thread-travel-poster"></a>
 ### Paris sunset photo flowing into ink sketch poster
 
@@ -6958,99 +7035,6 @@ AVOID:
 Unrelated landmarks, distorted roads, oversized vehicles, excessive labels, incorrect text, logos, watermarks, and borders.
 
 FORMAT: Full-bleed 4:5 vertical composition.
-```
-
-</details>
-
-<a id="gpt-image-move-breakdance-poster"></a>
-### Breakdancer crashing through giant MOVE letters
-
-<a href="https://x.com/MrLarus/status/2115472681206518096"><img src="../../previews/gpt-image-move-breakdance-poster.jpg" width="360"></a>
-
-A fill-in template that names one technique, giant letter interspersion, and asks the subject and the oversized title to overlap rather than sit on top. The limited palette, cream paper and misregistration cues give it a printed exhibition-poster feel.
-
-GPT Image 2.5 · Text-to-image · Source: [@MrLarus on X](https://x.com/MrLarus/status/2115472681206518096) · 21 likes on 2026-10-29
-
-[`poster`](tags.md#tag-poster) [`typography`](tags.md#tag-typography) [`japanese-design`](tags.md#tag-japanese-design) [`template`](tags.md#tag-template)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Poster Theme: [Fill in Theme]
-Main Title: [Fill in Title]
-Subtitle: [Fill in Subtitle]
-Core Visual Elements: [Fill in Main Subject]
-Visual Design Technique: [Giant Letter Interspersion / Overprinting Misalignment / Letterform Labyrinth / Geometric Refraction, Choose One]
-Primary Color Scheme: [Fill in Color Palette]
-Exhibition Information: [Fill in Date, Location, etc.]
-
-Design a 9:16 vertical Japanese experimental art poster that fuses Japanese retro graphic design, modern typeface experimentation, and art exhibition visuals. The overall piece should feature a distinct design language, like a professionally laid-out independent art exhibition poster.
-
-Use an oversized title as the primary visual structure of the composition, creating a tangible spatial relationship between the text and core elements. Through interspersion, occlusion, overprinting misalignment, or letterform distortion, craft surprising yet logical visual effects.
-
-The main subject and typography should influence each other, rather than simply being layered on top. Enlarge the most expressive letters or characters, using cropping, overlapping, and scale contrast to ensure viewers immediately spot the visual focal point.
-
-Employ a limited palette of high-contrast colors, paired with a cream-colored aged paper background, natural ink speckles, and vintage printing texture. Subtle areas of color misregistration, edge wear, and silkscreen grain can be retained locally.
-
-Typography should blend large English titles, vertical Chinese or Japanese text, refined English subtitles, and exhibition details. Establish a clear reading hierarchy through font size, weight, and whitespace.
-
-Auxiliary text, geometric markers, and fine lines can be distributed along the edges, but they must revolve around the theme. The composition should feel information-rich while maintaining a clear visual center and comfortable reading rhythm.
-
-The overall image needs to evoke a complete sense of an artwork with strong thumbnail recognizability. Highlight just one core visual technique per piece, avoiding cluttered elements, garbled text, cheap effects, or ordinary text overlays.
-```
-
-</details>
-
-<a id="gpt-image-1994-infomercial-crashed-saucer-frame"></a>
-### Retro 1994 infomercial frame selling a crashed saucer
-
-<a href="https://x.com/ImagineArt_X/status/2097520474226147462"><img src="../../previews/gpt-image-1994-infomercial-crashed-saucer-frame.jpg" width="360"></a>
-
-Naming the medium and era first (1994 infomercial, standard definition, scanlines) sets the whole look. A short list of concrete props then drives the layout: host, plinth, price starburst, phone number and legal small print.
-
-GPT Image 2.5 · Text-to-image · Source: [@ImagineArt_X on X](https://x.com/ImagineArt_X/status/2097520474226147462) · found via [wangrunlin/awesome-gpt-image-2-5-prompts](https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts)
-
-[`infomercial`](tags.md#tag-infomercial) [`retro-tv`](tags.md#tag-retro-tv) [`scanlines`](tags.md#tag-scanlines) [`ufo`](tags.md#tag-ufo) [`typography`](tags.md#tag-typography)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-a frame grab from a 1994 infomercial, standard definition video with scanlines. A host in a teal blazer, a battered saucer on a rotating plinth with Antarctic ice frozen around one leg, a price starburst, a phone number, and three lines of legal small print.
-```
-
-</details>
-
-<a id="gpt-image-adriano-emperor-doodle-football-poster"></a>
-### Adriano career stats doodle football poster
-
-<a href="https://x.com/ryanpp27/status/2048602248524214542"><img src="../../previews/gpt-image-adriano-emperor-doodle-football-poster.jpg" width="360"></a>
-
-Keep the real player photo intact and wrap him in a glowing neon outline, then surround him with doodles and boxed stat panels. Fixed sections for club, highlights and national team make the layout easy to scan.
-
-GPT Image 2 · Text-to-image · Source: [@ryanpp27 on X](https://x.com/ryanpp27/status/2048602248524214542) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-[`football`](tags.md#tag-football) [`poster`](tags.md#tag-poster) [`doodle`](tags.md#tag-doodle) [`typography`](tags.md#tag-typography)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a scrapbook doodle-style football poster of [PLAYER_NAME].
-
-AI auto-generates realistic career stats (club and national team).
-
-Main photo: realistic, unchanged ([PLAYER_NAME] in action or iconic pose).
-
-Doodles and handwritten notes: white and [PRIMARY_COLOR] neon ink (no warm colors unless specified), arrows, stars, scribbles, sketchy outlines. Add a glowing [PRIMARY_COLOR] outline around the player's body.
-
-Layout (bold handwritten titles and stats):
-- Top Title: "[PLAYER_NAME]" plus "[NICKNAME/TITLE]"
-- Club Career: total matches and goals plus 2–4 main clubs (apps and goals)
-- Highlights: 2–3 standout achievements (e.g., UCL goals, Ballon d'Or, top scorer)
-- National Team: caps and goals plus 1–2 international achievements
-
-Style: modern football poster x notebook aesthetic, clean but energetic, slightly messy doodles, high contrast, neon accents on dark or muted background.
-
-Important: all stats must be realistic and proportional to the player's real career.
 ```
 
 </details>

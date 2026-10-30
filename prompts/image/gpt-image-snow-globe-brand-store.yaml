@@ -1,0 +1,26 @@
+id: gpt-image-snow-globe-brand-store
+title:
+  en: Starbucks store inside a snow globe
+  zh: 星巴克门店雪花球
+model: GPT Image 2.5
+mode: text-to-image
+category: product
+tags:
+- christmas
+- snow-globe
+- miniature
+- brand
+source:
+  name: '@MrDasCreates on X'
+  url: https://x.com/MrDasCreates/status/2109675383721476180
+  credit: Mr Das
+  likes: 9
+  captured: '2026-10-29'
+  posted: '2026-10-12'
+notes:
+  en: The template fills one brand slot and locks the signature architecture and logo, then builds a winter street scene around them. Warm lit windows against cool snow, tiny people for scale, and glass reflections on a wooden base give the miniature a premium product shot feel.
+  zh: 模板只需填入品牌名，同时锁定标志性建筑和 logo，再围绕它搭建冬季街景。暖色窗光与冷色雪景形成对比，小人物提供比例参照，玻璃反光和木质底座则让微缩场景有高端产品摄影的质感。
+prompt: |
+  GPT Image 2.5 turns any brand into a magical little world inside a snow globe.
+
+  “A highly detailed miniature [STORE / BRAND] store inside a beautiful glass snow globe. Signature architecture + logo preserved. Cozy winter street scene with snow-covered trees, tiny street lamps, benches, bicycles and miniature brand props. Warm glowing windows contrasting with the cool snowy environment, 1–2 tiny people for scale. Realistic glass reflections, delicate falling snow, handcrafted miniature details, wooden base, cinematic product photography, soft studio lighting, cream background, whimsical yet premium, 4:5.”

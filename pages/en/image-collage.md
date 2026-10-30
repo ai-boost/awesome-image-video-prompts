@@ -1,6 +1,6 @@
 # Collage
 
-[Back to the list](../../README.md) · All 80 entries
+[Back to the list](../../README.md) · All 83 entries
 
 <a id="gpt-image-failed-photos-grid"></a>
 ### Nine accidental phone snapshots of any character
@@ -299,6 +299,63 @@ Nano Banana 2 · Edit · Source: [@Naiknelofar788 on X](https://x.com/Naiknelofa
     ]
   }
 }
+```
+
+</details>
+
+<a id="gpt-image-emerald-athleisure-six-camera-angles"></a>
+### Six camera angles of one model in green athleisure
+
+<a href="https://x.com/Just_Anika_Here/status/2115679456140702100"><img src="../../previews/gpt-image-emerald-athleisure-six-camera-angles.jpg" width="360"></a>
+
+The face, hair and wardrobe are locked in one shared identity block, then only the camera position changes per panel, so the six frames read as one shoot. A fixed studio light plus an explicit 2 by 3 grid with thin white gutters keeps exposure and layout consistent across panels.
+
+GPT Image 2.5 · Text-to-image · Source: [@Just_Anika_Here on X](https://x.com/Just_Anika_Here/status/2115679456140702100) · 340 likes on 2026-10-29
+
+[`fashion`](tags.md#tag-fashion) [`reference-sheet`](tags.md#tag-reference-sheet) [`multi-angle`](tags.md#tag-multi-angle) [`athleisure`](tags.md#tag-athleisure)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create an ultra-luxurious fashion editorial reference sheet featuring the exact same adult European female fashion model in six distinct camera perspectives, arranged in a perfectly aligned 2-column × 3-row grid. The entire composition takes place in a seamless warm ivory studio with a subtle creamy gradient, sophisticated negative space, and a refined high-fashion magazine aesthetic.
+
+MODEL IDENTITY — LOCKED ACROSS ALL SIX PANELS
+
+A tall, slender European runway model with porcelain-fair skin, sculpted cheekbones, a refined oval face, expressive hazel-green eyes, naturally defined eyebrows, soft rose-pink lips, an elegant jawline, and realistic skin texture. Shoulder-length dark chestnut hair with natural waves, a subtle off-center part, and delicate flyaway strands. Understated makeup, luminous skin, and a composed, quietly confident expression.
+
+Maintain precisely the same face, eye color, hairstyle, hair length, skin tone, age, body proportions, and identity in every panel. She must look like one real person photographed during a single luxury fashion shoot, not six similar-looking models.
+
+WARDROBE AND STYLING
+
+A sophisticated emerald-green luxury athleisure ensemble featuring a sculpted fitted sports bra and matching high-waisted leggings. Premium technical fabric with a subtle satin sheen, realistic stretch, refined seams, natural fabric tension, and impeccable tailoring. Minimalist styling with no jewelry, accessories, visible branding, or distracting details.
+
+SIX DISTINCT CAMERA PERSPECTIVES
+
+Panel 1 — Classic Editorial Portrait:
+Eye-level camera, straight-on perspective, centered composition, balanced facial proportions, relaxed shoulders, and direct eye contact. Establish the model's definitive visual identity.
+Panel 2 — Powerful Low-Angle Portrait:
+Camera positioned below waist level and tilted slightly upward toward the model. Elongated silhouette, confident posture, dramatic runway presence, and a sophisticated sense of power. Preserve realistic anatomy and natural facial proportions.
+
+Panel 3 — Elevated High-Angle Portrait:
+Camera positioned above the model, looking downward at approximately 40 degrees. The model raises her gaze toward the lens, creating an elegant, intimate editorial composition with natural perspective distortion.
+Panel 4 — Artistic Dutch Angle:
+Camera rotated approximately 20 degrees clockwise. The model maintains a poised, confident stance while the diagonal composition introduces visual tension, modern magazine energy, and a contemporary luxury-campaign aesthetic.
+
+Panel 5 — Direct Overhead Perspective:
+True bird's-eye camera positioned vertically above the model, pointing straight down at 90 degrees. The model looks directly upward into the lens. Her shoulders, torso, hair, and outfit are arranged naturally within the frame. Accurate overhead geometry, no artificial stretching.
+Panel 6 — Extreme Floor-Level Perspective:
+True worm's-eye viewpoint with the camera positioned almost at floor level, pointing upward. The model looks down toward the lens with calm confidence. Strong architectural perspective, elegant silhouette, believable proportions, and dramatic fashion-editorial depth.
+
+PHOTOGRAPHIC DIRECTION
+High-end European luxury fashion campaign, contemporary Vogue-inspired editorial photography, rich emerald-green color against warm ivory, natural skin microtexture, realistic pores, fine hair detail, lifelike eyes, physically accurate fabric reflections, sophisticated tonal contrast, soft directional studio key light, delicate rim lighting, subtle contact shadows, controlled highlights, and cinematic color science.
+
+Simulate a professional full-frame camera with an 85mm portrait lens aesthetic for standard views, intelligently adapting focal length and camera distance for overhead and extreme low-angle perspectives. Maintain consistent studio lighting, exposure, white balance, wardrobe color, and overall visual identity across all six photographs.
+Photorealistic commercial photography, premium art direction, refined retouching without plastic skin, anatomically accurate body structure, crisp subject detail, realistic perspective, exceptionally high image quality.
+
+GRID AND COMPOSITION
+Exactly six individual photographs in a clean 2-column × 3-row contact sheet. Equal-sized rectangular panels, consistent aspect ratios, perfectly straight alignment, uniform gutters, thin white spacing, and a balanced overall silhouette. Every panel must read as a separate photograph from the same shoot, with camera position as the primary variable.
+
+Maintain a cohesive luxury editorial appearance throughout. No panel overlap, no inconsistent crops, no random pose changes, and no visual distractions.
 ```
 
 </details>
@@ -1757,6 +1814,49 @@ The overall result should feel like a real couple accidentally created the perfe
 
 </details>
 
+<a id="gpt-image-european-photo-dump-collage"></a>
+### Six candid European photos of one young woman
+
+<a href="https://x.com/john_my07/status/2114694283941032291"><img src="../../previews/gpt-image-european-photo-dump-collage.jpg" width="360"></a>
+
+The prompt repeats the same face, hair, and outfit description in every frame and then gives each of the six frames its own setting and pose. The camera spec (Canon G7 X Mark III with direct flash) plus the request for visible pores and no retouching gives the candid photo dump look.
+
+GPT Image 2.5 · Text-to-image · Source: [@john_my07 on X](https://x.com/john_my07/status/2114694283941032291) · 78 likes on 2026-10-29
+
+[`lifestyle`](tags.md#tag-lifestyle) [`photo-dump`](tags.md#tag-photo-dump) [`collage`](tags.md#tag-collage) [`portrait`](tags.md#tag-portrait)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create an ultra-realistic 6-photo lifestyle collage arranged in a seamless 3×2 grid, featuring the same naturally beautiful young European woman in her early 20s. She has warm olive skin, delicate freckles across her cheeks and nose, hazel-brown eyes, long chestnut-brown hair with natural waves, soft face-framing layers, full eyebrows, and naturally glossy pink lips. Maintain identical facial identity and recognizable features across all six photographs.
+
+Outfit consistency: She wears the exact same outfit in every frame: a cream-colored fitted ribbed camisole with delicate lace trim and a modest neckline, relaxed light-wash blue jeans, small gold hoop earrings, and a delicate gold pendant necklace. Her hair is loose, slightly messy, and naturally textured. Makeup is minimal and realistic.
+
+Photography style: Authentic European Instagram photo dump, captured on a Canon PowerShot G7 X Mark III or a modern smartphone. Direct compact-camera flash mixed with natural ambient light, realistic skin pores, subtle digital grain, imperfect candid framing, gentle highlights, believable shadows, and warm cinematic color grading. Avoid artificial skin smoothing and overly polished AI aesthetics.
+
+Six different settings and poses:
+
+1. European city street: Standing on a charming European sidewalk beside a stone building and black iron railing, carrying a small black shoulder bag. She turns her head over her shoulder toward the camera with a subtle, confident smile. Her hair falls naturally down her back.
+
+2. Stone steps portrait: Sitting casually on wide stone steps with her knees bent, resting her cheek against one hand while gazing thoughtfully to the side. Her long hair falls over both shoulders, with soft daylight illuminating her face.
+
+3. Garden café moment: Sitting outdoors at a leafy café, holding a clear cup of iced matcha with a straw. Her eyes are gently closed and she smiles peacefully, with greenery and warm sunlight in the background.
+
+4. Golden-hour window: Sitting sideways beside a large apartment window overlooking European rooftops at sunset. She tilts her face toward the golden light with a relaxed, dreamy expression, creating soft natural highlights in her hair.
+
+5. Casual bed selfie: Lying comfortably on white bedding, holding the camera at arm's length. She gives a playful pout with slightly tousled hair framing her face. The image feels spontaneous, intimate, and naturally imperfect.
+
+6. Modern kitchen portrait: Standing beside a clean kitchen counter with a small vase of flowers in the background. She turns her upper body slightly away from the camera and looks back over her shoulder with a gentle, relaxed expression.
+
+Identity consistency: The same woman must appear in all six frames, with identical facial proportions, eye color, freckles, skin tone, and hair color. Every photograph must have a different pose, head angle, expression, and composition while preserving the exact same outfit and accessories.
+
+Realism requirements: Natural skin texture, visible freckles, fine baby hairs, realistic hands, believable fabric folds, authentic environmental lighting, sharp eyes, subtle exposure variations, and natural facial asymmetry. No duplicated poses, distorted anatomy, excessive retouching, artificial skin, text, or watermarks.
+
+Output: Vertical 3:4 aspect ratio, exactly six equally sized photographs in a balanced 3-column × 2-row grid, clean alignment, no gutters, no borders. Photorealistic, youthful, candid, effortlessly stylish, and reminiscent of a genuine European Instagram photo dump.
+```
+
+</details>
+
 <a id="nano-banana-dark-bedroom-grunge-grid-portrait"></a>
 ### Dark bedroom grid of woman in four poses
 
@@ -2487,6 +2587,44 @@ CAMERA: Shot on 35mm lens, natural street-level framing, sharp photorealistic fo
 Ultra photorealistic — zero AI artifacts, no watermark.
 
 IMPORTANT — Use ONLY my uploaded face reference image for the facial structure and identity of the photorealistic foreground figure. My face must remain EXACTLY the same as my real appearance with zero identity change. Preserve my exact hairstyle, hairline, forehead shape, eyebrows, eye shape, nose structure, lips, jawline, skin tone, facial texture, and feminine proportions exactly as shown in the uploaded image. Do NOT beautify, cartoonize, smooth skin, or replace my face with a random celebrity or model face in the foreground portrait. Identity preservation is the highest priority for the photorealistic figure.
+```
+
+</details>
+
+<a id="gpt-image-emerald-fashion-six-angle-grid"></a>
+### Six camera angles of one model in emerald activewear
+
+<a href="https://x.com/mehvishs25/status/2115803636320358657"><img src="../../previews/gpt-image-emerald-fashion-six-angle-grid.jpg" width="360"></a>
+
+The prompt locks identity by naming the reference image and the features to keep, then changes only the camera per panel. Each angle gets an explicit height and tilt in degrees, which keeps the six panels readable as one set.
+
+GPT Image 2.5 · Edit · Source: [@mehvishs25 on X](https://x.com/mehvishs25/status/2115803636320358657) · 55 likes on 2026-10-29
+
+[`fashion`](tags.md#tag-fashion) [`grid`](tags.md#tag-grid) [`multi-angle`](tags.md#tag-multi-angle) [`studio`](tags.md#tag-studio)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a premium fashion editorial reference sheet featuring the exact same girl from my reference image, arranged in a perfectly aligned 2-column × 3-row grid with six distinct camera angles.
+
+Identity lock: Preserve her exact facial features, skin tone, eye color, hairstyle, age, and body proportions from the reference image. She must remain unmistakably the same person in every panel.
+
+Wardrobe: An elegant emerald-green fitted sports bra and matching high-waisted leggings, premium satin-finish technical fabric, realistic seams, and no logos or accessories.
+
+Six camera perspectives:
+
+1. Front portrait: Eye-level, direct eye contact, relaxed shoulders.
+2. Low angle: Camera below the model, looking upward for a powerful runway aesthetic.
+3. High angle: Camera above her at 40 degrees, with her gaze lifted toward the lens.
+4. Dutch angle: Camera tilted 20 degrees for a contemporary editorial composition.
+5. Bird’s-eye view: Camera directly overhead at 90 degrees, model looking up.
+6. Floor-level view: Camera almost touching the floor, looking upward for dramatic architectural perspective.
+
+Visual style: Ultra-realistic luxury fashion campaign, seamless warm ivory studio, soft directional lighting, delicate shadows, natural skin texture, detailed hair, realistic fabric reflections, refined magazine-quality color grading, and crisp commercial photography.
+
+Composition: Exactly six equal-sized photographs in a clean 2 × 3 grid, uniform white gutters, consistent lighting and wardrobe, and perfectly aligned panels. Only the camera angle changes; maintain the same identity and believable anatomy throughout.
+
+No text, watermarks, logos, duplicated faces, artificial skin, or inconsistent character features.
 ```
 
 </details>

@@ -1,0 +1,43 @@
+id: gpt-image-emerald-fashion-six-angle-grid
+title:
+  en: Six camera angles of one model in emerald activewear
+  zh: 同一模特六个机位的祖母绿运动装拼图
+model: GPT Image 2.5
+mode: image-edit
+category: collage
+tags:
+- fashion
+- grid
+- multi-angle
+- studio
+source:
+  name: '@mehvishs25 on X'
+  url: https://x.com/mehvishs25/status/2115803636320358657
+  credit: Meem
+  likes: 55
+  captured: '2026-10-29'
+  posted: '2026-10-29'
+notes:
+  en: The prompt locks identity by naming the reference image and the features to keep, then changes only the camera per panel. Each angle gets an explicit height and tilt in degrees, which keeps the six panels readable as one set.
+  zh: 提示词先引用参考图并写明需要保留的五官、发型和体态，再为每一格单独指定机位的高度与倾斜角度，只让镜头角度变化，使六格看起来是同一组照片。
+prompt: |
+  Create a premium fashion editorial reference sheet featuring the exact same girl from my reference image, arranged in a perfectly aligned 2-column × 3-row grid with six distinct camera angles.
+
+  Identity lock: Preserve her exact facial features, skin tone, eye color, hairstyle, age, and body proportions from the reference image. She must remain unmistakably the same person in every panel.
+
+  Wardrobe: An elegant emerald-green fitted sports bra and matching high-waisted leggings, premium satin-finish technical fabric, realistic seams, and no logos or accessories.
+
+  Six camera perspectives:
+
+  1. Front portrait: Eye-level, direct eye contact, relaxed shoulders.
+  2. Low angle: Camera below the model, looking upward for a powerful runway aesthetic.
+  3. High angle: Camera above her at 40 degrees, with her gaze lifted toward the lens.
+  4. Dutch angle: Camera tilted 20 degrees for a contemporary editorial composition.
+  5. Bird’s-eye view: Camera directly overhead at 90 degrees, model looking up.
+  6. Floor-level view: Camera almost touching the floor, looking upward for dramatic architectural perspective.
+
+  Visual style: Ultra-realistic luxury fashion campaign, seamless warm ivory studio, soft directional lighting, delicate shadows, natural skin texture, detailed hair, realistic fabric reflections, refined magazine-quality color grading, and crisp commercial photography.
+
+  Composition: Exactly six equal-sized photographs in a clean 2 × 3 grid, uniform white gutters, consistent lighting and wardrobe, and perfectly aligned panels. Only the camera angle changes; maintain the same identity and believable anatomy throughout.
+
+  No text, watermarks, logos, duplicated faces, artificial skin, or inconsistent character features.

@@ -1,6 +1,6 @@
 # 人像
 
-[返回目录](../../README_zh.md) · 全部 214 条 · **1** · [2](image-portrait-2.md)
+[返回目录](../../README_zh.md) · 全部 215 条 · **1** · [2](image-portrait-2.md)
 
 <a id="gpt-image-macbook-screen-photo-booth-selfie"></a>
 ### 笔记本屏幕上Photo Booth里的昏暗卧室自拍

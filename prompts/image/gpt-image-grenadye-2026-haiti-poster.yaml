@@ -1,0 +1,44 @@
+id: gpt-image-grenadye-2026-haiti-poster
+title:
+  en: Haitian football poster with trophy over three cities
+  zh: 海地足球海报：奖杯居中，三座城市环绕
+model: GPT Image 2
+mode: text-to-image
+category: poster
+tags:
+- world-cup
+- haiti
+- paper-collage
+- poster
+source:
+  name: '@HaitiBrand on X'
+  url: https://x.com/HaitiBrand/status/2062635338271539656
+  credit: HaitiBrand
+  likes: 11
+  captured: '2026-10-29'
+  posted: '2026-06-04'
+notes:
+  en: Splitting the scene into three named city zones, each with a recognisable landmark (carved balconies, hillside houses, fortress on the ridge), gives the paper-collage composition concrete anchors. The matte gold trophy at centre with the exact text 2026 at its base, plus a fixed palette and paper-grain texture, keeps the handmade style consistent.
+  zh: 把画面分成三个有名字的城市区域，每区配一个可识别的地标（雕花阳台、山坡民居、山脊上的堡垒），让拼贴构图有具体的锚点。中央哑光金奖杯配上底座的 2026 文字，再加固定配色和纸纹质感，保持手工拼贴风格统一。
+prompt: |
+  Create a refined panoramic illustration in landscape format for a Haitian football poster titled **« GRENADYE 2026 »**, integrating **Jacmel, Cap-Haïtien, and Port-au-Prince** into a single harmonious scene, with a stylized World Cup trophy fully integrated as the central anchoring point.
+
+  Represent Haiti as a calm, elegant national scene, highly stylized, in a pastel poster style using paper collage. Use a wide horizontal composition, with three urban zones gently connected by the Caribbean Sea, mountains, sky, and colorful paper cutouts.
+
+  Left zone: **Jacmel**, with historic gingerbread architecture, pastel colonial facades, ornate wooden balconies, decorative details, palm trees, seaside artistic culture, accents inspired by carnival masks, small artists, boats, and warm coastal streets.
+
+  Central zone: **Port-au-Prince**, with overlapping hillside neighborhoods, colorful geometric houses, palm-lined boulevards, harbor water, subtle mountainous background, civic architecture, small market characters, Haitian art motifs, and an open square that anchors the trophy.
+
+  Right zone: **Cap-Haïtien**, with the Citadelle Laferrière as a fortress silhouette on a distant green ridge, the Sans-Souci palace suggested by light stone arches, coastal colonial architecture, turquoise bay, fishing boats, palm trees, and small characters celebrating football.
+
+  Place at the center a recognizable but stylized World Cup trophy, rendered as a monumental paper collage sculpture in matte gold, with simplified globe forms, abstract curves inspired by football, slightly raised edges, embossed outlines, and delicate shadows. Add the numbers **« 2026 »** near the base. Do not use official FIFA logos or team logos.
+
+  Add subtle details of Haitian football celebration: small characters with red and blue accents, small Haitian flags, abstract balloons, muted Haitian blue and red graphic ribbons, and a controlled festive energy in the foreground.
+
+  Palette: soft sky blue, misty blue-gray, pale cobalt, muted sage green, powdered mint, warm cream, light beige, pale stone gray, dusty coral, soft peach, faded yellow, off-white, washed turquoise, sunlit terracotta, Haitian blue and red accents, small navy and charcoal details, plus refined matte gold for the trophy.
+
+  The image should feel handmade, like carefully assembled colored paper and gouache on poster board, with subtle paper grain, matte printed texture, raised edges, delicate embossing, cut-paper shadows, light surface roughness, sharp silhouettes, clean geometric flats, and plenty of negative space.
+
+  Typography at top left: **« GRENADYE 2026 »** in uppercase geometric sans-serif font, with wide letter spacing, in solid white. Below: **« Ayiti · Haiti »** and **« Jacmel · Port-au-Prince · Cap-Haïtien »** in smaller size, matching white, with airy spacing.
+
+  Avoid: photorealism, official FIFA logos, team logos, readable brand signage, overly realistic trophy, overly detailed buildings, heavy outlines, sloppy painting, neon cyberpunk style, dark lighting, excessive gradients, overly busy scene, watermarks, separate postcard-style panels, or a trophy that seems simply pasted onto the image.

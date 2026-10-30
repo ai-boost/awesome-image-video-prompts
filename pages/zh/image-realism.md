@@ -1,6 +1,6 @@
 # 写实照片
 
-[返回目录](../../README_zh.md) · 全部 85 条
+[返回目录](../../README_zh.md) · 全部 86 条
 
 <a id="gpt-image-coca-cola-tanker-leak-mentos-truck-dashcam"></a>
 ### 可口可乐罐车漏液，旁边是Mentos货车
@@ -1560,6 +1560,39 @@ A stunning woman stands frontally, medium shot from the chest up, slight low ang
 Clothing: Elegant black Adidas Originals Firebird-inspired zip-up cropped jacket with three white stripes and Trefoil logo, worn over a starched white fitted dress shirt with a black silk bow tie, paired with a sleek high-waisted black mini skirt or tailored black trousers, statement AP Royal Oak watch in steel, delicate silver rings and earrings.
 Lighting: Warm, low golden-amber candlelight coming from the right, sculpting her face and creating beautiful highlights on the silver tray. Deep dramatic shadows on the left. Monochrome black with luxurious gold accents.
 Camera: Sony A7R V, 50mm f/1.4 lens, 8K resolution, natural skin texture, natural depth of field with soft organic candle bokeh. No plasticity, no CGI, no AI artifacts.
+```
+
+</details>
+
+<a id="nano-banana-pink-bedroom-mirror-selfie"></a>
+### 粉色卧室中的镜子自拍，女子手臂带有纹身
+
+<a href="https://x.com/KeorUnreal/status/2115095374608134597"><img src="../../previews/nano-banana-pink-bedroom-mirror-selfie.jpg" width="360"></a>
+
+采用随手拍的手机镜面自拍构图，等效26mm广角与平视机位让画面像真实照片。负面提示词排除了塑料皮肤、HDR光晕和电影调色等常见AI痕迹。
+
+Nano Banana 2.1 · 文生图 · 出处: [@KeorUnreal on X](https://x.com/KeorUnreal/status/2115095374608134597) · 82 赞，统计于 2026-10-29
+
+[`mirror-selfie`](tags.md#tag-mirror-selfie) [`smartphone-photo`](tags.md#tag-smartphone-photo) [`tattoos`](tags.md#tag-tattoos) [`bedroom`](tags.md#tag-bedroom)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Photorealistic casual smartphone mirror selfie of an adult woman Megan fox with long, straight jet-black hair, thick blunt bangs, and two small metallic silver star hair clips positioned on the left side of her bangs. She has fair skin with natural texture, soft facial features, light blue-gray eyes, subtle black winged eyeliner, natural pink lips, a small beauty mark on her cheek, and a calm, slightly serious expression. Her face is turned slightly toward the mirror while she looks at her phone screen.
+
+Appearance and outfit: She wears a fitted white-and-pink horizontally striped spaghetti-strap crop top with a low neckline and pink high-waisted lace-patterned fishnet leggings featuring large irregular oval cutouts. Her right arm has extensive black-and-red illustrative tattoos, including floral patterns, japamese, runic, and ornamental designs extending from the upper arm to the wrist. Additional tattoos are partially visible on her upper chest and torso with a small sign “Keor” on it somewhere. Her fingernails are short and natural-looking.
+
+Pose and composition: She is kneeling on a wooden floor beside a bed, with her legs folded beneath and alongside her body. Her torso is upright with a gentle natural curve through her waist and hips. One hand holds a modern silver-and-black smartphone vertically in front of a mirror, while the other rests naturally near her lap. Her body is positioned at a three-quarter angle to the mirror, capturing her face, upper body, waist, hips, and folded legs in a full-body vertical composition. Her posture feels casual and unposed, like a spontaneous personal mirror selfie.
+
+Environment: A quiet, minimalist bedroom with pink walls, a simple closed interior red door, medium-brown wooden flooring, and a bed covered with textured white bedding and large white pillows with a dumpling squishy on it. A soft white rug lies beside the bed. Part of a minimalist metal-framed bedside chair or small table is visible at the right edge. The room is clean but lived-in, with decorative magical writtens on walls with enchanting neon symbols.
+
+Lighting and photography: Soft, diffused natural daylight entering from an off-camera window, producing gentle shadows and realistic skin tones. Neutral white balance, slightly muted colors, subtle sensor grain, and authentic smartphone-camera processing. Moderate indoor exposure with preserved highlights and natural shadow detail. No artificial beauty lighting or dramatic cinematic effects.
+
+Camera specifications: Vertical 3:4 composition, smartphone mirror-selfie perspective, approximately 26mm equivalent wide-angle lens, eye-level to slightly elevated camera angle, natural perspective, realistic depth of field, sharp focus on the subject, and a clearly recognizable bedroom background.
+
+Image quality: Extremely photorealistic, natural skin pores, realistic hair strands, anatomically correct hands, believable body proportions, intricate lace and tattoo details, authentic fabric textures, subtle imperfections, and unretouched casual photography. The final image should resemble a real photograph captured on a modern Android smartphone rather than an AI-generated fashion editorial.
+
+Negative prompt: CGI, 3D render, cartoon, anime, doll-like face, plastic skin, excessive skin smoothing, beauty filter, artificial facial symmetry, exaggerated body proportions, distorted anatomy, extra fingers, malformed hands, duplicated limbs, unnatural joints, blurry facial features, painted tattoos, oversaturated colors, excessive sharpening, HDR halos, harsh flash, studio lighting, cinematic color grading, fake bokeh, text, watermark, logo, and unrealistic fabric textures.
 ```
 
 </details>

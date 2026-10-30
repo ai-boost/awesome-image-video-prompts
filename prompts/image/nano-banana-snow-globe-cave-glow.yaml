@@ -1,0 +1,26 @@
+id: nano-banana-snow-globe-cave-glow
+title:
+  en: Glowing blue cave snow globe on wood
+  zh: 木桌上发光蓝色洞穴水晶球
+model: Nano Banana 2
+mode: text-to-image
+category: product
+tags:
+- snow-globe
+- macro
+- product-photo
+- template
+source:
+  name: '@GlennHasABeard on X'
+  url: https://x.com/GlennHasABeard/status/2036798472645435706
+  credit: Glenn Williams
+  likes: 45
+  captured: '2026-10-29'
+  posted: '2026-03-25'
+notes:
+  en: A fixed product photo frame (macro, 85mm, shallow depth of field, dark backdrop) with bracketed slots for the scene, so swapping the environment and light colour keeps the same studio look. The colour words set the glow that passes through the glass onto the table.
+  zh: 固定的产品摄影框架（微距、85mm、浅景深、深色背景），用方括号占位填入场景，替换环境和光色即可保持同样的棚拍质感。颜色词决定穿过玻璃照到桌面的光晕。
+prompt: |
+  A glass snow globe sitting on a dark wooden table, inside the globe a complete miniature [NATURAL ENVIRONMENT] with [DOMINANT VEGETATION] and [CANOPY/COVER TYPE], [LIGHT SOURCE] filtering through the [VEGETATION] creating [VOLUMETRIC LIGHT EFFECT] inside the glass, tiny [GROUND DETAIL 1] and [GROUND DETAIL 2] covering the [ENVIRONMENT] floor, the [COLOR] light casts a [COLOR BLEND] glow through the glass onto the table surface, macro photography, 85mm lens, shallow depth of field, dark moody background, atmospheric haze, professional product photography
+
+  Made in Adobe Firefly with Nano Banana 2

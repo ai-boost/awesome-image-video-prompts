@@ -1,0 +1,25 @@
+id: gpt-image-cafe-streetwear-christmas-portrait
+title:
+  en: Woman lounging in a café armchair with ripped jeans
+  zh: 女生在咖啡厅扶手椅上慵懒靠坐，穿破洞牛仔裤
+model: GPT Image 2
+mode: text-to-image
+category: portrait
+tags:
+- christmas
+- fashion-portrait
+- streetwear
+- cafe-interior
+source:
+  name: '@auqibhabib on X'
+  url: https://x.com/auqibhabib/status/2070856232152559804
+  credit: auqib
+  likes: 60
+  captured: '2026-10-29'
+  posted: '2026-06-27'
+notes:
+  en: A low camera angle with the crossed foreground sneaker enlarged by perspective gives the shot an editorial fashion feel. Naming the garment details, an 85mm lens at f/1.8 and warm café lighting with a lit Christmas tree sets the mood and keeps the scene consistent.
+  zh: 低机位加上前景伸向镜头、被透视放大的运动鞋，让画面有时尚大片的质感。提示词里明确写出服装细节、85mm 镜头与 f/1.8 光圈，并加入暖色咖啡厅灯光和亮灯的圣诞树，营造稳定的氛围。
+prompt: |
+  Ultra-realistic front-facing fashion portrait of a trendy young woman sitting comfortably in a leather armchair inside a cozy upscale coffee shop, both hands positioned behind her head, relaxed confident pose, oversized black streetwear t-shirt with graphic text, distressed baggy jeans with chain accessories, white-black-orange high-top sneakers, long flowing brown hair, navy paisley bandana, warm indoor lighting, glowing café ambience, wooden tables, coffee cup on side table, decorative illuminated tree, luxurious lifestyle mood, cinematic color grading, detailed skin and eyes, natural makeup, editorial fashion campaign, shallow depth of field, professional photography, 85mm lens, f/2.0, ultra realistic, 8K HDR, Vogue-style fashion shoot.
+  #バナ穴バナシ エンティーム #世にも奇妙な物語

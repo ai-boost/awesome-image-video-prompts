@@ -1,6 +1,6 @@
 # 人像
 
-[返回目录](../../README_zh.md) · 全部 214 条 · [1](image-portrait.md) · **2**
+[返回目录](../../README_zh.md) · 全部 215 条 · [1](image-portrait.md) · **2**
 
 <a id="nano-banana-concrete-passage-burgundy-fashion-portrait"></a>
 ### 复古混凝土廊道中的酒红色时装人像
@@ -262,6 +262,26 @@ Nano Banana 2.1 · 文生图 · 出处: [@pictsbyai on X](https://x.com/pictsbya
 
 ```text
 A candid, medium-full editorial photograph of a confident young handsome male model with a chiselled bone structure and sharp jawline, captured in a thoughtful gaze looking away toward the upper left horizon on an outdoor high-rise urban rooftop terrace during the golden hour, framed in a 9:16 aspect ratio. He stands with an asymmetrical, natural posture, his body turned at a 45-degree angle, with both hands casually inserted into the pockets of his tailored charcoal wool overcoat, slightly pulling the coat's edges forward. He wears a high-contrast cream, ribbed turtleneck sweater that frames his neck, partially visible under the heavy, textured dark overcoat. His medium-short, dark brown hair is styled in a classic cut, swept back and to the left with natural, wavy volume, featuring loose flyaway curls on his left forehead and a matte finish. Natural 45-degree side lighting from the low, golden-hour sun on the camera's left illuminates his left cheekbone, nose bridge, brow ridge, and the cream turtleneck, while casting soft, gradual shadow edges across the right side of his face, neck, and the folds of his dark coat, with a gentle, cool sky-blue fill on the shadow side. He is positioned center-right, leaning near a foreground rooftop parapet wall that features weathered gray stone coping, a tan brick base with recessed mortar joints, and a brushed steel tubular handrail. The background, captured with a shallow depth of field, blurs into a deep, creamy bokeh of an urban skyline, balanced on the far left by a tall, modern glass skyscraper reflecting the warm golden sunset, alongside aged mid-century commercial towers with boxy dark brown and terracotta tan masonry facades catching the orange sunlight. The cinematic image, characteristic of a classic menswear luxury campaign, boasts tack-sharp detail on the subject against the soft, warm golden-hour atmosphere, retaining a rich color profile of charcoal, soft sky blue-gray, cream, and warm amber, shot straight on with the characteristic natural clarity of a full-frame digital camera using an 85mm lens at f/2.0, with preserved shadow details in the wool fabric and natural skin textures.
+```
+
+</details>
+
+<a id="gpt-image-cafe-streetwear-christmas-portrait"></a>
+### 女生在咖啡厅扶手椅上慵懒靠坐，穿破洞牛仔裤
+
+<a href="https://x.com/auqibhabib/status/2070856232152559804"><img src="../../previews/gpt-image-cafe-streetwear-christmas-portrait.jpg" width="360"></a>
+
+低机位加上前景伸向镜头、被透视放大的运动鞋，让画面有时尚大片的质感。提示词里明确写出服装细节、85mm 镜头与 f/1.8 光圈，并加入暖色咖啡厅灯光和亮灯的圣诞树，营造稳定的氛围。
+
+GPT Image 2 · 文生图 · 出处: [@auqibhabib on X](https://x.com/auqibhabib/status/2070856232152559804) · 60 赞，统计于 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`fashion-portrait`](tags.md#tag-fashion-portrait) [`streetwear`](tags.md#tag-streetwear) [`cafe-interior`](tags.md#tag-cafe-interior)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Ultra-realistic front-facing fashion portrait of a trendy young woman sitting comfortably in a leather armchair inside a cozy upscale coffee shop, both hands positioned behind her head, relaxed confident pose, oversized black streetwear t-shirt with graphic text, distressed baggy jeans with chain accessories, white-black-orange high-top sneakers, long flowing brown hair, navy paisley bandana, warm indoor lighting, glowing café ambience, wooden tables, coffee cup on side table, decorative illuminated tree, luxurious lifestyle mood, cinematic color grading, detailed skin and eyes, natural makeup, editorial fashion campaign, shallow depth of field, professional photography, 85mm lens, f/2.0, ultra realistic, 8K HDR, Vogue-style fashion shoot.
+#バナ穴バナシ エンティーム #世にも奇妙な物語
 ```
 
 </details>

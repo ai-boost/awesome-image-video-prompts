@@ -1,0 +1,44 @@
+id: gpt-image-time-under-repair-clock-poster
+title:
+  en: Miniature workers repairing an oversized clock face
+  zh: 微型工人修理超大钟面
+model: GPT Image 2.5
+mode: text-to-image
+category: poster
+tags:
+- poster
+- woodblock-print
+- japanese-style
+- scale-contrast
+source:
+  name: '@MrLarus on X'
+  url: https://x.com/MrLarus/status/2115594522671657387
+  credit: Larus Canus
+  likes: 147
+  captured: '2026-10-29'
+  posted: '2026-10-28'
+notes:
+  en: The prompt fills a structured template with theme, core object, process, palette and exhibition details, so every element serves one craft idea. Magnifying the clock face while shrinking the workers into a repair scene creates the scale contrast that carries the story.
+  zh: 提示词用结构化模板逐项填写主题、主体、工艺、色彩和展览信息，让每个元素都服务于同一个工艺概念。把钟面放大、把工人缩小成维修场景，形成比例对比，故事感由此产生。
+prompt: |
+  Poster Theme: [Fill in Theme]
+  Core Object or Material: [Fill in Main Subject]
+  Craft or Transformation Process: [Fill in Process]
+  Key Visual Details: [Fill in Tools, Textures, or Characters]
+  Main Title: [Fill in Title]
+  Primary Color Scheme: [Fill in Color Palette]
+  Exhibition Information: [Fill in Date, Location, etc.]
+
+  Design a 9:16 vertical Japanese retro craft art poster that transforms time, material structure, and handmade production processes into a narrative visual work. The overall design fuses the language of traditional woodblock prints, modern editorial typography, and craft archives.
+
+  Magnify the core object or material significantly to showcase its internal structure, surface textures, production marks, or repair details. The main subject should feature distinct outlines and rich local variations, serving as the visual center of the entire composition.
+
+  Incorporate miniature figures, tools, craft devices, or operational scenes based on the theme. Through scale contrasts between the main subject and auxiliary elements, allow viewers to sense the complexity of the production process while discovering stories hidden within the image.
+
+  The composition can employ partial cross-sections, layered structures, oblique perspectives, or interweaving relationships between materials. Different elements should revolve around a single craft, forming a complete visual logic rather than simply listing objects.
+
+  Use cream-colored aged paper, a limited high-contrast color palette, hand-drawn lines combining thick and thin strokes, and natural ink wear with woodblock print graininess. Emphasize the inherent texture of the materials themselves, such as the authentic grains of metal, stone layers, clay, or fabrics.
+
+  Employ large Chinese-Japanese titles, English exhibition names, small craft annotations, and necessary explanatory text. Text can be interwoven around material structures but must not obscure core details or disrupt the image's layering.
+
+  Ultimately, present a retro craft poster with museum exhibition quality, balancing visual impact, material details, and cultural expression. Avoid distortions in material texture, mixing unrelated crafts, and excessive decoration.

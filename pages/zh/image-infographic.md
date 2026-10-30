@@ -1,6 +1,6 @@
 # 信息图与幻灯片
 
-[返回目录](../../README_zh.md) · 全部 88 条
+[返回目录](../../README_zh.md) · 全部 89 条
 
 <a id="gpt-image-encyclopedia-infographic-topic-template"></a>
 ### 詹姆斯韦伯望远镜百科信息图卡片
@@ -2434,6 +2434,49 @@ AI
 ■
 @openroboto
  improved LIBERO-Pro from 50.3 to 89.7 in 30 days.
+```
+
+</details>
+
+<a id="gpt-image-nyc-infographic-poster"></a>
+### 纽约市信息图海报，包含十一个板块
+
+<a href="https://x.com/amynys/status/2056366046794186906"><img src="../../previews/gpt-image-nyc-infographic-poster.jpg" width="360"></a>
+
+逐段列出每个板块的内容，模型会生成带标签的网格式布局，而不是单一场景。指定配色和杂志风格，使背景保持奶油色，并带有藏青与金色点缀。
+
+GPT Image 2 · 文生图 · 出处: [@amynys on X](https://x.com/amynys/status/2056366046794186906) · 59 赞，统计于 2026-10-29
+
+[`new-york-city`](tags.md#tag-new-york-city) [`infographic`](tags.md#tag-infographic) [`travel-editorial`](tags.md#tag-travel-editorial) [`skyline`](tags.md#tag-skyline)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a highly detailed infographic-style poster about NEW YORK CITY inspired by modern travel/culture editorial layouts. Use a warm beige background with elegant typography, cinematic lighting, and a premium magazine aesthetic.
+
+Main title at the top: “NEW YORK CITY”
+Subtitle: “A Melting Pot of Cultures and Endless Possibilities”
+
+The layout should include multiple organized sections with realistic American people and authentic NYC scenes only
+
+Sections to include:
+• CULTURE — showcase diverse Americans in NYC, street art, creativity, community, parks, rooftop gardens, and urban life.
+• LIFE IN NYC — fast-paced ambition, subway culture, work ethic, convenience, hustle, and balance.
+• FASHION & STYLE — modern New York streetwear, business fashion, luxury and casual styles featuring stylish American men and women.
+• ROMANCE IN NYC — realistic American couple near Brooklyn Bridge at sunset with cinematic city lights.
+• DISCIPLINE & MINDSET — determination, resilience, fitness, success mindset, featuring Wall Street/Bull imagery and ambitious city energy.
+• HISTORY HIGHLIGHTS — NYC skyline evolution, immigrant history, old New York streets, iconic landmarks.
+• NYC VALUES — diversity, respect, ambition, grit, passion, and individuality.
+• FESTIVALS & EVENTS — parades, concerts, Christmas in NYC, Macy’s parade, summer street festivals.
+• FOOD CULTURE — pizza, bagels, coffee, burgers, fine dining, food trucks.
+• ARTS & ENTERTAINMENT — Broadway, live music, museums, street performances, nightlife.
+• POP CULTURE — movies, music, fashion, sports, iconic NYC media influence.Add panoramic skyline images featuring Manhattan, Brooklyn Bridge, Empire State Building, Times Square, Central Park, and One World Trade Center.
+
+Include elegant icons, infographics, quotes, and clean editorial boxes.
+
+Color palette: warm cream, gold, deep navy, muted red, and cinematic sunset tones.
+
+Style: ultra-detailed, hyperrealistic, premium travel magazine infographic, cinematic photography mixed with elegant design elements, realistic Americans only, sophisticated and visually rich.
 ```
 
 </details>

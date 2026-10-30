@@ -1,6 +1,6 @@
 # Product shots and e-commerce
 
-[Back to the list](../../README.md) · All 70 entries
+[Back to the list](../../README.md) · All 72 entries
 
 <a id="gpt-image-giant-pepsi-can-seated-model-ad"></a>
 ### Woman leaning on giant Pepsi can ad
@@ -1355,6 +1355,27 @@ in the form of a miniature diorama landscape.
 
 </details>
 
+<a id="nano-banana-snow-globe-cave-glow"></a>
+### Glowing blue cave snow globe on wood
+
+<a href="https://x.com/GlennHasABeard/status/2036798472645435706"><img src="../../previews/nano-banana-snow-globe-cave-glow.jpg" width="360"></a>
+
+A fixed product photo frame (macro, 85mm, shallow depth of field, dark backdrop) with bracketed slots for the scene, so swapping the environment and light colour keeps the same studio look. The colour words set the glow that passes through the glass onto the table.
+
+Nano Banana 2 · Text-to-image · Source: [@GlennHasABeard on X](https://x.com/GlennHasABeard/status/2036798472645435706) · 45 likes on 2026-10-29
+
+[`snow-globe`](tags.md#tag-snow-globe) [`macro`](tags.md#tag-macro) [`product-photo`](tags.md#tag-product-photo) [`template`](tags.md#tag-template)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A glass snow globe sitting on a dark wooden table, inside the globe a complete miniature [NATURAL ENVIRONMENT] with [DOMINANT VEGETATION] and [CANOPY/COVER TYPE], [LIGHT SOURCE] filtering through the [VEGETATION] creating [VOLUMETRIC LIGHT EFFECT] inside the glass, tiny [GROUND DETAIL 1] and [GROUND DETAIL 2] covering the [ENVIRONMENT] floor, the [COLOR] light casts a [COLOR BLEND] glow through the glass onto the table surface, macro photography, 85mm lens, shallow depth of field, dark moody background, atmospheric haze, professional product photography
+
+Made in Adobe Firefly with Nano Banana 2
+```
+
+</details>
+
 <a id="nano-banana-manga-creator-toy-box-grid"></a>
 ### Four manga creators as toy figurines with escaping creations
 
@@ -1372,6 +1393,27 @@ Nano Banana 2.1 · Text-to-image · Source: [@Gdgtify on X](https://x.com/Gdgtif
 Same manga prompt I did with Nano Banana 2.1 but this time with GPT 2.5
 
 Prompt: 2x2 grid, modify this prompt do this for 4 famous founding fathers, 2x2 grid, 16:9, do this for 4 famous manga: B₁  CREATOR FIGURE AT CRAFT (master)   a stylized 3D figurine of the creator at their craft station (drafting desk, pen,       tablet, typewriter) in a focused working pose; toy/vinyl material.   ¬B₁ = no figure / realistic human / idle figure / no craft station. B₂  OWN PACKAGING IN COMPOSITION   the creator's retail box — title + box art depicting the creator — present in‑frame as       a set piece; figure and box art share the same character design.   ¬B₂ = no box / box unrelated / box art ≠ figure. B₃  CREATIONS ESCAPE THE BOX   the works the creator made (characters/creatures/panels) burst OUT of the box art into 3D       space in dynamic poses; ≥2 escapees.   ¬B₃ = creations static on the box / no escape / creations unrelated to the creator. B₄  CRAFT ARTIFACTS ORBIT   floating artifacts of the craft (pages/panels, ink bottles, erasers, crumpled drafts, sprites)       suspended around, implying a stopped moment.   ¬B₄ = no artifacts / artifacts resting on ground / unrelated props. B₅  STUDIO TOY PRESENTATION   clean neutral studio background, soft light, collectible‑figure render quality, legible box       title.   ¬B₅ = busy background / flat render / illegible title / harsh light. η   HONEST TOY   vinyl/plastic sheen, box print texture, panel linework legible. FORBIDDEN = realistic human · no box · box art mismatch · static creations · no escape · no artifacts · busy bg · illegible title · flat render
+```
+
+</details>
+
+<a id="gpt-image-snow-globe-brand-store"></a>
+### Starbucks store inside a snow globe
+
+<a href="https://x.com/MrDasCreates/status/2109675383721476180"><img src="../../previews/gpt-image-snow-globe-brand-store.jpg" width="360"></a>
+
+The template fills one brand slot and locks the signature architecture and logo, then builds a winter street scene around them. Warm lit windows against cool snow, tiny people for scale, and glass reflections on a wooden base give the miniature a premium product shot feel.
+
+GPT Image 2.5 · Text-to-image · Source: [@MrDasCreates on X](https://x.com/MrDasCreates/status/2109675383721476180) · 9 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`snow-globe`](tags.md#tag-snow-globe) [`miniature`](tags.md#tag-miniature) [`brand`](tags.md#tag-brand)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+GPT Image 2.5 turns any brand into a magical little world inside a snow globe.
+
+“A highly detailed miniature [STORE / BRAND] store inside a beautiful glass snow globe. Signature architecture + logo preserved. Cozy winter street scene with snow-covered trees, tiny street lamps, benches, bicycles and miniature brand props. Warm glowing windows contrasting with the cool snowy environment, 1–2 tiny people for scale. Realistic glass reflections, delicate falling snow, handcrafted miniature details, wooden base, cinematic product photography, soft studio lighting, cream background, whimsical yet premium, 4:5.”
 ```
 
 </details>

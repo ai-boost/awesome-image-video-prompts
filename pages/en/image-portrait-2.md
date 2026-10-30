@@ -1,6 +1,6 @@
 # Portraits
 
-[Back to the list](../../README.md) · All 214 entries · [1](image-portrait.md) · **2**
+[Back to the list](../../README.md) · All 215 entries · [1](image-portrait.md) · **2**
 
 <a id="gpt-image-realistic-big-head-miniature-pinwheel-portrait"></a>
 ### Realistic big head miniature portrait holding pinwheel
@@ -383,6 +383,26 @@ Nano Banana 2.1 · Text-to-image · Source: [@pictsbyai on X](https://x.com/pict
 
 ```text
 A candid, medium-full editorial photograph of a confident young handsome male model with a chiselled bone structure and sharp jawline, captured in a thoughtful gaze looking away toward the upper left horizon on an outdoor high-rise urban rooftop terrace during the golden hour, framed in a 9:16 aspect ratio. He stands with an asymmetrical, natural posture, his body turned at a 45-degree angle, with both hands casually inserted into the pockets of his tailored charcoal wool overcoat, slightly pulling the coat's edges forward. He wears a high-contrast cream, ribbed turtleneck sweater that frames his neck, partially visible under the heavy, textured dark overcoat. His medium-short, dark brown hair is styled in a classic cut, swept back and to the left with natural, wavy volume, featuring loose flyaway curls on his left forehead and a matte finish. Natural 45-degree side lighting from the low, golden-hour sun on the camera's left illuminates his left cheekbone, nose bridge, brow ridge, and the cream turtleneck, while casting soft, gradual shadow edges across the right side of his face, neck, and the folds of his dark coat, with a gentle, cool sky-blue fill on the shadow side. He is positioned center-right, leaning near a foreground rooftop parapet wall that features weathered gray stone coping, a tan brick base with recessed mortar joints, and a brushed steel tubular handrail. The background, captured with a shallow depth of field, blurs into a deep, creamy bokeh of an urban skyline, balanced on the far left by a tall, modern glass skyscraper reflecting the warm golden sunset, alongside aged mid-century commercial towers with boxy dark brown and terracotta tan masonry facades catching the orange sunlight. The cinematic image, characteristic of a classic menswear luxury campaign, boasts tack-sharp detail on the subject against the soft, warm golden-hour atmosphere, retaining a rich color profile of charcoal, soft sky blue-gray, cream, and warm amber, shot straight on with the characteristic natural clarity of a full-frame digital camera using an 85mm lens at f/2.0, with preserved shadow details in the wool fabric and natural skin textures.
+```
+
+</details>
+
+<a id="gpt-image-cafe-streetwear-christmas-portrait"></a>
+### Woman lounging in a café armchair with ripped jeans
+
+<a href="https://x.com/auqibhabib/status/2070856232152559804"><img src="../../previews/gpt-image-cafe-streetwear-christmas-portrait.jpg" width="360"></a>
+
+A low camera angle with the crossed foreground sneaker enlarged by perspective gives the shot an editorial fashion feel. Naming the garment details, an 85mm lens at f/1.8 and warm café lighting with a lit Christmas tree sets the mood and keeps the scene consistent.
+
+GPT Image 2 · Text-to-image · Source: [@auqibhabib on X](https://x.com/auqibhabib/status/2070856232152559804) · 60 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`fashion-portrait`](tags.md#tag-fashion-portrait) [`streetwear`](tags.md#tag-streetwear) [`cafe-interior`](tags.md#tag-cafe-interior)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Ultra-realistic front-facing fashion portrait of a trendy young woman sitting comfortably in a leather armchair inside a cozy upscale coffee shop, both hands positioned behind her head, relaxed confident pose, oversized black streetwear t-shirt with graphic text, distressed baggy jeans with chain accessories, white-black-orange high-top sneakers, long flowing brown hair, navy paisley bandana, warm indoor lighting, glowing café ambience, wooden tables, coffee cup on side table, decorative illuminated tree, luxurious lifestyle mood, cinematic color grading, detailed skin and eyes, natural makeup, editorial fashion campaign, shallow depth of field, professional photography, 85mm lens, f/2.0, ultra realistic, 8K HDR, Vogue-style fashion shoot.
+#バナ穴バナシ エンティーム #世にも奇妙な物語
 ```
 
 </details>

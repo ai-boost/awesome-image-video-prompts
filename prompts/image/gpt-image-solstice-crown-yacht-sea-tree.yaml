@@ -1,0 +1,42 @@
+id: gpt-image-solstice-crown-yacht-sea-tree
+title:
+  en: Luxury yacht wake shapes a sea Christmas tree
+  zh: 豪华游艇尾迹勾勒出海上圣诞树
+model: GPT Image 2.5
+mode: text-to-image
+category: poster
+tags:
+- christmas
+- aerial
+- yacht
+- seascape
+source:
+  name: '@ou_zhen599 on X'
+  url: https://x.com/ou_zhen599/status/2101959963384193293
+  credit: Loriel.AI
+  likes: 7
+  captured: '2026-10-29'
+  posted: '2026-09-21'
+notes:
+  en: The yacht sits high in the frame so its wake becomes the central route, and the foam and reef lines follow sea physics rather than decoration. A high oblique drone angle over wide open water keeps the tree shape readable from a distance.
+  zh: 将游艇置于画面上方，使其尾迹成为中轴路线，泡沫与礁石线条遵循海洋物理规律，而非装饰元素。高空俯视角度配合大片开阔海面，使树形在远处即可识别。
+prompt: |
+  Create a premium luxury-yacht holiday advertising poster for a fictional international marine brand named SOLSTICE CROWN YACHTS, designed as a single vertical high-aerial key visual over an immense open sea at golden sunrise. Preserve the structural brilliance of the reference as pure composition logic: a real ultra-luxury motor yacht near the upper-center, moving forward across calm deep water, while the wake, reef lines, and surf formations below organically assemble into a monumental Christmas-tree silhouette made entirely of ocean physics. The yacht is the true commercial hero, and the sea-formed tree is the poetic extension of its voyage.
+
+  The image must merge Orbit, Transit, and Port into one refined main visual: emotionally resonant, materially precise, and curatorially reduced. Orbit: keep the strongest immediate read of the concept, where the tree shape is instantly recognizable from afar and the yacht reads as the luminous crown point of the frame. Transit: make the marine materials, reef geometry, and yacht design feel systemized and premium, with believable water layering, foam logic, and engineered vessel detail. Port: strip away anything unnecessary so the image feels more international, more art-directed, and closer to a collectible visual manifesto than a festive brochure.
+
+  The Christmas-tree form must not feel graphic-overlay fake or cartoonishly decorated. It must arise from real ocean movement: curling foam spirals, white surf lace, turquoise currents, transparent mineral shallows, and scattered reef outcrops positioned with elegant symmetry and controlled irregularity. From a distance it reads as a festive icon; up close it resolves into realistic hydrodynamics, reef contours, and tidal pattern. No ornaments, no garlands, no literal star, no kitsch holiday clichés. The sea itself becomes the seasonal gesture.
+
+  The yacht must be highly photoreal, product-dominant, and aspirational: polished white hull, clean glazing, layered decks, subtle metallic detailing, realistic marine shadow under the vessel, believable wake behavior, and refined superyacht proportions. It must feel calm, rarefied, exclusive, and precise, never tiny or incidental. Place it near the upper-center so it leads the eye downward into the flowing tree-shaped sea formation.
+
+  Camera and framing: premium drone or helicopter top-oblique aerial view, high enough to reveal the full sea-tree silhouette while keeping the vessel clearly legible as the hero object. The frame must feel spacious and quiet, with vast surrounding ocean negative space providing luxury, scale, and breathing room. Let the sea-tree occupy the central vertical axis and taper downward elegantly. The composition should read immediately and memorably from a distance.
+
+  Lighting and atmosphere: warm low-angle sunrise light from the upper-right, washing the surface with champagne gold and pale amber while preserving rich cobalt and teal depth below. Build a refined 60/30/10 color hierarchy: 60% deep ocean blue, ultramarine, and teal; 30% white foam, bright turquoise shallows, and mineral aqua channels; 10% champagne sunrise warmth and pale gold reflection. The water must feel premium and layered: transparent cyan depths within the tree-form, white foam edges around the swirls, deep dark sea outside the central motif, and delicate sun-glint falloff. Keep the sky extremely restrained, only a small atmospheric horizon if needed.
+
+  Typography must be drastically reduced and more elevated than a standard holiday campaign. Place a minimal brand lockup in the upper-right: "SOLSTICE CROWN YACHTS" with a tiny refined emblem above and one understated line beneath such as "Voyage in Ceremony." In the lower-center, place only one short holiday statement, elegant and restrained, such as "Season at Sea." No large festive paragraph copy, no heavy calligraphy overload, no bottom information clutter beyond a very slim, discreet contact strip if absolutely necessary. The visual must carry the meaning.
+
+  Material semantics must be explicit and luxurious: yacht lacquer, marine glass, metallic trim, white foaming breakers, submerged reefs, translucent mineral shallows, deep saline blue, and warm dawn reflection. The whole image should feel both festive and rare, like a global luxury holiday campaign captured at a miraculous but believable moment from the air.
+
+  Rendering target: photoreal luxury yacht advertising, premium ocean texture, refined holiday concept, elegant restrained typography, strong product hierarchy, curatorially reduced composition, and world-class print-finish quality.
+
+  Structured exclusion constraints: no real yacht brand names, no copied Christmas slogans, no cheesy holiday graphics, no Santa elements, no ornaments, no fake CGI plastic tree look, no unreadable text, no garbled letters, no muddy water, no broken wave physics, no distorted yacht structure, no extra vessels cluttering the frame, no brochure-style promotional overload, no oversaturated tourism aesthetic, no style drift, no AI slop.

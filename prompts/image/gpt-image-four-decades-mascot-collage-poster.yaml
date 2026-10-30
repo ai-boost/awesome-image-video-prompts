@@ -1,0 +1,332 @@
+id: gpt-image-four-decades-mascot-collage-poster
+title:
+  en: Four decades of 1950s to 1980s mascot posters
+  zh: 1950年代至1980年代四格拟人海报
+model: GPT Image 2.5
+mode: text-to-image
+category: poster
+tags:
+- retro
+- collage
+- mascot
+- decades
+source:
+  name: '@Gdgtify on X'
+  url: https://x.com/Gdgtify/status/2114623314471628855
+  credit: Gadgetify
+  likes: 16
+  captured: '2026-10-29'
+  posted: '2026-10-26'
+notes:
+  en: The template fills fixed slots with the topic and locks in a mascot, collage body, and typography spec. Asking for four decades in one 16:9 frame keeps all four panels in one consistent style.
+  zh: 模板把主题填入固定槽位，并锁定吉祥物、拼贴身体和字体规范。要求在一张16:9画面中呈现四个年代，使四个画面保持统一风格。
+prompt: |
+  This prompt is super long but does a lot of things to generate these cute, colorful images. Tested with GPT 2.5
+
+  16:9, do this for 4 famous decades: <PERSONIFIED_COLLAGE_POSTER_GENERATOR>
+
+  INPUT:
+  [TOPIC] = "AI_INFER or USER_INPUT"
+  [OPTIONAL_SUBTITLE] = "AI_INFER"
+  [ERA_OR_CONTEXT] = "AI_INFER"
+  [FORMAT] = "portrait poster, 2:3 unless otherwise specified"
+  GOAL:
+  Create a playful editorial poster where [TOPIC] is personified as one dominant friendly mascot whose entire body becomes a dense visual collage explaining the subject.
+  The image should feel like:
+  mid-century children's book illustration
+  × contemporary editorial vector art
+  × travel-poster composition
+  × paper-cut collage
+  × kawaii iconography
+  × bold graphic branding
+  SEMANTIC INFERENCE
+  Analyze [TOPIC] and automatically infer:
+
+  CORE_IDENTITY =
+  the single most recognizable visual symbol, figure, object, monument, product, invention, person archetype, or cultural icon associated with [TOPIC].
+  VISUAL_WORLD =
+  the environment most strongly associated with [TOPIC].
+
+  PRIMARY_ELEMENTS =
+  6–10 instantly recognizable large-scale elements that explain [TOPIC].
+  SECONDARY_ELEMENTS =
+  8–16 smaller supporting objects, foods, tools, artifacts, products, vehicles, symbols, locations, signs, fauna, technologies, or cultural references.
+  TEXT_ELEMENTS =
+  2–5 real labels, dates, street signs, product names, slogans, event names, terminology, or factual phrases strongly associated with [TOPIC].
+  PALETTE =
+  4–7 saturated colors semantically derived from [TOPIC], plus black and warm cream.
+  MOOD =
+  AI_INFER the emotional tone:
+  joyful / optimistic / nostalgic / adventurous / celebratory / curious / energetic / whimsical.
+  MASTER MASCOT
+  Create one dominant anthropomorphic mascot based on CORE_IDENTITY.
+
+  The mascot must:
+
+  occupy roughly 55–70% of the composition
+
+  have simple friendly facial geometry
+
+  use large circular eyes with black pupils
+
+  have a tiny simple nose
+  have a curved friendly smile
+
+  have a readable silhouette from a distance
+  feel charming rather than childish
+
+  have expressive but simple arms and legs
+  use a confident, iconic pose
+
+  IMPORTANT:
+  The mascot itself must visually embody [TOPIC].
+  Do NOT place a generic human in front of the subject.
+
+  Instead:
+  SUBJECT → CHARACTER.
+  Examples:
+  city → personified landmark
+  company → personified logo/product ecosystem
+  historical event → symbolic participant/object
+  decade → archetypal person wearing the decade
+  scientific idea → personified scientific symbol
+  country → personified national icon
+  industry → personified machine/tool/object
+  philosophy → personified symbolic figure
+  technology → personified device/system
+
+  COLLAGE-BODY LOGIC
+  The mascot's clothing, torso, body, cape, dress, jacket, backpack, helmet, or silhouette must become a miniature collage of [TOPIC].
+
+  Within the body, integrate:
+  architecture
+  landscapes
+
+  products
+
+  inventions
+
+  people
+
+  transportation
+
+  cultural objects
+
+  maps
+  roads
+  screens
+  patterns
+  famous scenes
+  relevant environments
+  The collage must feel BUILT INTO the mascot, not pasted on top.
+  Rule:
+  BODY = VISUAL DATABASE OF [TOPIC]
+  Use overlapping layers but preserve a clean overall silhouette.
+
+  ANTHROPOMORPHIC SUPPORTING ICONS
+  Select 4–8 SECONDARY_ELEMENTS and turn them into cute supporting characters.
+
+  Each supporting object gets:
+
+  two dot/circular eyes
+  tiny smile
+
+  optional tiny limbs
+  one clear pose or action
+  Characters should actively interact with the main mascot.
+  Examples:
+  walking
+  waving
+  holding a prop
+  leaning
+  driving
+  carrying
+  looking upward
+  celebrating
+  working
+  dancing
+  pointing
+  presenting information
+  They must all be unmistakably relevant to [TOPIC].
+  NO random decoration.
+  ENVIRONMENTAL COLLAGE
+  Build the surrounding scene using PRIMARY_ELEMENTS.
+  Arrange them as:
+  foreground icons
+  midground subject-world
+  background skyline/environment
+  Use simplified but recognizable forms.
+
+  The entire scene should read instantly as [TOPIC] before the viewer reads the title.
+
+  Density should be high but organized.
+
+  TYPOGRAPHIC TITLE
+
+  At the bottom, place:
+
+  "[TOPIC_DISPLAY_NAME]"
+
+  Typography:
+  enormous carnival-style block lettering
+  chunky uppercase display type
+  slightly irregular hand-built geometry
+  two-color treatment
+  thick dark offset drop shadow
+  strong dimensional graphic illusion
+  no gradients
+  extremely legible
+  Optional:
+  add [OPTIONAL_SUBTITLE] as a small secondary line.
+  Below the main title:
+  add a tiny silhouette strip / skyline / symbolic footer representing [TOPIC].
+  AUTHENTIC MICRO-TEXT
+  Use TEXT_ELEMENTS sparingly on environmental props.
+
+  Examples:
+  street signs
+  building plaques
+  transit signs
+  labels
+  dates
+  mission names
+  product names
+  technical markings
+  historical locations
+
+  Only use real or historically/contextually correct terminology.
+  Avoid:
+  lorem ipsum
+  fake street names
+  random numbers
+  meaningless text
+
+  VISUAL STYLE
+
+  STYLE =
+  flat geometric illustration
+
+  paper-cut collage
+
+  mid-century editorial art
+
+  1960s/1970s children's-book simplicity
+
+  contemporary graphic poster design
+
+  kawaii character design
+  screen-printed texture
+  subtle paper grain
+  SHAPES:
+  simple
+  chunky
+  rounded
+  clean
+  highly readable
+
+  COLOR:
+  saturated primary/secondary colors
+  warm cream background
+  deep navy or black shadows/outlines
+  strategic red/yellow/blue/green accents
+
+  TEXTURE:
+  subtle fibrous paper
+  light screen-print misregistration
+  soft analog grain
+  no glossy digital gradients
+  COMPOSITION
+  Use a strong vertical hierarchy:
+  TOP:
+  floating icons / atmospheric shapes / semantic symbols
+  UPPER CENTER:
+  mascot head + iconic object
+  CENTER:
+  large character body containing the topic collage
+  SIDES:
+  anthropomorphic supporting symbols and authentic props
+  LOWER CENTER:
+  dense environment / city / event / product ecosystem
+  BOTTOM:
+  massive title
+  FOOTER:
+  small symbolic silhouette strip
+  Keep the overall silhouette roughly triangular or tapered:
+  wide bottom → narrower upper body → strong focal head.
+  QUALITY CONTROL
+  MAXIMIZE:
+  subject recognizability
+  mascot charm
+  semantic density
+  visual storytelling
+  title readability
+  clean silhouette
+  authentic details
+  topic-specific symbolism
+  color harmony
+  editorial polish
+
+  REQUIRE:
+  every major element relates directly to [TOPIC]
+  main mascot is visually derived from [TOPIC]
+  mascot body contains an integrated collage
+  at least 4 anthropomorphic supporting icons
+  title is huge and readable
+  background remains warm and uncluttered
+  illustration stays flat and graphic
+
+  REJECT IF:
+  generic human character
+  random icons
+  unrelated decoration
+  plain clothing
+  photorealism
+  3D render
+  glossy CGI
+  gradients
+  dark background
+  thin typography
+  faceless supporting icons
+  generic skyline
+  generic props
+  pasted-on collage
+  visual clutter obscuring mascot
+  unreadable title
+
+  AI AUTOFILL LOGIC
+
+  If only [TOPIC] is supplied:
+
+  AI must automatically infer:
+  CORE_IDENTITY
+  VISUAL_WORLD
+  PRIMARY_ELEMENTS
+  SECONDARY_ELEMENTS
+  TEXT_ELEMENTS
+  PALETTE
+  MOOD
+  TITLE TREATMENT
+  MASCOT ARCHETYPE
+  BODY COLLAGE CONTENT
+  SUPPORTING CHARACTERS
+  BACKGROUND SCENE
+  FOOTER SYMBOLS
+
+  Prioritize the most culturally recognizable and visually distinctive interpretation over obscure references.
+
+  FINAL RENDER
+  Render as an award-winning editorial poster illustration.
+  Crisp vector-like edges.
+  Subtle physical paper texture.
+  High visual density but excellent hierarchy.
+  Cute without becoming juvenile.
+  Stylized without becoming generic.
+  Immediately understandable at thumbnail size.
+  Rich enough to reward close inspection.
+  No photography.
+  No realistic 3D.
+  No generic stock-vector look.
+  No unnecessary empty space.
+  No visual elements unrelated to [TOPIC].
+
+  </PERSONIFIED_COLLAGE_POSTER_GENERATOR>

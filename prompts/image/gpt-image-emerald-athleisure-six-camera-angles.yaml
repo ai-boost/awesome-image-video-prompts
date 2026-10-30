@@ -1,0 +1,62 @@
+id: gpt-image-emerald-athleisure-six-camera-angles
+title:
+  en: Six camera angles of one model in green athleisure
+  zh: 同一模特六种机位的绿色运动套装
+model: GPT Image 2.5
+mode: text-to-image
+category: collage
+tags:
+- fashion
+- reference-sheet
+- multi-angle
+- athleisure
+source:
+  name: '@Just_Anika_Here on X'
+  url: https://x.com/Just_Anika_Here/status/2115679456140702100
+  credit: Anika
+  likes: 340
+  captured: '2026-10-29'
+  posted: '2026-10-29'
+notes:
+  en: The face, hair and wardrobe are locked in one shared identity block, then only the camera position changes per panel, so the six frames read as one shoot. A fixed studio light plus an explicit 2 by 3 grid with thin white gutters keeps exposure and layout consistent across panels.
+  zh: 在一段共享的身份描述中锁定脸部、发型和服装，再逐格只改变机位，让六张图看起来像同一次拍摄。固定的棚拍光线加上明确的 2 乘 3 网格和细白间距，使曝光与版式在各格之间保持一致。
+prompt: |
+  Create an ultra-luxurious fashion editorial reference sheet featuring the exact same adult European female fashion model in six distinct camera perspectives, arranged in a perfectly aligned 2-column × 3-row grid. The entire composition takes place in a seamless warm ivory studio with a subtle creamy gradient, sophisticated negative space, and a refined high-fashion magazine aesthetic.
+
+  MODEL IDENTITY — LOCKED ACROSS ALL SIX PANELS
+
+  A tall, slender European runway model with porcelain-fair skin, sculpted cheekbones, a refined oval face, expressive hazel-green eyes, naturally defined eyebrows, soft rose-pink lips, an elegant jawline, and realistic skin texture. Shoulder-length dark chestnut hair with natural waves, a subtle off-center part, and delicate flyaway strands. Understated makeup, luminous skin, and a composed, quietly confident expression.
+
+  Maintain precisely the same face, eye color, hairstyle, hair length, skin tone, age, body proportions, and identity in every panel. She must look like one real person photographed during a single luxury fashion shoot, not six similar-looking models.
+
+  WARDROBE AND STYLING
+
+  A sophisticated emerald-green luxury athleisure ensemble featuring a sculpted fitted sports bra and matching high-waisted leggings. Premium technical fabric with a subtle satin sheen, realistic stretch, refined seams, natural fabric tension, and impeccable tailoring. Minimalist styling with no jewelry, accessories, visible branding, or distracting details.
+
+  SIX DISTINCT CAMERA PERSPECTIVES
+
+  Panel 1 — Classic Editorial Portrait:
+  Eye-level camera, straight-on perspective, centered composition, balanced facial proportions, relaxed shoulders, and direct eye contact. Establish the model's definitive visual identity.
+  Panel 2 — Powerful Low-Angle Portrait:
+  Camera positioned below waist level and tilted slightly upward toward the model. Elongated silhouette, confident posture, dramatic runway presence, and a sophisticated sense of power. Preserve realistic anatomy and natural facial proportions.
+
+  Panel 3 — Elevated High-Angle Portrait:
+  Camera positioned above the model, looking downward at approximately 40 degrees. The model raises her gaze toward the lens, creating an elegant, intimate editorial composition with natural perspective distortion.
+  Panel 4 — Artistic Dutch Angle:
+  Camera rotated approximately 20 degrees clockwise. The model maintains a poised, confident stance while the diagonal composition introduces visual tension, modern magazine energy, and a contemporary luxury-campaign aesthetic.
+
+  Panel 5 — Direct Overhead Perspective:
+  True bird's-eye camera positioned vertically above the model, pointing straight down at 90 degrees. The model looks directly upward into the lens. Her shoulders, torso, hair, and outfit are arranged naturally within the frame. Accurate overhead geometry, no artificial stretching.
+  Panel 6 — Extreme Floor-Level Perspective:
+  True worm's-eye viewpoint with the camera positioned almost at floor level, pointing upward. The model looks down toward the lens with calm confidence. Strong architectural perspective, elegant silhouette, believable proportions, and dramatic fashion-editorial depth.
+
+  PHOTOGRAPHIC DIRECTION
+  High-end European luxury fashion campaign, contemporary Vogue-inspired editorial photography, rich emerald-green color against warm ivory, natural skin microtexture, realistic pores, fine hair detail, lifelike eyes, physically accurate fabric reflections, sophisticated tonal contrast, soft directional studio key light, delicate rim lighting, subtle contact shadows, controlled highlights, and cinematic color science.
+
+  Simulate a professional full-frame camera with an 85mm portrait lens aesthetic for standard views, intelligently adapting focal length and camera distance for overhead and extreme low-angle perspectives. Maintain consistent studio lighting, exposure, white balance, wardrobe color, and overall visual identity across all six photographs.
+  Photorealistic commercial photography, premium art direction, refined retouching without plastic skin, anatomically accurate body structure, crisp subject detail, realistic perspective, exceptionally high image quality.
+
+  GRID AND COMPOSITION
+  Exactly six individual photographs in a clean 2-column × 3-row contact sheet. Equal-sized rectangular panels, consistent aspect ratios, perfectly straight alignment, uniform gutters, thin white spacing, and a balanced overall silhouette. Every panel must read as a separate photograph from the same shoot, with camera position as the primary variable.
+
+  Maintain a cohesive luxury editorial appearance throughout. No panel overlap, no inconsistent crops, no random pose changes, and no visual distractions.

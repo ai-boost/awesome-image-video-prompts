@@ -1,0 +1,43 @@
+id: gpt-image-tidal-index-coastline-poster
+title:
+  en: Japanese tide index poster of a coastline
+  zh: 日式潮汐索引海岸海报
+model: GPT Image 2.5
+mode: text-to-image
+category: poster
+tags:
+- japanese-style
+- poster
+- tide
+- nature-observation
+source:
+  name: '@MrLarus on X'
+  url: https://x.com/MrLarus/status/2115477621920374895
+  credit: Larus Canus
+  likes: 50
+  captured: '2026-10-29'
+  posted: '2026-10-28'
+notes:
+  en: A fill-in template with slots for subject, observation method, title, palette and exhibition details, so one prompt yields a whole series. It asks for an enlarged central subject, close-up observation nodes joined by fine guide lines, and a vertical title with English subtitles, which creates the scale contrast and editorial rhythm.
+  zh: 这是一个带填空槽位的模板，可填入主题、观察方式、标题、配色和展览信息，一套提示词能批量生成系列海报。提示词要求主体放大居中，周围用细引线连接观察节点，并配竖排大标题与英文副标题，形成大小尺度的对比。
+prompt: |
+  Observation Subject: [Fill in Subject]
+  Core Natural Object: [Fill in Object]
+  Primary Observation Method: [Cross-Section Structure / Cyclic Changes / Movement Trajectory / Natural Texture]
+  Main Title: [Fill in Title]
+  Main Color Scheme: [Fill in Color Palette]
+  Exhibition Information: [Fill in Date, Location, etc.]
+
+  Create a 9:16 vertical Japanese-style natural observation art poster, blending natural history illustrations, scientific infographics, vintage printing, and modern exhibition design. Transform natural phenomena into visual works that combine artistic beauty with observational value.
+
+  Enlarge the core natural object significantly to make it the primary visual focus of the composition. Based on the theme, select methods such as cross-section, cycle, flow trajectory, or morphological changes to showcase the object's most distinctive features.
+
+  Surround the main subject with close-up magnifications, observation nodes, fine guiding lines, scales, and structural annotations. The information should have clear logical relationships, allowing viewers to follow the composition's reading path to understand the natural object.
+
+  Use an off-white aged paper background overall, paired with natural-themed primary colors and a few accent hues. Through soft color gradients, intricate hand-drawn lines, and vintage printing textures, evoke a timeless natural specimen atlas style.
+
+  The composition must balance large-scale subjects with minute details, creating a striking scale contrast. Auxiliary graphics, recording lines, and explanatory text should distribute naturally along the subject's structure, maintaining the precise order characteristic of scientific illustrations.
+
+  Typography should integrate large Chinese or Japanese titles, English subtitles, vertical explanatory notes, and small observation labels. Text content must align with the theme, avoiding arbitrary inclusion of meaningless scientific jargon or fabricated data.
+
+  The final composition should convey the rigor of natural observation, the visual impact of an art poster, and the maturity of editorial design. Avoid ordinary textbook layouts, mechanical chart stacking, and overly realistic commercial photography effects.

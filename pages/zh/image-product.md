@@ -1,6 +1,6 @@
 # 产品图与电商
 
-[返回目录](../../README_zh.md) · 全部 70 条
+[返回目录](../../README_zh.md) · 全部 72 条
 
 <a id="gpt-image-giant-pepsi-can-seated-model-ad"></a>
 ### 女性倚靠巨型百事可乐罐广告
@@ -1355,6 +1355,27 @@ in the form of a miniature diorama landscape.
 
 </details>
 
+<a id="nano-banana-snow-globe-cave-glow"></a>
+### 木桌上发光蓝色洞穴水晶球
+
+<a href="https://x.com/GlennHasABeard/status/2036798472645435706"><img src="../../previews/nano-banana-snow-globe-cave-glow.jpg" width="360"></a>
+
+固定的产品摄影框架（微距、85mm、浅景深、深色背景），用方括号占位填入场景，替换环境和光色即可保持同样的棚拍质感。颜色词决定穿过玻璃照到桌面的光晕。
+
+Nano Banana 2 · 文生图 · 出处: [@GlennHasABeard on X](https://x.com/GlennHasABeard/status/2036798472645435706) · 45 赞，统计于 2026-10-29
+
+[`snow-globe`](tags.md#tag-snow-globe) [`macro`](tags.md#tag-macro) [`product-photo`](tags.md#tag-product-photo) [`template`](tags.md#tag-template)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A glass snow globe sitting on a dark wooden table, inside the globe a complete miniature [NATURAL ENVIRONMENT] with [DOMINANT VEGETATION] and [CANOPY/COVER TYPE], [LIGHT SOURCE] filtering through the [VEGETATION] creating [VOLUMETRIC LIGHT EFFECT] inside the glass, tiny [GROUND DETAIL 1] and [GROUND DETAIL 2] covering the [ENVIRONMENT] floor, the [COLOR] light casts a [COLOR BLEND] glow through the glass onto the table surface, macro photography, 85mm lens, shallow depth of field, dark moody background, atmospheric haze, professional product photography
+
+Made in Adobe Firefly with Nano Banana 2
+```
+
+</details>
+
 <a id="nano-banana-manga-creator-toy-box-grid"></a>
 ### 四位漫画家的玩具手办，作品从包装盒中跃出
 
@@ -1372,6 +1393,27 @@ Nano Banana 2.1 · 文生图 · 出处: [@Gdgtify on X](https://x.com/Gdgtify/st
 Same manga prompt I did with Nano Banana 2.1 but this time with GPT 2.5
 
 Prompt: 2x2 grid, modify this prompt do this for 4 famous founding fathers, 2x2 grid, 16:9, do this for 4 famous manga: B₁  CREATOR FIGURE AT CRAFT (master)   a stylized 3D figurine of the creator at their craft station (drafting desk, pen,       tablet, typewriter) in a focused working pose; toy/vinyl material.   ¬B₁ = no figure / realistic human / idle figure / no craft station. B₂  OWN PACKAGING IN COMPOSITION   the creator's retail box — title + box art depicting the creator — present in‑frame as       a set piece; figure and box art share the same character design.   ¬B₂ = no box / box unrelated / box art ≠ figure. B₃  CREATIONS ESCAPE THE BOX   the works the creator made (characters/creatures/panels) burst OUT of the box art into 3D       space in dynamic poses; ≥2 escapees.   ¬B₃ = creations static on the box / no escape / creations unrelated to the creator. B₄  CRAFT ARTIFACTS ORBIT   floating artifacts of the craft (pages/panels, ink bottles, erasers, crumpled drafts, sprites)       suspended around, implying a stopped moment.   ¬B₄ = no artifacts / artifacts resting on ground / unrelated props. B₅  STUDIO TOY PRESENTATION   clean neutral studio background, soft light, collectible‑figure render quality, legible box       title.   ¬B₅ = busy background / flat render / illegible title / harsh light. η   HONEST TOY   vinyl/plastic sheen, box print texture, panel linework legible. FORBIDDEN = realistic human · no box · box art mismatch · static creations · no escape · no artifacts · busy bg · illegible title · flat render
+```
+
+</details>
+
+<a id="gpt-image-snow-globe-brand-store"></a>
+### 星巴克门店雪花球
+
+<a href="https://x.com/MrDasCreates/status/2109675383721476180"><img src="../../previews/gpt-image-snow-globe-brand-store.jpg" width="360"></a>
+
+模板只需填入品牌名，同时锁定标志性建筑和 logo，再围绕它搭建冬季街景。暖色窗光与冷色雪景形成对比，小人物提供比例参照，玻璃反光和木质底座则让微缩场景有高端产品摄影的质感。
+
+GPT Image 2.5 · 文生图 · 出处: [@MrDasCreates on X](https://x.com/MrDasCreates/status/2109675383721476180) · 9 赞，统计于 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`snow-globe`](tags.md#tag-snow-globe) [`miniature`](tags.md#tag-miniature) [`brand`](tags.md#tag-brand)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+GPT Image 2.5 turns any brand into a magical little world inside a snow globe.
+
+“A highly detailed miniature [STORE / BRAND] store inside a beautiful glass snow globe. Signature architecture + logo preserved. Cozy winter street scene with snow-covered trees, tiny street lamps, benches, bicycles and miniature brand props. Warm glowing windows contrasting with the cool snowy environment, 1–2 tiny people for scale. Realistic glass reflections, delicate falling snow, handcrafted miniature details, wooden base, cinematic product photography, soft studio lighting, cream background, whimsical yet premium, 4:5.”
 ```
 
 </details>

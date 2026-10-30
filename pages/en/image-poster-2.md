@@ -1,6 +1,936 @@
 # Posters and editorial layouts
 
-[Back to the list](../../README.md) · All 189 entries · [1](image-poster.md) · **2**
+[Back to the list](../../README.md) · All 195 entries · [1](image-poster.md) · **2**
+
+<a id="gpt-image-move-breakdance-poster"></a>
+### Breakdancer crashing through giant MOVE letters
+
+<a href="https://x.com/MrLarus/status/2115472681206518096"><img src="../../previews/gpt-image-move-breakdance-poster.jpg" width="360"></a>
+
+A fill-in template that names one technique, giant letter interspersion, and asks the subject and the oversized title to overlap rather than sit on top. The limited palette, cream paper and misregistration cues give it a printed exhibition-poster feel.
+
+GPT Image 2.5 · Text-to-image · Source: [@MrLarus on X](https://x.com/MrLarus/status/2115472681206518096) · 21 likes on 2026-10-29
+
+[`poster`](tags.md#tag-poster) [`typography`](tags.md#tag-typography) [`japanese-design`](tags.md#tag-japanese-design) [`template`](tags.md#tag-template)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Poster Theme: [Fill in Theme]
+Main Title: [Fill in Title]
+Subtitle: [Fill in Subtitle]
+Core Visual Elements: [Fill in Main Subject]
+Visual Design Technique: [Giant Letter Interspersion / Overprinting Misalignment / Letterform Labyrinth / Geometric Refraction, Choose One]
+Primary Color Scheme: [Fill in Color Palette]
+Exhibition Information: [Fill in Date, Location, etc.]
+
+Design a 9:16 vertical Japanese experimental art poster that fuses Japanese retro graphic design, modern typeface experimentation, and art exhibition visuals. The overall piece should feature a distinct design language, like a professionally laid-out independent art exhibition poster.
+
+Use an oversized title as the primary visual structure of the composition, creating a tangible spatial relationship between the text and core elements. Through interspersion, occlusion, overprinting misalignment, or letterform distortion, craft surprising yet logical visual effects.
+
+The main subject and typography should influence each other, rather than simply being layered on top. Enlarge the most expressive letters or characters, using cropping, overlapping, and scale contrast to ensure viewers immediately spot the visual focal point.
+
+Employ a limited palette of high-contrast colors, paired with a cream-colored aged paper background, natural ink speckles, and vintage printing texture. Subtle areas of color misregistration, edge wear, and silkscreen grain can be retained locally.
+
+Typography should blend large English titles, vertical Chinese or Japanese text, refined English subtitles, and exhibition details. Establish a clear reading hierarchy through font size, weight, and whitespace.
+
+Auxiliary text, geometric markers, and fine lines can be distributed along the edges, but they must revolve around the theme. The composition should feel information-rich while maintaining a clear visual center and comfortable reading rhythm.
+
+The overall image needs to evoke a complete sense of an artwork with strong thumbnail recognizability. Highlight just one core visual technique per piece, avoiding cluttered elements, garbled text, cheap effects, or ordinary text overlays.
+```
+
+</details>
+
+<a id="gpt-image-four-decades-mascot-collage-poster"></a>
+### Four decades of 1950s to 1980s mascot posters
+
+<a href="https://x.com/Gdgtify/status/2114623314471628855"><img src="../../previews/gpt-image-four-decades-mascot-collage-poster.jpg" width="360"></a>
+
+The template fills fixed slots with the topic and locks in a mascot, collage body, and typography spec. Asking for four decades in one 16:9 frame keeps all four panels in one consistent style.
+
+GPT Image 2.5 · Text-to-image · Source: [@Gdgtify on X](https://x.com/Gdgtify/status/2114623314471628855) · 16 likes on 2026-10-29
+
+[`retro`](tags.md#tag-retro) [`collage`](tags.md#tag-collage) [`mascot`](tags.md#tag-mascot) [`decades`](tags.md#tag-decades)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+This prompt is super long but does a lot of things to generate these cute, colorful images. Tested with GPT 2.5
+
+16:9, do this for 4 famous decades: <PERSONIFIED_COLLAGE_POSTER_GENERATOR>
+
+INPUT:
+[TOPIC] = "AI_INFER or USER_INPUT"
+[OPTIONAL_SUBTITLE] = "AI_INFER"
+[ERA_OR_CONTEXT] = "AI_INFER"
+[FORMAT] = "portrait poster, 2:3 unless otherwise specified"
+GOAL:
+Create a playful editorial poster where [TOPIC] is personified as one dominant friendly mascot whose entire body becomes a dense visual collage explaining the subject.
+The image should feel like:
+mid-century children's book illustration
+× contemporary editorial vector art
+× travel-poster composition
+× paper-cut collage
+× kawaii iconography
+× bold graphic branding
+SEMANTIC INFERENCE
+Analyze [TOPIC] and automatically infer:
+
+CORE_IDENTITY =
+the single most recognizable visual symbol, figure, object, monument, product, invention, person archetype, or cultural icon associated with [TOPIC].
+VISUAL_WORLD =
+the environment most strongly associated with [TOPIC].
+
+PRIMARY_ELEMENTS =
+6–10 instantly recognizable large-scale elements that explain [TOPIC].
+SECONDARY_ELEMENTS =
+8–16 smaller supporting objects, foods, tools, artifacts, products, vehicles, symbols, locations, signs, fauna, technologies, or cultural references.
+TEXT_ELEMENTS =
+2–5 real labels, dates, street signs, product names, slogans, event names, terminology, or factual phrases strongly associated with [TOPIC].
+PALETTE =
+4–7 saturated colors semantically derived from [TOPIC], plus black and warm cream.
+MOOD =
+AI_INFER the emotional tone:
+joyful / optimistic / nostalgic / adventurous / celebratory / curious / energetic / whimsical.
+MASTER MASCOT
+Create one dominant anthropomorphic mascot based on CORE_IDENTITY.
+
+The mascot must:
+
+occupy roughly 55–70% of the composition
+
+have simple friendly facial geometry
+
+use large circular eyes with black pupils
+
+have a tiny simple nose
+have a curved friendly smile
+
+have a readable silhouette from a distance
+feel charming rather than childish
+
+have expressive but simple arms and legs
+use a confident, iconic pose
+
+IMPORTANT:
+The mascot itself must visually embody [TOPIC].
+Do NOT place a generic human in front of the subject.
+
+Instead:
+SUBJECT → CHARACTER.
+Examples:
+city → personified landmark
+company → personified logo/product ecosystem
+historical event → symbolic participant/object
+decade → archetypal person wearing the decade
+scientific idea → personified scientific symbol
+country → personified national icon
+industry → personified machine/tool/object
+philosophy → personified symbolic figure
+technology → personified device/system
+
+COLLAGE-BODY LOGIC
+The mascot's clothing, torso, body, cape, dress, jacket, backpack, helmet, or silhouette must become a miniature collage of [TOPIC].
+
+Within the body, integrate:
+architecture
+landscapes
+
+products
+
+inventions
+
+people
+
+transportation
+
+cultural objects
+
+maps
+roads
+screens
+patterns
+famous scenes
+relevant environments
+The collage must feel BUILT INTO the mascot, not pasted on top.
+Rule:
+BODY = VISUAL DATABASE OF [TOPIC]
+Use overlapping layers but preserve a clean overall silhouette.
+
+ANTHROPOMORPHIC SUPPORTING ICONS
+Select 4–8 SECONDARY_ELEMENTS and turn them into cute supporting characters.
+
+Each supporting object gets:
+
+two dot/circular eyes
+tiny smile
+
+optional tiny limbs
+one clear pose or action
+Characters should actively interact with the main mascot.
+Examples:
+walking
+waving
+holding a prop
+leaning
+driving
+carrying
+looking upward
+celebrating
+working
+dancing
+pointing
+presenting information
+They must all be unmistakably relevant to [TOPIC].
+NO random decoration.
+ENVIRONMENTAL COLLAGE
+Build the surrounding scene using PRIMARY_ELEMENTS.
+Arrange them as:
+foreground icons
+midground subject-world
+background skyline/environment
+Use simplified but recognizable forms.
+
+The entire scene should read instantly as [TOPIC] before the viewer reads the title.
+
+Density should be high but organized.
+
+TYPOGRAPHIC TITLE
+
+At the bottom, place:
+
+"[TOPIC_DISPLAY_NAME]"
+
+Typography:
+enormous carnival-style block lettering
+chunky uppercase display type
+slightly irregular hand-built geometry
+two-color treatment
+thick dark offset drop shadow
+strong dimensional graphic illusion
+no gradients
+extremely legible
+Optional:
+add [OPTIONAL_SUBTITLE] as a small secondary line.
+Below the main title:
+add a tiny silhouette strip / skyline / symbolic footer representing [TOPIC].
+AUTHENTIC MICRO-TEXT
+Use TEXT_ELEMENTS sparingly on environmental props.
+
+Examples:
+street signs
+building plaques
+transit signs
+labels
+dates
+mission names
+product names
+technical markings
+historical locations
+
+Only use real or historically/contextually correct terminology.
+Avoid:
+lorem ipsum
+fake street names
+random numbers
+meaningless text
+
+VISUAL STYLE
+
+STYLE =
+flat geometric illustration
+
+paper-cut collage
+
+mid-century editorial art
+
+1960s/1970s children's-book simplicity
+
+contemporary graphic poster design
+
+kawaii character design
+screen-printed texture
+subtle paper grain
+SHAPES:
+simple
+chunky
+rounded
+clean
+highly readable
+
+COLOR:
+saturated primary/secondary colors
+warm cream background
+deep navy or black shadows/outlines
+strategic red/yellow/blue/green accents
+
+TEXTURE:
+subtle fibrous paper
+light screen-print misregistration
+soft analog grain
+no glossy digital gradients
+COMPOSITION
+Use a strong vertical hierarchy:
+TOP:
+floating icons / atmospheric shapes / semantic symbols
+UPPER CENTER:
+mascot head + iconic object
+CENTER:
+large character body containing the topic collage
+SIDES:
+anthropomorphic supporting symbols and authentic props
+LOWER CENTER:
+dense environment / city / event / product ecosystem
+BOTTOM:
+massive title
+FOOTER:
+small symbolic silhouette strip
+Keep the overall silhouette roughly triangular or tapered:
+wide bottom → narrower upper body → strong focal head.
+QUALITY CONTROL
+MAXIMIZE:
+subject recognizability
+mascot charm
+semantic density
+visual storytelling
+title readability
+clean silhouette
+authentic details
+topic-specific symbolism
+color harmony
+editorial polish
+
+REQUIRE:
+every major element relates directly to [TOPIC]
+main mascot is visually derived from [TOPIC]
+mascot body contains an integrated collage
+at least 4 anthropomorphic supporting icons
+title is huge and readable
+background remains warm and uncluttered
+illustration stays flat and graphic
+
+REJECT IF:
+generic human character
+random icons
+unrelated decoration
+plain clothing
+photorealism
+3D render
+glossy CGI
+gradients
+dark background
+thin typography
+faceless supporting icons
+generic skyline
+generic props
+pasted-on collage
+visual clutter obscuring mascot
+unreadable title
+
+AI AUTOFILL LOGIC
+
+If only [TOPIC] is supplied:
+
+AI must automatically infer:
+CORE_IDENTITY
+VISUAL_WORLD
+PRIMARY_ELEMENTS
+SECONDARY_ELEMENTS
+TEXT_ELEMENTS
+PALETTE
+MOOD
+TITLE TREATMENT
+MASCOT ARCHETYPE
+BODY COLLAGE CONTENT
+SUPPORTING CHARACTERS
+BACKGROUND SCENE
+FOOTER SYMBOLS
+
+Prioritize the most culturally recognizable and visually distinctive interpretation over obscure references.
+
+FINAL RENDER
+Render as an award-winning editorial poster illustration.
+Crisp vector-like edges.
+Subtle physical paper texture.
+High visual density but excellent hierarchy.
+Cute without becoming juvenile.
+Stylized without becoming generic.
+Immediately understandable at thumbnail size.
+Rich enough to reward close inspection.
+No photography.
+No realistic 3D.
+No generic stock-vector look.
+No unnecessary empty space.
+No visual elements unrelated to [TOPIC].
+
+</PERSONIFIED_COLLAGE_POSTER_GENERATOR>
+```
+
+</details>
+
+<a id="gpt-image-four-decades-retro-posters"></a>
+### Four retro posters for the 1920s to 1990s
+
+<a href="https://x.com/Gdgtify/status/2115289705851879927"><img src="../../previews/gpt-image-four-decades-retro-posters.jpg" width="360"></a>
+
+A fill-in subject slot lets one template yield a whole series, and fixed rules for the hero, icon set, title and palette keep every decade in the same retro poster system. The 4:5 header sets the tall panel format.
+
+GPT Image 2.5 · Text-to-image · Source: [@Gdgtify on X](https://x.com/Gdgtify/status/2115289705851879927) · 16 likes on 2026-10-29
+
+[`retro-poster`](tags.md#tag-retro-poster) [`decades`](tags.md#tag-decades) [`collage`](tags.md#tag-collage) [`template`](tags.md#tag-template)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Art movements of different decades. Tested it with GPT 2.5
+
+Prompt: 4 images: 4:5, stunning art movements of different decades: INPUT: $ SUBJECT
+
+Create ONE tall vertical illustrated poster about $ SUBJECT.
+
+The image must automatically reinterpret $ SUBJECT as a playful,
+dense, symbolic character-collage.
+
+────────────────────────────────
+
+SEMANTIC RESEARCH
+
+Analyze $ SUBJECT and infer:
+
+SUBJECT_TYPE =
+    city
+    place
+    historical event
+    decade / era
+    cultural movement
+    invention
+    scientific event
+    person
+    sport
+    country
+    institution
+    technology
+    franchise
+    abstract topic
+    other
+
+TITLE = shortest instantly recognizable name for $ SUBJECT
+
+HERO =
+choose the strongest central character or personification.
+
+HERO may be:
+    a person
+    explorer
+    historical figure
+    citizen
+    mascot
+    profession
+    archetype
+    invented representative character
+
+Do NOT force a person if the subject is better represented by
+an object, machine, animal, landmark, or symbolic figure.
+
+ICON_SET = select 8–16 highly recognizable subject-specific elements.
+
+Possible classes:
+
+    landmarks
+    buildings
+    transportation
+    foods
+    tools
+    inventions
+    animals
+    clothing
+    products
+    documents
+    symbols
+    flags
+    signs
+    machines
+    technologies
+    landscapes
+    historical artifacts
+    cultural objects
+    entertainment objects
+
+SCENE_SET = infer 2–5 important environments or moments.
+
+TEXT_SNIPPETS = infer only a few short useful labels such as:
+
+    dates
+    locations
+    transit names
+    famous phrases
+    event names
+    eras
+    institutions
+
+Never turn the poster into an infographic.
+
+────────────────────────────────
+
+CENTRAL CHARACTER SYSTEM
+
+Create one oversized friendly central character.
+
+Visual anatomy:
+
+            SYMBOL / OBJECT
+       icon      icon      icon
+
+              ◉   ◉
+             CENTRAL
+             CHARACTER
+          ┌─────────────┐
+          │ SUBJECT     │
+          │ WORLD       │
+          │ EMBEDDED    │
+          │ INSIDE BODY │
+          └─────────────┘
+
+     object   landmark   object
+
+             SHOES / BASE
+
+          HUGE TITLE BELOW
+
+The HERO occupies roughly 55–70% of the poster height.
+
+Treat the body as a CONTAINER FOR THE SUBJECT.
+
+Examples:
+
+city →
+cityscape forms torso or clothing
+
+historical event →
+event scene spreads across suit/body
+
+decade →
+fashion, technology and entertainment occupy clothing and surroundings
+
+science →
+equipment, diagrams and discoveries populate body
+
+country →
+landmarks, foods, wildlife and culture become costume
+
+invention →
+components and consequences become surrounding characters
+
+────────────────────────────────
+
+ANTHROPOMORPHIC PROP RULE
+
+Give selected secondary objects:
+
+    oversized googly eyes
+    tiny curved smiles
+    simplified limbs only when useful
+
+Examples:
+
+taxi
+pizza
+planet
+flag
+camera
+cassette
+robot
+rocket
+building
+food
+tool
+
+may become friendly miniature characters.
+
+Do NOT anthropomorphize everything.
+
+Approximately 30–50% of important props may have faces.
+
+This creates the playful children's-editorial feeling.
+
+────────────────────────────────
+
+COMPOSITION
+
+Use a dense vertical pyramid composition.
+
+TOP:
+small floating icons / symbols
+
+UPPER CENTER:
+large hero face
+
+MIDSECTION:
+largest concentration of landmarks,
+objects and subject-specific scenes
+
+LOWER SECTION:
+transportation / food / secondary objects /
+ground-level details
+
+BOTTOM:
+massive subject title
+
+Use overlapping scale changes aggressively.
+
+Objects may float beside the hero.
+
+Buildings may emerge directly from clothing.
+
+Vehicles may drive across the torso.
+
+Landmarks may sit behind the head.
+
+Objects may extend beyond the body silhouette.
+
+The composition should feel like one enormous
+illustrated sticker collage, NOT separate panels.
+
+────────────────────────────────
+
+STYLE
+
+playful mid-century children's editorial illustration
+× contemporary paper-cut collage
+× 1960s educational poster
+× kawaii object character design
+× bold retro souvenir graphics
+
+Use:
+
+flat vector-like shapes
+cut-paper construction
+slightly imperfect handmade geometry
+simple rounded characters
+large circular eyes
+tiny smiling mouths
+minimal noses
+primitive geometric anatomy
+friendly disproportion
+thick simplified silhouettes
+subtle printed-paper grain
+soft screenprint texture
+very restrained shading
+clean crisp edges
+occasional paper overlap
+slight tactile depth
+
+Avoid:
+
+photorealism
+3D CGI
+glossy plastic
+anime rendering
+realistic anatomy
+tiny inaccessible detail
+complex gradients
+heavy shadows
+
+────────────────────────────────
+
+COLOR
+
+Infer a vivid palette from $ SUBJECT.
+
+Prefer:
+
+sunny yellow
+vermillion red
+bright cobalt blue
+leaf green
+turquoise
+warm coral
+black
+cream
+
+Use approximately 5–8 dominant colors.
+
+Colors should feel screenprinted rather than digitally luminous.
+
+Background:
+
+warm ivory / aged cream paper
+with very subtle fibers and speckling.
+
+────────────────────────────────
+
+TYPOGRAPHY
+
+TITLE must be huge.
+
+Use chunky retro display lettering:
+
+bold condensed block letters
+irregular handmade proportions
+slight extrusion or black offset shadow
+high-contrast alternating colors
+
+TITLE should occupy approximately 15–22% of the poster.
+
+Examples of hierarchy:
+
+NEW YORK
+
+THE
+1980s
+
+MOON
+LANDING
+
+Use line breaks based on the semantic rhythm of $ SUBJECT.
+
+Optional tiny decorative motifs around title:
+
+burst rays
+waves
+mini skyline
+sun
+stars
+heart
+simple emblem
+
+Do NOT overload the poster with text.
+
+────────────────────────────────
+
+SUBJECT ADAPTATION
+
+If $ SUBJECT is a CITY:
+
+choose a representative resident or traveler
++
+landmarks
+transit
+food
+street signs
+architecture
+local wildlife
+cultural objects.
+
+If $ SUBJECT is an ERA / DECADE:
+
+choose a person wearing era-specific fashion
++
+technology
+music
+media
+toys
+architecture
+transportation
+consumer objects
+visual motifs.
+
+If $ SUBJECT is a HISTORICAL EVENT:
+
+make the central participant or archetype the hero
++
+date
+key machinery
+symbols
+locations
+participants
+artifacts
+scientific or political context.
+
+If $ SUBJECT is SCIENCE:
+
+choose scientist / explorer / symbolic figure
++
+equipment
+discoveries
+models
+objects
+diagrams
+relevant environments.
+
+If $ SUBJECT is abstract:
+
+invent a visual metaphor first,
+then populate it with concrete symbolic objects.
+
+────────────────────────────────
+
+VISUAL DENSITY
+
+Hero = dominant.
+
+Major subject icons = 6–10.
+
+Minor decorative icons = 4–10.
+
+Every major area of the poster should contain meaningful subject information,
+but retain small breathing spaces between clusters.
+
+The viewer should understand $ SUBJECT
+before reading the title.
+
+────────────────────────────────
+
+FINAL IMAGE
+
+one single vertical poster
+approximately 2:3 aspect ratio
+
+warm cream background
+
+central oversized friendly character
+
+dense subject-specific object collage
+
+several selectively anthropomorphized props
+
+bright retro colors
+
+paper-cut / screenprint texture
+
+massive chunky title at bottom
+
+joyful, educational, collectible,
+instantly readable,
+highly specific to $ SUBJECT.
+
+NO grid.
+NO panels.
+NO generic stock icons.
+NO style-description text inside artwork.
+```
+
+</details>
+
+<a id="gpt-image-grenadye-2026-haiti-poster"></a>
+### Haitian football poster with trophy over three cities
+
+<a href="https://x.com/HaitiBrand/status/2062635338271539656"><img src="../../previews/gpt-image-grenadye-2026-haiti-poster.jpg" width="360"></a>
+
+Splitting the scene into three named city zones, each with a recognisable landmark (carved balconies, hillside houses, fortress on the ridge), gives the paper-collage composition concrete anchors. The matte gold trophy at centre with the exact text 2026 at its base, plus a fixed palette and paper-grain texture, keeps the handmade style consistent.
+
+GPT Image 2 · Text-to-image · Source: [@HaitiBrand on X](https://x.com/HaitiBrand/status/2062635338271539656) · 11 likes on 2026-10-29
+
+[`world-cup`](tags.md#tag-world-cup) [`haiti`](tags.md#tag-haiti) [`paper-collage`](tags.md#tag-paper-collage) [`poster`](tags.md#tag-poster)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a refined panoramic illustration in landscape format for a Haitian football poster titled **« GRENADYE 2026 »**, integrating **Jacmel, Cap-Haïtien, and Port-au-Prince** into a single harmonious scene, with a stylized World Cup trophy fully integrated as the central anchoring point.
+
+Represent Haiti as a calm, elegant national scene, highly stylized, in a pastel poster style using paper collage. Use a wide horizontal composition, with three urban zones gently connected by the Caribbean Sea, mountains, sky, and colorful paper cutouts.
+
+Left zone: **Jacmel**, with historic gingerbread architecture, pastel colonial facades, ornate wooden balconies, decorative details, palm trees, seaside artistic culture, accents inspired by carnival masks, small artists, boats, and warm coastal streets.
+
+Central zone: **Port-au-Prince**, with overlapping hillside neighborhoods, colorful geometric houses, palm-lined boulevards, harbor water, subtle mountainous background, civic architecture, small market characters, Haitian art motifs, and an open square that anchors the trophy.
+
+Right zone: **Cap-Haïtien**, with the Citadelle Laferrière as a fortress silhouette on a distant green ridge, the Sans-Souci palace suggested by light stone arches, coastal colonial architecture, turquoise bay, fishing boats, palm trees, and small characters celebrating football.
+
+Place at the center a recognizable but stylized World Cup trophy, rendered as a monumental paper collage sculpture in matte gold, with simplified globe forms, abstract curves inspired by football, slightly raised edges, embossed outlines, and delicate shadows. Add the numbers **« 2026 »** near the base. Do not use official FIFA logos or team logos.
+
+Add subtle details of Haitian football celebration: small characters with red and blue accents, small Haitian flags, abstract balloons, muted Haitian blue and red graphic ribbons, and a controlled festive energy in the foreground.
+
+Palette: soft sky blue, misty blue-gray, pale cobalt, muted sage green, powdered mint, warm cream, light beige, pale stone gray, dusty coral, soft peach, faded yellow, off-white, washed turquoise, sunlit terracotta, Haitian blue and red accents, small navy and charcoal details, plus refined matte gold for the trophy.
+
+The image should feel handmade, like carefully assembled colored paper and gouache on poster board, with subtle paper grain, matte printed texture, raised edges, delicate embossing, cut-paper shadows, light surface roughness, sharp silhouettes, clean geometric flats, and plenty of negative space.
+
+Typography at top left: **« GRENADYE 2026 »** in uppercase geometric sans-serif font, with wide letter spacing, in solid white. Below: **« Ayiti · Haiti »** and **« Jacmel · Port-au-Prince · Cap-Haïtien »** in smaller size, matching white, with airy spacing.
+
+Avoid: photorealism, official FIFA logos, team logos, readable brand signage, overly realistic trophy, overly detailed buildings, heavy outlines, sloppy painting, neon cyberpunk style, dark lighting, excessive gradients, overly busy scene, watermarks, separate postcard-style panels, or a trophy that seems simply pasted onto the image.
+```
+
+</details>
+
+<a id="gpt-image-solstice-crown-yacht-sea-tree"></a>
+### Luxury yacht wake shapes a sea Christmas tree
+
+<a href="https://x.com/ou_zhen599/status/2101959963384193293"><img src="../../previews/gpt-image-solstice-crown-yacht-sea-tree.jpg" width="360"></a>
+
+The yacht sits high in the frame so its wake becomes the central route, and the foam and reef lines follow sea physics rather than decoration. A high oblique drone angle over wide open water keeps the tree shape readable from a distance.
+
+GPT Image 2.5 · Text-to-image · Source: [@ou_zhen599 on X](https://x.com/ou_zhen599/status/2101959963384193293) · 7 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`aerial`](tags.md#tag-aerial) [`yacht`](tags.md#tag-yacht) [`seascape`](tags.md#tag-seascape)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a premium luxury-yacht holiday advertising poster for a fictional international marine brand named SOLSTICE CROWN YACHTS, designed as a single vertical high-aerial key visual over an immense open sea at golden sunrise. Preserve the structural brilliance of the reference as pure composition logic: a real ultra-luxury motor yacht near the upper-center, moving forward across calm deep water, while the wake, reef lines, and surf formations below organically assemble into a monumental Christmas-tree silhouette made entirely of ocean physics. The yacht is the true commercial hero, and the sea-formed tree is the poetic extension of its voyage.
+
+The image must merge Orbit, Transit, and Port into one refined main visual: emotionally resonant, materially precise, and curatorially reduced. Orbit: keep the strongest immediate read of the concept, where the tree shape is instantly recognizable from afar and the yacht reads as the luminous crown point of the frame. Transit: make the marine materials, reef geometry, and yacht design feel systemized and premium, with believable water layering, foam logic, and engineered vessel detail. Port: strip away anything unnecessary so the image feels more international, more art-directed, and closer to a collectible visual manifesto than a festive brochure.
+
+The Christmas-tree form must not feel graphic-overlay fake or cartoonishly decorated. It must arise from real ocean movement: curling foam spirals, white surf lace, turquoise currents, transparent mineral shallows, and scattered reef outcrops positioned with elegant symmetry and controlled irregularity. From a distance it reads as a festive icon; up close it resolves into realistic hydrodynamics, reef contours, and tidal pattern. No ornaments, no garlands, no literal star, no kitsch holiday clichés. The sea itself becomes the seasonal gesture.
+
+The yacht must be highly photoreal, product-dominant, and aspirational: polished white hull, clean glazing, layered decks, subtle metallic detailing, realistic marine shadow under the vessel, believable wake behavior, and refined superyacht proportions. It must feel calm, rarefied, exclusive, and precise, never tiny or incidental. Place it near the upper-center so it leads the eye downward into the flowing tree-shaped sea formation.
+
+Camera and framing: premium drone or helicopter top-oblique aerial view, high enough to reveal the full sea-tree silhouette while keeping the vessel clearly legible as the hero object. The frame must feel spacious and quiet, with vast surrounding ocean negative space providing luxury, scale, and breathing room. Let the sea-tree occupy the central vertical axis and taper downward elegantly. The composition should read immediately and memorably from a distance.
+
+Lighting and atmosphere: warm low-angle sunrise light from the upper-right, washing the surface with champagne gold and pale amber while preserving rich cobalt and teal depth below. Build a refined 60/30/10 color hierarchy: 60% deep ocean blue, ultramarine, and teal; 30% white foam, bright turquoise shallows, and mineral aqua channels; 10% champagne sunrise warmth and pale gold reflection. The water must feel premium and layered: transparent cyan depths within the tree-form, white foam edges around the swirls, deep dark sea outside the central motif, and delicate sun-glint falloff. Keep the sky extremely restrained, only a small atmospheric horizon if needed.
+
+Typography must be drastically reduced and more elevated than a standard holiday campaign. Place a minimal brand lockup in the upper-right: "SOLSTICE CROWN YACHTS" with a tiny refined emblem above and one understated line beneath such as "Voyage in Ceremony." In the lower-center, place only one short holiday statement, elegant and restrained, such as "Season at Sea." No large festive paragraph copy, no heavy calligraphy overload, no bottom information clutter beyond a very slim, discreet contact strip if absolutely necessary. The visual must carry the meaning.
+
+Material semantics must be explicit and luxurious: yacht lacquer, marine glass, metallic trim, white foaming breakers, submerged reefs, translucent mineral shallows, deep saline blue, and warm dawn reflection. The whole image should feel both festive and rare, like a global luxury holiday campaign captured at a miraculous but believable moment from the air.
+
+Rendering target: photoreal luxury yacht advertising, premium ocean texture, refined holiday concept, elegant restrained typography, strong product hierarchy, curatorially reduced composition, and world-class print-finish quality.
+
+Structured exclusion constraints: no real yacht brand names, no copied Christmas slogans, no cheesy holiday graphics, no Santa elements, no ornaments, no fake CGI plastic tree look, no unreadable text, no garbled letters, no muddy water, no broken wave physics, no distorted yacht structure, no extra vessels cluttering the frame, no brochure-style promotional overload, no oversaturated tourism aesthetic, no style drift, no AI slop.
+```
+
+</details>
+
+<a id="gpt-image-1994-infomercial-crashed-saucer-frame"></a>
+### Retro 1994 infomercial frame selling a crashed saucer
+
+<a href="https://x.com/ImagineArt_X/status/2097520474226147462"><img src="../../previews/gpt-image-1994-infomercial-crashed-saucer-frame.jpg" width="360"></a>
+
+Naming the medium and era first (1994 infomercial, standard definition, scanlines) sets the whole look. A short list of concrete props then drives the layout: host, plinth, price starburst, phone number and legal small print.
+
+GPT Image 2.5 · Text-to-image · Source: [@ImagineArt_X on X](https://x.com/ImagineArt_X/status/2097520474226147462) · found via [wangrunlin/awesome-gpt-image-2-5-prompts](https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts)
+
+[`infomercial`](tags.md#tag-infomercial) [`retro-tv`](tags.md#tag-retro-tv) [`scanlines`](tags.md#tag-scanlines) [`ufo`](tags.md#tag-ufo) [`typography`](tags.md#tag-typography)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+a frame grab from a 1994 infomercial, standard definition video with scanlines. A host in a teal blazer, a battered saucer on a rotating plinth with Antarctic ice frozen around one leg, a price starburst, a phone number, and three lines of legal small print.
+```
+
+</details>
+
+<a id="gpt-image-adriano-emperor-doodle-football-poster"></a>
+### Adriano career stats doodle football poster
+
+<a href="https://x.com/ryanpp27/status/2048602248524214542"><img src="../../previews/gpt-image-adriano-emperor-doodle-football-poster.jpg" width="360"></a>
+
+Keep the real player photo intact and wrap him in a glowing neon outline, then surround him with doodles and boxed stat panels. Fixed sections for club, highlights and national team make the layout easy to scan.
+
+GPT Image 2 · Text-to-image · Source: [@ryanpp27 on X](https://x.com/ryanpp27/status/2048602248524214542) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`football`](tags.md#tag-football) [`poster`](tags.md#tag-poster) [`doodle`](tags.md#tag-doodle) [`typography`](tags.md#tag-typography)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a scrapbook doodle-style football poster of [PLAYER_NAME].
+
+AI auto-generates realistic career stats (club and national team).
+
+Main photo: realistic, unchanged ([PLAYER_NAME] in action or iconic pose).
+
+Doodles and handwritten notes: white and [PRIMARY_COLOR] neon ink (no warm colors unless specified), arrows, stars, scribbles, sketchy outlines. Add a glowing [PRIMARY_COLOR] outline around the player's body.
+
+Layout (bold handwritten titles and stats):
+- Top Title: "[PLAYER_NAME]" plus "[NICKNAME/TITLE]"
+- Club Career: total matches and goals plus 2–4 main clubs (apps and goals)
+- Highlights: 2–3 standout achievements (e.g., UCL goals, Ballon d'Or, top scorer)
+- National Team: caps and goals plus 1–2 international achievements
+
+Style: modern football poster x notebook aesthetic, clean but energetic, slightly messy doodles, high contrast, neon accents on dark or muted background.
+
+Important: all stats must be realistic and proportional to the player's real career.
+```
+
+</details>
 
 <a id="gpt-image-anime-classroom-losing-heroines-key-visual"></a>
 ### Anime classroom key visual with three students and posters
