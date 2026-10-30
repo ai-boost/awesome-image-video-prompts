@@ -1,6 +1,6 @@
 # Illustration
 
-[Back to the list](../../README.md) · All 105 entries
+[Back to the list](../../README.md) · All 106 entries
 
 <a id="nano-banana-map-screenshot-anime-panorama-shibuya"></a>
 ### Anime style panorama of Shibuya Crossing from map screenshot
@@ -1520,6 +1520,28 @@ SEMANTIC_VARIABLES (AI infers from {{SUBJECT}}):
   {{CONTRADICTION}}   → The core hypocrisy (Stated Intent vs. Actual Output)
   {{ACTORS}}          → Tiny figures trapped in or operating the machine
   {{ANNOTATIONS}}     → Blunt labels, warning signs, scoreboard stats
+```
+
+</details>
+
+<a id="nano-banana-raccoon-elf-cookie-thief"></a>
+### Raccoon elf caught stealing a cookie
+
+<a href="https://x.com/heathergreen/status/2113556045121384836"><img src="../../previews/nano-banana-raccoon-elf-cookie-thief.jpg" width="360"></a>
+
+The prompt names a specific era and print style (1950s holiday comic, halftone shading, hand inked outlines, imperfect print texture) and fixes a four colour palette, which keeps the vintage look consistent. The story beat of a caught thief with a ribbon tail gives the model one clear central character and action.
+
+Nano Banana 2.1 · Text-to-image · Source: [@heathergreen on X](https://x.com/heathergreen/status/2113556045121384836) · 3 likes on 2026-10-29
+
+[`christmas`](tags.md#tag-christmas) [`raccoon`](tags.md#tag-raccoon) [`vintage`](tags.md#tag-vintage) [`halftone`](tags.md#tag-halftone)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+#promptshare with Nano Banana 2.1 and generated with
+@magnific
+
+PROMPT: Illustrate a hilariously untrustworthy raccoon dressed as a Christmas elf in the style of a vintage 1950s holiday comic. The raccoon wears a crooked green elf hat, has cookie crumbs all over its face, and is caught stealing a cookie from a plate while standing in a pile of torn wrapping paper. A long strand of Christmas ribbon is tangled around its tail like a sash. Give it a wide-eyed, completely unconvincing innocent expression. Use thick hand-inked outlines, expressive cartoon features, retro halftone shading, imperfect vintage print texture, and a cheerful palette of pine green, cherry red, mustard gold, and aged cream. The design should feel like a collectible old-fashioned Christmas novelty illustration with a clear central character, simple background, and bold readable shapes. No mockup, no watermark, no text.
 ```
 
 </details>

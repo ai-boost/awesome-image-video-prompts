@@ -1,6 +1,6 @@
 # 拼贴
 
-[返回目录](../../README_zh.md) · 全部 83 条
+[返回目录](../../README_zh.md) · 全部 84 条
 
 <a id="gpt-image-failed-photos-grid"></a>
 ### 任意角色的九宫格失败抓拍照
@@ -2689,6 +2689,49 @@ Premium Korean lifestyle editorial photography, professional DSLR quality, 85mm 
 
 FINAL QUALITY:
 Photorealistic, crystal-clear, beautifully composed, irresistibly cute, premium Instagram-worthy aesthetic. Maintain identical facial identity, hairstyle, outfit, and kitten appearance across all three panels. Natural human proportions, accurate hands and paws, no facial distortion, no excessive skin smoothing, no artificial CGI or plastic appearance.
+```
+
+</details>
+
+<a id="gpt-image-checkerboard-sweater-portrait-collage"></a>
+### 红白格毛衣六格人像拼贴
+
+<a href="https://x.com/Ziha_ai/status/2116013855700910157"><img src="../../previews/gpt-image-checkerboard-sweater-portrait-collage.jpg" width="360"></a>
+
+先固定同一人物、服装和房间，再用六个编号的姿势逐格描述，使六格中的人物保持一致。正面闪光灯打在米色墙面上形成硬阴影，并带出颗粒感的 35mm 胶片质感。
+
+GPT Image 2.5 · 文生图 · 出处: [@Ziha_ai on X](https://x.com/Ziha_ai/status/2116013855700910157) · 3 赞，统计于 2026-10-29
+
+[`fashion`](tags.md#tag-fashion) [`portrait`](tags.md#tag-portrait) [`collage`](tags.md#tag-collage) [`film-look`](tags.md#tag-film-look)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a highly realistic 6-panel fashion portrait collage arranged in a clean 2-column × 3-row grid. The same young East Asian woman appears consistently in all six photographs, maintaining identical facial features, hairstyle, clothing, and overall appearance.
+
+Subject: A beautiful young woman with a short, naturally styled black bob haircut, soft center-parted bangs, fair natural skin, delicate facial features, subtle makeup, and a calm, slightly playful expression.
+
+Outfit: An oversized red-and-white checkerboard knitted sweater with a bold chessboard pattern, cream-white ribbed neckline, and long loose sleeves. The sweater has a cozy, relaxed vintage streetwear aesthetic.
+
+Six different poses and expressions:
+
+1. Top-left: The woman stands facing the camera, gently pressing both palms against her cheeks, with a few strands of hair falling across her face. A slightly playful, sleepy expression.
+2. Top-right: An intimate close-up portrait. She rests her face between both hands, elbows slightly raised, looking directly into the camera with softly pursed lips.
+3. Middle-left: A medium portrait with one hand covering part of her forehead and one eye, looking quietly toward the camera.
+4. Middle-right: A straight-on upper-body portrait with both arms relaxed, looking directly at the camera with a subtle, natural expression.
+5. Bottom-left: A relaxed pose with both arms placed behind her head, elbows extending outward, wearing a calm and confident expression.
+6. Bottom-right: A playful straight-on portrait with a small bright orange placed on top of her head, looking directly at the camera with a slightly surprised expression.
+
+Photography and environment: All six photographs are taken against a simple warm beige wall in a minimal indoor setting. Direct on-camera flash creates distinct, slightly hard shadows behind the subject. Soft warm color tones, natural skin texture, subtle film grain, slightly faded colors, gentle analog noise, and authentic 35mm film photography.
+
+Composition: Perfectly aligned six-photo contact sheet, two equal-width columns and three equal-height rows, clean straight panel divisions, consistent camera distance and color grading. Mix close-up portraits and medium shots while keeping the same person recognizable in every frame.
+
+Visual style: Vintage Japanese and Korean fashion editorial photography, nostalgic 1990s film aesthetic, candid studio snapshots, minimalist styling, natural imperfections, realistic facial details, premium analog photography.
+
+Aspect ratio: 2:3 vertical.
+Quality: Ultra-photorealistic, high detail, natural proportions, realistic hands, consistent character identity across all six panels.
+
+Important: Generate one complete six-panel collage, not six separate images. No text, no watermarks, no additional people.
 ```
 
 </details>
