@@ -1,6 +1,6 @@
 # 角色与手办
 
-[返回目录](../../README_zh.md) · 全部 80 条
+[返回目录](../../README_zh.md) · 全部 83 条
 
 <a id="gpt-image-tanjiro-pixel-sprite-sheet-water-attack"></a>
 ### 炭治郎十六帧像素精灵图与水之呼吸攻击
@@ -292,6 +292,41 @@ Format:
 
 </details>
 
+<a id="gpt-image-cartoon-boy-glasses-yellow-poster"></a>
+### 黄色背景上戴眼镜的卡通少年
+
+<a href="https://x.com/Ziha_ai/status/2116358392579338599"><img src="../../previews/gpt-image-cartoon-boy-glasses-yellow-poster.jpg" width="360"></a>
+
+叠加夸张比例、粗黑墨线和赛璐璐阴影，营造干净的动画质感。纯色芥末黄背景与居中的 9:16 竖版构图让人物突出，留白充足。
+
+GPT Image 2.5 · 文生图 · 出处: [@Ziha_ai on X](https://x.com/Ziha_ai/status/2116358392579338599) · 376 赞，统计于 2026-10-31
+
+[`cartoon`](tags.md#tag-cartoon) [`cel-shading`](tags.md#tag-cel-shading) [`character`](tags.md#tag-character) [`portrait`](tags.md#tag-portrait)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a highly detailed, hand-drawn 2D cartoon character illustration in a stylish, edgy, modern animated graphic novel aesthetic.
+
+Character: A quirky young man with an oversized head, slim body, slightly messy spiky hair, thick oversized black glasses, small black ear studs, and a confident, slightly unimpressed expression. Exaggerated facial features with expressive eyes, a small nose, and a subtle smirk.
+
+Pose: Waist-up portrait, body turned slightly sideways, head tilted upward, eyes looking off to the side, relaxed and casual posture.
+
+Outfit: Oversized black streetwear T-shirt with bold orange graphic lettering, natural fabric folds, and subtle shading.
+
+Art Style: Clean bold black ink outlines, exaggerated cartoon proportions, smooth cel shading, warm skin tones, crisp highlights, subtle textured brushwork, polished hand-drawn animation aesthetic.
+
+Background: Solid vibrant mustard yellow, minimal and uncluttered, with generous negative space around the character.
+
+Composition: Vertical 9:16 poster, character positioned in the center, slightly below the middle, head and upper torso fully visible.
+
+Quality: High-resolution digital illustration, professional character design, expressive personality, consistent linework, cinematic lighting.
+
+No watermark, no extra objects, no border, no photorealism.
+```
+
+</details>
+
 <a id="gpt-image-caricature-companion-holding-hands"></a>
 ### 写实男子与自己的3D卡通版牵手
 
@@ -437,6 +472,101 @@ Create a highly engaging, cute, and expressive sticker pack that feels premium a
 
 </details>
 
+<a id="gpt-image-furina-chibi-chat-stickers"></a>
+### 芙宁娜Q版聊天贴纸表，16句文案
+
+<a href="https://x.com/Mayz1169/status/2098434990270988292"><img src="../../previews/gpt-image-furina-chibi-chat-stickers.jpg" width="360"></a>
+
+提示词先限定日常聊天的功能类别，并要求使用简短自然的英文文案，让每张贴纸都像真实聊天消息。全部 16 格保持角色外观一致，只通过表情、手势和白色贴纸边框区分每一格。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@Mayz1169 on X](https://x.com/Mayz1169/status/2098434990270988292) · 308 赞，统计于 2026-10-31
+
+[`chibi`](tags.md#tag-chibi) [`stickers`](tags.md#tag-stickers) [`character-consistency`](tags.md#tag-character-consistency) [`grid`](tags.md#tag-grid)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Use the uploaded character image to create 16 personalized chibi chat stickers in a 4×4 grid, plus a white-background GIF slideshow and individual PNG files.
+
+CHARACTER IDENTITY
+Preserve the character’s recognizable hairstyle, hair color, eyes, outfit, accessories, and signature colors across all 16 stickers.
+
+If I identify a fictional character, reflect their established personality without inventing lore or presenting original captions as official quotes. If the character is unknown, use their visual design as a creative personality cue. Prioritize any personality details I provide.
+
+EVERYDAY CHAT COMES FIRST
+These stickers should be useful in ordinary conversations with friends—not character posters, promotional slogans, or dramatic monologues.
+
+First choose a familiar conversational purpose, then adapt its wording and expression to the character.
+
+Cover a balanced selection of:
+greetings, agreement, refusal, thanks, apologies, laughter, confusion, surprise, affection, encouragement, celebration, waiting, tiredness, frustration, playful teasing, and saying goodbye.
+
+Create short, natural English captions, usually 1–4 words. Use wording that English speakers would actually send in a casual chat.
+
+Examples of the desired naturalness include:
+“Hey!”, “Got it!”, “Nope.”, “Thank you!”, “My bad.”,
+“Wait, what?”, “Seriously?”, “You got this!”, “Not today.”,
+“On my way!”, “Need a break.”, and “Talk later!”
+
+These are examples, not a fixed caption list. Choose captions that fit this character and the expressions you create.
+
+PERSONALITY WITHOUT AWKWARD DIALOGUE
+Express the character’s personality mainly through facial expressions, gestures, posture, and tone.
+
+For example:
+• A proud character can say “Nailed it!” with a smug smile.
+• A shy character can say “Thank you!” while blushing.
+• A dramatic character can say “Seriously?!” with an exaggerated reaction.
+• A reserved character can say “Got it.” with a subtle nod.
+
+At least 12 of the 16 stickers should work in common everyday conversations. Up to 4 may include recognizable character interests or gentle fandom references, as long as they still have a clear conversational use.
+
+ART STYLE
+Use polished big-head chibi anime sticker illustrations:
+expressive glossy eyes, soft cel shading, clean outlines, and cute, readable gestures.
+
+Preserve recognizable character details while simplifying them for small sticker sizes. Use mostly chest-up compositions.
+
+Add thick white die-cut borders with a subtle light-gray outer outline. Use a solid pure-white background.
+
+Match each expression and gesture to its caption. Make all 16 reactions visually distinct. Use small decorative symbols sparingly and keep them relevant.
+
+TEXT AND LAYOUT
+Arrange exactly 16 complete stickers in 4 equal rows and 4 equal columns.
+
+Place one English caption above each character in large, readable, playful lettering. Use colors that complement the character’s palette.
+
+Keep the entire caption, character, hands, hair, accessories, props, and sticker border inside its own cell with generous white margins.
+
+No overlapping cells, cropped elements, grid lines, numbering, watermarks, or extra text.
+
+DELIVERABLES
+1. One PNG containing the complete 4×4 sticker sheet.
+2. A ZIP containing all 16 stickers as separate PNG files.
+3. One GIF cycling through the 16 stickers in reading order, holding each for approximately 1.2 seconds and looping continuously.
+
+Use identical canvas dimensions and consistent positioning for all GIF frames.
+Every frame must have an opaque pure-white background.
+Explicitly disable transparency and preserve pure white in the GIF palette.
+The GIF should be a sticker slideshow, not a continuous character animation.
+
+FINAL CHECK
+Before delivery, inspect:
+• Natural English and correct spelling.
+• Practical everyday uses and varied conversational meanings.
+• Clear agreement between captions and expressions.
+• Consistent character identity and correct anatomy.
+• Complete text and sticker borders.
+• Clean individual crops without neighboring sticker fragments.
+• A genuinely white, nontransparent GIF background.
+
+Proceed with sensible creative choices without asking me to select every caption. Briefly explain the personality direction, then provide the finished files.
+
+If GIF export or file extraction is unavailable, clearly state the limitation. Do not present a still image as an animated GIF.
+```
+
+</details>
+
 <a id="gpt-image-character-profile-poster-expressions-poses"></a>
 ### 深色角色档案海报，含表情与动作姿势
 
@@ -517,6 +647,64 @@ A polished dance reference sheet with strong character identity and 16 individua
 
 AVOID
 Generic choreography, copied reference poses, repetitive or mirrored duplicates, personality mismatches, forced cuteness or swagger, inconsistent identity, altered outfits, cropped extremities, extra limbs, distorted anatomy, motion trails, missing or extra panels, and text other than panel numbers.
+```
+
+</details>
+
+<a id="gpt-image-chibi-mage-pixel-idle-sheet"></a>
+### Q版法师 16 帧像素待机精灵图
+
+<a href="https://x.com/Mayz1169/status/2097533706022056339"><img src="../../previews/gpt-image-chibi-mage-pixel-idle-sheet.jpg" width="360"></a>
+
+锁定参考图的服饰、发型与轮廓，并禁止行走、转身和镜头变化，使各帧角色保持一致。固定的 4×4 网格、透明留白和一次眨眼让动画可以无缝循环。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@Mayz1169 on X](https://x.com/Mayz1169/status/2097533706022056339) · 275 赞，统计于 2026-10-31
+
+[`pixel-art`](tags.md#tag-pixel-art) [`sprite-sheet`](tags.md#tag-sprite-sheet) [`idle-animation`](tags.md#tag-idle-animation) [`game-art`](tags.md#tag-game-art)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Turn the character in my uploaded reference image into an adorable pixel-art sprite with a looping idle animation.
+
+CHARACTER
+Use the uploaded image as the character reference. Preserve the character’s recognizable features, colors, hairstyle, outfit, accessories, and distinctive silhouette. Adapt its original anatomy into cute chibi proportions without forcing non-human characters into a human body. If the reference is cropped, infer the missing body details to match the visible design.
+
+STYLE
+Create crisp pixel art with clearly defined square pixels, clean outlines, and a cohesive limited palette. No blurry edges, smooth vector styling, or realistic rendering.
+
+ANIMATION
+Create 16 consecutive frames of one subtle, seamless idle animation:
+- Gentle breathing with a tiny rise and fall of the upper body.
+- Slight secondary movement in hair, clothing, or relevant appendages.
+- One brief natural blink if the character has visible eyes.
+- Keep the character in place, with its feet or contact points anchored.
+- Keep the design, proportions, camera angle, and scale consistent.
+- No walking, turning, dramatic gestures, or scene changes.
+- Make the last frame transition smoothly back to the first.
+
+SPRITE SHEET
+Arrange the 16 frames in exactly 4 columns × 4 rows, ordered left to right, top to bottom.
+Canvas: 1024 × 1024 pixels.
+Each cell: 256 × 256 pixels.
+Use identical alignment and a fixed baseline across all cells.
+Keep the entire character inside each cell, with at least 16 pixels of transparent padding on every side, including around moving accessories.
+No overlapping cells, grid lines, labels, text, or watermarks.
+
+TRANSPARENCY
+Use a genuinely transparent RGBA background with alpha zero outside the character.
+Do not draw a checkerboard or add a solid background, floor, or cast shadow.
+Preserve white and pale details inside the character.
+
+DELIVERABLES
+Complete the actual files, not just instructions:
+1. A transparent 4 × 4 PNG sprite sheet.
+2. A transparent animated GIF of the single character, using all 16 frames at 256 × 256 pixels, looping forever with an approximately 2.4-second cycle.
+3. A ZIP containing all 16 individual transparent PNG frames.
+
+Use available image-generation and file-processing tools to generate the artwork, split the sheet, and assemble the GIF. Use nearest-neighbor sampling if resizing is needed to preserve crisp pixels.
+
+Before exporting, inspect all 16 frames. Remove stray pixels and any fragments from neighboring cells, especially above the head or below the feet. Check for clipping, unwanted position jumps, background artifacts, and GIF trails. Ensure the final PNG and GIF backgrounds are truly transparent.
 ```
 
 </details>

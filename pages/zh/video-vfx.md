@@ -1,6 +1,6 @@
 # 特效与变身转场
 
-[返回目录](../../README_zh.md) · 全部 82 条
+[返回目录](../../README_zh.md) · 全部 87 条
 
 <a id="veo-giant-girl-shibuya-crossing"></a>
 ### 巨型女孩跪在东京街口俯身触碰出租车
@@ -127,6 +127,110 @@ Hyper-realistic miniature luxury farmhouse construction site at the very first s
 
 </details>
 
+<a id="seedance-gold-silver-coupe-street-race"></a>
+### 金色与银色跑车在蓝色夜街飞驰
+
+<a href="https://x.com/Ror_Fly/status/2088323847921521016"><img src="../../previews/seedance-gold-silver-coupe-street-race.jpg" width="360"></a>
+
+用 SAM 遮罩生成的纯色剪影加上同步的深度图，把两辆车的位置、大小和遮挡对齐到原始画面。单独的参考图锁定每辆车的涂装，提示词同时禁止遮罩颜色出现在画面中，并让镜头沿用原片运动。
+
+Seedance 2.5 · 视频编辑 · 出处: [@Ror_Fly on X](https://x.com/Ror_Fly/status/2088323847921521016) · 889 赞，统计于 2026-10-31
+
+[`car-chase`](tags.md#tag-car-chase) [`depth-map`](tags.md#tag-depth-map) [`sam-mask`](tags.md#tag-sam-mask) [`fast-and-furious`](tags.md#tag-fast-and-furious)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Output ONE single full-frame 16:9 shot only — never reproduce the stacked two-panel layout of the reference video; no split screen, no duplicated frames, no panels of any kind.
+
+Creatives: [video1] is a VFX control reference for one shot, repeated as a loop — TOP half is the live-action night plate with BOTH race cars masked as flat color silhouettes: the NEAR car is solid RED, the FAR car is solid GREEN; BOTTOM half is the synchronized depth map of the same frames (warm = near, cool = far) — it defines both cars' 3D form and relative depth, honor it but never show its colors in the output. [image1] shows the car for the RED silhouette. [image2] shows the car for the GREEN silhouette.
+
+Night street race, two cars neck-and-neck sprinting left through a blue-lit city street, backgrounds motion-blurred, cinematic 2000s action-film look.
+
+Recreate the TOP panel's background, camera motion and timing exactly. Replace the RED silhouette with a metallic gold 1990s sports coupe with a tall rear wing and white-and-red flame graphics — strictly maintain the consistency of the body shape, flame livery, wheels and gold paint of [image 1]. Replace the GREEN silhouette with a silver late-1990s performance coupe with angular blue vinyl graphics and dark multi-spoke wheels — strictly maintain the consistency of the silver paint, blue graphic pattern, front bumper and wheel design of [image 2]. Each car matches its silhouette's position, scale, overlap and motion frame-for-frame — the gold car partially occludes the silver car exactly where the red silhouette overlaps the green one. Headlights on, blue underglow beneath the silver car, wheels blurred at race speed.
+
+0–4s: both cars charge left in tight formation, gold coupe nearest camera, silver coupe half-hidden beyond it. The camera holds its plate motion. Hold.
+
+No red or green silhouettes visible in the output, no depth-map or heat-map colors anywhere in frame. No subtitles, no BGM, no on-screen text. Prohibit objects appearing out of thin air, prohibit either car changing shape, color, or livery mid-shot, prohibit extra cars entering frame, no mixing of the two cars' designs, accurate quantity: exactly two cars. The entire video should have no sound.
+```
+
+</details>
+
+<a id="h3-creature-encyclopedia-ui"></a>
+### 生物图鉴界面，光标依次选中并互动生物
+
+<a href="https://x.com/aimikoda/status/2083949566009778473"><img src="../../previews/h3-creature-encyclopedia-ui.jpg" width="360"></a>
+
+提示词为每张卡片指定对应的参考图，切换选中时每个生物都保持一致。锁定镜头，只让光标、选中状态、标题和当前生物运动，使界面在整段视频中保持稳定。
+
+MiniMax H3 · 参考生视频 · 出处: [@aimikoda on X](https://x.com/aimikoda/status/2083949566009778473) · 872 赞，统计于 2026-10-31
+
+[`ui-animation`](tags.md#tag-ui-animation) [`creature`](tags.md#tag-creature) [`reference-images`](tags.md#tag-reference-images) [`pokedex-style`](tags.md#tag-pokedex-style)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Use Image 1 as the exact UI/layout/style reference for the creature encyclopedia screen.
+Use Images 2–9 as the exact creature references.
+Map them like this:
+Image 2 = card A = LUMI HARE
+Image 3 = card B = CLOUD WISP
+Image 4 = card C = EMBER FENNEC
+Image 5 = card D = TIDE BEHEMOTH
+Image 6 = card E = PETAL VULPIN
+Image 7 = card F = ORCHARD EYE
+Image 8 = card G = MEADOW CROWN
+Image 9 = card H = FROST GLIDER
+
+Create a 15-second 16:9 video. Keep the camera locked. Keep the interface, layout, typography, panels, icons and overall composition stable, elegant and readable. The UI should feel like a modern minimal digital creature encyclopedia, similar to a sleek pokedex. No scene cuts, no extra text, no extra buttons, no UI distortion.
+
+Sequence:
+0–2.5s: Cursor clicks card A. Main creature becomes LUMI HARE. Title changes to “LUMI HARE”. Creature blinks and rotates slightly.
+2.5–5s: Cursor clicks card C. Main creature becomes EMBER FENNEC. Title changes to “EMBER FENNEC”. Cursor drags to rotate it left and right.
+5–7.5s: Cursor clicks card E. Main creature becomes PETAL VULPIN. Title changes to “PETAL VULPIN”. Cursor pokes it a few times. It reacts, annoyed.
+7.5–10s: Cursor clicks card G. Main creature becomes MEADOW CROWN. Title changes to “MEADOW CROWN”. Cursor taps near the face/horns. It recoils slightly.
+10–12s: Cursor clicks card D. Main creature becomes TIDE BEHEMOTH. Title changes to “TIDE BEHEMOTH”. Cursor keeps poking it.
+12–15s: TIDE BEHEMOTH gets angry, opens its mouth very wide, lunges forward, and swallows the cursor. Then it returns to idle. Title stays “TIDE BEHEMOTH”.
+
+Rules:
+- When a card is selected, both the main creature and the main title must update.
+- Only animate cursor, selection state, title change, and the selected creature.
+- Only one cursor.
+- Keep motion subtle and clean until the final swallow.
+- No cuts, no camera move, no UI distortion, no extra text.
+
+Audio:
+soft UI click sounds, subtle hover sounds, tiny creature reaction sounds, then a sharper aggressive creature sound and one comedic swallow gulp at the end.
+```
+
+</details>
+
+<a id="omni-talking-head-design-language-edit"></a>
+### 主播口播改为黑白风格并加蓝色笔刷
+
+<a href="https://x.com/ozansihay/status/2068770944282178025"><img src="../../previews/omni-talking-head-design-language-edit.jpg" width="360"></a>
+
+元提示先让模型根据参考图写出一份自包含的设计说明，编辑模型因此无需看到参考图。明确锁定人脸、声音、口型和手势，只改视觉层，口播主体才能保持不变。
+
+Gemini Omni Flash · 视频编辑 · 出处: [@ozansihay on X](https://x.com/ozansihay/status/2068770944282178025) · 819 赞，统计于 2026-10-31
+
+[`meta-prompt`](tags.md#tag-meta-prompt) [`talking-head`](tags.md#tag-talking-head) [`color-grading`](tags.md#tag-color-grading) [`motion-graphics`](tags.md#tag-motion-graphics)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Analyze the reference image I uploaded. Write only the final prompt that I can paste into another video editing/generation model.
+No video generation, video editing, image generation, or any output generation. No writing descriptions, analysis summaries, titles, bullet lists, or comments. Your response should consist solely of a single ready-to-use prompt text.
+The prompt you prepare should be written in a way that can be understood by another model without access to the reference image. Therefore, avoid vague phrases in the prompt such as "like in the reference image," "the style in the uploaded image," or "this design."
+Describe the design language of the reference image clearly and in detail within the prompt: color palette, composition, background texture, typography style, graphic elements, collage/doodle/sticker/poster/editorial details, lighting-contrast, grain, halftone, paper texture, sense of motion, and overall atmosphere.
+Specify in the prompt: The person's face, identity, voice, speech, lip sync, facial expressions, and hand movements in the video must be preserved. Only the visual design language should change.
+Analyze the topic being narrated in the video. Symbols, icons, shapes, stickers, collage pieces, doodle lines, brush effects, or motion graphic details appropriate to the topic can be added.
+From the topic narrated in the video, select only a few key words and use them as short text elements suitable for the design. Do not turn full sentences, long explanations, subtitles, or the entire speech into text. The texts should be few in number, for emphasis purposes, and suitable for the design style.
+The final prompt should be clear, applicable, and sufficient on its own for editing a vertical video that is suitable for social media, modern, creative, and premium-looking.
+```
+
+</details>
+
 <a id="h3-police-officer-scooby-doo-haunted-hallway"></a>
 ### 真人走廊画面改成70年代卡通风格
 
@@ -217,6 +321,60 @@ Fully retain the original audio from the reference video (music, voice, animal s
 
 [Prohibitions]
 No mechanical joints, ball joints, splice seams, segmented structures, screws, hinges, metallic or plastic sensations; Nor any robotic, puppet, doll, toy, or low-polygon feel; Motions must not be rigid or like independent parts rotating; No eyes, facial features, hair textures, clothing, colors, text; Do not add or remove subjects, nor alter motions, speeds, or camera movements.
+```
+
+</details>
+
+<a id="omni-miniature-treehouse-platform-timelapse"></a>
+### 树上微型木质平台，手在放置木条
+
+<a href="https://x.com/Strength04_X/status/2086643354385944937"><img src="../../previews/omni-miniature-treehouse-platform-timelapse.jpg" width="360"></a>
+
+从上一段完成的平台作为起始画面，保证多段系列中结构一致，末帧描述则明确了收尾状态。微距镜头用语、浅景深和具体工具名称让微缩尺度显得真实。
+
+Gemini Omni Flash · 图生视频 · 出处: [@Strength04_X on X](https://x.com/Strength04_X/status/2086643354385944937) · 524 赞，统计于 2026-10-31
+
+[`miniature`](tags.md#tag-miniature) [`timelapse`](tags.md#tag-timelapse) [`treehouse`](tags.md#tag-treehouse) [`macro`](tags.md#tag-macro)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+MOTION PROMPT 2 — Wooden Walls & Windows : Use the completed elevated foundation platform from Motion Prompt 1 as the exact starting frame. Preserve complete visual continuity of the tree, platform, materials, lighting, camera perspective, miniature scale and environment.
+
+Create an ultra fast timelapse speed construction scene with human hands continuously constructing and moving rapidly.
+
+Multiple rapid scene cuts show miniature wooden wall frames being measured and positioned, vertical timber studs rising rapidly, wooden panels being attached, corners being reinforced, cement-like bonding material used where appropriate, window openings carefully formed, a doorway opening created, tiny structural brackets installed and the complete wall structure assembled.
+
+Show visible material placement throughout the sequence. Human hands rapidly carry and position tiny wooden boards while miniature hammers, screwdrivers, drills, levels, clamps and measuring tools are actively used.
+
+The walls progressively rise around the entire foundation. Window openings remain clearly visible and accurately positioned. The doorway becomes fully formed. Every cut reveals substantial construction advancement.
+
+Realistic hand movements, tiny screws, nails, wood dust, small construction debris and natural material interaction.
+
+cinematic macro photography, ultra realistic textures, detailed wood grain, realistic tree bark, natural forest lighting, shallow depth of field, dynamic construction progression, satisfying construction transformations, multiple rapid scene cuts, ultra fast timelapse speed, human hands continuously constructing and moving rapidly.
+
+The entire wall structure becomes fully completed before the clip ends.
+
+End Frame: fully completed miniature treehouse walls with finished window openings and doorway, structurally ready for roof construction, with no unfinished wall sections visible.
+```
+
+</details>
+
+<a id="omni-miniature-ranch-foundation-stable-site"></a>
+### 微型牧场地基与马厩场地及工具
+
+<a href="https://x.com/Strength04_X/status/2087412312118550875"><img src="../../previews/omni-miniature-ranch-foundation-stable-site.jpg" width="360"></a>
+
+提示词通过列出不应出现的内容（无完工房屋、无完工马厩、无动物）固定施工阶段，使首帧适合作为稳定的起点。巨大的手指和钢尺提供物理尺度，让微缩场景显得可信。
+
+Gemini Omni Flash · 图生视频 · 出处: [@Strength04_X on X](https://x.com/Strength04_X/status/2087412312118550875) · 489 赞，统计于 2026-10-31
+
+[`miniature`](tags.md#tag-miniature) [`macro`](tags.md#tag-macro) [`construction`](tags.md#tag-construction) [`countryside`](tags.md#tag-countryside)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+FIRST FRAME IMAGE PROMPT : Hyper-realistic miniature DIY ranch house construction site at the very beginning of construction, set on a natural countryside terrain with compact brown soil, short grass and subtle patches of dry earth. A partially prepared rectangular foundation area for a tiny rustic ranch house is clearly visible, with a second smaller foundation area beside it reserved for a horse stable. Giant realistic human fingers are carefully measuring and arranging miniature construction materials. Tiny realistic bricks, rough natural stones, wooden beams, miniature cement bucket, trowel, shovel, measuring ruler, wooden stakes, string line and small piles of sand, gravel and timber are scattered naturally around the site. The future ranch house footprint and stable location are clearly established but construction has not yet progressed beyond the foundation preparation stage. A few miniature wooden fence posts and hay bundles are placed nearby as construction materials, not yet installed. Ultra realistic macro photography, photorealistic miniature craftsmanship, 8K detail, cinematic studio lighting mixed with soft natural countryside daylight, shallow depth of field, sharp focus on the construction area, professional product photography, realistic shadows, ambient occlusion, extremely detailed soil grains, brick pores, wood fibers, stone textures and grass blades, physically believable scale, subtle handcrafted imperfections, cinematic composition, realistic depth, no finished house, no completed stable, no animals, no people visible except giant human hands and fingers, no text, no watermark.
 ```
 
 </details>

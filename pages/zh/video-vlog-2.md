@@ -1,6 +1,43 @@
 # 手机实拍与 Vlog
 
-[返回目录](../../README_zh.md) · 全部 144 条 · [1](video-vlog.md) · **2**
+[返回目录](../../README_zh.md) · 全部 145 条 · [1](video-vlog.md) · **2**
+
+<a id="seedance-indonesian-village-coconut-vlog"></a>
+### 女子走在棕榈树夹道的村庄小路上
+
+<a href="https://x.com/saniaspeaks_/status/2084969852171939875"><img src="../../previews/seedance-indonesian-village-coconut-vlog.jpg" width="360"></a>
+
+带时间戳的分镜表和引号内的台词把片段拆成多个镜头，参考图锁定人脸与服装。明确写出的镜头瑕疵（抖动、对焦跳动、不稳定）以及只保留环境音的声音列表，让画面保持业余 home video 质感，而不是精致的旅游宣传片。
+
+Seedance 2.5 · 参考生视频 · 出处: [@saniaspeaks_ on X](https://x.com/saniaspeaks_/status/2084969852171939875)
+
+[`vlog`](tags.md#tag-vlog) [`handheld`](tags.md#tag-handheld) [`tropical-village`](tags.md#tag-tropical-village) [`retro-2000s`](tags.md#tag-retro-2000s)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Preserve the exact face, hairstyle, identity, skin tone, and body proportions from @ image1 throughout. Outfit: oversized terracotta linen shirt, dusty burgundy wide-leg trousers, brown leather sandals, small gold hoop earrings, loose natural wavy hair. Authentic Indonesian woman. Late-2000s personal vlog aesthetic. Extremely raw handheld flip-camera footage with heavy camera shake, natural reframing, partial face crops, focus hunting, exposure shifts, warm faded colors, mild digital noise, and authentic home-video imperfections. No posing, no cinematic glamour, no stabilization, no modern color grading.
+
+00:00–00:04 Walking through a peaceful tropical village lined with coconut trees, smiling into the camera. "Today we're hunting for fresh coconuts!"
+
+00:04–00:08 Stops at a small roadside coconut stall where a friendly local vendor expertly chops open a fresh green coconut. She watches with an excited reaction.
+
+00:08–00:12 Takes her first sip of fresh coconut water, smiles brightly, and says, "This is so refreshing!"
+
+00:12–00:16 Sits with local villagers on a wooden bench, chatting, laughing, and enjoying the relaxed atmosphere while holding the coconut.
+
+00:16–00:20 Tries opening another coconut herself using simple tools, struggles playfully, laughs, and the locals cheer and laugh with her.
+
+00:20–00:24 Scoops out the soft coconut flesh with a spoon, tastes it, and gives a happy thumbs-up to the camera.
+
+00:24–00:27 Walks slowly through the village, waving to children and locals while carrying the empty coconut shell.
+
+00:27–00:30 Stops beneath tall coconut trees, turns back toward the camera with a warm smile, waves, and says, "See you in my next adventure. Bye!" before naturally ending the recording.
+
+Natural ambience only: birds, palm leaves rustling, village conversations, coconut chopping sounds, footsteps, breeze, insects, and distant laughter. No background music, subtitles, logos, or watermarks. The footage should feel exactly like a genuine late-2000s handheld flip-camera vacation vlog with authentic human movement and realistic interactions.
+```
+
+</details>
 
 <a id="seedance-japan-pov-morning-commute"></a>
 ### 第一人称视角走下车站台阶登上海边列车

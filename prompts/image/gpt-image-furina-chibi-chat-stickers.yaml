@@ -1,0 +1,100 @@
+id: gpt-image-furina-chibi-chat-stickers
+title:
+  en: Furina chibi chat sticker sheet with 16 captions
+  zh: 芙宁娜Q版聊天贴纸表，16句文案
+model: GPT Image 2.5
+mode: image-edit
+category: character
+tags:
+- chibi
+- stickers
+- character-consistency
+- grid
+source:
+  name: '@Mayz1169 on X'
+  url: https://x.com/Mayz1169/status/2098434990270988292
+  credit: Kiki
+  likes: 308
+  captured: '2026-10-31'
+  posted: '2026-09-11'
+notes:
+  en: The prompt limits the set to everyday chat purposes and asks for short casual captions, so each sticker reads as a real message. It keeps the character's look fixed across the grid and varies only the expression, gesture, and white sticker border per cell.
+  zh: 提示词先限定日常聊天的功能类别，并要求使用简短自然的英文文案，让每张贴纸都像真实聊天消息。全部 16 格保持角色外观一致，只通过表情、手势和白色贴纸边框区分每一格。
+prompt: |
+  Use the uploaded character image to create 16 personalized chibi chat stickers in a 4×4 grid, plus a white-background GIF slideshow and individual PNG files.
+
+  CHARACTER IDENTITY
+  Preserve the character’s recognizable hairstyle, hair color, eyes, outfit, accessories, and signature colors across all 16 stickers.
+
+  If I identify a fictional character, reflect their established personality without inventing lore or presenting original captions as official quotes. If the character is unknown, use their visual design as a creative personality cue. Prioritize any personality details I provide.
+
+  EVERYDAY CHAT COMES FIRST
+  These stickers should be useful in ordinary conversations with friends—not character posters, promotional slogans, or dramatic monologues.
+
+  First choose a familiar conversational purpose, then adapt its wording and expression to the character.
+
+  Cover a balanced selection of:
+  greetings, agreement, refusal, thanks, apologies, laughter, confusion, surprise, affection, encouragement, celebration, waiting, tiredness, frustration, playful teasing, and saying goodbye.
+
+  Create short, natural English captions, usually 1–4 words. Use wording that English speakers would actually send in a casual chat.
+
+  Examples of the desired naturalness include:
+  “Hey!”, “Got it!”, “Nope.”, “Thank you!”, “My bad.”,
+  “Wait, what?”, “Seriously?”, “You got this!”, “Not today.”,
+  “On my way!”, “Need a break.”, and “Talk later!”
+
+  These are examples, not a fixed caption list. Choose captions that fit this character and the expressions you create.
+
+  PERSONALITY WITHOUT AWKWARD DIALOGUE
+  Express the character’s personality mainly through facial expressions, gestures, posture, and tone.
+
+  For example:
+  • A proud character can say “Nailed it!” with a smug smile.
+  • A shy character can say “Thank you!” while blushing.
+  • A dramatic character can say “Seriously?!” with an exaggerated reaction.
+  • A reserved character can say “Got it.” with a subtle nod.
+
+  At least 12 of the 16 stickers should work in common everyday conversations. Up to 4 may include recognizable character interests or gentle fandom references, as long as they still have a clear conversational use.
+
+  ART STYLE
+  Use polished big-head chibi anime sticker illustrations:
+  expressive glossy eyes, soft cel shading, clean outlines, and cute, readable gestures.
+
+  Preserve recognizable character details while simplifying them for small sticker sizes. Use mostly chest-up compositions.
+
+  Add thick white die-cut borders with a subtle light-gray outer outline. Use a solid pure-white background.
+
+  Match each expression and gesture to its caption. Make all 16 reactions visually distinct. Use small decorative symbols sparingly and keep them relevant.
+
+  TEXT AND LAYOUT
+  Arrange exactly 16 complete stickers in 4 equal rows and 4 equal columns.
+
+  Place one English caption above each character in large, readable, playful lettering. Use colors that complement the character’s palette.
+
+  Keep the entire caption, character, hands, hair, accessories, props, and sticker border inside its own cell with generous white margins.
+
+  No overlapping cells, cropped elements, grid lines, numbering, watermarks, or extra text.
+
+  DELIVERABLES
+  1. One PNG containing the complete 4×4 sticker sheet.
+  2. A ZIP containing all 16 stickers as separate PNG files.
+  3. One GIF cycling through the 16 stickers in reading order, holding each for approximately 1.2 seconds and looping continuously.
+
+  Use identical canvas dimensions and consistent positioning for all GIF frames.
+  Every frame must have an opaque pure-white background.
+  Explicitly disable transparency and preserve pure white in the GIF palette.
+  The GIF should be a sticker slideshow, not a continuous character animation.
+
+  FINAL CHECK
+  Before delivery, inspect:
+  • Natural English and correct spelling.
+  • Practical everyday uses and varied conversational meanings.
+  • Clear agreement between captions and expressions.
+  • Consistent character identity and correct anatomy.
+  • Complete text and sticker borders.
+  • Clean individual crops without neighboring sticker fragments.
+  • A genuinely white, nontransparent GIF background.
+
+  Proceed with sensible creative choices without asking me to select every caption. Briefly explain the personality direction, then provide the finished files.
+
+  If GIF export or file extraction is unavailable, clearly state the limitation. Do not present a still image as an animated GIF.

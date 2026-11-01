@@ -1,0 +1,72 @@
+id: seedance-sunken-city-gameplay-aqueduct-run
+title:
+  en: Explorer sprints along ruined aqueduct above turquoise sea
+  zh: 探险者沿着海上废墟石桥奔跑
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- gameplay
+- fantasy
+- underwater
+- ruins
+- boss-fight
+source:
+  name: '@azed_ai on X'
+  url: https://x.com/azed_ai/status/2100222523535409655
+  credit: Amira Zairi
+  likes: 1449
+  captured: '2026-10-31'
+  posted: '2026-09-16'
+video: https://x.com/azed_ai/status/2100222523535409655
+notes:
+  en: A timestamped beat sheet with a separate SFX line per beat keeps the clip moving as one continuous gameplay sequence. Fixed HUD anchors and explicit camera rules (over the shoulder, widen on reveals, return control) make the footage read as playable gameplay rather than a trailer.
+  zh: 带时间码的分段脚本，每段单独列出音效，让整段视频像一段连续的实机游玩。明确写出 HUD 固定位置和镜头规则（过肩视角、大场景拉远、过场后交还控制），使画面更像可操作的游戏而非预告片。
+prompt: |
+  Third-person fantasy action-adventure RPG with exploration, traversal, environmental puzzles, cinematic combat, supernatural abilities, and seamless transitions between gameplay and scripted events.
+
+  **Environment:** An enormous ancient city partially submerged beneath a turquoise ocean, with monumental stone temples rising from the water, collapsed bridges connecting ruined towers, enormous statues covered in coral, waterfalls pouring from fractured aqueducts, tropical vegetation growing through abandoned plazas, schools of fish swimming through flooded streets, and mysterious golden machinery hidden beneath the civilization's ruins. The gameplay begins above water among sunlit ruins before descending into a massive submerged temple where an ancient guardian awakens.
+
+  **Visual style:** Photorealistic Unreal Engine 5 fantasy gameplay, premium AAA action-adventure presentation, highly detailed ancient architecture, realistic water simulation, cinematic global illumination, volumetric underwater lighting, physically accurate materials, lush vegetation, detailed character animation, realistic cloth and hair physics, environmental particles, dynamic shadows, sophisticated VFX, smooth 60fps movement, restrained motion blur, and seamless cinematic transitions without losing the feeling of actual playable gameplay.
+
+  **Player character:** A young explorer wearing weathered lightweight adventuring clothes, leather climbing equipment, protective bracers, boots, a small backpack, and an ancient golden device attached to the left forearm. The device allows the player to manipulate forgotten mechanisms and briefly control water currents, while a short curved sword remains attached to the character's back for close-range combat.
+
+  **Gameplay camera:** Maintain a responsive over-the-shoulder third-person perspective during traversal and combat, allowing the camera to dynamically widen during large environmental reveals, move closer during narrow traversal sections, orbit slightly during combat encounters, and transition into brief cinematic framing during major scripted moments before smoothly returning control to the player.
+
+  **Gameplay UI:** Maintain a minimal fixed interface with player health and stamina in the upper-left corner, a circular compass and objective marker in the upper-right corner, contextual interaction prompts near interactable objects, and ability icons in the lower-right corner. UI elements remain anchored perfectly to the screen throughout camera movement.
+
+  **Core gameplay progression:** The player traverses collapsing ruins above the ocean, discovers a hidden entrance beneath the water, dives into a submerged temple, activates an ancient mechanism using the golden forearm device, accidentally awakens a colossal stone guardian, escapes through a collapsing underwater chamber, reaches the surface, and transitions directly into a dramatic boss encounter on a ruined platform.
+
+  **Audio design:** Powerful cinematic game score mixed with environmental audio including ocean waves, distant seabirds, waterfalls, stone movement, climbing impacts, underwater ambience, muffled debris, swimming movement, ancient machinery, magical energy pulses, creature roars, sword sounds, UI feedback, and environmental destruction.
+
+  **Negative guidance:** No subtitles, no dialogue, no logos, no excessive HUD elements, no first-person perspective, no guns, no modern technology, no gore, no blood, no dismemberment, no broken anatomy, no inconsistent character clothing, no random camera teleportation, no excessive motion blur, no low-detail environments, no cartoon graphics, no turn-based combat.
+
+  **[00:00-00:04] THE SUNKEN CITY:** Begin directly in third-person gameplay with the camera positioned behind the explorer sprinting along the top of a massive ruined aqueduct suspended above brilliant turquoise water while the distant sunken city stretches toward the horizon beneath them. As sections of ancient stone begin collapsing behind the character, the player accelerates, jumps across a widening gap, catches the opposite ledge with both hands, pulls upward, and continues running while waterfalls cascade between enormous temple structures in the distance. The camera briefly widens during the jump to reveal gigantic submerged statues visible beneath the transparent ocean before smoothly returning behind the player. SFX: running footsteps, stone cracking, rushing waterfalls, ocean waves, climbing impacts, adventurous score building.
+
+  **[00:04-00:08] COLLAPSING BRIDGE:** The player reaches a fractured stone bridge just as the entire structure begins collapsing toward the ocean, forcing the explorer into a high-speed traversal sequence where they sprint across falling sections, leap onto a tilted pillar, wall-run briefly across a carved temple surface, then launch toward a hanging rope attached to an abandoned wooden crane. The character catches the rope and swings across a massive gap while chunks of architecture crash into the ocean beneath them, producing enormous splashes as the gameplay camera follows the arc of the swing before rotating naturally toward the landing platform. SFX: stone collapse, rope tension, rushing wind, ocean impacts, traversal chimes.
+
+  **[00:08-00:11] INTO THE WATER:** The explorer lands beside an ancient circular doorway carved into the cliff but discovers that its entrance continues beneath the ocean. A contextual **DIVE** prompt appears briefly as the player runs forward and leaps from the platform, transitioning seamlessly from an airborne third-person camera into underwater gameplay as the character plunges beneath the surface. Sunlight refracts through the water above while enormous statues, ruined buildings, coral-covered columns, and schools of fish reveal that an entire section of the civilization remains preserved beneath the waves. The player swims rapidly toward a glowing golden symbol deep inside the submerged temple.
+
+  **[00:11-00:15] THE ANCIENT MECHANISM:** The camera follows closely behind as the explorer swims through a narrow opening into an enormous underwater chamber containing a dormant circular machine embedded within the temple floor. The player approaches its central pedestal and activates the golden forearm device, causing streams of luminous energy to travel from the character's hand into carved channels across the surrounding architecture. Massive stone rings begin rotating beneath the water, forgotten mechanisms awaken after centuries of silence, and the chamber gradually illuminates with warm golden light while an objective notification confirms the mechanism has been restored. SFX: deep mechanical rotation, underwater energy pulse, stone grinding, distant resonant hum.
+
+  **[00:15-00:18] SOMETHING WAKES:** As the player turns away from the mechanism, the camera subtly rotates toward what initially appears to be an enormous carved statue embedded in the far wall, but two gigantic golden eyes suddenly illuminate beneath layers of coral and sediment. The entire chamber trembles as the colossal stone guardian tears one arm free from the architecture, sending clouds of debris through the water while its enormous fingers crush surrounding columns. The player immediately regains movement control and begins swimming toward the exit as the guardian's health bar slowly appears across the top of the screen. SFX: deep creature roar distorted underwater, cracking stone, falling debris, boss encounter tone.
+
+  **[00:18-00:22] UNDERWATER ESCAPE:** Transition into high-speed underwater gameplay as the explorer swims through a collapsing temple corridor while the guardian pursues from behind, smashing through walls rather than fitting through the original passages. The player dodges falling columns, squeezes through a narrow opening, uses the golden forearm device to create a powerful directional water current, then allows the current to launch the character rapidly through the final corridor while enormous stone hands narrowly miss grabbing their legs. The camera shakes with each guardian impact while maintaining clear visibility of the player's escape route and objective marker. SFX: rushing water, muffled impacts, collapsing architecture, ability activation, guardian roar.
+
+  **[00:22-00:25] BREAKING THE SURFACE:** The player shoots upward through a vertical flooded shaft as sunlight becomes increasingly visible overhead, then bursts dramatically through the ocean surface beside a ruined circular arena surrounded by towering statues. Without interrupting gameplay, the explorer grabs the platform edge, pulls themselves onto the stone, rolls forward, draws the curved sword from their back, and turns toward the water while catching their breath. Behind them, the ocean surface becomes strangely still for half a second before an enormous shadow begins rising beneath it. SFX: water eruption, heavy breathing, sword draw, music briefly dropping into tense silence.
+
+  **[00:25-00:28] BOSS FIGHT:** The colossal guardian erupts from the ocean and slams both enormous stone hands onto the arena, sending water and fragments of ancient masonry across the platform while its upper body towers above the player. The camera automatically widens into full boss-combat framing as the guardian swings one massive arm horizontally across the arena, forcing the player to sprint, execute a perfectly timed dodge roll beneath the attack, then immediately counter by activating the golden forearm device and firing a concentrated energy pulse into a glowing weak point exposed along the guardian's wrist. The boss health bar loses its first small section as golden fractures spread through the stone armor. SFX: enormous impact, dodge whoosh, magical pulse, stone fracture, boss music reaching full intensity.
+
+  **[00:28-00:30] YOUR TURN:** The guardian pulls its damaged arm backward and releases a deafening roar while additional golden weak points begin illuminating across its enormous body, clearly signaling the beginning of the full boss encounter. The explorer rises from the dodge, tightens their grip on the curved sword, and begins sprinting directly toward the guardian as the gameplay camera settles perfectly behind the character and multiple combat ability icons illuminate in the lower-right corner. End during active player movement rather than a cinematic pose, making the sequence feel like genuine gameplay continuing beyond the clip. SFX: guardian roar, running footsteps, sword resonance, UI ability chimes, powerful final orchestral rise.
+
+  The entire video must feel like **real playable AAA third-person gameplay rather than a movie trailer**, with the player character continuously responding to environmental obstacles, contextual prompts, traversal mechanics, abilities, objectives, and enemy attacks while the camera behaves like a sophisticated dynamic gameplay camera.
+
+  Maintain a clear gameplay progression from high-speed traversal above the ocean into underwater exploration, environmental interaction, accidental guardian awakening, underwater escape, surface recovery, and the beginning of a major boss encounter, allowing multiple game mechanics to be demonstrated naturally within the same 30-second sequence.
+
+  Keep transitions completely seamless between traversal, swimming, puzzle interaction, escape, and combat without fades, disconnected montage shots, or unexplained location changes. The geography should remain understandable, with the above-water ruins visibly connected to the submerged temple and the final arena positioned directly above the underwater complex.
+
+  The guardian should feel genuinely colossal compared with the player, with its body constructed from ancient carved stone, coral, golden mechanical structures, and centuries of marine growth. Its movements should feel extremely heavy, with believable inertia, delayed stone movement, environmental displacement, water interaction, and powerful impacts rather than fast human-like movements.
+
+  Maintain the same explorer, clothing, sword, golden forearm device, architecture, visual language, UI design, lighting logic, and ancient civilization aesthetic throughout the entire sequence. The UI must remain fixed to the screen and should respond logically to gameplay events without obstructing important action.
+
+  No gore, no subtitles, no dialogue, no first-person perspective, no cinematic black bars, and no transition that removes the feeling that the viewer is watching someone actively playing the game.

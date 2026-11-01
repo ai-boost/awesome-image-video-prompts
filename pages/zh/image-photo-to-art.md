@@ -1,6 +1,6 @@
 # 照片转艺术风格
 
-[返回目录](../../README_zh.md) · 全部 107 条
+[返回目录](../../README_zh.md) · 全部 108 条
 
 <a id="gpt-image-photo-to-watercolor-travel"></a>
 ### 上半旅行照片，下半同一场景水彩画
@@ -755,6 +755,95 @@ No changes to the original photograph's natural color relationships.
 FINAL GOAL:
 
 Create a sophisticated, visually balanced editorial art poster that faithfully preserves the uploaded reference photograph while transforming its primary subject into an expressive, minimalist black-ink illustration.
+```
+
+</details>
+
+<a id="gpt-image-seagulls-split-paper-illustration"></a>
+### 上半为海边海鸥照片，下半为小幅纸本插画
+
+<a href="https://x.com/MahnoorAi12/status/2103092900842381493"><img src="../../previews/gpt-image-seagulls-split-paper-illustration.jpg" width="360"></a>
+
+上传原图作为精确参考，并要求上下各占一半的横向分割，人物、姿态和场景因此保持不变。插画只占下半部的一小块，配色限定为四色并保留大量暖白留白，营造安静的艺术书氛围。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@MahnoorAi12 on X](https://x.com/MahnoorAi12/status/2103092900842381493) · 392 赞，统计于 2026-10-31
+
+[`split-layout`](tags.md#tag-split-layout) [`paper-illustration`](tags.md#tag-paper-illustration) [`art-book`](tags.md#tag-art-book) [`editorial-poster`](tags.md#tag-editorial-poster)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a high-end independent art-book editorial poster using the uploaded photo as the EXACT visual reference.
+
+STRICT FORMAT:
+- Vertical 3:4 canvas
+- Divide the composition horizontally into two equal 50/50 sections
+- Top half = original photograph
+- Bottom half = minimalist handmade-paper illustration
+
+TOP HALF — PHOTOGRAPH:
+Preserve the uploaded photograph faithfully and naturally.
+Keep the exact subject identity, facial features, pose, clothing, hairstyle, body position, objects, environment, composition, perspective, lighting and recognizable details.
+Do not redesign or replace the subject.
+Do not change the scene.
+Apply only subtle premium editorial color grading with soft natural contrast, refined tones and realistic photographic texture.
+The photograph should remain photographic and occupy exactly the entire top 50%.
+
+BOTTOM HALF — MINIMALIST ILLUSTRATION:
+Reinterpret only the most recognizable elements from the original photo as a small centered handmade paper illustration.
+
+The illustration must:
+- occupy only around 10–20% of the bottom section
+- remain clearly recognizable from the original photo
+- use delicate imperfect hand-drawn lines
+- use bold flat acrylic-like color shapes
+- have subtle handmade paper grain
+- have slightly organic imperfect edges
+- feel handcrafted rather than digitally perfect
+- use no more than 4 colors extracted from the original photograph
+- maintain generous warm off-white negative space around the illustration
+
+Keep the illustration small and understated.
+Do not let it dominate the bottom half.
+
+EDITORIAL DESIGN:
+Create a quiet, poetic, refined independent art-book aesthetic.
+Use a warm off-white paper background in the bottom half.
+Optional: add extremely minimal editorial typography beneath the illustration using small elegant uppercase serif lettering with generous letter spacing.
+Typography must be subtle and secondary.
+
+VISUAL MOOD:
+quiet
+poetic
+minimal
+refined
+artistic
+premium
+museum-catalogue / independent art-book aesthetic
+natural
+timeless
+
+STRICTLY AVOID:
+cartoon style
+anime
+watercolor
+colored-pencil rendering
+3D rendering
+glossy effects
+photorealistic illustration
+busy composition
+large illustration
+commercial advertising aesthetic
+oversaturated colors
+heavy shadows
+excessive typography
+extra objects
+altered identity
+changed clothing
+changed pose
+changed facial features
+
+The final image should look like a carefully designed contemporary art-book cover where the original photograph and its tiny handmade interpretation coexist in a restrained 50/50 editorial composition.
 ```
 
 </details>

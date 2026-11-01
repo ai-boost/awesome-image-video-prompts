@@ -1,0 +1,25 @@
+id: h3-character-fast-cut-montage
+title:
+  en: Painterly white-haired swordswoman with glowing blue sword
+  zh: 白发油画风女剑士持发光蓝色长剑
+model: MiniMax H3
+mode: reference-to-video
+category: action
+tags:
+- fast-cuts
+- montage
+- character-reference
+- sword
+source:
+  name: '@aimikoda on X'
+  url: https://x.com/aimikoda/status/2101236672725757958
+  credit: Kōda
+  likes: 508
+  captured: '2026-10-31'
+  posted: '2026-09-19'
+video: https://x.com/aimikoda/status/2101236672725757958
+notes:
+  en: The prompt opens on the strongest gesture already in motion and requires at least 30 hard cuts with whip pans whose movement direction matches across shots. Cuts lock to percussion and material sounds and the clip ends on a held pose.
+  zh: 提示词要求开场即处于最有力的动作中，至少30次硬切，并让每次切换的运动方向保持一致。剪切与鼓点和材质音效同步，结尾停在最强的定格姿势上。
+prompt: |
+  Create a fast, densely cut character edit using the character in @[character ref]. Preserve their identity, proportions, outfit, and original rendering style. Let their appearance and attitude determine the setting, movement, lighting, and music. Open with their strongest gesture already underway. Build around one distinctive action, carrying its motion across cuts so each new angle advances it. Snap between extreme details, expressive close-ups, and full-body movement. Use at least 30 hard cuts in accelerating bursts, sudden changes in framing, and whip pans that land directly on the next action. Match movement direction across shots to keep the character readable at speed. Synchronize cuts with driving percussion, sharp sound accents, and sounds drawn from the character’s materials. Keep momentum continuous through the payoff, ending sharply on the strongest pose without lingering. Avoid unrelated props, invented powers, and costume changes.

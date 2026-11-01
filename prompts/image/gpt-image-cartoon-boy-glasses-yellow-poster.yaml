@@ -1,0 +1,40 @@
+id: gpt-image-cartoon-boy-glasses-yellow-poster
+title:
+  en: Cartoon boy with glasses on mustard yellow
+  zh: 黄色背景上戴眼镜的卡通少年
+model: GPT Image 2.5
+mode: text-to-image
+category: character
+tags:
+- cartoon
+- cel-shading
+- character
+- portrait
+source:
+  name: '@Ziha_ai on X'
+  url: https://x.com/Ziha_ai/status/2116358392579338599
+  credit: Ziha
+  likes: 376
+  captured: '2026-10-31'
+  posted: '2026-10-31'
+notes:
+  en: Stacking exaggerated proportions, bold ink outlines and cel shading gives a clean animated look. A solid mustard background and a centered 9:16 crop keep the figure isolated with plenty of negative space.
+  zh: 叠加夸张比例、粗黑墨线和赛璐璐阴影，营造干净的动画质感。纯色芥末黄背景与居中的 9:16 竖版构图让人物突出，留白充足。
+prompt: |
+  Create a highly detailed, hand-drawn 2D cartoon character illustration in a stylish, edgy, modern animated graphic novel aesthetic.
+
+  Character: A quirky young man with an oversized head, slim body, slightly messy spiky hair, thick oversized black glasses, small black ear studs, and a confident, slightly unimpressed expression. Exaggerated facial features with expressive eyes, a small nose, and a subtle smirk.
+
+  Pose: Waist-up portrait, body turned slightly sideways, head tilted upward, eyes looking off to the side, relaxed and casual posture.
+
+  Outfit: Oversized black streetwear T-shirt with bold orange graphic lettering, natural fabric folds, and subtle shading.
+
+  Art Style: Clean bold black ink outlines, exaggerated cartoon proportions, smooth cel shading, warm skin tones, crisp highlights, subtle textured brushwork, polished hand-drawn animation aesthetic.
+
+  Background: Solid vibrant mustard yellow, minimal and uncluttered, with generous negative space around the character.
+
+  Composition: Vertical 9:16 poster, character positioned in the center, slightly below the middle, head and upper torso fully visible.
+
+  Quality: High-resolution digital illustration, professional character design, expressive personality, consistent linework, cinematic lighting.
+
+  No watermark, no extra objects, no border, no photorealism.

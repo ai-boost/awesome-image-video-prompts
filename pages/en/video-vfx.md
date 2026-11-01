@@ -1,6 +1,6 @@
 # VFX and transformations
 
-[Back to the list](../../README.md) · All 82 entries
+[Back to the list](../../README.md) · All 87 entries
 
 <a id="veo-giant-girl-shibuya-crossing"></a>
 ### Giant girl kneeling over a Tokyo crossing
@@ -127,6 +127,110 @@ Hyper-realistic miniature luxury farmhouse construction site at the very first s
 
 </details>
 
+<a id="seedance-gold-silver-coupe-street-race"></a>
+### Gold and silver coupes race down blue night street
+
+<a href="https://x.com/Ror_Fly/status/2088323847921521016"><img src="../../previews/seedance-gold-silver-coupe-street-race.jpg" width="360"></a>
+
+Solid color silhouettes from SAM masks and a synced depth map pin each car's position, scale and overlap to the original plate. Separate reference images lock each livery, and the prompt bans the mask colors and fixes the camera to the plate motion.
+
+Seedance 2.5 · Video edit · Source: [@Ror_Fly on X](https://x.com/Ror_Fly/status/2088323847921521016) · 889 likes on 2026-10-31
+
+[`car-chase`](tags.md#tag-car-chase) [`depth-map`](tags.md#tag-depth-map) [`sam-mask`](tags.md#tag-sam-mask) [`fast-and-furious`](tags.md#tag-fast-and-furious)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Output ONE single full-frame 16:9 shot only — never reproduce the stacked two-panel layout of the reference video; no split screen, no duplicated frames, no panels of any kind.
+
+Creatives: [video1] is a VFX control reference for one shot, repeated as a loop — TOP half is the live-action night plate with BOTH race cars masked as flat color silhouettes: the NEAR car is solid RED, the FAR car is solid GREEN; BOTTOM half is the synchronized depth map of the same frames (warm = near, cool = far) — it defines both cars' 3D form and relative depth, honor it but never show its colors in the output. [image1] shows the car for the RED silhouette. [image2] shows the car for the GREEN silhouette.
+
+Night street race, two cars neck-and-neck sprinting left through a blue-lit city street, backgrounds motion-blurred, cinematic 2000s action-film look.
+
+Recreate the TOP panel's background, camera motion and timing exactly. Replace the RED silhouette with a metallic gold 1990s sports coupe with a tall rear wing and white-and-red flame graphics — strictly maintain the consistency of the body shape, flame livery, wheels and gold paint of [image 1]. Replace the GREEN silhouette with a silver late-1990s performance coupe with angular blue vinyl graphics and dark multi-spoke wheels — strictly maintain the consistency of the silver paint, blue graphic pattern, front bumper and wheel design of [image 2]. Each car matches its silhouette's position, scale, overlap and motion frame-for-frame — the gold car partially occludes the silver car exactly where the red silhouette overlaps the green one. Headlights on, blue underglow beneath the silver car, wheels blurred at race speed.
+
+0–4s: both cars charge left in tight formation, gold coupe nearest camera, silver coupe half-hidden beyond it. The camera holds its plate motion. Hold.
+
+No red or green silhouettes visible in the output, no depth-map or heat-map colors anywhere in frame. No subtitles, no BGM, no on-screen text. Prohibit objects appearing out of thin air, prohibit either car changing shape, color, or livery mid-shot, prohibit extra cars entering frame, no mixing of the two cars' designs, accurate quantity: exactly two cars. The entire video should have no sound.
+```
+
+</details>
+
+<a id="h3-creature-encyclopedia-ui"></a>
+### Creature encyclopedia UI with cursor selecting creatures
+
+<a href="https://x.com/aimikoda/status/2083949566009778473"><img src="../../previews/h3-creature-encyclopedia-ui.jpg" width="360"></a>
+
+Each reference image is mapped to a labelled card in the prompt, so every creature stays consistent when the selection changes. Locking the camera and limiting motion to the cursor, title and selected creature keeps the interface stable across the whole sequence.
+
+MiniMax H3 · Reference-to-video · Source: [@aimikoda on X](https://x.com/aimikoda/status/2083949566009778473) · 872 likes on 2026-10-31
+
+[`ui-animation`](tags.md#tag-ui-animation) [`creature`](tags.md#tag-creature) [`reference-images`](tags.md#tag-reference-images) [`pokedex-style`](tags.md#tag-pokedex-style)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Use Image 1 as the exact UI/layout/style reference for the creature encyclopedia screen.
+Use Images 2–9 as the exact creature references.
+Map them like this:
+Image 2 = card A = LUMI HARE
+Image 3 = card B = CLOUD WISP
+Image 4 = card C = EMBER FENNEC
+Image 5 = card D = TIDE BEHEMOTH
+Image 6 = card E = PETAL VULPIN
+Image 7 = card F = ORCHARD EYE
+Image 8 = card G = MEADOW CROWN
+Image 9 = card H = FROST GLIDER
+
+Create a 15-second 16:9 video. Keep the camera locked. Keep the interface, layout, typography, panels, icons and overall composition stable, elegant and readable. The UI should feel like a modern minimal digital creature encyclopedia, similar to a sleek pokedex. No scene cuts, no extra text, no extra buttons, no UI distortion.
+
+Sequence:
+0–2.5s: Cursor clicks card A. Main creature becomes LUMI HARE. Title changes to “LUMI HARE”. Creature blinks and rotates slightly.
+2.5–5s: Cursor clicks card C. Main creature becomes EMBER FENNEC. Title changes to “EMBER FENNEC”. Cursor drags to rotate it left and right.
+5–7.5s: Cursor clicks card E. Main creature becomes PETAL VULPIN. Title changes to “PETAL VULPIN”. Cursor pokes it a few times. It reacts, annoyed.
+7.5–10s: Cursor clicks card G. Main creature becomes MEADOW CROWN. Title changes to “MEADOW CROWN”. Cursor taps near the face/horns. It recoils slightly.
+10–12s: Cursor clicks card D. Main creature becomes TIDE BEHEMOTH. Title changes to “TIDE BEHEMOTH”. Cursor keeps poking it.
+12–15s: TIDE BEHEMOTH gets angry, opens its mouth very wide, lunges forward, and swallows the cursor. Then it returns to idle. Title stays “TIDE BEHEMOTH”.
+
+Rules:
+- When a card is selected, both the main creature and the main title must update.
+- Only animate cursor, selection state, title change, and the selected creature.
+- Only one cursor.
+- Keep motion subtle and clean until the final swallow.
+- No cuts, no camera move, no UI distortion, no extra text.
+
+Audio:
+soft UI click sounds, subtle hover sounds, tiny creature reaction sounds, then a sharper aggressive creature sound and one comedic swallow gulp at the end.
+```
+
+</details>
+
+<a id="omni-talking-head-design-language-edit"></a>
+### Talking host restyled in grayscale with blue brush
+
+<a href="https://x.com/ozansihay/status/2068770944282178025"><img src="../../previews/omni-talking-head-design-language-edit.jpg" width="360"></a>
+
+A meta-prompt makes Omni first write a self-contained design brief from the reference, so the edit model needs no image. Locking face, voice, lip sync and hand motion while changing only the visual layer keeps the talking head intact.
+
+Gemini Omni Flash · Video edit · Source: [@ozansihay on X](https://x.com/ozansihay/status/2068770944282178025) · 819 likes on 2026-10-31
+
+[`meta-prompt`](tags.md#tag-meta-prompt) [`talking-head`](tags.md#tag-talking-head) [`color-grading`](tags.md#tag-color-grading) [`motion-graphics`](tags.md#tag-motion-graphics)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Analyze the reference image I uploaded. Write only the final prompt that I can paste into another video editing/generation model.
+No video generation, video editing, image generation, or any output generation. No writing descriptions, analysis summaries, titles, bullet lists, or comments. Your response should consist solely of a single ready-to-use prompt text.
+The prompt you prepare should be written in a way that can be understood by another model without access to the reference image. Therefore, avoid vague phrases in the prompt such as "like in the reference image," "the style in the uploaded image," or "this design."
+Describe the design language of the reference image clearly and in detail within the prompt: color palette, composition, background texture, typography style, graphic elements, collage/doodle/sticker/poster/editorial details, lighting-contrast, grain, halftone, paper texture, sense of motion, and overall atmosphere.
+Specify in the prompt: The person's face, identity, voice, speech, lip sync, facial expressions, and hand movements in the video must be preserved. Only the visual design language should change.
+Analyze the topic being narrated in the video. Symbols, icons, shapes, stickers, collage pieces, doodle lines, brush effects, or motion graphic details appropriate to the topic can be added.
+From the topic narrated in the video, select only a few key words and use them as short text elements suitable for the design. Do not turn full sentences, long explanations, subtitles, or the entire speech into text. The texts should be few in number, for emphasis purposes, and suitable for the design style.
+The final prompt should be clear, applicable, and sufficient on its own for editing a vertical video that is suitable for social media, modern, creative, and premium-looking.
+```
+
+</details>
+
 <a id="h3-police-officer-scooby-doo-haunted-hallway"></a>
 ### Live hallway footage restyled as 1970s cartoon
 
@@ -217,6 +321,60 @@ Fully retain the original audio from the reference video (music, voice, animal s
 
 [Prohibitions]
 No mechanical joints, ball joints, splice seams, segmented structures, screws, hinges, metallic or plastic sensations; Nor any robotic, puppet, doll, toy, or low-polygon feel; Motions must not be rigid or like independent parts rotating; No eyes, facial features, hair textures, clothing, colors, text; Do not add or remove subjects, nor alter motions, speeds, or camera movements.
+```
+
+</details>
+
+<a id="omni-miniature-treehouse-platform-timelapse"></a>
+### Miniature treehouse platform with a hand placing a beam
+
+<a href="https://x.com/Strength04_X/status/2086643354385944937"><img src="../../previews/omni-miniature-treehouse-platform-timelapse.jpg" width="360"></a>
+
+Starting the clip from the finished platform of the previous prompt keeps the structure consistent across a multi-part series, and the end-frame description sets a clear finish state. Macro lens wording, shallow depth of field and named tools give the miniature scale its realism.
+
+Gemini Omni Flash · Image-to-video · Source: [@Strength04_X on X](https://x.com/Strength04_X/status/2086643354385944937) · 524 likes on 2026-10-31
+
+[`miniature`](tags.md#tag-miniature) [`timelapse`](tags.md#tag-timelapse) [`treehouse`](tags.md#tag-treehouse) [`macro`](tags.md#tag-macro)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+MOTION PROMPT 2 — Wooden Walls & Windows : Use the completed elevated foundation platform from Motion Prompt 1 as the exact starting frame. Preserve complete visual continuity of the tree, platform, materials, lighting, camera perspective, miniature scale and environment.
+
+Create an ultra fast timelapse speed construction scene with human hands continuously constructing and moving rapidly.
+
+Multiple rapid scene cuts show miniature wooden wall frames being measured and positioned, vertical timber studs rising rapidly, wooden panels being attached, corners being reinforced, cement-like bonding material used where appropriate, window openings carefully formed, a doorway opening created, tiny structural brackets installed and the complete wall structure assembled.
+
+Show visible material placement throughout the sequence. Human hands rapidly carry and position tiny wooden boards while miniature hammers, screwdrivers, drills, levels, clamps and measuring tools are actively used.
+
+The walls progressively rise around the entire foundation. Window openings remain clearly visible and accurately positioned. The doorway becomes fully formed. Every cut reveals substantial construction advancement.
+
+Realistic hand movements, tiny screws, nails, wood dust, small construction debris and natural material interaction.
+
+cinematic macro photography, ultra realistic textures, detailed wood grain, realistic tree bark, natural forest lighting, shallow depth of field, dynamic construction progression, satisfying construction transformations, multiple rapid scene cuts, ultra fast timelapse speed, human hands continuously constructing and moving rapidly.
+
+The entire wall structure becomes fully completed before the clip ends.
+
+End Frame: fully completed miniature treehouse walls with finished window openings and doorway, structurally ready for roof construction, with no unfinished wall sections visible.
+```
+
+</details>
+
+<a id="omni-miniature-ranch-foundation-stable-site"></a>
+### Miniature ranch foundation and stable site with tools
+
+<a href="https://x.com/Strength04_X/status/2087412312118550875"><img src="../../previews/omni-miniature-ranch-foundation-stable-site.jpg" width="360"></a>
+
+The prompt fixes the construction stage by listing what must be absent (no finished house, no completed stable, no animals), so the first frame works as a stable starting point. Giant human fingers and a steel ruler supply the physical scale that sells the miniature look.
+
+Gemini Omni Flash · Image-to-video · Source: [@Strength04_X on X](https://x.com/Strength04_X/status/2087412312118550875) · 489 likes on 2026-10-31
+
+[`miniature`](tags.md#tag-miniature) [`macro`](tags.md#tag-macro) [`construction`](tags.md#tag-construction) [`countryside`](tags.md#tag-countryside)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+FIRST FRAME IMAGE PROMPT : Hyper-realistic miniature DIY ranch house construction site at the very beginning of construction, set on a natural countryside terrain with compact brown soil, short grass and subtle patches of dry earth. A partially prepared rectangular foundation area for a tiny rustic ranch house is clearly visible, with a second smaller foundation area beside it reserved for a horse stable. Giant realistic human fingers are carefully measuring and arranging miniature construction materials. Tiny realistic bricks, rough natural stones, wooden beams, miniature cement bucket, trowel, shovel, measuring ruler, wooden stakes, string line and small piles of sand, gravel and timber are scattered naturally around the site. The future ranch house footprint and stable location are clearly established but construction has not yet progressed beyond the foundation preparation stage. A few miniature wooden fence posts and hay bundles are placed nearby as construction materials, not yet installed. Ultra realistic macro photography, photorealistic miniature craftsmanship, 8K detail, cinematic studio lighting mixed with soft natural countryside daylight, shallow depth of field, sharp focus on the construction area, professional product photography, realistic shadows, ambient occlusion, extremely detailed soil grains, brick pores, wood fibers, stone textures and grass blades, physically believable scale, subtle handcrafted imperfections, cinematic composition, realistic depth, no finished house, no completed stable, no animals, no people visible except giant human hands and fingers, no text, no watermark.
 ```
 
 </details>

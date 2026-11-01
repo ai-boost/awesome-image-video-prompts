@@ -1,0 +1,35 @@
+id: seedance-gold-silver-coupe-street-race
+title:
+  en: Gold and silver coupes race down blue night street
+  zh: 金色与银色跑车在蓝色夜街飞驰
+model: Seedance 2.5
+mode: video-edit
+category: vfx
+tags:
+- car-chase
+- depth-map
+- sam-mask
+- fast-and-furious
+source:
+  name: '@Ror_Fly on X'
+  url: https://x.com/Ror_Fly/status/2088323847921521016
+  credit: Rory Flynn
+  likes: 889
+  captured: '2026-10-31'
+  posted: '2026-08-14'
+video: https://x.com/Ror_Fly/status/2088323847921521016
+notes:
+  en: Solid color silhouettes from SAM masks and a synced depth map pin each car's position, scale and overlap to the original plate. Separate reference images lock each livery, and the prompt bans the mask colors and fixes the camera to the plate motion.
+  zh: 用 SAM 遮罩生成的纯色剪影加上同步的深度图，把两辆车的位置、大小和遮挡对齐到原始画面。单独的参考图锁定每辆车的涂装，提示词同时禁止遮罩颜色出现在画面中，并让镜头沿用原片运动。
+prompt: |
+  Output ONE single full-frame 16:9 shot only — never reproduce the stacked two-panel layout of the reference video; no split screen, no duplicated frames, no panels of any kind.
+
+  Creatives: [video1] is a VFX control reference for one shot, repeated as a loop — TOP half is the live-action night plate with BOTH race cars masked as flat color silhouettes: the NEAR car is solid RED, the FAR car is solid GREEN; BOTTOM half is the synchronized depth map of the same frames (warm = near, cool = far) — it defines both cars' 3D form and relative depth, honor it but never show its colors in the output. [image1] shows the car for the RED silhouette. [image2] shows the car for the GREEN silhouette.
+
+  Night street race, two cars neck-and-neck sprinting left through a blue-lit city street, backgrounds motion-blurred, cinematic 2000s action-film look.
+
+  Recreate the TOP panel's background, camera motion and timing exactly. Replace the RED silhouette with a metallic gold 1990s sports coupe with a tall rear wing and white-and-red flame graphics — strictly maintain the consistency of the body shape, flame livery, wheels and gold paint of [image 1]. Replace the GREEN silhouette with a silver late-1990s performance coupe with angular blue vinyl graphics and dark multi-spoke wheels — strictly maintain the consistency of the silver paint, blue graphic pattern, front bumper and wheel design of [image 2]. Each car matches its silhouette's position, scale, overlap and motion frame-for-frame — the gold car partially occludes the silver car exactly where the red silhouette overlaps the green one. Headlights on, blue underglow beneath the silver car, wheels blurred at race speed.
+
+  0–4s: both cars charge left in tight formation, gold coupe nearest camera, silver coupe half-hidden beyond it. The camera holds its plate motion. Hold.
+
+  No red or green silhouettes visible in the output, no depth-map or heat-map colors anywhere in frame. No subtitles, no BGM, no on-screen text. Prohibit objects appearing out of thin air, prohibit either car changing shape, color, or livery mid-shot, prohibit extra cars entering frame, no mixing of the two cars' designs, accurate quantity: exactly two cars. The entire video should have no sound.

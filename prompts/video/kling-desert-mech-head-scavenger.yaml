@@ -1,0 +1,28 @@
+id: kling-desert-mech-head-scavenger
+title:
+  en: Scavenger beside a rusted mech head in desert
+  zh: 沙漠中漂泊者与锈蚀机械头颅
+model: Kling 3.0
+mode: text-to-video
+category: scifi-fantasy
+tags:
+- desert
+- mech
+- sandstorm
+- wasteland
+source:
+  name: '@LudovicCreator on X'
+  url: https://x.com/LudovicCreator/status/2024778580845072750
+  credit: LudovicCreator
+  likes: 753
+  captured: '2026-10-31'
+  posted: '2026-02-20'
+video: https://x.com/LudovicCreator/status/2024778580845072750
+notes:
+  en: The prompt sets the subject and location first, then a follow camera move, then a VFX list for wind, sand particles, metal texture and lighting flashes that controls material and atmosphere. The explicit list of simulation terms gives the model concrete targets for the sandstorm look.
+  zh: 提示词先交代主体与场景，再给出跟随镜头，最后用 VFX 清单列出风力、沙尘粒子、金属质感和闪电光照，用具体的模拟术语控制材质与沙暴氛围。
+prompt: |
+  A desert wasteland filled with decaying mechs and overgrown cables. The camera follows a scavenger wearing goggles as they climb through a rusted robot head. Lightning flashes in the distance, illuminating a sandstorm approaching fast. VFX: wind simulation, sand particle systems, metallic textures, dynamic lighting flashes.
+
+  Made in
+  @Kling_ai

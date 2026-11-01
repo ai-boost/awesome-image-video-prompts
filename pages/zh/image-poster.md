@@ -1,6 +1,6 @@
 # 海报与编辑排版
 
-[返回目录](../../README_zh.md) · 全部 199 条 · **1** · [2](image-poster-2.md)
+[返回目录](../../README_zh.md) · 全部 200 条 · **1** · [2](image-poster-2.md)
 
 <a id="gpt-image-flat-vector-city-travel-poster-template"></a>
 ### 适用任意城市的扁平矢量旅行海报模板
@@ -2005,6 +2005,488 @@ Card 3: "[FEATURE HEADING 3]" / "[FEATURE SUBLINE 3]"
 Card 4: "[FEATURE HEADING 4]" / "[FEATURE SUBLINE 4]"
 
 GRAPHIC DETAILS: Two or three small sparkle icons only, subtle grain, soft glassmorphism, controlled [PRIMARY BRAND COLOR]-white-[ACCENT COLOR] palette, no neon, no oversaturation.
+```
+
+</details>
+
+<a id="gpt-image-nike-impossible-routine-track-poster"></a>
+### 耐克海报，红色环形跑道与冲刺的女运动员
+
+<a href="https://x.com/Diplomeme/status/2099417551411494936"><img src="../../previews/gpt-image-nike-impossible-routine-track-poster.jpg" width="360"></a>
+
+提示词按章节写明配色比例、字体层级、元素位置、光线与机位，每个元素都有确定的位置。把超现实规则写成动作改变建筑，让不可能的跑道有物理逻辑，而不是随机的幻想元素。
+
+GPT Image 2.5 · 文生图 · 出处: [@Diplomeme on X](https://x.com/Diplomeme/status/2099417551411494936) · 288 赞，统计于 2026-10-31
+
+[`nike`](tags.md#tag-nike) [`sports`](tags.md#tag-sports) [`surrealism`](tags.md#tag-surrealism) [`typography`](tags.md#tag-typography)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+NIKE — “THE IMPOSSIBLE ROUTINE”
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PROMPT — NIKE “THE IMPOSSIBLE ROUTINE”
+FORMAT
+Ultra-Premium Nike Fashion × Sport SMM Promotional Poster
+Vertical 4:5 Instagram Hero Creative
+Global Sportswear Campaign
+Contemporary Nike Advertising
+Commercial Fashion Photography × Surrealist Art Direction
+Agency-Level Art Direction
+Behance Front Page Quality
+8K UHD
+Hyper-Realistic Surrealism × Performance × Graphic Design
+High-Impact Visual Communication
+Zero AI Slop
+Zero Generic Sports Advertising
+Zero Catalogue Aesthetic
+Zero Generic Sneaker Advertisement
+Zero Luxury-Copycat Aesthetic
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CORE STRATEGY
+This is not simply a Nike product advertisement.
+This is Nike turned into a surreal visual statement.
+The campaign should communicate:
+Discipline does not look normal.
+Nike should feel:
+fearless + kinetic + youthful + disruptive + athletic + culturally relevant + relentlessly ambitious
+The visual language should combine:
+Nike performance campaign × contemporary fashion editorial × surrealist photography × conceptual art × graphic poster design × digital-first social advertising
+The surrealism must feel physically believable, not like random AI fantasy.
+Every impossible element should communicate something about movement, discipline, repetition or athletic ambition.
+The result should feel like a real global Nike campaign photographed inside an impossible world.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CAMPAIGN IDEA
+“THE IMPOSSIBLE ROUTINE”
+Athletes repeat the same movements every day.
+Run.
+Jump.
+Train.
+Recover.
+Repeat.
+So what happens when the world itself begins repeating with them?
+A running track loops vertically into the sky.
+A staircase curves impossibly around the athlete.
+Shoes leave physical trails of architecture behind every step.
+The campaign visualizes the mindset:
+THE ROUTINE IS IMPOSSIBLE.
+THAT’S THE POINT.
+Nike becomes the brand that makes impossible effort feel inevitable.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MASTER VISUAL
+Create one enormous surreal architectural environment.
+A monumental red running track begins beneath the athlete’s feet and extends forward into the distance.
+Instead of ending normally, the track rises vertically into the sky, bends at a mathematically impossible angle and returns behind the athlete, creating a continuous infinite loop.
+The environment resembles:
+Olympic training facility × brutalist architecture × surrealist dreamscape × Nike campaign set
+The athlete stands at the exact visual center.
+Around them, multiple versions of the same running track appear at different scales.
+One track passes horizontally behind the subject.
+Another rises vertically.
+Another disappears into a gigantic architectural doorway.
+Another curves overhead like a suspended ribbon.
+The impossible geometry should still obey believable:
+perspective + lighting + shadows + material physics.
+No floating random objects.
+No fantasy clouds.
+No psychedelic effects.
+The surrealism must be architectural, physical and intentional.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+HERO SUBJECT
+Young female athlete.
+Contemporary global athletic appearance.
+Natural skin texture.
+Realistic facial proportions.
+Strong athletic physique.
+Confident expression.
+Minimal makeup.
+Hair naturally affected by movement.
+No influencer aesthetic.
+No exaggerated bodybuilding.
+No fashion-model stiffness.
+She should look like a real Nike athlete photographed during an intense training session.
+Direct eye contact with the camera.
+Calm expression.
+The world around her is impossible.
+She remains completely composed.
+That contrast creates the visual tension.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+HERO PRODUCT
+Nike performance running shoe.
+Contemporary aerodynamic silhouette.
+Black / white base with a controlled Nike orange-red accent.
+Highly realistic engineered mesh.
+Visible stitching.
+Realistic rubber outsole.
+Subtle material variation.
+Accurate proportions.
+The Nike Swoosh clearly visible but naturally integrated into the footwear.
+No oversized logo.
+No fake product design.
+No distorted branding.
+The shoe must look like a real commercially manufactured Nike performance product.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+WARDROBE
+Contemporary Nike performance styling.
+Black fitted technical running top.
+Relaxed lightweight performance shorts.
+White technical socks.
+Nike running shoes.
+Subtle red-orange accent details.
+Minimal accessories.
+No excessive logos.
+No futuristic costume.
+No couture.
+No unnecessary straps or technological gadgets.
+The clothing should feel available, wearable and genuinely athletic, elevated through exceptional art direction.
+Realistic fabric tension.
+Visible technical textile construction.
+Natural folds.
+Sweat and subtle skin texture.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+POSE / MOVEMENT
+Capture the athlete immediately after a sprint.
+One foot planted aggressively.
+The opposite leg slightly lifted.
+Torso leaning forward.
+One arm naturally pulled backward.
+Other arm forward.
+Hair and clothing reacting to momentum.
+Tiny particles of track dust suspended in the air.
+The athlete appears frozen for one fraction of a second.
+Behind her, the impossible track continues moving through the environment.
+The photograph should feel like a genuine action photograph captured at the exact right moment.
+Not a fashion pose.
+Not a CGI character standing still.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+COMPOSITION
+VISUAL HIERARCHY
+NIKE / SWOOSH
+↓
+IMPOSSIBLE ENVIRONMENT
+↓
+ATHLETE
+↓
+PRODUCT
+↓
+CAMPAIGN MESSAGE
+↓
+CTA
+Use extreme negative space around selected areas.
+The surreal architecture should frame the athlete rather than compete with her.
+The eye should travel naturally:
+typography → face → body → shoes → looping track → typography.
+Create a visual loop.
+The composition itself should behave like the campaign concept.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+NIKE COLOR SYSTEM
+PRIMARY BLACK
+#000000
+Used for:
+Typography
+Athletic wardrobe
+Architectural shadows
+Graphic blocks
+WHITE
+#FFFFFF
+Used for:
+Negative space
+Typography
+Highlights
+Technical details
+NIKE-STYLE RED / ORANGE ACCENT
+A highly saturated warm Nike campaign accent.
+Used strategically for:
+Running track
+Graphic blocks
+Small typography
+Product detailing
+Directional arrows
+The accent color should function as a visual trigger, not dominate the entire poster.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+COLOR RATIO
+55% white / warm architectural neutral
+25% black
+15% red-orange
+5% natural skin / environmental tones
+The image should remain recognizably Nike through the controlled black-white-red visual relationship without becoming a simple red-and-black advertisement.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+BACKGROUND
+Create an enormous white brutalist athletic facility.
+Monumental concrete walls.
+Seamless white floor.
+Massive geometric openings.
+Hard architectural edges.
+Large empty surfaces.
+No recognizable city.
+No stadium crowd.
+No conventional gym.
+No advertisements.
+No distracting scenery.
+The environment should feel like a Nike training facility that exists outside normal physics.
+One massive red-orange running track cuts through the architecture.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SURREALISM SYSTEM
+The surrealism must follow one central rule:
+MOVEMENT CHANGES ARCHITECTURE.
+Where the athlete runs, the environment bends.
+The track becomes a wall.
+The wall becomes a staircase.
+The staircase becomes another track.
+The track becomes a circular loop.
+The loop becomes the horizon.
+Use subtle impossible geometry rather than random surreal objects.
+Secondary surreal details:
+* A shadow running in a slightly different direction than the athlete.
+* Multiple identical starting lines extending into different architectural dimensions.
+* A giant stopwatch embedded into the concrete wall.
+* Floating lane numbers physically attached to architectural surfaces.
+* Repeated track markings disappearing into infinity.
+* A distant version of the athlete barely visible on another loop.
+Every surreal element must have conceptual purpose.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+GRAPHIC DESIGN SYSTEM
+Create a sophisticated contemporary sports-editorial grid.
+Use:
+bold condensed typography
+thin technical rules
+lane numbers
+distance measurements
+training codes
+micro typography
+cropped numerals
+directional arrows
+registration marks
+small technical coordinates
+vertical labels
+red graphic blocks
+The graphic system should feel inspired by:
+Nike campaign design × sports science interface × contemporary editorial typography × athletic wayfinding.
+Do not turn the poster into a UI.
+The photography remains dominant.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TYPOGRAPHY SYSTEM
+PRIMARY HEADLINE
+Massive bold condensed uppercase typography.
+High-impact sports campaign character.
+Extremely large scale.
+Tight leading.
+Minimal tracking.
+Strong vertical presence.
+The typography can be partially cropped beyond the canvas.
+It should feel physically integrated into the architecture.
+Some letters can appear printed directly onto the running track.
+Others can exist as oversized architectural signage.
+PRIMARY MESSAGE
+THE IMPOSSIBLE ROUTINE
+Stack the words vertically.
+Make:
+IMPOSSIBLE
+the dominant word.
+Allow the athlete to partially obscure the typography.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TOP LEFT
+Small Nike logo / Swoosh.
+Clean placement.
+Generous clear space.
+No distortion.
+No unnecessary effects.
+Underneath:
+RUNNING / TRAINING / 01
+Very small technical typography.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+GIANT CENTER TYPOGRAPHY
+Massive:
+IMPOSSIBLE
+running vertically through the composition.
+Some letters disappear behind architectural structures.
+Some extend outside the canvas.
+The athlete interrupts the word.
+The track physically intersects the typography.
+The typography should feel like part of the environment rather than something placed over a photograph.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CAMPAIGN TITLE
+Lower-left:
+THE ROUTINE
+with:
+IS IMPOSSIBLE.
+The second line substantially larger.
+Add a small red-orange underline.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SUPPORTING COPY
+RUN IT AGAIN.
+Secondary line:
+UNTIL IMPOSSIBLE FEELS NORMAL.
+Keep the copy extremely concise.
+No paragraph.
+No generic motivational copy.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PERFORMANCE INFORMATION
+Small structured block:
+NIKE RUNNING
+01 / 04
+DISTANCE — 10K
+PACE — UNLIMITED
+MINDSET — RELENTLESS
+Use micro typography.
+Make it feel like an authentic campaign production detail rather than fake technical data overload.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PROMOTIONAL STRIP
+Create a thin red-orange horizontal strip.
+Inside:
+NEW PERFORMANCE / RUNNING / TRAINING / NIKE ATHLETICS
+White uppercase typography.
+The strip should operate as part of the graphic grid.
+Not a sale banner.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CTA
+Bottom-right:
+RUN NOW →
+Black rectangular button.
+White uppercase typography.
+Underneath:
+Explore Nike Running
+Compact.
+Commercially clear.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PRODUCT CALLOUT
+Near the lower portion of the composition:
+ENGINEERED FOR THE NEXT MILE
+Small typography connected to the shoe through a thin technical line.
+Do not create a traditional product specification panel.
+The product remains part of the story.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+BOTTOM FEATURE STRIP
+Thin black rule.
+Then:
+RUN / TRAIN / MOVE / RECOVER / REPEAT
+Centered beneath.
+Use small uppercase typography.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+VERTICAL EDGE TEXT
+Right edge:
+NIKE / RUNNING / 01
+Rotated vertically.
+Small.
+Precise.
+Technical.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SIGNATURE SURREAL DEVICE
+Create one enormous red-orange circular running track behind the athlete.
+It forms an impossible vertical loop.
+At the top of the loop:
+01
+At the bottom:
+RUN IT AGAIN
+The loop should appear physically constructed from real rubber running-track material.
+Visible lane texture.
+Subtle dirt.
+Tiny imperfections.
+Realistic edge wear.
+Hard sunlight creating believable shadows.
+This becomes the campaign’s visual signature.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHOTOGRAPHIC STYLE
+High-energy contemporary Nike sports photography.
+Dramatic contrast.
+Frozen action.
+Real physical momentum.
+Natural athletic movement.
+Sharp facial detail.
+Visible pores.
+Real sweat.
+Real fabric texture.
+Real shoe construction.
+Subtle motion blur only where physically appropriate.
+The image should feel captured by a professional sports photographer, not rendered by a 3D artist.
+Surrealism comes from the environment, not from making the athlete look artificial.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+LIGHTING
+Large directional sunlight entering from the upper-left.
+Hard architectural shadows.
+Bright white concrete.
+Deep black clothing separation.
+Rich red-orange track surfaces.
+Natural skin exposure.
+Subtle reflected light from the white environment.
+No neon.
+No colored fog.
+No artificial rim lighting.
+No excessive bloom.
+No beauty-dish glamour.
+No dreamy fashion haze.
+The impossible environment must still obey a single coherent lighting system.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CAMERA
+ARRI Alexa Mini LF
+50mm high-end sports/editorial lens
+Slightly low camera position.
+Full-body composition.
+Fast shutter speed.
+Extremely sharp athlete.
+Moderate depth of field.
+Natural perspective.
+High dynamic range.
+Realistic lens compression.
+Subtle cinematic motion character.
+Premium global sports campaign photography.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+POST-PRODUCTION
+Contemporary global Nike campaign grading.
+Clean whites.
+Deep blacks.
+Controlled saturated red-orange.
+Natural skin tones.
+High micro-contrast.
+Visible textile texture.
+Crisp architectural edges.
+Subtle film grain.
+Realistic photographic imperfections.
+Controlled highlights.
+No plastic skin.
+No artificial HDR.
+No teal-orange grading.
+No excessive sharpening.
+No fake CGI gloss.
+No excessive grain.
+No surreal color manipulation.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+BRAND SAFETY / CONSISTENCY
+The final visual must immediately communicate Nike without depending entirely on the logo.
+Brand recognition should come from:
+athletic energy
+performance culture
+bold typography
+black / white / red-orange visual language
+movement
+youthful confidence
+graphic simplicity
+conceptual advertising
+cultural relevance
+relentless ambition
+Do not make it resemble:
+ZARA’s restrained editorial minimalism.
+Adidas’ traditional sports graphics.
+Puma’s conventional performance advertising.
+Under Armour’s dark tactical aesthetic.
+New Balance’s retro-running identity.
+Luxury fashion advertising.
+Generic fitness advertising.
+AI-generated surrealism.
+The visual identity must remain Nike.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FINAL FEEL
+If:
+Nike × a contemporary fashion magazine × a surrealist artist × an elite sports photographer × a world-class graphic design studio
+created one campaign together—
+the result should feel like THE IMPOSSIBLE ROUTINE.
+Not a sneaker advertisement.
+Not a motivational poster.
+Not a conventional sports campaign.
+Not random surrealism.
+Not an AI fantasy image.
+A high-impact Nike campaign where athletic movement literally bends reality.
+Vertical 4:5 — 8K UHD — hyper-realistic — surreal architectural environment — dramatic action photography — black/white/red-orange palette — oversized condensed typography — precise editorial grid — realistic human anatomy — natural skin — detailed performance fabrics — physically believable surrealism — realistic Nike footwear — crisp readable typography — premium commercial photography — agency-level art direction — Instagram hero creative — Behance front-page quality — print-ready.
 ```
 
 </details>
@@ -6726,340 +7208,6 @@ Create an ultra-detailed 3D stylized creative designer poster featuring a cool y
 Surround the character with floating creative elements including a glowing laptop, professional camera, design books, notebooks, 3D icons, social media symbols, holographic UI panels, graphic design tools, and futuristic blue geometric shapes. Add motivational typography such as "DESIGN MODE", "CREATE • BUILD • INSPIRE", and "CREATIVE NEVER SLEEPS" integrated into the scene.
 
 Include a collectible chibi mini-figure version of the character standing beside the main subject on a display base. Use cinematic blue lighting, glossy reflections, volumetric glow, depth of field, floating particles, luxury toy-photography aesthetics, high-end 3D rendering, Octane Render quality, ultra-sharp details, vibrant neon blue color palette, futuristic creator workspace atmosphere, premium commercial poster design, trending ArtStation style, masterpiece quality, 8K resolution, vertical 9:16 composition.
-```
-
-</details>
-
-<a id="gpt-image-opera-house-riso-zine-split-poster"></a>
-### 悉尼歌剧院实景照片与孔版印刷杂志重构双联海报
-
-<a href="https://x.com/sebatheepan/status/2101034408253837454"><img src="../../previews/gpt-image-opera-house-riso-zine-split-poster.jpg" width="360"></a>
-
-画面上下分区，上半是忠实实景，下半是双色孔版印刷重构，并明确要求保留建筑原貌，地标依然一眼可辨。结构、光线、密度和文字都留成固定槽位，一套母提示词就能批量出系列，并用唯一红色点缀和固定留白统一版面。
-
-GPT Image 2.5 · 文生图 · 出处: [@sebatheepan on X](https://x.com/sebatheepan/status/2101034408253837454) · 52 赞，统计于 2026-10-29
-
-[`risograph`](tags.md#tag-risograph) [`zine`](tags.md#tag-zine) [`architecture`](tags.md#tag-architecture) [`split-layout`](tags.md#tag-split-layout) [`template`](tags.md#tag-template)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-─────────────────────────
-One poster, 3:4 vertical canvas. Split into two roughly equal zones — a realistic photograph on top, a printed reconstruction below — divided by one clean sharp horizontal line. The structure must not be stretched, warped, tilted or repositioned unnaturally.
-
-TOP HALF — THE REAL SHOT
-{STRUCTURE DESCRIPTION}. {PLATE LIGHT}. Preserve the structure faithfully: same architecture, proportions, perspective, distinctive details, natural light and shadow. Add only a subtle high-end color grade and the faintest film grain. Never redesign or reinterpret the architecture.
-
-BOTTOM HALF — THE PRINTED RECONSTRUCTION
-Rebuild the same structure as a two-color risograph zine print: bold flat spot-color shapes (one deep ink layer plus the structure's muted colors as a second spot layer), visible misregistration offsets between the layers, drum streaks, coarse layered ink-grain, halftone texture from overlapping dots, a zine masthead bar, two staple marks and paste-up edges. The photograph dissolves outward into flat spot-color shapes, misaligned layers and grainy ink. The structure must remain immediately recognizable. {PLATE DENSITY}.
-Texture: cheap zine paper, layered soy ink, misregistration, drum streaks, folded-edge wear, cut-and-paste edges, restrained crop marks, one small fluorescent red calibration bar. Color: cream zine paper, black ink, one deep spot color, the structure's original muted colors, a single fluorescent red accent. Never fully desaturate the structure.
-The structure occupies roughly 60-88% of the frame width. Leave 22-38% of the paper visibly untouched and empty — generous negative space so the poster reads as an archival specimen, not a packed screen.
-
-TYPOGRAPHY — a clean fixed-width architectural title block, pinned top-left at a small fixed inset, black ink, monospaced technical typeface, verbatim, each line in caps:
-"{NAME}"
-"{CITY, COUNTRY}"
-"ZINE PLATE 0N"
-A thin horizontal rule under the third line, then one short observational caption verbatim:
-"{CAPTION}"
-
-A solid vertical red rectangle — the only red in the poster — is pinned to the bottom-right corner zone about 12% from the bottom and right edges. Four thin black crop marks sit in the four corners of the bottom half at identical insets. Red bar, crop marks and text block keep exactly the same position and size relative to the frame.
-
-MOOD: underground zine crossed with an architecture fanzine — young, tactile, collectible. Sophisticated, minimal, tactile, intellectual, slightly mysterious, highly collectible.
-
-AVOID: solid black terminal backgrounds, dense walls of code, cyberpunk neon, excessive decorative glyphs, distorted architecture, impossible geometry, invented architectural details, fake technical specifications, random meaningless symbols, garbled text, extra colors, brand logos, QR codes, watermarks, author credits, tourist-poster clichés.
-
-Priority: preserve the structure's identity and architectural accuracy first. The experimental print treatment enhances the architecture, never hides it.
-
-──────────────────────────────────────────────
-THE FOUR VARIATIONS (one axis change per plate)
-──────────────────────────────────────────────
-PLATE 01 — DENSE · light: "Golden-hour sunlight with long warm shadows" · density: "The print treatment is at its densest and richest: layered marks, full system detail"
-PLATE 02 — LINEWORK · light: "Soft overcast daylight, muted flat tones" · density: "The print is linework-forward: thin drafting lines and technical geometry dominate the reconstruction"
-PLATE 03 — FRAGMENT · light: "Blue-hour dusk with cool tones, the shells glowing warm against the dusk" · density: "The print is fragment-forward: torn photographic fragments dominate, with fewer system marks around them"
-PLATE 04 — MINIMAL · light: "Bright midday sunlight with crisp shadows" · density: "The print is the minimal plate of the set: sparse marks, maximum untouched paper"
-```
-
-</details>
-
-<a id="gpt-image-tidal-index-coastline-poster"></a>
-### 日式潮汐索引海岸海报
-
-<a href="https://x.com/MrLarus/status/2115477621920374895"><img src="../../previews/gpt-image-tidal-index-coastline-poster.jpg" width="360"></a>
-
-这是一个带填空槽位的模板，可填入主题、观察方式、标题、配色和展览信息，一套提示词能批量生成系列海报。提示词要求主体放大居中，周围用细引线连接观察节点，并配竖排大标题与英文副标题，形成大小尺度的对比。
-
-GPT Image 2.5 · 文生图 · 出处: [@MrLarus on X](https://x.com/MrLarus/status/2115477621920374895) · 50 赞，统计于 2026-10-29
-
-[`japanese-style`](tags.md#tag-japanese-style) [`poster`](tags.md#tag-poster) [`tide`](tags.md#tag-tide) [`nature-observation`](tags.md#tag-nature-observation)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Observation Subject: [Fill in Subject]
-Core Natural Object: [Fill in Object]
-Primary Observation Method: [Cross-Section Structure / Cyclic Changes / Movement Trajectory / Natural Texture]
-Main Title: [Fill in Title]
-Main Color Scheme: [Fill in Color Palette]
-Exhibition Information: [Fill in Date, Location, etc.]
-
-Create a 9:16 vertical Japanese-style natural observation art poster, blending natural history illustrations, scientific infographics, vintage printing, and modern exhibition design. Transform natural phenomena into visual works that combine artistic beauty with observational value.
-
-Enlarge the core natural object significantly to make it the primary visual focus of the composition. Based on the theme, select methods such as cross-section, cycle, flow trajectory, or morphological changes to showcase the object's most distinctive features.
-
-Surround the main subject with close-up magnifications, observation nodes, fine guiding lines, scales, and structural annotations. The information should have clear logical relationships, allowing viewers to follow the composition's reading path to understand the natural object.
-
-Use an off-white aged paper background overall, paired with natural-themed primary colors and a few accent hues. Through soft color gradients, intricate hand-drawn lines, and vintage printing textures, evoke a timeless natural specimen atlas style.
-
-The composition must balance large-scale subjects with minute details, creating a striking scale contrast. Auxiliary graphics, recording lines, and explanatory text should distribute naturally along the subject's structure, maintaining the precise order characteristic of scientific illustrations.
-
-Typography should integrate large Chinese or Japanese titles, English subtitles, vertical explanatory notes, and small observation labels. Text content must align with the theme, avoiding arbitrary inclusion of meaningless scientific jargon or fabricated data.
-
-The final composition should convey the rigor of natural observation, the visual impact of an art poster, and the maturity of editorial design. Avoid ordinary textbook layouts, mechanical chart stacking, and overly realistic commercial photography effects.
-```
-
-</details>
-
-<a id="gpt-image-photo-to-ink-golden-thread-travel-poster"></a>
-### 巴黎日落实景照片过渡到墨线插画的旅行海报
-
-<a href="https://x.com/Ziha_ai/status/2103336789339709511"><img src="../../previews/gpt-image-photo-to-ink-golden-thread-travel-poster.jpg" width="360"></a>
-
-提示词把画面拆成实景照片、过渡、墨线插画三段，并用一根金色细线把它们连起来。地标和时段用方括号占位，方便复用，结尾的排除项让照片保持主体、版面不杂乱。
-
-GPT Image 2.5 · 文生图 · 出处: [@Ziha_ai on X](https://x.com/Ziha_ai/status/2103336789339709511) · 48 赞，统计于 2026-10-28
-
-[`travel-poster`](tags.md#tag-travel-poster) [`photo-to-ink`](tags.md#tag-photo-to-ink) [`golden-thread`](tags.md#tag-golden-thread) [`landmark`](tags.md#tag-landmark) [`template`](tags.md#tag-template)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a sophisticated conceptual travel-art poster based on [LANDMARK / CITY / COUNTRY], inspired by the visual storytelling of a real photograph seamlessly transitioning into delicate hand-drawn illustration.
-
-TOP SECTION — REALISTIC PHOTOGRAPH:
-Show a breathtaking, cinematic photograph of [LANDMARK / CITY / COUNTRY] during [sunrise / sunset / golden hour / blue hour]. Preserve the authentic architecture, landscape, proportions, recognizable details, atmosphere, natural lighting, and distinctive visual identity of the location. Use dramatic warm light, glowing highlights, realistic textures, atmospheric depth, subtle film grain, and an editorial travel-photography aesthetic.
-
-THE TRANSITION:
-From one important visual element of the photograph — such as the sun, a window, tower, dome, streetlight, mountain peak, river, or architectural detail — create a single thin golden thread / beam of light that naturally extends downward from the photograph into the empty paper space. The thread should feel delicate, handmade, slightly imperfect, and continuous.
-
-BOTTOM SECTION — HAND-DRAWN STORY:
-On warm ivory textured paper, transform the end of the golden thread into a beautiful minimal ink illustration connected to [LANDMARK / CITY / COUNTRY]. The thread could lead to a tiny illustrated traveler, artist, child, architect, traditional object, local street scene, miniature landmark, map element, flower, boat, train, or another meaningful cultural symbol.
-
-Keep the illustration extremely elegant and sparse, using fine black ink lines, subtle hatching, tiny golden accents, and lots of negative space. Integrate small recognizable details from [CITY / COUNTRY] into the illustration without making it crowded.
-
-TYPOGRAPHY:
-Add a small handwritten or refined editorial phrase such as:
-[CITY] [PLACE NAME]
-
-Add minimal typography: [CITY / COUNTRY] — [LANDMARK NAME], with optional coordinates or a small location descriptor.
-
-STYLE: premium conceptual travel poster, poetic visual storytelling, real photography + minimalist ink illustration, warm ivory paper, delicate golden thread, sophisticated editorial composition, museum-quality art print, subtle vintage texture, emotional but understated, generous negative space, vertical 4:5 composition.
-
-IMPORTANT: Keep the real photograph visually dominant and authentic. The illustrated section should feel like it is physically connected to the photograph by the single continuous golden thread. No collage clutter, no excessive typography, no random objects, no cartoonish style, no distorted architecture.
-```
-
-</details>
-
-<a id="gpt-image-city-travel-poster-vector-template"></a>
-### 苏黎世矢量旅行海报模板
-
-<a href="https://x.com/Maercihh/status/2113234692199641441"><img src="../../previews/gpt-image-city-travel-poster-vector-template.jpg" width="360"></a>
-
-JSON 提示词只留一个城市名占位符，由模型自动选择地标、交通工具和国家文字。分层景深、固定的藏青与象牙白配色以及独立的文字区，让每个城市都保持同一套复古海报风格。
-
-GPT Image 2.5 · 文生图 · 出处: [@Maercihh on X](https://x.com/Maercihh/status/2113234692199641441) · 44 赞，统计于 2026-10-29
-
-[`travel-poster`](tags.md#tag-travel-poster) [`vector`](tags.md#tag-vector) [`template`](tags.md#tag-template) [`json-prompt`](tags.md#tag-json-prompt) [`city`](tags.md#tag-city)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-{
-"input": {
-"city_name": "{{CITY NAME}}"
-},
-
-"generation": {
-"type": "premium_illustrated_travel_poster",
-"aspect_ratio": "3:4",
-"orientation": "portrait",
-"resolution": "high",
-"reference_mode": "use_uploaded_images_for_style_reference_only",
-"city_adaptation": "fully_automatic"
-},
-
-"creative_direction": {
-"objective": "Create a beautifully composed, destination-specific illustrated travel poster that resembles a premium vintage European travel print with crisp modern vector artwork. Every generated image must feel like an authentic visual postcard of the specified city.",
-
-"art_style": {
-  "primary": "refined_flat_vector_illustration",
-  "secondary": "mid_century_travel_poster",
-  "influences": [
-    "classic European tourism posters",
-    "Japanese illustrated travel prints",
-    "modern editorial vector artwork",
-    "minimalist architectural illustration"
-  ],
-  "rendering": "clean geometric shapes, precise architectural outlines, layered silhouettes, controlled shading, subtle tonal gradients, carefully simplified details",
-  "texture": "smooth matte printed-paper appearance with extremely subtle print texture",
-  "realism_level": "stylized illustration with recognizable architectural accuracy",
-  "avoid": [
-    "photorealism",
-    "3D rendering",
-    "watercolor effects",
-    "rough sketching",
-    "childish cartoon styling",
-    "excessive gradients",
-    "plastic-looking surfaces",
-    "generic AI artwork"
-  ]
-},
-
-"destination_intelligence": {
-  "instruction": "Identify the actual city, its country, and its most recognizable visual landmarks. Build the composition around a carefully selected combination of authentic architecture, local scenery, transportation, public spaces, and cultural elements.",
-  "landmarks": "Select 2 to 4 recognizable landmarks or architectural features associated with the specified city.",
-  "architecture": "Reproduce the city's characteristic architectural styles, rooflines, facades, towers, monuments, and urban structures.",
-  "natural_environment": "Include locally appropriate mountains, rivers, lakes, coastlines, gardens, trees, or other landscape elements when relevant.",
-  "transportation": "Add a locally recognizable train, tram, bus, boat, bicycle, or other transportation element only when appropriate.",
-  "cultural_details": "Include subtle, authentic local details such as street lamps, traditional storefronts, bridges, signage, or regional vegetation.",
-  "accuracy_rule": "Do not invent landmarks or combine unrelated cities. All recognizable locations and cultural details must correspond to the requested destination.",
-  "fallback": "If a city has limited internationally recognizable landmarks, create an authentic composition using its actual architecture, urban character, and regional landscape."
-},
-
-"composition": {
-  "layout": "large illustrated cityscape in the upper portion, destination typography in a separate lower section",
-  "main_illustration": {
-    "coverage": "approximately 78 to 83 percent of the canvas height",
-    "framing": "a carefully composed, almost rectangular scenic illustration with clean edges",
-    "perspective": "slightly elevated or street-level architectural perspective chosen to best showcase the destination",
-    "depth_layers": [
-      "foreground with flowers, trees, benches, railings, steps, pedestrians, or waterfront details",
-      "middle ground with streets, bridges, public spaces, transport, and prominent architecture",
-      "background with the city's skyline, secondary landmarks, and natural landscape"
-    ],
-    "visual_hierarchy": "one dominant landmark supported by complementary architectural elements",
-    "spacing": "balanced, intentional, and visually rich without overcrowding",
-    "human_figures": "small, elegantly simplified pedestrians used sparingly to establish scale",
-    "sky": "clean pale sky with a few minimal stylized clouds or birds when appropriate"
-  },
-
-  "foreground_details": {
-    "instruction": "Select destination-appropriate details that frame the scene naturally without obscuring its important landmarks.",
-    "density": "moderate",
-    "rule": "Avoid forcing flowers, boats, trees, or other elements into cities where they would look geographically or compositionally unnatural."
-  },
-
-  "background": {
-    "color": "warm white or very pale ivory",
-    "style": "minimal, uncluttered, print-ready",
-    "negative_space": "generous space surrounding the illustration and destination typography"
-  }
-},
-
-"color_palette": {
-  "primary": [
-    "deep navy blue",
-    "cobalt blue",
-    "sky blue",
-    "warm ivory",
-    "soft cream"
-  ],
-  "secondary": [
-    "muted forest green",
-    "sage green",
-    "warm architectural beige",
-    "terracotta",
-    "soft grey"
-  ],
-  "adaptation": "Adjust accent colors to complement the city's architecture, national character, and natural surroundings.",
-  "contrast": "clear and harmonious with strong separation between architectural layers",
-  "saturation": "moderate, elegant, and print-friendly",
-  "lighting": "bright, soft daylight with minimal hard shadows"
-},
-
-"typography": {
-  "placement": "centered beneath the illustration",
-  "city_name": {
-    "text": "{{CITY NAME IN UPPERCASE}}",
-    "font_style": "large, elegant, geometric sans-serif",
-    "weight": "regular to medium",
-    "letter_spacing": "very wide",
-    "alignment": "center",
-    "color": "deep navy blue",
-    "importance": "primary visual anchor of the lower section"
-  },
-
-  "country_name": {
-    "text": "Automatically identify the correct country and display its name in uppercase",
-    "font_style": "small, clean sans-serif",
-    "letter_spacing": "wide",
-    "alignment": "center",
-    "color": "muted navy or a restrained destination-appropriate accent",
-    "position": "directly below the city name"
-  },
-
-  "decorative_elements": {
-    "horizontal_lines": "thin symmetrical horizontal lines on either side of the country name when visually appropriate",
-    "national_emblem": "Optional small, accurate national symbol beneath the typography only when suitable",
-    "rule": "Keep typography minimal, legible, accurately spelled, and free of additional promotional copy."
-  }
-},
-
-"image_quality": {
-  "edges": "crisp and clean",
-  "architecture": "recognizable, coherent, and carefully detailed",
-  "shapes": "precise geometric silhouettes",
-  "print_quality": "premium travel-poster finish",
-  "composition_quality": "professional graphic-design balance",
-  "text_quality": "correct city and country spelling",
-  "final_appearance": "a sophisticated collectible illustrated travel poster suitable for high-quality social media publishing"
-}
-
-},
-
-"strict_rules": {
-"preserve_reference_style": true,
-"change_destination_automatically": true,
-"use_real_city_landmarks": true,
-"use_correct_country_name": true,
-"keep_illustration_above_typography": true,
-"maintain_clean_ivory_background": true,
-"maintain_wide_letter_spacing": true,
-"keep_composition_balanced": true,
-"no_unrequested_text": true,
-"no_watermarks": true,
-"no_borders_unless_integral_to_design": true,
-"no_photographic_rendering": true,
-"no_unrelated_landmarks": true,
-"no_misspelled_text": true
-},
-
-"negative_prompt": [
-"photorealistic photography",
-"3D CGI",
-"anime",
-"childlike cartoon",
-"watercolor painting",
-"oil painting",
-"messy sketch lines",
-"overly textured paper",
-"dark dramatic lighting",
-"neon colors",
-"cluttered composition",
-"distorted buildings",
-"incorrect landmarks",
-"geographically inconsistent scenery",
-"unreadable typography",
-"misspelled city name",
-"incorrect country name",
-"random letters",
-"excessive text",
-"watermarks",
-"logos",
-"cropped landmarks",
-"unbalanced typography",
-"photographic cutouts"
-]
-}
 ```
 
 </details>

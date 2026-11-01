@@ -1,6 +1,134 @@
 # Cinematic scenes and short films
 
-[Back to the list](../../README.md) · All 124 entries · [1](video-cinematic.md) · **2**
+[Back to the list](../../README.md) · All 125 entries · [1](video-cinematic.md) · **2**
+
+<a id="seedance-last-call-mountain-road-rain-thriller"></a>
+### Rainy mountain road thriller with a warning call
+
+<a href="https://x.com/RuzainaMeer/status/2097193955230405007"><img src="../../previews/seedance-last-call-mountain-road-rain-thriller.jpg" width="360"></a>
+
+A fixed character and setting block, plus a negative style list, keeps one woman and one car consistent. Timed beats from 0 to 30 seconds script each shot, on screen text and spoken line, and a final audio line sets rain, wipers and the silence after the crash.
+
+Seedance 2.5 · Text-to-video · Source: [@RuzainaMeer on X](https://x.com/RuzainaMeer/status/2097193955230405007) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`thriller`](tags.md#tag-thriller) [`cinematic`](tags.md#tag-cinematic) [`rain`](tags.md#tag-rain) [`night-driving`](tags.md#tag-night-driving) [`timed-shots`](tags.md#tag-timed-shots)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 30-second ultra-photorealistic Hollywood-level cinematic thriller scene titled “THE LAST CALL.” The entire sequence must feel like a scene from a high-budget live-action feature film, with realistic human acting, natural facial expressions, physically accurate movement, realistic rain, practical lighting, believable vehicle physics, detailed environments, cinematic depth of field, subtle film grain, natural skin texture, realistic reflections, and professional Hollywood cinematography. No anime, no CGI-looking visuals, no fantasy aesthetic, no cyberpunk, no neon lighting, no exaggerated visual effects.
+MAIN CHARACTER: A realistic young woman in her late 20s, natural appearance, expressive eyes, shoulder-length dark hair slightly damp from the humid weather, wearing a simple dark jacket. Maintain the exact same woman, face, hairstyle, clothing, car, weather and environment consistently throughout the entire sequence.
+
+SETTING: A remote mountain road at night during heavy but realistic rainfall. Dark forested mountains surround the narrow winding road. Wet asphalt reflects only natural headlights and road markings. The atmosphere is tense, isolated and believable.
+
+0–5 SECONDS
+
+Interior of a moving car at night. Medium shot from the passenger side showing the woman driving alone. Rain continuously hits the windshield and realistic windshield wipers move back and forth. Dashboard illumination softly lights her face. She looks tired and emotionally distant while concentrating on the road. Camera slowly pushes toward her face. Natural breathing, subtle blinking and realistic micro-expressions.
+
+5–10 SECONDS
+
+Her smartphone suddenly begins ringing in the center console. Cut to an extremely realistic close-up of the phone screen.
+
+Caller ID: “MOM”
+
+The woman freezes.
+
+Her eyes widen slightly. Her hands tighten around the steering wheel. She looks at the phone in disbelief. She hesitates for a moment, then reaches down and answers the call.
+
+10–17 SECONDS
+
+Extreme close-up of her face as she listens.
+
+A faint, emotional female voice comes through the phone:
+
+“Don't take the next turn.”
+
+The woman's expression changes from confusion to fear.
+
+The call suddenly disconnects.
+
+She looks at the phone.
+
+The screen reads: CALL ENDED
+
+Outside the windshield, a sharp mountain turn approaches through the heavy rain.
+
+17–23 SECONDS
+
+She immediately slows the car.
+
+Camera moves to a forward-facing perspective through the windshield. The road curves sharply ahead.
+
+Suddenly, distant headlights appear through the rain around the corner.
+
+The woman looks toward them.
+
+A large truck suddenly loses control and crashes through the roadside barrier at the exact location where her car would have been if she had continued driving.
+
+The crash must look physically realistic and grounded, with believable vehicle momentum, rain, debris and impact. No exaggerated explosions.
+
+23–27 SECONDS
+
+Silence after the crash.
+
+The woman sits completely still, breathing heavily, visibly shaken.
+
+She slowly looks down at her phone.
+
+The phone screen now shows:
+
+NO SIM — NO SIGNAL
+
+She looks confused and terrified.
+
+27–30 SECONDS
+
+Extreme close-up of her eyes filling with tears.
+
+She looks toward the empty passenger seat.
+
+A subtle emotional pause.
+
+In a trembling whisper, she says:
+
+“Mom?”
+
+Cut instantly to black.
+
+FINAL AUDIO: Heavy rain, windshield wipers, realistic car interior ambience, distant thunder, phone ringing, muffled female voice, sudden silence after the crash, then only the woman's breathing.
+```
+
+</details>
+
+<a id="seedance-lighthouse-keeper-sea-orbs"></a>
+### Lighthouse keeper with lantern on glowing cliff
+
+<a href="https://x.com/SyntheSarah/status/2097182529564365135"><img src="../../previews/seedance-lighthouse-keeper-sea-orbs.jpg" width="360"></a>
+
+The prompt sets a wide establishing shot first and then asks for a slow push in to the face, which gives the clip a clear camera arc. Lighting is stated in concrete terms (volumetric moonlight, teal and amber grade, shallow depth of field), so the model has specific targets instead of a vague mood.
+
+Seedance 2.5 · Text-to-video · Source: [@SyntheSarah on X](https://x.com/SyntheSarah/status/2097182529564365135) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`lighthouse`](tags.md#tag-lighthouse) [`bioluminescence`](tags.md#tag-bioluminescence) [`fog`](tags.md#tag-fog) [`camera-push-in`](tags.md#tag-camera-push-in)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A weathered old lighthouse keeper stands on a foggy cliff at night,
+wearing a thick wool coat, holding an old brass lantern. Below him,
+the ocean waves glow with soft bioluminescent blue light with each
+crash against the rocks. As he raises the lantern, dozens of floating
+glowing orbs (like fireflies) rise up from the water and drift past
+him into the misty air, swirling gently around his figure. Volumetric
+moonlight beams cut through the fog. Camera starts wide on the cliff,
+then does a slow cinematic push-in toward the keeper's face as the
+orbs surround him, ending on a close-up with orbs reflecting in his
+eyes. Teal and warm-amber color grade, hyper-realistic textures,
+shallow depth of field, film grain, atmospheric fog, 15 seconds,
+smooth continuous camera motion, no cuts.
+```
+
+</details>
 
 <a id="seedance-medieval-shame-walk"></a>
 ### Shamed noblewoman walks through jeering medieval crowd

@@ -1,6 +1,6 @@
 # 科幻与奇幻
 
-[返回目录](../../README_zh.md) · 全部 82 条
+[返回目录](../../README_zh.md) · 全部 83 条
 
 <a id="seedance-lab-containment-breach"></a>
 ### 实验室收容失效，科幻恐怖
@@ -263,6 +263,28 @@ A dark, emotionally charged medieval fantasy drama, cinematic 16:9 widescreen fo
 **Scene 6 (45–55s):** Hard cut to a shadowy stone corridor elsewhere in the same fortress/castle. A stern, heavyset older man dressed in dark, heavy medieval robes strides purposefully down the corridor, a large lit torch held firmly in one hand, flames casting flickering, dangerous light across ancient carved stone walls. His expression is grim, suspicious, and resolute as he approaches a heavy iron-banded wooden door — the entrance to the dungeon where the woman and dragons are hiding. Low-angle, slightly ominous camera framing builds mounting dread and tension, the gap between pursuer and protector closing with every step.
 
 **Overall tone and continuity:** A visceral, high-stakes escalation of the established dark-fantasy saga — shifting from tender nurturing (birth, feeding, warmth) toward active danger and sacrifice, as the same woman now harbors not one but three dragon hatchlings and must risk everything to keep them hidden from a clearly hostile authority figure. Visual and character continuity fully maintained: same actress/character design, same practical-effect creature rendering (wet-look skin on younger dragons, fine scale and frill texture, anatomically grounded proportions), same desaturated cold-exterior/warm-interior lighting philosophy established in prior installments. Sound design implied: distant echoing footsteps, crackling torch flame, soft dragon chirps, the woman's held breath. Aspect ratio 16:9, prestige-drama cinematography, emotionally driven pacing building toward confrontation.
+```
+
+</details>
+
+<a id="kling-desert-mech-head-scavenger"></a>
+### 沙漠中漂泊者与锈蚀机械头颅
+
+<a href="https://x.com/LudovicCreator/status/2024778580845072750"><img src="../../previews/kling-desert-mech-head-scavenger.jpg" width="360"></a>
+
+提示词先交代主体与场景，再给出跟随镜头，最后用 VFX 清单列出风力、沙尘粒子、金属质感和闪电光照，用具体的模拟术语控制材质与沙暴氛围。
+
+Kling 3.0 · 文生视频 · 出处: [@LudovicCreator on X](https://x.com/LudovicCreator/status/2024778580845072750) · 753 赞，统计于 2026-10-31
+
+[`desert`](tags.md#tag-desert) [`mech`](tags.md#tag-mech) [`sandstorm`](tags.md#tag-sandstorm) [`wasteland`](tags.md#tag-wasteland)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A desert wasteland filled with decaying mechs and overgrown cables. The camera follows a scavenger wearing goggles as they climb through a rusted robot head. Lightning flashes in the distance, illuminating a sandstorm approaching fast. VFX: wind simulation, sand particle systems, metallic textures, dynamic lighting flashes.
+
+Made in
+@Kling_ai
 ```
 
 </details>

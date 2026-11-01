@@ -1,0 +1,63 @@
+id: gpt-image-chibi-mage-pixel-idle-sheet
+title:
+  en: Chibi mage pixel art 16 frame idle sprite sheet
+  zh: Q版法师 16 帧像素待机精灵图
+model: GPT Image 2.5
+mode: image-edit
+category: character
+tags:
+- pixel-art
+- sprite-sheet
+- idle-animation
+- game-art
+source:
+  name: '@Mayz1169 on X'
+  url: https://x.com/Mayz1169/status/2097533706022056339
+  credit: Kiki
+  likes: 275
+  captured: '2026-10-31'
+  posted: '2026-09-09'
+notes:
+  en: Locking the reference's outfit, hair and silhouette while banning walking, turns and camera changes keeps the character identical across frames. The fixed 4 by 4 grid with transparent padding and a single blink gives a seamless loop.
+  zh: 锁定参考图的服饰、发型与轮廓，并禁止行走、转身和镜头变化，使各帧角色保持一致。固定的 4×4 网格、透明留白和一次眨眼让动画可以无缝循环。
+prompt: |
+  Turn the character in my uploaded reference image into an adorable pixel-art sprite with a looping idle animation.
+
+  CHARACTER
+  Use the uploaded image as the character reference. Preserve the character’s recognizable features, colors, hairstyle, outfit, accessories, and distinctive silhouette. Adapt its original anatomy into cute chibi proportions without forcing non-human characters into a human body. If the reference is cropped, infer the missing body details to match the visible design.
+
+  STYLE
+  Create crisp pixel art with clearly defined square pixels, clean outlines, and a cohesive limited palette. No blurry edges, smooth vector styling, or realistic rendering.
+
+  ANIMATION
+  Create 16 consecutive frames of one subtle, seamless idle animation:
+  - Gentle breathing with a tiny rise and fall of the upper body.
+  - Slight secondary movement in hair, clothing, or relevant appendages.
+  - One brief natural blink if the character has visible eyes.
+  - Keep the character in place, with its feet or contact points anchored.
+  - Keep the design, proportions, camera angle, and scale consistent.
+  - No walking, turning, dramatic gestures, or scene changes.
+  - Make the last frame transition smoothly back to the first.
+
+  SPRITE SHEET
+  Arrange the 16 frames in exactly 4 columns × 4 rows, ordered left to right, top to bottom.
+  Canvas: 1024 × 1024 pixels.
+  Each cell: 256 × 256 pixels.
+  Use identical alignment and a fixed baseline across all cells.
+  Keep the entire character inside each cell, with at least 16 pixels of transparent padding on every side, including around moving accessories.
+  No overlapping cells, grid lines, labels, text, or watermarks.
+
+  TRANSPARENCY
+  Use a genuinely transparent RGBA background with alpha zero outside the character.
+  Do not draw a checkerboard or add a solid background, floor, or cast shadow.
+  Preserve white and pale details inside the character.
+
+  DELIVERABLES
+  Complete the actual files, not just instructions:
+  1. A transparent 4 × 4 PNG sprite sheet.
+  2. A transparent animated GIF of the single character, using all 16 frames at 256 × 256 pixels, looping forever with an approximately 2.4-second cycle.
+  3. A ZIP containing all 16 individual transparent PNG frames.
+
+  Use available image-generation and file-processing tools to generate the artwork, split the sheet, and assemble the GIF. Use nearest-neighbor sampling if resizing is needed to preserve crisp pixels.
+
+  Before exporting, inspect all 16 frames. Remove stray pixels and any fragments from neighboring cells, especially above the head or below the feet. Check for clipping, unwanted position jumps, background artifacts, and GIF trails. Ensure the final PNG and GIF backgrounds are truly transparent.

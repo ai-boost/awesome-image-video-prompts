@@ -1,6 +1,6 @@
 # Action, chases and sports
 
-[Back to the list](../../README.md) · All 171 entries · **1** · [2](video-action-2.md) · [3](video-action-3.md)
+[Back to the list](../../README.md) · All 175 entries · **1** · [2](video-action-2.md) · [3](video-action-3.md)
 
 <a id="seedance-seoul-subway-revenge"></a>
 ### Seoul subway revenge comedy
@@ -109,6 +109,180 @@ Shot 2: 跟拍起，位于Rue身后腰部高度；镜头随她冲向铁丝网，
 Shot 3: 高角度俯冲起；镜头向通风箱俯冲，压低绕到箱侧，然后在两张脸之间左右急甩，每一拳都跟着拳头从一张脸甩到另一张脸。Mina，戴黑拳套，跃上通风箱，膝盖朝下砸落；Rue，赤手戴戒指，侧步闪开，一记侧踢踹进箱体，箱体轰然凹陷；Mina从压扁的边缘跃起打出飞身直拳，Rue后仰躲过，扫掉Mina的支撑手臂，Mina侧手翻落地的同时勾拳打中Rue的下颌，冲击帧，Rue的头甩过去，整个人被带得转了半圈，脚步踉跄，又从踉跄里反扑一记直拳，震得Mina的下巴一晃。快速细节切：弯折的金属，断裂的电缆冒着火花，拳套在箱顶打滑，然后镜头切进两张脸之间。隔着废墟的近身对轰：刺拳，格挡，直拳，侧闪，没有一拳停在半路；Rue的膝盖顶进Mina垂下的拳套，把她推退一步；Mina的头槌砸在Rue的眉骨上，冲击帧，Rue的头向后甩成拖影，她的身体先于意识反击，戴戒指的勾拳打在Mina的拳套上；Mina的反击肘撞上Rue的脸颊，冲击帧，粉发炸开，Rue踉跄两步，膝盖一软又撑住，从撑住的那一下里直拳回敬，打得Mina的头偏过去，Mina的头偏到一半就已经转回来，两人同时下蹲。
 
 Shot 4: 高角度大全景起，倾斜成荷兰角；镜头在两人跃起时螺旋下降，在最高点从两人之间穿过，再翻到两人侧面，并在两人上升时继续旋转。两人同时向上爆发，拳头在前，Mina的黑拳套与Rue戴戒指的拳头冲向画面中央同一点，头发向后飞扬成拖影，速度线向中心汇聚，拳头进入触及范围的瞬间背景炸成全屏亮粉色；拳头仍在逼近，头发仍在甩动，镜头仍在旋转，画面在此切断。
+```
+
+</details>
+
+<a id="seedance-sunken-city-gameplay-aqueduct-run"></a>
+### Explorer sprints along ruined aqueduct above turquoise sea
+
+<a href="https://x.com/azed_ai/status/2100222523535409655"><img src="../../previews/seedance-sunken-city-gameplay-aqueduct-run.jpg" width="360"></a>
+
+A timestamped beat sheet with a separate SFX line per beat keeps the clip moving as one continuous gameplay sequence. Fixed HUD anchors and explicit camera rules (over the shoulder, widen on reveals, return control) make the footage read as playable gameplay rather than a trailer.
+
+Seedance 2.5 · Text-to-video · Source: [@azed_ai on X](https://x.com/azed_ai/status/2100222523535409655) · 1,449 likes on 2026-10-31
+
+[`gameplay`](tags.md#tag-gameplay) [`fantasy`](tags.md#tag-fantasy) [`underwater`](tags.md#tag-underwater) [`ruins`](tags.md#tag-ruins) [`boss-fight`](tags.md#tag-boss-fight)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Third-person fantasy action-adventure RPG with exploration, traversal, environmental puzzles, cinematic combat, supernatural abilities, and seamless transitions between gameplay and scripted events.
+
+**Environment:** An enormous ancient city partially submerged beneath a turquoise ocean, with monumental stone temples rising from the water, collapsed bridges connecting ruined towers, enormous statues covered in coral, waterfalls pouring from fractured aqueducts, tropical vegetation growing through abandoned plazas, schools of fish swimming through flooded streets, and mysterious golden machinery hidden beneath the civilization's ruins. The gameplay begins above water among sunlit ruins before descending into a massive submerged temple where an ancient guardian awakens.
+
+**Visual style:** Photorealistic Unreal Engine 5 fantasy gameplay, premium AAA action-adventure presentation, highly detailed ancient architecture, realistic water simulation, cinematic global illumination, volumetric underwater lighting, physically accurate materials, lush vegetation, detailed character animation, realistic cloth and hair physics, environmental particles, dynamic shadows, sophisticated VFX, smooth 60fps movement, restrained motion blur, and seamless cinematic transitions without losing the feeling of actual playable gameplay.
+
+**Player character:** A young explorer wearing weathered lightweight adventuring clothes, leather climbing equipment, protective bracers, boots, a small backpack, and an ancient golden device attached to the left forearm. The device allows the player to manipulate forgotten mechanisms and briefly control water currents, while a short curved sword remains attached to the character's back for close-range combat.
+
+**Gameplay camera:** Maintain a responsive over-the-shoulder third-person perspective during traversal and combat, allowing the camera to dynamically widen during large environmental reveals, move closer during narrow traversal sections, orbit slightly during combat encounters, and transition into brief cinematic framing during major scripted moments before smoothly returning control to the player.
+
+**Gameplay UI:** Maintain a minimal fixed interface with player health and stamina in the upper-left corner, a circular compass and objective marker in the upper-right corner, contextual interaction prompts near interactable objects, and ability icons in the lower-right corner. UI elements remain anchored perfectly to the screen throughout camera movement.
+
+**Core gameplay progression:** The player traverses collapsing ruins above the ocean, discovers a hidden entrance beneath the water, dives into a submerged temple, activates an ancient mechanism using the golden forearm device, accidentally awakens a colossal stone guardian, escapes through a collapsing underwater chamber, reaches the surface, and transitions directly into a dramatic boss encounter on a ruined platform.
+
+**Audio design:** Powerful cinematic game score mixed with environmental audio including ocean waves, distant seabirds, waterfalls, stone movement, climbing impacts, underwater ambience, muffled debris, swimming movement, ancient machinery, magical energy pulses, creature roars, sword sounds, UI feedback, and environmental destruction.
+
+**Negative guidance:** No subtitles, no dialogue, no logos, no excessive HUD elements, no first-person perspective, no guns, no modern technology, no gore, no blood, no dismemberment, no broken anatomy, no inconsistent character clothing, no random camera teleportation, no excessive motion blur, no low-detail environments, no cartoon graphics, no turn-based combat.
+
+**[00:00-00:04] THE SUNKEN CITY:** Begin directly in third-person gameplay with the camera positioned behind the explorer sprinting along the top of a massive ruined aqueduct suspended above brilliant turquoise water while the distant sunken city stretches toward the horizon beneath them. As sections of ancient stone begin collapsing behind the character, the player accelerates, jumps across a widening gap, catches the opposite ledge with both hands, pulls upward, and continues running while waterfalls cascade between enormous temple structures in the distance. The camera briefly widens during the jump to reveal gigantic submerged statues visible beneath the transparent ocean before smoothly returning behind the player. SFX: running footsteps, stone cracking, rushing waterfalls, ocean waves, climbing impacts, adventurous score building.
+
+**[00:04-00:08] COLLAPSING BRIDGE:** The player reaches a fractured stone bridge just as the entire structure begins collapsing toward the ocean, forcing the explorer into a high-speed traversal sequence where they sprint across falling sections, leap onto a tilted pillar, wall-run briefly across a carved temple surface, then launch toward a hanging rope attached to an abandoned wooden crane. The character catches the rope and swings across a massive gap while chunks of architecture crash into the ocean beneath them, producing enormous splashes as the gameplay camera follows the arc of the swing before rotating naturally toward the landing platform. SFX: stone collapse, rope tension, rushing wind, ocean impacts, traversal chimes.
+
+**[00:08-00:11] INTO THE WATER:** The explorer lands beside an ancient circular doorway carved into the cliff but discovers that its entrance continues beneath the ocean. A contextual **DIVE** prompt appears briefly as the player runs forward and leaps from the platform, transitioning seamlessly from an airborne third-person camera into underwater gameplay as the character plunges beneath the surface. Sunlight refracts through the water above while enormous statues, ruined buildings, coral-covered columns, and schools of fish reveal that an entire section of the civilization remains preserved beneath the waves. The player swims rapidly toward a glowing golden symbol deep inside the submerged temple.
+
+**[00:11-00:15] THE ANCIENT MECHANISM:** The camera follows closely behind as the explorer swims through a narrow opening into an enormous underwater chamber containing a dormant circular machine embedded within the temple floor. The player approaches its central pedestal and activates the golden forearm device, causing streams of luminous energy to travel from the character's hand into carved channels across the surrounding architecture. Massive stone rings begin rotating beneath the water, forgotten mechanisms awaken after centuries of silence, and the chamber gradually illuminates with warm golden light while an objective notification confirms the mechanism has been restored. SFX: deep mechanical rotation, underwater energy pulse, stone grinding, distant resonant hum.
+
+**[00:15-00:18] SOMETHING WAKES:** As the player turns away from the mechanism, the camera subtly rotates toward what initially appears to be an enormous carved statue embedded in the far wall, but two gigantic golden eyes suddenly illuminate beneath layers of coral and sediment. The entire chamber trembles as the colossal stone guardian tears one arm free from the architecture, sending clouds of debris through the water while its enormous fingers crush surrounding columns. The player immediately regains movement control and begins swimming toward the exit as the guardian's health bar slowly appears across the top of the screen. SFX: deep creature roar distorted underwater, cracking stone, falling debris, boss encounter tone.
+
+**[00:18-00:22] UNDERWATER ESCAPE:** Transition into high-speed underwater gameplay as the explorer swims through a collapsing temple corridor while the guardian pursues from behind, smashing through walls rather than fitting through the original passages. The player dodges falling columns, squeezes through a narrow opening, uses the golden forearm device to create a powerful directional water current, then allows the current to launch the character rapidly through the final corridor while enormous stone hands narrowly miss grabbing their legs. The camera shakes with each guardian impact while maintaining clear visibility of the player's escape route and objective marker. SFX: rushing water, muffled impacts, collapsing architecture, ability activation, guardian roar.
+
+**[00:22-00:25] BREAKING THE SURFACE:** The player shoots upward through a vertical flooded shaft as sunlight becomes increasingly visible overhead, then bursts dramatically through the ocean surface beside a ruined circular arena surrounded by towering statues. Without interrupting gameplay, the explorer grabs the platform edge, pulls themselves onto the stone, rolls forward, draws the curved sword from their back, and turns toward the water while catching their breath. Behind them, the ocean surface becomes strangely still for half a second before an enormous shadow begins rising beneath it. SFX: water eruption, heavy breathing, sword draw, music briefly dropping into tense silence.
+
+**[00:25-00:28] BOSS FIGHT:** The colossal guardian erupts from the ocean and slams both enormous stone hands onto the arena, sending water and fragments of ancient masonry across the platform while its upper body towers above the player. The camera automatically widens into full boss-combat framing as the guardian swings one massive arm horizontally across the arena, forcing the player to sprint, execute a perfectly timed dodge roll beneath the attack, then immediately counter by activating the golden forearm device and firing a concentrated energy pulse into a glowing weak point exposed along the guardian's wrist. The boss health bar loses its first small section as golden fractures spread through the stone armor. SFX: enormous impact, dodge whoosh, magical pulse, stone fracture, boss music reaching full intensity.
+
+**[00:28-00:30] YOUR TURN:** The guardian pulls its damaged arm backward and releases a deafening roar while additional golden weak points begin illuminating across its enormous body, clearly signaling the beginning of the full boss encounter. The explorer rises from the dodge, tightens their grip on the curved sword, and begins sprinting directly toward the guardian as the gameplay camera settles perfectly behind the character and multiple combat ability icons illuminate in the lower-right corner. End during active player movement rather than a cinematic pose, making the sequence feel like genuine gameplay continuing beyond the clip. SFX: guardian roar, running footsteps, sword resonance, UI ability chimes, powerful final orchestral rise.
+
+The entire video must feel like **real playable AAA third-person gameplay rather than a movie trailer**, with the player character continuously responding to environmental obstacles, contextual prompts, traversal mechanics, abilities, objectives, and enemy attacks while the camera behaves like a sophisticated dynamic gameplay camera.
+
+Maintain a clear gameplay progression from high-speed traversal above the ocean into underwater exploration, environmental interaction, accidental guardian awakening, underwater escape, surface recovery, and the beginning of a major boss encounter, allowing multiple game mechanics to be demonstrated naturally within the same 30-second sequence.
+
+Keep transitions completely seamless between traversal, swimming, puzzle interaction, escape, and combat without fades, disconnected montage shots, or unexplained location changes. The geography should remain understandable, with the above-water ruins visibly connected to the submerged temple and the final arena positioned directly above the underwater complex.
+
+The guardian should feel genuinely colossal compared with the player, with its body constructed from ancient carved stone, coral, golden mechanical structures, and centuries of marine growth. Its movements should feel extremely heavy, with believable inertia, delayed stone movement, environmental displacement, water interaction, and powerful impacts rather than fast human-like movements.
+
+Maintain the same explorer, clothing, sword, golden forearm device, architecture, visual language, UI design, lighting logic, and ancient civilization aesthetic throughout the entire sequence. The UI must remain fixed to the screen and should respond logically to gameplay events without obstructing important action.
+
+No gore, no subtitles, no dialogue, no first-person perspective, no cinematic black bars, and no transition that removes the feeling that the viewer is watching someone actively playing the game.
+```
+
+</details>
+
+<a id="h3-character-intro-trailer-template"></a>
+### Woman with dark bangs and pearl drop earrings
+
+<a href="https://x.com/aimikoda/status/2087828526577705303"><img src="../../previews/h3-character-intro-trailer-template.jpg" width="360"></a>
+
+A PARAMETERS block at the top fills in the on-screen labels, and a timed shot list of thirteen cuts lays out the edit beat by beat. Naming the reference image as the sole identity authority keeps the character consistent through every cut.
+
+MiniMax H3 · Image-to-video · Source: [@aimikoda on X](https://x.com/aimikoda/status/2087828526577705303) · 1,250 likes on 2026-10-31
+
+[`character-reveal`](tags.md#tag-character-reveal) [`trailer`](tags.md#tag-trailer) [`template`](tags.md#tag-template) [`parameters`](tags.md#tag-parameters)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+PARAMETERS
+
+CHARACTER_NAME = "[CHARACTER NAME]"
+STATUS_TEXT_1 = "[ACTIVE]"
+STATUS_TEXT_2 = "[MODE: ENGAGE]"
+INTERSTITIAL_TEXT_1 = "[SYSTEM LINK]"
+INTERSTITIAL_TEXT_2 = "[TARGET LOCK]"
+INTERSTITIAL_TEXT_3 = "[FULL DRIVE]"
+SUBTITLE = "[CHARACTER TITLE / CODENAME]"
+PROJECT_TEXT = "[OPTIONAL PROJECT NAME]"
+
+Create a 15-second premium cinematic character reveal trailer with exactly 13 distinct cuts, 24fps.
+
+Use @[image1] as the sole authority for the character's identity, proportions, outfit, materials, colors and visual style. Never redesign the character. Adapt the environment, abilities, VFX and movement naturally to them.
+
+The overall presentation should feel like a premium AAA action-game character introduction. Motion-design sections use a bold editorial language: oversized condensed typography, clean white or pale-grey fields, huge circular color blocks, thin technical diagrams, concentric rings, halftone textures, tiny interface markings, scan lines, geometric accents, sweeping brush or energy strokes and strong foreground/background parallax. The main palette shifts between black and white, icy cyan, electric blue, neon yellow and warm golden amber. In text-based graphic screens, the typography must appear clearly and be fully readable first, then the character, a cropped close-up or a silhouette may slide in front of it, overlap it or stand beside it. In some graphic-card backgrounds, also use cropped character close-ups or enlarged facial details as integrated design elements.
+
+Use the text parameters above exactly.
+
+CUT 01 | 0.00-1.10s | FACE
+Extreme cinematic close-up. Calm focused expression, part of the face naturally obscured by hair, hand, mask or accessory. Shallow depth of field and subtle push-in.
+
+CUT 02 | 1.10-2.20s | ACTIVATION
+A signature effect ignites around the character's eyes, hands, body or equipment: glowing rings, symbols, particles, energy filaments, holographic nodes or character-specific effects. The gaze lifts as the effect rapidly peaks.
+
+CUT 03 | 2.20-3.20s | ACTIVE CARD
+Hard graphic-match into a bright editorial freeze-frame. Large vivid circular field behind the character, oversized black condensed typography, thin technical circles, tiny UI text, halftone detail and sharp diagonal graphic streaks. Show the typography clearly first, then let the character overlap it or enter beside it. A cropped facial close-up or upper-body close-up may be integrated into the background design.
+
+Typography:
+STATUS_TEXT_1
+
+CUT 04 | 3.20-4.10s | ENGAGE CARD
+Snap to a high-contrast black character silhouette over a bold horizontal accent-color typography band. The text should read clearly before the silhouette crosses in front of it or locks beside it. A large luminous brushstroke or energy ribbon sweeps diagonally across the foreground with strong motion blur.
+
+Typography:
+STATUS_TEXT_2
+
+CUT 05 | 4.10-5.20s | WORLD
+Smash cut into a cinematic environment suited to the character. Wide dramatic perspective as they immediately dash, leap, land or burst forward. Fast whip-pan or reactive tracking camera.
+
+CUT 06 | 5.20-6.20s | DETAIL
+Fast close or medium shot of one defining ability, weapon motion, gesture, transformation or acrobatic action. Sharp character, strong foreground streaking.
+
+CUT 07 | 6.20-6.90s | INTERSTITIAL 01
+Hard cut to a text-led graphic design screen. Huge condensed typography, layered circles, technical lines, scan lines, halftone textures, tiny data text and aggressive graphic wipes. The typography must be fully readable first, then bring in the character as a smaller integrated figure, cropped close-up or silhouette.
+
+Typography:
+INTERSTITIAL_TEXT_1
+
+CUT 08 | 6.90-7.90s | IMPACT
+Return to action from a new aggressive angle. Attack, dodge, ability release or interaction with a simple secondary threat. Low angle, side track, whip-pan or short orbit.
+
+CUT 09 | 7.90-8.60s | INTERSTITIAL 02
+Another editorial text card, cleaner and punchier, built from bold typography, diagonal slashes, accent-color bars, fine UI markings and strong parallax. Let the typography dominate first, then place the character beside it or pass a cropped close-up in front for depth.
+
+Typography:
+INTERSTITIAL_TEXT_2
+
+CUT 10 | 8.60-9.60s | VELOCITY
+New perspective continues the momentum. Character rushes toward camera, crosses close to lens, launches upward or rapidly changes direction while the environment stretches into controlled speed blur.
+
+CUT 11 | 9.60-10.30s | INTERSTITIAL 03
+Final text-based graphic card before the hero beat. Bold oversized typography, sweeping energy stroke, geometric overlays, concentric diagrams and a fast silhouette or cropped character insert. Ensure the text is legible before the character layer overlaps or frames it.
+
+Typography:
+INTERSTITIAL_TEXT_3
+
+CUT 12 | 10.30-12.30s | HERO MOMENT
+The character performs their most iconic movement, ability, strike, landing or confident stop. Briefly stabilize at the visual peak, then collapse the shot into a bright smear, silhouette frame or graphic-match transition.
+
+CUT 13 | 12.30-15.00s | CHARACTER ID
+Premium final identity card. Clean pale background with enormous translucent concentric circles, fine technical arcs, network nodes, subtle halftone texture, tiny graphic markings and restrained chromatic glints. Place the character in a dynamic full-body hero pose overlapping huge condensed typography. The name should register clearly before the character overlap becomes dominant. A large cropped close-up can also be subtly embedded into the background composition.
+
+Behind them, add a large black circular ink-brush or emblem shape containing a ghosted visual motif associated with the character: creature silhouette, symbol, power form, weapon motif or abstract representation of their identity.
+
+Primary typography:
+CHARACTER_NAME
+
+Secondary:
+SUBTITLE
+
+Optional:
+PROJECT_TEXT
+
+Allow the character to overlap the typography for depth.
+
+EDITING:
+Very aggressive premium game-trailer rhythm. Hard cuts, graphic matches, whip pans, freeze frames, impact flashes, directional smears, foreground wipes, silhouette transitions and short speed ramps. Every cut must introduce a clearly different composition or visual mode. The text-based interstitial cards should break up the action rhythm and keep the sequence from feeling like uninterrupted combat footage. No slow dissolves or long continuous choreography.
+
+BGM DESIGN:
+Create a fast, character-driven AAA game-trailer score tightly synced to the edit. Adapt genre and instrumentation to the character, building from restrained tension into punchy percussion, bass and rising intensity, with clear hits for cuts, typography, transitions and action beats. Peak at the hero moment and finish with a strong final reveal stinger. Integrate subtle UI ticks, whooshes, energy swells and sub impacts into the music.
 ```
 
 </details>
@@ -330,6 +504,25 @@ Sound: impact thuds, fabric whooshes, shoes squeaking on tile, clattering pots a
 
 </details>
 
+<a id="h3-character-fast-cut-montage"></a>
+### Painterly white-haired swordswoman with glowing blue sword
+
+<a href="https://x.com/aimikoda/status/2101236672725757958"><img src="../../previews/h3-character-fast-cut-montage.jpg" width="360"></a>
+
+The prompt opens on the strongest gesture already in motion and requires at least 30 hard cuts with whip pans whose movement direction matches across shots. Cuts lock to percussion and material sounds and the clip ends on a held pose.
+
+MiniMax H3 · Reference-to-video · Source: [@aimikoda on X](https://x.com/aimikoda/status/2101236672725757958) · 508 likes on 2026-10-31
+
+[`fast-cuts`](tags.md#tag-fast-cuts) [`montage`](tags.md#tag-montage) [`character-reference`](tags.md#tag-character-reference) [`sword`](tags.md#tag-sword)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a fast, densely cut character edit using the character in @[character ref]. Preserve their identity, proportions, outfit, and original rendering style. Let their appearance and attitude determine the setting, movement, lighting, and music. Open with their strongest gesture already underway. Build around one distinctive action, carrying its motion across cuts so each new angle advances it. Snap between extreme details, expressive close-ups, and full-body movement. Use at least 30 hard cuts in accelerating bursts, sudden changes in framing, and whip pans that land directly on the next action. Match movement direction across shots to keep the character readable at speed. Synchronize cuts with driving percussion, sharp sound accents, and sounds drawn from the character’s materials. Keep momentum continuous through the payoff, ending sharply on the strongest pose without lingering. Avoid unrelated props, invented powers, and costume changes.
+```
+
+</details>
+
 <a id="wan-livestream-snapper-precision-gun-gameplay"></a>
 ### Livestream FPS gameplay in an industrial facility
 
@@ -490,6 +683,59 @@ Create a 15-second ultra-photorealistic cinematic action sequence. A young woman
 12–15 sec: The camera pulls rapidly backward into a huge cinematic wide shot, revealing the woman skating alone along the impossibly dangerous mountain ridge, surrounded by enormous cliffs, distant waterfalls, heavy clouds, mist, and a seemingly endless valley below.
 Style: documentary-level realism, physically accurate human movement, realistic roller-skating physics, natural facial expressions, authentic skin texture, individual hair strands, detailed fabric, real rock formations, atmospheric perspective, natural sunlight breaking through clouds, volumetric mountain mist, realistic wind and dust, subtle handheld camera movement, cinematic lens, realistic depth of field, natural motion blur, high dynamic range, 4K photorealism, premium live-action cinematography.
 Negative: CGI appearance, cartoon look, artificial textures, unrealistic physics, floating objects, distorted anatomy, extra fingers, extra limbs, face changes, identity changes, flickering, warped wheels, duplicated objects, oversaturated colors, excessive slow motion, unnatural camera movement.
+```
+
+</details>
+
+<a id="kling-towel-hero-six-thugs-bathroom"></a>
+### Bathroom fight against six thugs with a water weapon
+
+<a href="https://x.com/itxabdullaa/status/2116502720823865475"><img src="../../previews/kling-towel-hero-six-thugs-bathroom.jpg" width="360"></a>
+
+Two image references lock the hero identity and the enemy look, while a timed beat sheet in 5 second blocks sets the order of the choreography. The continuity section lists what must stay fixed and states that the water weapon stays liquid.
+
+Kling 4.0 · Reference-to-video · Source: [@itxabdullaa on X](https://x.com/itxabdullaa/status/2116502720823865475) · 264 likes on 2026-10-31
+
+[`action`](tags.md#tag-action) [`dark-fantasy`](tags.md#tag-dark-fantasy) [`reference-images`](tags.md#tag-reference-images) [`water-fx`](tags.md#tag-water-fx)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Ultra-photorealistic Hollywood dark-fantasy action, ARRI Alexa 65 aesthetic.
+
+HERO: Use
+@image1
+ as exact female identity reference. Preserve face, hair and physique. Secure white towel throughout.
+
+ENEMIES: Exactly six aggressive katana-wielding thugs based on
+@image2
+.
+
+LOCATION: Luxury marble bathroom, glass shower and bathtub filled with water and rose petals.
+
+ACTION:
+
+0–5s: Six thugs storm in simultaneously. Hero dodges multiple sword attacks, ducks and pivots beside the bathtub. Japanese battle shouts.
+
+5–10s: Hero performs a backbend, spinning kick and elbow strike. Bathtub water rises and follows her movements.
+
+10–15s: Two enemies attack together. Hero briefly dissolves into shadow and reappears nearby. Their swords miss and they collide. Hero counterattacks.
+
+15–20s: Water spirals around Hero's arm, forming a flowing liquid Indonesian golok silhouette. Never solid. She repels one attacker and sends another through the glass shower. Realistic splashes and shattered glass.
+
+20–25s: Remaining thugs attack together. Hero performs a wall-assisted jump, three-hit aerial combination and throws an attacker into bathroom fixtures.
+
+25–30s: An injured thug activates a red communication device: 「標的を確認した。」
+Indonesian subtitle: Target terkonfirmasi.
+
+Hero freezes airborne water and petals, turns toward him and says: 「相手を間違えたな。」
+Indonesian subtitle: Kalian salah memilih lawan.
+
+Heavy footsteps approach. Hero turns toward the entrance. End mid-action.
+
+VISUAL & AUDIO: Dynamic tracking, continuous realistic combat, expressive reactions, synchronized Japanese dialogue, sword impacts, glass breaking and water sounds.
+
+CONTINUITY: One Hero, exactly six enemies. Preserve identity, towel, weapons and bathroom layout. Bathtub water decreases during manipulation. Hydro Cleaver remains liquid. No extra characters, duplicated bodies, solid water weapons, robotic movements, pauses, victory pose or fade-out.
 ```
 
 </details>
@@ -3188,202 +3434,6 @@ integrated_multimodal_description: [Shot 1] A 15-second, 16:9, cinematic realist
 overall_soundscape: Use only diegetic environmental and weapon sound. Maintain shallow water flow, insects, distant leaf friction, humid forest air, and the soft acoustic space of the river corridor throughout. Emphasize close controlled breathing, boots and calves pushing through shallow water, delicate surface ripples, cloth friction, and her low line <d>[English] Easy... keep moving.</d> Then bring forward shifting gaze and body orientation through subtle gear movement, shallow water disturbance, leaf rub above, fine mist, and her low warning line <d>[English] Show yourself.</d> Feature the first unseen attack as a sharp fast water-splitting impact, sliced leaf tear, delayed branch shake, backward steps through water, short rifle bursts, damp forest gunshot reverb, shell casings landing, scattered spray, and fast breathing. Isolate the second hit with cloth tear, tiny blood burst, body impact into water, rifle thrown loose, rifle striking shallow rocks and water with a heavier layer than body splash, then expanding ripples and the broken pain sound <d>[English] Ah—!</d> Finish with water slosh around her recovery, the hand pressing the wound, the pistol found in shallow water, painful breath, cloth drag, droplets falling, and her low hoarse line <d>[English] I’m still here.</d> After the line, let the environment feel almost dead-quiet except for water, insects, leaf friction, and her pain-muted breathing, preserving the pressure of an unseen attacker.
 
 non_diegetic_music: No non-diegetic music.
-```
-
-</details>
-
-<a id="h3-sword-immortals-moonlit-city-duel"></a>
-### Sword immortals duel a demon above moonlit city
-
-<a href="https://x.com/Stellakjbk/status/2086021869040263455"><img src="../../previews/h3-sword-immortals-moonlit-city-duel.jpg" width="360"></a>
-
-The prompt opens with duration and aspect ratio, then anchors the setting to a reference image so the city, moon and lighting stay fixed. It lays out the fight as ordered beats with explicit camera moves such as low angle, orbit and slow motion, and closes with a list of native stereo sound cues.
-
-MiniMax H3 · Reference-to-video · Source: [@Stellakjbk on X](https://x.com/Stellakjbk/status/2086021869040263455) · 31 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
-
-[`xianxia`](tags.md#tag-xianxia) [`sword-fight`](tags.md#tag-sword-fight) [`reference-image`](tags.md#tag-reference-image) [`game-cg`](tags.md#tag-game-cg)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-5秒，4:3，顶级东方仙侠3A游戏CG，电影级高端宣传片，严格参考图1的月下仙城场景与美术气质：巨大明月、云海天宫、环形仙城、悬浮仙山、瀑布、白玉仙桥、金顶楼阁、冷蓝月光。整体画面必须唯美、恢弘、神圣、危险、酷炫，像大厂正式游戏开场CG，不像普通AI视频。
-
-双主角设定：男剑仙，黑色长发，白蓝战袍，冰蓝雷光长剑，英俊冷峻，强大沉稳；女剑仙，黑色长发，白青仙裙，月白灵剑与月华法术，清冷绝美，高贵飘逸。反派为黑金重甲魔修，手持黑色巨剑，周身暗红黑色魔气，压迫感极强。人物脸和服装全程稳定统一，保持高级游戏角色建模质感。
-
-开场镜头从巨大明月前高速穿越云海与浮空仙山，俯冲进入宏伟仙城，来到白玉高台，男女主背对镜头立于高台边缘，衣袍长发飞扬，英雄感极强。远处天空突然裂开暗红色空间裂缝，魔修高速坠落，轰然落地，引发碎石、冲击波和魔气爆发。
-
-男剑仙瞬间拔剑冲出，与魔修在仙桥中央高速对撞，剑刃碰撞爆发蓝红双色能量冲击、空间波纹、火星与剑气。近战动作凌厉、清晰、有重量感，包含高速斩击、格挡、反击、短暂慢动作碰撞特写，镜头低机位跟拍与高速环绕，极具电影感。
-
-随后女剑仙御剑升空，展开巨大蓝白仙阵，发动“万剑齐发”，数百柄发光飞剑如流星暴雨般射向魔修，夜空被剑光点亮。魔修爆发黑红魔气，凝聚巨大的魔龙反击，空中连续爆炸。男剑仙御剑穿梭爆炸火光与云海，一剑斩裂魔龙，空战场面华丽震撼。
-
-最后魔修释放百米高的黑红魔神法相，遮蔽天空。男女主并肩悬空，男剑仙开启覆盖半个天空的金蓝剑阵，女剑仙召唤巨大的白蓝月华莲华法相，二人联手凝聚数百米长的金蓝神剑，与魔神巨剑正面碰撞。碰撞瞬间进入超级慢动作，蓝色雷电、金色符文、白色月华、红色魔焰与空间裂痕同时凝固，随后爆发毁天灭地的大爆炸，形成巨大的环形云洞与能量冲击波。
-
-结尾爆炸光芒散去，巨大明月重现，男女主并肩立于悬空巨剑之上俯瞰整座仙城，周围灵剑环绕，远处天宫亮起金蓝光柱，镜头缓慢拉远，形成极强的高级游戏主视觉结尾，并预留后期添加Logo空间。
-
-镜头要求：超广角航拍、俯冲推进、低机位英雄视角、高速跟拍、环绕镜头、御剑追踪、短暂升格慢动作、终极碰撞震动、史诗级拉远收尾。镜头必须流畅稳定，不乱晃，不跳轴。
-
-视觉要求：特效炫丽但高级干净，不能廉价光污染。强调冰蓝雷电剑气、金色仙纹、月华粒子、飞剑阵、空间裂缝、黑红魔焰、魔龙、巨大法相、神剑、冲击波、体积云、瀑布水雾、发光碎片。人物主体始终清晰，画面精致通透，PBR材质，真实布料与长发动效，电影级光影与空间层次。
-
-音效：原生立体声。包含高空风声、远处钟鸣、低沉鼓点、剑刃碰撞、破风声、雷电炸裂、万剑掠空、魔龙低吼、终极爆炸低频冲击。无对白，无字幕，无水印，无乱码。
-```
-
-</details>
-
-<a id="h3-spirit-fox-bridge-escape"></a>
-### Girl escapes collapsing bridge with spirit fox
-
-<a href="https://x.com/HBCoop_/status/2083553619413209379"><img src="../../previews/h3-spirit-fox-bridge-escape.jpg" width="360"></a>
-
-Timed beats split the 15 second clip into setup, chase and landing, each with a clear physical cause. The reference image locks the character design, and an explicit ban on teleporting or costume changes keeps the route continuous.
-
-MiniMax H3 · Reference-to-video · Source: [@HBCoop_ on X](https://x.com/HBCoop_/status/2083553619413209379) · 28 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
-
-[`fantasy`](tags.md#tag-fantasy) [`spirit-fox`](tags.md#tag-spirit-fox) [`camera-tracking`](tags.md#tag-camera-tracking) [`character-reference`](tags.md#tag-character-reference)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Use the reference @ image for the exact character design, clothing, proportions, blue hair, pointed ears and glowing cyan spirit fox. Preserve the cinematic stylized 3D look, saturated teal jungle palette, soft volumetric light and detailed natural textures. No dialogue; environmental sound only.
-
-0–4 seconds: Begin close to the reference composition on the ancient stone bridge. The girl kneels beside the small glowing spirit fox as ripples begin moving backward across the stream below. She notices the unnatural movement and looks over her shoulder. A massive moss-covered stone serpent suddenly erupts from beneath the bridge, lifting one side of the platform. The stone tilts physically under her weight. She loses balance, catches herself with one hand and quickly pulls the spirit fox against her chest as cracks spread beneath her knees.
-
-4–10 seconds: The bridge collapses progressively behind her. She rises naturally from the crouch and sprints barefoot across the tilting stone slabs, carrying the fox securely with one arm. Each footfall dislodges moss and small fragments; broken slabs fall with believable weight and strike the water below, producing delayed splashes. The camera tracks closely beside her at waist height. The serpent sweeps its heavy stone tail across her path. She drops into a fast knee slide beneath it; her torn cloak and blue hair trail behind with clear inertia. Still moving forward, she catches a hanging vine with her free hand. Her momentum pulls the vine taut and swings her outward across the widening gap while the camera arcs alongside her.
-
-10–15 seconds: At the highest point of the swing, the vine begins tearing from the temple ceiling. She releases before it snaps, travels forward in a natural gravity-driven arc and lands hard on the opposite platform. She absorbs the impact through her feet and one hand, then rolls once across her shoulder while protecting the fox against her chest. The camera drops and rolls partially with her, then stabilizes behind her as she rises into a defensive crouch. The spirit fox leaps from her arms and lands in front of her, its cyan light intensifying as the serpent crashes into the broken bridge behind them, sending water, dust and stone fragments through the backlight.
-
-Maintain one continuous route and clear cause-and-effect motion. No teleporting, floating, sudden directional changes, extra characters, costume changes or transformation of the girl. Keep the fox small throughout; only its light becomes brighter in the final moment.
-```
-
-</details>
-
-<a id="h3-forge-city-chain-warrior-music-video"></a>
-### Swordswoman with iron chain strikes in forge city
-
-<a href="https://x.com/GlitterPixely/status/2086599324125872626"><img src="../../previews/h3-forge-city-chain-warrior-music-video.jpg" width="360"></a>
-
-Two reference images lock the character and the forge city, while the original music track is reused unchanged so every cut, title state and effect lands on a fixed audio transient. An empty establishing opening shows the on-screen name before the character appears.
-
-MiniMax H3 · Reference-to-video · Source: [@GlitterPixely on X](https://x.com/GlitterPixely/status/2086599324125872626) · 27 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
-
-[`reference-images`](tags.md#tag-reference-images) [`audio-reuse`](tags.md#tag-audio-reuse) [`music-video`](tags.md#tag-music-video) [`anime-action`](tags.md#tag-anime-action) [`beat-sync`](tags.md#tag-beat-sync)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-subject_definitions:
-<Subject 1> is ENRA VAEL, the woman from < 📷Image1 >: the same sharp face, dark wispy bangs, long braid threaded through copper rings, spiked hair ornaments, severe expression, layered red robes, tattered soot-black panels, high metal collar, dark shoulder armor, red lamellar plates, ropes, beads, and weathered fittings. Her left arm alone remains blackened and lava-cracked and holds the fire-wreathed bladed weapon; her normal right hand holds the heavy chain and attached bronze vessel-like weight. The burning double metal ring remains a separate floating halo behind her.
-
-<Subject 2> is the colossal forge city from < 📷Image2 >: one black-basalt shelf beside a lower-center lava river, a cylindrical furnace tower left, layered bridges overhead, a lavafall and furnace opening right, distant towers in gray smoke, hanging chains, heat haze, and embers.
-
-< 📷Audio1 > is the 15.00-second stereo music track used continuously and as the exact editorial-timing source.
-summary:
-[reference generation + audio reuse] Nine beat-matched angles present <Subject 1> inside <Subject 2> as a high-impact character music video. The empty opening shot reveals the exact name "ENRA VAEL" before the character appears; a furnace-light scan, ring-aperture transition, solarized accent, six-segment fire sigil, escalating heat rings, and posterized charge build toward the 00:14.120 iron-sun detonation.
-
-retention_analysis:
-
-<Subject 1> (appears in [Shot 2], [Shot 3], [Shot 4], [Shot 5], [Shot 6], [Shot 7], [Shot 8], [Shot 9]): fully_preserved - face, proportions, braid, hair ornaments, asymmetrical arms, wardrobe, armor, handed props, weighted chain, floating double ring, and expression remain consistent beneath every effect.
-<Subject 2> (appears in [Shot 1], [Shot 2], [Shot 3], [Shot 4], [Shot 5], [Shot 6], [Shot 7], [Shot 8], [Shot 9]): fully_preserved - connected geography, landmarks, materials, smoke, lava, and orange-charcoal lighting persist while viewpoint and temporary transition treatments change.
-< 📷Audio1 >: partially_copy - the full musical layer is copied in its original order and timing; only restrained diegetic chain, cloth, fire, title-weld, and impact sounds are mixed beneath it.
-
-detailed_description:
-
-AAA anime action-RPG music video; effects alter only environment and end by 00:13.770.
-[Shot 1] Empty extreme-wide of <Subject 2>; no character, halo, or weapon. At 00:00.120 an ember seam opens. At 00:00.240, the complete exact uppercase "ENRA VAEL" appears simultaneously, centered, black iron with a thin white-hot rim, maximum 42% frame width. It holds through 00:01.120, collapses, and is gone by 00:01.350. No text crosses the next cut. <Audio 1> starts at 00:00.000.
-
-[Shot 2] At 00:01.430, a left-front full-body angle pedestals up as she drags the chain weight. From 00:01.880 to 00:02.650, a furnace-light scan travels boots-to-face, revealing robe, armor, chain, and ornaments with afterglow.
-[Shot 3] At 00:02.840, a near-static right-front three-quarter hero card keeps her face, halo, and weapon unobstructed. No text is visible.
-
-[Shot 4] At 00:04.470, a close-up frames her face inside the unattached ring. Molten arm pulses at 00:04.940; right hand closes on chain at 00:05.410. The ring turns front-on at 00:05.870 and expands; its black center fills frame from 00:06.170 to 00:06.300 without covering her face.
-[Shot 5] At 00:06.340, the ring aperture opens on the drop to a ground-level full-body angle. She yanks the weighted chain; ring spins independently, weapon traces a molten circle, and furnaces flash. One black-red solarized frame hits, then normal color returns.
-[Shot 6] At 00:08.240, overhead, she pivots as fire engraves a six-segment solar sigil. Segments lock at 00:08.710, 00:09.180, and 00:09.650; it flashes at 00:09.800, then lifts as ribbons into the ring by 00:10.090.
-[Shot 7] At 00:10.090, a weapon-side view tracks blade, cracked arm, and face. Pulses send one, two, then three heat rings through the background at 00:10.580, 00:11.040, and 00:11.480; her geometry stays stable.
-
-[Shot 8] At 00:11.950, a low medium-wide pushes in fast. She pulls chain taut, raises weapon at 00:12.440, turns it down at 00:12.900, and compresses an iron sun at 00:13.360. That accent briefly posterizes her charcoal-red with a white rim, then restores detail.
-
-[Shot 9] At 00:13.770, prior effects gone, a frontal ultra-wide catches her downward strike. At 00:14.120, weapon meets basalt and chain snaps taut: the iron sun erupts behind her into corona, lava shockwave, fire plume, furnace flares, and bowed smoke. A second shell hits at 00:14.560; a final flare at 00:14.910 frames her intact silhouette. Camera pulls back and shakes only on primary impact. End centered, weapon planted, chain weighted. Render exact "ENRA VAEL" once during the empty opening only; no reversed letters, extra glyphs, subtitles, logos, extra characters, costume changes, duplicate limbs, extra weapons, or fire across her face.
-overall_soundscape:
-
-Lava roar, furnace resonance, wind, metal fittings, cloth, and chain clinks sit beneath the music. Add a restrained metal-weld sizzle at 00:00.240, a chain snap and ring whoosh at 00:06.340, then a metal strike, concussive blast, pressure rush, and ember hiss at 00:14.120 without overpowering < 📷Audio1 >.
-non_diegetic_music:
-Directly reuse the 00:00.000-00:15.000 musical layer of < 📷Audio1 > unchanged. Preserve its sparse opening, 00:06.340 drop, approximately 128-BPM pulse, 00:13.770 ignition, 00:14.120 detonation, 00:14.560 secondary burst, 00:14.910 flare, and hard ending; every cut, title state, and VFX change lands on the stated transient, with no replacement score.
-```
-
-</details>
-
-<a id="h3-warrior-witch-chamber-ghost-battle"></a>
-### Warrior enters witch chamber full of corpses
-
-<a href="https://x.com/HeyZoyaKhan/status/2085575259533783077"><img src="../../previews/h3-warrior-witch-chamber-ghost-battle.jpg" width="360"></a>
-
-The prompt is split into beats (entry, ghost reveal, close combat, climax, aftermath), which gives the model a clear shot order. A camera that follows from behind and a closing style block set the lighting and realism.
-
-MiniMax H3 · Text-to-video · Source: [@HeyZoyaKhan on X](https://x.com/HeyZoyaKhan/status/2085575259533783077) · 22 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
-
-[`dark-fantasy`](tags.md#tag-dark-fantasy) [`sword-fight`](tags.md#tag-sword-fight) [`tracking-shot`](tags.md#tag-tracking-shot) [`creature`](tags.md#tag-creature)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A young heroic warrior wearing beautifully crafted silver armor, a dark blue cape, and carrying an ancient enchanted longsword slowly enters an abandoned underground witch chamber. The room is filled with broken ritual circles, ancient books, shattered altars, skulls, scattered candles, and dozens of lifeless witch bodies lying across the cold stone floor. The atmosphere is eerily silent.
-
-The camera slowly follows behind him as he carefully scans every corner, gripping his sword tightly and remaining fully alert.
-
-Suddenly, the ancient stone walls begin to tremble.
-
-A horrifying ghost emerges from the darkness. It has a grotesque deformed face, glowing crimson eyes, an unnaturally long body, and dozens of skeletal arms extending in every direction. Instead of wielding weapons, the ghost attacks using its razor-sharp claws and multiple arms, striking from impossible angles with incredible speed.
-
-An intense close-quarters battle begins.
-
-The warrior skillfully dodges the ghost's relentless claw attacks, parries with his enchanted sword, and cuts through several skeletal arms as they lunge toward him. The ghost continuously regenerates new arms, making the fight increasingly desperate.
-
-The battle reaches its climax as the ghost charges forward with all of its arms at once. The warrior times the attack perfectly, leaps into the air, and delivers a single breathtaking spinning sword strike that cleanly severs the ghost's head.
-
-The head falls to the stone floor as the ghost's body freezes in place, cracks with glowing purple energy, and disintegrates into countless glowing magical particles that fade into the air. The chamber becomes completely silent once again.
-
-Style
-
-Ultra-cinematic dark fantasy, realistic sword choreography, terrifying creature animation, expressive facial reactions, dramatic lighting, highly detailed gothic environment, dynamic camera movement, AAA fantasy film quality, Unreal Engine realism, IMAX composition, ultra-detailed textures
-
-#MiniMaxH3
-```
-
-</details>
-
-<a id="h3-first-person-magnetic-orb-quarry"></a>
-### Hands hold a magnetic orb as armored guards charge
-
-<a href="https://x.com/KrevixAi/status/2085759071047565341"><img src="../../previews/h3-first-person-magnetic-orb-quarry.jpg" width="360"></a>
-
-Locking the camera to first-person with the face never visible keeps the hands and forearms as the only character anchor. Stating that the orb already exists before it is crushed gives the model a clear starting state for the magnetic pulse.
-
-MiniMax H3 · Text-to-video · Source: [@KrevixAi on X](https://x.com/KrevixAi/status/2085759071047565341) · 19 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
-
-[`first-person`](tags.md#tag-first-person) [`dark-fantasy`](tags.md#tag-dark-fantasy) [`magic-orb`](tags.md#tag-magic-orb) [`combat`](tags.md#tag-combat)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Strict first-person POV, male hero, face never visible. Visible only the hero’s hands, fingers, and forearms when needed for casting, dodging balance, and the final magnetic strike. Broad male hands, pronounced knuckles, short nails, pale or cool-toned skin, dark gray or black sleeves, thin geometric magic lines glowing cold white with a faint blue tint across the skin and wrists. The hands move with force, precision, and short controlled gestures, never soft or decorative. One continuous shot, no cuts, vertical cinematic dark fantasy, realistic body-driven camera motion, professional action cinematography with physical momentum and readable combat beats.
-
-In a vast abandoned stone quarry under a gray overcast sky, high rock walls, two dark mine tunnel arches in the background, old metal rails cutting through wet red-brown mud, overturned mine carts, scattered stones, chains, broken timber, iron scrap, discarded armor, and bodies of fallen guards. The space feels cold, damp, heavy, and dusty, with a steel-gray, dirty brown, graphite, and cold white palette. A squad of dark armored quarry guards charges first across the rails and muddy ground, helmets closed, carrying short spears, shields, and hammers. Behind them, emerging from the shadow of the mine arch, comes the boss: a giant one-eyed heavy warrior, 4 to 5 meters tall, rough gray-pink skin, one large round eye in the center of the face, partial metal armor and leather straps across the chest, a massive shoulder plate on one side, thick legs, immense weight, and a huge heavy battle axe carried with brutal momentum.
-
-The hero briefly raises one hand holding a smooth semi-transparent magnetic orb, tennis-ball sized, silver-white with a pale blue core, a dense metallic vortex inside, thin rings of light rotating around it. The orb already exists when first shown and does not appear from nowhere. As the smaller guards rush in, the hero crushes the orb. A cold magnetic pulse flashes through both forearms and into the ground. Weapons rip out of the charging soldiers’ hands, shields twist sideways, bolts, chains, rail spikes, loose armor plates, and metal fragments shudder and begin lifting from the quarry floor. Some smaller enemies are violently disarmed and thrown off balance immediately.
-
-The boss accelerates forward through the chaos and swings the giant axe in a heavy horizontal attack. The hero performs a fast professional sidestep and body lean at the last instant; the blade tears across the foreground with dangerous proximity, kicking mud and dust past the camera. The boss recovers with heavy inertia, plants a foot, and launches a second brutal overhead strike. The hero ducks and slips under it in a sharp Hollywood-style evasive motion, the axe crashing into the ground and rails with a shower of dirt, sparks, and metal shock. The camera reacts like a real head-and-torso dodge: fast lateral movement, recoil, breath, then immediate refocus on the boss.
-
-Now the magnetic field fully takes hold. The hero spreads both hands outward. Metal rises from every direction in a controlled field, not chaotic: torn rails, chains, bolts, iron rings, armor plates, mine cart fragments, shield metal. The pieces lift, align, and begin orbiting the giant in three clear rotating bands: a lower ring around the knees, a middle ring around the waist and abdomen, and a top ring around the chest and shoulders. The boss tries to wrench the axe free and charge again, but the orbit tightens around him. Tight center framing, with strong tracking drift and a low-angle hold to emphasize mass and danger.
-
-The hero then sharply pulls both hands inward. All three magnetic rings slam tighter at once. Chains snap taut, rails bend into crushing arcs, armor plates collide and lock, metal fragments hammer into the boss’s torso and arms. The giant loses balance, staggers, and is forced down, the axe slipping and dropping into the mud. The metal cocoon constricts harder with brutal industrial weight and magnetic pressure, locking his body in place. Dust rises in waves, small rocks skitter, chains strain, and the one eye flares with panic and rage.
-
-The hero thrusts both hands forward for the finisher. A narrow concentrated magnetic impulse forms between the palms, not fire, but a dense electromagnetic strike with a bright white core and pale blue edges. Brief micro push-in to the center of the boss’s chest. The pulse hits. Every piece of metal bound around the giant clamps inward simultaneously with one final crushing lock. The boss drops fully to his knees, torso compressed under chained rails and armored fragments, while a deep metallic shock ripples through the quarry and a wave of dust spreads across the ground.
-
-End on the giant kneeling and trapped in a brutal iron cocoon, chains stretched tight, rails embedded across the torso, the fallen axe half-buried in mud, drifting dust, and a few small metal fragments still hovering and spinning before they finally drop.
-
-Lighting: cold gray cloud light, faint wet reflections on stone, mud, and rails, cold silver-white illumination from the orb and the hero’s magic lines, sharp cold highlights on airborne metal during orbit, and a final white-blue flash from the magnetic impulse. Cinematic dark fantasy, anamorphic look, subtle film grain, shallow depth of field on hands and nearby metal, strong physical inertia, realistic heavy enemy movement, rails resisting as they tear from the ground, chains tightening with believable tension, mud displacement, rolling debris, and controlled magnetic motion that feels like a field, not random telekinesis. Sound design: low wind in the quarry, distant metal groans, armor rattle from the charging guards, tight compression sound as the orb is crushed, deep low-frequency magnetic hum, metal shrieking free from the ground, heavy boss footsteps, axe whooshes with real mass, impact crashes into mud and rails, chain strain, rail collisions, a sharp electromagnetic finisher, then a massive iron-lock resonance and fading dust-heavy rumble.
-
-No third-person view, no visible hero face, no constant hands in frame, no random floating metal chaos, no weak enemy scale, no weightless boss, no fire magic look, no glowing fantasy laser beam, no cartoon physics, no soft combat, no low-detail quarry, no tiny axe, no silly enemy behavior, no zombie movement.
-
-#AIVideoComparison #seedance2 #MiniMax #MiniMaxH3 #Hailuo
 ```
 
 </details>

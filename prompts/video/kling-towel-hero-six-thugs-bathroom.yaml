@@ -1,0 +1,59 @@
+id: kling-towel-hero-six-thugs-bathroom
+title:
+  en: Bathroom fight against six thugs with a water weapon
+  zh: 浴室里用水化武器对战六名打手
+model: Kling 4.0
+mode: reference-to-video
+category: action
+tags:
+- action
+- dark-fantasy
+- reference-images
+- water-fx
+source:
+  name: '@itxabdullaa on X'
+  url: https://x.com/itxabdullaa/status/2116502720823865475
+  credit: ÀBDŪLLÂH
+  likes: 264
+  captured: '2026-10-31'
+  posted: '2026-10-31'
+video: https://x.com/itxabdullaa/status/2116502720823865475
+notes:
+  en: Two image references lock the hero identity and the enemy look, while a timed beat sheet in 5 second blocks sets the order of the choreography. The continuity section lists what must stay fixed and states that the water weapon stays liquid.
+  zh: 两张参考图分别锁定主角身份和敌人造型，并用每5秒一段的节拍表安排动作顺序。连续性部分列出必须保持不变的内容，并规定水武器始终保持液态。
+prompt: |
+  Ultra-photorealistic Hollywood dark-fantasy action, ARRI Alexa 65 aesthetic.
+
+  HERO: Use
+  @image1
+   as exact female identity reference. Preserve face, hair and physique. Secure white towel throughout.
+
+  ENEMIES: Exactly six aggressive katana-wielding thugs based on
+  @image2
+  .
+
+  LOCATION: Luxury marble bathroom, glass shower and bathtub filled with water and rose petals.
+
+  ACTION:
+
+  0–5s: Six thugs storm in simultaneously. Hero dodges multiple sword attacks, ducks and pivots beside the bathtub. Japanese battle shouts.
+
+  5–10s: Hero performs a backbend, spinning kick and elbow strike. Bathtub water rises and follows her movements.
+
+  10–15s: Two enemies attack together. Hero briefly dissolves into shadow and reappears nearby. Their swords miss and they collide. Hero counterattacks.
+
+  15–20s: Water spirals around Hero's arm, forming a flowing liquid Indonesian golok silhouette. Never solid. She repels one attacker and sends another through the glass shower. Realistic splashes and shattered glass.
+
+  20–25s: Remaining thugs attack together. Hero performs a wall-assisted jump, three-hit aerial combination and throws an attacker into bathroom fixtures.
+
+  25–30s: An injured thug activates a red communication device: 「標的を確認した。」
+  Indonesian subtitle: Target terkonfirmasi.
+
+  Hero freezes airborne water and petals, turns toward him and says: 「相手を間違えたな。」
+  Indonesian subtitle: Kalian salah memilih lawan.
+
+  Heavy footsteps approach. Hero turns toward the entrance. End mid-action.
+
+  VISUAL & AUDIO: Dynamic tracking, continuous realistic combat, expressive reactions, synchronized Japanese dialogue, sword impacts, glass breaking and water sounds.
+
+  CONTINUITY: One Hero, exactly six enemies. Preserve identity, towel, weapons and bathroom layout. Bathtub water decreases during manipulation. Hydro Cleaver remains liquid. No extra characters, duplicated bodies, solid water weapons, robotic movements, pauses, victory pose or fade-out.

@@ -1,6 +1,340 @@
 # 海报与编辑排版
 
-[返回目录](../../README_zh.md) · 全部 199 条 · [1](image-poster.md) · **2**
+[返回目录](../../README_zh.md) · 全部 200 条 · [1](image-poster.md) · **2**
+
+<a id="gpt-image-opera-house-riso-zine-split-poster"></a>
+### 悉尼歌剧院实景照片与孔版印刷杂志重构双联海报
+
+<a href="https://x.com/sebatheepan/status/2101034408253837454"><img src="../../previews/gpt-image-opera-house-riso-zine-split-poster.jpg" width="360"></a>
+
+画面上下分区，上半是忠实实景，下半是双色孔版印刷重构，并明确要求保留建筑原貌，地标依然一眼可辨。结构、光线、密度和文字都留成固定槽位，一套母提示词就能批量出系列，并用唯一红色点缀和固定留白统一版面。
+
+GPT Image 2.5 · 文生图 · 出处: [@sebatheepan on X](https://x.com/sebatheepan/status/2101034408253837454) · 52 赞，统计于 2026-10-29
+
+[`risograph`](tags.md#tag-risograph) [`zine`](tags.md#tag-zine) [`architecture`](tags.md#tag-architecture) [`split-layout`](tags.md#tag-split-layout) [`template`](tags.md#tag-template)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+─────────────────────────
+One poster, 3:4 vertical canvas. Split into two roughly equal zones — a realistic photograph on top, a printed reconstruction below — divided by one clean sharp horizontal line. The structure must not be stretched, warped, tilted or repositioned unnaturally.
+
+TOP HALF — THE REAL SHOT
+{STRUCTURE DESCRIPTION}. {PLATE LIGHT}. Preserve the structure faithfully: same architecture, proportions, perspective, distinctive details, natural light and shadow. Add only a subtle high-end color grade and the faintest film grain. Never redesign or reinterpret the architecture.
+
+BOTTOM HALF — THE PRINTED RECONSTRUCTION
+Rebuild the same structure as a two-color risograph zine print: bold flat spot-color shapes (one deep ink layer plus the structure's muted colors as a second spot layer), visible misregistration offsets between the layers, drum streaks, coarse layered ink-grain, halftone texture from overlapping dots, a zine masthead bar, two staple marks and paste-up edges. The photograph dissolves outward into flat spot-color shapes, misaligned layers and grainy ink. The structure must remain immediately recognizable. {PLATE DENSITY}.
+Texture: cheap zine paper, layered soy ink, misregistration, drum streaks, folded-edge wear, cut-and-paste edges, restrained crop marks, one small fluorescent red calibration bar. Color: cream zine paper, black ink, one deep spot color, the structure's original muted colors, a single fluorescent red accent. Never fully desaturate the structure.
+The structure occupies roughly 60-88% of the frame width. Leave 22-38% of the paper visibly untouched and empty — generous negative space so the poster reads as an archival specimen, not a packed screen.
+
+TYPOGRAPHY — a clean fixed-width architectural title block, pinned top-left at a small fixed inset, black ink, monospaced technical typeface, verbatim, each line in caps:
+"{NAME}"
+"{CITY, COUNTRY}"
+"ZINE PLATE 0N"
+A thin horizontal rule under the third line, then one short observational caption verbatim:
+"{CAPTION}"
+
+A solid vertical red rectangle — the only red in the poster — is pinned to the bottom-right corner zone about 12% from the bottom and right edges. Four thin black crop marks sit in the four corners of the bottom half at identical insets. Red bar, crop marks and text block keep exactly the same position and size relative to the frame.
+
+MOOD: underground zine crossed with an architecture fanzine — young, tactile, collectible. Sophisticated, minimal, tactile, intellectual, slightly mysterious, highly collectible.
+
+AVOID: solid black terminal backgrounds, dense walls of code, cyberpunk neon, excessive decorative glyphs, distorted architecture, impossible geometry, invented architectural details, fake technical specifications, random meaningless symbols, garbled text, extra colors, brand logos, QR codes, watermarks, author credits, tourist-poster clichés.
+
+Priority: preserve the structure's identity and architectural accuracy first. The experimental print treatment enhances the architecture, never hides it.
+
+──────────────────────────────────────────────
+THE FOUR VARIATIONS (one axis change per plate)
+──────────────────────────────────────────────
+PLATE 01 — DENSE · light: "Golden-hour sunlight with long warm shadows" · density: "The print treatment is at its densest and richest: layered marks, full system detail"
+PLATE 02 — LINEWORK · light: "Soft overcast daylight, muted flat tones" · density: "The print is linework-forward: thin drafting lines and technical geometry dominate the reconstruction"
+PLATE 03 — FRAGMENT · light: "Blue-hour dusk with cool tones, the shells glowing warm against the dusk" · density: "The print is fragment-forward: torn photographic fragments dominate, with fewer system marks around them"
+PLATE 04 — MINIMAL · light: "Bright midday sunlight with crisp shadows" · density: "The print is the minimal plate of the set: sparse marks, maximum untouched paper"
+```
+
+</details>
+
+<a id="gpt-image-tidal-index-coastline-poster"></a>
+### 日式潮汐索引海岸海报
+
+<a href="https://x.com/MrLarus/status/2115477621920374895"><img src="../../previews/gpt-image-tidal-index-coastline-poster.jpg" width="360"></a>
+
+这是一个带填空槽位的模板，可填入主题、观察方式、标题、配色和展览信息，一套提示词能批量生成系列海报。提示词要求主体放大居中，周围用细引线连接观察节点，并配竖排大标题与英文副标题，形成大小尺度的对比。
+
+GPT Image 2.5 · 文生图 · 出处: [@MrLarus on X](https://x.com/MrLarus/status/2115477621920374895) · 50 赞，统计于 2026-10-29
+
+[`japanese-style`](tags.md#tag-japanese-style) [`poster`](tags.md#tag-poster) [`tide`](tags.md#tag-tide) [`nature-observation`](tags.md#tag-nature-observation)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Observation Subject: [Fill in Subject]
+Core Natural Object: [Fill in Object]
+Primary Observation Method: [Cross-Section Structure / Cyclic Changes / Movement Trajectory / Natural Texture]
+Main Title: [Fill in Title]
+Main Color Scheme: [Fill in Color Palette]
+Exhibition Information: [Fill in Date, Location, etc.]
+
+Create a 9:16 vertical Japanese-style natural observation art poster, blending natural history illustrations, scientific infographics, vintage printing, and modern exhibition design. Transform natural phenomena into visual works that combine artistic beauty with observational value.
+
+Enlarge the core natural object significantly to make it the primary visual focus of the composition. Based on the theme, select methods such as cross-section, cycle, flow trajectory, or morphological changes to showcase the object's most distinctive features.
+
+Surround the main subject with close-up magnifications, observation nodes, fine guiding lines, scales, and structural annotations. The information should have clear logical relationships, allowing viewers to follow the composition's reading path to understand the natural object.
+
+Use an off-white aged paper background overall, paired with natural-themed primary colors and a few accent hues. Through soft color gradients, intricate hand-drawn lines, and vintage printing textures, evoke a timeless natural specimen atlas style.
+
+The composition must balance large-scale subjects with minute details, creating a striking scale contrast. Auxiliary graphics, recording lines, and explanatory text should distribute naturally along the subject's structure, maintaining the precise order characteristic of scientific illustrations.
+
+Typography should integrate large Chinese or Japanese titles, English subtitles, vertical explanatory notes, and small observation labels. Text content must align with the theme, avoiding arbitrary inclusion of meaningless scientific jargon or fabricated data.
+
+The final composition should convey the rigor of natural observation, the visual impact of an art poster, and the maturity of editorial design. Avoid ordinary textbook layouts, mechanical chart stacking, and overly realistic commercial photography effects.
+```
+
+</details>
+
+<a id="gpt-image-photo-to-ink-golden-thread-travel-poster"></a>
+### 巴黎日落实景照片过渡到墨线插画的旅行海报
+
+<a href="https://x.com/Ziha_ai/status/2103336789339709511"><img src="../../previews/gpt-image-photo-to-ink-golden-thread-travel-poster.jpg" width="360"></a>
+
+提示词把画面拆成实景照片、过渡、墨线插画三段，并用一根金色细线把它们连起来。地标和时段用方括号占位，方便复用，结尾的排除项让照片保持主体、版面不杂乱。
+
+GPT Image 2.5 · 文生图 · 出处: [@Ziha_ai on X](https://x.com/Ziha_ai/status/2103336789339709511) · 48 赞，统计于 2026-10-28
+
+[`travel-poster`](tags.md#tag-travel-poster) [`photo-to-ink`](tags.md#tag-photo-to-ink) [`golden-thread`](tags.md#tag-golden-thread) [`landmark`](tags.md#tag-landmark) [`template`](tags.md#tag-template)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a sophisticated conceptual travel-art poster based on [LANDMARK / CITY / COUNTRY], inspired by the visual storytelling of a real photograph seamlessly transitioning into delicate hand-drawn illustration.
+
+TOP SECTION — REALISTIC PHOTOGRAPH:
+Show a breathtaking, cinematic photograph of [LANDMARK / CITY / COUNTRY] during [sunrise / sunset / golden hour / blue hour]. Preserve the authentic architecture, landscape, proportions, recognizable details, atmosphere, natural lighting, and distinctive visual identity of the location. Use dramatic warm light, glowing highlights, realistic textures, atmospheric depth, subtle film grain, and an editorial travel-photography aesthetic.
+
+THE TRANSITION:
+From one important visual element of the photograph — such as the sun, a window, tower, dome, streetlight, mountain peak, river, or architectural detail — create a single thin golden thread / beam of light that naturally extends downward from the photograph into the empty paper space. The thread should feel delicate, handmade, slightly imperfect, and continuous.
+
+BOTTOM SECTION — HAND-DRAWN STORY:
+On warm ivory textured paper, transform the end of the golden thread into a beautiful minimal ink illustration connected to [LANDMARK / CITY / COUNTRY]. The thread could lead to a tiny illustrated traveler, artist, child, architect, traditional object, local street scene, miniature landmark, map element, flower, boat, train, or another meaningful cultural symbol.
+
+Keep the illustration extremely elegant and sparse, using fine black ink lines, subtle hatching, tiny golden accents, and lots of negative space. Integrate small recognizable details from [CITY / COUNTRY] into the illustration without making it crowded.
+
+TYPOGRAPHY:
+Add a small handwritten or refined editorial phrase such as:
+[CITY] [PLACE NAME]
+
+Add minimal typography: [CITY / COUNTRY] — [LANDMARK NAME], with optional coordinates or a small location descriptor.
+
+STYLE: premium conceptual travel poster, poetic visual storytelling, real photography + minimalist ink illustration, warm ivory paper, delicate golden thread, sophisticated editorial composition, museum-quality art print, subtle vintage texture, emotional but understated, generous negative space, vertical 4:5 composition.
+
+IMPORTANT: Keep the real photograph visually dominant and authentic. The illustrated section should feel like it is physically connected to the photograph by the single continuous golden thread. No collage clutter, no excessive typography, no random objects, no cartoonish style, no distorted architecture.
+```
+
+</details>
+
+<a id="gpt-image-city-travel-poster-vector-template"></a>
+### 苏黎世矢量旅行海报模板
+
+<a href="https://x.com/Maercihh/status/2113234692199641441"><img src="../../previews/gpt-image-city-travel-poster-vector-template.jpg" width="360"></a>
+
+JSON 提示词只留一个城市名占位符，由模型自动选择地标、交通工具和国家文字。分层景深、固定的藏青与象牙白配色以及独立的文字区，让每个城市都保持同一套复古海报风格。
+
+GPT Image 2.5 · 文生图 · 出处: [@Maercihh on X](https://x.com/Maercihh/status/2113234692199641441) · 44 赞，统计于 2026-10-29
+
+[`travel-poster`](tags.md#tag-travel-poster) [`vector`](tags.md#tag-vector) [`template`](tags.md#tag-template) [`json-prompt`](tags.md#tag-json-prompt) [`city`](tags.md#tag-city)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+{
+"input": {
+"city_name": "{{CITY NAME}}"
+},
+
+"generation": {
+"type": "premium_illustrated_travel_poster",
+"aspect_ratio": "3:4",
+"orientation": "portrait",
+"resolution": "high",
+"reference_mode": "use_uploaded_images_for_style_reference_only",
+"city_adaptation": "fully_automatic"
+},
+
+"creative_direction": {
+"objective": "Create a beautifully composed, destination-specific illustrated travel poster that resembles a premium vintage European travel print with crisp modern vector artwork. Every generated image must feel like an authentic visual postcard of the specified city.",
+
+"art_style": {
+  "primary": "refined_flat_vector_illustration",
+  "secondary": "mid_century_travel_poster",
+  "influences": [
+    "classic European tourism posters",
+    "Japanese illustrated travel prints",
+    "modern editorial vector artwork",
+    "minimalist architectural illustration"
+  ],
+  "rendering": "clean geometric shapes, precise architectural outlines, layered silhouettes, controlled shading, subtle tonal gradients, carefully simplified details",
+  "texture": "smooth matte printed-paper appearance with extremely subtle print texture",
+  "realism_level": "stylized illustration with recognizable architectural accuracy",
+  "avoid": [
+    "photorealism",
+    "3D rendering",
+    "watercolor effects",
+    "rough sketching",
+    "childish cartoon styling",
+    "excessive gradients",
+    "plastic-looking surfaces",
+    "generic AI artwork"
+  ]
+},
+
+"destination_intelligence": {
+  "instruction": "Identify the actual city, its country, and its most recognizable visual landmarks. Build the composition around a carefully selected combination of authentic architecture, local scenery, transportation, public spaces, and cultural elements.",
+  "landmarks": "Select 2 to 4 recognizable landmarks or architectural features associated with the specified city.",
+  "architecture": "Reproduce the city's characteristic architectural styles, rooflines, facades, towers, monuments, and urban structures.",
+  "natural_environment": "Include locally appropriate mountains, rivers, lakes, coastlines, gardens, trees, or other landscape elements when relevant.",
+  "transportation": "Add a locally recognizable train, tram, bus, boat, bicycle, or other transportation element only when appropriate.",
+  "cultural_details": "Include subtle, authentic local details such as street lamps, traditional storefronts, bridges, signage, or regional vegetation.",
+  "accuracy_rule": "Do not invent landmarks or combine unrelated cities. All recognizable locations and cultural details must correspond to the requested destination.",
+  "fallback": "If a city has limited internationally recognizable landmarks, create an authentic composition using its actual architecture, urban character, and regional landscape."
+},
+
+"composition": {
+  "layout": "large illustrated cityscape in the upper portion, destination typography in a separate lower section",
+  "main_illustration": {
+    "coverage": "approximately 78 to 83 percent of the canvas height",
+    "framing": "a carefully composed, almost rectangular scenic illustration with clean edges",
+    "perspective": "slightly elevated or street-level architectural perspective chosen to best showcase the destination",
+    "depth_layers": [
+      "foreground with flowers, trees, benches, railings, steps, pedestrians, or waterfront details",
+      "middle ground with streets, bridges, public spaces, transport, and prominent architecture",
+      "background with the city's skyline, secondary landmarks, and natural landscape"
+    ],
+    "visual_hierarchy": "one dominant landmark supported by complementary architectural elements",
+    "spacing": "balanced, intentional, and visually rich without overcrowding",
+    "human_figures": "small, elegantly simplified pedestrians used sparingly to establish scale",
+    "sky": "clean pale sky with a few minimal stylized clouds or birds when appropriate"
+  },
+
+  "foreground_details": {
+    "instruction": "Select destination-appropriate details that frame the scene naturally without obscuring its important landmarks.",
+    "density": "moderate",
+    "rule": "Avoid forcing flowers, boats, trees, or other elements into cities where they would look geographically or compositionally unnatural."
+  },
+
+  "background": {
+    "color": "warm white or very pale ivory",
+    "style": "minimal, uncluttered, print-ready",
+    "negative_space": "generous space surrounding the illustration and destination typography"
+  }
+},
+
+"color_palette": {
+  "primary": [
+    "deep navy blue",
+    "cobalt blue",
+    "sky blue",
+    "warm ivory",
+    "soft cream"
+  ],
+  "secondary": [
+    "muted forest green",
+    "sage green",
+    "warm architectural beige",
+    "terracotta",
+    "soft grey"
+  ],
+  "adaptation": "Adjust accent colors to complement the city's architecture, national character, and natural surroundings.",
+  "contrast": "clear and harmonious with strong separation between architectural layers",
+  "saturation": "moderate, elegant, and print-friendly",
+  "lighting": "bright, soft daylight with minimal hard shadows"
+},
+
+"typography": {
+  "placement": "centered beneath the illustration",
+  "city_name": {
+    "text": "{{CITY NAME IN UPPERCASE}}",
+    "font_style": "large, elegant, geometric sans-serif",
+    "weight": "regular to medium",
+    "letter_spacing": "very wide",
+    "alignment": "center",
+    "color": "deep navy blue",
+    "importance": "primary visual anchor of the lower section"
+  },
+
+  "country_name": {
+    "text": "Automatically identify the correct country and display its name in uppercase",
+    "font_style": "small, clean sans-serif",
+    "letter_spacing": "wide",
+    "alignment": "center",
+    "color": "muted navy or a restrained destination-appropriate accent",
+    "position": "directly below the city name"
+  },
+
+  "decorative_elements": {
+    "horizontal_lines": "thin symmetrical horizontal lines on either side of the country name when visually appropriate",
+    "national_emblem": "Optional small, accurate national symbol beneath the typography only when suitable",
+    "rule": "Keep typography minimal, legible, accurately spelled, and free of additional promotional copy."
+  }
+},
+
+"image_quality": {
+  "edges": "crisp and clean",
+  "architecture": "recognizable, coherent, and carefully detailed",
+  "shapes": "precise geometric silhouettes",
+  "print_quality": "premium travel-poster finish",
+  "composition_quality": "professional graphic-design balance",
+  "text_quality": "correct city and country spelling",
+  "final_appearance": "a sophisticated collectible illustrated travel poster suitable for high-quality social media publishing"
+}
+
+},
+
+"strict_rules": {
+"preserve_reference_style": true,
+"change_destination_automatically": true,
+"use_real_city_landmarks": true,
+"use_correct_country_name": true,
+"keep_illustration_above_typography": true,
+"maintain_clean_ivory_background": true,
+"maintain_wide_letter_spacing": true,
+"keep_composition_balanced": true,
+"no_unrequested_text": true,
+"no_watermarks": true,
+"no_borders_unless_integral_to_design": true,
+"no_photographic_rendering": true,
+"no_unrelated_landmarks": true,
+"no_misspelled_text": true
+},
+
+"negative_prompt": [
+"photorealistic photography",
+"3D CGI",
+"anime",
+"childlike cartoon",
+"watercolor painting",
+"oil painting",
+"messy sketch lines",
+"overly textured paper",
+"dark dramatic lighting",
+"neon colors",
+"cluttered composition",
+"distorted buildings",
+"incorrect landmarks",
+"geographically inconsistent scenery",
+"unreadable typography",
+"misspelled city name",
+"incorrect country name",
+"random letters",
+"excessive text",
+"watermarks",
+"logos",
+"cropped landmarks",
+"unbalanced typography",
+"photographic cutouts"
+]
+}
+```
+
+</details>
 
 <a id="gpt-image-tilt-shift-map-road-travel-poster"></a>
 ### 从复古地图延伸出的上海移轴天际线

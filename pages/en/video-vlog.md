@@ -1,6 +1,43 @@
 # Phone footage and vlogs
 
-[Back to the list](../../README.md) · All 144 entries · **1** · [2](video-vlog-2.md)
+[Back to the list](../../README.md) · All 145 entries · **1** · [2](video-vlog-2.md)
+
+<a id="seedance-balcony-pool-phone-video-collapse"></a>
+### Bald man in kiddie pool beside balcony grill
+
+<a href="https://x.com/techhalla/status/2093364330985136572"><img src="../../previews/seedance-balcony-pool-phone-video-collapse.jpg" width="360"></a>
+
+Framing the clip as an amateur phone recording, with handheld shake and clumsy zooms, plus an explicit ban on film grading, keeps the look grounded. A timed three-beat timeline sequences the collapse with a cause (the cat crossing the railing) before the effect, so the failure reads as a chain of events.
+
+Seedance 2.5 · Text-to-video · Source: [@techhalla on X](https://x.com/techhalla/status/2093364330985136572) · 18,124 likes on 2026-10-31
+
+[`phone-footage`](tags.md#tag-phone-footage) [`handheld`](tags.md#tag-handheld) [`collapse`](tags.md#tag-collapse) [`dark-comedy`](tags.md#tag-dark-comedy)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+RAW HOME PHONE VIDEO. One continuous 30-second clip recorded on a current smartphone from a facing balcony. Amateur handheld, natural micro-shake, occasional clumsy pinch-zooms in and out. No film look, no cinematic grade, no grain recipe. Overcast gray daylight, peeling block facade, rust, smoke, wet concrete, cheap plastic. Trash metal blasting from the black speaker. Feels like a neighbor filmed it.
+
+Characters
+A big bald man with beard and mullet, balcony, grill, Jack Daniel's tap, blue inflatable pool, rubber ducks, speaker, railing and building. Man with receding hair with long sides, gold chain, black SLAYER tank, belly and seated posture.
+
+TIMELINE
+0-10s: [Handheld phone wide] The man sits dead-calm in the tiny blue kiddie pool, cigarette in his right hand, living like a king. Serious, unhurried, enjoying. Trash metal pounds. With his free left hand he reaches to the smoking grill, picks up a sausage, smells it, then puts it back exactly where it was. Steam rolls. The phone slowly zooms toward his face, then clumsily zooms back out. He never stands.
+
+10-20s: [Handheld, lazy zoom] His large wife in a floral dress steps out the open door with an empty glass. She fills it from the Jack Daniel's tap with apple juice the same amber color as whiskey, and hands it to him. He takes a long swallow without getting up. She hikes the dress and climbs into the cramped pool with him. They splash. Ducks bob. He stays seated, still smoking, still unbothered. Camera wobbles in on the pour, then out to both of them.
+
+20-30s: [Handheld widening, more shake as it gets worse] A black cat walks out the door and crosses the rusty railing. Only after the cat passes along the railing does the terrace start to crack: hairline fractures spread through the slab. The balcony slowly sags. The inflatable pool tilts; water sloshes over the rim. The couple slide with the tipping pool. The cat jumps out of frame. Concrete splits, railing twists, grill and speaker shift. The terrace gives way and they fall with the water as the clip ends.
+
+AUDIO
+Loud trash metal from the speaker the entire time. Grill sizzle, tap pour, splash, groaning metal, cracking concrete, rushing water. Distant courtyard noise. No dialogue. No extra score. No cinematic sound design.
+
+STYLE & QUALITY
+Looks like a real phone video from today: auto exposure, slightly crushed highlights, ordinary digital noise, real weight and water physics, wet skin and fabric, collapsing structure with coherent debris.
+
+Hope you like it! 🤘
+```
+
+</details>
 
 <a id="seedance-seoul-summer-evening-vlog"></a>
 ### A summer evening in Seoul, shot like a home video
@@ -4938,52 +4975,6 @@ She turns toward the camera with a warm, genuine smile, gives a gentle nod of ac
 Audio: Hyper-detailed environmental ASMR binaural audio — crisp micro-sounds captured up close with high sensitivity. Crisp rustle of cotton fabric and linen as she moves, deep rhythmic cat purring vibrating close to the microphone, ice cubes gently clinking against the glass condensation, soft scuff of leather sandals on textured concrete pavement, dry banana leaves brushing together in the warm breeze, rhythmic faint sound of a sapu lidi broom sweeping fallen leaves nearby, water dripping into a terracotta gentong, distant gentle crowing rooster, faint muffled low-frequency hum of a passing motorbike down the alley. Pure natural foley textures, zero music, zero studio effects, zero narration, zero speech.
 
 Goal: Authentic Indonesian neighborhood life captured like a forgotten home video from the early 2000s — candid, imperfect, realistic, warm, and deeply believable, with immersive environmental ASMR soundscape.
-```
-
-</details>
-
-<a id="seedance-indonesian-dog-chase-comedy"></a>
-### Girl walks residential street with dog behind
-
-<a href="https://x.com/MissDelulu9/status/2092578120591446348"><img src="../../previews/seedance-indonesian-dog-chase-comedy.jpg" width="360"></a>
-
-A timed shot list with the exact dialogue lines sets pacing and comedic beats, and the camera realism block (one handed phone, autofocus drift, auto exposure, motion blur, light compression) keeps it reading as a phone home video rather than a film.
-
-Seedance 2.5 · Text-to-video · Source: [@MissDelulu9 on X](https://x.com/MissDelulu9/status/2092578120591446348) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`comedy`](tags.md#tag-comedy) [`handheld-phone`](tags.md#tag-handheld-phone) [`dialogue`](tags.md#tag-dialogue) [`street-scene`](tags.md#tag-street-scene)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a 15-second realistic smartphone video in 16:9 aspect ratio.
-
-Style: authentic Gen-Z Indonesian comedy, spontaneous iPhone home-video footage, natural daylight.
-
-SHOT 1- 0:00–0:02
-A girl casually walks along a small Indonesian residential street. She suddenly notices a medium-sized pet dog ahead and stops. Her relaxed expression instantly turns nervous.
-
-SHOT 2-0:02–0:04
-Quick handheld pan from the girl to the dog and back. She slowly steps backward and says: “Uh... don't come closer, okay...” The dog looks curious and harmless.
-
-SHOT 3-0:04–0:06
-The dog playfully runs a few steps toward her. She panics: “AAAAA RUN!” The camera operator reacts and moves backward.
-
-SHOT 4-0:06–0:08
-She suddenly runs away, looking back over her shoulder. The iPhone camera follows while running, creating natural shaky footage. Her white fitted T-shirt, light-blue short denim shorts, and white low-profile slippers move naturally.
-
-SHOT 5-0:08–0:10
-Side close-up while she runs. She looks back and screams: “BRO, IT'S FOLLOWING ME!” The camera shakes as the friend behind the camera laughs.
-
-SHOT 6-0:10–0:13
-The camera widens as she runs toward her friend, waving her hands: “DON'T LAUGH! HELP ME, BRO!” The dog follows playfully without attacking, biting, or touching her.
-
-SHOT 7- 0:13–0:15
-She reaches a safe spot, bends over briefly to catch her breath, then looks at the camera with an annoyed and embarrassed expression: “I was literally just passing by, why did that turn into cardio?!” The friend bursts out laughing. Abrupt cut.
-
-CAMERA & REALISM
-
-Amateur one-handed iPhone recording. Natural handheld shake, imperfect framing, slight tilt, occasional autofocus shifts, automatic exposure changes, realistic motion blur, natural smartphone colors, subtle digital sharpening and compression. Environmental details remain visible. No cinematic look.
 ```
 
 </details>

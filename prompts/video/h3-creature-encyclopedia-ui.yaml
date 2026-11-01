@@ -1,0 +1,55 @@
+id: h3-creature-encyclopedia-ui
+title:
+  en: Creature encyclopedia UI with cursor selecting creatures
+  zh: 生物图鉴界面，光标依次选中并互动生物
+model: MiniMax H3
+mode: reference-to-video
+category: vfx
+tags:
+- ui-animation
+- creature
+- reference-images
+- pokedex-style
+source:
+  name: '@aimikoda on X'
+  url: https://x.com/aimikoda/status/2083949566009778473
+  credit: Kōda
+  likes: 872
+  captured: '2026-10-31'
+  posted: '2026-08-02'
+video: https://x.com/aimikoda/status/2083949566009778473
+notes:
+  en: Each reference image is mapped to a labelled card in the prompt, so every creature stays consistent when the selection changes. Locking the camera and limiting motion to the cursor, title and selected creature keeps the interface stable across the whole sequence.
+  zh: 提示词为每张卡片指定对应的参考图，切换选中时每个生物都保持一致。锁定镜头，只让光标、选中状态、标题和当前生物运动，使界面在整段视频中保持稳定。
+prompt: |
+  Use Image 1 as the exact UI/layout/style reference for the creature encyclopedia screen.
+  Use Images 2–9 as the exact creature references.
+  Map them like this:
+  Image 2 = card A = LUMI HARE
+  Image 3 = card B = CLOUD WISP
+  Image 4 = card C = EMBER FENNEC
+  Image 5 = card D = TIDE BEHEMOTH
+  Image 6 = card E = PETAL VULPIN
+  Image 7 = card F = ORCHARD EYE
+  Image 8 = card G = MEADOW CROWN
+  Image 9 = card H = FROST GLIDER
+
+  Create a 15-second 16:9 video. Keep the camera locked. Keep the interface, layout, typography, panels, icons and overall composition stable, elegant and readable. The UI should feel like a modern minimal digital creature encyclopedia, similar to a sleek pokedex. No scene cuts, no extra text, no extra buttons, no UI distortion.
+
+  Sequence:
+  0–2.5s: Cursor clicks card A. Main creature becomes LUMI HARE. Title changes to “LUMI HARE”. Creature blinks and rotates slightly.
+  2.5–5s: Cursor clicks card C. Main creature becomes EMBER FENNEC. Title changes to “EMBER FENNEC”. Cursor drags to rotate it left and right.
+  5–7.5s: Cursor clicks card E. Main creature becomes PETAL VULPIN. Title changes to “PETAL VULPIN”. Cursor pokes it a few times. It reacts, annoyed.
+  7.5–10s: Cursor clicks card G. Main creature becomes MEADOW CROWN. Title changes to “MEADOW CROWN”. Cursor taps near the face/horns. It recoils slightly.
+  10–12s: Cursor clicks card D. Main creature becomes TIDE BEHEMOTH. Title changes to “TIDE BEHEMOTH”. Cursor keeps poking it.
+  12–15s: TIDE BEHEMOTH gets angry, opens its mouth very wide, lunges forward, and swallows the cursor. Then it returns to idle. Title stays “TIDE BEHEMOTH”.
+
+  Rules:
+  - When a card is selected, both the main creature and the main title must update.
+  - Only animate cursor, selection state, title change, and the selected creature.
+  - Only one cursor.
+  - Keep motion subtle and clean until the final swallow.
+  - No cuts, no camera move, no UI distortion, no extra text.
+
+  Audio:
+  soft UI click sounds, subtle hover sounds, tiny creature reaction sounds, then a sharper aggressive creature sound and one comedic swallow gulp at the end.

@@ -1,0 +1,115 @@
+id: h3-character-intro-trailer-template
+title:
+  en: Woman with dark bangs and pearl drop earrings
+  zh: 黑色刘海女子与珍珠耳环的特写
+model: MiniMax H3
+mode: image-to-video
+category: action
+tags:
+- character-reveal
+- trailer
+- template
+- parameters
+source:
+  name: '@aimikoda on X'
+  url: https://x.com/aimikoda/status/2087828526577705303
+  credit: Kōda
+  likes: 1250
+  captured: '2026-10-31'
+  posted: '2026-08-13'
+video: https://x.com/aimikoda/status/2087828526577705303
+notes:
+  en: A PARAMETERS block at the top fills in the on-screen labels, and a timed shot list of thirteen cuts lays out the edit beat by beat. Naming the reference image as the sole identity authority keeps the character consistent through every cut.
+  zh: 开头的 PARAMETERS 参数块统一填写画面文字，随后用带时间码的十三镜分镜表规划每一拍。将参考图设为唯一的角色身份依据，使角色在所有镜头中保持一致。
+prompt: |
+  PARAMETERS
+
+  CHARACTER_NAME = "[CHARACTER NAME]"
+  STATUS_TEXT_1 = "[ACTIVE]"
+  STATUS_TEXT_2 = "[MODE: ENGAGE]"
+  INTERSTITIAL_TEXT_1 = "[SYSTEM LINK]"
+  INTERSTITIAL_TEXT_2 = "[TARGET LOCK]"
+  INTERSTITIAL_TEXT_3 = "[FULL DRIVE]"
+  SUBTITLE = "[CHARACTER TITLE / CODENAME]"
+  PROJECT_TEXT = "[OPTIONAL PROJECT NAME]"
+
+  Create a 15-second premium cinematic character reveal trailer with exactly 13 distinct cuts, 24fps.
+
+  Use @[image1] as the sole authority for the character's identity, proportions, outfit, materials, colors and visual style. Never redesign the character. Adapt the environment, abilities, VFX and movement naturally to them.
+
+  The overall presentation should feel like a premium AAA action-game character introduction. Motion-design sections use a bold editorial language: oversized condensed typography, clean white or pale-grey fields, huge circular color blocks, thin technical diagrams, concentric rings, halftone textures, tiny interface markings, scan lines, geometric accents, sweeping brush or energy strokes and strong foreground/background parallax. The main palette shifts between black and white, icy cyan, electric blue, neon yellow and warm golden amber. In text-based graphic screens, the typography must appear clearly and be fully readable first, then the character, a cropped close-up or a silhouette may slide in front of it, overlap it or stand beside it. In some graphic-card backgrounds, also use cropped character close-ups or enlarged facial details as integrated design elements.
+
+  Use the text parameters above exactly.
+
+  CUT 01 | 0.00-1.10s | FACE
+  Extreme cinematic close-up. Calm focused expression, part of the face naturally obscured by hair, hand, mask or accessory. Shallow depth of field and subtle push-in.
+
+  CUT 02 | 1.10-2.20s | ACTIVATION
+  A signature effect ignites around the character's eyes, hands, body or equipment: glowing rings, symbols, particles, energy filaments, holographic nodes or character-specific effects. The gaze lifts as the effect rapidly peaks.
+
+  CUT 03 | 2.20-3.20s | ACTIVE CARD
+  Hard graphic-match into a bright editorial freeze-frame. Large vivid circular field behind the character, oversized black condensed typography, thin technical circles, tiny UI text, halftone detail and sharp diagonal graphic streaks. Show the typography clearly first, then let the character overlap it or enter beside it. A cropped facial close-up or upper-body close-up may be integrated into the background design.
+
+  Typography:
+  STATUS_TEXT_1
+
+  CUT 04 | 3.20-4.10s | ENGAGE CARD
+  Snap to a high-contrast black character silhouette over a bold horizontal accent-color typography band. The text should read clearly before the silhouette crosses in front of it or locks beside it. A large luminous brushstroke or energy ribbon sweeps diagonally across the foreground with strong motion blur.
+
+  Typography:
+  STATUS_TEXT_2
+
+  CUT 05 | 4.10-5.20s | WORLD
+  Smash cut into a cinematic environment suited to the character. Wide dramatic perspective as they immediately dash, leap, land or burst forward. Fast whip-pan or reactive tracking camera.
+
+  CUT 06 | 5.20-6.20s | DETAIL
+  Fast close or medium shot of one defining ability, weapon motion, gesture, transformation or acrobatic action. Sharp character, strong foreground streaking.
+
+  CUT 07 | 6.20-6.90s | INTERSTITIAL 01
+  Hard cut to a text-led graphic design screen. Huge condensed typography, layered circles, technical lines, scan lines, halftone textures, tiny data text and aggressive graphic wipes. The typography must be fully readable first, then bring in the character as a smaller integrated figure, cropped close-up or silhouette.
+
+  Typography:
+  INTERSTITIAL_TEXT_1
+
+  CUT 08 | 6.90-7.90s | IMPACT
+  Return to action from a new aggressive angle. Attack, dodge, ability release or interaction with a simple secondary threat. Low angle, side track, whip-pan or short orbit.
+
+  CUT 09 | 7.90-8.60s | INTERSTITIAL 02
+  Another editorial text card, cleaner and punchier, built from bold typography, diagonal slashes, accent-color bars, fine UI markings and strong parallax. Let the typography dominate first, then place the character beside it or pass a cropped close-up in front for depth.
+
+  Typography:
+  INTERSTITIAL_TEXT_2
+
+  CUT 10 | 8.60-9.60s | VELOCITY
+  New perspective continues the momentum. Character rushes toward camera, crosses close to lens, launches upward or rapidly changes direction while the environment stretches into controlled speed blur.
+
+  CUT 11 | 9.60-10.30s | INTERSTITIAL 03
+  Final text-based graphic card before the hero beat. Bold oversized typography, sweeping energy stroke, geometric overlays, concentric diagrams and a fast silhouette or cropped character insert. Ensure the text is legible before the character layer overlaps or frames it.
+
+  Typography:
+  INTERSTITIAL_TEXT_3
+
+  CUT 12 | 10.30-12.30s | HERO MOMENT
+  The character performs their most iconic movement, ability, strike, landing or confident stop. Briefly stabilize at the visual peak, then collapse the shot into a bright smear, silhouette frame or graphic-match transition.
+
+  CUT 13 | 12.30-15.00s | CHARACTER ID
+  Premium final identity card. Clean pale background with enormous translucent concentric circles, fine technical arcs, network nodes, subtle halftone texture, tiny graphic markings and restrained chromatic glints. Place the character in a dynamic full-body hero pose overlapping huge condensed typography. The name should register clearly before the character overlap becomes dominant. A large cropped close-up can also be subtly embedded into the background composition.
+
+  Behind them, add a large black circular ink-brush or emblem shape containing a ghosted visual motif associated with the character: creature silhouette, symbol, power form, weapon motif or abstract representation of their identity.
+
+  Primary typography:
+  CHARACTER_NAME
+
+  Secondary:
+  SUBTITLE
+
+  Optional:
+  PROJECT_TEXT
+
+  Allow the character to overlap the typography for depth.
+
+  EDITING:
+  Very aggressive premium game-trailer rhythm. Hard cuts, graphic matches, whip pans, freeze frames, impact flashes, directional smears, foreground wipes, silhouette transitions and short speed ramps. Every cut must introduce a clearly different composition or visual mode. The text-based interstitial cards should break up the action rhythm and keep the sequence from feeling like uninterrupted combat footage. No slow dissolves or long continuous choreography.
+
+  BGM DESIGN:
+  Create a fast, character-driven AAA game-trailer score tightly synced to the edit. Adapt genre and instrumentation to the character, building from restrained tension into punchy percussion, bass and rising intensity, with clear hits for cuts, typography, transitions and action beats. Peak at the hero moment and finish with a strong final reveal stinger. Integrate subtle UI ticks, whooshes, energy swells and sub impacts into the music.

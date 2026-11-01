@@ -1,0 +1,41 @@
+id: omni-miniature-treehouse-platform-timelapse
+title:
+  en: Miniature treehouse platform with a hand placing a beam
+  zh: 树上微型木质平台，手在放置木条
+model: Gemini Omni Flash
+mode: image-to-video
+category: vfx
+tags:
+- miniature
+- timelapse
+- treehouse
+- macro
+source:
+  name: '@Strength04_X on X'
+  url: https://x.com/Strength04_X/status/2086643354385944937
+  credit: M-studioAi
+  likes: 524
+  captured: '2026-10-31'
+  posted: '2026-08-10'
+video: https://x.com/Strength04_X/status/2086643354385944937
+notes:
+  en: Starting the clip from the finished platform of the previous prompt keeps the structure consistent across a multi-part series, and the end-frame description sets a clear finish state. Macro lens wording, shallow depth of field and named tools give the miniature scale its realism.
+  zh: 从上一段完成的平台作为起始画面，保证多段系列中结构一致，末帧描述则明确了收尾状态。微距镜头用语、浅景深和具体工具名称让微缩尺度显得真实。
+prompt: |
+  MOTION PROMPT 2 — Wooden Walls & Windows : Use the completed elevated foundation platform from Motion Prompt 1 as the exact starting frame. Preserve complete visual continuity of the tree, platform, materials, lighting, camera perspective, miniature scale and environment.
+
+  Create an ultra fast timelapse speed construction scene with human hands continuously constructing and moving rapidly.
+
+  Multiple rapid scene cuts show miniature wooden wall frames being measured and positioned, vertical timber studs rising rapidly, wooden panels being attached, corners being reinforced, cement-like bonding material used where appropriate, window openings carefully formed, a doorway opening created, tiny structural brackets installed and the complete wall structure assembled.
+
+  Show visible material placement throughout the sequence. Human hands rapidly carry and position tiny wooden boards while miniature hammers, screwdrivers, drills, levels, clamps and measuring tools are actively used.
+
+  The walls progressively rise around the entire foundation. Window openings remain clearly visible and accurately positioned. The doorway becomes fully formed. Every cut reveals substantial construction advancement.
+
+  Realistic hand movements, tiny screws, nails, wood dust, small construction debris and natural material interaction.
+
+  cinematic macro photography, ultra realistic textures, detailed wood grain, realistic tree bark, natural forest lighting, shallow depth of field, dynamic construction progression, satisfying construction transformations, multiple rapid scene cuts, ultra fast timelapse speed, human hands continuously constructing and moving rapidly.
+
+  The entire wall structure becomes fully completed before the clip ends.
+
+  End Frame: fully completed miniature treehouse walls with finished window openings and doorway, structurally ready for roof construction, with no unfinished wall sections visible.

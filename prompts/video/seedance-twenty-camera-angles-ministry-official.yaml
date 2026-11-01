@@ -1,0 +1,55 @@
+id: seedance-twenty-camera-angles-ministry-official
+title:
+  en: Bearded ministry official with confidential folder, medium shot
+  zh: 手持机密文件的胡须官员，魔法部中景
+model: Seedance 2.5
+mode: reference-to-video
+category: cinematic
+tags:
+- camera-angles
+- multi-shot
+- hard-cuts
+- reference-image
+source:
+  name: '@Framer_X on X'
+  url: https://x.com/Framer_X/status/2097866934725583101
+  credit: Framer 🇱🇹
+  likes: 844
+  captured: '2026-10-31'
+  posted: '2026-09-10'
+video: https://x.com/Framer_X/status/2097866934725583101
+notes:
+  en: The @ image tag locks the character and setting, while the prompt allows only camera position, angle, lens and framing to change, so the action stays continuous across 20 hard cuts. Each shot is assigned a named setup from a fixed list, which stops the model from repeating a composition.
+  zh: '@ 图片标签锁定角色与场景，提示词只允许机位、角度、镜头和取景变化，动作在二十次硬切中保持连续。每个镜头对应固定清单中的一个机位，避免构图重复。'
+prompt: |
+  Upload your source image to Seedance 2.5 (or 2.0)
+
+  Then generate a 15s video using this prompt:
+
+  "Create a rapid-fire cinematic camera-angle showcase of @ TAG IMAGE
+
+  TOTAL CAMERA SHOTS: 20
+
+  Keep the characters, environment, clothing, lighting, action, and overall scene completely consistent throughout the entire video. Do not change the location or introduce new elements.
+
+  Use 20 clearly distinct camera setups, including:
+
+  extreme wide shot, wide establishing shot, medium wide shot, medium shot, medium close-up, close-up, extreme close-up, low angle, extreme low angle, high angle, overhead shot, top-down shot, ground-level shot, eye-level shot, Dutch angle, profile shot, three-quarter angle, front-facing shot, rear angle, over-the-shoulder shot, reverse over-the-shoulder shot, side angle, foreground-framed shot, long-lens shot, wide-angle close shot, symmetrical composition, off-center composition, tracking angle, orbiting angle, and dramatic perspective angle.
+
+  IMPORTANT:
+
+  - Use HARD CUTS between every shot.
+
+  - Never hold one camera angle for longer than 1 second.
+
+  - Do not repeat any camera angle or composition.
+
+  - Do not create long continuous camera movements between angles.
+
+  - The action should remain continuous across all cuts.
+
+  - Only the CAMERA POSITION, CAMERA ANGLE, LENS, and FRAMING should change.
+
+  - The subject and scene must remain visually consistent."
+
+  Have fun!

@@ -1,0 +1,25 @@
+id: omni-miniature-ranch-foundation-stable-site
+title:
+  en: Miniature ranch foundation and stable site with tools
+  zh: 微型牧场地基与马厩场地及工具
+model: Gemini Omni Flash
+mode: image-to-video
+category: vfx
+tags:
+- miniature
+- macro
+- construction
+- countryside
+source:
+  name: '@Strength04_X on X'
+  url: https://x.com/Strength04_X/status/2087412312118550875
+  credit: M-studioAi
+  likes: 489
+  captured: '2026-10-31'
+  posted: '2026-08-12'
+video: https://x.com/Strength04_X/status/2087412312118550875
+notes:
+  en: The prompt fixes the construction stage by listing what must be absent (no finished house, no completed stable, no animals), so the first frame works as a stable starting point. Giant human fingers and a steel ruler supply the physical scale that sells the miniature look.
+  zh: 提示词通过列出不应出现的内容（无完工房屋、无完工马厩、无动物）固定施工阶段，使首帧适合作为稳定的起点。巨大的手指和钢尺提供物理尺度，让微缩场景显得可信。
+prompt: |
+  FIRST FRAME IMAGE PROMPT : Hyper-realistic miniature DIY ranch house construction site at the very beginning of construction, set on a natural countryside terrain with compact brown soil, short grass and subtle patches of dry earth. A partially prepared rectangular foundation area for a tiny rustic ranch house is clearly visible, with a second smaller foundation area beside it reserved for a horse stable. Giant realistic human fingers are carefully measuring and arranging miniature construction materials. Tiny realistic bricks, rough natural stones, wooden beams, miniature cement bucket, trowel, shovel, measuring ruler, wooden stakes, string line and small piles of sand, gravel and timber are scattered naturally around the site. The future ranch house footprint and stable location are clearly established but construction has not yet progressed beyond the foundation preparation stage. A few miniature wooden fence posts and hay bundles are placed nearby as construction materials, not yet installed. Ultra realistic macro photography, photorealistic miniature craftsmanship, 8K detail, cinematic studio lighting mixed with soft natural countryside daylight, shallow depth of field, sharp focus on the construction area, professional product photography, realistic shadows, ambient occlusion, extremely detailed soil grains, brick pores, wood fibers, stone textures and grass blades, physically believable scale, subtle handcrafted imperfections, cinematic composition, realistic depth, no finished house, no completed stable, no animals, no people visible except giant human hands and fingers, no text, no watermark.

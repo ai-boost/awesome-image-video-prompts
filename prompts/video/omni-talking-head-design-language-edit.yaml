@@ -1,0 +1,32 @@
+id: omni-talking-head-design-language-edit
+title:
+  en: Talking host restyled in grayscale with blue brush
+  zh: 主播口播改为黑白风格并加蓝色笔刷
+model: Gemini Omni Flash
+mode: video-edit
+category: vfx
+tags:
+- meta-prompt
+- talking-head
+- color-grading
+- motion-graphics
+source:
+  name: '@ozansihay on X'
+  url: https://x.com/ozansihay/status/2068770944282178025
+  credit: Ozan Sihay
+  likes: 819
+  captured: '2026-10-31'
+  posted: '2026-06-21'
+video: https://x.com/ozansihay/status/2068770944282178025
+notes:
+  en: A meta-prompt makes Omni first write a self-contained design brief from the reference, so the edit model needs no image. Locking face, voice, lip sync and hand motion while changing only the visual layer keeps the talking head intact.
+  zh: 元提示先让模型根据参考图写出一份自包含的设计说明，编辑模型因此无需看到参考图。明确锁定人脸、声音、口型和手势，只改视觉层，口播主体才能保持不变。
+prompt: |
+  Analyze the reference image I uploaded. Write only the final prompt that I can paste into another video editing/generation model.
+  No video generation, video editing, image generation, or any output generation. No writing descriptions, analysis summaries, titles, bullet lists, or comments. Your response should consist solely of a single ready-to-use prompt text.
+  The prompt you prepare should be written in a way that can be understood by another model without access to the reference image. Therefore, avoid vague phrases in the prompt such as "like in the reference image," "the style in the uploaded image," or "this design."
+  Describe the design language of the reference image clearly and in detail within the prompt: color palette, composition, background texture, typography style, graphic elements, collage/doodle/sticker/poster/editorial details, lighting-contrast, grain, halftone, paper texture, sense of motion, and overall atmosphere.
+  Specify in the prompt: The person's face, identity, voice, speech, lip sync, facial expressions, and hand movements in the video must be preserved. Only the visual design language should change.
+  Analyze the topic being narrated in the video. Symbols, icons, shapes, stickers, collage pieces, doodle lines, brush effects, or motion graphic details appropriate to the topic can be added.
+  From the topic narrated in the video, select only a few key words and use them as short text elements suitable for the design. Do not turn full sentences, long explanations, subtitles, or the entire speech into text. The texts should be few in number, for emphasis purposes, and suitable for the design style.
+  The final prompt should be clear, applicable, and sufficient on its own for editing a vertical video that is suitable for social media, modern, creative, and premium-looking.

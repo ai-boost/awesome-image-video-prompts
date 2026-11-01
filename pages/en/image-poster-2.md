@@ -1,6 +1,158 @@
 # Posters and editorial layouts
 
-[Back to the list](../../README.md) · All 199 entries · [1](image-poster.md) · **2**
+[Back to the list](../../README.md) · All 200 entries · [1](image-poster.md) · **2**
+
+<a id="gpt-image-neon-designer-poster-puppy-chibi"></a>
+### Neon designer poster with puppy and chibi figure
+
+<a href="https://x.com/HaniaAi12/status/2063413890755817700"><img src="../../previews/gpt-image-neon-designer-poster-puppy-chibi.jpg" width="360"></a>
+
+A low angle camera makes the foreground sneakers loom large while a miniature chibi figure on a display base adds a second focal point. Spelling out lighting cues like glossy reflections and volumetric glow, plus the 9:16 layout, keeps the premium toy photography look steady.
+
+GPT Image 2 · Text-to-image · Source: [@HaniaAi12 on X](https://x.com/HaniaAi12/status/2063413890755817700) · 60 likes on 2026-10-29
+
+[`poster`](tags.md#tag-poster) [`neon-blue`](tags.md#tag-neon-blue) [`chibi`](tags.md#tag-chibi) [`3d-render`](tags.md#tag-3d-render)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create an ultra-detailed 3D stylized creative designer poster featuring a cool young digital artist standing confidently in the center of a futuristic blue neon studio. The character wears oversized black streetwear with electric-blue graphic accents, black cargo pants, layered silver chains, black sunglasses, and clean white sneakers. A cute fluffy puppy sits on the artist's shoulder. The camera angle is dramatic low-angle perspective, making the sneakers appear larger for a premium poster effect.
+
+Surround the character with floating creative elements including a glowing laptop, professional camera, design books, notebooks, 3D icons, social media symbols, holographic UI panels, graphic design tools, and futuristic blue geometric shapes. Add motivational typography such as "DESIGN MODE", "CREATE • BUILD • INSPIRE", and "CREATIVE NEVER SLEEPS" integrated into the scene.
+
+Include a collectible chibi mini-figure version of the character standing beside the main subject on a display base. Use cinematic blue lighting, glossy reflections, volumetric glow, depth of field, floating particles, luxury toy-photography aesthetics, high-end 3D rendering, Octane Render quality, ultra-sharp details, vibrant neon blue color palette, futuristic creator workspace atmosphere, premium commercial poster design, trending ArtStation style, masterpiece quality, 8K resolution, vertical 9:16 composition.
+```
+
+</details>
+
+<a id="gpt-image-opera-house-riso-zine-split-poster"></a>
+### Sydney Opera House photo and risograph zine reconstruction
+
+<a href="https://x.com/sebatheepan/status/2101034408253837454"><img src="../../previews/gpt-image-opera-house-riso-zine-split-poster.jpg" width="360"></a>
+
+A split canvas pairs a faithful photo on top with a two ink risograph rebuild below, and a rule to preserve the architecture keeps the landmark recognizable. Fixed slots for structure, light, density and caption let one master prompt yield a whole series, with one red accent and set negative space.
+
+GPT Image 2.5 · Text-to-image · Source: [@sebatheepan on X](https://x.com/sebatheepan/status/2101034408253837454) · 52 likes on 2026-10-29
+
+[`risograph`](tags.md#tag-risograph) [`zine`](tags.md#tag-zine) [`architecture`](tags.md#tag-architecture) [`split-layout`](tags.md#tag-split-layout) [`template`](tags.md#tag-template)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+─────────────────────────
+One poster, 3:4 vertical canvas. Split into two roughly equal zones — a realistic photograph on top, a printed reconstruction below — divided by one clean sharp horizontal line. The structure must not be stretched, warped, tilted or repositioned unnaturally.
+
+TOP HALF — THE REAL SHOT
+{STRUCTURE DESCRIPTION}. {PLATE LIGHT}. Preserve the structure faithfully: same architecture, proportions, perspective, distinctive details, natural light and shadow. Add only a subtle high-end color grade and the faintest film grain. Never redesign or reinterpret the architecture.
+
+BOTTOM HALF — THE PRINTED RECONSTRUCTION
+Rebuild the same structure as a two-color risograph zine print: bold flat spot-color shapes (one deep ink layer plus the structure's muted colors as a second spot layer), visible misregistration offsets between the layers, drum streaks, coarse layered ink-grain, halftone texture from overlapping dots, a zine masthead bar, two staple marks and paste-up edges. The photograph dissolves outward into flat spot-color shapes, misaligned layers and grainy ink. The structure must remain immediately recognizable. {PLATE DENSITY}.
+Texture: cheap zine paper, layered soy ink, misregistration, drum streaks, folded-edge wear, cut-and-paste edges, restrained crop marks, one small fluorescent red calibration bar. Color: cream zine paper, black ink, one deep spot color, the structure's original muted colors, a single fluorescent red accent. Never fully desaturate the structure.
+The structure occupies roughly 60-88% of the frame width. Leave 22-38% of the paper visibly untouched and empty — generous negative space so the poster reads as an archival specimen, not a packed screen.
+
+TYPOGRAPHY — a clean fixed-width architectural title block, pinned top-left at a small fixed inset, black ink, monospaced technical typeface, verbatim, each line in caps:
+"{NAME}"
+"{CITY, COUNTRY}"
+"ZINE PLATE 0N"
+A thin horizontal rule under the third line, then one short observational caption verbatim:
+"{CAPTION}"
+
+A solid vertical red rectangle — the only red in the poster — is pinned to the bottom-right corner zone about 12% from the bottom and right edges. Four thin black crop marks sit in the four corners of the bottom half at identical insets. Red bar, crop marks and text block keep exactly the same position and size relative to the frame.
+
+MOOD: underground zine crossed with an architecture fanzine — young, tactile, collectible. Sophisticated, minimal, tactile, intellectual, slightly mysterious, highly collectible.
+
+AVOID: solid black terminal backgrounds, dense walls of code, cyberpunk neon, excessive decorative glyphs, distorted architecture, impossible geometry, invented architectural details, fake technical specifications, random meaningless symbols, garbled text, extra colors, brand logos, QR codes, watermarks, author credits, tourist-poster clichés.
+
+Priority: preserve the structure's identity and architectural accuracy first. The experimental print treatment enhances the architecture, never hides it.
+
+──────────────────────────────────────────────
+THE FOUR VARIATIONS (one axis change per plate)
+──────────────────────────────────────────────
+PLATE 01 — DENSE · light: "Golden-hour sunlight with long warm shadows" · density: "The print treatment is at its densest and richest: layered marks, full system detail"
+PLATE 02 — LINEWORK · light: "Soft overcast daylight, muted flat tones" · density: "The print is linework-forward: thin drafting lines and technical geometry dominate the reconstruction"
+PLATE 03 — FRAGMENT · light: "Blue-hour dusk with cool tones, the shells glowing warm against the dusk" · density: "The print is fragment-forward: torn photographic fragments dominate, with fewer system marks around them"
+PLATE 04 — MINIMAL · light: "Bright midday sunlight with crisp shadows" · density: "The print is the minimal plate of the set: sparse marks, maximum untouched paper"
+```
+
+</details>
+
+<a id="gpt-image-tidal-index-coastline-poster"></a>
+### Japanese tide index poster of a coastline
+
+<a href="https://x.com/MrLarus/status/2115477621920374895"><img src="../../previews/gpt-image-tidal-index-coastline-poster.jpg" width="360"></a>
+
+A fill-in template with slots for subject, observation method, title, palette and exhibition details, so one prompt yields a whole series. It asks for an enlarged central subject, close-up observation nodes joined by fine guide lines, and a vertical title with English subtitles, which creates the scale contrast and editorial rhythm.
+
+GPT Image 2.5 · Text-to-image · Source: [@MrLarus on X](https://x.com/MrLarus/status/2115477621920374895) · 50 likes on 2026-10-29
+
+[`japanese-style`](tags.md#tag-japanese-style) [`poster`](tags.md#tag-poster) [`tide`](tags.md#tag-tide) [`nature-observation`](tags.md#tag-nature-observation)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Observation Subject: [Fill in Subject]
+Core Natural Object: [Fill in Object]
+Primary Observation Method: [Cross-Section Structure / Cyclic Changes / Movement Trajectory / Natural Texture]
+Main Title: [Fill in Title]
+Main Color Scheme: [Fill in Color Palette]
+Exhibition Information: [Fill in Date, Location, etc.]
+
+Create a 9:16 vertical Japanese-style natural observation art poster, blending natural history illustrations, scientific infographics, vintage printing, and modern exhibition design. Transform natural phenomena into visual works that combine artistic beauty with observational value.
+
+Enlarge the core natural object significantly to make it the primary visual focus of the composition. Based on the theme, select methods such as cross-section, cycle, flow trajectory, or morphological changes to showcase the object's most distinctive features.
+
+Surround the main subject with close-up magnifications, observation nodes, fine guiding lines, scales, and structural annotations. The information should have clear logical relationships, allowing viewers to follow the composition's reading path to understand the natural object.
+
+Use an off-white aged paper background overall, paired with natural-themed primary colors and a few accent hues. Through soft color gradients, intricate hand-drawn lines, and vintage printing textures, evoke a timeless natural specimen atlas style.
+
+The composition must balance large-scale subjects with minute details, creating a striking scale contrast. Auxiliary graphics, recording lines, and explanatory text should distribute naturally along the subject's structure, maintaining the precise order characteristic of scientific illustrations.
+
+Typography should integrate large Chinese or Japanese titles, English subtitles, vertical explanatory notes, and small observation labels. Text content must align with the theme, avoiding arbitrary inclusion of meaningless scientific jargon or fabricated data.
+
+The final composition should convey the rigor of natural observation, the visual impact of an art poster, and the maturity of editorial design. Avoid ordinary textbook layouts, mechanical chart stacking, and overly realistic commercial photography effects.
+```
+
+</details>
+
+<a id="gpt-image-photo-to-ink-golden-thread-travel-poster"></a>
+### Paris sunset photo flowing into ink sketch poster
+
+<a href="https://x.com/Ziha_ai/status/2103336789339709511"><img src="../../previews/gpt-image-photo-to-ink-golden-thread-travel-poster.jpg" width="360"></a>
+
+The prompt splits the canvas into a photo section, a transition and an ink section, and a single golden thread links them. Bracketed placeholders for landmark and time of day make it reusable, and the closing negative list keeps the photo dominant and the layout uncluttered.
+
+GPT Image 2.5 · Text-to-image · Source: [@Ziha_ai on X](https://x.com/Ziha_ai/status/2103336789339709511) · 48 likes on 2026-10-28
+
+[`travel-poster`](tags.md#tag-travel-poster) [`photo-to-ink`](tags.md#tag-photo-to-ink) [`golden-thread`](tags.md#tag-golden-thread) [`landmark`](tags.md#tag-landmark) [`template`](tags.md#tag-template)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a sophisticated conceptual travel-art poster based on [LANDMARK / CITY / COUNTRY], inspired by the visual storytelling of a real photograph seamlessly transitioning into delicate hand-drawn illustration.
+
+TOP SECTION — REALISTIC PHOTOGRAPH:
+Show a breathtaking, cinematic photograph of [LANDMARK / CITY / COUNTRY] during [sunrise / sunset / golden hour / blue hour]. Preserve the authentic architecture, landscape, proportions, recognizable details, atmosphere, natural lighting, and distinctive visual identity of the location. Use dramatic warm light, glowing highlights, realistic textures, atmospheric depth, subtle film grain, and an editorial travel-photography aesthetic.
+
+THE TRANSITION:
+From one important visual element of the photograph — such as the sun, a window, tower, dome, streetlight, mountain peak, river, or architectural detail — create a single thin golden thread / beam of light that naturally extends downward from the photograph into the empty paper space. The thread should feel delicate, handmade, slightly imperfect, and continuous.
+
+BOTTOM SECTION — HAND-DRAWN STORY:
+On warm ivory textured paper, transform the end of the golden thread into a beautiful minimal ink illustration connected to [LANDMARK / CITY / COUNTRY]. The thread could lead to a tiny illustrated traveler, artist, child, architect, traditional object, local street scene, miniature landmark, map element, flower, boat, train, or another meaningful cultural symbol.
+
+Keep the illustration extremely elegant and sparse, using fine black ink lines, subtle hatching, tiny golden accents, and lots of negative space. Integrate small recognizable details from [CITY / COUNTRY] into the illustration without making it crowded.
+
+TYPOGRAPHY:
+Add a small handwritten or refined editorial phrase such as:
+[CITY] [PLACE NAME]
+
+Add minimal typography: [CITY / COUNTRY] — [LANDMARK NAME], with optional coordinates or a small location descriptor.
+
+STYLE: premium conceptual travel poster, poetic visual storytelling, real photography + minimalist ink illustration, warm ivory paper, delicate golden thread, sophisticated editorial composition, museum-quality art print, subtle vintage texture, emotional but understated, generous negative space, vertical 4:5 composition.
+
+IMPORTANT: Keep the real photograph visually dominant and authentic. The illustrated section should feel like it is physically connected to the photograph by the single continuous golden thread. No collage clutter, no excessive typography, no random objects, no cartoonish style, no distorted architecture.
+```
+
+</details>
 
 <a id="gpt-image-city-travel-poster-vector-template"></a>
 ### Zurich Vector Travel Poster Template
