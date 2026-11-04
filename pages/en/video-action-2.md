@@ -1,6 +1,6 @@
 # Action, chases and sports
 
-[Back to the list](../../README.md) · All 210 entries · [1](video-action.md) · **2** · [3](video-action-3.md)
+[Back to the list](../../README.md) · All 211 entries · [1](video-action.md) · **2** · [3](video-action-3.md)
 
 <a id="h3-hotdog-dash-skateboard-selection"></a>
 ### Skateboard selection screen with HotDog Dash selected
@@ -3568,6 +3568,32 @@ Show realistic human biomechanics, inertia, momentum, gravity, friction, center-
 Use only diegetic sound: heavy rain, breathing, footsteps, metal mechanisms, water splashes, distant traffic, echoes, and thunder. Natural nighttime lighting with realistic wet reflections, shadows, depth of field, and motion blur. End with the woman hidden behind a concrete wall as the pursuers run past, followed by an empty rain-soaked street and a cut to black.
 
 No CGI, animation, superhero abilities, impossible parkour, teleportation, weightless objects, exaggerated slow motion, unrealistic physics, distorted anatomy, duplicate characters, text, logos, or watermark.
+```
+
+</details>
+
+<a id="seedance-night-run-coffee-chase"></a>
+### Rainy street car chase ends on an upright coffee cup
+
+<a href="https://pesoszpesosz.github.io/seedancecheap-video-cookbook/night-run-original.mp4"><img src="../../previews/seedance-night-run-coffee-chase.jpg" width="360"></a>
+
+The brief starts with moving vehicles, shifts to a wide drift and rear tracking shot, then ends on an upright coffee cup. The linked file is the complete 15.072-second delivery with original audio, without trims or added text. Opening framing, driver gaze and vehicle details differ from the instructions. Generated through Plenx on November 1, 2026; full source published November 4.
+
+Seedance 2.5 · Text-to-video · Source: [SeedanceCheap team's original source page](https://pesoszpesosz.github.io/seedancecheap-video-cookbook/night-run-source.html)
+
+[`car-chase`](tags.md#tag-car-chase) [`rain`](tags.md#tag-rain) [`timed-beats`](tags.md#tag-timed-beats) [`camera-moves`](tags.md#tag-camera-moves) [`coffee`](tags.md#tag-coffee) [`comedy`](tags.md#tag-comedy)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+NIGHT RUN — original cinematic car-chase microfilm, fifteen seconds, vertical 9:16, photographic live action with synchronized original sound. A glossy unbranded acid-yellow rally coupe with black wheels races through an empty rain-soaked industrial district at night, pursued by one black SUV. Same two cars throughout. One fictional adult woman drives the coupe.
+
+0–3s: Start at full speed. Low front-three-quarter tracking camera races backward just ahead of the yellow coupe. Its spinning front wheel blasts a puddle past the lens; the whole car stays visible with the black SUV gaining behind.
+3–8s: Hard cut to a high wide three-quarter view. The coupe makes one continuous controlled powerslide around a ninety-degree street corner, rear wheels throwing a broad fan of water. Real tire contact, visible weight transfer and suspension movement. The SUV overshoots the corner and brakes on the empty straight road.
+8–12s: Cut to a fast low rear tracking shot. The coupe straightens and accelerates under a concrete railway bridge; red taillights streak across puddles. The SUV is now far behind on the other street.
+12–15s: Cut inside the moving coupe. The driver is focused, both hands on the wheel; beside her, a plain takeaway coffee cup is still upright in its fixed cupholder. She gives it one relieved sideways glance, then looks back at the road. End with engine acceleration, while the car is still moving.
+
+Hard 4300K sodium streetlights from camera-left, cool 6500K wet-sky fill, tactile rain droplets, yellow paint and crisp reflections. Normal-speed action, energetic clean cuts, no slow-motion or static beauty shots. Sound: engine rising through gears, tire hiss, short tire squeal at the turn, water spray and deep bridge reverb. No music, dialogue, captions, logos, collisions, weapons or injuries.
 ```
 
 </details>
