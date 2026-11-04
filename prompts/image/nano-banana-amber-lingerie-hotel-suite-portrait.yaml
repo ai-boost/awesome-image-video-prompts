@@ -1,0 +1,54 @@
+id: nano-banana-amber-lingerie-hotel-suite-portrait
+title:
+  en: Kneeling woman in amber lingerie on white rug
+  zh: 跪坐在白色地毯上的琥珀色内衣女子
+model: Nano Banana 2.1
+mode: text-to-image
+category: portrait
+tags:
+- portrait
+- lingerie
+- hotel-suite
+- json-prompt
+source:
+  name: '@alicehan_ai on X'
+  url: https://x.com/alicehan_ai/status/2117119804616458635
+  credit: Alice Han
+  likes: 250
+  captured: '2026-11-03'
+  posted: '2026-10-31'
+notes:
+  en: A structured JSON prompt that pins the wardrobe materials, the pose, and a 35mm lens at chest height with f/2.8, which keeps the framing and soft window light consistent. The pillow lettering is specified as its own scene element, so the handle appears inside the shot.
+  zh: 采用结构化 JSON 提示词，明确服装材质、姿势，以及 35mm 镜头、胸口高度平视和 f/2.8 光圈，使构图与柔和窗光保持稳定。枕头上的文字被单独指定为场景元素，因此账号名会出现在画面中。
+prompt: |
+  {
+    "subject": {
+      "identity": "a breathtakingly gorgeous young Japanese woman, 158 cm tall with warm milk-tea brown hair featuring honey-caramel balayage, and a petite, lushly voluptuous hourglass figure (measurements: 90-58-92 cm)",
+      "hair": "warm milk-tea brown hair with sun-kissed honey-caramel balayage flowing in soft bouncy waves",
+      "expression": "radiant, warm smile with bright inviting eyes",
+      "pose": "kneeling on the plush rug sitting back on her heels, hands resting lightly on her knees, torso upright and angled toward the camera"
+    },
+    "wardrobe": {
+      "silhouette": "structured underwire satin-and-lace balconette lingerie bustier with a deep sweetheart plunge, exposed boning, and high-cut lace briefs with thigh garter straps",
+      "material": "luminous silk satin, sheer Chantilly floral lace, and elastic garter straps",
+      "color": "amber, carried by the luminous silk satin of the balconette lingerie bustier and briefs",
+      "footwear": "sky-high pointed-toe patent stiletto pumps",
+      "accessories": "strappy thigh garter belt with polished metal suspender clips, sheer black lace-top thigh-high stockings, and a sleek satin choker ribbon"
+    },
+    "scene": {
+      "atmosphere": "luminous, clean, contemporary upscale atmosphere",
+      "background": "contemporary white and beige hotel bedroom suite, a plush white faux-fur rug on polished marble flooring, and a large bed",
+      "camera": "35mm lens at chest level looking straight forward, f/2.8",
+      "composition": "tall vertical frame, medium shot, one figure centered and filling the height of the picture",
+      "grade": "clean bright grade, natural skin luminosity, realistic fabric textures",
+      "lighting": "soft natural daylight filtering through the windows, casting gentle shadows and luminous highlights",
+      "location": "sunlit high-floor luxury suite with floor-to-ceiling windows"
+    },
+    "scene_text": {
+      "archetype": "pillow",
+      "carrier": "accent pillow embroidered in cursive lettering",
+      "placement": "on the corner of the throw pillow",
+      "text": "alicehan_ai"
+    },
+    "compiled_prompt": "Generate a single-frame portrait photograph of a breathtakingly gorgeous young Japanese woman, 158 cm tall with warm milk-tea brown hair featuring honey-caramel balayage flowing in soft bouncy waves, and a petite yet lushly voluptuous hourglass figure with a full rounded bust, delicate waist, and curvy feminine hips. Her expression is a radiant, warm smile with bright inviting eyes looking directly at the camera. She is kneeling on the plush rug sitting back on her heels, hands resting lightly on her knees, with her torso upright and angled toward the camera. She wears a structured underwire satin-and-lace balconette lingerie bustier with a deep sweetheart plunge, exposed boning, and high-cut lace briefs with thigh garter straps, crafted from luminous silk satin, sheer Chantilly floral lace, and elastic garter straps. The garment color is amber, carried by the luminous silk satin of the balconette lingerie bustier and briefs. She is styled with sky-high pointed-toe patent stiletto pumps, a strappy thigh garter belt with polished metal suspender clips, sheer black lace-top thigh-high stockings, and a sleek satin choker ribbon. The scene is set in a sunlit high-floor luxury suite with floor-to-ceiling windows, exuding a luminous, clean, contemporary upscale atmosphere. The background reveals a contemporary white and beige hotel bedroom suite, a plush white faux-fur rug on polished marble flooring, and a large bed. An accent pillow embroidered in cursive lettering displays alicehan_ai on the corner of the throw pillow. Captured in a tall vertical frame as a medium shot, with one figure centered and filling the height of the picture. Shot on a 35mm lens at chest level looking straight forward with f/2.8 aperture. The photograph features soft natural daylight filtering through the windows, casting gentle shadows and luminous highlights, with a clean bright grade, natural skin luminosity, and realistic fabric textures."
+  }

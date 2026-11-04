@@ -1,0 +1,26 @@
+id: seedance-tokyo-platform-snap-anime-manga
+title:
+  en: Snap transforms Tokyo platform through anime and manga styles
+  zh: 弹指切换东京站台的动漫与漫画风格
+model: Seedance 2.5
+mode: text-to-video
+category: vfx
+tags:
+- style-transition
+- anime
+- manga
+- tokyo
+- finger-snap
+source:
+  name: '@Zyrellix on X'
+  url: https://x.com/Zyrellix/status/2096961937770697155
+  credit: Zyrellix
+  captured: '2026-11-03'
+  posted: '2026-09-07'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Zyrellix/status/2096961937770697155
+notes:
+  en: Each finger snap is the physical trigger for one style change, so every beat pairs a concrete action with a named look in a fixed order. The low angle tracking shot toward camera keeps the subject centered through the transitions.
+  zh: 每次弹指都是一次风格切换的触发动作，提示词把每个阶段的具体动作和指定画风按固定顺序配对。低角度中景跟拍朝向镜头，让主体在转场中始终保持居中。
+prompt: |
+  A stylish young woman wearing a bright green bomber jacket, a colorful striped crop top, cargo pants, and pink sneakers walking on an open-air train station platform in Tokyo, Japan. Low-angle medium tracking shot following her as she walks towards the camera. She snaps her fingers, and with each snap, the environment and visual style instantly transform: first into a vibrant anime fantasy sky with clouds and a rainbow sunset, then into a black-and-white manga sketch art style with colored accents, and finally back to realistic live-action. She then laughs and covers her mouth with her hand. Cinematic lighting, smooth motion transitions, 8k resolution, photorealistic detail.

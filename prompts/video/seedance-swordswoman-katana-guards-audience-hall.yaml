@@ -1,0 +1,165 @@
+id: seedance-swordswoman-katana-guards-audience-hall
+title:
+  en: Swordswoman raises katana as guards close in on her
+  zh: 剑客举刀，守卫在大厅中逼近
+model: Seedance 2.5
+mode: reference-to-video
+category: action
+tags:
+- one-take
+- sword-fight
+- dutch-angle
+- reference-images
+source:
+  name: '@Chaemate_ on X'
+  url: https://x.com/Chaemate_/status/2105958420088328486
+  credit: Chaemate_
+  captured: '2026-11-03'
+  posted: '2026-10-02'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Chaemate_/status/2105958420088328486
+notes:
+  en: The prompt locks the clip as one unbroken take with a 25 to 35 degree dutch angle, and the camera trails the action by a fraction of a second, which gives the chase its handheld momentum. Reference images for the lead and the guards keep her face and costume consistent across every location change.
+  zh: 提示词把整段锁定为一镜到底，并设定25到35度的斜向构图，镜头比动作慢0.1到0.3秒跟随，形成手持追拍的节奏。主角与守卫的参考图保证场景不断切换时人物外形始终一致。
+prompt: |
+  KAZEMIRU: THE JADE-WIND BLADE: ONE-TAKE CASTLE ASSAULT
+  Duration: 30 seconds | Aspect Ratio: 16:9 | No music
+
+  ONE-TAKE LOCK:
+  This is ONE SINGLE UNBROKEN CONTINUOUS SHOT lasting the full 30 seconds.
+  ZERO cuts. ZERO dissolves. ZERO fades. ZERO match-cuts. ZERO time jumps.
+  ZERO scene resets. The camera never leaves the action and every location
+  change happens physically inside the shot: the camera passes through torn
+  doors, over railings and up the roof with Kazemiru. Time runs in real time.
+
+  STYLE:
+  Ultra-photorealistic live-action Japanese dark-action cinema with restrained
+  subtle VFX. Impossible anime-inspired dual-sword choreography performed by
+  real human bodies. Large-format cinema look, natural daylight, muted earthy
+  color palette, soft realistic shadows, no oversaturated colors.
+
+  @Image1 is KAZEMIRU. Preserve her exact face, silver-white ponytail, torn
+  ivory kimono, charcoal split hakama, wind-swirl forearm tattoo and gold hoop
+  earrings in every frame.
+  @Image2 shows the five elite guards. @Image3 shows Captain Tetsugan.
+
+  POSITIVE LOCKS (true for all 30 seconds):
+  - Exactly ONE Kazemiru with exactly TWO real steel katanas, one in each
+    hand, both always visible and independently controlled.
+  - Her face always matches @Image1.
+  - Every enemy comes from @Image2 or @Image3 and stays visually consistent.
+  - Her body physically crosses every distance, with no teleportation.
+  - It is always daytime with bright natural light.
+
+  PERSONALITY:
+  Cold, calm, battle-hungry. Minimal expression, steady breathing, focused
+  eyes. Her hunger shows through relentless speed and escalating ferocity,
+  never through grinning or shouting.
+
+  JADE-WIND EFFECT:
+  Every fast movement leaves a thin, soft jade-green wind trace that follows
+  her exact physical path and fades almost instantly: sword arcs leave fine
+  blade trails, spins bend the air, footsteps kick tiny wakes, supersonic
+  bursts add a brief compressed-air ripple. Always thin, subtle and realistic.
+  No aura, no smoke, no glowing body, no effects moving on their own.
+
+  CAMERA (one continuous handheld-style pursuit):
+  Constant dutch angle of 25–35°. Wide field of view around 75° in the
+  interior and courtyard, tightening to about 50° for the rooftop duel.
+  Kazemiru moves first and the camera follows 0.1–0.3 seconds late: whip-pan,
+  overshoot, correct, reacquire at the moment of contact. The camera flows
+  through rear over-the-shoulder, low-angle pursuit, side tracking,
+  ground-level chase and front three-quarter retreat, always in one connected
+  movement. Never static, never perfectly smooth.
+
+  ══ 0:00–0:10: THE GRAND AUDIENCE HALL ══
+  Setting: bright daylight through large shoji panels, gold folding screens,
+  tall dark timber pillars, tatami sections, raised platform, armor displays,
+  low lacquer tables, silk curtains.
+
+  0:00–0:03: Rear over-the-shoulder, five guards closing in. Her fingers tighten
+  on both hilts. BURST: a thin jade streak snaps across the hall and the silk
+  curtains whip. The camera loses her, whip-pans, and finds her inside
+  Guard 1's reach. Left blade parries, right blade slashes diagonally, a pivot,
+  a reverse cut. He drops.
+
+  0:03–0:06: Guards 2 and 3 converge. She ducks under a swing, plants a foot on
+  a pillar and pushes off, dust bursting from the wood. Mid-air her left
+  sword deflects Guard 2 and her right sword cuts down. She lands on the edge
+  of a lacquer table, which slides back, and rebounds straight toward Guard 3.
+
+  0:06–0:10: Aerial right slash, left reverse slash, dual cross-slash with two
+  separate jade trails. She lands low and bursts across the floor. Guard 4's
+  spear thrusts: she runs two steps up a wall, flips off, and cuts him down
+  through a folding screen. Guard 5 charges: she catches his blade with one
+  sword, vaults the railing above him, and finishes with a cross-slash as she
+  lands behind him.
+
+  ══ 0:10–0:20: THE PALACE COURTYARD ══
+  Transition inside the same shot: she does not pose. Both swords still in
+  hand, she drives straight through the paper doors in one burst. The torn
+  paper flutters past the lens as the camera follows her through the doorway
+  onto the wooden veranda and out into a stone courtyard with lanterns, a koi
+  pond, a red lacquer arched bridge and pine trees. Eight new guards: swordsmen
+  below and archers on the roofs.
+
+  0:10–0:13: A volley of arrows. She cuts two out of the air with a spinning
+  double slash and a third grazes her sleeve. She sprints along the veranda,
+  pivoting off each post, a jade ripple following her feet.
+
+  0:13–0:16: She kicks off a stone lantern, which tips over, and leaps onto the
+  bridge railing. Three swordsmen charge. She runs along the rail, slashes the
+  first, flips over the second, and lands in the koi pond with a huge splash.
+  In the water she parries two blades and cuts both guards. Droplets scatter
+  across the lens.
+
+  0:16–0:20: She bursts out of the pond and sprints up a pine trunk in three
+  steps. The camera tilts up with her. She launches onto the roof among the
+  archers: left sword disarms, right sword strikes, roof tiles scatter. Two
+  archers fall.
+
+  ══ 0:20–0:30: THE ROOFTOP DUEL ══
+  Transition inside the same shot: she keeps climbing over the roof ridge and
+  the camera rises with her, tightening to a 50° field of view. The tiled
+  castle rooftop opens up with wind in her ponytail and the town far below.
+  Captain Tetsugan (@Image3) waits with his naginata, calm and unflinching.
+
+  0:20–0:23: Tetsugan sweeps the naginata in a wide arc. Kazemiru ducks, slides
+  down the sloping tiles, and crosses both swords to stop the blade. Sharp
+  metal sound as his strength pushes her back a step. Her expression stays
+  cold.
+
+  0:23–0:27: Fast exchange: his thrust, her left parry, her right slash that cuts
+  his armor cord. He spins the pole and sweeps for her feet: she jumps, kicks
+  off the shaft, and flips over him. Mid-air she cuts both swords across his
+  back armor. Tiles crack under their feet and a faint jade wake curves around
+  her path. He staggers, strikes back, and she narrowly dodges as the blade
+  cuts a roof beam.
+
+  0:27–0:30: Supersonic burst along the ridge line, the jade streak slightly
+  brighter but still thin. She slides under the naginata, and as she rises
+  both swords slice through the shaft in a clean cross-cut. Tetsugan drops to
+  one knee, defeated but alive. Kazemiru stands, both swords still in hand,
+  and the last jade filaments disappear. She turns her cold eyes toward the
+  courtyard far below, where dozens more guards pour in. The camera slowly
+  pulls back and up to a wide shot of the whole castle. She lowers her body for
+  the next burst. THE FIGHT CONTINUES.
+
+  AUDIO:
+  Sword resonance, compressed-air whooshes, metal clashes, footsteps on wood
+  and tiles, arrows, water splashes, fluttering silk and paper, enemy shouts,
+  wind over the rooftops. No dialogue, no music.
+
+  HUMAN-FIRST LOCK:
+  Kazemiru is always a real human: natural skin pores, real eyes, individual
+  hair strands, believable anatomy and cloth physics. Only her choreography is
+  anime-level impossible.
+
+  NEGATIVE:
+  cuts, edits, dissolves, fades, scene transitions, time jumps, multiple
+  shots, single-sword fighting, missing or duplicate sword, duplicate
+  Kazemiru, clones, teleportation, thick aura, smoke, glowing body, neon or
+  oversaturated colors, detached VFX, random flips, decorative acrobatics,
+  idle pose, static camera, perfectly smooth tracking, slow combat, floating,
+  broken anatomy, CGI or plastic skin, anime rendering, blood, gore, subtitles,
+  logos, watermark.

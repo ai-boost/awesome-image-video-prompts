@@ -1,0 +1,25 @@
+id: seedance-bodyguard-blocks-grab-suv
+title:
+  en: Bodyguard blocks grab and escorts executive to SUV
+  zh: 保镖挡开抓手并护送女高管上车
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- action
+- bodyguard
+- gimbal-tracking
+- urban
+source:
+  name: '@nawalsehar on X'
+  url: https://x.com/nawalsehar/status/2089583619484639598
+  credit: nawalsehar
+  captured: '2026-11-03'
+  posted: '2026-08-18'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/nawalsehar/status/2089583619484639598
+notes:
+  en: The prompt is written as an ordered beat sequence with positions, a timed dialogue line, and the exit moment, so the model gets a clear order of events and blocking. A single continuous gimbal shot plus an explicit list of ambient sounds (footsteps, door, engine) keeps the take seamless and grounded.
+  zh: 提示词按顺序写成动作节拍，包含站位、一句定时台词和出口时刻，让模型清楚事件先后与人物走位。加上单镜头连续跟拍，并明确列出环境声（脚步、车门、引擎），使画面连贯、真实。
+prompt: |
+  A Western female executive in her early 30s exits a modern office building carrying a laptop bag while a professional Western male bodyguard in his mid-30s, wearing a fitted dark business suit, discreet earpiece, leather shoes, and sunglasses, escorts her toward a black executive SUV in a busy business district. The bodyguard maintains a protective position slightly behind and to her left, calmly scanning the surroundings while pedestrians and traffic move naturally around them. As they approach the SUV, the client smiles and says, "Thanks for today." Before she reaches the vehicle, an unknown man suddenly approaches and attempts to grab her arm. The bodyguard immediately steps between them, shields the client with his body, extends one arm to guide her backward, and uses a controlled wrist redirection and forearm block to stop the approach without unnecessary force. The client moves safely behind him toward the SUV while he maintains a balanced defensive stance and keeps visual awareness of both people. He then opens the rear passenger door, allows the client to enter safely, checks the surroundings, closes the door, and calmly maintains distance from the approaching individual. The SUV starts smoothly and drives away as the bodyguard enters the front passenger seat. Ultra-realistic Hollywood action thriller, photorealistic modern city environment, authentic executive protection tactics, realistic defensive martial arts, physically accurate human biomechanics, natural walking and reaction movements, realistic body positioning and weight transfer, natural facial expressions and breathing, accurate vehicle physics, continuous gimbal tracking shot, smooth cinematic camera movement, natural daytime lighting, authentic city traffic and pedestrian ambience, realistic footsteps, vehicle doors, clothing movement, and engine sounds, no narration, non-graphic action, seamless continuous storytelling, consistent characters and environment throughout, no weapons, blood, injuries, exaggerated impacts, superhero movements, CGI appearance, plastic skin, text overlays, logos, watermarks, or abrupt transitions.

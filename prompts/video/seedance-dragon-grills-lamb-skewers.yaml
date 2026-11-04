@@ -1,0 +1,39 @@
+id: seedance-dragon-grills-lamb-skewers
+title:
+  en: Woman grills lamb skewers beside pink dragon
+  zh: 女子与粉色巨龙在庭院烤羊肉串
+model: Seedance 2.5
+mode: reference-to-video
+category: scifi-fantasy
+tags:
+- dragon
+- fantasy
+- cooking
+- dialogue
+source:
+  name: '@SadiaMalik182 on X'
+  url: https://x.com/SadiaMalik182/status/2115314198452572369
+  credit: SadiaMalik182
+  captured: '2026-11-03'
+  posted: '2026-10-28'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/SadiaMalik182/status/2115314198452572369
+notes:
+  en: Reference images pin the heroine and the dragon, and a timed beat sheet with spoken lines drives each scene. The single continuous shot rule plus fixed wardrobe and scale details keeps the outfit and scales stable through the whole sequence.
+  zh: 参考图锁定女主角和巨龙的形象，再用按秒分段的剧本和台词驱动每个场景。单镜头连续拍摄的指令加上固定的服装与鳞片细节，让整段视频的外观保持稳定。
+prompt: |
+  Single continuous shot, no cuts, no scene changes, no morphing. Slow steady camera with a gentle push-in. Photorealistic medieval fantasy film, autumn farmhouse courtyard, stone walls, iron grill, marinated lamb skewers, warm golden sunlight. Match heroine and colossal beast references exactly. Heroine: young woman, dark brown hair in a loose bun, cream blouse with rolled sleeves, brown leather vest, long brown skirt, black boots. Beast: colossal dragon, pale pink-white scales, pink spines, golden eyes, dozens of meters long, full body visible in wide shots. Same outfit, same hair and same scales throughout. Realistic fire, smoke, meat and physics. No modern objects.
+
+  0–4s: Heroine arranges raw lamb skewers. Giant beast sniffs eagerly. She asks: "Can you cook these for me? Carefully, okay?" Beast nods.
+
+  4–9s: Beast blasts enormous flames! Grease ignites, smoke erupts, skewers turn black. Soot covers her face. She freezes in disbelief.
+
+  9–14s: Holding burnt meat, she yells: "You burned everything!" Beast secretly grins. "Don't you dare laugh!" It suppresses laughter, nostrils smoking.
+
+  14–20s: She replaces the skewers and demonstrates gentle heat: "Not too hot. Not too cold. Just right. Aim low. Control the heat. Small and steady. Please don't burn my dinner." Beast listens carefully.
+
+  20–26s: Beast gently heats the grill from below. Lamb sizzles, golden fat drips, spices scatter over juicy meat. "Now that's perfect!"
+
+  26–30s: Beast drools adorably. She offers a skewer: "You earned this one." Beast eats gently, tail stirring autumn leaves. She strokes its nose. Warm sunset wide shot.
+
+  Cinematic lighting, detailed scales, realistic flames, expressive acting, smooth natural motion, stable faces, no glitches, no warping. No subtitles, narration, logos or watermark.

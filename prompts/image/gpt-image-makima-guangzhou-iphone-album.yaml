@@ -1,0 +1,24 @@
+id: gpt-image-makima-guangzhou-iphone-album
+title:
+  en: Makima Guangzhou trip in an iPhone album
+  zh: Makima 广州游 iPhone 相簿截图
+model: GPT Image 2.5
+mode: text-to-image
+category: ui-mockup
+tags:
+- iphone
+- fan-art
+- travel
+- photo-album
+source:
+  name: '@DeepBlueX0 on X'
+  url: https://x.com/DeepBlueX0/status/2099684732950958440
+  credit: DeepBlue深藍
+  likes: 676
+  captured: '2026-11-03'
+  posted: '2026-09-14'
+notes:
+  en: The prompt names a real device interface and an OS version, so the model builds a full Photos album screen with status bar, search bar, tab bar and a collage of location shots. Keeping the character consistent across tiles comes from the single subject description.
+  zh: 提示词直接指定真实设备界面和系统版本，模型会生成带状态栏、搜索栏、底部标签栏和地点照片拼贴的完整相簿界面。角色在各张照片中保持一致，来自统一的主体描述。
+prompt: |
+  Makima × Guangzhou Tour iPhone Photo Album Screenshot × iOS 27

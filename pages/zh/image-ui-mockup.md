@@ -1,6 +1,6 @@
 # 手机与界面截图
 
-[返回目录](../../README_zh.md) · 全部 28 条
+[返回目录](../../README_zh.md) · 全部 29 条
 
 <a id="gpt-image-camera-roll-photos-screen"></a>
 ### 一名学生一整天的iPhone相册截图
@@ -121,6 +121,25 @@ Do not introduce unrelated characters or subjects.
 Do not change the main subject’s design.
 No captions, dates, labels, stickers, watermarks, or decorative text inside the photo thumbnails.
 Only normal minimal iOS interface elements may appear.9:16
+```
+
+</details>
+
+<a id="gpt-image-makima-guangzhou-iphone-album"></a>
+### Makima 广州游 iPhone 相簿截图
+
+<a href="https://x.com/DeepBlueX0/status/2099684732950958440"><img src="../../previews/gpt-image-makima-guangzhou-iphone-album.jpg" width="360"></a>
+
+提示词直接指定真实设备界面和系统版本，模型会生成带状态栏、搜索栏、底部标签栏和地点照片拼贴的完整相簿界面。角色在各张照片中保持一致，来自统一的主体描述。
+
+GPT Image 2.5 · 文生图 · 出处: [@DeepBlueX0 on X](https://x.com/DeepBlueX0/status/2099684732950958440) · 676 赞，统计于 2026-11-03
+
+[`iphone`](tags.md#tag-iphone) [`fan-art`](tags.md#tag-fan-art) [`travel`](tags.md#tag-travel) [`photo-album`](tags.md#tag-photo-album)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Makima × Guangzhou Tour iPhone Photo Album Screenshot × iOS 27
 ```
 
 </details>

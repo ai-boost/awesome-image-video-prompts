@@ -1,0 +1,27 @@
+id: nano-banana-ten-twins-raincoats-finger-count
+title:
+  en: Ten identical twins in raincoats counting fingers
+  zh: 十个穿雨衣的同款双胞胎比手指数字
+model: Nano Banana 2.1
+mode: text-to-image
+category: realism
+tags:
+- counting
+- identical-twins
+- raincoat
+source:
+  name: '@HarshithLucky3 on X'
+  url: https://x.com/HarshithLucky3/status/2107218246973915148
+  credit: Harshith
+  likes: 127
+  captured: '2026-11-03'
+  posted: '2026-10-05'
+notes:
+  en: Assigning each subject a distinct colour and a distinct finger count gives the model a checkable per-subject rule, and clearly visible hands keeps the counts readable. Individual finger counts can still slip, so check each figure.
+  zh: 为每个主体指定不同颜色和不同手指数，给模型一条可逐人核对的规则，同时要求手部清晰可见，让数字更容易识别。个别人物的手指数仍可能出错，需逐一核对。
+prompt: |
+  Nano Banana 2.1 in Google Flow
+
+  this is almost perfect but missed that 8
+
+  > Prompt: 10 identical twins in different colored raincoats, each holding a different number of fingers up (1 to 10), clearly visible hands

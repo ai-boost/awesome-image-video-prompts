@@ -1,0 +1,45 @@
+id: seedance-green-angel-three-part-battle
+title:
+  en: Radiant angel with glowing wings and halo
+  zh: 带光环与发光羽翼的天使
+model: Seedance 2.5
+mode: reference-to-video
+category: scifi-fantasy
+tags:
+- dark-fantasy
+- angel
+- magic
+- multi-part
+source:
+  name: '@itsSaira_1 on X'
+  url: https://x.com/itsSaira_1/status/2108049177259462719
+  credit: itsSaira_1
+  captured: '2026-11-03'
+  posted: '2026-10-08'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/itsSaira_1/status/2108049177259462719
+notes:
+  en: Splits the clip into three parts of about ten seconds each, feeding the last frame of each part back in as the reference image. A continuity rule repeated in every part locks the face, lighting and green grade, and the fixed negative prompt guards against face drift and deformed wings.
+  zh: 将片段分成三段，每段约十秒，并把上一段的末帧作为参考图输入。每段都重复的连续性要求锁定人脸、光线与绿色调色，固定的负面提示词用于防止人脸漂移和翅膀变形。
+prompt: |
+  Cinematic 16:9 dark fantasy, photorealistic, Gothic cathedral, emerald-green glowing magic, dramatic low light, film grain. Generate in 3 parts of about 10 seconds each.
+
+  PART 1
+  Scene 1: Dark horned demons charge through a ruined cathedral, blurred motion.
+  Scene 2: Extreme close-up of a young nun in a white wimple, her fist glowing bright green, intense stare.
+  Scene 3: A green energy dome forms around her as hundreds of demons surround it, wide high-angle shot.
+
+  PART 2 (use the LAST FRAME of Part 1 as reference image; keep the exact same face, body, outfit and cathedral)
+  Scene 4: Her habit turns into a glowing green-white gown, then she transforms into a radiant angel with huge translucent glowing wings, a halo and a white-green gown, standing inside a clear green bubble.
+  Scene 5: She fights the demons with a glowing green spear and a round glowing shield, spinning slashes, motion blur.
+
+  PART 3 (use the LAST FRAME of Part 2 as reference image; keep the exact same angel face, wings, halo and gown)
+  Scene 6: She wields a glowing green chainsaw, cutting demons in half, green energy bursts and orange sparks, low-angle hero shots.
+  Scene 7: Green laser pillars rain from above, she crouches in the green dome as a huge green explosion and smoke engulf the cathedral.
+  Scene 8: Smoke clears, the demons are gone, the angel stands alone on the glowing floor emblem, wings spread, calm, slow zoom out.
+
+  Continuity rule for every part: same face, same lighting, same green color grade, same camera style as the previous part.
+
+  Negative prompt: cartoon, anime, low quality, blurry, face change, different person, extra limbs, bad hands, deformed wings, text, watermark, logo, flickering, overexposed, duplicate characters.
+
+  #AI #Cinematic #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #visualArt @ming_ai

@@ -1,0 +1,54 @@
+id: gpt-image-stage-award-black-dress-portrait
+title:
+  en: Woman in black dress holding gold trophy
+  zh: 身穿黑色礼服手捧金色奖杯的女子
+model: GPT Image 2.5
+mode: text-to-image
+category: portrait
+tags:
+- stage-portrait
+- full-body
+- fashion
+- awards-ceremony
+source:
+  name: '@AIjee_tpe on X'
+  url: https://x.com/AIjee_tpe/status/2116462378745569333
+  credit: jee chen
+  likes: 161
+  captured: '2026-11-03'
+  posted: '2026-10-31'
+notes:
+  en: The prompt is split into labeled blocks for subject, scene, lighting, composition, style and quality, so each constraint stays separate. Stating full-body framing from head to heels with a fixed camera angle and gaze direction keeps the shoes and trophy in frame.
+  zh: 提示词按主体、场景、光线、构图、风格和质量拆分成带标签的段落，使每项约束各自生效。明确写出从头到脚的全身构图、固定的相机角度和视线方向，可以保证鞋子和奖杯都留在画面内。
+prompt: |
+  ## [Subject Description]
+
+  A photorealistic, full-body stage portrait of an elegant adult East Asian woman with fair, smooth skin and naturally full breasts,S-shaped female figure,  feminine figure with long legs and a defined waist. She has a delicate oval face, softly defined eyebrows, downcast dark eyes, a small nose, and naturally rosy-red lips. Her expression is gentle, composed, and graceful as she looks downward at the award she is holding.
+
+  Her long, glossy black hair is styled in loose, voluminous waves, parted slightly off-center and cascading over one shoulder and down her chest. She wears delicate dangling silver earrings and a sparkling diamond-style necklace.
+
+  She is dressed in an elegant black strapless evening mini dress with a fitted, sweetheart-inspired neckline and a form-fitting silhouette. The dress features an asymmetrical draped hemline, with a short front section revealing her upper thighs and a long, flowing black fabric panel extending down behind her legs. She wears sheer, transparent black thigh-high stockings with distinct opaque horizontal bands around the upper thighs, paired with elegant black pointed-toe high heels decorated with sparkling silver floral embellishments near the toes.
+
+  She holds a geometric gold-and-black award trophy with both hands at waist level, gently supporting it while looking down at it. Her posture is poised and natural, with her upper body slightly inclined forward and her legs positioned close together in a relaxed standing pose.
+
+  She possesses the best head-to-body ratio, naturally full breasts,a perfect, curvaceous, S-shaped female figure,Hourglass figure,long legs with perfect leg lines, and a slender waist, perfect foots,perfect foot lines
+
+  ## [Scene / Background]
+
+  A large indoor awards ceremony or fashion-event stage. The woman stands alone on a dark, glossy stage floor with visible surface reflections, subtle scratches, and stage markings. The background consists of a deep burgundy and black stage backdrop with minimal visual distractions, creating a sophisticated formal-event setting.
+
+  ## [Lighting / Atmosphere]
+
+  Soft, focused stage lighting illuminates the woman's face, shoulders, arms, dress, and legs, emphasizing her natural skin texture and the subtle sheen of the black fabric. Gentle highlights reflect off her jewelry, trophy, and embellished shoes. The surrounding stage remains dimly lit, with deep burgundy and dark purple tones. The overall atmosphere is elegant, prestigious, sophisticated, and understated.
+
+  ## [Composition / View]
+
+  full-body portrait, showing the woman completely from head to heels. Single subject positioned near the center of the frame. Slightly elevated frontal camera angle, capturing her downward gaze, the trophy held in front of her waist, the asymmetrical dress design, sheer stockings, and high heels. Natural standing proportions, realistic anatomy, and sufficient space around the subject. The entire outfit and footwear remain visible.
+
+  ## [Style Reference]
+
+  High-end celebrity event photography, luxury fashion editorial, realistic awards ceremony photography, sophisticated evening fashion, natural feminine elegance, professional event photography, photorealistic textures, authentic stage environment, refined color grading, realistic fabric draping and fine details.
+
+  ## [Quality Parameters]
+
+  Ultra-photorealistic, high resolution, professional DSLR photography, sharp subject focus, realistic facial features, detailed skin texture, natural body proportions, accurate hands and fingers, realistic sheer fabric transparency, intricate jewelry details, reflective metallic trophy surfaces, balanced exposure, subtle depth of field, natural shadows, cinematic stage lighting, excellent detail retention, professional color grading, 8K quality,No cropped limbs or truncated feet.

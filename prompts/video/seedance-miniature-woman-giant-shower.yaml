@@ -1,0 +1,64 @@
+id: seedance-miniature-woman-giant-shower
+title:
+  en: Miniature woman faces giant shower in bathroom
+  zh: 微缩女子面对巨大淋浴喷头
+model: Seedance 2.5
+mode: text-to-video
+category: vfx
+tags:
+- miniature
+- vfx
+- comedy
+- shower
+- macro
+source:
+  name: '@AIwithkhan on X'
+  url: https://x.com/AIwithkhan/status/2110699529041310046
+  credit: AIwithkhan
+  captured: '2026-11-03'
+  posted: '2026-10-15'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithkhan/status/2110699529041310046
+notes:
+  en: One long scene-by-scene script with fixed character and scale rules keeps the miniature woman consistent across six beats. Macro and tracking camera language plus named sound cues drive the physical comedy.
+  zh: 一段分场景脚本加上固定的角色与比例设定，让微缩女主角在六个镜头中保持一致。微距与跟拍的镜头语言，加上明确的音效提示，共同驱动物理喜剧效果。
+prompt: |
+  Create a 30-second, photorealistic live-action miniature-person VFX comedy video showing an ordinary shower turning into an extreme survival adventure. Use cinematic macro photography, ultra-shallow depth of field, realistic water physics, dynamic handheld camera movements, dramatic lighting, and spectacular scale contrast. The video should feel like a premium Hollywood miniature-action sequence filmed inside a real bathroom, with hilarious near-disasters and visually satisfying moments. Ultra-detailed 4K quality, realistic textures, natural motion blur, and physically believable interactions.
+
+  CHARACTER CONSISTENCY
+
+  The main character is a tiny adult woman approximately 1:5 human scale, with realistic facial features, expressive eyes, shoulder-length dark hair tied in a small ponytail, a pastel-blue sleeveless top, dark shorts, and tiny white sneakers. Keep her face, hairstyle, clothing, body proportions, and scale perfectly consistent throughout the entire video. She must look like a real miniature person, not an animated or cartoon character.
+
+  SCENE SEQUENCE
+
+  Scene 1 — The Danger Begins
+  A tiny woman stands on the edge of a bathroom floor beside a giant shower area, confidently preparing for a shower. The camera slowly pushes in as she looks up at the enormous showerhead above her. Suddenly, the shower turns on, and her confident expression changes to pure terror.
+
+  Scene 2 — The First Waterfall
+  A massive stream of water crashes down like a powerful waterfall. She runs for cover as giant droplets explode against the tiles around her. One enormous droplet splashes beside her, sending her tumbling backward across the wet floor.
+
+  Scene 3 — Soap Bar Avalanche
+  She climbs onto a giant soap bar to escape the rushing water. The slippery soap suddenly slides across the floor like a runaway skateboard. She desperately balances on top, waving her arms while racing toward the drain.
+
+  Scene 4 — The Shampoo Bottle Collapse
+  She jumps off the soap bar and grabs the edge of a giant shampoo bottle for safety. The bottle wobbles, tips over, and releases a thick stream of shampoo onto the floor. She slides down the slippery shampoo trail like a water slide, barely avoiding a giant puddle.
+
+  Scene 5 — The Drain Escape
+  The water begins flowing rapidly toward the bathroom drain. She runs in the opposite direction as tiny waves chase her feet. At the last moment, she leaps onto a raised tile edge and grabs a small grout line, dangling dramatically above the rushing water.
+
+  Scene 6 — The Final Victory
+  She pulls herself onto a dry bathmat, exhausted but triumphant. Behind her, the shower suddenly releases one final giant splash that sends her flying forward onto the soft mat. She slowly lifts her head, gives the showerhead an angry look, and shakes her fist at it. End with a dramatic close-up of her soaked, furious face.
+
+  CAMERA AND VISUAL STYLE
+
+  - Cinematic macro close-ups emphasizing the tiny woman's scale against oversized bathroom objects.
+  - Low-angle tracking shots following her frantic escape.
+  - Fast whip pans, subtle handheld shake, and brief slow motion during major splashes and jumps.
+  - Realistic water droplets, splashes, wet surfaces, reflections, and slippery soap physics.
+  - Sharp focus on the character with beautiful background bokeh.
+  - Comedic timing, expressive facial reactions, and seamless transitions between action beats.
+  - Maintain consistent bathroom layout, lighting, character appearance, and object positions.
+
+  SOUND DESIGN
+
+  Use synchronized, exaggerated but realistic sound effects: shower valve click, thunderous rushing water, heavy splashes, slippery soap squeaks, shampoo bottle thud, wet sliding sounds, frantic footsteps, dramatic whooshes, and a final soft bathmat landing. Add playful, suspenseful instrumental background music that builds during the chase and ends with a funny musical sting.

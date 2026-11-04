@@ -1,0 +1,36 @@
+id: seedance-korean-folk-horror-candle-exorcism
+title:
+  en: Candlelit Korean exorcism ritual with a possessed woman
+  zh: 韩屋烛影下的驱邪仪式，被附身的女子
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- folk-horror
+- korean
+- ritual
+- candlelight
+source:
+  name: '@doctorwasif on X'
+  url: https://x.com/doctorwasif/status/2097533759944090052
+  credit: doctorwasif
+  captured: '2026-11-03'
+  posted: '2026-09-09'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/doctorwasif/status/2097533759944090052
+notes:
+  en: Numbered 4-second beats with timestamps give the model a clear escalation from illness to ritual to aftermath. The character lock line plus a fixed style block keeps the protagonist, her outfit, and the dark wooden interior steady across the shots.
+  zh: 按 4 秒一段编号的时间轴，写出从发病到仪式再到收尾的递进结构，便于模型控制节奏。开头的角色一致性指令加上固定的风格段，使主角的脸、服装和昏暗木屋的光影在各镜头之间保持稳定。
+prompt: |
+  30-sec cinematic Korean folk-horror ritual. Keep the Word character’s face and outfit consistent throughout.
+
+  1. 0–4s: Word character kneels pale and weak in a dim traditional Korean house; worried family, candles, incense, shaman preparing the ritual.
+  2. 4–8s: Salt circle and talismans surround her; candlelight flickers as her eyes twitch and fingers convulse.
+  3. 8–12s: Her head snaps unnaturally; guttural inhuman voice, dark veins spreading, body twisting as the ritual intensifies.
+  4. 12–16s: Eyes turn black; shaman chants frantically and throws rice/salt; her body convulses violently.
+  5. 16–20s: She rises unnaturally; shaman presses a burning talisman to her forehead as wind tears through the closed room.
+  6. 20–24s: Talisman burns, flames surge, she collapses and becomes completely still.
+  7. 24–27s: Her eyes reopen human; family rushes to her in relief while the exhausted shaman watches.
+  8. 27–30s: Wide aftermath: scattered salt, burnt talismans, melted candles. One intact talisman emits faint dark smoke, leaving an unsettling unresolved ending.
+
+  Style: cinematic Korean folk horror, dark wooden interior, warm candlelight, deep shadows, tense atmosphere, realistic, unsettling, dramatic camera movement.

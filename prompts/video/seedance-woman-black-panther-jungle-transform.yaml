@@ -1,0 +1,27 @@
+id: seedance-woman-black-panther-jungle-transform
+title:
+  en: Woman in black bodysuit standing in jungle
+  zh: 身穿黑色紧身衣的女子站在丛林中
+model: Seedance 2.5
+mode: text-to-video
+category: vfx
+tags:
+- transformation
+- panther
+- jungle
+- morph
+source:
+  name: '@itsSaira_1 on X'
+  url: https://x.com/itsSaira_1/status/2106596983565898079
+  credit: itsSaira_1
+  captured: '2026-11-03'
+  posted: '2026-10-04'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/itsSaira_1/status/2106596983565898079
+notes:
+  en: The prompt is a timed beat sheet, moving from a walk to an eye close up, an overhead fall, paw close ups and a final face close up, so each shot has a clear place in the morph. Shallow depth of field and a negative prompt keep the transformation sharp and free of distortion.
+  zh: 提示词按时间顺序写成分镜，依次是走动、眼部特写、俯拍倒地、爪子特写和最后的豹脸特写，让每个镜头在变身中都有明确位置。浅景深和负面提示词用来保持画面清晰，避免畸变。
+prompt: |
+  Cinematic realistic jungle scene, misty rainforest, soft natural light. A tall woman with long black hair in a glossy black bodysuit walks forward, then crouches low. Extreme close-up of her eyes turning from brown-green to glowing yellow-green with slit pupils. Overhead shot: her body bends forward onto the leaf-covered ground as a black tail appears. Close-up of huge black paws with sharp claws pressing into dry leaves. Final close-up of a black panther's face with glowing green eyes staring at the camera. Smooth morph transformation, shallow depth of field, 4K, ultra detailed. Negative: blurry, deformed, extra limbs, text, watermark, cartoon.
+
+  #AIArt #AIVideo #AITransformation #CinematicAI #VisualStorytelling

@@ -1,6 +1,725 @@
 # 电影感场景与短片
 
-[返回目录](../../README_zh.md) · 全部 125 条 · [1](video-cinematic.md) · **2**
+[返回目录](../../README_zh.md) · 全部 150 条 · [1](video-cinematic.md) · **2**
+
+<a id="seedance-fairground-ice-cream-nose-tease"></a>
+### 夕阳下女孩走向游乐场冰淇淋摊
+
+<a href="https://x.com/sophiaparkerr_/status/2096542775709692255"><img src="../../previews/seedance-fairground-ice-cream-nose-tease.jpg" width="360"></a>
+
+按时间段（0到3秒、3到6秒等）分镜，把一个逐步升级的恶作剧拆成连续镜头；结尾的 IMPORTANT 段锁定发箍、服装、道具和场景在切换中保持一致。夕阳逆光、浅景深、云台推拉等摄影术语让画面更接近真人实拍，而不是卡通动作。
+
+Seedance 2.5 · 文生视频 · 出处: [@sophiaparkerr_ on X](https://x.com/sophiaparkerr_/status/2096542775709692255) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`comedy`](tags.md#tag-comedy) [`amusement-park`](tags.md#tag-amusement-park) [`character-consistency`](tags.md#tag-character-consistency) [`shot-list`](tags.md#tag-shot-list)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+CHARACTER:
+A young woman wearing a cute, stylish amusement-park outfit with a clearly visible Mickey Mouse ears headband. Keep the headband consistent throughout the entire video. She is excited, playful, and expressive.
+A cheerful Turkish ice cream vendor stands behind a traditional Turkish ice cream stall, holding a long metal ice cream paddle.
+
+0–3 SEC — ORDER
+Start with a cinematic wide shot of the colorful amusement park, then smoothly move toward the Turkish ice cream stall.
+
+The girl approaches the counter, smiling excitedly. Her Mickey Mouse ears headband is clearly visible. She points toward the ice cream.
+The vendor prepares a cone with a scoop of ice cream and extends it toward her.
+
+3–6 SEC — THE FIRST TEASE
+Cut to a medium shot.
+
+The girl eagerly reaches for the cone.
+
+Just as she is about to grab it, the vendor smoothly pulls the ice cream away with the long paddle.
+She looks at him in surprise.
+
+He smiles mischievously and offers it again.
+
+6–9 SEC — MORE TEASING
+She reaches again.
+
+The vendor smoothly moves the cone from left to right, then slightly upward, always just out of reach.
+
+The girl follows the cone, laughing and becoming increasingly determined.
+
+Keep the interaction fluid, realistic, and playful, with natural body movement and timing.
+9–11 SEC — THE NOSE TRICK
+The vendor finally brings the ice cream toward her.
+
+She confidently leans forward, expecting to receive it.
+
+Instead, he gently places a small dab of ice cream on the tip of her nose.
+
+Close-up on her shocked expression.
+
+She pauses, looks cross-eyed toward the ice cream on her nose, then looks back at the vendor with a playful annoyed expression.
+11–15 SEC — SHE WINS
+Before the vendor can tease her again, she quickly grabs the cone from the paddle.
+
+She successfully gets the ice cream.
+
+The vendor laughs and raises his hands in playful defeat.
+
+She proudly holds up the cone, smiles toward the camera, wipes the ice cream from her nose, and takes a happy bite.
+
+CINEMATOGRAPHY:
+Photorealistic live-action, premium cinematic quality, warm golden-hour lighting, natural skin texture, realistic facial expressions, shallow depth of field, soft background bokeh, subtle anamorphic lens characteristics, natural motion blur, smooth gimbal movement, cinematic push-ins and tracking shots, realistic amusement-park atmosphere.
+
+IMPORTANT:
+Keep the Mickey Mouse ears headband clearly visible and consistent throughout the scene. Maintain consistent faces, wardrobe, hairstyle, ice cream cone, vendor paddle, and environment. All movements must be smooth and physically realistic. No exaggerated cartoon movement, no 3D animation, no jerky motion, no teleporting, no object duplication, and no unnatural hand movements.
+```
+
+</details>
+
+<a id="seedance-favorite-song-street-vibe"></a>
+### 城市街头男子听到最爱歌曲
+
+<a href="https://x.com/AIwithZeeshi/status/2095374122674991259"><img src="../../previews/seedance-favorite-song-street-vibe.jpg" width="360"></a>
+
+提示词按时间顺序写出动作节奏（听到歌曲、放慢脚步、微笑、边走边轻摇），为模型提供清晰的动作走向。镜头指令也很具体：从背后稳定跟拍，并带轻微手持晃动。
+
+Seedance 2.5 · 文生视频 · 出处: [@AIwithZeeshi on X](https://x.com/AIwithZeeshi/status/2095374122674991259) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`pov`](tags.md#tag-pov) [`street-scene`](tags.md#tag-street-scene) [`realistic-motion`](tags.md#tag-realistic-motion) [`tracking-shot`](tags.md#tag-tracking-shot)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+POV — Your Favorite Song Starts Playing in Public
+
+A young man walks through a busy city sidewalk when he suddenly hears his favorite song playing from a nearby café. He recognizes it instantly, slows down, smiles, and starts subtly vibing to the rhythm while pretending to keep walking normally.
+
+The entire sequence follows realistic human behavior and accurate physics, including natural walking biomechanics, weight distribution, gravity, inertia, momentum, friction, foot-to-ground contact, realistic pedestrian movement, clothing dynamics, hair movement, and natural interactions between people and the environment.
+
+Ultra-realistic visuals, cinematic documentary style, natural late-afternoon lighting, realistic skin and clothing textures, smooth stabilized tracking, subtle handheld camera motion, realistic depth of field, natural focus pulls, physically accurate shadows and reflections, consistent character identity, authentic urban environment, natural colors, subtle film grain, and 4K cinematic quality.
+
+Would you be able to resist vibing to your favorite song in public? 
+
+#Seedance25 #WaveSpeedAI #AIVideo #CinematicAI #AIStorytelling #DailyLife #POV #Relatable #MusicLovers #GenerativeAI
+```
+
+</details>
+
+<a id="seedance-flaming-wok-chef-performance"></a>
+### 厨师翻动烈焰炒锅与蔬菜
+
+<a href="https://x.com/AynahhX/status/2102946546035945875"><img src="../../previews/seedance-flaming-wok-chef-performance.jpg" width="360"></a>
+
+提示词把15秒片段写成用箭头连接的逐拍分镜，明确指定切到特写和环绕运镜，让动作有清晰的先后顺序。结尾加上无字幕、无标志、无水印的说明，保证画面干净。
+
+Seedance 2.5 · 文生视频 · 出处: [@AynahhX on X](https://x.com/AynahhX/status/2102946546035945875) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`3d-animation`](tags.md#tag-3d-animation) [`cooking`](tags.md#tag-cooking) [`restaurant`](tags.md#tag-restaurant) [`camera-movement`](tags.md#tag-camera-movement)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 15-second cinematic 3D animated cooking sequence inside a professional modern restaurant kitchen. Show a young male chef wearing a white chef jacket and red apron confidently cooking with a large black wok. Start with a medium shot of the chef tossing the wok with a serious, focused expression → cut to a dramatic close-up as flames burst from the pan while he continues cooking → show colorful vegetables including carrots, red bell peppers and bok choy flying dynamically through the air as he flips the wok → camera moves around the chef as he skillfully catches the ingredients back into the pan → finish with a close-up of the chef plating the freshly cooked colorful vegetables onto a clean white plate with glossy sauce. Warm cinematic restaurant lighting, realistic fire and smoke, detailed food textures, smooth character animation, natural hand and body movement, dynamic camera angles, cinematic depth of field, vibrant colors, polished high-end 3D animation, expressive facial animation, satisfying cooking-action atmosphere. No text, subtitles, logos or watermark.
+```
+
+</details>
+
+<a id="seedance-flower-field-flashback-memory"></a>
+### 花田中的女子沉入童年回忆
+
+<a href="https://x.com/AIwithWania/status/2102283267957506141"><img src="../../previews/seedance-flower-field-flashback-memory.jpg" width="360"></a>
+
+参考图锁定人物、服装和色调，每个时间段都重复这些约束，保证切换前后画面一致。回忆段落在相同花田中用相同花冠做匹配切换，让时间跳转清晰可读。
+
+Seedance 2.5 · 图生视频 · 出处: [@AIwithWania on X](https://x.com/AIwithWania/status/2102283267957506141) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`flashback`](tags.md#tag-flashback) [`golden-hour`](tags.md#tag-golden-hour) [`reference-image`](tags.md#tag-reference-image) [`memory`](tags.md#tag-memory)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+-
+
+Use the uploaded reference image as the visual base. Maintain the same characters, same golden-hour flower field setting, same wardrobe, same color grading (warm gold, soft pink, dreamy sunset light) throughout. Do not change the characters' appearance, clothing, or the location.
+
+- **0:00–0:01** — A woman with long curly brown hair, wearing a white flowing dress and a flower crown, runs through a dreamy field of yellow, white, and pink flowers, trying to catch up to someone ahead of her. A distant fairytale castle is visible on the horizon.
+- **0:01–0:03** — She reaches out and gently places her hand on the shoulder of a man ahead of her, who is dressed in medieval knight armor with a dark red cloak.
+- **0:03–0:04** — Close-up on her face looking up, windswept hair, flowers in her crown catching the light — in this moment, the world around her begins to fade into a memory.
+- **0:04–0:06** — The scene transitions into a flashback: a little girl with the same curly brown hair and flower crown reaches out and gently touches the shoulder of a little boy in front of her, both standing in the same flower field.
+- **0:06–0:07** — Close-up of the little boy turning to look at her with a soft, curious expression.
+- **0:07–0:09** — The little boy quietly turns away and starts walking forward, away from her, through the flowers.
+- **0:09–0:10** — The little girl is left behind, her small hand still reaching out toward him.
+- **0:10–0:13** — Cut back to the present: the woman feels the same pain, holding her hand to her heart as the memory fades away.
+- **0:13–0:14** — The knight continues walking forward, emotionally distant, leaving her behind once again.
+- **0:14–0:15** — She kneels down in the flower field, overwhelmed with heartbreak, face in her hands — some moments stay with us forever.
+
+**End title card:** "Some moments take you back forever..." with theme tags: Love | Memory | Time | Always
+```
+
+</details>
+
+<a id="seedance-glass-mall-friends-emerald-skirt-film"></a>
+### 三位朋友在玻璃顶奢华购物中心
+
+<a href="https://x.com/AIwithWania/status/2108420649467457557"><img src="../../previews/seedance-glass-mall-friends-emerald-skirt-film.jpg" width="360"></a>
+
+按时间段拆分的分镜表让每一段都有独立的镜头指令，从手持行走、面料微距到镜前转身，并用统一的人物、发型和服装锁定句贯穿全片，保持三人前后一致。末尾的负面清单针对面部、手部和走路姿态，减少常见变形。
+
+Seedance 2.5 · 文生视频 · 出处: [@AIwithWania on X](https://x.com/AIwithWania/status/2108420649467457557) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`fashion`](tags.md#tag-fashion) [`handheld-camera`](tags.md#tag-handheld-camera) [`slow-motion`](tags.md#tag-slow-motion) [`shopping`](tags.md#tag-shopping)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+-
+
+The overall mood should feel editorial, feminine, playful, polished and effortlessly chic — not motivational, not overly commercial, and not artificial.
+
+Opening — 0–5 seconds:
+Three fashionable female friends stroll through an upscale contemporary shopping destination, surrounded by luminous glass architecture, refined boutiques and warm ambient lighting. They exchange amused glances and effortless smiles, moving naturally together. Use an elegant handheld camera with subtle cinematic movement.
+
+5–10 seconds:
+Cut into a sophisticated designer-style boutique. One woman slowly browses a rack of luxurious garments while her friends watch, tease her playfully and react with genuine excitement. Include beautiful macro shots of textured fabrics, delicate embellishments, satin, sequins and refined tailoring.
+
+10–17 seconds:
+Show the main woman trying on an elegant fashion ensemble: a sophisticated cream embellished fitted top with a flowing emerald-green floor-length skirt. She emerges from the fitting area, pauses before a large mirror and turns naturally, allowing the skirt to move beautifully. Capture fabric movement, reflections and subtle expressions.
+
+17–23 seconds:
+Show intimate shopping details between the three women: one adjusting an accessory, another holding up a handbag, playful reactions, soft laughter and spontaneous friendship moments. Make the chemistry feel candid rather than staged.
+
+23–30 seconds:
+End with the three women leaving the boutique together with elegant shopping bags. The woman wearing the emerald-green skirt walks between her friends. Use a graceful tracking shot followed by a subtle slow-motion moment as the fabric moves while they walk away.
+
+Visual direction: luxury fashion editorial, sophisticated color grading, warm cinematic lighting, realistic skin texture, natural facial expressions, realistic hands, physically accurate fabric movement, shallow depth of field, refined highlights, premium commercial cinematography, subtle lens flare, smooth camera transitions, photorealistic details.
+
+Maintain exact character identity, facial features, hairstyles, body proportions and wardrobe continuity throughout the entire sequence. Keep all three women visually consistent from beginning to end.
+
+Avoid distorted faces, extra fingers, malformed hands, duplicated people, unnatural walking, warped clothing, flickering details, inconsistent hairstyles, floating objects, text, captions, watermarks or logos.
+
+Aspect ratio: 16:9 
+Duration: 30 seconds.
+Style: cinematic luxury fashion film.
+```
+
+</details>
+
+<a id="seedance-golden-foil-gondola-sunset-to-night"></a>
+### 金箔质感的贡多拉黄昏渐入夜色
+
+<a href="https://x.com/churvikv/status/2112230364508827925"><img src="../../previews/seedance-golden-foil-gondola-sunset-to-night.jpg" width="360"></a>
+
+开头用固定的风格短语（金箔纹理质感，保留金箔纹理）锁定材质，使整段画面保持一致，之后按时间顺序列出各个节拍：天色转换、窗灯逐一亮起、船夫渐渐远去消失在夜色中。注明 10 秒时长，并规定划桨节奏平稳，让运动缓慢清晰。
+
+Seedance 2.5 · 文生视频 · 出处: [@churvikv on X](https://x.com/churvikv/status/2112230364508827925)
+
+[`gold-foil`](tags.md#tag-gold-foil) [`sunset-transition`](tags.md#tag-sunset-transition) [`gondola`](tags.md#tag-gondola) [`style-lock`](tags.md#tag-style-lock)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Textured golden art style, gold foil texture preserved. The golden sky gradually transitions from bright morning gold to deep sunset bronze. Shadows lengthen across the water. Windows light up one by one as evening approaches. Gondolier rows at a normal steady pace, moving from the center toward the distant horizon, gradually becoming smaller and eventually disappearing into the darkening background as night falls. Seagulls return to roost. The clock tower silhouette becomes more pronounced against the darkening sky. Water reflections shift from bright to warm amber. Peaceful time progression, 10 seconds.
+```
+
+</details>
+
+<a id="seedance-halloween-pumpkin-village-chase"></a>
+### 午夜雾中南瓜小径上的黑裙女子
+
+<a href="https://x.com/AIwithSynthia/status/2115064426315530749"><img src="../../previews/seedance-halloween-pumpkin-village-chase.jpg" width="360"></a>
+
+提示词按时间顺序写成一连串剧情节点，并固定了人物外观描述，使同一女子在各镜头中保持一致。体积雾和橙色戏剧光等具体光影词定下氛围，明确排除卡通或动漫风格则保证画面是真人实拍质感。
+
+Seedance 2.5 · 文生视频 · 出处: [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2115064426315530749) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`halloween`](tags.md#tag-halloween) [`horror`](tags.md#tag-horror) [`pumpkin`](tags.md#tag-pumpkin) [`fog`](tags.md#tag-fog)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create an ultra-realistic Halloween horror video starring a beautiful young adult woman in a fitted black dress and black boots.
+She walks through a haunted village at midnight, surrounded by glowing jack-o'-lanterns, twisted trees, and thick fog.
+She discovers a giant black pumpkin beside an abandoned house and cautiously touches its surface.
+Its eyes suddenly glow orange as every pumpkin around her turns toward her.
+Black smoke erupts from the ground, and a terrifying pumpkin-headed monster rises behind her.
+She turns around in terror and runs through the creepy pumpkin-lined pathway.
+Bats swarm overhead, candles flicker, and ghostly shadows chase her through the fog.
+She stumbles and discovers the enormous monster standing directly behind her.
+The creature opens its jagged mouth and lunges toward the camera for a terrifying jump scare.
+Use cinematic tracking shots, realistic facial expressions, detailed pumpkins, dramatic orange lighting, and volumetric fog.
+Maintain consistent character appearance, natural movement, escalating suspense, and AAA live-action horror realism.
+No cartoon, anime, or stylized animation.
+```
+
+</details>
+
+<a id="seedance-hanfu-woman-misty-lake-horse-journey"></a>
+### 白衣汉服女子穿行雾湖与草原
+
+<a href="https://x.com/sandmrk/status/2114898254651613511"><img src="../../previews/seedance-hanfu-woman-misty-lake-horse-journey.jpg" width="360"></a>
+
+按时间码逐镜写清构图与运动，每镜为固定画面并以硬切衔接，并在每镜重复同一角色描述以锁定身份。风格段给出雾气、斜射光与青蓝琥珀对置的色调，并用明确禁令压制塑料感与游戏感。
+
+Seedance 2.5 · 文生视频 · 出处: [@sandmrk on X](https://x.com/sandmrk/status/2114898254651613511)
+
+[`multi-shot`](tags.md#tag-multi-shot) [`oriental`](tags.md#tag-oriental) [`hanfu`](tags.md#tag-hanfu) [`misty-lake`](tags.md#tag-misty-lake) [`horse-riding`](tags.md#tag-horse-riding)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+东方国风半写实CG绘本质感；雾气弥漫与斜射天光；真实水面倒影、衣料垂坠、马匹毛发与奔跑动态质感；胶片级青蓝与琥珀对置色调；空灵、悠远、如梦；禁塑料感、禁游戏CG感
+白衣女子（白衣汉服，长发松挽，宽大衣袂层层垂落）：全片主角，各镜沿用同一描述，不得变脸变装
+蓝衣骑者（深蓝衣袍，身形挺拔）：仅结尾草原镜出现，骑白马
+白马（通体雪白，鬃毛长而飘）：雾湖镜与草原镜共用同一匹
+场景组：雾湖与秋林、月洞门庭院、莲塘、竹影小舟、青山花坡、纱帘竹丛、金色草原
+全片一条旅程线：泛舟、立门、采莲、偃卧、奔跑、帘影、策马；镜与镜硬切，每镜是一幅独立的画
+空间逻辑：人在景中始终保持小比例，山水是主角；唯一例外是竹影小舟与纱帘两镜的近景
+斜射的晨昏天光穿过雾气，暗部被雾抬亮不死黑；青蓝的水与琥珀的陆对置
+音频：国风器乐配乐流淌全片，水声、风声、马蹄声随镜而至；无对白、无旁白
+情绪弧线：惊奇、静观、亲近、安眠、释放、含情、辽远、纵情告别
+
+0–2.8秒大远景缓慢漂移
+雾湖开场：镜面般的湖上雾气分层，两只小舟各载一个白衣人影远远漂着，左右金黄与深红的秋树垂入画面作框，倒影在水里微微晃；白衣女子骑白马自雾深处踏水而行，衣袂与马鬃拂过水面，马行水上不沉不溅，雾里另有白色鹿形身影若隐若现
+开场确立：梦境逻辑、人物小比例、雾与倒影的质感基调
+
+2.8–4.9秒全景固定
+白墙月洞门：圆门正中立着白衣女子，成一幅剪影，门内是木格与远山，门侧一个小小的坐影作伴；一枝花树自左上斜入，人只有呼吸与衣袂的微动，影子落在墙面上
+延续：构图对称、庭院静止、人物不走出圆门
+
+4.9–8.2秒俯瞰全景缓慢跟移
+莲塘自正上方俯瞰：翡翠色莲叶铺满水面，粉白莲花点缀其间；一条窄长木舟横穿画面，白衣女子立在船头，白衣拖尾铺在船板上，她俯身探向莲花，摘下一朵捧在手里，船尾有人摇橹，水面星光细碎闪烁
+延续：俯瞰角度全程不变，船行方向不变，莲叶海不稀疏
+
+8.2–11.1秒近景固定
+竹影小舟内：木栏小舟里层层铺着白色毛皮与织物，白衣女子偃卧其中闭目小憩，一只手垂在舟边；前景竹叶虚化轻晃，斑驳光斑落在毛皮与衣料上，呼吸可见
+延续：睡意与安宁，人物全程不起身、不睁眼
+
+11.1–14秒远景航拍跟移
+青山花坡：起伏的绿丘带着梯田般的坡纹，粉白花树疏疏点缀；白衣女子披深色披风在坡间奔跑，双袖张开，披风在身后猎猎，人自画面一侧横贯而过，始终只占一小点
+延续：小比例尺度，奔跑不腾空不飞翔，花树不增不减
+
+14–16.7秒近景固定
+纱帘竹丛间：白衣女子半隐在白色纱帘之后，右侧竹叶探入画面；阳光透过竹叶把斑驳碎光落在她的侧脸与衣上，她含笑微侧首，发间光影缓缓浮动，帘子只轻轻飘
+延续：斑驳光影是本镜主角，笑意含蓄不放大
+
+16.7–18.3秒远景固定
+金色草原小径：干草金黄，一条小径自画面中线向远方收去，两个小小人影沿径缓行；天空里群鸟横贯成河，偶有一两只大鸟自镜头前掠过，翅膀遮住一瞬画面
+过渡：由静转动，辽远感拉满，为策马蓄势
+
+18.3–22.8秒全景侧跟随后持续拉远
+草原策马：蓝衣骑者伏身骑白马全速疾驰，四蹄腾空，侧面跟拍下枯金草浪向后倒退；约两秒后镜头开始耐心拉远，马与人一点点变小，草原与天空一点点变大，至地平线居中处只剩一个仍在移动的小点，画面就停在这里，不淡出
+收束：全片唯一动力镜；速度先给足，拉远必须走完，结尾留白
+
+严禁任何形式的对白与旁白；无文字、无水印、无现代元素；无人物放大占满画面（近景两镜除外）；无雾气消散、无倒影消失；无马匹沉水、游泳或马腿穿模；无策马降为慢跑或小跑；无拉远中途停住、无结尾提前淡出黑场；无俯瞰角度漂移、无莲叶变陆地；无纱帘变实墙、无竹影光斑频闪；无鸟群变黑点噪点；无草原变沙漠；无镜头内叠化；无身份漂移、无人物复制
+```
+
+</details>
+
+<a id="seedance-haunted-castle-halloween-pumpkins"></a>
+### 万圣节南瓜环绕的鬼屋城堡夜景
+
+<a href="https://x.com/juliaevee/status/2113134380759523628"><img src="../../previews/seedance-haunted-castle-halloween-pumpkins.jpg" width="360"></a>
+
+单一的推镜头朝向城堡，结尾加一个全景收尾，形成清晰的镜头走向。提示词明确写出灯光、雾气和场景细节，并加上无人物、场景一致的约束，使整段30秒画面保持稳定。
+
+Seedance 2.5 · 文生视频 · 出处: [@juliaevee on X](https://x.com/juliaevee/status/2113134380759523628)
+
+[`halloween`](tags.md#tag-halloween) [`haunted-castle`](tags.md#tag-haunted-castle) [`pumpkins`](tags.md#tag-pumpkins) [`night-scene`](tags.md#tag-night-scene)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 30-second ultra-realistic cinematic Halloween video of a majestic haunted castle glowing with warm orange lights, surrounded by jack-o’-lanterns, twisted trees, blue fog, and wet reflective cobblestones. The camera slowly moves toward the castle as autumn leaves drift, candles flicker, and bats fly across the moonlit sky. Elegant glowing text appears: “Happy Halloween.” End with a dramatic wide shot of the illuminated castle. Photorealistic details, smooth camera movement, volumetric fog, spooky magical atmosphere, 4K, no people, no distortion, consistent scenery, vertical 9:16, exactly 30 seconds.
+```
+
+</details>
+
+<a id="seedance-istanbul-fpv-sunrise-travel-film"></a>
+### 伊斯坦布尔清真寺穹顶升起于晨雾之上
+
+<a href="https://x.com/Naiknelofar788/status/2106439652278411435"><img src="../../previews/seedance-istanbul-fpv-sunrise-travel-film.jpg" width="360"></a>
+
+提示词按时间段拆分为多个镜头，每段只指定一种运镜和一种转场（如 FPV 俯冲、延时摄影或匹配剪辑），让模型按顺序执行分镜，而不只是营造氛围。开场的日出薄雾和伊斯坦布尔上空的俯冲等明确描述为首段提供了视觉锚点。
+
+Seedance 2.5 · 文生视频 · 出处: [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2106439652278411435)
+
+[`fpv-drone`](tags.md#tag-fpv-drone) [`istanbul`](tags.md#tag-istanbul) [`travel`](tags.md#tag-travel) [`timed-shots`](tags.md#tag-timed-shots)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 30-second ultra-realistic cinematic FPV travel film showcasing the futuristic energy, natural beauty, and cultural character of TURKEY. Blend cyberpunk technology with Istanbul’s historic architecture, vibrant streets, Mediterranean and Aegean coastlines, and spectacular night imagery. Use extreme-speed FPV drone movement, hyperlapse, seamless spatial transitions, and dense but controlled flash-cut editing. 8K cinematic realism, photorealistic environments, realistic crowds and vehicles, dramatic lighting, smooth motion blur only during rapid transitions, premium commercial cinematography. No text, logos, subtitles, or watermarks.
+
+[0–6s] — CITY FROM THE SKY
+Begin above Istanbul at sunrise, surrounded by mist and clouds. An FPV drone dives rapidly between modern skyscrapers before sweeping toward the Bosphorus. The scene transitions from warm daylight into blue-hour neon as the city below comes alive. Cars create flowing light trails while the camera races through vibrant streets, revealing Istanbul’s futuristic energy beside historic architecture.
+
+[6–12s] — TECHNOLOGY & HISTORY
+Use rapid cinematic match cuts: a modern tram glides through the city, instantly transitioning into a close-up of a traditional Turkish coffee being prepared; a speeding ferry cuts across the Bosphorus, followed by a dramatic aerial reveal of the Hagia Sophia and Blue Mosque. Turkish street life, glowing shopfronts, crowded avenues, and modern architecture flash together in rhythmic visual transitions.
+
+[12–18s] — SPATIAL FOLD TO THE COAST
+A moving object passes directly across the lens and becomes a seamless transition into the Turkish coastline. The camera bursts over crystal-clear turquoise water near Antalya and races along dramatic Mediterranean cliffs. Speedboats cut through the sea, white spray exploding behind them. Transition toward Cappadocia as hot-air balloons suddenly fill the sky above the surreal rock formations.
+
+[18–24s] — TURKEY IN MOTION
+The camera dives between Cappadocia’s towering rock formations and rapidly transitions to a bustling Istanbul street at golden hour. Match-cut between a Turkish flag waving in the wind, a crowded bazaar, traditional architecture, modern city traffic, and people enjoying the coastline. Use fast but visually coherent transitions that emphasize Turkey’s contrast between ancient heritage and modern life.
+
+[24–30s] — THE GRAND FINALE
+Night falls instantly. The camera rises above Istanbul and reveals the Bosphorus illuminated by thousands of city lights. A massive coordinated drone light show forms elegant abstract shapes above the skyline while boats move across the glowing water below. The camera pulls rapidly backward and upward into an enormous aerial panorama, revealing Istanbul stretching across both sides of the Bosphorus.
+
+End with a powerful wide cinematic shot of the illuminated city, water, bridges, historic landmarks, and night sky.
+
+STYLE: ultra-realistic 8K cinematic travel film,
+```
+
+</details>
+
+<a id="seedance-japanese-lab-infected-silence"></a>
+### 实验室老师让学生安静，感染者逼近
+
+<a href="https://x.com/ElsaSofia__AI/status/2100903709492613245"><img src="../../previews/seedance-japanese-lab-infected-silence.jpg" width="360"></a>
+
+提示词按时间顺序写成一连串动作节点，每个节点都有具体的声音或画面线索，例如柜子里的刮擦声和掉落的烧杯，让模型有明确的节奏可依。只保留环境声的音频要求，以及明确列出的排除项，使画面保持真实，没有配乐。
+
+Seedance 2.5 · 文生视频 · 出处: [@ElsaSofia__AI on X](https://x.com/ElsaSofia__AI/status/2100903709492613245) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`horror`](tags.md#tag-horror) [`japanese-school`](tags.md#tag-japanese-school) [`sound-cues`](tags.md#tag-sound-cues) [`camera-push`](tags.md#tag-camera-push) [`photorealistic`](tags.md#tag-photorealistic)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a short, ultra-realistic cinematic horror-action sequence set inside a quiet Japanese high-school science laboratory during an afternoon class. A female science teacher is demonstrating an experiment when the lights suddenly flicker and every digital display in the room turns off at the same time. A strange scratching sound comes from inside a locked storage cabinet.
+
+The teacher cautiously approaches the cabinet, but before she can open it, the glass windows violently shake. One student notices dark handprints appearing on the outside of the glass even though there is nobody there. The classroom door suddenly slams shut and locks itself.
+
+The teacher tells everyone to stay calm and uses a metal laboratory stand to force the door open. Just as the students begin escaping into the hallway, one of the emergency lights reveals several infected figures standing motionless at the far end of the corridor.
+
+The students rush back into the laboratory and quickly push tables against the entrance. The teacher discovers that the infected are reacting to sound, so everyone becomes completely silent. A student accidentally drops a glass beaker.
+
+The sound echoes through the hallway.
+
+All the infected figures slowly turn toward the laboratory.
+
+The teacher raises one finger, silently telling everyone not to move. The camera slowly pushes toward the barricaded door as dozens of footsteps begin approaching from outside. The screen cuts to black just before the door starts shaking violently.
+
+Photorealistic live-action horror, authentic Japanese high-school science laboratory, realistic teenage students and teacher, natural handheld cinematography, subtle practical effects, believable physical movement, atmospheric fluorescent lighting, realistic shadows, tense pacing, authentic facial reactions, cinematic depth of field, muted horror color grading, diegetic environmental sound only. No music, narration, excessive gore, graphic injuries, animation, anime, cartoon style, artificial CGI appearance, distorted anatomy, subtitles, text, logos, or watermark.
+```
+
+</details>
+
+<a id="seedance-korean-cafeteria-tray-walk"></a>
+### 学生端着午餐托盘穿过热闹的韩国食堂
+
+<a href="https://x.com/Zoyavelle/status/2100810895052165195"><img src="../../previews/seedance-korean-cafeteria-tray-walk.jpg" width="360"></a>
+
+提示词按顺序写成多镜头分镜，并固定了人物服装描述和明确的切镜指令，让主角在各镜头中保持一致。镜头焦段、柔和虚化和轻微手持晃动等摄影语言，引导画面接近韩剧的质感。
+
+Seedance 2.5 · 文生视频 · 出处: [@Zoyavelle on X](https://x.com/Zoyavelle/status/2100810895052165195) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`korean-drama`](tags.md#tag-korean-drama) [`school-cafeteria`](tags.md#tag-school-cafeteria) [`multi-shot`](tags.md#tag-multi-shot) [`photorealistic`](tags.md#tag-photorealistic)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a cinematic, photorealistic Korean high-school cafeteria scene during lunchtime. A beautiful young Korean female student, around 18–20 years old, with long straight black hair, fair natural skin, delicate facial features, and a calm expressive face, walks through a large busy school cafeteria carrying a stainless-steel lunch tray.
+
+She wears a neat white short-sleeve school uniform shirt with a dark navy ribbon bow/tie, a navy pleated skirt, and a small school name tag. The cafeteria is filled with many Korean high-school students wearing matching white uniforms, sitting at long wooden tables and eating lunch.
+
+Opening shot: wide cinematic shot following the girl as she walks between crowded cafeteria tables carrying her tray. Bright fluorescent ceiling lights, large windows, realistic school cafeteria architecture, natural background activity, shallow depth of field.
+
+Cut to a medium close-up of the girl walking toward the camera, looking slightly surprised and opening her mouth as if speaking. Her black hair moves naturally while walking.
+
+Cut to a detailed close-up of the stainless-steel cafeteria tray being carried, containing Korean-style school lunch: white rice, fried chicken pieces, sausages, vegetables, side dishes, and red sauce. Another hand holding a spoon appears in the foreground.
+
+Top-down shot of the complete lunch tray placed on the table, showing separate metal compartments filled with rice, fried food, vegetables, and red soup/sauce.
+
+Show the busy cafeteria reaction: several male students suddenly look toward the girl with surprised and curious expressions while eating. Capture natural facial expressions and realistic reactions.
+
+A dramatic close-up of the girl looking directly toward the camera with a confident, slightly serious expression. Her long black hair frames her face, with realistic skin texture, detailed eyes, subtle makeup, and cinematic soft lighting. Background students and cafeteria lights are heavily blurred with natural bokeh.
+
+Show the girl approaching a seated male student and placing/serving the lunch tray near him. The students react naturally, looking surprised and confused. Finish with a wide rear shot of the girl walking away through the crowded cafeteria while carrying the tray, with rows of students visible on both sides.
+
+Visual style: ultra-realistic Korean school drama / K-drama cinematography, photorealistic human faces, realistic skin texture, natural body proportions, authentic Korean school cafeteria, cinematic composition, soft depth of field, realistic fluorescent lighting, subtle handheld camera movement, smooth cinematic transitions, detailed food textures, natural facial expressions, realistic motion, 4K, high detail, professional cinema camera, 35mm and 85mm lens look, natural color grading, atmospheric background blur.
+
+No text, no subtitles, no watermark, no logos, no distorted faces, no extra fingers, no unnatural body proportions, no cartoon or anime appearance.
+```
+
+</details>
+
+<a id="seedance-korean-coastal-coffee-lifestyle-film"></a>
+### 滨海城市里韩国女孩的咖啡日常
+
+<a href="https://x.com/aiwithaayat/status/2110600258871013510"><img src="../../previews/seedance-korean-coastal-coffee-lifestyle-film.jpg" width="360"></a>
+
+提示词按顺序列出镜头，从咖啡柜台到街头、海边栏杆再到黄金时刻的山坡，让25秒时长里有一条连贯的故事线。结尾集中写明镜头、颗粒、色调和情绪，使各个镜头保持统一的画面风格。
+
+Seedance 2.5 · 文生视频 · 出处: [@aiwithaayat on X](https://x.com/aiwithaayat/status/2110600258871013510) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`lifestyle`](tags.md#tag-lifestyle) [`cinematic`](tags.md#tag-cinematic) [`multi-shot`](tags.md#tag-multi-shot) [`coastal`](tags.md#tag-coastal) [`golden-hour`](tags.md#tag-golden-hour)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Created a 25 second video, beautiful Korean girls, cinematic lifestyle film set in a beautiful coastal city, capturing the peaceful and aesthetic moments of everyday life. Begin with a warm, cozy coffee shop scene featuring a barista serving a takeaway coffee on a wooden counter, followed by a cinematic reflection of a young Korean woman standing near a large glass window with soft city lights reflecting across the glass. Show close-up shots of her walking along a busy urban street, focusing on her sneakers stepping across the pavement, then transition to a wide low-angle shot of her standing in front of a striking modern architectural building, wearing a stylish beige trench coat, carrying a black shoulder bag, and looking peacefully toward the sky. Capture intimate side-profile shots of her holding a coffee cup beside a window, with natural sunlight illuminating her face and soft shadows creating a moody atmosphere. Transition smoothly to a beautiful seaside promenade where she stands beside a metal railing, holding her coffee and gazing at the sparkling blue ocean as a large cruise ship moves slowly in the background. Continue with breathtaking golden-hour shots of a beautiful Korean girl sitting on a lush green grassy hill overlooking the ocean, her long dark brown hair moving gently in the sea breeze, wearing a relaxed beige outfit and holding a takeaway coffee cup. Capture natural facial expressions, subtle movements, candid moments, and elegant close-ups of her face as she turns toward the camera. End with an expansive cinematic wide shot of the green coastal landscape, calm blue water, distant islands, and a cruise ship sailing peacefully along the horizon, with the girl appearing small against the beautiful scenery. Use photorealistic visuals, cinematic composition, smooth camera movements, shallow depth of field, natural skin texture, soft film grain, realistic lighting, warm golden-hour tones, muted earthy colors, subtle lens flares, and premium Korean fashion editorial aesthetics. The overall mood should feel peaceful, dreamy, elegant, emotional, and authentic, like a high-end Korean lifestyle film shot on a professional cinema camera, with seamless transitions, realistic motion, beautiful environmental details, and no artificial-looking faces or exaggerated movements.
+```
+
+</details>
+
+<a id="seedance-korean-elevator-zombie-reflection"></a>
+### 女子在电梯中看见感染的镜像
+
+<a href="https://x.com/AIwithSynthia/status/2105862212422074725"><img src="../../previews/seedance-korean-elevator-zombie-reflection.jpg" width="360"></a>
+
+按时间顺序写出开场、升级和揭示的分镜节拍，让模型保持连贯的一段式镜头。风格说明加负面提示词，可以稳定人脸与镜中倒影的一致性。
+
+Seedance 2.5 · 文生视频 · 出处: [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2105862212422074725) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`horror`](tags.md#tag-horror) [`zombie`](tags.md#tag-zombie) [`korean`](tags.md#tag-korean) [`elevator`](tags.md#tag-elevator)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create an ultra-realistic Korean zombie-horror sequence inside an old apartment elevator at night. A woman in a long golden light-cream one-piece dress enters alone, carrying a shopping bag. The elevator stops between floors, the lights flicker, and the floor indicator glitches to 13. A dark figure appears only in the mirror, whose reflection slowly becomes infected with pale skin, milky eyes, and dark veins. The mirror cracks as an infected hand reaches through. The doors open to a nonexistent dark floor where infected silhouettes rush toward her. She barely escapes as the doors slam shut. When the elevator reaches the 12th floor, she exits—but her reflection stays behind, smiles, then suddenly lunges toward the camera. Cut to black.
+
+Style: Ultra-realistic Korean zombie horror, claustrophobic elevator, cinematic handheld camera, flickering fluorescent lights, photorealistic skin, realistic reflections, tense atmosphere, dark shadows, natural facial expressions.
+
+Negative prompt: Cartoon, anime, stylized CGI, exaggerated gore, distorted anatomy, extra limbs, inconsistent face, unrealistic reflections, floating objects, text, subtitles, watermark.
+```
+
+</details>
+
+<a id="seedance-korean-folk-horror-candle-exorcism"></a>
+### 韩屋烛影下的驱邪仪式，被附身的女子
+
+<a href="https://x.com/doctorwasif/status/2097533759944090052"><img src="../../previews/seedance-korean-folk-horror-candle-exorcism.jpg" width="360"></a>
+
+按 4 秒一段编号的时间轴，写出从发病到仪式再到收尾的递进结构，便于模型控制节奏。开头的角色一致性指令加上固定的风格段，使主角的脸、服装和昏暗木屋的光影在各镜头之间保持稳定。
+
+Seedance 2.5 · 文生视频 · 出处: [@doctorwasif on X](https://x.com/doctorwasif/status/2097533759944090052) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`folk-horror`](tags.md#tag-folk-horror) [`korean`](tags.md#tag-korean) [`ritual`](tags.md#tag-ritual) [`candlelight`](tags.md#tag-candlelight)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+30-sec cinematic Korean folk-horror ritual. Keep the Word character’s face and outfit consistent throughout.
+
+1. 0–4s: Word character kneels pale and weak in a dim traditional Korean house; worried family, candles, incense, shaman preparing the ritual.
+2. 4–8s: Salt circle and talismans surround her; candlelight flickers as her eyes twitch and fingers convulse.
+3. 8–12s: Her head snaps unnaturally; guttural inhuman voice, dark veins spreading, body twisting as the ritual intensifies.
+4. 12–16s: Eyes turn black; shaman chants frantically and throws rice/salt; her body convulses violently.
+5. 16–20s: She rises unnaturally; shaman presses a burning talisman to her forehead as wind tears through the closed room.
+6. 20–24s: Talisman burns, flames surge, she collapses and becomes completely still.
+7. 24–27s: Her eyes reopen human; family rushes to her in relief while the exhausted shaman watches.
+8. 27–30s: Wide aftermath: scattered salt, burnt talismans, melted candles. One intact talisman emits faint dark smoke, leaving an unsettling unresolved ending.
+
+Style: cinematic Korean folk horror, dark wooden interior, warm candlelight, deep shadows, tense atmosphere, realistic, unsettling, dramatic camera movement.
+```
+
+</details>
+
+<a id="seedance-korean-washroom-zombie-chase"></a>
+### 白色吊带女子站在瓷砖公厕里
+
+<a href="https://x.com/AIwithSynthia/status/2103091393145282775"><img src="../../previews/seedance-korean-washroom-zombie-chase.jpg" width="360"></a>
+
+一张参考图锁定丧尸的脸、发型和服装，提示词按顺序写明剧情节点，并指定冷色日光灯与手持镜头。要求实拍特效和自然反应，让恐怖感更接近真实拍摄，而不是 CGI 效果。
+
+Seedance 2.5 · 参考生视频 · 出处: [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2103091393145282775) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`zombie-horror`](tags.md#tag-zombie-horror) [`korean`](tags.md#tag-korean) [`reference-image`](tags.md#tag-reference-image) [`handheld`](tags.md#tag-handheld) [`washroom`](tags.md#tag-washroom)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create an ultra-realistic Korean zombie-horror sequence inside a dim public washroom. Use << < image >>> as the exact reference for the zombie woman and keep her face, hair, body proportions and outfit consistent.
+
+A young woman enters the washroom and washes her hands, unaware that the zombie woman is watching her through the mirror. The zombie slowly reveals pale skin, dark veins, twitching fingers and completely black eyes before suddenly attacking her. She grabs the victim, pins her against the tiled wall, and chases her when she escapes toward the exit.
+
+The victim struggles to escape, but the zombie catches her again. Dark veins spread across the victim's neck and face as she convulses and collapses. Her eyes turn milky white and then black as she rises, now infected. The two infected women turn toward another person entering the washroom and suddenly charge at them.
+
+End with the washroom lights flickering as the infected women stand motionless beneath the fluorescent lights, staring directly into the camera.
+
+Style: photorealistic Korean zombie horror, claustrophobic tiled washroom, wet surfaces, cold fluorescent lighting, realistic skin, dark veins, terrifying eyes, unnatural but believable movements, handheld camera, practical-effects feel, natural reactions, no gore, no graphic injuries, no CGI look, no morphing, no duplicate characters, no distorted anatomy, no subtitles, no text, no watermark.
+```
+
+</details>
+
+<a id="seedance-lab-parasite-containment-breach"></a>
+### 科学家在隔离站操作带寄生体的玻璃舱
+
+<a href="https://x.com/AIwithSynthia/status/2101161634022474024"><img src="../../previews/seedance-lab-parasite-containment-breach.jpg" width="360"></a>
+
+把脸部、白大褂、牛仔裤和鞋子固定为不变的特征，让人物在每个节拍中保持一致。手持镜头配合从冷白荧光灯转为红色应急灯的光线变化，再加上玻璃碎裂、警报等声音提示，推动情绪递进。
+
+Seedance 2.5 · 文生视频 · 出处: [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2101161634022474024) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`zombie-horror`](tags.md#tag-zombie-horror) [`lab-setting`](tags.md#tag-lab-setting) [`handheld-camera`](tags.md#tag-handheld-camera) [`sound-design`](tags.md#tag-sound-design)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a photorealistic zombie-horror sequence inside a high-security research laboratory. The central character is a young adult Korean female scientist dressed in a clean white lab coat over a simple light-colored shirt, blue straight-leg jeans, and practical white sneakers. She has natural dark hair, minimal makeup, realistic skin texture, and believable proportions. Her face, hairstyle, lab coat, jeans, shoes, and body proportions must remain consistent throughout the entire sequence. Build the environment with steel machinery, specimen tables, glass containment chambers, computer monitors, harsh fluorescent lighting, and realistic laboratory details. Use grounded practical effects and physically believable movement with tense handheld camerawork.
+
+While she works at a containment station, a glass specimen chamber suddenly develops fractures and explodes, scattering glass across the floor as a small dark parasite escapes and attaches itself around her shoulder and neck. She stumbles backward, frightened, while dark veins gradually appear beneath her skin and spread upward across her neck and face. Her skin becomes noticeably pale and clammy, her fingers twitch, and violent tremors run through her body. Her terrified expression gradually disappears into a blank, emotionless stare as her eyes transform into an unnaturally deep obsidian black. She abruptly turns toward a nearby colleague and charges, forcing him behind a glass partition.
+
+She repeatedly strikes the glass while staring directly at him, her completely black eyes and pulsing dark veins clearly visible. Two more scientists enter and freeze when she suddenly becomes perfectly still, then slowly rotates her head toward them. Around the laboratory, additional containment chambers begin cracking as warning lights activate. Another infected creature breaks free, sending the scientists scrambling for emergency equipment. They use a powerful emergency strobe and fire extinguisher to disorient the creatures before pushing a heavy steel cart across the corridor and retreating behind a security door.
+
+The surviving scientists reach an emergency corridor and catch their breath as red warning lights wash over their exhausted faces. The sealed laboratory door violently shakes behind them. The camera gradually approaches its small observation window, revealing the infected woman standing motionless in the darkness, still wearing her white lab coat and blue jeans. Her pale face, prominent dark veins, and completely black eyes are visible through the glass. She slowly tilts her head toward the camera as the emergency lights flicker across her face. Cut to black.
+
+Visual and audio direction: Ultra-realistic sci-fi zombie horror with detailed natural skin, convincing black eyes, subtle veins beneath the skin, realistic facial changes, practical creature effects, authentic anatomy, and believable environmental physics. Maintain cold clinical lighting before transitioning to red emergency illumination. Use handheld camera movement and natural diegetic sounds such as breaking glass, alarms, footsteps, breathing, impacts, convulsions, and distant screams. Avoid graphic gore or excessive blood. No anime, cartoon, illustration, artificial CGI appearance, plastic skin, duplicated characters, face morphing, distorted anatomy, floating objects, impossible movement, changing clothing, identity changes, subtitles, text overlays, logos, or watermark.
+```
+
+</details>
+
+<a id="seedance-last-call-mountain-road-rain-thriller"></a>
+### 雨夜山路惊悚片：一通警告电话
+
+<a href="https://x.com/RuzainaMeer/status/2097193955230405007"><img src="../../previews/seedance-last-call-mountain-road-rain-thriller.jpg" width="360"></a>
+
+先用固定的角色与场景段落加否定式风格清单，锁定同一个女人和同一辆车。再按 0 到 30 秒逐段写镜头、屏幕文字和台词，最后用一行音频说明雨声、雨刷和撞击后的寂静。
+
+Seedance 2.5 · 文生视频 · 出处: [@RuzainaMeer on X](https://x.com/RuzainaMeer/status/2097193955230405007) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`thriller`](tags.md#tag-thriller) [`cinematic`](tags.md#tag-cinematic) [`rain`](tags.md#tag-rain) [`night-driving`](tags.md#tag-night-driving) [`timed-shots`](tags.md#tag-timed-shots)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 30-second ultra-photorealistic Hollywood-level cinematic thriller scene titled “THE LAST CALL.” The entire sequence must feel like a scene from a high-budget live-action feature film, with realistic human acting, natural facial expressions, physically accurate movement, realistic rain, practical lighting, believable vehicle physics, detailed environments, cinematic depth of field, subtle film grain, natural skin texture, realistic reflections, and professional Hollywood cinematography. No anime, no CGI-looking visuals, no fantasy aesthetic, no cyberpunk, no neon lighting, no exaggerated visual effects.
+MAIN CHARACTER: A realistic young woman in her late 20s, natural appearance, expressive eyes, shoulder-length dark hair slightly damp from the humid weather, wearing a simple dark jacket. Maintain the exact same woman, face, hairstyle, clothing, car, weather and environment consistently throughout the entire sequence.
+
+SETTING: A remote mountain road at night during heavy but realistic rainfall. Dark forested mountains surround the narrow winding road. Wet asphalt reflects only natural headlights and road markings. The atmosphere is tense, isolated and believable.
+
+0–5 SECONDS
+
+Interior of a moving car at night. Medium shot from the passenger side showing the woman driving alone. Rain continuously hits the windshield and realistic windshield wipers move back and forth. Dashboard illumination softly lights her face. She looks tired and emotionally distant while concentrating on the road. Camera slowly pushes toward her face. Natural breathing, subtle blinking and realistic micro-expressions.
+
+5–10 SECONDS
+
+Her smartphone suddenly begins ringing in the center console. Cut to an extremely realistic close-up of the phone screen.
+
+Caller ID: “MOM”
+
+The woman freezes.
+
+Her eyes widen slightly. Her hands tighten around the steering wheel. She looks at the phone in disbelief. She hesitates for a moment, then reaches down and answers the call.
+
+10–17 SECONDS
+
+Extreme close-up of her face as she listens.
+
+A faint, emotional female voice comes through the phone:
+
+“Don't take the next turn.”
+
+The woman's expression changes from confusion to fear.
+
+The call suddenly disconnects.
+
+She looks at the phone.
+
+The screen reads: CALL ENDED
+
+Outside the windshield, a sharp mountain turn approaches through the heavy rain.
+
+17–23 SECONDS
+
+She immediately slows the car.
+
+Camera moves to a forward-facing perspective through the windshield. The road curves sharply ahead.
+
+Suddenly, distant headlights appear through the rain around the corner.
+
+The woman looks toward them.
+
+A large truck suddenly loses control and crashes through the roadside barrier at the exact location where her car would have been if she had continued driving.
+
+The crash must look physically realistic and grounded, with believable vehicle momentum, rain, debris and impact. No exaggerated explosions.
+
+23–27 SECONDS
+
+Silence after the crash.
+
+The woman sits completely still, breathing heavily, visibly shaken.
+
+She slowly looks down at her phone.
+
+The phone screen now shows:
+
+NO SIM — NO SIGNAL
+
+She looks confused and terrified.
+
+27–30 SECONDS
+
+Extreme close-up of her eyes filling with tears.
+
+She looks toward the empty passenger seat.
+
+A subtle emotional pause.
+
+In a trembling whisper, she says:
+
+“Mom?”
+
+Cut instantly to black.
+
+FINAL AUDIO: Heavy rain, windshield wipers, realistic car interior ambience, distant thunder, phone ringing, muffled female voice, sudden silence after the crash, then only the woman's breathing.
+```
+
+</details>
+
+<a id="seedance-lighthouse-keeper-sea-orbs"></a>
+### 灯塔守望者提灯立于发光海岸
+
+<a href="https://x.com/SyntheSarah/status/2097182529564365135"><img src="../../previews/seedance-lighthouse-keeper-sea-orbs.jpg" width="360"></a>
+
+提示词先给出广角建立镜头，再要求缓慢推近到人物面部，镜头路线清晰。光线与调色写成具体条件（体积月光、青橙调色、浅景深），让模型有明确目标，而不是泛泛的氛围。
+
+Seedance 2.5 · 文生视频 · 出处: [@SyntheSarah on X](https://x.com/SyntheSarah/status/2097182529564365135) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`lighthouse`](tags.md#tag-lighthouse) [`bioluminescence`](tags.md#tag-bioluminescence) [`fog`](tags.md#tag-fog) [`camera-push-in`](tags.md#tag-camera-push-in)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A weathered old lighthouse keeper stands on a foggy cliff at night,
+wearing a thick wool coat, holding an old brass lantern. Below him,
+the ocean waves glow with soft bioluminescent blue light with each
+crash against the rocks. As he raises the lantern, dozens of floating
+glowing orbs (like fireflies) rise up from the water and drift past
+him into the misty air, swirling gently around his figure. Volumetric
+moonlight beams cut through the fog. Camera starts wide on the cliff,
+then does a slow cinematic push-in toward the keeper's face as the
+orbs surround him, ending on a close-up with orbs reflecting in his
+eyes. Teal and warm-amber color grade, hyper-realistic textures,
+shallow depth of field, film grain, atmospheric fog, 15 seconds,
+smooth continuous camera motion, no cuts.
+```
+
+</details>
+
+<a id="seedance-manhattan-gallery-diamond-heist"></a>
+### 身穿黑色礼服的女子站在玻璃展柜钻石旁
+
+<a href="https://x.com/ai_anelia/status/2115867108722835593"><img src="../../previews/seedance-manhattan-gallery-diamond-heist.jpg" width="360"></a>
+
+用参考图锁定主角外形，并把剧情拆成清晰的分段节拍，每段配一个镜头运动。明确指定环境音（脚步声、玻璃碰撞声、对讲机声）并禁止音乐和字幕，让画面更接近真实电影场景。
+
+Seedance 2.5 · 参考生视频 · 出处: [@ai_anelia on X](https://x.com/ai_anelia/status/2115867108722835593) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`heist`](tags.md#tag-heist) [`thriller`](tags.md#tag-thriller) [`reference-image`](tags.md#tag-reference-image) [`sound-design`](tags.md#tag-sound-design)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a photorealistic Hollywood heist thriller set in a luxurious Manhattan art gallery at night. 16:9, 24 fps, fast-paced suspense, realistic action, dynamic camera movement, warm lighting, and natural 35mm film grain.
+
+Character A, matching the reference image, wears an elegant black evening outfit and enters a glamorous exhibition where a priceless diamond is displayed under glass. While a waiter distracts the guests, she secretly steals it. Security discovers the missing diamond and chases her through crowded galleries, modern sculptures, and glass corridors overlooking New York City.
+
+Cornered at the grand staircase, she calmly reveals the diamond and surrenders it. As guards secure the jewel, she notices a wealthy collector fleeing the gallery. A curator discovers evidence that an exhibited painting is the original artwork stolen by the collector years earlier. Security stops him while Character A quietly slips toward the exit.
+
+In the final shot, she smiles knowingly through the glass doors and disappears into the night. The diamond was only a distraction; recovering the stolen painting was her real mission.
+
+Continuity: Keep all faces, outfits, props, and locations consistent. Use clear action geography, believable movements, quick cuts, tracking shots, reflections, and close-ups. Natural gallery ambience, footsteps, glass clinks, radio chatter, and minimal dialogue. No music, narration, subtitles, text, logos, or watermarks. Avoid cartoon physics, teleportation, exaggerated action, and visual inconsistencies.
+```
+
+</details>
 
 <a id="seedance-medieval-shame-walk"></a>
 ### 受辱的贵族女子穿过喧闹的中世纪人群
@@ -38,6 +757,68 @@ Narrow winding cobblestone streets of a medieval coastal city, high stone walls,
 
 [STYLE & QUALITY BOOSTERS]
 Exact period production texture of a major series, coherent physics of every body and fabric movement, stable character continuity, natural motion blur, no modern digital cleanliness, no artificial enhancement.
+```
+
+</details>
+
+<a id="seedance-mirror-venice-envelope-run"></a>
+### 少女在倒悬威尼斯的镜像天空下奔跑
+
+<a href="https://x.com/laviniavelle/status/2101881835290845251"><img src="../../previews/seedance-mirror-venice-envelope-run.jpg" width="360"></a>
+
+提示词先写明主体、服装、道具和场景，再描述特效，给模型清晰的锚点。35mm 镜头、快速跟拍和黄金时刻光线让镜像画面在人物运动中依然清晰可读。
+
+Seedance 2.5 · 文生视频 · 出处: [@laviniavelle on X](https://x.com/laviniavelle/status/2101881835290845251) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`venice`](tags.md#tag-venice) [`surreal`](tags.md#tag-surreal) [`mirror-world`](tags.md#tag-mirror-world) [`tracking-shot`](tags.md#tag-tracking-shot)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A cinematic dynamic action video prompt visual surrealism a young East Asian woman in a classic vintage teal dress holding a yellow envelope running fast through a dreamlike surreal Venice dynamic camera movement upside down reflection of Venice city hanging from the sky creating a mind bending mirror dimension illusion running across Venetian brick alleys climbing M.C Escher style twisting stone staircases leaping over a massive gap with a bright rainbow in the golden hour sky sprinting past a busy outdoor fruit market with red apples falling standing on classic red-tile rooftops at golden sunset, dynamic fast tracking shot cinematic lighting, 8k resolution, ultra-detailed photorealistic shot on 35mm lens, depth of field masterpiece.
+```
+
+</details>
+
+<a id="seedance-mother-baby-yoga-mirror"></a>
+### 宝宝在一旁模仿妈妈做瑜伽
+
+<a href="https://x.com/Zarnab_with_Ai/status/2106347953711661482"><img src="../../previews/seedance-mother-baby-yoga-mirror.jpg" width="360"></a>
+
+提示词固定了每个角色细节（发髻、黑色运动服、小辫子、蓝色奶嘴、紫色瑜伽垫），并要求全程保持一致，使人物和房间在各镜头中稳定。它按节拍逐段描述动作，并指定宽景跟拍、中景和特写的镜头安排，让宝宝模仿的喜剧感层层递进。
+
+Seedance 2.5 · 文生视频 · 出处: [@Zarnab_with_Ai on X](https://x.com/Zarnab_with_Ai/status/2106347953711661482) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`3d-animation`](tags.md#tag-3d-animation) [`pixar-style`](tags.md#tag-pixar-style) [`yoga`](tags.md#tag-yoga) [`family`](tags.md#tag-family) [`baby`](tags.md#tag-baby)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 20-second heartwarming, cinematic 3D animated video in a high-quality Pixar-inspired animation style.
+
+Scene: A beautiful, modern, cozy living room filled with warm morning sunlight. A young, beautiful mother with dark brown hair tied in a neat bun is wearing a fitted black yoga outfit. Her adorable baby has big expressive brown eyes, chubby cheeks, tiny brown hair tied in a little ponytail, and a white onesie.
+
+Action Sequence:
+
+The mother begins her morning yoga routine on a purple yoga mat. Her adorable baby watches her curiously while standing nearby with a blue pacifier.
+
+As the mother bends forward into a yoga pose, the baby crawls toward her and tries to imitate her movements.
+
+The mother performs different yoga exercises, including standing balance poses and an impressive handstand. The baby adorably attempts to copy every movement, creating funny and heartwarming moments.
+
+Show cinematic close-ups of the baby's innocent, surprised facial expressions and exaggerated cute reactions.
+
+Final Scene: The mother finishes her yoga routine, lovingly picks up her baby, and gives the baby a warm hug. Both smile and laugh together.
+
+Visual Style: Premium 3D animated family film, ultra-detailed character design, expressive facial animation, realistic fabric textures, soft natural sunlight, warm pastel colors, cinematic depth of field, smooth camera movements, realistic shadows, adorable comedy, emotional storytelling, and fluid character animation.
+
+Camera: Dynamic wide shots, smooth tracking shots, medium shots, and expressive close-ups.
+
+Duration: 20 seconds.
+
+Aspect Ratio: 16:9.
+
+Important: Maintain identical character appearances, clothing, facial features, room design, lighting, and yoga mat throughout the entire video. No dialogue, no subtitles, no text, and no watermarks.
 ```
 
 </details>
@@ -688,6 +1469,193 @@ cartoon, anime, CGI look, low quality, blurry face, extra fingers, warped hands,
 
 </details>
 
+<a id="seedance-rainy-limo-three-slaps-kiss"></a>
+### 雨夜豪车中三次耳光与长吻
+
+<a href="https://x.com/johnAGI168/status/2094792293941182498"><img src="../../previews/seedance-rainy-limo-three-slaps-kiss.jpg" width="360"></a>
+
+按时间码逐镜头写清动作顺序、机位和景别，并用负面提示锁定巴掌次数与司机位置。音频单独列出雨声、车流和耳光声，让声音与每个动作节拍对齐。
+
+Seedance 2.5 · 参考生视频 · 出处: [@johnAGI168 on X](https://x.com/johnAGI168/status/2094792293941182498) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`romance`](tags.md#tag-romance) [`drama`](tags.md#tag-drama) [`multi-shot`](tags.md#tag-multi-shot) [`night`](tags.md#tag-night) [`car-interior`](tags.md#tag-car-interior)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+时长：25秒
+比例：16:9横屏
+人物参考：
+@ 
+ 女主， 
+@
+ 男主
+语言：无对白、无旁白
+文字：无字幕
+音频：紧张暧昧音乐、雨声、车流声、三次耳光声、急促呼吸、衣料摩擦
+
+GLOBAL CONTINUITY
+
+女主：
+使用
+
+ 锁定成年女主的五官、脸型、肤色和身份。穿黑色高领修身连衣裙。性格倔强、冷漠，面对男主靠近时明确反抗。
+
+男主：
+使用
+
+ 锁定成年男主的五官、脸型、肤色和身份。黑色短发向后梳，穿黑色暗纹西装、黑色衬衫。被扇后逐渐失去克制。
+
+司机：
+中年男性，黑色司机制服、白色手套。只在后视镜中短暂出现，不说话、不回头。
+
+场景：
+雨夜行驶中的黑色豪华加长轿车。黑色真皮后排、深色木纹内饰、星空车顶、暖色阅读灯。车窗布满雨滴，窗外蓝红霓虹高速掠过。
+
+整体表演：
+成年演员表演的强冲突爱情微短剧。三次巴掌必须真实清楚，男主头部必须沿受力方向偏转；亲吻、咬唇、分开与再次靠近必须有明确因果。所有拉扯均为安全表演，男主手掌只扣住下颌和后颈，不挤压喉咙。
+
+SHOT 1（00:00-00:02.00）欲吻与第一巴掌
+
+00:00-00:00.70
+男主坐在女主左侧，缓慢向她靠近，目光从她眼睛落到嘴唇。女主身体轻微后仰，眼神冷漠，右手开始抬起。
+
+00:00.70-00:01.10
+男主闭眼继续靠近，但嘴唇尚未接触女主。
+
+女主突然挥出右手，一巴掌准确扇中男主左脸。
+
+动作顺序：
+右肩带动手臂→右手掌接触男主左脸→清脆耳光声→男主头部猛地偏向右侧。
+
+00:01.10-00:02.00
+女主迅速收回右手，冷冷盯着男主。男主保持偏头姿势半秒，随后缓慢转回，眉骨压低，神情由错愕转为愤怒。
+
+Camera：
+车内双人中近景，完整拍清女主手臂轨迹与男主受力反应。禁止用模糊或闪白掩盖巴掌。
+
+SHOT 2（00:02.00-00:06.00）第一次强吻与咬唇
+
+00:02.00-00:02.70
+男主转回后突然逼近，一手扣住女主后颈，一手抓住她肩膀，将她拉向自己。
+
+女主双手抵住男主胸口，试图保持距离。
+
+00:02.70-00:04.20
+男主吻住女主。女主身体紧绷，手掌持续推抵男主胸口；男主保持后颈和肩膀的控制姿势。
+
+00:04.20-00:04.80
+女主在拉扯中突然咬住男主下唇。男主眉心骤然收紧，因疼痛立即后撤。
+
+00:04.80-00:06.00
+两人分开。男主下唇和嘴角出现一点暗红血迹，只是少量渗血。女主快速喘气，仍然愤怒直视他。两人都不触碰或观察伤口。
+
+Camera：
+先用双人近景呈现拉扯，再切到能够看清咬住下唇的侧面特写。不能使用舌头特写。
+
+SHOT 3（00:06.00-00:08.50）第二巴掌
+
+00:06.00-00:06.60
+男主嘴角带着少量血迹，再次向女主靠近。女主左肩向后蓄力，左手快速抬起。
+
+00:06.60-00:07.10
+女主用左手一巴掌扇中男主右脸。
+
+动作顺序：
+左臂横向挥动→左手掌接触男主右脸→第二声耳光→男主头部被打得偏向左侧。
+
+00:07.10-00:08.50
+男主向左偏头，停顿约0.7秒。他慢慢转回来，嘴角仍带一点血迹，眼神变得更冷。
+
+女主左手停在胸前，身体靠紧座椅，保持防备。
+
+Camera：
+固定双人中景，第二巴掌必须与第一巴掌方向相反。
+
+SHOT 4（00:08.50-00:12.00）第二次强吻与第三巴掌
+
+00:08.50-00:09.20
+男主突然伸手，一手扣住女主后颈，另一手托住她的下巴，使她转向自己。手掌不能压住喉咙。
+
+00:09.20-00:10.70
+男主再次吻住女主。动作比第一次更快、更强势。女主双手抓住男主衣领，身体向后抵住座椅，随后用力向侧面挣脱。
+
+00:10.70-00:11.10
+女主成功偏开脸，嘴唇分开。她右手已经抬起，男主还保持前倾姿势。
+
+00:11.10-00:11.60
+女主第三次挥出右手，再次扇中男主左脸。
+
+动作顺序：
+右手快速横扫→掌心击中左脸→第三声耳光→男主头部再次偏向右侧。
+
+00:11.60-00:12.00
+男主动作停住，脸偏向右侧。女主收回右手，靠着座椅急促呼吸。
+
+Constraints：
+第三巴掌必须发生在第二次亲吻结束后，不能边吻边打，不能漏掉嘴唇分开的动作。
+
+SHOT 5（00:12.00-00:13.50）司机反应
+
+Camera：
+切至前排驾驶舱和车内后视镜。
+
+司机双手握住方向盘，继续注视道路。他短暂向上移动视线，通过后视镜看见后排两人，眉毛轻抬，露出一个很淡的吃瓜笑意，随即立刻看回前方。
+
+司机不说话、不转头、不改变车速。
+
+后视镜中可模糊看见男主重新靠近女主，但不能抢走司机镜头重点。
+
+SHOT 6（00:13.50-00:25.00）最终长吻
+
+00:13.50-00:14.50
+镜头切回后排。男主与女主沉默对视。男主脸颊有轻微红印，嘴角仍保留少量血迹。
+
+男主伸手托住女主下巴，迫使她抬起脸；另一只手绕到女主后颈。女主眉心收紧，双手抵住男主胸口。
+
+00:14.50-00:15.30
+男主缓慢靠近。两人的嘴唇距离从十厘米缩短至完全接触。
+
+女主先睁眼看着男主，接触后才闭眼。
+
+00:15.30-00:19.00
+最终亲吻开始。男主一手托住女主后脑，另一手扶住她肩背；女主双手仍抓住男主胸前衣料。
+
+亲吻连续不中断。车身经过弯道轻微晃动，两人随惯性靠得更近。
+
+00:19.00-00:22.00
+两人自然调整一次头部角度，但嘴唇保持接触。男主的动作由强硬逐渐变得稳定；女主肩膀逐渐放松，抓住西装的手指不再用力推开。
+
+Camera：
+从右侧近景缓慢环绕到左侧近景，始终保留双方手部和面部，不能只拍嘴唇。
+
+00:22.00-00:25.00
+镜头缓慢穿过布满雨滴的车窗拉到车外。黑色轿车行驶在雨夜高架道路上，后排车窗内仍能看到两人相拥亲吻的剪影。
+
+最终亲吻从15.3秒持续到25秒，约9.7秒，直到最后一帧都不分开。
+
+PERFORMANCE CONSTRAINTS
+
+- 全片恰好三次巴掌，不能少、不能多。
+- 第一巴掌：女主右手打男主左脸。
+- 第二巴掌：女主左手打男主右脸。
+- 第三巴掌：女主右手再打男主左脸。
+- 第一巴掌发生在男主欲吻但尚未接触时。
+- 第一巴掌后男主吻回去，女主咬破男主下唇。
+- 咬唇后男主嘴角只出现一点血迹。
+- 第二巴掌后发生第二次亲吻。
+- 第二次亲吻结束后才发生第三巴掌。
+- 司机镜头位于第三巴掌之后。
+- 最终亲吻持续至片尾。
+- 所有人均为成年人。
+- 后颈控制只表现强势姿态，手掌不能挤压喉咙或造成窒息。
+
+Negative：
+任何字幕，任何屏幕文字，旁白，对白，只有一次巴掌，只有两次巴掌，出现第四次巴掌，巴掌顺序错误，左右手错误，击打脸侧错误，耳光打空，女主抚摸男主脸，女主擦拭血迹，观察伤口，男主第一次就吻到女主，漏掉第一次欲吻未成，漏掉咬唇，女主咬错自己的嘴唇，大量出血，喷血，第二巴掌前没有分开，第三巴掌发生在司机镜头后，最终亲吻过短，最终吻提前结束，机械亲吻，嘴唇融合，鼻子穿模，张嘴过大，掐喉咙，窒息动作，人物换脸，男女主身份互换，司机坐到后排，司机持续回头，汽车无人驾驶，车内空间变化，窗外静止，多余手臂，多余手指，字幕，水印，Logo
+```
+
+</details>
+
 <a id="seedance-rainy-school-first-love-two-shots"></a>
 ### 雨中放学初恋短片两个连续镜头
 
@@ -1263,6 +2231,55 @@ NEGATIVE: No character change, face change, hairstyle change, outfit change, age
 
 </details>
 
+<a id="seedance-seoul-alarm-morning-glam-editorial"></a>
+### 女子被闹钟叫醒，床边摆满护肤品
+
+<a href="https://x.com/AIwithkhan/status/2113244959990329635"><img src="../../previews/seedance-seoul-alarm-morning-glam-editorial.jpg" width="360"></a>
+
+每个镜头都写明景别、焦段和运镜，并附一条音效提示，为每个剪辑点提供清晰的分镜计划。开头的 STYLE 段统一设定画风，适用于全部镜头。
+
+Seedance 2.5 · 文生视频 · 出处: [@AIwithkhan on X](https://x.com/AIwithkhan/status/2113244959990329635) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`k-fashion`](tags.md#tag-k-fashion) [`seoul`](tags.md#tag-seoul) [`beauty`](tags.md#tag-beauty) [`multi-shot`](tags.md#tag-multi-shot)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+STYLE: Hyper-realistic cinematic K-fashion editorial, Seoul street aesthetic, confident baddie energy, dynamic camera transitions, natural skin texture, glossy highlights, premium music-video cinematography, 4K, 
+
+SHOT 1: ECU, 85mm push-in / Close-up of a smartphone alarm vibrating beside a Korean girl with long, silky black hair, flawless glam makeup, and glossy lips, sleeping in a fitted crop top and shorts. She opens her eyes and gives the camera a confident, unbothered stare / SFX: alarm buzz, bedsheet rustle.
+
+SHOT 2: WS, 35mm handheld / She sits up, stretches casually, tosses her hair back, and swings her legs off the bed. Morning sunlight illuminates her stylish bedroom, full of Korean beauty products and fashion accessories / SFX: mattress bounce, fabric rustle.
+
+SHOT 3: MCU, 50mm mirror slide / She washes her face, applies skincare, and studies her reflection before beginning her beauty routine. Water droplets catch the bathroom lighting / SFX: faucet rush, skincare bottle clicks.
+
+SHOT 4: ECU, 85mm macro / Match cuts of her applying eyeliner, shaping her brows, adding glossy lip tint, and placing delicate silver earrings. Every movement is precise and confident / SFX: makeup brush swishes, cosmetic cap clicks.
+
+SHOT 5: Bird's-eye, 35mm overhead / Her wardrobe opens to reveal trendy streetwear. She selects a fitted black top, a cropped leather jacket, a pleated mini skirt, knee-high boots, and a designer-style shoulder bag / SFX: hanger clinks, fabric movement, zipper pull.
+
+SHOT 6: MCU, 50mm push-in / She completes her outfit, adjusts her jacket, puts on sunglasses, and gives herself a final look in the mirror. A subtle smirk reveals her confident attitude / SFX: heel click, jewelry jingle.
+
+SHOT 7: WS, 24mm low-angle tracking / She walks through a stylish Seoul apartment corridor with effortless confidence, boots striking the floor as the camera tracks backward / SFX: rhythmic footsteps, door latch.
+
+SHOT 8: MS, 35mm gimbal tracking / Whip-pan transition to the streets of Gangnam. She walks past fashionable boutiques, glowing Korean signs, and sleek storefronts while pedestrians blur behind her / SFX: city ambience, traffic, footsteps.
+
+SHOT 9: MCU, 85mm slow-motion push-in / She removes her sunglasses, looks directly into the camera, and brushes her hair over one shoulder. Neon reflections shimmer across her glossy lips and jewelry / SFX: subtle whoosh, street ambience.
+
+SHOT 10: MS, 35mm handheld / She enters a trendy Korean café, orders an iced Americano, and casually checks her phone while leaning against the counter / SFX: café chatter, espresso machine, ice clinking.
+
+SHOT 11: Insert, 50mm macro / Close-up of manicured fingers holding an iced coffee cup, condensation sliding down the glass, followed by a stylish mirror selfie with her entire outfit visible / SFX: ice rattling, phone camera click.
+
+SHOT 12: WS, 24mm cinematic tracking / She steps into a luxury shopping district, passing glass storefronts and fashionable pedestrians. The camera follows her confident walk with smooth lateral movement and strong foreground parallax / SFX: heels clicking, distant traffic.
+
+SHOT 13: MCU, 50mm snap zoom / She stops at a crosswalk, lowers her sunglasses slightly, and gives the camera a playful, intimidating stare before the pedestrian signal changes / SFX: crosswalk beep, traffic passing.
+
+SHOT 14: WS, 35mm orbit / Golden-hour rooftop scene overlooking Seoul. She poses against the skyline, jacket moving gently in the breeze, then turns toward the camera with a confident half-smile / SFX: rooftop wind, distant city ambience.
+
+SHOT 15 ECU to WS, 85mm pull-out / Final beauty close-up of her eyes, glossy lips, and flawless makeup. She puts her sunglasses back on and walks away as the camera slowly pulls back, revealing the glowing Seoul skyline behind her / SFX: bass hit, heels fading, cinematic music ending.
+```
+
+</details>
+
 <a id="seedance-seoul-five-scene-lifestyle"></a>
 ### 从公寓到韩屋小巷的五段首尔场景
 
@@ -1360,6 +2377,29 @@ The ref image is exactly the first frame. Enjoy! 😎
 
 </details>
 
+<a id="seedance-sleeper-train-infection-outbreak"></a>
+### 发烧的女子在卧铺火车上感染
+
+<a href="https://x.com/AIwithSynthia/status/2100803982197502368"><img src="../../previews/seedance-sleeper-train-infection-outbreak.jpg" width="360"></a>
+
+开头的锁定指令要求保持脸部、发型、奶金色连衣裙、纹身和项链不变，让人物身份贯穿所有镜头。随后按时间顺序写出感染的节拍，结尾切到外景远景，并用手持镜头、实拍特效和无背景音乐等指令控制质感。
+
+Seedance 2.5 · 图生视频 · 出处: [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2100803982197502368) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`zombie-horror`](tags.md#tag-zombie-horror) [`character-lock`](tags.md#tag-character-lock) [`handheld`](tags.md#tag-handheld) [`night-train`](tags.md#tag-night-train)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Preserve the exact face, hairstyle, golden-cream dress, tattoos, necklace, and overall appearance. She lies feverish and restless in the upper bunk of a dark sleeper train, slowly waking as her fingers tremble and dark veins appear. Her eyes turn cloudy white, her expression becomes unnaturally blank, and a dark drop falls onto the passenger below. She suddenly leans over, drops onto the lower bunk, and attacks the sleeping passenger non-graphically. Dark veins spread across him as he convulses, his eyes turn white, and he releases an inhuman scream.
+
+The infected passenger rushes into the corridor, awakening others and triggering chaos throughout the carriage. Curtains fly open, luggage falls, passengers scramble to escape, and more people become infected. A conductor grabs a fire extinguisher and blasts the approaching infected with white foam, giving survivors time to reach the connecting door. They slam it shut and barricade it with luggage and a fold-down seat as infected hands pound against the glass. Cracks begin spreading while terrified passengers retreat.
+
+End with survivors huddled together beneath flashing red emergency lights, protecting two children as the sealed door violently shakes behind them. Cut to an exterior wide shot of the train speeding through the dark countryside, sleeper-car windows flickering with red emergency light and chaotic silhouettes inside. Ultra-realistic cinematic zombie horror, authentic sleeper-train interior, blue night lighting, red emergency lights, realistic characters, handheld camera during chaos, practical effects, atmospheric shadows, tense sound design, no background music, no excessive gore, no subtitles, no watermark, no anime or cartoon style.
+```
+
+</details>
+
 <a id="seedance-suburban-outbreak-neighbors-fight-back"></a>
 ### 郊区街道突发感染与邻居奋起反击
 
@@ -1435,6 +2475,44 @@ Made with seedance 2.5 on @SocialSight
 
 </details>
 
+<a id="seedance-subway-platform-polka-dot-fashion-film"></a>
+### 金发模特在地铁站台的波点裙造型
+
+<a href="https://x.com/Just_sharon7/status/2103032789910401038"><img src="../../previews/seedance-subway-platform-polka-dot-fashion-film.jpg" width="360"></a>
+
+参考图锁定每个镜头中同一人物的面部、发花和裙装，提示词按顺序列出各个镜头及对应的机位风格。火车强烈的动态模糊在人物身后营造动感，同时保证人物清晰可辨。
+
+Seedance 2.5 · 参考生视频 · 出处: [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2103032789910401038) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`fashion-film`](tags.md#tag-fashion-film) [`subway`](tags.md#tag-subway) [`night-city`](tags.md#tag-night-city) [`character-lock`](tags.md#tag-character-lock)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Photoreal cinematic ~9 seconds, high-end fashion-film look. A young woman with long wavy blonde hair, olive-tan skin, sharp brows, and glossy lips. A pale pink flower is pinned behind her right ear. She wears a light blue spaghetti-strap mini dress with small black polka dots and carries a woven straw shoulder bag. Soft glam makeup, gold jewelry, warm skin highlights. Location: underground subway platform at night. Yellow safety strip on the platform edge, tiled walls, overhead fluorescent lights. A silver metro train streaks behind her in heavy motion blur — windows, doors, and at one moment an Japanese flag graphic on the passing car. Shot sequence, continuous energy: Medium close-up, she looks over her shoulder into camera while the train screams past behind her. Profile: she brings a lip wand or finger to her mouth, applying gloss as hair lifts in the train wind. She turns, hair swinging, eyes on camera, slight smirk. Wider on the platform: she touches her collarbone / strap, dress and bag readable, train still moving in the background. Head tipped back, hair flying, chin up, train with the flag ripping through frame. She looks back and smiles. Fast hair flip — hand rakes through hair, back partly to camera. Tight close-up: she blows a kiss to lens, fingers near lips, flower still in hair. Camera: mixed handheld fashion-cam and locked beauty close-ups. Shallow depth of field on her face, background train smeared into silver-and-light streaks. Practical station lighting plus a warm key on her skin. Color: creamy highlights, rich dark hair, the pink flower and red lips pop against cool subway metal. Motion: hair and dress always moving from train rush / her own turns. No extra people in focus. Mood: confident, flirty, summer-night city girl, music-video energy. Audio direction: upbeat dance-pop / Latin-pop, lyrics in the vein of “she got that vibe… dance all night… eyes on me.” Train rumble low under the track. Style keywords: photoreal fashion film, subway platform, motion-blur train, polka-dot sundress, pink hair flower, straw bag, glossy lips, hair flip, blow kiss, shallow focus, night metro lighting, 4K, no text overlay. Character lock (use with the reference still): Same woman 📷dp.jpg as the daylight field photo: long blonde center-parted waves, pink flower over the right ear, light blue black-polka-dot sundress, woven bag, warm skin, full lips. Keep identity consistent across every shot. #flovacpp
+```
+
+</details>
+
+<a id="seedance-sweltering-gym-duo-workout"></a>
+### 两名女性在酷热健身房训练
+
+<a href="https://x.com/noorlewisx/status/2094279439718953086"><img src="../../previews/seedance-sweltering-gym-duo-workout.jpg" width="360"></a>
+
+提示词用具体道具清单（史密斯机、蓝色瑜伽垫、落地扇、窗式空调）固定场景，并按深蹲、补水、平板支撑的顺序排列动作。写明特写插入镜头，让模型有可循的镜头顺序。
+
+Seedance 2.5 · 文生视频 · 出处: [@noorlewisx on X](https://x.com/noorlewisx/status/2094279439718953086) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`fitness`](tags.md#tag-fitness) [`indoor`](tags.md#tag-indoor) [`photorealistic`](tags.md#tag-photorealistic) [`multi-shot`](tags.md#tag-multi-shot)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Two young attractive East Asian women working out together in a small indoor gym on a very hot day, AC is broken, room is steaming. Both wearing matching tight mint green long-sleeve crop tops that are completely soaked with sweat and clinging to their bodies, one wearing tight brown/grey high-waist leggings, the other wearing light grey sweatpants. Long dark hair tied in high ponytails, faces and necks glistening with sweat, wet hair sticking to skin. They are doing barbell squats on a Smith machine, intense strained expressions, sweat dripping from hands onto the knurled bar. Then they take a water break, drinking from plastic water bottles, water dripping down their chins and chests. After that they do forearm planks on blue yoga mats, laughing and competing who gives up first. Close-up shots of sweat drops, wet fabric, smiling faces. Gym background with standing fan, window AC units, large mirrors, black workout benches, dumbbell rack. Realistic lighting, slightly dim indoor gym atmosphere, cinematic, highly detailed, photorealistic.
+```
+
+</details>
+
 <a id="seedance-taco-chase-food-truck-animation"></a>
 ### 霓虹夜色中的美食车女主厨
 
@@ -1491,6 +2569,43 @@ A cinematic teen drama short film, shot in warm golden-hour autumn light on the 
 **Shot 4 (14–20s):** Low-angle wide shot looking straight up at a bright yellow steel goalpost crossbar cutting diagonally across a clear, deep-blue late-afternoon sky. Below it, three teenagers stand on the field looking upward with concern and frustration — one boy in a grey hoodie with a black backpack reaches up and starts climbing the vertical post, straining to reach something lodged at the top. Two girls stand nearby, one with long brown hair looking up anxiously, the other in a navy striped sweater raising both hands toward the sky in a pleading/frustrated gesture. Their phones are visibly stuck on top of the crossbar. Blurred autumn-orange treeline and stadium floodlight tower visible at the edges of frame.
 
 **Overall mood/theme:** "Messing with Amelia" backfires — a lighthearted teen revenge-prank narrative where the antagonist group's phones end up stranded on the stadium goalpost, and they're now desperately trying to climb up and fetch them. Comedic-ironic, youthful, slightly cinematic-trailer energy. Aspect ratio 1080x608, widescreen cinematic crop, subtle ambient wind/rustle sound design implied, no dialogue — purely visual storytelling with expressive reactions.
+```
+
+</details>
+
+<a id="seedance-toddler-banknote-prank-3d-comedy"></a>
+### 幼童把钞票递给父亲的3D喜剧
+
+<a href="https://x.com/Zarnab_with_Ai/status/2113094951684931713"><img src="../../previews/seedance-toddler-banknote-prank-3d-comedy.jpg" width="360"></a>
+
+按秒数划分的分镜段落让模型按顺序执行动作。结尾的一致性段落重复人物造型、服装和防闪烁要求，使每个镜头中的家人保持一致。
+
+Seedance 2.5 · 文生视频 · 出处: [@Zarnab_with_Ai on X](https://x.com/Zarnab_with_Ai/status/2113094951684931713) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`3d-animation`](tags.md#tag-3d-animation) [`family-comedy`](tags.md#tag-family-comedy) [`pixar-style`](tags.md#tag-pixar-style) [`close-up`](tags.md#tag-close-up)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 22-second, high-quality 3D animated family comedy with a polished Pixar-inspired aesthetic. Set the scene in a luxurious, warmly lit living room with soft golden lighting, elegant furniture, and cinematic depth of field.
+
+A stylish, curly-haired man wearing a black suit, gold chain, and luxury watch sits on a sofa beside his adorable toddler daughter. The little girl wears a pink knitted outfit, has big expressive eyes, and carries a colorful toy hammer. Her beautiful young mother stands nearby wearing a white blouse and elegant pink trousers.
+
+Scene sequence:
+
+- 0–4 seconds: The toddler approaches her father with a small banknote, innocently trying to feed it to him. He leans forward, confused but amused.
+- 4–8 seconds: The father humorously pretends to bite the money while the little girl watches with excitement. Use close-up shots of their expressive faces.
+- 8–12 seconds: The toddler turns toward her mother and proudly shows her the money. The mother smiles playfully and produces a colorful toy hammer.
+- 12–17 seconds: The father suddenly realizes what is happening. His eyes widen in shock as he sees the toy hammer and the money exchange. The mother and daughter exchange mischievous smiles.
+- 17–22 seconds: The mother holds up the money while the toddler happily grips her toy hammer. The father leans backward in exaggerated comic panic, raising his hands as if he has been tricked into paying for the toy.
+
+Visual style: Ultra-detailed 3D character animation, realistic fabric textures, expressive facial movements, natural body motion, cinematic camera angles, smooth transitions, warm ambient lighting, shallow depth of field, professional animated-movie quality.
+
+Audio: Playful orchestral comedy music, subtle footsteps, soft paper rustling, toy handling sounds, and humorous reaction sound effects. No dialogue or subtitles.
+
+Consistency requirements: Maintain identical character designs, clothing, hairstyles, facial features, and proportions throughout every shot. Smooth animation, coherent actions, accurate hand movements, no flickering, no extra fingers, no character distortion, and no sudden scene changes.
+
+Format: 16:9, 4K quality, 24 fps, approximately 22 seconds, family-friendly comedic storytelling.
 ```
 
 </details>
@@ -1565,6 +2680,31 @@ End with a modern human looking toward the horizon as the camera rapidly pulls b
 Use continuous cinematic camera movement, seamless transitions through time and scale, realistic physics, scientifically inspired environments, natural motion, detailed animal anatomy, realistic lighting, HDR, and premium documentary cinematography.
 
 16:9, ultra-realistic, photorealistic, emotionally powerful, scientifically grounded. No text, labels, narration, fantasy, cyberpunk, neon, or futuristic elements.
+```
+
+</details>
+
+<a id="seedance-upside-down-seesaw-water-ritual"></a>
+### 薄荷绿跷跷板上倒悬入水的女子
+
+<a href="https://x.com/Just_sharon7/status/2104544058471502330"><img src="../../previews/seedance-upside-down-seesaw-water-ritual.jpg" width="360"></a>
+
+单镜头连续拍摄加轻微手持晃动，画面始终锁定人物与水桶。跷跷板有节奏地起落带动重复入水，表情从惊讶到微笑再到镇定的变化，让画面保持优雅而超现实的基调。
+
+Seedance 2.5 · 文生视频 · 出处: [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2104544058471502330) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`performance-art`](tags.md#tag-performance-art) [`fashion-editorial`](tags.md#tag-fashion-editorial) [`handheld-camera`](tags.md#tag-handheld-camera) [`water`](tags.md#tag-water)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A cinematic indoor performance-art / fashion editorial video, shot in a single continuous take inside a slightly worn historic room with cracked plaster walls, dark wood floors, a vintage wooden bed with rumpled beige linens, beige curtains over a tall window, and a soft abstract pink painting on the wall.
+
+A large custom-built pale mint-green wooden seesaw / dunk-lever structure (thick beams, metal bolts, industrial-craft aesthetic) spans the room. On the high end, a woman hangs completely upside-down, knees hooked over the beam, wearing a short beige-and-black horizontal-striped dress. She clutches a dripping beige robe or cloth against her body. Long dark curly hair hangs toward a matching mint-green metal barrel filled with water.
+
+An off-camera operator slowly pumps the opposite end of the lever, tilting the beam so her head and hair repeatedly dunk into the water then lift out, water streaming from her hair and the cloth. Her expression shifts between wide-eyed surprise, a slight smile, and composure as she looks toward camera. Water ripples and drips throughout.
+
+Natural window light, muted filmic color palette, shallow depth of field, slight handheld camera movement that stays locked on the woman and the barrel. Slow, rhythmic, slightly surreal and elegant rather than slapstick. No text, no logos.
 ```
 
 </details>
@@ -1741,6 +2881,27 @@ Golden hour: she sits on the grass by the river with the bicycle parked behind h
 Drone shot pulls back revealing her small figure sitting beside a winding river through lush green fields and rice paddies, village houses in the distance, warm sunset light.
 Final shot: silhouette of the woman sitting by a calm lake watching a vivid orange sunset, sky glowing with warm colors.
 Mood: peaceful, nostalgic, slow-living Japanese countryside summer, dreamy and serene. Soft natural lighting, gentle camera movements, filmic color grading.
+```
+
+</details>
+
+<a id="seedance-yukata-village-lantern-journey"></a>
+### 蓝色浴衣女子走过绣球花村街
+
+<a href="https://x.com/laviniavelle/status/2108047815578644501"><img src="../../previews/seedance-yukata-village-lantern-journey.jpg" width="360"></a>
+
+一段包含七个场景的分镜列表，在每个镜头中重复同一角色描述（黑色短发、浅蓝浴衣），使人物在整段视频中保持一致。结尾的风格句定下暖色柔光与浅景深，并用慢动作控制节奏。
+
+Seedance 2.5 · 文生视频 · 出处: [@laviniavelle on X](https://x.com/laviniavelle/status/2108047815578644501) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`yukata`](tags.md#tag-yukata) [`japan`](tags.md#tag-japan) [`hydrangea`](tags.md#tag-hydrangea) [`lantern`](tags.md#tag-lantern)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Cinematic 8k photorealistic video of a young East Asian woman with short black hair wearing a light blue traditional Japanese yukata. The video captures her walking along a wooden Japanese village street lined with blooming hydrangeas, sitting by an open wooden window holding a hand fan and drinking iced matcha tea with mountain views, strolling through a dense bamboo forest looking up at the canopy, passing through a red Torii gate at a Shinto shrine, hanging a glowing paper lantern outside traditional wooden houses at dusk, gently floating a paper lantern onto a calm river, and standing in a meadow filled with glowing fireflies overlooking an illuminated mountain village at night. Peaceful and nostalgic aesthetic with warm soft lighting, slow motion movements, and shallow depth of field.
+
+#FlovaAI #Flovacpp
 ```
 
 </details>

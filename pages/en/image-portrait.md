@@ -1,6 +1,6 @@
 # Portraits
 
-[Back to the list](../../README.md) · All 259 entries · **1** · [2](image-portrait-2.md) · [3](image-portrait-3.md)
+[Back to the list](../../README.md) · All 263 entries · **1** · [2](image-portrait-2.md) · [3](image-portrait-3.md)
 
 <a id="chatgpt-bw-editorial-portrait-hand-on-chin"></a>
 ### Black and white portrait, man with hand on chin
@@ -1648,6 +1648,55 @@ Camera Angle.Walk-behind shot.
 
 </details>
 
+<a id="nano-banana-amber-lingerie-hotel-suite-portrait"></a>
+### Kneeling woman in amber lingerie on white rug
+
+<a href="https://x.com/alicehan_ai/status/2117119804616458635"><img src="../../previews/nano-banana-amber-lingerie-hotel-suite-portrait.jpg" width="360"></a>
+
+A structured JSON prompt that pins the wardrobe materials, the pose, and a 35mm lens at chest height with f/2.8, which keeps the framing and soft window light consistent. The pillow lettering is specified as its own scene element, so the handle appears inside the shot.
+
+Nano Banana 2.1 · Text-to-image · Source: [@alicehan_ai on X](https://x.com/alicehan_ai/status/2117119804616458635) · 250 likes on 2026-11-03
+
+[`portrait`](tags.md#tag-portrait) [`lingerie`](tags.md#tag-lingerie) [`hotel-suite`](tags.md#tag-hotel-suite) [`json-prompt`](tags.md#tag-json-prompt)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+{
+  "subject": {
+    "identity": "a breathtakingly gorgeous young Japanese woman, 158 cm tall with warm milk-tea brown hair featuring honey-caramel balayage, and a petite, lushly voluptuous hourglass figure (measurements: 90-58-92 cm)",
+    "hair": "warm milk-tea brown hair with sun-kissed honey-caramel balayage flowing in soft bouncy waves",
+    "expression": "radiant, warm smile with bright inviting eyes",
+    "pose": "kneeling on the plush rug sitting back on her heels, hands resting lightly on her knees, torso upright and angled toward the camera"
+  },
+  "wardrobe": {
+    "silhouette": "structured underwire satin-and-lace balconette lingerie bustier with a deep sweetheart plunge, exposed boning, and high-cut lace briefs with thigh garter straps",
+    "material": "luminous silk satin, sheer Chantilly floral lace, and elastic garter straps",
+    "color": "amber, carried by the luminous silk satin of the balconette lingerie bustier and briefs",
+    "footwear": "sky-high pointed-toe patent stiletto pumps",
+    "accessories": "strappy thigh garter belt with polished metal suspender clips, sheer black lace-top thigh-high stockings, and a sleek satin choker ribbon"
+  },
+  "scene": {
+    "atmosphere": "luminous, clean, contemporary upscale atmosphere",
+    "background": "contemporary white and beige hotel bedroom suite, a plush white faux-fur rug on polished marble flooring, and a large bed",
+    "camera": "35mm lens at chest level looking straight forward, f/2.8",
+    "composition": "tall vertical frame, medium shot, one figure centered and filling the height of the picture",
+    "grade": "clean bright grade, natural skin luminosity, realistic fabric textures",
+    "lighting": "soft natural daylight filtering through the windows, casting gentle shadows and luminous highlights",
+    "location": "sunlit high-floor luxury suite with floor-to-ceiling windows"
+  },
+  "scene_text": {
+    "archetype": "pillow",
+    "carrier": "accent pillow embroidered in cursive lettering",
+    "placement": "on the corner of the throw pillow",
+    "text": "alicehan_ai"
+  },
+  "compiled_prompt": "Generate a single-frame portrait photograph of a breathtakingly gorgeous young Japanese woman, 158 cm tall with warm milk-tea brown hair featuring honey-caramel balayage flowing in soft bouncy waves, and a petite yet lushly voluptuous hourglass figure with a full rounded bust, delicate waist, and curvy feminine hips. Her expression is a radiant, warm smile with bright inviting eyes looking directly at the camera. She is kneeling on the plush rug sitting back on her heels, hands resting lightly on her knees, with her torso upright and angled toward the camera. She wears a structured underwire satin-and-lace balconette lingerie bustier with a deep sweetheart plunge, exposed boning, and high-cut lace briefs with thigh garter straps, crafted from luminous silk satin, sheer Chantilly floral lace, and elastic garter straps. The garment color is amber, carried by the luminous silk satin of the balconette lingerie bustier and briefs. She is styled with sky-high pointed-toe patent stiletto pumps, a strappy thigh garter belt with polished metal suspender clips, sheer black lace-top thigh-high stockings, and a sleek satin choker ribbon. The scene is set in a sunlit high-floor luxury suite with floor-to-ceiling windows, exuding a luminous, clean, contemporary upscale atmosphere. The background reveals a contemporary white and beige hotel bedroom suite, a plush white faux-fur rug on polished marble flooring, and a large bed. An accent pillow embroidered in cursive lettering displays alicehan_ai on the corner of the throw pillow. Captured in a tall vertical frame as a medium shot, with one figure centered and filling the height of the picture. Shot on a 35mm lens at chest level looking straight forward with f/2.8 aperture. The photograph features soft natural daylight filtering through the windows, casting gentle shadows and luminous highlights, with a clean bright grade, natural skin luminosity, and realistic fabric textures."
+}
+```
+
+</details>
+
 <a id="nano-banana-denim-bob-beauty-contact-sheet"></a>
 ### Nine pose beauty contact sheet in denim jacket
 
@@ -2400,6 +2449,55 @@ Ultra-photorealistic editorial fashion portrait of a beautiful young woman with 
 
 </details>
 
+<a id="nano-banana-honey-latex-bodysuit-white-studio"></a>
+### Woman in honey latex bodysuit on white studio
+
+<a href="https://x.com/alicehan_ai/status/2116635961417429161"><img src="../../previews/nano-banana-honey-latex-bodysuit-white-studio.jpg" width="360"></a>
+
+Structured JSON fields split subject, wardrobe, lighting and background so each detail stays fixed, and the handle is written as embroidery on the hem so it reads as garment detail. Soft high key light on a seamless white sweep keeps the latex highlights clean.
+
+Nano Banana 2.1 · Text-to-image · Source: [@alicehan_ai on X](https://x.com/alicehan_ai/status/2116635961417429161) · 193 likes on 2026-11-03
+
+[`fashion-editorial`](tags.md#tag-fashion-editorial) [`studio-portrait`](tags.md#tag-studio-portrait) [`latex`](tags.md#tag-latex) [`white-studio`](tags.md#tag-white-studio)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+{
+  "subject": {
+    "identity": "a breathtakingly gorgeous young Japanese woman, 158 cm tall with warm milk-tea brown hair featuring honey-caramel balayage, and a petite, lushly voluptuous hourglass figure (measurements: 90-58-92 cm)",
+    "hair": "warm milk-tea brown hair with sun-kissed honey-caramel balayage flowing in soft bouncy waves",
+    "expression": "gentle, slightly coy smile with direct gaze",
+    "pose": "standing three-quarters turned away while glancing over her shoulder, fingers resting lightly beside her jawline"
+  },
+  "wardrobe": {
+    "silhouette": "form-fitting high-gloss liquid latex bodysuit with an ultra-plunging V-neckline, bare shoulders, and extreme high-cut leg openings",
+    "material": "mirror-shine high-gloss liquid latex with patent leather trim",
+    "color": "honey",
+    "footwear": "thigh-high glossy black patent leather stiletto boots",
+    "accessories": "sleek black satin choker collar ribbon, delicate gold waist chain, and sheer lace-top thigh-high stockings"
+  },
+  "scene": {
+    "atmosphere": "dreamy, delicate, and luminous high-fashion editorial atmosphere",
+    "background": "clean seamless white floor and uninterrupted bright white infinity wall backdrop",
+    "camera": "eye-level camera perspective with a flattering three-quarter angle",
+    "composition": "full-body vertical 9:16 portrait framed head-to-toe with balanced negative space",
+    "grade": "photorealistic fashion editorial grade with clean whites, luminous skin tones, and rich specular highlights",
+    "lighting": "soft high-key studio lighting with broad diffused frontal and side illumination",
+    "location": "minimalist seamless white photography studio"
+  },
+  "scene_text": {
+    "archetype": "embroidery",
+    "carrier": "delicate cursive embroidery",
+    "placement": "on the garment hem",
+    "text": "alicehan_ai"
+  },
+  "compiled_prompt": "A professional high-fashion portrait photograph of a breathtakingly gorgeous young Japanese woman, 158 cm tall with warm milk-tea brown hair featuring sun-kissed honey-caramel balayage flowing in soft bouncy waves, and a petite, lushly voluptuous hourglass figure with natural feminine curves and beautifully sculpted collarbones. She is standing three-quarters turned away while glancing over her bare shoulder toward the camera lens, fingers resting lightly beside her jawline with a gentle, slightly coy smile and direct captivating gaze. She wears a form-fitting high-gloss liquid latex bodysuit with an ultra-plunging V-neckline, bare shoulders, and extreme high-cut leg openings in a glowing honey tone, expertly tailored from mirror-shine high-gloss liquid latex with polished patent leather trim. The glamorous ensemble is impeccably styled with a sleek black satin choker collar ribbon, a delicate gold waist chain, sheer lace-top thigh-high stockings, and thigh-high glossy black patent leather stiletto boots. Discreetly rendered along the garment hem, the delicate cursive embroidery reads the exact text 'alicehan_ai'. Captured in a full-body vertical 9:16 portrait framed head-to-toe with balanced negative space inside a minimalist seamless white photography studio featuring a clean seamless white floor and uninterrupted bright white infinity wall backdrop. Soft high-key studio lighting with broad diffused frontal and side illumination wraps gently around her contours, casting soft dimensional contact shadows and clean specular gleam across the high-gloss latex material. Natural authentic skin texture with visible micro-pores, creamy luminous warm skin tones, slightly messy natural strands framing forehead and temples, and exquisite high-end commercial fashion editorial clarity throughout the entire image."
+}
+```
+
+</details>
+
 <a id="chatgpt-couple-80s-studio-portrait"></a>
 ### Couple posing in a 1980s film studio portrait
 
@@ -2760,6 +2858,55 @@ Nano Banana 2 · Text-to-image · Source: [@rovvmut_ on X](https://x.com/rovvmut
 Nano Banana 2 on Gemini.
 
 Prompt: A stylish, rugged portrait of a man with a relaxed yet sophisticated urban look. He features messy dark hair with natural highlights and a well-maintained, thick beard. He is wearing distinctive vintage-style sunglasses with translucent amber frames and dark, circular lenses that feature a unique metal flip-up bridge mechanism. He is dressed for cool weather in a chunky, blue ribbed-knit cardigan with a thick lapel, worn over a simple white t-shirt. In the foreground, his hand is partially visible, holding a white disposable coffee cup with a matching white lid. The lighting is bright and natural, casting soft shadows that emphasize the texture of his knitwear and facial hair. The background is a soft-focus blue vintage vehicle with horizontal grille lines, creating a cool-toned, cinematic backdrop that makes the warm tones of his sunglasses and skin pop.
+```
+
+</details>
+
+<a id="gpt-image-stage-award-black-dress-portrait"></a>
+### Woman in black dress holding gold trophy
+
+<a href="https://x.com/AIjee_tpe/status/2116462378745569333"><img src="../../previews/gpt-image-stage-award-black-dress-portrait.jpg" width="360"></a>
+
+The prompt is split into labeled blocks for subject, scene, lighting, composition, style and quality, so each constraint stays separate. Stating full-body framing from head to heels with a fixed camera angle and gaze direction keeps the shoes and trophy in frame.
+
+GPT Image 2.5 · Text-to-image · Source: [@AIjee_tpe on X](https://x.com/AIjee_tpe/status/2116462378745569333) · 161 likes on 2026-11-03
+
+[`stage-portrait`](tags.md#tag-stage-portrait) [`full-body`](tags.md#tag-full-body) [`fashion`](tags.md#tag-fashion) [`awards-ceremony`](tags.md#tag-awards-ceremony)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+## [Subject Description]
+
+A photorealistic, full-body stage portrait of an elegant adult East Asian woman with fair, smooth skin and naturally full breasts,S-shaped female figure,  feminine figure with long legs and a defined waist. She has a delicate oval face, softly defined eyebrows, downcast dark eyes, a small nose, and naturally rosy-red lips. Her expression is gentle, composed, and graceful as she looks downward at the award she is holding.
+
+Her long, glossy black hair is styled in loose, voluminous waves, parted slightly off-center and cascading over one shoulder and down her chest. She wears delicate dangling silver earrings and a sparkling diamond-style necklace.
+
+She is dressed in an elegant black strapless evening mini dress with a fitted, sweetheart-inspired neckline and a form-fitting silhouette. The dress features an asymmetrical draped hemline, with a short front section revealing her upper thighs and a long, flowing black fabric panel extending down behind her legs. She wears sheer, transparent black thigh-high stockings with distinct opaque horizontal bands around the upper thighs, paired with elegant black pointed-toe high heels decorated with sparkling silver floral embellishments near the toes.
+
+She holds a geometric gold-and-black award trophy with both hands at waist level, gently supporting it while looking down at it. Her posture is poised and natural, with her upper body slightly inclined forward and her legs positioned close together in a relaxed standing pose.
+
+She possesses the best head-to-body ratio, naturally full breasts,a perfect, curvaceous, S-shaped female figure,Hourglass figure,long legs with perfect leg lines, and a slender waist, perfect foots,perfect foot lines
+
+## [Scene / Background]
+
+A large indoor awards ceremony or fashion-event stage. The woman stands alone on a dark, glossy stage floor with visible surface reflections, subtle scratches, and stage markings. The background consists of a deep burgundy and black stage backdrop with minimal visual distractions, creating a sophisticated formal-event setting.
+
+## [Lighting / Atmosphere]
+
+Soft, focused stage lighting illuminates the woman's face, shoulders, arms, dress, and legs, emphasizing her natural skin texture and the subtle sheen of the black fabric. Gentle highlights reflect off her jewelry, trophy, and embellished shoes. The surrounding stage remains dimly lit, with deep burgundy and dark purple tones. The overall atmosphere is elegant, prestigious, sophisticated, and understated.
+
+## [Composition / View]
+
+full-body portrait, showing the woman completely from head to heels. Single subject positioned near the center of the frame. Slightly elevated frontal camera angle, capturing her downward gaze, the trophy held in front of her waist, the asymmetrical dress design, sheer stockings, and high heels. Natural standing proportions, realistic anatomy, and sufficient space around the subject. The entire outfit and footwear remain visible.
+
+## [Style Reference]
+
+High-end celebrity event photography, luxury fashion editorial, realistic awards ceremony photography, sophisticated evening fashion, natural feminine elegance, professional event photography, photorealistic textures, authentic stage environment, refined color grading, realistic fabric draping and fine details.
+
+## [Quality Parameters]
+
+Ultra-photorealistic, high resolution, professional DSLR photography, sharp subject focus, realistic facial features, detailed skin texture, natural body proportions, accurate hands and fingers, realistic sheer fabric transparency, intricate jewelry details, reflective metallic trophy surfaces, balanced exposure, subtle depth of field, natural shadows, cinematic stage lighting, excellent detail retention, professional color grading, 8K quality,No cropped limbs or truncated feet.
 ```
 
 </details>
@@ -4685,209 +4832,6 @@ Background: Minimalist muted sage-green and turquoise studio backdrop with soft,
 Lighting: Professional softbox lighting, cinematic shadows, delicate highlights on the cheekbones, realistic satin reflections, beautiful skin texture, and sophisticated color grading.
 
 Photography style: Luxury beauty campaign, Vogue-inspired editorial photography, 85mm portrait lens, shallow depth of field, sharp focus on the eyes, photorealistic details, premium fashion magazine aesthetic,  vertical 9:16 composition.
-```
-
-</details>
-
-<a id="gpt-image-halftone-windswept-hair-portrait-ivory-paper"></a>
-### Windswept Hair Halftone Portrait on Ivory Paper
-
-<a href="https://x.com/hey_am_cherry/status/2111324127378416005"><img src="../../previews/gpt-image-halftone-windswept-hair-portrait-ivory-paper.jpg" width="360"></a>
-
-Naming the print process (halftone dots, stippled shading, screen-print texture) with a two-tone palette of deep black and cream gives a convincing vintage look. A separate negative prompt rules out color, 3D and plastic skin, and the chest-up framing is stated explicitly.
-
-GPT Image 2.5 · Text-to-image · Source: [@hey_am_cherry on X](https://x.com/hey_am_cherry/status/2111324127378416005) · 108 likes on 2026-10-29
-
-[`halftone`](tags.md#tag-halftone) [`monochrome`](tags.md#tag-monochrome) [`portrait`](tags.md#tag-portrait) [`vintage-print`](tags.md#tag-vintage-print) [`negative-prompt`](tags.md#tag-negative-prompt)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-{
-  "aspect_ratio": "9:16",
-  "prompt": "A beautiful young woman with long, messy black hair blowing dramatically across her face, eyes closed, lips slightly parted, head tilted back, elegant elongated neck, wearing a simple black V-neck top. Chest-up portrait, slightly right of center. Vintage monochrome halftone print art, tiny black ink dots, stippled shading, high contrast, warm ivory textured paper background, deep black shadows, cream highlights, retro editorial photography, moody, dreamy, melancholic, intricate details, sharp facial features, authentic screen-print texture.",
-  "negative_prompt": "color, 3D, anime, plastic skin, open eyes, exaggerated expression, deformed face, bad anatomy, extra features, busy background, text, watermark, excessive blur"
-}
-```
-
-</details>
-
-<a id="gpt-image-cream-hoodie-selfie-portrait"></a>
-### Close up selfie of a woman in a cream hoodie
-
-<a href="https://x.com/mehvishs25/status/2067641812165243390"><img src="../../previews/gpt-image-cream-hoodie-selfie-portrait.jpg" width="360"></a>
-
-Pinning identity to a reference image and naming makeup, hoodie and pose in concrete terms keeps the result tied to the source. The phone selfie framing, a plain warm wall and a sharp focus zone on the eye and sleeve give the shallow depth of field its authentic feel.
-
-GPT Image 2 · Edit · Source: [@mehvishs25 on X](https://x.com/mehvishs25/status/2067641812165243390) · 106 likes on 2026-10-29
-
-[`selfie`](tags.md#tag-selfie) [`portrait`](tags.md#tag-portrait) [`reference-identity`](tags.md#tag-reference-identity) [`photorealistic`](tags.md#tag-photorealistic)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Photorealistic close-up selfie portrait of the same girl from the reference image, using the reference as the only source for facial identity. Preserve her exact face shape, skin tone, eye shape, nose, lips, age, proportions, and all recognizable features with high accuracy. Do not alter her identity or make her appear as a different person.
-
-She fills almost the entire frame, creating an intimate and authentic selfie composition. Her head is slightly tilted to one side, with her cheek gently resting against her shoulder and partially tucked inside the long cream-colored sleeve of an oversized zip-up hoodie draped casually over one shoulder. Long, straight dark hair with soft curtain bangs falls naturally along the left side of her face, partially covering one eye.
-
-Her expression is calm and slightly pouting, with a relaxed, effortless mood. She looks directly into the camera, with visible eyelashes and subtle eye contact. Makeup is soft and natural, featuring laminated brows, elongated black winged eyeliner extending the eye shape, and matte dusty-pink lips.
-
-The camera is positioned extremely close to her face, recreating the authentic feel of a webcam or phone selfie. The frame has a slight tilt and an unposed, spontaneous appearance. Sharp focus on the visible eye, lips, hair strands, skin texture, and the thick cream-colored hoodie sleeve, while the background softly blurs away.
-
-Behind her is a simple warm gray-beige wall with no distracting details. Warm indoor ambient lighting mixed with subtle screen light from the front-left softly illuminates her face and hair, creating gentle highlights and natural shadows. The color palette is muted and cozy, dominated by cream, beige-gray, black, and dusty-pink tones.
-
-Ultra-photorealistic, authentic smartphone selfie aesthetic, natural skin texture, realistic hair detail, subtle imperfections, shallow depth of field, intimate composition, candid everyday atmosphere, high detail, premium photography quality.
-```
-
-</details>
-
-<a id="nano-banana-christmas-red-satin-couple-tree"></a>
-### Couple in red satin and black suit by tree
-
-<a href="https://x.com/astronomerozge1/status/2005718979411673580"><img src="../../previews/nano-banana-christmas-red-satin-couple-tree.jpg" width="360"></a>
-
-Uploading a base photo and adding an identity lock block keeps both faces stable while the outfits, pose and tree are rewritten. The strict rules list and a negative prompt covering identity drift, plastic skin and extra hands fix the wardrobe colours and composition.
-
-Nano Banana Pro · Edit · Source: [@astronomerozge1 on X](https://x.com/astronomerozge1/status/2005718979411673580) · 105 likes on 2026-10-29
-
-[`christmas`](tags.md#tag-christmas) [`couple`](tags.md#tag-couple) [`portrait`](tags.md#tag-portrait) [`holiday`](tags.md#tag-holiday)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-{
-  "generation_request": {
-    "meta_data": {
-      "tool": "NanoBanana Pro",
-      "task_type": "image_edit_photoreal_candid_couple_holiday_indoor",
-      "version": "v1.0",
-      "priority": "high"
-    },
-    "references": {
-      "reference_images": {
-        "base_image": "UPLOAD_THIS_IMAGE",
-        "person_A": "UPLOAD_PERSON_A_REFERENCE_IMAGE (OPTIONAL)",
-        "person_B": "UPLOAD_PERSON_B_REFERENCE_IMAGE (OPTIONAL)"
-      },
-      "reference_rules": {
-        "preserve_identity_person_A": true,
-        "preserve_identity_person_B": true,
-        "identity_lock_strength_A": 0.998,
-        "identity_lock_strength_B": 0.998,
-        "face_similarity_priority": "MAX",
-        "no_beautify_no_face_morph": true,
-        "no_identity_drift": true,
-        "keep_skin_tone_exact": true,
-        "keep_facial_proportions_exact": true
-      }
-    },
-    "output_settings": {
-      "aspect_ratio": "1:1",
-      "orientation": "square",
-      "resolution": "ultra_high_res",
-      "render_style": "photorealistic_editorial_indoor_flash",
-      "sharpness": "natural",
-      "film_grain": "subtle_35mm",
-      "color_grade": "warm_holiday_film"
-    },
-    "creative_prompt": {
-      "scene_summary": {
-        "en": "Photoreal editorial holiday couple portrait indoors. EXACTLY two people, same identities as references/base image. The couple stands close, facing each other with affectionate eye contact and soft smiles. Man: black tailored suit jacket with a white turtleneck underneath, clean classic styling. Woman: elegant fitted red satin dress with thin straps, thigh-high slit, red long gloves, sleek high ponytail, glamorous evening makeup, pearl/diamond necklace. Pose: man’s hands gently around her waist/hip area (respectful, natural), woman leaning toward him with a joyful expression. Background: cozy modern interior with a decorated Christmas tree on the right side (warm lights, gold ornaments), soft bokeh. Lighting: warm indoor ambient + subtle on-camera flash vibe, gentle shadows, cinematic warmth. No text, no logos, no watermark."
-      },
-      "composition": {
-        "framing": "square 1:1, medium-full body, both subjects fully visible from head to mid-thigh",
-        "camera_angle": "eye-level",
-        "distance": "intimate portrait distance, couple centered, Christmas tree visible on right edge",
-        "focus": "faces crisp, background softly blurred"
-      },
-      "style_and_details": {
-        "wardrobe_priority": "keep outfits EXACTLY as described (red satin dress + red gloves; black suit + white turtleneck)",
-        "hair_makeup": "keep high ponytail, glamorous makeup, defined liner, warm blush, glossy lips",
-        "material_rendering": "realistic satin sheen on dress, realistic fabric texture on suit, natural skin texture",
-        "holiday_props": "tree lights with warm bokeh, gold ornaments, subtle indoor décor"
-      },
-      "strict_rules": [
-        "EXACTLY two subjects only",
-        "both faces match references/base image exactly (no identity drift)",
-        "no extra people, no reflections with other faces",
-        "no text, no logos, no watermark",
-        "hands and fingers anatomically correct",
-        "keep composition: couple centered, Christmas tree on the right"
-      ]
-    },
-    "negative_prompt": [
-      "identity drift",
-      "face swap artifacts",
-      "beautify filter",
-      "plastic skin",
-      "over-smoothed face",
-      "cgi look",
-      "anime",
-      "cartoon",
-      "text",
-      "logo",
-      "watermark",
-      "extra people",
-      "extra hands",
-      "extra fingers",
-      "melted hands",
-      "blurred faces",
-      "overexposed highlights",
-      "wrong outfit colors",
-      "missing christmas tree"
-    ]
-  }
-}
-```
-
-</details>
-
-<a id="nano-banana-blue-haze-hoodie-studio-portrait"></a>
-### Cinematic blue haze studio portrait in dark hoodie
-
-<a href="https://x.com/Emmma___0/status/2108109236555403768"><img src="../../previews/nano-banana-blue-haze-hoodie-studio-portrait.jpg" width="360"></a>
-
-A symmetrical medium close-up with cool blue edge light against one warm orange glow in the background gives the cinematic colour contrast. Skin imperfections, an 85mm lens look and a negative prompt against plastic skin and HDR keep the face realistic.
-
-Nano Banana 2.1 · Text-to-image · Source: [@Emmma___0 on X](https://x.com/Emmma___0/status/2108109236555403768) · 102 likes on 2026-10-28
-
-[`portrait`](tags.md#tag-portrait) [`cinematic`](tags.md#tag-cinematic) [`studio-lighting`](tags.md#tag-studio-lighting) [`photorealistic`](tags.md#tag-photorealistic) [`negative-prompt`](tags.md#tag-negative-prompt)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a highly photorealistic cinematic portrait of a person standing centered and facing the camera with a calm, serious expression. Natural facial proportions, realistic skin texture, detailed eyes, subtle skin imperfections, and naturally styled hair. The subject wears a simple oversized dark hoodie with a minimal light-colored shirt visible underneath.
-Use a symmetrical composition with the subject occupying the central portion of the frame, medium close-up framing, and a clean professional presentation. The background is a dark deep-blue studio environment with atmospheric haze and subtle volumetric fog. Add cool blue lighting around the edges of the subject and a soft warm orange glow in the distant background on one side, creating a cinematic color contrast.
-Dramatic but natural studio lighting, soft directional key light, subtle rim lighting, realistic shadows, controlled highlights, shallow depth of field, smooth background falloff, premium editorial photography, modern cinematic aesthetic, high contrast, realistic colors, detailed clothing texture, realistic hair and skin, professional camera photography, 85mm lens look, crisp focus, subtle film grain, ultra-photorealistic, highly detailed, 8K quality.
-Negative prompt: cartoon, illustration, CGI, plastic skin, excessive HDR, oversharpening, distorted face, unnatural anatomy, extra limbs, blurry subject, low resolution, artificial skin, text, logo, watermark.
-```
-
-</details>
-
-<a id="nano-banana-bw-seaside-windblown-portrait"></a>
-### Black and white seaside portrait with windblown hair
-
-<a href="https://x.com/SimplyAnnisa/status/2070720737426428068"><img src="../../previews/nano-banana-bw-seaside-windblown-portrait.jpg" width="360"></a>
-
-Locks the face to an uploaded reference with explicit identity and no beautification rules, then stacks disposable film grain, 85mm shallow focus and an extreme macro framing line. A closing list of negatives (no clean digital sharpness, no centered portrait) keeps the result looking candid.
-
-Nano Banana 2 · Edit · Source: [@SimplyAnnisa on X](https://x.com/SimplyAnnisa/status/2070720737426428068) · 102 likes on 2026-10-28
-
-[`black-and-white`](tags.md#tag-black-and-white) [`film-grain`](tags.md#tag-film-grain) [`macro-portrait`](tags.md#tag-macro-portrait) [`face-reference`](tags.md#tag-face-reference) [`coastal`](tags.md#tag-coastal)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Nano banana 2 on
-@Lart_AI
-
-
-https://
-lartai.com/?TG=10259
-Intimate Wind Whisper
-Composition: Extreme macro close-up focusing tightly on the face with wind-blown hair strands delicately framing the features and shallow focus on natural skin texture
-Prompt: Using the uploaded photo as the exact face reference. Keep the face identity 100% unchanged, do not alter facial features, proportions, expression structure, or skin details. No face distortion, no beautification, no AI-looking changes. Photorealistic candid snapshot taken on a low-quality disposable film camera, black and white cinematic film photography, authentic 35mm grain, subtle imperfections, natural texture, vintage analog look. The woman has full voluminous hair slightly messy and blown by ocean wind, strands of hair falling naturally across the face, chin slightly raised, eyes gently closed, dreamy peaceful expression, soft genuine smile. She is wearing a voluminous white dress, sitting on wet textured seaside rocks. The background shows a dramatic massive coastal cliff covered in mist under a heavy overcast grey sky creating a moody coastal atmosphere with raw cinematic realism. Natural diffused daylight casts soft shadows in an emotional editorial photography style, realistic film exposure, high dynamic range, shallow depth of field, shot on 85mm lens, cinematic framing, authentic documentary feeling. Extreme close-up macro framing tightly captures her face, highlighting the texture of her skin and the delicate strands of wind-blown hair resting across her closed eyes and smile, with the white dress softly visible at the lower frame edge and the misty cliff gently out of focus behind.
-no clean digital sharpness, no CGI look, no poster composition, no centered portrait, no black bars –ar 9:16
 ```
 
 </details>

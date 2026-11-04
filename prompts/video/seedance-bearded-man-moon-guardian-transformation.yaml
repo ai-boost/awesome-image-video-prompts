@@ -1,0 +1,27 @@
+id: seedance-bearded-man-moon-guardian-transformation
+title:
+  en: Bearded man with pink heart wand faces trolls
+  zh: 蓄胡男子手持粉色爱心魔杖直面巨魔
+model: Seedance 2.5
+mode: text-to-video
+category: scifi-fantasy
+tags:
+- fantasy
+- multi-shot
+- transformation
+- trolls
+source:
+  name: '@itsSaira_1 on X'
+  url: https://x.com/itsSaira_1/status/2109129359441457193
+  credit: itsSaira_1
+  captured: '2026-11-03'
+  posted: '2026-10-11'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/itsSaira_1/status/2109129359441457193
+notes:
+  en: A timed four-scene shot list with a camera and lighting line in each scene keeps the cathedral setting and costume change consistent across cuts. The shared negative prompt is written out in full so the same artifact controls apply to every scene.
+  zh: 带时间码的四段分镜，每段都写明镜头与光线，让大教堂场景和服装变化在切换中保持一致。统一的负面提示词完整写出，对每一段都生效，用于抑制畸形肢体和闪烁。
+prompt: |
+  low quality, low resolution, blurry, distorted face, extra limbs, bad anatomy, deformed hands, missing fingers, bad lighting, grainy, noise, glitch, cartoonish, low budget CGI, flickering, duplicate characters, distorted text.
+
+  #AIArt #VisualStorytelling #AI

@@ -1,0 +1,34 @@
+id: gpt-image-freckled-bangs-selfie-collage
+title:
+  en: Freckled woman in three selfie poses
+  zh: 雀斑女孩三联自拍拼图
+model: GPT Image 2.5
+mode: text-to-image
+category: collage
+tags:
+- collage
+- portrait
+- selfie
+- freckles
+source:
+  name: '@MissDelulu9 on X'
+  url: https://x.com/MissDelulu9/status/2116793013774975408
+  credit: Eesha
+  likes: 128
+  captured: '2026-11-03'
+  posted: '2026-11-01'
+notes:
+  en: Each panel gets its own pose, and the prompt states equal horizontal panels stacked vertically plus consistent facial identity, which keeps the three frames as one person. Freckles and beauty spots are placed by location on the cheeks and nose, which gives the skin a realistic texture.
+  zh: 每个面板单独描述姿势，并写明三个等高水平面板垂直堆叠、保持同一面部身份，使三张照片属于同一人。雀斑和痣按脸颊与鼻子的位置具体描述，让皮肤质感更写实。
+prompt: |
+  Create a vertical 3-photo collage featuring a beautiful young girl in three different cute selfie poses. Give her a completely different, naturally beautiful face with soft facial features, expressive hazel-green eyes, naturally thick eyelashes, a cute nose, and glossy rosy-pink lips. Add realistic tiny freckles and scattered natural beauty spots across her cheeks and nose.
+
+  She has long, thick, voluminous dark brown hair with soft layers and wispy curtain bangs. She wears subtle eye makeup, small silver hoop earrings, and has a cute, effortless aesthetic.
+
+  Photo 1: Close-up selfie with a soft, dreamy gaze, slightly messy hair falling across her face.
+
+  Photo 2: Playful expression with one hand near her lips, looking directly at the camera.
+
+  Photo 3: Resting her cheek on her palm with a cute pout and relaxed expression.
+
+  Keep all three photos in equal horizontal panels stacked vertically. Maintain consistent facial identity across all three panels.

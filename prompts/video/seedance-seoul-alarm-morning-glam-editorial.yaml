@@ -1,0 +1,27 @@
+id: seedance-seoul-alarm-morning-glam-editorial
+title:
+  en: Woman wakes to alarm beside skincare table
+  zh: 女子被闹钟叫醒，床边摆满护肤品
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- k-fashion
+- seoul
+- beauty
+- multi-shot
+source:
+  name: '@AIwithkhan on X'
+  url: https://x.com/AIwithkhan/status/2113244959990329635
+  credit: AIwithkhan
+  captured: '2026-11-03'
+  posted: '2026-10-22'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithkhan/status/2113244959990329635
+notes:
+  en: Each of the 15 shots gets a shot size, lens, and camera move plus an SFX cue, so the model gets a clear edit plan for every cut. The STYLE header at the top sets the look once and carries across all shots.
+  zh: 每个镜头都写明景别、焦段和运镜，并附一条音效提示，为每个剪辑点提供清晰的分镜计划。开头的 STYLE 段统一设定画风，适用于全部镜头。
+prompt: "STYLE: Hyper-realistic cinematic K-fashion editorial, Seoul street aesthetic, confident baddie energy, dynamic camera transitions, natural skin texture, glossy highlights, premium music-video cinematography, 4K, \n\nSHOT 1: ECU, 85mm push-in / Close-up of a smartphone alarm vibrating beside a Korean girl with long, silky black hair, flawless glam makeup, and glossy lips, sleeping in a fitted crop top and shorts. She opens her eyes and gives the camera a confident, unbothered stare / SFX: alarm buzz, bedsheet rustle.\n\nSHOT 2: WS, 35mm handheld / She sits up, stretches casually, tosses her hair back, and swings her legs off the bed. Morning sunlight illuminates her stylish bedroom, full of Korean beauty products and fashion accessories / SFX: mattress bounce, fabric rustle.\n\nSHOT 3: MCU, 50mm mirror slide / She washes her face, applies skincare, and studies her reflection before beginning her beauty routine. Water droplets catch the bathroom lighting / SFX: faucet rush, skincare\
+  \ bottle clicks.\n\nSHOT 4: ECU, 85mm macro / Match cuts of her applying eyeliner, shaping her brows, adding glossy lip tint, and placing delicate silver earrings. Every movement is precise and confident / SFX: makeup brush swishes, cosmetic cap clicks.\n\nSHOT 5: Bird's-eye, 35mm overhead / Her wardrobe opens to reveal trendy streetwear. She selects a fitted black top, a cropped leather jacket, a pleated mini skirt, knee-high boots, and a designer-style shoulder bag / SFX: hanger clinks, fabric movement, zipper pull.\n\nSHOT 6: MCU, 50mm push-in / She completes her outfit, adjusts her jacket, puts on sunglasses, and gives herself a final look in the mirror. A subtle smirk reveals her confident attitude / SFX: heel click, jewelry jingle.\n\nSHOT 7: WS, 24mm low-angle tracking / She walks through a stylish Seoul apartment corridor with effortless confidence, boots striking the floor as the camera tracks backward / SFX: rhythmic footsteps, door latch.\n\nSHOT 8: MS, 35mm gimbal tracking\
+  \ / Whip-pan transition to the streets of Gangnam. She walks past fashionable boutiques, glowing Korean signs, and sleek storefronts while pedestrians blur behind her / SFX: city ambience, traffic, footsteps.\n\nSHOT 9: MCU, 85mm slow-motion push-in / She removes her sunglasses, looks directly into the camera, and brushes her hair over one shoulder. Neon reflections shimmer across her glossy lips and jewelry / SFX: subtle whoosh, street ambience.\n\nSHOT 10: MS, 35mm handheld / She enters a trendy Korean café, orders an iced Americano, and casually checks her phone while leaning against the counter / SFX: café chatter, espresso machine, ice clinking.\n\nSHOT 11: Insert, 50mm macro / Close-up of manicured fingers holding an iced coffee cup, condensation sliding down the glass, followed by a stylish mirror selfie with her entire outfit visible / SFX: ice rattling, phone camera click.\n\nSHOT 12: WS, 24mm cinematic tracking / She steps into a luxury shopping district, passing glass storefronts\
+  \ and fashionable pedestrians. The camera follows her confident walk with smooth lateral movement and strong foreground parallax / SFX: heels clicking, distant traffic.\n\nSHOT 13: MCU, 50mm snap zoom / She stops at a crosswalk, lowers her sunglasses slightly, and gives the camera a playful, intimidating stare before the pedestrian signal changes / SFX: crosswalk beep, traffic passing.\n\nSHOT 14: WS, 35mm orbit / Golden-hour rooftop scene overlooking Seoul. She poses against the skyline, jacket moving gently in the breeze, then turns toward the camera with a confident half-smile / SFX: rooftop wind, distant city ambience.\n\nSHOT 15 ECU to WS, 85mm pull-out / Final beauty close-up of her eyes, glossy lips, and flawless makeup. She puts her sunglasses back on and walks away as the camera slowly pulls back, revealing the glowing Seoul skyline behind her / SFX: bass hit, heels fading, cinematic music ending.\n"

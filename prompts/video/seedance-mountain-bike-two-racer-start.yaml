@@ -1,0 +1,34 @@
+id: seedance-mountain-bike-two-racer-start
+title:
+  en: Two mountain bikers lined up on a start ramp
+  zh: 两名山地车手在山地起跑坡道就位
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- mountain-biking
+- sports
+- race
+source:
+  name: '@nawalsehar on X'
+  url: https://x.com/nawalsehar/status/2094294374381441152
+  credit: nawalsehar
+  captured: '2026-11-03'
+  posted: '2026-08-31'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/nawalsehar/status/2094294374381441152
+notes:
+  en: The prompt fixes the cast to exactly two riders with a clear gender split and a timed sequence of launch, lead change and finish, which keeps both riders consistent across the clip. Concrete lens and sound cues such as a telephoto finish, slow motion jumps and tire and chain sounds give the model a specific shot grammar and audio target.
+  zh: 提示词把人物固定为两名车手，并明确性别分工，再按起跑、超越、冲线的顺序写清时间线，使两人在整段视频中保持一致。长焦冲线、慢动作跳跃以及轮胎和链条声等镜头与声音线索，为模型提供了具体的镜头语言和音效目标。
+prompt: |
+  Ultra-photorealistic cinematic vertical video of an Olympic-level mountain-bike final featuring exactly two elite racers, one female and one male, competing head-to-head on a steep, technical downhill MTB course. Both riders launch together at full speed, aggressively navigating rugged rocks, exposed roots, loose gravel, steep drops, jumps, and muddy corners.
+
+  The female racer takes an early lead, attacking technical sections with precise body positioning and controlled braking. The male racer closes the gap through a deep muddy corner, spraying dirt and water as both riders push their suspension and tires to the limit. They emerge side-by-side into the final section, sprinting aggressively toward the finish line.
+
+  Final sequence: dramatic telephoto shot as both riders accelerate at maximum effort, handlebars nearly aligned, with the female racer crossing the finish line just a fraction of a wheel ahead of the male racer.
+
+  Premium Olympic sports cinematography, dynamic low tracking shots, fast side angles, close-up wheel and suspension shots, slow-motion jump footage, realistic telephoto finish shot, natural motion blur, subtle camera vibration, authentic race-day atmosphere, realistic tire traction, suspension compression, braking, cornering, jump physics, dirt displacement, body movement, and human biomechanics.
+
+  Bright natural daylight, realistic shadows, detailed mud and gravel textures, cinematic depth of field, crisp photorealistic details, high-energy professional sports-film aesthetic, authentic mountain-bike race audio, intense tire and chain sounds, 30-second duration.
+
+  No CGI appearance, no extra racers, no spectators blocking the riders, no impossible jumps, no teleportation, no floating bikes, no unrealistic physics, no distorted anatomy, no changing riders or equipment, no excessive camera shake, no text, no logos, no watermark.

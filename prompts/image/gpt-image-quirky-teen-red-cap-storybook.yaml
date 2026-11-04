@@ -1,0 +1,40 @@
+id: gpt-image-quirky-teen-red-cap-storybook
+title:
+  en: Quirky teen boy in red cap and glasses
+  zh: 戴红白棒球帽和眼镜的古怪少年
+model: GPT Image 2.5
+mode: text-to-image
+category: character
+tags:
+- hand-drawn
+- 2d-cartoon
+- character-design
+- storybook
+source:
+  name: '@Ziha_ai on X'
+  url: https://x.com/Ziha_ai/status/2116117087206941048
+  credit: Ziha
+  likes: 436
+  captured: '2026-11-03'
+  posted: '2026-10-30'
+notes:
+  en: A fixed character sheet of body traits, outfit items and props is followed by one art-style block that sets the line, paper and colour cues, which keeps a full body figure consistent. The plain ivory background and the explicit full body vertical framing leave room around the figure and keep every outfit item readable.
+  zh: 先用固定的角色清单写清体型、服装和道具，再用统一的画风段落规定线稿、纸纹和色彩，让全身角色前后保持一致。留白的米色背景和明确的全身竖版构图，让每件服饰都清晰可辨。
+prompt: |
+  Create a highly detailed, hand-drawn 2D cartoon character illustration in a charming, nostalgic animated movie style.
+
+  Character: A quirky, slim teenage boy with an oversized head, a long narrow neck, slightly messy light brown hair, large rectangular black-framed glasses, a small nose, and a subtle awkward expression. His eyes are wide and slightly looking to the side, giving him a thoughtful, curious personality.
+
+  Outfit: A vintage red and cream baseball cap, oversized brown short-sleeve shirt worn open over a light grey graphic T-shirt, faded blue jeans, and a casual backpack. A small vintage camera hangs around his neck. He holds a red takeaway soda cup with a straw in one hand while casually crossing his arms.
+
+  Art Style: Beautiful hand-drawn 2D animation, expressive cartoon anatomy, slightly exaggerated proportions, delicate sketchy black outlines, soft watercolor textures, subtle colored pencil shading, imperfect hand-painted details, warm muted colors, and a nostalgic illustrated storybook aesthetic.
+
+  Background: Minimal plain warm ivory textured paper background with subtle grain, no distracting elements.
+
+  Composition: Full-body vertical character portrait, character standing naturally in the center, relaxed posture, entire outfit visible, generous negative space around the character.
+
+  Lighting and Texture: Soft natural lighting, gentle shadows, matte paper texture, slightly imperfect traditional illustration finish.
+
+  Aspect Ratio: 9:16 portrait.
+
+  Quality: Extremely detailed character design, polished traditional 2D animation illustration, consistent anatomy, beautiful facial expression, no photorealism, no 3D rendering, no text, no watermark.

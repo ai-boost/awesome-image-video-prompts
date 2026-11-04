@@ -1,6 +1,6 @@
 # 海报与编辑排版
 
-[返回目录](../../README_zh.md) · 全部 200 条 · **1** · [2](image-poster-2.md)
+[返回目录](../../README_zh.md) · 全部 202 条 · **1** · [2](image-poster-2.md)
 
 <a id="gpt-image-flat-vector-city-travel-poster-template"></a>
 ### 适用任意城市的扁平矢量旅行海报模板
@@ -2808,6 +2808,39 @@ Behance-quality branding composition
 Same exact visual identity and layout as the reference
 
 Ultra high resolution
+```
+
+</details>
+
+<a id="nano-banana-reflection-sketch-editorial-poster"></a>
+### 毛衣女子的照片与线稿海报
+
+<a href="https://x.com/Aiwithkami/status/2116779779294638205"><img src="../../previews/nano-banana-reflection-sketch-editorial-poster.jpg" width="360"></a>
+
+画面分为上方实拍照片和下方轮廓线稿两段，标题与波浪线装饰都围绕同一主体。提示词明确锁定脸部、姿态和服装，使线稿与参考照片保持同一人物。
+
+Nano Banana 2.1 · 上传图改图 · 出处: [@Aiwithkami on X](https://x.com/Aiwithkami/status/2116779779294638205) · 253 赞，统计于 2026-11-03
+
+[`editorial`](tags.md#tag-editorial) [`line-art`](tags.md#tag-line-art) [`exhibition-poster`](tags.md#tag-exhibition-poster)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Transform the provided reference photograph into a sophisticated, premium editorial art poster while preserving the original subject exactly as shown.
+
+Composition: Create a vertical 4:5 editorial layout divided into two sections. The upper section features the original photograph in full color, maintaining the exact face, identity, pose, clothing, objects, proportions, and natural details. Do not beautify, retouch, or alter the subject.
+
+The lower section transforms the same photograph into an elegant, artistic illustration on a warm ivory, textured paper background. Recreate the subject using delicate flowing contour lines, fine engraved linework, subtle crosshatching, and elegant hand-drawn strokes. Preserve the subject’s original silhouette, facial features, pose, and recognizable details.
+
+Typography: Add a large, refined editorial headline on the lower section, positioned to the left with generous spacing. Use sophisticated high-contrast serif typography inspired by luxury fashion magazines. Choose a short, meaningful title that matches the photograph. Add small uppercase supporting text on the left and right, with wide letter spacing and minimalist editorial details.
+
+Art direction: Minimalist luxury magazine aesthetic, Japanese editorial design influence, vintage printmaking, fine-line illustration, warm cream paper grain, subtle natural imperfections, delicate flowing wave patterns surrounding the subject, muted earthy accents, restrained color palette, balanced negative space, elegant visual hierarchy, museum-quality art direction.
+
+Color palette: Warm ivory, soft beige, muted gold, dusty brown, or subdued green, selected to complement the original photograph.
+
+Important requirements: Keep the upper photograph realistic and unchanged. The lower illustration must depict the exact same subject and scene, not a different interpretation. Maintain accurate anatomy, original colors where appropriate, and recognizable details. Text should be clean, correctly spelled, and professionally typeset. No extra subjects, no distorted features, no excessive effects, no artificial facial enhancement, no watermarks.
+
+Final result: A premium, collectible editorial art poster combining an authentic photograph with a delicate, hand-drawn contour illustration, resembling a high-end photography exhibition poster.
 ```
 
 </details>
@@ -7185,29 +7218,6 @@ No unnecessary props. No cluttered street scene. No random floating spice partic
 FINAL OUTPUT:
 A striking 4:5 portrait Maggi billboard key visual with authentic brand presence, extraordinary food texture, dramatic sunrise lighting, monumental editorial typography, premium FMCG art direction, and a subtle Murphy AI signature.
 The image should feel ready for a major outdoor advertising campaign: visually immediate, commercially polished, appetizing at first glance, and memorable from a distance.
-```
-
-</details>
-
-<a id="gpt-image-neon-designer-poster-puppy-chibi"></a>
-### 霓虹设计师海报，含小狗与Q版手办
-
-<a href="https://x.com/HaniaAi12/status/2063413890755817700"><img src="../../previews/gpt-image-neon-designer-poster-puppy-chibi.jpg" width="360"></a>
-
-低角度镜头让前景球鞋显得巨大，同时用展示底座上的Q版手办形成第二个视觉焦点。明确写出光泽反光、体积光晕等光影词与9:16竖版构图，让整体保持高端玩具摄影质感。
-
-GPT Image 2 · 文生图 · 出处: [@HaniaAi12 on X](https://x.com/HaniaAi12/status/2063413890755817700) · 60 赞，统计于 2026-10-29
-
-[`poster`](tags.md#tag-poster) [`neon-blue`](tags.md#tag-neon-blue) [`chibi`](tags.md#tag-chibi) [`3d-render`](tags.md#tag-3d-render)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create an ultra-detailed 3D stylized creative designer poster featuring a cool young digital artist standing confidently in the center of a futuristic blue neon studio. The character wears oversized black streetwear with electric-blue graphic accents, black cargo pants, layered silver chains, black sunglasses, and clean white sneakers. A cute fluffy puppy sits on the artist's shoulder. The camera angle is dramatic low-angle perspective, making the sneakers appear larger for a premium poster effect.
-
-Surround the character with floating creative elements including a glowing laptop, professional camera, design books, notebooks, 3D icons, social media symbols, holographic UI panels, graphic design tools, and futuristic blue geometric shapes. Add motivational typography such as "DESIGN MODE", "CREATE • BUILD • INSPIRE", and "CREATIVE NEVER SLEEPS" integrated into the scene.
-
-Include a collectible chibi mini-figure version of the character standing beside the main subject on a display base. Use cinematic blue lighting, glossy reflections, volumetric glow, depth of field, floating particles, luxury toy-photography aesthetics, high-end 3D rendering, Octane Render quality, ultra-sharp details, vibrant neon blue color palette, futuristic creator workspace atmosphere, premium commercial poster design, trending ArtStation style, masterpiece quality, 8K resolution, vertical 9:16 composition.
 ```
 
 </details>

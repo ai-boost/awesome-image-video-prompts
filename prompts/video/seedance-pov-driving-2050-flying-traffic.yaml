@@ -1,0 +1,128 @@
+id: seedance-pov-driving-2050-flying-traffic
+title:
+  en: Woman driving under flying cars in 2050
+  zh: 2050年女子驾车穿越飞行车流
+model: Seedance 2.5
+mode: text-to-video
+category: scifi-fantasy
+tags:
+- pov
+- sci-fi
+- flying-cars
+- dashboard-camera
+source:
+  name: '@Just_sharon7 on X'
+  url: https://x.com/Just_sharon7/status/2112913908617158822
+  credit: Just_sharon7
+  captured: '2026-11-03'
+  posted: '2026-10-21'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Just_sharon7/status/2112913908617158822
+notes:
+  en: A fixed dashboard camera POV for interior shots alternates with high aerial tracking shots, so the flying traffic reads as ordinary to the driver. Timed scene beats, a hard cut structure and a negative prompt against face and hair drift keep the character consistent across cuts.
+  zh: 固定的仪表盘车内视角与高空跟拍镜头交替出现，让空中车流显得习以为常，司机几乎无动于衷。分段时间码、硬切结构，加上针对脸部和发色漂移的负面提示，保证多个镜头之间人物一致。
+prompt: |
+  TITLE: POV — DRIVING IN 2050
+
+  Create a 10-second ultra-photorealistic futuristic video showing a beautiful young woman casually driving along a highway in the year 2050, while hundreds of autonomous flying vehicles travel overhead in perfectly organized aerial traffic lanes.
+
+  MAIN CHARACTER — STRICT IDENTITY CONSISTENCY
+
+  A beautiful 23-year-old woman with long, straight pastel-pink hair, delicate facial features, realistic fair skin with visible natural texture, soft pink makeup, and subtle glossy lips.
+
+  She wears:
+  A fitted blue denim sleeveless top.
+  A futuristic metallic silver choker necklace.
+  Bright blue statement earrings.
+  A black seatbelt across her chest.
+
+  Maintain her exact face, hairstyle, outfit, proportions, and accessories throughout.
+
+  SCENE 1 — 0:00–0:02 | INSIDE THE CAR
+  Start with a fixed dashboard-mounted smartphone camera facing the woman from the passenger side.
+
+  She sits behind the steering wheel of a modern luxury vehicle, driving casually.
+
+  Warm golden-hour sunlight streams through the side window, illuminating her pink hair and face.
+
+  She looks ahead at the road, then briefly glances toward the camera with a subtle, amused smile.
+
+  The vehicle interior is realistic, with black leather seats, a dark roof, and natural windshield reflections.
+
+  SCENE 2 — 0:02–0:04 | THE FUTURISTIC HIGHWAY REVEAL
+
+  Hard cut to a spectacular elevated wide-angle view of a massive multilane highway at sunset.
+  A dark luxury SUV drives along the nearly empty highway.
+
+  Above the highway, hundreds of futuristic autonomous flying vehicles hover and travel in tightly organized aerial traffic lanes.
+
+  The flying vehicles have compact aerodynamic bodies, metallic silver and dark-gray surfaces, and advanced concealed propulsion systems.
+
+  They move smoothly in synchronized formations, maintaining precise distances from one another.
+
+  Some fly directly above the highway while others stretch toward the horizon, creating a dense futuristic transportation network.
+
+  Golden sunlight reflects off their metallic surfaces.
+
+  SCENE 3 — 0:04–0:06 | BACK TO THE DRIVER
+
+  Hard cut back to the same dashboard camera angle.
+
+  The pink-haired woman continues driving completely unfazed by the extraordinary traffic system outside.
+  She rests one hand naturally on the steering wheel and looks toward the windshield with a playful, slightly impressed expression.
+
+  Sunlight shifts across her face as the vehicle moves.
+
+  Her facial movements are subtle, natural, and believable.
+
+  SCENE 4 — 0:06–0:08 | MASSIVE AERIAL TRAFFIC
+
+  Cut to a dramatic elevated tracking shot following the dark SUV along the highway.
+
+  The camera reveals an enormous formation of flying vehicles stretching across the sky.
+
+  Several vehicles glide directly above the camera while hundreds more move across multiple aerial levels.
+  The futuristic traffic looks technologically advanced but physically believable.
+
+  Below, the dark SUV continues along the sunlit road, appearing tiny beneath the immense aerial transportation network.
+
+  Warm orange sunlight, long road shadows, atmospheric haze, and realistic metallic reflections create a spectacular cinematic atmosphere.
+
+  SCENE 5 — 0:08–0:10 | FINAL REACTION
+
+  Cut back inside the car.
+
+  The same pink-haired woman looks toward the camera and gives a small, knowing smile before returning her attention to the road.
+
+  Golden sunlight illuminates her face.
+
+  End on her calm, confident expression.
+  CAMERA AND VISUAL STYLE
+
+  Authentic smartphone dashboard-camera footage for interior shots.
+
+  Spectacular aerial cinematography for exterior shots.
+
+  Realistic handheld micro-vibrations inside the moving car.
+
+  Natural sunlight, believable shadows, and atmospheric depth.
+
+  Photorealistic flying vehicles with convincing scale, movement, and reflections.
+
+  Smooth aerial tracking with realistic motion blur.
+  Warm sunset color palette.
+  Natural skin texture, visible pores, realistic hair movement.
+  Strong contrast between ordinary everyday driving and extraordinary futuristic transportation.
+  ON-SCREEN TEXT
+  Small, simple white text reading "2050" positioned near the top center throughout the video.
+  AUDIO
+  Natural road noise, soft futuristic electric propulsion hums, subtle wind sounds, and a dreamy futuristic electronic soundtrack.
+  NEGATIVE PROMPT
+
+  No cartoon rendering, no anime, no video-game graphics, no artificial CGI-looking humans, no face morphing, no changing hair color, no inconsistent outfits, no distorted steering wheel, no extra fingers, no unrealistic flying vehicle collisions, no chaotic flight patterns, no flickering objects, no unnatural facial expressions, no excessive neon lighting, no dark nighttime setting.
+
+  FINAL GOAL
+
+  Make the video feel like an authentic viral social media clip recorded in the year 2050, where flying cars have become so ordinary that the woman barely reacts to hundreds of them passing overhead.
+
+  #DomoAI #DomoAICPP

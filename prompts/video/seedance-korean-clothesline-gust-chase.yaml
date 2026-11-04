@@ -1,0 +1,36 @@
+id: seedance-korean-clothesline-gust-chase
+title:
+  en: Woman chases laundry blown off a clothesline
+  zh: 女子追逐被风吹走的晾晒衣物
+model: Seedance 2.5
+mode: reference-to-video
+category: vlog
+tags:
+- dv-camcorder
+- handheld
+- korean
+- character-consistency
+source:
+  name: '@AIwithkhan on X'
+  url: https://x.com/AIwithkhan/status/2095485437821464808
+  credit: AIwithkhan
+  captured: '2026-11-03'
+  posted: '2026-09-03'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithkhan/status/2095485437821464808
+notes:
+  en: A locked character block and a fixed courtyard location keep the look consistent, while early 2000s DV camcorder cues such as handheld shake, autofocus hunting and exposure pumping sell the candid feel. A clear beat sequence, from the gust to the chase to a second item blowing away, gives the comedy a readable arc, and the glance to camera lands the punchline.
+  zh: 锁定的角色描述和固定的院子场景保证形象稳定，早期 2000 年代 DV 摄像机的手持抖动、自动对焦跳动和曝光波动营造纪实感。从被风吹走、追赶、落到自行车上，再到第二件衣服又飞走，节奏清晰，回望镜头的表情就是笑点。
+prompt: |
+  GIRL = MAIN CHARACTER: Young Korean woman in her early 20s, natural makeup, black wavy hair tied into a messy side ponytail, loose peach T-shirt, white pajama pants, black sneakers and simple necklace. Maintain exact identity and appearance.
+
+  LOCATION: Small Korean apartment courtyard during a warm windy afternoon. Concrete walls, laundry lines, potted plants, bicycles and neighboring homes.
+
+  CAMERA / LOOK: Early-2000s consumer DV camcorder. Strong handheld shake, autofocus hunting, exposure pumping, faded colors, soft contrast, motion blur and imperfect zooms.
+
+  SEQUENCE:
+  She hangs freshly washed clothes on a long outdoor clothesline. Everything looks calm until a sudden strong gust sends one shirt flying off the line. She runs after it while laughing. The camera operator follows shakily. The shirt lands on a parked bicycle. She grabs it, tries to hang it again, and another piece of laundry immediately blows away. She looks toward the camera in disbelief before chasing it down the lane.
+
+  AUDIO: Wind, fabric flapping, birds, footsteps, distant scooters and neighborhood voices. No music.
+
+  Candid domestic humor, realistic fabric movement, nostalgic DV imperfections and believable everyday chaos.

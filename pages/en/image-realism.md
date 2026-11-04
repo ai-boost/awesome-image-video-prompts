@@ -1,6 +1,6 @@
 # Photo realism
 
-[Back to the list](../../README.md) · All 98 entries
+[Back to the list](../../README.md) · All 100 entries
 
 <a id="gpt-image-coca-cola-tanker-leak-mentos-truck-dashcam"></a>
 ### Coca Cola tanker leaking beside Mentos truck
@@ -1369,6 +1369,29 @@ PALETTE: deep navy, near-black water, brilliant magenta, electric cyan, warm amb
 
 </details>
 
+<a id="nano-banana-ten-twins-raincoats-finger-count"></a>
+### Ten identical twins in raincoats counting fingers
+
+<a href="https://x.com/HarshithLucky3/status/2107218246973915148"><img src="../../previews/nano-banana-ten-twins-raincoats-finger-count.jpg" width="360"></a>
+
+Assigning each subject a distinct colour and a distinct finger count gives the model a checkable per-subject rule, and clearly visible hands keeps the counts readable. Individual finger counts can still slip, so check each figure.
+
+Nano Banana 2.1 · Text-to-image · Source: [@HarshithLucky3 on X](https://x.com/HarshithLucky3/status/2107218246973915148) · 127 likes on 2026-11-03
+
+[`counting`](tags.md#tag-counting) [`identical-twins`](tags.md#tag-identical-twins) [`raincoat`](tags.md#tag-raincoat)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Nano Banana 2.1 in Google Flow
+
+this is almost perfect but missed that 8
+
+> Prompt: 10 identical twins in different colored raincoats, each holding a different number of fingers up (1 to 10), clearly visible hands
+```
+
+</details>
+
 <a id="nano-banana-kfc-bag-head-wink-booth"></a>
 ### Woman winking with KFC bag on head
 
@@ -1807,6 +1830,25 @@ Cut to a dramatic slow-motion shot of the woman lifting an enormous croissant ab
 Finish with a warm emotional close-up: the woman sits at the picnic table, smiling while holding a strawberry-covered piece of toast. A cute squirrel sits beside her and a rabbit approaches gently from the other side. She looks toward the animals and smiles naturally.
 
 Make the entire video visually rich, magical yet believable, with realistic animal movements, detailed fur, realistic food textures, natural human motion, cinematic depth of field, golden-hour lighting, volumetric sun rays, subtle lens flare, smooth camera transitions, professional commercial-film quality, highly detailed photorealism, realistic shadows, consistent character identity, vertical 9:16 format, no glitches, no deformed anatomy, no duplicate animals, no text, no watermark.
+```
+
+</details>
+
+<a id="gpt-image-moonlit-firefly-path-city-skyline"></a>
+### Moonlit cobblestone path with fireflies and city
+
+<a href="https://x.com/churvikv/status/2117674598577701108"><img src="../../previews/gpt-image-moonlit-firefly-path-city-skyline.jpg" width="360"></a>
+
+Describing the scene in depth order, from the foreground path through the grass to the skyline, and naming the moon as the focal point controls the layout. The realism with a touch of fantasy phrase sets the mood without over-specifying lighting.
+
+GPT Image 2.5 · Text-to-image · Source: [@churvikv on X](https://x.com/churvikv/status/2117674598577701108) · 76 likes on 2026-11-03
+
+[`landscape`](tags.md#tag-landscape) [`night`](tags.md#tag-night) [`fantasy`](tags.md#tag-fantasy) [`fireflies`](tags.md#tag-fireflies)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A moonlit night scene with a cobblestone path winding through tall grass illuminated by glowing orbs, possibly fireflies, leading toward a distant city skyline under a star-filled sky. The composition is balanced with the moon as a focal point, and the style combines realism with a touch of fantasy, evoking a calm and enchanting mood.
 ```
 
 </details>

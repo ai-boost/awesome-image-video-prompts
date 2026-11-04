@@ -1,0 +1,61 @@
+id: seedance-saint-varchen-cathedral-battle
+title:
+  en: Armored hero fights two creatures in flooded cathedral
+  zh: 身披装甲的英雄在水淹大教堂中迎战两个怪物
+model: Seedance 2.5
+mode: reference-to-video
+category: scifi-fantasy
+tags:
+- dark-fantasy
+- superhero
+- reference-lock
+- creature-battle
+source:
+  name: '@Xaroon_x on X'
+  url: https://x.com/Xaroon_x/status/2113500487328706937
+  credit: Xaroon_x
+  captured: '2026-11-03'
+  posted: '2026-10-23'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Xaroon_x/status/2113500487328706937
+notes:
+  en: A HERO LOCK ties identity to @image1 while a timestamped 30-second beat sheet with exact audio cue times keeps the fight readable. Continuity rules on physical impacts and no identity change stop the look from drifting across cuts.
+  zh: 用 @image1 锁定主角身份，并以精确到秒的时间线和音效节点编排打斗，配合连贯性约束防止镜头之间外观漂移。
+prompt: |
+  THE LAST LIGHT OF SAINT VARCHEN
+
+  [ENGINE DIRECTIVE]
+  Genre: Supernatural dark-fantasy superhero cinema. Duration: exactly 30 seconds. Format: 16:9, 60fps where supported. Photorealistic Hollywood realism, realistic skin, wet materials, volumetric rain, cinematic lighting and natural motion blur.
+
+  HERO LOCK: Use @image1 as the sole hero. Preserve the exact face, skin tone, hairstyle, beard, age, body proportions and identity. Begin in the reference outfit, then transform into a matte midnight-graphite tactical suit with segmented armor and glowing gold energy seams. Face remains uncovered. No cape, helmet, logos or clones. Combat uses fists, bracers and gold kinetic energy.
+
+  CREATURES:
+
+  1. THE HOLLOWHORN: A towering 4-meter revenant with a skeletal stag skull, broken antlers, rusted chains, black smoke and pale-blue glowing eyes. Heavy, powerful attacks.
+  2. THE SPLINTER: A fast, long-limbed ash wraith with a cracked porcelain mask, elongated fingers and a translucent body.
+
+  LOCATION: Flooded, ruined Cathedral of Saint Varchen at night. Violent storm, shattered rose window, broken pillars, ankle-deep black water, blue-white candles and a collapsed roof. Creatures attack from frame-right.
+
+  [30-SECOND TIMELINE]
+
+  00:00–00:05 | THE DROWNED NAVE
+  Descend through the broken roof into the flooded cathedral. Show rippling water, candle reflections and the hero standing still in the original outfit. Two blue eyes open in the darkness. Thunder strikes at 00:04.
+
+  00:05–00:10 | THE WARDENS AWAKEN
+  The Hollowhorn crashes into the water, chains swinging, while the Splinter clings upside down to a pillar. The hero raises one hand as gold energy gathers. At 00:09, lightning strikes through the roof.
+
+  00:10–00:15 | TRANSFORMATION
+  In slow motion, gold particles replace the outfit as graphite armor assembles across the body. Gold seams ignite and a shockwave blasts both creatures backward. The Splinter lunges; the hero catches its wrist and throws it into a pillar.
+
+  00:15–00:20 | THE REVERSAL
+  The hero dodges a chain, lands a gold-powered uppercut, then gets smashed into a pillar. The Splinter pins the hero while the Hollowhorn lifts the hero by the throat. Gold energy flickers.
+
+  00:20–00:25 | THE BREAK
+  Near-silence at 00:21. The hero reignites, breaks the Hollowhorn's grip, strikes through the Splinter's torso and slams it into the marble, cracking the floor. The Hollowhorn charges.
+
+  00:25–00:30 | FINAL STRIKE
+  The hero leaps and punches through the Hollowhorn's skull with a gold-powered fist at 00:26.5. Both creatures disintegrate into embers and ash. The hero lands, rises, and faces dawn illuminating the shattered rose window. Cut to black exactly at 00:30.
+
+  [AUDIO] Original orchestral dark-fantasy score, deep drones, choir, taiko, heavy brass and percussion. Sync thunder at 00:04, lightning impact at 00:09, transformation bass drop at 00:11, fight impacts from 00:13, near-silence at 00:21 and final boom at 00:26.5. End with heroic brass, soft rain and silence at 00:30.
+
+  CONTINUITY: Physically grounded impacts, consistent damage, readable action, motivated camera movement, selective slow motion and no identity changes.

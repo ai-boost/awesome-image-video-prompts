@@ -1,0 +1,36 @@
+id: seedance-halloween-pumpkin-village-chase
+title:
+  en: Woman walks a foggy pumpkin path at midnight
+  zh: 午夜雾中南瓜小径上的黑裙女子
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- halloween
+- horror
+- pumpkin
+- fog
+source:
+  name: '@AIwithSynthia on X'
+  url: https://x.com/AIwithSynthia/status/2115064426315530749
+  credit: AIwithSynthia
+  captured: '2026-11-03'
+  posted: '2026-10-27'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithSynthia/status/2115064426315530749
+notes:
+  en: The prompt is written as an ordered sequence of story beats with a fixed character description, which keeps the same woman consistent from shot to shot. Concrete lighting and atmosphere terms such as volumetric fog and dramatic orange lighting set the mood, and the explicit ban on cartoon or anime styling keeps the output in live-action realism.
+  zh: 提示词按时间顺序写成一连串剧情节点，并固定了人物外观描述，使同一女子在各镜头中保持一致。体积雾和橙色戏剧光等具体光影词定下氛围，明确排除卡通或动漫风格则保证画面是真人实拍质感。
+prompt: |
+  Create an ultra-realistic Halloween horror video starring a beautiful young adult woman in a fitted black dress and black boots.
+  She walks through a haunted village at midnight, surrounded by glowing jack-o'-lanterns, twisted trees, and thick fog.
+  She discovers a giant black pumpkin beside an abandoned house and cautiously touches its surface.
+  Its eyes suddenly glow orange as every pumpkin around her turns toward her.
+  Black smoke erupts from the ground, and a terrifying pumpkin-headed monster rises behind her.
+  She turns around in terror and runs through the creepy pumpkin-lined pathway.
+  Bats swarm overhead, candles flicker, and ghostly shadows chase her through the fog.
+  She stumbles and discovers the enormous monster standing directly behind her.
+  The creature opens its jagged mouth and lunges toward the camera for a terrifying jump scare.
+  Use cinematic tracking shots, realistic facial expressions, detailed pumpkins, dramatic orange lighting, and volumetric fog.
+  Maintain consistent character appearance, natural movement, escalating suspense, and AAA live-action horror realism.
+  No cartoon, anime, or stylized animation.

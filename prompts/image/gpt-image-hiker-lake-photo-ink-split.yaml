@@ -1,0 +1,50 @@
+id: gpt-image-hiker-lake-photo-ink-split
+title:
+  en: Hiker photographing a lake, photo and ink drawing
+  zh: 徒步者湖边拍照，照片与手绘线稿对照
+model: GPT Image 2.5
+mode: image-edit
+category: photo-to-art
+tags:
+- ink-illustration
+- split-composition
+- photo-to-art
+- outdoor
+source:
+  name: '@Ziha_ai on X'
+  url: https://x.com/Ziha_ai/status/2117173539422065021
+  credit: Ziha
+  likes: 147
+  captured: '2026-11-03'
+  posted: '2026-11-02'
+notes:
+  en: The prompt splits the canvas into a 50/50 photo top and a two-colour ink redraw below, so the same scene reads side by side. It keeps the key identifiers such as the beanie, camera and backpack while reducing the background to bold silhouettes, flat lake lines and sparse dots on a single jacket.
+  zh: 提示词把画面上下各分一半，上半保留原照片，下半用纯白与近黑的粗线手绘重绘同一场景，便于对照。背景简化为剪影、平面水线和留白，只在一件夹克上加少量圆点，同时保留帽子、相机、背包等识别特征。
+prompt: |
+  Create a premium, full-bleed 3:4 vertical editorial poster using the uploaded photograph as the sole reference. Divide the canvas into exactly two equal horizontal halves (50/50), without borders, dividers, text, or labels.
+
+  TOP HALF — ORIGINAL PHOTOGRAPH
+
+  Preserve the photograph faithfully, maintaining the subjects' identities, facial features, expressions, hairstyles, clothing, poses, important objects, natural colors, lighting, and atmosphere. Allow only minimal cropping to fit the composition. Do not reconstruct, stylize, or alter the original image.
+
+  BOTTOM HALF — HAND-DRAWN ILLUSTRATION
+
+  Recreate the same scene as a playful, minimalist, hand-inked screen-print illustration using strictly two colors: pure white (#FFFFFF) for the background and near-black (#080807) for outlines and solid shapes.
+
+  Use bold, broad, imperfect marker or brush strokes with organic contours, visible hand-drawn wobble, and natural pressure variations. Avoid thin, smooth, vector-like lines.
+
+  Simplify people into expressive cartoon-like characters with rounded irregular heads, minimal facial features, friendly expressions, mitten-shaped hands, and chunky limbs. Preserve recognizable hairstyles, glasses, accessories, poses, and interactions. Apply the same playful simplification to animals and other subjects.
+
+  Retain the original scene's main subjects, important objects, visual story, and relationships while removing 70–90% of unnecessary background details. Use bold silhouettes, flat shapes, and generous white negative space. Add small, dense, irregular black dots to no more than one suitable garment or textile area.
+
+  STYLE & RESTRICTIONS
+
+  Maintain a warm, spontaneous, handcrafted editorial aesthetic. The illustration must remain flat, graphic, and expressive.
+
+  Avoid photorealism, 3D effects, gradients, gray tones, shadows, realistic shading, additional colors, excessive details, corporate icon aesthetics, mechanical symmetry, malformed anatomy, extra fingers, and detached hands.
+
+  Do not introduce unrelated characters, objects, or activities. No text, letters, numbers, logos, signatures, watermarks, decorative frames, or additional panels.
+
+  FINAL COMPOSITION
+
+  The finished poster must present the exact same visual story twice: the authentic original photograph in the upper half and its expressive black-ink, hand-drawn interpretation against a pure white background in the lower half. Maintain a precise 50/50 division, consistent composition, and premium editorial finish.

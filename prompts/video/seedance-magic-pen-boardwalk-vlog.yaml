@@ -1,0 +1,65 @@
+id: seedance-magic-pen-boardwalk-vlog
+title:
+  en: Night boardwalk vlog with glowing magic marker
+  zh: 夜晚海滨步道，手持发光魔法笔的第一视角
+model: Seedance 2.5
+mode: text-to-video
+category: vfx
+tags:
+- pixel-art
+- first-person
+- handheld
+- boardwalk
+source:
+  name: '@Ciri_ai on X'
+  url: https://x.com/Ciri_ai/status/2096441071534559403
+  credit: Ciri_ai
+  captured: '2026-11-03'
+  posted: '2026-09-06'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Ciri_ai/status/2096441071534559403
+notes:
+  en: Each transformation beat repeats the same fixed sequence, and the real hand holding the marker stays in frame as the visual anchor. Handheld shake, autofocus hunting and whip pans are spelled out so the sprites read as a phone recording rather than a clean CG edit.
+  zh: 每个变身节点都重复同一固定顺序，手持发光记号笔的真实手部始终留在画面中作为视觉引导。提示词明确写出手持抖动、自动对焦波动和快速甩镜，让像素精灵看起来像手机实拍而不是干净的特效合成。
+prompt: |
+  Magic Pen Beach Boardwalk Vlog · 15 Seconds · Vertical 9:16
+  [STYLE]
+  Live-action + flat pixel-art sprite compositing, first-person night boardwalk magic vlog. 8K photorealistic detail with the authentic look of a real smartphone rear-camera recording. Strong visual contrast between the photorealistic boardwalk and blocky 16-bit pixel-art objects. One continuous handheld smartphone shot. No cuts. No scene transitions.
+  [CAMERA]
+  Raw, unstabilized handheld smartphone footage: natural walking shake, subtle arm sway, occasional autofocus hunting, realistic exposure shifts between string lights and dark shadows, slight rolling-shutter jelly during fast pans. Natural smartphone night-mode color grading — warm highlights, slightly noisy shadows. Camera whip-pans quickly to follow the marker and each target.
+  [LIGHTING]
+  String lights and neon signage casting warm, uneven light along the boardwalk. Every real object and every pixel-art object casts a soft glowing rim-light matching the nearest light source.
+  [SETTING]
+  One continuous walk along a lively seaside boardwalk at night. Arcade stalls, a carousel, food carts, skateboarders, and the ocean visible in the background. Everyday nightlife, with background crowds and lights moving naturally.
+  [PEN — MAGIC RULES]
+  The vlogger's real hand, photorealistic skin and visible pores, holds a glowing yellow marker and remains visible throughout, serving as the visual guide connecting every beat.
+  Every transformation follows the exact same sequence:
+  Marker points → Vlogger says "Zap!" → yellow pixel-grid lines snap around the target → pixels crystallize outward → the target transforms into a chunky 16-bit sprite with hard-edged pixel shading.
+  The transformed object must preserve its exact size, position, speed, direction, and perspective, remaining perfectly anchored to the real environment. Sprites retain flat pixel shading and are never relit by real-world lighting. Anything they touch reacts with realistic physical interaction.
+  [00:00–00:03]
+  First-person view walking along the boardwalk. The vlogger raises the glowing marker and points at a passing skateboarder.
+  "Zap!"
+  Yellow pixel-grid lines snap around the skateboarder, who becomes a blocky 16-bit sprite, still rolling at the same speed and angle.
+  SFX: Skateboard wheels + electronic zap + 8-bit chiptune blip.
+  [00:03–00:06]
+  The marker swings toward a spinning carousel horse.
+  "Zap!"
+  The horse pixelates into a chunky retro sprite, still rising and falling on its pole in rhythm with the ride.
+  SFX: Carousel music warping into chiptune + pixel crackle.
+  [00:06–00:10]
+  The marker follows toward a food cart's spinning sign.
+  "Zap!"
+  A pixel grid wraps the sign; it becomes a glowing 8-bit icon, still spinning at its normal speed.
+  SFX: Metallic spin creak + soft digital chime.
+  [00:10–00:12]
+  The marker swings toward a seagull gliding overhead.
+  "Zap!"
+  Pixel lines trace the bird mid-flight; it becomes a flapping pixel-sprite seagull, continuing its exact flight path.
+  SFX: Wing flap + quick zap + sparkle blip.
+  [00:12–00:15]
+  The vlogger stops and gives one final, louder:
+  "Zap—!"
+  The marker spins toward the ocean horizon. A wave of pixels spreads across the entire boardwalk scene, turning it into a glowing retro pixel-art world while the sky remains photorealistic.
+  A small blocky "GAME OVER... NOT!" pops up above the boardwalk in pixel font.
+  Freeze frame.
+  SFX: Rising 8-bit arpeggio + pixel-shatter burst + classic arcade "level complete" jingle

@@ -1,0 +1,25 @@
+id: seedance-subway-platform-white-top-dancer
+title:
+  en: Young woman dancing on a subway platform
+  zh: 地铁站台上轻舞的年轻女孩
+model: Seedance 2.5
+mode: text-to-video
+category: music-dance
+tags:
+- subway
+- fashion
+- dance
+- portrait
+source:
+  name: '@Zoyavelle on X'
+  url: https://x.com/Zoyavelle/status/2099372756102164923
+  credit: Zoyavelle
+  captured: '2026-11-03'
+  posted: '2026-09-14'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Zoyavelle/status/2099372756102164923
+notes:
+  en: One paragraph that gives subject, wardrobe, action and setting in order, then stacks camera and lighting terms such as shallow depth of field and smooth cinematic camera movement. Asking for occasional glances back at the lens keeps the subject engaged with the viewer through the clip.
+  zh: 一段文字依次写明主体、服装、动作和环境，再叠加景深、镜头运动等摄影与光线词。要求人物偶尔回头看向镜头，让片段在运动中保持与观众的互动。
+prompt: |
+  A cinematic photorealistic video of a beautiful young Asian woman with long straight black hair, wearing a fitted white long-sleeve top and a short dark pleated skirt, walking and gently dancing on a modern underground subway platform. A subway train is stopped in the background. She moves naturally and confidently, occasionally turning and looking toward the camera while her hair flows with her movement. Another woman appears walking in the background. Modern metro station architecture, dark tiled floor, illuminated overhead fluorescent lights, realistic train windows and doors, shallow depth of field, smooth cinematic camera movement, natural body motion, realistic skin texture, subtle motion blur, professional fashion-video aesthetic, high detail, photorealistic, 4K, cinematic lighting, vertical 9:16 composition.

@@ -1,0 +1,28 @@
+id: seedance-seoul-summer-gum-home-video
+title:
+  en: Korean woman in pastel top leaves home
+  zh: 身穿淡蓝上衣的韩国女子走出家门
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- korean
+- home-video
+- daily-life
+- handheld
+source:
+  name: '@AIwithkhan on X'
+  url: https://x.com/AIwithkhan/status/2116387431289344020
+  credit: AIwithkhan
+  captured: '2026-11-03'
+  posted: '2026-10-31'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithkhan/status/2116387431289344020
+notes:
+  en: Frames the clip as a friend's casual camcorder recording, pairing handheld shake, autofocus hunting and exposure shifts with a locked identity for face, hair and outfit. Beat by beat action lines keep each event, such as the gum bubble and the football kick, physically specific.
+  zh: 以朋友随手拍的 DV 摄像机口吻设定画面，叠加手持抖动、自动对焦跳动和曝光变化，同时锁定人物脸部、发型与服装。按段落逐步描述动作，如吹泡泡和踢球，让每个事件具体、可执行。
+prompt: "Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinary summer afternoon in the life of a young Korean woman. \n\nMAIN SUBJECT\n\nYoung Korean woman in her early 20s, naturally pretty, realistic skin texture, minimal makeup, relaxed and confident personality.\n\nLong black hair loosely tied into a messy side ponytail with a few loose strands around her face. Wearing a fitted pastel-blue crop top, loose cream-colored jeans, black sneakers, and a simple silver necklace.\n\nMaintain the same face, hairstyle, clothing, body proportions, and overall appearance throughout the entire video.\n\nSETTING\n\nA quiet older Seoul residential neighborhood during a warm summer afternoon. Narrow concrete lanes, small houses, old walls, potted plants, parked bicycles, utility poles, overhead wires, laundry hanging outside homes, a small convenience store, and children playing football in the street.\n\nEverything should feel lived-in, ordinary, and peaceful.\n\nCAMERA /\
+  \ VISUAL AESTHETIC\n\nRaw personal footage casually recorded by a friend on an early-2000s consumer DV camcorder.\n\nStrong handheld shake, imperfect framing, autofocus hunting, exposure shifts, occasional motion blur, faded colors, soft digital detail, mild noise, accidental zooms, and natural camera imperfections.\n\nNo stabilization, drone footage, gimbal movement, dramatic lighting, or polished commercial cinematography.\n\n— LEAVING HOME\n\nShe steps outside her house, closes the door, and adjusts her messy side ponytail.\n\nA gentle summer breeze naturally moves her loose hair and a few strands fall across her face. She smiles at the camera, brushes the strands away, and starts walking down the narrow neighborhood lane.\n\nThe camera casually follows her from a few steps behind.\n\n— STOPPING AT THE STORE\n\nShe reaches a tiny neighborhood convenience store and walks inside.\n\nShe casually browses the shelves, picks up a colorful pack of bubble gum, and pays at the counter.\n\n\
+  She opens the packet, takes one piece, puts it in her mouth, and slips the remaining gum into her pocket.\n\nShe walks back outside, chewing happily and smiling at the camera.\n\n— THE BUBBLE GUM MOMENT\n\nWhile walking down the street, she starts blowing a bubble with her gum.\n\nThe bubble slowly grows larger until it suddenly pops against her lips.\n\nShe freezes for a second, looks at the camera, and bursts into genuine laughter.\n\nShe wipes the little pieces of gum away, laughs again, and continues walking.\n\nKeep the bubble formation and popping physically realistic.\n\n— DRINKING WATER\n\nShe reaches a small public water tap beside an old residential wall.\n\nShe turns the tap, cups her hands beneath the flowing water, and drinks a little.\n\nShe splashes some water onto her face, shakes the droplets from her fingers, fixes her loose hair, and smiles toward the camera.\n\nThe water flows naturally from the tap and remains consistent.\n\n— THE FOOTBALL MOMENT\n\nA few meters ahead,\
+  \ several neighborhood children are playing football in the street.\n\nSuddenly, the football rolls toward her and stops directly beside her sneakers.\n\nShe looks down at it, then toward the children.\n\nOne child calls out:\n\n“Noona! Kick it!”\n\nShe smiles, positions herself beside the ball, and gently kicks it back toward the children.\n\nThe ball rolls naturally along the concrete. The children excitedly chase after it, cheering and laughing.\n\nShe waves at them and continues walking.\n\nThe football stays with the children and does not disappear, duplicate, or return to her.\n\nShe reaches the corner of the neighborhood and pauses.\n\nThe camera moves closer as she turns toward it with a cheerful smile. A gentle breeze moves her ponytail again.\n\nShe raises one hand, gives a casual wave, and says clearly:\n\n“Happy weekend!”\n\nShe laughs softly, turns around, and continues walking down the lane.\n\nThe camera follows her for a few seconds before the recording abruptly cuts to\
+  \ Black\n"

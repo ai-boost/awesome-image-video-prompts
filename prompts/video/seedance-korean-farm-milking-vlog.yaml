@@ -1,0 +1,67 @@
+id: seedance-korean-farm-milking-vlog
+title:
+  en: Woman learns to milk a cow on a farm
+  zh: 女孩在农场学习挤牛奶
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- found-footage
+- handheld
+- korean
+- farm
+source:
+  name: '@saniaspeaks_ on X'
+  url: https://x.com/saniaspeaks_/status/2102363821784617343
+  credit: saniaspeaks_
+  captured: '2026-11-03'
+  posted: '2026-09-22'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/saniaspeaks_/status/2102363821784617343
+notes:
+  en: The camera stays locked in front of the subject, with rear, gimbal and drone shots banned, which keeps the friend-filmed feel. Timed beats with exact Korean lines give the dialogue and pacing a fixed script to follow.
+  zh: 镜头始终位于人物正前方，并明确禁止后方、云台和无人机镜头，保持朋友拍摄的真实感。每个时间段都写明动作和韩语台词，为对白与节奏提供固定脚本。
+prompt: |
+  Create a 30-second, 1080p ultra-realistic personal home-video showing a young Korean woman visiting a traditional countryside farm and learning how to milk a cow. No reference image.
+
+  MAIN SUBJECT:
+  A naturally pretty Korean woman in her early 20s, realistic skin texture, minimal makeup, long black hair tied in a loose low ponytail. She wears a simple pale-yellow cotton T-shirt, relaxed blue jeans, white sneakers, and a small beige crossbody bag. Keep the same face, hairstyle, clothing, body proportions, and appearance throughout.
+
+  SETTING:
+  A small traditional Korean countryside farm on a warm summer afternoon. Old wooden barn, cows, hay, buckets, farming tools, green fields and simple farmhouse surroundings. Everything should feel authentic, ordinary and lived-in.
+
+  CAMERA:
+  The camera is ALWAYS IN FRONT OF THE GIRL, never behind her. A friend films her while standing or walking backward in front of her using a handheld smartphone/early-2000s consumer DV camcorder. Her face stays clearly visible. Strong natural handheld shake, imperfect framing, autofocus hunting, exposure changes, slight motion blur, soft digital detail and mild image noise.
+
+  NO cinematic camera movements, NO gimbal, NO drone, NO rear shots, NO polished commercial look, NO beauty filter.
+
+  TIMELINE
+
+  0:00–0:05 — Entering the Barn
+  The girl walks toward the camera with her friend filming from directly in front. She looks excitedly at the cows and smiles. She says in Korean:
+  “오늘 소 젖 짜는 걸 배워볼 거예요.”
+
+  0:05–0:10 — Getting Ready
+  Hard cut. She sits beside a calm cow while an experienced farmer demonstrates how to position the bucket and gently milk. The camera stays in front, showing her face and hands naturally.
+
+  0:10–0:15 — Awkward First Attempt
+  She tries milking herself. At first she squeezes incorrectly and barely gets any milk into the bucket. She looks confused, then laughs at herself.
+  “어? 왜 안 나오지?”
+
+  0:15–0:21 — Trying Again
+  Hard cut. The farmer calmly shows her the correct hand movement. She tries again while the friend films from the front. This time milk starts flowing into the bucket. Her face immediately lights up.
+
+  0:21–0:26 — She Gets It
+  She continues successfully, looking proudly toward the camera. She laughs and says:
+  “됐다! 진짜 된다!”
+
+  0:26–0:30 — Happy Ending
+  She stands beside the cow holding the small bucket and smiles at the camera. She gently pats the cow and gives a little wave.
+  “오늘 진짜 재밌었어요. 안녕!”
+  Natural cut to black.
+
+  AUDIO:
+  Only real farm sounds: cow mooing, bucket sounds, footsteps, birds, insects, distant farm activity and natural conversation. No music and no narration.
+
+  OVERALL STYLE:
+  It must look like a genuine friend-recorded memory from an ordinary farm visit—not a movie or advertisement. Front-facing coverage throughout, with natural reactions and imperfect handheld footage.

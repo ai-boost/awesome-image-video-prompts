@@ -1,0 +1,28 @@
+id: kling-submarine-flooding-corridor
+title:
+  en: Sailor seals flooding submarine corridor
+  zh: 水兵在涌水的潜艇走廊中奔逃
+model: Kling 3.0
+mode: text-to-video
+category: action
+tags:
+- submarine
+- flooding
+- disaster
+- sailor
+source:
+  name: '@LudovicCreator on X'
+  url: https://x.com/LudovicCreator/status/2023695236371771583
+  credit: LudovicCreator
+  likes: 480
+  captured: '2026-11-03'
+  posted: '2026-02-17'
+video: https://x.com/LudovicCreator/status/2023695236371771583
+notes:
+  en: A forward-plunging camera follows a sequence of named beats (sealing doors, leaping debris, opening a ballast valve), which gives the clip a clear escalation. Concrete environment details such as sparking electronics and water pouring through cracks anchor the setting.
+  zh: 镜头向前推进，跟随一连串明确的动作节点（封闭舱门、跨越残骸、开启压载阀），使片段有清晰的递进节奏。火花电器、从裂缝涌入的水流等具体环境细节，让场景更加可信。
+prompt: |
+  The camera plunges forward through a flooding submarine corridor, closely following a sailor desperately sealing bulkhead doors amid torpedo impacts. Water pours violently through cracks, electronics spark dangerously. The sailor navigates floating debris, leaps between slippery decks, and manually activates an emergency ballast valve just as the flooding stops inches from critical equipment.
+
+  Made in
+  @Kling_ai

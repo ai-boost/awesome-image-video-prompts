@@ -1,0 +1,39 @@
+id: seedance-rap-music-video-korean-woman
+title:
+  en: Korean rapper walks backstage then performs
+  zh: 韩国女说唱歌手从后台走向舞台表演
+model: Seedance 2.5
+mode: text-to-video
+category: music-dance
+tags:
+- rap
+- music-video
+- multi-scene
+- korean
+source:
+  name: '@AIwithSynthia on X'
+  url: https://x.com/AIwithSynthia/status/2104412786570981576
+  credit: AIwithSynthia
+  captured: '2026-11-03'
+  posted: '2026-09-28'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithSynthia/status/2104412786570981576
+notes:
+  en: Listing each location with a fixed wardrobe rule, plus a shot vocabulary of hard cuts, match cuts and whip pans, gives a multi-scene edit in one generation. Tying the camera moves to the rap beat keeps the cutting rhythm locked to the audio.
+  zh: 逐个列出场景并固定人物与服装规则，配合硬切、匹配剪辑和甩镜等镜头词汇，能在一次生成中完成多场景剪辑。把运镜与说唱节拍绑定，让剪辑节奏与音频同步。
+prompt: |
+  Create a ultra-realistic cinematic rap music video featuring a confident young Korean woman in her early 20s with long dark-brown hair tied in a high ponytail. She wears a black cropped jacket, fitted white top, dark cargo pants, black sneakers, silver earrings, and a black wristwatch.
+
+  Open backstage at a massive concert venue as she walks toward the stage, headphones around her neck, surrounded by lights, equipment and crew. Cut to her performing confidently under intense stage lights as a huge crowd raises phones and reacts to the beat.
+
+  Transition through multiple visually distinct locations: a rainy neon-lit city street, an elevated runway surrounded by skyscrapers, a sunlit grassy field, an atmospheric old street at night, and a futuristic concert stage. Keep her character, face, hairstyle and overall styling consistent while naturally adapting her outfit to each environment.
+
+  Show energetic performance shots, confident walking, close-ups of her eyes and expressions, rhythmic hand gestures, slow-motion hair movement, dramatic low-angle shots, wide crowd shots, and smooth cinematic camera movements synchronized with the rap beat.
+
+  Use hard cuts, match cuts, whip pans, low-angle tracking shots, handheld performance footage, subtle slow motion, realistic lens flares and dynamic lighting. Build toward a final wide shot of her performing onstage as thousands of phone lights illuminate the audience.
+
+  Ultra-realistic live-action quality, authentic skin texture, realistic fabric and hair physics, detailed environments, cinematic depth of field, natural motion blur, high-end music-video cinematography, energetic rap atmosphere.
+
+  Audio: original energetic rap beat, deep bass, crisp drums, atmospheric synths, crowd chants and natural stage ambience. No narration, no subtitles, no logos, no watermark, no cartoon or CGI appearance.
+
+  Made on Higgsfield

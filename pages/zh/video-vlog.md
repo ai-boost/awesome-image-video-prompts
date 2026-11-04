@@ -1,6 +1,6 @@
 # 手机实拍与 Vlog
 
-[返回目录](../../README_zh.md) · 全部 145 条 · **1** · [2](video-vlog-2.md)
+[返回目录](../../README_zh.md) · 全部 174 条 · **1** · [2](video-vlog-2.md) · [3](video-vlog-3.md)
 
 <a id="seedance-balcony-pool-phone-video-collapse"></a>
 ### 光头男子坐在阳台小泳池里，身旁是烧烤架
@@ -3494,6 +3494,45 @@ Simple moment. Real environment. Genuine reaction.
 
 </details>
 
+<a id="seedance-cassette-future-message-camcorder"></a>
+### 女子倒带磁带并录下一段留言
+
+<a href="https://x.com/doctorwasif/status/2117126965291598243"><img src="../../previews/seedance-cassette-future-message-camcorder.jpg" width="360"></a>
+
+用参考图和服装描述锁定人物身份，再叠加手持抖动、对焦跳动、镜头呼吸和磁带嘶声等DV质感，让画面像家庭录像。按秒分段的时间线让每个动作各占一个时间窗，镜头跟拍的是随性瞬间而非摆拍。
+
+Seedance 2.5 · 图生视频 · 出处: [@doctorwasif on X](https://x.com/doctorwasif/status/2117126965291598243) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`dv-camcorder`](tags.md#tag-dv-camcorder) [`nostalgia`](tags.md#tag-nostalgia) [`handheld`](tags.md#tag-handheld) [`reference-identity`](tags.md#tag-reference-identity)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Preserve image’s exact identity, face, hairstyle, skin tone, body proportions, and reference outfit throughout. Authentic Southeast Asian/Korean woman, early-2000s nostalgia.
+
+30-second 16:9 video, ordinary quiet residential neighborhood: single-story house, small terrace, concrete steps, narrow alley, low corner wall, potted plants, tangled overhead wires. No shops or commercial activity.
+
+Visual style: Extremely raw early-2000s DV camcorder home video. Unstabilized, shaky handheld footage, organic micro-jitters, accidental framing, frequent reframing, off-center subject, partial face crops, autofocus hunting, lens breathing, exposure pumping, rolling shutter, motion blur, compression artifacts, digital noise, faded desaturated colors, washed highlights, faded blacks, low contrast. Casual friend-recorded documentary realism. No posing, fashion-commercial aesthetics, cinematic glamour, perfect composition, or modern color grading.
+
+Timeline:
+
+- 00–03: Sitting cross-legged on terrace, rewinding cassette with pencil, tongue out in concentration.
+- 03–06: Inserts cassette into old boombox, presses play, leans back and nods. Brief focus hunting.
+- 06–10: Records herself on small tape recorder: “Hi, future. It's me.” Bursts into shy laughter.
+- 10–13: Plays recording back, hears her voice, covers face in embarrassment, grinning.
+- 13–17: Walks to alley corner, hops onto low wall, opens envelope of developed photos.
+- 17–20: Flips through funny flawed prints: blurry photo, thumb over lens, friend's cropped head. Shows one to camera.
+- 20–24: Plays handheld game console on terrace steps, thumbs tapping, tongue out in concentration.
+- 24–27: Loses the game, groans dramatically, throws head back, laughs.
+- 27–30: Glances at camera with warm spontaneous smile, console in hands. Abrupt cut to black.
+
+Audio: Natural ambience only: morning birds, breeze, distant motorcycles, leaves, cassette clicks, tape hiss, paper rustling, handheld game beeps, faint muffled boombox tape audio. No background music.
+
+Absolute priority: Preserve identity and outfit consistently. Spontaneous candid behavior, imperfect handheld recording, authentic nostalgic home-video texture. Never staged or polished.
+```
+
+</details>
+
 <a id="seedance-city-woman-day-waking-to-sleep"></a>
 ### 女性在暖阳中醒来，躺在白色床品上
 
@@ -3521,6 +3560,31 @@ SCENES SEQUENCE:
 
 STYLE: photorealistic, shallow depth of field, gentle tracking camera, lifestyle vlog aesthetic.
 NEGATIVE: character identity drift, different woman, generic face, 3D, CGI, anime, beauty filter. --ar 9:16
+```
+
+</details>
+
+<a id="seedance-county-fair-golden-hour-entrance"></a>
+### 年轻女子在日落时走进乡村集市
+
+<a href="https://x.com/nawalsehar/status/2097901351049294063"><img src="../../previews/seedance-county-fair-golden-hour-entrance.jpg" width="360"></a>
+
+提示词按顺序列出每个镜头节拍，每项活动一个节拍，让模型随着光线渐暗依次推进。角色外观与服装单独用一句话锁定，并明确禁止字幕、标志和CGI，使画面保持真实手持拍摄的质感。
+
+Seedance 2.5 · 文生视频 · 出处: [@nawalsehar on X](https://x.com/nawalsehar/status/2097901351049294063) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`county-fair`](tags.md#tag-county-fair) [`golden-hour`](tags.md#tag-golden-hour) [`vlog`](tags.md#tag-vlog) [`handheld`](tags.md#tag-handheld)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 30-second ultra-photorealistic cinematic American county-fair vlog following a young American woman through a warm summer evening. Start with her entering a small rural fair as golden light fades, then riding the Ferris wheel, sharing a fresh funnel cake, trying a ring-toss game, wandering through families and local vendors, listening to a live country band, and watching fireworks light up the night.
+
+Make the fair feel genuinely local and lived-in, with dusty paths, pickup trucks, food stalls, wooden booths, string lights, children, families, farmland and glowing carnival rides. Maintain identical character appearance and clothing throughout.
+
+Use realistic handheld 2026 vlog cinematography, natural expressions, subtle camera movement, authentic evening lighting, realistic crowd behavior and physically accurate motion. Capture detailed food, snow-like powdered sugar, ride mechanics, thrown rings, fireworks, drifting smoke, wind and reflections.
+
+Use only natural fairground audio and live music with short, synchronized American English dialogue. No narration, subtitles, CGI, animation, fake crowds, impossible physics, floating camera, logos or watermark.
 ```
 
 </details>
@@ -4707,6 +4771,49 @@ She laughs, loses her rhythm for a second, then continues.
 
 </details>
 
+<a id="seedance-gym-tape-vlog-week-wrapup"></a>
+### 汗湿的韩国偶像在健身垫上休息
+
+<a href="https://x.com/doctorwasif/status/2104187027935973745"><img src="../../previews/seedance-gym-tape-vlog-week-wrapup.jpg" width="360"></a>
+
+每个镜头都标注了时长和台词，并明确写出摄影机设定（DV 16mm、支架或手持第一人称、刻意的失焦和笨拙变焦等瑕疵），让画面看起来像真实拍摄的录像带素材。纯环境音的镜头为蒙太奇留出了呼吸空间。
+
+Seedance 2.5 · 文生视频 · 出处: [@doctorwasif on X](https://x.com/doctorwasif/status/2104187027935973745) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`vlog`](tags.md#tag-vlog) [`gym`](tags.md#tag-gym) [`camcorder`](tags.md#tag-camcorder) [`handheld-pov`](tags.md#tag-handheld-pov)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+CAMERA/LOOK: DV 16mm tape camcorder, handheld POV by CHASE; sometimes propped on gym mat/bench/shelf. Shaky, imperfect framing, cut-off faces, delayed focus, clumsy zooms, occasional overexposure/flickering auto-exposure. Soft blurry tape texture, faint noise, bloomed gym lights, muted contrast, realistic skin, subtle period timestamp. Camcorder never visible.
+
+STYLE: Reflective end-of-week gym vlog, calm/summary-driven, nostalgic, warm and satisfied with genuine fatigue/pride.
+
+CHASE: Korean idol, 20s; long black hair loosely tied, glowing slightly sweaty skin, big expressive eyes, slim athletic build. Modest long-sleeve athletic top, loose joggers/fitted leggings, fully covered arms/torso, sneakers, towel around neck, no jewelry.
+
+SETTING: Quiet gym mat area after evening session; mirror wall, water bottle, duffel bag, wall clock past closing, soft overhead lights, vent hum.
+
+45s / 13 CUTS:
+
+1 (~3s, propped medium): Sits on mat catching breath, tired smile. “Okay, that's officially the last session of the week.”
+2 (~3s, handheld close): Drinks water. “Push day, legs, core — I actually hit everything I planned.”
+3 (~2.5s, macro): Hands grip condensation-covered bottle. Ambient only.
+4 (~3.5s, handheld montage): Blurry week flashbacks—barbell rack, treadmill display, chalked hands, mirror mid-set; faint laugh, ambient gym sound.
+5 (~3s, propped medium): Stretches overhead. “Leg day still wrecked me the most, not gonna lie.”
+6 (~2.5s, low angle from mat): Laughs, shakes head. “My legs are still shaking a little, actually.”
+7 (~3s, handheld): Looks toward mirror; wandering focus. Ambient only.
+8 (~3s, handheld close): Wipes sweat with towel. “Honestly this was one of the more consistent weeks I've had in a while.”
+9 (~2.5s, macro): Sneakers shift on mat, slightly loose lace. Ambient only.
+10 (~3.5s, propped medium): Sits back, sentimental. “Some days I really didn't want to show up, and I came anyway.”
+11 (~2.5s, handheld): Proud smile, wipes face. “But I'm actually really happy with how this week went.”
+12 (~3s, handheld): Clumsy tilt/zoom as she grabs duffel; zipper/rustling only.
+13 (~4s, arm's-length selfie): Stands and walks toward exit, relaxed wave, dim gym behind. “Alright, resetting this weekend — see you guys next week.”
+
+#Flovaai #Flovacpp
+```
+
+</details>
+
 <a id="seedance-gym-vlog-leg-day-dv-camcorder"></a>
 ### 健身房 vlog 中腿练完的疲惫女孩
 
@@ -4909,120 +5016,4 @@ Avoid: cartoon/CGI appearance, plastic skin, unrealistic face, inconsistent char
 
 </details>
 
-<a id="seedance-ice-cream-cart-chase-home-video"></a>
-### 年轻女子追冰淇淋车的手持家庭录像
-
-<a href="https://x.com/aiwithaly/status/2104428091476988236"><img src="../../previews/seedance-ice-cream-cart-chase-home-video.jpg" width="360"></a>
-
-提示词先定下业余摄像机质感，包括不完美构图、对焦漂移和无电影感，再按时间顺序写清30秒内的情节节拍。固定的服装清单、物理细节、只含自然声的音频清单和较长的负面提示，共同保证人物和动作前后一致。
-
-Seedance 2.5 · 文生视频 · 出处: [@aiwithaly on X](https://x.com/aiwithaly/status/2104428091476988236) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`slice-of-life`](tags.md#tag-slice-of-life) [`japanese`](tags.md#tag-japanese) [`handheld`](tags.md#tag-handheld) [`home-video`](tags.md#tag-home-video) [`natural-audio`](tags.md#tag-natural-audio)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a 30-second ultra-photorealistic Japanese slice-of-life home-video following an adorable Japanese woman in her early 20s who hears the distant ice-cream cart bell while relaxing at home. She grabs her wallet, slips on her sneakers, rushes outside, and runs through a quiet neighborhood to catch the cart.
-
-Show authentic handheld consumer-camera footage with imperfect framing, subtle shake, autofocus shifts, natural daylight, realistic motion blur and no commercial cinematic look.
-
-She catches the cart just in time, buys a vanilla-strawberry cone, then meets neighborhood children playing with a ball. She joins them briefly before walking home through the warm late-afternoon street, happily finishing her ice cream.
-
-Maintain consistent face, ponytail, pale-blue blouse, beige skirt, white sneakers, cream shoulder bag and natural expressions throughout. Use realistic physics for running, balance, bag and hair movement, bicycle momentum, ball motion, melting ice cream, shadows and material interaction.
-
-Natural audio only: bicycle bell, footsteps, breathing, children laughing, ball, vendor dialogue, neighborhood ambience and light wind. No music or narration.
-
-Negative prompt: No anime, CGI, plastic skin, beauty filters, robotic movement, impossible physics, floating objects, teleportation, distorted hands, extra fingers, duplicated children, face/outfit changes, excessive camera movement, commercial look, subtitles, logos or watermark.
-```
-
-</details>
-
-<a id="seedance-indonesian-alley-dv-camcorder-day"></a>
-### 仿千禧年初家用摄像机的印尼小巷日常
-
-<a href="https://x.com/RishuaVR/status/2089204108175741157"><img src="../../previews/seedance-indonesian-alley-dv-camcorder-day.jpg" width="360"></a>
-
-先固定人物外貌与服装，并列出场地禁用元素来保持一致。明确写出自动对焦迷失、曝光起伏等摄像机瑕疵，配合四段分秒镜头与只有拟音的细致音频设计。
-
-Seedance 2.5 · 文生视频 · 出处: [@RishuaVR on X](https://x.com/RishuaVR/status/2089204108175741157) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`documentary`](tags.md#tag-documentary) [`camcorder`](tags.md#tag-camcorder) [`handheld`](tags.md#tag-handheld) [`asmr-audio`](tags.md#tag-asmr-audio) [`slice-of-life`](tags.md#tag-slice-of-life)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Main subject: young Indonesian woman, early 20s, natural everyday appearance, faded mustard-yellow oversized cotton t-shirt, brown high-waisted linen wrap skirt reaching just below the knee, simple brown leather slide sandals, thin gold stud earrings, dark wavy hair in a messy low bun with loose wispy strands framing her face. Realistic warm brown skin texture, minimal natural makeup, warm and approachable demeanor. Maintain consistent identity, clothing, hairstyle, and appearance throughout the entire video.
-
-Location: Authentic Indonesian residential neighborhood (gang) during a calm late morning. Narrow paved alleys, low-rise houses with open front terraces, terracotta roof tiles, potted frangipani and bougainvillea, laundry on bamboo drying racks, parked motorbikes along plastered walls, overhead utility wires, banana and coconut trees casting dappled moving shadows, quiet tropical residential atmosphere. No modern stores, billboards, cafés, or crowds.
-
-Visual Style: Ultra-realistic documentary realism. Genuine candid behavior. Natural body language. Unscripted slice-of-life feeling. Strong environmental authenticity. Rich real-world details and believable human motion.
-
-Camera Style: Early-2000s consumer DV camcorder aesthetic. Friend casually recording everyday moments. Heavy handheld shake, imperfect framing, frequent autofocus hunting, lens breathing, exposure pumping when moving between harsh tropical sun and deep alley shade, occasional motion blur, subtle rolling shutter, mild digital compression artifacts, warm faded colors, soft contrast, slight sensor noise. No stabilization. No cinematic camera moves. No modern color grading.
-
-00:00–00:02
-Outside a small house entrance with an open terrace. She sits on the low terrace step adjusting her loose hair bun with both hands raised. A light warm breeze moves loose strands of hair. She smiles naturally while the camera struggles to lock focus.
-
-00:02–00:05
-The camera follows her into a narrow alley lined with potted plants and plastered walls. She notices a neighborhood cat resting on a warm concrete ledge, crouches down, and gently pets it. Framing drifts off-center as the operator tries to keep up. Morning sunlight flickers through banana leaves overhead.
-
-00:05–00:08
-Small front terrace with a glass of sweet iced tea on a wooden stool. She sits relaxed on a plastic chair watching the quiet gang, casually brushing hair behind her ear. A motorbike passes slowly in the distant background. Handheld side angle with natural camera drift.
-
-00:08–00:10
-She turns toward the camera with a warm, genuine smile, gives a gentle nod of acknowledgement, then turns to walk down the tree-lined alley holding her iced tea. Recording cuts abruptly to black mid-motion as if the camcorder was switched off.
-
-Audio: Hyper-detailed environmental ASMR binaural audio — crisp micro-sounds captured up close with high sensitivity. Crisp rustle of cotton fabric and linen as she moves, deep rhythmic cat purring vibrating close to the microphone, ice cubes gently clinking against the glass condensation, soft scuff of leather sandals on textured concrete pavement, dry banana leaves brushing together in the warm breeze, rhythmic faint sound of a sapu lidi broom sweeping fallen leaves nearby, water dripping into a terracotta gentong, distant gentle crowing rooster, faint muffled low-frequency hum of a passing motorbike down the alley. Pure natural foley textures, zero music, zero studio effects, zero narration, zero speech.
-
-Goal: Authentic Indonesian neighborhood life captured like a forgotten home video from the early 2000s — candid, imperfect, realistic, warm, and deeply believable, with immersive environmental ASMR soundscape.
-```
-
-</details>
-
-<a id="seedance-indonesian-dog-chase-comedy"></a>
-### 女孩在住宅街上散步，狗跟在身后
-
-<a href="https://x.com/MissDelulu9/status/2092578120591446348"><img src="../../previews/seedance-indonesian-dog-chase-comedy.jpg" width="360"></a>
-
-按时间码分镜并写明精确台词来控制节奏和笑点，再加上单手手机拍摄、自动对焦漂移、自动曝光、运动模糊和轻微压缩的真实感段落，让画面更像手机家庭录像而不是电影。
-
-Seedance 2.5 · 文生视频 · 出处: [@MissDelulu9 on X](https://x.com/MissDelulu9/status/2092578120591446348) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`comedy`](tags.md#tag-comedy) [`handheld-phone`](tags.md#tag-handheld-phone) [`dialogue`](tags.md#tag-dialogue) [`street-scene`](tags.md#tag-street-scene)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a 15-second realistic smartphone video in 16:9 aspect ratio.
-
-Style: authentic Gen-Z Indonesian comedy, spontaneous iPhone home-video footage, natural daylight.
-
-SHOT 1- 0:00–0:02
-A girl casually walks along a small Indonesian residential street. She suddenly notices a medium-sized pet dog ahead and stops. Her relaxed expression instantly turns nervous.
-
-SHOT 2-0:02–0:04
-Quick handheld pan from the girl to the dog and back. She slowly steps backward and says: “Uh... don't come closer, okay...” The dog looks curious and harmless.
-
-SHOT 3-0:04–0:06
-The dog playfully runs a few steps toward her. She panics: “AAAAA RUN!” The camera operator reacts and moves backward.
-
-SHOT 4-0:06–0:08
-She suddenly runs away, looking back over her shoulder. The iPhone camera follows while running, creating natural shaky footage. Her white fitted T-shirt, light-blue short denim shorts, and white low-profile slippers move naturally.
-
-SHOT 5-0:08–0:10
-Side close-up while she runs. She looks back and screams: “BRO, IT'S FOLLOWING ME!” The camera shakes as the friend behind the camera laughs.
-
-SHOT 6-0:10–0:13
-The camera widens as she runs toward her friend, waving her hands: “DON'T LAUGH! HELP ME, BRO!” The dog follows playfully without attacking, biting, or touching her.
-
-SHOT 7- 0:13–0:15
-She reaches a safe spot, bends over briefly to catch her breath, then looks at the camera with an annoyed and embarrassed expression: “I was literally just passing by, why did that turn into cardio?!” The friend bursts out laughing. Abrupt cut.
-
-CAMERA & REALISM
-
-Amateur one-handed iPhone recording. Natural handheld shake, imperfect framing, slight tilt, occasional autofocus shifts, automatic exposure changes, realistic motion blur, natural smartphone colors, subtle digital sharpening and compression. Environmental details remain visible. No cinematic look.
-```
-
-</details>
-
-**1** · [2](video-vlog-2.md)
+**1** · [2](video-vlog-2.md) · [3](video-vlog-3.md)

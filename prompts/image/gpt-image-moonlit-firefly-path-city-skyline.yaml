@@ -1,0 +1,24 @@
+id: gpt-image-moonlit-firefly-path-city-skyline
+title:
+  en: Moonlit cobblestone path with fireflies and city
+  zh: 月夜石板小径萤火虫与远方城市
+model: GPT Image 2.5
+mode: text-to-image
+category: realism
+tags:
+- landscape
+- night
+- fantasy
+- fireflies
+source:
+  name: '@churvikv on X'
+  url: https://x.com/churvikv/status/2117674598577701108
+  credit: Viki
+  likes: 76
+  captured: '2026-11-03'
+  posted: '2026-11-03'
+notes:
+  en: Describing the scene in depth order, from the foreground path through the grass to the skyline, and naming the moon as the focal point controls the layout. The realism with a touch of fantasy phrase sets the mood without over-specifying lighting.
+  zh: 按前景小径、草丛到远处天际线的纵深顺序描述场景，并将月亮指定为视觉焦点，可以控制画面构图。写明写实中带一点奇幻的风格，无需过多限定光线，就能确定平静梦幻的氛围。
+prompt: |
+  A moonlit night scene with a cobblestone path winding through tall grass illuminated by glowing orbs, possibly fireflies, leading toward a distant city skyline under a star-filled sky. The composition is balanced with the moon as a focal point, and the style combines realism with a touch of fantasy, evoking a calm and enchanting mood.

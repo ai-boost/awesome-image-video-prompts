@@ -1,0 +1,33 @@
+id: seedance-korean-village-lane-minidv-vlog
+title:
+  en: Warm afternoon Korean village lane with wooden doors
+  zh: 韩国村落午后的木门小巷
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- korean-village
+- minidv
+- vlog
+- lifestyle
+source:
+  name: '@aiwithaly on X'
+  url: https://x.com/aiwithaly/status/2101886695624888440
+  credit: aiwithaly
+  captured: '2026-11-03'
+  posted: '2026-09-21'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/aiwithaly/status/2101886695624888440
+notes:
+  en: Explicit camera specs (4:3 consumer DV, handheld shake, autofocus hunting, DV compression) lock the home-video look, and the sound list limits audio to village ambience with no music or narration. The ending is written as a clear final beat, a door closing in warm light, so the clip has a defined close.
+  zh: 明确的拍摄规格（4:3 消费级 DV、手持抖动、自动对焦拉扯、DV 压缩）锁定家庭录像质感，声音只列出村落环境音，不要音乐和旁白。结尾写成清楚的收束动作，即在暖光中关门，让片段有明确的结束点。
+prompt: |
+  Create a 30-second ultra-photorealistic live-action lifestyle vlog following the same 25-year-old Korean woman through a warm late-afternoon in a quiet traditional Korean village. She leaves her tiled-roof home, discovers local children playing with a ball, spontaneously joins them, then remembers her groceries and visits a tiny neighborhood shop before walking home.
+
+  Maintain consistent facial identity, hairstyle, outfit, and realistic proportions throughout. Show authentic MiniDV home-video aesthetics: 4:3 consumer footage, natural handheld shake, imperfect framing, autofocus hunting, mild exposure changes, soft contrast, faded colors, subtle DV compression, and no modern cinematic look.
+
+  Keep all movement physically believable—realistic walking, running, ball trajectories, hair and clothing motion, door and bell mechanics, grocery-bag weight, wind, gravity, friction, and natural human biomechanics. Use only diegetic village sounds: children laughing, footsteps, ball bouncing, birds, wind, keys, wooden doors, shop bell, groceries, and distant neighborhood ambience. No music or narration.
+
+  End with her entering home and gently closing the door as warm sunlight fills the quiet village lane and the children's laughter fades into the distance.
+
+  No CGI, animation, beauty filters, plastic skin, modern smartphone aesthetic, cinematic gimbal shots, impossible physics, duplicated people, changing faces or outfits, artificial sound effects, subtitles, logos, or watermark.

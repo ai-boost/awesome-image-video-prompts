@@ -1,0 +1,37 @@
+id: seedance-popbot-character-sheet
+title:
+  en: Anime combat android character sheet with turnaround views
+  zh: 动漫战斗机器人角色设定表含三视图
+model: Seedance 2.5
+mode: text-to-video
+category: anime
+tags:
+- character-sheet
+- turnaround
+- anime
+- sci-fi
+source:
+  name: '@Mayz1169 on X'
+  url: https://x.com/Mayz1169/status/2084530475792753069
+  credit: Kiki
+  likes: 1040
+  captured: '2026-11-03'
+  posted: '2026-08-04'
+video: https://x.com/Mayz1169/status/2084530475792753069
+notes:
+  en: The prompt splits the sheet into a hero figure on the left, front, side and back turnarounds in the center, and detail close-ups on the right, which keeps the design consistent across views. A named hex palette and reference game styles set the colors and rendering finish.
+  zh: 提示词把画面分为左侧主视觉、中间正面侧面背面三视图和右侧细节特写三个区域，角色在各个角度下更容易保持一致。给出的色值和参考作品风格则控制了配色与渲染质感。
+prompt: |
+  1️⃣character sheet:
+
+  Ultra-detailed 16:9 futuristic character design sheet, official AAA sci-fi game character bible, clean editorial layout, bright white background with bold cyber UI elements. Character name "POPBOT", title "Professional", subtitle "A high-energy combat android designed for speed, style and precision."
+
+  Left panel features a full-body hero illustration of a cute futuristic combat android girl with short white hair, bright blue eyes and a playful confident expression. She wears a vibrant blue oversized tactical jacket with colorful patches, black cropped inner outfit, short tactical shorts, high-top cyber sneakers and futuristic accessories. Her design combines street fashion, robotic technology and playful toy-like aesthetics. She wears a blue rabbit-ear cyber helmet with pink accents, robotic headphones and carries a large futuristic heavy weapon with a blue, yellow and black mechanical design. The weapon has industrial details, glowing elements and a compact sci-fi engineering style.
+
+  Center panel includes professional turnaround views (Front, Side, Back), perfectly consistent anatomy, hairstyle, helmet, outfit structure, backpack system and weapon placement. Clearly display the oversized jacket silhouette, cyber accessories, shoes and mechanical components.
+
+  Right panel includes detailed close-up panels showing rabbit helmet design, headphones, jacket patches, backpack tank, shoes, robotic accessories and weapon components. Include weapon breakdown showing the futuristic heavy blaster with mechanical structure, handles, energy core and colorful industrial design.
+
+  Include accent detail panels showing symbols, patches, logos, buttons, straps and material textures. Add a refined color palette featuring electric blue, neon pink, bright yellow, white, black and dark gray.
+
+  Style: futuristic anime character sheet, cyberpunk street combat design, cute mech warrior aesthetic, Zenless Zone Zero × Arknights × Honkai Star Rail quality, premium sci-fi game artbook illustration, colorful techwear fashion, detailed mechanical design, production-ready character bible, masterpiece, best quality, ultra detailed, 8K, clean composition, no watermark, no logo, no extra limbs, no deformed anatomy.

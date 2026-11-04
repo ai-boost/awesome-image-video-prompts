@@ -1,0 +1,31 @@
+id: seedance-ranch-barn-sunset-pickup
+title:
+  en: Weathered ranch barn at sunset beside pickup truck
+  zh: 日落时分的牧场谷仓与皮卡
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- ranch
+- western
+- vlog
+- horses
+source:
+  name: '@aiwithaly on X'
+  url: https://x.com/aiwithaly/status/2097917075176178101
+  credit: aiwithaly
+  captured: '2026-11-03'
+  posted: '2026-09-10'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/aiwithaly/status/2097917075176178101
+notes:
+  en: The prompt lays out one full day as ordered beats, from barn chores to fence repair to the ride, and repeats the same character, horse and ranch details so the footage stays continuous. Handheld documentary framing with a strict diegetic-only audio list keeps the output reading as real footage.
+  zh: 提示词把一整天按顺序拆成几个段落，从喂马到修栅栏再到骑行，并反复强调同一角色、马匹和牧场细节以保持画面连贯。手持纪实式镜头加上只保留环境声的音频要求，让成片更像真实拍摄。
+prompt: |
+  Create a 30-second ultra-photorealistic American ranch lifestyle vlog following the same young ranch woman through one authentic working day, from sunrise to sunset. Begin with her opening the barn and feeding horses, then repairing a wooden fence before saddling a horse and riding across open Western fields.
+
+  Show a genuine working ranch with weathered barns, horse paddocks, hay, dirt paths, wooden fences, pickup trucks, green fields and distant hills. Keep the character, horse, clothing and ranch environment perfectly consistent.
+
+  Capture realistic horse behavior, riding biomechanics, hoof impacts, dust, grass movement, leather tack, feed, wood, hammer strikes and natural sunlight. Use handheld 2026 documentary-vlog cinematography with close-ups, wide ranch views, realistic autofocus, subtle camera shake and a smooth golden-hour ride.
+
+  Natural diegetic audio only: horses, birds, wind, barn sounds, hoofbeats, tools, leather and insects. Short synchronized American English dialogue. No music, narration, subtitles, CGI, artificial movement, impossible physics, logos or watermark.

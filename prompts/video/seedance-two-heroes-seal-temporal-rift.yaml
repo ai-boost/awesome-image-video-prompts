@@ -1,0 +1,25 @@
+id: seedance-two-heroes-seal-temporal-rift
+title:
+  en: Combat Boots Walk Across a Neon Rooftop
+  zh: 霓虹屋顶上行走的战靴
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- sci-fi
+- time-portal
+- neon-city
+- rooftop
+source:
+  name: '@Zyrellix on X'
+  url: https://x.com/Zyrellix/status/2095067315608158324
+  credit: Zyrellix
+  captured: '2026-11-03'
+  posted: '2026-09-02'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Zyrellix/status/2095067315608158324
+notes:
+  en: The prompt is written as a shot list, opening on a low angle track of boots that pans up to the face before cutting to an aerial and a macro shot. Lens and film terms such as 35mm anamorphic and film grain set the look more reliably than adjectives.
+  zh: 提示词写成分镜清单，从低角度跟拍靴子开始，摇到人脸后切到航拍和微距特写。35mm 变形宽银幕和胶片颗粒等镜头与胶片术语，比形容词更能稳定画面质感。
+prompt: |
+  A cinematic sci-fi action scene set on a skyscraper rooftop overlooking a glowing futuristic night city reminiscent of Times Square. A blonde woman wearing a black leather crop jacket, black turtleneck, high-waisted shorts, and tactical combat boots stands alongside a man in a long dark leather trench coat. Cool-toned night lighting mixed with vibrant blue and warm orange neon backlighting from surrounding digital billboards.The sequence begins with a low-angle tracking shot focusing on combat boots walking forward, panning up to a sharp close-up of the woman's face. The camera quickly transitions to an ultra-wide aerial shot looking down at the illuminated, crowded city streets below, then cuts to an extreme macro close-up of her eye reflecting a glowing temporal portal.Dynamic visual effects feature glowing holographic wrist interfaces, shimmering glass-like time distortions, and glowing white energy particles emanating from her outstretched palm as she projects a spherical forcefield. A giant fracture anomaly in the night sky glimmers overhead. Fast-paced camera movement, 35mm anamorphic lens framing, shallow depth of field, dramatic motion blur, dynamic action stances, ending with a blinding flash of white light that seals the portal, leaving the two heroes standing triumphantly on the ledge. Cinematic, hyper-realistic, 8k resolution, photorealistic film grain.

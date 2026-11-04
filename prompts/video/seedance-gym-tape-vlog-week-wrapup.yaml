@@ -1,0 +1,49 @@
+id: seedance-gym-tape-vlog-week-wrapup
+title:
+  en: Sweaty idol resting on gym mat after session
+  zh: 汗湿的韩国偶像在健身垫上休息
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- vlog
+- gym
+- camcorder
+- handheld-pov
+source:
+  name: '@doctorwasif on X'
+  url: https://x.com/doctorwasif/status/2104187027935973745
+  credit: doctorwasif
+  captured: '2026-11-03'
+  posted: '2026-09-27'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/doctorwasif/status/2104187027935973745
+notes:
+  en: Every cut has a timed length and a dialogue line, and the camera is specified in detail (DV 16mm, propped or handheld POV, deliberate flaws like delayed focus and clumsy zooms), so the output reads as real camcorder footage. Ambient-only cuts give the montage room to breathe.
+  zh: 每个镜头都标注了时长和台词，并明确写出摄影机设定（DV 16mm、支架或手持第一人称、刻意的失焦和笨拙变焦等瑕疵），让画面看起来像真实拍摄的录像带素材。纯环境音的镜头为蒙太奇留出了呼吸空间。
+prompt: |
+  CAMERA/LOOK: DV 16mm tape camcorder, handheld POV by CHASE; sometimes propped on gym mat/bench/shelf. Shaky, imperfect framing, cut-off faces, delayed focus, clumsy zooms, occasional overexposure/flickering auto-exposure. Soft blurry tape texture, faint noise, bloomed gym lights, muted contrast, realistic skin, subtle period timestamp. Camcorder never visible.
+
+  STYLE: Reflective end-of-week gym vlog, calm/summary-driven, nostalgic, warm and satisfied with genuine fatigue/pride.
+
+  CHASE: Korean idol, 20s; long black hair loosely tied, glowing slightly sweaty skin, big expressive eyes, slim athletic build. Modest long-sleeve athletic top, loose joggers/fitted leggings, fully covered arms/torso, sneakers, towel around neck, no jewelry.
+
+  SETTING: Quiet gym mat area after evening session; mirror wall, water bottle, duffel bag, wall clock past closing, soft overhead lights, vent hum.
+
+  45s / 13 CUTS:
+
+  1 (~3s, propped medium): Sits on mat catching breath, tired smile. “Okay, that's officially the last session of the week.”
+  2 (~3s, handheld close): Drinks water. “Push day, legs, core — I actually hit everything I planned.”
+  3 (~2.5s, macro): Hands grip condensation-covered bottle. Ambient only.
+  4 (~3.5s, handheld montage): Blurry week flashbacks—barbell rack, treadmill display, chalked hands, mirror mid-set; faint laugh, ambient gym sound.
+  5 (~3s, propped medium): Stretches overhead. “Leg day still wrecked me the most, not gonna lie.”
+  6 (~2.5s, low angle from mat): Laughs, shakes head. “My legs are still shaking a little, actually.”
+  7 (~3s, handheld): Looks toward mirror; wandering focus. Ambient only.
+  8 (~3s, handheld close): Wipes sweat with towel. “Honestly this was one of the more consistent weeks I've had in a while.”
+  9 (~2.5s, macro): Sneakers shift on mat, slightly loose lace. Ambient only.
+  10 (~3.5s, propped medium): Sits back, sentimental. “Some days I really didn't want to show up, and I came anyway.”
+  11 (~2.5s, handheld): Proud smile, wipes face. “But I'm actually really happy with how this week went.”
+  12 (~3s, handheld): Clumsy tilt/zoom as she grabs duffel; zipper/rustling only.
+  13 (~4s, arm's-length selfie): Stands and walks toward exit, relaxed wave, dim gym behind. “Alright, resetting this weekend — see you guys next week.”
+
+  #Flovaai #Flovacpp

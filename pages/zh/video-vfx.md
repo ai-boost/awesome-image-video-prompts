@@ -1,6 +1,6 @@
 # 特效与变身转场
 
-[返回目录](../../README_zh.md) · 全部 87 条
+[返回目录](../../README_zh.md) · 全部 95 条
 
 <a id="veo-giant-girl-shibuya-crossing"></a>
 ### 巨型女孩跪在东京街口俯身触碰出租车
@@ -635,6 +635,25 @@ Gemini Omni Flash · 文生视频 · 出处: [@TechieBySA on X](https://x.com/Te
 Simply replace [LANDMARK]:✨
 
 “Extreme macro shot of woven cotton shirt fabric, empty at first. Colored embroidery threads rise from the surface and weave themselves into place, laying down tight satin stitches row by row, tracing out a detailed [LANDMARK] in its country flag colors. The stitched area grows steadily across the frame, thread pulling taut and raising into dimensional embroidered texture, colors and defining features building up stitch by stitch until the full landmark is complete and clearly recognizable. Camera holds steady, slow satisfying timelapse pace. Soft natural side light, shallow depth of field, visible fabric fibers and realistic thread sheen. No hands, thread moves on its own. One shot no scene change. 5 second video. 16:9 dimension.”
+```
+
+</details>
+
+<a id="omni-miniature-lake-house-foundation"></a>
+### 巨大的手在微型湖边房屋地基上标线
+
+<a href="https://x.com/Strength04_X/status/2088098956534493293"><img src="../../previews/omni-miniature-lake-house-foundation.jpg" width="360"></a>
+
+提示词先把首帧定义为静态画面，把手、标桩线、工具和湖岸全部固定下来，再交给视频模型做运动。微距镜头语言、浅景深和可信的微缩比例共同营造巨物感。
+
+Gemini Omni Flash · 图生视频 · 出处: [@Strength04_X on X](https://x.com/Strength04_X/status/2088098956534493293) · 270 赞，统计于 2026-11-03
+
+[`miniature`](tags.md#tag-miniature) [`macro`](tags.md#tag-macro) [`giant-hands`](tags.md#tag-giant-hands) [`construction`](tags.md#tag-construction)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+FIRST FRAME IMAGE PROMPT : Hyper-realistic miniature DIY lake house construction site at the very beginning of construction, positioned on a natural lakeside landscape with a calm freshwater lake immediately beside the building area. A partially prepared rectangular foundation is visible on compact brown soil and fine gravel, with the future lake house footprint clearly marked using tiny wooden stakes and string lines. A small unfinished dock foundation area extends toward the water but has not yet been constructed. Giant realistic human fingers carefully interact with miniature construction materials, measuring the ground and arranging tiny stones near the foundation. Scattered miniature bricks, natural stones, wooden beams, timber planks, miniature cement bucket, trowel, shovel, measuring ruler, nails, rope, gravel and small piles of construction materials surround the site naturally. Realistic grass, reeds, small plants and exposed soil transition into a calm lake shoreline. Tiny ripples are visible on the water surface. Ultra realistic macro photography, photorealistic miniature craftsmanship, 8K detail, cinematic natural daylight, soft directional sunlight, shallow depth of field, razor-sharp focus on the miniature construction area, professional product photography, realistic shadows, ambient occlusion, extremely detailed soil grains, gravel, wood fibers, stone textures, grass blades and water reflections, physically believable miniature scale, subtle handcrafted imperfections, cinematic composition, realistic depth, no finished house, no completed dock, no people visible except giant human hands and fingers, no text, no watermark.
 ```
 
 </details>
@@ -1383,6 +1402,35 @@ Cinematic metamorphosis of this creature into a woman.  ￼
 Photorealistic cinematic scene.
 
 not music. asmr sounds
+```
+
+</details>
+
+<a id="h3-digital-assembly-character-build"></a>
+### 数字装配从线框层逐步生成角色
+
+<a href="https://x.com/aimikoda/status/2095651474797641955"><img src="../../previews/h3-digital-assembly-character-build.jpg" width="360"></a>
+
+提示词先把参考图设为最终目标，再按顺序描述搭建过程，从抽象碎片和蓝图草图到四肢、服装与面部，让模型有清晰的时间线可循。节奏与画面密度的描述让运动保持紧凑，同时角色始终是焦点。
+
+MiniMax H3 · 参考生视频 · 出处: [@aimikoda on X](https://x.com/aimikoda/status/2095651474797641955) · 64 赞，统计于 2026-11-03 · 发现于 [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`digital-assembly`](tags.md#tag-digital-assembly) [`character-build`](tags.md#tag-character-build) [`holographic`](tags.md#tag-holographic) [`wireframe`](tags.md#tag-wireframe)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Use the provided reference as the final character target.
+
+Create a short premium cinematic character creation video where the character is built step by step through a high-tech digital assembly process. The sequence should feel fast, intense and visually sophisticated.
+
+Show a clear staged progression. Begin with abstract digital fragments, prototype sketches, blueprint-style drawings, construction lines and technical concept sheets appearing in the background. Then gradually assemble the character from the inside out, with limbs, body parts, clothing and facial features forming through scanning passes, holographic layers, wireframes, segmented image fragments, luminous particles and sleek interface elements.
+
+Let the arms, legs and other body parts visibly generate in stages, as if engineered by an advanced system. Some moments should show unfinished digital anatomy, partial structures and evolving forms before they lock into the final design. Keep the background alive with passing prototype art, silhouette studies, detail callouts and design variations to reinforce the feeling of a real creation process.
+
+The pacing should be rapid and aggressive, with dense motion, layered depth, sharp transitions and constant visual activity, while keeping the character build clearly readable as the main focus. The overall style should feel futuristic, polished, luxurious and cinematic.
+
+End with the fully completed character, cleanly revealed and clearly matching the reference.
 ```
 
 </details>
@@ -2780,6 +2828,25 @@ Reveal an extraordinary mirrored.
 
 </details>
 
+<a id="seedance-kitchen-shatters-crystal-touch"></a>
+### 触碰之下厨房化为碎晶
+
+<a href="https://x.com/laviniavelle/status/2100431886543978896"><img src="../../previews/seedance-kitchen-shatters-crystal-touch.jpg" width="360"></a>
+
+把她触碰的每件物品单独列为碎裂触发点，让变化由一连串动作驱动，而不是一次硬切。暖阳、柔焦和平滑运镜把厨房与loft空间连成一个连续镜头。
+
+Seedance 2.5 · 文生视频 · 出处: [@laviniavelle on X](https://x.com/laviniavelle/status/2100431886543978896) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`transformation`](tags.md#tag-transformation) [`crystal`](tags.md#tag-crystal) [`scene-transition`](tags.md#tag-scene-transition)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A young East Asian woman in a dark maroon camisole matching detached sleeves and black cargo pants stands in a bright modern kitchen As she touches objects like a ceramic mug a metal kettle the wooden dining table shelves and the view outside the window each item shatters and transforms into dynamic crystal particles The room around her dissolves and shifts into a sleek minimalist industrial loft space featuring exposed concrete walls, large windows overlooking a bright coastal city harbor and professional video production equipment set up around her. Cinematic warm sunlight streams through the window highlighting floating dust and sparkling glass fragments in the air captured with smooth camera movements and a soft focus depth of field.
+```
+
+</details>
+
 <a id="seedance-last-supper-painting-camera-journey"></a>
 ### 镜头飞入文艺复兴风格最后的晚餐画作
 
@@ -2898,6 +2965,65 @@ A hyper-realistic cinematic shot in a dimly lit underground concrete parking gar
 
 </details>
 
+<a id="seedance-magic-pen-boardwalk-vlog"></a>
+### 夜晚海滨步道，手持发光魔法笔的第一视角
+
+<a href="https://x.com/Ciri_ai/status/2096441071534559403"><img src="../../previews/seedance-magic-pen-boardwalk-vlog.jpg" width="360"></a>
+
+每个变身节点都重复同一固定顺序，手持发光记号笔的真实手部始终留在画面中作为视觉引导。提示词明确写出手持抖动、自动对焦波动和快速甩镜，让像素精灵看起来像手机实拍而不是干净的特效合成。
+
+Seedance 2.5 · 文生视频 · 出处: [@Ciri_ai on X](https://x.com/Ciri_ai/status/2096441071534559403) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`pixel-art`](tags.md#tag-pixel-art) [`first-person`](tags.md#tag-first-person) [`handheld`](tags.md#tag-handheld) [`boardwalk`](tags.md#tag-boardwalk)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Magic Pen Beach Boardwalk Vlog · 15 Seconds · Vertical 9:16
+[STYLE]
+Live-action + flat pixel-art sprite compositing, first-person night boardwalk magic vlog. 8K photorealistic detail with the authentic look of a real smartphone rear-camera recording. Strong visual contrast between the photorealistic boardwalk and blocky 16-bit pixel-art objects. One continuous handheld smartphone shot. No cuts. No scene transitions.
+[CAMERA]
+Raw, unstabilized handheld smartphone footage: natural walking shake, subtle arm sway, occasional autofocus hunting, realistic exposure shifts between string lights and dark shadows, slight rolling-shutter jelly during fast pans. Natural smartphone night-mode color grading — warm highlights, slightly noisy shadows. Camera whip-pans quickly to follow the marker and each target.
+[LIGHTING]
+String lights and neon signage casting warm, uneven light along the boardwalk. Every real object and every pixel-art object casts a soft glowing rim-light matching the nearest light source.
+[SETTING]
+One continuous walk along a lively seaside boardwalk at night. Arcade stalls, a carousel, food carts, skateboarders, and the ocean visible in the background. Everyday nightlife, with background crowds and lights moving naturally.
+[PEN — MAGIC RULES]
+The vlogger's real hand, photorealistic skin and visible pores, holds a glowing yellow marker and remains visible throughout, serving as the visual guide connecting every beat.
+Every transformation follows the exact same sequence:
+Marker points → Vlogger says "Zap!" → yellow pixel-grid lines snap around the target → pixels crystallize outward → the target transforms into a chunky 16-bit sprite with hard-edged pixel shading.
+The transformed object must preserve its exact size, position, speed, direction, and perspective, remaining perfectly anchored to the real environment. Sprites retain flat pixel shading and are never relit by real-world lighting. Anything they touch reacts with realistic physical interaction.
+[00:00–00:03]
+First-person view walking along the boardwalk. The vlogger raises the glowing marker and points at a passing skateboarder.
+"Zap!"
+Yellow pixel-grid lines snap around the skateboarder, who becomes a blocky 16-bit sprite, still rolling at the same speed and angle.
+SFX: Skateboard wheels + electronic zap + 8-bit chiptune blip.
+[00:03–00:06]
+The marker swings toward a spinning carousel horse.
+"Zap!"
+The horse pixelates into a chunky retro sprite, still rising and falling on its pole in rhythm with the ride.
+SFX: Carousel music warping into chiptune + pixel crackle.
+[00:06–00:10]
+The marker follows toward a food cart's spinning sign.
+"Zap!"
+A pixel grid wraps the sign; it becomes a glowing 8-bit icon, still spinning at its normal speed.
+SFX: Metallic spin creak + soft digital chime.
+[00:10–00:12]
+The marker swings toward a seagull gliding overhead.
+"Zap!"
+Pixel lines trace the bird mid-flight; it becomes a flapping pixel-sprite seagull, continuing its exact flight path.
+SFX: Wing flap + quick zap + sparkle blip.
+[00:12–00:15]
+The vlogger stops and gives one final, louder:
+"Zap—!"
+The marker spins toward the ocean horizon. A wave of pixels spreads across the entire boardwalk scene, turning it into a glowing retro pixel-art world while the sky remains photorealistic.
+A small blocky "GAME OVER... NOT!" pops up above the boardwalk in pixel font.
+Freeze frame.
+SFX: Rising 8-bit arpeggio + pixel-shatter burst + classic arcade "level complete" jingle
+```
+
+</details>
+
 <a id="seedance-magical-pencil-live-action-animation"></a>
 ### 阳光公园中手牵手散步的情侣
 
@@ -2983,6 +3109,63 @@ End with the cinematic title: “SMALL SCALE. BIG ADVENTURE.” followed by “E
 SFX: Footsteps, packaging crinkles, candy rattles, plastic flexing, cart wheels, scanner beeps, conveyor hum, freezer sounds, rushing air, and cinematic impact.
 
 NEGATIVE: No cartoon, anime, toy-like appearance, animation, duplicated character, face or outfit changes, distorted anatomy, floating, scale changes, narration, or subtitles.
+```
+
+</details>
+
+<a id="seedance-miniature-woman-giant-shower"></a>
+### 微缩女子面对巨大淋浴喷头
+
+<a href="https://x.com/AIwithkhan/status/2110699529041310046"><img src="../../previews/seedance-miniature-woman-giant-shower.jpg" width="360"></a>
+
+一段分场景脚本加上固定的角色与比例设定，让微缩女主角在六个镜头中保持一致。微距与跟拍的镜头语言，加上明确的音效提示，共同驱动物理喜剧效果。
+
+Seedance 2.5 · 文生视频 · 出处: [@AIwithkhan on X](https://x.com/AIwithkhan/status/2110699529041310046) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`miniature`](tags.md#tag-miniature) [`vfx`](tags.md#tag-vfx) [`comedy`](tags.md#tag-comedy) [`shower`](tags.md#tag-shower) [`macro`](tags.md#tag-macro)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 30-second, photorealistic live-action miniature-person VFX comedy video showing an ordinary shower turning into an extreme survival adventure. Use cinematic macro photography, ultra-shallow depth of field, realistic water physics, dynamic handheld camera movements, dramatic lighting, and spectacular scale contrast. The video should feel like a premium Hollywood miniature-action sequence filmed inside a real bathroom, with hilarious near-disasters and visually satisfying moments. Ultra-detailed 4K quality, realistic textures, natural motion blur, and physically believable interactions.
+
+CHARACTER CONSISTENCY
+
+The main character is a tiny adult woman approximately 1:5 human scale, with realistic facial features, expressive eyes, shoulder-length dark hair tied in a small ponytail, a pastel-blue sleeveless top, dark shorts, and tiny white sneakers. Keep her face, hairstyle, clothing, body proportions, and scale perfectly consistent throughout the entire video. She must look like a real miniature person, not an animated or cartoon character.
+
+SCENE SEQUENCE
+
+Scene 1 — The Danger Begins
+A tiny woman stands on the edge of a bathroom floor beside a giant shower area, confidently preparing for a shower. The camera slowly pushes in as she looks up at the enormous showerhead above her. Suddenly, the shower turns on, and her confident expression changes to pure terror.
+
+Scene 2 — The First Waterfall
+A massive stream of water crashes down like a powerful waterfall. She runs for cover as giant droplets explode against the tiles around her. One enormous droplet splashes beside her, sending her tumbling backward across the wet floor.
+
+Scene 3 — Soap Bar Avalanche
+She climbs onto a giant soap bar to escape the rushing water. The slippery soap suddenly slides across the floor like a runaway skateboard. She desperately balances on top, waving her arms while racing toward the drain.
+
+Scene 4 — The Shampoo Bottle Collapse
+She jumps off the soap bar and grabs the edge of a giant shampoo bottle for safety. The bottle wobbles, tips over, and releases a thick stream of shampoo onto the floor. She slides down the slippery shampoo trail like a water slide, barely avoiding a giant puddle.
+
+Scene 5 — The Drain Escape
+The water begins flowing rapidly toward the bathroom drain. She runs in the opposite direction as tiny waves chase her feet. At the last moment, she leaps onto a raised tile edge and grabs a small grout line, dangling dramatically above the rushing water.
+
+Scene 6 — The Final Victory
+She pulls herself onto a dry bathmat, exhausted but triumphant. Behind her, the shower suddenly releases one final giant splash that sends her flying forward onto the soft mat. She slowly lifts her head, gives the showerhead an angry look, and shakes her fist at it. End with a dramatic close-up of her soaked, furious face.
+
+CAMERA AND VISUAL STYLE
+
+- Cinematic macro close-ups emphasizing the tiny woman's scale against oversized bathroom objects.
+- Low-angle tracking shots following her frantic escape.
+- Fast whip pans, subtle handheld shake, and brief slow motion during major splashes and jumps.
+- Realistic water droplets, splashes, wet surfaces, reflections, and slippery soap physics.
+- Sharp focus on the character with beautiful background bokeh.
+- Comedic timing, expressive facial reactions, and seamless transitions between action beats.
+- Maintain consistent bathroom layout, lighting, character appearance, and object positions.
+
+SOUND DESIGN
+
+Use synchronized, exaggerated but realistic sound effects: shower valve click, thunderous rushing water, heavy splashes, slippery soap squeaks, shampoo bottle thud, wet sliding sounds, frantic footsteps, dramatic whooshes, and a final soft bathmat landing. Add playful, suspenseful instrumental background music that builds during the chase and ends with a funny musical sting.
 ```
 
 </details>
@@ -3603,6 +3786,27 @@ Photorealistic, ultra-detailed wind and hair physics, perfect motion blur only o
 
 </details>
 
+<a id="seedance-runner-panther-phoenix-whale-grizzly"></a>
+### 奔跑者依次化身黑豹、火凤凰、巨鲸与灰熊
+
+<a href="https://x.com/itsSaira_1/status/2109857577920344375"><img src="../../previews/seedance-runner-panther-phoenix-whale-grizzly.jpg" width="360"></a>
+
+用一个连续镜头串起四次变形，每次变化都由火焰或入海等实体动作衔接，转场因此显得自然。固定的暮色到日落环境让各段光线保持一致。
+
+Seedance 2.5 · 文生视频 · 出处: [@itsSaira_1 on X](https://x.com/itsSaira_1/status/2109857577920344375) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`transformation`](tags.md#tag-transformation) [`animal`](tags.md#tag-animal) [`fantasy`](tags.md#tag-fantasy) [`beach`](tags.md#tag-beach)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+low quality, blurry, distorted anatomy, jittery motion, abrupt cuts, poor lighting, unrealistic water, bad textures
+
+#AI #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #visualart
+```
+
+</details>
+
 <a id="seedance-tiny-chef-giant-kitchen"></a>
 ### 小手绘厨师站在巨大木勺旁
 
@@ -3643,6 +3847,25 @@ Visual: She proudly places a tiny strawberry on top, but the strawberry rolls aw
 Visual: The camera pulls back to reveal the finished pancake breakfast. The tiny chef sits on the edge holding her spoon proudly—then a giant fork suddenly enters frame and lifts the entire pancake stack away. She freezes in disbelief.
 
 Audio: Playful kitchen ambience, whisking, batter splashes, pancake flip, tiny footsteps, comedic impact sounds, subtle upbeat music, no dialogue.
+```
+
+</details>
+
+<a id="seedance-tokyo-platform-snap-anime-manga"></a>
+### 弹指切换东京站台的动漫与漫画风格
+
+<a href="https://x.com/Zyrellix/status/2096961937770697155"><img src="../../previews/seedance-tokyo-platform-snap-anime-manga.jpg" width="360"></a>
+
+每次弹指都是一次风格切换的触发动作，提示词把每个阶段的具体动作和指定画风按固定顺序配对。低角度中景跟拍朝向镜头，让主体在转场中始终保持居中。
+
+Seedance 2.5 · 文生视频 · 出处: [@Zyrellix on X](https://x.com/Zyrellix/status/2096961937770697155) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`style-transition`](tags.md#tag-style-transition) [`anime`](tags.md#tag-anime) [`manga`](tags.md#tag-manga) [`tokyo`](tags.md#tag-tokyo) [`finger-snap`](tags.md#tag-finger-snap)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A stylish young woman wearing a bright green bomber jacket, a colorful striped crop top, cargo pants, and pink sneakers walking on an open-air train station platform in Tokyo, Japan. Low-angle medium tracking shot following her as she walks towards the camera. She snaps her fingers, and with each snap, the environment and visual style instantly transform: first into a vibrant anime fantasy sky with clouds and a rainbow sunset, then into a black-and-white manga sketch art style with colored accents, and finally back to realistic live-action. She then laughs and covers her mouth with her hand. Cinematic lighting, smooth motion transitions, 8k resolution, photorealistic detail.
 ```
 
 </details>
@@ -3700,6 +3923,27 @@ Seedance 2.5 · 参考生视频 · 出处: [@MahiraEhan on X](https://x.com/Mahi
 
 ```text
 Duration: 10s | Strict 16:9 Landscape | Native 4K UHD | 24fps. Genre: Cinematic Slice-of-Life Fantasy Comedy / Elemental Magic. Target: Ultra-realistic premium live-action fantasy cinema. Use @ image1 as the sole identity reference; preserve exactly as shown, ignoring only background, pose, framing, and text. Exactly one Character A, with no redesign, duplication, morphing, identity drift, outfit change, or hairstyle change. In an old witch’s kitchen, Character A attempts to make one cup of tea using elemental magic, but the spell becomes unexpectedly powerful. The scene begins with a table-level macro shot of a still ceramic cup of tea while Character A’s tired, unimpressed face remains softly blurred behind it. Character A reaches for the wand and raises it in profile. A thin orange-blue magical filament travels continuously from the wand tip through open space into the center of the tea, visibly making contact with the liquid and creating a subtle glowing ripple and warm reflection inside the cup; only after contact does the tea begin rotating. The stirring starts gently, then accelerates unnaturally fast, creating a small controlled whirlpool and a few droplets rising from the surface without splashing wildly. Character A watches with slightly widened eyes, then makes one quick reverse wand gesture to cancel the spell. The tea immediately becomes still. Character A lowers the wand onto the table, lifts the cup carefully, and takes one small sip. There is absolutely no disgust before tasting. After a brief beat, the excessive heat registers: Character A’s eyes narrow, brows pinch, nose wrinkles slightly, and the lips tighten into a restrained, exhausted grimace. Character A leans forward and spits the same mouthful of tea back into the same ceramic cup, keeping the lower face and cup visible together; show one small restrained spray of liquid leaving the mouth and landing back inside the cup, with no vomiting or excessive saliva. Character A then stares at the cup with quiet offended disbelief while lowering it toward the table, ending during the movement with no smile, camera look, victory pose, freeze frame, or fade. Camera language is cinematic macro depth with rack focus, tight profile, wand insert, readable over-the-shoulder magical contact, overhead tea-whirlpool detail, extreme eye close-up, and tight three-quarter reaction, maintaining consistent screen direction and avoiding chaotic camera shake or teleportation. Audio consists of quiet witch-kitchen ambience, wand ignition, a subtle magical hum, liquid swirling, cancellation sound, a small sip, restrained “ptuh,” soft liquid landing, and a disappointed exhale. Music is cozy, mischievous slice-of-life comedy using acoustic guitar, pizzicato strings, muted piano, playful clarinet, and brushed percussion, with no vocals; build gently during the magical stirring, briefly thin the score as the heat registers, then add one understated plucked accent when the tea lands back in the cup. Keep music below the sound effects and avoid boing sounds, circus music, meme sounds, or laugh tracks. Maintain strict causality: FILAMENT CONTACT → TEA STIRS → SPELL ESCALATES → SPELL CANCELLED → TEA STILL → SIP → HEAT REGISTERS → SAME MOUTHFUL SPAT BACK INTO SAME CUP → DEADPAN REGRET. Priority locks are identity, visible magical contact, continuous tea-state consistency, sip before reaction, the same mouthful visibly returning to the same cup, stable facial anatomy, restrained acting, realistic liquid physics, cinematic close-ups, and readable comedic timing. Negative prompt: duplicate character, duplicate cup, duplicate wand, duplicate tea, missing magical contact, magic hitting table or hand, reaction before sipping, new liquid appearing, whole cup spat out, vomiting, excessive saliva, broken mouth anatomy, premature stirring, instant violent whirlpool, large magical explosion, injury, identity drift, exaggerated acting, cartoon physics, anime, cheap CGI, plastic skin, discontinuity, frozen frames, subtitles, text, logo, watermark.
+```
+
+</details>
+
+<a id="seedance-woman-black-panther-jungle-transform"></a>
+### 身穿黑色紧身衣的女子站在丛林中
+
+<a href="https://x.com/itsSaira_1/status/2106596983565898079"><img src="../../previews/seedance-woman-black-panther-jungle-transform.jpg" width="360"></a>
+
+提示词按时间顺序写成分镜，依次是走动、眼部特写、俯拍倒地、爪子特写和最后的豹脸特写，让每个镜头在变身中都有明确位置。浅景深和负面提示词用来保持画面清晰，避免畸变。
+
+Seedance 2.5 · 文生视频 · 出处: [@itsSaira_1 on X](https://x.com/itsSaira_1/status/2106596983565898079) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`transformation`](tags.md#tag-transformation) [`panther`](tags.md#tag-panther) [`jungle`](tags.md#tag-jungle) [`morph`](tags.md#tag-morph)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Cinematic realistic jungle scene, misty rainforest, soft natural light. A tall woman with long black hair in a glossy black bodysuit walks forward, then crouches low. Extreme close-up of her eyes turning from brown-green to glowing yellow-green with slit pupils. Overhead shot: her body bends forward onto the leaf-covered ground as a black tail appears. Close-up of huge black paws with sharp claws pressing into dry leaves. Final close-up of a black panther's face with glowing green eyes staring at the camera. Smooth morph transformation, shallow depth of field, 4K, ultra detailed. Negative: blurry, deformed, extra limbs, text, watermark, cartoon.
+
+#AIArt #AIVideo #AITransformation #CinematicAI #VisualStorytelling
 ```
 
 </details>

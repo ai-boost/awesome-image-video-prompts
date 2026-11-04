@@ -1,0 +1,27 @@
+id: seedance-manhattan-octopus-pink-lightning-fight
+title:
+  en: Woman with pink lightning fights giant octopus in Manhattan
+  zh: 粉色闪电少女在曼哈顿与巨型章鱼激战
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- monster-fight
+- superhero
+- manhattan
+- lightning
+source:
+  name: '@itsSaira_1 on X'
+  url: https://x.com/itsSaira_1/status/2107349100698259868
+  credit: itsSaira_1
+  captured: '2026-11-03'
+  posted: '2026-10-06'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/itsSaira_1/status/2107349100698259868
+notes:
+  en: The prompt locks in photoreal realism with a named city, overcast light and a handheld low angle camera, then breaks the fight into ordered beats (punch, leap, knockback, blast) so the model has clear shots to follow. The audio is written as a timed sequence of vocal, crash and electric crackle, which keeps the sound in step with the action.
+  zh: 提示词用具体城市、阴天光线和手持低角度镜头锁定写实质感，再把打斗拆成拳击、跃上、击飞、反击等有先后顺序的动作节拍，让模型有清晰的镜头可循。音效也按时间写成人声、碰撞和电流噼啪声的顺序，使声音与动作同步。
+prompt: |
+  cartoon, anime, plastic skin, blurry, warped face, extra limbs, bad hands, morphing identity, text, watermark, deformed octopus, mushy tentacles, broken cars, sunshine, static camera, gore
+
+  #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #Ai #Aivideo #visualart

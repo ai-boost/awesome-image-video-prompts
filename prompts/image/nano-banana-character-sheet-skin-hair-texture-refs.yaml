@@ -1,0 +1,35 @@
+id: nano-banana-character-sheet-skin-hair-texture-refs
+title:
+  en: Olive-suited man with natural skin texture
+  zh: 橄榄绿西装男子，皮肤质感自然
+model: Nano Banana 2.1
+mode: image-edit
+category: edit
+tags:
+- seedream
+- character-sheet
+- skin-texture
+- hair-texture
+source:
+  name: '@Kiber_Alla on X'
+  url: https://x.com/Kiber_Alla/status/2116291838852141297
+  credit: Kiber Alla
+  likes: 199
+  captured: '2026-11-03'
+  posted: '2026-10-30'
+notes:
+  en: Two texture reference images are passed alongside the character sheet, and the prompt locks identity, pose, clothing and layout while changing only skin micro texture and hair strand structure. An explicit contrast rule softens blotchy faces without retouching, and the prompt is written for Seedream 5.0 Flash.
+  zh: 在角色设定图之外再传入两张纹理参考图，提示词锁定人物身份、姿势、服装和构图，只改变皮肤微纹理和发丝结构。提示词还包含明确的对比度规则，可在不修图的前提下柔化斑驳的脸部，文中提示词针对 Seedream 5.0 Flash 编写。
+prompt: |
+  How it works:
+  → Image 1 — character sheet
+  → Image 2 — skin texture
+  → Image 3 — hair texture (light or dark)
+
+  Universal prompt for Seedream 5.0 Flash (works across characters): Keep <<<image_1>>> exactly as it is: same person, same face shape and features, same expression, same hairstyle and hair shape, same hair color, same skin tone, same makeup, same wrinkles, freckles, moles, scars and facial hair, same clothing and accessories, same pose, composition, layout, background and framing.
+
+  Change only the surface texture:
+  - Skin: apply the micro-texture from <<<image_2>>> — fine natural skin lines, pores and soft realistic surface. Do not copy its color or its glossy shine.
+  - Hair: apply the strand structure from <<<image_3>>> — fine individual strands, soft natural flyaways. Do not copy its color.
+
+  Balance the contrast to a natural photographic level: if image 1 looks too harsh or blotchy, soften it; if it looks flat or washed out, add depth. Aim for a well-balanced realistic photo — rich but not crushed shadows, clean highlights, smooth even tonal transitions, natural shading with real volume. No retouching, no beautifying, no plastic look.

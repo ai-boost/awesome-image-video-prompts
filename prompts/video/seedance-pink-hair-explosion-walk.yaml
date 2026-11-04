@@ -1,0 +1,83 @@
+id: seedance-pink-hair-explosion-walk
+title:
+  en: Woman walks calmly past explosion on night road
+  zh: 女子在夜路上从容走过身后爆炸
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- explosion
+- tracking-shot
+- night
+- character-lock
+source:
+  name: '@Just_sharon7 on X'
+  url: https://x.com/Just_sharon7/status/2110990656105807984
+  credit: Just_sharon7
+  captured: '2026-11-03'
+  posted: '2026-10-16'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Just_sharon7/status/2110990656105807984
+notes:
+  en: One continuous backward tracking shot at matched walking speed keeps her centered while the explosion stays behind her. A locked identity block with exact outfit and hair details, plus a timed action timeline and sound design section, gives the model clear beats to follow.
+  zh: 连续的逆向跟拍镜头与人物步速同步，让她始终居中，爆炸留在身后。锁定外形的身份段落加上分秒对应的动作时间线和声音设计，给模型清晰的节拍。
+prompt: |
+  VISUAL STYLE
+
+  Ultra-photorealistic Hollywood blockbuster cinematography. A dramatic nighttime explosion sequence featuring a mysterious young woman walking calmly toward the camera while a massive fireball erupts behind her. Realistic fire simulation, powerful shockwaves, thick smoke, flying debris, atmospheric lighting, cinematic contrast, natural skin textures, and realistic human movement. Cool blue nighttime tones contrast with intense orange flames.
+
+  CHARACTER IDENTITY LOCK
+
+  A striking 24-year-old woman with long, straight pastel-pink hair and soft bangs framing her face. Pale natural skin, delicate facial features, and a cold, emotionless expression.
+
+  OUTFIT: A fitted rainbow-striped long-sleeve turtleneck shirt underneath faded light-blue denim short overalls, with a front bib pocket and adjustable shoulder straps. Red bands around both upper thighs. Barefoot.
+
+  Preserve her exact face, hairstyle, outfit, body proportions, and accessories throughout the entire video.
+
+  SETTING
+
+  An isolated, empty two-lane asphalt road at midnight. The road is slightly wet, reflecting the overhead streetlights. A faded yellow centerline stretches into the distance. Evenly spaced modern streetlights illuminate both sides of the road, disappearing into the darkness. No vehicles, pedestrians, or surrounding buildings.
+
+  CAMERA
+
+  One continuous frontal tracking shot. The camera moves backward at exactly the same speed as the woman, maintaining a centered, full-body composition. Smooth stabilized movement with subtle natural cinematic motion. 35mm lens, shallow atmospheric depth, realistic lighting, and high dynamic range.
+
+  ACTION TIMELINE
+
+  00:00–00:02 — THE MYSTERIOUS WALK
+
+  The woman walks barefoot directly toward the camera along the center of the deserted road. She casually holds a cigarette near her lips, takes a final drag, and maintains a completely emotionless expression. Her long pastel-pink hair moves gently in the nighttime breeze.
+
+  00:02–00:04 — THE IGNITION
+
+  She lowers her hand and continues walking without looking backward. A sudden bright blue-white flash illuminates the road far behind her. A small cloud of smoke begins expanding rapidly in the background.
+
+  00:04–00:06 — THE MASSIVE EXPLOSION
+
+  A gigantic orange fireball violently erupts behind the woman, filling the entire width of the road. The explosion expands upward into a towering mushroom-shaped cloud of flames and black smoke.
+
+  Powerful shockwaves push dust and debris outward. Bright orange firelight illuminates the woman's pink hair, denim overalls, and the reflective asphalt.
+
+  She never turns around, flinches, or changes her walking speed.
+
+  00:06–00:08 — THE UNTOUCHABLE WALK
+
+  The woman continues walking directly toward the camera with complete confidence. Behind her, enormous flames roll across the road while thick smoke rises into the night sky.
+
+  The explosion creates dramatic orange rim lighting around her silhouette. Her hair sways gently from the displaced air. Her facial expression remains cold and completely indifferent.
+
+  00:08–00:10 — THE FINAL HERO SHOT
+
+  The camera continues tracking backward as she approaches slightly closer. Burning wreckage and towering flames remain visible behind her.
+
+  She walks steadily toward the lens, looking straight ahead with an intimidating, expressionless gaze.
+
+  End on a powerful cinematic shot of the woman perfectly centered against the enormous burning background.
+
+  SOUND DESIGN
+
+  Quiet nighttime ambience, soft barefoot footsteps against asphalt, subtle cigarette inhale, sudden explosive ignition, enormous deep bass explosion, roaring flames, rushing air, and falling debris.
+
+  STRICT REQUIREMENTS
+
+  One uninterrupted tracking shot. No cuts, no camera angle changes, no slow motion, no dialogue, no subtitles, no text overlays. The woman's face and clothing must remain perfectly consistent. The explosion must remain behind her, never engulfing her. Physically convincing fire, smoke, lighting, and debris. No cartoon effects, no artificial-looking CGI humans, no facial distortion, no duplicated limbs.

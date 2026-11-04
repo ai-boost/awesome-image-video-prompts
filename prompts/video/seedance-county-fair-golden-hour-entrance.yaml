@@ -1,0 +1,31 @@
+id: seedance-county-fair-golden-hour-entrance
+title:
+  en: Young woman walks into a county fair at sunset
+  zh: 年轻女子在日落时走进乡村集市
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- county-fair
+- golden-hour
+- vlog
+- handheld
+source:
+  name: '@nawalsehar on X'
+  url: https://x.com/nawalsehar/status/2097901351049294063
+  credit: nawalsehar
+  captured: '2026-11-03'
+  posted: '2026-09-10'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/nawalsehar/status/2097901351049294063
+notes:
+  en: The prompt is an ordered list of beats, one per activity, so the model moves through the evening in sequence as the light fades. Character appearance and clothing are locked in a separate sentence, and the explicit ban on captions, logos and CGI keeps the clip looking like real handheld footage.
+  zh: 提示词按顺序列出每个镜头节拍，每项活动一个节拍，让模型随着光线渐暗依次推进。角色外观与服装单独用一句话锁定，并明确禁止字幕、标志和CGI，使画面保持真实手持拍摄的质感。
+prompt: |
+  Create a 30-second ultra-photorealistic cinematic American county-fair vlog following a young American woman through a warm summer evening. Start with her entering a small rural fair as golden light fades, then riding the Ferris wheel, sharing a fresh funnel cake, trying a ring-toss game, wandering through families and local vendors, listening to a live country band, and watching fireworks light up the night.
+
+  Make the fair feel genuinely local and lived-in, with dusty paths, pickup trucks, food stalls, wooden booths, string lights, children, families, farmland and glowing carnival rides. Maintain identical character appearance and clothing throughout.
+
+  Use realistic handheld 2026 vlog cinematography, natural expressions, subtle camera movement, authentic evening lighting, realistic crowd behavior and physically accurate motion. Capture detailed food, snow-like powdered sugar, ride mechanics, thrown rings, fireworks, drifting smoke, wind and reflections.
+
+  Use only natural fairground audio and live music with short, synchronized American English dialogue. No narration, subtitles, CGI, animation, fake crowds, impossible physics, floating camera, logos or watermark.

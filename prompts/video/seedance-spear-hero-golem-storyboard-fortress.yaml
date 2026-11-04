@@ -1,0 +1,48 @@
+id: seedance-spear-hero-golem-storyboard-fortress
+title:
+  en: Spear hero battles stone golems in ruined fortress
+  zh: 长矛英雄在废墟要塞中对战石魔像
+model: Seedance 2.5
+mode: reference-to-video
+category: action
+tags:
+- fantasy
+- action
+- storyboard
+- multi-reference
+source:
+  name: '@Xaroon_x on X'
+  url: https://x.com/Xaroon_x/status/2100595334833422793
+  credit: Xaroon_x
+  captured: '2026-11-03'
+  posted: '2026-09-17'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Xaroon_x/status/2100595334833422793
+notes:
+  en: Image 1 is a timed 20-frame storyboard that sets shot order, camera angles and choreography, while Image 2 supplies only the character's identity. Splitting the references this way keeps the layout fixed and changes just the face and costume.
+  zh: 图1是带时间码的二十格分镜，决定镜头顺序、机位和动作编排；图2只提供角色身份。两张参考图分工明确，固定构图，只替换人物面容与服装。
+prompt: |
+  15s cinematic fantasy action. REFERENCE IMAGE 1 is the EXACT STORYBOARD. Follow its 20 frames, timing, shot order, camera angles, poses, actions, composition and transitions exactly. REFERENCE IMAGE 2 is ONLY the male character identity. Replace the female warrior in Image 1 with the exact male from Image 2. Preserve his face, wavy dark hair, full beard, skin tone, body proportions and black outfit. Keep the flaming spear, ruined fortress, cracked stone floor, fog and grey-blue cinematic lighting.
+
+  00:00–00:00.6 F1: Hero jumps from above with flaming spear.
+  00:00.6–00:01.2 F2: Hero lands in deep crouch, dust bursts.
+  00:01.2–00:01.8 F3: Hero stands as stone golems appear.
+  00:01.8–00:02.4 F4: Golems surround him; spear ready.
+  00:02.4–00:03.0 F5: Hero makes first powerful spear swing.
+  00:03.0–00:03.6 F6: Spear hits golem; sparks and rocks explode.
+  00:03.6–00:04.2 F7: Hero spins, flaming trail, hits multiple golems.
+  00:04.2–00:05.0 F8: Another golem falls among debris.
+  00:05.0–00:05.8 F9: Hero pauses and sees larger threat.
+  00:05.8–00:06.6 F10: Massive stone golem rises through fog.
+  00:06.6–00:07.4 F11: Giant close-up, blue-white eyes glowing.
+  00:07.4–00:08.2 F12: Hero faces giant, spear diagonal.
+  00:08.2–00:09.0 F13: Giant steps toward hero.
+  00:09.0–00:09.8 F14: Hero charges with spear raised.
+  00:09.8–00:10.6 F15: Spear hits giant; huge orange explosion.
+  00:10.6–00:11.4 F16: Giant staggers; rocks fly.
+  00:11.4–00:12.2 F17: Giant collapses; dust spreads.
+  00:12.2–00:13.0 F18: Hero stands in dust with burning spear.
+  00:13.0–00:14.0 F19: ENORMOUS stone face emerges behind ruins; blue eyes ignite.
+  00:14.0–00:15.0 F20: Final wide shot; hero faces colossal face.
+
+  PRIORITY: Image 1 controls the complete video sequence and choreography. Image 2 controls ONLY male identity. Maintain exact identity, costume, weapon, environment, scale, lighting and geography. No female, extra heroes, modern objects, cartoon style, text, subtitles or watermark.

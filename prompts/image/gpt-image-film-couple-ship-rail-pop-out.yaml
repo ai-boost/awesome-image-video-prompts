@@ -1,0 +1,24 @@
+id: gpt-image-film-couple-ship-rail-pop-out
+title:
+  en: Couple at ship rail spilling out of frame
+  zh: 船栏边的两人冲出画框
+model: GPT Image 2.5
+mode: image-edit
+category: collage
+tags:
+- pop-out
+- collage
+- film-still
+- editorial
+source:
+  name: '@weiinberg on X'
+  url: https://x.com/weiinberg/status/2115310065964212494
+  credit: Weinberg
+  likes: 112
+  captured: '2026-11-03'
+  posted: '2026-10-28'
+notes:
+  en: Locking the original faces, pose and film colours while letting the fabric run past the lower frame sells the pop-out effect. Contact shadows and a textured warm wall supply the depth cues.
+  zh: 提示词锁定原图的人物、姿态和电影色调，只让衣料越过画框下缘，立体感就成立。接触阴影和带纹理的暖色墙面提供景深线索。
+prompt: |
+  Transform the original photo into a premium minimalist editorial collage on warm ivory textured paper (vertical 3:4). Preserve the subjects, faces, poses, clothing, and original cinematic colors unchanged. Create a photorealistic 3D pop-out effect, with the subjects and flowing fabric extending naturally beyond the photo’s lower frame. Add realistic contact shadows, soft studio lighting, subtle paper grain, fine details, and authentic depth. Maintain elegant negative space and luxury-magazine aesthetics. No extra objects, distorted features, or artificial effects.

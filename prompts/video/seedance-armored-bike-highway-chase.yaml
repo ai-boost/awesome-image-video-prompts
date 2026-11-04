@@ -1,0 +1,49 @@
+id: seedance-armored-bike-highway-chase
+title:
+  en: Hero rides armored bike through burning dystopian highway
+  zh: 英雄骑装甲摩托穿越燃烧的末日高速公路
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- sci-fi
+- action
+- motorcycle
+- multi-shot
+source:
+  name: '@itsSaira_1 on X'
+  url: https://x.com/itsSaira_1/status/2104789066562547945
+  credit: itsSaira_1
+  captured: '2026-11-03'
+  posted: '2026-09-29'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/itsSaira_1/status/2104789066562547945
+notes:
+  en: A timestamped shot list gives each beat its own framing and camera move, so the model cuts through the sequence in order. The header repeats fixed descriptions of the hero and the bike so their design stays consistent across cuts.
+  zh: 带时间码的分镜清单，每一段都写明构图和运镜，让模型按顺序完成剪辑。开头固定了人物和摩托的外形描述，各个镜头之间设计保持一致。
+prompt: |
+  CINEMATIC SHORT FILM, 46 sec, 16:9, photorealistic Hollywood sci-fi action, dystopian highway apocalypse. Cold steel-grey sky, burning orange explosions, volumetric god rays, anamorphic lens, film grain. HERO: muscular woman, curly dark hair, olive tank top, black jeans and boots, fierce expression. BIKE: matte-black futuristic armored motorcycle, twin fat front wheels, white glowing headlights, mounted cannon.
+
+  1 (0-2s): Low-angle front tracking, hero races toward camera on a wrecked highway, burning car and black smoke behind.
+  2 (2-4s): Side-front tracking, bike leans through a curve under an overpass, headlights flaring.
+  3 (5-6s): Extreme close-up of the bike's armored cannon and engine, her hand on the handlebar, motion blur.
+  4 (7-9s): Tight close-up of her face low over the bike, intense eyes, wind-blown curls, shallow depth of field.
+  5 (10-11s): Wide low-angle, giant black alien warship over the highway fires an orange beam, ground explosion.
+  6 (12-14s): Huge fireball erupts, hero's tiny silhouette speeds away, yellow car blurs past.
+  7 (15-16s): Side close-up, hero crouched on the bike, engulfed in orange fire and smoke.
+  8 (17-18s): Ground-level shot of rusted abandoned cars, open doors, a boot flies through the frame.
+  9 (19-21s): Blonde woman in black leather jacket aims a heavy sci-fi rifle at camera, burning wreckage behind.
+  10 (22-23s): Frontal tracking, hero bursts out from under a dark overpass, smoke columns behind.
+  11 (24-26s): Driver POV down the highway, collapsed overpass and debris ahead, lone black car in the lane.
+  12 (27-28s): Wide side shot, bike launches off a broken concrete slab, front wheel high.
+  13 (29-33s): Slow-motion low-angle, hero and bike airborne against dramatic clouds and god rays, red taillight glowing.
+  14 (34-36s): Close-up, rear wheel hits a broken slab and explodes in a fireball, sparks and debris, slow motion.
+  15 (37-38s): Wide ground-level, debris-covered highway, overturned burning car, tiny hero falling through the sky.
+  16 (39-42s): Hero lands and skids into a low crouch, one knee and hand down, fire behind her.
+  17 (43-46s): Medium close-up, she rises, fierce eyes, wall of orange fire exploding behind her, freeze on hero pose.
+
+  MOTION: fast tracking, whip pans, slow-motion airborne beat, handheld shake on explosions, realistic physics, consistent character and bike design.
+
+  NEGATIVE PROMPT: cartoon, anime, CGI look, plastic skin, deformed face, bad hands, extra limbs, extra wheels, changing bike design, inconsistent character, blurry, low resolution, flicker, morphing, warped anatomy, text, subtitles, watermark, logo, oversaturated, duplicate characters, unnatural motion
+
+  #AIVideo #AIArt #AIFilm #CinematicAI #SciFi #ActionScene #Midjourney #GenerativeAI

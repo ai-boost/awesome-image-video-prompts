@@ -1,0 +1,36 @@
+id: seedance-underwater-seoul-subway-romance
+title:
+  en: Woman submerged in flooded Seoul subway carriage
+  zh: 首尔地铁车厢中被水淹没的女子
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- romance
+- surreal
+- short-film
+- seoul
+source:
+  name: '@KrishnaBio1 on X'
+  url: https://x.com/KrishnaBio1/status/2117176888984801545
+  credit: KrishnaG
+  likes: 965
+  captured: '2026-11-03'
+  posted: '2026-11-02'
+video: https://x.com/KrishnaBio1/status/2117176888984801545
+notes:
+  en: Fixed face and wardrobe descriptions are repeated in every shot to keep the character consistent, and the prompt is split into timed segments with a camera or sound cue for each. Audio is listed separately with ambience, heartbeat and dialogue lines so the sound design drives the mood.
+  zh: 每个镜头都重复固定的面部和服装描述，保证人物前后一致；提示词按时间段拆分，每段都写明镜头或声音提示。音频单独列出环境声、心跳和对白，用声音带动情绪。
+prompt: |
+  Cinematic ultra-realistic surreal romantic drama short film, 16:9, 30 seconds, 24fps, shot like a high-budget Korean feature film, set inside a crowded Seoul subway carriage with cool teal interior lighting, silver handrails and hanging straps, rush-hour commuters, a surreal water-filled dreamlike atmosphere, shallow depth of field, crisp detail, subtle film grain, slow gentle camera movement, quiet, lonely and tender mood.
+  👩 HEROINE: A young Korean woman in her late 20s, long wavy black hair, soft natural makeup, tired and lonely eyes, wearing a cream turtleneck cardigan, black trousers and white wireless earbuds. Quiet, overwhelmed by the crowd. Keep her face and outfit identical in every shot.
+  👨 HERO: A young Korean man in his mid-20s, soft side-swept dark hair, calm gentle eyes, wearing a navy wool overcoat over a cream turtleneck. Quiet, kind and observant, with one coat sleeve slightly wet. Keep his face and outfit identical in every shot.
+  👥 BACKGROUND: Dozens of commuters in coats and suits staring at their phones, completely unaware of what is happening around her.
+  🚇 0–5s: Wide shot of a packed carriage. The heroine stands in the middle of the crowd with her earbuds in, looking small and distant. Slowly, silent water begins to rise around her waist, then her chest, shimmering under the lights, while the commuters keep scrolling on their phones, unaware.
+  🫧 5–10s: Close-up underneath the surface. Her long hair floats around her face, her eyes are closed and a single bubble rests on her forehead. Slow motion, muffled underwater sound. Her eyes open slowly.
+  🌊 10–15s: The whole carriage is now a silent blue-green underwater world. Commuters sit and stand frozen and blurred, an older woman looks right at her without seeing her. The heroine raises one hand toward the surface, bubbles rising past her face. Muffled train sounds and a slow heartbeat.
+  👣 15–20s: Through the still crowd, a man in a dark overcoat walks calmly toward her, the water rippling around his legs, as if he can breathe in her world. Alternating close-ups of her surprised eyes and his steady gaze. He stops exactly one meter away.
+  💧 20–25s: Close-up of the man's coat sleeve, damp and dripping. The heroine looks at it, then up at him. He says softly: "You looked like you were holding your breath." She answers in a whisper: "I think I've been holding it for a very long time." He slowly extends his hand, and her fingertips tremble toward it.
+  🌅 25–30s: Their fingertips touch. The water drains away in a rush of sparkling light, bubbles popping, and the carriage returns to normal. The two stand side by side among the commuters. She takes out one earbud, hears the real sounds of the train for the first time, and breathes in deeply with a relieved smile. Slow push-in on her face, then fade out.
+  🎧 AUDIO: Muffled underwater ambience and a slow heartbeat, bubbles and soft ripples, distant train rumble that sharpens when the water drains, a delicate piano-and-strings score, clear natural English dialogue.
+  🎬 STYLE: Realistic surreal romance with a hushed emotional tone, restrained performances, cool teal-and-cream color grading, wholesome and non-graphic, consistent faces and outfits, no text, no subtitles, no logos, no watermark.

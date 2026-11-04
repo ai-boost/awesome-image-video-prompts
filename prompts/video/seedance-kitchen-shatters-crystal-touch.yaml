@@ -1,0 +1,24 @@
+id: seedance-kitchen-shatters-crystal-touch
+title:
+  en: Kitchen shatters into crystal at her touch
+  zh: 触碰之下厨房化为碎晶
+model: Seedance 2.5
+mode: text-to-video
+category: vfx
+tags:
+- transformation
+- crystal
+- scene-transition
+source:
+  name: '@laviniavelle on X'
+  url: https://x.com/laviniavelle/status/2100431886543978896
+  credit: laviniavelle
+  captured: '2026-11-03'
+  posted: '2026-09-17'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/laviniavelle/status/2100431886543978896
+notes:
+  en: Each object she touches is listed as its own shatter trigger, so the change is driven by a sequence of actions rather than one hard cut. Warm sunlight, soft focus and smooth camera moves tie the kitchen and the loft together into one continuous shot.
+  zh: 把她触碰的每件物品单独列为碎裂触发点，让变化由一连串动作驱动，而不是一次硬切。暖阳、柔焦和平滑运镜把厨房与loft空间连成一个连续镜头。
+prompt: |
+  A young East Asian woman in a dark maroon camisole matching detached sleeves and black cargo pants stands in a bright modern kitchen As she touches objects like a ceramic mug a metal kettle the wooden dining table shelves and the view outside the window each item shatters and transforms into dynamic crystal particles The room around her dissolves and shifts into a sleek minimalist industrial loft space featuring exposed concrete walls, large windows overlooking a bright coastal city harbor and professional video production equipment set up around her. Cinematic warm sunlight streams through the window highlighting floating dust and sparkling glass fragments in the air captured with smooth camera movements and a soft focus depth of field.

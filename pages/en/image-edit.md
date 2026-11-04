@@ -1,6 +1,6 @@
 # Photo editing
 
-[Back to the list](../../README.md) · All 53 entries
+[Back to the list](../../README.md) · All 55 entries
 
 <a id="nano-banana-charmander-ember-route-101"></a>
 ### Charmander uses Ember on a sunset route
@@ -296,6 +296,36 @@ GPT Image 2 · Edit · Source: [@Zyrellix on X](https://x.com/Zyrellix/status/20
 
 ```text
 Transform this photo into a tiny “Minimi” world where miniature 3D characters interact naturally around me — sitting on my shoulder and bag, waving, copying my pose, and exploring the scene. Keep the original photo intact with realistic shadows, depth, motion, warm emotions. Title: “Tiny Moments Beside Me”
+```
+
+</details>
+
+<a id="nano-banana-character-sheet-skin-hair-texture-refs"></a>
+### Olive-suited man with natural skin texture
+
+<a href="https://x.com/Kiber_Alla/status/2116291838852141297"><img src="../../previews/nano-banana-character-sheet-skin-hair-texture-refs.jpg" width="360"></a>
+
+Two texture reference images are passed alongside the character sheet, and the prompt locks identity, pose, clothing and layout while changing only skin micro texture and hair strand structure. An explicit contrast rule softens blotchy faces without retouching, and the prompt is written for Seedream 5.0 Flash.
+
+Nano Banana 2.1 · Edit · Source: [@Kiber_Alla on X](https://x.com/Kiber_Alla/status/2116291838852141297) · 199 likes on 2026-11-03
+
+[`seedream`](tags.md#tag-seedream) [`character-sheet`](tags.md#tag-character-sheet) [`skin-texture`](tags.md#tag-skin-texture) [`hair-texture`](tags.md#tag-hair-texture)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+How it works:
+→ Image 1 — character sheet
+→ Image 2 — skin texture
+→ Image 3 — hair texture (light or dark)
+
+Universal prompt for Seedream 5.0 Flash (works across characters): Keep <<<image_1>>> exactly as it is: same person, same face shape and features, same expression, same hairstyle and hair shape, same hair color, same skin tone, same makeup, same wrinkles, freckles, moles, scars and facial hair, same clothing and accessories, same pose, composition, layout, background and framing.
+
+Change only the surface texture:
+- Skin: apply the micro-texture from <<<image_2>>> — fine natural skin lines, pores and soft realistic surface. Do not copy its color or its glossy shine.
+- Hair: apply the strand structure from <<<image_3>>> — fine individual strands, soft natural flyaways. Do not copy its color.
+
+Balance the contrast to a natural photographic level: if image 1 looks too harsh or blotchy, soften it; if it looks flat or washed out, add depth. Aim for a well-balanced realistic photo — rich but not crushed shadows, clean highlights, smooth even tonal transitions, natural shading with real volume. No retouching, no beautifying, no plastic look.
 ```
 
 </details>
@@ -650,6 +680,31 @@ TARGET IMAGE = everything.
 REFERENCE IMAGE = face identity only.
 Change nothing else.
 The final result must look like the original TARGET IMAGE, with only the woman's facial identity replaced by the woman from the reference photo.
+```
+
+</details>
+
+<a id="nano-banana-reverse-angle-ruined-temple-steps"></a>
+### Reverse angle of woman on ruined temple steps
+
+<a href="https://x.com/ai_artworkgen/status/2116217421077848340"><img src="../../previews/nano-banana-reverse-angle-ruined-temple-steps.jpg" width="360"></a>
+
+Pairing the source image with a reverse angle instruction and an explicit lock on subject, outfit and environment keeps the fur coat, gold outfit and graffiti columns intact while only the camera moves. Attach the original photo as input so the model reframes the same scene rather than inventing a new one.
+
+Nano Banana 2.1 · Edit · Source: [@ai_artworkgen on X](https://x.com/ai_artworkgen/status/2116217421077848340) · 111 likes on 2026-11-03
+
+[`reverse-angle`](tags.md#tag-reverse-angle) [`camera-angle`](tags.md#tag-camera-angle) [`subject-consistency`](tags.md#tag-subject-consistency)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+"cover the entire scene with thick snowfall, there is a snow blizzard."
+
+Giving a model like Nano Banana 2.1 context is enough.
+
+Which is your favourite shot?
+
+// Google Flow
 ```
 
 </details>

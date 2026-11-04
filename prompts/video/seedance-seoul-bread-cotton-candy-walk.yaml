@@ -1,0 +1,39 @@
+id: seedance-seoul-bread-cotton-candy-walk
+title:
+  en: Woman buys bread and cotton candy in Seoul
+  zh: 女子在首尔小巷买面包和棉花糖
+model: Seedance 2.5
+mode: reference-to-video
+category: vlog
+tags:
+- seoul
+- home-video
+- character-reference
+- dv-look
+source:
+  name: '@AIwithkhan on X'
+  url: https://x.com/AIwithkhan/status/2104057858765791389
+  credit: AIwithkhan
+  captured: '2026-11-03'
+  posted: '2026-09-27'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithkhan/status/2104057858765791389
+notes:
+  en: A character reference image keeps her face and outfit consistent across the walk, and a beat by beat list of actions gives the model a clear shot order. Raw DV cues such as handheld shake, autofocus hunting and mild noise, plus an ambience only audio list, keep the footage from looking like a polished commercial.
+  zh: 角色参考图让她的脸和穿着在整段步行中保持一致，逐拍列出的动作让模型明确镜头顺序。手持抖动、自动对焦摇摆和轻微噪点等DV质感线索，加上只保留环境声的音频列表，让画面不像精修广告。
+prompt: |
+  Create a 30-second ultra-realistic personal home-video of a young Korean woman spending a simple, cheerful day in an older Seoul residential neighborhood. Use the attached image as the character reference and keep her face and overall appearance consistent throughout. She has long black hair tied in a casual ponytail and wears a pink fitted crop top, white casual shorts, simple slippers, and a small bracelet.
+
+  She steps out of her home with a small smile, closes the door behind her and walks casually through the quiet neighborhood. She enters a tiny local convenience store, picks up a fresh loaf of bread, pays the shopkeeper with coins, holds the bread in one hand and walks back outside.
+
+  While walking down the lane, she suddenly spots her female friend approaching from the opposite direction. Her friend smiles, they greet each other warmly and share a natural friendly hug before saying goodbye. She continues walking with the bread in her hand.
+
+  A little farther down the street, she notices a bicycle cotton-candy vendor parked beside the road. She stops, smiles, takes a few coins from her pocket and gives them to the vendor. He prepares a fluffy colorful cotton candy and hands it to her. She happily takes a bite while continuing her walk.
+
+  She reaches a nearby outdoor water tap, places the bread carefully on a clean ledge beside her, bends down and drinks fresh water directly from the tap. She wipes her mouth with the back of her hand, picks up the bread again and continues walking.
+
+  Near the end, she walks slowly down the quiet residential lane with the bread in one hand and cotton candy in the other, takes another happy bite, then turns toward the camera, smiles naturally and says “Bye bye!” before walking away.
+
+  Use raw early-2000s consumer DV-camera footage: handheld shake, imperfect framing, autofocus hunting, exposure shifts, soft digital detail, mild digital noise, natural motion blur, occasional awkward zooms, realistic skin texture and authentic home-video imperfections.
+
+  Natural neighborhood ambience only — footsteps, shop sounds, bicycle wheels, vendor conversations, distant traffic, birds, water running from the tap, children playing and light wind through the trees. No music, no narration, no subtitles, no polished commercial cinematography, no beauty filter, no CGI look.

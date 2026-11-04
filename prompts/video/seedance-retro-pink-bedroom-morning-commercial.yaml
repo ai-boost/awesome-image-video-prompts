@@ -1,0 +1,41 @@
+id: seedance-retro-pink-bedroom-morning-commercial
+title:
+  en: Pastel pink bedroom morning routine with vintage telephone
+  zh: 粉色复古卧室晨间梳妆，配老式电话
+model: Seedance 2.5
+mode: text-to-video
+category: commercial
+tags:
+- pastel-pink
+- retro-90s
+- fashion-commercial
+- bedroom
+source:
+  name: '@noorlewisx on X'
+  url: https://x.com/noorlewisx/status/2097545178013950280
+  credit: noorlewisx
+  captured: '2026-11-03'
+  posted: '2026-09-09'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/noorlewisx/status/2097545178013950280
+notes:
+  en: Seven numbered scene beats each name one camera move, such as overhead, close-up or tracking. A repeated palette and wardrobe lock keep the character and bedroom consistent across the 25 second clip.
+  zh: 七个编号镜头各写明一种机位运动，如俯拍、特写或跟拍。重复的粉色调与服装描述锁定了角色和卧室，使25秒内画面保持一致。
+prompt: |
+  Create a cinematic 25-second dreamy retro-pink fashion commercial set inside a cozy feminine bedroom. Everything has a soft pastel pink color palette, warm morning sunlight, vintage 90s aesthetic, floral wallpaper, pink bed, vanity mirror, cute retro telephone, pink accessories and soft curtains.
+
+  Scene 1: Wide overhead shot of a beautiful pink bedroom in warm sunlight, soft shadows falling across the bed, dreamy nostalgic atmosphere.
+
+  Scene 2: A young woman in a cute pastel-pink sleepwear outfit lies comfortably on the bed wearing a pink sleep mask, holding a vintage pink telephone. A pink tumbler sits beside her. Slow cinematic camera movement.
+
+  Scene 3: Close-up beauty shot of her face as she lifts the sleep mask slightly and talks on the phone, soft glowing skin, natural makeup, gentle expressions, shallow depth of field.
+
+  Scene 4: She gets out of bed and walks toward the vanity. Smooth tracking shot following her through the sunlit bedroom.
+
+  Scene 5: At the vintage vanity, she sits in front of a large oval mirror and gets ready, surrounded by perfumes, makeup, hair accessories and jewelry. Show elegant close-ups of her brushing her hair and applying makeup.
+
+  Scene 6: She looks toward the bedroom door, walks over and slowly peeks outside with a playful expression.
+
+  Scene 7: Final glamorous mirror shot: she is now fully dressed in a stylish pastel-pink outfit, standing confidently in front of the vanity mirror. Soft sunlight, elegant pose, dreamy romantic-commercial atmosphere.
+
+  Visual style: ultra-realistic cinematic photography, pastel pink tones, warm natural sunlight, nostalgic 1990s aesthetic, soft film grain, dreamy glow, realistic skin texture, shallow depth of field, smooth camera movements, subtle lens flare, premium fashion commercial, highly detailed, 4K, consistent character and wardrobe throughout, no text, no watermark.

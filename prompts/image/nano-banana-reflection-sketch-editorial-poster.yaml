@@ -1,0 +1,37 @@
+id: nano-banana-reflection-sketch-editorial-poster
+title:
+  en: Woman in knit sweater, photo and line sketch poster
+  zh: 毛衣女子的照片与线稿海报
+model: Nano Banana 2.1
+mode: image-edit
+category: poster
+tags:
+- editorial
+- line-art
+- exhibition-poster
+source:
+  name: '@Aiwithkami on X'
+  url: https://x.com/Aiwithkami/status/2116779779294638205
+  credit: Kami AI
+  likes: 253
+  captured: '2026-11-03'
+  posted: '2026-11-01'
+notes:
+  en: The frame is split into a real photo above and a contour-line illustration below, with the headline and wave lines tied to the same subject. Locking the face, pose and clothing to the reference keeps the sketch recognisably the same person.
+  zh: 画面分为上方实拍照片和下方轮廓线稿两段，标题与波浪线装饰都围绕同一主体。提示词明确锁定脸部、姿态和服装，使线稿与参考照片保持同一人物。
+prompt: |
+  Transform the provided reference photograph into a sophisticated, premium editorial art poster while preserving the original subject exactly as shown.
+
+  Composition: Create a vertical 4:5 editorial layout divided into two sections. The upper section features the original photograph in full color, maintaining the exact face, identity, pose, clothing, objects, proportions, and natural details. Do not beautify, retouch, or alter the subject.
+
+  The lower section transforms the same photograph into an elegant, artistic illustration on a warm ivory, textured paper background. Recreate the subject using delicate flowing contour lines, fine engraved linework, subtle crosshatching, and elegant hand-drawn strokes. Preserve the subject’s original silhouette, facial features, pose, and recognizable details.
+
+  Typography: Add a large, refined editorial headline on the lower section, positioned to the left with generous spacing. Use sophisticated high-contrast serif typography inspired by luxury fashion magazines. Choose a short, meaningful title that matches the photograph. Add small uppercase supporting text on the left and right, with wide letter spacing and minimalist editorial details.
+
+  Art direction: Minimalist luxury magazine aesthetic, Japanese editorial design influence, vintage printmaking, fine-line illustration, warm cream paper grain, subtle natural imperfections, delicate flowing wave patterns surrounding the subject, muted earthy accents, restrained color palette, balanced negative space, elegant visual hierarchy, museum-quality art direction.
+
+  Color palette: Warm ivory, soft beige, muted gold, dusty brown, or subdued green, selected to complement the original photograph.
+
+  Important requirements: Keep the upper photograph realistic and unchanged. The lower illustration must depict the exact same subject and scene, not a different interpretation. Maintain accurate anatomy, original colors where appropriate, and recognizable details. Text should be clean, correctly spelled, and professionally typeset. No extra subjects, no distorted features, no excessive effects, no artificial facial enhancement, no watermarks.
+
+  Final result: A premium, collectible editorial art poster combining an authentic photograph with a delicate, hand-drawn contour illustration, resembling a high-end photography exhibition poster.

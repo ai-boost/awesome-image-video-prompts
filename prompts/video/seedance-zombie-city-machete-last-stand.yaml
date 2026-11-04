@@ -1,0 +1,59 @@
+id: seedance-zombie-city-machete-last-stand
+title:
+  en: Machete hero fights two zombies in ruined city
+  zh: 持刀主角在废墟城市中对战两名丧尸
+model: Seedance 2.5
+mode: reference-to-video
+category: action
+tags:
+- zombie
+- fight
+- reference-images
+- multi-shot
+source:
+  name: '@Xaroon_x on X'
+  url: https://x.com/Xaroon_x/status/2116043962465079357
+  credit: Xaroon_x
+  captured: '2026-11-03'
+  posted: '2026-10-30'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Xaroon_x/status/2116043962465079357
+notes:
+  en: Three reference images lock the hero, the zombie design and the location, while a timed beat sheet gives one camera direction per segment so the 30 seconds stay readable. The non-graphic violence rule and a closing suspense hook give the clip a clear arc.
+  zh: 三张参考图分别锁定主角、丧尸造型和场景，再用按时间段划分的分镜表为每一段指定镜头，让30秒内容结构清晰。明确要求非血腥暴力，并以悬念结尾收束。
+prompt: |
+  ZOMBIE CITY: LAST STAND — SEEDANCE 2.5 PROMPT
+
+  ENGINE DIRECTIVE: Create exactly 30 seconds of photorealistic Hollywood-style zombie action, 16:9 widescreen, 60fps where supported. Use @image1 for protagonist identity, @image2 for zombie design, and @image3 for the ruined city environment.
+
+  CHARACTER CONTINUITY: Preserve @image1's exact face, hairstyle, beard, skin tone, and body structure. Outfit: distressed olive-green field jacket, black shirt, charcoal cargo pants, black gloves, rugged combat boots, crossbody survival bag, and a steel machete. Keep the same appearance throughout.
+
+  ZOMBIES — @image2: Two distinct infected humans with pale grey-green decaying skin, cloudy eyes, damaged faces, torn dirty clothing, and aggressive movements. Zombie A wears a ripped grey shirt and dark trousers; Zombie B wears a torn burgundy hoodie and black jeans.
+
+  LOCATION — @image3: A devastated downtown street with cracked asphalt, abandoned cars, shattered storefronts, damaged buildings, scattered debris, drifting smoke, and overcast daylight. Maintain consistent geography and lighting.
+
+  TIMELINE:
+
+  00–03s: Wide cinematic reveal of the ruined city. The protagonist notices two zombies approaching from opposite sides and draws his machete.
+
+  03–06s: Zombie A charges. The protagonist dodges its grab and counters with a fast, controlled machete strike. Zombie A collapses.
+
+  06–09s: Zombie B rushes from beside an abandoned sedan, attempting to grab and bite the protagonist.
+
+  09–12s: Close handheld camera captures the protagonist blocking the attack, breaking free, and pushing Zombie B away.
+
+  12–15s: Low-angle tracking shot as Zombie B lunges again. The protagonist dodges and prepares a counterattack.
+
+  15–18s: Dynamic side tracking as the protagonist outmaneuvers the zombie on the cracked roadway.
+
+  18–21s: Zombie B attacks again. The protagonist pivots, breaks its balance, and forces it to its knees.
+
+  21–24s: He delivers a decisive final strike. Zombie B falls motionless. Keep violence non-graphic.
+
+  24–27s: The protagonist stands between both defeated zombies, breathing heavily while holding the machete.
+
+  27–30s: Close-up of his determined face, followed by a wide reveal of distant zombie silhouettes approaching through the smoky intersection. End on a suspenseful cinematic hook.
+
+  AUDIO: Original dark survival-action score, realistic footsteps, zombie snarls, weapon swishes, impacts, wind, distant alarms, and heavy breathing.
+
+  QUALITY: Stable identity, consistent wardrobe and weapons, realistic physics, cinematic camera transitions, detailed textures, natural motion blur, synchronized audio, no teleportation, no morphing, no extra limbs, no location changes, and no graphic gore.

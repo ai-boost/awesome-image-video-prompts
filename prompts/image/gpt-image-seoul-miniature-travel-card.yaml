@@ -1,0 +1,33 @@
+id: gpt-image-seoul-miniature-travel-card
+title:
+  en: Miniature Seoul travel card with N Seoul Tower
+  zh: 首尔微缩旅行卡片与N首尔塔
+model: GPT Image 2.5
+mode: text-to-image
+category: illustration
+tags:
+- miniature
+- travel-card
+- diorama
+- paper-craft
+source:
+  name: '@Naiknelofar788 on X'
+  url: https://x.com/Naiknelofar788/status/2097646788258021837
+  credit: Naiknelofar788
+  captured: '2026-11-03'
+  posted: '2026-09-09'
+  via: https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts
+notes:
+  en: Filling a fixed template slot for landmark, city and fact keeps the card layout consistent across destinations. Warm-white paper, soft lighting and a rule against clutter keep the diorama readable and collectible.
+  zh: 将地标、城市和亮点填入固定模板，让不同目的地的卡片版式保持一致。暖白纸面、柔和光线和禁止杂乱的要求，使微缩场景清晰且适合收藏。
+prompt: |
+  Create a charming handcrafted miniature travel scene featuring [ICONIC STRUCTURE] as the main focal point.
+  Show the landmark as a beautifully sculpted tiny 3D model, with soft rounded details, handmade textures, delicate imperfections, and a whimsical storybook feeling. Surround it with a few subtle elements that represent its location—such as tiny trees, flowers, streets, boats, mountains, clouds, or local objects—without making the scene crowded.
+
+  Place everything on a clean warm-white textured paper background, with plenty of elegant negative space. Add a small tasteful wooden or paper travel plaque containing:
+
+  [STRUCTURE NAME]
+  [CITY, COUNTRY]
+  Famous for: [SHORT UNIQUE FACT]
+
+  Use soft natural lighting, gentle shadows, pastel yet realistic colors, miniature diorama depth, handcrafted clay/paper textures, and a premium cute travel-journal aesthetic. Centered composition, highly detailed landmark, adorable but sophisticated, clean and collectible travel-card design, no photorealistic people, no clutter.

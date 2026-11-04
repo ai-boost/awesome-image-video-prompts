@@ -1,0 +1,53 @@
+id: seedance-two-friends-bedsheet-ghost-prank
+title:
+  en: Phone camera sketch of friends and a bedsheet ghost
+  zh: 手机镜头拍下两个朋友和床单鬼的恶作剧
+model: Seedance 2.5
+mode: reference-to-video
+category: anime
+tags:
+- anime
+- comedy
+- hand-drawn
+- multi-shot
+source:
+  name: '@aimikoda on X'
+  url: https://x.com/aimikoda/status/2115446648704827633
+  credit: Kōda
+  likes: 19513
+  captured: '2026-11-03'
+  posted: '2026-10-28'
+video: https://x.com/aimikoda/status/2115446648704827633
+notes:
+  en: Separate reference images lock each girl's hair and outfit, while the style reference supplies only ink and palette so its pose is not copied. Timed shots with explicit cut and whip pan points keep the handheld phone camera motion readable across eight beats.
+  zh: 独立的参考图锁定两人的发型与服装，风格参考只取线条和色调，不复制其姿态。按秒标注的分镜并写明切镜与甩镜位置，让手持手机的晃动与节奏在八个镜头中保持清楚。
+prompt: |
+  References:
+  @[ref1]: Yuki. Shoulder-length silver-white hair with long bangs, olive-green eyes, small round silver earrings, loose pale camisole, flat deadpan face.
+  @[ref2]: Sumi. Short black bob with uneven bangs, brown eyes, small gold earrings, cream camisole under an oversized off-white shirt, loud and easily flustered.
+  @[ref3]: the style reference. Hand-drawn look, line quality and palette only; not its pose or layout.
+
+  Visual style: Rough hand-drawn anime sketch, loose black ink lines, flat watercolor washes, muted grey, sage and beige palette, soft indoor daylight. Shot as a phone front camera video: handheld, restless, constantly bobbing and tilting with whoever holds it, quick crash zooms and whip pans.
+
+  Avoid: No subtitles. No background music. No slow motion. No other people. Yuki and Sumi never merge or swap faces.
+
+  Two friends goof around nonstop with a phone camera through a small apartment, each new spot in front of a different strange painting. Every change of place comes through a whip pan or a cut from the phone itself; nobody stands still. A visible gap always separates their faces. Sound: footsteps, phone rustle, shrieks, laughter, one line. Shot list: 8 shots, about 30 seconds.
+
+  Scene 1: Continuous, in front of an orange painting with two huge round owl eyes.
+  Shot 1 (0-4s): Close two-shot, high angle; the camera bobs quickly with Sumi, who holds the phone with her raised right arm from the top right corner. Yuki springs up into frame from below on screen left and flashes a V sign with both hands, face completely deadpan. Sumi sticks out her tongue and shakes her head side to side, her black bob flying. Cut as Yuki snatches the phone from Sumi's hand; the camera whips left in a blur.
+
+  Scene 2: Continuous, in front of a blue-grey blob painting with one black hole for an eye.
+  Shot 2 (4-8s): Medium shot, eye level; the whip pan lands here, and the camera, now in Yuki's right hand, quickly pans right to follow Sumi. Yuki stays at the bottom left edge of frame, deadpan. Sumi skids across the floor from screen left to screen right in her socks, arms flailing. Cut as Sumi spins and lunges straight at the lens.
+  Shot 3 (8-11s): Close-up, eye level; the camera, still in Yuki's hand, does a fast crash zoom onto Sumi. Sumi's face is pressed almost against the lens, mouth wide open. Behind her, Yuki does a stiff robot dance with her free arm, still deadpan. Sumi bumps the phone; it tumbles out of Yuki's hand. Cut the instant the phone hits the floor.
+
+  Scene 3: Later, in front of a dark green painting of a faded face.
+  Shot 4 (11-15s): Extreme low angle from the floor; the phone already lies face up, locked-off camera looking at the ceiling. Both girls lean in over the lens from opposite sides, Yuki on screen left, Sumi on screen right. Yuki flips her silver hair forward over her whole face; one big eye peers through a gap. Sumi shrieks and jumps back out of frame, then her hand dives in and grabs the phone. Cut as the phone lifts off the floor.
+
+  Scene 4: Continuous, a narrow hallway with a grey wall and a brown smeared painting.
+  Shot 5 (15-19s): Medium close-up, Sumi holding the phone out in front of her and facing it while she runs backward down the hallway, still running flat out, laughing. Far behind her, at center, Yuki glides after her with her hair still over her face, arms limp, closing the distance. Cut as Sumi swings around a corner; the camera whips right.
+
+  Scene 5: Continuous, in front of a beige wall with a round orange painting.
+  Shot 6 (19-22s): Medium close-up, eye level, handheld; the camera heaves with Sumi's breathing. Sumi, holding the phone in her right hand, presses her back to the wall, panting, eyes darting left and right. Yuki is nowhere in frame. Cut as a white cloth drops in from the top of frame.
+  Shot 7 (22-25s): Insert, close to the lens; the camera jolts once. A single white bedsheet with two black eye holes lowers from above in front of the lens, held by Yuki's hands.
+  Yuki's line (flat, deadpan): "Boo."
+  Shot 8 (25-30s): Wide two-shot, high angle; the camera quickly pulls back, then spins with them. Sumi, phone in her right hand, yanks the sheet with her left; the sheet tangles around both girls and they spin together, laughing, Yuki's hair now neat. Both thrust V signs at the lens. Sumi's index finger is still reaching for the lens when the clip cuts to black as the fingertip covers it.

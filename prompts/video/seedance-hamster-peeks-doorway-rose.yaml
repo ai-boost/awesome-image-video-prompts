@@ -1,0 +1,47 @@
+id: seedance-hamster-peeks-doorway-rose
+title:
+  en: Hamster with pink bow peeks from doorway
+  zh: 戴粉色蝴蝶结的仓鼠从门后探头
+model: Seedance 2.5
+mode: text-to-video
+category: animal
+tags:
+- hamster
+- 3d-animation
+- vertical-video
+- romance
+source:
+  name: '@Zarnab_with_Ai on X'
+  url: https://x.com/Zarnab_with_Ai/status/2101493389115953586
+  credit: Zarnab_with_Ai
+  captured: '2026-11-03'
+  posted: '2026-09-20'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Zarnab_with_Ai/status/2101493389115953586
+notes:
+  en: Scene by scene beats with a fixed character description (fur, bow, headphones, name tag) keep the hamster consistent across shots. Camera, lighting and motion get their own lines, and a closing list of negatives blocks text, watermarks and duplicated objects.
+  zh: 按场景分段描述动作，并固定角色外观（毛色、蝴蝶结、耳机、挂牌），让仓鼠在各镜头中保持一致。镜头、光线和动作单独成段，结尾用负面列表排除文字、水印和重复物体。
+prompt: |
+  Create a cute, heartwarming, ultra-realistic 3D animated vertical video of a tiny fluffy golden-and-white hamster in a cozy warmly lit home interior.
+
+  The hamster has extremely soft plush fur, huge glossy black eyes, rosy pink cheeks, a tiny pink nose, and an adorable innocent expression. It wears oversized pale-pink headphones, a large pink polka-dot bow on its head, and a delicate pink ribbon necklace with a tiny hanging name tag.
+
+  Scene 1: The hamster slowly peeks from behind a white doorway, shyly looking toward the camera. It carefully steps out onto a polished warm wooden floor while maintaining eye contact with the viewer.
+
+  Scene 2: The hamster walks forward toward the camera with tiny adorable steps and stops in the center of the room. Its ears and bow move naturally with each step. The background features a cozy wooden bookshelf, a warm table lamp, soft beige walls, and beautiful golden ambient lighting.
+
+  Scene 3: The hamster looks directly into the camera with a sweet, innocent expression. After a brief moment, it gently reaches down and picks up a single beautiful red rose with its tiny paws.
+
+  Scene 4: Holding the red rose in front of its body, the hamster smiles warmly at the camera. Its cheeks become slightly rosier, and it looks shy and affectionate.
+
+  Final shot: The hamster closes its eyes with a big adorable smile while holding the red rose close to its chest. The moment feels wholesome, romantic, cute, and heartwarming.
+
+  Camera: vertical 9:16, low eye-level camera angle, smooth slow camera movement, gentle push-in toward the hamster, shallow depth of field, cinematic framing.
+
+  Lighting: warm golden indoor lighting, soft natural shadows, cozy evening atmosphere, subtle highlights on the hamster's fur.
+
+  Style: ultra-realistic cute 3D character animation, highly detailed fluffy fur, realistic facial expressions, soft cinematic rendering, polished wooden floor reflections, realistic object movement, adorable emotional storytelling, premium animated-film quality.
+
+  Motion: natural tiny paw movements, subtle head movements, realistic blinking, gentle breathing, soft ear and bow movement, smooth walking animation, believable interaction with the rose.
+
+  No text, no subtitles, no watermark, no extra characters, no distorted anatomy, no duplicated objects.

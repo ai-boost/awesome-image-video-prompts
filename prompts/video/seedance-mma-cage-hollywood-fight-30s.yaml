@@ -1,0 +1,51 @@
+id: seedance-mma-cage-hollywood-fight-30s
+title:
+  en: Wide arena shot of two MMA fighters in cage
+  zh: 拥挤竞技场钢笼中的两名MMA格斗选手
+model: Seedance 2.5
+mode: reference-to-video
+category: action
+tags:
+- mma
+- fight-scene
+- slow-motion
+- sound-design
+source:
+  name: '@Xaroon_x on X'
+  url: https://x.com/Xaroon_x/status/2107412153577935128
+  credit: Xaroon_x
+  captured: '2026-11-03'
+  posted: '2026-10-06'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Xaroon_x/status/2107412153577935128
+notes:
+  en: The prompt locks the hero to a reference image and then breaks the 30 second fight into timed beats, each with a lens, camera move and speed. Sound cues are written per beat so the crowd, bell and orchestral hit land on the same moments as the action.
+  zh: 提示词用参考图锁定主角身份，并把30秒打斗拆成带时间码的分段，每段写明镜头焦距、运镜和速度。音效也逐段对应动作节拍，观众声浪、钟声和管弦乐在出拳瞬间同步落点。
+prompt: |
+  Duration: 30 seconds | Aspect Ratio: 16:9 | Style: Ultra-photorealistic live-action Hollywood MMA action.
+
+  HERO: Use image1 as the exact hero identity. Preserve his face, facial structure, hairstyle, physique and proportions consistently in every shot. He wears black MMA shorts with a red waistband, black fingerless MMA gloves, bare feet and wrist tape. His skin becomes naturally sweaty during the fight.
+
+  RIVAL: Tall, heavily muscular bald fighter with a short dark beard, tribal tattoo covering the left shoulder/upper arm, white-and-royal-blue MMA shorts, blue gloves and bare feet. After Shot 03, maintain a small realistic cut above his right eyebrow.
+
+  LOCATION: Packed night arena, eight-sided steel cage, overhead rig lights through haze, cool blue cinematic palette with warm skin highlights, realistic crowd, sweat and atmospheric depth. Referee wears a white shirt and black trousers and remains mostly at frame edges.
+
+  SEQUENCE:
+  00:00–02 High-angle 24mm wide, bell rings, both fighters leave corners, slow crane descent.
+  02–04 35mm Steadicam arc, fighters circle; rival throws a probing jab.
+  04–06 FAST 50mm handheld, hero slips and lands jab-cross, opening a small cut on rival's right eyebrow.
+  06–08 FAST 40mm OTS, rival throws hook-cross-hook; hero blocks and parries.
+  08–10 SLOW-MO 85mm close-up, heavy hook snaps hero's head, sweat sprays; speed ramp as he hits cage.
+  10–12 40mm handheld, hero pinned against fence, rival flurries; rack focus to hero's determined eyes.
+  12–14 FAST 28mm tracking, hero slips hook, lands liver shot and spins away.
+  14–16 SLOW-MO 85mm, hero's uppercut lifts rival's chin, sweat suspended in rim light.
+  16–18 FAST 35mm, rival throws wild cross; hero ducks and lands three-punch combo.
+  18–20 65mm slow orbit, both exhausted fighters trade heavy close-range punches.
+  20–22 FAST 28mm push-in, hero unleashes four-punch barrage, driving rival to fence.
+  22–24 EXTREME SLOW-MO 100mm profile, hero slips overhand and lands decisive right cross to jaw; brief silence, then massive impact.
+  24–27 Ground-level 24mm wide, rival collapses, referee waves off fight, hero steps back.
+  27–30 35mm low-angle Steadicam push-in, hero raises gloves in exhausted relief; crane pull-up reveals roaring arena, cut to black.
+
+  SOUND: Crowd roar, bell, breathing, canvas footsteps, realistic glove impacts. Low drone, cello, taiko and strings build toward knockout, brief silence at impact, then orchestral hit and emotional piano/strings finale.
+
+  QUALITY: Realistic physics, anatomy, sweat, skin texture, cinematic motion blur and subtle film grain. No cartoon, CGI look, plastic skin, face changes, wardrobe changes, duplicated fighters, extra limbs/fingers, deformed hands, warped faces, impossible punches, jitter, flicker, oversaturation, text, watermark or logos.

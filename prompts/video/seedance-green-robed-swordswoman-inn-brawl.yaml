@@ -1,0 +1,25 @@
+id: seedance-green-robed-swordswoman-inn-brawl
+title:
+  en: Swordswoman drinks from jug before inn brawl
+  zh: 女侠饮酒后酒馆激战群卫
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- wuxia
+- martial-arts
+- hanfu
+- slow-motion
+source:
+  name: '@laviniavelle on X'
+  url: https://x.com/laviniavelle/status/2098987614581997681
+  credit: laviniavelle
+  captured: '2026-11-03'
+  posted: '2026-09-13'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/laviniavelle/status/2098987614581997681
+notes:
+  en: The prompt is written as a timed sequence of beats, from the sip and the toss through the brawl to a slow motion finish, so the model has a clear arc to follow. Lighting is specified as volumetric backlight through window slats, which sets the mood for the fight.
+  zh: 提示词按时间顺序写成几个节拍，从饮酒、抛壶到打斗，最后以慢动作收尾，让模型有清楚的动作走向。光线指定为穿过窗格的体积逆光，为打斗营造氛围。
+prompt: |
+  Cinematic 8k hyper-realistic action sequence dark atmospheric ancient East Asian wooden inn an elegant female martial artist in flowy pale green and white traditional Hanfu robes takes a quick sip from a black wine jug before throwing it into the air fast-paced Wuxia fight combat, wooden tables shattering into splinters, atmospheric dust and misty fog dramatic volumetric backlight streaming through wooden window slats rapid dynamic low angle camera movement whip pans fluid acrobatics dodging and striking multiple guards in red and black armor ends in slow motion as she stands victorious among fallen opponents, moody lantern-lit atmosphere, 9:16 aspect ratio, ultra-detailed, photorealistic, 4k.

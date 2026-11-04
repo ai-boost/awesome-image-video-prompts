@@ -1,0 +1,41 @@
+id: gpt-image-european-photo-diary-collage
+title:
+  en: Woman in six European lifestyle scenes
+  zh: 六个欧洲生活场景中的同一女子
+model: GPT Image 2.5
+mode: text-to-image
+category: collage
+tags:
+- photo-diary
+- lifestyle
+- collage
+- travel
+source:
+  name: '@john_my07 on X'
+  url: https://x.com/john_my07/status/2116167847068184623
+  credit: Johnn
+  likes: 85
+  captured: '2026-11-03'
+  posted: '2026-10-30'
+notes:
+  en: A fixed identity block (face, freckles, eye and hair colour) repeated in every scene keeps one woman consistent across very different settings. A shared camera spec (compact camera look, direct flash, film grain) gives the whole grid one visual language.
+  zh: 在每个场景中重复的固定人物描述（面部、雀斑、眼睛与发色）让同一个人在差异很大的环境中保持一致。统一的相机规格（紧凑相机质感、直闪、胶片颗粒）为整张拼图提供了统一的视觉语言。
+prompt: |
+  Create an ultra-realistic 6-photo lifestyle collage in a seamless 3×2 grid, featuring the same beautiful young European woman in her early 20s. She has warm olive skin, natural freckles, hazel-brown eyes, long wavy chestnut hair, and delicate facial features. Maintain identical facial identity across all six photographs.
+
+  Concept: A cinematic European adventure and lifestyle photo diary, capturing six completely different experiences with authentic Instagram photo-dump aesthetics.
+
+  Six Scenes:
+
+  1. Mountain adventure: Wearing a black hiking jacket and backpack, standing beside a breathtaking Alpine lake, looking back at the camera.
+  2. Movie night: Relaxing on a sofa in an oversized navy sweatshirt, holding popcorn with a movie playing in the background.
+  3. Bookstore: Browsing books in a charming vintage bookstore, wearing a cream-and-black striped sweater and blue jeans.
+  4. Baking afternoon: Preparing cookies in a rustic kitchen, wearing a floral apron over a dark top, with flour-covered hands.
+  5. Paris rooftop: Sitting on a rooftop overlooking the illuminated Eiffel Tower, wearing an elegant black dress and delicate gold jewelry.
+  6. Coastal road trip: Leaning toward the window of a convertible, wearing a white linen shirt, with ocean cliffs and golden sunset behind her.
+
+  Photography: Authentic Canon PowerShot G7 X Mark III aesthetic, realistic skin texture, natural expressions, occasional direct flash, subtle film grain, cinematic lighting, candid framing, and realistic environments.
+
+  Consistency: Preserve the exact same face, freckles, eye color, skin tone, and hair color in every frame. Different outfits, poses, camera angles, and environments. Avoid artificial skin, duplicated expressions, distorted anatomy, and excessive retouching.
+
+  Output: Vertical 3:4 aspect ratio, exactly six equally sized photographs in a clean 3-column × 2-row grid, no gutters, borders, text, or watermark. Photorealistic, spontaneous, adventurous, and effortlessly stylish.

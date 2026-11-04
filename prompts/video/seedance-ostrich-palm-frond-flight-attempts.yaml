@@ -1,0 +1,112 @@
+id: seedance-ostrich-palm-frond-flight-attempts
+title:
+  en: Ostrich with palm fronds runs off a mountain ridge
+  zh: 一只翅膀绑着棕榈叶的鸵鸟冲下山脊
+model: Seedance 2.5
+mode: reference-to-video
+category: action
+tags:
+- 3d-animation
+- comedy
+- multishot
+source:
+  name: '@abxxai on X'
+  url: https://x.com/abxxai/status/2100239390266348014
+  credit: Abdul Shakoor
+  likes: 1074
+  captured: '2026-11-03'
+  posted: '2026-09-16'
+video: https://x.com/abxxai/status/2100239390266348014
+notes:
+  en: Character and location sheets lock the look, and fixed hard cuts split the sequence into timed beats. Each action is written with its timestamp and lens change, so the fall and the shouted line stay readable.
+  zh: 用角色设定图和场景设定图锁定造型与地点，并在固定时间点设置硬切。每个动作都写明时间码和镜头焦段变化，让坠落和台词节奏清晰可读。
+prompt: |
+  SCENE CONTEXT
+  On Skyfall Ridge, a young ostrich with two large green palm fronds lashed to his wings tries three times to fly, launching from three different heights up the same mountain. Every attempt ends with him falling away from the mountain into the deep jungle canopy far below, never back onto the track he ran along. Bright midday, comedy timing with a tender final beat. 15 seconds.
+
+  ACTIVE REFERENCES
+
+  @ollie
+   (character sheet, loaded second): young adult stylized ostrich, roughly 120 cm tall. Cream and light sand neck and head, dark chocolate and mid brown body plumage with pale cream wing tips, salmon peach beak and long salmon peach legs with three toed feet, olive green iris in very large white sclera eyes, thick expressive brow ridges, long lashes, loose crown tuft. Goofy, hopeful, overconfident, endlessly determined. 100% matches the reference, identical every frame, no morphing, no drift.
+
+  @ridge
+   (location sheet, loaded first): a tall narrow three tier mountain ridge. An orange brown dirt run up track climbs its spine past a low stone ledge eight meters above the treetops, up to a mid outcrop sixty meters above the canopy, up to a high peak spire at the very top. Sheer drops on every side into deep green jungle canopy with a river ribbon and mist between the trunks. Tall grey fractured rock spires stand in open air beyond the ridge, one broad and flat faced. Deep blue sky, big white cumulus at peak height. STYLE REFERENCE ONLY, model extends the world freely, never reproduced 1:1.
+
+  LOCATION MAP
+  Foreground: the orange brown dirt run up with loose pebbles, grass and fern fronds brushing the lower frame. Midground: the three launch points climbing the ridge spine, low ledge, mid outcrop, high peak, each one ending in open air. Background: deep jungle canopy hundreds of meters below with a river ribbon and mist caught between the crowns, and the flat faced rock spire standing in open air along the flight line from the high peak. Canopy haze 25 percent building to 40 percent at the valley floor. Camera works from the outer air side of the ridge so the drop is always readable in frame, operator axis looking back toward the mountain.
+
+  SCALE LOCK
+
+  @ollie
+   stands about two thirds the height of an adult human. The low ledge sits about four times his height above the treetops. The mid outcrop sits about thirty times his height above the canopy. The high peak sits so far above the valley that individual trees below read as small green dots. The flat faced rock spire rises roughly six times his height.
+
+  FIRST FRAME / BLOCKING
+  Non-empty opening frame:
+  @ollie
+   is already at full sprint in the lower left third, seen from a low travelling angle along the dirt run up, legs scissoring, neck lanced forward, the two green palm fronds strapped to his wings held wide and trembling in the airflow, dust kicking behind his heels. The low stone ledge and the empty sky beyond it fill the right two thirds of frame, with treetops visible far below the lip. Rule of thirds, bird on the left third, the drop on the right. Nothing is frozen.
+
+  FORMAT MODE
+  Timed multishot, exactly TWO HARD CUTS, at 0:04.0 and at 0:08.5. Cuts only at these points, the camera does not cut on its own.
+
+  OPTICS
+  SHOT 1 (0:00 to 0:04.0): wide at 84 degree FOV for the run, easing to 63 degree as he leaves the ledge, no drift mid-segment.
+  SHOT 2 (0:04.0 to 0:08.5): opens wide at 63 degree FOV for the climb and launch, holds 63 degree through the short glide, pushes to 47 degree for the stall and the fall into the trees.
+  SHOT 3 (0:08.5 to 0:15.0): opens wide at 84 degree FOV for the peak launch, settles to 47 degree tracking the long glide, pushes to 29 degree for the shouted line at 0:12.3, snaps to 18 degree for the rock impact at 0:13.6, holds 18 degree on the final close-up.
+  Rectilinear prime lens character, 180 degree shutter motion blur, deep focus in the wides, shallow separation on the close-ups.
+
+  CAMERA
+  Shot 1: the camera is moving from the first frame, a low travelling dolly running alongside him at knee height and at his exact speed, then as he leaves the ledge it swings out past the lip into open air and cranes downward with him, keeping the treetops below in frame so the fall reads as a real drop away from the mountain. Shot 2: camera climbs with him along the ridge on a rising dolly, holds as he launches off the mid outcrop, floats out beside him through the short glide, then tilts and follows him down as he drops into the canopy, ending looking down at the broken treetops. Shot 3: tracking dolly through the peak run up, leaving the mountain with him and flying at wing height off his right flank through the long glide with the valley sliding far below, easing in for the shout, then whipping around to plant dead on the flat face of the rock spire from a slight low frontal angle so the impact reads straight toward the lens, then dropping to ground level in the forest below for the final close-up. The camera is never locked off in any shot. Wide tonal latitude, soft highlight roll-off.
+
+  ACTION
+  0.0s to 1.6s.
+  @ollie
+   sprints up the dirt run up at 40 km per hour toward the low stone ledge, the palm fronds on his wings flapping in loose useless bursts, chin high, eyes bright with certainty.
+  1.6s. He hits the lip of the low ledge and leaps out over the edge, fronds thrown wide, chest out, both feet leaving the mountain.
+  1.6s to 2.3s. He hangs over open air with zero lift. The certainty drains out of his face in stages, brow first, then the eyes widening, then the beak going slack as he looks down and sees treetops instead of ground.
+  2.3s to 3.2s. He drops straight down away from the ridge, legs cycling, fronds fluttering uselessly above him, and crashes through the upper branches of the canopy below, leaves and twigs exploding outward, a startled cloud of small birds bursting from the tree crowns.
+  3.2s to 4.0s. He is left hanging upside down in a fork of branches, dazed, one frond bent over his face, a single leaf drifting down past him. He blinks, then his eyes narrow with fresh determination.
+  4.0s HARD CUT
+  4.0s to 5.4s. He sprints up the next section of the ridge track, higher now, the drop on both sides steeper, fronds beating with real purpose, dust trailing behind him, eyes locked on the mid outcrop ahead.
+  5.4s. He launches off the tip of the mid outcrop, legs still cycling through empty air before tucking back.
+  5.4s to 6.8s. The fronds catch and he actually lifts, rising two meters and gliding out away from the mountain over a huge drop. His eyes go enormous with disbelief, then crinkle into a wide open beaked grin, and he gives one small triumphant flap.
+  6.8s. The lift dies. The fronds go limp, he stalls, and his face collapses from joy to pure alarm in three frames.
+  6.8s to 8.5s. He tumbles end over end down through open air, far from the ridge, and punches into the deep canopy much further below, snapping through two layers of branches, leaves spraying out, until he thumps onto the shadowed forest floor flat on his back with his legs still cycling in the air.
+  8.5s HARD CUT
+  8.5s to 10.2s. He rolls upright in the forest gloom, shakes his whole body so the dirt and leaves fly off in a cloud, re-seats both fronds with a determined tug, and sprints all the way up the ridge track to the high peak spire, the run up reading as long and steep, dust plume stretching far behind him.
+  10.2s. He launches off the high peak in one enormous committed leap, fronds thrown to full span, the valley an immense drop beneath him.
+  10.2s to 12.3s. This time it holds. He soars out across the open sky in a long steady glide, gaining altitude, neck feathers streaming back, clouds passing at his level, the canopy sliding far below, eyes shining and wet with pure disbelieving joy.
+  12.3s to 13.4s. He throws his head back mid glide, beak wide, whole chest lifting, and shouts.
+  13.6s. His focus snaps forward. He spots the flat faced rock spire dead ahead in his flight path, pupils pinning to dots, brows shooting up, fronds flailing as he tries to bank away.
+  13.6s to 14.2s. He cannot correct in time and slams face first into the near face of the rock spire, feathers puffing on impact, fronds splaying flat against the stone, body compressing then peeling away.
+  14.2s to 15.0s. He slides down the rock face and lands face down on the forest floor at its base, wings splayed, neck stretched straight forward, cheek and open beak pressed into the dirt, dappled light falling through the canopy onto him. One torn green leaf lies stuck across the top of his beak. His eyes are half lidded and glazed. At 14.6s his gaze flicks up toward the sky far above the trees, holds one beat of quiet longing, and then he blinks slowly once and a tiny hopeful spark comes back into his eye as the frame ends.
+
+  PERFORMANCE
+  Feather level detail throughout: individual barbs catching sun along the wing and frond edges, downy neck fluff lifting and settling with every head turn, long lashes visible in the close-ups, wet living eyes with sharp catch lights, visible chest rise between breaths. Every fall is sold through the face in sequence, hope first, then the widening, then the collapse, with the added beat of him looking DOWN and realising there is nothing under him. The joy in shot 3 is played big and honest, eyes glassy and mouth wide, so the impact lands harder. The final beat is played small and restrained, no cartoon stars, no exaggerated groan, just a dazed half lidded look, one glance up at the sky, and a single slow blink that carries the whole feeling. Broad readable cartoon acting with real weight and real heart behind it.
+
+  PHYSICS
+  Mass and inertia carry through every stride, leap, glide and fall. Legs compress under load on each footfall and the body dips with it. Each fall accelerates under gravity with real terminal build, never a soft float. Branches bend, snap and spring back as he passes through them, leaves and twigs spraying outward with correct scatter. Dust behaves as fine dry particulate on the track, bursting on impact and settling slowly. Correct contact shadows on the dirt, the stone, the rock face and the forest floor. The palm fronds bend, flex and trail air pressure, fraying a little more with each crash. In the glides the trailing frond tips flutter and the neck fluff streams backward. No floating props. The rock impact reads through his body flattening against the stone and sliding down under its own weight, with no damage to the rock. The torn leaf rests with weight on his beak and shifts slightly when he blinks.
+
+  LIGHTING
+  High midday sun from the upper left and slightly behind, cutting a hard rim along the back of the neck and the top edge of the wings and fronds, with warm bounce fill coming up off the pale orange dirt on the ridge. WB locked 5600K. Sky is the ambient fill. Inside the canopy the light drops to cool green shadow broken by hard dappled shafts. In the glides the sun sits behind the fronds and lights the leaf veins translucent green. In the final close-up a warm dappled shaft falls across his face with a soft short contact shadow under the beak and a clear catch light held in the visible eye.
+
+  COLOR GRADE
+  Sunlit orange brown dirt against cool grey fractured rock, saturated jungle green in the canopy deepening to dark shadow green in the forest floor beats, deep clean blue in the upper sky. The salmon peach beak and legs stay the warmest note in frame in sun and shade. The olive iris holds against the bright white sclera. Warm highlights, gently lifted shadows with a faint sky blue in them, no crushed blacks. Color tied to source and surface, not a flat list.
+
+  WARDROBE
+  Two large green palm fronds lashed to his wings with thin vine cord, veins and serrated edges clearly readable, bright translucent green when backlit. Crisp and whole at the start, one bent rib and a dirt smear after the first fall, frayed tips and torn leaves after the second, ending torn with one loose leaf resting on his beak.
+
+  AUDIO
+  Sound design first, with a scored third flight. 0.0s to 1.6s: fast footfalls on dry dirt, scattering pebbles, dry leaf rustle from the fronds. 1.6s to 2.3s: the footfalls stop dead, replaced by thin wind and a small nervous gulp. 2.3s to 3.2s: rising air rush, then a heavy crash of snapping branches, spraying leaves and startled birds. 4.0s to 5.4s: heavier faster footfalls climbing. 5.4s to 6.8s: air rush and leaf flutter, a small rising musical sting on the little victory flap. 6.8s: the sting cuts out, a descending comedic whoosh, then two layers of branch crash and a soft body thump on the forest floor. 8.5s to 10.2s: a long fast run up, footfalls building. 10.2s: air rush returns and a warm orchestral swell builds under the glide, strings lifting. 12.3s to 13.4s,
+  @ollie
+   (ecstatic, shouting mid glide, head thrown back, voice cracking with joy): "I can fly!" High energy, boyish, comedic, no subtitles. 13.6s: the swell snaps into a short alarmed squawk. 14.2s: a loud comedic thud and feather puff against the rock, then a body slide down stone. 14.2s to 15.0s: everything drops away to soft forest ambience, distant birdsong, one leaf rustle and a single quiet breath.
+
+  STYLE
+  Feature quality 3D animated film look in the Pixar and DreamWorks tradition. Stylized cartoon proportions with physically believable rendering, subsurface scattering through the beak, leaf fronds and thin feather edges, groomed feather simulation, soft global illumination, ray traced shadows, clean specular highlights, shallow depth cues on close-ups. Glossy, bright, warm family comedy visual language with sincere emotional close-ups. No live action footage, no text, no captions, no logos, no watermark.
+
+  OUTPUT SETTINGS
+  15 seconds total, 1080p, 30fps, real time throughout with no speed ramps, three shots separated by two hard cuts at 0:04.0 and 0:08.5.
+
+  POSITIVE LOCKS
+
+  @ollie
+   is the only character and is present in every shot. His proportions, cream neck, dark brown plumage, pale cream wing tips, salmon peach beak and legs, olive iris and crown tuft stay identical across all three attempts, progressively dirtier and more leaf strewn but never redesigned. The green palm fronds stay attached to his wings from the first frame to the last. Every launch carries him off the mountain into open air, and every landing happens in the jungle canopy or forest floor far below the track he ran on. The camera keeps moving in all three shots and always keeps the drop readable under him. Eyes stay natural, no eye glow. Contact shadows read clearly in every shot. The ridge, the three launch heights, the canopy, the rock spire, sky and cloud layer stay the same location and same time of day across all three shots. The flat faced rock spire keeps its face angled toward camera for the final impact. The torn leaf stays across his beak for the entire final close-up. Frame stays clean of text, subtitles, UI, logos and watermarks. Camera cuts only at 0:04.0 and 0:08.5.

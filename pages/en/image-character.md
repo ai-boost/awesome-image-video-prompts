@@ -1,6 +1,6 @@
 # Characters and figures
 
-[Back to the list](../../README.md) · All 83 entries
+[Back to the list](../../README.md) · All 85 entries
 
 <a id="gpt-image-tanjiro-pixel-sprite-sheet-water-attack"></a>
 ### Tanjiro 16 frame pixel sprite sheet with water attack
@@ -288,6 +288,41 @@ Row 4:
 
 Format:
 4x4 grid, cinematic portrait photography style, neutral background, tight close-up framing, shallow depth of field, no watermark.
+```
+
+</details>
+
+<a id="gpt-image-quirky-teen-red-cap-storybook"></a>
+### Quirky teen boy in red cap and glasses
+
+<a href="https://x.com/Ziha_ai/status/2116117087206941048"><img src="../../previews/gpt-image-quirky-teen-red-cap-storybook.jpg" width="360"></a>
+
+A fixed character sheet of body traits, outfit items and props is followed by one art-style block that sets the line, paper and colour cues, which keeps a full body figure consistent. The plain ivory background and the explicit full body vertical framing leave room around the figure and keep every outfit item readable.
+
+GPT Image 2.5 · Text-to-image · Source: [@Ziha_ai on X](https://x.com/Ziha_ai/status/2116117087206941048) · 436 likes on 2026-11-03
+
+[`hand-drawn`](tags.md#tag-hand-drawn) [`2d-cartoon`](tags.md#tag-2d-cartoon) [`character-design`](tags.md#tag-character-design) [`storybook`](tags.md#tag-storybook)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a highly detailed, hand-drawn 2D cartoon character illustration in a charming, nostalgic animated movie style.
+
+Character: A quirky, slim teenage boy with an oversized head, a long narrow neck, slightly messy light brown hair, large rectangular black-framed glasses, a small nose, and a subtle awkward expression. His eyes are wide and slightly looking to the side, giving him a thoughtful, curious personality.
+
+Outfit: A vintage red and cream baseball cap, oversized brown short-sleeve shirt worn open over a light grey graphic T-shirt, faded blue jeans, and a casual backpack. A small vintage camera hangs around his neck. He holds a red takeaway soda cup with a straw in one hand while casually crossing his arms.
+
+Art Style: Beautiful hand-drawn 2D animation, expressive cartoon anatomy, slightly exaggerated proportions, delicate sketchy black outlines, soft watercolor textures, subtle colored pencil shading, imperfect hand-painted details, warm muted colors, and a nostalgic illustrated storybook aesthetic.
+
+Background: Minimal plain warm ivory textured paper background with subtle grain, no distracting elements.
+
+Composition: Full-body vertical character portrait, character standing naturally in the center, relaxed posture, entire outfit visible, generous negative space around the character.
+
+Lighting and Texture: Soft natural lighting, gentle shadows, matte paper texture, slightly imperfect traditional illustration finish.
+
+Aspect Ratio: 9:16 portrait.
+
+Quality: Extremely detailed character design, polished traditional 2D animation illustration, consistent anatomy, beautiful facial expression, no photorealism, no 3D rendering, no text, no watermark.
 ```
 
 </details>
@@ -781,6 +816,29 @@ GPT Image 2.5 · Edit · Source: [@Arzoo12sh on X](https://x.com/Arzoo12sh/statu
 
 ```text
 Create a high-resolution professional character sheet of the same young woman from the reference image. Show front, side, and back full-body views, plus multiple facial expressions and dynamic poses. She wears an all-black sweatshirt and black cargo pants, white chunky sneakers, and a black crossbody shoulder bag, holding the same clear cup/bottle of yellow iced drink in her hand. Keep her long brown hair and facial features consistent with the reference. Use a clean light beige/gray studio background, realistic photography, consistent face and body across every pose, editorial character-design sheet layout, neat typography, thin dividers, material close-ups, color palette, and professional poster composition.
+```
+
+</details>
+
+<a id="nano-banana-candy-monster-doorbell-camera"></a>
+### Candy monster on doorstep, doorbell camera view
+
+<a href="https://x.com/FlowbyGoogle/status/2116265995539304722"><img src="../../previews/nano-banana-candy-monster-doorbell-camera.jpg" width="360"></a>
+
+The doorbell camera framing, low resolution, heavy compression and motion blur sell the found-footage realism. Uploading a candy photo as an ingredient keeps the creature built from real candy pieces.
+
+Nano Banana 2.1 · Edit · Source: [@FlowbyGoogle on X](https://x.com/FlowbyGoogle/status/2116265995539304722) · 166 likes on 2026-11-03
+
+[`halloween`](tags.md#tag-halloween) [`candy`](tags.md#tag-candy) [`doorbell-camera`](tags.md#tag-doorbell-camera) [`night`](tags.md#tag-night)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Trick or treat? Both!
+
+Create your own candy visitor using Nano Banana in Google Flow. Upload a candy image as an ingredient and use this prompt:
+
+Doorbell camera image at night, low-res, heavy compression, motion blur. Wide view from front door. Foreground: lawn/pavement with a surreal, whimsical candy monster sculpture. Creature is playful yet uncanny, with exaggerated limbs and an asymmetrical, polished body made entirely from the referenced candy. Background: empty houses, black treeline.
 ```
 
 </details>

@@ -1,0 +1,48 @@
+id: seedance-kitten-knight-dragon-egg-snowstorm
+title:
+  en: Kitten knight shields dragon egg in snowstorm
+  zh: 小猫骑士在暴风雪中守护龙蛋
+model: Seedance 2.5
+mode: text-to-video
+category: scifi-fantasy
+tags:
+- kitten
+- dragon
+- fantasy
+- snowstorm
+source:
+  name: '@itxabdullaa on X'
+  url: https://x.com/itxabdullaa/status/2110942575523922012
+  credit: itxabdullaa
+  captured: '2026-11-03'
+  posted: '2026-10-16'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/itxabdullaa/status/2110942575523922012
+notes:
+  en: Five timed scenes sit under a fixed character block and a consistency rule, which keeps the armour, ribbon and cape the same across cuts. Explicit fur, scale, snow and sound cues push the fantasy toward live action realism.
+  zh: 五段定时分镜配合开头固定的角色描述和一致性约束，让盔甲、缎带和披风在每次切换后保持一致。明确写出毛发、鳞片、雪景和音效，使奇幻画面更接近真人实拍质感。
+prompt: |
+  Duration: 24 seconds | Format: 16:9 | Style: Photorealistic cinematic fantasy
+
+  Create a breathtaking 24-second live-action fantasy short featuring a tiny golden British Shorthair kitten knight with enormous dark eyes, realistic fluffy fur, a pink ribbon, silver medieval armor, an ivory cape, and a miniature sword. Maintain identical character appearance, proportions, and accessories throughout.
+
+  SCENE 1 (0–5s): THE DISCOVERY
+  During a violent snowstorm, the kitten struggles through ancient frozen ruins. A gigantic black dragon claw crashes into the snow behind it. The terrified kitten discovers a mysterious golden-glowing dragon egg as the colossal dragon's amber eyes emerge through the blizzard.
+
+  SCENE 2 (5–9s): THE CHOICE
+  Instead of fleeing, the kitten raises its tiny sword to protect the egg. The dragon spreads its enormous wings, blocking the moon. A golden crack appears in the egg, making the dragon suddenly stop in surprise.
+
+  SCENE 3 (9–15s): THE REVELATION
+  The egg hatches, revealing a tiny black dragon with miniature horns and amber eyes. The kitten gently touches the hatchling, while the colossal dragon lowers its head gratefully. Golden sunrise light breaks through the storm.
+
+  SCENE 4 (15–20s): THE PROTECTOR
+  A massive avalanche rushes toward them. The kitten shields the hatchling beneath its ivory cape as the enormous dragon spreads its leathery wings, protecting them from the crashing snow and ice.
+
+  SCENE 5 (20–24s): THE BOND
+  At sunrise, the exhausted kitten cradles the sleeping hatchling beside the colossal dragon. The dragon gently closes its amber eyes and exhales, softly moving the kitten's pink ribbon. The camera pulls back to reveal all three together among sparkling frozen ruins.
+
+  CINEMATOGRAPHY: Photorealistic fur and scales, realistic snow physics, dramatic scale contrast, cinematic tracking shots, shallow depth of field, volumetric lighting, natural golden-hour grading, and premium live-action fantasy realism.
+
+  AUDIO: Icy winds, crunching snow, metallic armor movement, deep dragon breathing, cracking ice, hatchling chirps, and avalanche impacts. No dialogue or narration.
+
+  STRICT CONSISTENCY: No cartoon or anime style, artificial CGI look, morphing, extra limbs, duplicate characters, changing accessories, inconsistent anatomy, flickering textures, or unnatural physics. Preserve exact character identities throughout. #imagineArt

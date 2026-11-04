@@ -1,0 +1,25 @@
+id: seedance-icy-rooftop-ice-magic-battle
+title:
+  en: Lollipop student faces off on icy rooftop at night
+  zh: 棒棒糖少女在冰冷夜晚的天台对峙
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- ice-magic
+- rooftop
+- night
+- fight-choreography
+source:
+  name: '@laviniavelle on X'
+  url: https://x.com/laviniavelle/status/2096437174942204277
+  credit: laviniavelle
+  captured: '2026-11-03'
+  posted: '2026-09-06'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/laviniavelle/status/2096437174942204277
+notes:
+  en: The prompt fixes the character's look and props first (pastel purple hair, gray blazer, blue bow, lollipop), then sets the action with fast tracking camera and ice VFX beats. It closes with frame rate and resolution cues.
+  zh: 提示词先固定角色外观和道具（淡紫短发、灰色西装、蓝色领结、棒棒糖），再用快速跟拍镜头和冰霜特效描述动作，最后给出帧率和分辨率要求。
+prompt: |
+  Cinematic high-action sequence set on an icy school rooftop at night. A cool anime style female student with light pastel purple short hair, a gray blazer with a blue bow, and a lollipop in her mouth effortlessly dodges attacks using magical ice powers Fast paced camera tracking dynamic fight choreography freezing water mid-air shattering ice structures dramatic rooftop lighting against a dark cityscape sharp ice particle VFX ultra-realistic 8k resolution, 60fps cinematic look.

@@ -1,0 +1,35 @@
+id: seedance-selfie-vlog-beach-to-alps-phone-drop
+title:
+  en: Selfie vlog from tropical beach to Alps
+  zh: 自拍 vlog：从热带海滩到阿尔卑斯山
+model: Seedance 2.5
+mode: reference-to-video
+category: vlog
+tags:
+- selfie-vlog
+- match-cut
+- travel
+- phone-drop
+source:
+  name: '@ZaraIrahh on X'
+  url: https://x.com/ZaraIrahh/status/2111047780722688154
+  credit: ZaraIrahh
+  captured: '2026-11-03'
+  posted: '2026-10-16'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/ZaraIrahh/status/2111047780722688154
+notes:
+  en: A phone drop into a dark frame hides the cut to Switzerland, and the selfie framing, camera height and walking rhythm stay matched before and after the fall. The face is locked to a reference image, so the outfit change happens only inside the dark frame.
+  zh: 手机掉落后进入黑场，把热带海滩切换到瑞士的过程被隐藏起来。掉落前后的自拍构图、镜头高度和行走节奏保持一致，人脸由参考图锁定，服装变化只发生在黑场中。
+prompt: |
+  Ultra-realistic continuous POV selfie vlog, natural handheld smartphone footage, one identical woman <<image throughout, preserve the exact same face and identity. Duration: 10 seconds.
+
+  0–3 seconds — Tropical Beach: The woman walks casually along a beautiful tropical beach under warm sunlight, filming herself in selfie-vlog style. She wears a stylish, lightweight beach outfit, suitable for a sunny vacation. Turquoise ocean waves and white sand behind her. Natural walking movement, cheerful expression, slight handheld camera shake.
+
+  3–5 seconds — Phone Drop Transition: Suddenly, her phone slips from her hand and falls toward the sand. The camera tumbles naturally, showing chaotic shaky footage, strong motion blur, a briefly tilted upside-down view, then the lens becomes completely dark as the phone lands. Realistic muffled movement, no artificial transition effects.
+
+  5–7 seconds — Seamless Location Change: In the darkness, create a perfectly hidden match cut. The phone is picked up in Switzerland, with absolutely no visible transition between locations. The camera rises naturally from a low angle, revealing the same woman now wearing a stylish winter outfit: a warm cream-colored coat, knitted scarf, winter trousers, and boots. Her face and identity remain exactly the same. The lighting shifts naturally from warm tropical sunlight to crisp alpine daylight.
+
+  7–10 seconds — Swiss Alps Reveal: She lifts the phone into the exact same selfie-vlog angle and continues walking as if nothing happened. Behind her are magnificent Swiss Alps, snow-capped mountain peaks, a spectacular waterfall, lush green alpine scenery, and a crystal-clear turquoise-blue river flowing through the valley. She looks amazed and smiles naturally at the camera.
+
+  CRITICAL TRANSITION RULES: The phone drop must be the ONLY transition mechanism. Match the camera's movement before and after the fall, maintaining identical selfie framing, camera height, hand movement, and walking rhythm. Hide the location and outfit changes entirely during the dark frame. The transformation must feel like one uninterrupted real-life vlog, with no jump cuts, no morphing, no glowing portals, no magical effects, no face changes, no flickering, and no sudden camera-angle inconsistencies. Photorealistic 4K travel footage, realistic human movement, natural lighting, smooth motion, breathtaking scenery, no text, no subtitles, no logos.9:16.

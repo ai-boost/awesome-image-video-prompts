@@ -1,0 +1,27 @@
+id: seedance-masked-gunmen-hostage-opening
+title:
+  en: Masked gunmen hold woman hostage outside office entrance
+  zh: 蒙面劫匪在写字楼门口劫持女子
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- hostage
+- superhero
+- action
+- vfx
+- slow-motion
+source:
+  name: '@itsSaira_1 on X'
+  url: https://x.com/itsSaira_1/status/2101911598889857028
+  credit: itsSaira_1
+  captured: '2026-11-03'
+  posted: '2026-09-21'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/itsSaira_1/status/2101911598889857028
+notes:
+  en: Timed scene beats with second ranges let the model pace six shots in order, and the opening beat sets up the hostage standoff with a drawn handgun. The separate negative prompt steers the output away from cartoon and 3D looks so the footage stays photoreal.
+  zh: 带秒数范围的分镜段落让模型按顺序安排六个镜头的节奏，开场段落交代持枪挟持的对峙场面。单独的负面提示词可以避免卡通和三维风格，让画面保持写实质感。
+prompt: "Cinematic, photorealistic, 4k resolution, superhero action scene, glowing red eyes VFX, pink glowing energy trails, super-speed motion blur, slow-motion impact shots, highly detailed urban daylight street setting.\n\n[SCENE-BY-SCENE BREAKDOWN]\n\nSCENE 1 (0:00 - 0:01) - The Hostage Situation:\nDaytime outside a modern corporate building. Three masked criminals in tactical gear hold a woman in a beige coat hostage, aiming a handgun directly at her head. Cops and a police car with drawn weapons are visible in the background.\n\nSCENE 2 (0:01 - 0:02) - The Hero's Awakening:\nClose-up shot of a young blonde girl wearing a casual white off-the-shoulder sweater, black pleated mini-skirt, and backpack. Deadpan expression as her eyes suddenly illuminate with intense, glowing red light VFX.\n\nSCENE 3 (0:03 - 0:07) - Super-Speed Strike:\nThe blonde girl dashes forward with supernatural speed, leaving bright pink glowing energy trails and sparks behind her feet. She punches a criminal in\
+  \ a blur, sending his gun flying high into the air in slow motion while the hostage looks shocked.\n\nSCENE 4 (0:08 - 0:24) - Martial Arts Combat:\nFast-paced martial arts choreography mixed with slow-motion impacts. The girl performs a high flying roundhouse kick into a criminal's chest, creating a shockwave of glowing pink lightning VFX and floating magical petals. She fluidly takes down the remaining criminals with rapid super-speed kicks.\n\nSCENE 5 (0:25 - 0:27) - The Rescue:\nThe girl kneels on the sidewalk beside the unconscious hostage as pink energy arcs around her arm. She then effortlessly carries the woman in her arms in a bridal style toward a police car and hands her to stunned police officers.\n\nSCENE 6 (0:28 - 0:31) - The Super-Speed Exit:\nWide street shot. Cops inspect unconscious criminals lying on the pavement. The girl instantly zips out of the frame using super-speed, leaving behind a fading trail of pink lightning and a gust of wind.\n\n[NEGATIVE PROMPT]\nCartoon,\
+  \ 3d render, animation, anime, painting, illustration, low quality, low resolution, blurry, distorted faces, mutated hands, bad anatomy, missing limbs, extra limbs, poorly drawn weapons, text, watermarks, logo.\n\n​#VisualStorytelling #AIVideo #VFX\n#AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #AI @Flovaai @Flovaai_Japan \n@PixVerse @itsPolloAI\n"

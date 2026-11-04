@@ -1,0 +1,24 @@
+id: gpt-image-tokyo-cafe-memory-journal
+title:
+  en: Café photo beside illustrated coffee and toast
+  zh: 咖啡馆照片与手绘咖啡吐司插画
+model: GPT Image 2.5
+mode: image-edit
+category: collage
+tags:
+- cafe
+- japan
+- illustration
+- scrapbook
+source:
+  name: '@KrishnaBio1 on X'
+  url: https://x.com/KrishnaBio1/status/2103047854205886949
+  credit: KrishnaG
+  likes: 336
+  captured: '2026-11-03'
+  posted: '2026-09-24'
+notes:
+  en: Pairing a real photo and a hand drawn version of the same plate on one page makes the two halves read as one memory. Typewriter archive text with place, item number and keywords gives the page a travel journal feel.
+  zh: 将真实照片与同一份餐点的手绘版本并排放在一页上，让两半看起来像同一段回忆。打字机风格的档案文字标注地点、编号和关键词，增添旅行手账的感觉。
+prompt: |
+  Create a premium editorial “memory journal” page combining a real lifestyle photograph with a hand-drawn illustrated interpretation of the same moment. Use a vertical 4:5 composition divided diagonally/vertically into two complementary sections: the left side is a warm, natural, slightly film-grainy photograph of a Japanese café scene, showing beautifully plated food or dessert and coffee on a wooden table, with realistic ambient café details, soft window light, shallow depth of field, and subtle nostalgic tones; the right side is a minimalist hand-painted watercolor/colored-pencil illustration recreating the same food and drink with delicate imperfect ink outlines, muted earthy colors, visible paper texture, and an artistic handmade feel. Keep the right side mostly warm ivory textured paper with generous negative space. Beneath the illustration, add small typewriter-style archival text containing the location, item number, short memory keywords, and year, such as “Tokyo, Japan / No. 0018 / coffee / toast / quiet time / 2026”. The design should feel like a curated Japanese travel diary, café memory archive, contemporary scrapbook, and vintage lifestyle magazine, with sophisticated editorial composition, warm cream paper, muted teal, brown, beige and dusty colors, subtle grain, imperfect printing, understated typography, authentic tactile paper texture, elegant minimalism, photorealistic photography seamlessly paired with handmade illustration, high detail, cohesive visual storytelling, no logos, no watermark.

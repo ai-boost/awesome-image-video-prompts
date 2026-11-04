@@ -1,0 +1,56 @@
+id: h3-tapestry-thread-world
+title:
+  en: Glowing thread weaves a fantasy world across tapestry
+  zh: 金色丝线在挂毯上织出奇幻世界
+model: MiniMax H3
+mode: reference-to-video
+category: cinematic
+tags:
+- fantasy
+- tapestry
+- title-sequence
+- logo-reveal
+source:
+  name: '@aimikoda on X'
+  url: https://x.com/aimikoda/status/2091893350748025010
+  credit: Kōda
+  likes: 134
+  captured: '2026-11-03'
+  posted: '2026-08-24'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/aimikoda/status/2091893350748025010
+notes:
+  en: 'The prompt makes every element a physical construction event: threads split, knot, and stitch each region into existence, so nothing simply appears. A logo reference image sets the design authority for the ending, and the camera rules keep the view on the fabric surface.'
+  zh: 提示词把每个元素都写成实时编织的过程：丝线分叉、打结、缝合，逐块构建地形与符号，避免画面凭空出现。结尾以徽标参考图为准，镜头始终停留在织物表面，保证设计一致。
+prompt: |
+  Create an epic fantasy title sequence built around a vast living tapestry. The sequence must feel like an entire world is being born from a single thread.
+
+  Begin in near darkness. Only the faint texture of woven fabric is visible. At the very center, one lone thread awakens. It trembles, pulls tight, glows faintly, and begins moving across the surface like a living force. As it races forward, it splits into more threads. Those threads split again, multiplying rapidly into branching strands of gold, crimson, ivory, midnight blue, and ash-gray. Everything in the sequence must originate from this first thread and its descendants. The world should feel as if it is being generated from one living source.
+
+  The camera moves dynamically and continuously through the tapestry, never static. It races low across the woven surface, whips past rising embroidered forms, glides along rivers made of flowing thread, dives through deep folds and valleys of cloth, and sweeps between giant raised textile structures. The camera must always remain on the exposed upper surface of the tapestry. It may skim across folds and pass through openings between raised embroidered forms, but it must never travel beneath the fabric.
+
+  The world should not simply appear. It must actively weave itself into existence in real time. At every moment, visible threads must remain in motion, constantly splitting, branching, knotting, braiding, tightening, and constructing new terrain, landmarks, symbols, and regions ahead of the camera. The world must never feel complete until the final logo reveal. The strongest visual rule is this: if something appears, it should be because threads are physically making it.
+
+  Cities, kingdoms, and landmarks must all be built through textile transformation. Threads knot together into towers, fortresses, ceremonial structures, bridges, and gates. Layers of cloth fold upward into cliffs, walls, and ridges. Roads are sewn rapidly across the land. Banners unfurl from the weave. Forests spread outward stitch by stitch as fibers become roots, trunks, branches, and canopies. Rivers are pulled into place by shimmering strands. Coastlines tighten into shape like stretched cloth under tension. Nothing should materialize passively. Everything must be woven, stitched, tied, pulled, or braided into existence by moving thread.
+
+  Each major region should feel like its own construction event. In one kingdom, royal motifs and heraldic embroidery bloom outward in ornate patterns. In another, scorched threads blacken and curl as if marked by war. In a frozen region, pale threads crystallize into icy stitched structures. In a desert realm, sand-colored silk folds into dunes and radiant sun motifs. In a battlefield region, red threads race violently across the surface like spreading conflict. In every case, the region should be visibly built by thread activity, not simply revealed.
+
+  Use aggressive but elegant camera choreography: fast push-ins, sweeping arcs, sharp climbs, dramatic pull-backs, overhead reveals, and low-angle passes through giant stitched landmarks and dense moving fibers. Let the camera chase the leading edge of construction. Often follow one strand as it races into empty fabric and begins creating the next formation. The camera should feel as if it is surfing the growth of the world itself.
+
+  The tapestry should feel handcrafted, ancient, ceremonial, and mythic. Show rich textile detail everywhere: layered cloth, frayed edges, gold thread, dense embroidery, woven symbols, stitched heraldry, seams, folds, braided cords, hanging fibers, and visible tension in the fabric. If desired, briefly glimpse looms, spools, or unseen weaving forces at the edges of the frame, but keep the main focus on the living tapestry and its self-weaving world.
+
+  The pacing should escalate constantly. Start with the mystery of one awakened thread. Then let that thread multiply into many. Then let those many threads begin forming entire regions. Then let multiple regions awaken at once as long strands travel across the tapestry and connect distant kingdoms, roads, battles, and symbols. The sequence should feel as if history, bloodlines, war, and power are all being woven from one original source.
+
+  Lighting should be dramatic and cinematic, with warm highlights skimming across thread textures, deep shadows in folds of cloth, soft glow passing through thin fabric, and floating dust in the air. The tone should feel majestic, ancient, noble, immersive, and alive.
+
+  Toward the climax, reveal that all kingdoms, roads, battles, and symbols are interconnected through one vast woven design. Long threads travel across the entire tapestry and begin drawing everything toward a central point. Regional patterns, sigils, and story elements align into one unified composition.
+
+  If a logo reference image is supplied, use that logo as the exact design authority for the ending. Preserve its silhouette, proportions, and core graphic structure. Do not simply reveal, overlay, or fade in the logo. Instead, the final logo must be physically built in real time from the same thread lineage that created the world. The first awakened thread and all the threads that descended from it should ultimately converge and construct the final emblem. Kingdoms, roads, rivers, banners, heraldic motifs, and regional patterns must unravel back into fibers and feed the final construction. Braided cords define the main silhouette. Dense embroidery fills the interior forms. Fine metallic threads complete the small details. The final logo should feel as if the whole world has transformed into it.
+
+  If no logo reference image is supplied, end with an original fantasy crest or title emblem emerging through the same thread-construction logic.
+
+  End with the completed logo fully stitched into the tapestry as a monumental embroidered insignia. The surrounding lands continue to ripple subtly with life as a few final strands glide into place, tighten, and lock the design.
+
+  Tone: majestic, ancient, dramatic, elegant, immersive, ceremonial, and alive.
+  Style keywords: living tapestry, single-origin thread, embroidered fantasy world, woven kingdoms, dynamic textile transformation, cinematic title sequence, mythic handcrafted world-building, epic camera motion.
+  Format: 16:9, highly detailed, no modern elements, no direct copy of any existing franchise.

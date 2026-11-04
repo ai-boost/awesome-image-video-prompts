@@ -1,0 +1,36 @@
+id: h3-digital-assembly-character-build
+title:
+  en: Digital assembly builds a character from wireframe layers
+  zh: 数字装配从线框层逐步生成角色
+model: MiniMax H3
+mode: reference-to-video
+category: vfx
+tags:
+- digital-assembly
+- character-build
+- holographic
+- wireframe
+source:
+  name: '@aimikoda on X'
+  url: https://x.com/aimikoda/status/2095651474797641955
+  credit: Kōda
+  likes: 64
+  captured: '2026-11-03'
+  posted: '2026-09-03'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/aimikoda/status/2095651474797641955
+notes:
+  en: The prompt names the reference as the final target and lays out the build in order, from abstract fragments and blueprint sketches to limbs, clothing and face, so the model has a clear sequence to follow. Pacing and density cues keep the motion busy while the character stays the focus.
+  zh: 提示词先把参考图设为最终目标，再按顺序描述搭建过程，从抽象碎片和蓝图草图到四肢、服装与面部，让模型有清晰的时间线可循。节奏与画面密度的描述让运动保持紧凑，同时角色始终是焦点。
+prompt: |
+  Use the provided reference as the final character target.
+
+  Create a short premium cinematic character creation video where the character is built step by step through a high-tech digital assembly process. The sequence should feel fast, intense and visually sophisticated.
+
+  Show a clear staged progression. Begin with abstract digital fragments, prototype sketches, blueprint-style drawings, construction lines and technical concept sheets appearing in the background. Then gradually assemble the character from the inside out, with limbs, body parts, clothing and facial features forming through scanning passes, holographic layers, wireframes, segmented image fragments, luminous particles and sleek interface elements.
+
+  Let the arms, legs and other body parts visibly generate in stages, as if engineered by an advanced system. Some moments should show unfinished digital anatomy, partial structures and evolving forms before they lock into the final design. Keep the background alive with passing prototype art, silhouette studies, detail callouts and design variations to reinforce the feeling of a real creation process.
+
+  The pacing should be rapid and aggressive, with dense motion, layered depth, sharp transitions and constant visual activity, while keeping the character build clearly readable as the main focus. The overall style should feel futuristic, polished, luxurious and cinematic.
+
+  End with the fully completed character, cleanly revealed and clearly matching the reference.

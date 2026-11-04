@@ -1,0 +1,33 @@
+id: seedance-korean-bus-hidden-beach-vlog
+title:
+  en: Korean woman vlogs bus ride toward hidden coast
+  zh: 韩国女生在巴士上拍摄前往隐秘海滩的旅途
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- korean
+- vlog
+- beach
+- travel
+source:
+  name: '@aiwithaly on X'
+  url: https://x.com/aiwithaly/status/2096087387164320223
+  credit: aiwithaly
+  captured: '2026-11-03'
+  posted: '2026-09-05'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/aiwithaly/status/2096087387164320223
+notes:
+  en: The prompt lays out the 60 second story as a sequence of clear beats, each with one location and one action. It fixes a handheld smartphone vlog camera and specifies wardrobe, props and natural beach ambience, which keeps the look and sound consistent from scene to scene.
+  zh: 提示词把60秒的故事拆成有先后顺序的段落，每段只包含一个地点和一个动作。它固定了手持智能手机vlog的镜头风格，并写明服装、道具和自然海滩环境音，使各个镜头的画面与声音保持一致。
+prompt: |
+  Create a 60-second ultra-photorealistic Korean summer travel vlog featuring a young Korean woman in her mid-20s exploring a secluded coastal beach. Natural dark hair, minimal makeup, white linen shirt, denim shorts, sandals and canvas shoulder bag.
+
+  Start with her filming herself on a small Korean bus as the ocean appears between green hills. She gets off at a quiet coastal stop and discovers a hidden beach with turquoise water, pale sand and fishing boats. She removes her sandals, walks barefoot along the shoreline, collects a seashell and reacts naturally when cold water reaches her feet.
+
+  She then changes into a tasteful one-piece swimsuit and swims in the clear ocean with realistic human movement, buoyancy, waves and wet hair. Back on shore, she changes clothes, enjoys a cold Korean drink and snack while sitting beside the sea.
+
+  End during golden hour as she walks barefoot along the shoreline carrying her sandals, with warm sunlight, long shadows and gentle waves.
+
+  Authentic 2026 smartphone vlog style, handheld camera, natural expressions, realistic skin, hair, clothing, sand and water physics. English dialogue only, natural beach ambience, no music, no CGI, no animation, no subtitles or watermark.

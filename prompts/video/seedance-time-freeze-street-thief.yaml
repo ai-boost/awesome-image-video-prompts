@@ -1,0 +1,123 @@
+id: seedance-time-freeze-street-thief
+title:
+  en: Woman walks down a sunlit busy city street
+  zh: 阳光下的繁忙城市街道上行走的女子
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- time-freeze
+- urban-street
+- thriller
+- cinematic
+source:
+  name: '@azed_ai on X'
+  url: https://x.com/azed_ai/status/2088657779619983615
+  credit: Amira Zairi
+  likes: 679
+  captured: '2026-11-03'
+  posted: '2026-08-15'
+video: https://x.com/azed_ai/status/2088657779619983615
+notes:
+  en: Timed beats with explicit trigger rules, a scream freezes time and a finger snap restores it, keep the supernatural effect readable and stop it from reading as slow motion. The handheld-to-tracking camera plan and the near-silent freeze sound design hold continuity across many small actions.
+  zh: 用带时间码的分镜段落，明确尖叫触发冻结、响指触发恢复，并要求冻结的人物不眨眼不呼吸，超自然效果才读得清楚，不会被看成慢动作。手持转跟踪的镜头安排和冻结时只留脚步声的声音设计，保证多个小动作之间的连续性。
+prompt: |
+  Environment: A busy modern city street in late afternoon, crowded sidewalks, moving cars, cyclists, pedestrians, street vendors, pigeons, drifting leaves, coffee shops and everyday urban activity.
+  Visual style: Cinematic realism, grounded supernatural thriller, realistic natural lighting, subtle film grain, warm late-afternoon sunlight, realistic physical textures. The time-freeze effect has no visible magical energy. The supernatural moment feels strange because everything simply stops.
+  Camera language: Natural handheld tracking before the freeze, then smooth cinematic tracking following the woman continuously as she walks away through the frozen city. Use occasional close-ups and wider compositions to reveal the frozen details around her. Avoid excessive cuts.
+  Subject styling: A young woman wearing casual modern street clothing, jacket, jeans, sneakers and a shoulder bag. A male thief in ordinary dark street clothing approaches from behind.
+  Core performance: Fear immediately transforms into confusion, then curiosity and playful confidence. After escaping the thief, the woman never returns to him. She keeps walking forward through the frozen street, casually changing three small things involving different frozen people she passes.
+  Time Freeze Rule: Her scream instantly freezes time. Only the woman and camera can move. Everything else remains completely motionless until she snaps her fingers.
+  Negative prompts: No subtitles, no text, no logos, no distorted faces or hands, no duplicated people, no slow-motion interpretation of frozen time, no glowing magic, no exaggerated VFX, no dramatic music.
+
+  [00-04] THE APPROACH
+  Medium tracking shot.
+  The woman walks naturally along a crowded sidewalk, carrying her shoulder bag.
+  The camera moves backward in front of her.
+  Behind her, a thief notices the bag and quietly approaches through the crowd.
+  The street is completely alive around them, pedestrians walking, cars moving, pigeons flying, leaves blowing and vendors serving customers.
+  Natural city ambience.
+  [04-07] THE ATTEMPT
+  The thief reaches her and suddenly grabs the strap of her shoulder bag.
+  She spins around in shock and screams.
+  At the exact peak of her scream, everything freezes instantly.
+  Absolute silence.
+  The thief is frozen with both hands gripping the bag strap.
+  Pedestrians freeze mid-step.
+  A cyclist freezes mid-pedal.
+  A pigeon hangs in the air.
+  Leaves stop in mid-air.
+  Cars become perfectly motionless.
+  [07-11] ESCAPE
+  The woman stops screaming and realizes something impossible has happened.
+  She looks around, breathing heavily.
+  She looks at the thief.
+  Close-up on his frozen hands tightly gripping her bag.
+  She calmly grabs both of his frozen hands and carefully removes them from the bag strap.
+  She lets his hands remain suspended exactly where she leaves them.
+  She pulls the bag securely over her shoulder.
+  She immediately turns away from him.
+  She starts walking.
+  She never returns to the thief.
+  [11-15] CHANGE ONE
+  Smooth tracking shot following her as she walks through the frozen crowd.
+  She passes a businessman frozen while holding a takeaway coffee near his mouth.
+  His tie is hanging crooked across his shoulder from the wind.
+  Without stopping for long, she casually straightens his tie and places it neatly against his shirt.
+  She continues walking.
+  The businessman remains completely frozen.
+  [15-19] CHANGE TWO
+  She continues down the sidewalk.
+  A woman is frozen mid-step while wearing sunglasses on top of her head.
+  The protagonist walks past her, pauses for a second, gently takes the sunglasses and lowers them onto the woman's eyes.
+  She gives the frozen woman an amused little look.
+  Then she keeps walking forward.
+  [19-23] CHANGE THREE
+  The camera continues tracking with her.
+  She passes a man frozen while holding an open umbrella even though the sky is clear.
+  She looks up at the sunny sky, then at him.
+  She casually closes his umbrella and places it under his arm.
+  She smiles slightly and continues walking.
+  Behind her, the three altered people remain frozen in their new positions.
+  [23-27] WALKING THROUGH FROZEN TIME
+  Wide tracking shot.
+  The woman now walks confidently through the completely frozen city.
+  She passes between motionless pedestrians.
+  A pigeon remains suspended above her.
+  Leaves hang motionless around her.
+  A cyclist is frozen beside the road.
+  A stream of water from a fountain remains suspended in the air.
+  She slowly realizes she controls when this moment ends.
+  Her expression becomes calm and confident.
+  [27-30] TIME RETURNS
+  The camera tracks backward in front of her while she continues walking.
+  She never stops walking.
+  She raises one hand.
+  She snaps her fingers.
+  Time instantly resumes around her while she continues moving at exactly the same pace.
+  City noise suddenly returns.
+  Cars continue driving.
+  The cyclist completes his pedal.
+  The pigeon continues flying.
+  Leaves fall.
+  The businessman suddenly notices his tie perfectly straight.
+  The woman instinctively reacts to her sunglasses suddenly covering her eyes.
+  The man looks down in confusion at his closed umbrella.
+  Far behind them, the thief realizes the woman and her bag are already gone.
+  The woman keeps walking through the crowd without looking back.
+  Cut.
+
+  The scream is the exact trigger for freezing time.
+  The finger snap is the exact trigger for restoring time.
+  During frozen time, only the woman, objects she directly touches and the camera can move.
+  After removing the thief's hands from her bag, she immediately walks away and never interacts with him again.
+  The three changes must happen naturally while she continues moving forward through the street:
+  Change 1: Straighten the businessman's tie.
+  Change 2: Move the woman's sunglasses from her head onto her eyes.
+  Change 3: Close the man's open umbrella and place it under his arm.
+  Each change must involve a different person.
+  All changes remain exactly as she leaves them when time resumes.
+  Do not interpret the effect as slow motion. Frozen people must not blink, breathe, react or move. Hair, clothing, vehicles, animals, liquids and airborne objects remain absolutely motionless.
+  Maintain spatial and character continuity throughout.
+  Full city ambience before the scream, near-total silence during frozen time with only her footsteps, breathing and clothing movement audible, then immediate restoration of all city sounds after the finger snap.
+  No subtitles, no on-screen text, no background music.

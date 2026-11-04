@@ -1,6 +1,53 @@
 # Anime and animation
 
-[Back to the list](../../README.md) · All 76 entries
+[Back to the list](../../README.md) · All 81 entries · **1** · [2](video-anime-2.md)
+
+<a id="seedance-two-friends-bedsheet-ghost-prank"></a>
+### Phone camera sketch of friends and a bedsheet ghost
+
+<a href="https://x.com/aimikoda/status/2115446648704827633"><img src="../../previews/seedance-two-friends-bedsheet-ghost-prank.jpg" width="360"></a>
+
+Separate reference images lock each girl's hair and outfit, while the style reference supplies only ink and palette so its pose is not copied. Timed shots with explicit cut and whip pan points keep the handheld phone camera motion readable across eight beats.
+
+Seedance 2.5 · Reference-to-video · Source: [@aimikoda on X](https://x.com/aimikoda/status/2115446648704827633) · 19,513 likes on 2026-11-03
+
+[`anime`](tags.md#tag-anime) [`comedy`](tags.md#tag-comedy) [`hand-drawn`](tags.md#tag-hand-drawn) [`multi-shot`](tags.md#tag-multi-shot)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+References:
+@[ref1]: Yuki. Shoulder-length silver-white hair with long bangs, olive-green eyes, small round silver earrings, loose pale camisole, flat deadpan face.
+@[ref2]: Sumi. Short black bob with uneven bangs, brown eyes, small gold earrings, cream camisole under an oversized off-white shirt, loud and easily flustered.
+@[ref3]: the style reference. Hand-drawn look, line quality and palette only; not its pose or layout.
+
+Visual style: Rough hand-drawn anime sketch, loose black ink lines, flat watercolor washes, muted grey, sage and beige palette, soft indoor daylight. Shot as a phone front camera video: handheld, restless, constantly bobbing and tilting with whoever holds it, quick crash zooms and whip pans.
+
+Avoid: No subtitles. No background music. No slow motion. No other people. Yuki and Sumi never merge or swap faces.
+
+Two friends goof around nonstop with a phone camera through a small apartment, each new spot in front of a different strange painting. Every change of place comes through a whip pan or a cut from the phone itself; nobody stands still. A visible gap always separates their faces. Sound: footsteps, phone rustle, shrieks, laughter, one line. Shot list: 8 shots, about 30 seconds.
+
+Scene 1: Continuous, in front of an orange painting with two huge round owl eyes.
+Shot 1 (0-4s): Close two-shot, high angle; the camera bobs quickly with Sumi, who holds the phone with her raised right arm from the top right corner. Yuki springs up into frame from below on screen left and flashes a V sign with both hands, face completely deadpan. Sumi sticks out her tongue and shakes her head side to side, her black bob flying. Cut as Yuki snatches the phone from Sumi's hand; the camera whips left in a blur.
+
+Scene 2: Continuous, in front of a blue-grey blob painting with one black hole for an eye.
+Shot 2 (4-8s): Medium shot, eye level; the whip pan lands here, and the camera, now in Yuki's right hand, quickly pans right to follow Sumi. Yuki stays at the bottom left edge of frame, deadpan. Sumi skids across the floor from screen left to screen right in her socks, arms flailing. Cut as Sumi spins and lunges straight at the lens.
+Shot 3 (8-11s): Close-up, eye level; the camera, still in Yuki's hand, does a fast crash zoom onto Sumi. Sumi's face is pressed almost against the lens, mouth wide open. Behind her, Yuki does a stiff robot dance with her free arm, still deadpan. Sumi bumps the phone; it tumbles out of Yuki's hand. Cut the instant the phone hits the floor.
+
+Scene 3: Later, in front of a dark green painting of a faded face.
+Shot 4 (11-15s): Extreme low angle from the floor; the phone already lies face up, locked-off camera looking at the ceiling. Both girls lean in over the lens from opposite sides, Yuki on screen left, Sumi on screen right. Yuki flips her silver hair forward over her whole face; one big eye peers through a gap. Sumi shrieks and jumps back out of frame, then her hand dives in and grabs the phone. Cut as the phone lifts off the floor.
+
+Scene 4: Continuous, a narrow hallway with a grey wall and a brown smeared painting.
+Shot 5 (15-19s): Medium close-up, Sumi holding the phone out in front of her and facing it while she runs backward down the hallway, still running flat out, laughing. Far behind her, at center, Yuki glides after her with her hair still over her face, arms limp, closing the distance. Cut as Sumi swings around a corner; the camera whips right.
+
+Scene 5: Continuous, in front of a beige wall with a round orange painting.
+Shot 6 (19-22s): Medium close-up, eye level, handheld; the camera heaves with Sumi's breathing. Sumi, holding the phone in her right hand, presses her back to the wall, panting, eyes darting left and right. Yuki is nowhere in frame. Cut as a white cloth drops in from the top of frame.
+Shot 7 (22-25s): Insert, close to the lens; the camera jolts once. A single white bedsheet with two black eye holes lowers from above in front of the lens, held by Yuki's hands.
+Yuki's line (flat, deadpan): "Boo."
+Shot 8 (25-30s): Wide two-shot, high angle; the camera quickly pulls back, then spins with them. Sumi, phone in her right hand, yanks the sheet with her left; the sheet tangles around both girls and they spin together, laughing, Yuki's hair now neat. Both thrust V signs at the lens. Sumi's index finger is still reaching for the lens when the clip cuts to black as the fingertip covers it.
+```
+
+</details>
 
 <a id="seedance-katsudon-anime-cooking"></a>
 ### Katsudon cooked in fast-cut anime style
@@ -331,6 +378,37 @@ Keep the characters consistent throughout the entire video. Preserve the toddler
 
 </details>
 
+<a id="seedance-popbot-character-sheet"></a>
+### Anime combat android character sheet with turnaround views
+
+<a href="https://x.com/Mayz1169/status/2084530475792753069"><img src="../../previews/seedance-popbot-character-sheet.jpg" width="360"></a>
+
+The prompt splits the sheet into a hero figure on the left, front, side and back turnarounds in the center, and detail close-ups on the right, which keeps the design consistent across views. A named hex palette and reference game styles set the colors and rendering finish.
+
+Seedance 2.5 · Text-to-video · Source: [@Mayz1169 on X](https://x.com/Mayz1169/status/2084530475792753069) · 1,040 likes on 2026-11-03
+
+[`character-sheet`](tags.md#tag-character-sheet) [`turnaround`](tags.md#tag-turnaround) [`anime`](tags.md#tag-anime) [`sci-fi`](tags.md#tag-sci-fi)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+1️⃣character sheet:
+
+Ultra-detailed 16:9 futuristic character design sheet, official AAA sci-fi game character bible, clean editorial layout, bright white background with bold cyber UI elements. Character name "POPBOT", title "Professional", subtitle "A high-energy combat android designed for speed, style and precision."
+
+Left panel features a full-body hero illustration of a cute futuristic combat android girl with short white hair, bright blue eyes and a playful confident expression. She wears a vibrant blue oversized tactical jacket with colorful patches, black cropped inner outfit, short tactical shorts, high-top cyber sneakers and futuristic accessories. Her design combines street fashion, robotic technology and playful toy-like aesthetics. She wears a blue rabbit-ear cyber helmet with pink accents, robotic headphones and carries a large futuristic heavy weapon with a blue, yellow and black mechanical design. The weapon has industrial details, glowing elements and a compact sci-fi engineering style.
+
+Center panel includes professional turnaround views (Front, Side, Back), perfectly consistent anatomy, hairstyle, helmet, outfit structure, backpack system and weapon placement. Clearly display the oversized jacket silhouette, cyber accessories, shoes and mechanical components.
+
+Right panel includes detailed close-up panels showing rabbit helmet design, headphones, jacket patches, backpack tank, shoes, robotic accessories and weapon components. Include weapon breakdown showing the futuristic heavy blaster with mechanical structure, handles, energy core and colorful industrial design.
+
+Include accent detail panels showing symbols, patches, logos, buttons, straps and material textures. Add a refined color palette featuring electric blue, neon pink, bright yellow, white, black and dark gray.
+
+Style: futuristic anime character sheet, cyberpunk street combat design, cute mech warrior aesthetic, Zenless Zone Zero × Arknights × Honkai Star Rail quality, premium sci-fi game artbook illustration, colorful techwear fashion, detailed mechanical design, production-ready character bible, masterpiece, best quality, ultra detailed, 8K, clean composition, no watermark, no logo, no extra limbs, no deformed anatomy.
+```
+
+</details>
+
 <a id="h3-flat-vector-curry-delivery-explainer"></a>
 ### Flat Vector Curry Delivery Explainer Animation
 
@@ -351,6 +429,88 @@ integrated_multimodal_description: [Shot 1] Classic Japanese 2D flat-vector expl
 [Shot 3] At 00:04.500, the teal field wipes into a sunny yellow solution card. A large teal smartphone slides into the center while three illustrated curry choices pop out as clean circular cards: rich curry, vegetable curry, and spicy curry. A dotted route grows from the phone toward a small delivery scooter carrying a curry bag. The service name "カレヨル" appears clearly in deep charcoal, followed by the short phrase "選ぶだけ。".
 [Shot 4] At 00:06.800, the composition changes to a clean white infographic strip. Three large circular steps assemble from left to right: "選ぶ", "届く", "食べる". The same woman appears in the final circle at home, opening the yellow curry container as visible steam rises. The delivery scooter moves along the dotted route and stops beside her. Keep every illustration flat, simple, and consistent with the key visual.
 [Shot 5] At 00:09.200, the camera returns to a wide warm-white end card with generous negative space. A large two-line headline assembles smoothly: "どうしても、休みの夜は" followed by "カレーが食べたい。". At 00:10.500, the curry bowl and service name appear beneath it with the final message "そんな時は、カレヨル。". A small curry icon makes one cheerful pop and a gentle steam curl rises. Hold the complete wide end card cleanly until exactly 12.000 seconds. Do not add extra text, random pseudo-letters, logos, browser UI, or additional characters.
+```
+
+</details>
+
+<a id="seedance-magician-girl-letterbox-gifts"></a>
+### Anime magician girl presents gifts over black bars
+
+<a href="https://x.com/aimikoda/status/2106393688653922602"><img src="../../previews/seedance-magician-girl-letterbox-gifts.jpg" width="360"></a>
+
+A reference image locks the character and the letterbox bars are written as static screen graphics, so only the foreground breaks the frame. A fixed camera and a strict nonverbal beat order with one offer at a time keep the performance readable.
+
+Seedance 2.5 · Reference-to-video · Source: [@aimikoda on X](https://x.com/aimikoda/status/2106393688653922602) · 722 likes on 2026-11-03
+
+[`anime`](tags.md#tag-anime) [`letterbox`](tags.md#tag-letterbox) [`pop-out`](tags.md#tag-pop-out) [`comedy`](tags.md#tag-comedy)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Use @[char ref] as the exact character and style reference. Preserve her long pale-blue hair, oversized blue-and-orange pointed magician hat, orange-and-blue coat with its circular sleeve emblem, blue knee-high socks and chunky orange-and-blue sneakers. Keep the same angular painterly anime rendering, sharp graphic shapes and character proportions. Replace the background with clean pure white.
+
+Create a playful, completely nonverbal comedy in one continuous shot. She offers increasingly surprising gifts to the viewer, reacts to each implied rejection through expressive facial acting, then decides to step out of the picture herself.
+
+MAIN VISUAL GOAL:
+An unmistakable OUT-OF-FRAME, POP-OUT effect. Her offered objects, hands, sleeves, hat and finally her legs and body visibly project OVER the black letterbox bars toward the viewer.
+
+COMPOSITING ORDER, BACK TO FRONT:
+
+1. White background and scene.
+2. Two broad black letterbox bars at the top and bottom.
+3. The foreground character and the objects she presents.
+
+The white background is confined to the central picture window. The foreground character and offered objects are NOT confined to that window. Their silhouettes continue uninterrupted across its boundaries and onto the black bars. Their original colors remain fully visible when overlapping black.
+
+STATIC BARS, MOVING FOREGROUND:
+Both bars are completely static screen graphics. Keep their equal thickness, full width and exact screen position unchanged throughout. Their inner boundaries remain perfectly straight and horizontal.
+Foreground movement only temporarily hides portions of the bars. The underlying bars never move or deform. Visible edge segments on either side of an overlap remain aligned on the same horizontal line. When an object withdraws, reveal the original unchanged black surface beneath it.
+Keep black visible beside the overlaps. No bending, sliding, shaking, stretching, opening or impact reactions. The bars remain unchanged even during the final step out of the picture.
+
+CAMERA AND PERFORMANCE:
+Stationary camera, fixed wide-angle lens and level framing. She stays close and prominent throughout. Keep her face clearly visible inside the central picture window while her hands and gifts extend over the lower bar.
+Her facial acting remains continuously active: eye contact, eyebrow changes, natural blinking, questioning head tilts, shifting smiles, pouts and expressive cheek movements. Connect every reaction to the current offer.
+The viewer remains unseen and silent. Every rejection is IMPLIED entirely by her own reaction after looking into the lens. No viewer hands, camera nodding or external rejection signals.
+
+STRICTLY NONVERBAL:
+
+No dialogue, spoken words, whispering, narration, lip-sync or human vocalizations. No subtitles, captions or speech bubbles. She never mouths sentences. Mouth movement is limited to natural nonverbal expressions.
+Follow this exact order: FLOWER, COFFEE, JEWEL, CAT, HERSELF.
+
+FIRST OFFER, FLOWER:
+
+She smiles warmly and retrieves a single flower from beyond a side edge of the screen. Extend it toward the viewer, bringing the flower, fingers and sleeve visibly over the lower black bar.
+After a brief expectant look into the lens, her hopeful smile fades. One eyebrow rises, her head tilts and her eyes search the viewer’s face. Give the flower one small encouraging forward nudge, then accept the implied refusal with a tiny disappointed pout.
+Retract the flower and visibly place it outside the side edge of the screen before retrieving the next object.
+
+SECOND OFFER, COFFEE:
+
+Reach offscreen and return with a coffee cup held securely by its handle. Her face brightens with renewed confidence.
+Offer the cup close to the lens. Its silhouette and her sleeve clearly overlap the lower black bar while her face remains visible above it.
+Her smile falters. Look at the cup, then back into the lens with raised eyebrows and pursed lips. A small resigned shoulder drop follows. Pull the cup back and set it offscreen without spilling.
+
+THIRD OFFER, JEWEL:
+
+Her eyes brighten with a sudden idea. Produce a large sparkling gemstone and present it in an open palm. The gemstone, fingers and sleeve project over the lower black bar.
+Look proudly from the jewel to the viewer, expecting success. After the implied rejection, widen her eyes, lift both eyebrows and briefly part her lips in silent disbelief. Give the lens an incredulous stare, press her lips together and put the jewel offscreen.
+
+FOURTH OFFER, CAT:
+Retrieve a cute small cat from offscreen, supporting its body with both hands. Present it toward the lens, bringing its front paws, fluffy body and her hands visibly over the lower black bar.
+Her expression becomes delighted and persuasive. The cat blinks and moves its paws naturally.
+After another implied rejection, her delighted expression collapses into exaggerated disbelief. Look at the cat, then at the viewer, then back at the cat. Squint slightly and form a frustrated pout.
+Turn slightly and give the cat a light, comical backward toss. The cat lands on its paws behind her and trots away. Keep this quick and playful.
+
+FINAL OFFER, HERSELF:
+Turn back to the viewer. Her frustration changes into a mischievous idea. Raise one index finger in a clear requesting-a-moment gesture, with the fingertip overlapping the upper black bar.
+Lift one knee toward the lens and extend her sneaker OVER the lower black bar. The shoe grows large through foreshortening. Her leg crosses the picture boundary in front of the unchanged black surface.
+Shift her weight forward and bring the rest of her body after it, as though stepping out of the framed image into the viewer’s space. Her coat overlaps the lower bar while her oversized hat overlaps the upper bar.
+The bars remain perfectly straight and stationary beneath her. Her body simply renders in front of them. No opening, bending or displacement of either bar.
+Finish close to the lens with open palms presenting herself, lifted eyebrows and a cheeky hopeful smile. Keep natural blinking, breathing and small facial movements through the ending.
+
+OBJECT CONTINUITY:
+One offered gift at a time. Show each retrieval, presentation and removal clearly. Objects enter and leave through a side edge of the output. No objects transforming into the next gift or disappearing while still held. Preserve consistent object shapes and natural hand contact.
+Brisk natural real-time pacing with readable reactions. No slow motion, frozen expressions, distant retreats or camera movement. No warped bars, duplicated hands, costume changes or text.
+Audio consists only of light prop sounds, fabric rustles, sneaker steps and a brief cat meow. No dialogue, human vocalizations or background music.
 ```
 
 </details>
@@ -3396,6 +3556,25 @@ Create a whimsical Studio Ghibli-inspired animated scene showing a traditional M
 
 </details>
 
+<a id="seedance-girl-skateboard-coastal-town"></a>
+### Girl skateboards along a sunny coastal road
+
+<a href="https://x.com/CaliraVal/status/2099357883133726827"><img src="../../previews/seedance-girl-skateboard-coastal-town.jpg" width="360"></a>
+
+A rear tracking shot paired with separate layers for the rider's motion, the ocean and the town keeps the camera locked to the skater while depth builds behind her. Naming the hand-painted anime style, strong sunlight and 9:16 framing sets the look and format.
+
+Seedance 2.5 · Text-to-video · Source: [@CaliraVal on X](https://x.com/CaliraVal/status/2099357883133726827) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`skateboarding`](tags.md#tag-skateboarding) [`anime`](tags.md#tag-anime) [`coastal`](tags.md#tag-coastal) [`travel`](tags.md#tag-travel)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A cinematic anime-style scene of a young female traveler skateboarding downhill through a colorful coastal hillside town. She rides smoothly down a winding residential road, carrying a green backpack and orange shoulder bag, while the camera follows behind her in a dynamic tracking shot. Below, a breathtaking turquoise ocean stretches along a curved sandy coastline with white waves crashing against the shore. Colorful houses, utility poles, lush greenery, distant mountains, and enormous fluffy clouds fill the landscape. Strong summer sunlight, vivid blue sky, detailed hand-painted anime aesthetic, subtle wind moving her hair and clothes, realistic skateboard motion, smooth camera movement, atmospheric depth, highly detailed background, adventurous peaceful travel mood, cinematic composition, 9:16 vertical, seamless natural motion.
+```
+
+</details>
+
 <a id="seedance-grumpy-toddler-doctor-comedy"></a>
 ### Grumpy toddler doctor examines patient in 3D comedy
 
@@ -3718,6 +3897,25 @@ Flat 2D animation, childish cartoon style, exaggerated anime eyes, chibi charact
 FINAL OUTPUT
 
 20-second cinematic 3D animated short film, 16:9 aspect ratio, 24 fps, high-quality rendering, beautiful original Korean character designs, detailed environments, smooth character animation, realistic cloth simulation, warm autumn lighting, seamless flashback transitions, expressive storytelling, and a deeply nostalgic yet happy romantic atmosphere.
+```
+
+</details>
+
+<a id="seedance-rainy-station-boy-feeds-creature"></a>
+### Boy waits alone at rainy countryside station
+
+<a href="https://x.com/Elvorya/status/2104799320558256490"><img src="../../previews/seedance-rainy-station-boy-feeds-creature.jpg" width="360"></a>
+
+The prompt is a numbered sequence of timed shots, with a named camera move for each cut, which keeps the 15 seconds readable. Repeating the rain, the lantern glow and the wooden bench in each beat anchors the mood and the static framing.
+
+Seedance 2.5 · Text-to-video · Source: [@Elvorya on X](https://x.com/Elvorya/status/2104799320558256490) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`slice-of-life`](tags.md#tag-slice-of-life) [`fantasy`](tags.md#tag-fantasy) [`rain`](tags.md#tag-rain) [`train-station`](tags.md#tag-train-station)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 15-second cinematic fantasy slice-of-life sequence following a young boy waiting alone at a quiet rural railway station on a rainy evening. Begin with a wide establishing shot across multiple wet railway tracks, slowly revealing a small countryside station surrounded by endless green fields, distant mountains, utility poles, and a dark cloudy sky → reveal the young boy standing beneath the station shelter, wearing a bright yellow raincoat, white shorts, and vivid red rain boots, quietly waiting for his train as heavy rain falls around him → transition to a low-angle cinematic close-up of his red rain boots standing beside a shallow rain puddle, with the warm reflection of a small station lantern shimmering across the wet ground → cut to a side profile shot of the boy sitting alone on a wooden railway bench, looking quietly toward the empty tracks while rain falls in the background → transition to a mysterious close-up beneath the wooden bench as a tiny strange green creature wearing an oversized pointed green hat slowly peeks out from the shadows, watching the boy with large curious eyes → cut to a cinematic close-up of the boy's face as he notices the mysterious creature, his expression changing naturally from surprise to gentle curiosity and a warm smile → transition to a detailed close-up of the boy opening a small cloth lunch bag and taking out a piece of bread while sitting on the bench → cut to the tiny green creature watching the food from beneath the bench, cautiously moving closer with innocent curiosity → transition to a medium shot as the boy gently places a piece of bread on the bench for the little creature, creating a quiet emotional connection between them → cut to a wide cinematic shot of the empty railway tracks stretching into the rainy countryside as a distant train headlight slowly appears on the horizon → transition into a dramatic forward tracking shot along the wet railway tracks, the approaching train becoming brighter as rain continues falling and its warm headlights reflect across the rails → cut back to the station as the train arrives and stops beside the platform, its warm interior lights glowing against the cold blue rainy atmosphere → final shot becomes a cinematic medium-wide shot of the young boy stepping into the warmly illuminated train while briefly looking back toward the tiny green creature near the bench, as rain continues falling outside and the train prepares to leave the quiet countryside station
 ```
 
 </details>
@@ -4180,40 +4378,4 @@ No scary elements, no distorted faces, no extra fingers, and no character change
 
 </details>
 
-<a id="seedance-ukiyo-e-tokyo-city-scroll"></a>
-### Woodblock picture scroll unfolds over Edo bridge
-
-<a href="https://x.com/tanabe_fragm/status/2088446104287477944"><img src="../../previews/seedance-ukiyo-e-tokyo-city-scroll.jpg" width="360"></a>
-
-Each time slice gets a single slow camera move and a named transition. A global block fixes the palette, paper texture and forbidden items, and per slice sound cues with no-text rules keep the title for the final beat only.
-
-Seedance 2.5 · Text-to-video · Source: [@tanabe_fragm on X](https://x.com/tanabe_fragm/status/2088446104287477944)
-
-[`ukiyo-e`](tags.md#tag-ukiyo-e) [`scroll`](tags.md#tag-scroll) [`woodblock`](tags.md#tag-woodblock) [`transition`](tags.md#tag-transition)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-[SUMMARY] 15 seconds, 16:9, 24fps. A Japanese emakimono picture scroll unrolls from right to left, the ukiyo-e woodblock city painted on it comes alive, and the film lands on Mount Fuji with a title on the blank paper. Animated woodblock-print style. One single slow leftward drift carries the entire film. [GLOBAL SETUP] Look and texture: 2D animated Japanese ukiyo-e woodblock print. Flat hand-printed color, visible woodgrain, washi paper fibre showing through every surface, thin sumi-ink outlines, gold-leaf cloud bands, Rinpa-school decorative flatness. Keep the ink lines slightly uneven, the way a hand-cut block prints. Palette: washi ivory, indigo ai-iro, vermilion shu-iro, gold kin-iro, golden-yellow yamabuki-iro, pine-green matsu-midori, sumi black. No other colors. The scroll as an object: the ivory washi paper of the scroll, with its dark wooden roller, stays visible at the top and bottom of the frame from 0 to 2.5s and again from 11.5 to 15.0s. Between 2.5 and 11.5s the camera is inside the painting and the paper edges are out of frame. Camera language: exactly one camera move per time slice, always small amplitude at slow speed. The overall direction of travel is leftward for the whole film. Never combine two camera moves in one slice. No handheld shake. Transitions: use zoom-in transition at 2.5s, ink-wash transition at 5.0s, matching-shape transition at 7.5s, and zoom-out transition at 12.5s. No hard cuts anywhere. Nothing appears out of empty space. Keep the camera's breathing in harmony with the length of each slice and leave enough time for each transition to complete. Forbidden throughout: no subtitles, no background music, no photorealism, no 3D rendering, no CG lighting, no video-game look, no modern buildings, no trains, no cars, no power lines, no neon, no Japanese kanji or kana characters anywhere in the frame, no watermark, no logo, no on-screen text at all before 12.5s, no mosaic, no tiling, no puzzle-piece assembly, no rapid cutting. [TIMELINE] 0-2.5s — The scroll opens Scene: A closed emakimono scroll with a dark wooden roller sits at the right edge of an ivory frame. Action: The scroll unrolls leftward and reveals a painted Nihonbashi Bridge. The painted crowd on the bridge starts to move and walks across it. A painted boat slides out from under the bridge and its flat ink outlines ripple into moving water. Camera: slow leftward drift, small amplitude, following the unrolling paper. Sound: paper rustling, a wooden roller turning, then a low market crowd fading in. Not in this slice: no text, no music, no camera shake. 2.5-5.0s — Into the painting: the food street Transition: zoom-in transition. The camera pushes into the painted surface until the paper edges leave the frame and the painting fills the whole screen. Scene: An open-air Edo food street under fluttering vermilion nobori banners. Action: A chef presses a piece of nigiri sushi between his hands and sets it down on a bare wooden board. Steam lifts from a soba pot as a cook draws noodles out of the water. A customer pulls a noren curtain aside and steps in under it. Camera: slow push in, small amplitude, stopping on the sushi board. Sound: a knife tapping wood, oil sizzling, a pot bubbling, cloth brushing. Not in this slice: no text, no music, no modern kitchen equipment. 5.0-7.5s — The river Transition: ink-wash transition. Sumi ink bleeds across the frame like ink dropped in water, and the river scene emerges out of the bleed. Scene: The Sumida River, an arched wooden bridge, rows of low wooden townhouses on the far bank under gold cloud bands. Action: A boatman pushes his pole and the boat glides forward past the bridge. Cherry blossom petals blow across the water from the right. A woman in a patterned kimono standing on the bridge turns her head and looks toward the camera. Camera: slow leftward tracking shot, small amplitude, keeping pace with the boat. Sound: an oar dipping, wood creaking, water lapping, wind through cherry branches. Not in this slice: no text, no music, no motorboats. 7.5-9.5s — Night, lanterns, kabuki Transition: matching-shape transition. A round pink cherry petal drifting in the previous slice matches into a round red paper lantern in this one. Scene: A night street of two-story wooden machiya townhouses under a deep indigo sky. Action: Red paper lanterns light up one after another down both sides of the street. A kabuki theater curtain sways open at the far end and an actor in bold red kumadori face paint strikes a still mie pose. Camera: slow tilt up, small amplitude, from the lanterns to the sky above the rooftops. Sound: wooden kabuki clappers striking twice, geta sandals on plank streets, a low crowd. Not in this slice: no text, no music, no electric light. 9.5-12.5s — Fireworks and the whole city Continuous from the previous slice, the tilt up carries straight into this one. Scene: Golden fireworks open in the indigo sky above the river. Action: Two fireworks bloom and fall in gold and vermilion. The view widens into one grand bird's-eye folding-screen painting of the whole city of Edo across the full width of the frame: dense wooden rooftops, winding canals, arched bridges, boat traffic, a vermilion torii gate, a temple complex, and the tiered white keep of Edo Castle, with gold-leaf cloud bands drifting between the districts. At 11.5s the ivory washi paper edges of the scroll slide back in at the top and bottom, revealing the whole city to be one continuous painting on one scroll. Camera: slow pull out, large amplitude, one single continuous move. Sound: fireworks booming and crackling far away, the crowd noise widening and thinning into open air. Not in this slice: no text, no music, no shattering or reassembling of the image. 12.5-15.0s — Mount Fuji and the title Transition: zoom-out transition completing into the far end of the scroll. Scene: Snow-capped Mount Fuji stands alone on the right against a gold sky. Wide empty ivory washi paper fills the left half of the frame. Action: Cherry blossom petals drift down across the empty paper. The single large word "EDO" fades in on that empty paper in clean pale sumi-black geometric sans-serif capitals. One beat later the smaller line "NOW CALLED TOKYO" fades in directly beneath it. Both lines are English Latin capitals, spelled exactly as written here, centered on the empty paper, sharp and perfectly legible, with no Japanese characters, no extra words and no misspellings. The two lines are static once they appear and are not re-rendered. Camera: the drift comes to rest and holds perfectly still for the last 1.5 seconds. Sound: a single distant temple bell ringing once, then quiet wind. Not in this slice: no music, no additional text, no camera movement after the title appears. [CLOSING CONSTRAINTS] Throughout the whole film: keep the flat ukiyo-e woodblock look, the washi paper fibre, the seven-color palette and the uneven hand-cut ink lines identical from the first frame to the last. Keep every camera move small in amplitude and slow in speed, and keep the overall direction of travel leftward. Keep all transitions soft, with no hard cuts and nothing appearing out of empty space. Throughout the whole film: no subtitles, no background music, no photorealism, no 3D rendering, no modern objects of any kind, no Japanese kanji or kana characters, no watermark and no logo. On-screen text appears only after 12.5s, only the two English lines specified above.
-```
-
-</details>
-
-<a id="veo-camper-and-bear"></a>
-### Stop-motion camper and a bear with a comeback
-
-<a href="https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/media/veo__veo-3__camper.webm"><img src="../../previews/veo-camper-and-bear.jpg" width="360"></a>
-
-The whole prompt is a format label plus two lines of dialogue. Veo fills in the scene.
-
-Veo 3 · Text-to-video · Source: [Veo 3 prompt guide](https://deepmind.google/models/veo/prompt-guide/)
-
-[`stop-motion`](tags.md#tag-stop-motion) [`dialogue`](tags.md#tag-dialogue) [`comedy`](tags.md#tag-comedy)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Camping (Stop Motion): Camper: "I'm one with nature now!" Bear: "Nature would prefer some personal space."
-```
-
-</details>
+**1** · [2](video-anime-2.md)

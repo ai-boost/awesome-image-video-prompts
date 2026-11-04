@@ -1,0 +1,25 @@
+id: seedance-mirror-venice-envelope-run
+title:
+  en: Woman runs past gondolas beneath inverted Venice sky
+  zh: 少女在倒悬威尼斯的镜像天空下奔跑
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- venice
+- surreal
+- mirror-world
+- tracking-shot
+source:
+  name: '@laviniavelle on X'
+  url: https://x.com/laviniavelle/status/2101881835290845251
+  credit: laviniavelle
+  captured: '2026-11-03'
+  posted: '2026-09-21'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/laviniavelle/status/2101881835290845251
+notes:
+  en: The prompt names the subject, costume, prop and location before the effect, so the model has a clear anchor. The 35mm lens, fast tracking shot and golden hour lighting keep the surreal mirror image readable while the character moves.
+  zh: 提示词先写明主体、服装、道具和场景，再描述特效，给模型清晰的锚点。35mm 镜头、快速跟拍和黄金时刻光线让镜像画面在人物运动中依然清晰可读。
+prompt: |
+  A cinematic dynamic action video prompt visual surrealism a young East Asian woman in a classic vintage teal dress holding a yellow envelope running fast through a dreamlike surreal Venice dynamic camera movement upside down reflection of Venice city hanging from the sky creating a mind bending mirror dimension illusion running across Venetian brick alleys climbing M.C Escher style twisting stone staircases leaping over a massive gap with a bright rainbow in the golden hour sky sprinting past a busy outdoor fruit market with red apples falling standing on classic red-tile rooftops at golden sunset, dynamic fast tracking shot cinematic lighting, 8k resolution, ultra-detailed photorealistic shot on 35mm lens, depth of field masterpiece.

@@ -1,0 +1,31 @@
+id: seedance-night-market-pursuit-alley-escape
+title:
+  en: Woman walks through crowded dusk market street
+  zh: 黄昏人群中的女子穿行夜市街道
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- urban-chase
+- night-market
+- handheld
+- photorealistic
+source:
+  name: '@aiwithaly on X'
+  url: https://x.com/aiwithaly/status/2100462425308901480
+  credit: aiwithaly
+  captured: '2026-11-03'
+  posted: '2026-09-17'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/aiwithaly/status/2100462425308901480
+notes:
+  en: The prompt lists the physical beats in order and names specific camera setups (handheld close-ups, low running angles, a locked-off final shot), so the model can cut between them coherently. Limiting the audio to diegetic sources keeps the chase grounded in the scene.
+  zh: 提示词按顺序列出各个动作节拍，并指定手持特写、低角度跟拍和结尾的固定镜头，便于模型在镜头之间连贯切换。音频只限现场声源，使追逐场景更加真实可信。
+prompt: |
+  Create a 30-second ultra-photorealistic live-action urban chase thriller set in a crowded evening street market. A young woman realizes a stranger is following her, accelerates into a run, weaves naturally through pedestrians and food stalls, ducks behind a market stall, then suddenly changes direction and disappears into a narrow alley just before the follower arrives.
+
+  Show realistic human biomechanics, acceleration, momentum, friction, center-of-mass shifts, crowd reactions, fabric and bag physics, realistic object interaction, and natural environmental movement. Use handheld close-ups, over-the-shoulder shots, low running angles, side tracking, a hidden perspective behind the stall, and a tight alley shot with realistic camera inertia and autofocus.
+
+  Use only diegetic sound: footsteps, breathing, crowd chatter, vendors, bicycles, fabric movement, traffic, and echoing alley footsteps. Natural mixed market lighting, realistic shadows, reflections, depth of field, and motion blur. End on a locked-off shot of the empty alley as her footsteps fade away.
+
+  No CGI, animation, superhero movement, impossible parkour, teleportation, unrealistic crowd behavior, distorted anatomy, floating objects, weapons, gore, text, logos, or watermark.

@@ -1,0 +1,37 @@
+id: seedance-holographic-arena-sword-duel
+title:
+  en: Lone fighter in a teal holographic pillar arena
+  zh: 青色全息柱廊竞技场中的孤身战士
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- anime
+- sword-fight
+- arena
+- timed-shots
+source:
+  name: '@Zyrellix on X'
+  url: https://x.com/Zyrellix/status/2099736869437313431
+  credit: Zyrellix
+  captured: '2026-11-03'
+  posted: '2026-09-15'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Zyrellix/status/2099736869437313431
+notes:
+  en: Each time window sets one shot with its own camera move, such as a low angle, close up or overhead crane, so the prompt reads as a shot list. Both fighters keep fixed visual anchors such as hair colour, helmet, outfit and weapon glow for the model to hold across cuts.
+  zh: 每个时间段都写明一个镜头和运镜，例如低角度、特写或俯拍升降镜，让提示词像分镜表一样可执行。两位角色都给出固定的视觉标记，如发色、头盔、服装和武器光效，便于模型在切换镜头时保持形象一致。
+prompt: |
+  Cinematic high-end 3D anime action, 30 seconds, 24fps, ultra sharp, no watermark, no logo, no text overlay.Two fighters in a vast teal holographic arena: glowing grid floor, fog, tall white marble pillars, a single vertical cyan light beam in the center.Girl: silver-lavender hair with a pink bow, fierce cute face, white tech sports outfit with a small cat graphic and teal trim, white cyber boots with pink/cyan lights. She dual-wields a massive white greatsword with glowing cyan circuit lines.Opponent: fox-eared white-and-gold cracked helmet with one glowing red eye, long black-and-white hair, green varsity jacket over a white crop top, brown plaid mini skirt, white mechanical legs, jet thrusters on the boots. She fights with a flaming gold katana.
+
+  0–4s: low-angle start. Girl charges across the wet teal grid, sword huge in foreground, cyan foot trails. They clash — cyan blade vs gold fire katana, sparks and orange embers.
+
+  4–8s: close-up lock. Blades grind, helmet visor cracks, cyan targeting grid flashes across both faces. Girl snarls. Opponent jet-jumps overhead, spinning with a flaming slash.
+
+  8–14s: they leap onto two facing marble pillars, then sprint and kick off the same giant white pillar mid-air. Speed-line camera. They land on one cube platform and trade brutal punches and sword hits, motion blur, sparks.
+
+  14–20s: both drop and sprint low toward camera, blades dragging the floor, a bright spark line between them. Smash cut to mid-air chase around the cyan beam — girl running with the long sword, opponent flipping above with the katana.
+
+  20–25s: brief monochrome flash, then they race side by side through rain-streak motion. High kick from the girl hits the helmet in a gold-white burst. Wide shot: both stand on opposite glowing rings, weapons raised, gold sparkles falling.
+
+  25–30s ENDING (same as original): overhead crane shot as they dash into the center. Floor cracks like glass. Extreme close clash — cyan vs gold, shards flying, visor splitting. White-out flash. Arena explodes outward: marble cubes, teal glass, smoke and a huge gold-white blast filling the frame. No logo. Hold the explosion.

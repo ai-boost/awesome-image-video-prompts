@@ -1,0 +1,41 @@
+id: seedance-snowy-morning-campus-vlog
+title:
+  en: Woman vlogs a sudden snowy morning walk to campus
+  zh: 女生用手机记录突如其来的雪天上学路
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- vlog
+- snow
+- winter
+- smartphone
+source:
+  name: '@nawalsehar on X'
+  url: https://x.com/nawalsehar/status/2107345257495138416
+  credit: nawalsehar
+  captured: '2026-11-03'
+  posted: '2026-10-06'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/nawalsehar/status/2107345257495138416
+notes:
+  en: Locks one character, wardrobe and backpack with explicit identity lines, and makes the phone footage read as real with named imperfections such as hand shake, autofocus breathing and rolling shutter. The 30 second runtime, 24fps and a listed set of diegetic sounds give the clip a clear structure and a grounded audio track.
+  zh: 用明确的人物身份句锁定同一个人、服装和背包，并通过手抖、自动对焦呼吸、卷帘快门等具名瑕疵让手机画面更真实。写明 30 秒时长、24fps 以及逐项列出的现场声音，让片段结构清楚，音轨也更贴近real场景。
+prompt: |
+  Create an exactly 30-second, 16:9, 24fps, 4K ultra-photorealistic live-action university vlog following the same European brunette woman in her mid-20s through an unexpected snowy morning.
+
+  She wakes expecting rain, opens the curtains, and discovers the entire city covered in heavy fresh snow. She quickly dresses in a cream thermal sweater, dark jeans, charcoal coat, beige scarf, gloves, boots and dark university backpack. She prepares hot chocolate, takes a quick sip, then steps outside into the snowfall.
+
+  Show realistic snow compression and footprints, visible breath, steam from the hot chocolate, natural wind movement in her hair and scarf, backpack inertia, careful walking on slippery snow, realistic slush and traffic, and snow naturally accumulating on cars, trees, buildings and clothing.
+
+  She walks through the snow-covered city while filming herself with an authentic handheld smartphone. Include natural side-tracking and environmental angles showing snowy streets, cafés, pedestrians, cars and the university campus. She arrives at university, enters the warm hallway and quietly says:
+
+  “Okay… this is actually the best morning ever.”
+
+  Cut naturally to black at exactly 30 seconds.
+
+  Use authentic smartphone imperfections: subtle hand shake, autofocus breathing, exposure adjustment, rolling-shutter artifacts, realistic motion blur and imperfect framing. Maintain identical face, hair, body proportions, wardrobe and backpack throughout.
+
+  Natural diegetic audio only: alarm, bedsheets, curtains, clothing, milk pouring, spoon, mug, steam, door, wind, snow crunch, traffic, slush, footsteps and university ambience. No music or narration.
+
+  Negative prompt: CGI appearance, animation, fantasy snow, glowing snow, impossible physics, floating objects, teleportation, weather changes, unrealistic sliding, distorted hands, extra fingers, face drift, body distortion, wardrobe changes, duplicated people or objects, fake snow particles, impossible reflections, excessive slow motion, subtitles, captions, logos, watermark, background music.

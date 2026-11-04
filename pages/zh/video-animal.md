@@ -1,6 +1,274 @@
 # 动物与萌宠
 
-[返回目录](../../README_zh.md) · 全部 26 条
+[返回目录](../../README_zh.md) · 全部 30 条
+
+<a id="h3-tom-jerry-mac-desktop-icon-chaos"></a>
+### 汤姆一个个把掉落的桌面图标放回原位
+
+<a href="https://x.com/Strength04_X/status/2101913634293297466"><img src="../../previews/h3-tom-jerry-mac-desktop-icon-chaos.jpg" width="360"></a>
+
+提示词把参考桌面锁定为精确首帧，并列出所有保持不动的元素，因此只有三个图标移动。固定镜头、按时间分段的节拍表以及逐个图标的拾取步骤，让物理动作保持顺序，也避免图标瞬移。
+
+MiniMax H3 · 图生视频 · 出处: [@Strength04_X on X](https://x.com/Strength04_X/status/2101913634293297466) · 5,984 赞，统计于 2026-11-03
+
+[`tom-and-jerry`](tags.md#tag-tom-and-jerry) [`macos`](tags.md#tag-macos) [`cartoon`](tags.md#tag-cartoon) [`reference-image`](tags.md#tag-reference-image)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Video Prompt : Create a 10-second horizontal 16:9 video using the provided Tom and Jerry macOS desktop image as the EXACT first frame and visual reference.
+
+IMPORTANT:
+
+Preserve the reference desktop exactly as shown, including the warm sunset living room, wooden floor, sofa, window, books, popcorn box, scattered popcorn, macOS menu bar, left-side application grid, bottom Dock, and all desktop elements.
+
+Keep Tom and Jerry's exact recognizable classic cartoon appearance, proportions, colors, facial features, expressions, poses, and original 2D animation style. Do not redesign, modernize, photorealize, or change their visual style.
+
+Begin with Tom running dramatically toward Jerry on the RIGHT side while Jerry runs away carrying a piece of cheese.
+
+CAMERA:
+
+Static front-facing camera.
+One continuous shot.
+No camera movement.
+No zoom.
+No pan.
+No cuts.
+
+TIMELINE:
+
+0–1.5s:
+Tom continues chasing Jerry across the living-room floor.
+
+Tom looks determined and slightly frustrated.
+Jerry runs quickly toward the RIGHT while holding the cheese.
+Jerry looks back at Tom with a mischievous smile.
+
+Tom's arms, legs, ears, tail, and facial expression move naturally with exaggerated classic cartoon animation.
+
+1.5–2.5s:
+Jerry suddenly changes direction and runs toward the LEFT.
+
+Tom reacts dramatically and tries to stop himself.
+
+Tom's feet slide across the wooden floor and he accidentally kicks the scattered popcorn forward.
+
+A sudden exaggerated cartoon air movement travels toward the LEFT side of the desktop.
+
+The air movement accidentally knocks THREE desktop icons loose:
+
+Gmail
+Discord
+Microsoft Teams
+
+The three icons physically leave their original positions in the RIGHTMOST desktop-icon column.
+
+They rotate separately through the air and fall into the open desktop area above the Dock near the center-left.
+
+Each icon lands separately with a small bounce.
+
+Their original grid positions are now visibly empty.
+
+2.5–3.2s:
+Tom freezes after realizing what happened.
+
+His eyes widen.
+
+Jerry also stops for a moment and looks at the fallen icons.
+
+Tom slowly looks toward the viewer with an embarrassed expression.
+
+Jerry looks at Tom mischievously as if amused by the situation.
+
+Tom immediately decides to fix the problem.
+
+3.2–7.8s:
+Tom restores the three fallen icons ONE AT A TIME.
+
+FIRST — Gmail:
+
+Tom carefully reaches toward the fallen Gmail icon.
+
+He picks up Gmail individually with one paw.
+
+The icon must visibly leave the desktop surface.
+
+Tom carries Gmail across the desktop toward its original empty position.
+
+He carefully places Gmail back into its exact original location.
+
+The Gmail logo and label remain unchanged.
+
+A soft click is heard.
+
+Only after Gmail is completely restored does Tom reach for the next icon.
+
+SECOND — Discord:
+
+Tom reaches down and individually picks up the fallen Discord icon.
+
+He carries Discord toward its original empty position.
+
+He carefully presses it back into the correct grid position.
+
+A second gentle click is heard.
+
+Jerry watches Tom while standing nearby with the cheese.
+
+THIRD — Microsoft Teams:
+
+Tom reaches down once more.
+
+He picks up Microsoft Teams individually.
+
+He carries it back to its original position.
+
+He carefully releases it into the empty grid position.
+
+A third gentle click is heard.
+
+Show all three separate pickup-and-replace actions clearly.
+
+IMPORTANT PHYSICAL ACTION RULES:
+
+Every moving icon must visibly:
+
+leave its original position
+fall through the air
+land on the desktop
+be physically picked up
+be carried by Tom
+be placed back into its original position
+
+Do NOT:
+- restore icons automatically
+- teleport icons
+- make icons snap back from a distance
+- move multiple icons simultaneously
+- scoop multiple icons together
+- stack icons
+- duplicate icons
+- morph logos
+- change labels
+
+Tom must restore Gmail, Discord, and Microsoft Teams separately.
+
+His paws must remain anatomically consistent with the original cartoon style.
+
+No extra paws.
+No extra fingers.
+No stretched limbs.
+No distorted characters.
+
+Jerry remains nearby and reacts naturally while Tom fixes the desktop.
+
+7.8–10s:
+After placing Microsoft Teams back into position, Tom quickly returns to the RIGHT side.
+
+Jerry runs a short distance away while still holding the cheese.
+
+Tom straightens himself and tries to regain his dignity.
+
+He looks toward the restored icons.
+
+Then he looks directly at the viewer with an innocent, slightly embarrassed expression.
+
+Jerry briefly looks back at Tom with a mischievous smile.
+
+Tom pretends nothing happened.
+
+Hold the final pose for the remaining moment.
+
+The final desktop must closely match the original first frame.
+
+DESKTOP PRESERVATION:
+
+Only Gmail, Discord, and Microsoft Teams are allowed to move.
+
+Everything else must remain completely stationary:
+
+Chrome
+Safari
+YouTube
+Spotify
+Slack
+Zoom
+Notion
+Microsoft Word
+Microsoft Excel
+Instagram
+Reddit
+Netflix
+Steam
+Dropbox
+Google Drive
+
+The macOS menu bar must remain stationary.
+
+The Dock must remain stationary.
+
+The wallpaper and all furniture must remain stationary.
+
+Do not change application logos or labels.
+
+Do not duplicate any icons.
+
+AUDIO:
+
+Light playful cartoon piano and pizzicato music.
+
+Fast playful rhythm during Tom's chase.
+
+A short cartoon sliding sound when Tom loses balance.
+
+A brief airy whoosh as the three icons are knocked loose.
+
+Three soft landing sounds as the icons fall.
+
+Three distinct gentle clicks as Tom restores Gmail, Discord, and Microsoft Teams.
+
+Music briefly pauses during Tom's shocked reaction, then resumes with a playful rhythm.
+
+No dialogue.
+No subtitles.
+No text overlays.
+
+VISUAL QUALITY:
+
+Premium cinematic cartoon animation integrated into the existing macOS desktop.
+
+Keep Tom and Jerry clearly 2D while maintaining the cinematic lighting of the environment.
+
+Natural squash-and-stretch animation.
+Smooth character motion.
+Clean cartoon outlines.
+Consistent colors.
+Natural shadows.
+Subtle floor reflections.
+Realistic interaction with the environment.
+
+FINAL FRAME:
+
+All three icons must be restored to their exact original positions.
+
+Tom and Jerry remain on the RIGHT side.
+
+Tom looks embarrassed but tries to appear innocent.
+
+Jerry remains mischievous.
+
+No missing icons.
+No duplicate icons.
+No changed logos.
+No extra characters.
+No extra objects.
+No camera movement.
+No cuts.
+
+The final frame should closely match the original reference image.
+```
+
+</details>
 
 <a id="kling-eagle-pov-steppe-flight"></a>
 ### 金雕视角飞越山谷与河流
@@ -589,6 +857,57 @@ Overall feeling: cheerful, wholesome, education
 
 </details>
 
+<a id="seedance-bunnies-sofa-kiss-hug"></a>
+### 两只毛茸茸的小兔子在沙发上亲吻
+
+<a href="https://x.com/Zarnab_with_Ai/status/2098728793703899603"><img src="../../previews/seedance-bunnies-sofa-kiss-hug.jpg" width="360"></a>
+
+提示词按标注分段组织（角色、场景动作、镜头、光线、动作、情绪），并重复写明每只兔子的服饰细节，使两只兔子形象保持一致。镜头从中景双人镜头缓慢推近，亲吻和拥抱时切到更近的景别，让情绪节奏清晰。
+
+Seedance 2.5 · 文生视频 · 出处: [@Zarnab_with_Ai on X](https://x.com/Zarnab_with_Ai/status/2098728793703899603) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`bunny`](tags.md#tag-bunny) [`3d-animation`](tags.md#tag-3d-animation) [`romance`](tags.md#tag-romance) [`wholesome`](tags.md#tag-wholesome)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a cute, heartwarming 9:16 vertical animated video featuring two adorable anthropomorphic baby bunnies sitting side by side on a cozy beige sofa in a warm, elegant living room.
+
+CHARACTERS:
+A fluffy cream-colored bunny wearing a simple blue T-shirt and a small gold necklace with a bunny-shaped pendant.
+A fluffy pastel-pink bunny wearing a delicate gold necklace and a cute pink bow on her head.
+Both bunnies have large expressive brown eyes, soft fluffy fur, tiny noses, chubby cheeks with a natural rosy blush, and charming childlike expressions.
+
+SCENE & ACTION:
+Start with both bunnies sitting on separate sofa cushions, facing each other and exchanging sweet, slightly shy glances. Their expressions gradually become playful and affectionate.
+
+The cream bunny leans closer toward the pink bunny. The pink bunny also moves closer until their noses gently touch, followed by a sweet little kiss. They briefly close their eyes and smile affectionately.
+
+Then show them becoming extra fluffy and excited, with their fur puffing up softly in a cute exaggerated animation. They remain close together, eyes closed, enjoying the affectionate moment.
+
+End with both bunnies happily hugging each other tightly on the sofa, laughing with their eyes closed and mouths open in pure joy. Their little paws wrap around each other naturally, creating a warm, adorable friendship/romantic moment.
+
+VISUAL STYLE:
+Ultra-cute high-end 3D animated film style, soft realistic fluffy fur, detailed facial expressions, expressive eyes, smooth natural character animation, soft rounded anatomy, cinematic depth of field, warm cozy interior, gentle golden lighting, premium Pixar-like quality without copying any specific existing character.
+
+CAMERA:
+Vertical 9:16 composition. Medium two-shot at first, followed by a gentle slow push-in as they move closer. Use subtle camera movement and close-up framing during the kiss and final hug. Keep both characters centered and clearly visible.
+
+LIGHTING & ATMOSPHERE:
+Warm, soft indoor lighting with cozy beige and wooden tones. Elegant home interior in the background with a wooden cabinet, plants, and soft decor. Shallow depth of field, creamy bokeh, soft shadows, polished cinematic rendering.
+
+MOTION:
+Smooth, natural, playful animation with believable bunny movements, subtle ear movements, blinking, facial expressions, gentle body movement, and realistic fluffy fur physics. No sudden camera cuts.
+
+MOOD:
+Sweet, innocent, playful, adorable, affectionate, wholesome and heartwarming.
+
+HIGH QUALITY:
+Photorealistic fur detail combined with stylized 3D animation, cinematic composition, high detail, soft textures, clean rendering, natural motion, professional animated-film quality.
+```
+
+</details>
+
 <a id="seedance-cat-day-in-the-life-selfie-vlog"></a>
 ### 橘猫自拍记录一整天的日常 vlog
 
@@ -723,6 +1042,45 @@ The finished video should feel like a realistic, cozy smartphone vlog from a cat
 
 </details>
 
+<a id="seedance-cream-bunny-gingham-portrait"></a>
+### 奶油色小兔子戴粉色格纹头巾
+
+<a href="https://x.com/Zarnab_with_Ai/status/2099809558894112907"><img src="../../previews/seedance-cream-bunny-gingham-portrait.jpg" width="360"></a>
+
+提示词先详细描述角色外观，再按顺序列出表情动作，从而保持角色一致。固定的近景镜头和结尾的避免项列表让画面稳定，面部不变形。
+
+Seedance 2.5 · 文生视频 · 出处: [@Zarnab_with_Ai on X](https://x.com/Zarnab_with_Ai/status/2099809558894112907) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`3d-animation`](tags.md#tag-3d-animation) [`cute-animal`](tags.md#tag-cute-animal) [`portrait`](tags.md#tag-portrait) [`pixar-style`](tags.md#tag-pixar-style)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a cute, heartwarming, ultra-realistic 3D animated video of an adorable fluffy cream-colored baby bunny with huge glossy brown eyes, long soft ears, rosy cheeks, tiny pink nose, and delicate eyelashes.
+
+The bunny wears a soft pink gingham headband with long bunny ears and a matching pink-and-white checkered scarf tied into a cute bow around its neck.
+
+The scene is bright, cheerful, and whimsical, set outdoors beneath a vivid blue sky filled with soft fluffy white clouds. Use a close-up portrait composition with the bunny centered in the frame, looking directly into the camera.
+
+The bunny makes natural, playful facial expressions throughout the video: gently tilting its head from side to side, blinking, winking, opening its mouth in a cute surprised expression, smiling brightly, and giggling happily with its eyes partially closed. Toward the end, the bunny raises its tiny paws near its chest and gives an irresistibly adorable happy expression.
+
+Use subtle, smooth character animation with realistic fur movement, expressive eyes, soft facial motion, and natural ear movement. Keep the character consistent throughout the entire video.
+
+Style: high-end cinematic 3D animation, ultra-detailed soft fur, adorable Disney/Pixar-inspired charm, realistic lighting, soft depth of field, vibrant colors, polished textures, cute fantasy atmosphere.
+
+Camera: static close-up portrait shot, slight natural camera movement, centered composition, vertical 9:16 format.
+
+Lighting: bright natural daylight, soft warm highlights, gentle shadows, clean and vibrant outdoor illumination.
+
+Mood: joyful, innocent, playful, wholesome, cute, and heartwarming.
+
+Duration: approximately 10 seconds.
+
+Avoid text, subtitles, logos, watermarks, distorted facial features, extra limbs, unnatural movements, flickering, or changes in character appearance.
+```
+
+</details>
+
 <a id="seedance-deep-sea-animal-orchestra"></a>
 ### 深海动物管弦乐团在海底演出
 
@@ -803,6 +1161,47 @@ Create a 30-second ultra-realistic viral dance video featuring five adorable ani
 VISUAL QUALITY: Photorealistic fur detail, realistic feline anatomy, consistent animal identities, smooth coordinated movements, stable environment, cinematic wide-angle camera, reflective floor, bright futuristic LED lighting.
 
 STRICT RULES: Keep exactly five animals throughout the video. Do not change their fur colors or identities. No humans, no clothing, no extra animals, no deformed paws, no duplicated bodies, no morphing, no sudden teleportation, no cartoon or CGI appearance, no text, no logos, and no watermark. All movements must flow naturally from one dance sequence to the next.
+```
+
+</details>
+
+<a id="seedance-hamster-peeks-doorway-rose"></a>
+### 戴粉色蝴蝶结的仓鼠从门后探头
+
+<a href="https://x.com/Zarnab_with_Ai/status/2101493389115953586"><img src="../../previews/seedance-hamster-peeks-doorway-rose.jpg" width="360"></a>
+
+按场景分段描述动作，并固定角色外观（毛色、蝴蝶结、耳机、挂牌），让仓鼠在各镜头中保持一致。镜头、光线和动作单独成段，结尾用负面列表排除文字、水印和重复物体。
+
+Seedance 2.5 · 文生视频 · 出处: [@Zarnab_with_Ai on X](https://x.com/Zarnab_with_Ai/status/2101493389115953586) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`hamster`](tags.md#tag-hamster) [`3d-animation`](tags.md#tag-3d-animation) [`vertical-video`](tags.md#tag-vertical-video) [`romance`](tags.md#tag-romance)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a cute, heartwarming, ultra-realistic 3D animated vertical video of a tiny fluffy golden-and-white hamster in a cozy warmly lit home interior.
+
+The hamster has extremely soft plush fur, huge glossy black eyes, rosy pink cheeks, a tiny pink nose, and an adorable innocent expression. It wears oversized pale-pink headphones, a large pink polka-dot bow on its head, and a delicate pink ribbon necklace with a tiny hanging name tag.
+
+Scene 1: The hamster slowly peeks from behind a white doorway, shyly looking toward the camera. It carefully steps out onto a polished warm wooden floor while maintaining eye contact with the viewer.
+
+Scene 2: The hamster walks forward toward the camera with tiny adorable steps and stops in the center of the room. Its ears and bow move naturally with each step. The background features a cozy wooden bookshelf, a warm table lamp, soft beige walls, and beautiful golden ambient lighting.
+
+Scene 3: The hamster looks directly into the camera with a sweet, innocent expression. After a brief moment, it gently reaches down and picks up a single beautiful red rose with its tiny paws.
+
+Scene 4: Holding the red rose in front of its body, the hamster smiles warmly at the camera. Its cheeks become slightly rosier, and it looks shy and affectionate.
+
+Final shot: The hamster closes its eyes with a big adorable smile while holding the red rose close to its chest. The moment feels wholesome, romantic, cute, and heartwarming.
+
+Camera: vertical 9:16, low eye-level camera angle, smooth slow camera movement, gentle push-in toward the hamster, shallow depth of field, cinematic framing.
+
+Lighting: warm golden indoor lighting, soft natural shadows, cozy evening atmosphere, subtle highlights on the hamster's fur.
+
+Style: ultra-realistic cute 3D character animation, highly detailed fluffy fur, realistic facial expressions, soft cinematic rendering, polished wooden floor reflections, realistic object movement, adorable emotional storytelling, premium animated-film quality.
+
+Motion: natural tiny paw movements, subtle head movements, realistic blinking, gentle breathing, soft ear and bow movement, smooth walking animation, believable interaction with the rose.
+
+No text, no subtitles, no watermark, no extra characters, no distorted anatomy, no duplicated objects.
 ```
 
 </details>

@@ -1,0 +1,35 @@
+id: seedance-infected-night-train-livestream
+title:
+  en: Livestream on an infected night train found footage
+  zh: 夜班列车感染者直播实录
+model: Seedance 2.5
+mode: reference-to-video
+category: action
+tags:
+- horror
+- found-footage
+- livestream
+- zombie
+source:
+  name: '@doctorwasif on X'
+  url: https://x.com/doctorwasif/status/2098639106712784933
+  credit: doctorwasif
+  captured: '2026-11-03'
+  posted: '2026-09-12'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/doctorwasif/status/2098639106712784933
+notes:
+  en: Locks the lead to a reference image and frames the whole clip as a phone livestream, so fisheye distortion, battery and timestamp overlays and dropped-frame glitches carry the found footage look. Timed beats with a clear cut at each step give the model firm transition points, and the ending freezes on a final glitch.
+  zh: 用参考图锁定主角，并把整段设定为手机直播视角，让鱼眼畸变、电量与时间戳叠层和掉帧故障感共同营造实拍录像质感。按秒划分的分段节拍为模型提供清晰的转场点，结尾以一次故障画面定格收束。
+prompt: |
+  0–4s: Character A, matching the reference image, livestreams herself on a dark night train. Handheld fisheye distortion, shaky framing, timestamp/battery/signal icons visible. She casually pans across passengers before noticing one coughing violently.
+
+  4–8s: She whip-pans toward him—pale, sweating, visibly sick. Lights flicker and blackout. Her phone flashlight snaps on, revealing him convulsing. Glitching, dropped frames, exposure shifts, and nervous breathing intensify the found-footage feel.
+
+  8–13s: Flashlight reveals bloodshot eyes and dark veins spreading across his neck. He suddenly lunges at another passenger. The camera whips away, cracks/glitches, drops to the floor, then catches the newly bitten passenger convulsing and turning with clouded eyes before lunging again.
+
+  13–18s: Chaos erupts. Passengers scramble through the train. @Character A runs down the aisle and escapes through the connecting door with survivors. They barricade it as infected hands claw through the gap and pounding shakes the door.
+
+  18–24s: Phone battery drops dangerously low. She briefly films her terrified, sweaty face, then turns back to the violently shaking door. Survivors huddle together under the phone's harsh flashlight while impacts continue.
+
+  24–30s: The pounding suddenly stops. Eerie silence. She slowly films the exhausted survivors. The timestamp keeps ticking, signal drops to zero, and the livestream freezes on her frightened face with a final glitch—raw, unresolved found-footage ending.

@@ -1,6 +1,6 @@
 # 动作、追逐与运动
 
-[返回目录](../../README_zh.md) · 全部 175 条 · **1** · [2](video-action-2.md) · [3](video-action-3.md)
+[返回目录](../../README_zh.md) · 全部 210 条 · **1** · [2](video-action-2.md) · [3](video-action-3.md)
 
 <a id="seedance-seoul-subway-revenge"></a>
 ### 首尔地铁站复仇喜剧
@@ -287,6 +287,113 @@ Create a fast, character-driven AAA game-trailer score tightly synced to the edi
 
 </details>
 
+<a id="seedance-ostrich-palm-frond-flight-attempts"></a>
+### 一只翅膀绑着棕榈叶的鸵鸟冲下山脊
+
+<a href="https://x.com/abxxai/status/2100239390266348014"><img src="../../previews/seedance-ostrich-palm-frond-flight-attempts.jpg" width="360"></a>
+
+用角色设定图和场景设定图锁定造型与地点，并在固定时间点设置硬切。每个动作都写明时间码和镜头焦段变化，让坠落和台词节奏清晰可读。
+
+Seedance 2.5 · 参考生视频 · 出处: [@abxxai on X](https://x.com/abxxai/status/2100239390266348014) · 1,074 赞，统计于 2026-11-03
+
+[`3d-animation`](tags.md#tag-3d-animation) [`comedy`](tags.md#tag-comedy) [`multishot`](tags.md#tag-multishot)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+SCENE CONTEXT
+On Skyfall Ridge, a young ostrich with two large green palm fronds lashed to his wings tries three times to fly, launching from three different heights up the same mountain. Every attempt ends with him falling away from the mountain into the deep jungle canopy far below, never back onto the track he ran along. Bright midday, comedy timing with a tender final beat. 15 seconds.
+
+ACTIVE REFERENCES
+
+@ollie
+ (character sheet, loaded second): young adult stylized ostrich, roughly 120 cm tall. Cream and light sand neck and head, dark chocolate and mid brown body plumage with pale cream wing tips, salmon peach beak and long salmon peach legs with three toed feet, olive green iris in very large white sclera eyes, thick expressive brow ridges, long lashes, loose crown tuft. Goofy, hopeful, overconfident, endlessly determined. 100% matches the reference, identical every frame, no morphing, no drift.
+
+@ridge
+ (location sheet, loaded first): a tall narrow three tier mountain ridge. An orange brown dirt run up track climbs its spine past a low stone ledge eight meters above the treetops, up to a mid outcrop sixty meters above the canopy, up to a high peak spire at the very top. Sheer drops on every side into deep green jungle canopy with a river ribbon and mist between the trunks. Tall grey fractured rock spires stand in open air beyond the ridge, one broad and flat faced. Deep blue sky, big white cumulus at peak height. STYLE REFERENCE ONLY, model extends the world freely, never reproduced 1:1.
+
+LOCATION MAP
+Foreground: the orange brown dirt run up with loose pebbles, grass and fern fronds brushing the lower frame. Midground: the three launch points climbing the ridge spine, low ledge, mid outcrop, high peak, each one ending in open air. Background: deep jungle canopy hundreds of meters below with a river ribbon and mist caught between the crowns, and the flat faced rock spire standing in open air along the flight line from the high peak. Canopy haze 25 percent building to 40 percent at the valley floor. Camera works from the outer air side of the ridge so the drop is always readable in frame, operator axis looking back toward the mountain.
+
+SCALE LOCK
+
+@ollie
+ stands about two thirds the height of an adult human. The low ledge sits about four times his height above the treetops. The mid outcrop sits about thirty times his height above the canopy. The high peak sits so far above the valley that individual trees below read as small green dots. The flat faced rock spire rises roughly six times his height.
+
+FIRST FRAME / BLOCKING
+Non-empty opening frame:
+@ollie
+ is already at full sprint in the lower left third, seen from a low travelling angle along the dirt run up, legs scissoring, neck lanced forward, the two green palm fronds strapped to his wings held wide and trembling in the airflow, dust kicking behind his heels. The low stone ledge and the empty sky beyond it fill the right two thirds of frame, with treetops visible far below the lip. Rule of thirds, bird on the left third, the drop on the right. Nothing is frozen.
+
+FORMAT MODE
+Timed multishot, exactly TWO HARD CUTS, at 0:04.0 and at 0:08.5. Cuts only at these points, the camera does not cut on its own.
+
+OPTICS
+SHOT 1 (0:00 to 0:04.0): wide at 84 degree FOV for the run, easing to 63 degree as he leaves the ledge, no drift mid-segment.
+SHOT 2 (0:04.0 to 0:08.5): opens wide at 63 degree FOV for the climb and launch, holds 63 degree through the short glide, pushes to 47 degree for the stall and the fall into the trees.
+SHOT 3 (0:08.5 to 0:15.0): opens wide at 84 degree FOV for the peak launch, settles to 47 degree tracking the long glide, pushes to 29 degree for the shouted line at 0:12.3, snaps to 18 degree for the rock impact at 0:13.6, holds 18 degree on the final close-up.
+Rectilinear prime lens character, 180 degree shutter motion blur, deep focus in the wides, shallow separation on the close-ups.
+
+CAMERA
+Shot 1: the camera is moving from the first frame, a low travelling dolly running alongside him at knee height and at his exact speed, then as he leaves the ledge it swings out past the lip into open air and cranes downward with him, keeping the treetops below in frame so the fall reads as a real drop away from the mountain. Shot 2: camera climbs with him along the ridge on a rising dolly, holds as he launches off the mid outcrop, floats out beside him through the short glide, then tilts and follows him down as he drops into the canopy, ending looking down at the broken treetops. Shot 3: tracking dolly through the peak run up, leaving the mountain with him and flying at wing height off his right flank through the long glide with the valley sliding far below, easing in for the shout, then whipping around to plant dead on the flat face of the rock spire from a slight low frontal angle so the impact reads straight toward the lens, then dropping to ground level in the forest below for the final close-up. The camera is never locked off in any shot. Wide tonal latitude, soft highlight roll-off.
+
+ACTION
+0.0s to 1.6s.
+@ollie
+ sprints up the dirt run up at 40 km per hour toward the low stone ledge, the palm fronds on his wings flapping in loose useless bursts, chin high, eyes bright with certainty.
+1.6s. He hits the lip of the low ledge and leaps out over the edge, fronds thrown wide, chest out, both feet leaving the mountain.
+1.6s to 2.3s. He hangs over open air with zero lift. The certainty drains out of his face in stages, brow first, then the eyes widening, then the beak going slack as he looks down and sees treetops instead of ground.
+2.3s to 3.2s. He drops straight down away from the ridge, legs cycling, fronds fluttering uselessly above him, and crashes through the upper branches of the canopy below, leaves and twigs exploding outward, a startled cloud of small birds bursting from the tree crowns.
+3.2s to 4.0s. He is left hanging upside down in a fork of branches, dazed, one frond bent over his face, a single leaf drifting down past him. He blinks, then his eyes narrow with fresh determination.
+4.0s HARD CUT
+4.0s to 5.4s. He sprints up the next section of the ridge track, higher now, the drop on both sides steeper, fronds beating with real purpose, dust trailing behind him, eyes locked on the mid outcrop ahead.
+5.4s. He launches off the tip of the mid outcrop, legs still cycling through empty air before tucking back.
+5.4s to 6.8s. The fronds catch and he actually lifts, rising two meters and gliding out away from the mountain over a huge drop. His eyes go enormous with disbelief, then crinkle into a wide open beaked grin, and he gives one small triumphant flap.
+6.8s. The lift dies. The fronds go limp, he stalls, and his face collapses from joy to pure alarm in three frames.
+6.8s to 8.5s. He tumbles end over end down through open air, far from the ridge, and punches into the deep canopy much further below, snapping through two layers of branches, leaves spraying out, until he thumps onto the shadowed forest floor flat on his back with his legs still cycling in the air.
+8.5s HARD CUT
+8.5s to 10.2s. He rolls upright in the forest gloom, shakes his whole body so the dirt and leaves fly off in a cloud, re-seats both fronds with a determined tug, and sprints all the way up the ridge track to the high peak spire, the run up reading as long and steep, dust plume stretching far behind him.
+10.2s. He launches off the high peak in one enormous committed leap, fronds thrown to full span, the valley an immense drop beneath him.
+10.2s to 12.3s. This time it holds. He soars out across the open sky in a long steady glide, gaining altitude, neck feathers streaming back, clouds passing at his level, the canopy sliding far below, eyes shining and wet with pure disbelieving joy.
+12.3s to 13.4s. He throws his head back mid glide, beak wide, whole chest lifting, and shouts.
+13.6s. His focus snaps forward. He spots the flat faced rock spire dead ahead in his flight path, pupils pinning to dots, brows shooting up, fronds flailing as he tries to bank away.
+13.6s to 14.2s. He cannot correct in time and slams face first into the near face of the rock spire, feathers puffing on impact, fronds splaying flat against the stone, body compressing then peeling away.
+14.2s to 15.0s. He slides down the rock face and lands face down on the forest floor at its base, wings splayed, neck stretched straight forward, cheek and open beak pressed into the dirt, dappled light falling through the canopy onto him. One torn green leaf lies stuck across the top of his beak. His eyes are half lidded and glazed. At 14.6s his gaze flicks up toward the sky far above the trees, holds one beat of quiet longing, and then he blinks slowly once and a tiny hopeful spark comes back into his eye as the frame ends.
+
+PERFORMANCE
+Feather level detail throughout: individual barbs catching sun along the wing and frond edges, downy neck fluff lifting and settling with every head turn, long lashes visible in the close-ups, wet living eyes with sharp catch lights, visible chest rise between breaths. Every fall is sold through the face in sequence, hope first, then the widening, then the collapse, with the added beat of him looking DOWN and realising there is nothing under him. The joy in shot 3 is played big and honest, eyes glassy and mouth wide, so the impact lands harder. The final beat is played small and restrained, no cartoon stars, no exaggerated groan, just a dazed half lidded look, one glance up at the sky, and a single slow blink that carries the whole feeling. Broad readable cartoon acting with real weight and real heart behind it.
+
+PHYSICS
+Mass and inertia carry through every stride, leap, glide and fall. Legs compress under load on each footfall and the body dips with it. Each fall accelerates under gravity with real terminal build, never a soft float. Branches bend, snap and spring back as he passes through them, leaves and twigs spraying outward with correct scatter. Dust behaves as fine dry particulate on the track, bursting on impact and settling slowly. Correct contact shadows on the dirt, the stone, the rock face and the forest floor. The palm fronds bend, flex and trail air pressure, fraying a little more with each crash. In the glides the trailing frond tips flutter and the neck fluff streams backward. No floating props. The rock impact reads through his body flattening against the stone and sliding down under its own weight, with no damage to the rock. The torn leaf rests with weight on his beak and shifts slightly when he blinks.
+
+LIGHTING
+High midday sun from the upper left and slightly behind, cutting a hard rim along the back of the neck and the top edge of the wings and fronds, with warm bounce fill coming up off the pale orange dirt on the ridge. WB locked 5600K. Sky is the ambient fill. Inside the canopy the light drops to cool green shadow broken by hard dappled shafts. In the glides the sun sits behind the fronds and lights the leaf veins translucent green. In the final close-up a warm dappled shaft falls across his face with a soft short contact shadow under the beak and a clear catch light held in the visible eye.
+
+COLOR GRADE
+Sunlit orange brown dirt against cool grey fractured rock, saturated jungle green in the canopy deepening to dark shadow green in the forest floor beats, deep clean blue in the upper sky. The salmon peach beak and legs stay the warmest note in frame in sun and shade. The olive iris holds against the bright white sclera. Warm highlights, gently lifted shadows with a faint sky blue in them, no crushed blacks. Color tied to source and surface, not a flat list.
+
+WARDROBE
+Two large green palm fronds lashed to his wings with thin vine cord, veins and serrated edges clearly readable, bright translucent green when backlit. Crisp and whole at the start, one bent rib and a dirt smear after the first fall, frayed tips and torn leaves after the second, ending torn with one loose leaf resting on his beak.
+
+AUDIO
+Sound design first, with a scored third flight. 0.0s to 1.6s: fast footfalls on dry dirt, scattering pebbles, dry leaf rustle from the fronds. 1.6s to 2.3s: the footfalls stop dead, replaced by thin wind and a small nervous gulp. 2.3s to 3.2s: rising air rush, then a heavy crash of snapping branches, spraying leaves and startled birds. 4.0s to 5.4s: heavier faster footfalls climbing. 5.4s to 6.8s: air rush and leaf flutter, a small rising musical sting on the little victory flap. 6.8s: the sting cuts out, a descending comedic whoosh, then two layers of branch crash and a soft body thump on the forest floor. 8.5s to 10.2s: a long fast run up, footfalls building. 10.2s: air rush returns and a warm orchestral swell builds under the glide, strings lifting. 12.3s to 13.4s,
+@ollie
+ (ecstatic, shouting mid glide, head thrown back, voice cracking with joy): "I can fly!" High energy, boyish, comedic, no subtitles. 13.6s: the swell snaps into a short alarmed squawk. 14.2s: a loud comedic thud and feather puff against the rock, then a body slide down stone. 14.2s to 15.0s: everything drops away to soft forest ambience, distant birdsong, one leaf rustle and a single quiet breath.
+
+STYLE
+Feature quality 3D animated film look in the Pixar and DreamWorks tradition. Stylized cartoon proportions with physically believable rendering, subsurface scattering through the beak, leaf fronds and thin feather edges, groomed feather simulation, soft global illumination, ray traced shadows, clean specular highlights, shallow depth cues on close-ups. Glossy, bright, warm family comedy visual language with sincere emotional close-ups. No live action footage, no text, no captions, no logos, no watermark.
+
+OUTPUT SETTINGS
+15 seconds total, 1080p, 30fps, real time throughout with no speed ramps, three shots separated by two hard cuts at 0:04.0 and 0:08.5.
+
+POSITIVE LOCKS
+
+@ollie
+ is the only character and is present in every shot. His proportions, cream neck, dark brown plumage, pale cream wing tips, salmon peach beak and legs, olive iris and crown tuft stay identical across all three attempts, progressively dirtier and more leaf strewn but never redesigned. The green palm fronds stay attached to his wings from the first frame to the last. Every launch carries him off the mountain into open air, and every landing happens in the jungle canopy or forest floor far below the track he ran on. The camera keeps moving in all three shots and always keeps the drop readable under him. Eyes stay natural, no eye glow. Contact shadows read clearly in every shot. The ridge, the three launch heights, the canopy, the rock spire, sky and cloud layer stay the same location and same time of day across all three shots. The flat faced rock spire keeps its face angled toward camera for the final impact. The torn leaf stays across his beak for the entire final close-up. Frame stays clean of text, subtitles, UI, logos and watermarks. Camera cuts only at 0:04.0 and 0:08.5.
+```
+
+</details>
+
 <a id="seedance-desert-warrior-reaper-fight"></a>
 ### 面具战士在沙漠尘暴中对决持镰死神
 
@@ -523,6 +630,28 @@ Create a fast, densely cut character edit using the character in @[character ref
 
 </details>
 
+<a id="kling-submarine-flooding-corridor"></a>
+### 水兵在涌水的潜艇走廊中奔逃
+
+<a href="https://x.com/LudovicCreator/status/2023695236371771583"><img src="../../previews/kling-submarine-flooding-corridor.jpg" width="360"></a>
+
+镜头向前推进，跟随一连串明确的动作节点（封闭舱门、跨越残骸、开启压载阀），使片段有清晰的递进节奏。火花电器、从裂缝涌入的水流等具体环境细节，让场景更加可信。
+
+Kling 3.0 · 文生视频 · 出处: [@LudovicCreator on X](https://x.com/LudovicCreator/status/2023695236371771583) · 480 赞，统计于 2026-11-03
+
+[`submarine`](tags.md#tag-submarine) [`flooding`](tags.md#tag-flooding) [`disaster`](tags.md#tag-disaster) [`sailor`](tags.md#tag-sailor)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+The camera plunges forward through a flooding submarine corridor, closely following a sailor desperately sealing bulkhead doors amid torpedo impacts. Water pours violently through cracks, electronics spark dangerously. The sailor navigates floating debris, leaps between slippery decks, and manually activates an emergency ballast valve just as the flooding stops inches from critical equipment.
+
+Made in
+@Kling_ai
+```
+
+</details>
+
 <a id="wan-livestream-snapper-precision-gun-gameplay"></a>
 ### 工业厂房中的直播风射击游戏实录
 
@@ -622,6 +751,37 @@ Kling 3.0 · 文生视频 · 出处: [@higgsfield_ai on X](https://x.com/higgsfi
 A gritty, cinematic fight scene in a modern, dimly lit hotel corridor with grey concrete walls and dark wooden doors. The scene is illuminated by glowing red vertical neon lights.
 
 A man in a white dress shirt and black trousers is in a defensive stance over a person lying on the floor. Suddenly, an attacker enters from the right, swinging a wooden baseball bat. The man in the white shirt quickly blocks the strike, grabs the attacker, and delivers a powerful knee strike to the midsection before pushing him back against the wall. The camera follows the movement with a steady, high-tension tracking motion.
+```
+
+</details>
+
+<a id="kling-hooded-wolf-multishot"></a>
+### 兜帽人物眼睛发光奔逃狼群
+
+<a href="https://x.com/martinleblanc/status/2030303624304234906"><img src="../../previews/kling-hooded-wolf-multishot.jpg" width="360"></a>
+
+按编号分镜，每个镜头只定一种景别和一个动作，模型会按顺序依次呈现。传入角色设定图作为参考，可让兜帽人物在各镜头之间保持一致。
+
+Kling 3.0 · 文生视频 · 出处: [@martinleblanc on X](https://x.com/martinleblanc/status/2030303624304234906) · 444 赞，统计于 2026-11-03
+
+[`multi-shot`](tags.md#tag-multi-shot) [`character-sheet`](tags.md#tag-character-sheet) [`action`](tags.md#tag-action) [`cinematic`](tags.md#tag-cinematic)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+cinematic. action movie. VFX.
+
+shot 1: close up of the hooded character. It's night. his eyes glow. he hears wolves in the distance and looks around and starts running.
+
+shot 2: full body shot of the character running. he looks over his shoulders.
+
+shot 3: we see a wolf running through the forest. it's hungry.
+
+shot 4:the character is stopped by a pack of wolves.
+
+shot 5: he fights the wolves with his stick.
+
+Link to Spaces below
 ```
 
 </details>
@@ -3279,161 +3439,6 @@ Use Image 1 as the main character role. Use Image 2 as the layout of the game se
 [10–12 seconds] The camera enters the third-person game perspective, with HOTDOG DASH located under the protagonist’s feet. During normal gliding and preparation actions, both feet of the protagonist are standing on HOTDOG DASH. The game HUD appears at this time: mini-map in the top right corner, speed and health status in the bottom left corner, action and combo slots in the bottom right corner, mission route markers and interactive prompts appear ahead.
 [12–15 seconds] The protagonist enters the world riding the running HOTDOG DASH, passing pedestrians, stairs, slopes, railings, and multiple explorable routes. HOTDOG jumps before a low slope, completes a rotation action in the air, and upon landing, the protagonist’s feet are still standing on HOTDOG DASH, the combo count and TRICK prompt briefly increase in the HUD. Subsequently, lean to bypass street obstacles, then perform a small directional jump, and then continue sliding forward.
 Sound Design: Use pure instrumental music mixed with electronic arcade sounds, no vocals. UI switching corresponds to crisp key press sounds, card slot sliding sounds, sticker slapping sounds, and attribute bar update sounds. When SHARK is selected, ignition and propulsion sounds appear, and stop immediately when losing selection. When HOTDOG is selected, two barks are played accurately, and light footsteps are added when spinning around. After entering the world, add city ambient sounds, wind sounds, running footsteps, shoe friction sounds when pedaling to accelerate, and jump and landing feedback sounds.
-```
-
-</details>
-
-<a id="wan-father-chases-train-station"></a>
-### 父亲穿过车站追赶登上列车的儿子
-
-<a href="https://x.com/AiwithBloodline/status/2098989311278678061"><img src="../../previews/wan-father-chases-train-station.jpg" width="360"></a>
-
-固定的角色设定块和分时段剧情表，让男孩的红夹克与父亲的深色外套在各个镜头中保持一致。每段都写明镜头运动和声音提示，并附上台词与口型同步要求，为模型提供逐镜头的清晰指令。
-
-Wan 3.0 · 文生视频 · 出处: [@AiwithBloodline on X](https://x.com/AiwithBloodline/status/2098989311278678061) · 34 赞，统计于 2026-10-29
-
-[`chase`](tags.md#tag-chase) [`train-station`](tags.md#tag-train-station) [`father-son`](tags.md#tag-father-son) [`multi-shot`](tags.md#tag-multi-shot)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-30-second feature-film-quality 3D animation, ultra-realistic cinematic style, premium live-action commercial aesthetic, realistic human characters, physically accurate environments, intense action, emotional storytelling, natural facial expressions, realistic skin and hair, physically based rendering, cinematic lighting, HDR, realistic reflections, dramatic depth of field, dynamic camera movement, realistic motion blur, 4K UHD, 60fps.
-MAIN CHARACTER
-Energetic 10-year-old boy, messy curly dark brown hair, expressive brown eyes, red jacket, black jeans, white sneakers, realistic child proportions, consistent appearance throughout the entire video.
-SECONDARY CHARACTER
-His father, early 30s, short dark hair, casual dark jacket, jeans, realistic appearance, expressive face.
-ENVIRONMENT
-Large modern railway station during rush hour.
-Crowded platforms, arriving train, electronic signs, commuters, luggage, realistic station architecture, natural afternoon lighting.
-Everything must look completely real, like a high-budget live-action movie.
-STORY — EXACTLY 30 SECONDS
-0–4 SECONDS:
-The boy and his father hurry through a crowded railway station.
-The father holds the boy’s hand.
-Father:
-“Come on! We’re going to miss it!”
-Boy:
-“I’m coming!”
-A train arrives.
-The doors open.
-4–8 SECONDS:
-The crowd suddenly moves forward.
-The boy’s hand slips out of his father’s.
-The boy accidentally gets pushed inside the train.
-The father remains outside.
-Father:
-“WAIT!”
-The train doors begin closing.
-Boy:
-“DAD!”
-The doors close.
-The train begins moving.
-8–13 SECONDS:
-The boy runs through the train looking for his father.
-He looks through the window.
-His father runs alongside the moving train on the platform.
-Father:
-“STAY RIGHT THERE!”
-Boy:
-“DAD, I’M HERE!”
-The train accelerates.
-13–18 SECONDS:
-The father immediately turns and sprints toward the station exit.
-He grabs his phone.
-Father:
-“Platform three! Stop the next train!”
-Cut rapidly between the father running through the station and the boy looking anxiously through the train window.
-Boy:
-“Where are you going?”
-Father:
-“Just stay calm!”
-18–23 SECONDS:
-The train begins slowing toward the next platform.
-The boy spots his father running down the platform ahead.
-Boy:
-“DAD!”
-The father reaches the exact carriage door.
-The train stops.
-The doors open.
-The boy jumps out.
-His father catches him immediately.
-23–27 SECONDS:
-The father kneels and hugs him tightly.
-Father:
-“Are you okay?”
-Boy:
-“Yeah…”
-Beat.
-Boy:
-“But you run really fast.”
-The father laughs in relief.
-Father:
-“Apparently.”
-27–30 SECONDS:
-They walk away together holding hands.
-The camera slowly pulls backward as the train departs behind them.
-The boy looks up at his father.
-Boy:
-“Next time, don’t let go.”
-Father smiles.
-Father:
-“Deal.”
-CUT TO BLACK.
-CAMERA
-Fast handheld tracking shots during the separation.
-Close-up of hands separating.
-Extreme close-up of closing train doors.
-Dynamic tracking shot alongside the moving train.
-Rapid cuts between father and son.
-Low-angle running shots.
-Close-up emotional reunion.
-Slow cinematic pull-back for the ending.
-VOICE
-Natural American English.
-Realistic child voice.
-Natural adult male voice.
-Fast, emotional dialogue.
-Authentic breathing and reactions.
-Perfect lip synchronization.
-No theatrical or robotic delivery.
-SOUND
-Busy station ambience.
-Train brakes.
-Train doors closing.
-Footsteps.
-Crowd movement.
-Train acceleration.
-Phone call.
-Dramatic orchestral score building throughout the chase.
-Music drops during the reunion.
-Warm emotional music during the final dialogue.
-NEGATIVE PROMPT
-fantasy, supernatural, superhero abilities, impossible physics, train collision, derailment, person falling onto tracks, injury, death, dangerous stunts, boy on railway tracks, exaggerated action, cartoon appearance, plastic skin, robotic expressions, bad anatomy, extra fingers.
-```
-
-</details>
-
-<a id="h3-jungle-river-ambush-explorer"></a>
-### 探险者在丛林河流中遭遇看不见的袭击
-
-<a href="https://x.com/ou_zhen599/status/2100517439398437322"><img src="../../previews/h3-jungle-river-ambush-explorer.jpg" width="360"></a>
-
-按时间轴逐段写分镜，每段标注一个情绪阶段，让表演在镜头切换中保持连贯。看不见的袭击者通过水花、断叶和涟漪来暗示，声音只保留环境声和武器声。
-
-MiniMax H3 · 图生视频 · 出处: [@ou_zhen599 on X](https://x.com/ou_zhen599/status/2100517439398437322) · 31 赞，统计于 2026-10-29
-
-[`jungle`](tags.md#tag-jungle) [`action-thriller`](tags.md#tag-action-thriller) [`camera-tracking`](tags.md#tag-camera-tracking) [`diegetic-sound`](tags.md#tag-diegetic-sound)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
-
-integrated_multimodal_description: [Shot 1] A 15-second, 16:9, cinematic realistic adventure-thriller image-to-video sequence set entirely inside the same tropical jungle shallow-river corridor and adjacent canopy depth shown in <Picture 1>. Preserve the exact same Lara-like adult female explorer throughout: same face, wet high ponytail with loose strands stuck to the face and neck, dark cropped tank top, shorts, tactical belt, and body proportions. She carries a long gun in the first half, loses it only after the second hit, and ends standing with only one pistol. She remains in continuous motion throughout; all emotion is attached to stepping, searching, aiming, side-slipping, retreating, falling into water, pushing up, and standing. The emotional arc is calm control -> slight alertness -> instinctive reaction to sudden attack -> pressure from missing information -> pain suppression after the second hit -> wounded defiance. Lighting is warm natural backlight through the canopy with cool green jungle bounce and river reflection. No beauty fill, no extra people, no visible enemy, no monsters, no subtitles, no watermark, no plastic water, no exaggerated blood, no floating cloth, no face drift, and no hand errors. [Shot 2] At 00:00-00:03, begin with the first action-based sensual close-up from an extremely low camera almost touching the water, tracking forward with her. Start on the wet lower abdomen, collarbone, shoulder strap, upper chest contour, and the subtle rise and fall of controlled breathing, then smoothly tilt up to her face without stopping. She advances very slowly through the shallow river with the long gun in hand, each step producing real water resistance, ankle flow, small ripples, and glittering reflections. Her first emotional stage is controlled calm: lips slightly parted but keeping the breath quiet, gaze sharp and fixed forward, pupils steady, brows only lightly drawn inward, nostrils barely moving, and jaw controlled. Wet strands stick to forehead and neck, with delayed movement in the tips. Warm backlight through leaves breaks into intermittent highlights on shoulders, neck, collarbone, upper chest, and wet skin, while mist and fine particles catch the light behind her. She says quietly, <d>[English] Easy... keep moving.</d> [Shot 3] At 00:03-00:06, shift into a shoulder-side medium-close follow without stopping her movement. She continues searching while moving: first looking forward, then quickly left, then right, then up into the canopy. The camera makes a slight half-arc around her shoulder and side face while keeping her slightly right of frame. Her second emotional stage is fine alertness: eye movement speed increases, pupils tighten, the brow center gathers more than before, the right upper eyelid lowers slightly, the jawline begins to lock, and breathing becomes shallower and shorter. She says in a low warning tone, <d>[English] Show yourself.</d> Broken sunlight flickers across her face and rifle, leaves above rub lightly, and humid air carries fine mist. [Shot 4] At 00:06-00:10, the first attack comes without a visible attacker. Hard cut to a medium shot from her left-front. Something fast and unseen slices across her near side; the water ahead-left explodes open as if cut by a high-speed projectile, with a clear origin point, spray arc, heavy droplets, falloff, and after-ripples. A broad leaf nearby is sharply split with a visible torn edge, and branches behind her sway with delayed motion to create false directional information. She instinctively side-slips half a step back to the right, shoulders snapping tight, and whips the long gun up, but she still cannot locate the source. She never stands still to fire. While retreating through the water, she fires probing short bursts: two quick shots down the forward channel, then a pivoted sweep toward the left brush, then one short burst up into the canopy. Every backward step carries weight against water resistance and kicks up heavy splashes; muzzle flashes are brief; shell casings eject and fall under gravity; mist is disturbed by the shots; there is no visible hit, no body, no falling enemy. Her third and fourth emotional stages combine here: the gaze is no longer just searching but strained by incomplete information; brow tension deepens, pupils tighten further, nostrils flare clearly, lips shift from slightly open to short urgent inhalations, and the jaw muscles pulse under the turns and shots. Hair lags behind side-slips and turns, clothing clings and pulls under abrupt stops and backward steps. [Shot 5] At 00:10-00:12, compress into a medium-close shot with a small forward push that gives her one brief moment to recalculate. She stops firing, lowers her body, and prepares to move again. In the instant she drops her weight, the second attack lands more precisely into her shoulder or upper arm. The cloth tears open, a tiny short-lived blood mist bursts and is immediately swallowed by the damp air, her upper torso twists violently, and the long gun flies from her hands with real inertia, slamming into a shallow-water rock gap behind-left, partially sliding into the stones with a heavy splash and spreading ripples. Her whole body loses balance and crashes back-left into the water. Her fifth emotional stage is sudden pain breaking through control but still restrained: her eyes open wider for half a beat, brow bones lift then drive back down, pupils contract, nostrils flare wide, the mouth loses control for an instant and then bites down again instead of becoming a scream. She lets out one short pain-broken sound, <d>[English] Ah—!</d> Keep the action heavy, real, and continuous, with no exaggerated slow motion. [Shot 6] At 00:12-00:15, stay at water level and move with her through the entire recovery from impact to standing. This is the second and most important sensual close-up, fully tied to survival action. She falls half into the water, instantly clamps her left hand over the wound, fingers tightening hard, while the right hand searches through murky shallow water and retrieves her pistol. She first pushes her torso up sideways, then rises to one knee, then grits through the final stand with clear weight transfer, delay, and effort; she does not spring up. When fully upright she has only one pistol. Her left shoulder hangs slightly lower, and her right hand holds the pistol low, pointed into the jungle depth ahead. Her sixth emotional stage is wounded defiance: the eye corners are faintly reddened by pain, the brow center is compressed not just in alertness but in sheer refusal to fall, the upper lids sit slightly heavier but the gaze is even more nailed forward, nostrils tremble, breathing becomes pain-shaken, lips pale and tighten, teeth lock, the mouth corners pull in faintly, and the jaw and neck tendons stand out. She says in a low hoarse line squeezed through pain, <d>[English] I’m still here.</d> Wet hair sticks to face and neck, then falls with delayed motion as she rises. Backlight catches the hair edges, collarbone line, shoulder contour, the hand pressing the wound, and the metal edge of the pistol. Blood is diluted by the river into thin red streaks across skin and cloth. Small droplets roll down jaw, collarbone, and shoulder. End on her wounded but standing, holding only the pistol, staring into the unseen jungle threat without cutting to black.
-
-overall_soundscape: Use only diegetic environmental and weapon sound. Maintain shallow water flow, insects, distant leaf friction, humid forest air, and the soft acoustic space of the river corridor throughout. Emphasize close controlled breathing, boots and calves pushing through shallow water, delicate surface ripples, cloth friction, and her low line <d>[English] Easy... keep moving.</d> Then bring forward shifting gaze and body orientation through subtle gear movement, shallow water disturbance, leaf rub above, fine mist, and her low warning line <d>[English] Show yourself.</d> Feature the first unseen attack as a sharp fast water-splitting impact, sliced leaf tear, delayed branch shake, backward steps through water, short rifle bursts, damp forest gunshot reverb, shell casings landing, scattered spray, and fast breathing. Isolate the second hit with cloth tear, tiny blood burst, body impact into water, rifle thrown loose, rifle striking shallow rocks and water with a heavier layer than body splash, then expanding ripples and the broken pain sound <d>[English] Ah—!</d> Finish with water slosh around her recovery, the hand pressing the wound, the pistol found in shallow water, painful breath, cloth drag, droplets falling, and her low hoarse line <d>[English] I’m still here.</d> After the line, let the environment feel almost dead-quiet except for water, insects, leaf friction, and her pain-muted breathing, preserving the pressure of an unseen attacker.
-
-non_diegetic_music: No non-diegetic music.
 ```
 
 </details>

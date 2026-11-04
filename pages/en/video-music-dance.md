@@ -1,6 +1,6 @@
 # Music and dance
 
-[Back to the list](../../README.md) · All 45 entries
+[Back to the list](../../README.md) · All 49 entries
 
 <a id="h3-pink-panic-punk-mv"></a>
 ### Anime girl in plaid boots slides into punk MV
@@ -17,6 +17,35 @@ MiniMax H3 · Reference-to-video · Source: [@Mayz1169 on X](https://x.com/Mayz1
 
 ```text
 Create a 15-second horizontal 16:9 high-energy 2D anime pop-punk music video featuring the exact heroine from the provided character reference. The entire sequence should feel like one continuous, tightly choreographed MV passage, with each movement naturally motivating the next transition.  CHARACTER LOCK: Use the reference image as the absolute authority for identity, proportions, outfit, colors and illustration style. Preserve her short messy bubblegum-pink hair with sharp outward tufts, high side ponytail, pale cyan and mint lightning-shaped hair accents, large red cross hair clip with lavender backing, huge yellow eyes with thick dark outlines, small expressive mouth and warm blush.  Keep her black cropped school-style jacket with oversized white cuffs, white shirt, loose bright-red necktie, red plaid mini skirt with white triangular hem accents, black belt, bare legs and enormous red plaid boots with dark straps and heavy rounded soles.  Maintain her original stylized proportions: oversized head, compact torso, long simplified legs, huge boots, chunky hands, bold black outlines, flat saturated colors and minimal cel shading. Her personality is loud, cheeky, rebellious, playful and hyperactive.  0–2.5s — Start immediately with motion. She slides rapidly into frame from the left, one boot skidding across a clean white graphic floor. Her body leans forward from momentum while her ponytail, necktie and oversized cuffs trail behind. She stomps the second boot down, looks up and flashes a mischievous grin. The impact instantly transforms the white background into huge red-and-black plaid blocks as bold “PINK PANIC!” typography slams into the composition.  2.5–5.0s — Without stopping, she rebounds from the landing into a small hop and sharp half-turn. Camera swings around her from front three-quarter view into a fast side-tracking shot as she runs two exaggerated cartoon steps. Her giant boots hit the floor on alternating beats, leaving hand-drawn stars, crosses, tape strips, scribbles and comic impact marks behind each step. Her pink hair and red tie bounce wildly with the movement.  5.0–7.5s — She kicks one leg sideways on the beat and uses the momentum to spin. The red plaid pattern from her boot stretches outward into a giant rotating graphic plane, seamlessly pulling the entire frame into an abstract 2D punk world made from black brush strokes, red plaid, white paper shapes, pink lightning bolts and rough photocopy textures.  She continues directly into a bouncy dance phrase: head whip → shoulder hit → side step → small kick → fast turn. Keep every pose exaggerated and cartoonishly expressive.  7.5–10.0s — Her turn accelerates and the camera follows closely around her. The environment constantly recomposes around the choreography: checker patterns slide sideways, hand-drawn crosses rotate, torn-paper strips snap open and oversized comic typography appears briefly on drum hits.  She lands hard with both boots apart. A huge hand-drawn “BAM!” bursts underneath her feet and physically shakes the surrounding graphic elements. She immediately rebounds upward with a cocky smile rather than holding a static pose.  10.0–12.3s — Follow her continuing movement into a connected sequence of character details. As she whips her head sideways, track past her bright yellow eye → red cross hair clip → swinging pink hair → bouncing red tie → plaid skirt → massive plaid boot.  Do not present these as disconnected beauty shots. Each close-up should be motivated by the same continuous body movement and fast camera travel.  The boot hits the floor at the end of the sequence, sending a red plaid shockwave across the frame.  12.3–15.0s — Ride the plaid shockwave back into a full-body view. She takes two confident bouncing steps forward, abruptly pivots and finishes facing camera with her weight shifted onto one leg, shoulders slightly forward and a cheeky rebellious grin.  Her ponytail and necktie continue swinging from the turn while the background erupts into layered red plaid, black brush X marks, white stars, pink lightning and rough hand-drawn graphics. The elements rapidly organize themselves into a bold 2000s punk magazine-cover composition.  Large “PINK PANIC!” typography appears behind her silhouette on the final beat. End on her strong recognizable character shape without changing her design.  VISUAL STYLE: Strictly match the reference artwork: early-2000s-inspired 2D cartoon/anime aesthetic, thick clean dark outlines, flat saturated colors, minimal cel shading, simplified anatomy, exaggerated proportions and bold graphic expressions. Keep the intentionally handmade TV-animation feeling rather than modern polished anime rendering.  Use red plaid as the main graphic motif, combined with black-and-white manga shapes, pink lightning, crosses, stars, scribbles, torn paper, photocopy grain, tape graphics and rough ink marks.  MOTION: Fast, bouncy and highly rhythmic. Use strong key poses, limited-animation timing, overshoot, smear frames, exaggerated anticipation and cartoon impact frames. Her giant boots should create the strongest beat accents. Hair, ponytail, tie, skirt and cuffs should react continuously to her movement.  Transitions must grow naturally from character actions: boot skid → plaid expansion → kick → rotating graphic plane → spin → camera orbit → stomp → shockwave. Avoid random transitions or disconnected pose montages.  AUDIO: Synchronize tightly to fast Japanese pop-punk vocals mixed with punchy electronic drums and distorted guitar. Add boot skids, stomps, paper snaps, cartoon impacts, guitar hits and short graphic whooshes.  IMPORTANT: Keep the exact face, yellow eyes, pink hairstyle, cyan/mint hair accents, red cross clip, black-and-white school-punk top, red tie, plaid skirt and oversized plaid boots throughout.  No hand reaching toward camera, no palm covering the lens, no pointing into the lens, no outfit transformation, no hairstyle transformation, no extra characters, no realistic environments, no photorealism, no 3D CGI, no modern glossy anime redesign, no cyberpunk holograms, no slow fashion posing, no facial drift, no random accessories, no excessive jump cuts, no disconnected movements, no uncontrolled morphing, no unreadable typography.
+```
+
+</details>
+
+<a id="h3-character-reveal-boots-contour"></a>
+### Blue combat boots in cartoon-style closeup
+
+<a href="https://x.com/aimikoda/status/2102966384003350874"><img src="../../previews/h3-character-reveal-boots-contour.jpg" width="360"></a>
+
+Listing exactly 10 shots in a fixed order from feet to head gives the reveal a clear rhythm, and the preserve identity line locks the character's look across cuts. Asking the strokes to track real contours and stay in the foreground keeps the graphics tied to the figure instead of drifting over it.
+
+MiniMax H3 · Reference-to-video · Source: [@aimikoda on X](https://x.com/aimikoda/status/2102966384003350874) · 786 likes on 2026-11-03
+
+[`character-reveal`](tags.md#tag-character-reveal) [`contour-animation`](tags.md#tag-contour-animation) [`fast-cuts`](tags.md#tag-fast-cuts) [`motion-graphics`](tags.md#tag-motion-graphics)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a fast, striking character reveal using @[character ref]. Preserve identity, proportions, outfit and original rendering style. Let the character’s appearance, personality and world determine the entire creative direction: palette, lighting, background, camera attitude, transitions, graphic shapes and music. Modern, impactful and subtly sensual through confident body language.
+
+Use exactly 10 fast-cut shots progressing upward: feet, lower legs, knees/thighs, hips/waist, hand beside torso, shoulders/collarbone, lips/jawline, eyes, full-face portrait then the first head-to-toe hero shot. Alternate frontal, profile, rear three-quarter, low-angle and tight oblique views. Use punchy push-ins, quick lateral passes, short orbit fragments and graphic match cuts. Keep the character alive with deliberate weight shifts, small hand gestures and shoulder turns. No slow motion, lingering pans or repetitive framing.
+
+Animate abundant hand-drawn contour strokes and graphic shapes over the footage. Most lines should actively trace the character’s visible form: leg contours, waist curves, shoulders, neckline, jawline, arms, hands and clothing folds. Draw them on rapidly, briefly track the moving contours then let them extend into expressive arcs or sweep into the next cut. Emphasize existing anatomy and silhouette without changing proportions or revealing anything beneath clothing.
+
+Choose the graphics’ colors, line weight, angularity, curvature and texture to match the character. Add partial rings, flowing ribbons, sketch bursts, angular brackets, sparkles and motion trails derived from their design. Make the graphics respond to gestures and camera movement rather than float randomly. Keep every graphic in the foreground, composited over the character and footage, never hidden behind them. Maintain clear facial features and a readable silhouette.
+
+Sync editing, contour animation and graphic accents to character-appropriate music and precise sound details. On the final beat, land in a distinctive signature pose as the animated strokes complete an expressive graphic frame around the full figure. Briefly hold the finished composition.
+
+Only drawings, contour lines and graphic shapes. No text, typography, letters, numbers, captions, titles or added logos anywhere.
 ```
 
 </details>
@@ -1705,6 +1734,121 @@ Seedance 2.5 · Reference-to-video · Source: [@Naonekozamurai on X](https://x.c
 
 </details>
 
+<a id="seedance-idol-mv-silhouette-led-stage"></a>
+### Silhouetted idol on reflective LED stage
+
+<a href="https://x.com/Chaemate_/status/2103333680806760472"><img src="../../previews/seedance-idol-mv-silhouette-led-stage.jpg" width="360"></a>
+
+The prompt locks character reference sheets before any video, then maps each lyric to a shot, camera move and light cue on the beat so the performance stays synced to the audio track. Its staged sequence of environments gives the edit a clear build.
+
+Seedance 2.5 · Reference-to-video · Source: [@Chaemate_ on X](https://x.com/Chaemate_/status/2103333680806760472) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`idol-mv`](tags.md#tag-idol-mv) [`music-video`](tags.md#tag-music-video) [`reference-sheet`](tags.md#tag-reference-sheet) [`beat-sync`](tags.md#tag-beat-sync)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Use Seedance 2.5 model + J-pop idol MV skill.
+
+GOAL:
+Create a full high-energy J-pop / K-pop style idol music video that is perfectly synced to the uploaded audio track. The video must feel continuous, connected, and performance-driven — every body movement, camera move, light flash, and formation change lands exactly on the beat and lyrics. No static moments. Constant motion and visual payoff.
+
+STEP 1 – GENERATE CHARACTERS FIRST (mandatory):
+Before any video generation, create and lock consistent character reference images for the main performers:
+
+Main Idol (Center / Lead):
+- Young East Asian female (Korean or Japanese features)
+- Sharp, charismatic face with strong eye contact and confident expression
+- Long dark hair with subtle glossy highlights (or stylish short bob if preferred)
+- Perfect stage makeup, glossy skin, defined eyes
+- Stage outfit: high-fashion idol look — structured crop top or fitted jacket with metallic/embellished details, high-waisted pants or short skirt with movement-friendly fabric, statement heels or boots, subtle jewelry that catches light
+- Aura: powerful, magnetic, “born for the spotlight”
+
+Backup dancers (2–4 members):
+- Matching but slightly varied East Asian idol looks
+- Coordinated but not identical outfits in the same color family
+- Clean, sharp choreography presence
+
+Generate full character sheets (front, 3/4, side, full body) for the Main Idol and at least one clear group reference. Lock these as permanent references for the entire project. Do not change faces, body proportions, hair, or core outfit between shots.
+
+STEP 2 – MUSIC VIDEO STRUCTURE & SYNC:
+Upload the audio. Analyze the lyrics and energy:
+
+[Chorus]
+Watch me, watch me take the floor (hey!)
+Watch me, watch me run the show (uh!)
+
+[Verse]
+Heels click, doors swing, I walk in slow-mo
+Room stops, jaws drop, call it my solo
+Don’t need permission, I’m the whole exhibition
+Flash flash, catch me in high definition
+
+[Pre-Chorus]
+Turn it up, feel the rush, we’re about to blow
+Count it down, three two one, here we go
+
+[Chorus]
+Watch me, watch me take the floor (hey!)
+Every eye is begging for more (uh!)
+Spotlight on, I was born for this glow
+Watch me, watch me run the show
+
+[Verse]
+Level up, no luck, baby it’s a skill set
+Gold crown, break it down, I ain’t even peaked yet
+They copy my style but they can’t clone the fire
+Bar’s at the stars, now watch it go higher
+
+[Pre-Chorus]
+Turn it up, feel the rush, we’re about to blow
+Count it down, three two one, here we go
+
+[Chorus]
+Watch me, watch me take the floor (hey!)
+Every eye is begging for more (uh!)
+Spotlight on, I was born for this glow (watch me now!)
+Watch me, watch me run the show
+
+[Outro]
+Watch me, watch me run the show (hey!)
+
+Create a continuous performance video that follows the exact structure and energy of the track. Use second-level timing and strong beat anchors.
+
+VISUAL STYLE:
+- Premium J-pop / K-pop idol MV aesthetic
+- Ultra-polished, cinematic yet energetic
+- High-contrast stage lighting, neon accents, sharp color pops (deep blacks, electric pinks, golds, cyans, pure whites)
+- Glossy skin, realistic hair physics, fabric movement, sharp choreography
+- Mix of wide performance shots, dynamic mid-shots, dramatic close-ups on face and eyes, and powerful formation shots
+- Environments: dark modern stage with reflective floor → expanding LED walls → abstract high-fashion sets → golden spotlight moments → starry / elevated “bar’s at the stars” climax
+- Camera language: smooth tracking, push-ins on key lyrics, circling around the main idol, low-angle power shots, quick but clean cuts on beat drops, slow-mo on “slow-mo” lyric, flash cuts on “Flash flash”
+
+PERFORMANCE DIRECTION (continuous & connected):
+- Main idol is always the clear visual center. Backup dancers support formations but never steal focus.
+- Choreography is sharp, powerful, and continuous — sharp isolations, strong arm hits, heel clicks, hair flips, confident walks, dynamic poses that land exactly on the lyrics.
+- “Heels click, doors swing, I walk in slow-mo” → dramatic entrance with slow-motion heels and door effect, room reaction.
+- “Flash flash, catch me in high definition” → rapid light flashes + sharp camera cuts + confident pose.
+- Pre-chorus build-ups → rising energy, light intensity increases, formation tightens.
+- Every chorus: full power performance, eye contact with camera, “watch me” moments with direct address, strong formation changes.
+- “Gold crown, break it down” and “bar’s at the stars” → elevated, almost celestial lighting and upward camera moves.
+- Final outro: powerful centered pose under the brightest spotlight as the last “run the show” hits.
+
+TECHNICAL REQUIREMENTS FOR SEEDANCE 2.5:
+- Perfect character consistency using the generated reference sheets
+- Motion must be continuous and physically coherent across cuts
+- Strong beat-sync: every major move, light change, and camera hit lands on the music
+- High production value: realistic fabric physics, hair movement, reflections, lens flares only when they serve the energy
+- No random morphing, no face drift, no floating limbs
+- Keep the performance feeling like one continuous live stage show that evolves with the song
+
+Output a complete, polished J-pop/K-pop idol MV that feels expensive, magnetic, and perfectly locked to the track. First generate and lock the character references, then build the full music-synced video.
+
+#FlovaAI @Flovaai_Japan #Flovacpp #Seedance25 #JPop #KPop #IdolMV #AIMusicVideo
+```
+
+</details>
+
 <a id="seedance-kpop-couple-dance-studio"></a>
 ### Couple dances in a Korean dance studio
 
@@ -2412,6 +2556,39 @@ End on a clean freeze-frame hero shot with subtle camera movement, luxury fashio
 
 </details>
 
+<a id="seedance-rap-music-video-korean-woman"></a>
+### Korean rapper walks backstage then performs
+
+<a href="https://x.com/AIwithSynthia/status/2104412786570981576"><img src="../../previews/seedance-rap-music-video-korean-woman.jpg" width="360"></a>
+
+Listing each location with a fixed wardrobe rule, plus a shot vocabulary of hard cuts, match cuts and whip pans, gives a multi-scene edit in one generation. Tying the camera moves to the rap beat keeps the cutting rhythm locked to the audio.
+
+Seedance 2.5 · Text-to-video · Source: [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2104412786570981576) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`rap`](tags.md#tag-rap) [`music-video`](tags.md#tag-music-video) [`multi-scene`](tags.md#tag-multi-scene) [`korean`](tags.md#tag-korean)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a ultra-realistic cinematic rap music video featuring a confident young Korean woman in her early 20s with long dark-brown hair tied in a high ponytail. She wears a black cropped jacket, fitted white top, dark cargo pants, black sneakers, silver earrings, and a black wristwatch.
+
+Open backstage at a massive concert venue as she walks toward the stage, headphones around her neck, surrounded by lights, equipment and crew. Cut to her performing confidently under intense stage lights as a huge crowd raises phones and reacts to the beat.
+
+Transition through multiple visually distinct locations: a rainy neon-lit city street, an elevated runway surrounded by skyscrapers, a sunlit grassy field, an atmospheric old street at night, and a futuristic concert stage. Keep her character, face, hairstyle and overall styling consistent while naturally adapting her outfit to each environment.
+
+Show energetic performance shots, confident walking, close-ups of her eyes and expressions, rhythmic hand gestures, slow-motion hair movement, dramatic low-angle shots, wide crowd shots, and smooth cinematic camera movements synchronized with the rap beat.
+
+Use hard cuts, match cuts, whip pans, low-angle tracking shots, handheld performance footage, subtle slow motion, realistic lens flares and dynamic lighting. Build toward a final wide shot of her performing onstage as thousands of phone lights illuminate the audience.
+
+Ultra-realistic live-action quality, authentic skin texture, realistic fabric and hair physics, detailed environments, cinematic depth of field, natural motion blur, high-end music-video cinematography, energetic rap atmosphere.
+
+Audio: original energetic rap beat, deep bass, crisp drums, atmospheric synths, crowd chants and natural stage ambience. No narration, no subtitles, no logos, no watermark, no cartoon or CGI appearance.
+
+Made on Higgsfield
+```
+
+</details>
+
 <a id="seedance-soho-breakdance-battle-multi-cut"></a>
 ### Breakdancer battles in a SoHo street circle
 
@@ -2480,6 +2657,25 @@ Smooth 360° tracking shots mixed with extreme close-ups, dynamic dolly zooms, h
 Cinematic color grading: cool blue cinematic tones mixed with warm skin highlights, subtle film grain, realistic street lighting, high-end music video style.
 
 4K, photorealistic, ultra-sharp skin and fabric details, rhythmic speed ramps synchronized to the beat, fashion editorial energy, authentic street dance documentary atmosphere, "fashion magazine commercial mixed with underground street battle video", 24fps.
+```
+
+</details>
+
+<a id="seedance-subway-platform-white-top-dancer"></a>
+### Young woman dancing on a subway platform
+
+<a href="https://x.com/Zoyavelle/status/2099372756102164923"><img src="../../previews/seedance-subway-platform-white-top-dancer.jpg" width="360"></a>
+
+One paragraph that gives subject, wardrobe, action and setting in order, then stacks camera and lighting terms such as shallow depth of field and smooth cinematic camera movement. Asking for occasional glances back at the lens keeps the subject engaged with the viewer through the clip.
+
+Seedance 2.5 · Text-to-video · Source: [@Zoyavelle on X](https://x.com/Zoyavelle/status/2099372756102164923) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`subway`](tags.md#tag-subway) [`fashion`](tags.md#tag-fashion) [`dance`](tags.md#tag-dance) [`portrait`](tags.md#tag-portrait)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A cinematic photorealistic video of a beautiful young Asian woman with long straight black hair, wearing a fitted white long-sleeve top and a short dark pleated skirt, walking and gently dancing on a modern underground subway platform. A subway train is stopped in the background. She moves naturally and confidently, occasionally turning and looking toward the camera while her hair flows with her movement. Another woman appears walking in the background. Modern metro station architecture, dark tiled floor, illuminated overhead fluorescent lights, realistic train windows and doors, shallow depth of field, smooth cinematic camera movement, natural body motion, realistic skin texture, subtle motion blur, professional fashion-video aesthetic, high detail, photorealistic, 4K, cinematic lighting, vertical 9:16 composition.
 ```
 
 </details>

@@ -1,0 +1,33 @@
+id: seedance-korean-village-grocery-vlog
+title:
+  en: Woman with tote bag at wooden village gate
+  zh: 女子提着帆布袋站在木门前
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- korean
+- village
+- vlog
+- lip-sync
+source:
+  name: '@aiwithaly on X'
+  url: https://x.com/aiwithaly/status/2099357930927845736
+  credit: aiwithaly
+  captured: '2026-11-03'
+  posted: '2026-09-14'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/aiwithaly/status/2099357930927845736
+notes:
+  en: The prompt lays out a timed sequence (leaving home, meeting the children, entering the shop) and repeats continuity locks on the woman, clothing and bag. Audio is limited to a list of diegetic sounds and dialogue with an explicit ban on music and narration, which keeps the model from adding them.
+  zh: 提示词按时间顺序写出镜头段落（离家、遇见孩子、进入小店），并反复锁定人物、服装和购物袋的一致性。音频只列出环境声和对白，并明确禁止配乐和旁白，避免模型自行添加。
+prompt: |
+  Create a 30-second ultra-photorealistic Korean countryside lifestyle vlog following a young Korean woman through a spontaneous afternoon in a peaceful village. Begin with her leaving her traditional home to buy groceries, walking along a quiet village road before meeting local children playing with a rubber ball. She briefly joins their game, laughing and playing naturally, then says goodbye and continues to a tiny neighborhood grocery shop.
+
+  Show authentic Korean rural life with traditional homes, modest modern houses, narrow paved roads, stone walls, vegetable gardens, utility poles, bicycles, trees, distant rice fields and a small local shop. Keep the woman, children, clothing, shopping bag and environment perfectly consistent throughout.
+
+  Capture realistic human movement, walking biomechanics, ball physics, cloth and hair movement, grocery handling, natural bag weight, door and gate mechanics, sunlight, shadows, wind and environmental details. Use modern 2026 handheld cinematic-vlog cinematography with natural autofocus, subtle camera movement, realistic motion blur, eye-level framing and a brief child-height tracking shot.
+
+  Use only natural diegetic audio: footsteps, birds, insects, wind, leaves, children's laughter, ball impacts, clothing movement, shopping-bag rustling, shop bell, groceries and authentic Korean dialogue with accurate lip synchronization. No music, narration, subtitles, CGI, artificial movement, impossible physics, changing faces or clothing, logos or watermark.
+
+  End with the woman walking home in warm golden-hour light, waving back at the children from a distance before entering her home, leaving the viewer with a peaceful, authentic Korean village moment.

@@ -1,0 +1,25 @@
+id: seedance-rainy-station-boy-feeds-creature
+title:
+  en: Boy waits alone at rainy countryside station
+  zh: 雨中乡村车站，男孩独自等车
+model: Seedance 2.5
+mode: text-to-video
+category: anime
+tags:
+- slice-of-life
+- fantasy
+- rain
+- train-station
+source:
+  name: '@Elvorya on X'
+  url: https://x.com/Elvorya/status/2104799320558256490
+  credit: Elvorya
+  captured: '2026-11-03'
+  posted: '2026-09-29'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Elvorya/status/2104799320558256490
+notes:
+  en: The prompt is a numbered sequence of timed shots, with a named camera move for each cut, which keeps the 15 seconds readable. Repeating the rain, the lantern glow and the wooden bench in each beat anchors the mood and the static framing.
+  zh: 提示词按时间顺序拆成多个镜头，每次切换都写明景别和运镜，让 15 秒的叙事清晰可读。每个镜头都反复写明雨声、站台灯光和木长椅等环境细节，能稳定氛围和构图。
+prompt: |
+  Create a 15-second cinematic fantasy slice-of-life sequence following a young boy waiting alone at a quiet rural railway station on a rainy evening. Begin with a wide establishing shot across multiple wet railway tracks, slowly revealing a small countryside station surrounded by endless green fields, distant mountains, utility poles, and a dark cloudy sky → reveal the young boy standing beneath the station shelter, wearing a bright yellow raincoat, white shorts, and vivid red rain boots, quietly waiting for his train as heavy rain falls around him → transition to a low-angle cinematic close-up of his red rain boots standing beside a shallow rain puddle, with the warm reflection of a small station lantern shimmering across the wet ground → cut to a side profile shot of the boy sitting alone on a wooden railway bench, looking quietly toward the empty tracks while rain falls in the background → transition to a mysterious close-up beneath the wooden bench as a tiny strange green creature wearing an oversized pointed green hat slowly peeks out from the shadows, watching the boy with large curious eyes → cut to a cinematic close-up of the boy's face as he notices the mysterious creature, his expression changing naturally from surprise to gentle curiosity and a warm smile → transition to a detailed close-up of the boy opening a small cloth lunch bag and taking out a piece of bread while sitting on the bench → cut to the tiny green creature watching the food from beneath the bench, cautiously moving closer with innocent curiosity → transition to a medium shot as the boy gently places a piece of bread on the bench for the little creature, creating a quiet emotional connection between them → cut to a wide cinematic shot of the empty railway tracks stretching into the rainy countryside as a distant train headlight slowly appears on the horizon → transition into a dramatic forward tracking shot along the wet railway tracks, the approaching train becoming brighter as rain continues falling and its warm headlights reflect across the rails → cut back to the station as the train arrives and stops beside the platform, its warm interior lights glowing against the cold blue rainy atmosphere → final shot becomes a cinematic medium-wide shot of the young boy stepping into the warmly illuminated train while briefly looking back toward the tiny green creature near the bench, as rain continues falling outside and the train prepares to leave the quiet countryside station

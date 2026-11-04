@@ -1,0 +1,25 @@
+id: seedance-white-haired-agent-corridor-chase
+title:
+  en: White-haired agent fights pursuers in marble corridor
+  zh: 白发女特工在大理石走廊与追兵搏斗
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- martial-arts
+- chase
+- night
+- fight-choreography
+source:
+  name: '@AvelyrahnAI on X'
+  url: https://x.com/AvelyrahnAI/status/2093190933256733095
+  credit: AvelyrahnAI
+  captured: '2026-11-03'
+  posted: '2026-08-28'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AvelyrahnAI/status/2093190933256733095
+notes:
+  en: The prompt sequences the action beat by beat, from sprint to flying side-kick to costume reveal, and sets the lighting and location first so the corridor stays consistent through the fight.
+  zh: 提示词按顺序写清每个动作节拍，从冲刺、飞踢到换装，并先描述灯光和场景，使走廊在打斗中保持一致。
+prompt: |
+  A fierce female secret agent with white hair styled in a bun, wearing a grey maid uniform and a white face mask, runs at full speed down a luxurious dark marble corridor with warm vertical LED strip lighting and floor-to-ceiling glass windows overlooking a moonlit ocean at night, tightly clutching an antique wooden box. Two burly bodyguards in black suits chase her. She leaps into the air and delivers a powerful flying side-kick into the chest of the lead guard, sending him crashing backward. She lands gracefully, turns sharply, kneels to place the wooden box on the floor, and stands up. In a dramatic motion, she pulls off her white face mask and flings it away, tearing off her maid uniform jacket to reveal a sleek white athletic crop top and shorts. She engages in high-speed martial arts combat, leaping into mid-air splits, dodging sword strikes, and executing dynamic counter-attacks against multiple armed opponents in a flurry of motion.

@@ -1,0 +1,25 @@
+id: seedance-mountain-biker-rooted-forest-trail
+title:
+  en: Female mountain biker descends rooted forest trail
+  zh: 女骑手骑车穿过林间树根小径
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- mountain-biking
+- tracking-shot
+- outdoor
+- physics
+source:
+  name: '@aiwithaly on X'
+  url: https://x.com/aiwithaly/status/2092111337686262077
+  credit: aiwithaly
+  captured: '2026-11-03'
+  posted: '2026-08-25'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/aiwithaly/status/2092111337686262077
+notes:
+  en: Fixes the rider, bike, trail and daylight as constants across every shot, then specifies braking, tyre traction and suspension movement so the physics drives the motion. Cinematic tracking shots and ambient forest and bike sounds ground the scene.
+  zh: 将骑手、车辆、路线和光线设为全程固定不变，并具体描述刹车、轮胎抓地和避震动作，让物理规律驱动画面运动。电影感跟拍镜头加上林间环境声和车辆声，增强真实感。
+prompt: |
+  Ultra-photorealistic 30-second 16:9 mountain-bike action video. Same female rider, bike, clothing, trail, and daylight throughout. Show her starting on a mountain ridge, accelerating naturally downhill, navigating roots, rocks, gravel, and tight corners with realistic braking, balance, tire traction, and suspension movement. Finish as she exits the forest and stops at a scenic valley viewpoint. Cinematic tracking shots, realistic outdoor physics, natural forest ambience, bike sounds, wind, and breathing. No dialogue, CGI look, impossible jumps, teleportation, distorted anatomy, text, logos, or watermark.

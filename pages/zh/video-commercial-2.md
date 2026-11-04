@@ -1,6 +1,25 @@
 # 广告与产品
 
-[返回目录](../../README_zh.md) · 全部 124 条 · [1](video-commercial.md) · **2**
+[返回目录](../../README_zh.md) · 全部 130 条 · [1](video-commercial.md) · **2**
+
+<a id="seedance-chocolate-lava-cake-commercial"></a>
+### 巧克力熔岩蛋糕广告，从打蛋到勺子切开
+
+<a href="https://x.com/AI_with_Antonio/status/2088237953772638270"><img src="../../previews/seedance-chocolate-lava-cake-commercial.jpg" width="360"></a>
+
+每个镜头都给出时间码、景别、机位和单一动作，模型能在五个短镜头之间干净切换。同一提示词还要求输出带字幕的分镜板，可以逐镜头对照检查。
+
+Seedance 2.5 · 文生视频 · 出处: [@AI_with_Antonio on X](https://x.com/AI_with_Antonio/status/2088237953772638270)
+
+[`food`](tags.md#tag-food) [`commercial`](tags.md#tag-commercial) [`storyboard`](tags.md#tag-storyboard) [`timecode`](tags.md#tag-timecode)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A photorealistic 10-second culinary commercial for a chocolate lava cake. Shot 1 (0:00–0:01): Close-up 45-degree angle of a fresh egg falling into a mound of cocoa powder and flour in a glass bowl on a wooden countertop. Shot 2 (0:01–0:03): Top-down overhead view of a metal wire whisk actively stirring velvety, glossy chocolate batter into silky concentric swirl patterns. Shot 3 (0:03–0:05): Medium close-up eye-level shot of thick chocolate batter pouring in a smooth ribbon fold into a grey ceramic ramekin dusted with cocoa. Shot 4 (0:05–0:07): Straight-on medium shot inside a modern oven, warm amber interior glow, showing the chocolate lava cake fully risen and domed on the wire rack. Shot 5 (0:07–0:10): Hero macro shot of the baked lava cake on a matte dark plate; a silver spoon breaks into the crust, releasing a flowing cascade of warm molten chocolate lava with delicate rising steam. Style: High-end commercial cinematography, natural studio lighting, ultra-realistic textures, shallow depth of field, 8k resolution, smooth transitions. A professional 5-panel commercial storyboard layout on a clean, light-grey textured background with crisp black frame borders and typography: Top Row (Left to Right): Panel 1: 00:00 - 00:01 | CU, Angle 45-degree angle — Raw egg yolk cracking into cocoa powder and flour in a glass bowl. Text: "Combine your rich ingredients." Panel 2: 00:01 - 00:03 | Angle: High-Angle / Top-Down (CU) — Whisk swirling glossy chocolate batter into concentric rings. Text: "Whisk until perfectly smooth." Panel 3: 00:03 - 00:05 | MCU, Eye-Level — Thick ribbon of chocolate batter pouring vertically into a grey ramekin. Text: "Bake until the edges are set." Bottom Row (Centered): Panel 4: 00:05 - 00:07 | MS, Straight-On Centered — Puffed cake resting on the wire rack inside a warm illuminated oven. Text: "Baking in Oven" Panel 5: 00:07 - 00:10 | Hero Angle — Silver dessert spoon breaking the cake crust, warm molten chocolate oozing outward with steam. Text: "Enjoy your perfect lava cake." Style: Clean storyboard graphic design, photorealistic culinary frame stills, sharp cinematic typography, balanced layout.
+```
+
+</details>
 
 <a id="seedance-coffee-machine-ugc-commercial"></a>
 ### 穿米色毛衣的女性在温暖的厨房里走动
@@ -40,6 +59,517 @@ Hero shot of the coffee machine beside a fresh cup of coffee with soft cinematic
 
 Requirements:
 Vertical 9:16, 30 seconds, AI UGC style, realistic creator vibe, premium product advertising, natural expressions, realistic hands, smooth camera movement, clean transitions, cinematic quality, no logos or watermarks.
+```
+
+</details>
+
+<a id="seedance-elsa-bakery-croissant-commercial"></a>
+### 红发烘焙师夜晚走进温暖的面包店
+
+<a href="https://x.com/ElsaSofia__AI/status/2095105440392818697"><img src="../../previews/seedance-elsa-bakery-croissant-commercial.jpg" width="360"></a>
+
+同时给出角色参考图和分镜参考图并明确优先级，把15个约2秒的镜头各自绑定到一个真实动作（面粉云、擀面杖、烤箱门），让每次切换都有物理依据。每个动作还配有对应声音，使画面与音效同步。
+
+Seedance 2.5 · 参考生视频 · 出处: [@ElsaSofia__AI on X](https://x.com/ElsaSofia__AI/status/2095105440392818697) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`bakery`](tags.md#tag-bakery) [`food-commercial`](tags.md#tag-food-commercial) [`reference-images`](tags.md#tag-reference-images) [`storyboard`](tags.md#tag-storyboard)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+⤵️ 
+
+Create a premium photorealistic cinematic 30-second live-action food commercial using BOTH reference images:
+
+@Image1 = ELSA MASTER CHARACTER REFERENCE
+@Image2 = MASTER STORYBOARD
+
+IMPORTANT REFERENCE PRIORITY:
+Use @Image1 as the definitive identity reference for Elsa.
+Use @Image2 as the definitive visual and chronological guide for the entire video.
+
+Follow the 15 storyboard panels in @Image2 from beginning to end.
+Do not treat the storyboard as 15 separate still images.
+Recreate each panel as real cinematic live-action footage and connect every shot naturally.
+
+DURATION:
+Exactly 30 seconds.
+
+FORMAT:
+16:9 landscape.
+
+SHOT STRUCTURE:
+15 shots, approximately 2 seconds each.
+
+==================================================
+CHARACTER CONSISTENCY
+==================================================
+
+The SAME Elsa from @Image1 must appear throughout the entire video.
+
+Preserve her exact:
+facial identity,
+facial proportions,
+green eyes,
+copper-red hair,
+freckles,
+skin tone,
+body proportions,
+age appearance,
+and recognizable features.
+
+Do not redesign her face.
+Do not generate a different woman.
+Do not change her identity between shots.
+
+Keep her bakery outfit exactly consistent with @Image1:
+same clothing,
+same colors,
+same apron,
+same trousers,
+same footwear.
+
+Natural human anatomy.
+Natural hands and fingers.
+Realistic facial expressions.
+Realistic hair movement.
+
+==================================================
+OVERALL CINEMATIC STYLE
+==================================================
+
+High-end premium food commercial.
+
+Photorealistic live-action cinematography.
+
+Stylish boutique bakery at night.
+
+Warm amber tungsten lighting inside.
+Cool blue nighttime light entering through large windows.
+
+Stone preparation counters.
+Natural pale wood.
+Brushed stainless-steel equipment.
+Dark glass windows.
+Elegant professional bakery atmosphere.
+
+Strong contrast between cool midnight exterior and warm bakery interior.
+
+Beautiful shallow depth of field.
+
+Natural cinematic lens characteristics.
+
+Rich golden pastry tones.
+
+Highly detailed realistic food textures.
+
+Everything must feel physically real.
+
+NO magical transformations.
+
+==================================================
+SHOT 1 — 0:00–0:02
+BAKERY ENTRY / HOOK
+==================================================
+
+Recreate the first storyboard panel.
+
+Elsa approaches the quiet bakery at night.
+
+She enters through the glass door and looks toward the empty preparation counter.
+
+Camera begins wide and makes a controlled cinematic push toward her.
+
+Her expression is calm and subtly amused.
+
+Door movement and reflections must be physically realistic.
+
+==================================================
+SHOT 2 — 0:02–0:04
+INGREDIENTS
+==================================================
+
+Medium tracking shot.
+
+Elsa reaches the stone counter.
+
+She places flour, butter, eggs and a mixing bowl onto the work surface.
+
+Each object has believable weight and contact.
+
+Her movements are efficient and confident.
+
+Keep her face and outfit consistent with @Image1.
+
+==================================================
+SHOT 3 — 0:04–0:06
+FLOUR CLOUD
+==================================================
+
+Extreme macro.
+
+Elsa opens the flour bag.
+
+A realistic fine flour cloud rises through the warm bakery light.
+
+Individual particles are visible.
+
+The flour naturally drifts toward camera.
+
+The cloud fills most of the frame and becomes the visual transition.
+
+==================================================
+SHOT 4 — 0:06–0:08
+DOUGH
+==================================================
+
+Top-down cinematic shot.
+
+Flour and liquid combine naturally.
+
+Elsa mixes and kneads the dough with realistic hand pressure.
+
+Show believable dough elasticity and texture.
+
+Small amounts of flour move across the counter.
+
+Fast but controlled movement.
+
+==================================================
+SHOT 5 — 0:08–0:10
+BUTTER MACRO
+==================================================
+
+Extreme close-up.
+
+A cold block of butter is sliced into thin pieces.
+
+Knife movement is precise and rhythmic.
+
+Tiny butter flakes separate naturally.
+
+Warm highlights reflect from the knife and butter.
+
+==================================================
+SHOT 6 — 0:10–0:12
+ROLLING
+==================================================
+
+Low side-angle tracking shot.
+
+Elsa rolls the dough into a long thin sheet.
+
+The rolling pin moves naturally across the stone surface.
+
+Fine flour particles lift slightly with the movement.
+
+Camera tracks with the rolling pin.
+
+==================================================
+SHOT 7 — 0:12–0:14
+BUTTER LAYERS
+==================================================
+
+Overhead shot.
+
+Butter pieces are arranged over the dough.
+
+Elsa folds the dough over itself.
+
+She presses it firmly with the rolling pin.
+
+Show clear laminated layers.
+
+The folding action should feel precise and satisfying.
+
+==================================================
+SHOT 8 — 0:14–0:16
+SECOND FOLD
+==================================================
+
+Extreme macro.
+
+The dough folds again.
+
+Camera follows the folding motion closely.
+
+Thin buttery layers become visible.
+
+Use the physical fold as a natural match transition into the next action.
+
+No magical effects.
+
+==================================================
+SHOT 9 — 0:16–0:18
+CROISSANT SHAPING
+==================================================
+
+Medium overhead shot.
+
+Elsa cuts the dough into clean triangular pieces.
+
+She rolls each triangle from the wide end toward the tip.
+
+Several realistic crescent-shaped croissants appear across the baking tray through fast continuous hand movements.
+
+==================================================
+SHOT 10 — 0:18–0:20
+EGG WASH
+==================================================
+
+Extreme food macro.
+
+Elsa brushes glossy egg wash across the croissants.
+
+The surface becomes visibly shiny.
+
+The final brush stroke travels toward the camera and briefly fills the frame.
+
+Use the brush movement as a motivated visual transition.
+
+==================================================
+SHOT 11 — 0:20–0:22
+OVEN
+==================================================
+
+Dynamic low-angle shot.
+
+Elsa carefully slides the tray into a professional bakery oven.
+
+Warm orange oven light illuminates her hands and the pastry.
+
+She pushes the tray inside.
+
+The heavy oven door closes toward camera.
+
+Use the physical door closure as the transition.
+
+==================================================
+SHOT 12 — 0:22–0:24
+GOLDEN REVEAL
+==================================================
+
+The oven door opens.
+
+A realistic wave of hot steam escapes toward the lens.
+
+Beautiful golden-brown croissants are revealed inside.
+
+Elsa removes the tray carefully.
+
+The warm golden lighting becomes more prominent.
+
+The pastry must look freshly baked, crisp and realistic.
+
+==================================================
+SHOT 13 — 0:24–0:26
+CRISPY CROISSANT
+==================================================
+
+Extreme macro food cinematography.
+
+Elsa takes one croissant.
+
+She gently breaks it open.
+
+The crisp outer shell cracks naturally.
+
+Multiple flaky laminated layers separate.
+
+Warm steam escapes from the center.
+
+Tiny pastry crumbs fall naturally onto the counter.
+
+Emphasize realistic texture and satisfying physical detail.
+
+==================================================
+SHOT 14 — 0:26–0:28
+FIRST BITE
+==================================================
+
+Medium close-up.
+
+Elsa takes a bite.
+
+She pauses.
+
+Her expression shows quiet satisfaction.
+
+No exaggerated reaction.
+
+She looks directly toward the camera.
+
+A tiny eyebrow movement adds personality.
+
+Maintain exact Elsa identity.
+
+==================================================
+SHOT 15 — 0:28–0:30
+FINAL COMEDIC PUNCHLINE
+==================================================
+
+Begin with a close-up of Elsa reaching for a coffee cup.
+
+She confidently picks it up.
+
+She tilts the cup.
+
+Nothing comes out.
+
+The cup is completely empty.
+
+She looks down at the empty cup.
+
+Then slowly raises her eyes toward the camera.
+
+One eyebrow lifts slightly.
+
+One corner of her mouth rises into a subtle amused expression.
+
+Hold the final reaction.
+
+End cleanly on Elsa's face.
+
+==================================================
+CAMERA LANGUAGE
+==================================================
+
+Use varied professional cinematic camera work:
+
+wide establishing shot,
+controlled push-in,
+medium tracking,
+extreme macro,
+top-down,
+low-angle tracking,
+overhead,
+food macro,
+dynamic oven shot,
+medium close-up.
+
+Avoid repetitive framing.
+
+Camera movement must feel physically motivated.
+
+Use realistic depth of field.
+
+Use natural motion blur.
+
+Use controlled speed ramps only when physically appropriate.
+
+==================================================
+TRANSITIONS
+==================================================
+
+Use ONLY motivated physical transitions:
+
+flour cloud,
+rolling pin movement,
+dough fold,
+egg-wash brush,
+oven-door closure,
+steam reveal.
+
+Transitions should feel seamless and professionally edited.
+
+Do not use random digital effects.
+
+Do not make it look like a slideshow.
+
+==================================================
+SOUND DESIGN
+==================================================
+
+Create a premium cinematic food-commercial soundscape.
+
+Subtle rhythmic electronic music underneath.
+
+Synchronize every physical action with sound:
+
+glass door click,
+ingredient placement,
+flour burst,
+dough slap,
+mixing,
+knife cutting butter,
+rolling pin,
+dough folding,
+tray movement,
+egg brush,
+oven door,
+steam hiss,
+pastry crack,
+crispy bite.
+
+During the final coffee reveal:
+
+music suddenly becomes very quiet.
+
+Brief comedic silence when Elsa discovers the cup is empty.
+
+End naturally.
+
+==================================================
+PHYSICS & REALISM
+==================================================
+
+Realistic flour particle simulation.
+
+Realistic dough deformation.
+
+Realistic butter behavior.
+
+Realistic egg-wash movement.
+
+Realistic pastry expansion.
+
+Realistic oven heat.
+
+Realistic steam.
+
+Realistic crumbs.
+
+Realistic hand-object interaction.
+
+Correct object weight.
+
+Natural shadows and contact.
+
+No floating objects.
+
+No impossible hand movements.
+
+==================================================
+NEGATIVE RULES
+==================================================
+
+NO face morphing.
+NO identity drift.
+NO different Elsa.
+NO hairstyle changes.
+NO wardrobe changes.
+NO extra fingers.
+NO deformed hands.
+NO distorted anatomy.
+NO duplicated objects.
+NO floating ingredients.
+NO magical effects.
+NO cartoon appearance.
+NO CGI-looking human.
+NO readable text.
+NO logos.
+NO brand names.
+NO subtitles.
+NO captions.
+NO watermark.
+
+FINAL GOAL:
+
+A coherent, photorealistic, premium 30-second cinematic food commercial starring the exact Elsa from @Image1.
+
+The complete visual progression must follow @Image2 from the first frame to the final coffee punchline.
+
+The result should feel professionally directed, beautifully photographed, physically believable, fast-paced but elegant, highly satisfying, and completely original.
 ```
 
 </details>
@@ -323,6 +853,54 @@ BGMは、柔らかなピアノと薄い弦楽器によるオリジナルのイ�
 
 </details>
 
+<a id="seedance-joltcan-dim-bedroom-energy-drink-ad"></a>
+### 昏暗卧室晨起 能量饮料广告开场
+
+<a href="https://x.com/doctorwasif/status/2099717908482207928"><img src="../../previews/seedance-joltcan-dim-bedroom-energy-drink-ad.jpg" width="360"></a>
+
+提示词开场采用低饱和冷灰色调、缓慢漂移的手持运镜和近乎静音，喝下第一口时画面瞬间转为暖色高饱和，音乐与开罐和吞饮的声音节点对齐。参考图锁定人物，分镜的每一段都写明时长、机位和音频提示。
+
+Seedance 2.5 · 参考生视频 · 出处: [@doctorwasif on X](https://x.com/doctorwasif/status/2099717908482207928) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`before-after`](tags.md#tag-before-after) [`energy-drink`](tags.md#tag-energy-drink) [`speed-ramp`](tags.md#tag-speed-ramp)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+CAMERA:
+Cinematic handheld gimbal feel, mixed with a few locked-off tripod inserts. Camera occasionally rests on counters/surfaces for hands-free product shots. Sluggish, drifting movement in the opening beats; sharp, snappy whip-pans and speed-ramped cuts once the energy kicks in. Camera never appears on screen.
+LOOK:
+Opens desaturated, cool gray-blue color grade, slightly soft focus, low contrast. The moment she drinks, grade snaps to saturated, warm, high-contrast color — vivid oranges/yellows, crisp focus, subtle motion-trail flares on fast movement. Realistic skin tones, light film grain throughout.
+STYLE:
+Before/after transformation ad. First third deliberately slow and low-energy; middle/end fast, punchy, triumphant. Comedic payoff at the end. Minimal dialogue — one line only, near the finale — energy carried mainly by music and speed-ramping.
+Character
+MAYA — same woman as reference image, 20s. Long dark hair (loose/messy in opening scenes, pulled back and sleek once energized), skin transitioning from dull/tired to visibly glowing. Slim build. Oversized gray sweatshirt in groggy scenes, switching to a fitted color-block "JOLTCAN"-branded jacket or tee once energized. Sneakers throughout. Fully covered, modest fit.
+DELIVERY GUY — 20s, uniform, delivery bag, casual unhurried demeanor.
+Setting
+Dim apartment bedroom → kitchen counter → sunny city sidewalk → apartment building entrance (finale, same building as opening).
+Storyboard (30s, 9 cuts)
+(~3s, wide shot, dim bedroom) Maya shuffles slowly out of bed, gray desaturated grade, movements heavy and sluggish.
+Audio: Near silence — a single fading alarm-clock beep, then flat low room tone. No music.
+(~2.5s, medium shot, kitchen) She drags herself to the counter, fumbles opening the fridge in slow, groggy motion.
+Audio: Dull, minimal synth drone, very low volume, no rhythm — mirrors her grogginess. Faint fridge hum.
+(~2.5s, macro insert) Close-up: she cracks open a JOLTCAN — the pull-tab snap is sharp and loud.
+Audio: The can-crack triggers one sharp musical hit — a riser + snare crack — landing exactly on the snap sound.
+(~3s, close-up, color shift) She sips; color grade snaps instantly from gray to vivid saturated color, eyes widen, posture straightens.
+Audio: Upbeat electronic-pop beat starts immediately here, ~130 BPM, bright synth stab, energetic bassline kicks in on the beat.
+(~3s, fast handheld, apartment) Speed-ramped shot of her whirling through getting ready — hair, jacket, grabbing her bag — quick snappy cuts.
+Audio: Music at full tempo, punchy bass hits synced to her quick movements.
+(~3.5s, wide fast shot, sidewalk) She power-walks/jogs down a sunny sidewalk faster than normal, confident grin, light motion-blur trails.
+Audio: Music builds with a rising melodic synth hook, steady driving rhythm continues.
+(~3s, quick handheld) Fast montage: she dodges a puddle, weaves around a slow pedestrian, times a street crossing perfectly.
+Audio: Music hits a tight rhythmic peak — percussive, clean, energetic.
+(~4s, wide shot, building entrance) She jogs up and beats the delivery guy to her own door, holding it open for him with an amused grin. She says: "Guess I'm early today."
+Audio: Music briefly ducks under her line, then a light comedic synth "boing" sting plays right after she speaks.
+(~3s, logo card) Freeze/blur on her grinning face; white text fades in: "Fuel your speed" above the JOLTCAN wordmark.
+Audio: Music resolves into a short, punchy outro hit, clean cutoff — no fade.
+```
+
+</details>
+
 <a id="seedance-karakoram-motorcycle-commercial"></a>
 ### 摩托车手在喀喇昆仑公路上的跟拍镜头
 
@@ -481,6 +1059,101 @@ She turns slightly left and right so the sunglasses catch the sunlight from diff
 Looking directly into the camera, she smiles warmly and says, "Definitely one of my favorite accessories this year." The camera slowly pushes in on the sunglasses before fading out.
 
 Ultra-realistic UGC fashion content, authentic creator review, cinematic handheld smartphone movement, luxury bedroom, macro product cinematography, realistic reflections, detailed frame textures, expressive facial animation, perfect lip sync, shallow depth of field, premium color grading, 4K HDR, 16:9, no subtitles, no logos, no watermarks, no on-screen text on it
+```
+
+</details>
+
+<a id="seedance-monochrome-studio-emerald-gown-ritual"></a>
+### 黑白美妆工作室仪式，揭晓翡翠绿礼服
+
+<a href="https://x.com/ElsaSofia__AI/status/2100179633266418072"><img src="../../previews/seedance-monochrome-studio-emerald-gown-ritual.jpg" width="360"></a>
+
+@Image1 角色参考在全部 15 个镜头中锁定同一张脸，黑白色调让翡翠绿礼服成为唯一的饱和色。逐镜头的运镜与节拍对齐的声音提示，为模型提供了精确的时间线。
+
+Seedance 2.5 · 参考生视频 · 出处: [@ElsaSofia__AI on X](https://x.com/ElsaSofia__AI/status/2100179633266418072) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`beauty`](tags.md#tag-beauty) [`monochrome`](tags.md#tag-monochrome) [`character-reference`](tags.md#tag-character-reference) [`fashion`](tags.md#tag-fashion)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+⤵️ 
+SCENE 1 (0:00–0:30) — MONOCHROME STUDIO → FULL RITUAL → EMERALD GOWN → LAST DETAIL
+SHOT STRUCTURE: 15 shots, 30 seconds, 16:9
+@Image1 is the Aiko character reference — keep her face, fair skin, sleek black bob haircut and dark-brown eyes identical in every shot.
+GLOBAL STYLE NOTES:
+lighting_philosophy: crisp white beauty-dish key on her face, cool silver glow from square-framed vanity mirrors behind, soft grey practicals on walls; glossy speculars on marble, chrome and glass.
+color_grade: high-gloss monochrome beauty commercial — charcoal-grey walls, ivory marble, fair skin held clean and cool; the emerald gown is the only deep saturated green in the film.
+setting: sleek minimalist glam studio — charcoal-grey walls, polished ivory marble floor, low velvet stools in ash-grey, white sheepskin rugs, three large square chrome-framed vanity mirrors, a thin white LED strip along the ceiling, beauty-dish lights on stands, a disco ball throwing slow silver dots across the marble, open shelves of matte black labelled bottles and jars, a single orchid in a glass vase, a chrome drinks cart.
+staff: three women in charcoal uniforms — an esthetician, a make-up artist, a hair stylist. Shown mainly as hands, forearms, backs and soft-focus bodies. No close-ups of their faces except the final reaction in medium shot. They move fast and react openly.
+mirror_rule: mirrors stay BEHIND or BESIDE her, soft-focus, as light and texture only. Never a sharp reflection of her face shown next to her actual face in the same frame.
+characters:
+Aiko: visual_anchors: petite elegant build, sleek jet-black bob haircut with blunt bangs, dark-brown eyes, fair even skin, a small mole near one eye. Opens in a plain white ribbed tank top. Performance: composed, quietly amused — one mouth corner lifts, never a wide expression. She is the only still person in a room full of motion.
+ambience: glossy pop beat locked to every cut, studio chatter under it, hairdryer hum. Beat drops at shot 12, cuts to silence at shot 15.
+SEQUENCE LIST:
+SHOT 1 (0–2s) HOOK — WS, glass door
+camera_motion: static, then fast push-in
+action_visual: Aiko (per @Image1) pushes the glass door open in a plain white tank top — cool silver light floods the frame. Door chime, beat starts on her step
+exit: she walks past camera into the studio
+SHOT 2 (2–4s) SETUP — MS tracking
+camera_motion: handheld tracking behind her through the studio, chrome mirrors and shelves streaking past
+action_visual: she drops into an ash-grey velvet stool. The esthetician snaps a white cape open and clicks it shut at her neck. A long emerald evening gown hangs soft-focus behind her; black leather ankle boots sit under the stool
+exit: hands enter frame toward her face
+SHOT 3 (4–6s) — insert macro on hands
+camera_motion: static macro, 85mm
+action_visual: a pump bottle pushes white cleansing foam into a gloved palm; gloved hands work the foam up her cheeks in one upward sweep. Wet foam squelch, pump hiss
+exit: water enters frame
+SHOT 4 (6–8s) — MCU
+camera_motion: static, slight handheld float
+action_visual: water rinses the foam, she lifts her wet face and droplets fly sideways catching the beauty-dish light
+exit: a brush enters frame from the left
+SHOT 5 (8–10s) SIGNATURE — MCU, frontal
+vfx: none. Speed 100%
+camera_motion: locked frontal, composition does not shift
+action_visual: a brush lays charcoal clay mask in three strokes → jump to the mask already dry. She raises ONE eyebrow, the crust cracks across the bridge of her nose. The esthetician freezes mid-air with the brush. Aiko lowers the brow back
+exit: two gel patches click under her eyes
+SHOT 6 (10–12s) — MCU, frontal, same framing
+camera_motion: locked, no movement
+action_visual: the make-up artist slams a large powder puff straight into the lens, frame goes soft white → clears on glowing porcelain make-up and satin lips
+exit: a brush sweeps across frame
+SHOT 7 (12–14s) — MCU, same framing
+camera_motion: locked
+action_visual: the brush clears to reveal a sharp graphic black cat-eye liner and pale lips → a palm sweeps down the frame → clears on deep bronze eyelids
+exit: the powder puff slams into the lens again
+SHOT 8 (14–16s) — MCU, same framing
+camera_motion: locked, tiny push-in
+action_visual: frame clears on full smoky bronze eye, subtle highlighter on the cheekbones, deep berry-red lipstick. The make-up artist steps back and raises both hands. Aiko holds still half a second. Lipstick cap clicks
+exit: a towel is pulled off her head
+SHOT 9 (16–18s) — MS
+camera_motion: static, then whip pan out and back
+action_visual: the stylist rips the towel away, wet hair drops in one sheet → whip pan returns on a sleek glossy black bob shining under the beauty-dish light
+exit: a flat iron enters frame
+SHOT 10 (18–19s) — insert macro
+vfx: speed ramp 50%→100%
+camera_motion: static macro, 50mm
+action_visual: the flat iron clicks open and releases a glossy sheet of hair, steam rises into the light beam
+exit: steam crosses the lens
+SHOT 11 (19–21s) — MS
+camera_motion: two fast whip pans, out and back each time
+action_visual: hair pushed back loose, the stylist tucks it behind her ear → whip pan → sleek blunt-bangs bob with a sharp edge. Aiko tips her head, hair swings across frame
+exit: hair fills frame
+SHOT 12 (21–24s) CLIMAX — MS to WS, studio floor
+camera_motion: static, then slow pull-back
+action_visual: the stylist lifts the emerald gown off a chrome hanger, the fabric flies across the whole frame — deep emerald floods the screen — then falls away: Aiko stands in the middle of the studio in a long emerald silk evening gown, bob restored, silk running to the floor. Silk whoosh, heavy fabric fall
+exit: fingers rise to her ear
+SHOT 13 (24–26s) — insert macro on ear
+camera_motion: static macro, 85mm
+action_visual: the make-up artist's fingers fasten a small emerald drop earring at her ear. The clasp click lands as the beat drop
+exit: camera pulls wide
+SHOT 14 (26–28s) — WS full length
+camera_motion: static wide, three staff visible either side of her
+action_visual: Aiko glances aside, takes two steps to the stool and bends down. Low insert: the emerald silk hem lifts and black leather ankle boots enter frame — one foot, then the other
+exit: she straightens up
+SHOT 15 (28–30s) PUNCHLINE — WS full length
+camera_motion: locked off, no movement
+action_visual: she straightens, adjusts the hem so the ankle boots stay visible, and looks straight into the lens. All three staff freeze. The stylist drops a brush — it clatters on the marble. One mouth corner lifts. She walks out of frame. Beat cuts to silence on the clatter
+exit: empty studio, three women looking after her, brush on the floor. Hold one second, end
+GENERATE FIRST: Shot 5 (eyebrow cracks the mask — the tone-setter), Shot 12 (emerald gown fabric wipe), Shot 15 (ankle boots punchline).
 ```
 
 </details>
@@ -889,6 +1562,41 @@ Every person must physically acquire a Red Bull can before drinking it, every tr
 
 </details>
 
+<a id="seedance-retro-pink-bedroom-morning-commercial"></a>
+### 粉色复古卧室晨间梳妆，配老式电话
+
+<a href="https://x.com/noorlewisx/status/2097545178013950280"><img src="../../previews/seedance-retro-pink-bedroom-morning-commercial.jpg" width="360"></a>
+
+七个编号镜头各写明一种机位运动，如俯拍、特写或跟拍。重复的粉色调与服装描述锁定了角色和卧室，使25秒内画面保持一致。
+
+Seedance 2.5 · 文生视频 · 出处: [@noorlewisx on X](https://x.com/noorlewisx/status/2097545178013950280) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`pastel-pink`](tags.md#tag-pastel-pink) [`retro-90s`](tags.md#tag-retro-90s) [`fashion-commercial`](tags.md#tag-fashion-commercial) [`bedroom`](tags.md#tag-bedroom)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a cinematic 25-second dreamy retro-pink fashion commercial set inside a cozy feminine bedroom. Everything has a soft pastel pink color palette, warm morning sunlight, vintage 90s aesthetic, floral wallpaper, pink bed, vanity mirror, cute retro telephone, pink accessories and soft curtains.
+
+Scene 1: Wide overhead shot of a beautiful pink bedroom in warm sunlight, soft shadows falling across the bed, dreamy nostalgic atmosphere.
+
+Scene 2: A young woman in a cute pastel-pink sleepwear outfit lies comfortably on the bed wearing a pink sleep mask, holding a vintage pink telephone. A pink tumbler sits beside her. Slow cinematic camera movement.
+
+Scene 3: Close-up beauty shot of her face as she lifts the sleep mask slightly and talks on the phone, soft glowing skin, natural makeup, gentle expressions, shallow depth of field.
+
+Scene 4: She gets out of bed and walks toward the vanity. Smooth tracking shot following her through the sunlit bedroom.
+
+Scene 5: At the vintage vanity, she sits in front of a large oval mirror and gets ready, surrounded by perfumes, makeup, hair accessories and jewelry. Show elegant close-ups of her brushing her hair and applying makeup.
+
+Scene 6: She looks toward the bedroom door, walks over and slowly peeks outside with a playful expression.
+
+Scene 7: Final glamorous mirror shot: she is now fully dressed in a stylish pastel-pink outfit, standing confidently in front of the vanity mirror. Soft sunlight, elegant pose, dreamy romantic-commercial atmosphere.
+
+Visual style: ultra-realistic cinematic photography, pastel pink tones, warm natural sunlight, nostalgic 1990s aesthetic, soft film grain, dreamy glow, realistic skin texture, shallow depth of field, smooth camera movements, subtle lens flare, premium fashion commercial, highly detailed, 4K, consistent character and wardrobe throughout, no text, no watermark.
+```
+
+</details>
+
 <a id="seedance-rice-water-serum-commercial"></a>
 ### 白色反光台面上的米水烟酰胺精华瓶
 
@@ -937,6 +1645,39 @@ The model on the right turns a full 360° on the spot the way a real fashion mod
 At the same time, every product cutout inside the item panel rotates in place on its own vertical axis, like a luxury product display render, revealing front, side and back. Each item stays centered in its own slot, keeps its size, and completes exactly one full rotation in sync with the model's turn, ending in its original orientation.
 
 The panel, divider lines, captions, crown icons and wordmark stay perfectly fixed; only the model moves and the products rotate. Camera locked off, no zoom, no pan. Soft studio lighting with realistic shadows under the model and the products. Smooth, natural motion, clean commercial fashion-ad aesthetic, ultra-sharp details, luxury catalog presentation.
+```
+
+</details>
+
+<a id="seedance-snow-alpine-fur-jacket-walk"></a>
+### 身穿白色毛领夹克的女子走过雪山
+
+<a href="https://x.com/CaliraVal/status/2107697202646987178"><img src="../../previews/seedance-snow-alpine-fur-jacket-walk.jpg" width="360"></a>
+
+按时间段分镜，依次为全景、跟拍、侧面特写和推近镜头，给模型清晰的镜头顺序。每段重复人物的面容、发型和服装，让整段视频的主体保持一致。
+
+Seedance 2.5 · 文生视频 · 出处: [@CaliraVal on X](https://x.com/CaliraVal/status/2107697202646987178) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`fashion`](tags.md#tag-fashion) [`snow`](tags.md#tag-snow) [`mountain`](tags.md#tag-mountain) [`luxury`](tags.md#tag-luxury)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A beautiful young woman with fair skin, realistic facial features, dark brown hair in a sleek high ponytail, natural makeup, wearing a luxurious white faux-fur jacket over a fitted black top, tailored black pants, and black leather ankle boots. Keep her identity, face, hairstyle, body proportions, and outfit consistent throughout.
+
+0–4s: Wide cinematic shot of her standing in a breathtaking snow-covered alpine landscape with huge snowy mountains behind her. She begins walking toward the camera through fresh snow.
+
+4–8s: Smooth full-body tracking shot as she walks confidently through the snow. Her boots leave realistic footprints while her fur jacket and ponytail move naturally in the cold wind.
+
+8–12s: Elegant side-profile fashion shot. She stops, gently adjusts the fur collar, and looks toward the distant mountains. Soft winter sunlight highlights her face and the texture of the fur.
+
+12–15s: Slow cinematic push-in to a beautiful close-up of her face. She calmly looks toward the camera, then slightly turns toward the mountains as the shot ends.
+
+Photorealistic live-action, high-end luxury fashion campaign, cinematic camera movement, realistic snow and fabric physics, natural skin texture, soft winter sunlight, shallow depth of field, premium color grading, ultra-detailed, 4K quality.
+
+Negative: distorted face, changing identity, changing outfit, unnatural hands, extra fingers, unrealistic walking, floating feet, CGI look, plastic skin, flickering, jitter, text, logo, watermark.
+#Flovaai #Flovacpp 
+@Flovaai_Japan
 ```
 
 </details>

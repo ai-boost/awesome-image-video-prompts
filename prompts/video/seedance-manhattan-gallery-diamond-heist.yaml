@@ -1,0 +1,33 @@
+id: seedance-manhattan-gallery-diamond-heist
+title:
+  en: Woman in black gown beside diamond under glass
+  zh: 身穿黑色礼服的女子站在玻璃展柜钻石旁
+model: Seedance 2.5
+mode: reference-to-video
+category: cinematic
+tags:
+- heist
+- thriller
+- reference-image
+- sound-design
+source:
+  name: '@ai_anelia on X'
+  url: https://x.com/ai_anelia/status/2115867108722835593
+  credit: ai_anelia
+  captured: '2026-11-03'
+  posted: '2026-10-29'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/ai_anelia/status/2115867108722835593
+notes:
+  en: Anchors the lead to a reference image and breaks the heist into clear story beats, each with its camera move. Named ambient sounds (footsteps, glass clinks, radio chatter) and a no-music, no-text rule keep it grounded like a film scene.
+  zh: 用参考图锁定主角外形，并把剧情拆成清晰的分段节拍，每段配一个镜头运动。明确指定环境音（脚步声、玻璃碰撞声、对讲机声）并禁止音乐和字幕，让画面更接近真实电影场景。
+prompt: |
+  Create a photorealistic Hollywood heist thriller set in a luxurious Manhattan art gallery at night. 16:9, 24 fps, fast-paced suspense, realistic action, dynamic camera movement, warm lighting, and natural 35mm film grain.
+
+  Character A, matching the reference image, wears an elegant black evening outfit and enters a glamorous exhibition where a priceless diamond is displayed under glass. While a waiter distracts the guests, she secretly steals it. Security discovers the missing diamond and chases her through crowded galleries, modern sculptures, and glass corridors overlooking New York City.
+
+  Cornered at the grand staircase, she calmly reveals the diamond and surrenders it. As guards secure the jewel, she notices a wealthy collector fleeing the gallery. A curator discovers evidence that an exhibited painting is the original artwork stolen by the collector years earlier. Security stops him while Character A quietly slips toward the exit.
+
+  In the final shot, she smiles knowingly through the glass doors and disappears into the night. The diamond was only a distraction; recovering the stolen painting was her real mission.
+
+  Continuity: Keep all faces, outfits, props, and locations consistent. Use clear action geography, believable movements, quick cuts, tracking shots, reflections, and close-ups. Natural gallery ambience, footsteps, glass clinks, radio chatter, and minimal dialogue. No music, narration, subtitles, text, logos, or watermarks. Avoid cartoon physics, teleportation, exaggerated action, and visual inconsistencies.

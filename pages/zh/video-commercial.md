@@ -1,6 +1,6 @@
 # 广告与产品
 
-[返回目录](../../README_zh.md) · 全部 124 条 · **1** · [2](video-commercial-2.md)
+[返回目录](../../README_zh.md) · 全部 130 条 · **1** · [2](video-commercial-2.md)
 
 <a id="kling-vintage-watch-macro"></a>
 ### 指尖捏着复古腕表的微距镜头
@@ -4354,6 +4354,25 @@ A stunning blonde fashion model gracefully walks and poses in a luxurious palace
 
 </details>
 
+<a id="seedance-blue-perfume-golden-beach-commercial"></a>
+### 金色日落海滩上挂水珠的深蓝香水瓶
+
+<a href="https://x.com/laviniavelle/status/2100071299968032968"><img src="../../previews/seedance-blue-perfume-golden-beach-commercial.jpg" width="360"></a>
+
+提示词按顺序描述逆光产品微距镜头，再通过交叉溶解切到人物喷香的画面，靠明确的镜头顺序和镜头光晕描述控制节奏。写明写实 8K 和浅景深，使两段镜头保持一致的奢华质感。
+
+Seedance 2.5 · 文生视频 · 出处: [@laviniavelle on X](https://x.com/laviniavelle/status/2100071299968032968) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`perfume`](tags.md#tag-perfume) [`luxury`](tags.md#tag-luxury) [`golden-hour`](tags.md#tag-golden-hour) [`beach-commercial`](tags.md#tag-beach-commercial)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A cinematic photorealistic commercial shot on a golden hour beach A deep sea blue glass perfume bottle covered in micro water droplets rests on a wet rock, backlit by the setting sun glittering over gentle ocean waves Soft lens flare and warm golden reflections glimmer across the water The scene seamlessly cross dissolves to a stunning woman wearing a flowing white deep V dress standing on the sandy shore She sprays the fragrance onto her neck with her eyes closed in bliss surrounded by a fine mist catching the golden sunlight then looks directly into the camera with a gentle confident smile holding the bottle Photorealistic 8K resolution, dynamic lighting, high end luxury aesthetic shallow depth of field.
+```
+
+</details>
+
 <a id="seedance-china-train-travel-multishot"></a>
 ### 旅行者在高铁车窗前望向窗外风景
 
@@ -4494,25 +4513,6 @@ Fresh minced garlic and dried red chilies are arranged on top. The chef pours sc
 The camera slowly pushes toward the finished dish. Tender white fish, golden pickled vegetables, bright red chilies, glossy sauce, fresh garlic, and swirling steam fill the frame. End on an irresistible macro close-up of the bubbling, freshly cooked spicy-and-sour fish.
 
 Ultra-realistic food cinematography, photorealistic chef, authentic Chinese cooking technique, realistic knife handling, detailed fish texture, natural steam and fire, physically accurate oil movement, cinematic depth of field, subtle handheld camera movement, warm professional kitchen lighting, macro food details, high dynamic range, 4K, premium food commercial quality.
-```
-
-</details>
-
-<a id="seedance-chocolate-lava-cake-commercial"></a>
-### 巧克力熔岩蛋糕广告，从打蛋到勺子切开
-
-<a href="https://x.com/AI_with_Antonio/status/2088237953772638270"><img src="../../previews/seedance-chocolate-lava-cake-commercial.jpg" width="360"></a>
-
-每个镜头都给出时间码、景别、机位和单一动作，模型能在五个短镜头之间干净切换。同一提示词还要求输出带字幕的分镜板，可以逐镜头对照检查。
-
-Seedance 2.5 · 文生视频 · 出处: [@AI_with_Antonio on X](https://x.com/AI_with_Antonio/status/2088237953772638270)
-
-[`food`](tags.md#tag-food) [`commercial`](tags.md#tag-commercial) [`storyboard`](tags.md#tag-storyboard) [`timecode`](tags.md#tag-timecode)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-A photorealistic 10-second culinary commercial for a chocolate lava cake. Shot 1 (0:00–0:01): Close-up 45-degree angle of a fresh egg falling into a mound of cocoa powder and flour in a glass bowl on a wooden countertop. Shot 2 (0:01–0:03): Top-down overhead view of a metal wire whisk actively stirring velvety, glossy chocolate batter into silky concentric swirl patterns. Shot 3 (0:03–0:05): Medium close-up eye-level shot of thick chocolate batter pouring in a smooth ribbon fold into a grey ceramic ramekin dusted with cocoa. Shot 4 (0:05–0:07): Straight-on medium shot inside a modern oven, warm amber interior glow, showing the chocolate lava cake fully risen and domed on the wire rack. Shot 5 (0:07–0:10): Hero macro shot of the baked lava cake on a matte dark plate; a silver spoon breaks into the crust, releasing a flowing cascade of warm molten chocolate lava with delicate rising steam. Style: High-end commercial cinematography, natural studio lighting, ultra-realistic textures, shallow depth of field, 8k resolution, smooth transitions. A professional 5-panel commercial storyboard layout on a clean, light-grey textured background with crisp black frame borders and typography: Top Row (Left to Right): Panel 1: 00:00 - 00:01 | CU, Angle 45-degree angle — Raw egg yolk cracking into cocoa powder and flour in a glass bowl. Text: "Combine your rich ingredients." Panel 2: 00:01 - 00:03 | Angle: High-Angle / Top-Down (CU) — Whisk swirling glossy chocolate batter into concentric rings. Text: "Whisk until perfectly smooth." Panel 3: 00:03 - 00:05 | MCU, Eye-Level — Thick ribbon of chocolate batter pouring vertically into a grey ramekin. Text: "Bake until the edges are set." Bottom Row (Centered): Panel 4: 00:05 - 00:07 | MS, Straight-On Centered — Puffed cake resting on the wire rack inside a warm illuminated oven. Text: "Baking in Oven" Panel 5: 00:07 - 00:10 | Hero Angle — Silver dessert spoon breaking the cake crust, warm molten chocolate oozing outward with steam. Text: "Enjoy your perfect lava cake." Style: Clean storyboard graphic design, photorealistic culinary frame stills, sharp cinematic typography, balanced layout.
 ```
 
 </details>

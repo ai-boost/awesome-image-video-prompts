@@ -1,0 +1,46 @@
+id: seedance-white-dragon-ascension
+title:
+  en: White hooded ninja fights smoke dragon in white void
+  zh: 白衣忍者与白烟巨龙在白色虚空中对决
+model: Seedance 2.5
+mode: reference-to-video
+category: action
+tags:
+- ninja
+- dragon
+- sword-fight
+source:
+  name: '@Xaroon_x on X'
+  url: https://x.com/Xaroon_x/status/2095458733136462234
+  credit: Xaroon_x
+  captured: '2026-11-03'
+  posted: '2026-09-03'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Xaroon_x/status/2095458733136462234
+notes:
+  en: A reference image pins the character, and the prompt fixes one prop state (a single katana with the empty saya kept visible) so the weapon stays consistent across cuts. A timed beat sheet with named camera moves and a freeze frame sets the rhythm of the fight.
+  zh: 参考图锁定角色外观，并规定道具只有一把刀、空刀鞘始终可见，使武器在各镜头中保持一致。按秒划分的分镜表配合指定的镜头运动和定格画面，决定了打斗的节奏。
+prompt: |
+  WHITE DRAGON ASCENSION | 10s | 16:9
+
+  Use image1 as SANZO. Keep his exact face, hair, skin tone, physique, tattoos and outfit.
+
+  Ultra-realistic live-action Hollywood action. Practical stunts, real katana combat, realistic physics, natural smoke and cinematic lighting. No CGI, anime, cartoon or game look.
+
+  LOCATION: Infinite white cyclorama with glossy reflective floor, soft diffused light, no horizon or props.
+
+  OUTFIT: All-white tactical shinobi outfit with hood, half-mask, layered robes, armor, belt, tabi boots and flowing fabric.
+
+  WEAPON: ONE white-handled katana on LEFT WAIST, fully sheathed. SANZO draws it once. Blade and handle leave the saya together. Saya becomes EMPTY and remains visible. No duplicate weapon or handle. Katana never returns.
+
+  CREATURE: Giant aggressive celestial dragon made of dense swirling white smoke, with horns, whiskers, mane and bright white eyes.
+
+  0–2s: SANZO runs through the white void as the smoke dragon chases him. FPV and low tracking shots. Jaws snap behind him. He combat-slides beneath the jaws. Slow motion, eye close-up, 2-frame freeze.
+
+  2–3.5s: During the slide, SANZO draws the katana. Empty saya stays visible. He performs cartwheel → butterfly twist → forward somersault and lands low.
+
+  3.5–8.8s: SANZO unleashes KAGE RYUJIN GIRI — CELESTIAL EXECUTION. The dragon coils, dives, bites and tail-whips. SANZO counters with flash steps, flips, twists and aerial slashes. Each slash tears through the smoke; the dragon instantly reforms. Use fast camera moves, crash zooms, speed ramps and heavy impacts.
+
+  8.8–10s: Final dive. SANZO performs an aerial corkscrew, somersault and butterfly motion, then delivers a powerful upward diagonal slash. 2-frame freeze. Dragon breaks into white smoke ribbons and disappears. SANZO lands in a strong ninja stance, katana in RIGHT hand, blade down. EMPTY saya visible on LEFT WAIST. Fade white.
+
+  NEGATIVE: CGI, anime, cartoon, game graphics, glow, beams, duplicate katana, duplicate handle, sheathing, clipping, floating weapon, blur, plastic skin, watermark, logo, subtitles, text.

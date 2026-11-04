@@ -1,0 +1,26 @@
+id: seedance-korean-riverside-picnic-cat-hat
+title:
+  en: Cat in tiger hat steals chicken at riverside picnic
+  zh: 戴虎头帽的猫在河边野餐抢鸡腿
+model: Seedance 2.5
+mode: text-to-video
+category: dialogue
+tags:
+- korean
+- cat
+- picnic
+- dialogue
+source:
+  name: '@Zyrellix on X'
+  url: https://x.com/Zyrellix/status/2100081464469787115
+  credit: Zyrellix
+  captured: '2026-11-03'
+  posted: '2026-09-16'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Zyrellix/status/2100081464469787115
+notes:
+  en: Numbered shots with exact timecodes and quoted lines of dialogue give the model a clear beat sheet for the cat's actions and the lip sync. A time-lapse from golden hour to night carries the story forward inside one shot.
+  zh: 按编号分镜并标注精确时间码，台词逐字引用，为猫的动作和口型提供清晰的节拍表。中间用延时摄影从黄昏过渡到夜景，在同一场景内推进时间。
+prompt: |
+  A cinematic 30-second short film, photorealistic, Korean riverside picnic aesthetic, late afternoon golden hour fading into night.A young East-Asian woman with a short black bob sits cross-legged on a beige gingham picnic blanket on green grass beside a wide river. Behind her: a long blue bridge, distant city skyline, and a tall tower. She wears an oversized white-and-blue pinstripe shirt, loose black necktie, sheer tulle overskirt, dark mini skirt, white socks, and black loafers. In front of her: a plastic cup of iced cola, a cardboard fried-chicken box, a small fluffy pom-pom, and extra chicken pieces.A chubby gray-and-white tabby cat wearing a knitted beige tiger hat with ears, stripes, and cartoon teeth sits and walks on the blanket.Shot 1 (0–3s): Wide shot. Girl calmly eats a fried chicken drumstick. The cat rolls on its back, then stands and walks toward her, staring at the chicken.Shot 2 (3–6s): Girl looks at the cat and says clearly in English, soft but firm: “No. This is mine.” The cat rears up on hind legs and bats at her arm like a tiny tiger.Shot 3 (6–10s): Wind blows her hair. She flinches, eyes squeezed shut, mouth open in a comic yell as the cat slaps her sleeve, then she sighs and says clearly: “Okay, okay. Eat. Just eat.”
+  Shot 4 (10–16s): Cat grabs a drumstick from the box with both paws, sits upright like a person, and nibbles it with eyes half-closed, blissful. Girl watches, then takes another bite of her own chicken.Shot 5 (16–19s): Girl stands up, gathers her tulle skirt, and says clearly: “I’ll come back. Leave it.” She walks out of frame to the left. Cat stays sitting, still holding the drumstick.Shot 6 (19–23s): Time-lapse. Sky turns orange sunset, then deep blue dusk. City lights and bridge lights bloom. Cat finishes eating, flops onto its side, rolls on the blanket, belly up, hat still on.Shot 7 (23–30s): Night. Close-up of the cat sitting neatly on the blanket beside leftover chicken and the cola cup. Soft city bokeh behind. Cat looks slightly guilty, then looks at the empty space where the girl sat, ears drooping. No more dialogue. Soft ambient river wind and distant city hum. End on a still close-up of the tiger-hatted cat.

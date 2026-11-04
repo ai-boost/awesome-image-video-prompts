@@ -1,0 +1,121 @@
+id: seedance-idol-mv-silhouette-led-stage
+title:
+  en: Silhouetted idol on reflective LED stage
+  zh: 反光LED舞台上的剪影偶像
+model: Seedance 2.5
+mode: reference-to-video
+category: music-dance
+tags:
+- idol-mv
+- music-video
+- reference-sheet
+- beat-sync
+source:
+  name: '@Chaemate_ on X'
+  url: https://x.com/Chaemate_/status/2103333680806760472
+  credit: Chaemate_
+  captured: '2026-11-03'
+  posted: '2026-09-25'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Chaemate_/status/2103333680806760472
+notes:
+  en: The prompt locks character reference sheets before any video, then maps each lyric to a shot, camera move and light cue on the beat so the performance stays synced to the audio track. Its staged sequence of environments gives the edit a clear build.
+  zh: 提示词先锁定角色参考图，再把每句歌词对应到节拍上的镜头、运镜和灯光变化，使表演与音轨保持同步。场景依次推进，让剪辑有清晰的层层递进。
+prompt: |
+  Use Seedance 2.5 model + J-pop idol MV skill.
+
+  GOAL:
+  Create a full high-energy J-pop / K-pop style idol music video that is perfectly synced to the uploaded audio track. The video must feel continuous, connected, and performance-driven — every body movement, camera move, light flash, and formation change lands exactly on the beat and lyrics. No static moments. Constant motion and visual payoff.
+
+  STEP 1 – GENERATE CHARACTERS FIRST (mandatory):
+  Before any video generation, create and lock consistent character reference images for the main performers:
+
+  Main Idol (Center / Lead):
+  - Young East Asian female (Korean or Japanese features)
+  - Sharp, charismatic face with strong eye contact and confident expression
+  - Long dark hair with subtle glossy highlights (or stylish short bob if preferred)
+  - Perfect stage makeup, glossy skin, defined eyes
+  - Stage outfit: high-fashion idol look — structured crop top or fitted jacket with metallic/embellished details, high-waisted pants or short skirt with movement-friendly fabric, statement heels or boots, subtle jewelry that catches light
+  - Aura: powerful, magnetic, “born for the spotlight”
+
+  Backup dancers (2–4 members):
+  - Matching but slightly varied East Asian idol looks
+  - Coordinated but not identical outfits in the same color family
+  - Clean, sharp choreography presence
+
+  Generate full character sheets (front, 3/4, side, full body) for the Main Idol and at least one clear group reference. Lock these as permanent references for the entire project. Do not change faces, body proportions, hair, or core outfit between shots.
+
+  STEP 2 – MUSIC VIDEO STRUCTURE & SYNC:
+  Upload the audio. Analyze the lyrics and energy:
+
+  [Chorus]
+  Watch me, watch me take the floor (hey!)
+  Watch me, watch me run the show (uh!)
+
+  [Verse]
+  Heels click, doors swing, I walk in slow-mo
+  Room stops, jaws drop, call it my solo
+  Don’t need permission, I’m the whole exhibition
+  Flash flash, catch me in high definition
+
+  [Pre-Chorus]
+  Turn it up, feel the rush, we’re about to blow
+  Count it down, three two one, here we go
+
+  [Chorus]
+  Watch me, watch me take the floor (hey!)
+  Every eye is begging for more (uh!)
+  Spotlight on, I was born for this glow
+  Watch me, watch me run the show
+
+  [Verse]
+  Level up, no luck, baby it’s a skill set
+  Gold crown, break it down, I ain’t even peaked yet
+  They copy my style but they can’t clone the fire
+  Bar’s at the stars, now watch it go higher
+
+  [Pre-Chorus]
+  Turn it up, feel the rush, we’re about to blow
+  Count it down, three two one, here we go
+
+  [Chorus]
+  Watch me, watch me take the floor (hey!)
+  Every eye is begging for more (uh!)
+  Spotlight on, I was born for this glow (watch me now!)
+  Watch me, watch me run the show
+
+  [Outro]
+  Watch me, watch me run the show (hey!)
+
+  Create a continuous performance video that follows the exact structure and energy of the track. Use second-level timing and strong beat anchors.
+
+  VISUAL STYLE:
+  - Premium J-pop / K-pop idol MV aesthetic
+  - Ultra-polished, cinematic yet energetic
+  - High-contrast stage lighting, neon accents, sharp color pops (deep blacks, electric pinks, golds, cyans, pure whites)
+  - Glossy skin, realistic hair physics, fabric movement, sharp choreography
+  - Mix of wide performance shots, dynamic mid-shots, dramatic close-ups on face and eyes, and powerful formation shots
+  - Environments: dark modern stage with reflective floor → expanding LED walls → abstract high-fashion sets → golden spotlight moments → starry / elevated “bar’s at the stars” climax
+  - Camera language: smooth tracking, push-ins on key lyrics, circling around the main idol, low-angle power shots, quick but clean cuts on beat drops, slow-mo on “slow-mo” lyric, flash cuts on “Flash flash”
+
+  PERFORMANCE DIRECTION (continuous & connected):
+  - Main idol is always the clear visual center. Backup dancers support formations but never steal focus.
+  - Choreography is sharp, powerful, and continuous — sharp isolations, strong arm hits, heel clicks, hair flips, confident walks, dynamic poses that land exactly on the lyrics.
+  - “Heels click, doors swing, I walk in slow-mo” → dramatic entrance with slow-motion heels and door effect, room reaction.
+  - “Flash flash, catch me in high definition” → rapid light flashes + sharp camera cuts + confident pose.
+  - Pre-chorus build-ups → rising energy, light intensity increases, formation tightens.
+  - Every chorus: full power performance, eye contact with camera, “watch me” moments with direct address, strong formation changes.
+  - “Gold crown, break it down” and “bar’s at the stars” → elevated, almost celestial lighting and upward camera moves.
+  - Final outro: powerful centered pose under the brightest spotlight as the last “run the show” hits.
+
+  TECHNICAL REQUIREMENTS FOR SEEDANCE 2.5:
+  - Perfect character consistency using the generated reference sheets
+  - Motion must be continuous and physically coherent across cuts
+  - Strong beat-sync: every major move, light change, and camera hit lands on the music
+  - High production value: realistic fabric physics, hair movement, reflections, lens flares only when they serve the energy
+  - No random morphing, no face drift, no floating limbs
+  - Keep the performance feeling like one continuous live stage show that evolves with the song
+
+  Output a complete, polished J-pop/K-pop idol MV that feels expensive, magnetic, and perfectly locked to the track. First generate and lock the character references, then build the full music-synced video.
+
+  #FlovaAI @Flovaai_Japan #Flovacpp #Seedance25 #JPop #KPop #IdolMV #AIMusicVideo

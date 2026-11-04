@@ -1,0 +1,54 @@
+id: nano-banana-honey-latex-bodysuit-white-studio
+title:
+  en: Woman in honey latex bodysuit on white studio
+  zh: 白色棚拍中穿蜂蜜色乳胶连体衣的女性
+model: Nano Banana 2.1
+mode: text-to-image
+category: portrait
+tags:
+- fashion-editorial
+- studio-portrait
+- latex
+- white-studio
+source:
+  name: '@alicehan_ai on X'
+  url: https://x.com/alicehan_ai/status/2116635961417429161
+  credit: Alice Han
+  likes: 193
+  captured: '2026-11-03'
+  posted: '2026-10-22'
+notes:
+  en: Structured JSON fields split subject, wardrobe, lighting and background so each detail stays fixed, and the handle is written as embroidery on the hem so it reads as garment detail. Soft high key light on a seamless white sweep keeps the latex highlights clean.
+  zh: 结构化的 JSON 字段分别描述主体、服装、灯光和背景，使每个细节保持稳定，签名文字以刺绣形式缝在衣摆上，像服装本身的细节。柔和的高调棚拍灯光打在无缝白色背景上，让乳胶的高光保持干净。
+prompt: |
+  {
+    "subject": {
+      "identity": "a breathtakingly gorgeous young Japanese woman, 158 cm tall with warm milk-tea brown hair featuring honey-caramel balayage, and a petite, lushly voluptuous hourglass figure (measurements: 90-58-92 cm)",
+      "hair": "warm milk-tea brown hair with sun-kissed honey-caramel balayage flowing in soft bouncy waves",
+      "expression": "gentle, slightly coy smile with direct gaze",
+      "pose": "standing three-quarters turned away while glancing over her shoulder, fingers resting lightly beside her jawline"
+    },
+    "wardrobe": {
+      "silhouette": "form-fitting high-gloss liquid latex bodysuit with an ultra-plunging V-neckline, bare shoulders, and extreme high-cut leg openings",
+      "material": "mirror-shine high-gloss liquid latex with patent leather trim",
+      "color": "honey",
+      "footwear": "thigh-high glossy black patent leather stiletto boots",
+      "accessories": "sleek black satin choker collar ribbon, delicate gold waist chain, and sheer lace-top thigh-high stockings"
+    },
+    "scene": {
+      "atmosphere": "dreamy, delicate, and luminous high-fashion editorial atmosphere",
+      "background": "clean seamless white floor and uninterrupted bright white infinity wall backdrop",
+      "camera": "eye-level camera perspective with a flattering three-quarter angle",
+      "composition": "full-body vertical 9:16 portrait framed head-to-toe with balanced negative space",
+      "grade": "photorealistic fashion editorial grade with clean whites, luminous skin tones, and rich specular highlights",
+      "lighting": "soft high-key studio lighting with broad diffused frontal and side illumination",
+      "location": "minimalist seamless white photography studio"
+    },
+    "scene_text": {
+      "archetype": "embroidery",
+      "carrier": "delicate cursive embroidery",
+      "placement": "on the garment hem",
+      "text": "alicehan_ai"
+    },
+    "compiled_prompt": "A professional high-fashion portrait photograph of a breathtakingly gorgeous young Japanese woman, 158 cm tall with warm milk-tea brown hair featuring sun-kissed honey-caramel balayage flowing in soft bouncy waves, and a petite, lushly voluptuous hourglass figure with natural feminine curves and beautifully sculpted collarbones. She is standing three-quarters turned away while glancing over her bare shoulder toward the camera lens, fingers resting lightly beside her jawline with a gentle, slightly coy smile and direct captivating gaze. She wears a form-fitting high-gloss liquid latex bodysuit with an ultra-plunging V-neckline, bare shoulders, and extreme high-cut leg openings in a glowing honey tone, expertly tailored from mirror-shine high-gloss liquid latex with polished patent leather trim. The glamorous ensemble is impeccably styled with a sleek black satin choker collar ribbon, a delicate gold waist chain, sheer lace-top thigh-high stockings, and thigh-high glossy black patent leather stiletto boots. Discreetly rendered along the garment hem, the delicate cursive embroidery reads the exact text 'alicehan_ai'. Captured in a full-body vertical 9:16 portrait framed head-to-toe with balanced negative space inside a minimalist seamless white photography studio featuring a clean seamless white floor and uninterrupted bright white infinity wall backdrop. Soft high-key studio lighting with broad diffused frontal and side illumination wraps gently around her contours, casting soft dimensional contact shadows and clean specular gleam across the high-gloss latex material. Natural authentic skin texture with visible micro-pores, creamy luminous warm skin tones, slightly messy natural strands framing forehead and temples, and exquisite high-end commercial fashion editorial clarity throughout the entire image."
+  }

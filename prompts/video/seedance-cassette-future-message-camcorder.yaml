@@ -1,0 +1,45 @@
+id: seedance-cassette-future-message-camcorder
+title:
+  en: Woman rewinds cassette and records a tape message
+  zh: 女子倒带磁带并录下一段留言
+model: Seedance 2.5
+mode: image-to-video
+category: vlog
+tags:
+- dv-camcorder
+- nostalgia
+- handheld
+- reference-identity
+source:
+  name: '@doctorwasif on X'
+  url: https://x.com/doctorwasif/status/2117126965291598243
+  credit: doctorwasif
+  captured: '2026-11-03'
+  posted: '2026-11-02'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/doctorwasif/status/2117126965291598243
+notes:
+  en: A reference image and a stated outfit lock identity, then layered DV texture (handheld shake, focus hunting, lens breathing, tape hiss) makes it read as home video. The timed beat sheet gives each action its own window, so the camera follows candid moments rather than posed ones.
+  zh: 用参考图和服装描述锁定人物身份，再叠加手持抖动、对焦跳动、镜头呼吸和磁带嘶声等DV质感，让画面像家庭录像。按秒分段的时间线让每个动作各占一个时间窗，镜头跟拍的是随性瞬间而非摆拍。
+prompt: |
+  Preserve image’s exact identity, face, hairstyle, skin tone, body proportions, and reference outfit throughout. Authentic Southeast Asian/Korean woman, early-2000s nostalgia.
+
+  30-second 16:9 video, ordinary quiet residential neighborhood: single-story house, small terrace, concrete steps, narrow alley, low corner wall, potted plants, tangled overhead wires. No shops or commercial activity.
+
+  Visual style: Extremely raw early-2000s DV camcorder home video. Unstabilized, shaky handheld footage, organic micro-jitters, accidental framing, frequent reframing, off-center subject, partial face crops, autofocus hunting, lens breathing, exposure pumping, rolling shutter, motion blur, compression artifacts, digital noise, faded desaturated colors, washed highlights, faded blacks, low contrast. Casual friend-recorded documentary realism. No posing, fashion-commercial aesthetics, cinematic glamour, perfect composition, or modern color grading.
+
+  Timeline:
+
+  - 00–03: Sitting cross-legged on terrace, rewinding cassette with pencil, tongue out in concentration.
+  - 03–06: Inserts cassette into old boombox, presses play, leans back and nods. Brief focus hunting.
+  - 06–10: Records herself on small tape recorder: “Hi, future. It's me.” Bursts into shy laughter.
+  - 10–13: Plays recording back, hears her voice, covers face in embarrassment, grinning.
+  - 13–17: Walks to alley corner, hops onto low wall, opens envelope of developed photos.
+  - 17–20: Flips through funny flawed prints: blurry photo, thumb over lens, friend's cropped head. Shows one to camera.
+  - 20–24: Plays handheld game console on terrace steps, thumbs tapping, tongue out in concentration.
+  - 24–27: Loses the game, groans dramatically, throws head back, laughs.
+  - 27–30: Glances at camera with warm spontaneous smile, console in hands. Abrupt cut to black.
+
+  Audio: Natural ambience only: morning birds, breeze, distant motorcycles, leaves, cassette clicks, tape hiss, paper rustling, handheld game beeps, faint muffled boombox tape audio. No background music.
+
+  Absolute priority: Preserve identity and outfit consistently. Spontaneous candid behavior, imperfect handheld recording, authentic nostalgic home-video texture. Never staged or polished.

@@ -1,0 +1,25 @@
+id: omni-miniature-lake-house-foundation
+title:
+  en: Giant hands marking a miniature lake house foundation
+  zh: 巨大的手在微型湖边房屋地基上标线
+model: Gemini Omni Flash
+mode: image-to-video
+category: vfx
+tags:
+- miniature
+- macro
+- giant-hands
+- construction
+source:
+  name: '@Strength04_X on X'
+  url: https://x.com/Strength04_X/status/2088098956534493293
+  credit: M-studioAi
+  likes: 270
+  captured: '2026-11-03'
+  posted: '2026-08-14'
+video: https://x.com/Strength04_X/status/2088098956534493293
+notes:
+  en: The prompt fixes the first frame as a static image, so the hands, staked footprint, tools and lake are set before any motion is added. Macro lens language with shallow depth of field and a believable miniature scale sells the giant-scale illusion.
+  zh: 提示词先把首帧定义为静态画面，把手、标桩线、工具和湖岸全部固定下来，再交给视频模型做运动。微距镜头语言、浅景深和可信的微缩比例共同营造巨物感。
+prompt: |
+  FIRST FRAME IMAGE PROMPT : Hyper-realistic miniature DIY lake house construction site at the very beginning of construction, positioned on a natural lakeside landscape with a calm freshwater lake immediately beside the building area. A partially prepared rectangular foundation is visible on compact brown soil and fine gravel, with the future lake house footprint clearly marked using tiny wooden stakes and string lines. A small unfinished dock foundation area extends toward the water but has not yet been constructed. Giant realistic human fingers carefully interact with miniature construction materials, measuring the ground and arranging tiny stones near the foundation. Scattered miniature bricks, natural stones, wooden beams, timber planks, miniature cement bucket, trowel, shovel, measuring ruler, nails, rope, gravel and small piles of construction materials surround the site naturally. Realistic grass, reeds, small plants and exposed soil transition into a calm lake shoreline. Tiny ripples are visible on the water surface. Ultra realistic macro photography, photorealistic miniature craftsmanship, 8K detail, cinematic natural daylight, soft directional sunlight, shallow depth of field, razor-sharp focus on the miniature construction area, professional product photography, realistic shadows, ambient occlusion, extremely detailed soil grains, gravel, wood fibers, stone textures, grass blades and water reflections, physically believable miniature scale, subtle handcrafted imperfections, cinematic composition, realistic depth, no finished house, no completed dock, no people visible except giant human hands and fingers, no text, no watermark.

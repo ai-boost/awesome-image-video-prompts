@@ -1,0 +1,27 @@
+id: seedance-yukata-village-lantern-journey
+title:
+  en: Woman in blue yukata walks hydrangea-lined village street
+  zh: 蓝色浴衣女子走过绣球花村街
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- yukata
+- japan
+- hydrangea
+- lantern
+source:
+  name: '@laviniavelle on X'
+  url: https://x.com/laviniavelle/status/2108047815578644501
+  credit: laviniavelle
+  captured: '2026-11-03'
+  posted: '2026-10-08'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/laviniavelle/status/2108047815578644501
+notes:
+  en: A seven-scene shot list repeats the same character description (short black hair, light blue yukata) in every cut, which keeps her consistent across the sequence. The closing style line sets warm soft lighting and shallow depth of field, and naming slow motion controls the pacing.
+  zh: 一段包含七个场景的分镜列表，在每个镜头中重复同一角色描述（黑色短发、浅蓝浴衣），使人物在整段视频中保持一致。结尾的风格句定下暖色柔光与浅景深，并用慢动作控制节奏。
+prompt: |
+  Cinematic 8k photorealistic video of a young East Asian woman with short black hair wearing a light blue traditional Japanese yukata. The video captures her walking along a wooden Japanese village street lined with blooming hydrangeas, sitting by an open wooden window holding a hand fan and drinking iced matcha tea with mountain views, strolling through a dense bamboo forest looking up at the canopy, passing through a red Torii gate at a Shinto shrine, hanging a glowing paper lantern outside traditional wooden houses at dusk, gently floating a paper lantern onto a calm river, and standing in a meadow filled with glowing fireflies overlooking an illuminated mountain village at night. Peaceful and nostalgic aesthetic with warm soft lighting, slow motion movements, and shallow depth of field.
+
+  #FlovaAI #Flovacpp

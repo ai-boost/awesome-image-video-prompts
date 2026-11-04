@@ -1,0 +1,59 @@
+id: seedance-clown-pumpkin-bat-halloween
+title:
+  en: Clown smashes glowing pumpkin with baseball bat
+  zh: 小丑用棒球棒击碎发光南瓜
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- halloween
+- horror
+- slow-motion
+- vfx
+source:
+  name: '@iam_mian7 on X'
+  url: https://x.com/iam_mian7/status/2116450954296074371
+  credit: iam_mian7
+  captured: '2026-11-03'
+  posted: '2026-10-31'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/iam_mian7/status/2116450954296074371
+notes:
+  en: A numbered beat-by-beat timeline with a fixed medium-wide frontal camera gives the model a clear sequence to follow. Explicit slow-motion and realistic-physics instructions for the explosion, plus an exact final text overlay, keep the payoff readable.
+  zh: 按编号逐步描述动作，并固定中景正面机位，让模型有清晰的时间线。爆裂段明确要求慢动作和真实物理效果，结尾精确指定白色大写字幕，使高潮与收尾更易读。
+prompt: |
+  Create a hyper-realistic, cinematic Halloween video in vertical 9:16 format, approximately 10 seconds long, with photorealistic 4K quality.
+
+  Scene and Environment:
+  A dark, spooky forest at night, filled with tall leafless trees, thick atmospheric fog, subtle floating red glowing particles, and dramatic moonlight. In the foreground, place a rustic, weathered wooden table.
+
+  Main Character:
+  A beautiful young female Halloween clown standing behind the table. She wears an elaborate vintage circus clown costume featuring a black-and-white checkered bodice, red decorative accents, a layered grey tulle skirt, white gloves, and two high curly buns decorated with red roses. Her face has elegant but slightly creepy Halloween clown makeup, with pale skin, dark eyes, and red details.
+
+  Action Sequence:
+
+  1. The camera remains fixed in a medium-wide frontal shot. The clown enters the scene holding a glowing orange jack-o'-lantern pumpkin. Several red helium balloons float above and behind her.
+
+  2. She carefully places the pumpkin on the wooden table, adjusting it with both hands. The pumpkin has a realistically carved, illuminated scary face.
+
+  3. She steps back, looks at the pumpkin, and raises her hands with a playful, mischievous expression.
+
+  4. A large wooden baseball bat suddenly appears in her hands. She grips it firmly with both hands and prepares to swing.
+
+  5. She performs a powerful horizontal baseball swing, striking the pumpkin with full force.
+
+  6. On impact, the pumpkin explodes dramatically into hundreds of realistic orange pieces, flying pumpkin seeds, glowing embers, and fiery particles. Create a spectacular cinematic slow-motion explosion with realistic physics.
+
+  7. Finish with the clown holding her follow-through batting pose while pumpkin fragments scatter across the wooden table and foreground.
+
+  **Final Frame:**
+  Display bold, clean white uppercase text at the bottom center:
+
+  "HAPPY HALLOWEEN"
+
+  Visual Style:
+  Ultra-photorealistic cinematic horror fantasy, realistic human anatomy, detailed facial expressions, natural character movement, physically accurate object interactions, dramatic volumetric lighting, atmospheric fog, realistic fire and particle effects, professional Hollywood VFX, sharp details, natural motion blur.
+
+  Camera: Fixed frontal camera, medium-wide composition, no cuts, no zooms, consistent character appearance and costume throughout.
+
+  Important: No cartoon aesthetics, no animation look, no plastic skin, no character morphing, no extra limbs, no distorted hands, no scene transitions, and no changes to the character's identity.

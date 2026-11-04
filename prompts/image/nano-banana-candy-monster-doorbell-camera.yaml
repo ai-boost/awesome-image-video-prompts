@@ -1,0 +1,28 @@
+id: nano-banana-candy-monster-doorbell-camera
+title:
+  en: Candy monster on doorstep, doorbell camera view
+  zh: 门铃摄像头拍到的糖果怪物
+model: Nano Banana 2.1
+mode: image-edit
+category: character
+tags:
+- halloween
+- candy
+- doorbell-camera
+- night
+source:
+  name: '@FlowbyGoogle on X'
+  url: https://x.com/FlowbyGoogle/status/2116265995539304722
+  credit: Google Flow
+  likes: 166
+  captured: '2026-11-03'
+  posted: '2026-10-30'
+notes:
+  en: The doorbell camera framing, low resolution, heavy compression and motion blur sell the found-footage realism. Uploading a candy photo as an ingredient keeps the creature built from real candy pieces.
+  zh: 门铃摄像头视角、低分辨率、强压缩和运动模糊营造真实监控录像的质感。上传糖果照片作为参考素材，让怪物完全由真实糖果构成。
+prompt: |
+  Trick or treat? Both!
+
+  Create your own candy visitor using Nano Banana in Google Flow. Upload a candy image as an ingredient and use this prompt:
+
+  Doorbell camera image at night, low-res, heavy compression, motion blur. Wide view from front door. Foreground: lawn/pavement with a surreal, whimsical candy monster sculpture. Creature is playful yet uncanny, with exaggerated limbs and an asymmetrical, polished body made entirely from the referenced candy. Background: empty houses, black treeline.

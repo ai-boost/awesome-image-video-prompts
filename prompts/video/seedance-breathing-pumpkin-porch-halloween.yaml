@@ -1,0 +1,41 @@
+id: seedance-breathing-pumpkin-porch-halloween
+title:
+  en: Man finds carved pumpkin breathing on rainy porch
+  zh: 男子发现雨夜门廊上的南瓜在呼吸
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- halloween
+- horror
+- photorealistic
+- sound-design
+source:
+  name: '@nawalsehar on X'
+  url: https://x.com/nawalsehar/status/2115022630004851185
+  credit: nawalsehar
+  captured: '2026-11-03'
+  posted: '2026-10-27'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/nawalsehar/status/2115022630004851185
+notes:
+  en: The prompt splits the 30 second runtime into timed beats, each with one concrete action, which keeps the pacing readable for the model. Sound cues are listed separately and the negative prompt blocks the CGI look, so the realism comes from physical details rather than from the word horror.
+  zh: 提示词把 30 秒拆成带时间段的分镜，每段只写一个具体动作，节奏更容易稳定。声音线索单独列出，负面提示词排除 CGI 质感，让真实感来自实物细节而不是恐怖一词。
+prompt: |
+  30 seconds | 16:9 | 4K Ultra HD | 30 FPS | Ultra-photorealistic live-action Halloween horror short.
+
+  A terrifying Halloween night unfolds on a rain-soaked wooden porch, where a real adult man discovers that his carved jack-o'-lantern is behaving strangely. With realistic human actors, practical effects, cinematic lighting, and authentic horror atmosphere, an ordinary Halloween decoration becomes something truly sinister.
+
+  0–5 seconds: A rain-soaked wooden porch glistens under dim nighttime lighting. A flickering jack-o'-lantern sits beside the front door. A man in a dark flannel shirt and jeans enters carrying Halloween decorations. Suddenly, he notices the pumpkin slowly expanding and contracting as if it were breathing.
+
+  5–12 seconds: The camera slowly pushes toward the pumpkin. Its jagged carved smile subtly widens before returning to normal. The internal candle flickers in sync with the movement. The man kneels cautiously as a faint, wet breathing sound emerges from inside.
+
+  12–21 seconds: The pumpkin's light abruptly goes out. Complete silence. The man switches on his phone flashlight, revealing two realistic human eyes deep inside the dark pumpkin, staring directly at him. Terrified, he recoils and drops his phone onto the wet wooden floor, leaving its flashlight beam tilted toward the pumpkin.
+
+  21–27 seconds: The man slowly reaches toward the pumpkin again. Before he can touch it, the jack-o'-lantern rotates several inches toward him on its own. Its carved smile remains perfectly still. Frozen with disbelief, he slowly backs toward the door.
+
+  27–30 seconds: Extreme close-up of the pumpkin. Its internal light suddenly switches back on. A tiny, fresh handprint gradually appears in condensation across its outer surface. Before the viewer can understand what has happened, the screen cuts instantly to black.
+
+  Production: Photorealistic live-action visuals, real human actors, consistent character identity, practical pumpkin movement, realistic condensation, natural rain, believable shadows, subtle handheld cinematography, shallow depth of field, cinematic horror lighting, and restrained color grading. Sound design includes rainfall, distant wind, wooden footsteps, soft breathing, subtle fabric movement, a low suspenseful musical rise, and sudden silence before the final reveal.
+
+  Negative prompt: No animation, cartoon visuals, CGI-looking characters, artificial environments, changing faces, inconsistent clothing, distorted anatomy, unrealistic pumpkin movement, exaggerated jump scares, gore, dialogue, narration, subtitles, text, logos, watermarks, black bars, or abrupt transitions before the final cut.

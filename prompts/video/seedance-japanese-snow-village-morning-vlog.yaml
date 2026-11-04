@@ -1,0 +1,29 @@
+id: seedance-japanese-snow-village-morning-vlog
+title:
+  en: Woman in tatami room beside shoji doors
+  zh: 身穿毛衣的女子在榻榻米房间里靠近障子门
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- japan
+- winter
+- vlog
+- lifestyle
+source:
+  name: '@nawalsehar on X'
+  url: https://x.com/nawalsehar/status/2097540713781371051
+  credit: nawalsehar
+  captured: '2026-11-03'
+  posted: '2026-09-09'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/nawalsehar/status/2097540713781371051
+notes:
+  en: The prompt is written as an ordered shot list, one beat per action, so the morning sequence plays out in order. Handheld, POV, follow and autofocus cues, plus an explicit ban on music, CGI and floating camera, keep the clip grounded as real vlog footage.
+  zh: 提示词按顺序逐个列出动作，像分镜表一样让模型依次完成晨间流程。手持、第一人称、跟拍和自动对焦等镜头指令，加上禁止配乐、CGI 和漂浮镜头的约束，让画面更接近真实 vlog 素材。
+prompt: |
+  Create a 30-second photorealistic Japanese winter lifestyle vlog in a traditional mountain village at sunrise. Follow a young Japanese woman as she wakes in a wooden house, opens the shoji door, feeds small winter birds, sweeps fresh snow, makes hot green tea, and walks along a snowy village path.
+
+  Show realistic snow-covered rooftops, cedar trees, stone paths, birds, footprints, chimney smoke, warm tea steam, and soft golden morning light. Use natural handheld 2026 vlog cinematography with close-ups, POV shots, walking follow shots, realistic autofocus, exposure changes, motion blur, and a gentle final village reveal.
+
+  Natural environmental audio only: wind, birds, footsteps, snow, broom, tea pouring, wooden doors and distant village sounds. Natural dialogue in English. No music, narration, subtitles, CGI, animation, artificial snow, unrealistic bird behavior, floating camera, logos or watermark.

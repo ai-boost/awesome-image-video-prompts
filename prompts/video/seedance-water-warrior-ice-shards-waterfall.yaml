@@ -1,0 +1,25 @@
+id: seedance-water-warrior-ice-shards-waterfall
+title:
+  en: Water warrior summons ice shards before waterfall
+  zh: 水系女战士在瀑布前召唤冰刃
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- martial-arts
+- fantasy
+- vfx
+- waterfall
+source:
+  name: '@AvelyrahnAI on X'
+  url: https://x.com/AvelyrahnAI/status/2109502116712820840
+  credit: AvelyrahnAI
+  captured: '2026-11-03'
+  posted: '2026-10-12'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AvelyrahnAI/status/2109502116712820840
+notes:
+  en: One dense paragraph pins the costume, the elemental abilities and the camera move together, so the character and the choreography stay bound to each other. Phrases like photorealistic VFX and epic fantasy lighting steer the render toward a film look rather than game art.
+  zh: 提示词用一段密集描述同时锁定角色服装、元素能力和运镜，让人物与动作编排绑在一起。写实 VFX 和史诗奇幻光照等措辞把画面导向电影质感而非游戏美术。
+prompt: |
+  A hyper realistic cinematic action sequence set on wet stone cliffs in front of a massive, roaring tropical waterfall. A fierce female warrior in a dark teal and green combat outfit wields powerful water-bending abilities, summoning swirling rings of sharp ice shards and a spiraling water shield. She faces an aggressive male warrior in dark tactical armor with glowing blue elemental bracers who hurls blasts of lightning and energy. Dynamic camera movement, fast-paced martial arts choreography, splashing water, mist, flying debris, epic fantasy lighting, 8k resolution, photorealistic VFX.

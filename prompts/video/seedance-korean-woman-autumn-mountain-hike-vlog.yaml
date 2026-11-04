@@ -1,0 +1,41 @@
+id: seedance-korean-woman-autumn-mountain-hike-vlog
+title:
+  en: Korean woman selfie hiking autumn mountain trail
+  zh: 韩国女生秋季登山自拍视频
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- travel
+- vlog
+- selfie
+- autumn
+source:
+  name: '@alixbuilds on X'
+  url: https://x.com/alixbuilds/status/2116381998499721651
+  credit: alixbuilds
+  captured: '2026-11-03'
+  posted: '2026-10-31'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/alixbuilds/status/2116381998499721651
+notes:
+  en: Scene by scene structure with a fixed character description up front keeps the same woman consistent across shots. Handheld selfie and POV framing are named explicitly, and the visual style line sets the camera feel and colour grade.
+  zh: 按场景分段书写，开头固定人物外观描述，使同一角色在各个镜头中保持一致。明确写出手持自拍和第一人称视角等机位，并用视觉风格段统一镜头语言与色调。
+prompt: |
+  Create an ultra-realistic cinematic travel vlog featuring a young adult Korean woman hiking through a beautiful mountain forest on a sunny autumn day. She has long, natural dark brown hair, soft facial features, and a cheerful, friendly expression. She wears a light beige long-sleeve athletic top, a dark hiking backpack, and comfortable outdoor clothing.
+
+  Scene 1: Begin with a handheld selfie shot as she smiles at the camera while walking along a peaceful forest trail. Sunlight filters beautifully through the trees.
+
+  Scene 2: Show cinematic POV shots of the rugged hiking path, exposed tree roots, fallen leaves, and other hikers walking uphill.
+
+  Scene 3: Capture close-up selfie footage of her climbing the rocky mountain trail, occasionally looking surprised, laughing, and enjoying the adventure.
+
+  Scene 4: Transition to breathtaking panoramic shots of layered mountain peaks beneath a clear blue sky. Show her reaching the summit and enjoying the beautiful scenery.
+
+  Scene 5: She sits at a wooden mountain viewpoint, enjoying the peaceful atmosphere and looking at the distant mountains.
+
+  Final Scene: Return to a close-up selfie shot. She smiles, waves goodbye to the camera, and enjoys the warm golden sunlight.
+
+  Visual Style: Photorealistic Korean travel vlog, natural facial expressions, realistic skin texture, handheld camera movements, authentic selfie perspective, cinematic wide-angle mountain shots, warm autumn sunlight, natural colors, smooth transitions, 4K detail.
+
+  Aspect Ratio: 16:9 Duration: 30 seconds Audio: Natural forest ambience, gentle wind, footsteps, and cheerful travel vlog background music.

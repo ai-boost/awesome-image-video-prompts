@@ -1,0 +1,36 @@
+id: seedance-cabin-standoff-meadow-embrace
+title:
+  en: Tearful man aims pistol, then couple embraces in meadow
+  zh: 泪流满面的男子举枪对准镜头，随后两人在草地中相拥
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- drama
+- romance
+- smash-cut
+source:
+  name: '@Just_sharon7 on X'
+  url: https://x.com/Just_sharon7/status/2103857991917433061
+  credit: Just_sharon7
+  captured: '2026-11-03'
+  posted: '2026-09-26'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Just_sharon7/status/2103857991917433061
+notes:
+  en: Timecoded beats (0 to 10s, 11 to 26s) and a hard smash cut separate a cool low key cabin from a warm golden hour meadow, so the tonal shift reads clearly. The style notes lock in the grade, anamorphic flares, slow motion on emotional beats, and a no dialogue soundscape of ambient sound only.
+  zh: 分时段的节拍（0至10秒、11至26秒）加上硬切，把冷色低调的小屋和暖色黄金时刻的草地清楚地分开，情绪转换一目了然。风格说明固定了调色、变形镜头光晕、情绪节点上的慢动作，并明确无对白、只保留环境音。
+prompt: |
+  Opening (dark, tense, 0–10s)
+  Dimly lit rustic wooden cabin interior, moody low-key lighting, shadows, cool color grade. Close-up of a handsome man in his late 20s/early 30s: messy medium-length brown hair, light stubble/beard, striking blue-green eyes, tears streaming down his face, raw anguish. He wears a dark charcoal oversized hoodie with metallic jewelry/charms on the chest. He holds a black pistol pointed directly toward camera (first-person feel from the woman’s perspective), hand trembling, face crumpled in grief.
+
+  Cut to medium shot: a beautiful young woman with long wavy blonde hair standing in the cabin kitchen (wooden shelves, metal pots, rustic counters). She wears a slightly unbuttoned cream silk blouse and flowing white skirt. Her expression flips to fierce rage — brows furrowed, teeth bared, intense blue eyes locked on him.
+  Back to the man: he keeps the gun raised, crying harder, then slowly lowers it, arms opening wide in surrender/offering himself, hoodie stretching as he stands exposed. Extreme close-up of his wet face, eyes squeezed shut, tears falling.
+  Transition & second half (warm, romantic, 11–26s)
+  Sudden smash-cut to golden-hour sunlight. The same couple tumbling into tall grass and wildflowers, embracing tightly, leaves and petals flying. Warm, sun-drenched color grade, lens flares, shallow depth of field, dreamy filmic look.
+  They roll laughing in a sunlit meadow filled with yellow wildflowers. Close-ups: her radiant smile, eyes crinkled, his hand gently cupping her cheek; his peaceful closed-eye smile as she leans over him. Soft golden light wrapping their faces.
+
+  They run hand-in-hand away from camera through rolling green hills at sunset, her white dress and his light blue shirt catching the wind. Wide tracking shot.
+  They sit together on a grassy hilltop overlooking valleys, his arm around her, watching a massive orange sun. He kisses the top of her head. Final wide shot: the couple as small silhouettes against a vast pink-orange dusk sky, hills stretching into the distance, wildflowers in the foreground.
+  Style notes
+  Cinematic 2.35:1 or 16:9, filmic grain, dramatic contrast in first half, warm anamorphic flares and soft bloom in second half. Emotional, intimate, high-production drama. Slow-motion on key emotional beats (tears, embrace, running). No dialogue, only ambient sound implied (breathing, wind, distant birds). Mood: heartbreak → fierce confrontation → tender memory/fantasy of love.

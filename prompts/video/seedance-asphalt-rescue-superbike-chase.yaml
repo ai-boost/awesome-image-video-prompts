@@ -1,0 +1,58 @@
+id: seedance-asphalt-rescue-superbike-chase
+title:
+  en: Superbike rider chases kidnappers SUV on highway
+  zh: 摩托车手在高速公路上追截绑架SUV
+model: Seedance 2.5
+mode: reference-to-video
+category: action
+tags:
+- motorcycle
+- car-chase
+- martial-arts
+- cinematic
+source:
+  name: '@Xaroon_x on X'
+  url: https://x.com/Xaroon_x/status/2115374004529664166
+  credit: Xaroon_x
+  captured: '2026-11-03'
+  posted: '2026-10-28'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Xaroon_x/status/2115374004529664166
+notes:
+  en: Locks each character and vehicle with numbered @image references plus a continuity block, then splits the 30 second film into timed beats with camera, sound and impact cues. Explicit audio cues per beat keep the score and fight hits synced to the action.
+  zh: 用编号的 @image 参考图锁定角色与车辆，并加入连续性说明，再把30秒影片拆成带时间码的分镜，每段都写明镜头、声音与撞击节奏。逐段的音效提示让配乐和打斗冲击与动作同步。
+prompt: |
+  ASPHALT RESCUE — 30-SECOND CINEMATIC ACTION FILM
+
+  FORMAT: 30 seconds, 16:9, photorealistic Hollywood action, 60fps where supported. Golden-hour lighting, realistic physics, natural motion blur, tire smoke, cinematic camera movement.
+
+  CHARACTER LOCK:
+  @image1 = Hero. Preserve exact face, hairstyle, beard, body, and outfit. He rides a black-and-red superbike; no helmet unless shown in reference.
+  @image2 = Four masked male kidnappers in black tactical clothing, each with a distinct build.
+  @image3 = Kidnapped woman in a light-colored outfit.
+  @image4 = Golden-hour highway, exit ramp, and empty industrial road.
+  Vehicle: Same black armored SUV throughout. No identity drift, clones, or costume changes.
+
+  TIMELINE:
+
+  00:00–00:05 — ABDUCTION & CHASE
+  Aerial 24mm shot: black SUV speeds through busy highway traffic. The bound woman pounds on the rear window. Low tracking shot reveals @image1 accelerating toward the SUV on his superbike. Engines roar, horns blare, percussion builds.
+
+  00:05–00:10 — HIGHWAY DANGER
+  Side tracking shot: hero narrowly threads between two trucks in controlled slow motion. The SUV brakes suddenly. Hero performs a controlled stoppie, swerves past it, and ducks as a masked attacker swings a metal pipe. Tire screeches and metal clangs.
+
+  00:10–00:15 — ESCAPE & HEROIC BLOCK
+  SUV exits onto an empty industrial road. Hero follows, lands a short controlled shoulder jump, overtakes the SUV, and performs a sliding 180-degree stop across its path. Dust and tire smoke rise. SUV stops just short of the bike. Music drops nearly silent at impact.
+
+  00:15–00:22 — MARTIAL ARTS SHOWDOWN
+  Four masked men exit and surround the hero. In readable, continuous choreography, he counters the first with a Muay Thai knee and elbow, traps the second with Wing Chun hand techniques, then delivers a spinning heel kick that sends the third into a concrete barrier. Handheld tracking, brief slow motion, synchronized impact sounds.
+
+  00:22–00:27 — FINAL TAKEDOWN & RESCUE
+  The largest attacker charges. Hero executes a Judo hip throw onto the SUV hood, visibly denting it. All four attackers remain down. Hero opens the rear door, gently removes the woman's gag, cuts her bindings, and helps her out. Music shifts to warm emotional strings.
+
+  00:27–00:30 — SUNSET ESCAPE
+  Extreme wide shot: the woman sits behind the hero on the superbike, holding his waist. They ride down the empty industrial road toward the orange sunset. The damaged black SUV and defeated attackers remain behind.
+
+  AUDIO: Original 140 BPM action score, deep synth bass, taiko percussion, distorted brass, superbike engine, SUV V8, tire screeches, fight impacts, breathing, then a heroic orchestral finish exactly at 00:30.
+
+  CONTINUITY: Left-to-right chase direction, consistent vehicle damage, outfits, identities, lighting, and spatial positions. Clear action beats, realistic movement, no unnecessary cuts.

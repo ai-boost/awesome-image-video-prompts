@@ -1,6 +1,53 @@
 # 动漫与动画
 
-[返回目录](../../README_zh.md) · 全部 76 条
+[返回目录](../../README_zh.md) · 全部 81 条
+
+<a id="seedance-two-friends-bedsheet-ghost-prank"></a>
+### 手机镜头拍下两个朋友和床单鬼的恶作剧
+
+<a href="https://x.com/aimikoda/status/2115446648704827633"><img src="../../previews/seedance-two-friends-bedsheet-ghost-prank.jpg" width="360"></a>
+
+独立的参考图锁定两人的发型与服装，风格参考只取线条和色调，不复制其姿态。按秒标注的分镜并写明切镜与甩镜位置，让手持手机的晃动与节奏在八个镜头中保持清楚。
+
+Seedance 2.5 · 参考生视频 · 出处: [@aimikoda on X](https://x.com/aimikoda/status/2115446648704827633) · 19,513 赞，统计于 2026-11-03
+
+[`anime`](tags.md#tag-anime) [`comedy`](tags.md#tag-comedy) [`hand-drawn`](tags.md#tag-hand-drawn) [`multi-shot`](tags.md#tag-multi-shot)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+References:
+@[ref1]: Yuki. Shoulder-length silver-white hair with long bangs, olive-green eyes, small round silver earrings, loose pale camisole, flat deadpan face.
+@[ref2]: Sumi. Short black bob with uneven bangs, brown eyes, small gold earrings, cream camisole under an oversized off-white shirt, loud and easily flustered.
+@[ref3]: the style reference. Hand-drawn look, line quality and palette only; not its pose or layout.
+
+Visual style: Rough hand-drawn anime sketch, loose black ink lines, flat watercolor washes, muted grey, sage and beige palette, soft indoor daylight. Shot as a phone front camera video: handheld, restless, constantly bobbing and tilting with whoever holds it, quick crash zooms and whip pans.
+
+Avoid: No subtitles. No background music. No slow motion. No other people. Yuki and Sumi never merge or swap faces.
+
+Two friends goof around nonstop with a phone camera through a small apartment, each new spot in front of a different strange painting. Every change of place comes through a whip pan or a cut from the phone itself; nobody stands still. A visible gap always separates their faces. Sound: footsteps, phone rustle, shrieks, laughter, one line. Shot list: 8 shots, about 30 seconds.
+
+Scene 1: Continuous, in front of an orange painting with two huge round owl eyes.
+Shot 1 (0-4s): Close two-shot, high angle; the camera bobs quickly with Sumi, who holds the phone with her raised right arm from the top right corner. Yuki springs up into frame from below on screen left and flashes a V sign with both hands, face completely deadpan. Sumi sticks out her tongue and shakes her head side to side, her black bob flying. Cut as Yuki snatches the phone from Sumi's hand; the camera whips left in a blur.
+
+Scene 2: Continuous, in front of a blue-grey blob painting with one black hole for an eye.
+Shot 2 (4-8s): Medium shot, eye level; the whip pan lands here, and the camera, now in Yuki's right hand, quickly pans right to follow Sumi. Yuki stays at the bottom left edge of frame, deadpan. Sumi skids across the floor from screen left to screen right in her socks, arms flailing. Cut as Sumi spins and lunges straight at the lens.
+Shot 3 (8-11s): Close-up, eye level; the camera, still in Yuki's hand, does a fast crash zoom onto Sumi. Sumi's face is pressed almost against the lens, mouth wide open. Behind her, Yuki does a stiff robot dance with her free arm, still deadpan. Sumi bumps the phone; it tumbles out of Yuki's hand. Cut the instant the phone hits the floor.
+
+Scene 3: Later, in front of a dark green painting of a faded face.
+Shot 4 (11-15s): Extreme low angle from the floor; the phone already lies face up, locked-off camera looking at the ceiling. Both girls lean in over the lens from opposite sides, Yuki on screen left, Sumi on screen right. Yuki flips her silver hair forward over her whole face; one big eye peers through a gap. Sumi shrieks and jumps back out of frame, then her hand dives in and grabs the phone. Cut as the phone lifts off the floor.
+
+Scene 4: Continuous, a narrow hallway with a grey wall and a brown smeared painting.
+Shot 5 (15-19s): Medium close-up, Sumi holding the phone out in front of her and facing it while she runs backward down the hallway, still running flat out, laughing. Far behind her, at center, Yuki glides after her with her hair still over her face, arms limp, closing the distance. Cut as Sumi swings around a corner; the camera whips right.
+
+Scene 5: Continuous, in front of a beige wall with a round orange painting.
+Shot 6 (19-22s): Medium close-up, eye level, handheld; the camera heaves with Sumi's breathing. Sumi, holding the phone in her right hand, presses her back to the wall, panting, eyes darting left and right. Yuki is nowhere in frame. Cut as a white cloth drops in from the top of frame.
+Shot 7 (22-25s): Insert, close to the lens; the camera jolts once. A single white bedsheet with two black eye holes lowers from above in front of the lens, held by Yuki's hands.
+Yuki's line (flat, deadpan): "Boo."
+Shot 8 (25-30s): Wide two-shot, high angle; the camera quickly pulls back, then spins with them. Sumi, phone in her right hand, yanks the sheet with her left; the sheet tangles around both girls and they spin together, laughing, Yuki's hair now neat. Both thrust V signs at the lens. Sumi's index finger is still reaching for the lens when the clip cuts to black as the fingertip covers it.
+```
+
+</details>
 
 <a id="seedance-katsudon-anime-cooking"></a>
 ### 快剪动画风格做猪排饭
@@ -331,6 +378,37 @@ Keep the characters consistent throughout the entire video. Preserve the toddler
 
 </details>
 
+<a id="seedance-popbot-character-sheet"></a>
+### 动漫战斗机器人角色设定表含三视图
+
+<a href="https://x.com/Mayz1169/status/2084530475792753069"><img src="../../previews/seedance-popbot-character-sheet.jpg" width="360"></a>
+
+提示词把画面分为左侧主视觉、中间正面侧面背面三视图和右侧细节特写三个区域，角色在各个角度下更容易保持一致。给出的色值和参考作品风格则控制了配色与渲染质感。
+
+Seedance 2.5 · 文生视频 · 出处: [@Mayz1169 on X](https://x.com/Mayz1169/status/2084530475792753069) · 1,040 赞，统计于 2026-11-03
+
+[`character-sheet`](tags.md#tag-character-sheet) [`turnaround`](tags.md#tag-turnaround) [`anime`](tags.md#tag-anime) [`sci-fi`](tags.md#tag-sci-fi)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+1️⃣character sheet:
+
+Ultra-detailed 16:9 futuristic character design sheet, official AAA sci-fi game character bible, clean editorial layout, bright white background with bold cyber UI elements. Character name "POPBOT", title "Professional", subtitle "A high-energy combat android designed for speed, style and precision."
+
+Left panel features a full-body hero illustration of a cute futuristic combat android girl with short white hair, bright blue eyes and a playful confident expression. She wears a vibrant blue oversized tactical jacket with colorful patches, black cropped inner outfit, short tactical shorts, high-top cyber sneakers and futuristic accessories. Her design combines street fashion, robotic technology and playful toy-like aesthetics. She wears a blue rabbit-ear cyber helmet with pink accents, robotic headphones and carries a large futuristic heavy weapon with a blue, yellow and black mechanical design. The weapon has industrial details, glowing elements and a compact sci-fi engineering style.
+
+Center panel includes professional turnaround views (Front, Side, Back), perfectly consistent anatomy, hairstyle, helmet, outfit structure, backpack system and weapon placement. Clearly display the oversized jacket silhouette, cyber accessories, shoes and mechanical components.
+
+Right panel includes detailed close-up panels showing rabbit helmet design, headphones, jacket patches, backpack tank, shoes, robotic accessories and weapon components. Include weapon breakdown showing the futuristic heavy blaster with mechanical structure, handles, energy core and colorful industrial design.
+
+Include accent detail panels showing symbols, patches, logos, buttons, straps and material textures. Add a refined color palette featuring electric blue, neon pink, bright yellow, white, black and dark gray.
+
+Style: futuristic anime character sheet, cyberpunk street combat design, cute mech warrior aesthetic, Zenless Zone Zero × Arknights × Honkai Star Rail quality, premium sci-fi game artbook illustration, colorful techwear fashion, detailed mechanical design, production-ready character bible, masterpiece, best quality, ultra detailed, 8K, clean composition, no watermark, no logo, no extra limbs, no deformed anatomy.
+```
+
+</details>
+
 <a id="h3-flat-vector-curry-delivery-explainer"></a>
 ### 扁平矢量风咖喱外卖解说动画
 
@@ -351,6 +429,88 @@ integrated_multimodal_description: [Shot 1] Classic Japanese 2D flat-vector expl
 [Shot 3] At 00:04.500, the teal field wipes into a sunny yellow solution card. A large teal smartphone slides into the center while three illustrated curry choices pop out as clean circular cards: rich curry, vegetable curry, and spicy curry. A dotted route grows from the phone toward a small delivery scooter carrying a curry bag. The service name "カレヨル" appears clearly in deep charcoal, followed by the short phrase "選ぶだけ。".
 [Shot 4] At 00:06.800, the composition changes to a clean white infographic strip. Three large circular steps assemble from left to right: "選ぶ", "届く", "食べる". The same woman appears in the final circle at home, opening the yellow curry container as visible steam rises. The delivery scooter moves along the dotted route and stops beside her. Keep every illustration flat, simple, and consistent with the key visual.
 [Shot 5] At 00:09.200, the camera returns to a wide warm-white end card with generous negative space. A large two-line headline assembles smoothly: "どうしても、休みの夜は" followed by "カレーが食べたい。". At 00:10.500, the curry bowl and service name appear beneath it with the final message "そんな時は、カレヨル。". A small curry icon makes one cheerful pop and a gentle steam curl rises. Hold the complete wide end card cleanly until exactly 12.000 seconds. Do not add extra text, random pseudo-letters, logos, browser UI, or additional characters.
+```
+
+</details>
+
+<a id="seedance-magician-girl-letterbox-gifts"></a>
+### 动漫魔法师少女越过黑边呈现礼物
+
+<a href="https://x.com/aimikoda/status/2106393688653922602"><img src="../../previews/seedance-magician-girl-letterbox-gifts.jpg" width="360"></a>
+
+用参考图锁定角色，并把上下黑边写成静止的屏幕图形，只让前景穿过黑边。固定机位加上严格的无对白节拍顺序，让表演清晰可读。
+
+Seedance 2.5 · 参考生视频 · 出处: [@aimikoda on X](https://x.com/aimikoda/status/2106393688653922602) · 722 赞，统计于 2026-11-03
+
+[`anime`](tags.md#tag-anime) [`letterbox`](tags.md#tag-letterbox) [`pop-out`](tags.md#tag-pop-out) [`comedy`](tags.md#tag-comedy)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Use @[char ref] as the exact character and style reference. Preserve her long pale-blue hair, oversized blue-and-orange pointed magician hat, orange-and-blue coat with its circular sleeve emblem, blue knee-high socks and chunky orange-and-blue sneakers. Keep the same angular painterly anime rendering, sharp graphic shapes and character proportions. Replace the background with clean pure white.
+
+Create a playful, completely nonverbal comedy in one continuous shot. She offers increasingly surprising gifts to the viewer, reacts to each implied rejection through expressive facial acting, then decides to step out of the picture herself.
+
+MAIN VISUAL GOAL:
+An unmistakable OUT-OF-FRAME, POP-OUT effect. Her offered objects, hands, sleeves, hat and finally her legs and body visibly project OVER the black letterbox bars toward the viewer.
+
+COMPOSITING ORDER, BACK TO FRONT:
+
+1. White background and scene.
+2. Two broad black letterbox bars at the top and bottom.
+3. The foreground character and the objects she presents.
+
+The white background is confined to the central picture window. The foreground character and offered objects are NOT confined to that window. Their silhouettes continue uninterrupted across its boundaries and onto the black bars. Their original colors remain fully visible when overlapping black.
+
+STATIC BARS, MOVING FOREGROUND:
+Both bars are completely static screen graphics. Keep their equal thickness, full width and exact screen position unchanged throughout. Their inner boundaries remain perfectly straight and horizontal.
+Foreground movement only temporarily hides portions of the bars. The underlying bars never move or deform. Visible edge segments on either side of an overlap remain aligned on the same horizontal line. When an object withdraws, reveal the original unchanged black surface beneath it.
+Keep black visible beside the overlaps. No bending, sliding, shaking, stretching, opening or impact reactions. The bars remain unchanged even during the final step out of the picture.
+
+CAMERA AND PERFORMANCE:
+Stationary camera, fixed wide-angle lens and level framing. She stays close and prominent throughout. Keep her face clearly visible inside the central picture window while her hands and gifts extend over the lower bar.
+Her facial acting remains continuously active: eye contact, eyebrow changes, natural blinking, questioning head tilts, shifting smiles, pouts and expressive cheek movements. Connect every reaction to the current offer.
+The viewer remains unseen and silent. Every rejection is IMPLIED entirely by her own reaction after looking into the lens. No viewer hands, camera nodding or external rejection signals.
+
+STRICTLY NONVERBAL:
+
+No dialogue, spoken words, whispering, narration, lip-sync or human vocalizations. No subtitles, captions or speech bubbles. She never mouths sentences. Mouth movement is limited to natural nonverbal expressions.
+Follow this exact order: FLOWER, COFFEE, JEWEL, CAT, HERSELF.
+
+FIRST OFFER, FLOWER:
+
+She smiles warmly and retrieves a single flower from beyond a side edge of the screen. Extend it toward the viewer, bringing the flower, fingers and sleeve visibly over the lower black bar.
+After a brief expectant look into the lens, her hopeful smile fades. One eyebrow rises, her head tilts and her eyes search the viewer’s face. Give the flower one small encouraging forward nudge, then accept the implied refusal with a tiny disappointed pout.
+Retract the flower and visibly place it outside the side edge of the screen before retrieving the next object.
+
+SECOND OFFER, COFFEE:
+
+Reach offscreen and return with a coffee cup held securely by its handle. Her face brightens with renewed confidence.
+Offer the cup close to the lens. Its silhouette and her sleeve clearly overlap the lower black bar while her face remains visible above it.
+Her smile falters. Look at the cup, then back into the lens with raised eyebrows and pursed lips. A small resigned shoulder drop follows. Pull the cup back and set it offscreen without spilling.
+
+THIRD OFFER, JEWEL:
+
+Her eyes brighten with a sudden idea. Produce a large sparkling gemstone and present it in an open palm. The gemstone, fingers and sleeve project over the lower black bar.
+Look proudly from the jewel to the viewer, expecting success. After the implied rejection, widen her eyes, lift both eyebrows and briefly part her lips in silent disbelief. Give the lens an incredulous stare, press her lips together and put the jewel offscreen.
+
+FOURTH OFFER, CAT:
+Retrieve a cute small cat from offscreen, supporting its body with both hands. Present it toward the lens, bringing its front paws, fluffy body and her hands visibly over the lower black bar.
+Her expression becomes delighted and persuasive. The cat blinks and moves its paws naturally.
+After another implied rejection, her delighted expression collapses into exaggerated disbelief. Look at the cat, then at the viewer, then back at the cat. Squint slightly and form a frustrated pout.
+Turn slightly and give the cat a light, comical backward toss. The cat lands on its paws behind her and trots away. Keep this quick and playful.
+
+FINAL OFFER, HERSELF:
+Turn back to the viewer. Her frustration changes into a mischievous idea. Raise one index finger in a clear requesting-a-moment gesture, with the fingertip overlapping the upper black bar.
+Lift one knee toward the lens and extend her sneaker OVER the lower black bar. The shoe grows large through foreshortening. Her leg crosses the picture boundary in front of the unchanged black surface.
+Shift her weight forward and bring the rest of her body after it, as though stepping out of the framed image into the viewer’s space. Her coat overlaps the lower bar while her oversized hat overlaps the upper bar.
+The bars remain perfectly straight and stationary beneath her. Her body simply renders in front of them. No opening, bending or displacement of either bar.
+Finish close to the lens with open palms presenting herself, lifted eyebrows and a cheeky hopeful smile. Keep natural blinking, breathing and small facial movements through the ending.
+
+OBJECT CONTINUITY:
+One offered gift at a time. Show each retrieval, presentation and removal clearly. Objects enter and leave through a side edge of the output. No objects transforming into the next gift or disappearing while still held. Preserve consistent object shapes and natural hand contact.
+Brisk natural real-time pacing with readable reactions. No slow motion, frozen expressions, distant retreats or camera movement. No warped bars, duplicated hands, costume changes or text.
+Audio consists only of light prop sounds, fabric rustles, sneaker steps and a brief cat meow. No dialogue, human vocalizations or background music.
 ```
 
 </details>
@@ -3396,6 +3556,25 @@ Create a whimsical Studio Ghibli-inspired animated scene showing a traditional M
 
 </details>
 
+<a id="seedance-girl-skateboard-coastal-town"></a>
+### 少女在阳光海岸公路上滑板
+
+<a href="https://x.com/CaliraVal/status/2099357883133726827"><img src="../../previews/seedance-girl-skateboard-coastal-town.jpg" width="360"></a>
+
+背后跟拍的镜头配合骑行者动作、海洋和小镇分层描述，让摄像机紧跟滑板少女，同时身后形成景深。明确手绘动漫风格、强烈阳光和9:16竖版画幅，锁定画风与格式。
+
+Seedance 2.5 · 文生视频 · 出处: [@CaliraVal on X](https://x.com/CaliraVal/status/2099357883133726827) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`skateboarding`](tags.md#tag-skateboarding) [`anime`](tags.md#tag-anime) [`coastal`](tags.md#tag-coastal) [`travel`](tags.md#tag-travel)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A cinematic anime-style scene of a young female traveler skateboarding downhill through a colorful coastal hillside town. She rides smoothly down a winding residential road, carrying a green backpack and orange shoulder bag, while the camera follows behind her in a dynamic tracking shot. Below, a breathtaking turquoise ocean stretches along a curved sandy coastline with white waves crashing against the shore. Colorful houses, utility poles, lush greenery, distant mountains, and enormous fluffy clouds fill the landscape. Strong summer sunlight, vivid blue sky, detailed hand-painted anime aesthetic, subtle wind moving her hair and clothes, realistic skateboard motion, smooth camera movement, atmospheric depth, highly detailed background, adventurous peaceful travel mood, cinematic composition, 9:16 vertical, seamless natural motion.
+```
+
+</details>
+
 <a id="seedance-grumpy-toddler-doctor-comedy"></a>
 ### 暴躁幼儿医生为病人听诊的3D喜剧
 
@@ -3718,6 +3897,25 @@ Flat 2D animation, childish cartoon style, exaggerated anime eyes, chibi charact
 FINAL OUTPUT
 
 20-second cinematic 3D animated short film, 16:9 aspect ratio, 24 fps, high-quality rendering, beautiful original Korean character designs, detailed environments, smooth character animation, realistic cloth simulation, warm autumn lighting, seamless flashback transitions, expressive storytelling, and a deeply nostalgic yet happy romantic atmosphere.
+```
+
+</details>
+
+<a id="seedance-rainy-station-boy-feeds-creature"></a>
+### 雨中乡村车站，男孩独自等车
+
+<a href="https://x.com/Elvorya/status/2104799320558256490"><img src="../../previews/seedance-rainy-station-boy-feeds-creature.jpg" width="360"></a>
+
+提示词按时间顺序拆成多个镜头，每次切换都写明景别和运镜，让 15 秒的叙事清晰可读。每个镜头都反复写明雨声、站台灯光和木长椅等环境细节，能稳定氛围和构图。
+
+Seedance 2.5 · 文生视频 · 出处: [@Elvorya on X](https://x.com/Elvorya/status/2104799320558256490) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`slice-of-life`](tags.md#tag-slice-of-life) [`fantasy`](tags.md#tag-fantasy) [`rain`](tags.md#tag-rain) [`train-station`](tags.md#tag-train-station)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 15-second cinematic fantasy slice-of-life sequence following a young boy waiting alone at a quiet rural railway station on a rainy evening. Begin with a wide establishing shot across multiple wet railway tracks, slowly revealing a small countryside station surrounded by endless green fields, distant mountains, utility poles, and a dark cloudy sky → reveal the young boy standing beneath the station shelter, wearing a bright yellow raincoat, white shorts, and vivid red rain boots, quietly waiting for his train as heavy rain falls around him → transition to a low-angle cinematic close-up of his red rain boots standing beside a shallow rain puddle, with the warm reflection of a small station lantern shimmering across the wet ground → cut to a side profile shot of the boy sitting alone on a wooden railway bench, looking quietly toward the empty tracks while rain falls in the background → transition to a mysterious close-up beneath the wooden bench as a tiny strange green creature wearing an oversized pointed green hat slowly peeks out from the shadows, watching the boy with large curious eyes → cut to a cinematic close-up of the boy's face as he notices the mysterious creature, his expression changing naturally from surprise to gentle curiosity and a warm smile → transition to a detailed close-up of the boy opening a small cloth lunch bag and taking out a piece of bread while sitting on the bench → cut to the tiny green creature watching the food from beneath the bench, cautiously moving closer with innocent curiosity → transition to a medium shot as the boy gently places a piece of bread on the bench for the little creature, creating a quiet emotional connection between them → cut to a wide cinematic shot of the empty railway tracks stretching into the rainy countryside as a distant train headlight slowly appears on the horizon → transition into a dramatic forward tracking shot along the wet railway tracks, the approaching train becoming brighter as rain continues falling and its warm headlights reflect across the rails → cut back to the station as the train arrives and stops beside the platform, its warm interior lights glowing against the cold blue rainy atmosphere → final shot becomes a cinematic medium-wide shot of the young boy stepping into the warmly illuminated train while briefly looking back toward the tiny green creature near the bench, as rain continues falling outside and the train prepares to leave the quiet countryside station
 ```
 
 </details>

@@ -1,6 +1,6 @@
 # 插画
 
-[返回目录](../../README_zh.md) · 全部 107 条
+[返回目录](../../README_zh.md) · 全部 109 条
 
 <a id="nano-banana-map-screenshot-anime-panorama-shibuya"></a>
 ### 由地图截图生成的涩谷十字路口动漫全景
@@ -880,6 +880,47 @@ Nano Banana Pro · 文生图 · 出处: [@awesome_visuals on X](https://x.com/aw
 Nano Banana Pro 📸 available on LetzAI
 
 { "subject": { "type": "beautiful young woman (early 20s)", "pose": "sitting on a wooden market bench with knees pulled up and arms wrapped around them, giving a cheerful wink", "expression": "cute, warm, festive" }, "appearance": { "hair_color": "dark brown", "hair_style": "long loose waves with a cozy knit headband", "complexion": "fair with rosy winter cheeks" }, "clothing": { "top": "cream knit sweater", "bottom": "red corduroy shorts", "socks": "white wool socks", "shoes": "tan winter boots with faux fur" }, "environment": { "setting": "outdoor Christmas market", "details": "twinkle lights, wooden stalls, warm hanging lanterns" }, "lighting": { "type": "warm golden fairy-light glow", "mood": "cozy, festive, romantic" }, "camera": { "angle": "low-to-mid angle", "lens_effect": "slight wide-angle with warm bloom", "framing": "subject centered among Christmas lights" }, "art_overlay": { "style": "maximalist Christmas sweets-monster pop-art", "illustrated_elements": { "monsters": "gingerbread goblins, candy-cane worms, snowball blob creatures, hot-cocoa monsters with melting marshmallow faces, cookie reindeer, tiny ornament gremlins, eggnog ghosts, fruitcake beasts", "graphic_shapes": "neon stars, snowflakes, sparkles, swirls, drips, zigzags, holly leaves, ribbon curls, comic bursts without text", "style": "flat neon holiday palette (red, green, gold, icy blue, pink, lime) with thick black outlines" }, "placement_and_density": { "behind_subject": "background filled with overlapping Christmas monsters and shapes", "around_subject": "monsters peeking over shoulders, around boots, near hair, and above the bench", "over_clothing": "some gingerbread creatures cling to sweater, candy-cane worms wrap lightly around shorts", "avoid_skin": "face, hands, and legs remain completely photorealistic", "depth_layers": "heavy layering in front and behind for pop-art depth", "energy_effects": "glowing rim lights, falling white dots like stylized snow, speed lines in festive neon" } }, "style": { "overall": "cozy Christmas market portrait overwhelmed by neon festive monsters", "aesthetic": "warm, chaotic, holiday-playful, surreal" } }
+```
+
+</details>
+
+<a id="gpt-image-paris-eiffel-picnic-gouache"></a>
+### 奶油色纸面上的埃菲尔铁塔与野餐
+
+<a href="https://x.com/Maercihh/status/2117592215602233781"><img src="../../previews/gpt-image-paris-eiffel-picnic-gouache.jpg" width="360"></a>
+
+把方括号中的地标、城市和人物活动填入模板，并要求奶油色纸面占画面40%到50%，留出安静的空白。水粉与干笔笔触的描述，加上克制的青绿、珊瑚红和芥末黄配色，让画面有手工印刷的质感。
+
+GPT Image 2.5 · 文生图 · 出处: [@Maercihh on X](https://x.com/Maercihh/status/2117592215602233781) · 98 赞，统计于 2026-11-03
+
+[`paris`](tags.md#tag-paris) [`travel`](tags.md#tag-travel) [`minimal`](tags.md#tag-minimal) [`negative-space`](tags.md#tag-negative-space)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A wide horizontal landscape hand-painted illustration of [LANDMARK NAME] in [CITY/COUNTRY] with strong emphasis on negative space and quiet composition.
+
+The image features a warm off-white cream paper background that occupies 40-50% of the total canvas, creating generous blank margins and breathing room.
+
+The [LANDMARK NAME] is positioned slightly off-center as a calm visual anchor, depicted through simplified [KEY ARCHITECTURAL FEATURES - e.g., "towering structures", "iconic silhouette", "distinctive archways"] with loose, expressive brush strokes. The landmark is suggested through minimal rhythmic marks and abstract color blocks in deep teal, cobalt blue, and forest green, rather than drawing every architectural detail precisely.
+
+The composition is sparse and uncluttered: only a few carefully placed elements including 2-3 tiny human figures [DOING TYPICAL ACTIVITY - e.g., "walking", "taking photos", "sitting"] rendered as simple silhouettes in coral red and mustard yellow, one small [CONTEXTUAL ELEMENT - e.g., "cafe table", "bench", "street vendor cart"] with minimal shapes, two or three [NATURAL ELEMENTS - e.g., "potted plants", "trees", "flowers"] in emerald green, and subtle [CULTURAL/ARCHITECTURAL HINTS - e.g., "traditional roof lines", "modern glass panels", "historic columns"].
+
+Large areas of the warm paper background remain completely untouched, especially around the edges and between elements.
+
+The style combines mid-century travel poster aesthetics with contemporary [REGIONAL] editorial illustration: elegant, minimal, warm, cultured, and slightly nostalgic.
+
+The texture shows loose hand-painted gouache and pastel marks with dry brush strokes, pastel smudges, wax-crayon edges, uneven color patches, imperfect handmade edges, and visible gaps between colored areas.
+
+Colors are layered, dry, and tactile with a restrained palette of deep teal, sky blue, coral red, salmon pink, mustard yellow, ochre, terracotta, and small near-black accents, but used sparingly so each color can breathe against the paper.
+
+The overall mood is quiet, spacious, relaxed, refined, like a sophisticated [CITY] cultural postcard or handmade art print suitable for premium lifestyle merchandise.
+
+The landmark remains recognizable through its essential identity—[DEFINING CHARACTERISTICS]—but the drawing stays airy, calm, poetic, and softly abstract.
+
+Strong sense of pause, breath, and refined emptiness with confident use of blank space.
+
+No crowded composition, no full-bleed busy background, no photorealism, no glossy digital rendering, no clean vector art, no 3D rendering, no text, no signage, no logos, no readable text.
 ```
 
 </details>
@@ -2854,6 +2895,34 @@ extremely detailed, high contrast between dark mass and glowing accents,
 masterpiece, ultra detailed
 
 主体：巨龙
+```
+
+</details>
+
+<a id="gpt-image-seoul-miniature-travel-card"></a>
+### 首尔微缩旅行卡片与N首尔塔
+
+<a href="https://x.com/Naiknelofar788/status/2097646788258021837"><img src="../../previews/gpt-image-seoul-miniature-travel-card.jpg" width="360"></a>
+
+将地标、城市和亮点填入固定模板，让不同目的地的卡片版式保持一致。暖白纸面、柔和光线和禁止杂乱的要求，使微缩场景清晰且适合收藏。
+
+GPT Image 2.5 · 文生图 · 出处: [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2097646788258021837) · 发现于 [wangrunlin/awesome-gpt-image-2-5-prompts](https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts)
+
+[`miniature`](tags.md#tag-miniature) [`travel-card`](tags.md#tag-travel-card) [`diorama`](tags.md#tag-diorama) [`paper-craft`](tags.md#tag-paper-craft)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a charming handcrafted miniature travel scene featuring [ICONIC STRUCTURE] as the main focal point.
+Show the landmark as a beautifully sculpted tiny 3D model, with soft rounded details, handmade textures, delicate imperfections, and a whimsical storybook feeling. Surround it with a few subtle elements that represent its location—such as tiny trees, flowers, streets, boats, mountains, clouds, or local objects—without making the scene crowded.
+
+Place everything on a clean warm-white textured paper background, with plenty of elegant negative space. Add a small tasteful wooden or paper travel plaque containing:
+
+[STRUCTURE NAME]
+[CITY, COUNTRY]
+Famous for: [SHORT UNIQUE FACT]
+
+Use soft natural lighting, gentle shadows, pastel yet realistic colors, miniature diorama depth, handcrafted clay/paper textures, and a premium cute travel-journal aesthetic. Centered composition, highly detailed landmark, adorable but sophisticated, clean and collectible travel-card design, no photorealistic people, no clutter.
 ```
 
 </details>

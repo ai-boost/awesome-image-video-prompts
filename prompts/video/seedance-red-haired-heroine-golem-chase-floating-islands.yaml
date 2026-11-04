@@ -1,0 +1,25 @@
+id: seedance-red-haired-heroine-golem-chase-floating-islands
+title:
+  en: Heroine flees stone golems then opens floating island realm
+  zh: 红发女英雄逃离石像巨人，开启浮岛秘境
+model: Seedance 2.5
+mode: text-to-video
+category: scifi-fantasy
+tags:
+- fantasy
+- action
+- magic
+- snow-forest
+source:
+  name: '@laviniavelle on X'
+  url: https://x.com/laviniavelle/status/2109868479713083637
+  credit: laviniavelle
+  captured: '2026-11-03'
+  posted: '2026-10-13'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/laviniavelle/status/2109868479713083637
+notes:
+  en: The prompt reads as an ordered shot list with a clear beat for each action, from the chase to the shield block to the gate reveal. Naming the costume, the glowing staff and the lighting keeps the heroine consistent across the cuts.
+  zh: 提示词按镜头顺序写成清晰的节拍，从追逐、激活遗迹符文、金色护盾格挡，到开门揭示秘境。明确写出服装、发光法杖和光线，让女主角在多个镜头之间保持一致。
+prompt: |
+  A cinematic fantasy adventure video featuring a brave red-haired heroine wearing a brown leather jacket and dark pants, running through a snowy forest while holding a glowing magical staff. She is being pursued by giant, menacing stone golems with glowing purple eyes and cracks of fire on their bodies. She enters ancient ruins, activates glowing magical runes on a stone pillar, and summons a golden circular shield barrier to block the attacking golems. After defending herself, she turns, opens massive stone gates, and reveals a breathtaking magical landscape with floating islands, cascading waterfalls, rivers, and a vibrant starry purple sky in the distance. Cinematic lighting, epic orchestral fantasy music, 4k resolution.

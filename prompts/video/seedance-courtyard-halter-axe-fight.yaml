@@ -1,0 +1,38 @@
+id: seedance-courtyard-halter-axe-fight
+title:
+  en: Woman in halter top fights off suited axe attackers
+  zh: 穿波点吊带的女子击退持斧男子
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- martial-arts
+- slow-motion
+- music-video
+source:
+  name: '@Just_sharon7 on X'
+  url: https://x.com/Just_sharon7/status/2105196278217150537
+  credit: Just_sharon7
+  captured: '2026-11-03'
+  posted: '2026-09-30'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Just_sharon7/status/2105196278217150537
+notes:
+  en: A shot list with named camera moves (wide establishing, circling tracking, low angle foot close up) sets the cut rhythm. Fixing the grade, lens flare and courtyard layout in the opening line keeps the set consistent across the sequence.
+  zh: 用明确的镜头清单（远景建立、环绕跟拍、低角度脚部特写）规划剪辑节奏。开头就固定画面风格、镜头光晕和院落布局，让整段镜头的场景保持一致。
+prompt: |
+  Cinematic 30-second music-video sequence, widescreen 16:9, photorealistic film look with slight anamorphic flare and warm dusty color grade.
+
+  A sunlit old East Asian courtyard apartment block: weathered grey concrete and wood buildings, wooden second-floor balconies, laundry hanging on lines across the sky, potted plants, stone-paved ground, wooden benches, corrugated roofs.
+
+  Center: a beautiful young East Asian woman, mid-20s, long wavy auburn-blonde hair with small black ribbon bows, peach makeup, hoop earrings, layered silver necklaces. She wears a black polka-dot halter crop top, tight black mini skirt, and black jeweled thong sandals. She stands casually in the middle of the courtyard smoking a cigarette, one hand on her hip, completely unbothered.
+
+  Four to five men in black suits (white shirts, black ties, some in long black coats) charge her from all sides, leaping through the air while swinging wooden-handled hatchets/axes. Dynamic slow-motion jumps, coats flying, motion blur.
+
+  She barely moves at first, exhales smoke, then unleashes precise, elegant martial-arts kicks. Men fly backward and slam onto the stone ground, lying scattered and defeated. Close-up of her jeweled sandals stepping forward. Extreme close-up of her face as an axe blade passes just in front of her lips; she looks bored and pretty.
+
+  One remaining man charges; she high-kicks him so hard he flips backward over the hanging laundry lines into the sky. She turns, poses with hands on hips among the fallen bodies, flicks ash, then adjusts her top straps while looking at camera with cool confidence.
+
+  Camera: wide establishing shot, circling tracking shots, low-angle foot close-up, slow-motion mid-air action, handheld energy mixed with locked-off beauty shots. Natural daylight, soft courtyard shadows, cinematic shallow depth of field.
+
+  Mood: stylish, effortless, slightly surreal, high-fashion action, “she doesn’t even try.” Subtle song lyric energy: “Can you do it?”

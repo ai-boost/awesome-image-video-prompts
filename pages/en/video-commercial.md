@@ -1,6 +1,6 @@
 # Ads and product videos
 
-[Back to the list](../../README.md) · All 124 entries · **1** · [2](video-commercial-2.md)
+[Back to the list](../../README.md) · All 130 entries · **1** · [2](video-commercial-2.md)
 
 <a id="kling-vintage-watch-macro"></a>
 ### Macro shot of a vintage wristwatch between fingers
@@ -4354,6 +4354,25 @@ A stunning blonde fashion model gracefully walks and poses in a luxurious palace
 
 </details>
 
+<a id="seedance-blue-perfume-golden-beach-commercial"></a>
+### Blue perfume bottle with droplets at golden sunset
+
+<a href="https://x.com/laviniavelle/status/2100071299968032968"><img src="../../previews/seedance-blue-perfume-golden-beach-commercial.jpg" width="360"></a>
+
+The prompt sequences a backlit macro product shot into a cross dissolve to a model spraying the scent, so the shot order and the lens flare cues control the pacing. Stating photorealistic 8K and shallow depth of field holds a consistent luxury look across both shots.
+
+Seedance 2.5 · Text-to-video · Source: [@laviniavelle on X](https://x.com/laviniavelle/status/2100071299968032968) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`perfume`](tags.md#tag-perfume) [`luxury`](tags.md#tag-luxury) [`golden-hour`](tags.md#tag-golden-hour) [`beach-commercial`](tags.md#tag-beach-commercial)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A cinematic photorealistic commercial shot on a golden hour beach A deep sea blue glass perfume bottle covered in micro water droplets rests on a wet rock, backlit by the setting sun glittering over gentle ocean waves Soft lens flare and warm golden reflections glimmer across the water The scene seamlessly cross dissolves to a stunning woman wearing a flowing white deep V dress standing on the sandy shore She sprays the fragrance onto her neck with her eyes closed in bliss surrounded by a fine mist catching the golden sunlight then looks directly into the camera with a gentle confident smile holding the bottle Photorealistic 8K resolution, dynamic lighting, high end luxury aesthetic shallow depth of field.
+```
+
+</details>
+
 <a id="seedance-china-train-travel-multishot"></a>
 ### Traveler watches the landscape from a train window
 
@@ -4449,51 +4468,6 @@ The traveler remains identical throughout all shots. Preserve face, hairstyle, r
 
 FINAL QUALITY TARGET
 The final film should look like genuine footage captured by an elite travel filmmaker for a major Chinese tourism/fashion campaign—not a collection of AI-generated beauty shots. The realism comes first; the commercial polish comes from cinematography, color, music, editing and art direction.
-```
-
-</details>
-
-<a id="seedance-chinese-spicy-sour-fish-cooking"></a>
-### Chef cuts a whole fish on wooden board
-
-<a href="https://x.com/Naiknelofar788/status/2105297994736394705"><img src="../../previews/seedance-chinese-spicy-sour-fish-cooking.jpg" width="360"></a>
-
-Timed beats such as 0 to 4s and 4 to 8s act as a shot by shot script, and each beat names concrete motion, sound and ingredients. The opening block fixes lighting, camera style and a ban on text, which keeps the look consistent across cuts.
-
-Seedance 2.5 · Text-to-video · Source: [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2105297994736394705)
-
-[`chinese-cuisine`](tags.md#tag-chinese-cuisine) [`food-commercial`](tags.md#tag-food-commercial) [`timed-shots`](tags.md#tag-timed-shots) [`macro`](tags.md#tag-macro)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a 30-second ultra-realistic cinematic cooking video of a skilled Chinese chef preparing spicy-and-sour fish in a professional kitchen. The chef wears a clean white chef uniform. Fast, precise cooking movements, realistic food textures, authentic fire, steam and oil physics, natural human motion, cinematic food photography. No text, logos, subtitles, or watermarks.
-
-[0–4s] — FISH PREPARATION
-The chef firmly holds a fresh whole fish on a wooden cutting board. With fast, controlled knife movements, the chef removes the head and smoothly follows the spine, separating the fish into clean fillets. Realistic knife sounds and subtle moisture details.
-
-[4–8s] — THIN SLICING
-The fillet is placed flat on the board. The chef rapidly slices it into extremely thin, delicate pieces with precise wrist movements. The translucent slices fall naturally one after another, revealing detailed fish texture and moisture.
-
-[8–11s] — SEASONING
-The fish slices are transferred into a bowl and coated with spices and a light marinade. The chef quickly tosses and mixes them until every piece is evenly coated with a smooth, glossy layer.
-
-[11–15s] — WOK AND AROMATICS
-A heavy iron wok heats over a strong blue-orange flame. Oil begins to shimmer. Pickled mustard greens, pickled chilies, garlic, and spices are thrown into the wok. They immediately sizzle as the chef rapidly tosses the ingredients, filling the scene with realistic steam and aromatic heat.
-
-[15–20s] — COOKING THE FISH
-Rich stock is poured into the wok and reaches a vigorous boil. The chef carefully adds the delicate fish slices and controls the wok with quick, precise movements, keeping the fish intact. A light starch slurry is added while the wok is rotated in smooth arcs, creating a silky, glossy sauce that coats every slice.
-
-[20–24s] — PLATING
-The cooked fish is carefully transferred into a deep serving dish. White fish slices settle among golden pickled vegetables and red chilies. The glossy sauce flows naturally around the fish while steam rises from the hot dish.
-
-[24–27s] — HOT OIL FINISH
-Fresh minced garlic and dried red chilies are arranged on top. The chef pours scorching hot oil over them. A powerful, realistic sizzling reaction erupts, sending fragrant steam upward as the toppings bloom in the hot oil.
-
-[27–30s] — FINAL HERO SHOT
-The camera slowly pushes toward the finished dish. Tender white fish, golden pickled vegetables, bright red chilies, glossy sauce, fresh garlic, and swirling steam fill the frame. End on an irresistible macro close-up of the bubbling, freshly cooked spicy-and-sour fish.
-
-Ultra-realistic food cinematography, photorealistic chef, authentic Chinese cooking technique, realistic knife handling, detailed fish texture, natural steam and fire, physically accurate oil movement, cinematic depth of field, subtle handheld camera movement, warm professional kitchen lighting, macro food details, high dynamic range, 4K, premium food commercial quality.
 ```
 
 </details>

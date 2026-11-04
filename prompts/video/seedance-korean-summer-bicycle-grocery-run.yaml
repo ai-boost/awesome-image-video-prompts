@@ -1,0 +1,35 @@
+id: seedance-korean-summer-bicycle-grocery-run
+title:
+  en: Woman walks with city bicycle on Korean street
+  zh: 女子推着城市自行车走在韩国街道上
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- korea
+- lifestyle
+- bicycle
+- photorealistic
+source:
+  name: '@nawalsehar on X'
+  url: https://x.com/nawalsehar/status/2093215704946467157
+  credit: nawalsehar
+  captured: '2026-11-03'
+  posted: '2026-08-28'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/nawalsehar/status/2093215704946467157
+notes:
+  en: The clip is written as ordered beats where each action causes the next, which keeps the timeline continuous over 30 seconds. A closing list of physical limits (no teleporting, no instant acceleration, no CGI look) and named sound and camera cues anchor the realism.
+  zh: 片段按顺序拆成几个动作节点，每个动作引出下一个，使30秒内的时间线保持连贯。结尾列出的物理限制（禁止瞬移、瞬间加速、CGI质感）加上明确的声音与镜头指令，共同稳定写实感。
+prompt: |
+  30-Second Cinematic
+
+  Ultra-photorealistic Korean summer lifestyle video following a young woman as she unlocks her city bicycle, places her crossbody bag in the front basket, and naturally rides through a peaceful residential neighborhood.
+
+  She slows down, turns realistically, parks beside the grocery store, locks her bicycle, and enters the supermarket. She casually selects a few groceries—apples, milk, and a snack—then pays at the checkout.
+
+  After placing the groceries securely in the bicycle basket, she unlocks the bike, mounts naturally, and cycles home along the same street.
+
+  Focus on realistic human movement, bicycle balance, pedal motion, braking, tire contact, momentum, wind, clothing and hair movement, grocery-bag weight, and authentic everyday sounds. Smooth cinematic camera movement, natural lighting, realistic depth of field, and continuous cause-and-effect action.
+
+  No teleportation, instant acceleration, floating objects, distorted anatomy, changing clothes or bicycle, exaggerated wind, CGI appearance, or action-movie movement.

@@ -1,0 +1,25 @@
+id: seedance-gothic-warrior-angel-cathedral-battle
+title:
+  en: Warrior becomes a winged angel in a gothic cathedral
+  zh: 哥特教堂中的女战士化身有翼天使
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- gothic
+- fantasy
+- angel
+- vfx
+source:
+  name: '@laviniavelle on X'
+  url: https://x.com/laviniavelle/status/2110227233294139529
+  credit: laviniavelle
+  captured: '2026-11-03'
+  posted: '2026-10-14'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/laviniavelle/status/2110227233294139529
+notes:
+  en: The prompt opens on a wide static establishing shot, then ties the transformation to one physical action, kneeling and driving the sword into the floor, so the cut has a clear cause. Naming the light sources up front (moonlight through stained glass, blue runes on the floor) fixes the palette before the gold and blue energy burst.
+  zh: 提示词先用宽景静态镜头建立教堂空间，再用跪地插剑这一具体动作触发变身，让转场有明确的因果。开头就写明月光、彩色玻璃和地面蓝色符文等光源，使金蓝能量爆发时的配色保持统一。
+prompt: |
+  A dark gothic cathedral interior with stained glass windows and moonlight shining through, a dark-haired female warrior in a black gown holding a sword standing in the center as demonic creatures emerge from the shadows, magical blue runes glowing on the stone floor, the warrior kneels and drives her sword into the ground unleashing a powerful burst of blue and golden energy, transforming into a magnificent warrior angel with glowing white wings and golden divine armor, fighting off multiple demon monsters with a glowing sword and floating golden swords, defeating a massive winged demon boss in an epic battle, cinematic fantasy action style, highly detailed visual effects.

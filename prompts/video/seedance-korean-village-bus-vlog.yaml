@@ -1,0 +1,35 @@
+id: seedance-korean-village-bus-vlog
+title:
+  en: Woman rides rural bus through Korean mountain village
+  zh: 女子乘坐农村巴士穿过韩国山村
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- vlog
+- korean-countryside
+- handheld
+- dialogue
+source:
+  name: '@aiwithaly on X'
+  url: https://x.com/aiwithaly/status/2095733454461907437
+  credit: aiwithaly
+  captured: '2026-11-03'
+  posted: '2026-09-04'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/aiwithaly/status/2095733454461907437
+notes:
+  en: The prompt splits a 30 second vlog into timed beats with scripted dialogue lines and a locked character description, and its closing negatives stop the look from drifting into cinematic polish. It also sets handheld phone realism and natural location audio explicitly.
+  zh: 提示词把三十秒的vlog拆分为带时间节点的段落，配有台词和固定的人物描述，结尾的否定词防止画面滑向电影化的精致感。同时明确设定了手持手机的真实感和现场环境声。
+prompt: |
+  Photorealistic 30-second modern Korean countryside vlog featuring a young Korean woman in her mid-20s exploring a peaceful mountain village during late afternoon. She wears a loose cream knit top, olive-green jacket, beige trousers, white sneakers, and a small canvas crossbody bag. Keep her identity, hairstyle, clothing, and proportions consistent throughout.
+
+  She arrives by a small rural bus, steps off at a quiet roadside stop, and films herself saying, “Today I'm spending the day in a little mountain village.” She walks through narrow village roads, showing traditional houses, gardens, bicycles, firewood, and green mountain slopes before saying, “It’s so quiet here… I love it.”
+
+  She discovers a tiny family-run shop, greets the elderly shopkeeper, and enjoys a simple homemade Korean meal outside. She tastes the hot soup and smiles genuinely, saying, “Oh wow… this is really good.” She walks beside green fields, gently touching the plants as the wind moves through them, and says, “I could honestly stay here all day.”
+
+  End at golden hour overlooking the village and mountains. She turns the phone toward the sunset, smiles, and says, “This was such a nice little escape. I’ll definitely come back.”
+
+  Authentic 2026 smartphone vlog aesthetic, natural handheld movement, imperfect framing, realistic autofocus and exposure changes, natural walking shake, genuine expressions, spontaneous reactions, realistic Korean village atmosphere, physically accurate human movement, clothing, hair, plants, steam, bus motion, and environmental interactions. Natural location audio only, no background music, no voice-over, no subtitles.
+
+  No CGI, no artificial faces, no beauty filters, no robotic acting, no staged posing, no cinematic-commercial perfection, no drone shots, no excessive stabilization, no changing identity, clothing, or hairstyle, no distorted anatomy, no impossible physics, no floating objects, no text, logos, or watermark.

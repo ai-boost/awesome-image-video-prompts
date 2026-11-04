@@ -1,0 +1,25 @@
+id: seedance-snow-alpine-fur-jacket-walk
+title:
+  en: Woman in fur jacket walking through alpine snow
+  zh: 身穿白色毛领夹克的女子走过雪山
+model: Seedance 2.5
+mode: text-to-video
+category: commercial
+tags:
+- fashion
+- snow
+- mountain
+- luxury
+source:
+  name: '@CaliraVal on X'
+  url: https://x.com/CaliraVal/status/2107697202646987178
+  credit: CaliraVal
+  captured: '2026-11-03'
+  posted: '2026-10-07'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/CaliraVal/status/2107697202646987178
+notes:
+  en: Timed beats step through a wide shot, a tracking shot, a side profile and a push-in, which gives the model a clear shot sequence. Restating the face, hair and outfit in every beat keeps the subject consistent across cuts.
+  zh: 按时间段分镜，依次为全景、跟拍、侧面特写和推近镜头，给模型清晰的镜头顺序。每段重复人物的面容、发型和服装，让整段视频的主体保持一致。
+prompt: "A beautiful young woman with fair skin, realistic facial features, dark brown hair in a sleek high ponytail, natural makeup, wearing a luxurious white faux-fur jacket over a fitted black top, tailored black pants, and black leather ankle boots. Keep her identity, face, hairstyle, body proportions, and outfit consistent throughout.\n\n0–4s: Wide cinematic shot of her standing in a breathtaking snow-covered alpine landscape with huge snowy mountains behind her. She begins walking toward the camera through fresh snow.\n\n4–8s: Smooth full-body tracking shot as she walks confidently through the snow. Her boots leave realistic footprints while her fur jacket and ponytail move naturally in the cold wind.\n\n8–12s: Elegant side-profile fashion shot. She stops, gently adjusts the fur collar, and looks toward the distant mountains. Soft winter sunlight highlights her face and the texture of the fur.\n\n12–15s: Slow cinematic push-in to a beautiful close-up of her face. She calmly looks toward\
+  \ the camera, then slightly turns toward the mountains as the shot ends.\n\nPhotorealistic live-action, high-end luxury fashion campaign, cinematic camera movement, realistic snow and fabric physics, natural skin texture, soft winter sunlight, shallow depth of field, premium color grading, ultra-detailed, 4K quality.\n\nNegative: distorted face, changing identity, changing outfit, unnatural hands, extra fingers, unrealistic walking, floating feet, CGI look, plastic skin, flickering, jitter, text, logo, watermark.\n#Flovaai #Flovacpp \n@Flovaai_Japan\n"

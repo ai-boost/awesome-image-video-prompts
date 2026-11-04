@@ -1,0 +1,267 @@
+id: seedance-telekinetic-heroine-halts-zombie-horde
+title:
+  en: Heroine halts zombie horde on rainy avenue
+  zh: 雨中女主角用念力阻挡丧尸群
+model: Seedance 2.5
+mode: reference-to-video
+category: action
+tags:
+- superhero
+- zombies
+- telekinesis
+- apocalypse
+- live-action
+source:
+  name: '@ZentrixHQ on X'
+  url: https://x.com/ZentrixHQ/status/2116844865279451613
+  credit: ZentrixHQ
+  captured: '2026-11-03'
+  posted: '2026-11-01'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/ZentrixHQ/status/2116844865279451613
+notes:
+  en: Every gesture is tied to a named target that responds at once, and a fixed beat sheet with timed shots keeps the 30 second action readable. A reference photo locks the actress while rules against strain, glowing hands and HUD effects keep the telekinesis physical.
+  zh: 每个手势都对准一个明确目标，物体随即响应，固定的时间轴把 30 秒动作切分得清晰可读。参考照片锁定演员形象，同时禁止发力、发光和界面效果，让念力保持物理可信。
+prompt: |
+  Create a 30-second photorealistic LIVE-ACTION superhero apocalypse movie scene. Landscape 16:9. Real actress, real stunt performers, physical city location, full-size vehicles, natural lighting, and seamless feature-film visual effects.
+
+  REFERENCE
+  Use only Image Reference 1, the supplied photograph of the adult heroine. Preserve her exact face, hairstyle, hair colors, proportions, outfit, footwear, and accessories throughout. Render any stylized details as real skin, hair, fabric, and physical materials. Natural pores, expressive eyes, individual hair strands, clothing seams and folds.
+
+  No video reference is supplied. Construct everything from this description.
+
+  STORY
+  A woman calmly faces a charging zombie horde. She inserts white wireless earbuds, starts her music, and clears the avenue with effortless telekinesis. She knocks back the front ranks, blocks a flanking alley with a taxi, sends a bus through the main horde, and collapses a damaged pedestrian skybridge onto the bus and remaining zombies. She walks away through a clear side street.
+
+  One continuous event, one coherent location, exactly thirty seconds. No survivors, rescue subplot, dialogue, or flashbacks.
+
+  LIVE-ACTION STYLE
+  Everything resembles a finished theatrical film. The heroine looks like a real actress on location. Zombies resemble stunt performers in practical prosthetic makeup. Vehicles and buildings have real scale, weight, texture, and photographic lighting.
+
+  Natural acting, realistic anatomy, cinematic editing, believable collisions, and physically convincing destruction. No gameplay framing, game-engine appearance, animated characters, plastic skin, repetitive combat animations, HUD, health bars, damage numbers, or targeting effects.
+
+  HER POWER
+  Her telekinesis is overwhelmingly powerful and completely effortless. Moving a bus is as easy as moving a feather.
+
+  Relaxed shoulders, steady breathing, small finger and wrist gestures. Never show strain, trembling, clenched teeth, exhaustion, bracing, or loss of balance.
+
+  She is quietly confident, with a faint smile and subtle head movements to the music. No exaggerated dancing.
+
+  Telekinesis is invisible. Show it through object movement, displaced air, disturbed puddles, and sliding papers. No beams, glowing hands, magical symbols, or luminous shields.
+
+  Objects retain realistic material behavior. Suspension extends when lifted; metal deforms; glass breaks; impacts have weight and inertia. Her power supplies the force without making objects look weightless.
+
+  Each action has clear cause and effect: she looks toward a specific target, gestures, and that target immediately responds.
+
+  LOCATION
+  A wide downtown intersection after rain, under overcast daylight. Wet asphalt, puddles, isolated fires, thin smoke, damaged brick buildings, broken shop windows, abandoned vehicles, scattered glass and papers. Visibility remains clear.
+
+  Keep this geography consistent:
+  - The heroine stands at the intersection, facing north along the avenue.
+  - The main horde starts thirty meters ahead, sprinting toward her.
+  - An alley opens eight meters ahead on her right. A yellow taxi stands beside its entrance, with a white delivery van farther inside.
+  - An empty city bus stands ten meters to her left, level with her, facing north.
+  - The intersection has at least twenty-four meters of clear space for moving and rotating the bus.
+  - The avenue provides eighteen meters of clear width along the bus's path.
+  - A damaged enclosed pedestrian skybridge spans the avenue forty meters ahead. Missing glass, sagging central section, cracked connections.
+  - Abandoned cars stand immediately beyond the bridge and will stop the bus directly beneath it.
+  - The side street on her left is clear beyond the parked bus. Once the bus is lifted away, this exit is open.
+
+  Establish these objects before using them. All vehicles and the bridge are empty.
+
+  The heroine advances only two short steps and stays near the intersection, far from the final collapse.
+
+  ZOMBIES
+  Dozens of distinct adult infected people in dirty, torn everyday clothing, with pallid skin, clouded eyes, and convincing practical makeup.
+
+  Aggressive, varied running: stumbling, splashing, reaching, and navigating obstacles. No duplicated faces or synchronized movement.
+
+  They never wait motionless during her attacks. Their delays come from knockback, falling, recovering, and negotiating wreckage.
+
+  The first wave creates time for the taxi action. During that action, the main horde visibly recovers in the background. They resume advancing during the bus lift.
+
+  Threats come only from the established avenue and right alley. No unexplained attackers appear behind her. Emphasize impacts without graphic injury close-ups.
+
+  EARBUDS
+  Small white wireless earbuds resembling Apple AirPods: rounded earpieces with short white stems pointing downward. Correct size and natural fit. No wires, headband, or glowing details.
+
+  She already holds one in each hand at the start of the close-up. She inserts both and taps the right one. No case or phone. They remain in her ears afterward.
+
+  TIMELINE
+
+  00:00–00:03 — ESTABLISH THE THREAT
+  Eye-level wide shot from a three-quarter angle behind and beside the heroine.
+
+  The first frame clearly shows her full figure in the foreground, the charging horde in the middle distance, and the open street separating them. Keep her off-center so she does not hide the attackers.
+
+  Immediately establish the taxi, bus, skybridge, and open intersection.
+
+  The zombies start thirty meters away and rapidly gain ground. She remains calm and motionless. Use a restrained forward camera move.
+
+  Sound: running footsteps, splashing water, growls, distant fire, rattling metal. No music.
+
+  No low-angle opening, ground-level view, feet close-up, or delayed reveal.
+
+  00:03–00:05 — EARBUDS
+  Cut to a stable frontal chest-up close-up.
+
+  Holding one white earbud in each hand, she smoothly inserts both, releases them, and taps the right one. Natural fingers and correct earbud placement.
+
+  She raises her eyes toward the attackers with a slight smile.
+
+  At the tap, environmental sound becomes muffled from her listening perspective. An original dark electronic instrumental track begins, its first strong bass beat landing at 00:05.
+
+  00:05–00:09 — FIRST STRIKE
+  Eye-level medium-wide three-quarter shot showing her, the leading attacker, and the front ranks.
+
+  The first zombie lunges with arms extended.
+
+  She raises one palm. He stops in midair sixty centimeters from her hand, feet off the road. His torso stops first; limbs and clothing retain brief residual movement.
+
+  After less than half a second, she flicks her palm forward.
+
+  He shoots backward into the horde. The same gesture sends a broad directional pressure wave up the avenue, knocking the front ranks ten to fifteen meters backward.
+
+  Bodies tumble and collide, obstructing the following ranks. Water fans forward and papers rush away from her.
+
+  Clearly show the newly opened gap. This buys time for the next action.
+
+  She lowers her hand and takes two measured steps. The fallen zombies begin recovering immediately.
+
+  00:09–00:14 — TAXI
+  A lateral tracking shot reveals zombies emerging from the right alley.
+
+  She glances right and turns her wrist upward.
+
+  The yellow taxi rises one meter. All wheels leave the road, suspension extends, and water drips from the chassis. The lift is effortless.
+
+  Briefly show her, the floating taxi, and the flanking group together.
+
+  She sweeps two fingers toward the alley. The taxi travels sideways, broadside first, driving the attackers back inside. It crashes into the white van and stops diagonally across the entrance.
+
+  Metal buckles, glass breaks, and the van shifts backward. The wrecked vehicles completely block the alley and remain there.
+
+  She stays outside the trajectory. The main horde continues recovering in the background.
+
+  Sound: suspension creak, breaking glass, heavy metal impact.
+
+  00:14–00:18 — POSITION THE BUS
+  Cut wide: heroine near the intersection, bus to her left, horde farther ahead.
+
+  She looks left and slightly raises her palm.
+
+  The bus lifts one and a half meters. Wheels hang, fittings vibrate, and water falls from the wheel arches.
+
+  She guides it diagonally forward into the open intersection, keeping its entire path clear of her.
+
+  A turn of her wrist rotates it ninety degrees. It finishes broadside across the avenue, several meters ahead of her.
+
+  Maintain at least three meters of clearance from her throughout. No intersection with buildings or street furniture.
+
+  Clearly show: heroine behind, bus ahead, zombies farther north. No zombie remains between her and the bus.
+
+  Her posture stays loose, with no lifting strain.
+
+  00:18–00:23 — BUS STRIKE
+  She makes a small forward push.
+
+  The bus accelerates away from her, broadside first. It descends to the wet road and continues sliding under telekinetic force.
+
+  Tires skid sideways. Lower metal edges scrape the asphalt, producing sparks and water spray.
+
+  It knocks down the approaching ranks and sweeps through the main group. Show convincing mass and momentum.
+
+  Briefly track from a three-quarter side angle so its direction and impacts remain readable.
+
+  It crashes into the abandoned cars beyond the skybridge. The cars crumple and stop it directly beneath the bridge's central span.
+
+  Establish the final position: bus under bridge, crushed cars beyond, remaining zombies on the far side.
+
+  No zombies have crossed the bus. They are only beginning to gather against it.
+
+  No fireball. Use deformation, glass, sparks, and heavy impact sound.
+
+  The heroine remains near the original intersection.
+
+  00:23–00:25 — FINAL TARGET
+  Over her shoulder, show the bus under the damaged bridge.
+
+  Zombies reach upward from the far side but have not climbed over.
+
+  She looks up and casually raises her hand, gently curling her fingers.
+
+  A brief structural insert shows existing cracks widening and damaged connections bending under her force. Small fragments fall.
+
+  Her face remains calm. The music builds.
+
+  00:25–00:28 — COLLAPSE
+  Return wide, connecting her gesture with the distant bridge.
+
+  She lowers her hand effortlessly.
+
+  The central span breaks free and falls directly onto the bus and the street immediately behind it. It crushes the bus roof and blocks the remaining horde.
+
+  Concrete, twisted steel, and the wrecked bus create one continuous barrier across the avenue.
+
+  The released span falls with believable gravity. Steel bends, concrete fractures, glass breaks, and dust expands around the impact.
+
+  Heavy debris stays in the distant collapse zone. Only the bridge and its damaged connections fail; both surrounding buildings remain standing.
+
+  She remains safely near the intersection.
+
+  The impact lands on the strongest musical accent: deep rumbling, tearing metal, falling masonry.
+
+  00:28–00:30 — EXIT
+  Eye-level medium-wide shot from inside the clear side street to her left, looking back toward the intersection.
+
+  She turns into it and takes a few confident steps toward the retreating camera. Her route is open because the bus has been removed.
+
+  The blocked avenue and rising dust remain visible behind her.
+
+  A subtle head movement follows the music. Hands relaxed, normal breathing, no fatigue. No additional earbud adjustment.
+
+  A faint breeze moves her hair. No heavy debris reaches her.
+
+  End at exactly thirty seconds on her forward movement. No extra scene or title.
+
+  CAMERA AND EDITING
+  Coherent live-action movie coverage, motivated cuts, and readable trajectories.
+
+  Use eye-level wide and medium-wide shots for major actions. Show the heroine, controlled object, and target together when possible.
+
+  Close-ups only for earbuds, facial performance, and brief structural details.
+
+  Maintain screen direction and recognizable landmarks. Controlled tracking, natural perspective, realistic motion blur, restrained impact vibration.
+
+  No constant shaking, random whip pans, spinning camera, extreme distortion, gameplay camera, or cuts that hide impacts. No prolonged slow motion.
+
+  LIGHTING AND MATERIALS
+  Soft gray daylight, natural skin tones, restrained orange fire reflections.
+
+  Realistic skin, hair, fabric, wet asphalt, dirty glass, heavy steel, and concrete dust. Preserve reference colors without making hair or clothing glow.
+
+  Telekinesis is supernatural; everything affected behaves like real physical material.
+
+  No cartoon rendering, plastic faces, excessive bloom, or game-engine surfaces.
+
+  AUDIO
+  Exposed apocalypse ambience until the earbud tap, then a shift into her listening perspective and an original dark electronic instrumental with strong bass and percussion.
+
+  Music continues through all cuts. Gestures and major impacts align with accents. Keep collisions and destruction audible above it.
+
+  No lyrics, dialogue, narration, or subtitles.
+
+  CONTINUITY
+  One consistent heroine matching the photo. Earbuds stay in place.
+  Objects exist before moving; wreckage persists afterward.
+  Zombies recover and advance instead of waiting.
+  The bus starts beside her, moves ahead, then attacks.
+  No zombies remain between her and the deployed bus.
+  The bus stops beneath the bridge.
+  The bridge falls before zombies cross the bus.
+  No teleportation, duplication, disappearing objects, resetting damage, extra fingers, or intersecting bodies.
+  Every major movement follows her gesture. She never strains or becomes tired.
+
+  No low-angle opening, civilians, rescue subplot, game aesthetic, interface, glowing outlines, text, logos, watermarks, captions, or end title.
+
+  The result must feel like a real actress in a cinematic superhero apocalypse film, with physically convincing destruction and seamless feature-film visual effects.

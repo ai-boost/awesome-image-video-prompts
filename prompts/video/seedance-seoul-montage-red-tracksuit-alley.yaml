@@ -1,0 +1,33 @@
+id: seedance-seoul-montage-red-tracksuit-alley
+title:
+  en: Woman in red tracksuit walking Seoul alley
+  zh: 红色运动服女子走在首尔小巷
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- korea
+- seoul
+- lifestyle
+- adidas
+source:
+  name: '@noorlewisx on X'
+  url: https://x.com/noorlewisx/status/2101539861085946307
+  credit: noorlewisx
+  captured: '2026-11-03'
+  posted: '2026-09-20'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/noorlewisx/status/2101539861085946307
+notes:
+  en: Timestamped beats give each segment its own location, time of day and outfit, so the montage reads as a sequence of shots. Soft filmic grading, shallow depth of field and smooth tracking moves hold one consistent travel-film look.
+  zh: 按时间段逐段写明地点、时间和服装，让二十秒的蒙太奇成为连贯的分镜序列。柔和的胶片色调、浅景深和平滑的跟拍运镜统一了整体的旅行电影质感。
+prompt: |
+  Cinematic 20-second lifestyle montage of a beautiful young Korean woman with long straight black hair and bangs exploring Seoul. Soft filmic color grading, shallow depth of field, natural lighting, warm golden and neon tones, 4K, 24fps, smooth tracking shots.
+  0-4s: Dusk, quiet narrow residential alley in Seoul. She walks slowly toward camera wearing a bright red Adidas tracksuit with white stripes, white t-shirt underneath, white wired earphones, looking down at a white iPhone in her hands. Small shops, chalkboard signs, brick walls, warm shop lights in background.
+  4-7s: Night. Busy Seoul pedestrian crossing with neon signs, blue city bus, crowds of people. She wears a black Adidas tracksuit with white stripes, turns her head back toward camera and smiles softly while walking.
+  7-10s: Night. Crowded traditional Korean street food market, steam rising from stalls, hanging yellow signs in Korean. She wears a cream/beige Adidas tracksuit with black stripes, walks through the aisle, picks up a piece of food and eats it, looking satisfied.
+  10-13s: Daytime. Traditional Korean palace with red wooden pillars, green tiled roofs, stone steps (Gyeongbokgung style). She wears a dark green Adidas tracksuit with white stripes, walks up the stairs away from camera then turns her head to look at the architecture.
+  13-16s: Golden hour sunset by the Han River. City skyline, N Seoul Tower, long bridge, sunlight reflecting on water. She stands in profile wearing a white Adidas tracksuit with black stripes, long hair blowing in the wind, looking toward the sunset.
+  16-20s: Night. Narrow traditional hanok-style street with warm cafe lights and street lamps. She wears a blue Adidas tracksuit with white stripes, laughs and walks/runs forward with a female friend wearing a long beige trench coat. They hold hands then start jogging down the street together. Large bold yellow text “KOREA” fades in over the center of the frame as they walk away from camera.
+
+  Mood: dreamy, youthful, warm, slightly nostalgic Korea travel film. No dialogue. Adidas branding visible but natural, not overly promotional.

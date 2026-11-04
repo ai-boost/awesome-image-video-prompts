@@ -1,0 +1,25 @@
+id: seedance-floating-celestial-palace-lone-figure
+title:
+  en: Lone figure walks floating palace above clouds
+  zh: 云海之上独行人走向浮空仙宫
+model: Seedance 2.5
+mode: text-to-video
+category: scifi-fantasy
+tags:
+- floating-palace
+- chinese-fantasy
+- clouds
+- golden-hour
+source:
+  name: '@ClaraOnAI on X'
+  url: https://x.com/ClaraOnAI/status/2115753803375141156
+  credit: ClaraOnAI
+  captured: '2026-11-03'
+  posted: '2026-10-29'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/ClaraOnAI/status/2115753803375141156
+notes:
+  en: 'The prompt builds the scene in layers: sky and light first, then palace architecture, then one small figure, with camera motion named last. A single figure against the vast cloud sea gives the model one clear focal point to hold across the shot.'
+  zh: 提示词按天空光线、宫殿建筑、单人身影、镜头运动的顺序展开，先定场景再定主体。用一个人物对比云海与宫殿的巨大尺度，让画面有唯一焦点，镜头运动放在最后单独说明。
+prompt: |
+  Cinematic majestic floating ancient Chinese celestial palace above a sea of soft fluffy clouds, golden hour sunset lighting with a massive glowing moon in the sky. Intricate oriental architecture with white marble bridges, towering carved pillars, cascading waterfalls, and flying cranes. A solitary figure in traditional flowing flowing silk robes walking gracefully. Hyper-realistic, 8k resolution, ethereal fantasy atmosphere, smooth cinematic camera motion, breathtaking visual effects

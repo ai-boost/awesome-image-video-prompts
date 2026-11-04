@@ -1,0 +1,29 @@
+id: nano-banana-reverse-angle-ruined-temple-steps
+title:
+  en: Reverse angle of woman on ruined temple steps
+  zh: 古庙台阶上女子的反向视角
+model: Nano Banana 2.1
+mode: image-edit
+category: edit
+tags:
+- reverse-angle
+- camera-angle
+- subject-consistency
+source:
+  name: '@ai_artworkgen on X'
+  url: https://x.com/ai_artworkgen/status/2116217421077848340
+  credit: Marco
+  likes: 111
+  captured: '2026-11-03'
+  posted: '2026-10-30'
+notes:
+  en: Pairing the source image with a reverse angle instruction and an explicit lock on subject, outfit and environment keeps the fur coat, gold outfit and graffiti columns intact while only the camera moves. Attach the original photo as input so the model reframes the same scene rather than inventing a new one.
+  zh: 将原图与反向视角指令配合，并明确锁定人物、服装和环境，使皮草大衣、金色服饰和涂鸦立柱保持不变，只改变镜头位置。需附上原图作为输入，让模型重新取景，而不是生成新场景。
+prompt: |
+  "cover the entire scene with thick snowfall, there is a snow blizzard."
+
+  Giving a model like Nano Banana 2.1 context is enough.
+
+  Which is your favourite shot?
+
+  // Google Flow

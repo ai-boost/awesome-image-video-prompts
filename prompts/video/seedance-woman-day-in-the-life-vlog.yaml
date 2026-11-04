@@ -1,0 +1,25 @@
+id: seedance-woman-day-in-the-life-vlog
+title:
+  en: Young woman sleeping in white linen bed
+  zh: 年轻女子在白色床单上安睡
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- lifestyle
+- vlog
+- day-in-the-life
+- cinematic
+source:
+  name: '@ZorviaLux on X'
+  url: https://x.com/ZorviaLux/status/2101900075647778976
+  credit: ZorviaLux
+  captured: '2026-11-03'
+  posted: '2026-09-21'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/ZorviaLux/status/2101900075647778976
+notes:
+  en: A numbered list of seven scenes in chronological order gives the model a clear beat sequence, and the closing style line with 35mm lens, depth of field and soft color grading keeps every cut in one look. Ending on her falling asleep gives the clip a natural resolution.
+  zh: 用编号的七个场景按时间顺序排列，给模型清晰的节拍顺序；结尾的风格句（35mm 镜头、景深、柔和调色）让各镜头保持统一质感。以入睡收尾，让片子有自然的结束。
+prompt: "A cinematic \"Day in the Life\" montage of an aesthetic young East Asian woman, 4K resolution, soft natural lighting, realistic cinematic colors, and film grain. \n\nScenes Sequence:\n1. Waking up in a bright, cozy bed with white linens, soft morning sunlight.\n2. Drinking warm coffee from a takeaway paper cup outdoors.\n3. Splashing water on her face in a clean bathroom, then applying mascara in front of a mirror.\n4. Stepping out of a classic building wearing an oversized brown blazer, walking down a tree-lined city boulevard.\n5. Strolling through busy city streets while looking at her smartphone, wearing a leather jacket.\n6. Sitting peacefully in a warm, brick-walled cafe reading a book next to a latte, then enjoying a healthy salad bowl.\n7. Returning home, taking off her jacket, washing her face, and finally getting into bed under soft white blankets, falling asleep peacefully.\n\nStyle: Cinematic film style, depth of field, subtle motion, cozy lifestyle vlog, 35mm lens shot,\
+  \ soft color grading.\n"

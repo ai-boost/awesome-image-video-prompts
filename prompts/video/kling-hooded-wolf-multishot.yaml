@@ -1,0 +1,37 @@
+id: kling-hooded-wolf-multishot
+title:
+  en: Hooded figure with glowing eyes runs from wolves
+  zh: 兜帽人物眼睛发光奔逃狼群
+model: Kling 3.0
+mode: text-to-video
+category: action
+tags:
+- multi-shot
+- character-sheet
+- action
+- cinematic
+source:
+  name: '@martinleblanc on X'
+  url: https://x.com/martinleblanc/status/2030303624304234906
+  credit: Martin LeBlanc
+  likes: 444
+  captured: '2026-11-03'
+  posted: '2026-03-07'
+video: https://x.com/martinleblanc/status/2030303624304234906
+notes:
+  en: Numbered shots each set one framing and one beat, so the model plays the sequence in order. Passing a character sheet as a reference keeps the hooded figure consistent across the cuts.
+  zh: 按编号分镜，每个镜头只定一种景别和一个动作，模型会按顺序依次呈现。传入角色设定图作为参考，可让兜帽人物在各镜头之间保持一致。
+prompt: |
+  cinematic. action movie. VFX.
+
+  shot 1: close up of the hooded character. It's night. his eyes glow. he hears wolves in the distance and looks around and starts running.
+
+  shot 2: full body shot of the character running. he looks over his shoulders.
+
+  shot 3: we see a wolf running through the forest. it's hungry.
+
+  shot 4:the character is stopped by a pack of wolves.
+
+  shot 5: he fights the wolves with his stick.
+
+  Link to Spaces below

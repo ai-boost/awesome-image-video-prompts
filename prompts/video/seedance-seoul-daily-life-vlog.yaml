@@ -1,0 +1,31 @@
+id: seedance-seoul-daily-life-vlog
+title:
+  en: Sleeping woman in warm golden morning light
+  zh: 温暖晨光中熟睡的女子
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- vlog
+- korean
+- seoul
+- fashion
+source:
+  name: '@nawalsehar on X'
+  url: https://x.com/nawalsehar/status/2117122775060275551
+  credit: nawalsehar
+  captured: '2026-11-03'
+  posted: '2026-11-02'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/nawalsehar/status/2117122775060275551
+notes:
+  en: The whole day is written as one ordered paragraph of shots, giving the model a clear 30 second timeline. A fixed identity line and a repeated visual style block keep the same face and warm grade across every scene.
+  zh: 整段提示词按顺序描述一天中的各个场景，为模型提供清晰的 30 秒时间线。固定的人物一致性要求和重复出现的视觉风格段落，让每个镜头保持同一张脸和统一的暖色调。
+prompt: |
+  Create a 30-second, ultra-realistic cinematic Korean lifestyle and fashion influencer vlog following a beautiful young Korean woman through her daily routine in Seoul. Capture peaceful morning moments, skincare, fashion styling, luxury hotel aesthetics, convenience store visits, nighttime shopping streets, cozy café moments, fashion boutiques, romantic city views, and delicious Korean BBQ.
+
+  Maintain consistent character identity, realistic facial expressions, elegant fashion, cinematic lighting, and premium Korean K-drama visuals throughout.
+
+  VISUAL STYLE: Luxury Korean influencer lifestyle, cinematic K-drama cinematography, ultra-realistic skin textures, beautiful Seoul night scenes, warm golden lighting, smooth camera movements, shallow depth of field, natural body movements, realistic reflections, and professional fashion-vlog editing.
+
+  MOOD: Peaceful, feminine, elegant, luxurious, fashionable, romantic, and aesthetically beautiful.

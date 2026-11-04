@@ -1,0 +1,45 @@
+id: seedance-korean-night-market-walk
+title:
+  en: Young women walk a lively Korean night market
+  zh: 年轻女性穿行在热闹的韩国夜市
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- korean
+- night-market
+- street-food
+- documentary
+source:
+  name: '@aiwithaly on X'
+  url: https://x.com/aiwithaly/status/2092843818664313185
+  credit: aiwithaly
+  captured: '2026-11-03'
+  posted: '2026-08-27'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/aiwithaly/status/2092843818664313185
+notes:
+  en: A numbered sequence of beats (enter, notice the grill, choose food, walk, sit, first bite) makes each action follow from the one before. Named physical details and a documentary handheld camera anchor the realism, and ambient audio is listed explicitly.
+  zh: 用有顺序的动作节拍（进入、看到烤摊、点餐、走路、落座、第一口）让每个动作承接上一个动作。明确写出真实的物理细节和纪实手持镜头来增强真实感，并单独列出环境音。
+prompt: |
+  A Korean woman in her mid-20s walks naturally through a lively evening market filled with glowing food stalls, colorful signs, conversations, footsteps, sizzling grills, drifting steam, and a gentle summer breeze.
+
+  She notices a Korean BBQ-style stall and slows down to watch the vendor grill fresh meat and vegetables.  Realistic sizzling, smoke, steam, subtle flames, metal tongs, and natural food physics make the cooking feel completely real.
+
+  She smiles and says, “That smells so good.”
+
+  She chooses her food, receives the tray naturally, carefully carries it through the crowd, and finds an outdoor communal table. She pulls out a chair, sits down, places the tray on the table, and prepares for her first bite.
+
+  Using chopsticks, she picks up the freshly grilled food, pauses for the steam, takes a bite, and reacts with a genuine smile. 😋
+
+  “Perfect for a summer night.” 🌙
+
+  The camera slowly pulls back, revealing the glowing stalls, busy pedestrians, outdoor seating, drifting smoke, warm lights, and atmospheric Korean summer night.
+
+  🎥 Ultra-photorealistic | Cinematic documentary style | Natural handheld/gimbal movement | Realistic human biomechanics | Authentic Korean market atmosphere | Physically accurate objects, food, smoke, heat & crowd behavior | Natural dialogue & lip sync | Immersive ambient audio | 16:9
+
+  🚫 No AI look, robotic movement, teleportation, floating objects, distorted hands, extra fingers, foot sliding, duplicated people, unrealistic crowds, giant flames, excessive smoke, instant transitions, changing faces/outfits, impossible camera movement, text overlays, logos, or watermarks.
+
+  🎯 Sequence: Enter → notice grill → watch cooking → choose food → receive tray → walk → sit → first bite → genuine reaction → cinematic market reveal.
+
+  Priority: Every action must follow naturally from the previous one, with realistic gravity, weight, friction, momentum, balance, heat, airflow, and material interaction throughout.

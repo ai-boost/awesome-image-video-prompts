@@ -1,6 +1,6 @@
 # 拼贴
 
-[返回目录](../../README_zh.md) · 全部 96 条
+[返回目录](../../README_zh.md) · 全部 101 条
 
 <a id="gpt-image-failed-photos-grid"></a>
 ### 任意角色的九宫格失败抓拍照
@@ -356,6 +356,25 @@ GRID AND COMPOSITION
 Exactly six individual photographs in a clean 2-column × 3-row contact sheet. Equal-sized rectangular panels, consistent aspect ratios, perfectly straight alignment, uniform gutters, thin white spacing, and a balanced overall silhouette. Every panel must read as a separate photograph from the same shoot, with camera position as the primary variable.
 
 Maintain a cohesive luxury editorial appearance throughout. No panel overlap, no inconsistent crops, no random pose changes, and no visual distractions.
+```
+
+</details>
+
+<a id="gpt-image-tokyo-cafe-memory-journal"></a>
+### 咖啡馆照片与手绘咖啡吐司插画
+
+<a href="https://x.com/KrishnaBio1/status/2103047854205886949"><img src="../../previews/gpt-image-tokyo-cafe-memory-journal.jpg" width="360"></a>
+
+将真实照片与同一份餐点的手绘版本并排放在一页上，让两半看起来像同一段回忆。打字机风格的档案文字标注地点、编号和关键词，增添旅行手账的感觉。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@KrishnaBio1 on X](https://x.com/KrishnaBio1/status/2103047854205886949) · 336 赞，统计于 2026-11-03
+
+[`cafe`](tags.md#tag-cafe) [`japan`](tags.md#tag-japan) [`illustration`](tags.md#tag-illustration) [`scrapbook`](tags.md#tag-scrapbook)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a premium editorial “memory journal” page combining a real lifestyle photograph with a hand-drawn illustrated interpretation of the same moment. Use a vertical 4:5 composition divided diagonally/vertically into two complementary sections: the left side is a warm, natural, slightly film-grainy photograph of a Japanese café scene, showing beautifully plated food or dessert and coffee on a wooden table, with realistic ambient café details, soft window light, shallow depth of field, and subtle nostalgic tones; the right side is a minimalist hand-painted watercolor/colored-pencil illustration recreating the same food and drink with delicate imperfect ink outlines, muted earthy colors, visible paper texture, and an artistic handmade feel. Keep the right side mostly warm ivory textured paper with generous negative space. Beneath the illustration, add small typewriter-style archival text containing the location, item number, short memory keywords, and year, such as “Tokyo, Japan / No. 0018 / coffee / toast / quiet time / 2026”. The design should feel like a curated Japanese travel diary, café memory archive, contemporary scrapbook, and vintage lifestyle magazine, with sophisticated editorial composition, warm cream paper, muted teal, brown, beige and dusty colors, subtle grain, imperfect printing, understated typography, authentic tactile paper texture, elegant minimalism, photorealistic photography seamlessly paired with handmade illustration, high detail, cohesive visual storytelling, no logos, no watermark.
 ```
 
 </details>
@@ -1214,6 +1233,35 @@ Lighting: Softbox lighting from 45 degree angle, creating dimension but keeping 
 
 </details>
 
+<a id="gpt-image-freckled-bangs-selfie-collage"></a>
+### 雀斑女孩三联自拍拼图
+
+<a href="https://x.com/MissDelulu9/status/2116793013774975408"><img src="../../previews/gpt-image-freckled-bangs-selfie-collage.jpg" width="360"></a>
+
+每个面板单独描述姿势，并写明三个等高水平面板垂直堆叠、保持同一面部身份，使三张照片属于同一人。雀斑和痣按脸颊与鼻子的位置具体描述，让皮肤质感更写实。
+
+GPT Image 2.5 · 文生图 · 出处: [@MissDelulu9 on X](https://x.com/MissDelulu9/status/2116793013774975408) · 128 赞，统计于 2026-11-03
+
+[`collage`](tags.md#tag-collage) [`portrait`](tags.md#tag-portrait) [`selfie`](tags.md#tag-selfie) [`freckles`](tags.md#tag-freckles)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a vertical 3-photo collage featuring a beautiful young girl in three different cute selfie poses. Give her a completely different, naturally beautiful face with soft facial features, expressive hazel-green eyes, naturally thick eyelashes, a cute nose, and glossy rosy-pink lips. Add realistic tiny freckles and scattered natural beauty spots across her cheeks and nose.
+
+She has long, thick, voluminous dark brown hair with soft layers and wispy curtain bangs. She wears subtle eye makeup, small silver hoop earrings, and has a cute, effortless aesthetic.
+
+Photo 1: Close-up selfie with a soft, dreamy gaze, slightly messy hair falling across her face.
+
+Photo 2: Playful expression with one hand near her lips, looking directly at the camera.
+
+Photo 3: Resting her cheek on her palm with a cute pout and relaxed expression.
+
+Keep all three photos in equal horizontal panels stacked vertically. Maintain consistent facial identity across all three panels.
+```
+
+</details>
+
 <a id="gpt-image-ivory-editorial-collage-skater-breakout"></a>
 ### 滑板女孩跃出山景相框的编辑拼贴
 
@@ -1414,6 +1462,25 @@ GPT Image 2 · 上传图改图 · 出处: [@codewithhajra on X](https://x.com/co
 
 ```text
 A high-fidelity, wide-angle interior shot captures a surreal, mixed-media composition within a modern living room. It features a man resembling the face in the reference photo—using an uploaded face as a reference—wearing a dark green sweatshirt, sweatpant and white sneakers, sitting centrally on a plush light gray sofa. The scene seamlessly blends photorealistic 3D environments with cel-shaded 2D anime and cartoon characters interacting directly with the physical space. On the right side of the subject on the sofa, Nobita sits casually waving his hand, while on the left side, Doraemon leans casually on a pillow. Behind the sofa, two framed posters hang on the white wall—one featuring Son Goku and Vegeta, and the other featuring Trunks in a dynamic anime style. In the foreground, Shinchan lies relaxed on a textured gray carpet near a plate of dorayaki, while a chibi version of Son Goku stands triumphantly on a cream-colored knit pouf. On the left side of the room, Vegeta stands tall on a grooved wooden side table in a confident pose, while a miniature version of Trunks is near the wooden coffee table in the center, as if observing the scene with a curious expression. Soft natural light streams in from the left side through sheer curtains, creating subtle volumetric lighting that accentuates the texture of the blanket, the wood grain of the tiered table, and the leaves of the snake plant in the corner of the room. The entire scene is rendered in 8K resolution with sharp focus, vivid colors, and a dreamy, cinematic, and playful aesthetic blending between the real world and the anime world, with no AI visible.
+```
+
+</details>
+
+<a id="gpt-image-film-couple-ship-rail-pop-out"></a>
+### 船栏边的两人冲出画框
+
+<a href="https://x.com/weiinberg/status/2115310065964212494"><img src="../../previews/gpt-image-film-couple-ship-rail-pop-out.jpg" width="360"></a>
+
+提示词锁定原图的人物、姿态和电影色调，只让衣料越过画框下缘，立体感就成立。接触阴影和带纹理的暖色墙面提供景深线索。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@weiinberg on X](https://x.com/weiinberg/status/2115310065964212494) · 112 赞，统计于 2026-11-03
+
+[`pop-out`](tags.md#tag-pop-out) [`collage`](tags.md#tag-collage) [`film-still`](tags.md#tag-film-still) [`editorial`](tags.md#tag-editorial)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Transform the original photo into a premium minimalist editorial collage on warm ivory textured paper (vertical 3:4). Preserve the subjects, faces, poses, clothing, and original cinematic colors unchanged. Create a photorealistic 3D pop-out effect, with the subjects and flowing fabric extending naturally beyond the photo’s lower frame. Add realistic contact shadows, soft studio lighting, subtle paper grain, fine details, and authentic depth. Maintain elegant negative space and luxury-magazine aesthetics. No extra objects, distorted features, or artificial effects.
 ```
 
 </details>
@@ -1933,6 +2000,47 @@ Luxury skincare advertising, premium beauty campaign, high-end cosmetic photogra
 
 </details>
 
+<a id="gpt-image-european-photo-diary-collage-2"></a>
+### 欧洲街头女子九宫格写真
+
+<a href="https://x.com/john_my07/status/2117106098943803566"><img src="../../previews/gpt-image-european-photo-diary-collage-2.jpg" width="360"></a>
+
+将人物面部、服装和配饰写成统一设定，再逐条列出九个各自带有不同角度的姿势，使同一人物在整张网格中保持一致。相机型号和光线描述统一了胶片质感，明确要求无间距无边框则让各格拼接整齐。
+
+GPT Image 2.5 · 文生图 · 出处: [@john_my07 on X](https://x.com/john_my07/status/2117106098943803566) · 88 赞，统计于 2026-11-03
+
+[`collage`](tags.md#tag-collage) [`golden hour`](tags.md#tag-goldenhour) [`photo-diary`](tags.md#tag-photo-diary) [`portrait`](tags.md#tag-portrait)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create an ultra-realistic 9-photo lifestyle collage arranged in a seamless 3×3 grid, featuring the same naturally beautiful young European woman in her early 20s. She has warm olive skin, delicate freckles, hazel-brown eyes, long chestnut-brown wavy hair styled in a loose messy bun with face-framing strands, and naturally delicate facial features. Maintain identical facial identity across all nine photographs.
+
+Outfit: The same outfit in every frame: an oversized ivory cable-knit sweater, relaxed-fit blue jeans, white sneakers, small gold hoop earrings, and a brown leather crossbody shoulder bag. Casual, modest, effortlessly elegant European styling.
+
+Concept: A nostalgic golden-hour European city photo diary, capturing spontaneous moments while exploring charming old streets, historic architecture, stone staircases, and beautiful rooftop viewpoints.
+
+Nine Different Poses:
+
+1. Side-profile portrait against an old stone wall, looking thoughtfully into the distance.
+2. Walking along a historic rooftop terrace with a beautiful city skyline behind her.
+3. Laughing naturally with her head slightly tilted back, eyes closed.
+4. Sitting comfortably on wide stone steps, knees bent, looking away from the camera.
+5. Intimate close-up portrait, resting her chin against her sweater sleeve with a gentle expression.
+6. Walking along a narrow European street, looking back over her shoulder.
+7. Standing outdoors with eyes closed, enjoying the warm evening breeze.
+8. Sitting on a stone terrace wall overlooking the city, legs relaxed and a peaceful expression.
+9. Close-up side portrait with her head tilted slightly upward, hair softly illuminated by sunset.
+
+Photography Style: Authentic European Instagram photo dump, Canon PowerShot G7 X Mark III aesthetic, direct natural sunlight, warm golden-hour highlights, subtle film grain, realistic skin pores, soft shadows, natural facial expressions, candid compositions, and shallow depth of field.
+
+Consistency: Preserve exactly the same face, freckles, eye color, skin tone, hairstyle, outfit, and accessories in all nine photographs. Each panel must have a different pose, expression, camera angle, and composition.
+
+Output: Vertical 3:4 aspect ratio, exactly nine equally sized photographs in a clean 3-column × 3-row grid, seamless alignment, no gutters, no borders, no text, no watermark. Photorealistic, cinematic, youthful, spontaneous, and effortlessly stylish.
+```
+
+</details>
+
 <a id="nano-banana-christmas-iphone-couple-photo-grid"></a>
 ### 手持 iPhone 显示情侣照片网格
 
@@ -1950,6 +2058,42 @@ Nano Banana Pro · 上传图改图 · 出处: [@Tz_2022 on X](https://x.com/Tz_2
 基于【参考照片人物】。一张极其真实的特写照片，一只手拿着一部 iPhone 15 pro。屏幕亮着，显示着苹果 iOS “照片”应用的图库网格视图。屏幕上密密麻麻的缩略图是一个非常自然、未经筛选的情侣生活记录（基于【参考照片人物】）。内容非常多样：有户外旅行的风景合照、在餐厅吃饭的抓拍、在车里的搞怪自拍、模糊的夜店或演唱会照片、海边的背影、当然也有一些居家的温馨时刻。照片的光线、色彩和风格各不相同，看起来非常真实生动。背景是虚化的繁华城市夜景，充满了圣诞节的装饰。可以看到背景中有大片的街道节日彩灯（Christmas lights）、模糊的雪花飘落，以及远处商场橱窗的节日布置。光线更加丰富多彩，营造出一种热闹的圣诞外出氛围。
 
 （我使用了 Labnana 来获得 4K 高清无水印的 nano banana 图像 ✌️）
+```
+
+</details>
+
+<a id="gpt-image-european-photo-diary-collage"></a>
+### 六个欧洲生活场景中的同一女子
+
+<a href="https://x.com/john_my07/status/2116167847068184623"><img src="../../previews/gpt-image-european-photo-diary-collage.jpg" width="360"></a>
+
+在每个场景中重复的固定人物描述（面部、雀斑、眼睛与发色）让同一个人在差异很大的环境中保持一致。统一的相机规格（紧凑相机质感、直闪、胶片颗粒）为整张拼图提供了统一的视觉语言。
+
+GPT Image 2.5 · 文生图 · 出处: [@john_my07 on X](https://x.com/john_my07/status/2116167847068184623) · 85 赞，统计于 2026-11-03
+
+[`photo-diary`](tags.md#tag-photo-diary) [`lifestyle`](tags.md#tag-lifestyle) [`collage`](tags.md#tag-collage) [`travel`](tags.md#tag-travel)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create an ultra-realistic 6-photo lifestyle collage in a seamless 3×2 grid, featuring the same beautiful young European woman in her early 20s. She has warm olive skin, natural freckles, hazel-brown eyes, long wavy chestnut hair, and delicate facial features. Maintain identical facial identity across all six photographs.
+
+Concept: A cinematic European adventure and lifestyle photo diary, capturing six completely different experiences with authentic Instagram photo-dump aesthetics.
+
+Six Scenes:
+
+1. Mountain adventure: Wearing a black hiking jacket and backpack, standing beside a breathtaking Alpine lake, looking back at the camera.
+2. Movie night: Relaxing on a sofa in an oversized navy sweatshirt, holding popcorn with a movie playing in the background.
+3. Bookstore: Browsing books in a charming vintage bookstore, wearing a cream-and-black striped sweater and blue jeans.
+4. Baking afternoon: Preparing cookies in a rustic kitchen, wearing a floral apron over a dark top, with flour-covered hands.
+5. Paris rooftop: Sitting on a rooftop overlooking the illuminated Eiffel Tower, wearing an elegant black dress and delicate gold jewelry.
+6. Coastal road trip: Leaning toward the window of a convertible, wearing a white linen shirt, with ocean cliffs and golden sunset behind her.
+
+Photography: Authentic Canon PowerShot G7 X Mark III aesthetic, realistic skin texture, natural expressions, occasional direct flash, subtle film grain, cinematic lighting, candid framing, and realistic environments.
+
+Consistency: Preserve the exact same face, freckles, eye color, skin tone, and hair color in every frame. Different outfits, poses, camera angles, and environments. Avoid artificial skin, duplicated expressions, distorted anatomy, and excessive retouching.
+
+Output: Vertical 3:4 aspect ratio, exactly six equally sized photographs in a clean 3-column × 2-row grid, no gutters, borders, text, or watermark. Photorealistic, spontaneous, adventurous, and effortlessly stylish.
 ```
 
 </details>

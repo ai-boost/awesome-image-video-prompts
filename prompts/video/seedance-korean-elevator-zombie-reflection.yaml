@@ -1,0 +1,29 @@
+id: seedance-korean-elevator-zombie-reflection
+title:
+  en: Woman in elevator sees infected reflection
+  zh: 女子在电梯中看见感染的镜像
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- horror
+- zombie
+- korean
+- elevator
+source:
+  name: '@AIwithSynthia on X'
+  url: https://x.com/AIwithSynthia/status/2105862212422074725
+  credit: AIwithSynthia
+  captured: '2026-11-03'
+  posted: '2026-10-02'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithSynthia/status/2105862212422074725
+notes:
+  en: A timed beat sheet walks through setup, escalation and reveal, so the model keeps one continuous sequence. A style line and a negative prompt keep the face and the mirror reflection consistent.
+  zh: 按时间顺序写出开场、升级和揭示的分镜节拍，让模型保持连贯的一段式镜头。风格说明加负面提示词，可以稳定人脸与镜中倒影的一致性。
+prompt: |
+  Create an ultra-realistic Korean zombie-horror sequence inside an old apartment elevator at night. A woman in a long golden light-cream one-piece dress enters alone, carrying a shopping bag. The elevator stops between floors, the lights flicker, and the floor indicator glitches to 13. A dark figure appears only in the mirror, whose reflection slowly becomes infected with pale skin, milky eyes, and dark veins. The mirror cracks as an infected hand reaches through. The doors open to a nonexistent dark floor where infected silhouettes rush toward her. She barely escapes as the doors slam shut. When the elevator reaches the 12th floor, she exits—but her reflection stays behind, smiles, then suddenly lunges toward the camera. Cut to black.
+
+  Style: Ultra-realistic Korean zombie horror, claustrophobic elevator, cinematic handheld camera, flickering fluorescent lights, photorealistic skin, realistic reflections, tense atmosphere, dark shadows, natural facial expressions.
+
+  Negative prompt: Cartoon, anime, stylized CGI, exaggerated gore, distorted anatomy, extra limbs, inconsistent face, unrealistic reflections, floating objects, text, subtitles, watermark.

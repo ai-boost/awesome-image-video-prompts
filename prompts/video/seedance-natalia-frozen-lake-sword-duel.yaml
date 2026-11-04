@@ -1,0 +1,95 @@
+id: seedance-natalia-frozen-lake-sword-duel
+title:
+  en: Assassin cuts through mage energy on frozen lake
+  zh: 女刺客在冰湖上劈开法师的蓝色能量
+model: Seedance 2.5
+mode: reference-to-video
+category: action
+tags:
+- korean-historical
+- sword-fight
+- frozen-lake
+- multi-shot
+source:
+  name: '@AIwithNatalia on X'
+  url: https://x.com/AIwithNatalia/status/2116887713563787586
+  credit: AIwithNatalia
+  captured: '2026-11-03'
+  posted: '2026-11-01'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithNatalia/status/2116887713563787586
+notes:
+  en: A character reference locks the costume and look, and a timestamped shot list sets the camera for each beat (tracking, close-up, slow motion). Korean dialogue is given with its English meaning so the lip sync and tone are explicit.
+  zh: 用角色参考图锁定服装与外貌，再用带时间码的分镜表为每个节拍指定运镜（跟拍、特写、慢动作）。韩语台词同时附上英文含义，让口型与语气的要求更明确。
+prompt: |
+  Title: NATALIA — THE SHADOW ASSASSIN
+
+  FORMAT: 16:9 landscape, 1920×1080, 30 seconds, ultra-realistic cinematic Korean historical fantasy drama.
+
+  CHARACTER CONSISTENCY: Use the provided Natalia character reference as the exact visual identity. Preserve her facial features, face shape, natural hair color, skin tone, and overall appearance. Keep her approved hairstyle, makeup, dark Joseon-inspired assassin outfit, sword, and accessories exactly consistent throughout every shot. Do not redesign her.
+
+  SETTING: A vast frozen lake surrounded by snow-covered mountains and dark pine forests. Thick winter mist drifts across the ice. A group of powerful royal mages in traditional dark Korean robes surrounds Natalia. Their robes move in the freezing wind. The atmosphere is tense, mysterious, and dangerous, with subtle blue magical energy glowing around their hands.
+
+  SHOT 1 — THE SURROUNDED ASSASSIN (0–5 seconds)
+
+  Wide cinematic establishing shot. Natalia stands alone in the center of the frozen lake, her back partially turned toward the camera. Six royal mages slowly form a circle around her, their robes flowing in the wind. One mage steps forward, raising his hand as blue magical energy gathers around his fingers.
+
+  Male Mage, in Korean:
+  "네가 바로 나탈리아인가? 그림자 암살자?"
+
+  Meaning: “So, you're Natalia? The Shadow Assassin?”
+
+  SHOT 2 — THE NAME (5–10 seconds)
+
+  Slow cinematic push-in toward Natalia's face. She slowly turns her head toward the mage. Her expression remains completely calm, almost amused. A few strands of hair move across her face in the icy wind. She looks directly at him with a cold, confident gaze.
+
+  Natalia, in Korean, with a quiet, mocking smile:
+  "내가 가는 곳마다 목이 땅에 떨어지지. 아름다운 이름이지 않나? 나탈리아."
+
+  Meaning: “Wherever I go, heads fall to the ground. A beautiful name, isn't it? Natalia.”
+
+  She subtly places one hand on the handle of her sword.
+
+  SHOT 3 — THE FIRST ATTACK (10–15 seconds)
+
+  Without warning, one mage launches a powerful blue magical strike toward her. Natalia instantly draws her sword. In a rapid, elegant movement, she cuts through the incoming energy and slides across the frozen surface. The magical blast explodes behind her, sending ice fragments and snow into the air.
+
+  Use a dynamic tracking camera that follows her movement. Keep the action clear and physically believable.
+
+  SHOT 4 — THE FIGHT (15–23 seconds)
+
+  A fast, beautifully choreographed sword fight begins. Two mages attack from opposite directions. Natalia ducks beneath the first strike, spins gracefully, blocks the second with her sword, and disarms one opponent with a precise movement. She pivots and strikes the ice, sending a sharp wave of blue energy across the frozen surface.
+
+  Use a combination of fast tracking shots, dramatic close-ups, and brief slow-motion moments at the most impactful movements. Her fighting style should feel graceful, precise, effortless, and deadly — never clumsy or exaggerated.
+
+  SHOT 5 — THE FINAL MOMENT (23–30 seconds)
+
+  The remaining mages gather their energy for one powerful combined attack. Natalia stands still for a brief moment, sword lowered beside her. Blue magical energy begins glowing faintly along the blade.
+
+  As the mages launch their attack, she suddenly rushes forward with extraordinary speed. A sweeping sword movement cuts through the magical energy, creating a powerful burst of blue light, flying ice, and swirling snow.
+
+  Final shot: Natalia stands in the middle of the frozen lake, her sword held calmly at her side. The defeated mages lie scattered in the distance. She slowly looks toward the camera's direction without directly staring into the lens. Cut to black.
+
+  VISUAL AND CINEMATIC DIRECTION
+
+  High-budget Korean historical fantasy K-drama aesthetic.
+
+  Photorealistic faces, natural skin texture, realistic fabric and hair movement.
+
+  Beautifully choreographed sword combat with clear movements and believable physical contact.
+
+  Deep winter atmosphere, frozen lake reflections, drifting mist, snow particles, and subtle blue magic.
+
+  Dramatic cinematic lighting with cool blue-grey tones and controlled contrast.
+
+  Fluid camera movement, elegant slow motion, dynamic tracking shots, and impactful close-ups.
+
+  Natural Korean dialogue with accurate lip synchronization.
+
+  Preserve Natalia's exact character identity and costume in every shot.
+
+  No modern objects, guns, modern clothing, random costume changes, extra characters, or unnecessary transitions.
+
+  No exaggerated anime-style effects or cartoon visuals.
+
+  IMPORTANT: The scene should feel like an expensive Korean fantasy drama opening sequence. Natalia must appear calm and terrifyingly skilled, as though fighting several powerful mages is barely an inconvenience to her.

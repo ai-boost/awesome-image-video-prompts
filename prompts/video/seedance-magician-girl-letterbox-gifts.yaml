@@ -1,0 +1,88 @@
+id: seedance-magician-girl-letterbox-gifts
+title:
+  en: Anime magician girl presents gifts over black bars
+  zh: 动漫魔法师少女越过黑边呈现礼物
+model: Seedance 2.5
+mode: reference-to-video
+category: anime
+tags:
+- anime
+- letterbox
+- pop-out
+- comedy
+source:
+  name: '@aimikoda on X'
+  url: https://x.com/aimikoda/status/2106393688653922602
+  credit: Kōda
+  likes: 722
+  captured: '2026-11-03'
+  posted: '2026-10-03'
+video: https://x.com/aimikoda/status/2106393688653922602
+notes:
+  en: A reference image locks the character and the letterbox bars are written as static screen graphics, so only the foreground breaks the frame. A fixed camera and a strict nonverbal beat order with one offer at a time keep the performance readable.
+  zh: 用参考图锁定角色，并把上下黑边写成静止的屏幕图形，只让前景穿过黑边。固定机位加上严格的无对白节拍顺序，让表演清晰可读。
+prompt: |
+  Use @[char ref] as the exact character and style reference. Preserve her long pale-blue hair, oversized blue-and-orange pointed magician hat, orange-and-blue coat with its circular sleeve emblem, blue knee-high socks and chunky orange-and-blue sneakers. Keep the same angular painterly anime rendering, sharp graphic shapes and character proportions. Replace the background with clean pure white.
+
+  Create a playful, completely nonverbal comedy in one continuous shot. She offers increasingly surprising gifts to the viewer, reacts to each implied rejection through expressive facial acting, then decides to step out of the picture herself.
+
+  MAIN VISUAL GOAL:
+  An unmistakable OUT-OF-FRAME, POP-OUT effect. Her offered objects, hands, sleeves, hat and finally her legs and body visibly project OVER the black letterbox bars toward the viewer.
+
+  COMPOSITING ORDER, BACK TO FRONT:
+
+  1. White background and scene.
+  2. Two broad black letterbox bars at the top and bottom.
+  3. The foreground character and the objects she presents.
+
+  The white background is confined to the central picture window. The foreground character and offered objects are NOT confined to that window. Their silhouettes continue uninterrupted across its boundaries and onto the black bars. Their original colors remain fully visible when overlapping black.
+
+  STATIC BARS, MOVING FOREGROUND:
+  Both bars are completely static screen graphics. Keep their equal thickness, full width and exact screen position unchanged throughout. Their inner boundaries remain perfectly straight and horizontal.
+  Foreground movement only temporarily hides portions of the bars. The underlying bars never move or deform. Visible edge segments on either side of an overlap remain aligned on the same horizontal line. When an object withdraws, reveal the original unchanged black surface beneath it.
+  Keep black visible beside the overlaps. No bending, sliding, shaking, stretching, opening or impact reactions. The bars remain unchanged even during the final step out of the picture.
+
+  CAMERA AND PERFORMANCE:
+  Stationary camera, fixed wide-angle lens and level framing. She stays close and prominent throughout. Keep her face clearly visible inside the central picture window while her hands and gifts extend over the lower bar.
+  Her facial acting remains continuously active: eye contact, eyebrow changes, natural blinking, questioning head tilts, shifting smiles, pouts and expressive cheek movements. Connect every reaction to the current offer.
+  The viewer remains unseen and silent. Every rejection is IMPLIED entirely by her own reaction after looking into the lens. No viewer hands, camera nodding or external rejection signals.
+
+  STRICTLY NONVERBAL:
+
+  No dialogue, spoken words, whispering, narration, lip-sync or human vocalizations. No subtitles, captions or speech bubbles. She never mouths sentences. Mouth movement is limited to natural nonverbal expressions.
+  Follow this exact order: FLOWER, COFFEE, JEWEL, CAT, HERSELF.
+
+  FIRST OFFER, FLOWER:
+
+  She smiles warmly and retrieves a single flower from beyond a side edge of the screen. Extend it toward the viewer, bringing the flower, fingers and sleeve visibly over the lower black bar.
+  After a brief expectant look into the lens, her hopeful smile fades. One eyebrow rises, her head tilts and her eyes search the viewer’s face. Give the flower one small encouraging forward nudge, then accept the implied refusal with a tiny disappointed pout.
+  Retract the flower and visibly place it outside the side edge of the screen before retrieving the next object.
+
+  SECOND OFFER, COFFEE:
+
+  Reach offscreen and return with a coffee cup held securely by its handle. Her face brightens with renewed confidence.
+  Offer the cup close to the lens. Its silhouette and her sleeve clearly overlap the lower black bar while her face remains visible above it.
+  Her smile falters. Look at the cup, then back into the lens with raised eyebrows and pursed lips. A small resigned shoulder drop follows. Pull the cup back and set it offscreen without spilling.
+
+  THIRD OFFER, JEWEL:
+
+  Her eyes brighten with a sudden idea. Produce a large sparkling gemstone and present it in an open palm. The gemstone, fingers and sleeve project over the lower black bar.
+  Look proudly from the jewel to the viewer, expecting success. After the implied rejection, widen her eyes, lift both eyebrows and briefly part her lips in silent disbelief. Give the lens an incredulous stare, press her lips together and put the jewel offscreen.
+
+  FOURTH OFFER, CAT:
+  Retrieve a cute small cat from offscreen, supporting its body with both hands. Present it toward the lens, bringing its front paws, fluffy body and her hands visibly over the lower black bar.
+  Her expression becomes delighted and persuasive. The cat blinks and moves its paws naturally.
+  After another implied rejection, her delighted expression collapses into exaggerated disbelief. Look at the cat, then at the viewer, then back at the cat. Squint slightly and form a frustrated pout.
+  Turn slightly and give the cat a light, comical backward toss. The cat lands on its paws behind her and trots away. Keep this quick and playful.
+
+  FINAL OFFER, HERSELF:
+  Turn back to the viewer. Her frustration changes into a mischievous idea. Raise one index finger in a clear requesting-a-moment gesture, with the fingertip overlapping the upper black bar.
+  Lift one knee toward the lens and extend her sneaker OVER the lower black bar. The shoe grows large through foreshortening. Her leg crosses the picture boundary in front of the unchanged black surface.
+  Shift her weight forward and bring the rest of her body after it, as though stepping out of the framed image into the viewer’s space. Her coat overlaps the lower bar while her oversized hat overlaps the upper bar.
+  The bars remain perfectly straight and stationary beneath her. Her body simply renders in front of them. No opening, bending or displacement of either bar.
+  Finish close to the lens with open palms presenting herself, lifted eyebrows and a cheeky hopeful smile. Keep natural blinking, breathing and small facial movements through the ending.
+
+  OBJECT CONTINUITY:
+  One offered gift at a time. Show each retrieval, presentation and removal clearly. Objects enter and leave through a side edge of the output. No objects transforming into the next gift or disappearing while still held. Preserve consistent object shapes and natural hand contact.
+  Brisk natural real-time pacing with readable reactions. No slow motion, frozen expressions, distant retreats or camera movement. No warped bars, duplicated hands, costume changes or text.
+  Audio consists only of light prop sounds, fabric rustles, sneaker steps and a brief cat meow. No dialogue, human vocalizations or background music.

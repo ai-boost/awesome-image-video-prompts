@@ -1,0 +1,25 @@
+id: seedance-girl-skateboard-coastal-town
+title:
+  en: Girl skateboards along a sunny coastal road
+  zh: 少女在阳光海岸公路上滑板
+model: Seedance 2.5
+mode: text-to-video
+category: anime
+tags:
+- skateboarding
+- anime
+- coastal
+- travel
+source:
+  name: '@CaliraVal on X'
+  url: https://x.com/CaliraVal/status/2099357883133726827
+  credit: CaliraVal
+  captured: '2026-11-03'
+  posted: '2026-09-14'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/CaliraVal/status/2099357883133726827
+notes:
+  en: A rear tracking shot paired with separate layers for the rider's motion, the ocean and the town keeps the camera locked to the skater while depth builds behind her. Naming the hand-painted anime style, strong sunlight and 9:16 framing sets the look and format.
+  zh: 背后跟拍的镜头配合骑行者动作、海洋和小镇分层描述，让摄像机紧跟滑板少女，同时身后形成景深。明确手绘动漫风格、强烈阳光和9:16竖版画幅，锁定画风与格式。
+prompt: |
+  A cinematic anime-style scene of a young female traveler skateboarding downhill through a colorful coastal hillside town. She rides smoothly down a winding residential road, carrying a green backpack and orange shoulder bag, while the camera follows behind her in a dynamic tracking shot. Below, a breathtaking turquoise ocean stretches along a curved sandy coastline with white waves crashing against the shore. Colorful houses, utility poles, lush greenery, distant mountains, and enormous fluffy clouds fill the landscape. Strong summer sunlight, vivid blue sky, detailed hand-painted anime aesthetic, subtle wind moving her hair and clothes, realistic skateboard motion, smooth camera movement, atmospheric depth, highly detailed background, adventurous peaceful travel mood, cinematic composition, 9:16 vertical, seamless natural motion.

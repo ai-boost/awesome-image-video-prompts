@@ -1,0 +1,27 @@
+id: seedance-runner-panther-phoenix-whale-grizzly
+title:
+  en: Runner transforms into panther, phoenix, whale and grizzly
+  zh: 奔跑者依次化身黑豹、火凤凰、巨鲸与灰熊
+model: Seedance 2.5
+mode: text-to-video
+category: vfx
+tags:
+- transformation
+- animal
+- fantasy
+- beach
+source:
+  name: '@itsSaira_1 on X'
+  url: https://x.com/itsSaira_1/status/2109857577920344375
+  credit: itsSaira_1
+  captured: '2026-11-03'
+  posted: '2026-10-13'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/itsSaira_1/status/2109857577920344375
+notes:
+  en: One continuous shot chains four transformations, and each change is carried by a physical bridge such as flames or a dive into the ocean, so the cuts read as seamless. A fixed dusk-to-sunset setting keeps the lighting consistent across the morphs.
+  zh: 用一个连续镜头串起四次变形，每次变化都由火焰或入海等实体动作衔接，转场因此显得自然。固定的暮色到日落环境让各段光线保持一致。
+prompt: |
+  low quality, blurry, distorted anatomy, jittery motion, abrupt cuts, poor lighting, unrealistic water, bad textures
+
+  #AI #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #visualart

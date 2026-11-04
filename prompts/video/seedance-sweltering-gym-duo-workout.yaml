@@ -1,0 +1,25 @@
+id: seedance-sweltering-gym-duo-workout
+title:
+  en: Two women train in a sweltering gym
+  zh: 两名女性在酷热健身房训练
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- fitness
+- indoor
+- photorealistic
+- multi-shot
+source:
+  name: '@noorlewisx on X'
+  url: https://x.com/noorlewisx/status/2094279439718953086
+  credit: noorlewisx
+  captured: '2026-11-03'
+  posted: '2026-08-31'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/noorlewisx/status/2094279439718953086
+notes:
+  en: The prompt fixes the set with a concrete prop list (Smith machine, blue mats, standing fan, window AC) and orders the beats as squats, water break, then planks. Naming the close-up inserts gives the model a shot sequence to follow.
+  zh: 提示词用具体道具清单（史密斯机、蓝色瑜伽垫、落地扇、窗式空调）固定场景，并按深蹲、补水、平板支撑的顺序排列动作。写明特写插入镜头，让模型有可循的镜头顺序。
+prompt: |
+  Two young attractive East Asian women working out together in a small indoor gym on a very hot day, AC is broken, room is steaming. Both wearing matching tight mint green long-sleeve crop tops that are completely soaked with sweat and clinging to their bodies, one wearing tight brown/grey high-waist leggings, the other wearing light grey sweatpants. Long dark hair tied in high ponytails, faces and necks glistening with sweat, wet hair sticking to skin. They are doing barbell squats on a Smith machine, intense strained expressions, sweat dripping from hands onto the knurled bar. Then they take a water break, drinking from plastic water bottles, water dripping down their chins and chests. After that they do forearm planks on blue yoga mats, laughing and competing who gives up first. Close-up shots of sweat drops, wet fabric, smiling faces. Gym background with standing fan, window AC units, large mirrors, black workout benches, dumbbell rack. Realistic lighting, slightly dim indoor gym atmosphere, cinematic, highly detailed, photorealistic.

@@ -1,0 +1,34 @@
+id: seedance-korean-alley-bicycle-ride
+title:
+  en: Young woman cycles through a sunny Korean alley
+  zh: 年轻女子在阳光下的韩国小巷骑车
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- found-footage
+- handheld
+- slice-of-life
+- summer
+source:
+  name: '@AIwithkhan on X'
+  url: https://x.com/AIwithkhan/status/2091175465037746522
+  credit: AIwithkhan
+  captured: '2026-11-03'
+  posted: '2026-08-22'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithkhan/status/2091175465037746522
+notes:
+  en: Written as a friend's handheld home video, with shake, autofocus hunting, blown highlights and faded colors doing the work of the early 2000s look. Repeating the same outfit and face description keeps the subject consistent, and the timed sequence of beats ends with the camera staying behind as she rides out of frame.
+  zh: 全部按朋友手持拍摄的家庭录像来写，用抖动、自动对焦跳动、过曝和褪色还原2000年代初的画面感。开头重复服装与外貌描述以保持主体一致，分段时间线最后让镜头留在原地，看着她骑车离开。
+prompt: |
+  Main subject: Young Korean woman, early 20s, wearing a soft pink short top, loose cream pajama-style pants, black sneakers and a delicate necklace. Messy black side ponytail, natural makeup, realistic skin and completely consistent appearance.
+  Location: Older Korean residential neighborhood on a hot summer afternoon. Narrow alleys, concrete walls, tiny gardens, bicycles leaning against houses, colorful laundry, utility poles and leafy trees creating patches of shade.
+  Shot entirely like an early-2000s home video filmed by her friend. Strong handheld shake, accidental framing, autofocus hunting, blown-out highlights, faded colors, digital noise, occasional zoom mistakes and realistic motion blur.
+  She leaves her house carrying a small basket and walks barefoot toward a bicycle. She slips on her sneakers, hops onto the bicycle and starts riding through the lane.
+  She passes a friend sitting outside a small house. The friend calls her name and she immediately stops.
+  They chat casually for a moment, laughing about something. She steals a sip from her friend's iced drink, laughs and continues cycling.
+  She stops beneath a giant tree and parks the bicycle. She looks upward as the leaves move in the warm breeze.
+  A basketball rolls into the lane from nearby children. She kicks it gently back toward them and waves.
+  She gets back on the bicycle and rides away while the camera remains behind, slowly losing sight of her around the corner.
+  Audio: Summer insects, birds, bicycle chain, distant children, wind through leaves, casual conversation and neighborhood ambience. No music.

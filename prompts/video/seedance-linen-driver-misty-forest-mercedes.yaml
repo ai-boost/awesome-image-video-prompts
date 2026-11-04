@@ -1,0 +1,56 @@
+id: seedance-linen-driver-misty-forest-mercedes
+title:
+  en: Man drives white vintage Mercedes through misty forest
+  zh: 男子驾驶白色复古梅赛德斯穿越雾林
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- music-video
+- vintage-car
+- film-look
+- multi-shot
+- consistency-lock
+source:
+  name: '@rovvmut_ on X'
+  url: https://x.com/rovvmut_/status/2101185223761572026
+  credit: Heisenberg
+  likes: 693
+  captured: '2026-11-03'
+  posted: '2026-09-19'
+video: https://x.com/rovvmut_/status/2101185223761572026
+notes:
+  en: A consistency lock block repeats the character, wardrobe and car details so they hold across every cut. Film stock, overcast light and the no-text rule are set once as global constraints, and the audio is limited to engine, tire and wind layers with no score.
+  zh: 一段一致性锁定描述重复角色、服装和汽车细节，使每次切镜后外观保持一致。胶片质感、阴天光线和禁止文字的要求只在全局约束中写一次，音频只包含引擎、轮胎和风声，不加配乐。
+prompt: |
+  Cinematic 15-second music-video fragment. Melancholic indie mood, analog 35mm film look.
+
+  CONSISTENCY LOCK (do not drift):
+  One young man, mid-20s, dark messy hair with well groomed beard and sunglasses. Wearing a slightly wrinkled white linen button-down shirt unbuttoned two buttons, silver watch on left wrist, dark trousers, black belt. Same face, hair, clothing, and body language in every shot.
+  One car only: late-1970s / early-1980s Mercedes-Benz R107 SL convertible, white exterior, chrome bumpers and side mirrors, red leather interior with vertical piping, cream headliner, black steering wheel with Mercedes star, three circular dash vents. Red door cards and seats stay consistent.
+  Setting: overcast, misty evergreen forest (Pacific Northwest / dense pine and fir), two-lane asphalt road with faded yellow center lines, light fog hanging low, gravel pull-off. Muted teal-green trees, gray sky, no sun shafts.
+  Visual style throughout: photorealistic cinematic, 35mm Kodak film stock, fine organic grain, slightly lifted blacks, rich burgundy reds in the interior, desaturated foggy greens outside, warm skin, shallow-to-medium depth of field, natural overcast daylight only. No modern cars, no extra people, no text, no subtitles, no logos except the Mercedes star on the wheel.
+
+  0-3.5s:
+  Medium interior shot from the passenger-side rear, slightly low. The man drives with his left hand on the upper rim of the steering wheel, right arm relaxed along the red leather seat or lower wheel. He first looks forward and then looks towards the front empty passenger seat, pensive, almost vacant. Forest and mist streak past the side windows with natural motion blur. Soft overcast light wraps his face and the white shirt. Camera holds mostly still with a faint handheld breath. Red leather and cream headliner fill the frame.
+
+  3.5-4.5s:
+  Quick cut to the front empty passenger-side red leather door panel and seat back, trees rushing past the window. Same interior palette and motion.
+
+  4.5-7s:
+  Cut to a forward-looking framed view through the windshield / over the dash: long misty two-lane road receding into fog, tall evergreens lining both sides, yellow lines stretching to a vanishing point. Then cut to a rear-seat over-the-shoulder: we see the back of his head and shoulders, the red dash with three circular vents, his left hand on the wheel, and his eyes visible in the rearview mirror looking back toward camera. He leans slightly forward. Road and trees continue moving ahead.
+
+  7-8s:
+  From the rear seat, he opens the car door and gets out of the car; we see the back of the white shirt as he moves. The car isn't moving.
+
+  8-10.5s:
+  Wide static shot on a gravel forest road. The white Mercedes is parked facing us, slightly off-center. Dense misty trees and a low hill behind. The man sits on the front hood, one leg bent, looking upward. Cut to a medium close-up: he sits on the white hood, head tilted back, eyes closed for a beat then opening as he looks off to his right with a quiet, wounded expression. Soft overcast light, shallow depth of field, trees softly out of focus behind him.
+
+  10.5-15s:
+  Exterior shot at window height, slightly behind and to the side of the moving white convertible on the paved forest road. The man leans his head and upper torso out the open driver’s window, looking back over his shoulder toward camera with the same pensive, searching expression. Chrome side mirror sits in the foreground. Trees and the yellow-lined road recede behind the car. Gentle tracking or locked-off follow so the car and his face stay composed. Wind moves his hair and the open shirt slightly.
+
+  AUDIO:
+
+  Soft vintage-car engine drone, tire hiss on damp asphalt, light wind through the trees and open window. No extra score, no crowd, no dialogue besides the sung lines. Natural room tone inside the cabin. No background music
+
+  Global constraints: 4:3 cinematic framing, photorealistic only, consistent character and car identity across every cut, analog film grain and color science held from first frame to last, no morphing between shots, no text overlays.

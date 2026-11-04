@@ -1,6 +1,6 @@
 # 写实照片
 
-[返回目录](../../README_zh.md) · 全部 98 条
+[返回目录](../../README_zh.md) · 全部 100 条
 
 <a id="gpt-image-coca-cola-tanker-leak-mentos-truck-dashcam"></a>
 ### 可口可乐罐车漏液，旁边是Mentos货车
@@ -1369,6 +1369,29 @@ PALETTE: deep navy, near-black water, brilliant magenta, electric cyan, warm amb
 
 </details>
 
+<a id="nano-banana-ten-twins-raincoats-finger-count"></a>
+### 十个穿雨衣的同款双胞胎比手指数字
+
+<a href="https://x.com/HarshithLucky3/status/2107218246973915148"><img src="../../previews/nano-banana-ten-twins-raincoats-finger-count.jpg" width="360"></a>
+
+为每个主体指定不同颜色和不同手指数，给模型一条可逐人核对的规则，同时要求手部清晰可见，让数字更容易识别。个别人物的手指数仍可能出错，需逐一核对。
+
+Nano Banana 2.1 · 文生图 · 出处: [@HarshithLucky3 on X](https://x.com/HarshithLucky3/status/2107218246973915148) · 127 赞，统计于 2026-11-03
+
+[`counting`](tags.md#tag-counting) [`identical-twins`](tags.md#tag-identical-twins) [`raincoat`](tags.md#tag-raincoat)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Nano Banana 2.1 in Google Flow
+
+this is almost perfect but missed that 8
+
+> Prompt: 10 identical twins in different colored raincoats, each holding a different number of fingers up (1 to 10), clearly visible hands
+```
+
+</details>
+
 <a id="nano-banana-kfc-bag-head-wink-booth"></a>
 ### 女子头顶肯德基纸袋眨眼嘟嘴
 
@@ -1807,6 +1830,25 @@ Cut to a dramatic slow-motion shot of the woman lifting an enormous croissant ab
 Finish with a warm emotional close-up: the woman sits at the picnic table, smiling while holding a strawberry-covered piece of toast. A cute squirrel sits beside her and a rabbit approaches gently from the other side. She looks toward the animals and smiles naturally.
 
 Make the entire video visually rich, magical yet believable, with realistic animal movements, detailed fur, realistic food textures, natural human motion, cinematic depth of field, golden-hour lighting, volumetric sun rays, subtle lens flare, smooth camera transitions, professional commercial-film quality, highly detailed photorealism, realistic shadows, consistent character identity, vertical 9:16 format, no glitches, no deformed anatomy, no duplicate animals, no text, no watermark.
+```
+
+</details>
+
+<a id="gpt-image-moonlit-firefly-path-city-skyline"></a>
+### 月夜石板小径萤火虫与远方城市
+
+<a href="https://x.com/churvikv/status/2117674598577701108"><img src="../../previews/gpt-image-moonlit-firefly-path-city-skyline.jpg" width="360"></a>
+
+按前景小径、草丛到远处天际线的纵深顺序描述场景，并将月亮指定为视觉焦点，可以控制画面构图。写明写实中带一点奇幻的风格，无需过多限定光线，就能确定平静梦幻的氛围。
+
+GPT Image 2.5 · 文生图 · 出处: [@churvikv on X](https://x.com/churvikv/status/2117674598577701108) · 76 赞，统计于 2026-11-03
+
+[`landscape`](tags.md#tag-landscape) [`night`](tags.md#tag-night) [`fantasy`](tags.md#tag-fantasy) [`fireflies`](tags.md#tag-fireflies)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A moonlit night scene with a cobblestone path winding through tall grass illuminated by glowing orbs, possibly fireflies, leading toward a distant city skyline under a star-filled sky. The composition is balanced with the moon as a focal point, and the style combines realism with a touch of fantasy, evoking a calm and enchanting mood.
 ```
 
 </details>

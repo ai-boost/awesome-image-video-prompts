@@ -1,0 +1,26 @@
+id: seedance-kyoto-lane-cat-dv-walk
+title:
+  en: Woman steps out of Kyoto wooden house
+  zh: 女子走出京都木制老屋
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- japan
+- kyoto
+- found-footage
+- dv-camcorder
+source:
+  name: '@ElsaSofia__AI on X'
+  url: https://x.com/ElsaSofia__AI/status/2097281634370568317
+  credit: ElsaSofia__AI
+  captured: '2026-11-03'
+  posted: '2026-09-08'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/ElsaSofia__AI/status/2097281634370568317
+notes:
+  en: The camera spec is spelled out in full (handheld shake, autofocus hunting, exposure shifts, no stabilization) so the footage reads as a friend's DV recording. Timed beats with a fixed location and outfit, plus location only audio and two spoken lines, keep the 30 second clip coherent.
+  zh: 用完整的摄像机规格描述（手持抖动、自动对焦反复、曝光跳变、不开防抖）让画面像朋友的DV录像。按时间分段并固定地点与服装，再配上纯现场环境音和两句台词，让30秒的片段连贯自然。
+prompt: "⤵️ \nSame young Japanese woman throughout—early 20s, fair-warm skin, natural minimal makeup, straight black hair in a low ponytail with side-swept bangs. Pale-pink oversized t-shirt, black high-waisted shorts, white canvas sneakers, small crossbody bag, thin gold necklace. Keep face, hair, outfit, proportions, and accessories perfectly consistent.\nSetting: Quiet old residential lane in Kyoto with narrow wooden houses, potted bonsai, a bicycle leaned against a wall, a vending machine humming on the corner, a small shrine torii gate visible down the street, overhead power lines, cicadas in the trees. Lived-in, authentic; no brands, ads, tourist crowds, or polished commercial activity.\nCamera: Raw friend-recorded early-2000s consumer DV footage—strong handheld shake, imperfect framing, autofocus hunting, exposure shifts, motion blur, faded colors, soft digital detail, mild noise, accidental zooms. No stabilization, gimbal, drone, or cinematic shots.\nTimeline:\n00:00–00:05: Steps\
+  \ out of a narrow wooden house, small tote bag on shoulder, adjusts her ponytail, smiles at camera, starts walking down the lane.\n00:05–00:10: Stops at the vending machine, buys a cold canned drink, opens it, takes a sip, reacts (too sweet/fizzy), laughs, holds the can toward camera.\n00:10–00:15: A small cat sitting near a doorway notices her. She crouches, holds out her hand, cat sniffs it, brushes against her leg, then wanders off.\n00:15–00:20: A gust of wind sends cherry-blossom-like leaves swirling around her, some land in her hair. She looks up, laughs, brushes them off, awkward camera zoom toward her face. She says, \"Mata?\" (\"Again?\")\n00:20–00:25: Sits briefly on a low stone step, finishes her drink while a bicycle passes and an old neighbor waters plants nearby. Breeze moves her hair and shirt; she wipes her hand and adjusts her bag.\n00:25–00:30: Walks toward the end of the lane, turns back with a playful smile, says \"Ikou.\" (\"Let's go.\") Walks around the corner; camera\
+  \ follows; abrupt cut to black.\nAudio: Natural location sound only—cicadas, birds, footsteps, bicycle bell, distant traffic, vending machine hum, leaves rustling, cat sounds, camera-handling noise. No music, narration, subtitles, captions, logos, watermarks, or artificial effects.\nContinuity: Realistic cat and environmental movement. No duplicated people, distorted faces, broken hands, extra fingers, teleportation, or outfit changes. Warm, casual, feminine, playful, nostalgic forgotten-summer-memory feeling.\n"

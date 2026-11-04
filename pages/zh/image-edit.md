@@ -1,6 +1,6 @@
 # 照片编辑
 
-[返回目录](../../README_zh.md) · 全部 53 条
+[返回目录](../../README_zh.md) · 全部 55 条
 
 <a id="nano-banana-charmander-ember-route-101"></a>
 ### 小火龙在日落道路上使用火花攻击
@@ -296,6 +296,36 @@ GPT Image 2 · 上传图改图 · 出处: [@Zyrellix on X](https://x.com/Zyrelli
 
 ```text
 Transform this photo into a tiny “Minimi” world where miniature 3D characters interact naturally around me — sitting on my shoulder and bag, waving, copying my pose, and exploring the scene. Keep the original photo intact with realistic shadows, depth, motion, warm emotions. Title: “Tiny Moments Beside Me”
+```
+
+</details>
+
+<a id="nano-banana-character-sheet-skin-hair-texture-refs"></a>
+### 橄榄绿西装男子，皮肤质感自然
+
+<a href="https://x.com/Kiber_Alla/status/2116291838852141297"><img src="../../previews/nano-banana-character-sheet-skin-hair-texture-refs.jpg" width="360"></a>
+
+在角色设定图之外再传入两张纹理参考图，提示词锁定人物身份、姿势、服装和构图，只改变皮肤微纹理和发丝结构。提示词还包含明确的对比度规则，可在不修图的前提下柔化斑驳的脸部，文中提示词针对 Seedream 5.0 Flash 编写。
+
+Nano Banana 2.1 · 上传图改图 · 出处: [@Kiber_Alla on X](https://x.com/Kiber_Alla/status/2116291838852141297) · 199 赞，统计于 2026-11-03
+
+[`seedream`](tags.md#tag-seedream) [`character-sheet`](tags.md#tag-character-sheet) [`skin-texture`](tags.md#tag-skin-texture) [`hair-texture`](tags.md#tag-hair-texture)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+How it works:
+→ Image 1 — character sheet
+→ Image 2 — skin texture
+→ Image 3 — hair texture (light or dark)
+
+Universal prompt for Seedream 5.0 Flash (works across characters): Keep <<<image_1>>> exactly as it is: same person, same face shape and features, same expression, same hairstyle and hair shape, same hair color, same skin tone, same makeup, same wrinkles, freckles, moles, scars and facial hair, same clothing and accessories, same pose, composition, layout, background and framing.
+
+Change only the surface texture:
+- Skin: apply the micro-texture from <<<image_2>>> — fine natural skin lines, pores and soft realistic surface. Do not copy its color or its glossy shine.
+- Hair: apply the strand structure from <<<image_3>>> — fine individual strands, soft natural flyaways. Do not copy its color.
+
+Balance the contrast to a natural photographic level: if image 1 looks too harsh or blotchy, soften it; if it looks flat or washed out, add depth. Aim for a well-balanced realistic photo — rich but not crushed shadows, clean highlights, smooth even tonal transitions, natural shading with real volume. No retouching, no beautifying, no plastic look.
 ```
 
 </details>
@@ -650,6 +680,31 @@ TARGET IMAGE = everything.
 REFERENCE IMAGE = face identity only.
 Change nothing else.
 The final result must look like the original TARGET IMAGE, with only the woman's facial identity replaced by the woman from the reference photo.
+```
+
+</details>
+
+<a id="nano-banana-reverse-angle-ruined-temple-steps"></a>
+### 古庙台阶上女子的反向视角
+
+<a href="https://x.com/ai_artworkgen/status/2116217421077848340"><img src="../../previews/nano-banana-reverse-angle-ruined-temple-steps.jpg" width="360"></a>
+
+将原图与反向视角指令配合，并明确锁定人物、服装和环境，使皮草大衣、金色服饰和涂鸦立柱保持不变，只改变镜头位置。需附上原图作为输入，让模型重新取景，而不是生成新场景。
+
+Nano Banana 2.1 · 上传图改图 · 出处: [@ai_artworkgen on X](https://x.com/ai_artworkgen/status/2116217421077848340) · 111 赞，统计于 2026-11-03
+
+[`reverse-angle`](tags.md#tag-reverse-angle) [`camera-angle`](tags.md#tag-camera-angle) [`subject-consistency`](tags.md#tag-subject-consistency)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+"cover the entire scene with thick snowfall, there is a snow blizzard."
+
+Giving a model like Nano Banana 2.1 context is enough.
+
+Which is your favourite shot?
+
+// Google Flow
 ```
 
 </details>

@@ -1,6 +1,6 @@
 # 科幻与奇幻
 
-[返回目录](../../README_zh.md) · 全部 83 条
+[返回目录](../../README_zh.md) · 全部 94 条
 
 <a id="seedance-lab-containment-breach"></a>
 ### 实验室收容失效，科幻恐怖
@@ -1577,6 +1577,27 @@ A warm, intimate scene continuing a dark-fantasy medieval drama, shot inside a r
 
 </details>
 
+<a id="seedance-bearded-man-moon-guardian-transformation"></a>
+### 蓄胡男子手持粉色爱心魔杖直面巨魔
+
+<a href="https://x.com/itsSaira_1/status/2109129359441457193"><img src="../../previews/seedance-bearded-man-moon-guardian-transformation.jpg" width="360"></a>
+
+带时间码的四段分镜，每段都写明镜头与光线，让大教堂场景和服装变化在切换中保持一致。统一的负面提示词完整写出，对每一段都生效，用于抑制畸形肢体和闪烁。
+
+Seedance 2.5 · 文生视频 · 出处: [@itsSaira_1 on X](https://x.com/itsSaira_1/status/2109129359441457193) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`fantasy`](tags.md#tag-fantasy) [`multi-shot`](tags.md#tag-multi-shot) [`transformation`](tags.md#tag-transformation) [`trolls`](tags.md#tag-trolls)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+low quality, low resolution, blurry, distorted face, extra limbs, bad anatomy, deformed hands, missing fingers, bad lighting, grainy, noise, glitch, cartoonish, low budget CGI, flickering, duplicate characters, distorted text.
+
+#AIArt #VisualStorytelling #AI
+```
+
+</details>
+
 <a id="seedance-bedroom-awakening-giant-black-cat"></a>
 ### 卧室超自然觉醒与巨型黑猫
 
@@ -1670,6 +1691,81 @@ Photorealistic cinematic fantasy, realistic mechanical gear interactions, believ
 
 </details>
 
+<a id="seedance-crowded-maglev-time-travel"></a>
+### 拥挤列车车窗外的历史时间穿越
+
+<a href="https://x.com/oggii_0/status/2092938748073849067"><img src="../../previews/seedance-crowded-maglev-time-travel.jpg" width="360"></a>
+
+每次时代跳转都穿过真实的时间薄雾隧道，镜头始终固定朝向左侧车窗并与车向约成90度，让每个目的地都像真实的移动而非剪辑。卷帘快门、反复对焦、高光过曝等手机瑕疵让画面像意外拍下的素材。
+
+Seedance 2.5 · 文生视频 · 出处: [@oggii_0 on X](https://x.com/oggii_0/status/2092938748073849067) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`time-travel`](tags.md#tag-time-travel) [`first-person`](tags.md#tag-first-person) [`historical`](tags.md#tag-historical) [`train`](tags.md#tag-train)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 30-second vertical 9:16 first-person smartphone video, filmed by one standing passenger inside an extremely crowded maglev commuter train. One continuous take only: no cuts, jump cuts, fades, dissolves, overlays, double exposure, scene resets, or artificial transitions.
+
+The same train, same carriage, same passengers, same camera, and same interior remain consistent throughout. The camera is a cheap smartphone held at chest height, one-handed while the other hand grips a pole. The phone is never visible. Footage is crooked, shaky, partially blocked by shoulders, and realistically imperfect: rolling-shutter distortion, autofocus hunting, exposure fluctuations, blown highlights, noisy shadows, compression artifacts, motion smear, and no stabilization or cinematic movement.
+
+The camera always looks through the left-side window at roughly 90° to the train's direction. The train always moves forward and the outside world flows from front to back.
+
+Timeline
+
+0–2s — Present Day
+Ordinary modern weekday morning: glass buildings, traffic, pedestrians passing outside. Tired commuters barely react. Announcement: “Next stop: 1944.” The train suddenly accelerates; passengers grab poles and sway.
+
+2–4s — Time Turbulence
+Modern scenery is physically swallowed by a dense silver-gray temporal mist tunnel. It has real depth, airflow, parallax, and particles. Old newspapers, yellowed pages, and radio-static-like fragments fly naturally from front to back. Carriage lights flicker. This is a real tunnel, not a transition effect.
+
+4–8s — June 1944, Normandy
+The mist clears as the train physically emerges beside the Normandy coast. Gray dawn, naval ships, landing craft, barrage balloons, distant explosions, smoke, and soldiers as distant silhouettes in the surf. No graphic violence. Passengers become solemn and tense.
+
+8–9s — Time Turbulence
+Parchment fragments and quill-like light streaks rush past the window. Radio-static texture and distant voices. Announcement: “Next stop: 1789.”
+
+9–13s — May 1789, Versailles
+The train emerges beside Versailles. Stone walls, wrought-iron gates, horse-drawn carriages, formally dressed representatives, and large crowds. Warm golden morning light. Church bells and murmuring voices. Atmosphere of expectation and historical change.
+
+13–14s — Time Turbulence
+Flying pamphlets and paper fragments fill the temporal mist. Announcement: “Next stop: 1776.”
+
+14–18s — July 1776, Philadelphia
+The train emerges beside a red-brick bell-tower building and crowded stone square. A bell rings, representatives exit, a proclamation is read, papers flutter, and the crowd celebrates quietly. Warm summer evening light. A passenger smiles and softly says: “Look.”
+
+18–19s — Time Turbulence
+Rough dark mist, ash-like particles, glowing embers, distant horns. Announcement: “Next stop: 1184 BC.”
+
+19–23s — April 1184 BC, Troy
+The train emerges at night beside a massive fortified city. Burning walls, smoke, a huge wooden horse being pulled through a damaged gate, shield-bearing silhouettes, and ships along the shore. Convey war only through fire, smoke, silhouettes, and scale. No blood, injuries, or graphic violence. Passengers lean toward the window, visibly grave.
+
+23–24s — Time Turbulence
+Golden swirling sand replaces the mist. Luminous fragments resembling ancient symbols and distant chanting pass through the window. Announcement: “Next stop: 2500 BC.”
+
+24–28s — Approximately 2500 BC, Giza
+The turbulence clears to reveal a gigantic unfinished pyramid under intense white-gold desert sunlight. Thousands of workers haul limestone blocks up massive ramps using ropes, rollers, and levers. Supervisors stand above; boats move along the distant Nile. Immense scale and photorealistic ancient construction. A passenger whispers: “Ohh.”
+
+28–30s — Ending
+The train keeps moving beside the enormous pyramid. Dust floats through the sunlight; distant workers continue their labor. Every passenger is silent and stunned. At approximately 29.7s, the announcement quietly says: “Welcome to 2500 BC.” The train continues moving and the video ends naturally—no fade or cut.
+
+Physics, Lighting & Sound
+
+Passengers, hand loops, clothing, backpacks, and loose objects react naturally to acceleration and turbulence. Keep the same people and interior throughout.
+
+Lighting changes physically with each era: cool modern morning → gray-blue Normandy dawn → warm Versailles morning → warm Philadelphia evening → orange-red Troy firelight → intense white-gold Giza sunlight. Light always enters from the left window and illuminates passengers naturally.
+
+Use only diegetic sound: maglev hum, mechanical rattling, vibrating poles, compressed phone-mic audio, plus era-specific ambience. Every time jump includes a brief radio-static scan and historical echoes before naturally becoming the new environment's sound.
+
+Critical Rules
+
+Single uninterrupted shot. Same train. Same passengers. Same phone. Forward motion only. Left-window view only. Every time jump must be achieved by physically entering and exiting a real 3D temporal-mist tunnel. No editing or compositing.
+
+All historical environments must be photorealistic and period-appropriate. Do not show recognizable famous historical figures in facial close-up. Keep Normandy and Troy non-graphic. The footage must feel like an accidental, low-quality smartphone recording—not a polished movie.
+```
+
+</details>
+
 <a id="seedance-cyberpunk-phoenix-tea-transformation"></a>
 ### 身着藏青旗袍的女子在日落茶室品茶
 
@@ -1757,6 +1853,39 @@ Seedance 2.5 · 参考生视频 · 出处: [@ZentrixHQ on X](https://x.com/Zentr
 
 ```text
 Use image 1 for the young woman's face, hair and outfit. Use image 2 for the adult dragon. Use image 3 for the baby dragon. The baby dragon has exactly the same pearl-white and pink color, amber slit-pupil eyes and pink-tipped crest as the adult dragon.
+```
+
+</details>
+
+<a id="seedance-dragon-grills-lamb-skewers"></a>
+### 女子与粉色巨龙在庭院烤羊肉串
+
+<a href="https://x.com/SadiaMalik182/status/2115314198452572369"><img src="../../previews/seedance-dragon-grills-lamb-skewers.jpg" width="360"></a>
+
+参考图锁定女主角和巨龙的形象，再用按秒分段的剧本和台词驱动每个场景。单镜头连续拍摄的指令加上固定的服装与鳞片细节，让整段视频的外观保持稳定。
+
+Seedance 2.5 · 参考生视频 · 出处: [@SadiaMalik182 on X](https://x.com/SadiaMalik182/status/2115314198452572369) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`dragon`](tags.md#tag-dragon) [`fantasy`](tags.md#tag-fantasy) [`cooking`](tags.md#tag-cooking) [`dialogue`](tags.md#tag-dialogue)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Single continuous shot, no cuts, no scene changes, no morphing. Slow steady camera with a gentle push-in. Photorealistic medieval fantasy film, autumn farmhouse courtyard, stone walls, iron grill, marinated lamb skewers, warm golden sunlight. Match heroine and colossal beast references exactly. Heroine: young woman, dark brown hair in a loose bun, cream blouse with rolled sleeves, brown leather vest, long brown skirt, black boots. Beast: colossal dragon, pale pink-white scales, pink spines, golden eyes, dozens of meters long, full body visible in wide shots. Same outfit, same hair and same scales throughout. Realistic fire, smoke, meat and physics. No modern objects.
+
+0–4s: Heroine arranges raw lamb skewers. Giant beast sniffs eagerly. She asks: "Can you cook these for me? Carefully, okay?" Beast nods.
+
+4–9s: Beast blasts enormous flames! Grease ignites, smoke erupts, skewers turn black. Soot covers her face. She freezes in disbelief.
+
+9–14s: Holding burnt meat, she yells: "You burned everything!" Beast secretly grins. "Don't you dare laugh!" It suppresses laughter, nostrils smoking.
+
+14–20s: She replaces the skewers and demonstrates gentle heat: "Not too hot. Not too cold. Just right. Aim low. Control the heat. Small and steady. Please don't burn my dinner." Beast listens carefully.
+
+20–26s: Beast gently heats the grill from below. Lamb sizzles, golden fat drips, spices scatter over juicy meat. "Now that's perfect!"
+
+26–30s: Beast drools adorably. She offers a skewer: "You earned this one." Beast eats gently, tail stirring autumn leaves. She strokes its nose. Warm sunset wide shot.
+
+Cinematic lighting, detailed scales, realistic flames, expressive acting, smooth natural motion, stable faces, no glitches, no warping. No subtitles, narration, logos or watermark.
 ```
 
 </details>
@@ -1935,6 +2064,25 @@ SCENE CONTEXT A girl Image flees something unseen through a glowing forest, trip
 
 </details>
 
+<a id="seedance-floating-celestial-palace-lone-figure"></a>
+### 云海之上独行人走向浮空仙宫
+
+<a href="https://x.com/ClaraOnAI/status/2115753803375141156"><img src="../../previews/seedance-floating-celestial-palace-lone-figure.jpg" width="360"></a>
+
+提示词按天空光线、宫殿建筑、单人身影、镜头运动的顺序展开，先定场景再定主体。用一个人物对比云海与宫殿的巨大尺度，让画面有唯一焦点，镜头运动放在最后单独说明。
+
+Seedance 2.5 · 文生视频 · 出处: [@ClaraOnAI on X](https://x.com/ClaraOnAI/status/2115753803375141156) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`floating-palace`](tags.md#tag-floating-palace) [`chinese-fantasy`](tags.md#tag-chinese-fantasy) [`clouds`](tags.md#tag-clouds) [`golden-hour`](tags.md#tag-golden-hour)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Cinematic majestic floating ancient Chinese celestial palace above a sea of soft fluffy clouds, golden hour sunset lighting with a massive glowing moon in the sky. Intricate oriental architecture with white marble bridges, towering carved pillars, cascading waterfalls, and flying cranes. A solitary figure in traditional flowing flowing silk robes walking gracefully. Hyper-realistic, 8k resolution, ethereal fantasy atmosphere, smooth cinematic camera motion, breathtaking visual effects
+```
+
+</details>
+
 <a id="seedance-grandma-tanuki-morning-market-shopping"></a>
 ### 奶奶与巨型狸猫的清晨市场采买
 
@@ -1950,6 +2098,45 @@ Seedance 2.5 · 文生视频 · 出处: [@Just_sharon7 on X](https://x.com/Just_
 
 ```text
 Photorealistic AAA cinematic short, GTA-style urban energy: saturated colors, punchy contrast, dynamic camera (low heroic angles, smooth tracking, brief crane and push-ins), rich environmental detail, slightly larger-than-life character presence, filmic grain, sharp fur and fabric simulation. Duration exactly 50 seconds. Natural morning light mixed with colorful market stall canopies. Busy, funny, lively tone. English subtitles at the bottom. Japanese dialogue in a warm elderly Kansai-accented female voice for the grandmother.  CAST (use these exact descriptions every time they appear): - An elderly Japanese grandmother (short gray hair in a loose bun, wrinkled kind face, purple-pink floral vest over a patterned blouse, dark pants) - A giant tanuki (raccoon-dog), about 6.5 feet tall standing on hind legs, thick brown-grey fur, round belly, mischievous dark-ringed eyes, wearing a slightly stained vendor apron, walking upright like a person - A tiny brown sparrow perched on the grandmother’s shoulder - A grumpy middle-aged Japanese fishmonger in a rubber apron  ---  0:00–0:07 — ESTABLISHING   Wide crane shot descending into a crowded Japanese open-air morning market. Fish stalls, vegetable crates, hanging flowers, steam, shouting vendors, bicycles, plastic bags. Camera finds an elderly Japanese grandmother (short gray hair in a loose bun, wrinkled kind face, purple-pink floral vest over a patterned blouse, dark pants) walking into the market carrying an empty basket. A tiny brown sparrow is already perched on her right shoulder. She looks delighted and a little overwhelmed.  Dialogue (grandmother):   「今日は安うてええ日やわ。」   Subtitle: “Prices are good today. Dangerous for me.”  ---  0:07–0:16 — FISH STALL**   Medium tracking shot. An elderly Japanese grandmother (short gray hair in a loose bun, wrinkled kind face, purple-pink floral vest over a patterned blouse, dark pants) stops at a fish stall piled with ice and silver fish. The grumpy fishmonger slaps a huge fish onto the scale. The tiny sparrow hops down, pecks a piece of dried squid, and flies back to her shoulder. She notices and gently scolds it without real anger.  Dialogue (grandmother):   「あんたまた盗んでるやないの。恥ずかしいわ。」   Subtitle: “You little thief. That’s embarrassing.”  The fishmonger frowns.   Fishmonger: 「ばあさん、そんなに持って帰れんやろ。」   Subtitle: “Grandma, you can’t carry all that.”  ---  **0:16–0:28 — TANUKI ARRIVES AND BARGAINS**   Low heroic angle. The crowd parts. A giant tanuki in a vendor apron walks upright through the aisle, heavy and confident, GTA-style presence. He stops beside an elderly Japanese grandmother (short gray hair in a loose bun, wrinkled kind face, purple-pink floral vest over a patterned blouse, dark pants), looks at the fishmonger’s price, then slaps a paw on the counter.  Tanuki (deep, playful male voice):   「その値段、冗談やろ。半分でええやろ。」   Subtitle: “That price? You’re joking. Half.”  The fishmonger argues, then reluctantly nods. The giant tanuki grins. An elderly Japanese grandmother (short gray hair in a loose bun, wrinkled kind face, purple-pink floral vest over a patterned blouse, dark pants) covers her mouth, laughing.  Dialogue (grandmother):   「もう、あんたまで出てこんでもええのに。」   Subtitle: “You didn’t have to jump in… but thank you.”  ---  0:28–0:40 — CARRYING EVERYTHING   Smooth side-tracking shot through the busy market. The giant tanuki now carries two overflowing wooden crates of fish, vegetables, and flowers on his shoulders like it’s nothing. An elderly Japanese grandmother (short gray hair in a loose bun, wrinkled kind face, purple-pink floral vest over a patterned blouse, dark pants) walks beside him, still holding her small basket. The tiny sparrow keeps darting down to steal small snacks from open stalls and returning to her shoulder. Shoppers stare and smile. Dynamic market chaos in the background: steam, shouting, hanging lanterns, wet pavement reflections.  Dialogue (grandmother, amused):   「箱二つも買うんやったらええ加減にせな。肩の子も手伝いすぎや。」   Subtitle: “Two crates is too much. And you on my shoulder, stop helping so much.”  ---  0:40–0:50 — FINAL BEAT   The trio stops at the edge of the market near a narrow street. The giant tanuki sets the crates down carefully, then stands proud with paws on his hips. Close-up of an elderly Japanese grandmother (short gray hair in a loose bun, wrinkled kind face, purple-pink floral vest over a patterned blouse, dark pants) looking up at him, then at the tiny sparrow on her shoulder. She reaches up and gently taps the sparrow’s head, then pats the tanuki’s massive forearm.  Dialogue (grandmother, soft and affectionate):   「ほんま、困った相棒やわ。けど…助かった。帰ろか。」   Subtitle: “What a pair of troublemakers. …Still, you saved me. Let’s go home.”  Final shot: slow push-in. The giant tanuki picks the crates up again. An elderly Japanese grandmother (short gray hair in a loose bun, wrinkled kind face, purple-pink floral vest over a patterned blouse, dark pants) walks ahead. The tiny sparrow settles on her shoulder as they leave the colorful market toward the street. Hold 1.5 seconds, then cut to black.  ---  TECH / STYLE LOCKS   GTA AAA cinematic look: vibrant market colors, strong sunlight shafts through stall roofs, wet ground reflections, dense extras, slightly exaggerated scale on the giant tanuki, ultra-detailed fur, realistic plastic bags and ice, handheld-feeling but stabilized tracking. No text except the English subtitles. Ambient sound: vendors shouting, ice being shoveled, sparrows, footsteps, distant traffic. Keep the grandmother’s appearance identical in every shot using the exact description above.
+```
+
+</details>
+
+<a id="seedance-green-angel-three-part-battle"></a>
+### 带光环与发光羽翼的天使
+
+<a href="https://x.com/itsSaira_1/status/2108049177259462719"><img src="../../previews/seedance-green-angel-three-part-battle.jpg" width="360"></a>
+
+将片段分成三段，每段约十秒，并把上一段的末帧作为参考图输入。每段都重复的连续性要求锁定人脸、光线与绿色调色，固定的负面提示词用于防止人脸漂移和翅膀变形。
+
+Seedance 2.5 · 参考生视频 · 出处: [@itsSaira_1 on X](https://x.com/itsSaira_1/status/2108049177259462719) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`dark-fantasy`](tags.md#tag-dark-fantasy) [`angel`](tags.md#tag-angel) [`magic`](tags.md#tag-magic) [`multi-part`](tags.md#tag-multi-part)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Cinematic 16:9 dark fantasy, photorealistic, Gothic cathedral, emerald-green glowing magic, dramatic low light, film grain. Generate in 3 parts of about 10 seconds each.
+
+PART 1
+Scene 1: Dark horned demons charge through a ruined cathedral, blurred motion.
+Scene 2: Extreme close-up of a young nun in a white wimple, her fist glowing bright green, intense stare.
+Scene 3: A green energy dome forms around her as hundreds of demons surround it, wide high-angle shot.
+
+PART 2 (use the LAST FRAME of Part 1 as reference image; keep the exact same face, body, outfit and cathedral)
+Scene 4: Her habit turns into a glowing green-white gown, then she transforms into a radiant angel with huge translucent glowing wings, a halo and a white-green gown, standing inside a clear green bubble.
+Scene 5: She fights the demons with a glowing green spear and a round glowing shield, spinning slashes, motion blur.
+
+PART 3 (use the LAST FRAME of Part 2 as reference image; keep the exact same angel face, wings, halo and gown)
+Scene 6: She wields a glowing green chainsaw, cutting demons in half, green energy bursts and orange sparks, low-angle hero shots.
+Scene 7: Green laser pillars rain from above, she crouches in the green dome as a huge green explosion and smoke engulf the cathedral.
+Scene 8: Smoke clears, the demons are gone, the angel stands alone on the glowing floor emblem, wings spread, calm, slow zoom out.
+
+Continuity rule for every part: same face, same lighting, same green color grade, same camera style as the previous part.
+
+Negative prompt: cartoon, anime, low quality, blurry, face change, different person, extra limbs, bad hands, deformed wings, text, watermark, logo, flickering, overexposed, duplicate characters.
+
+#AI #Cinematic #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #visualArt @ming_ai
 ```
 
 </details>
@@ -2024,6 +2211,48 @@ Seedance 2.5 · 文生视频 · 出处: [@Zyrellix on X](https://x.com/Zyrellix/
 A magical 3D animated fairy-tale scene featuring a young girl wearing a black hijab and a beautiful vintage rose-pink dress, accompanied by a cute fluffy yellow duckling and a tiny brown rabbit. Inside a cozy cottage bedroom, moonlight shines through a round window filled with pink roses. The duckling and rabbit join the girl as she picks up a glowing lantern and opens the wooden cottage door. They walk together through a charming village under a bright full moon, surrounded by thatched-roof cottages, blooming roses, glowing fireflies, and a beautiful starry sky. The girl gently kneels beside the adorable animals near a giant magical tree with a tiny round wooden door glowing warmly from within. Cinematic camera movements, expressive characters, detailed textures, soft moonlight, warm lantern lighting, vibrant colors, whimsical fantasy atmosphere, smooth character animation, consistent character designs, high-quality Pixar-style 3D animation, enchanting storytelling, 16:9 widescreen, 4K quality.
 
 #FlovaAI #CPP
+```
+
+</details>
+
+<a id="seedance-kitten-knight-dragon-egg-snowstorm"></a>
+### 小猫骑士在暴风雪中守护龙蛋
+
+<a href="https://x.com/itxabdullaa/status/2110942575523922012"><img src="../../previews/seedance-kitten-knight-dragon-egg-snowstorm.jpg" width="360"></a>
+
+五段定时分镜配合开头固定的角色描述和一致性约束，让盔甲、缎带和披风在每次切换后保持一致。明确写出毛发、鳞片、雪景和音效，使奇幻画面更接近真人实拍质感。
+
+Seedance 2.5 · 文生视频 · 出处: [@itxabdullaa on X](https://x.com/itxabdullaa/status/2110942575523922012) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`kitten`](tags.md#tag-kitten) [`dragon`](tags.md#tag-dragon) [`fantasy`](tags.md#tag-fantasy) [`snowstorm`](tags.md#tag-snowstorm)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Duration: 24 seconds | Format: 16:9 | Style: Photorealistic cinematic fantasy
+
+Create a breathtaking 24-second live-action fantasy short featuring a tiny golden British Shorthair kitten knight with enormous dark eyes, realistic fluffy fur, a pink ribbon, silver medieval armor, an ivory cape, and a miniature sword. Maintain identical character appearance, proportions, and accessories throughout.
+
+SCENE 1 (0–5s): THE DISCOVERY
+During a violent snowstorm, the kitten struggles through ancient frozen ruins. A gigantic black dragon claw crashes into the snow behind it. The terrified kitten discovers a mysterious golden-glowing dragon egg as the colossal dragon's amber eyes emerge through the blizzard.
+
+SCENE 2 (5–9s): THE CHOICE
+Instead of fleeing, the kitten raises its tiny sword to protect the egg. The dragon spreads its enormous wings, blocking the moon. A golden crack appears in the egg, making the dragon suddenly stop in surprise.
+
+SCENE 3 (9–15s): THE REVELATION
+The egg hatches, revealing a tiny black dragon with miniature horns and amber eyes. The kitten gently touches the hatchling, while the colossal dragon lowers its head gratefully. Golden sunrise light breaks through the storm.
+
+SCENE 4 (15–20s): THE PROTECTOR
+A massive avalanche rushes toward them. The kitten shields the hatchling beneath its ivory cape as the enormous dragon spreads its leathery wings, protecting them from the crashing snow and ice.
+
+SCENE 5 (20–24s): THE BOND
+At sunrise, the exhausted kitten cradles the sleeping hatchling beside the colossal dragon. The dragon gently closes its amber eyes and exhales, softly moving the kitten's pink ribbon. The camera pulls back to reveal all three together among sparkling frozen ruins.
+
+CINEMATOGRAPHY: Photorealistic fur and scales, realistic snow physics, dramatic scale contrast, cinematic tracking shots, shallow depth of field, volumetric lighting, natural golden-hour grading, and premium live-action fantasy realism.
+
+AUDIO: Icy winds, crunching snow, metallic armor movement, deep dragon breathing, cracking ice, hatchling chirps, and avalanche impacts. No dialogue or narration.
+
+STRICT CONSISTENCY: No cartoon or anime style, artificial CGI look, morphing, extra limbs, duplicate characters, changing accessories, inconsistent anatomy, flickering textures, or unnatural physics. Preserve exact character identities throughout. #imagineArt
 ```
 
 </details>
@@ -2280,6 +2509,147 @@ A cinematic close up of an orc warlord giving a rallying speech to his army of o
 
 </details>
 
+<a id="seedance-pov-driving-2050-flying-traffic"></a>
+### 2050年女子驾车穿越飞行车流
+
+<a href="https://x.com/Just_sharon7/status/2112913908617158822"><img src="../../previews/seedance-pov-driving-2050-flying-traffic.jpg" width="360"></a>
+
+固定的仪表盘车内视角与高空跟拍镜头交替出现，让空中车流显得习以为常，司机几乎无动于衷。分段时间码、硬切结构，加上针对脸部和发色漂移的负面提示，保证多个镜头之间人物一致。
+
+Seedance 2.5 · 文生视频 · 出处: [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2112913908617158822) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`pov`](tags.md#tag-pov) [`sci-fi`](tags.md#tag-sci-fi) [`flying-cars`](tags.md#tag-flying-cars) [`dashboard-camera`](tags.md#tag-dashboard-camera)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+TITLE: POV — DRIVING IN 2050
+
+Create a 10-second ultra-photorealistic futuristic video showing a beautiful young woman casually driving along a highway in the year 2050, while hundreds of autonomous flying vehicles travel overhead in perfectly organized aerial traffic lanes.
+
+MAIN CHARACTER — STRICT IDENTITY CONSISTENCY
+
+A beautiful 23-year-old woman with long, straight pastel-pink hair, delicate facial features, realistic fair skin with visible natural texture, soft pink makeup, and subtle glossy lips.
+
+She wears:
+A fitted blue denim sleeveless top.
+A futuristic metallic silver choker necklace.
+Bright blue statement earrings.
+A black seatbelt across her chest.
+
+Maintain her exact face, hairstyle, outfit, proportions, and accessories throughout.
+
+SCENE 1 — 0:00–0:02 | INSIDE THE CAR
+Start with a fixed dashboard-mounted smartphone camera facing the woman from the passenger side.
+
+She sits behind the steering wheel of a modern luxury vehicle, driving casually.
+
+Warm golden-hour sunlight streams through the side window, illuminating her pink hair and face.
+
+She looks ahead at the road, then briefly glances toward the camera with a subtle, amused smile.
+
+The vehicle interior is realistic, with black leather seats, a dark roof, and natural windshield reflections.
+
+SCENE 2 — 0:02–0:04 | THE FUTURISTIC HIGHWAY REVEAL
+
+Hard cut to a spectacular elevated wide-angle view of a massive multilane highway at sunset.
+A dark luxury SUV drives along the nearly empty highway.
+
+Above the highway, hundreds of futuristic autonomous flying vehicles hover and travel in tightly organized aerial traffic lanes.
+
+The flying vehicles have compact aerodynamic bodies, metallic silver and dark-gray surfaces, and advanced concealed propulsion systems.
+
+They move smoothly in synchronized formations, maintaining precise distances from one another.
+
+Some fly directly above the highway while others stretch toward the horizon, creating a dense futuristic transportation network.
+
+Golden sunlight reflects off their metallic surfaces.
+
+SCENE 3 — 0:04–0:06 | BACK TO THE DRIVER
+
+Hard cut back to the same dashboard camera angle.
+
+The pink-haired woman continues driving completely unfazed by the extraordinary traffic system outside.
+She rests one hand naturally on the steering wheel and looks toward the windshield with a playful, slightly impressed expression.
+
+Sunlight shifts across her face as the vehicle moves.
+
+Her facial movements are subtle, natural, and believable.
+
+SCENE 4 — 0:06–0:08 | MASSIVE AERIAL TRAFFIC
+
+Cut to a dramatic elevated tracking shot following the dark SUV along the highway.
+
+The camera reveals an enormous formation of flying vehicles stretching across the sky.
+
+Several vehicles glide directly above the camera while hundreds more move across multiple aerial levels.
+The futuristic traffic looks technologically advanced but physically believable.
+
+Below, the dark SUV continues along the sunlit road, appearing tiny beneath the immense aerial transportation network.
+
+Warm orange sunlight, long road shadows, atmospheric haze, and realistic metallic reflections create a spectacular cinematic atmosphere.
+
+SCENE 5 — 0:08–0:10 | FINAL REACTION
+
+Cut back inside the car.
+
+The same pink-haired woman looks toward the camera and gives a small, knowing smile before returning her attention to the road.
+
+Golden sunlight illuminates her face.
+
+End on her calm, confident expression.
+CAMERA AND VISUAL STYLE
+
+Authentic smartphone dashboard-camera footage for interior shots.
+
+Spectacular aerial cinematography for exterior shots.
+
+Realistic handheld micro-vibrations inside the moving car.
+
+Natural sunlight, believable shadows, and atmospheric depth.
+
+Photorealistic flying vehicles with convincing scale, movement, and reflections.
+
+Smooth aerial tracking with realistic motion blur.
+Warm sunset color palette.
+Natural skin texture, visible pores, realistic hair movement.
+Strong contrast between ordinary everyday driving and extraordinary futuristic transportation.
+ON-SCREEN TEXT
+Small, simple white text reading "2050" positioned near the top center throughout the video.
+AUDIO
+Natural road noise, soft futuristic electric propulsion hums, subtle wind sounds, and a dreamy futuristic electronic soundtrack.
+NEGATIVE PROMPT
+
+No cartoon rendering, no anime, no video-game graphics, no artificial CGI-looking humans, no face morphing, no changing hair color, no inconsistent outfits, no distorted steering wheel, no extra fingers, no unrealistic flying vehicle collisions, no chaotic flight patterns, no flickering objects, no unnatural facial expressions, no excessive neon lighting, no dark nighttime setting.
+
+FINAL GOAL
+
+Make the video feel like an authentic viral social media clip recorded in the year 2050, where flying cars have become so ordinary that the woman barely reacts to hundreds of them passing overhead.
+
+#DomoAI #DomoAICPP
+```
+
+</details>
+
+<a id="seedance-red-haired-heroine-golem-chase-floating-islands"></a>
+### 红发女英雄逃离石像巨人，开启浮岛秘境
+
+<a href="https://x.com/laviniavelle/status/2109868479713083637"><img src="../../previews/seedance-red-haired-heroine-golem-chase-floating-islands.jpg" width="360"></a>
+
+提示词按镜头顺序写成清晰的节拍，从追逐、激活遗迹符文、金色护盾格挡，到开门揭示秘境。明确写出服装、发光法杖和光线，让女主角在多个镜头之间保持一致。
+
+Seedance 2.5 · 文生视频 · 出处: [@laviniavelle on X](https://x.com/laviniavelle/status/2109868479713083637) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`fantasy`](tags.md#tag-fantasy) [`action`](tags.md#tag-action) [`magic`](tags.md#tag-magic) [`snow-forest`](tags.md#tag-snow-forest)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A cinematic fantasy adventure video featuring a brave red-haired heroine wearing a brown leather jacket and dark pants, running through a snowy forest while holding a glowing magical staff. She is being pursued by giant, menacing stone golems with glowing purple eyes and cracks of fire on their bodies. She enters ancient ruins, activates glowing magical runes on a stone pillar, and summons a golden circular shield barrier to block the attacking golems. After defending herself, she turns, opens massive stone gates, and reveals a breathtaking magical landscape with floating islands, cascading waterfalls, rivers, and a vibrant starry purple sky in the distance. Cinematic lighting, epic orchestral fantasy music, 4k resolution.
+```
+
+</details>
+
 <a id="seedance-runner-fog-sleeping-dinosaur"></a>
 ### 雾中女子发现沉睡的巨型恐龙
 
@@ -2306,6 +2676,61 @@ Setting: A silent pine forest at dawn that opens into a wide foggy meadow with d
 🌅 25–30s: The dinosaur gently lifts its long neck high into the fog with her still balanced on its head, as thin sunlight breaks through the clouds. She stands up in awe, smiling in disbelief. Epic slow pull-back crane shot revealing the immense creature and the tiny girl on its head against the misty horizon, then fade out.
 🎧 Audio: Soft wind, distant birds, heavy breathing and footsteps on damp grass, a deep low rumbling breath from the creature, a slow rising orchestral score with soft strings and low brass, no dialogue.
 🎬 Style: Realistic cinematic adventure, smooth natural movement, believable giant-creature scale, emotional wonder, non-graphic, no text, no subtitles, no logos, no watermark.
+```
+
+</details>
+
+<a id="seedance-saint-varchen-cathedral-battle"></a>
+### 身披装甲的英雄在水淹大教堂中迎战两个怪物
+
+<a href="https://x.com/Xaroon_x/status/2113500487328706937"><img src="../../previews/seedance-saint-varchen-cathedral-battle.jpg" width="360"></a>
+
+用 @image1 锁定主角身份，并以精确到秒的时间线和音效节点编排打斗，配合连贯性约束防止镜头之间外观漂移。
+
+Seedance 2.5 · 参考生视频 · 出处: [@Xaroon_x on X](https://x.com/Xaroon_x/status/2113500487328706937) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`dark-fantasy`](tags.md#tag-dark-fantasy) [`superhero`](tags.md#tag-superhero) [`reference-lock`](tags.md#tag-reference-lock) [`creature-battle`](tags.md#tag-creature-battle)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+THE LAST LIGHT OF SAINT VARCHEN
+
+[ENGINE DIRECTIVE]
+Genre: Supernatural dark-fantasy superhero cinema. Duration: exactly 30 seconds. Format: 16:9, 60fps where supported. Photorealistic Hollywood realism, realistic skin, wet materials, volumetric rain, cinematic lighting and natural motion blur.
+
+HERO LOCK: Use @image1 as the sole hero. Preserve the exact face, skin tone, hairstyle, beard, age, body proportions and identity. Begin in the reference outfit, then transform into a matte midnight-graphite tactical suit with segmented armor and glowing gold energy seams. Face remains uncovered. No cape, helmet, logos or clones. Combat uses fists, bracers and gold kinetic energy.
+
+CREATURES:
+
+1. THE HOLLOWHORN: A towering 4-meter revenant with a skeletal stag skull, broken antlers, rusted chains, black smoke and pale-blue glowing eyes. Heavy, powerful attacks.
+2. THE SPLINTER: A fast, long-limbed ash wraith with a cracked porcelain mask, elongated fingers and a translucent body.
+
+LOCATION: Flooded, ruined Cathedral of Saint Varchen at night. Violent storm, shattered rose window, broken pillars, ankle-deep black water, blue-white candles and a collapsed roof. Creatures attack from frame-right.
+
+[30-SECOND TIMELINE]
+
+00:00–00:05 | THE DROWNED NAVE
+Descend through the broken roof into the flooded cathedral. Show rippling water, candle reflections and the hero standing still in the original outfit. Two blue eyes open in the darkness. Thunder strikes at 00:04.
+
+00:05–00:10 | THE WARDENS AWAKEN
+The Hollowhorn crashes into the water, chains swinging, while the Splinter clings upside down to a pillar. The hero raises one hand as gold energy gathers. At 00:09, lightning strikes through the roof.
+
+00:10–00:15 | TRANSFORMATION
+In slow motion, gold particles replace the outfit as graphite armor assembles across the body. Gold seams ignite and a shockwave blasts both creatures backward. The Splinter lunges; the hero catches its wrist and throws it into a pillar.
+
+00:15–00:20 | THE REVERSAL
+The hero dodges a chain, lands a gold-powered uppercut, then gets smashed into a pillar. The Splinter pins the hero while the Hollowhorn lifts the hero by the throat. Gold energy flickers.
+
+00:20–00:25 | THE BREAK
+Near-silence at 00:21. The hero reignites, breaks the Hollowhorn's grip, strikes through the Splinter's torso and slams it into the marble, cracking the floor. The Hollowhorn charges.
+
+00:25–00:30 | FINAL STRIKE
+The hero leaps and punches through the Hollowhorn's skull with a gold-powered fist at 00:26.5. Both creatures disintegrate into embers and ash. The hero lands, rises, and faces dawn illuminating the shattered rose window. Cut to black exactly at 00:30.
+
+[AUDIO] Original orchestral dark-fantasy score, deep drones, choir, taiko, heavy brass and percussion. Sync thunder at 00:04, lightning impact at 00:09, transformation bass drop at 00:11, fight impacts from 00:13, near-silence at 00:21 and final boom at 00:26.5. End with heroic brass, soft rain and silence at 00:30.
+
+CONTINUITY: Physically grounded impacts, consistent damage, readable action, motivated camera movement, selective slow motion and no identity changes.
 ```
 
 </details>
@@ -2528,6 +2953,58 @@ Seedance 2.5 · 文生视频 · 出处: [@laviniavelle on X](https://x.com/lavin
 
 ```text
 A silver sports car driving down a city highway smoothly transforms into a giant silver running robot a futuristic neon lit motorcycle on a coastal highway morphs into a running blue cybernetic robot; a camouflage military tank driving across a sandy desert transforms into a walking heavy combat mecha a fighter jet on an aircraft carrier deck unfolds and transforms into a standing robot warrior, sci-fi action style high tech mechanical transformation, dynamic camera tracking shot, cinematic photorealistic 8k render.
+```
+
+</details>
+
+<a id="seedance-venice-inverted-city-envelope-run"></a>
+### 粉发女子奔跑穿过倒置的威尼斯
+
+<a href="https://x.com/Just_sharon7/status/2100541954685895043"><img src="../../previews/seedance-venice-inverted-city-envelope-run.jpg" width="360"></a>
+
+固定的身份描述锁定人脸、发色和服装，分段时间轴列出每个镜头，使同一角色在所有运镜中保持一致。把折叠的城市描述为镜面天花板，并明确人物始终受正常重力，为超现实场景建立清晰的视觉规则。
+
+Seedance 2.5 · 参考生视频 · 出处: [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2100541954685895043) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`surreal`](tags.md#tag-surreal) [`venice`](tags.md#tag-venice) [`character-consistency`](tags.md#tag-character-consistency) [`cinematic`](tags.md#tag-cinematic)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+[Image 1](image_1) is the face and identity reference. A young Korean woman in her early twenties with EXACTLY the face of @[Image 1](image_1) — same facial structure, same features, natural Korean skin, no glasses. Long pastel pink hair, wearing a 1940s teal-orange wool coat-dress with white collar, a brown leather satchel worn cross-body, grey knee socks, black leather shoes, holding a folded yellow envelope. Every shot of her matches @[Image 1](image_1).
+1940s Venice at golden hour. Amber and teal cinematic grade, anamorphic 35mm film look, shallow depth of field, volumetric god rays, fine film grain. Inception-style folding architecture — the Venetian city curls upward and hangs inverted overhead like a mirrored ceiling. The woman always stays under normal gravity while the world folds around her. Continuous camera motion, no hard cuts.
+[TIMELINE PROMPT]
+0–3s: Lateral tracking shot along a stone quay by the Grand Canal at sunset. The young woman @[Image 1](image_1) in a teal coat sprints past camera, clutching a yellow envelope. Above her the entire city hangs upside down, mirrored — a man in a bowler hat walks a dachshund across the inverted street. A red umbrella drifts weightlessly between the two worlds. Pigeons scatter through the amber light.
+3–6s: Camera follows behind her into a narrow Venetian alley, dry leaves swirling in her wake. At the far end the street peels upward into the sky, buildings stacking vertically like a wall of windows. Her footsteps echo between the stone walls.
+6–9s: The camera slowly rolls 90 degrees. The alley wall becomes the ground beneath her feet; she keeps running, unfazed. The roll continues into a wide orbit as she races up a floating spiral stone staircase suspended in mid-air, fragments of terracotta Venetian rooftops rotating around her like a kaleidoscope.
+9–12s: Extreme wide silhouette. She runs across the top of an arched stone bridge over a wide canal against the blazing setting sun. The mirrored city hangs both above and below the arch. On the inverted plane, a lone pedestrian walks the opposite direction. Birds burst across the frame in slow motion.
+12–15s: Low angle looking straight up between two towering building walls, the sky a thin bright strip. She leaps across the vertical chasm, arms spread wide, coat and hair flying, satchel swinging. Camera holds on her against the sky. Wind roars.
+15–18s: Handheld push-in through a crowded 1940s Rialto market street — vendors stacking crates of apples, laundry strung overhead between the buildings. She weaves between blurred foreground shoppers, running away from camera. An apple rolls loose across the cobblestones.
+18–21s: Camera tilts up a grand brick bell tower — a Venetian campanile — as the surrounding city folds and curls around it. The woman appears tiny on the tower ledge, pauses against the sun, then steps off toward the rooftops. Bells begin to ring.
+21–24s: Rooftop terrace garden framed by a rose-covered arbor. An elderly woman in a grey cardigan waters a bed of vivid flowers with a tin can. Behind her, Venice and the domes of St Mark's Basilica glow at sunset over the lagoon while the inverted city hangs overhead. The young woman balances along the stone balustrade, arms out, then jumps down onto the terrace.
+24–27s: She holds out the yellow envelope. The old woman turns, sets down the watering can, and takes it. Both smile warmly at each other. Rose petals drift upward past them, falling toward the inverted sky.
+27–30s: Camera pulls back and rises fast. The whole city folds and rotates until it becomes a top-down aerial of Venice's canals and streets curling into a sphere. The two tiny figures remain on the terrace. Slow fade to warm light.
+```
+
+</details>
+
+<a id="seedance-wasteland-hourglass-hair-morph"></a>
+### 荒原巨型沙漏间伫立的女子
+
+<a href="https://x.com/itsSaira_1/status/2106989829108207864"><img src="../../previews/seedance-wasteland-hourglass-hair-morph.jpg" width="360"></a>
+
+提示词详细锁定服装，并只把发型变化描述为唯一的形象变化，使人物在变换过程中保持一致。阴天平光、低饱和色调和缓慢的镜头运动奠定了氛围。
+
+Seedance 2.5 · 文生视频 · 出处: [@itsSaira_1 on X](https://x.com/itsSaira_1/status/2106989829108207864) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`wasteland`](tags.md#tag-wasteland) [`hourglass`](tags.md#tag-hourglass) [`character-morph`](tags.md#tag-character-morph) [`photorealistic`](tags.md#tag-photorealistic)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Cinematic wide shot of a cracked, dry wasteland under a flat grey overcast sky. Monumental weathered stone hourglasses, some as tall as buildings, stand across the plain; sand pours steadily inside their glass bulbs. A young woman in a muted blue-grey high-collar tunic with white embroidery, a two-tone grey and cream skirt, tall boots, and wide silver cuff bracelets walks toward the nearest hourglass. She stops, looks up at the falling sand, then checks a thick silver wrist device with growing alarm. Her appearance morphs mid-shot: long brown hair with bangs becomes windblown blonde, then a darker brown, while the outfit stays the same. Close-ups show wide eyes and hands pressed to her temples as small dark particles drift in the air. She turns away, then looks back over her shoulder with a faint, knowing smile. Desaturated earth tones, soft diffused light, shallow depth of field on close-ups, photorealistic, filmic, slow deliberate camera moves.
+
+#AIArt #AIContent #CinematicAI
 ```
 
 </details>

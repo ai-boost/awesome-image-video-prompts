@@ -1,0 +1,40 @@
+id: seedance-london-travel-vlog-heathrow-arrival
+title:
+  en: Traveler walks through airport doors with suitcase
+  zh: 旅行者拖着行李穿过机场大门
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- travel-vlog
+- london
+- character-consistency
+- multi-shot
+source:
+  name: '@noorlewisx on X'
+  url: https://x.com/noorlewisx/status/2105529187494928887
+  credit: noorlewisx
+  captured: '2026-11-03'
+  posted: '2026-10-01'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/noorlewisx/status/2105529187494928887
+notes:
+  en: A shared character lock at the top keeps face and outfit consistent across the location cuts. Each timed segment names one place and one camera move, such as handheld arrival, selfie shot, tracking shot or aerial pull back, and the closing line sets one warm golden hour grade for the whole sequence.
+  zh: 开头统一的角色锁定描述，让多次切换地点时人物脸型和服装保持一致。每个分段只写一个地点和一种运镜，如手持入场、自拍、跟拍或航拍拉远，结尾统一黄金时段的暖色光，把整段串成一体。
+prompt: |
+  Character consistency: Same young adult female traveler throughout, same face, hairstyle, body proportions and outfit, realistic skin, natural expressions, cinematic photorealistic travel-vlog style, smooth camera movement, realistic lighting. No face changes, no outfit changes.
+  0–5 sec — Arrival 🇬🇧
+  Young female traveler arrives in London, walking out of Heathrow Airport with a small suitcase, excited expression, cinematic establishing shot of London atmosphere, natural handheld vlog camera movement.
+  5–10 sec — Big Ben & Westminster
+  She walks near Big Ben and Westminster, looks at the landmark and smiles toward the camera, quick selfie-style vlog shot followed by a wide cinematic view of Big Ben and the River Thames.
+  10–15 sec — Tower Bridge
+  She explores Tower Bridge, walking across the bridge while filming herself, London skyline in the background, natural tourist atmosphere, smooth tracking shot.
+  15–20 sec — London Street
+  She walks through a beautiful London street with classic red buses, black cabs and historic buildings, briefly stops at a cozy café, takes a coffee and continues exploring.
+  20–25 sec — London Eye
+  She stands beside the London Eye during golden hour, looks toward the camera with a happy travel-vlog expression, camera slowly circles around her with the London skyline behind.
+  25–30 sec — Final London Shot
+  She walks along the River Thames at sunset, turns toward the camera and smiles, cinematic aerial pull-back revealing London skyline, warm golden-hour lighting, beautiful travel-vlog ending.
+  Overall: photorealistic, cinematic 4K, natural movement, realistic London environment, smooth transitions between locations, consistent character, consistent clothes, consistent face, no text, no watermark.
+
+  #FlovaAI #Flovacpp

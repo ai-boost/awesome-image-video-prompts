@@ -1,0 +1,42 @@
+id: h3-curiosity-cracked-orb-vignette
+title:
+  en: Cracked metal orb rests among rubble
+  zh: 裂痕金属球静置于碎石之间
+model: MiniMax H3
+mode: reference-to-video
+category: cinematic
+tags:
+- character
+- storytelling
+- minimax-h3
+- curiosity
+source:
+  name: '@aimikoda on X'
+  url: https://x.com/aimikoda/status/2098771179808940415
+  credit: Kōda
+  likes: 74
+  captured: '2026-11-03'
+  posted: '2026-09-12'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/aimikoda/status/2098771179808940415
+notes:
+  en: A fixed structure of 10 to 15 linked cuts makes each beat the consequence of the previous one, so the story is carried by behaviour and visual cause and effect rather than dialogue. Anchoring every cut to the reference image and requiring clean diegetic sound keeps the character consistent and the sequence readable without narration.
+  zh: 通过固定的 10 到 15 个相互衔接的镜头结构，让每个节拍都是前一个镜头的结果，故事由行为和画面的因果来推进，而非对白。每个镜头都以参考图锁定角色，并要求只有环境声，使序列无需旁白也能读懂。
+prompt: |
+  Create a curiosity-driven character vignette built from 10–15 short cuts around the character from Image1.
+
+  Preserve the character’s identity, visual style and overall design.  Infer its nature and world directly from Image1.
+
+  Open with an immediately intriguing visual situation that creates a simple unanswered question. Build the following cuts around discovery, reaction, progression and small consequences. Each cut should introduce a new visual idea while clearly advancing the same underlying situation.
+
+  Let the character reveal itself through behavior rather than exposition. Use its movement, instincts, habits, abilities, limitations, relationships and interaction with the surrounding world to make the sequence increasingly interesting.
+
+  Keep the narrative simple enough to understand without dialogue. Create visual cause and effect between cuts. Allow details introduced early to gain meaning later. Build toward a clear reveal, reversal, transformation, emotional beat or satisfying visual payoff near the end.
+
+  Avoid generic daily routines, disconnected montage imagery and repetitive actions. Do not force familiar human behavior onto the character or world. Let the situations emerge naturally from the reference.
+
+  Make every few seconds visually distinct through changes in scale, framing, environment, movement, tension and information. Maintain strong continuity so the viewer wants to see what happens next.
+
+  Use objective third-person cinematic observation with natural handheld imperfection and varied shot sizes. Keep the camera readable, responsive and visually motivated.
+
+  Use only clean diegetic sound. No dialogue, narration, BGM, subtitles or title cards.

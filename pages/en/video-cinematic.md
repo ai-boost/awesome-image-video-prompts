@@ -1,6 +1,6 @@
 # Cinematic scenes and short films
 
-[Back to the list](../../README.md) · All 125 entries · **1** · [2](video-cinematic-2.md)
+[Back to the list](../../README.md) · All 150 entries · **1** · [2](video-cinematic-2.md)
 
 <a id="h3-character-detail-montage"></a>
 ### Twenty shot character detail montage, face revealed last
@@ -180,6 +180,36 @@ The survivors move together toward a partially closed storefront. The guard stay
 
 27–30 SECONDS:
 The group reaches temporary safety behind the storefront. The guard slowly looks through the gap toward the food court. The mall has become eerily quiet. An escalator continues running in the background while abandoned shopping bags, overturned chairs and spilled food remain scattered across the floor. A distant infected figure briefly crosses the far end of the mall. The guard quietly raises one finger, signaling everyone to stay silent.Cut naturally to black.
+```
+
+</details>
+
+<a id="seedance-underwater-seoul-subway-romance"></a>
+### Woman submerged in flooded Seoul subway carriage
+
+<a href="https://x.com/KrishnaBio1/status/2117176888984801545"><img src="../../previews/seedance-underwater-seoul-subway-romance.jpg" width="360"></a>
+
+Fixed face and wardrobe descriptions are repeated in every shot to keep the character consistent, and the prompt is split into timed segments with a camera or sound cue for each. Audio is listed separately with ambience, heartbeat and dialogue lines so the sound design drives the mood.
+
+Seedance 2.5 · Text-to-video · Source: [@KrishnaBio1 on X](https://x.com/KrishnaBio1/status/2117176888984801545) · 965 likes on 2026-11-03
+
+[`romance`](tags.md#tag-romance) [`surreal`](tags.md#tag-surreal) [`short-film`](tags.md#tag-short-film) [`seoul`](tags.md#tag-seoul)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Cinematic ultra-realistic surreal romantic drama short film, 16:9, 30 seconds, 24fps, shot like a high-budget Korean feature film, set inside a crowded Seoul subway carriage with cool teal interior lighting, silver handrails and hanging straps, rush-hour commuters, a surreal water-filled dreamlike atmosphere, shallow depth of field, crisp detail, subtle film grain, slow gentle camera movement, quiet, lonely and tender mood.
+👩 HEROINE: A young Korean woman in her late 20s, long wavy black hair, soft natural makeup, tired and lonely eyes, wearing a cream turtleneck cardigan, black trousers and white wireless earbuds. Quiet, overwhelmed by the crowd. Keep her face and outfit identical in every shot.
+👨 HERO: A young Korean man in his mid-20s, soft side-swept dark hair, calm gentle eyes, wearing a navy wool overcoat over a cream turtleneck. Quiet, kind and observant, with one coat sleeve slightly wet. Keep his face and outfit identical in every shot.
+👥 BACKGROUND: Dozens of commuters in coats and suits staring at their phones, completely unaware of what is happening around her.
+🚇 0–5s: Wide shot of a packed carriage. The heroine stands in the middle of the crowd with her earbuds in, looking small and distant. Slowly, silent water begins to rise around her waist, then her chest, shimmering under the lights, while the commuters keep scrolling on their phones, unaware.
+🫧 5–10s: Close-up underneath the surface. Her long hair floats around her face, her eyes are closed and a single bubble rests on her forehead. Slow motion, muffled underwater sound. Her eyes open slowly.
+🌊 10–15s: The whole carriage is now a silent blue-green underwater world. Commuters sit and stand frozen and blurred, an older woman looks right at her without seeing her. The heroine raises one hand toward the surface, bubbles rising past her face. Muffled train sounds and a slow heartbeat.
+👣 15–20s: Through the still crowd, a man in a dark overcoat walks calmly toward her, the water rippling around his legs, as if he can breathe in her world. Alternating close-ups of her surprised eyes and his steady gaze. He stops exactly one meter away.
+💧 20–25s: Close-up of the man's coat sleeve, damp and dripping. The heroine looks at it, then up at him. He says softly: "You looked like you were holding your breath." She answers in a whisper: "I think I've been holding it for a very long time." He slowly extends his hand, and her fingertips tremble toward it.
+🌅 25–30s: Their fingertips touch. The water drains away in a rush of sparkling light, bubbles popping, and the carriage returns to normal. The two stand side by side among the commuters. She takes out one earbud, hears the real sounds of the train for the first time, and breathes in deeply with a relieved smile. Slow push-in on her face, then fade out.
+🎧 AUDIO: Muffled underwater ambience and a slow heartbeat, bubbles and soft ripples, distant train rumble that sharpens when the water drains, a delicate piano-and-strings score, clear natural English dialogue.
+🎬 STYLE: Realistic surreal romance with a hushed emotional tone, restrained performances, cool teal-and-cream color grading, wholesome and non-graphic, consistent faces and outfits, no text, no subtitles, no logos, no watermark.
 ```
 
 </details>
@@ -459,6 +489,172 @@ Part 3 (22-30s): she walks off, final grumpy pout.
 
 </details>
 
+<a id="seedance-linen-driver-misty-forest-mercedes"></a>
+### Man drives white vintage Mercedes through misty forest
+
+<a href="https://x.com/rovvmut_/status/2101185223761572026"><img src="../../previews/seedance-linen-driver-misty-forest-mercedes.jpg" width="360"></a>
+
+A consistency lock block repeats the character, wardrobe and car details so they hold across every cut. Film stock, overcast light and the no-text rule are set once as global constraints, and the audio is limited to engine, tire and wind layers with no score.
+
+Seedance 2.5 · Text-to-video · Source: [@rovvmut_ on X](https://x.com/rovvmut_/status/2101185223761572026) · 693 likes on 2026-11-03
+
+[`music-video`](tags.md#tag-music-video) [`vintage-car`](tags.md#tag-vintage-car) [`film-look`](tags.md#tag-film-look) [`multi-shot`](tags.md#tag-multi-shot) [`consistency-lock`](tags.md#tag-consistency-lock)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Cinematic 15-second music-video fragment. Melancholic indie mood, analog 35mm film look.
+
+CONSISTENCY LOCK (do not drift):
+One young man, mid-20s, dark messy hair with well groomed beard and sunglasses. Wearing a slightly wrinkled white linen button-down shirt unbuttoned two buttons, silver watch on left wrist, dark trousers, black belt. Same face, hair, clothing, and body language in every shot.
+One car only: late-1970s / early-1980s Mercedes-Benz R107 SL convertible, white exterior, chrome bumpers and side mirrors, red leather interior with vertical piping, cream headliner, black steering wheel with Mercedes star, three circular dash vents. Red door cards and seats stay consistent.
+Setting: overcast, misty evergreen forest (Pacific Northwest / dense pine and fir), two-lane asphalt road with faded yellow center lines, light fog hanging low, gravel pull-off. Muted teal-green trees, gray sky, no sun shafts.
+Visual style throughout: photorealistic cinematic, 35mm Kodak film stock, fine organic grain, slightly lifted blacks, rich burgundy reds in the interior, desaturated foggy greens outside, warm skin, shallow-to-medium depth of field, natural overcast daylight only. No modern cars, no extra people, no text, no subtitles, no logos except the Mercedes star on the wheel.
+
+0-3.5s:
+Medium interior shot from the passenger-side rear, slightly low. The man drives with his left hand on the upper rim of the steering wheel, right arm relaxed along the red leather seat or lower wheel. He first looks forward and then looks towards the front empty passenger seat, pensive, almost vacant. Forest and mist streak past the side windows with natural motion blur. Soft overcast light wraps his face and the white shirt. Camera holds mostly still with a faint handheld breath. Red leather and cream headliner fill the frame.
+
+3.5-4.5s:
+Quick cut to the front empty passenger-side red leather door panel and seat back, trees rushing past the window. Same interior palette and motion.
+
+4.5-7s:
+Cut to a forward-looking framed view through the windshield / over the dash: long misty two-lane road receding into fog, tall evergreens lining both sides, yellow lines stretching to a vanishing point. Then cut to a rear-seat over-the-shoulder: we see the back of his head and shoulders, the red dash with three circular vents, his left hand on the wheel, and his eyes visible in the rearview mirror looking back toward camera. He leans slightly forward. Road and trees continue moving ahead.
+
+7-8s:
+From the rear seat, he opens the car door and gets out of the car; we see the back of the white shirt as he moves. The car isn't moving.
+
+8-10.5s:
+Wide static shot on a gravel forest road. The white Mercedes is parked facing us, slightly off-center. Dense misty trees and a low hill behind. The man sits on the front hood, one leg bent, looking upward. Cut to a medium close-up: he sits on the white hood, head tilted back, eyes closed for a beat then opening as he looks off to his right with a quiet, wounded expression. Soft overcast light, shallow depth of field, trees softly out of focus behind him.
+
+10.5-15s:
+Exterior shot at window height, slightly behind and to the side of the moving white convertible on the paved forest road. The man leans his head and upper torso out the open driver’s window, looking back over his shoulder toward camera with the same pensive, searching expression. Chrome side mirror sits in the foreground. Trees and the yellow-lined road recede behind the car. Gentle tracking or locked-off follow so the car and his face stay composed. Wind moves his hair and the open shirt slightly.
+
+AUDIO:
+
+Soft vintage-car engine drone, tire hiss on damp asphalt, light wind through the trees and open window. No extra score, no crowd, no dialogue besides the sung lines. Natural room tone inside the cabin. No background music
+
+Global constraints: 4:3 cinematic framing, photorealistic only, consistent character and car identity across every cut, analog film grain and color science held from first frame to last, no morphing between shots, no text overlays.
+```
+
+</details>
+
+<a id="seedance-time-freeze-street-thief"></a>
+### Woman walks down a sunlit busy city street
+
+<a href="https://x.com/azed_ai/status/2088657779619983615"><img src="../../previews/seedance-time-freeze-street-thief.jpg" width="360"></a>
+
+Timed beats with explicit trigger rules, a scream freezes time and a finger snap restores it, keep the supernatural effect readable and stop it from reading as slow motion. The handheld-to-tracking camera plan and the near-silent freeze sound design hold continuity across many small actions.
+
+Seedance 2.5 · Text-to-video · Source: [@azed_ai on X](https://x.com/azed_ai/status/2088657779619983615) · 679 likes on 2026-11-03
+
+[`time-freeze`](tags.md#tag-time-freeze) [`urban-street`](tags.md#tag-urban-street) [`thriller`](tags.md#tag-thriller) [`cinematic`](tags.md#tag-cinematic)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Environment: A busy modern city street in late afternoon, crowded sidewalks, moving cars, cyclists, pedestrians, street vendors, pigeons, drifting leaves, coffee shops and everyday urban activity.
+Visual style: Cinematic realism, grounded supernatural thriller, realistic natural lighting, subtle film grain, warm late-afternoon sunlight, realistic physical textures. The time-freeze effect has no visible magical energy. The supernatural moment feels strange because everything simply stops.
+Camera language: Natural handheld tracking before the freeze, then smooth cinematic tracking following the woman continuously as she walks away through the frozen city. Use occasional close-ups and wider compositions to reveal the frozen details around her. Avoid excessive cuts.
+Subject styling: A young woman wearing casual modern street clothing, jacket, jeans, sneakers and a shoulder bag. A male thief in ordinary dark street clothing approaches from behind.
+Core performance: Fear immediately transforms into confusion, then curiosity and playful confidence. After escaping the thief, the woman never returns to him. She keeps walking forward through the frozen street, casually changing three small things involving different frozen people she passes.
+Time Freeze Rule: Her scream instantly freezes time. Only the woman and camera can move. Everything else remains completely motionless until she snaps her fingers.
+Negative prompts: No subtitles, no text, no logos, no distorted faces or hands, no duplicated people, no slow-motion interpretation of frozen time, no glowing magic, no exaggerated VFX, no dramatic music.
+
+[00-04] THE APPROACH
+Medium tracking shot.
+The woman walks naturally along a crowded sidewalk, carrying her shoulder bag.
+The camera moves backward in front of her.
+Behind her, a thief notices the bag and quietly approaches through the crowd.
+The street is completely alive around them, pedestrians walking, cars moving, pigeons flying, leaves blowing and vendors serving customers.
+Natural city ambience.
+[04-07] THE ATTEMPT
+The thief reaches her and suddenly grabs the strap of her shoulder bag.
+She spins around in shock and screams.
+At the exact peak of her scream, everything freezes instantly.
+Absolute silence.
+The thief is frozen with both hands gripping the bag strap.
+Pedestrians freeze mid-step.
+A cyclist freezes mid-pedal.
+A pigeon hangs in the air.
+Leaves stop in mid-air.
+Cars become perfectly motionless.
+[07-11] ESCAPE
+The woman stops screaming and realizes something impossible has happened.
+She looks around, breathing heavily.
+She looks at the thief.
+Close-up on his frozen hands tightly gripping her bag.
+She calmly grabs both of his frozen hands and carefully removes them from the bag strap.
+She lets his hands remain suspended exactly where she leaves them.
+She pulls the bag securely over her shoulder.
+She immediately turns away from him.
+She starts walking.
+She never returns to the thief.
+[11-15] CHANGE ONE
+Smooth tracking shot following her as she walks through the frozen crowd.
+She passes a businessman frozen while holding a takeaway coffee near his mouth.
+His tie is hanging crooked across his shoulder from the wind.
+Without stopping for long, she casually straightens his tie and places it neatly against his shirt.
+She continues walking.
+The businessman remains completely frozen.
+[15-19] CHANGE TWO
+She continues down the sidewalk.
+A woman is frozen mid-step while wearing sunglasses on top of her head.
+The protagonist walks past her, pauses for a second, gently takes the sunglasses and lowers them onto the woman's eyes.
+She gives the frozen woman an amused little look.
+Then she keeps walking forward.
+[19-23] CHANGE THREE
+The camera continues tracking with her.
+She passes a man frozen while holding an open umbrella even though the sky is clear.
+She looks up at the sunny sky, then at him.
+She casually closes his umbrella and places it under his arm.
+She smiles slightly and continues walking.
+Behind her, the three altered people remain frozen in their new positions.
+[23-27] WALKING THROUGH FROZEN TIME
+Wide tracking shot.
+The woman now walks confidently through the completely frozen city.
+She passes between motionless pedestrians.
+A pigeon remains suspended above her.
+Leaves hang motionless around her.
+A cyclist is frozen beside the road.
+A stream of water from a fountain remains suspended in the air.
+She slowly realizes she controls when this moment ends.
+Her expression becomes calm and confident.
+[27-30] TIME RETURNS
+The camera tracks backward in front of her while she continues walking.
+She never stops walking.
+She raises one hand.
+She snaps her fingers.
+Time instantly resumes around her while she continues moving at exactly the same pace.
+City noise suddenly returns.
+Cars continue driving.
+The cyclist completes his pedal.
+The pigeon continues flying.
+Leaves fall.
+The businessman suddenly notices his tie perfectly straight.
+The woman instinctively reacts to her sunglasses suddenly covering her eyes.
+The man looks down in confusion at his closed umbrella.
+Far behind them, the thief realizes the woman and her bag are already gone.
+The woman keeps walking through the crowd without looking back.
+Cut.
+
+The scream is the exact trigger for freezing time.
+The finger snap is the exact trigger for restoring time.
+During frozen time, only the woman, objects she directly touches and the camera can move.
+After removing the thief's hands from her bag, she immediately walks away and never interacts with him again.
+The three changes must happen naturally while she continues moving forward through the street:
+Change 1: Straighten the businessman's tie.
+Change 2: Move the woman's sunglasses from her head onto her eyes.
+Change 3: Close the man's open umbrella and place it under his arm.
+Each change must involve a different person.
+All changes remain exactly as she leaves them when time resumes.
+Do not interpret the effect as slow motion. Frozen people must not blink, breathe, react or move. Hair, clothing, vehicles, animals, liquids and airborne objects remain absolutely motionless.
+Maintain spatial and character continuity throughout.
+Full city ambience before the scream, near-total silence during frozen time with only her footsteps, breathing and clothing movement audible, then immediate restoration of all city sounds after the finger snap.
+No subtitles, no on-screen text, no background music.
+```
+
+</details>
+
 <a id="seedance-papercraft-boy-red-balloon-short"></a>
 ### Papercraft boy follows ribbons to a lost balloon
 
@@ -606,6 +802,55 @@ Camera pulls back into a wide shot of the American town as smoke slowly moves th
 Visual Style: Ultra-photorealistic live-action, authentic 1940s American environment, vintage 35mm film texture, subtle film grain, natural imperfections, realistic exposure, handheld documentary cinematography, muted historical color palette, realistic smoke and dust, natural shadows, accurate depth of field.
 Physics: Strictly obey real-world gravity, momentum, inertia, friction, recoil, weight, collision physics, and human biomechanics. No exaggerated explosions, impossible movements, superhero behavior, or choreographed-looking combat.
 Negative Prompt: modern buildings, modern cars, smartphones, modern clothing, modern weapons, futuristic technology, CGI appearance, video-game graphics, fantasy, superhero action, excessive explosions, excessive blood, gore, impossible physics, unrealistic recoil, slow-motion physics, distorted faces, extra limbs, floating objects, plastic skin, artificial-looking environments.
+```
+
+</details>
+
+<a id="wan-halloween-gothic-mansion-blood-moon"></a>
+### Gothic mansion under blood-red moon with pumpkins
+
+<a href="https://x.com/iam_mian7/status/2112484546734346612"><img src="../../previews/wan-halloween-gothic-mansion-blood-moon.jpg" width="360"></a>
+
+Timestamped scene beats pace each cut, and explicit camera moves and sound cues tie the visuals to the phonk bass drop.
+
+Wan 3.0 · Text-to-video · Source: [@iam_mian7 on X](https://x.com/iam_mian7/status/2112484546734346612) · 333 likes on 2026-11-03
+
+[`halloween`](tags.md#tag-halloween) [`gothic`](tags.md#tag-gothic) [`fantasy-horror`](tags.md#tag-fantasy-horror) [`pumpkins`](tags.md#tag-pumpkins)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 15-second ultra-realistic, visually spectacular Halloween fantasy-horror video designed to capture attention instantly and maximize replays on X, TikTok, and Reels.
+
+Scene 1 — The Hook (0–3 seconds): A gigantic blood-red moon hangs above an abandoned gothic mansion. The camera rushes toward its enormous iron gates as hundreds of glowing jack-o’-lanterns suddenly ignite in sequence. The mansion doors violently swing open, revealing a mysterious woman standing in a cloud of black smoke. An eerie whisper says, “You shouldn't have come tonight…”
+
+Scene 2 — The Transformation (3–7 seconds): She slowly raises her head, revealing glowing orange eyes and an enchanting, sinister smile. Her elegant black gothic gown transforms into a spectacular feathered dress with molten-orange magical patterns. Her hair floats unnaturally as black ravens explode into a swirling vortex around her. The camera performs a dramatic 360-degree orbit while purple lightning illuminates the sky.
+
+Scene 3 — The Viral Visual Explosion (7–11 seconds): She snaps her fingers. Thousands of pumpkins levitate into the air, forming a gigantic flaming skull above the mansion. Ghostly dancers emerge from the mist, skeletons rise from the ground, and enormous shadow creatures crawl across the walls. Orange flames and violet magical energy collide in a breathtaking cinematic explosion synchronized perfectly with a heavy phonk bass drop.
+
+Scene 4 — The Jaw-Dropping Finale (11–15 seconds): The Halloween queen walks directly toward the camera as everything freezes around her. She smiles, revealing supernatural glowing teeth. Suddenly, her face transforms into an exquisitely detailed jack-o’-lantern mask for a split second before returning to normal. She whispers, “Happy Halloween…” The screen flashes orange, revealing a gigantic glowing eye in the darkness, then cuts seamlessly back to the opening shot for a perfect loop.
+
+Visual direction: Photorealistic Hollywood fantasy horror, 4K detail, vertical 9:16 composition, dramatic low-angle shots, realistic skin and fabric textures, volumetric fog, cinematic camera movements, intricate gothic architecture, supernatural transformations, deep shadows, blood-red moonlight, neon orange flames, violet lightning, and premium blockbuster color grading.
+
+Sound design: Eerie whispers, distant thunder, creaking gates, raven wings, rising orchestral tension, a hard-hitting dark phonk bass drop at 7 seconds, and a chilling final whisper.
+
+Must-have requirements:
+
+* First-second visual hook — absolutely no slow introduction.
+
+* A new spectacular visual event every 2–3 seconds.
+
+* Seamless, physically convincing transformations.
+
+* Strong contrast between beautiful gothic fantasy and terrifying horror.
+
+* A shocking final reveal that encourages viewers to replay.
+
+* Perfect synchronization between music, camera movement, and visual effects.
+
+* No cartoon visuals, no cheap CGI appearance, no text, no logos, no watermark.
+
+Creative goal: Make it feel like a billion-dollar Halloween movie compressed into 15 seconds — beautiful, creepy, magical, unexpected, and impossible to scroll past. 🎃🔥
 ```
 
 </details>
@@ -1272,6 +1517,55 @@ Sound: silence → low magical rumble → gentle rising orchestral music.
 a freshly grown fruit.
 
 It falls gently into their hands.
+```
+
+</details>
+
+<a id="h3-tapestry-thread-world"></a>
+### Glowing thread weaves a fantasy world across tapestry
+
+<a href="https://x.com/aimikoda/status/2091893350748025010"><img src="../../previews/h3-tapestry-thread-world.jpg" width="360"></a>
+
+The prompt makes every element a physical construction event: threads split, knot, and stitch each region into existence, so nothing simply appears. A logo reference image sets the design authority for the ending, and the camera rules keep the view on the fabric surface.
+
+MiniMax H3 · Reference-to-video · Source: [@aimikoda on X](https://x.com/aimikoda/status/2091893350748025010) · 134 likes on 2026-11-03 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`fantasy`](tags.md#tag-fantasy) [`tapestry`](tags.md#tag-tapestry) [`title-sequence`](tags.md#tag-title-sequence) [`logo-reveal`](tags.md#tag-logo-reveal)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create an epic fantasy title sequence built around a vast living tapestry. The sequence must feel like an entire world is being born from a single thread.
+
+Begin in near darkness. Only the faint texture of woven fabric is visible. At the very center, one lone thread awakens. It trembles, pulls tight, glows faintly, and begins moving across the surface like a living force. As it races forward, it splits into more threads. Those threads split again, multiplying rapidly into branching strands of gold, crimson, ivory, midnight blue, and ash-gray. Everything in the sequence must originate from this first thread and its descendants. The world should feel as if it is being generated from one living source.
+
+The camera moves dynamically and continuously through the tapestry, never static. It races low across the woven surface, whips past rising embroidered forms, glides along rivers made of flowing thread, dives through deep folds and valleys of cloth, and sweeps between giant raised textile structures. The camera must always remain on the exposed upper surface of the tapestry. It may skim across folds and pass through openings between raised embroidered forms, but it must never travel beneath the fabric.
+
+The world should not simply appear. It must actively weave itself into existence in real time. At every moment, visible threads must remain in motion, constantly splitting, branching, knotting, braiding, tightening, and constructing new terrain, landmarks, symbols, and regions ahead of the camera. The world must never feel complete until the final logo reveal. The strongest visual rule is this: if something appears, it should be because threads are physically making it.
+
+Cities, kingdoms, and landmarks must all be built through textile transformation. Threads knot together into towers, fortresses, ceremonial structures, bridges, and gates. Layers of cloth fold upward into cliffs, walls, and ridges. Roads are sewn rapidly across the land. Banners unfurl from the weave. Forests spread outward stitch by stitch as fibers become roots, trunks, branches, and canopies. Rivers are pulled into place by shimmering strands. Coastlines tighten into shape like stretched cloth under tension. Nothing should materialize passively. Everything must be woven, stitched, tied, pulled, or braided into existence by moving thread.
+
+Each major region should feel like its own construction event. In one kingdom, royal motifs and heraldic embroidery bloom outward in ornate patterns. In another, scorched threads blacken and curl as if marked by war. In a frozen region, pale threads crystallize into icy stitched structures. In a desert realm, sand-colored silk folds into dunes and radiant sun motifs. In a battlefield region, red threads race violently across the surface like spreading conflict. In every case, the region should be visibly built by thread activity, not simply revealed.
+
+Use aggressive but elegant camera choreography: fast push-ins, sweeping arcs, sharp climbs, dramatic pull-backs, overhead reveals, and low-angle passes through giant stitched landmarks and dense moving fibers. Let the camera chase the leading edge of construction. Often follow one strand as it races into empty fabric and begins creating the next formation. The camera should feel as if it is surfing the growth of the world itself.
+
+The tapestry should feel handcrafted, ancient, ceremonial, and mythic. Show rich textile detail everywhere: layered cloth, frayed edges, gold thread, dense embroidery, woven symbols, stitched heraldry, seams, folds, braided cords, hanging fibers, and visible tension in the fabric. If desired, briefly glimpse looms, spools, or unseen weaving forces at the edges of the frame, but keep the main focus on the living tapestry and its self-weaving world.
+
+The pacing should escalate constantly. Start with the mystery of one awakened thread. Then let that thread multiply into many. Then let those many threads begin forming entire regions. Then let multiple regions awaken at once as long strands travel across the tapestry and connect distant kingdoms, roads, battles, and symbols. The sequence should feel as if history, bloodlines, war, and power are all being woven from one original source.
+
+Lighting should be dramatic and cinematic, with warm highlights skimming across thread textures, deep shadows in folds of cloth, soft glow passing through thin fabric, and floating dust in the air. The tone should feel majestic, ancient, noble, immersive, and alive.
+
+Toward the climax, reveal that all kingdoms, roads, battles, and symbols are interconnected through one vast woven design. Long threads travel across the entire tapestry and begin drawing everything toward a central point. Regional patterns, sigils, and story elements align into one unified composition.
+
+If a logo reference image is supplied, use that logo as the exact design authority for the ending. Preserve its silhouette, proportions, and core graphic structure. Do not simply reveal, overlay, or fade in the logo. Instead, the final logo must be physically built in real time from the same thread lineage that created the world. The first awakened thread and all the threads that descended from it should ultimately converge and construct the final emblem. Kingdoms, roads, rivers, banners, heraldic motifs, and regional patterns must unravel back into fibers and feed the final construction. Braided cords define the main silhouette. Dense embroidery fills the interior forms. Fine metallic threads complete the small details. The final logo should feel as if the whole world has transformed into it.
+
+If no logo reference image is supplied, end with an original fantasy crest or title emblem emerging through the same thread-construction logic.
+
+End with the completed logo fully stitched into the tapestry as a monumental embroidered insignia. The surrounding lands continue to ripple subtly with life as a few final strands glide into place, tighten, and lock the design.
+
+Tone: majestic, ancient, dramatic, elegant, immersive, ceremonial, and alive.
+Style keywords: living tapestry, single-origin thread, embroidered fantasy world, woven kingdoms, dynamic textile transformation, cinematic title sequence, mythic handcrafted world-building, epic camera motion.
+Format: 16:9, highly detailed, no modern elements, no direct copy of any existing franchise.
 ```
 
 </details>
@@ -2108,6 +2402,41 @@ A 16:9 cinematic wuxia mystery set in a bamboo forest at night. Use a low-satura
 
 Deep in the forest, dense vertical bamboo fills the background while cold white mist-light glows in the distance. Soft, out-of-focus leaves partially obscure the foreground, creating the sense of watching from within the grove. A cool, soft front-side key lights the actors’ faces; backlight keeps the foreground dark and the distance luminous. Use shallow depth of field so leaves, snow, and bamboo dissolve into soft bokeh.
 Prioritize facial close-ups and measured shot/reverse-shot coverage. Keep the rhythm restrained but tense. Photoreal period-drama production value, cinematic lighting, and no modern elements. No subtitles, on-screen text, watermarks, modern clothing or architecture, animation styling, over-smoothed skin, bright daylight, or comic performance.
+```
+
+</details>
+
+<a id="h3-curiosity-cracked-orb-vignette"></a>
+### Cracked metal orb rests among rubble
+
+<a href="https://x.com/aimikoda/status/2098771179808940415"><img src="../../previews/h3-curiosity-cracked-orb-vignette.jpg" width="360"></a>
+
+A fixed structure of 10 to 15 linked cuts makes each beat the consequence of the previous one, so the story is carried by behaviour and visual cause and effect rather than dialogue. Anchoring every cut to the reference image and requiring clean diegetic sound keeps the character consistent and the sequence readable without narration.
+
+MiniMax H3 · Reference-to-video · Source: [@aimikoda on X](https://x.com/aimikoda/status/2098771179808940415) · 74 likes on 2026-11-03 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`character`](tags.md#tag-character) [`storytelling`](tags.md#tag-storytelling) [`minimax-h3`](tags.md#tag-minimax-h3) [`curiosity`](tags.md#tag-curiosity)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a curiosity-driven character vignette built from 10–15 short cuts around the character from Image1.
+
+Preserve the character’s identity, visual style and overall design.  Infer its nature and world directly from Image1.
+
+Open with an immediately intriguing visual situation that creates a simple unanswered question. Build the following cuts around discovery, reaction, progression and small consequences. Each cut should introduce a new visual idea while clearly advancing the same underlying situation.
+
+Let the character reveal itself through behavior rather than exposition. Use its movement, instincts, habits, abilities, limitations, relationships and interaction with the surrounding world to make the sequence increasingly interesting.
+
+Keep the narrative simple enough to understand without dialogue. Create visual cause and effect between cuts. Allow details introduced early to gain meaning later. Build toward a clear reveal, reversal, transformation, emotional beat or satisfying visual payoff near the end.
+
+Avoid generic daily routines, disconnected montage imagery and repetitive actions. Do not force familiar human behavior onto the character or world. Let the situations emerge naturally from the reference.
+
+Make every few seconds visually distinct through changes in scale, framing, environment, movement, tension and information. Maintain strong continuity so the viewer wants to see what happens next.
+
+Use objective third-person cinematic observation with natural handheld imperfection and varied shot sizes. Keep the camera readable, responsive and visually motivated.
+
+Use only clean diegetic sound. No dialogue, narration, BGM, subtitles or title cards.
 ```
 
 </details>
@@ -3639,6 +3968,72 @@ Seedance 2.5 · Reference-to-video · Source: [@Chengzilhy on X](https://x.com/C
 
 </details>
 
+<a id="seedance-breathing-pumpkin-porch-halloween"></a>
+### Man finds carved pumpkin breathing on rainy porch
+
+<a href="https://x.com/nawalsehar/status/2115022630004851185"><img src="../../previews/seedance-breathing-pumpkin-porch-halloween.jpg" width="360"></a>
+
+The prompt splits the 30 second runtime into timed beats, each with one concrete action, which keeps the pacing readable for the model. Sound cues are listed separately and the negative prompt blocks the CGI look, so the realism comes from physical details rather than from the word horror.
+
+Seedance 2.5 · Text-to-video · Source: [@nawalsehar on X](https://x.com/nawalsehar/status/2115022630004851185) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`halloween`](tags.md#tag-halloween) [`horror`](tags.md#tag-horror) [`photorealistic`](tags.md#tag-photorealistic) [`sound-design`](tags.md#tag-sound-design)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+30 seconds | 16:9 | 4K Ultra HD | 30 FPS | Ultra-photorealistic live-action Halloween horror short.
+
+A terrifying Halloween night unfolds on a rain-soaked wooden porch, where a real adult man discovers that his carved jack-o'-lantern is behaving strangely. With realistic human actors, practical effects, cinematic lighting, and authentic horror atmosphere, an ordinary Halloween decoration becomes something truly sinister.
+
+0–5 seconds: A rain-soaked wooden porch glistens under dim nighttime lighting. A flickering jack-o'-lantern sits beside the front door. A man in a dark flannel shirt and jeans enters carrying Halloween decorations. Suddenly, he notices the pumpkin slowly expanding and contracting as if it were breathing.
+
+5–12 seconds: The camera slowly pushes toward the pumpkin. Its jagged carved smile subtly widens before returning to normal. The internal candle flickers in sync with the movement. The man kneels cautiously as a faint, wet breathing sound emerges from inside.
+
+12–21 seconds: The pumpkin's light abruptly goes out. Complete silence. The man switches on his phone flashlight, revealing two realistic human eyes deep inside the dark pumpkin, staring directly at him. Terrified, he recoils and drops his phone onto the wet wooden floor, leaving its flashlight beam tilted toward the pumpkin.
+
+21–27 seconds: The man slowly reaches toward the pumpkin again. Before he can touch it, the jack-o'-lantern rotates several inches toward him on its own. Its carved smile remains perfectly still. Frozen with disbelief, he slowly backs toward the door.
+
+27–30 seconds: Extreme close-up of the pumpkin. Its internal light suddenly switches back on. A tiny, fresh handprint gradually appears in condensation across its outer surface. Before the viewer can understand what has happened, the screen cuts instantly to black.
+
+Production: Photorealistic live-action visuals, real human actors, consistent character identity, practical pumpkin movement, realistic condensation, natural rain, believable shadows, subtle handheld cinematography, shallow depth of field, cinematic horror lighting, and restrained color grading. Sound design includes rainfall, distant wind, wooden footsteps, soft breathing, subtle fabric movement, a low suspenseful musical rise, and sudden silence before the final reveal.
+
+Negative prompt: No animation, cartoon visuals, CGI-looking characters, artificial environments, changing faces, inconsistent clothing, distorted anatomy, unrealistic pumpkin movement, exaggerated jump scares, gore, dialogue, narration, subtitles, text, logos, watermarks, black bars, or abrupt transitions before the final cut.
+```
+
+</details>
+
+<a id="seedance-cabin-standoff-meadow-embrace"></a>
+### Tearful man aims pistol, then couple embraces in meadow
+
+<a href="https://x.com/Just_sharon7/status/2103857991917433061"><img src="../../previews/seedance-cabin-standoff-meadow-embrace.jpg" width="360"></a>
+
+Timecoded beats (0 to 10s, 11 to 26s) and a hard smash cut separate a cool low key cabin from a warm golden hour meadow, so the tonal shift reads clearly. The style notes lock in the grade, anamorphic flares, slow motion on emotional beats, and a no dialogue soundscape of ambient sound only.
+
+Seedance 2.5 · Text-to-video · Source: [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2103857991917433061) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`drama`](tags.md#tag-drama) [`romance`](tags.md#tag-romance) [`smash-cut`](tags.md#tag-smash-cut)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Opening (dark, tense, 0–10s)
+Dimly lit rustic wooden cabin interior, moody low-key lighting, shadows, cool color grade. Close-up of a handsome man in his late 20s/early 30s: messy medium-length brown hair, light stubble/beard, striking blue-green eyes, tears streaming down his face, raw anguish. He wears a dark charcoal oversized hoodie with metallic jewelry/charms on the chest. He holds a black pistol pointed directly toward camera (first-person feel from the woman’s perspective), hand trembling, face crumpled in grief.
+
+Cut to medium shot: a beautiful young woman with long wavy blonde hair standing in the cabin kitchen (wooden shelves, metal pots, rustic counters). She wears a slightly unbuttoned cream silk blouse and flowing white skirt. Her expression flips to fierce rage — brows furrowed, teeth bared, intense blue eyes locked on him.
+Back to the man: he keeps the gun raised, crying harder, then slowly lowers it, arms opening wide in surrender/offering himself, hoodie stretching as he stands exposed. Extreme close-up of his wet face, eyes squeezed shut, tears falling.
+Transition & second half (warm, romantic, 11–26s)
+Sudden smash-cut to golden-hour sunlight. The same couple tumbling into tall grass and wildflowers, embracing tightly, leaves and petals flying. Warm, sun-drenched color grade, lens flares, shallow depth of field, dreamy filmic look.
+They roll laughing in a sunlit meadow filled with yellow wildflowers. Close-ups: her radiant smile, eyes crinkled, his hand gently cupping her cheek; his peaceful closed-eye smile as she leans over him. Soft golden light wrapping their faces.
+
+They run hand-in-hand away from camera through rolling green hills at sunset, her white dress and his light blue shirt catching the wind. Wide tracking shot.
+They sit together on a grassy hilltop overlooking valleys, his arm around her, watching a massive orange sun. He kisses the top of her head. Final wide shot: the couple as small silhouettes against a vast pink-orange dusk sky, hills stretching into the distance, wildflowers in the foreground.
+Style notes
+Cinematic 2.35:1 or 16:9, filmic grain, dramatic contrast in first half, warm anamorphic flares and soft bloom in second half. Emotional, intimate, high-production drama. Slow-motion on key emotional beats (tears, embrace, running). No dialogue, only ambient sound implied (breathing, wind, distant birds). Mood: heartbreak → fierce confrontation → tender memory/fantasy of love.
+```
+
+</details>
+
 <a id="seedance-cafe-heartbreak-rainy-evening"></a>
 ### Woman finds boyfriend cheating in a rainy café
 
@@ -3745,6 +4140,59 @@ Seedance 2.5 · Text-to-video · Source: [@Dheepanratnam on X](https://x.com/Dhe
 
 ```text
 [SCENE] A 30-second stylised 3D animated short. A handmade clay mug at the back of a kitchen cupboard waits to be chosen, while the perfect porcelain cups at the front are used every day. Warm, funny, quietly moving. 2.35:1.
+```
+
+</details>
+
+<a id="seedance-clown-pumpkin-bat-halloween"></a>
+### Clown smashes glowing pumpkin with baseball bat
+
+<a href="https://x.com/iam_mian7/status/2116450954296074371"><img src="../../previews/seedance-clown-pumpkin-bat-halloween.jpg" width="360"></a>
+
+A numbered beat-by-beat timeline with a fixed medium-wide frontal camera gives the model a clear sequence to follow. Explicit slow-motion and realistic-physics instructions for the explosion, plus an exact final text overlay, keep the payoff readable.
+
+Seedance 2.5 · Text-to-video · Source: [@iam_mian7 on X](https://x.com/iam_mian7/status/2116450954296074371) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`halloween`](tags.md#tag-halloween) [`horror`](tags.md#tag-horror) [`slow-motion`](tags.md#tag-slow-motion) [`vfx`](tags.md#tag-vfx)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a hyper-realistic, cinematic Halloween video in vertical 9:16 format, approximately 10 seconds long, with photorealistic 4K quality.
+
+Scene and Environment:
+A dark, spooky forest at night, filled with tall leafless trees, thick atmospheric fog, subtle floating red glowing particles, and dramatic moonlight. In the foreground, place a rustic, weathered wooden table.
+
+Main Character:
+A beautiful young female Halloween clown standing behind the table. She wears an elaborate vintage circus clown costume featuring a black-and-white checkered bodice, red decorative accents, a layered grey tulle skirt, white gloves, and two high curly buns decorated with red roses. Her face has elegant but slightly creepy Halloween clown makeup, with pale skin, dark eyes, and red details.
+
+Action Sequence:
+
+1. The camera remains fixed in a medium-wide frontal shot. The clown enters the scene holding a glowing orange jack-o'-lantern pumpkin. Several red helium balloons float above and behind her.
+
+2. She carefully places the pumpkin on the wooden table, adjusting it with both hands. The pumpkin has a realistically carved, illuminated scary face.
+
+3. She steps back, looks at the pumpkin, and raises her hands with a playful, mischievous expression.
+
+4. A large wooden baseball bat suddenly appears in her hands. She grips it firmly with both hands and prepares to swing.
+
+5. She performs a powerful horizontal baseball swing, striking the pumpkin with full force.
+
+6. On impact, the pumpkin explodes dramatically into hundreds of realistic orange pieces, flying pumpkin seeds, glowing embers, and fiery particles. Create a spectacular cinematic slow-motion explosion with realistic physics.
+
+7. Finish with the clown holding her follow-through batting pose while pumpkin fragments scatter across the wooden table and foreground.
+
+**Final Frame:**
+Display bold, clean white uppercase text at the bottom center:
+
+"HAPPY HALLOWEEN"
+
+Visual Style:
+Ultra-photorealistic cinematic horror fantasy, realistic human anatomy, detailed facial expressions, natural character movement, physically accurate object interactions, dramatic volumetric lighting, atmospheric fog, realistic fire and particle effects, professional Hollywood VFX, sharp details, natural motion blur.
+
+Camera: Fixed frontal camera, medium-wide composition, no cuts, no zooms, consistent character appearance and costume throughout.
+
+Important: No cartoon aesthetics, no animation look, no plastic skin, no character morphing, no extra limbs, no distorted hands, no scene transitions, and no changes to the character's identity.
 ```
 
 </details>
@@ -3945,433 +4393,6 @@ Seedance 2.5 · Text-to-video · Source: [@Aqsahere_ on X](https://x.com/Aqsaher
 
 ```text
 Create a premium photorealistic live-action cinematic disaster comedy featuring two beautiful young Korean women with clearly different faces, hairstyles, body proportions, and fashion styles. WOMAN 1 sits screen left, wearing a stylish elegant outfit, with only a small green salad in front of her. WOMAN 2 sits screen right, with a completely different beautiful face and different fashionable outfit, enjoying a hamburger, pizza, and red tteokbokki. They sit in a luxurious modern restaurant beside a huge floor-to-ceiling window overlooking a dense city skyline. WOMAN 1 sadly stares at her salad and envies WOMAN 2's feast until a colossal distant explosion suddenly erupts across the city, sending orange-white light and a powerful pressure wave that shakes the window and rattles the plates. Realizing the world might be ending, WOMAN 1 immediately abandons her diet, slides her salad aside, and urgently starts eating the pizza and hamburger. WOMAN 2 watches in disbelief, but another shockwave hits and she instantly joins the frantic feast. Finish with both women seriously panic-eating while repeatedly glancing at the enormous apocalyptic cloud outside. Premium large-format cinematic realism, Cooke anamorphic look, realistic physics, natural acting, cinematic orange disaster lighting, subtle handheld urgency after the explosion, no dialogue, no subtitles, no extra characters, no face duplication, and consistent screen positions throughout.
-```
-
-</details>
-
-<a id="seedance-fairground-ice-cream-nose-tease"></a>
-### Woman approaching fairground ice cream stall at sunset
-
-<a href="https://x.com/sophiaparkerr_/status/2096542775709692255"><img src="../../previews/seedance-fairground-ice-cream-nose-tease.jpg" width="360"></a>
-
-Timed beats (0 to 3 sec, 3 to 6 sec and so on) lay out one escalating gag as a sequence of shots, and a closing IMPORTANT block locks the headband, wardrobe, props and environment across cuts. Photographic terms like golden hour light, shallow depth of field and gimbal push-ins push the look toward live action rather than cartoon motion.
-
-Seedance 2.5 · Text-to-video · Source: [@sophiaparkerr_ on X](https://x.com/sophiaparkerr_/status/2096542775709692255) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`comedy`](tags.md#tag-comedy) [`amusement-park`](tags.md#tag-amusement-park) [`character-consistency`](tags.md#tag-character-consistency) [`shot-list`](tags.md#tag-shot-list)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-CHARACTER:
-A young woman wearing a cute, stylish amusement-park outfit with a clearly visible Mickey Mouse ears headband. Keep the headband consistent throughout the entire video. She is excited, playful, and expressive.
-A cheerful Turkish ice cream vendor stands behind a traditional Turkish ice cream stall, holding a long metal ice cream paddle.
-
-0–3 SEC — ORDER
-Start with a cinematic wide shot of the colorful amusement park, then smoothly move toward the Turkish ice cream stall.
-
-The girl approaches the counter, smiling excitedly. Her Mickey Mouse ears headband is clearly visible. She points toward the ice cream.
-The vendor prepares a cone with a scoop of ice cream and extends it toward her.
-
-3–6 SEC — THE FIRST TEASE
-Cut to a medium shot.
-
-The girl eagerly reaches for the cone.
-
-Just as she is about to grab it, the vendor smoothly pulls the ice cream away with the long paddle.
-She looks at him in surprise.
-
-He smiles mischievously and offers it again.
-
-6–9 SEC — MORE TEASING
-She reaches again.
-
-The vendor smoothly moves the cone from left to right, then slightly upward, always just out of reach.
-
-The girl follows the cone, laughing and becoming increasingly determined.
-
-Keep the interaction fluid, realistic, and playful, with natural body movement and timing.
-9–11 SEC — THE NOSE TRICK
-The vendor finally brings the ice cream toward her.
-
-She confidently leans forward, expecting to receive it.
-
-Instead, he gently places a small dab of ice cream on the tip of her nose.
-
-Close-up on her shocked expression.
-
-She pauses, looks cross-eyed toward the ice cream on her nose, then looks back at the vendor with a playful annoyed expression.
-11–15 SEC — SHE WINS
-Before the vendor can tease her again, she quickly grabs the cone from the paddle.
-
-She successfully gets the ice cream.
-
-The vendor laughs and raises his hands in playful defeat.
-
-She proudly holds up the cone, smiles toward the camera, wipes the ice cream from her nose, and takes a happy bite.
-
-CINEMATOGRAPHY:
-Photorealistic live-action, premium cinematic quality, warm golden-hour lighting, natural skin texture, realistic facial expressions, shallow depth of field, soft background bokeh, subtle anamorphic lens characteristics, natural motion blur, smooth gimbal movement, cinematic push-ins and tracking shots, realistic amusement-park atmosphere.
-
-IMPORTANT:
-Keep the Mickey Mouse ears headband clearly visible and consistent throughout the scene. Maintain consistent faces, wardrobe, hairstyle, ice cream cone, vendor paddle, and environment. All movements must be smooth and physically realistic. No exaggerated cartoon movement, no 3D animation, no jerky motion, no teleporting, no object duplication, and no unnatural hand movements.
-```
-
-</details>
-
-<a id="seedance-favorite-song-street-vibe"></a>
-### Man hears favorite song on city street
-
-<a href="https://x.com/AIwithZeeshi/status/2095374122674991259"><img src="../../previews/seedance-favorite-song-street-vibe.jpg" width="360"></a>
-
-The prompt gives a time-ordered beat sequence (hears the song, slows, smiles, vibes while walking), which sets a clear action arc for the model. The camera direction is concrete: stabilized tracking from behind with light handheld drift.
-
-Seedance 2.5 · Text-to-video · Source: [@AIwithZeeshi on X](https://x.com/AIwithZeeshi/status/2095374122674991259) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`pov`](tags.md#tag-pov) [`street-scene`](tags.md#tag-street-scene) [`realistic-motion`](tags.md#tag-realistic-motion) [`tracking-shot`](tags.md#tag-tracking-shot)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-POV — Your Favorite Song Starts Playing in Public
-
-A young man walks through a busy city sidewalk when he suddenly hears his favorite song playing from a nearby café. He recognizes it instantly, slows down, smiles, and starts subtly vibing to the rhythm while pretending to keep walking normally.
-
-The entire sequence follows realistic human behavior and accurate physics, including natural walking biomechanics, weight distribution, gravity, inertia, momentum, friction, foot-to-ground contact, realistic pedestrian movement, clothing dynamics, hair movement, and natural interactions between people and the environment.
-
-Ultra-realistic visuals, cinematic documentary style, natural late-afternoon lighting, realistic skin and clothing textures, smooth stabilized tracking, subtle handheld camera motion, realistic depth of field, natural focus pulls, physically accurate shadows and reflections, consistent character identity, authentic urban environment, natural colors, subtle film grain, and 4K cinematic quality.
-
-Would you be able to resist vibing to your favorite song in public? 
-
-#Seedance25 #WaveSpeedAI #AIVideo #CinematicAI #AIStorytelling #DailyLife #POV #Relatable #MusicLovers #GenerativeAI
-```
-
-</details>
-
-<a id="seedance-flaming-wok-chef-performance"></a>
-### Chef flips flaming wok with vegetables
-
-<a href="https://x.com/AynahhX/status/2102946546035945875"><img src="../../previews/seedance-flaming-wok-chef-performance.jpg" width="360"></a>
-
-The prompt lays out the 15-second clip as a beat-by-beat shot list joined by arrows, with a specified cut to a close-up and a camera orbit that gives the action a clear order. It closes with an explicit no text, subtitles, logos or watermark line to keep the frame clean.
-
-Seedance 2.5 · Text-to-video · Source: [@AynahhX on X](https://x.com/AynahhX/status/2102946546035945875) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`3d-animation`](tags.md#tag-3d-animation) [`cooking`](tags.md#tag-cooking) [`restaurant`](tags.md#tag-restaurant) [`camera-movement`](tags.md#tag-camera-movement)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a 15-second cinematic 3D animated cooking sequence inside a professional modern restaurant kitchen. Show a young male chef wearing a white chef jacket and red apron confidently cooking with a large black wok. Start with a medium shot of the chef tossing the wok with a serious, focused expression → cut to a dramatic close-up as flames burst from the pan while he continues cooking → show colorful vegetables including carrots, red bell peppers and bok choy flying dynamically through the air as he flips the wok → camera moves around the chef as he skillfully catches the ingredients back into the pan → finish with a close-up of the chef plating the freshly cooked colorful vegetables onto a clean white plate with glossy sauce. Warm cinematic restaurant lighting, realistic fire and smoke, detailed food textures, smooth character animation, natural hand and body movement, dynamic camera angles, cinematic depth of field, vibrant colors, polished high-end 3D animation, expressive facial animation, satisfying cooking-action atmosphere. No text, subtitles, logos or watermark.
-```
-
-</details>
-
-<a id="seedance-flower-field-flashback-memory"></a>
-### Woman in flower field fades into childhood memory
-
-<a href="https://x.com/AIwithWania/status/2102283267957506141"><img src="../../previews/seedance-flower-field-flashback-memory.jpg" width="360"></a>
-
-The reference image fixes the character, wardrobe and grade, and every timed beat repeats those locks so the look holds across cuts. The flashback uses matched framing in the same flower field with the same crown, which keeps the memory transition readable.
-
-Seedance 2.5 · Image-to-video · Source: [@AIwithWania on X](https://x.com/AIwithWania/status/2102283267957506141) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`flashback`](tags.md#tag-flashback) [`golden-hour`](tags.md#tag-golden-hour) [`reference-image`](tags.md#tag-reference-image) [`memory`](tags.md#tag-memory)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
--
-
-Use the uploaded reference image as the visual base. Maintain the same characters, same golden-hour flower field setting, same wardrobe, same color grading (warm gold, soft pink, dreamy sunset light) throughout. Do not change the characters' appearance, clothing, or the location.
-
-- **0:00–0:01** — A woman with long curly brown hair, wearing a white flowing dress and a flower crown, runs through a dreamy field of yellow, white, and pink flowers, trying to catch up to someone ahead of her. A distant fairytale castle is visible on the horizon.
-- **0:01–0:03** — She reaches out and gently places her hand on the shoulder of a man ahead of her, who is dressed in medieval knight armor with a dark red cloak.
-- **0:03–0:04** — Close-up on her face looking up, windswept hair, flowers in her crown catching the light — in this moment, the world around her begins to fade into a memory.
-- **0:04–0:06** — The scene transitions into a flashback: a little girl with the same curly brown hair and flower crown reaches out and gently touches the shoulder of a little boy in front of her, both standing in the same flower field.
-- **0:06–0:07** — Close-up of the little boy turning to look at her with a soft, curious expression.
-- **0:07–0:09** — The little boy quietly turns away and starts walking forward, away from her, through the flowers.
-- **0:09–0:10** — The little girl is left behind, her small hand still reaching out toward him.
-- **0:10–0:13** — Cut back to the present: the woman feels the same pain, holding her hand to her heart as the memory fades away.
-- **0:13–0:14** — The knight continues walking forward, emotionally distant, leaving her behind once again.
-- **0:14–0:15** — She kneels down in the flower field, overwhelmed with heartbreak, face in her hands — some moments stay with us forever.
-
-**End title card:** "Some moments take you back forever..." with theme tags: Love | Memory | Time | Always
-```
-
-</details>
-
-<a id="seedance-glass-mall-friends-emerald-skirt-film"></a>
-### Three friends in a glass-roofed luxury mall
-
-<a href="https://x.com/AIwithWania/status/2108420649467457557"><img src="../../previews/seedance-glass-mall-friends-emerald-skirt-film.jpg" width="360"></a>
-
-A timed beat sheet gives each segment its own camera direction, from a handheld walk to macro fabric shots and a mirror turn, and a single lock on identity, hairstyle and wardrobe carries through every segment to keep the three women consistent. The closing negative list covering faces, hands and walking helps avoid common distortion.
-
-Seedance 2.5 · Text-to-video · Source: [@AIwithWania on X](https://x.com/AIwithWania/status/2108420649467457557) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`fashion`](tags.md#tag-fashion) [`handheld-camera`](tags.md#tag-handheld-camera) [`slow-motion`](tags.md#tag-slow-motion) [`shopping`](tags.md#tag-shopping)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
--
-
-The overall mood should feel editorial, feminine, playful, polished and effortlessly chic — not motivational, not overly commercial, and not artificial.
-
-Opening — 0–5 seconds:
-Three fashionable female friends stroll through an upscale contemporary shopping destination, surrounded by luminous glass architecture, refined boutiques and warm ambient lighting. They exchange amused glances and effortless smiles, moving naturally together. Use an elegant handheld camera with subtle cinematic movement.
-
-5–10 seconds:
-Cut into a sophisticated designer-style boutique. One woman slowly browses a rack of luxurious garments while her friends watch, tease her playfully and react with genuine excitement. Include beautiful macro shots of textured fabrics, delicate embellishments, satin, sequins and refined tailoring.
-
-10–17 seconds:
-Show the main woman trying on an elegant fashion ensemble: a sophisticated cream embellished fitted top with a flowing emerald-green floor-length skirt. She emerges from the fitting area, pauses before a large mirror and turns naturally, allowing the skirt to move beautifully. Capture fabric movement, reflections and subtle expressions.
-
-17–23 seconds:
-Show intimate shopping details between the three women: one adjusting an accessory, another holding up a handbag, playful reactions, soft laughter and spontaneous friendship moments. Make the chemistry feel candid rather than staged.
-
-23–30 seconds:
-End with the three women leaving the boutique together with elegant shopping bags. The woman wearing the emerald-green skirt walks between her friends. Use a graceful tracking shot followed by a subtle slow-motion moment as the fabric moves while they walk away.
-
-Visual direction: luxury fashion editorial, sophisticated color grading, warm cinematic lighting, realistic skin texture, natural facial expressions, realistic hands, physically accurate fabric movement, shallow depth of field, refined highlights, premium commercial cinematography, subtle lens flare, smooth camera transitions, photorealistic details.
-
-Maintain exact character identity, facial features, hairstyles, body proportions and wardrobe continuity throughout the entire sequence. Keep all three women visually consistent from beginning to end.
-
-Avoid distorted faces, extra fingers, malformed hands, duplicated people, unnatural walking, warped clothing, flickering details, inconsistent hairstyles, floating objects, text, captions, watermarks or logos.
-
-Aspect ratio: 16:9 
-Duration: 30 seconds.
-Style: cinematic luxury fashion film.
-```
-
-</details>
-
-<a id="seedance-golden-foil-gondola-sunset-to-night"></a>
-### Golden foil gondola sunset fading to night
-
-<a href="https://x.com/churvikv/status/2112230364508827925"><img src="../../previews/seedance-golden-foil-gondola-sunset-to-night.jpg" width="360"></a>
-
-Opens with a fixed style phrase (textured golden art style, gold foil texture preserved) that locks the material for the whole clip, then lists timed beats in order: sky shift, windows lighting one by one, gondolier receding into the dark. A stated 10 second length and a steady rowing pace keep the motion slow and readable.
-
-Seedance 2.5 · Text-to-video · Source: [@churvikv on X](https://x.com/churvikv/status/2112230364508827925)
-
-[`gold-foil`](tags.md#tag-gold-foil) [`sunset-transition`](tags.md#tag-sunset-transition) [`gondola`](tags.md#tag-gondola) [`style-lock`](tags.md#tag-style-lock)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Textured golden art style, gold foil texture preserved. The golden sky gradually transitions from bright morning gold to deep sunset bronze. Shadows lengthen across the water. Windows light up one by one as evening approaches. Gondolier rows at a normal steady pace, moving from the center toward the distant horizon, gradually becoming smaller and eventually disappearing into the darkening background as night falls. Seagulls return to roost. The clock tower silhouette becomes more pronounced against the darkening sky. Water reflections shift from bright to warm amber. Peaceful time progression, 10 seconds.
-```
-
-</details>
-
-<a id="seedance-hanfu-woman-misty-lake-horse-journey"></a>
-### Woman in white hanfu across misty lakes and grasslands
-
-<a href="https://x.com/sandmrk/status/2114898254651613511"><img src="../../previews/seedance-hanfu-woman-misty-lake-horse-journey.jpg" width="360"></a>
-
-Timed shot list where each shot is a fixed framed picture joined by hard cuts, with the same character description repeated per shot to hold identity. The style block sets mist, low side light and a teal versus amber palette, and explicit bans on plastic and game-CG looks steer the rendering.
-
-Seedance 2.5 · Text-to-video · Source: [@sandmrk on X](https://x.com/sandmrk/status/2114898254651613511)
-
-[`multi-shot`](tags.md#tag-multi-shot) [`oriental`](tags.md#tag-oriental) [`hanfu`](tags.md#tag-hanfu) [`misty-lake`](tags.md#tag-misty-lake) [`horse-riding`](tags.md#tag-horse-riding)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-东方国风半写实CG绘本质感；雾气弥漫与斜射天光；真实水面倒影、衣料垂坠、马匹毛发与奔跑动态质感；胶片级青蓝与琥珀对置色调；空灵、悠远、如梦；禁塑料感、禁游戏CG感
-白衣女子（白衣汉服，长发松挽，宽大衣袂层层垂落）：全片主角，各镜沿用同一描述，不得变脸变装
-蓝衣骑者（深蓝衣袍，身形挺拔）：仅结尾草原镜出现，骑白马
-白马（通体雪白，鬃毛长而飘）：雾湖镜与草原镜共用同一匹
-场景组：雾湖与秋林、月洞门庭院、莲塘、竹影小舟、青山花坡、纱帘竹丛、金色草原
-全片一条旅程线：泛舟、立门、采莲、偃卧、奔跑、帘影、策马；镜与镜硬切，每镜是一幅独立的画
-空间逻辑：人在景中始终保持小比例，山水是主角；唯一例外是竹影小舟与纱帘两镜的近景
-斜射的晨昏天光穿过雾气，暗部被雾抬亮不死黑；青蓝的水与琥珀的陆对置
-音频：国风器乐配乐流淌全片，水声、风声、马蹄声随镜而至；无对白、无旁白
-情绪弧线：惊奇、静观、亲近、安眠、释放、含情、辽远、纵情告别
-
-0–2.8秒大远景缓慢漂移
-雾湖开场：镜面般的湖上雾气分层，两只小舟各载一个白衣人影远远漂着，左右金黄与深红的秋树垂入画面作框，倒影在水里微微晃；白衣女子骑白马自雾深处踏水而行，衣袂与马鬃拂过水面，马行水上不沉不溅，雾里另有白色鹿形身影若隐若现
-开场确立：梦境逻辑、人物小比例、雾与倒影的质感基调
-
-2.8–4.9秒全景固定
-白墙月洞门：圆门正中立着白衣女子，成一幅剪影，门内是木格与远山，门侧一个小小的坐影作伴；一枝花树自左上斜入，人只有呼吸与衣袂的微动，影子落在墙面上
-延续：构图对称、庭院静止、人物不走出圆门
-
-4.9–8.2秒俯瞰全景缓慢跟移
-莲塘自正上方俯瞰：翡翠色莲叶铺满水面，粉白莲花点缀其间；一条窄长木舟横穿画面，白衣女子立在船头，白衣拖尾铺在船板上，她俯身探向莲花，摘下一朵捧在手里，船尾有人摇橹，水面星光细碎闪烁
-延续：俯瞰角度全程不变，船行方向不变，莲叶海不稀疏
-
-8.2–11.1秒近景固定
-竹影小舟内：木栏小舟里层层铺着白色毛皮与织物，白衣女子偃卧其中闭目小憩，一只手垂在舟边；前景竹叶虚化轻晃，斑驳光斑落在毛皮与衣料上，呼吸可见
-延续：睡意与安宁，人物全程不起身、不睁眼
-
-11.1–14秒远景航拍跟移
-青山花坡：起伏的绿丘带着梯田般的坡纹，粉白花树疏疏点缀；白衣女子披深色披风在坡间奔跑，双袖张开，披风在身后猎猎，人自画面一侧横贯而过，始终只占一小点
-延续：小比例尺度，奔跑不腾空不飞翔，花树不增不减
-
-14–16.7秒近景固定
-纱帘竹丛间：白衣女子半隐在白色纱帘之后，右侧竹叶探入画面；阳光透过竹叶把斑驳碎光落在她的侧脸与衣上，她含笑微侧首，发间光影缓缓浮动，帘子只轻轻飘
-延续：斑驳光影是本镜主角，笑意含蓄不放大
-
-16.7–18.3秒远景固定
-金色草原小径：干草金黄，一条小径自画面中线向远方收去，两个小小人影沿径缓行；天空里群鸟横贯成河，偶有一两只大鸟自镜头前掠过，翅膀遮住一瞬画面
-过渡：由静转动，辽远感拉满，为策马蓄势
-
-18.3–22.8秒全景侧跟随后持续拉远
-草原策马：蓝衣骑者伏身骑白马全速疾驰，四蹄腾空，侧面跟拍下枯金草浪向后倒退；约两秒后镜头开始耐心拉远，马与人一点点变小，草原与天空一点点变大，至地平线居中处只剩一个仍在移动的小点，画面就停在这里，不淡出
-收束：全片唯一动力镜；速度先给足，拉远必须走完，结尾留白
-
-严禁任何形式的对白与旁白；无文字、无水印、无现代元素；无人物放大占满画面（近景两镜除外）；无雾气消散、无倒影消失；无马匹沉水、游泳或马腿穿模；无策马降为慢跑或小跑；无拉远中途停住、无结尾提前淡出黑场；无俯瞰角度漂移、无莲叶变陆地；无纱帘变实墙、无竹影光斑频闪；无鸟群变黑点噪点；无草原变沙漠；无镜头内叠化；无身份漂移、无人物复制
-```
-
-</details>
-
-<a id="seedance-haunted-castle-halloween-pumpkins"></a>
-### Haunted castle with glowing pumpkins and bats
-
-<a href="https://x.com/juliaevee/status/2113134380759523628"><img src="../../previews/seedance-haunted-castle-halloween-pumpkins.jpg" width="360"></a>
-
-A single camera push toward the castle and a closing wide shot give the clip a clear arc. Named lighting, fog and scenery details, plus a no people and consistent scenery constraint, keep the frame stable across the full 30 seconds.
-
-Seedance 2.5 · Text-to-video · Source: [@juliaevee on X](https://x.com/juliaevee/status/2113134380759523628)
-
-[`halloween`](tags.md#tag-halloween) [`haunted-castle`](tags.md#tag-haunted-castle) [`pumpkins`](tags.md#tag-pumpkins) [`night-scene`](tags.md#tag-night-scene)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a 30-second ultra-realistic cinematic Halloween video of a majestic haunted castle glowing with warm orange lights, surrounded by jack-o’-lanterns, twisted trees, blue fog, and wet reflective cobblestones. The camera slowly moves toward the castle as autumn leaves drift, candles flicker, and bats fly across the moonlit sky. Elegant glowing text appears: “Happy Halloween.” End with a dramatic wide shot of the illuminated castle. Photorealistic details, smooth camera movement, volumetric fog, spooky magical atmosphere, 4K, no people, no distortion, consistent scenery, vertical 9:16, exactly 30 seconds.
-```
-
-</details>
-
-<a id="seedance-istanbul-fpv-sunrise-travel-film"></a>
-### Istanbul mosque rooftops rising above sunrise fog
-
-<a href="https://x.com/Naiknelofar788/status/2106439652278411435"><img src="../../previews/seedance-istanbul-fpv-sunrise-travel-film.jpg" width="360"></a>
-
-The prompt splits the film into timed beats, each with one camera move and one transition type, such as an FPV dive, hyperlapse or match cut. That gives the model a shot order instead of only a mood, and the named opening cues (sunrise mist, aerial dive over Istanbul) anchor the first beat.
-
-Seedance 2.5 · Text-to-video · Source: [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2106439652278411435)
-
-[`fpv-drone`](tags.md#tag-fpv-drone) [`istanbul`](tags.md#tag-istanbul) [`travel`](tags.md#tag-travel) [`timed-shots`](tags.md#tag-timed-shots)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a 30-second ultra-realistic cinematic FPV travel film showcasing the futuristic energy, natural beauty, and cultural character of TURKEY. Blend cyberpunk technology with Istanbul’s historic architecture, vibrant streets, Mediterranean and Aegean coastlines, and spectacular night imagery. Use extreme-speed FPV drone movement, hyperlapse, seamless spatial transitions, and dense but controlled flash-cut editing. 8K cinematic realism, photorealistic environments, realistic crowds and vehicles, dramatic lighting, smooth motion blur only during rapid transitions, premium commercial cinematography. No text, logos, subtitles, or watermarks.
-
-[0–6s] — CITY FROM THE SKY
-Begin above Istanbul at sunrise, surrounded by mist and clouds. An FPV drone dives rapidly between modern skyscrapers before sweeping toward the Bosphorus. The scene transitions from warm daylight into blue-hour neon as the city below comes alive. Cars create flowing light trails while the camera races through vibrant streets, revealing Istanbul’s futuristic energy beside historic architecture.
-
-[6–12s] — TECHNOLOGY & HISTORY
-Use rapid cinematic match cuts: a modern tram glides through the city, instantly transitioning into a close-up of a traditional Turkish coffee being prepared; a speeding ferry cuts across the Bosphorus, followed by a dramatic aerial reveal of the Hagia Sophia and Blue Mosque. Turkish street life, glowing shopfronts, crowded avenues, and modern architecture flash together in rhythmic visual transitions.
-
-[12–18s] — SPATIAL FOLD TO THE COAST
-A moving object passes directly across the lens and becomes a seamless transition into the Turkish coastline. The camera bursts over crystal-clear turquoise water near Antalya and races along dramatic Mediterranean cliffs. Speedboats cut through the sea, white spray exploding behind them. Transition toward Cappadocia as hot-air balloons suddenly fill the sky above the surreal rock formations.
-
-[18–24s] — TURKEY IN MOTION
-The camera dives between Cappadocia’s towering rock formations and rapidly transitions to a bustling Istanbul street at golden hour. Match-cut between a Turkish flag waving in the wind, a crowded bazaar, traditional architecture, modern city traffic, and people enjoying the coastline. Use fast but visually coherent transitions that emphasize Turkey’s contrast between ancient heritage and modern life.
-
-[24–30s] — THE GRAND FINALE
-Night falls instantly. The camera rises above Istanbul and reveals the Bosphorus illuminated by thousands of city lights. A massive coordinated drone light show forms elegant abstract shapes above the skyline while boats move across the glowing water below. The camera pulls rapidly backward and upward into an enormous aerial panorama, revealing Istanbul stretching across both sides of the Bosphorus.
-
-End with a powerful wide cinematic shot of the illuminated city, water, bridges, historic landmarks, and night sky.
-
-STYLE: ultra-realistic 8K cinematic travel film,
-```
-
-</details>
-
-<a id="seedance-japanese-lab-infected-silence"></a>
-### Lab teacher silences class as infected close in
-
-<a href="https://x.com/ElsaSofia__AI/status/2100903709492613245"><img src="../../previews/seedance-japanese-lab-infected-silence.jpg" width="360"></a>
-
-The prompt is written as a timed sequence of beats, each with a concrete sound or visual cue such as the scratching cabinet and the dropped beaker, giving the model clear moments to pace. The diegetic-only audio line and the explicit list of exclusions keep the look realistic and free of score.
-
-Seedance 2.5 · Text-to-video · Source: [@ElsaSofia__AI on X](https://x.com/ElsaSofia__AI/status/2100903709492613245) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`horror`](tags.md#tag-horror) [`japanese-school`](tags.md#tag-japanese-school) [`sound-cues`](tags.md#tag-sound-cues) [`camera-push`](tags.md#tag-camera-push) [`photorealistic`](tags.md#tag-photorealistic)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a short, ultra-realistic cinematic horror-action sequence set inside a quiet Japanese high-school science laboratory during an afternoon class. A female science teacher is demonstrating an experiment when the lights suddenly flicker and every digital display in the room turns off at the same time. A strange scratching sound comes from inside a locked storage cabinet.
-
-The teacher cautiously approaches the cabinet, but before she can open it, the glass windows violently shake. One student notices dark handprints appearing on the outside of the glass even though there is nobody there. The classroom door suddenly slams shut and locks itself.
-
-The teacher tells everyone to stay calm and uses a metal laboratory stand to force the door open. Just as the students begin escaping into the hallway, one of the emergency lights reveals several infected figures standing motionless at the far end of the corridor.
-
-The students rush back into the laboratory and quickly push tables against the entrance. The teacher discovers that the infected are reacting to sound, so everyone becomes completely silent. A student accidentally drops a glass beaker.
-
-The sound echoes through the hallway.
-
-All the infected figures slowly turn toward the laboratory.
-
-The teacher raises one finger, silently telling everyone not to move. The camera slowly pushes toward the barricaded door as dozens of footsteps begin approaching from outside. The screen cuts to black just before the door starts shaking violently.
-
-Photorealistic live-action horror, authentic Japanese high-school science laboratory, realistic teenage students and teacher, natural handheld cinematography, subtle practical effects, believable physical movement, atmospheric fluorescent lighting, realistic shadows, tense pacing, authentic facial reactions, cinematic depth of field, muted horror color grading, diegetic environmental sound only. No music, narration, excessive gore, graphic injuries, animation, anime, cartoon style, artificial CGI appearance, distorted anatomy, subtitles, text, logos, or watermark.
-```
-
-</details>
-
-<a id="seedance-korean-cafeteria-tray-walk"></a>
-### Student carries lunch tray through busy Korean cafeteria
-
-<a href="https://x.com/Zoyavelle/status/2100810895052165195"><img src="../../previews/seedance-korean-cafeteria-tray-walk.jpg" width="360"></a>
-
-The prompt is a numbered multi shot sequence with a fixed wardrobe description and clear cut cues, which keeps the lead consistent across shots. Lens and grading terms (35mm and 85mm, soft bokeh, subtle handheld drift) steer the look toward a Korean school drama frame.
-
-Seedance 2.5 · Text-to-video · Source: [@Zoyavelle on X](https://x.com/Zoyavelle/status/2100810895052165195) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`korean-drama`](tags.md#tag-korean-drama) [`school-cafeteria`](tags.md#tag-school-cafeteria) [`multi-shot`](tags.md#tag-multi-shot) [`photorealistic`](tags.md#tag-photorealistic)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a cinematic, photorealistic Korean high-school cafeteria scene during lunchtime. A beautiful young Korean female student, around 18–20 years old, with long straight black hair, fair natural skin, delicate facial features, and a calm expressive face, walks through a large busy school cafeteria carrying a stainless-steel lunch tray.
-
-She wears a neat white short-sleeve school uniform shirt with a dark navy ribbon bow/tie, a navy pleated skirt, and a small school name tag. The cafeteria is filled with many Korean high-school students wearing matching white uniforms, sitting at long wooden tables and eating lunch.
-
-Opening shot: wide cinematic shot following the girl as she walks between crowded cafeteria tables carrying her tray. Bright fluorescent ceiling lights, large windows, realistic school cafeteria architecture, natural background activity, shallow depth of field.
-
-Cut to a medium close-up of the girl walking toward the camera, looking slightly surprised and opening her mouth as if speaking. Her black hair moves naturally while walking.
-
-Cut to a detailed close-up of the stainless-steel cafeteria tray being carried, containing Korean-style school lunch: white rice, fried chicken pieces, sausages, vegetables, side dishes, and red sauce. Another hand holding a spoon appears in the foreground.
-
-Top-down shot of the complete lunch tray placed on the table, showing separate metal compartments filled with rice, fried food, vegetables, and red soup/sauce.
-
-Show the busy cafeteria reaction: several male students suddenly look toward the girl with surprised and curious expressions while eating. Capture natural facial expressions and realistic reactions.
-
-A dramatic close-up of the girl looking directly toward the camera with a confident, slightly serious expression. Her long black hair frames her face, with realistic skin texture, detailed eyes, subtle makeup, and cinematic soft lighting. Background students and cafeteria lights are heavily blurred with natural bokeh.
-
-Show the girl approaching a seated male student and placing/serving the lunch tray near him. The students react naturally, looking surprised and confused. Finish with a wide rear shot of the girl walking away through the crowded cafeteria while carrying the tray, with rows of students visible on both sides.
-
-Visual style: ultra-realistic Korean school drama / K-drama cinematography, photorealistic human faces, realistic skin texture, natural body proportions, authentic Korean school cafeteria, cinematic composition, soft depth of field, realistic fluorescent lighting, subtle handheld camera movement, smooth cinematic transitions, detailed food textures, natural facial expressions, realistic motion, 4K, high detail, professional cinema camera, 35mm and 85mm lens look, natural color grading, atmospheric background blur.
-
-No text, no subtitles, no watermark, no logos, no distorted faces, no extra fingers, no unnatural body proportions, no cartoon or anime appearance.
-```
-
-</details>
-
-<a id="seedance-korean-coastal-coffee-lifestyle-film"></a>
-### Korean woman coffee day along coastal city
-
-<a href="https://x.com/aiwithaayat/status/2110600258871013510"><img src="../../previews/seedance-korean-coastal-coffee-lifestyle-film.jpg" width="360"></a>
-
-The prompt runs as an ordered shot list, from coffee counter to street, seaside railing and golden hour hill, so a 25 second runtime holds one continuous story. A closing block of lens, grain, colour and mood terms keeps the look consistent across every cut.
-
-Seedance 2.5 · Text-to-video · Source: [@aiwithaayat on X](https://x.com/aiwithaayat/status/2110600258871013510) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`lifestyle`](tags.md#tag-lifestyle) [`cinematic`](tags.md#tag-cinematic) [`multi-shot`](tags.md#tag-multi-shot) [`coastal`](tags.md#tag-coastal) [`golden-hour`](tags.md#tag-golden-hour)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Created a 25 second video, beautiful Korean girls, cinematic lifestyle film set in a beautiful coastal city, capturing the peaceful and aesthetic moments of everyday life. Begin with a warm, cozy coffee shop scene featuring a barista serving a takeaway coffee on a wooden counter, followed by a cinematic reflection of a young Korean woman standing near a large glass window with soft city lights reflecting across the glass. Show close-up shots of her walking along a busy urban street, focusing on her sneakers stepping across the pavement, then transition to a wide low-angle shot of her standing in front of a striking modern architectural building, wearing a stylish beige trench coat, carrying a black shoulder bag, and looking peacefully toward the sky. Capture intimate side-profile shots of her holding a coffee cup beside a window, with natural sunlight illuminating her face and soft shadows creating a moody atmosphere. Transition smoothly to a beautiful seaside promenade where she stands beside a metal railing, holding her coffee and gazing at the sparkling blue ocean as a large cruise ship moves slowly in the background. Continue with breathtaking golden-hour shots of a beautiful Korean girl sitting on a lush green grassy hill overlooking the ocean, her long dark brown hair moving gently in the sea breeze, wearing a relaxed beige outfit and holding a takeaway coffee cup. Capture natural facial expressions, subtle movements, candid moments, and elegant close-ups of her face as she turns toward the camera. End with an expansive cinematic wide shot of the green coastal landscape, calm blue water, distant islands, and a cruise ship sailing peacefully along the horizon, with the girl appearing small against the beautiful scenery. Use photorealistic visuals, cinematic composition, smooth camera movements, shallow depth of field, natural skin texture, soft film grain, realistic lighting, warm golden-hour tones, muted earthy colors, subtle lens flares, and premium Korean fashion editorial aesthetics. The overall mood should feel peaceful, dreamy, elegant, emotional, and authentic, like a high-end Korean lifestyle film shot on a professional cinema camera, with seamless transitions, realistic motion, beautiful environmental details, and no artificial-looking faces or exaggerated movements.
 ```
 
 </details>

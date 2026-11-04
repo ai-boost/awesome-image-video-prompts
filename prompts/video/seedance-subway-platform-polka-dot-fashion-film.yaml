@@ -1,0 +1,25 @@
+id: seedance-subway-platform-polka-dot-fashion-film
+title:
+  en: Blonde model in polka dot dress on subway platform
+  zh: 金发模特在地铁站台的波点裙造型
+model: Seedance 2.5
+mode: reference-to-video
+category: cinematic
+tags:
+- fashion-film
+- subway
+- night-city
+- character-lock
+source:
+  name: '@Just_sharon7 on X'
+  url: https://x.com/Just_sharon7/status/2103032789910401038
+  credit: Just_sharon7
+  captured: '2026-11-03'
+  posted: '2026-09-24'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Just_sharon7/status/2103032789910401038
+notes:
+  en: A reference still locks the same face, flower and dress across every shot, and the prompt lists the shots in order with a camera style for each. The train's heavy motion blur carries the energy behind the subject while she stays sharp.
+  zh: 参考图锁定每个镜头中同一人物的面部、发花和裙装，提示词按顺序列出各个镜头及对应的机位风格。火车强烈的动态模糊在人物身后营造动感，同时保证人物清晰可辨。
+prompt: |
+  Photoreal cinematic ~9 seconds, high-end fashion-film look. A young woman with long wavy blonde hair, olive-tan skin, sharp brows, and glossy lips. A pale pink flower is pinned behind her right ear. She wears a light blue spaghetti-strap mini dress with small black polka dots and carries a woven straw shoulder bag. Soft glam makeup, gold jewelry, warm skin highlights. Location: underground subway platform at night. Yellow safety strip on the platform edge, tiled walls, overhead fluorescent lights. A silver metro train streaks behind her in heavy motion blur — windows, doors, and at one moment an Japanese flag graphic on the passing car. Shot sequence, continuous energy: Medium close-up, she looks over her shoulder into camera while the train screams past behind her. Profile: she brings a lip wand or finger to her mouth, applying gloss as hair lifts in the train wind. She turns, hair swinging, eyes on camera, slight smirk. Wider on the platform: she touches her collarbone / strap, dress and bag readable, train still moving in the background. Head tipped back, hair flying, chin up, train with the flag ripping through frame. She looks back and smiles. Fast hair flip — hand rakes through hair, back partly to camera. Tight close-up: she blows a kiss to lens, fingers near lips, flower still in hair. Camera: mixed handheld fashion-cam and locked beauty close-ups. Shallow depth of field on her face, background train smeared into silver-and-light streaks. Practical station lighting plus a warm key on her skin. Color: creamy highlights, rich dark hair, the pink flower and red lips pop against cool subway metal. Motion: hair and dress always moving from train rush / her own turns. No extra people in focus. Mood: confident, flirty, summer-night city girl, music-video energy. Audio direction: upbeat dance-pop / Latin-pop, lyrics in the vein of “she got that vibe… dance all night… eyes on me.” Train rumble low under the track. Style keywords: photoreal fashion film, subway platform, motion-blur train, polka-dot sundress, pink hair flower, straw bag, glossy lips, hair flip, blow kiss, shallow focus, night metro lighting, 4K, no text overlay. Character lock (use with the reference still): Same woman 📷dp.jpg as the daylight field photo: long blonde center-parted waves, pink flower over the right ear, light blue black-polka-dot sundress, woven bag, warm skin, full lips. Keep identity consistent across every shot. #flovacpp

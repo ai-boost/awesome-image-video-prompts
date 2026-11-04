@@ -1,0 +1,25 @@
+id: seedance-blue-perfume-golden-beach-commercial
+title:
+  en: Blue perfume bottle with droplets at golden sunset
+  zh: 金色日落海滩上挂水珠的深蓝香水瓶
+model: Seedance 2.5
+mode: text-to-video
+category: commercial
+tags:
+- perfume
+- luxury
+- golden-hour
+- beach-commercial
+source:
+  name: '@laviniavelle on X'
+  url: https://x.com/laviniavelle/status/2100071299968032968
+  credit: laviniavelle
+  captured: '2026-11-03'
+  posted: '2026-09-16'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/laviniavelle/status/2100071299968032968
+notes:
+  en: The prompt sequences a backlit macro product shot into a cross dissolve to a model spraying the scent, so the shot order and the lens flare cues control the pacing. Stating photorealistic 8K and shallow depth of field holds a consistent luxury look across both shots.
+  zh: 提示词按顺序描述逆光产品微距镜头，再通过交叉溶解切到人物喷香的画面，靠明确的镜头顺序和镜头光晕描述控制节奏。写明写实 8K 和浅景深，使两段镜头保持一致的奢华质感。
+prompt: |
+  A cinematic photorealistic commercial shot on a golden hour beach A deep sea blue glass perfume bottle covered in micro water droplets rests on a wet rock, backlit by the setting sun glittering over gentle ocean waves Soft lens flare and warm golden reflections glimmer across the water The scene seamlessly cross dissolves to a stunning woman wearing a flowing white deep V dress standing on the sandy shore She sprays the fragrance onto her neck with her eyes closed in bliss surrounded by a fine mist catching the golden sunlight then looks directly into the camera with a gentle confident smile holding the bottle Photorealistic 8K resolution, dynamic lighting, high end luxury aesthetic shallow depth of field.

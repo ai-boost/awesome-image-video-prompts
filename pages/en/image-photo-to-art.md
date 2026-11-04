@@ -1,6 +1,6 @@
 # Photo to art
 
-[Back to the list](../../README.md) · All 108 entries
+[Back to the list](../../README.md) · All 110 entries
 
 <a id="gpt-image-photo-to-watercolor-travel"></a>
 ### Travel photo above, same scene as watercolor below
@@ -1591,6 +1591,164 @@ High-resolution photography, natural lighting, realistic skin texture, detailed 
 
 </details>
 
+<a id="gpt-image-red-car-scenic-route-paper-road"></a>
+### Couple by red car, road drawn into paper
+
+<a href="https://x.com/Ciri_ai/status/2116744227602547147"><img src="../../previews/gpt-image-red-car-scenic-route-paper-road.jpg" width="360"></a>
+
+The road in the photo is the connecting element, so it crosses the torn seam and keeps going as a drawn path on ivory paper. The lower world adds no people, only a short handwritten caption, so the photo stays the focus.
+
+GPT Image 2.5 · Edit · Source: [@Ciri_ai on X](https://x.com/Ciri_ai/status/2116744227602547147) · 239 likes on 2026-11-03
+
+[`paper-cutout`](tags.md#tag-paper-cutout) [`photo-collage`](tags.md#tag-photo-collage) [`road-trip`](tags.md#tag-road-trip)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Turn your photo into an interactive 2D paper-cutout world with GPT Image 2.5
+
+Prompt: Create a vertical 3:4 canvas divided into two perfectly equal horizontal sections: the top occupies exactly 50%, and the bottom occupies exactly 50%.
+
+The upper and lower sections must feel like one continuous scene, not two separate compositions.
+
+TOP HALF — ORIGINAL PHOTOGRAPH
+
+Preserve the original photograph exactly as it is.
+
+Maintain the original subject, pose, spatial relationships, color atmosphere, composition, and natural lighting.
+
+Do not redesign, recolor, replace, rearrange, or reinterpret any part of the original photograph. Keep its original proportions and visual identity.
+
+Cropping is allowed when necessary.
+
+CONTINUITY — HIGHEST PRIORITY
+
+Identify a natural compositional element that converges toward or passes through the central area of the image. This could be a road, coastline, body of water, reflection, branch, beam of light, architectural structure, or physical movement.
+
+This element must cross the boundary between the two halves and continue naturally into the lower section.
+
+The second world must emerge directly from the original photograph. It should feel as though the same scene continues beyond the dividing line, with only its physical form transforming.
+
+The transition must feel intentional, organic, and visually connected.
+
+TRANSITION EDGE
+
+An irregular torn-paper edge may be used as part of the central design, but it must follow the underlying structure of the composition rather than function as decoration.
+
+The original visual element may touch, follow, break through, or extend beyond the edge.
+
+Avoid repeating the same torn-paper shape across different images. Let the transition shape emerge naturally from the specific photograph.
+
+BOTTOM HALF — THE SECOND WORLD
+
+Create an ivory-colored paper surface with subtle natural fiber textures and generous negative space.
+
+Continue the selected structural element downward from the exact point where it intersects the dividing line.
+
+Reinterpret it using a thoughtful combination of:
+
+- Minimal photographic fragments.
+- Cut-paper shapes and layered paper elements.
+- Delicate black hand-drawn outlines.
+- Subtle handmade collage textures.
+
+The lower world must remain visibly connected to the upper photograph.
+
+Never turn it into an isolated portal, window, stage, or platform unless that structure genuinely originates from the photograph itself.
+
+SECOND-WORLD LOGIC — IMAGE-SPECIFIC INTERACTION
+
+Ask yourself:
+
+If the structure in this photograph became something tangible that could be touched, used, manipulated, or transformed, what would it naturally become?
+
+Create an interactive visual interpretation that is specific to the image.
+
+Examples:
+
+- Water might continue downward as a flowing form that remains physically attached to the original water.
+- A road might transform into a hand-drawn pathway that continues through the paper.
+- Light might become a tangible object that someone could hold or interact with.
+
+Do not mechanically repeat the same transformation or interaction across different images.
+
+The creative interpretation must emerge naturally from the photograph's subject and visual elements.
+
+CHARACTERS & INTERACTION
+
+Add between 0 and 3 minimal black line-drawn human figures, only when genuinely necessary.
+
+Each character must actively participate in the visual narrative and interact with the transformed structure.
+
+If the original photograph already contains multiple people interacting, do not introduce additional characters.
+
+Never use characters merely as decorative elements.
+
+WORLD TITLE / CAPTION
+
+Add one short, handwritten English caption consisting of 2–6 words.
+
+The caption should naturally describe the action or interaction taking place in the second world.
+
+Keep the language conversational, slightly playful, and subtly humorous.
+
+Ensure correct spelling and natural phrasing.
+
+Avoid motivational statements, generic inspirational quotes, and formulaic expressions such as "Same thing, different world."
+
+VISUAL STYLE & ART DIRECTION
+
+- Authentic, photorealistic photography.
+- Warm ivory paper texture.
+- Extremely minimal black hand-drawn linework.
+- Subtle handmade cut-paper and collage details.
+- Independent editorial magazine aesthetic.
+- Bright, airy, clean composition.
+- Generous negative space.
+- Refined visual storytelling.
+- Natural integration between photography and paper art.
+
+The final image should feel as though a second dimension was already hidden inside the original photograph and simply continues beyond its boundaries.
+
+The result should be sophisticated, imaginative, understated, and visually cohesive.
+
+NEGATIVE PROMPT
+
+No disconnected bottom-half illustration.
+
+No generic torn-paper templates.
+
+No isolated portals, entrances, windows, stages, or platforms.
+
+No unrelated visual elements.
+
+No broken visual continuity.
+
+No overly dense illustrations.
+
+No random decorative objects.
+
+No unnecessary crowds or additional people.
+
+Do not modify the original photograph's colors.
+
+Do not redesign or alter the upper photograph.
+
+No glossy 3D effects.
+
+No messy scrapbook aesthetics.
+
+No cluttered collage elements.
+
+No distorted or gibberish text.
+
+No watermarks.
+
+No logos.
+```
+
+</details>
+
 <a id="gpt-image-watercolor-straw-hat-denim-fashion-portrait"></a>
 ### Watercolor Fashion Portrait with Palm Sunglasses
 
@@ -2369,6 +2527,51 @@ REFERENCE PRIORITY:
 6. Minimal decorative elements
 
 Never sacrifice subject accuracy for artistic stylization.#Lovart #LovartPartner
+```
+
+</details>
+
+<a id="gpt-image-hiker-lake-photo-ink-split"></a>
+### Hiker photographing a lake, photo and ink drawing
+
+<a href="https://x.com/Ziha_ai/status/2117173539422065021"><img src="../../previews/gpt-image-hiker-lake-photo-ink-split.jpg" width="360"></a>
+
+The prompt splits the canvas into a 50/50 photo top and a two-colour ink redraw below, so the same scene reads side by side. It keeps the key identifiers such as the beanie, camera and backpack while reducing the background to bold silhouettes, flat lake lines and sparse dots on a single jacket.
+
+GPT Image 2.5 · Edit · Source: [@Ziha_ai on X](https://x.com/Ziha_ai/status/2117173539422065021) · 147 likes on 2026-11-03
+
+[`ink-illustration`](tags.md#tag-ink-illustration) [`split-composition`](tags.md#tag-split-composition) [`photo-to-art`](tags.md#tag-photo-to-art) [`outdoor`](tags.md#tag-outdoor)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a premium, full-bleed 3:4 vertical editorial poster using the uploaded photograph as the sole reference. Divide the canvas into exactly two equal horizontal halves (50/50), without borders, dividers, text, or labels.
+
+TOP HALF — ORIGINAL PHOTOGRAPH
+
+Preserve the photograph faithfully, maintaining the subjects' identities, facial features, expressions, hairstyles, clothing, poses, important objects, natural colors, lighting, and atmosphere. Allow only minimal cropping to fit the composition. Do not reconstruct, stylize, or alter the original image.
+
+BOTTOM HALF — HAND-DRAWN ILLUSTRATION
+
+Recreate the same scene as a playful, minimalist, hand-inked screen-print illustration using strictly two colors: pure white (#FFFFFF) for the background and near-black (#080807) for outlines and solid shapes.
+
+Use bold, broad, imperfect marker or brush strokes with organic contours, visible hand-drawn wobble, and natural pressure variations. Avoid thin, smooth, vector-like lines.
+
+Simplify people into expressive cartoon-like characters with rounded irregular heads, minimal facial features, friendly expressions, mitten-shaped hands, and chunky limbs. Preserve recognizable hairstyles, glasses, accessories, poses, and interactions. Apply the same playful simplification to animals and other subjects.
+
+Retain the original scene's main subjects, important objects, visual story, and relationships while removing 70–90% of unnecessary background details. Use bold silhouettes, flat shapes, and generous white negative space. Add small, dense, irregular black dots to no more than one suitable garment or textile area.
+
+STYLE & RESTRICTIONS
+
+Maintain a warm, spontaneous, handcrafted editorial aesthetic. The illustration must remain flat, graphic, and expressive.
+
+Avoid photorealism, 3D effects, gradients, gray tones, shadows, realistic shading, additional colors, excessive details, corporate icon aesthetics, mechanical symmetry, malformed anatomy, extra fingers, and detached hands.
+
+Do not introduce unrelated characters, objects, or activities. No text, letters, numbers, logos, signatures, watermarks, decorative frames, or additional panels.
+
+FINAL COMPOSITION
+
+The finished poster must present the exact same visual story twice: the authentic original photograph in the upper half and its expressive black-ink, hand-drawn interpretation against a pure white background in the lower half. Maintain a precise 50/50 division, consistent composition, and premium editorial finish.
 ```
 
 </details>

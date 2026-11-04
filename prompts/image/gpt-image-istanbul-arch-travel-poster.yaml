@@ -1,0 +1,43 @@
+id: gpt-image-istanbul-arch-travel-poster
+title:
+  en: Istanbul skyline framed by a stone arch
+  zh: 石拱门框住的伊斯坦布尔天际线
+model: GPT Image 2.5
+mode: text-to-image
+category: poster
+tags:
+- travel-poster
+- architecture
+- mid-century
+- istanbul
+source:
+  name: '@Naiknelofar788 on X'
+  url: https://x.com/Naiknelofar788/status/2097920025617399875
+  credit: Naiknelofar788
+  captured: '2026-11-03'
+  posted: '2026-09-10'
+  via: https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts
+notes:
+  en: A foreground arch turns the view into a window, and the oversized sun behind the mosque gives the layered scene one focal point. The prompt also pins down the sign text, coordinates and tagline, so the typography lands where the poster needs it.
+  zh: 前景拱门如同一扇窗，清真寺后的大太阳让层叠的画面有了唯一焦点。提示词同时指定了招牌文字、坐标和标语，使排版位置准确。
+prompt: |
+  Create a premium modern travel poster for [CITY, COUNTRY], inspired by bold vintage screen-print and mid-century graphic design, but with an original architectural portal composition.
+
+  Place a large distinctive [LOCAL ARCHITECTURAL ELEMENT / GATE / ARCH] in the foreground, acting as a window into the destination. Through the opening, reveal a stylized layered scene featuring [ICONIC LANDMARK], [FAMOUS NATURAL FEATURE], simplified rooftops, local streets, trees, transportation, and a few subtle cultural details.
+
+  Add one large bold geometric sun / moon / circle behind the main landmark, using a shape and placement that feels visually striking rather than traditional. Include 2–3 recognizable local symbols naturally within the scene instead of presenting them as separate objects.
+
+  Use a limited sophisticated color palette inspired by the destination: [2–5 COLORS]. Flat geometric shapes, strong silhouettes, clean edges, subtle overlapping layers, slight screen-print texture, and elegant negative space.
+
+  Add a tall integrated sign or architectural panel featuring:
+
+  [CITY]
+  [LOCAL SCRIPT]
+
+  Include small refined editorial typography at the bottom:
+
+  [COUNTRY]
+  [CITY] • [COORDINATES]
+  [SHORT DESTINATION PHRASE]
+
+  Minimal, artistic, cohesive, collectible travel-poster aesthetic, not photorealistic, not a collage, no excessive details, sophisticated composition, strong visual hierarchy, balanced asymmetry, warm paper background, subtle print imperfections, 4:5 vertical format.

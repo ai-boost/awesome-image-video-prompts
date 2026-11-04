@@ -1,0 +1,34 @@
+id: seedance-korean-washroom-zombie-chase
+title:
+  en: Woman in Camisole Stands in Tiled Washroom
+  zh: 白色吊带女子站在瓷砖公厕里
+model: Seedance 2.5
+mode: reference-to-video
+category: cinematic
+tags:
+- zombie-horror
+- korean
+- reference-image
+- handheld
+- washroom
+source:
+  name: '@AIwithSynthia on X'
+  url: https://x.com/AIwithSynthia/status/2103091393145282775
+  credit: AIwithSynthia
+  captured: '2026-11-03'
+  posted: '2026-09-24'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithSynthia/status/2103091393145282775
+notes:
+  en: One reference image locks the zombie's face, hair and outfit across the shots, and the prompt sequences the story beats in order with explicit lighting and handheld camera direction. Asking for practical effects and natural reactions keeps the horror grounded instead of looking like CGI.
+  zh: 一张参考图锁定丧尸的脸、发型和服装，提示词按顺序写明剧情节点，并指定冷色日光灯与手持镜头。要求实拍特效和自然反应，让恐怖感更接近真实拍摄，而不是 CGI 效果。
+prompt: |
+  Create an ultra-realistic Korean zombie-horror sequence inside a dim public washroom. Use << < image >>> as the exact reference for the zombie woman and keep her face, hair, body proportions and outfit consistent.
+
+  A young woman enters the washroom and washes her hands, unaware that the zombie woman is watching her through the mirror. The zombie slowly reveals pale skin, dark veins, twitching fingers and completely black eyes before suddenly attacking her. She grabs the victim, pins her against the tiled wall, and chases her when she escapes toward the exit.
+
+  The victim struggles to escape, but the zombie catches her again. Dark veins spread across the victim's neck and face as she convulses and collapses. Her eyes turn milky white and then black as she rises, now infected. The two infected women turn toward another person entering the washroom and suddenly charge at them.
+
+  End with the washroom lights flickering as the infected women stand motionless beneath the fluorescent lights, staring directly into the camera.
+
+  Style: photorealistic Korean zombie horror, claustrophobic tiled washroom, wet surfaces, cold fluorescent lighting, realistic skin, dark veins, terrifying eyes, unnatural but believable movements, handheld camera, practical-effects feel, natural reactions, no gore, no graphic injuries, no CGI look, no morphing, no duplicate characters, no distorted anatomy, no subtitles, no text, no watermark.

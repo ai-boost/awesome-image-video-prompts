@@ -1,0 +1,27 @@
+id: seedance-wasteland-hourglass-hair-morph
+title:
+  en: Woman standing among giant wasteland hourglasses
+  zh: 荒原巨型沙漏间伫立的女子
+model: Seedance 2.5
+mode: text-to-video
+category: scifi-fantasy
+tags:
+- wasteland
+- hourglass
+- character-morph
+- photorealistic
+source:
+  name: '@itsSaira_1 on X'
+  url: https://x.com/itsSaira_1/status/2106989829108207864
+  credit: itsSaira_1
+  captured: '2026-11-03'
+  posted: '2026-10-05'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/itsSaira_1/status/2106989829108207864
+notes:
+  en: Locking the wardrobe in exhaustive detail while the hair change is described as the only morph keeps the character consistent through the transformation. Flat overcast light, a desaturated palette and slow deliberate camera moves set the mood.
+  zh: 提示词详细锁定服装，并只把发型变化描述为唯一的形象变化，使人物在变换过程中保持一致。阴天平光、低饱和色调和缓慢的镜头运动奠定了氛围。
+prompt: |
+  Cinematic wide shot of a cracked, dry wasteland under a flat grey overcast sky. Monumental weathered stone hourglasses, some as tall as buildings, stand across the plain; sand pours steadily inside their glass bulbs. A young woman in a muted blue-grey high-collar tunic with white embroidery, a two-tone grey and cream skirt, tall boots, and wide silver cuff bracelets walks toward the nearest hourglass. She stops, looks up at the falling sand, then checks a thick silver wrist device with growing alarm. Her appearance morphs mid-shot: long brown hair with bangs becomes windblown blonde, then a darker brown, while the outfit stays the same. Close-ups show wide eyes and hands pressed to her temples as small dark particles drift in the air. She turns away, then looks back over her shoulder with a faint, knowing smile. Desaturated earth tones, soft diffused light, shallow depth of field on close-ups, photorealistic, filmic, slow deliberate camera moves.
+
+  #AIArt #AIContent #CinematicAI

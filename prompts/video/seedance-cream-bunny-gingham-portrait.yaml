@@ -1,0 +1,45 @@
+id: seedance-cream-bunny-gingham-portrait
+title:
+  en: Cute cream bunny in gingham headband
+  zh: 奶油色小兔子戴粉色格纹头巾
+model: Seedance 2.5
+mode: text-to-video
+category: animal
+tags:
+- 3d-animation
+- cute-animal
+- portrait
+- pixar-style
+source:
+  name: '@Zarnab_with_Ai on X'
+  url: https://x.com/Zarnab_with_Ai/status/2099809558894112907
+  credit: Zarnab_with_Ai
+  captured: '2026-11-03'
+  posted: '2026-09-15'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Zarnab_with_Ai/status/2099809558894112907
+notes:
+  en: The prompt describes the character's appearance in detail before the motion, then lists expressions in sequence, which keeps the character consistent. A fixed close-up camera and a closing list of things to avoid keep the framing steady and the face undistorted.
+  zh: 提示词先详细描述角色外观，再按顺序列出表情动作，从而保持角色一致。固定的近景镜头和结尾的避免项列表让画面稳定，面部不变形。
+prompt: |
+  Create a cute, heartwarming, ultra-realistic 3D animated video of an adorable fluffy cream-colored baby bunny with huge glossy brown eyes, long soft ears, rosy cheeks, tiny pink nose, and delicate eyelashes.
+
+  The bunny wears a soft pink gingham headband with long bunny ears and a matching pink-and-white checkered scarf tied into a cute bow around its neck.
+
+  The scene is bright, cheerful, and whimsical, set outdoors beneath a vivid blue sky filled with soft fluffy white clouds. Use a close-up portrait composition with the bunny centered in the frame, looking directly into the camera.
+
+  The bunny makes natural, playful facial expressions throughout the video: gently tilting its head from side to side, blinking, winking, opening its mouth in a cute surprised expression, smiling brightly, and giggling happily with its eyes partially closed. Toward the end, the bunny raises its tiny paws near its chest and gives an irresistibly adorable happy expression.
+
+  Use subtle, smooth character animation with realistic fur movement, expressive eyes, soft facial motion, and natural ear movement. Keep the character consistent throughout the entire video.
+
+  Style: high-end cinematic 3D animation, ultra-detailed soft fur, adorable Disney/Pixar-inspired charm, realistic lighting, soft depth of field, vibrant colors, polished textures, cute fantasy atmosphere.
+
+  Camera: static close-up portrait shot, slight natural camera movement, centered composition, vertical 9:16 format.
+
+  Lighting: bright natural daylight, soft warm highlights, gentle shadows, clean and vibrant outdoor illumination.
+
+  Mood: joyful, innocent, playful, wholesome, cute, and heartwarming.
+
+  Duration: approximately 10 seconds.
+
+  Avoid text, subtitles, logos, watermarks, distorted facial features, extra limbs, unnatural movements, flickering, or changes in character appearance.

@@ -1,0 +1,46 @@
+id: gpt-image-european-photo-diary-collage-2
+title:
+  en: Nine photo grid of a woman in European streets
+  zh: 欧洲街头女子九宫格写真
+model: GPT Image 2.5
+mode: text-to-image
+category: collage
+tags:
+- collage
+- golden hour
+- photo-diary
+- portrait
+source:
+  name: '@john_my07 on X'
+  url: https://x.com/john_my07/status/2117106098943803566
+  credit: Johnn
+  likes: 88
+  captured: '2026-11-03'
+  posted: '2026-11-02'
+notes:
+  en: Locking the face, outfit and accessories in one shared block, then listing nine numbered poses that each set their own angle, lets one character repeat across a grid. The camera model and lighting words give the set a consistent film look, and the explicit no gutters rule keeps the panels aligned.
+  zh: 将人物面部、服装和配饰写成统一设定，再逐条列出九个各自带有不同角度的姿势，使同一人物在整张网格中保持一致。相机型号和光线描述统一了胶片质感，明确要求无间距无边框则让各格拼接整齐。
+prompt: |
+  Create an ultra-realistic 9-photo lifestyle collage arranged in a seamless 3×3 grid, featuring the same naturally beautiful young European woman in her early 20s. She has warm olive skin, delicate freckles, hazel-brown eyes, long chestnut-brown wavy hair styled in a loose messy bun with face-framing strands, and naturally delicate facial features. Maintain identical facial identity across all nine photographs.
+
+  Outfit: The same outfit in every frame: an oversized ivory cable-knit sweater, relaxed-fit blue jeans, white sneakers, small gold hoop earrings, and a brown leather crossbody shoulder bag. Casual, modest, effortlessly elegant European styling.
+
+  Concept: A nostalgic golden-hour European city photo diary, capturing spontaneous moments while exploring charming old streets, historic architecture, stone staircases, and beautiful rooftop viewpoints.
+
+  Nine Different Poses:
+
+  1. Side-profile portrait against an old stone wall, looking thoughtfully into the distance.
+  2. Walking along a historic rooftop terrace with a beautiful city skyline behind her.
+  3. Laughing naturally with her head slightly tilted back, eyes closed.
+  4. Sitting comfortably on wide stone steps, knees bent, looking away from the camera.
+  5. Intimate close-up portrait, resting her chin against her sweater sleeve with a gentle expression.
+  6. Walking along a narrow European street, looking back over her shoulder.
+  7. Standing outdoors with eyes closed, enjoying the warm evening breeze.
+  8. Sitting on a stone terrace wall overlooking the city, legs relaxed and a peaceful expression.
+  9. Close-up side portrait with her head tilted slightly upward, hair softly illuminated by sunset.
+
+  Photography Style: Authentic European Instagram photo dump, Canon PowerShot G7 X Mark III aesthetic, direct natural sunlight, warm golden-hour highlights, subtle film grain, realistic skin pores, soft shadows, natural facial expressions, candid compositions, and shallow depth of field.
+
+  Consistency: Preserve exactly the same face, freckles, eye color, skin tone, hairstyle, outfit, and accessories in all nine photographs. Each panel must have a different pose, expression, camera angle, and composition.
+
+  Output: Vertical 3:4 aspect ratio, exactly nine equally sized photographs in a clean 3-column × 3-row grid, seamless alignment, no gutters, no borders, no text, no watermark. Photorealistic, cinematic, youthful, spontaneous, and effortlessly stylish.

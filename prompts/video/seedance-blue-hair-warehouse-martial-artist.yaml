@@ -1,0 +1,25 @@
+id: seedance-blue-hair-warehouse-martial-artist
+title:
+  en: Blue hair martial artist enters dark warehouse spotlight
+  zh: 蓝发女武者在昏暗仓库登场
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- martial-arts
+- taekwondo
+- slow-motion
+- action-sequence
+source:
+  name: '@MissDelulu9 on X'
+  url: https://x.com/MissDelulu9/status/2114222496769864105
+  credit: MissDelulu9
+  captured: '2026-11-03'
+  posted: '2026-10-25'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/MissDelulu9/status/2114222496769864105
+notes:
+  en: A timed beat sheet in 5 second segments sets the pacing, and each kick impact is marked for slow motion with a return to full speed between strikes. Wardrobe and location are fixed in the opening description so the character stays consistent across the fight shots.
+  zh: 用按秒分段的时间表控制节奏，每次踢击写明慢动作，之后切回正常速度。开头就固定服装和场景，让人物在整段打斗镜头中保持一致。
+prompt: "Create a 30-sec thrilling martial arts action sequence. \n\nA adult female martial artist with long, silky dark-blue hair, mesmerizing eyes, beautiful facial features, natural glowing skin, and an athletic physique. She wears a stylish fitted black sports top, white Taekwondo pants, and a black belt, barefoot, inside a dark industrial warehouse.\n\n0–5s: She makes a stunning cinematic entrance, confidently walking forward as her long blue hair flows dramatically. She adjusts her black belt and takes a powerful fighting stance. Full-body shot, dramatic lighting.\n\n5–10s: Several male fighters enter from different sides, surround her, and suddenly charge toward her. She remains calm and fearless.\n\n10–20s: Intense Taekwondo combat begins. She blocks punches, dodges attacks, and delivers powerful high roundhouse kicks. Every kick impact features spectacular slow motion, flowing hair, realistic reactions, and dramatic dust bursts. Return to fast speed between strikes.\n\n20–27s: More\
+  \ fighters attack together. She performs breathtaking jumping spin kicks and a perfect 360-degree aerial roundhouse kick. The camera rotates around her as the opponents fall backward in dramatic slow motion.\n\n27–30s: She lands gracefully in a powerful fighting pose among the defeated opponents. Her blue hair flows as dust fills the air. Finish with a gorgeous close-up of her confident face and fierce eyes.\n"

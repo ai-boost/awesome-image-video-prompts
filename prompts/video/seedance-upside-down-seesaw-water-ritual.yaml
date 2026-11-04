@@ -1,0 +1,31 @@
+id: seedance-upside-down-seesaw-water-ritual
+title:
+  en: Woman dunked into water barrel from mint seesaw
+  zh: 薄荷绿跷跷板上倒悬入水的女子
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- performance-art
+- fashion-editorial
+- handheld-camera
+- water
+source:
+  name: '@Just_sharon7 on X'
+  url: https://x.com/Just_sharon7/status/2104544058471502330
+  credit: Just_sharon7
+  captured: '2026-11-03'
+  posted: '2026-09-28'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Just_sharon7/status/2104544058471502330
+notes:
+  en: A single continuous take with slight handheld movement and shallow depth of field keeps the frame locked on the woman and the barrel. The rhythmic seesaw tilt paces the repeated dunking, and the shift from surprise to a smile to composure gives the scene its surreal, elegant tone.
+  zh: 单镜头连续拍摄加轻微手持晃动，画面始终锁定人物与水桶。跷跷板有节奏地起落带动重复入水，表情从惊讶到微笑再到镇定的变化，让画面保持优雅而超现实的基调。
+prompt: |
+  A cinematic indoor performance-art / fashion editorial video, shot in a single continuous take inside a slightly worn historic room with cracked plaster walls, dark wood floors, a vintage wooden bed with rumpled beige linens, beige curtains over a tall window, and a soft abstract pink painting on the wall.
+
+  A large custom-built pale mint-green wooden seesaw / dunk-lever structure (thick beams, metal bolts, industrial-craft aesthetic) spans the room. On the high end, a woman hangs completely upside-down, knees hooked over the beam, wearing a short beige-and-black horizontal-striped dress. She clutches a dripping beige robe or cloth against her body. Long dark curly hair hangs toward a matching mint-green metal barrel filled with water.
+
+  An off-camera operator slowly pumps the opposite end of the lever, tilting the beam so her head and hair repeatedly dunk into the water then lift out, water streaming from her hair and the cloth. Her expression shifts between wide-eyed surprise, a slight smile, and composure as she looks toward camera. Water ripples and drips throughout.
+
+  Natural window light, muted filmic color palette, shallow depth of field, slight handheld camera movement that stays locked on the woman and the barrel. Slow, rhythmic, slightly surreal and elegant rather than slapstick. No text, no logos.

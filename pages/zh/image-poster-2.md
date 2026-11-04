@@ -1,6 +1,29 @@
 # 海报与编辑排版
 
-[返回目录](../../README_zh.md) · 全部 200 条 · [1](image-poster.md) · **2**
+[返回目录](../../README_zh.md) · 全部 202 条 · [1](image-poster.md) · **2**
+
+<a id="gpt-image-neon-designer-poster-puppy-chibi"></a>
+### 霓虹设计师海报，含小狗与Q版手办
+
+<a href="https://x.com/HaniaAi12/status/2063413890755817700"><img src="../../previews/gpt-image-neon-designer-poster-puppy-chibi.jpg" width="360"></a>
+
+低角度镜头让前景球鞋显得巨大，同时用展示底座上的Q版手办形成第二个视觉焦点。明确写出光泽反光、体积光晕等光影词与9:16竖版构图，让整体保持高端玩具摄影质感。
+
+GPT Image 2 · 文生图 · 出处: [@HaniaAi12 on X](https://x.com/HaniaAi12/status/2063413890755817700) · 60 赞，统计于 2026-10-29
+
+[`poster`](tags.md#tag-poster) [`neon-blue`](tags.md#tag-neon-blue) [`chibi`](tags.md#tag-chibi) [`3d-render`](tags.md#tag-3d-render)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create an ultra-detailed 3D stylized creative designer poster featuring a cool young digital artist standing confidently in the center of a futuristic blue neon studio. The character wears oversized black streetwear with electric-blue graphic accents, black cargo pants, layered silver chains, black sunglasses, and clean white sneakers. A cute fluffy puppy sits on the artist's shoulder. The camera angle is dramatic low-angle perspective, making the sneakers appear larger for a premium poster effect.
+
+Surround the character with floating creative elements including a glowing laptop, professional camera, design books, notebooks, 3D icons, social media symbols, holographic UI panels, graphic design tools, and futuristic blue geometric shapes. Add motivational typography such as "DESIGN MODE", "CREATE • BUILD • INSPIRE", and "CREATIVE NEVER SLEEPS" integrated into the scene.
+
+Include a collectible chibi mini-figure version of the character standing beside the main subject on a display base. Use cinematic blue lighting, glossy reflections, volumetric glow, depth of field, floating particles, luxury toy-photography aesthetics, high-end 3D rendering, Octane Render quality, ultra-sharp details, vibrant neon blue color palette, futuristic creator workspace atmosphere, premium commercial poster design, trending ArtStation style, masterpiece quality, 8K resolution, vertical 9:16 composition.
+```
+
+</details>
 
 <a id="gpt-image-opera-house-riso-zine-split-poster"></a>
 ### 悉尼歌剧院实景照片与孔版印刷杂志重构双联海报
@@ -2289,6 +2312,44 @@ GPT Image 2 · 上传图改图 · 出处: [@Johnson998877 on X](https://x.com/Jo
 
 ```text
 这是india 料理中的一份真实menu。根据此 重新生成带文本说明的 引人入胜垂涎欲滴的 说明图片 先用English 文本易于识别（手机小屏幕） 这个是beef roast
+```
+
+</details>
+
+<a id="gpt-image-istanbul-arch-travel-poster"></a>
+### 石拱门框住的伊斯坦布尔天际线
+
+<a href="https://x.com/Naiknelofar788/status/2097920025617399875"><img src="../../previews/gpt-image-istanbul-arch-travel-poster.jpg" width="360"></a>
+
+前景拱门如同一扇窗，清真寺后的大太阳让层叠的画面有了唯一焦点。提示词同时指定了招牌文字、坐标和标语，使排版位置准确。
+
+GPT Image 2.5 · 文生图 · 出处: [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2097920025617399875) · 发现于 [wangrunlin/awesome-gpt-image-2-5-prompts](https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts)
+
+[`travel-poster`](tags.md#tag-travel-poster) [`architecture`](tags.md#tag-architecture) [`mid-century`](tags.md#tag-mid-century) [`istanbul`](tags.md#tag-istanbul)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a premium modern travel poster for [CITY, COUNTRY], inspired by bold vintage screen-print and mid-century graphic design, but with an original architectural portal composition.
+
+Place a large distinctive [LOCAL ARCHITECTURAL ELEMENT / GATE / ARCH] in the foreground, acting as a window into the destination. Through the opening, reveal a stylized layered scene featuring [ICONIC LANDMARK], [FAMOUS NATURAL FEATURE], simplified rooftops, local streets, trees, transportation, and a few subtle cultural details.
+
+Add one large bold geometric sun / moon / circle behind the main landmark, using a shape and placement that feels visually striking rather than traditional. Include 2–3 recognizable local symbols naturally within the scene instead of presenting them as separate objects.
+
+Use a limited sophisticated color palette inspired by the destination: [2–5 COLORS]. Flat geometric shapes, strong silhouettes, clean edges, subtle overlapping layers, slight screen-print texture, and elegant negative space.
+
+Add a tall integrated sign or architectural panel featuring:
+
+[CITY]
+[LOCAL SCRIPT]
+
+Include small refined editorial typography at the bottom:
+
+[COUNTRY]
+[CITY] • [COORDINATES]
+[SHORT DESTINATION PHRASE]
+
+Minimal, artistic, cohesive, collectible travel-poster aesthetic, not photorealistic, not a collage, no excessive details, sophisticated composition, strong visual hierarchy, balanced asymmetry, warm paper background, subtle print imperfections, 4:5 vertical format.
 ```
 
 </details>

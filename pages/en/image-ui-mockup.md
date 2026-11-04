@@ -1,6 +1,6 @@
 # Phone and UI mockups
 
-[Back to the list](../../README.md) · All 28 entries
+[Back to the list](../../README.md) · All 29 entries
 
 <a id="gpt-image-camera-roll-photos-screen"></a>
 ### iPhone Photos camera roll of a student's day
@@ -121,6 +121,25 @@ Do not introduce unrelated characters or subjects.
 Do not change the main subject’s design.
 No captions, dates, labels, stickers, watermarks, or decorative text inside the photo thumbnails.
 Only normal minimal iOS interface elements may appear.9:16
+```
+
+</details>
+
+<a id="gpt-image-makima-guangzhou-iphone-album"></a>
+### Makima Guangzhou trip in an iPhone album
+
+<a href="https://x.com/DeepBlueX0/status/2099684732950958440"><img src="../../previews/gpt-image-makima-guangzhou-iphone-album.jpg" width="360"></a>
+
+The prompt names a real device interface and an OS version, so the model builds a full Photos album screen with status bar, search bar, tab bar and a collage of location shots. Keeping the character consistent across tiles comes from the single subject description.
+
+GPT Image 2.5 · Text-to-image · Source: [@DeepBlueX0 on X](https://x.com/DeepBlueX0/status/2099684732950958440) · 676 likes on 2026-11-03
+
+[`iphone`](tags.md#tag-iphone) [`fan-art`](tags.md#tag-fan-art) [`travel`](tags.md#tag-travel) [`photo-album`](tags.md#tag-photo-album)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Makima × Guangzhou Tour iPhone Photo Album Screenshot × iOS 27
 ```
 
 </details>

@@ -1,0 +1,117 @@
+id: seedance-joseon-witch-night-bazaar-fight
+title:
+  en: Witch walks through lantern lit Joseon night bazaar
+  zh: 女巫穿过朝鲜王朝夜市的灯笼街道
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- historical-fantasy
+- martial-arts
+- joseon
+- night-market
+source:
+  name: '@soulful__ai on X'
+  url: https://x.com/soulful__ai/status/2116805070599880923
+  credit: soulful__ai
+  captured: '2026-11-03'
+  posted: '2026-11-01'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/soulful__ai/status/2116805070599880923
+notes:
+  en: The prompt splits a 30 second fight into five timed shots, each with a clear beat, camera move and physical outcome, so the choreography stays readable. Fixed identity and colour grade rules, plus limits such as the sword stopping inches away, keep the telekinesis grounded.
+  zh: 提示词把30秒的打斗拆成五个定时镜头，每段都有明确的动作节拍、运镜和物理结果，因此动作清晰可读。固定人物外观与色调的约束，加上剑停在身前几寸等物理限制，让隔空操控的特效保持写实。
+prompt: |
+  Create an ultra-realistic, cinematic Korean historical fantasy action sequence set in the Joseon Dynasty. The location is an atmospheric traditional Korean night bazaar, filled with wooden hanok storefronts, fabric-covered market stalls, hanging paper lanterns, wooden signboards, and wet stone pathways.
+
+  The main character is a mysterious young Korean witch wearing an elegant flowing black Joseon-era hanbok with subtle silver embroidery, long black hair, and delicate traditional accessories. Her appearance, facial features, hairstyle, and clothing must remain perfectly consistent throughout the entire video.
+
+  Her personality is calm, mysterious, confident, and intimidating. Her fighting style combines graceful Korean martial arts with supernatural witchcraft.
+
+  Use cinematic live-action realism, detailed fabric physics, realistic human movement, natural facial expressions, dramatic lantern lighting, atmospheric smoke, and sophisticated action cinematography. The fight must feel physically grounded, with clear choreography and believable impacts.
+
+  SHOT 1 — THE STRANGER (0–6 SECONDS)
+
+  A wide cinematic establishing shot of a busy Joseon-era night bazaar. Merchants are closing their wooden shops while customers walk between traditional market stalls. Warm paper lanterns illuminate the narrow streets.
+
+  The camera smoothly tracks backward as the mysterious witch walks toward it through the crowded market. Her long black hair and flowing sleeves move naturally with her steps. People instinctively move aside as she passes.
+
+  Suddenly, five armed men wearing dark traditional Joseon clothing step into her path. Their leader approaches her aggressively.
+
+  SHOT 2 — THE CONFRONTATION (6–11 SECONDS)
+
+  Medium cinematic shot. The leader grabs the witch's wrist and orders her to kneel. She slowly turns her head toward him, completely unafraid.
+
+  She calmly says in natural Korean-accented English:
+
+  "You should have let me pass."
+
+  The man angrily draws his traditional Korean sword and swings toward her. Without changing her facial expression, she catches his attacking wrist with one hand, stopping the sword inches from her body.
+
+  Use a dramatic close-up followed by a quick camera movement revealing the other four men drawing their weapons.
+
+  SHOT 3 — THE WITCH AWAKENS (11–20 SECONDS)
+
+  Her eyes briefly illuminate with a deep crimson glow. A subtle wave of dark supernatural energy moves through the air.
+
+  She releases the man's wrist, pivots gracefully, and sends him crashing into a wooden market stall.
+
+  Two other attackers rush toward her from opposite directions. She ducks beneath the first sword, spins, and delivers a powerful kick to the second attacker.
+
+  She extends her hand toward another attacker. A burst of invisible telekinetic force lifts him off his feet and throws him backward into stacked wooden crates.
+
+  Use dynamic tracking shots, controlled handheld camera movement, and brief slow motion only at the most impactful moments. Every attack must be clearly visible and physically believable.
+
+  SHOT 4 — THE FINISHING MOVE (20–26 SECONDS)
+
+  The two remaining men charge toward her simultaneously with their swords raised.
+
+  The witch stops walking and slowly raises one hand.
+
+  Both swords are violently pulled from their hands and suspended in the air through supernatural telekinesis.
+
+  She closes her fingers into a fist. The weapons fly away and embed themselves into nearby wooden pillars.
+
+  With one final controlled gesture, a powerful invisible shockwave throws both men backward onto the wet stone street.
+
+  Lanterns swing violently, market fabrics flutter, and dust rises through the warm light.
+
+  SHOT 5 — THE MYSTERY (26–30 SECONDS)
+
+  The market becomes silent.
+
+  The witch stands completely composed among the fallen attackers. She gently adjusts her sleeve, turns around, and continues walking down the lantern-lit street.
+
+  A terrified elderly merchant watches her disappear into the darkness and quietly whispers:
+
+  "What... are you?"
+
+  End with a cinematic rear tracking shot of the witch disappearing into the misty night bazaar.
+
+  STRICT GENERATION REQUIREMENTS
+
+  Maintain consistent witch identity, face, hairstyle, and black hanbok throughout.
+
+  Authentic Joseon Dynasty Korean architecture, clothing, weapons, and marketplace.
+
+  Realistic Korean historical drama aesthetic, not anime or video game graphics.
+
+  Fast, fluid, visually readable martial arts choreography.
+
+  Natural body mechanics, realistic collisions, and convincing physical impacts.
+
+  Magic should look sophisticated, dark, and cinematic rather than exaggerated.
+
+  No modern objects, buildings, accessories, or weapons.
+
+  No random extra characters joining the fight.
+
+  No unnecessary cuts, teleportation, or sudden character transformations.
+
+  No characters looking directly into the camera.
+
+  No subtitles, captions, logos, watermarks, or text overlays.
+
+  Maintain cinematic lighting and a consistent color grade throughout.
+
+  FINAL RESULT: A visually stunning 30-second Korean historical dark-fantasy action sequence that feels like a high-budget scene from a Joseon-era supernatural K-drama.
