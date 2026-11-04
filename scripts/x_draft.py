@@ -159,6 +159,9 @@ def main():
     cands = [c for c in cands if c["cid"] not in dup]
     with cf.ThreadPoolExecutor(4) as ex:
         for c, d in zip(cands, ex.map(ask, cands)):
+            if d.get("reason") == "no answer":  # the review never ran (e.g. claude not signed in): retry next run
+                log.append(f"kept    {c['url']}  no answer from the review, retried next run")
+                continue
             if valid(c, d):
                 eid = write_entry(c, d)
                 log.append(f"added   {eid}  ({c['model']}, {c['likes'] or c.get('via')})")
