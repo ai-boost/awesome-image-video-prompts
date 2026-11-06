@@ -1,0 +1,44 @@
+id: gpt-image-2-6-deadpan-fox-sticker
+title:
+  en: Deadpan Tibetan fox with label above head
+  zh: 头顶配字的冷漠藏狐
+model: GPT Image 2.6
+mode: text-to-image
+category: character
+tags:
+- sticker
+- fox
+- animated-gif
+- transparent-background
+source:
+  name: '@vastxie on X'
+  url: https://x.com/vastxie/status/2118265895613346263
+  credit: 弎水
+  likes: 98
+  captured: '2026-11-06'
+  posted: '2026-11-05'
+notes:
+  en: Locking the subject with a fixed identity line and a motionless face, while only the paws and label change, keeps the character consistent across the set. Floating the label with an explicit empty gap and a ban on white outlines keeps the transparent cutout clean.
+  zh: 用固定的人物描述锁定主体，只让爪子动作和配字变化，脸部保持静止，整套形象保持一致。标牌悬浮在头顶并写明留白间距，同时禁止白色描边，抠图边缘才干净。
+prompt: |
+  "Keep the exact same expressive semi-realistic natural history illustration of a square-faced Tibetan fox with its iconic wide boxy head, sandy-ochre fur, and utterly deadpan half-closed unimpressed eyes. Comedy contrast: the fox's giant square face and deadpan unblinking eyes remain 100% motionless across all frames, while [填动作，如: its two front paws slowly clap together]. Floating cleanly in the air ABOVE the head (with a wide empty transparent gap between the sign and the ears, NO sticks, NO poles), a flat rectangular white label with a crisp black border and bold black Chinese text reads '[填配字，如: 好棒棒]'. Isolated on a pure transparent background. Strictly NO white sticker border, NO white outline. Smooth 9-frame looping animation."
+
+  2️⃣ 微信 240×240 GIF89a 深色模式零白沫量化核心代码（Pillow）：
+  def save_wechat_gif(frames_rgba, out_path, duration_ms=110):
+  p_frames = []
+  for f in frames_rgba:
+  rgba = f.convert("RGBA")
+  alpha = rgba.getchannel("A")
+  # 关键：千万别往白底上预乘！只保留 alpha>=145 的前景原始 RGB 参与调色板量化
+  clean_rgb =
+  http://
+  Image.new("RGB", rgba.size, (128, 128, 128))
+  fg_mask = alpha.point(lambda a: 255 if a >= 145 else 0)
+  clean_rgb.paste(rgba.convert("RGB"), mask=fg_mask)
+  quant = clean_rgb.quantize(colors=255, method=Image.Quantize.FASTOCTREE, dither=Image.Dither.NONE)
+  # 255 号色固定留给透明通道，深色模式下边缘绝对不泛白沫
+  trans_mask = alpha.point(lambda a: 255 if a < 145 else 0)
+  quant.paste(255, mask=trans_mask)
+  p_frames.append(quant)
+  p_frames[0].save(out_path, save_all=True, append_images=p_frames[1:],
+  loop=0, duration=duration_ms, disposal=2, transparency=255, optimize=True)

@@ -58,12 +58,14 @@ def x_date(url):
 
 
 def gpt_image(posted, text):
-    """GPT Image 2 shipped 2026-04-21 and 2.5 on 2026-09-08. After that only a post naming 2.5 counts as 2.5."""
+    """GPT Image 2 shipped 2026-04-21, 2.5 on 2026-09-08 and 2.6 on 2026-11-04. After 2.5 only a post naming a version counts."""
     if not posted or posted < "2026-04-21":
         return None
     if posted < "2026-09-08":
         return "GPT Image 2"
-    return "GPT Image 2.5" if re.search(r"(image|gpt)[\s_-]*2\.5", text, re.I) else None
+    if posted >= "2026-11-04" and re.search(r"(image|gpt)s?[\s_-]*2\.6|sunburst|\bflare\b", text, re.I):
+        return "GPT Image 2.6"
+    return "GPT Image 2.5" if re.search(r"(image|gpt)s?[\s_-]*2\.5", text, re.I) else None
 
 
 FF_RAW = "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/"

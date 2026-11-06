@@ -1,6 +1,6 @@
 # 拼贴
 
-[返回目录](../../README_zh.md) · 全部 101 条
+[返回目录](../../README_zh.md) · 全部 103 条
 
 <a id="gpt-image-failed-photos-grid"></a>
 ### 任意角色的九宫格失败抓拍照
@@ -3451,6 +3451,77 @@ Balanced aesthetic across the grid (feels like a unified Christmas card set)
 Final Deliverable
 
 A 3×3 Instagram-style grid of nine separate 3:4 ratio hyperrealistic Christmas-themed portraits featuring ONLY the dog.
+```
+
+</details>
+
+<a id="gpt-image-2-6-tifa-lockhart-peeling-poster"></a>
+### 蒂法洛克哈特海報剝落覆蓋復古街牆
+
+<a href="https://x.com/DeepBlueX0/status/2118602386172465509"><img src="../../previews/gpt-image-2-6-tifa-lockhart-peeling-poster.jpg" width="360"></a>
+
+提示词先把一张千禧年杂志海报设为最上层，再描述撕裂、捲曲和褪色露出底下的旧海报，构图由纸层覆盖形成而非网格设计。纸张纤维断面、膠水殘留和厚度等實體細節，加上自然光的手機街拍質感，讓畫面不像渲染的樣機。
+
+GPT Image 2.6 · 文生图 · 出处: [@DeepBlueX0 on X](https://x.com/DeepBlueX0/status/2118602386172465509) · 11 赞，统计于 2026-11-06
+
+[`final-fantasy-vii`](tags.md#tag-final-fantasy-vii) [`tifa-lockhart`](tags.md#tag-tifa-lockhart) [`retro-poster`](tags.md#tag-retro-poster) [`street-collage`](tags.md#tag-street-collage)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+經典動漫遊戲女性角色 × 城市自然剝蝕拼貼 × 千禧年廣告海報
+
+一面真實城市街頭的舊牆壁，
+表面覆蓋著多個年代的動漫、遊戲和商業廣告海報。
+
+最上層是一張具有千禧年日本動漫遊戲雜誌風格的
+成年女性角色宣傳海報。
+
+海報經過自然風化，
+出現真實的撕裂、捲曲、褪色和局部剝落。
+
+破損區域露出下方不同年代的舊海報，
+包括殘缺的角色肖像、日文字體、
+復古廣告圖案和大面積印刷色塊。
+
+所有紙張具有真實厚度，
+破損邊緣露出纖維斷面，
+局部可見膠水殘留和細小陰影。
+
+圖像之間的關係由真實紙層覆蓋決定，
+形成意外而有趣的抽象構圖。
+
+畫面具有自然形成的街頭視覺檔案感，
+避免刻意設計的規則拼貼。
+
+真實iPhone街頭攝影質感，
+自然光，細膩紙張紋理，低AI感。
+
+n=6，9:16竪版。
+
+左下簽名：深藍色實心圓點在前，
+白色手寫體 DeepBlue 在後。
+```
+
+</details>
+
+<a id="gpt-image-2-6-nine-expression-meme-grid"></a>
+### 同一人物九宫格夸张表情包配中文字幕
+
+<a href="https://x.com/SUOHA_AI/status/2118564255867777123"><img src="../../previews/gpt-image-2-6-nine-expression-meme-grid.jpg" width="360"></a>
+
+用固定的3行3列布局加上九个具名表情，让同一张照片产生足够的变化。要求保留真实照片质感，同时把表情夸张到漫画感，并为每格配一句中文短句，形成梗图效果。
+
+GPT Image 2.6 · 上传图改图 · 出处: [@SUOHA_AI on X](https://x.com/SUOHA_AI/status/2118564255867777123) · 7 赞，统计于 2026-11-06
+
+[`meme`](tags.md#tag-meme) [`sticker-set`](tags.md#tag-sticker-set) [`expressions`](tags.md#tag-expressions) [`grid-layout`](tags.md#tag-grid-layout)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+基于这张上传的照片，把这个人做成一套经典表情包：一张图分成3行3列，共9个格子，每个格子是同一个人做不同的夸张表情，表情搞怪夸张，像网上流传的经典表情包那种感觉（类似熊猫头、蘑菇头）。人物保留真实照片质感，但表情极度夸张、有喜感。9个格子的表情分别是：翻白眼、捂脸无语、挑眉坏笑、憋笑、炸毛抓狂、委屈撇嘴、偷看八卦脸、崩溃抱头、面无表情假笑。每个格子配一句与表情搭配的中文短句……
+
+需要转换为gif的话直接跟gpt说即可，我相信你们会的
 ```
 
 </details>

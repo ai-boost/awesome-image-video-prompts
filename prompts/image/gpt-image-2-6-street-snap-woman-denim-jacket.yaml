@@ -1,0 +1,30 @@
+id: gpt-image-2-6-street-snap-woman-denim-jacket
+title:
+  en: Woman in cap and headphones on sunlit street
+  zh: 戴棒球帽和耳机的女子站在阳光街道上
+model: GPT Image 2.6
+mode: text-to-image
+category: portrait
+tags:
+- street-style
+- film-photography
+- fashion
+- portrait
+source:
+  name: '@johnAGI168 on X'
+  url: https://x.com/johnAGI168/status/2118581030781382805
+  credit: John
+  likes: 13
+  captured: '2026-11-06'
+  posted: '2026-11-06'
+notes:
+  en: A 35mm prime at f/2.2 with highlight halation and film grain sets the candid street-snap look. The explicit skin-pore and anti-CGI clauses keep the skin and heavy denim weave natural instead of waxy.
+  zh: 35mm定焦镜头、f/2.2光圈、高光光晕和胶片颗粒共同营造抓拍街拍质感。明确要求真实毛孔并排除CGI和塑料感，使皮肤与厚重牛仔布纹理更自然。
+prompt: |
+  A cinematic 35mm street-snap photograph captured at eye level — a three-quarter medium portrait of a cool, stylish young East Asian woman on a sunlit urban sidewalk, turning in profile toward camera-left.
+
+  She possesses top-tier model beauty with sharp facial features, defined cheekbones, amber-tinted eyes, and dark hair falling from beneath a clean white baseball cap as her right hand lifts the brim. She wears retro green metallic over-ear wired headphones, a silver dog-tag necklace, and a fitted white cropped tank top displaying athletic toned abs. An oversized light-wash blue denim trucker jacket drapes loosely off her shoulders, paired with low-rise baggy jeans and a black belt, her left hand casually tucked into her pocket.
+
+  The setting is a vibrant metropolitan avenue in bright daylight. Natural afternoon sun creates soft rim lighting along her hair strands and denim fabric, with the bustling street and modern architecture softly blurred into natural depth of field behind her.
+
+  Shot on a 35mm prime lens at f/2.2 with gentle highlight halation and fine organic film grain in an M1 street narrative register. Real human skin with visible fine pores, subtle natural warmth, and authentic heavy cotton denim weave — strictly no CGI, no 3D render, no plastic skin, no artificial smoothing, no waxy AI look.

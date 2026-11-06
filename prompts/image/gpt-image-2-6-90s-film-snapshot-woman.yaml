@@ -1,0 +1,24 @@
+id: gpt-image-2-6-90s-film-snapshot-woman
+title:
+  en: Woman in light blue sweatshirt before polaroid wall
+  zh: 浅蓝色卫衣女孩站在拍立得照片墙前
+model: GPT Image 2.6
+mode: text-to-image
+category: portrait
+tags:
+- portrait
+- vintage film
+- polaroid
+- 90s
+source:
+  name: '@AIwithSarah_ on X'
+  url: https://x.com/AIwithSarah_/status/2118202866448077182
+  credit: Sarah
+  likes: 38
+  captured: '2026-11-06'
+  posted: '2026-11-05'
+notes:
+  en: Frames the request as a 90s film snapshot and lists on-camera flash, grain, motion blur and a cluttered polaroid wall, which together give the candid bedroom look.
+  zh: 将提示词定为九十年代胶片快照，并列出闪光灯、颗粒感、轻微动态模糊和布满拍立得照片的墙面，共同营造随性的卧室写真质感。
+prompt: |
+  A young woman with the same unchanged face and soft natural complexion, captured in a spontaneous 90s film snapshot. Her loose black hair falls over the shoulders of a baby-blue cropped zip-up sweatshirt worn over a white ribbed tank top. She looks directly into the camera with a relaxed expression and a faint smile. The dim beige wall behind her is covered with colorful polaroids, tiny stickers, music flyers, and handwritten messages. Bright on-camera flash, slightly cool color temperature, natural skin texture, subtle motion blur, authentic disposable-camera grain, imperfect vintage composition, nostalgic bedroom photography.

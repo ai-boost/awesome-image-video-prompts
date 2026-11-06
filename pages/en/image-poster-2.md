@@ -1,6 +1,6 @@
 # Posters and editorial layouts
 
-[Back to the list](../../README.md) · All 202 entries · [1](image-poster.md) · **2**
+[Back to the list](../../README.md) · All 204 entries · [1](image-poster.md) · **2**
 
 <a id="nano-banana-maggi-2-minute-magic-billboard"></a>
 ### Maggi 2 Minute Magic noodle billboard at sunrise
@@ -131,6 +131,33 @@ No unnecessary props. No cluttered street scene. No random floating spice partic
 FINAL OUTPUT:
 A striking 4:5 portrait Maggi billboard key visual with authentic brand presence, extraordinary food texture, dramatic sunrise lighting, monumental editorial typography, premium FMCG art direction, and a subtle Murphy AI signature.
 The image should feel ready for a major outdoor advertising campaign: visually immediate, commercially polished, appetizing at first glance, and memorable from a distance.
+```
+
+</details>
+
+<a id="gpt-image-2-6-snowman-baroque-frame"></a>
+### Glowing snowman in gilded frame
+
+<a href="https://x.com/Goodmanprotocol/status/2118193088128745875"><img src="../../previews/gpt-image-2-6-snowman-baroque-frame.jpg" width="360"></a>
+
+The source image is the only reference, and the prompt limits the 3D breakout to one to three elements already in the picture, so the painting stays faithful. Fixed proportions for the 75 percent artwork and 25 percent caption band keep the poster layout predictable.
+
+GPT Image 2.6 · Edit · Source: [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2118193088128745875) · 61 likes on 2026-11-06
+
+[`baroque`](tags.md#tag-baroque) [`gallery-poster`](tags.md#tag-gallery-poster) [`snowman`](tags.md#tag-snowman) [`winter`](tags.md#tag-winter)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+PREMIUM BAROQUE FRAMED ARTWORK - PHOTOREALISTIC GALLERY POSTER
+
+Use the uploaded image as the sole visual reference. Create a seamless 3:4 vertical fine-art poster.
+
+TOP SECTION (75%): Display the original scene as a beautiful painting inside an ornate antique gold Baroque frame, mounted on a subtly textured plaster wall. Preserve the original scene and its defining details. Select 1–3 prominent elements already present in the image and extend them beyond the frame in realistic 3D, with natural depth, perspective and cast shadows. Do not introduce any new objects, flowers, plants or decorative elements that are not present in the source image. Choose a muted wall color derived from the original image's palette. Match the lighting, atmosphere and time of day of the original scene. Photorealistic rendering with a sophisticated fine-art gallery aesthetic.
+
+BOTTOM SECTION (25%): Continue the same plaster wall and lighting seamlessly. Place a small, clean thumbnail of the original unedited image slightly left of center, without a white border and with a subtle natural shadow. Beside it, add a refined 2–3-word ALL-CAPS serif title and a single-line italic subtitle inspired by the original scene. Keep the typography minimal, elegant and clearly contrasted against the wall.
+
+COMPOSITION & QUALITY: The entire poster must appear as one continuous image. No divider lines, white bands, gaps, separate panels or outer borders. Ensure seamless transitions, balanced spacing, realistic materials, sophisticated typography and premium editorial art direction. Preserve the original subject's identity and visual character without altering the source scene.
 ```
 
 </details>
@@ -1358,6 +1385,29 @@ NO grid.
 NO panels.
 NO generic stock icons.
 NO style-description text inside artwork.
+```
+
+</details>
+
+<a id="gpt-image-2-6-reading-club-poster"></a>
+### Chinese weekend book club poster with open book
+
+<a href="https://x.com/longhaiqwe123/status/2118366200459915715"><img src="../../previews/gpt-image-2-6-reading-club-poster.jpg" width="360"></a>
+
+Fill-in slots set the event, audience and style, and the title is quoted on its own so the model renders those words exactly. A fixed placement slot tells the model where the title sits.
+
+GPT Image 2.6 · Text-to-image · Source: [@longhaiqwe123 on X](https://x.com/longhaiqwe123/status/2118366200459915715) · 15 likes on 2026-11-06
+
+[`poster`](tags.md#tag-poster) [`typography`](tags.md#tag-typography) [`chinese-text`](tags.md#tag-chinese-text)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+制作一张关于［活动或产品］的海报，面向［目标人群］。画面采用［视觉风格］，主体位于［位置］。
+
+标题使用“［标题原文］”，放在［位置］，清晰易读。只出现一次，不要添加其他文字或水印。
+
+技巧：需要准确出现的文字，用引号单独标出；生成后记得检查拼写和小字。
 ```
 
 </details>

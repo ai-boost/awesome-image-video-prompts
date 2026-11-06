@@ -1,0 +1,34 @@
+id: gpt-image-2-6-woman-leaning-forward-car-night
+title:
+  en: Woman leaning forward in a car at night
+  zh: 夜晚轿车内女子前倾低头看
+model: GPT Image 2.6
+mode: text-to-image
+category: realism
+tags:
+- night
+- car-interior
+- cinematic
+- photorealistic
+source:
+  name: '@xyue13 on X'
+  url: https://x.com/xyue13/status/2118307702657159331
+  credit: SI-Studio
+  likes: 91
+  captured: '2026-11-06'
+  posted: '2026-11-05'
+notes:
+  en: Shooting through the windshield from the front seat frames the subject against the car interior and a second figure in the back, so depth carries the scene. Naming the warm dome light, leather texture, shallow depth of field and cinematic night mood keeps the output photographic rather than stylized.
+  zh: 从前排透过挡风玻璃拍摄，人物与车内后座的另一人形成前后层次，画面有纵深感。提示词明确了暖色车顶灯、皮革质感、浅景深和电影感夜间氛围，使画面保持照片式的写实效果而非风格化。
+prompt: |
+  探秘ChatGPT极限尺度系列
+
+  测试ChatGPT Images 2.6 出图效果和尺度。
+
+  提示词：写实中景照片，通过豪华轿车挡风玻璃拍摄的夜晚场景。东亚女性，长波浪深棕色头发，穿米色罗纹长袖上衣，从后座区域身体前倾，低头看，表情柔和。后座可见一位年轻男性的部分身影。
+
+  光线：温暖的车内顶灯与环境光，在面部、头发与皮肤上形成轻柔高光，车身有反光，黑暗背景中可见城市灯光光斑。
+
+  环境：现代轿车内部，米色皮革座椅，可见头枕与后视镜，窗外是夜间都市环境。浅景深，人物清晰。
+
+  风格：照片级写实，布料纹理与皮肤高度细腻，肢体语言自然，电影感夜间氛围，8k。

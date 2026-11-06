@@ -1,6 +1,167 @@
 # 人像
 
-[返回目录](../../README_zh.md) · 全部 265 条 · [1](image-portrait.md) · [2](image-portrait-2.md) · **3**
+[返回目录](../../README_zh.md) · 全部 273 条 · [1](image-portrait.md) · [2](image-portrait-2.md) · **3**
+
+<a id="gpt-image-shanghai-metro-platform-reading-portrait"></a>
+### 上海地铁站台读书的年轻女子
+
+<a href="https://x.com/ToroJushiAi/status/2059452471127240959"><img src="../../previews/gpt-image-shanghai-metro-platform-reading-portrait.jpg" width="360"></a>
+
+提示词先定下半身平视构图和虚化的进站列车，再加入皮肤质感、偏绿荧光灯色温与 ISO 400 颗粒。散落发丝和不对称等小瑕疵让画面更像抓拍照片而非渲染图。
+
+GPT Image 2 · 文生图 · 出处: [@ToroJushiAi on X](https://x.com/ToroJushiAi/status/2059452471127240959) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`candid`](tags.md#tag-candid) [`metro`](tags.md#tag-metro) [`street-photography`](tags.md#tag-street-photography) [`film-grain`](tags.md#tag-film-grain) [`motion-blur`](tags.md#tag-motion-blur)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A candid photograph of a young woman standing on a Shanghai metro platform during the summer morning commute, authentic daily life photography, natural candid moment. Half-body framing, shot at eye level from moderate distance — the arriving train a motion-blurred streak behind her, the yellow safety line at her feet.
+East Asian young woman in her early 20s. Almond-shaped eyes with natural double eyelids, slightly elongated eye corners — eyes directed downward, absorbed. Straight refined nose with a delicate bridge. Skin tone fair to light beige (NC10–NC20) — skin subsurface scattering visible under cool overhead station light, specular micro-highlights on cheekbones and nose ridge, fine foundation powder grain perceptible. Summer fresh look, no heavy coverage, lightly tinted lip.
+She wears a relaxed oversized white shirt dress, collar lightly open, sleeves loosely rolled above the elbow. A structured natural tan canvas tote hangs from her shoulder, a physical novel tucked under one arm — pages open at a saved page. She stands with her weight on one hip, gaze downward at the open book, entirely absorbed, occupying her own stillness inside the morning rush. Background: white and grey tiled metro wall, overhead route signage board, arriving train motion blur to one side, other commuters blurred and distant. Two or three stray hairs displaced by the train's air displacement on arrival, natural unplanned imperfection, not geometrically symmetrical.
+Cool overhead fluorescent lighting with a slight greenish cast, flat frontal illumination offset by a warm spill from the platform entrance behind. Absorbed in focus, eyes downward, unaware — a private moment inside a public space, the Shanghai morning. Subtle ISO 400 film grain in shadow areas, photographic noise texture not CG render smoothness. Aspect ratio 2:3. No watermark, no text overlay, not cartoon, not digitally painted, not illustration, not anime.
+```
+
+</details>
+
+<a id="gpt-image-soft-ccd-fitting-room-portrait"></a>
+### 低角度试衣间肖像手托下巴
+
+<a href="https://x.com/BubbleBrain/status/2098315158997307550"><img src="../../previews/gpt-image-soft-ccd-fitting-room-portrait.jpg" width="360"></a>
+
+相机低位贴近主体，配合 CCD 颗粒、高光光晕和雾感还原 90 年代杂志质感。手部位置和克制的动作描述让思考姿势在画面中保持稳定。
+
+GPT Image 2.5 · 文生图 · 出处: [@BubbleBrain on X](https://x.com/BubbleBrain/status/2098315158997307550) · 发现于 [wangrunlin/awesome-gpt-image-2-5-prompts](https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts)
+
+[`portrait`](tags.md#tag-portrait) [`film-grain`](tags.md#tag-film-grain) [`low-angle`](tags.md#tag-low-angle) [`fashion`](tags.md#tag-fashion)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+9:16 vertical, ultra-realistic portrait photography, 90s Japanese magazine fitting-room photoshoot style, soft-light CCD texture, obvious highlight bloom and slight haze.
+A clearly adult Korean female idol, about 23–27 years old, fair natural skin, slender well-proportioned figure, shoulder-length black straight hair slightly messy and fluffy, long bangs falling naturally and partially covering one eye. Delicate features, haughty and languid expression, slightly looking down at the camera. Soft pink natural makeup, gentle pink lips. Keep real skin texture, fine pores, and natural facial asymmetry.
+She wears a black thin cropped short-sleeve T-shirt in soft fitted cotton, hem stopping at the upper abdomen and exposing the waist, midriff, and natural navel. Bottom: black minimalist low-rise bikini-style bottoms, waistline sitting naturally near the hip bones, simple design.
+She stands in a small 90s Japanese magazine-style fitting room with light beige-gray walls, a narrow full-length mirror, simple hooks, and soft overhead lighting. Natural standing pose: one leg supporting, the other slightly bent forward, hip shifted naturally to one side. Thinking pose 🤔: one hand raised, index finger lightly resting on the chin, thumb near the jawline, gesture natural and restrained; the other hand hanging naturally at her side. Head slightly tilted, eyes looking down at the camera with a careless, thoughtful look.
+Low-angle upward shot, camera close to the subject, slight wide-angle without exaggerated distortion, emphasizing vertical leg extension and slender proportions. Composition includes the head, upper body, full waist and midriff, hips, and most of the legs. Subject occupies the main part of the frame.
+Soft hazy lighting. Soft scattered light from the front and above. Slight overexposure on the cheeks, nose bridge, collarbones, shoulders, waist, midriff, and legs, blooming softly outward into clear highlight overflow, halation, bloom, and soft fog. Highlights are creamy white glow; shadows are soft and pale with no hard edges.
+Overall low contrast, low saturation, creamy gray and pale warm skin tones, slightly lifted blacks, fine CCD noise and film grain, slightly soft edges, soft-focus filter, and atmospheric haze. Like a casually captured page from a 90s Asian photo magazine.
+Photorealistic, real-camera photography, real skin, hair strands, and fabric texture. Soft CCD, highlight bloom, hazy and dreamy but not over-retouched.
+Avoid: plastic skin, excessive beautification, over-sharpening, HDR, hard light, strong shadows, anime look, CGI, fisheye, exaggerated wide-angle, limb deformities, extra or wrong fingers, cluttered background, cheap influencer filters.
+```
+
+</details>
+
+<a id="gpt-image-split-time-birthday-portrait"></a>
+### 儿时与成年同框的生日分屏肖像
+
+<a href="https://x.com/ChillaiKalan__/status/2050834691570184611"><img src="../../previews/gpt-image-split-time-birthday-portrait.jpg" width="360"></a>
+
+提示词要求左右两半机位和姿势完全一致，并把点燃的蛋糕放在中线，用烛光把两个时空连在一起。黑白颗粒与彩色浅景深形成过去与现在的对比，两侧年份文字用引号直接指定。
+
+GPT Image 2 · 文生图 · 出处: [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2050834691570184611) · 发现于 [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`split-screen`](tags.md#tag-split-screen) [`birthday`](tags.md#tag-birthday) [`before-after`](tags.md#tag-before-after) [`nostalgia`](tags.md#tag-nostalgia) [`portrait`](tags.md#tag-portrait)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A highly realistic split-time portrait of the same person meeting her younger self. The image is divided vertically into two perfectly aligned halves with identical camera angle and composition. On the left side: a black-and-white photo of a young girl (3–4 years old), same facial features as the adult, natural smile, sitting at a table, soft diffused lighting, minimal gray background, nostalgic mood, slightly grainy film texture. On the right side: a realistic color photo of the same person as an adult [AGE], identical pose and camera angle, resting her face on her hands, smiling warmly, modern outfit, soft cinematic lighting, shallow depth of field. In the center between them: a birthday cake placed exactly at the middle line, with lit candles forming the number "[AGE]", warm candle glow illuminating both sides. Both versions are looking at each other with emotional connection, perfectly aligned eye level. Text "(2000)" above the child side and "(2026)" above the adult side, minimal elegant font. Ultra realistic, 8K, high detail skin texture, soft shadows, cinematic color grading, clean composition, emotional storytelling.
+```
+
+</details>
+
+<a id="gpt-image-summer-flower-field-portrait-motion-blur"></a>
+### 夏日花田仰卧人像与前景动态模糊
+
+<a href="https://x.com/lovimg_com/status/2077036746198618336"><img src="../../previews/gpt-image-summer-flower-field-portrait-motion-blur.jpg" width="360"></a>
+
+提示词按主体、表情、服装、光线、相机、质感分段标注。只让前景花朵产生对角线动态模糊并保持人脸清晰，结尾的负面清单用来防止塑料皮肤和肢体错误。
+
+GPT Image 2 · 文生图 · 出处: [@lovimg_com on X](https://x.com/lovimg_com/status/2077036746198618336) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`portrait`](tags.md#tag-portrait) [`flower-field`](tags.md#tag-flower-field) [`summer`](tags.md#tag-summer) [`motion-blur`](tags.md#tag-motion-blur) [`film-grain`](tags.md#tag-film-grain)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+主題：
+花風のまどろみ
+
+主体：
+縦長4:5の写真風ポートレート。白と黄色のマーガレット、オレンジ色の小花が密に咲く夏の草花畑に、成熟した大人の女性が仰向けで静かに横たわっている。人物は画面下部から中央にかけて大きく入り、顔は中央やや右、胸元から肩までは画面下側に収まる。周囲の花が画面全体を埋め、対角線方向に流れる花のモーションブラーが前景を横切る。
+
+人物・表情：
+自然で現実感のある日系ポートレート。暗めのブラウンロングヘアに、薄い前髪と顔まわりのやわらかな毛束。目を閉じ、眉は力が抜け、唇は軽く閉じた穏やかな表情。頬と鼻先に自然な血色、肌には過度な補正をせず細かな質感を残す。首筋、鎖骨、頬に夏の日差しが当たり、静かに眠っているような落ち着いた雰囲気。
+
+服装・ポーズ：
+白い夏用キャミソールワンピース。細い肩紐、胸元の控えめなレース、中央の小さなリボン、薄手のコットン素材。人物の両肩は草花に自然に沈み、片腕は画面下側で花に隠れて見切れる。体は画面左下から右上へ少し斜めに置かれ、髪は草の上に広がり、風で数本だけ額にかかる。
+
+背景・光：
+郊外にある小さな花畑のような、生活感のある自然な草花の密度。背景はすべて緑の葉と白・黄色・オレンジの花で構成し、人工物や読める文字は入れない。高めの位置から差す夏の太陽光。光はやや硬めで暖かく、顔の左側と首筋、肩に明るいハイライトが入り、花と髪の影が肌に細く落ちる。草の反射で下側に淡い緑の返り光。
+
+構図・カメラ：
+やや俯瞰の近距離撮影。85mm相当の自然な圧縮感、人物の顔にピントを合わせ、周辺の花は浅い被写界深度で少しぼける。前景の花だけが風に流され、白・黄色・オレンジの細長い光跡として左上から右下へ走る。顔まわりはブラーを弱め、表情と肌の質感をはっきり見せる。
+
+質感・スタイル：
+リアルな写真表現。夏の日差し、透明感のある肌、柔らかな髪の束感、薄手コットンのしわ、草花の細密な質感。ナチュラルな色調で、緑を深く、白い花を明るく、オレンジの花をアクセントにする。フィルム写真のようなわずかな粒子感と、雑誌ポートレートの落ち着いた仕上がり。
+
+ネガティブ：
+不自然な顔、不自然な視線、余分な指、欠けた指、手足の融合、関節の破綻、服と体の接触不良、浮遊、不自然な重力、誤った遠近法、光源と矛盾する影、過度な美肌補正、プラスチックのような肌、文字化け、ロゴ、透かし。
+```
+
+</details>
+
+<a id="gpt-image-summer-hand-hold-backlit-portrait"></a>
+### 夏日花园牵手回眸逆光肖像
+
+<a href="https://x.com/iamaiistudio/status/2063247373388992790"><img src="../../previews/gpt-image-summer-hand-hold-backlit-portrait.jpg" width="360"></a>
+
+画面左下角只露出一只第一人称的手，加上回眸，形成情侣随手拍的抓拍感。侧逆光勾勒飘动发丝，配合镜头参数、皮肤质感描述和避免清单，保证照片级真实。
+
+GPT Image 2 · 文生图 · 出处: [@iamaiistudio on X](https://x.com/iamaiistudio/status/2063247373388992790) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`cinematic-portrait`](tags.md#tag-cinematic-portrait) [`backlight`](tags.md#tag-backlight) [`summer`](tags.md#tag-summer) [`pov`](tags.md#tag-pov) [`photorealistic`](tags.md#tag-photorealistic)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Cinematic portrait photography, ultra-photorealistic, 2160x3840 vertical composition, 50mm or 85mm portrait lens rendering, shallow depth of field, clean translucent summer natural-light color grading — not overly yellow, not over-filtered.
+
+Subject: a young beautiful adult East Asian woman, [describe face shape and features, e.g. soft heart-shaped face, refined classical features, bright almond/fox eyes, petite nose bridge, naturally full lips], overall vibe sweet, sunny, energetic, cute with a touch of allure. Gaze highly engaging — bright, clear, natural catchlights, as if it speaks; corners of mouth slightly lifted, expression gentle, vivid, natural.
+
+She walks along a [scene, e.g. garden stone path / tree-lined lane / European street / courtyard], right hand reaching back to hold the hand of someone behind her; only their hand appears in the lower-left corner — like a first-person couple's POV snapshot. She glances back at the camera while her body stays in a forward walking motion, posture elegant and natural, clearly a candid captured moment with a faint in-love feeling.
+
+Long [hair color] hair, [style, e.g. naturally wavy / relaxed big waves / airy bangs / half-up], many strands tousled and flying in the wind, richly layered and dynamic. Strong natural side-backlight rims the hair edges — clean, crisp rim light and semi-translucent glow, hair edges lit as if by sunlight, light and luminous. This is the core highlight of the image.
+
+She wears [outfit, e.g. white lace slip dress / beige slip dress / light-blue short-sleeve top with white skirt / light-pink fitted dress], fabric texture natural, material light and soft. Bright natural summer sunlight realistically warms her skin, shoulders, collarbone, and clothing with soft, clean highlight transitions.
+
+Skin texture: extremely realistic — visible fine pores, natural skin texture, faint imperfections, subtle tone variation, soft sheen. Cheeks, nose tip, shoulders show natural delicate gradations in sunlight. Translucent, healthy, real and refined — no plastic look, no waxwork, no over-smoothing.
+
+Background: soft atmospheric blur, never distracting.
+
+Avoid: over-smoothing, plastic skin, CG look, anime look, wig look, stiff expression, dead eyes, stiff poses, overall yellow cast, overexposed face, distorted features, wrong fingers, deformed hands, cluttered background, heavy influencer retouching.
+```
+
+</details>
+
+<a id="gpt-image-surreal-patio-portrait-crow-poodle"></a>
+### 庭院超现实肖像：头顶乌鸦与怀抱贵宾犬
+
+<a href="https://x.com/levelsio/status/2046735438128333096"><img src="../../previews/gpt-image-surreal-patio-portrait-crow-poodle.jpg" width="360"></a>
+
+背景装饰数量精确到个（4件装饰、2只火烈鸟）并逐一写明位置，画面布局因此稳定。正式呆板的姿势、柔和阴天光和低饱和色调带来复古杂志感，结尾还列出了可替换的变量。
+
+GPT Image 2 · 文生图 · 出处: [@levelsio on X](https://x.com/levelsio/status/2046735438128333096) · 发现于 [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`surreal`](tags.md#tag-surreal) [`editorial`](tags.md#tag-editorial) [`courtyard`](tags.md#tag-courtyard) [`pet-portrait`](tags.md#tag-pet-portrait) [`vintage`](tags.md#tag-vintage)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A slightly surreal but photorealistic portrait of a seated person in a quiet courtyard or patio, centered in frame, wearing a fitted white long-sleeve turtleneck top with delicate pink floral prints and a printed illustration of a girl on the chest, paired with loose cream floral pants. The person sits on a simple white metal chair and holds a small fluffy poodle-like dog in their lap; the dog has curly off-white fur and distinctly dyed orange ears. Perched on top of the person’s dark hair bun is a black crow or raven, facing left, calm and balanced as if it naturally belongs there. The subject’s pose is still, direct, and formal, creating an odd deadpan family-portrait feeling. Set the scene against a textured off-white stucco wall with exactly 4 notable decorative background elements: 1 brown sun-shaped wall ornament in the upper left, 1 small wall-mounted planter shelf with a small bird figurine and trailing flowers on the left, 1 tall arched window or mural on the right showing a bright blue sky with soft white clouds, and 1 white pedestal planter at lower right filled with long green leaves and exactly 2 pink flamingo ornaments. Include a bit of stone edging and dark greenery at lower left and a brown tiled floor. Lighting is soft natural daylight, slightly overcast, with muted colors, shallow depth of field, and a vintage editorial photography look. Composition should be vertical, full seated figure, straight-on, balanced, and quietly uncanny. Customize the main figure as a middle-aged woman, the bird as black crow, the dog breed as small poodle mix, the dog ear color as orange, and the outfit palette as white and faded pink florals.
+```
+
+</details>
 
 <a id="gpt-image-tokyo-backstreet-film-snapshot-fur-jacket"></a>
 ### 东京街头白色毛绒外套胶片抓拍人像

@@ -1,0 +1,27 @@
+id: gpt-image-2-6-reading-club-poster
+title:
+  en: Chinese weekend book club poster with open book
+  zh: 周末读书会海报，摊开的书与茶杯
+model: GPT Image 2.6
+mode: text-to-image
+category: poster
+tags:
+- poster
+- typography
+- chinese-text
+source:
+  name: '@longhaiqwe123 on X'
+  url: https://x.com/longhaiqwe123/status/2118366200459915715
+  credit: 龙海
+  likes: 15
+  captured: '2026-11-06'
+  posted: '2026-11-05'
+notes:
+  en: Fill-in slots set the event, audience and style, and the title is quoted on its own so the model renders those words exactly. A fixed placement slot tells the model where the title sits.
+  zh: 用占位符填入活动、人群和风格，把需要精确呈现的标题单独加引号，并用位置占位符固定它的落点，模型会据此准确渲染文字。
+prompt: |
+  制作一张关于［活动或产品］的海报，面向［目标人群］。画面采用［视觉风格］，主体位于［位置］。
+
+  标题使用“［标题原文］”，放在［位置］，清晰易读。只出现一次，不要添加其他文字或水印。
+
+  技巧：需要准确出现的文字，用引号单独标出；生成后记得检查拼写和小字。

@@ -1,0 +1,29 @@
+id: gpt-image-2-6-woman-kimono-door-viewer
+title:
+  en: Woman in red kimono seen through door viewer
+  zh: 和服女子透过门镜看向门外
+model: GPT Image 2.6
+mode: image-edit
+category: character
+tags:
+- character-reference
+- fisheye
+- door-viewer
+- kimono
+source:
+  name: '@kabumira862571 on X'
+  url: https://x.com/kabumira862571/status/2118220107487051883
+  credit: カーブミラー
+  likes: 15
+  captured: '2026-11-06'
+  posted: '2026-11-05'
+notes:
+  en: 'Pairs an uploaded reference photo with a door viewer frame: the peephole lens sets the fisheye composition, while the instruction to copy face, hairstyle and outfit keeps the character consistent. The sunny street and natural light set the mood.'
+  zh: 上传参考图并指定门镜视角，门镜镜头带来鱼眼构图，要求忠实还原脸部、发型和服装以保持角色一致。晴天住宅街与自然光定下画面氛围。
+prompt: |
+  玄関先でこちらを見るキャラ。
+  [＊＊＊]
+  キャラは、アップロード画像を参照。
+  顔・髪型・服装まで忠実に再現。
+  晴れた住宅街、自然光。
+  アスペクト比縦4:5。

@@ -1,0 +1,90 @@
+id: gpt-image-2-6-falling-apple-gif
+title:
+  en: Red apple hanging from a tree branch
+  zh: 红色苹果挂在树枝上
+model: GPT Image 2.6
+mode: text-to-image
+category: realism
+tags:
+- gif
+- animation
+- nature
+- frame-settings
+source:
+  name: '@rei_aitech on X'
+  url: https://x.com/rei_aitech/status/2118245102409908571
+  credit: Rei@AI画像生成・プロンプト
+  likes: 20
+  captured: '2026-11-06'
+  posted: '2026-11-04'
+notes:
+  en: Explicit GIF settings in the prompt, a 3:4 ratio with frame count 64 and a 30 ms frame duration, make the model generate the whole animation as one grid that is cut into frames. Fewer frames give sharper frames but choppier motion, so frame count trades off against resolution.
+  zh: 提示词中明确写出 GIF 参数，即 3:4 比例、frame_count 为 64、frame_duration_ms 为 30，模型会把整段动画生成为一张网格图再切分成帧。帧数越多动作越顺滑，但每帧分辨率越低，两者需要权衡。
+prompt: |
+  ChatGPT Images 2.6 が登場しました🩵
+
+  大きな変更点としてはGIF機能の登場です！🎉
+
+  とはいえ、
+
+  😺「どうやって使ったらいいの？」
+
+  という感じだと思うので簡単に検証してみました。(Proプラン/ Instant)
+
+  まず公式ドキュメントにはこんなことが書いてありました↓
+
+  https://
+  developers.openai.com/api/docs/guide
+  s/image-prompting?model=gpt-image-2.6&utm_source=chatgpt.com
+  …
+
+  つまりGIFに関して設定できることは
+  ・サイズ
+  ・フレーム数(枚数): 2~64フレーム
+  ・表示間隔: 20-2000ms / 10ms刻み
+  のようです。
+
+  画像①〉ですから、以下のプロンプトで試してみました。
+  『
+
+  3:4.
+  GIF生成
+  frame_count = 64
+  frame_duration_ms = 30
+  3:4で木からりんごが落ちる差分
+
+  　　　　　　　　　　　　　　　　　』
+
+  【結果】解像度は荒いものの滑らかに描写された。
+
+  画像②〉次に、枚数を減らして表示間隔を伸ばしてみました。
+  frame_count = 32
+  frame_duration_ms = 60
+
+  【結果】解像度が少し良くなり、なめらかさは普通。
+
+  画像③〉最後に枚数を少なく、間隔を長くしました。
+  frame_count = 8
+  frame_duration_ms = 120
+
+  【結果】 解像度は一番良いが、なめらかさはカクカク。
+
+  《結局なに？》
+  ここからわかることは、生成枚数と解像度はトレードオフだということです。
+
+  理由は(画像④)のように、生成時にChatGPTは一枚の画像に複数枚の画像をグリッド生成し、その中から切り取って並べるようにGIFを生成していると思われるためです。
+
+  おそらく、画像の一貫性を保つための仕様だと思われます。
+  (複数枚を別々に生成するより、一枚の中でグリッドした方が同じ顔やものが生成されやすい)
+
+  つまりフレーム枚数が増えれば増えるほど、一枚の画像の中のグリッドされた区画は小さくなりますから、解像度が低くなるということに注意すべきということです。
+
+  《わたしのおもったこと》
+  まだ検証が浅いのであくまで私の意見となりますが、GIF生成する時は
+  「フレーム数と解像度のトレードオフ」
+  に注意しながら
+  frame_count =
+  frame_duration_ms =
+  を設定するといいのではないかということです。
+
+  ※ちなみに画像④は9枚にした方が余白ができず、よかったみたいですね。

@@ -1,0 +1,55 @@
+id: gpt-image-2-6-tom-and-jerry-cheese-chase
+title:
+  en: Jerry grabs cheese as Tom leaps into chase
+  zh: 杰瑞抢走奶酪，汤姆跃起追赶
+model: GPT Image 2.6
+mode: text-to-image
+category: illustration
+tags:
+- tom-and-jerry
+- cartoon
+- animation
+- gif
+source:
+  name: '@MrDasCreates on X'
+  url: https://x.com/MrDasCreates/status/2118590560701481017
+  credit: Mr Das
+  likes: 2
+  captured: '2026-11-06'
+  posted: '2026-11-06'
+notes:
+  en: Timed beats written shot by shot give the model a clear motion order, and explicit squash and stretch plus slapstick cues drive the exaggerated cartoon action. The fixed 1080 by 1080 frame and seamless loop request keep the GIF framing steady.
+  zh: 按秒分段写出的分镜节拍让模型按顺序生成动作，挤压拉伸和滑稽打闹的明确提示带出夸张的卡通表演。固定1080×1080方形画幅和无缝循环的要求让GIF构图保持稳定。
+prompt: |
+  Create a spectacular 8-second animated Tom and Jerry chase scene in a beautiful vintage cartoon house.
+
+  SCENE SEQUENCE:
+
+  0–2 seconds: Jerry steals a giant piece of cheese from the kitchen table. Tom notices him and immediately starts chasing him.
+
+  2–4 seconds: Jerry runs across the kitchen counter, jumps over cooking pots, and slides beneath a chair. Tom follows him, knocking over kitchen utensils.
+
+  4–6 seconds: Jerry jumps onto the sofa. Tom tries to catch him but crashes into a soft cushion, sending feathers flying everywhere.
+
+  6–8 seconds: Jerry escapes through a tiny mouse hole while Tom gets stuck halfway. Jerry laughs mischievously as Tom struggles to escape.
+
+  ANIMATION QUALITY:
+
+  Smooth, continuous animation with consistent character designs, expressive faces, exaggerated squash-and-stretch movements, realistic cartoon physics, cinematic camera movement, vibrant colors, and detailed backgrounds.
+
+  STYLE:
+
+  Classic Tom and Jerry-inspired 2D cartoon animation, traditional hand-drawn cel-animation appearance, hilarious slapstick comedy.
+
+  TECHNICAL REQUIREMENTS:
+
+  * Duration: 8 seconds.
+  * Seamless looping animation.
+  * Smooth and fluid character movement.
+  * No sudden scene cuts or frozen frames.
+  * Consistent character appearance.
+  * No character distortion.
+  * No text, subtitles, logos, or watermarks.
+  * 1:1 square aspect ratio, 1080×1080 resolution.
+  * Keep both characters fully visible with safe margins.
+  * High-quality GIF output.

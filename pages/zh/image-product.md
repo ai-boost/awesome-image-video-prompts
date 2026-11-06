@@ -1,6 +1,6 @@
 # 产品图与电商
 
-[返回目录](../../README_zh.md) · 全部 77 条
+[返回目录](../../README_zh.md) · 全部 78 条
 
 <a id="gpt-image-giant-pepsi-can-seated-model-ad"></a>
 ### 女性倚靠巨型百事可乐罐广告
@@ -1568,6 +1568,41 @@ GPT Image 2.5 · 文生图 · 出处: [@MrDasCreates on X](https://x.com/MrDasCr
 GPT Image 2.5 turns any brand into a magical little world inside a snow globe.
 
 “A highly detailed miniature [STORE / BRAND] store inside a beautiful glass snow globe. Signature architecture + logo preserved. Cozy winter street scene with snow-covered trees, tiny street lamps, benches, bicycles and miniature brand props. Warm glowing windows contrasting with the cool snowy environment, 1–2 tiny people for scale. Realistic glass reflections, delicate falling snow, handcrafted miniature details, wooden base, cinematic product photography, soft studio lighting, cream background, whimsical yet premium, 4:5.”
+```
+
+</details>
+
+<a id="gpt-image-2-6-perfume-dancer-light-trails"></a>
+### 香水瓶喷雾化作发光舞者剪影
+
+<a href="https://x.com/DeepBlueX0/status/2118527529208455403"><img src="../../previews/gpt-image-2-6-perfume-dancer-light-trails.jpg" width="360"></a>
+
+发光丝线从喷头升起并弯曲成舞者轮廓，身后的弧线呼应日冕。瓶身、雨痕玻璃、蕾丝与花瓣保持清晰，让隐藏形象落在真实的生活场景中。
+
+GPT Image 2.6 · 文生图 · 出处: [@DeepBlueX0 on X](https://x.com/DeepBlueX0/status/2118527529208455403) · 8 赞，统计于 2026-11-06
+
+[`perfume`](tags.md#tag-perfume) [`light-trails`](tags.md#tag-light-trails) [`hidden-figure`](tags.md#tag-hidden-figure) [`still-life`](tags.md#tag-still-life)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+日常物件 × 隱藏形象 × 日冕弧線 × 超現實靜物攝影
+
+每張獨立選擇一件不同的日常物件，根據它的用途、形態或情緒聯想，設計一個有趣且容易辨認的隱藏形象。
+
+保留物件真實的材質、結構與使用痕跡。讓成束的發光絲線從物件局部延伸、彎曲、交疊，共同暗示隱藏形象的主要輪廓。絲線可以升起、向側面舒展，或環繞物件展開，與物件保持清楚的連接。
+
+借鑒太陽日冕環的視覺形態，用疏密、跨度和亮度各異的弧線塑造形象。概括五官和內部細節，讓部分輪廓自然淡入周圍空間，保留絲線的輕盈與層次。
+
+根據物件、隱藏形象與畫面情緒，自由選擇一種或多種協調的發光顏色。色彩沿絲線自然變化，發光結構在附近物體表面留下相應的細微映光。
+
+根據物件與隱藏形象設計真實的生活場景。自由變化視角、物件位置、形象方向和畫面構圖，讓兩者的關係清楚可見。
+
+竪版 9:16。
+
+左下簽名：深藍色實心圓點在前，白色手寫體 DeepBlue 在後
+
+n=10
 ```
 
 </details>

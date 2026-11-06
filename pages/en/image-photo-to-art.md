@@ -1,6 +1,6 @@
 # Photo to art
 
-[Back to the list](../../README.md) · All 110 entries
+[Back to the list](../../README.md) · All 111 entries
 
 <a id="gpt-image-photo-to-watercolor-travel"></a>
 ### Travel photo above, same scene as watercolor below
@@ -3722,6 +3722,59 @@ Nano Banana 2.1 · Edit · Source: [@madpencil_ on X](https://x.com/madpencil_/s
 
 ```text
 Convert only her hair, the bowl, and the chopsticks into a 2D hand-drawn anime illustration with clean linework, flat cel shading, and vibrant pastel colours. Keep her face, skin, eyes, lips, noodles, broth, background, lighting, pose, and framing the same as in the original photo.
+```
+
+</details>
+
+<a id="gpt-image-2-6-portugal-folk-christmas-card"></a>
+### Footballer in Portugal kit as a folk Christmas card
+
+<a href="https://x.com/Goodmanprotocol/status/2118562099987398753"><img src="../../previews/gpt-image-2-6-portugal-folk-christmas-card.jpg" width="360"></a>
+
+The edit instruction keeps the person's pose, kit and expression while a fixed palette, flat colour rules and an explicit A6 2:3 print format turn the photo into a vintage card. The strict rules ban photorealism, gradients and gloss, which stops the output drifting into a glossy render.
+
+GPT Image 2.6 · Edit · Source: [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2118562099987398753) · 12 likes on 2026-11-06
+
+[`christmas`](tags.md#tag-christmas) [`football`](tags.md#tag-football) [`portugal`](tags.md#tag-portugal) [`folk-art`](tags.md#tag-folk-art)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Transform the uploaded photograph into a beautiful, contemporary hand-drawn naïve Christmas illustration, inspired by premium vintage holiday greeting cards and modern folk-art poster design.
+
+ART STYLE:
+
+- Authentic hand-drawn illustration with a charming, playful naïve-art aesthetic.
+- Slightly exaggerated, whimsical proportions.
+- Imperfect, irregular outlines and organic hand-drawn contours.
+- Simplified shapes with carefully selected decorative details.
+- Flat, bold, contrasting colours with a warm Christmas palette.
+- Subtle vintage paper texture with a refined printed-card finish.
+- Delicate hand-drawn decorative marks, patterns and festive accents.
+- Minimalist yet visually rich composition.
+
+COLOUR PALETTE:
+Use traditional Christmas colours: deep forest green, warm red, cream, muted beige, golden yellow and earthy brown. Maintain strong colour contrast and a cohesive vintage aesthetic.
+
+PRESERVE THE ORIGINAL PHOTOGRAPH:
+Retain the person's recognisable facial features, hairstyle, clothing, pose, expression and body proportions. Preserve the main objects, their arrangement and the essential details of the original environment. Translate everything into the illustrated style rather than replacing it with unrelated elements.
+
+DESIGN & COMPOSITION:
+Create an elegant, charming Christmas postcard illustration. Simplify the background into tasteful decorative shapes while retaining recognizable elements from the original photograph. Add small festive decorative details only where they naturally complement the existing scene.
+
+STRICT VISUAL RULES:
+
+- No photorealism.
+- No 3D rendering.
+- No realistic lighting or shadows.
+- No gradients.
+- No glossy or metallic effects.
+- No artificial digital painting appearance.
+- No excessive detail or visual clutter.
+
+The final result should look like an authentic, professionally illustrated Christmas greeting card, with the charm of handmade folk art and the sophistication of a premium designer postcard.
+
+FORMAT: A6 portrait orientation, 2:3 aspect ratio, print-ready composition.
 ```
 
 </details>

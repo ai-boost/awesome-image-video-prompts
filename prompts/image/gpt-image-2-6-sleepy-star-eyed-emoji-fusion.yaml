@@ -1,0 +1,50 @@
+id: gpt-image-2-6-sleepy-star-eyed-emoji-fusion
+title:
+  en: Sleepy emoji and starstruck emoji merged into one
+  zh: 犯困表情與追星表情融合成一張臉
+model: GPT Image 2.6
+mode: text-to-image
+category: illustration
+tags:
+- emoji
+- fusion
+- ios-emoji
+- chinese-text
+source:
+  name: '@DeepBlueX0 on X'
+  url: https://x.com/DeepBlueX0/status/2118276577322750086
+  credit: DeepBlue深藍
+  likes: 6
+  captured: '2026-11-06'
+  posted: '2026-11-05'
+notes:
+  en: The prompt extracts the most recognizable features of each source, the closed sleepy eyes and star eyes, and merges them into one enlarged icon-style face shown under a visible formula. The zzz and sparkle marks carry the mood while the short caption states the combined meaning.
+  zh: 提示詞先提取兩個來源最有辨識度的特徵，即犯困的眼睛與星星眼，再融合成一個放大的圖標感表情，並在上方以公式呈現來源。zzz 與星光線條承載情緒，中文短句點明融合後的含義。
+prompt: |
+  iOS 系統Emoji × 顏文字× 全新表情設計
+
+  每張獨立選擇兩個或多個不同的 Emoji 或顏文字進行融合，開放探索人物、動物、食物、物件、自然元素與各種情緒。
+
+  整組變化來源類別與組合方式，探索 Emoji 與 Emoji、Emoji 與顏文字、多個顏文字等不同搭配，讓顏文字多次參與融合。每張選擇不同組合與心情，減少主體和表達重復。
+
+  先確定本張的融合配方，提取各來源最有辨識度的五官、神態、輪廓、動作或字符特徵，將它們融合成一個完整的新表情，表達一種有趣的情緒或狀態。
+
+  根據來源自身形態設計結果：臉部表情重點融合五官與神態；帶手勢或全身形態的表情保留有助於識別的身體結構；動物、物件和自然元素保留關鍵外形；顏文字的眼睛、嘴巴、符號或字符排列自然融入新表情。身體、四肢與動作由組合和表達需要決定。
+
+  融合結果保持簡潔的表情圖標感，以主體輪廓和關鍵特徵傳達心情，細節適度，縮小後仍清晰可辨。
+
+  畫面從上到下展示融合公式：上方用「×」連接所選來源，中間將「＝」旋轉90°，呈現為兩條並排的細竪線，下方展示融合後的新表情。新表情明顯大於來源，是畫面的視覺重點。
+
+  公式中的 Emoji 參照 iOS 系統對應表情的外觀，保留容易辨認的造型、顏色、神態與動作。公式中的顏文字以清晰字符原樣呈現，保持所選字符及排列完整。
+
+  融合後的新表情採用與 iOS Emoji 協調的視覺風格：造型簡潔圓潤，表情鮮明，色彩飽滿，具有柔和漸變、細膩高光與輕微立體感。人物、動物與物件保留各自適合的形態，整體如同同一套系統表情。
+
+  根據新表情的情緒與主體配色，自由選擇協調的低飽和漸變背景，在新表情後方加入柔和的主題色光暈。光暈與主體保持適當的明度或色相差異，讓表情輪廓清楚可辨。
+
+  在新表情附近寫一句簡短自然的中文心情短句，準確表達融合後的意思。字體形態與筆畫氣質呼應情緒，文字完整清晰，與表情和公式保持適當間距。
+
+  公式符號、顏文字與背景保持足夠對比。畫面疏密協調，留白自然。
+
+  竪版 9:16，n=10。每張為獨立單圖，逐張生成，不拼圖。
+
+  左下簽名：深藍色實心圓點在前，白色手寫體 DeepBlue 在後

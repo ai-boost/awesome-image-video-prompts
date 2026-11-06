@@ -1,0 +1,26 @@
+id: gpt-image-2-6-steaming-ramen-bowl-chopsticks
+title:
+  en: Steaming ramen bowl with chopsticks on dark counter
+  zh: 冒着热气的拉面碗搁在深色木台上
+model: GPT Image 2.6
+mode: text-to-image
+category: realism
+tags:
+- food
+- ramen
+- still-life
+- lighting
+source:
+  name: '@Superboy4949 on X'
+  url: https://x.com/Superboy4949/status/2118627045379105006
+  credit: XinYuAI
+  likes: 0
+  captured: '2026-11-06'
+  posted: '2026-11-06'
+notes:
+  en: 'Lighting does the work here: a single warm lantern source from the left against a dark background gives the bowl its glow and depth. Small sensory details such as rising steam, glossy noodles and chopsticks on the rim make the still feel real.'
+  zh: 光线是这条提示词的核心：左侧单一暖色灯笼光配合深色背景，让碗面有光泽、画面有层次。蒸汽、发亮的面条和搁在碗沿的筷子等细节，让静物更有真实感。
+prompt: |
+  Step 1, the still. GPT Image 2.6 Sunburst, 1K, high:
+
+  A steaming bowl of ramen on a dark wooden counter, warm lantern light from the left. Soft steam rises from the broth. Chopsticks rest on the rim. Noodles and toppings glisten. The background falls into warm darkness.

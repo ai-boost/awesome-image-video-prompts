@@ -1,0 +1,24 @@
+id: gpt-image-2-6-seated-hanfu-woman-lotus-pond
+title:
+  en: Seated hanfu woman by lotus pond at sunset
+  zh: 夕阳下荷塘边坐着的汉服女子
+model: GPT Image 2.6
+mode: text-to-image
+category: portrait
+tags:
+- hanfu
+- portrait
+- golden-hour
+- lotus
+source:
+  name: '@fengnian_ai on X'
+  url: https://x.com/fengnian_ai/status/2118386725676552194
+  credit: Indie Echo
+  likes: 0
+  captured: '2026-11-06'
+  posted: '2026-11-05'
+notes:
+  en: Naming the lakeside stone, willow framing and warm backlight sets up a layered scene with depth. Spelling out the silver embroidery and modest neckline keeps the costume detail sharp and the look elegant.
+  zh: 明确湖边石头、垂柳框景和暖色逆光，营造出有层次的场景。写清银色刺绣和端庄领口，让服饰细节清晰、气质优雅。
+prompt: |
+  An original cinematic semi-realistic fantasy portrait of a clearly adult East Asian woman, age 28, seated on a lakeside stone beneath trailing willow branches at golden hour. Long black hair with delicate pale lotus ornaments, elegant silver-blue embroidered silk hanfu with opaque bodice and modest neckline, airy outer sleeves, long skirt naturally draped over her legs. Three-quarter seated composition, vertical 9:16 framing. Warm golden backlight through leaves, soft mist, distant mountain silhouettes, a tranquil reflective pond and small pink lotus blossoms. Natural skin texture, individual hair strands, intricate silver embroidery, believable hands and anatomy, soft atmospheric depth. No text, no watermark, no logos.

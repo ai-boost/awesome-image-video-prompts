@@ -1,0 +1,31 @@
+id: gpt-image-2-6-sunset-beach-look-back
+title:
+  en: Woman turning back on sunset beach
+  zh: 夕阳海边回头的女子
+model: GPT Image 2.6
+mode: text-to-image
+category: portrait
+tags:
+- portrait
+- beach
+- sunset
+- golden-hour
+source:
+  name: '@sonny_eacc on X'
+  url: https://x.com/sonny_eacc/status/2118216234445791408
+  credit: sonny
+  likes: 0
+  captured: '2026-11-06'
+  posted: '2026-11-05'
+notes:
+  en: The prompt sets 4:5 vertical framing, a candid action and expression (turning back, one hand on windblown hair, just starting to laugh), and sunset light from behind to outline the hair. Realism cues like skin texture, fabric creases and a snapshot feel keep it from looking posed.
+  zh: 提示词指定4:5竖版构图、人物动作与表情（回头、一手按住被风吹起的头发、刚开始笑），并用身后的夕阳勾勒发丝。保留皮肤纹理、衣料褶皱和抓拍感等真实细节，避免摆拍感。
+prompt: |
+  【首图】
+  生成一张4:5竖版写实人像照片。一位25岁的成年东亚美女，黑色长发，五官精致，身材修长匀称，穿黑色连体泳衣，外搭敞开的白色亚麻衬衫。傍晚赤脚走在海边浅水中，被身后的人叫住，回头看向镜头，露出刚开始笑的自然表情，一只手轻轻按住被海风吹起的头发。拍到大腿，人物占画面主体，前景有细碎浪花，夕阳从侧后方照亮发丝。像旅行时偶然拍到的漂亮瞬间，保留真实皮肤纹理、衣料褶皱和轻微抓拍感，色彩自然，无文字、水印。
+
+  【续图方法】
+  上传首图作参考，保持同一成年女性的五官、发型、服装、海边夕阳和真实肤质。每次单独生成一张，分别追加：
+  ①近景：胸口以上，拨头发，轻轻微笑。
+  ②全身：赤脚走在浅水里，低头看浪花。
+  ③坐姿：白衬衫扣好，坐在海边岩石上，半身构图，自然大笑。

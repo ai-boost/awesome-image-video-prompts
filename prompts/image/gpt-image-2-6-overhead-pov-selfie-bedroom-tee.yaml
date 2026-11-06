@@ -1,0 +1,30 @@
+id: gpt-image-2-6-overhead-pov-selfie-bedroom-tee
+title:
+  en: Overhead POV selfie in bedroom, white tee and shorts
+  zh: 卧室俯拍自拍，白色短袖与黑色短裤
+model: GPT Image 2.6
+mode: text-to-image
+category: portrait
+tags:
+- selfie
+- pov
+- wide-angle
+- fashion
+source:
+  name: '@johnAGI168 on X'
+  url: https://x.com/johnAGI168/status/2118247837683044650
+  credit: John
+  likes: 208
+  captured: '2026-11-06'
+  posted: '2026-11-05'
+notes:
+  en: An extreme high-angle 20mm POV with an outstretched arm framing the corner sells the selfie look. Fine 35mm grain and explicit anti-CGI wording push the skin toward a real photo, while naming the floor, curtains and heel contact shadows grounds the scene.
+  zh: 极端俯拍的20mm广角视角加上伸出的手臂框住画面角落，营造真实自拍感。细腻的35mm颗粒和明确的反CGI描述让皮肤质感更接近实拍，描述地板、窗帘和鞋跟接触阴影则让场景更扎实。
+prompt: |
+  A crisp, high-fidelity vertical POV selfie photograph captured from an extreme high angle with a 20mm ultra-wide lens perspective — looking straight down at an exceptionally gorgeous young East Asian woman standing in her bedroom, her outstretched arm framing the upper corner.
+
+  She possesses elite influencer beauty, wavy dark brown hair with see-through air bangs, light gray-green contact lenses, a tiny beauty mark beneath her right eye, igari-style pink blushed cheeks, and glossy lips. She has a slender hourglass figure, wearing a tight white scoop-neck cropped short-sleeve tee, black retro dolphin shorts with white piped edges and a front drawstring, and glossy black patent leather pointed-toe stiletto pumps on her bare feet.
+
+  The room features light oak hardwood flooring, soft cream curtains, and a white bed edge softly blurred in the background. Clean, diffuse indoor overhead ambient lighting illuminates her features naturally, casting gentle, physically accurate contact shadows beneath her heels.
+
+  Captured with natural wide-angle perspective stretching height from head to feet, with deep depth of field and fine organic 35mm grain. Authentic skin texture with delicate pores, biological warmth, realistic cotton fabric stretch, and crisp patent leather reflections — strictly no CGI, no 3D render, no plastic skin, no artificial smoothing, no waxy AI look.

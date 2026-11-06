@@ -8,6 +8,8 @@
 - {model: MiniMax H3, kind: video, max: 5, query: '("MiniMax H3" OR "Hailuo H3") prompt min_faves:150 filter:videos'}
 - {model: Gemini Omni Flash, kind: video, max: 5, query: '"Gemini Omni" prompt min_faves:150 filter:videos'}
 - {model: GPT Image 2.6, kind: image, max: 10, query: '("Images 2.6" OR "GPT Image 2.6") prompt min_faves:60 filter:images'}
+# GIF posts: a GIF prompt is often one short line and its post gets few likes, so search Latest with a low bar and let the review judge.
+- {model: GPT Image 2.6, kind: image, max: 20, tab: live, min_likes: 3, model_re: 'images?[\s_-]*2\.6|gpt-image-2\.6|sunburst|\bflare\b', query: '("Images 2.6" OR "GPT Image 2.6") (gif OR prompt OR プロンプト OR 提示词) filter:media'}
 - {model: GPT Image 2.5, kind: image, max: 10, query: '"GPT Image 2.5" prompt min_faves:250 filter:images'}
 - {model: Nano Banana 2.1, kind: image, max: 8, query: '"Nano Banana 2.1" prompt min_faves:120 filter:images'}
 # Seasonal: Christmas photo prompts for agentcraft.dev/prompts/image/christmas/, searched only in these months.

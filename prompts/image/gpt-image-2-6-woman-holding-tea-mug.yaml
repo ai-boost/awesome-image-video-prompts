@@ -1,0 +1,26 @@
+id: gpt-image-2-6-woman-holding-tea-mug
+title:
+  en: Woman holding floral tea mug indoors
+  zh: 女子在家中手持花纹茶杯
+model: GPT Image 2.6
+mode: text-to-image
+category: realism
+tags:
+- portrait
+- photorealism
+- home-interior
+- tea
+source:
+  name: '@v3rt0x_ on X'
+  url: https://x.com/v3rt0x_/status/2118147596891901957
+  credit: Vert
+  likes: 0
+  captured: '2026-11-06'
+  posted: '2026-11-05'
+notes:
+  en: The opening phrase "a realistic photo of" sets a photographic register, and a plain everyday scene with a concrete action gives the model enough to work with. No lens, lighting, or camera settings are needed for a believable result.
+  zh: 开头的“a realistic photo of”确定了摄影写实的风格，加上具体的日常场景和动作，模型就能生成可信的画面。无需镜头、光线或相机参数。
+prompt: |
+  Gpt image 2.6 (Left) vs 2.5 (Right)
+  prompt: a realistic photo of a woman holding a cup of tea inside her home
+  Which one do you think is better?

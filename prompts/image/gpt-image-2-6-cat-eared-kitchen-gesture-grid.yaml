@@ -1,0 +1,64 @@
+id: gpt-image-2-6-cat-eared-kitchen-gesture-grid
+title:
+  en: Irritated catgirl in nine rude gestures
+  zh: 九宫格愤怒的猫耳女孩比划九种粗鲁手势
+model: GPT Image 2.6
+mode: text-to-image
+category: character
+tags:
+- anime
+- contact-sheet
+- character-consistency
+source:
+  name: '@livybabie on X'
+  url: https://x.com/livybabie/status/2118323154498048267
+  credit: Olivia Bernardo
+  likes: 0
+  captured: '2026-11-06'
+  posted: '2026-11-05'
+notes:
+  en: A locked identity block keeps the same character, outfit and kitchen table across all nine panels. Each panel is assigned a numbered, distinct gesture so the grid reads as a varied set rather than repeats.
+  zh: 锁定的角色与服装描述让九个画格保持同一人物、同一套衣服和同一张厨房餐桌。每格指定一个不同的手势，使整张网格有变化而不是重复。
+prompt: |
+  Create exactly ONE polished anime illustration presented as a clean 3×3 contact-sheet grid: nine separate framed panels arranged in three rows and three columns, with clear, uniform borders between every image.
+
+  CHARACTER CONSISTENCY:
+  The exact same clearly adult female character appears in all nine panels. Preserve identical facial identity, hairstyle, hair color, eye color, body proportions, accessories, species traits, and clothing throughout the entire grid. Do not create nine different characters.
+
+  SETTING:
+  A modest, lived-in domestic kitchen. The character is sitting at or leaning against the same kitchen table in every panel. Include ordinary household details such as a ceramic mug, breakfast plate, fruit bowl, bottle, napkins, utensils, food packaging, smartphone, or slightly disorganized kitchen objects.
+
+  OUTFIT:
+  Casual at-home clothing appropriate to the character: oversized T-shirt, tank top, loose hoodie, comfortable shorts, pajama pants, casual jeans, or similarly relaxed domestic wear. Keep the exact same outfit across all nine panels.
+
+  CAMERA:
+  Three-quarter portrait angle in every panel, approximately waist-up or mid-torso-up. Natural variation in head tilt, shoulder angle, hand placement, and camera distance, while preserving a coherent photo-session feeling.
+
+  EXPRESSION:
+  She is visibly irritated in every panel: grumpy, annoyed, tired, impatient, unimpressed, mildly hostile, or clearly wishing the photographer would leave her alone. Furrowed brows, narrowed eyes, pursed lips, deadpan glare, annoyed side-eye, restrained scowl. Absolutely no cheerful smiling.
+
+  NINE DIFFERENT RUDE HAND GESTURES:
+  Panel 1 — right-hand middle finger raised toward the viewer.
+  Panel 2 — left-hand middle finger held close to the camera.
+  Panel 3 — both middle fingers raised simultaneously.
+  Panel 4 — classic bras d’honneur / forearm jerk gesture, one fist raised while the opposite hand strikes or grips the bent forearm.
+  Panel 5 — insulting inward-facing V-sign, palm facing toward herself.
+  Panel 6 — dismissive chin-flick gesture, fingers brushing outward from beneath the chin.
+  Panel 7 — provocative fig gesture, thumb deliberately protruding between index and middle fingers.
+  Panel 8 — sarcastic downward-pointing thumb combined with an irritated dismissive hand motion.
+  Panel 9 — one hand pointing directly toward the viewer while the other hand raises a middle finger, creating an aggressive final-panel pose.
+
+  Every gesture must be clearly readable and visually different. Hands must remain completely visible inside the panel boundaries.
+
+  STYLE:
+  High-quality contemporary anime illustration with expressive adult facial anatomy, clean linework, sophisticated cel shading, detailed hair, natural hands, subtle fabric folds, believable domestic background perspective, and restrained cinematic lighting. Avoid chibi proportions and avoid childish facial design.
+
+  LAYOUT LOCK:
+  One single finished image containing exactly nine rectangular panels.
+  3 columns × 3 rows.
+  Consistent panel dimensions.
+  Visible decorative borders.
+  No overlapping panels.
+  No missing cells.
+  No extra panels.
+  No text, captions, speech bubbles, numbering, logos, or watermarks.

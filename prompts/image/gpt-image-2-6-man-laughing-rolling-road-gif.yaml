@@ -1,0 +1,26 @@
+id: gpt-image-2-6-man-laughing-rolling-road-gif
+title:
+  en: Man laughing while rolling on road
+  zh: 男子在马路上捧腹大笑打滚
+model: GPT Image 2.6
+mode: text-to-image
+category: realism
+tags:
+- gif
+- reaction
+- laughing
+- animation
+source:
+  name: '@VamsiBuilds on X'
+  url: https://x.com/VamsiBuilds/status/2118425619142713826
+  credit: Vamsi Builds
+  likes: 4
+  captured: '2026-11-06'
+  posted: '2026-11-04'
+notes:
+  en: The prompt sequences the action in order (clutching stomach, kicking legs, turning side to side) and adds the looping requirement, so the model gets a clear motion cycle to animate. Calling the look realistic keeps the exaggerated expressions grounded in believable body movement.
+  zh: 提示词按顺序写明动作（捂肚子、踢腿、左右翻滚），并加入无缝循环的要求，让模型有清晰的动作周期可以生成。写明真实感，使夸张的表情仍然保持可信的身体动态。
+prompt: |
+  "A hilarious, realistic GIF of a man laughing uncontrollably while rolling around on the road. He is clutching his stomach, kicking his legs, turning from side to side, and bursting into laughter. Capture exaggerated facial expressions, natural body movements, and a playful, carefree atmosphere. Make the animation smooth, expressive, and seamlessly looping."
+
+  reaction GIFs were the last thing you had to search for.

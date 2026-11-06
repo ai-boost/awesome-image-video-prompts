@@ -1,0 +1,77 @@
+id: gpt-image-2-6-pixel-jungle-radar-outpost-gif
+title:
+  en: Looping pixel jungle outpost with radar dish
+  zh: 像素风丛林哨站，卫星天线扫描循环动画
+model: GPT Image 2.6
+mode: text-to-image
+category: illustration
+tags:
+- pixel-art
+- animation
+- gif
+- jungle
+source:
+  name: '@dextune on X'
+  url: https://x.com/dextune/status/2118523179702624694
+  credit: DEXTUNE
+  likes: 12
+  captured: '2026-11-06'
+  posted: '2026-11-06'
+notes:
+  en: A 4x4 spritesheet of 16 frames at about 200 ms each, with a fixed camera, turns the scene into a seamless loop. The prompt lists each moving element separately (radar beam, rope swing, birds, creatures) and fixes the buildings and trees in place so the world stays stable between frames.
+  zh: 用 4×4 精灵图排列 16 帧、每帧约 200 毫秒，并固定镜头，使画面成为无缝循环。提示词把雷达光束、摆动绳索、飞鸟和小生物等动态元素逐一列出，同时固定建筑和树木位置，让画面在各帧之间保持稳定。
+prompt: |
+  Create a seamless looping animated GIF in highly detailed 16-bit retro pixel art style, inspired by classic side-scrolling adventure games and lively miniature pixel-art worlds.
+
+  Scene and composition
+
+  A fixed-camera, square 1:1 pixel-art jungle environment with a soft pastel lavender-blue background and layered silhouettes of distant forest trees.
+
+  On the left stands a compact beige retro-futuristic research station with mechanical panels, ladders, tiny windows, and a large rotating satellite dish mounted on its roof.
+
+  On the right stands an ancient three-level brown brick tower with small openings and decorative stone details.
+
+  Two enormous trees with rich lime-green pixelated foliage and reddish-brown trunks rise behind the structures. Small bushes, scattered rocks, and a tiny campsite occupy the ground.
+
+  Several tiny colorful adventurer characters, birds, and little green creatures inhabit this miniature world.
+
+  Animation sequence
+
+  Radar scanning: The satellite dish slowly rotates, projecting a translucent white triangular searchlight across the scene. The beam sweeps between the trees and the brick tower, gradually expanding and fading.
+
+  Character movement: Tiny adventurers run along rooftops, jump between platforms, briefly pause, and resume moving. Their legs and arms animate with authentic retro-game sprite cycles.
+
+  Rope swinging: One adventurer grabs a thin suspended rope and swings between the trees and buildings in a smooth pendulum motion. The rope bends and follows the character's momentum.
+
+  Wildlife: Small birds flap their wings and hop between branches. Tiny green creatures walk, bounce, and react to nearby characters.
+
+  Environmental motion: Tree leaves gently sway, dangling vines oscillate, and small foliage details move subtly. The distant forest remains stationary.
+
+  Continuous activity: Different characters perform independent actions at slightly different times, making the small world feel alive without excessive motion.
+
+  Animation quality
+
+  Authentic hand-crafted pixel-art animation.
+  Sharp square pixels with consistent pixel density.
+  Smooth sprite movement without morphing or deformation.
+  Fixed camera, absolutely no zooming or panning.
+  Buildings, trees, and terrain retain identical shapes and positions throughout.
+  Natural overlapping animation cycles.
+  Subtle secondary movement and playful character interactions.
+  Preserve the original pastel palette and nostalgic video-game atmosphere.
+
+  Loop requirements
+
+  Create a 4×4 uniform spritesheet containing 16 sequential animation frames, with each frame occupying an identical square cell.
+
+  Use approximately 200 milliseconds per frame for a 3.2-second animated GIF.
+
+  All characters remain completely within their respective frame boundaries.
+
+  The first and last frames must connect naturally to create a seamless infinite loop, without sudden resets, flickering, or visual jumps.
+
+  Strict restrictions
+
+  No camera movement, no scene cuts, no transitions, no motion blur, no realistic 3D rendering, no smooth vector illustration, no UI, no text, no frame borders, no added structures, and no inconsistent character designs.
+
+  The result should resemble a beautifully animated living pixel-art game environment, not a static illustration with simple motion effects.

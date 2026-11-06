@@ -1,6 +1,6 @@
 # Photo realism
 
-[Back to the list](../../README.md) · All 115 entries
+[Back to the list](../../README.md) · All 122 entries
 
 <a id="gpt-image-coca-cola-tanker-leak-mentos-truck-dashcam"></a>
 ### Coca Cola tanker leaking beside Mentos truck
@@ -1704,6 +1704,35 @@ bright advertising action shot, dark seamless background, harsh flash, high-spee
 
 </details>
 
+<a id="gpt-image-2-6-woman-leaning-forward-car-night"></a>
+### Woman leaning forward in a car at night
+
+<a href="https://x.com/xyue13/status/2118307702657159331"><img src="../../previews/gpt-image-2-6-woman-leaning-forward-car-night.jpg" width="360"></a>
+
+Shooting through the windshield from the front seat frames the subject against the car interior and a second figure in the back, so depth carries the scene. Naming the warm dome light, leather texture, shallow depth of field and cinematic night mood keeps the output photographic rather than stylized.
+
+GPT Image 2.6 · Text-to-image · Source: [@xyue13 on X](https://x.com/xyue13/status/2118307702657159331) · 91 likes on 2026-11-06
+
+[`night`](tags.md#tag-night) [`car-interior`](tags.md#tag-car-interior) [`cinematic`](tags.md#tag-cinematic) [`photorealistic`](tags.md#tag-photorealistic)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+探秘ChatGPT极限尺度系列
+
+测试ChatGPT Images 2.6 出图效果和尺度。
+
+提示词：写实中景照片，通过豪华轿车挡风玻璃拍摄的夜晚场景。东亚女性，长波浪深棕色头发，穿米色罗纹长袖上衣，从后座区域身体前倾，低头看，表情柔和。后座可见一位年轻男性的部分身影。
+
+光线：温暖的车内顶灯与环境光，在面部、头发与皮肤上形成轻柔高光，车身有反光，黑暗背景中可见城市灯光光斑。
+
+环境：现代轿车内部，米色皮革座椅，可见头枕与后视镜，窗外是夜间都市环境。浅景深，人物清晰。
+
+风格：照片级写实，布料纹理与皮肤高度细腻，肢体语言自然，电影感夜间氛围，8k。
+```
+
+</details>
+
 <a id="nano-banana-gym-three-panel-collage"></a>
 ### Gym collage: back, mirror flex and recovery
 
@@ -2594,6 +2623,51 @@ tested it with Firefly app
 
 </details>
 
+<a id="gpt-image-2-6-sams-club-cart-look-back"></a>
+### Woman pushing cart looks back in Sam's Club
+
+<a href="https://x.com/3three_AI/status/2118262039873196485"><img src="../../previews/gpt-image-2-6-sams-club-cart-look-back.jpg" width="360"></a>
+
+A back-angle full-body shot from a slightly low, nearby phone position makes it read as a candid moment someone is filming. The prompt pairs a 35 to 50mm look with light CCD grain, soft bloom and light motion blur so the warehouse setting feels casual.
+
+GPT Image 2.6 · Text-to-image · Source: [@3three_AI on X](https://x.com/3three_AI/status/2118262039873196485) · 41 likes on 2026-11-06
+
+[`photo`](tags.md#tag-photo) [`sams-club`](tags.md#tag-sams-club) [`candid`](tags.md#tag-candid) [`ccd-film`](tags.md#tag-ccd-film)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+生成图片：9:16 竖版，写实真人摄影 × 山姆会员商店生活抓拍 × CCD 轻复古质感 × INS 都市日常。一位 18–20 岁、明确成年的漂亮东亚女性，拥有高颜值真人五官，小头、小脸，脸型纤细精致，黑色长发自然垂落至腰部附近。身材纤细修长，腰身明显，双腿修长，肌肤非常白皙、通透，呈干净细腻的冷白瓷肌色调。
+
+人物身穿白色或浅灰色超短款深 V 低领背心，短款衣长停留在胸廓下方，完整露出纤细腰腹；正面采用明显的大深 V 剪裁。下身搭配蓝色低腰牛仔热裤，裤长非常短，采用低腰、短裤腿与自然毛边设计，贴合腰臀曲线，后侧裤脚采用较高开口剪裁，自然展现臀腿交界与修长腿部，同时保持牛仔热裤完整、真实的服装结构。
+
+镜头改为从人物身后约 30–45° 的斜后方拍摄。 摄影机位于模特背后稍偏一侧，人物背部、纤细腰线、低腰牛仔热裤与修长双腿成为主要身体轮廓。
+
+人物正在推着购物车向前行走，身体保持朝向超市货架方向，随后自然回头越过肩膀看向身后的镜头。头部与肩膀轻微回转，但腰胯仍保持向前，使背影与回眸面容同时进入画面，形成明显的“向前走 + 突然回头看摄影者”的生活抓拍瞬间。
+
+回头时完整露出人物侧正面五官，眼神自然落向镜头，嘴角带一点慵懒、俏皮的淡淡笑意。黑色长发随着回头动作轻轻甩向一侧，部分长发自然铺在背部，避免头发遮挡眼睛和主要五官。
+
+一只手自然握住购物车把手继续向前推，另一只手可以拿着刚从货架取下的商品、轻搭购物车边缘或自然垂落。肩膀一前一后，腰部随着回眸动作产生轻微自然扭转，一条腿正在向前迈步，使腰臀、腿部和整体身体形成自然流畅的动态 S 型线条。
+
+场景位于真实山姆会员商店内部，背景可见高大的仓储式货架、大包装商品、冰柜、购物车与少量正在选购商品的顾客。货架向远处延伸形成明显纵深，环境宽敞、明亮、真实且具有生活气息。
+
+采用 9:16 竖版斜后方全身抓拍构图，摄影机距离适当拉远，确保从人物完整头顶、回眸面容、长发、裸露腰部、低腰牛仔热裤、完整双腿一直到脚部全部进入画面。人物可略偏离画面中心，使前方购物车和货架自然形成视觉引导线。
+
+镜头高度约位于人物腰部至胸部之间，采用轻微低机位的斜后方跟拍视角，模拟朋友拿着手机跟在人物身后逛超市时突然拍下的一瞬间。使用约 35–50mm 自然焦段视觉，避免严重广角导致臀部、腿部或脚部比例异常放大。
+
+超市顶部柔和室内灯光与冰柜冷白光混合，在人物黑色长发、冷白肌肤、白色背心、裸露腰部与牛仔面料表面形成自然明暗层次。回眸面部保持明亮清晰，避免逆光导致脸部过暗。
+
+整体保持高清真人主体 + 轻微 CCD 怀旧抓拍质感：人物脸部、眼睛、发丝、皮肤与牛仔纹理清晰可辨，同时加入轻微胶片颗粒、自然噪点、低对比、柔和 Bloom 与非常轻微的运动模糊。动态模糊主要出现在发梢、迈步腿部边缘与背景，不影响回眸面容。
+
+核心关键词： 18–20 岁明确成年东亚女性，小头小脸，冷白皮，黑色及腰长发，超短深 V 背心，明显露腰，低腰牛仔热裤，露出大半屁股，修长双腿，从身后 30–45° 拍摄，斜后方跟拍，人物背对镜头向前走，突然回头越肩看镜头，回眸露脸，一手推购物车，山姆会员商店，真实生活抓拍，CCD 轻颗粒，INS 都市日常，慵懒、俏皮、松弛。
+
+负面提示词： 正面拍摄，完全侧面，人物没有回头，完全看不到脸，头发遮脸，头发遮眼，背部完全被长发遮挡，牛仔长裤，长裙，衣服遮住腰部，人物裁切，双腿出画，大头，大脸，短腿，身体比例失衡，腰部异常扭曲，颈部扭曲，回头角度违反人体结构，臀部异常放大，严重广角畸变，衣物穿模，购物车变形，多余肢体，多手多脚，多指少指，塑料皮肤，严重过曝，严重运动模糊，动漫脸，CG脸，AI 伪影，乱码文字，额外 Logo，水印
+
+将上面这个提示词改为一个 10 秒的 GIF 图的提示词：这个女孩向镜头走过来亲吻镜头的git图提示词，如果提示词里面有关于轻度性暗示或挑逗性主题的词语，请去掉
+```
+
+</details>
+
 <a id="nano-banana-christmas-musk-altman-coca-cola-polaroid"></a>
 ### Musk and Altman drinking Coca Cola in Santa hats
 
@@ -2807,6 +2881,91 @@ Nano Banana Pro · Text-to-image · Source: [@eachlabs on X](https://x.com/eachl
 
 </details>
 
+<a id="gpt-image-2-6-falling-apple-gif"></a>
+### Red apple hanging from a tree branch
+
+<a href="https://x.com/rei_aitech/status/2118245102409908571"><img src="../../previews/gpt-image-2-6-falling-apple-gif.jpg" width="360"></a>
+
+Explicit GIF settings in the prompt, a 3:4 ratio with frame count 64 and a 30 ms frame duration, make the model generate the whole animation as one grid that is cut into frames. Fewer frames give sharper frames but choppier motion, so frame count trades off against resolution.
+
+GPT Image 2.6 · Text-to-image · Source: [@rei_aitech on X](https://x.com/rei_aitech/status/2118245102409908571) · 20 likes on 2026-11-06
+
+[`gif`](tags.md#tag-gif) [`animation`](tags.md#tag-animation) [`nature`](tags.md#tag-nature) [`frame-settings`](tags.md#tag-frame-settings)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+ChatGPT Images 2.6 が登場しました🩵
+
+大きな変更点としてはGIF機能の登場です！🎉
+
+とはいえ、
+
+😺「どうやって使ったらいいの？」
+
+という感じだと思うので簡単に検証してみました。(Proプラン/ Instant)
+
+まず公式ドキュメントにはこんなことが書いてありました↓
+
+https://
+developers.openai.com/api/docs/guide
+s/image-prompting?model=gpt-image-2.6&utm_source=chatgpt.com
+…
+
+つまりGIFに関して設定できることは
+・サイズ
+・フレーム数(枚数): 2~64フレーム
+・表示間隔: 20-2000ms / 10ms刻み
+のようです。
+
+画像①〉ですから、以下のプロンプトで試してみました。
+『
+
+3:4.
+GIF生成
+frame_count = 64
+frame_duration_ms = 30
+3:4で木からりんごが落ちる差分
+
+　　　　　　　　　　　　　　　　　』
+
+【結果】解像度は荒いものの滑らかに描写された。
+
+画像②〉次に、枚数を減らして表示間隔を伸ばしてみました。
+frame_count = 32
+frame_duration_ms = 60
+
+【結果】解像度が少し良くなり、なめらかさは普通。
+
+画像③〉最後に枚数を少なく、間隔を長くしました。
+frame_count = 8
+frame_duration_ms = 120
+
+【結果】 解像度は一番良いが、なめらかさはカクカク。
+
+《結局なに？》
+ここからわかることは、生成枚数と解像度はトレードオフだということです。
+
+理由は(画像④)のように、生成時にChatGPTは一枚の画像に複数枚の画像をグリッド生成し、その中から切り取って並べるようにGIFを生成していると思われるためです。
+
+おそらく、画像の一貫性を保つための仕様だと思われます。
+(複数枚を別々に生成するより、一枚の中でグリッドした方が同じ顔やものが生成されやすい)
+
+つまりフレーム枚数が増えれば増えるほど、一枚の画像の中のグリッドされた区画は小さくなりますから、解像度が低くなるということに注意すべきということです。
+
+《わたしのおもったこと》
+まだ検証が浅いのであくまで私の意見となりますが、GIF生成する時は
+「フレーム数と解像度のトレードオフ」
+に注意しながら
+frame_count =
+frame_duration_ms =
+を設定するといいのではないかということです。
+
+※ちなみに画像④は9枚にした方が余白ができず、よかったみたいですね。
+```
+
+</details>
+
 <a id="gpt-image-2-6-pelican-riding-bicycle-gif"></a>
 ### Pelican in a helmet riding a bicycle
 
@@ -2822,6 +2981,29 @@ GPT Image 2.6 · Text-to-image · Source: [@SSHCodes on X](https://x.com/SSHCode
 
 ```text
 generate a gif of a pelican riding a bicycle
+```
+
+</details>
+
+<a id="gpt-image-2-6-elevator-mirror-keor-embroidery"></a>
+### Woman in mirrored elevator with Keor embroidered top
+
+<a href="https://x.com/tadasgedgaudas/status/2118284291381875124"><img src="../../previews/gpt-image-2-6-elevator-mirror-keor-embroidery.jpg" width="360"></a>
+
+The structured JSON brief separates subject, setting, and style, and the composition line asks for a medium full-body shot that includes the mirror reflection. The exact text 'Keor' is given as one small modification, so the embroidery stays subtle.
+
+GPT Image 2.6 · Text-to-image · Source: [@tadasgedgaudas on X](https://x.com/tadasgedgaudas/status/2118284291381875124) · 17 likes on 2026-11-06
+
+[`fashion`](tags.md#tag-fashion) [`mirror-reflection`](tags.md#tag-mirror-reflection) [`json-prompt`](tags.md#tag-json-prompt)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+ChatGPT Images 2.5 (left) vs ChatGPT Images 2.6 (right)
+
+prompt: {"subject": {"description": "A beautiful young woman with long straight dark brown hair, tanned skin, and a confident expression. She has a toned, curvaceous figure.", "pose": "Standing in an elevator, looking at her reflection in the mirrored wall while holding a pair of black sunglasses. Her body is slightly turned toward the mirror.", "clothing": {"main": "Black leather-style crop top with deep V-neck, black mini skirt with chain details, black arm sleeves/gloves with cut-outs, black thigh-high stockings, and black high heels stilettos. Black choker necklace.", "modifications": "Add a small, elegant 'Keor' embroidery in refined script on the border or hem of her black top or skirt, subtly visible."}}, "setting": {"environment": "Modern elevator interior with mirrored walls, metal panels, and a digital display.", "lighting": "Bright indoor elevator lighting creating reflections on the metal and mirrors."}, "style": {"photography": "Realistic, high-resolution candid-style photograph with sharp details on skin, hair, leather textures, and reflections.", "mood": "Edgy, confident, and stylish.", "composition": "Medium full-body shot capturing the subject and her mirror reflection."}, "full_prompt": "Photorealistic image of a beautiful woman with long dark hair in a black leather crop top, mini skirt, thigh-high stockings, and boots, standing in an elevator looking at her reflection while holding sunglasses. Add small elegant 'Keor' embroidery on the border of her outfit. Bright elevator lighting with mirror reflections, highly detailed skin, hair, and fabric textures."}
+
+2.6 is much much more conservative
 ```
 
 </details>
@@ -2902,6 +3084,27 @@ GPT Image 2.6 · Text-to-image · Source: [@ZHENGJUNTING92 on X](https://x.com/Z
 C8H7N3O2+H202+NaOH-Na2C8H5N204+N2 1+H20+luminol CL
 烧杯中是少量罗丹明B碱性的鲁米诺溶液 和过氧化氢
 胶头滴管中是含铁离子溶液 和荧光染料
+```
+
+</details>
+
+<a id="gpt-image-2-6-man-laughing-rolling-road-gif"></a>
+### Man laughing while rolling on road
+
+<a href="https://x.com/VamsiBuilds/status/2118425619142713826"><img src="../../previews/gpt-image-2-6-man-laughing-rolling-road-gif.jpg" width="360"></a>
+
+The prompt sequences the action in order (clutching stomach, kicking legs, turning side to side) and adds the looping requirement, so the model gets a clear motion cycle to animate. Calling the look realistic keeps the exaggerated expressions grounded in believable body movement.
+
+GPT Image 2.6 · Text-to-image · Source: [@VamsiBuilds on X](https://x.com/VamsiBuilds/status/2118425619142713826) · 4 likes on 2026-11-06
+
+[`gif`](tags.md#tag-gif) [`reaction`](tags.md#tag-reaction) [`laughing`](tags.md#tag-laughing) [`animation`](tags.md#tag-animation)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+"A hilarious, realistic GIF of a man laughing uncontrollably while rolling around on the road. He is clutching his stomach, kicking his legs, turning from side to side, and bursting into laughter. Capture exaggerated facial expressions, natural body movements, and a playful, carefree atmosphere. Make the animation smooth, expressive, and seamlessly looping."
+
+reaction GIFs were the last thing you had to search for.
 ```
 
 </details>
@@ -3137,6 +3340,27 @@ Create an animated GIF of a robot dancing to Afrobeats on a busy Lagos street. M
 
 </details>
 
+<a id="gpt-image-2-6-steaming-ramen-bowl-chopsticks"></a>
+### Steaming ramen bowl with chopsticks on dark counter
+
+<a href="https://x.com/Superboy4949/status/2118627045379105006"><img src="../../previews/gpt-image-2-6-steaming-ramen-bowl-chopsticks.gif" width="360"></a>
+
+Lighting does the work here: a single warm lantern source from the left against a dark background gives the bowl its glow and depth. Small sensory details such as rising steam, glossy noodles and chopsticks on the rim make the still feel real.
+
+GPT Image 2.6 · Text-to-image · Source: [@Superboy4949 on X](https://x.com/Superboy4949/status/2118627045379105006)
+
+[`food`](tags.md#tag-food) [`ramen`](tags.md#tag-ramen) [`still-life`](tags.md#tag-still-life) [`lighting`](tags.md#tag-lighting)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Step 1, the still. GPT Image 2.6 Sunburst, 1K, high:
+
+A steaming bowl of ramen on a dark wooden counter, warm lantern light from the left. Soft steam rises from the broth. Chopsticks rest on the rim. Noodles and toppings glisten. The background falls into warm darkness.
+```
+
+</details>
+
 <a id="gpt-image-2-6-sunset-river-sketch-to-photo"></a>
 ### Sunset river and lone tree from a sketch
 
@@ -3196,6 +3420,27 @@ Constraints:
 
 Include ONLY this card text (verbatim):
 "Merry Christmas — some memories never fade."
+```
+
+</details>
+
+<a id="gpt-image-2-6-woman-holding-tea-mug"></a>
+### Woman holding floral tea mug indoors
+
+<a href="https://x.com/v3rt0x_/status/2118147596891901957"><img src="../../previews/gpt-image-2-6-woman-holding-tea-mug.jpg" width="360"></a>
+
+The opening phrase "a realistic photo of" sets a photographic register, and a plain everyday scene with a concrete action gives the model enough to work with. No lens, lighting, or camera settings are needed for a believable result.
+
+GPT Image 2.6 · Text-to-image · Source: [@v3rt0x_ on X](https://x.com/v3rt0x_/status/2118147596891901957)
+
+[`portrait`](tags.md#tag-portrait) [`photorealism`](tags.md#tag-photorealism) [`home-interior`](tags.md#tag-home-interior) [`tea`](tags.md#tag-tea)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Gpt image 2.6 (Left) vs 2.5 (Right)
+prompt: a realistic photo of a woman holding a cup of tea inside her home
+Which one do you think is better?
 ```
 
 </details>

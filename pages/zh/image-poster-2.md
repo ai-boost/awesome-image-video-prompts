@@ -1,6 +1,33 @@
 # 海报与编辑排版
 
-[返回目录](../../README_zh.md) · 全部 202 条 · [1](image-poster.md) · **2**
+[返回目录](../../README_zh.md) · 全部 204 条 · [1](image-poster.md) · **2**
+
+<a id="gpt-image-2-6-snowman-baroque-frame"></a>
+### 金色画框中发光的雪人
+
+<a href="https://x.com/Goodmanprotocol/status/2118193088128745875"><img src="../../previews/gpt-image-2-6-snowman-baroque-frame.jpg" width="360"></a>
+
+提示词只以原图为唯一参考，并限定只从画面中已有的一到三个元素向外立体延伸，避免凭空添加新物件。上方 75% 画作与下方 25% 标题区的固定比例让版式保持稳定。
+
+GPT Image 2.6 · 上传图改图 · 出处: [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2118193088128745875) · 61 赞，统计于 2026-11-06
+
+[`baroque`](tags.md#tag-baroque) [`gallery-poster`](tags.md#tag-gallery-poster) [`snowman`](tags.md#tag-snowman) [`winter`](tags.md#tag-winter)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+PREMIUM BAROQUE FRAMED ARTWORK - PHOTOREALISTIC GALLERY POSTER
+
+Use the uploaded image as the sole visual reference. Create a seamless 3:4 vertical fine-art poster.
+
+TOP SECTION (75%): Display the original scene as a beautiful painting inside an ornate antique gold Baroque frame, mounted on a subtly textured plaster wall. Preserve the original scene and its defining details. Select 1–3 prominent elements already present in the image and extend them beyond the frame in realistic 3D, with natural depth, perspective and cast shadows. Do not introduce any new objects, flowers, plants or decorative elements that are not present in the source image. Choose a muted wall color derived from the original image's palette. Match the lighting, atmosphere and time of day of the original scene. Photorealistic rendering with a sophisticated fine-art gallery aesthetic.
+
+BOTTOM SECTION (25%): Continue the same plaster wall and lighting seamlessly. Place a small, clean thumbnail of the original unedited image slightly left of center, without a white border and with a subtle natural shadow. Beside it, add a refined 2–3-word ALL-CAPS serif title and a single-line italic subtitle inspired by the original scene. Keep the typography minimal, elegant and clearly contrasted against the wall.
+
+COMPOSITION & QUALITY: The entire poster must appear as one continuous image. No divider lines, white bands, gaps, separate panels or outer borders. Ensure seamless transitions, balanced spacing, realistic materials, sophisticated typography and premium editorial art direction. Preserve the original subject's identity and visual character without altering the source scene.
+```
+
+</details>
 
 <a id="gpt-image-neon-designer-poster-puppy-chibi"></a>
 ### 霓虹设计师海报，含小狗与Q版手办
@@ -1225,6 +1252,29 @@ NO grid.
 NO panels.
 NO generic stock icons.
 NO style-description text inside artwork.
+```
+
+</details>
+
+<a id="gpt-image-2-6-reading-club-poster"></a>
+### 周末读书会海报，摊开的书与茶杯
+
+<a href="https://x.com/longhaiqwe123/status/2118366200459915715"><img src="../../previews/gpt-image-2-6-reading-club-poster.jpg" width="360"></a>
+
+用占位符填入活动、人群和风格，把需要精确呈现的标题单独加引号，并用位置占位符固定它的落点，模型会据此准确渲染文字。
+
+GPT Image 2.6 · 文生图 · 出处: [@longhaiqwe123 on X](https://x.com/longhaiqwe123/status/2118366200459915715) · 15 赞，统计于 2026-11-06
+
+[`poster`](tags.md#tag-poster) [`typography`](tags.md#tag-typography) [`chinese-text`](tags.md#tag-chinese-text)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+制作一张关于［活动或产品］的海报，面向［目标人群］。画面采用［视觉风格］，主体位于［位置］。
+
+标题使用“［标题原文］”，放在［位置］，清晰易读。只出现一次，不要添加其他文字或水印。
+
+技巧：需要准确出现的文字，用引号单独标出；生成后记得检查拼写和小字。
 ```
 
 </details>

@@ -1,0 +1,32 @@
+id: gpt-image-2-6-kneeling-lace-camisole-backlight
+title:
+  en: Kneeling woman in lace camisole by backlit window
+  zh: 窗光逆光中跪坐的蕾丝吊带女子
+model: GPT Image 2.6
+mode: text-to-image
+category: portrait
+tags:
+- portrait
+- lace
+- backlight
+- moody
+source:
+  name: '@nicknickai on X'
+  url: https://x.com/nicknickai/status/2118620807148851439
+  credit: Nicknick
+  likes: 0
+  captured: '2026-11-06'
+  posted: '2026-11-06'
+notes:
+  en: Phone portrait framing with visible grain, soft focus and crushed shadows sells the candid, unretouched look. Backlight from a side window separates the figure from a dark room, and the cool blue grade sets the mood.
+  zh: 手机人像式的随拍构图，配合噪点、柔焦和压暗的暗部，营造真实私密的质感。侧后方窗光形成逆光轮廓，冷蓝色调统一整体氛围。
+prompt: |
+  一张室内生活感的手机人像照片，构图略随意，仿佛按下快门前的一瞬间，带有朦胧柔焦、轻微噪点、暗部压低的低清随拍质感，整体画面充满氛围感，无文字无水印。
+
+  画面主体是一位冷白皮的年轻亚洲女子，跪坐在昏暗房间的地板上。她身形极瘦，但胸部丰满圆润，形成强烈的视觉反差。她的面容精致漂亮，皮肤超级白皙且光滑细腻，散发着冷白皮的质感。头发整齐地扎起，露出修长的颈部线条，妆容为清纯淡妆，唇色水嫩，神情清冷安静，目光直视镜头，眼神中带着一丝疏离与纯欲交织的复杂情绪。
+
+  她身穿一件低胸紧身贴肤的超薄白色吊带，边缘饰有精致的蕾丝，紧紧包裹着丰满的胸部，凸显出深邃的乳沟和圆润的曲线。下身穿着白色蕾丝款式的丝袜，蕾丝花纹细腻，包裹着纤细的双腿，跪姿使得大腿与小腿线条更加紧致，丝袜的质感在暗调中若隐若现。
+
+  场景位于一间光线较暗的室内，窗外明亮的自然光照入室内，形成强烈的明暗对比。光源来自侧后方的窗户，明亮的逆光勾勒出人物身体的轮廓，并在空气中形成柔和的光晕。人物处于阴影与亮光的交界处，面部和胸部受到柔和的漫反射光照明，皮肤呈现出通透的光泽，而背景则陷入深沉的暗影中，突出了人物的主体地位。
+
+  镜头采用手机前置或后置人像模式拍摄，景深较浅，背景虚化明显，焦点集中在人物的面部和上半身。画面整体色调偏冷，带有轻微的蓝色调，增强了清冷寂静的氛围。噪点颗粒感均匀分布，模拟了高感光度下的拍摄效果，赋予照片一种真实、私密且未经修饰的随性美感。人物的姿态自然放松，双手自然垂放或轻触膝盖，身体重心略微前倾，展现出一种脆弱而迷人的纯欲风格。

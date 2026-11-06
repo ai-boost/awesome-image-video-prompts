@@ -1,0 +1,32 @@
+id: gpt-image-2-6-snowman-baroque-frame
+title:
+  en: Glowing snowman in gilded frame
+  zh: 金色画框中发光的雪人
+model: GPT Image 2.6
+mode: image-edit
+category: poster
+tags:
+- baroque
+- gallery-poster
+- snowman
+- winter
+source:
+  name: '@Goodmanprotocol on X'
+  url: https://x.com/Goodmanprotocol/status/2118193088128745875
+  credit: Saul Goodman
+  likes: 61
+  captured: '2026-11-06'
+  posted: '2026-11-05'
+notes:
+  en: The source image is the only reference, and the prompt limits the 3D breakout to one to three elements already in the picture, so the painting stays faithful. Fixed proportions for the 75 percent artwork and 25 percent caption band keep the poster layout predictable.
+  zh: 提示词只以原图为唯一参考，并限定只从画面中已有的一到三个元素向外立体延伸，避免凭空添加新物件。上方 75% 画作与下方 25% 标题区的固定比例让版式保持稳定。
+prompt: |
+  PREMIUM BAROQUE FRAMED ARTWORK - PHOTOREALISTIC GALLERY POSTER
+
+  Use the uploaded image as the sole visual reference. Create a seamless 3:4 vertical fine-art poster.
+
+  TOP SECTION (75%): Display the original scene as a beautiful painting inside an ornate antique gold Baroque frame, mounted on a subtly textured plaster wall. Preserve the original scene and its defining details. Select 1–3 prominent elements already present in the image and extend them beyond the frame in realistic 3D, with natural depth, perspective and cast shadows. Do not introduce any new objects, flowers, plants or decorative elements that are not present in the source image. Choose a muted wall color derived from the original image's palette. Match the lighting, atmosphere and time of day of the original scene. Photorealistic rendering with a sophisticated fine-art gallery aesthetic.
+
+  BOTTOM SECTION (25%): Continue the same plaster wall and lighting seamlessly. Place a small, clean thumbnail of the original unedited image slightly left of center, without a white border and with a subtle natural shadow. Beside it, add a refined 2–3-word ALL-CAPS serif title and a single-line italic subtitle inspired by the original scene. Keep the typography minimal, elegant and clearly contrasted against the wall.
+
+  COMPOSITION & QUALITY: The entire poster must appear as one continuous image. No divider lines, white bands, gaps, separate panels or outer borders. Ensure seamless transitions, balanced spacing, realistic materials, sophisticated typography and premium editorial art direction. Preserve the original subject's identity and visual character without altering the source scene.

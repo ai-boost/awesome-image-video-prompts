@@ -1,6 +1,6 @@
 # Photo editing
 
-[Back to the list](../../README.md) · All 64 entries
+[Back to the list](../../README.md) · All 65 entries
 
 <a id="nano-banana-charmander-ember-route-101"></a>
 ### Charmander uses Ember on a sunset route
@@ -1092,6 +1092,51 @@ Place a short handwritten caption in the open upper-left area: three lines, thre
 Everything in the lower panel is black line on cream, except three or four tiny color accents - a
 
 red heart, pink flowers, a yellow sparkle. The subject alone stays in full photographic color. Avoid: a cluttered or busy background, doodles filling every corner, doodles overlapping or touching the subject, large doodles rivaling the subject's size, three or more buildings, dense scribbled shadows, heavy thick linework, shading or crosshatching, long caption text, more than three lines of text, an illustrated or cartoon subject, changed face or identity, beautified skin, altered clothing or pose, colored or filled doodles, 3D rendering, side-by-side panels, watermark
+```
+
+</details>
+
+<a id="gpt-image-2-6-woman-holding-maple-leaf"></a>
+### Woman with bob holding red maple leaf
+
+<a href="https://x.com/mirai_ai2050/status/2118213713761292432"><img src="../../previews/gpt-image-2-6-woman-holding-maple-leaf.jpg" width="360"></a>
+
+Attaches a reference image and fixes the framing (chest up, fixed camera, single shot) and the exact GIF spec (288x512, 16 frames, 200 ms per frame, looping). It asks for hair and leaves to shift frame by frame instead of duplicating frames, which keeps the loop natural.
+
+GPT Image 2.6 · Edit · Source: [@mirai_ai2050 on X](https://x.com/mirai_ai2050/status/2118213713761292432) · 16 likes on 2026-11-06
+
+[`gif`](tags.md#tag-gif) [`portrait`](tags.md#tag-portrait) [`autumn`](tags.md#tag-autumn) [`animation`](tags.md#tag-animation)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+添付画像を基準に、アニメーションGIFファイルを生成してください。
+
+【出力仕様】
+・各フレームの幅：288px
+・各フレームの高さ：512px
+・総フレーム数：16フレーム
+・各フレームの表示時間：200ミリ秒
+・合計再生時間：3.2秒
+・無限ループ
+・この寸法をGIFファイルそのもののピクセル寸法として使用する。表示上のサイズだけを変えたり、余白を追加して寸法を合わせたりしない。
+
+【映像内容】
+参考画像と同じミライ、同じ顔、短いボブ、衣装、秋の街並み、日差しを維持する。
+
+構図は胸から上。顔全体と頭の上が入り、右手に持った赤いモミジが胸元に見える。
+カメラ固定、ワンカット。
+
+ミライがカメラを見ながら口元を少しほころばせ、一度だけ自然に瞬きをする。
+風でボブの毛先と背景の紅葉が少し揺れる。
+最後は最初の表情と姿勢へ戻り、自然につながるループにする。
+
+全フレームを同じ人物の連続動作として描く。
+フレームを単純に複製して枚数だけを増やさず、毛先や背景の葉の動きを時間に沿って少しずつ変える。
+顔立ちや衣装を途中で変更しない。
+
+静止画、分割画像、絵コンテではなく、動くGIFを出力する。
+字幕、文字、ロゴ、透かし、音楽なし。
 ```
 
 </details>

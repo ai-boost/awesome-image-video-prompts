@@ -1,0 +1,24 @@
+id: gpt-image-2-6-cyan-poetry-wet-portrait
+title:
+  en: Glowing cyan poetry and equations on wet skin
+  zh: 湿润皮肤上的发光青色诗句与公式
+model: GPT Image 2.6
+mode: text-to-image
+category: portrait
+tags:
+- portrait
+- cyberpunk
+- text-effect
+- cinematic
+source:
+  name: '@iamsofiaijaz on X'
+  url: https://x.com/iamsofiaijaz/status/2118561513879507399
+  credit: Aijaz
+  likes: 26
+  captured: '2026-11-06'
+  posted: '2026-11-06'
+notes:
+  en: The prompt places the glowing cyan handwriting precisely across the face, neck and shoulders and pairs it with a teal and blue palette. Shallow depth of field, sharp focus on the eyes and a dark background keep the projected text readable against the skin.
+  zh: 提示词精确指定发光青色手写文字覆盖脸部、颈部和肩部，并搭配青蓝配色。浅景深、眼部清晰对焦与暗色背景，让投射在皮肤上的文字保持可读。
+prompt: |
+  A cinematic, ultra-realistic close-up portrait of a young woman with wet, tousled dark hair and luminous skin, staring directly into the camera with an intense, introspective expression. Glowing cyan handwritten text and symbols are projected across her face, neck, and shoulders, resembling poetic phrases, equations, and abstract handwriting. The light reflections shimmer on her damp skin, creating a futuristic, cyber-poetry aesthetic. Dark,moody background with soft shadows, shallow depth of field, sharp focus on the eyes, high contrast lighting, teal and blue color palette, hyper-detailed skin texture, photorealistic, dramatic atmosphere, cyberpunk meets fine-art portrait photography, 8K quality, cinematic lighting.

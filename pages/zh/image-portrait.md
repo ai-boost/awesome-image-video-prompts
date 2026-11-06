@@ -1,6 +1,6 @@
 # 人像
 
-[返回目录](../../README_zh.md) · 全部 265 条 · **1** · [2](image-portrait-2.md) · [3](image-portrait-3.md)
+[返回目录](../../README_zh.md) · 全部 273 条 · **1** · [2](image-portrait-2.md) · [3](image-portrait-3.md)
 
 <a id="chatgpt-bw-editorial-portrait-hand-on-chin"></a>
 ### 黑白肖像，男子手托下巴
@@ -2265,6 +2265,31 @@ Nano Banana 2 on OpenArt.
 
 Prompt: Create a premium black-and-white studio portrait of the uploaded man, preserving his recognizable facial identity, natural hairstyle, skin texture, and existing facial hair. Frame him from the upper thighs upward, standing confidently, subtle body tilt and facing the camera with an intense, sharp expression.Dress him in a crisp fitted white dress shirt with the collar slightly open and the sleeves neatly rolled to the elbows, paired with tailored black trousers. Pose him with one arm folded horizontally across his waist, supporting the opposite elbow, while the raised hand rests naturally against his lips or chin in a contemplative gesture. Add a classic round analog wristwatch with a dark leather strap on the raised wrist.
 Place him against a clean, seamless charcoal-black studio background with a subtle soft gradient behind the upper body and no visible corners or props. Use soft directional light from the upper camera-right side, creating sculpted highlights on one side of the face and shirt while the opposite side falls into rich shadow. Keep strong subject-to-background separation, balanced contrast, crisp focus on the eyes, face, hands, and watch, realistic fabric folds, natural anatomy, and refined monochrome editorial toning. Shot with an 85mm portrait lens, shallow depth of field, high-end professional photography, 4:5 aspect ratio.
+```
+
+</details>
+
+<a id="gpt-image-2-6-overhead-pov-selfie-bedroom-tee"></a>
+### 卧室俯拍自拍，白色短袖与黑色短裤
+
+<a href="https://x.com/johnAGI168/status/2118247837683044650"><img src="../../previews/gpt-image-2-6-overhead-pov-selfie-bedroom-tee.jpg" width="360"></a>
+
+极端俯拍的20mm广角视角加上伸出的手臂框住画面角落，营造真实自拍感。细腻的35mm颗粒和明确的反CGI描述让皮肤质感更接近实拍，描述地板、窗帘和鞋跟接触阴影则让场景更扎实。
+
+GPT Image 2.6 · 文生图 · 出处: [@johnAGI168 on X](https://x.com/johnAGI168/status/2118247837683044650) · 208 赞，统计于 2026-11-06
+
+[`selfie`](tags.md#tag-selfie) [`pov`](tags.md#tag-pov) [`wide-angle`](tags.md#tag-wide-angle) [`fashion`](tags.md#tag-fashion)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A crisp, high-fidelity vertical POV selfie photograph captured from an extreme high angle with a 20mm ultra-wide lens perspective — looking straight down at an exceptionally gorgeous young East Asian woman standing in her bedroom, her outstretched arm framing the upper corner.
+
+She possesses elite influencer beauty, wavy dark brown hair with see-through air bangs, light gray-green contact lenses, a tiny beauty mark beneath her right eye, igari-style pink blushed cheeks, and glossy lips. She has a slender hourglass figure, wearing a tight white scoop-neck cropped short-sleeve tee, black retro dolphin shorts with white piped edges and a front drawstring, and glossy black patent leather pointed-toe stiletto pumps on her bare feet.
+
+The room features light oak hardwood flooring, soft cream curtains, and a white bed edge softly blurred in the background. Clean, diffuse indoor overhead ambient lighting illuminates her features naturally, casting gentle, physically accurate contact shadows beneath her heels.
+
+Captured with natural wide-angle perspective stretching height from head to feet, with deep depth of field and fine organic 35mm grain. Authentic skin texture with delicate pores, biological warmth, realistic cotton fabric stretch, and crisp patent leather reflections — strictly no CGI, no 3D render, no plastic skin, no artificial smoothing, no waxy AI look.
 ```
 
 </details>
@@ -4832,29 +4857,6 @@ Background: Minimalist muted sage-green and turquoise studio backdrop with soft,
 Lighting: Professional softbox lighting, cinematic shadows, delicate highlights on the cheekbones, realistic satin reflections, beautiful skin texture, and sophisticated color grading.
 
 Photography style: Luxury beauty campaign, Vogue-inspired editorial photography, 85mm portrait lens, shallow depth of field, sharp focus on the eyes, photorealistic details, premium fashion magazine aesthetic,  vertical 9:16 composition.
-```
-
-</details>
-
-<a id="gpt-image-halftone-windswept-hair-portrait-ivory-paper"></a>
-### 象牙纸上的飞发网点肖像
-
-<a href="https://x.com/hey_am_cherry/status/2111324127378416005"><img src="../../previews/gpt-image-halftone-windswept-hair-portrait-ivory-paper.jpg" width="360"></a>
-
-提示词点明网点、点刻阴影和丝网印刷质感，并限定为深黑与奶油两色，复古印刷感很到位。独立的反向提示排除彩色、3D 和塑料皮肤，同时明确了胸部以上的构图。
-
-GPT Image 2.5 · 文生图 · 出处: [@hey_am_cherry on X](https://x.com/hey_am_cherry/status/2111324127378416005) · 108 赞，统计于 2026-10-29
-
-[`halftone`](tags.md#tag-halftone) [`monochrome`](tags.md#tag-monochrome) [`portrait`](tags.md#tag-portrait) [`vintage-print`](tags.md#tag-vintage-print) [`negative-prompt`](tags.md#tag-negative-prompt)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-{
-  "aspect_ratio": "9:16",
-  "prompt": "A beautiful young woman with long, messy black hair blowing dramatically across her face, eyes closed, lips slightly parted, head tilted back, elegant elongated neck, wearing a simple black V-neck top. Chest-up portrait, slightly right of center. Vintage monochrome halftone print art, tiny black ink dots, stippled shading, high contrast, warm ivory textured paper background, deep black shadows, cream highlights, retro editorial photography, moody, dreamy, melancholic, intricate details, sharp facial features, authentic screen-print texture.",
-  "negative_prompt": "color, 3D, anime, plastic skin, open eyes, exaggerated expression, deformed face, bad anatomy, extra features, busy background, text, watermark, excessive blur"
-}
 ```
 
 </details>

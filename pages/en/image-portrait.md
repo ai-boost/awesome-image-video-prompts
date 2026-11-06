@@ -1,6 +1,6 @@
 # Portraits
 
-[Back to the list](../../README.md) · All 265 entries · **1** · [2](image-portrait-2.md) · [3](image-portrait-3.md)
+[Back to the list](../../README.md) · All 273 entries · **1** · [2](image-portrait-2.md) · [3](image-portrait-3.md)
 
 <a id="chatgpt-bw-editorial-portrait-hand-on-chin"></a>
 ### Black and white portrait, man with hand on chin
@@ -2265,6 +2265,31 @@ Nano Banana 2 on OpenArt.
 
 Prompt: Create a premium black-and-white studio portrait of the uploaded man, preserving his recognizable facial identity, natural hairstyle, skin texture, and existing facial hair. Frame him from the upper thighs upward, standing confidently, subtle body tilt and facing the camera with an intense, sharp expression.Dress him in a crisp fitted white dress shirt with the collar slightly open and the sleeves neatly rolled to the elbows, paired with tailored black trousers. Pose him with one arm folded horizontally across his waist, supporting the opposite elbow, while the raised hand rests naturally against his lips or chin in a contemplative gesture. Add a classic round analog wristwatch with a dark leather strap on the raised wrist.
 Place him against a clean, seamless charcoal-black studio background with a subtle soft gradient behind the upper body and no visible corners or props. Use soft directional light from the upper camera-right side, creating sculpted highlights on one side of the face and shirt while the opposite side falls into rich shadow. Keep strong subject-to-background separation, balanced contrast, crisp focus on the eyes, face, hands, and watch, realistic fabric folds, natural anatomy, and refined monochrome editorial toning. Shot with an 85mm portrait lens, shallow depth of field, high-end professional photography, 4:5 aspect ratio.
+```
+
+</details>
+
+<a id="gpt-image-2-6-overhead-pov-selfie-bedroom-tee"></a>
+### Overhead POV selfie in bedroom, white tee and shorts
+
+<a href="https://x.com/johnAGI168/status/2118247837683044650"><img src="../../previews/gpt-image-2-6-overhead-pov-selfie-bedroom-tee.jpg" width="360"></a>
+
+An extreme high-angle 20mm POV with an outstretched arm framing the corner sells the selfie look. Fine 35mm grain and explicit anti-CGI wording push the skin toward a real photo, while naming the floor, curtains and heel contact shadows grounds the scene.
+
+GPT Image 2.6 · Text-to-image · Source: [@johnAGI168 on X](https://x.com/johnAGI168/status/2118247837683044650) · 208 likes on 2026-11-06
+
+[`selfie`](tags.md#tag-selfie) [`pov`](tags.md#tag-pov) [`wide-angle`](tags.md#tag-wide-angle) [`fashion`](tags.md#tag-fashion)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A crisp, high-fidelity vertical POV selfie photograph captured from an extreme high angle with a 20mm ultra-wide lens perspective — looking straight down at an exceptionally gorgeous young East Asian woman standing in her bedroom, her outstretched arm framing the upper corner.
+
+She possesses elite influencer beauty, wavy dark brown hair with see-through air bangs, light gray-green contact lenses, a tiny beauty mark beneath her right eye, igari-style pink blushed cheeks, and glossy lips. She has a slender hourglass figure, wearing a tight white scoop-neck cropped short-sleeve tee, black retro dolphin shorts with white piped edges and a front drawstring, and glossy black patent leather pointed-toe stiletto pumps on her bare feet.
+
+The room features light oak hardwood flooring, soft cream curtains, and a white bed edge softly blurred in the background. Clean, diffuse indoor overhead ambient lighting illuminates her features naturally, casting gentle, physically accurate contact shadows beneath her heels.
+
+Captured with natural wide-angle perspective stretching height from head to feet, with deep depth of field and fine organic 35mm grain. Authentic skin texture with delicate pores, biological warmth, realistic cotton fabric stretch, and crisp patent leather reflections — strictly no CGI, no 3D render, no plastic skin, no artificial smoothing, no waxy AI look.
 ```
 
 </details>
@@ -4803,35 +4828,6 @@ The miniature figurine in the immediate foreground is a perfect scale replica, a
 The hand holding the base is rendered with extreme dermatological fidelity, showing skin pores, knuckles, and fingerprints in razor-sharp focus. The background is a picturesque English countryside garden featuring a stone cottage with a chimney, a wooden archway covered in climbing purple wisteria, lush green lawns, and vibrant pink rose bushes, all bathed in soft, diffused natural daylight with a shallow depth of field that creates a creamy bokeh effect on the distant architecture and foliage.
 
 8K resolution, cinematic lighting, photorealistic textures, 2:3 ratio.
-```
-
-</details>
-
-<a id="nano-banana-burgundy-satin-editorial-portrait"></a>
-### Editorial portrait in burgundy satin with gold earrings
-
-<a href="https://x.com/MissDelulu9/status/2109630710642528421"><img src="../../previews/nano-banana-burgundy-satin-editorial-portrait.jpg" width="360"></a>
-
-The prompt is built in labeled blocks for face, hair and outfit, pose, background, lighting and photography style. Specific lens, lighting and skin texture terms (85mm, softbox, pores, champagne highlight) steer it toward a believable magazine look.
-
-Nano Banana 2.1 · Text-to-image · Source: [@MissDelulu9 on X](https://x.com/MissDelulu9/status/2109630710642528421) · 110 likes on 2026-10-28
-
-[`editorial`](tags.md#tag-editorial) [`fashion`](tags.md#tag-fashion) [`portrait`](tags.md#tag-portrait) [`satin`](tags.md#tag-satin) [`studio-lighting`](tags.md#tag-studio-lighting)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create an ultra-realistic, high-fashion editorial portrait of a stunning adult woman with striking blue-grey eyes, naturally full lips with glossy coral-red lipstick, defined eyebrows, sharp black winged eyeliner, long eyelashes, subtle freckles, and luminous dewy skin with realistic pores and a soft champagne highlight.
-
-Her sleek, jet-black hair is neatly center-parted and pulled back into a long, straight, low ponytail. She wears an elegant deep burgundy satin couture dress featuring an exaggerated sculptural high collar, dramatic draped fabric, and an asymmetrical sleeveless design. Large, polished gold geometric statement earrings complete the luxurious look.
-
-Pose: Three-quarter over-the-shoulder pose, body turned away from the camera while her face looks directly toward the viewer, with a confident, elegant, slightly mysterious expression.
-
-Background: Minimalist muted sage-green and turquoise studio backdrop with soft, atmospheric gradients.
-
-Lighting: Professional softbox lighting, cinematic shadows, delicate highlights on the cheekbones, realistic satin reflections, beautiful skin texture, and sophisticated color grading.
-
-Photography style: Luxury beauty campaign, Vogue-inspired editorial photography, 85mm portrait lens, shallow depth of field, sharp focus on the eyes, photorealistic details, premium fashion magazine aesthetic,  vertical 9:16 composition.
 ```
 
 </details>

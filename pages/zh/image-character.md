@@ -1,6 +1,6 @@
 # 角色与手办
 
-[返回目录](../../README_zh.md) · 全部 104 条
+[返回目录](../../README_zh.md) · 全部 108 条
 
 <a id="gpt-image-tanjiro-pixel-sprite-sheet-water-attack"></a>
 ### 炭治郎十六帧像素精灵图与水之呼吸攻击
@@ -1507,6 +1507,45 @@ prompt: "pixel art; a rogue game character facing south east. isometric view. so
 
 </details>
 
+<a id="gpt-image-2-6-deadpan-fox-sticker"></a>
+### 头顶配字的冷漠藏狐
+
+<a href="https://x.com/vastxie/status/2118265895613346263"><img src="../../previews/gpt-image-2-6-deadpan-fox-sticker.jpg" width="360"></a>
+
+用固定的人物描述锁定主体，只让爪子动作和配字变化，脸部保持静止，整套形象保持一致。标牌悬浮在头顶并写明留白间距，同时禁止白色描边，抠图边缘才干净。
+
+GPT Image 2.6 · 文生图 · 出处: [@vastxie on X](https://x.com/vastxie/status/2118265895613346263) · 98 赞，统计于 2026-11-06
+
+[`sticker`](tags.md#tag-sticker) [`fox`](tags.md#tag-fox) [`animated-gif`](tags.md#tag-animated-gif) [`transparent-background`](tags.md#tag-transparent-background)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+"Keep the exact same expressive semi-realistic natural history illustration of a square-faced Tibetan fox with its iconic wide boxy head, sandy-ochre fur, and utterly deadpan half-closed unimpressed eyes. Comedy contrast: the fox's giant square face and deadpan unblinking eyes remain 100% motionless across all frames, while [填动作，如: its two front paws slowly clap together]. Floating cleanly in the air ABOVE the head (with a wide empty transparent gap between the sign and the ears, NO sticks, NO poles), a flat rectangular white label with a crisp black border and bold black Chinese text reads '[填配字，如: 好棒棒]'. Isolated on a pure transparent background. Strictly NO white sticker border, NO white outline. Smooth 9-frame looping animation."
+
+2️⃣ 微信 240×240 GIF89a 深色模式零白沫量化核心代码（Pillow）：
+def save_wechat_gif(frames_rgba, out_path, duration_ms=110):
+p_frames = []
+for f in frames_rgba:
+rgba = f.convert("RGBA")
+alpha = rgba.getchannel("A")
+# 关键：千万别往白底上预乘！只保留 alpha>=145 的前景原始 RGB 参与调色板量化
+clean_rgb =
+http://
+Image.new("RGB", rgba.size, (128, 128, 128))
+fg_mask = alpha.point(lambda a: 255 if a >= 145 else 0)
+clean_rgb.paste(rgba.convert("RGB"), mask=fg_mask)
+quant = clean_rgb.quantize(colors=255, method=Image.Quantize.FASTOCTREE, dither=Image.Dither.NONE)
+# 255 号色固定留给透明通道，深色模式下边缘绝对不泛白沫
+trans_mask = alpha.point(lambda a: 255 if a < 145 else 0)
+quant.paste(255, mask=trans_mask)
+p_frames.append(quant)
+p_frames[0].save(out_path, save_all=True, append_images=p_frames[1:],
+loop=0, duration=duration_ms, disposal=2, transparency=255, optimize=True)
+```
+
+</details>
+
 <a id="nano-banana-pixar-boy-sunglasses-black-background"></a>
 ### 皮克斯风格坐姿少年，戴墨镜拿咖啡
 
@@ -2160,6 +2199,30 @@ dancing frog with a top hat on, with ego be gone! written at the top
 
 </details>
 
+<a id="gpt-image-2-6-woman-kimono-door-viewer"></a>
+### 和服女子透过门镜看向门外
+
+<a href="https://x.com/kabumira862571/status/2118220107487051883"><img src="../../previews/gpt-image-2-6-woman-kimono-door-viewer.jpg" width="360"></a>
+
+上传参考图并指定门镜视角，门镜镜头带来鱼眼构图，要求忠实还原脸部、发型和服装以保持角色一致。晴天住宅街与自然光定下画面氛围。
+
+GPT Image 2.6 · 上传图改图 · 出处: [@kabumira862571 on X](https://x.com/kabumira862571/status/2118220107487051883) · 15 赞，统计于 2026-11-06
+
+[`character-reference`](tags.md#tag-character-reference) [`fisheye`](tags.md#tag-fisheye) [`door-viewer`](tags.md#tag-door-viewer) [`kimono`](tags.md#tag-kimono)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+玄関先でこちらを見るキャラ。
+[＊＊＊]
+キャラは、アップロード画像を参照。
+顔・髪型・服装まで忠実に再現。
+晴れた住宅街、自然光。
+アスペクト比縦4:5。
+```
+
+</details>
+
 <a id="gpt-image-2-6-waving-laughing-character-gif"></a>
 ### 卡通角色挥手大笑的GIF动画
 
@@ -2195,6 +2258,83 @@ GPT Image 2.6 · 文生图 · 出处: [@YaReYaRu30Life on X](https://x.com/YaReY
 ```text
 GIFを作成。ドット絵の勇者。
 剣にエフェクトをつけて振り回す
+```
+
+</details>
+
+<a id="gpt-image-2-6-chibi-boy-sticker-set"></a>
+### 卡通小男孩十二款表情包配文字
+
+<a href="https://x.com/ai_bange/status/2118339480365277460"><img src="../../previews/gpt-image-2-6-chibi-boy-sticker-set.gif" width="360"></a>
+
+上传一张照片作为角色参考，并为十二种心情分别设计动作，角色外观在整组中保持一致。文案按每个动作单独设计并放在角色旁边，既清晰可读，也不遮挡脸部。
+
+GPT Image 2.6 · 上传图改图 · 出处: [@ai_bange on X](https://x.com/ai_bange/status/2118339480365277460) · 6 赞，统计于 2026-11-06
+
+[`sticker`](tags.md#tag-sticker) [`gif`](tags.md#tag-gif) [`character`](tags.md#tag-character) [`chinese-text`](tags.md#tag-chinese-text)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+请根据我上传的图片，制作一套 12 款动态表情包。
+
+【识别主体】
+观察图片，选择最适合制作表情包的主体。主体可能是人物、动物、卡通角色、物品或其他形象。如果有多个主体，优先选择最突出、最适合表达情绪的一个。
+
+保留主体最容易辨认的外貌、颜色、服装或其他特征。12 款表情中的角色需要保持一致，不随动作改变身份或主要特征。
+
+【画风】
+结合图片内容选择适合的表情包风格，整体可爱、有趣、辨识度高。12 款保持统一的线条、色彩和背景。
+
+可以适度卡通化和夸张化，但不要让角色失去原有特征。人物保留原有年龄特征，服装和动作符合角色形象。
+
+【12 种心情】
+围绕以下心情或场景，结合主体特点自动设计不同的表情和动作：
+
+1. 开心
+2. 生气
+3. 委屈
+4. 大笑
+5. 收到或回应
+6. 疑惑
+7. 疲惫
+8. 震惊
+9. 装睡或逃避
+10. 期待或等待
+11. 无奈或不忍直视
+12. 放松、放学或下班
+
+根据主体的身体结构设计动作。例如：
+- 小狗开心时可以摇尾巴、蹦跳，跑步时耳朵随之晃动。
+- 人物开心时可以挥手、跳起来。
+- 物品可以通过开合、弹跳或适度形变表达情绪。
+
+如果角色有耳朵、头发、衣物或随身物件，让它们适当地随动作运动。保持主体始终完整、可辨认。
+
+【动态文案】
+不要给所有表情机械地套用固定文案。根据每款表情的角色、情绪和动作，分别设计自然、有趣的中文短句。
+
+每款可以设计一到两句文案，让文字随动作节奏出现、切换或消失。例如：
+- 开心时，从“好开心！”切换到“耶！”
+- 装睡时，从“嘘……”切换到“我睡啦”。
+
+文字位置和展示方式可以灵活变化：在人物上方或侧边出现，也可以弹出、轻晃、放大或渐显。不同表情可以使用不同方式，但整体风格保持统一。
+
+文字应准确、清晰，避免挡住角色的脸和关键动作，也不要超出画面。
+
+【动态制作】
+- 为每款表情设计连续、明显的动作。
+- 让表情、身体或主体的相应部位实际发生变化，不要只让整张静态图片平移、旋转或缩放。
+- 角色动作与文字动画配合，节奏自然。
+- 动画首尾自然衔接，GIF 无限循环。
+- 保持角色、画风和背景稳定，避免明显变形、闪烁、重影或裁切。
+
+【最终交付】
+1. 12 个独立 GIF，按各自的心情或文案命名，并打包提供下载。
+2. 一张动态总览 GIF：按 4 列 × 3 行排列，12 款表情同时播放。
+3. 在对话中直接展示动态总览，并提供总览 GIF 和独立 GIF 压缩包的下载链接。
+
+如果当前工具无法直接生成 GIF，可以先制作连续动作帧，再合成循环 GIF。若无法完成动图，请说明实际完成的内容，不要把静态图称为已完成的角色动画。
 ```
 
 </details>
@@ -2290,6 +2430,66 @@ GPT Image 2.6 · 文生图 · 出处: [@dreamwieber on X](https://x.com/dreamwie
 
 ```text
 generate an animated gif of a claymation kitten playing in a plastic ball pit
+```
+
+</details>
+
+<a id="gpt-image-2-6-cat-eared-kitchen-gesture-grid"></a>
+### 九宫格愤怒的猫耳女孩比划九种粗鲁手势
+
+<a href="https://x.com/livybabie/status/2118323154498048267"><img src="../../previews/gpt-image-2-6-cat-eared-kitchen-gesture-grid.jpg" width="360"></a>
+
+锁定的角色与服装描述让九个画格保持同一人物、同一套衣服和同一张厨房餐桌。每格指定一个不同的手势，使整张网格有变化而不是重复。
+
+GPT Image 2.6 · 文生图 · 出处: [@livybabie on X](https://x.com/livybabie/status/2118323154498048267)
+
+[`anime`](tags.md#tag-anime) [`contact-sheet`](tags.md#tag-contact-sheet) [`character-consistency`](tags.md#tag-character-consistency)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create exactly ONE polished anime illustration presented as a clean 3×3 contact-sheet grid: nine separate framed panels arranged in three rows and three columns, with clear, uniform borders between every image.
+
+CHARACTER CONSISTENCY:
+The exact same clearly adult female character appears in all nine panels. Preserve identical facial identity, hairstyle, hair color, eye color, body proportions, accessories, species traits, and clothing throughout the entire grid. Do not create nine different characters.
+
+SETTING:
+A modest, lived-in domestic kitchen. The character is sitting at or leaning against the same kitchen table in every panel. Include ordinary household details such as a ceramic mug, breakfast plate, fruit bowl, bottle, napkins, utensils, food packaging, smartphone, or slightly disorganized kitchen objects.
+
+OUTFIT:
+Casual at-home clothing appropriate to the character: oversized T-shirt, tank top, loose hoodie, comfortable shorts, pajama pants, casual jeans, or similarly relaxed domestic wear. Keep the exact same outfit across all nine panels.
+
+CAMERA:
+Three-quarter portrait angle in every panel, approximately waist-up or mid-torso-up. Natural variation in head tilt, shoulder angle, hand placement, and camera distance, while preserving a coherent photo-session feeling.
+
+EXPRESSION:
+She is visibly irritated in every panel: grumpy, annoyed, tired, impatient, unimpressed, mildly hostile, or clearly wishing the photographer would leave her alone. Furrowed brows, narrowed eyes, pursed lips, deadpan glare, annoyed side-eye, restrained scowl. Absolutely no cheerful smiling.
+
+NINE DIFFERENT RUDE HAND GESTURES:
+Panel 1 — right-hand middle finger raised toward the viewer.
+Panel 2 — left-hand middle finger held close to the camera.
+Panel 3 — both middle fingers raised simultaneously.
+Panel 4 — classic bras d’honneur / forearm jerk gesture, one fist raised while the opposite hand strikes or grips the bent forearm.
+Panel 5 — insulting inward-facing V-sign, palm facing toward herself.
+Panel 6 — dismissive chin-flick gesture, fingers brushing outward from beneath the chin.
+Panel 7 — provocative fig gesture, thumb deliberately protruding between index and middle fingers.
+Panel 8 — sarcastic downward-pointing thumb combined with an irritated dismissive hand motion.
+Panel 9 — one hand pointing directly toward the viewer while the other hand raises a middle finger, creating an aggressive final-panel pose.
+
+Every gesture must be clearly readable and visually different. Hands must remain completely visible inside the panel boundaries.
+
+STYLE:
+High-quality contemporary anime illustration with expressive adult facial anatomy, clean linework, sophisticated cel shading, detailed hair, natural hands, subtle fabric folds, believable domestic background perspective, and restrained cinematic lighting. Avoid chibi proportions and avoid childish facial design.
+
+LAYOUT LOCK:
+One single finished image containing exactly nine rectangular panels.
+3 columns × 3 rows.
+Consistent panel dimensions.
+Visible decorative borders.
+No overlapping panels.
+No missing cells.
+No extra panels.
+No text, captions, speech bubbles, numbering, logos, or watermarks.
 ```
 
 </details>

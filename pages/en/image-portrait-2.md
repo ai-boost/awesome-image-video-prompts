@@ -1,6 +1,35 @@
 # Portraits
 
-[Back to the list](../../README.md) · All 265 entries · [1](image-portrait.md) · **2** · [3](image-portrait-3.md)
+[Back to the list](../../README.md) · All 273 entries · [1](image-portrait.md) · **2** · [3](image-portrait-3.md)
+
+<a id="nano-banana-burgundy-satin-editorial-portrait"></a>
+### Editorial portrait in burgundy satin with gold earrings
+
+<a href="https://x.com/MissDelulu9/status/2109630710642528421"><img src="../../previews/nano-banana-burgundy-satin-editorial-portrait.jpg" width="360"></a>
+
+The prompt is built in labeled blocks for face, hair and outfit, pose, background, lighting and photography style. Specific lens, lighting and skin texture terms (85mm, softbox, pores, champagne highlight) steer it toward a believable magazine look.
+
+Nano Banana 2.1 · Text-to-image · Source: [@MissDelulu9 on X](https://x.com/MissDelulu9/status/2109630710642528421) · 110 likes on 2026-10-28
+
+[`editorial`](tags.md#tag-editorial) [`fashion`](tags.md#tag-fashion) [`portrait`](tags.md#tag-portrait) [`satin`](tags.md#tag-satin) [`studio-lighting`](tags.md#tag-studio-lighting)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create an ultra-realistic, high-fashion editorial portrait of a stunning adult woman with striking blue-grey eyes, naturally full lips with glossy coral-red lipstick, defined eyebrows, sharp black winged eyeliner, long eyelashes, subtle freckles, and luminous dewy skin with realistic pores and a soft champagne highlight.
+
+Her sleek, jet-black hair is neatly center-parted and pulled back into a long, straight, low ponytail. She wears an elegant deep burgundy satin couture dress featuring an exaggerated sculptural high collar, dramatic draped fabric, and an asymmetrical sleeveless design. Large, polished gold geometric statement earrings complete the luxurious look.
+
+Pose: Three-quarter over-the-shoulder pose, body turned away from the camera while her face looks directly toward the viewer, with a confident, elegant, slightly mysterious expression.
+
+Background: Minimalist muted sage-green and turquoise studio backdrop with soft, atmospheric gradients.
+
+Lighting: Professional softbox lighting, cinematic shadows, delicate highlights on the cheekbones, realistic satin reflections, beautiful skin texture, and sophisticated color grading.
+
+Photography style: Luxury beauty campaign, Vogue-inspired editorial photography, 85mm portrait lens, shallow depth of field, sharp focus on the eyes, photorealistic details, premium fashion magazine aesthetic,  vertical 9:16 composition.
+```
+
+</details>
 
 <a id="gpt-image-halftone-windswept-hair-portrait-ivory-paper"></a>
 ### Windswept Hair Halftone Portrait on Ivory Paper
@@ -2692,6 +2721,25 @@ GPT Image 2.5 · Edit · Source: [@AiwithBloodline on X](https://x.com/AiwithBlo
 
 </details>
 
+<a id="gpt-image-2-6-90s-film-snapshot-woman"></a>
+### Woman in light blue sweatshirt before polaroid wall
+
+<a href="https://x.com/AIwithSarah_/status/2118202866448077182"><img src="../../previews/gpt-image-2-6-90s-film-snapshot-woman.jpg" width="360"></a>
+
+Frames the request as a 90s film snapshot and lists on-camera flash, grain, motion blur and a cluttered polaroid wall, which together give the candid bedroom look.
+
+GPT Image 2.6 · Text-to-image · Source: [@AIwithSarah_ on X](https://x.com/AIwithSarah_/status/2118202866448077182) · 38 likes on 2026-11-06
+
+[`portrait`](tags.md#tag-portrait) [`vintage film`](tags.md#tag-vintagefilm) [`polaroid`](tags.md#tag-polaroid) [`90s`](tags.md#tag-90s)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A young woman with the same unchanged face and soft natural complexion, captured in a spontaneous 90s film snapshot. Her loose black hair falls over the shoulders of a baby-blue cropped zip-up sweatshirt worn over a white ribbed tank top. She looks directly into the camera with a relaxed expression and a faint smile. The dim beige wall behind her is covered with colorful polaroids, tiny stickers, music flyers, and handwritten messages. Bright on-camera flash, slightly cool color temperature, natural skin texture, subtle motion blur, authentic disposable-camera grain, imperfect vintage composition, nostalgic bedroom photography.
+```
+
+</details>
+
 <a id="nano-banana-christmas-modern-santa-reindeer-studio"></a>
 ### Modern Santa with reindeer in red studio
 
@@ -2937,6 +2985,49 @@ Nano Banana Pro · Text-to-image · Source: [@i_am_shruti68 on X](https://x.com/
 
 </details>
 
+<a id="gpt-image-2-6-moonlit-lake-hanfu-portrait"></a>
+### Woman seated in moonlit lake water
+
+<a href="https://x.com/sandmrk/status/2118269430014599535"><img src="../../previews/gpt-image-2-6-moonlit-lake-hanfu-portrait.jpg" width="360"></a>
+
+The prompt is split into labelled sections for face, pose, outfit, setting, light and framing, so each element stays specific and controllable. The watermark string is spelled out with font, size, spacing and position, which is why it lands at the bottom centre as specified.
+
+GPT Image 2.6 · Text-to-image · Source: [@sandmrk on X](https://x.com/sandmrk/status/2118269430014599535) · 30 likes on 2026-11-06
+
+[`portrait`](tags.md#tag-portrait) [`moonlight`](tags.md#tag-moonlight) [`hanfu`](tags.md#tag-hanfu) [`night-lake`](tags.md#tag-night-lake)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+9:16竖版，超写实人像摄影，月夜湖畔清冷氛围。成年东亚女性侧坐于湖边湿润岩石上，双腿垂入浅水，身形高挑纤细，胸部饱满，腰身收束流畅。身穿月白色纱质褙子，内衬淡青色抹胸，纱质披帛垂入水中。月光从右上方照射，形成冷银色轮廓光。
+
+【人物】
+成年东亚女性，清冷孤傲气质。瓜子脸（下巴尖，额头宽，清冷孤傲），丹凤眼（细长上挑，眼尾飞扬，妩媚冷艳），剑眉（粗直上扬，英气飒爽），薄唇（纤薄精致，清冷克制），尖鼻（鼻尖尖锐，冷艳凌厉）。五官严格匀称，透视关系正确：双眼大小一致对称，两眼间距等于单眼宽度，鼻翼宽度等于眼距，嘴唇宽度等于瞳孔间距，面部中线左右对称。眉心一颗小痣（增加辨识度）。乌黑低髻，简单银簪，素雅淡妆。
+
+【姿势】
+侧坐于湖边湿润岩石上，身体微微后仰，双手撑在身后岩石上。双腿向前伸展，垂入浅水中，水面泛起微微涟漪。头部微微抬起，丹凤眼直视镜头，眼神清冷孤傲。
+
+【服装】
+月白色纱质褙子，半透明，绣有淡墨色水纹和云纹。内衬淡青色抹胸，贴合承托。纱质披帛从肩部垂落，末端垂入水中，被水浸湿。整体修长含蓄，简洁内敛。
+
+【环境】
+月夜湖畔：深蓝色夜空，明月高悬，月光洒在湖面上形成银色光路。湖边有湿润的黑色岩石，水面平静如镜，倒映着月亮和人物。远处有模糊的柳树剪影。薄雾弥漫在湖面上，营造空灵氛围。
+
+【光影】
+月光从右上方照射，形成冷银色轮廓光，照亮发丝和纱质服装边缘。面部使用柔和的月光补光，保持清冷色调。水面反射月光，形成银色光路。整体色调：深蓝+银白+月白+淡青。
+
+【构图】
+中景构图，人物占据画面中央，双腿垂入水中形成纵向线条。月亮位于画面上方1/4处。水面倒影和薄雾营造层次。
+
+Negative: anime, CGI, plastic skin, over-smoothing, hard shadows, revealing clothing, wrong anatomy, extra fingers, text, watermark, logo, modern elements, Western fantasy, oversaturated, thick legs, chubby body, overweight, flat chest, asymmetric eyes, uneven facial features, distorted proportions, deformed face, warm lighting, golden hour, sunny day.
+
+Add the exact watermark "AI art gallery |
+@sandmrk
+" at the bottom center. Montserrat Regular, pure white, slightly expanded letter spacing (+1.5px), medium-small size (2% of image height), maximum 25% image width, positioned 10% above the bottom edge. Crisp, elegant, consistent typography. No shadow, outline, glow or background.
+```
+
+</details>
+
 <a id="gpt-image-christmas-red-sequin-dress-santa-stairs"></a>
 ### Woman in red sequin dress with Santa on stairs
 
@@ -2961,6 +3052,25 @@ GPT Image 1.5 · Text-to-image · Source: [@KeorUnreal on X](https://x.com/KeorU
   "environment": "To her right is a large Christmas tree richly decorated with warm gold, bronze, and brown ornaments, baubles, and warm white string lights.",
   "atmosphere": "The general atmosphere remains warm, moody, and low-key with dim evening lighting, but shining jewelry"
 }
+```
+
+</details>
+
+<a id="gpt-image-2-6-cyan-poetry-wet-portrait"></a>
+### Glowing cyan poetry and equations on wet skin
+
+<a href="https://x.com/iamsofiaijaz/status/2118561513879507399"><img src="../../previews/gpt-image-2-6-cyan-poetry-wet-portrait.jpg" width="360"></a>
+
+The prompt places the glowing cyan handwriting precisely across the face, neck and shoulders and pairs it with a teal and blue palette. Shallow depth of field, sharp focus on the eyes and a dark background keep the projected text readable against the skin.
+
+GPT Image 2.6 · Text-to-image · Source: [@iamsofiaijaz on X](https://x.com/iamsofiaijaz/status/2118561513879507399) · 26 likes on 2026-11-06
+
+[`portrait`](tags.md#tag-portrait) [`cyberpunk`](tags.md#tag-cyberpunk) [`text-effect`](tags.md#tag-text-effect) [`cinematic`](tags.md#tag-cinematic)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A cinematic, ultra-realistic close-up portrait of a young woman with wet, tousled dark hair and luminous skin, staring directly into the camera with an intense, introspective expression. Glowing cyan handwritten text and symbols are projected across her face, neck, and shoulders, resembling poetic phrases, equations, and abstract handwriting. The light reflections shimmer on her damp skin, creating a futuristic, cyber-poetry aesthetic. Dark,moody background with soft shadows, shallow depth of field, sharp focus on the eyes, high contrast lighting, teal and blue color palette, hyper-detailed skin texture, photorealistic, dramatic atmosphere, cyberpunk meets fine-art portrait photography, 8K quality, cinematic lighting.
 ```
 
 </details>
@@ -3211,6 +3321,31 @@ She sits at a white vanity in her bedroom in the late afternoon. Behind her: a m
 
 </details>
 
+<a id="gpt-image-2-6-street-snap-woman-denim-jacket"></a>
+### Woman in cap and headphones on sunlit street
+
+<a href="https://x.com/johnAGI168/status/2118581030781382805"><img src="../../previews/gpt-image-2-6-street-snap-woman-denim-jacket.jpg" width="360"></a>
+
+A 35mm prime at f/2.2 with highlight halation and film grain sets the candid street-snap look. The explicit skin-pore and anti-CGI clauses keep the skin and heavy denim weave natural instead of waxy.
+
+GPT Image 2.6 · Text-to-image · Source: [@johnAGI168 on X](https://x.com/johnAGI168/status/2118581030781382805) · 13 likes on 2026-11-06
+
+[`street-style`](tags.md#tag-street-style) [`film-photography`](tags.md#tag-film-photography) [`fashion`](tags.md#tag-fashion) [`portrait`](tags.md#tag-portrait)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A cinematic 35mm street-snap photograph captured at eye level — a three-quarter medium portrait of a cool, stylish young East Asian woman on a sunlit urban sidewalk, turning in profile toward camera-left.
+
+She possesses top-tier model beauty with sharp facial features, defined cheekbones, amber-tinted eyes, and dark hair falling from beneath a clean white baseball cap as her right hand lifts the brim. She wears retro green metallic over-ear wired headphones, a silver dog-tag necklace, and a fitted white cropped tank top displaying athletic toned abs. An oversized light-wash blue denim trucker jacket drapes loosely off her shoulders, paired with low-rise baggy jeans and a black belt, her left hand casually tucked into her pocket.
+
+The setting is a vibrant metropolitan avenue in bright daylight. Natural afternoon sun creates soft rim lighting along her hair strands and denim fabric, with the bustling street and modern architecture softly blurred into natural depth of field behind her.
+
+Shot on a 35mm prime lens at f/2.2 with gentle highlight halation and fine organic film grain in an M1 street narrative register. Real human skin with visible fine pores, subtle natural warmth, and authentic heavy cotton denim weave — strictly no CGI, no 3D render, no plastic skin, no artificial smoothing, no waxy AI look.
+```
+
+</details>
+
 <a id="gpt-image-2-6-japanese-woman-turn-wink-gif"></a>
 ### Woman in floral dress turns on a street
 
@@ -3245,6 +3380,78 @@ GPT Image 2.6 · Text-to-image · Source: [@MrGafish on X](https://x.com/MrGafis
 
 ```text
 创建一个 GIF，内容是下面小说中的人物片断
+```
+
+</details>
+
+<a id="gpt-image-2-6-kneeling-lace-camisole-backlight"></a>
+### Kneeling woman in lace camisole by backlit window
+
+<a href="https://x.com/nicknickai/status/2118620807148851439"><img src="../../previews/gpt-image-2-6-kneeling-lace-camisole-backlight.jpg" width="360"></a>
+
+Phone portrait framing with visible grain, soft focus and crushed shadows sells the candid, unretouched look. Backlight from a side window separates the figure from a dark room, and the cool blue grade sets the mood.
+
+GPT Image 2.6 · Text-to-image · Source: [@nicknickai on X](https://x.com/nicknickai/status/2118620807148851439)
+
+[`portrait`](tags.md#tag-portrait) [`lace`](tags.md#tag-lace) [`backlight`](tags.md#tag-backlight) [`moody`](tags.md#tag-moody)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+一张室内生活感的手机人像照片，构图略随意，仿佛按下快门前的一瞬间，带有朦胧柔焦、轻微噪点、暗部压低的低清随拍质感，整体画面充满氛围感，无文字无水印。
+
+画面主体是一位冷白皮的年轻亚洲女子，跪坐在昏暗房间的地板上。她身形极瘦，但胸部丰满圆润，形成强烈的视觉反差。她的面容精致漂亮，皮肤超级白皙且光滑细腻，散发着冷白皮的质感。头发整齐地扎起，露出修长的颈部线条，妆容为清纯淡妆，唇色水嫩，神情清冷安静，目光直视镜头，眼神中带着一丝疏离与纯欲交织的复杂情绪。
+
+她身穿一件低胸紧身贴肤的超薄白色吊带，边缘饰有精致的蕾丝，紧紧包裹着丰满的胸部，凸显出深邃的乳沟和圆润的曲线。下身穿着白色蕾丝款式的丝袜，蕾丝花纹细腻，包裹着纤细的双腿，跪姿使得大腿与小腿线条更加紧致，丝袜的质感在暗调中若隐若现。
+
+场景位于一间光线较暗的室内，窗外明亮的自然光照入室内，形成强烈的明暗对比。光源来自侧后方的窗户，明亮的逆光勾勒出人物身体的轮廓，并在空气中形成柔和的光晕。人物处于阴影与亮光的交界处，面部和胸部受到柔和的漫反射光照明，皮肤呈现出通透的光泽，而背景则陷入深沉的暗影中，突出了人物的主体地位。
+
+镜头采用手机前置或后置人像模式拍摄，景深较浅，背景虚化明显，焦点集中在人物的面部和上半身。画面整体色调偏冷，带有轻微的蓝色调，增强了清冷寂静的氛围。噪点颗粒感均匀分布，模拟了高感光度下的拍摄效果，赋予照片一种真实、私密且未经修饰的随性美感。人物的姿态自然放松，双手自然垂放或轻触膝盖，身体重心略微前倾，展现出一种脆弱而迷人的纯欲风格。
+```
+
+</details>
+
+<a id="gpt-image-2-6-seated-hanfu-woman-lotus-pond"></a>
+### Seated hanfu woman by lotus pond at sunset
+
+<a href="https://x.com/fengnian_ai/status/2118386725676552194"><img src="../../previews/gpt-image-2-6-seated-hanfu-woman-lotus-pond.jpg" width="360"></a>
+
+Naming the lakeside stone, willow framing and warm backlight sets up a layered scene with depth. Spelling out the silver embroidery and modest neckline keeps the costume detail sharp and the look elegant.
+
+GPT Image 2.6 · Text-to-image · Source: [@fengnian_ai on X](https://x.com/fengnian_ai/status/2118386725676552194)
+
+[`hanfu`](tags.md#tag-hanfu) [`portrait`](tags.md#tag-portrait) [`golden-hour`](tags.md#tag-golden-hour) [`lotus`](tags.md#tag-lotus)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+An original cinematic semi-realistic fantasy portrait of a clearly adult East Asian woman, age 28, seated on a lakeside stone beneath trailing willow branches at golden hour. Long black hair with delicate pale lotus ornaments, elegant silver-blue embroidered silk hanfu with opaque bodice and modest neckline, airy outer sleeves, long skirt naturally draped over her legs. Three-quarter seated composition, vertical 9:16 framing. Warm golden backlight through leaves, soft mist, distant mountain silhouettes, a tranquil reflective pond and small pink lotus blossoms. Natural skin texture, individual hair strands, intricate silver embroidery, believable hands and anatomy, soft atmospheric depth. No text, no watermark, no logos.
+```
+
+</details>
+
+<a id="gpt-image-2-6-sunset-beach-look-back"></a>
+### Woman turning back on sunset beach
+
+<a href="https://x.com/sonny_eacc/status/2118216234445791408"><img src="../../previews/gpt-image-2-6-sunset-beach-look-back.jpg" width="360"></a>
+
+The prompt sets 4:5 vertical framing, a candid action and expression (turning back, one hand on windblown hair, just starting to laugh), and sunset light from behind to outline the hair. Realism cues like skin texture, fabric creases and a snapshot feel keep it from looking posed.
+
+GPT Image 2.6 · Text-to-image · Source: [@sonny_eacc on X](https://x.com/sonny_eacc/status/2118216234445791408)
+
+[`portrait`](tags.md#tag-portrait) [`beach`](tags.md#tag-beach) [`sunset`](tags.md#tag-sunset) [`golden-hour`](tags.md#tag-golden-hour)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+【首图】
+生成一张4:5竖版写实人像照片。一位25岁的成年东亚美女，黑色长发，五官精致，身材修长匀称，穿黑色连体泳衣，外搭敞开的白色亚麻衬衫。傍晚赤脚走在海边浅水中，被身后的人叫住，回头看向镜头，露出刚开始笑的自然表情，一只手轻轻按住被海风吹起的头发。拍到大腿，人物占画面主体，前景有细碎浪花，夕阳从侧后方照亮发丝。像旅行时偶然拍到的漂亮瞬间，保留真实皮肤纹理、衣料褶皱和轻微抓拍感，色彩自然，无文字、水印。
+
+【续图方法】
+上传首图作参考，保持同一成年女性的五官、发型、服装、海边夕阳和真实肤质。每次单独生成一张，分别追加：
+①近景：胸口以上，拨头发，轻轻微笑。
+②全身：赤脚走在浅水里，低头看浪花。
+③坐姿：白衬衫扣好，坐在海边岩石上，半身构图，自然大笑。
 ```
 
 </details>
@@ -3959,153 +4166,6 @@ Color grading: warm pastel palette (pink, cream), clean bright lifestyle aesthet
 Quality: ultra-photorealistic, 8K detail, DSLR realism, natural skin texture.
 Negative: front-facing, eye contact, close-up, cropped body, mini/short skirt, indoor scene, dark lighting, anime, cartoon, CGI, plastic skin, distorted anatomy.
 --ar 9:16 --style raw --quality high
-```
-
-</details>
-
-<a id="gpt-image-rooftop-court-sunset-varsity-portrait"></a>
-### Woman in varsity jacket on rooftop court at sunset
-
-<a href="https://x.com/HaniaAi12/status/2061313477696954522"><img src="../../previews/gpt-image-rooftop-court-sunset-varsity-portrait.jpg" width="360"></a>
-
-The prompt fixes the pose in detail: weight on one leg, relaxed shoulders, one hand touching the jacket edge, body angled to the camera, direct gaze. A named location and golden hour light then set the scene, and the opening Ultra-realistic cue pushes the photographic finish.
-
-GPT Image 2 · Text-to-image · Source: [@HaniaAi12 on X](https://x.com/HaniaAi12/status/2061313477696954522) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-[`portrait`](tags.md#tag-portrait) [`rooftop`](tags.md#tag-rooftop) [`sunset`](tags.md#tag-sunset) [`varsity-jacket`](tags.md#tag-varsity-jacket) [`pose-direction`](tags.md#tag-pose-direction)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Ultra-realistic, high-quality portrait of a stylish young South Asian woman standing gracefully on a colorful urban rooftop basketball court at sunset. She is standing in a relaxed and elegant posture with her weight naturally shifted to one leg, shoulders relaxed, and one hand gently resting by her side while the other lightly touches the edge of her varsity jacket. Her body is slightly angled toward the camera, creating a confident yet sophisticated appearance. She is looking directly into the camera with a warm, natural smile, projecting confidence, charm, and effortless style.
-```
-
-</details>
-
-<a id="gpt-image-semi-chibi-double-tugging-runner-editorial"></a>
-### Running Man Pulled Back by Semi Chibi Double
-
-<a href="https://x.com/Waseem_890Ai/status/2073412769693741415"><img src="../../previews/gpt-image-semi-chibi-double-tugging-runner-editorial.jpg" width="360"></a>
-
-The prompt locks identity to an uploaded reference photo, then adds a 3D semi chibi double with a clear action: grabbing the clothing and pulling backward. Explicit fabric physics terms like stretched material, folds and tension, plus a pure white seamless studio and a detailed negative prompt, keep the comedic interaction believable.
-
-GPT Image 2 · Edit · Source: [@Waseem_890Ai on X](https://x.com/Waseem_890Ai/status/2073412769693741415) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
-
-[`semi-chibi`](tags.md#tag-semi-chibi) [`studio-portrait`](tags.md#tag-studio-portrait) [`fabric-physics`](tags.md#tag-fabric-physics) [`reference-photo`](tags.md#tag-reference-photo) [`playful`](tags.md#tag-playful)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create an ultra-realistic lifestyle editorial studio photo in a 4:5 aspect ratio. Use the uploaded reference photo as the primary source for the character's identity. Preserve the face, facial features, body proportions, hairstyle, outfit, shoes, colors, and overall appearance exactly as shown. Do not redesign or alter the character. Place the character in a clean, minimalist photo studio with a seamless pure white background. The mood should feel modern, bright, playful, energetic, and polished, like a high-end fashion editorial. Capture the character mid-run with natural, believable movement. The body leans forward, one foot is off the ground, and the arms move naturally. The upper body is subtly pulled backward, as though the clothing is being tugged, while the lower body continues driving forward. Give the character a joyful, expressive face with laughter, excitement, and a hint of playful panic. On the left side, add a stylized 3D semi-chibi version of the same person. Keep the identity recognizable while using a larger head, smaller body, expressive eyes, and exaggerated emotions. The semi-chibi character should look frustrated and determined, grabbing the main character's clothing with both hands and pulling backward in an attempt to stop them. Emphasize the comedic struggle. Focus on realistic fabric physics where the clothing is being pulled, showing stretched material, natural folds, wrinkles, and convincing tension. The interaction should feel physically believable and visually entertaining. Use soft professional studio lighting, crisp shadows, ultra-sharp focus, realistic skin textures, detailed fabric, cinematic editorial styling, clean composition, and a premium polished finish. Negative Prompt: Low quality, blurry, noisy, pixelated, bad anatomy, extra or missing fingers, deformed hands, broken joints, stiff pose, weak motion, incorrect fabric physics, flat clothing, missing wrinkles, unrealistic interaction, altered facial identity, changed outfit, changed shoes, altered body proportions, extra characters, cluttered scene, colored background, props, harsh shadows, dark lighting, plastic skin, poor 3D quality, distorted face, watermark, logo, or text.
-```
-
-</details>
-
-<a id="gpt-image-shanghai-metro-platform-reading-portrait"></a>
-### Woman Reading on Shanghai Metro Platform
-
-<a href="https://x.com/ToroJushiAi/status/2059452471127240959"><img src="../../previews/gpt-image-shanghai-metro-platform-reading-portrait.jpg" width="360"></a>
-
-The prompt sets half-body eye-level framing and a motion-blurred train, then adds skin texture cues, a greenish fluorescent light cast and ISO 400 grain. Small imperfections such as stray hairs and asymmetry keep the result looking like a candid photo instead of a render.
-
-GPT Image 2 · Text-to-image · Source: [@ToroJushiAi on X](https://x.com/ToroJushiAi/status/2059452471127240959) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-[`candid`](tags.md#tag-candid) [`metro`](tags.md#tag-metro) [`street-photography`](tags.md#tag-street-photography) [`film-grain`](tags.md#tag-film-grain) [`motion-blur`](tags.md#tag-motion-blur)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A candid photograph of a young woman standing on a Shanghai metro platform during the summer morning commute, authentic daily life photography, natural candid moment. Half-body framing, shot at eye level from moderate distance — the arriving train a motion-blurred streak behind her, the yellow safety line at her feet.
-East Asian young woman in her early 20s. Almond-shaped eyes with natural double eyelids, slightly elongated eye corners — eyes directed downward, absorbed. Straight refined nose with a delicate bridge. Skin tone fair to light beige (NC10–NC20) — skin subsurface scattering visible under cool overhead station light, specular micro-highlights on cheekbones and nose ridge, fine foundation powder grain perceptible. Summer fresh look, no heavy coverage, lightly tinted lip.
-She wears a relaxed oversized white shirt dress, collar lightly open, sleeves loosely rolled above the elbow. A structured natural tan canvas tote hangs from her shoulder, a physical novel tucked under one arm — pages open at a saved page. She stands with her weight on one hip, gaze downward at the open book, entirely absorbed, occupying her own stillness inside the morning rush. Background: white and grey tiled metro wall, overhead route signage board, arriving train motion blur to one side, other commuters blurred and distant. Two or three stray hairs displaced by the train's air displacement on arrival, natural unplanned imperfection, not geometrically symmetrical.
-Cool overhead fluorescent lighting with a slight greenish cast, flat frontal illumination offset by a warm spill from the platform entrance behind. Absorbed in focus, eyes downward, unaware — a private moment inside a public space, the Shanghai morning. Subtle ISO 400 film grain in shadow areas, photographic noise texture not CG render smoothness. Aspect ratio 2:3. No watermark, no text overlay, not cartoon, not digitally painted, not illustration, not anime.
-```
-
-</details>
-
-<a id="gpt-image-soft-ccd-fitting-room-portrait"></a>
-### Low angle fitting room portrait with hand on chin
-
-<a href="https://x.com/BubbleBrain/status/2098315158997307550"><img src="../../previews/gpt-image-soft-ccd-fitting-room-portrait.jpg" width="360"></a>
-
-A low camera close to the subject with CCD grain, highlight bloom and haze recreates a 90s magazine look. Exact hand placement and the restrained gesture keep the thinking pose consistent in the frame.
-
-GPT Image 2.5 · Text-to-image · Source: [@BubbleBrain on X](https://x.com/BubbleBrain/status/2098315158997307550) · found via [wangrunlin/awesome-gpt-image-2-5-prompts](https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts)
-
-[`portrait`](tags.md#tag-portrait) [`film-grain`](tags.md#tag-film-grain) [`low-angle`](tags.md#tag-low-angle) [`fashion`](tags.md#tag-fashion)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-9:16 vertical, ultra-realistic portrait photography, 90s Japanese magazine fitting-room photoshoot style, soft-light CCD texture, obvious highlight bloom and slight haze.
-A clearly adult Korean female idol, about 23–27 years old, fair natural skin, slender well-proportioned figure, shoulder-length black straight hair slightly messy and fluffy, long bangs falling naturally and partially covering one eye. Delicate features, haughty and languid expression, slightly looking down at the camera. Soft pink natural makeup, gentle pink lips. Keep real skin texture, fine pores, and natural facial asymmetry.
-She wears a black thin cropped short-sleeve T-shirt in soft fitted cotton, hem stopping at the upper abdomen and exposing the waist, midriff, and natural navel. Bottom: black minimalist low-rise bikini-style bottoms, waistline sitting naturally near the hip bones, simple design.
-She stands in a small 90s Japanese magazine-style fitting room with light beige-gray walls, a narrow full-length mirror, simple hooks, and soft overhead lighting. Natural standing pose: one leg supporting, the other slightly bent forward, hip shifted naturally to one side. Thinking pose 🤔: one hand raised, index finger lightly resting on the chin, thumb near the jawline, gesture natural and restrained; the other hand hanging naturally at her side. Head slightly tilted, eyes looking down at the camera with a careless, thoughtful look.
-Low-angle upward shot, camera close to the subject, slight wide-angle without exaggerated distortion, emphasizing vertical leg extension and slender proportions. Composition includes the head, upper body, full waist and midriff, hips, and most of the legs. Subject occupies the main part of the frame.
-Soft hazy lighting. Soft scattered light from the front and above. Slight overexposure on the cheeks, nose bridge, collarbones, shoulders, waist, midriff, and legs, blooming softly outward into clear highlight overflow, halation, bloom, and soft fog. Highlights are creamy white glow; shadows are soft and pale with no hard edges.
-Overall low contrast, low saturation, creamy gray and pale warm skin tones, slightly lifted blacks, fine CCD noise and film grain, slightly soft edges, soft-focus filter, and atmospheric haze. Like a casually captured page from a 90s Asian photo magazine.
-Photorealistic, real-camera photography, real skin, hair strands, and fabric texture. Soft CCD, highlight bloom, hazy and dreamy but not over-retouched.
-Avoid: plastic skin, excessive beautification, over-sharpening, HDR, hard light, strong shadows, anime look, CGI, fisheye, exaggerated wide-angle, limb deformities, extra or wrong fingers, cluttered background, cheap influencer filters.
-```
-
-</details>
-
-<a id="gpt-image-split-time-birthday-portrait"></a>
-### Split Time Birthday Portrait of Child and Adult
-
-<a href="https://x.com/ChillaiKalan__/status/2050834691570184611"><img src="../../previews/gpt-image-split-time-birthday-portrait.jpg" width="360"></a>
-
-The prompt locks both halves to an identical camera angle and pose, then places a lit cake on the center line so the candle glow ties the two eras together. Black and white grain against color shallow depth of field separates the past from the present, and the two year labels are given in quoted text.
-
-GPT Image 2 · Text-to-image · Source: [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2050834691570184611) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
-
-[`split-screen`](tags.md#tag-split-screen) [`birthday`](tags.md#tag-birthday) [`before-after`](tags.md#tag-before-after) [`nostalgia`](tags.md#tag-nostalgia) [`portrait`](tags.md#tag-portrait)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A highly realistic split-time portrait of the same person meeting her younger self. The image is divided vertically into two perfectly aligned halves with identical camera angle and composition. On the left side: a black-and-white photo of a young girl (3–4 years old), same facial features as the adult, natural smile, sitting at a table, soft diffused lighting, minimal gray background, nostalgic mood, slightly grainy film texture. On the right side: a realistic color photo of the same person as an adult [AGE], identical pose and camera angle, resting her face on her hands, smiling warmly, modern outfit, soft cinematic lighting, shallow depth of field. In the center between them: a birthday cake placed exactly at the middle line, with lit candles forming the number "[AGE]", warm candle glow illuminating both sides. Both versions are looking at each other with emotional connection, perfectly aligned eye level. Text "(2000)" above the child side and "(2026)" above the adult side, minimal elegant font. Ultra realistic, 8K, high detail skin texture, soft shadows, cinematic color grading, clean composition, emotional storytelling.
-```
-
-</details>
-
-<a id="gpt-image-summer-flower-field-portrait-motion-blur"></a>
-### Woman lying in summer daisy field with motion blur
-
-<a href="https://x.com/lovimg_com/status/2077036746198618336"><img src="../../previews/gpt-image-summer-flower-field-portrait-motion-blur.jpg" width="360"></a>
-
-The prompt is split into labeled sections for subject, expression, outfit, light, camera and texture. It keeps the face sharp and limits the diagonal motion blur to the foreground flowers, and it ends with a negative list that guards against plastic skin and broken limbs.
-
-GPT Image 2 · Text-to-image · Source: [@lovimg_com on X](https://x.com/lovimg_com/status/2077036746198618336) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-[`portrait`](tags.md#tag-portrait) [`flower-field`](tags.md#tag-flower-field) [`summer`](tags.md#tag-summer) [`motion-blur`](tags.md#tag-motion-blur) [`film-grain`](tags.md#tag-film-grain)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-主題：
-花風のまどろみ
-
-主体：
-縦長4:5の写真風ポートレート。白と黄色のマーガレット、オレンジ色の小花が密に咲く夏の草花畑に、成熟した大人の女性が仰向けで静かに横たわっている。人物は画面下部から中央にかけて大きく入り、顔は中央やや右、胸元から肩までは画面下側に収まる。周囲の花が画面全体を埋め、対角線方向に流れる花のモーションブラーが前景を横切る。
-
-人物・表情：
-自然で現実感のある日系ポートレート。暗めのブラウンロングヘアに、薄い前髪と顔まわりのやわらかな毛束。目を閉じ、眉は力が抜け、唇は軽く閉じた穏やかな表情。頬と鼻先に自然な血色、肌には過度な補正をせず細かな質感を残す。首筋、鎖骨、頬に夏の日差しが当たり、静かに眠っているような落ち着いた雰囲気。
-
-服装・ポーズ：
-白い夏用キャミソールワンピース。細い肩紐、胸元の控えめなレース、中央の小さなリボン、薄手のコットン素材。人物の両肩は草花に自然に沈み、片腕は画面下側で花に隠れて見切れる。体は画面左下から右上へ少し斜めに置かれ、髪は草の上に広がり、風で数本だけ額にかかる。
-
-背景・光：
-郊外にある小さな花畑のような、生活感のある自然な草花の密度。背景はすべて緑の葉と白・黄色・オレンジの花で構成し、人工物や読める文字は入れない。高めの位置から差す夏の太陽光。光はやや硬めで暖かく、顔の左側と首筋、肩に明るいハイライトが入り、花と髪の影が肌に細く落ちる。草の反射で下側に淡い緑の返り光。
-
-構図・カメラ：
-やや俯瞰の近距離撮影。85mm相当の自然な圧縮感、人物の顔にピントを合わせ、周辺の花は浅い被写界深度で少しぼける。前景の花だけが風に流され、白・黄色・オレンジの細長い光跡として左上から右下へ走る。顔まわりはブラーを弱め、表情と肌の質感をはっきり見せる。
-
-質感・スタイル：
-リアルな写真表現。夏の日差し、透明感のある肌、柔らかな髪の束感、薄手コットンのしわ、草花の細密な質感。ナチュラルな色調で、緑を深く、白い花を明るく、オレンジの花をアクセントにする。フィルム写真のようなわずかな粒子感と、雑誌ポートレートの落ち着いた仕上がり。
-
-ネガティブ：
-不自然な顔、不自然な視線、余分な指、欠けた指、手足の融合、関節の破綻、服と体の接触不良、浮遊、不自然な重力、誤った遠近法、光源と矛盾する影、過度な美肌補正、プラスチックのような肌、文字化け、ロゴ、透かし。
 ```
 
 </details>

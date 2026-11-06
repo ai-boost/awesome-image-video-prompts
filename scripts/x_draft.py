@@ -34,10 +34,11 @@ RULES = """You are the editor of awesome-image-video-prompts, a curated list of 
 Look at the thumbnail with the Read tool first: {thumb}
 
 Reject the candidate when any of these hold:
-- explicit nudity or sex acts, or minors in any suggestive context (sexy, suggestive, lingerie or swimwear looks are fine)
+- explicit nudity or sex acts, or minors in any suggestive context (sexy, suggestive, lingerie or swimwear looks are fine); a young-looking anime or chibi character counts as a minor
 - the prompt is not a usable prompt (an ad, a teaser, truncated, only a negative prompt)
 - the prompt tells the user to bypass a safety or face-detection system
 - the output contradicts the prompt: its subject, text, colours or style differ from what the prompt asks for, or an image entry whose prompt is for a video. This means the image did not come from this prompt, so reject it; never treat it as a notes problem
+- the picture is a screen recording or screenshot of an app (chat window, buttons, progress bar), or a promo or comparison card (headline, timings, logos, another model's output) rather than the output itself
 - quality: the output is clearly broken (garbled text, broken anatomy, muddy); a simple prompt is fine when the output is good
 Not violations: brands, celebrities, fan art and copyrighted characters, posts shared on X are fine to list; a small detail that differs while the subject and layout match,
 and a template written with fill-in slots such as [TOPIC] or {{NAME}}.
@@ -153,6 +154,12 @@ def duplicates(cands):
     return dup
 
 
+def retire(c):
+    """Move a candidate's files (json, thumbnail, GIF and its frame sheet) to done/."""
+    for src in CAND.glob(f"{c['cid']}[.-]*"):
+        shutil.move(src, DONE / src.name)
+
+
 def main():
     DONE.mkdir(parents=True, exist_ok=True)
     cands = [json.loads(p.read_text()) for p in sorted(CAND.glob("[!.]*.json"))]
@@ -164,10 +171,7 @@ def main():
     for c in cands:
         if c["cid"] in dup:
             log.append(f"skipped {c['url']}  duplicate of an entry already listed")
-            for ext in ("json", "jpg"):
-                src = CAND / f"{c['cid']}.{ext}"
-                if src.exists():
-                    shutil.move(src, DONE / src.name)
+            retire(c)
     cands = [c for c in cands if c["cid"] not in dup]
     with cf.ThreadPoolExecutor(4) as ex:
         for c, d in zip(cands, ex.map(ask, cands)):
@@ -179,10 +183,7 @@ def main():
                 log.append(f"added   {eid}  ({c['model']}, {c['likes'] or c.get('via')})")
             else:
                 log.append(f"skipped {c['url']}  {d.get('reason', 'invalid draft')}")
-            for ext in ("json", "jpg"):
-                src = CAND / f"{c['cid']}.{ext}"
-                if src.exists():
-                    shutil.move(src, DONE / src.name)
+            retire(c)
     print("\n".join(log))
     (DONE / f"log-{date.today().isoformat()}.txt").open("a").write("\n".join(log) + "\n")
 

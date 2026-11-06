@@ -1,0 +1,26 @@
+id: gpt-image-2-6-nine-expression-meme-grid
+title:
+  en: Man in nine exaggerated meme faces with Chinese captions
+  zh: 同一人物九宫格夸张表情包配中文字幕
+model: GPT Image 2.6
+mode: image-edit
+category: collage
+tags:
+- meme
+- sticker-set
+- expressions
+- grid-layout
+source:
+  name: '@SUOHA_AI on X'
+  url: https://x.com/SUOHA_AI/status/2118564255867777123
+  credit: 梭哈.AI
+  likes: 7
+  captured: '2026-11-06'
+  posted: '2026-11-06'
+notes:
+  en: A fixed 3x3 layout with nine named expressions forces variety from a single photo. Asking for real photo texture while pushing the faces to cartoon exaggeration keeps the likeness, and one short caption per panel supplies the humour.
+  zh: 用固定的3行3列布局加上九个具名表情，让同一张照片产生足够的变化。要求保留真实照片质感，同时把表情夸张到漫画感，并为每格配一句中文短句，形成梗图效果。
+prompt: |
+  基于这张上传的照片，把这个人做成一套经典表情包：一张图分成3行3列，共9个格子，每个格子是同一个人做不同的夸张表情，表情搞怪夸张，像网上流传的经典表情包那种感觉（类似熊猫头、蘑菇头）。人物保留真实照片质感，但表情极度夸张、有喜感。9个格子的表情分别是：翻白眼、捂脸无语、挑眉坏笑、憋笑、炸毛抓狂、委屈撇嘴、偷看八卦脸、崩溃抱头、面无表情假笑。每个格子配一句与表情搭配的中文短句……
+
+  需要转换为gif的话直接跟gpt说即可，我相信你们会的

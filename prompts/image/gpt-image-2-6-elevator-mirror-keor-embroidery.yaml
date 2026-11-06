@@ -1,0 +1,27 @@
+id: gpt-image-2-6-elevator-mirror-keor-embroidery
+title:
+  en: Woman in mirrored elevator with Keor embroidered top
+  zh: 镜面电梯中穿带 Keor 刺绣上衣的女性
+model: GPT Image 2.6
+mode: text-to-image
+category: realism
+tags:
+- fashion
+- mirror-reflection
+- json-prompt
+source:
+  name: '@tadasgedgaudas on X'
+  url: https://x.com/tadasgedgaudas/status/2118284291381875124
+  credit: TadasG 💻
+  likes: 17
+  captured: '2026-11-06'
+  posted: '2026-11-04'
+notes:
+  en: The structured JSON brief separates subject, setting, and style, and the composition line asks for a medium full-body shot that includes the mirror reflection. The exact text 'Keor' is given as one small modification, so the embroidery stays subtle.
+  zh: 结构化 JSON 提示词将主体、场景和风格分开描述，构图要求中点明需要包含镜中倒影。精确文字 Keor 作为一条小幅修改指令单独给出，使刺绣保持低调。
+prompt: |
+  ChatGPT Images 2.5 (left) vs ChatGPT Images 2.6 (right)
+
+  prompt: {"subject": {"description": "A beautiful young woman with long straight dark brown hair, tanned skin, and a confident expression. She has a toned, curvaceous figure.", "pose": "Standing in an elevator, looking at her reflection in the mirrored wall while holding a pair of black sunglasses. Her body is slightly turned toward the mirror.", "clothing": {"main": "Black leather-style crop top with deep V-neck, black mini skirt with chain details, black arm sleeves/gloves with cut-outs, black thigh-high stockings, and black high heels stilettos. Black choker necklace.", "modifications": "Add a small, elegant 'Keor' embroidery in refined script on the border or hem of her black top or skirt, subtly visible."}}, "setting": {"environment": "Modern elevator interior with mirrored walls, metal panels, and a digital display.", "lighting": "Bright indoor elevator lighting creating reflections on the metal and mirrors."}, "style": {"photography": "Realistic, high-resolution candid-style photograph with sharp details on skin, hair, leather textures, and reflections.", "mood": "Edgy, confident, and stylish.", "composition": "Medium full-body shot capturing the subject and her mirror reflection."}, "full_prompt": "Photorealistic image of a beautiful woman with long dark hair in a black leather crop top, mini skirt, thigh-high stockings, and boots, standing in an elevator looking at her reflection while holding sunglasses. Add small elegant 'Keor' embroidery on the border of her outfit. Bright elevator lighting with mirror reflections, highly detailed skin, hair, and fabric textures."}
+
+  2.6 is much much more conservative

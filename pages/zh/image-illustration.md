@@ -1,6 +1,6 @@
 # 插画
 
-[返回目录](../../README_zh.md) · 全部 115 条
+[返回目录](../../README_zh.md) · 全部 118 条
 
 <a id="nano-banana-map-screenshot-anime-panorama-shibuya"></a>
 ### 由地图截图生成的涩谷十字路口动漫全景
@@ -1586,6 +1586,123 @@ SEMANTIC_VARIABLES (AI infers from {{SUBJECT}}):
 
 </details>
 
+<a id="gpt-image-2-6-pixel-jungle-radar-outpost-gif"></a>
+### 像素风丛林哨站，卫星天线扫描循环动画
+
+<a href="https://x.com/dextune/status/2118523179702624694"><img src="../../previews/gpt-image-2-6-pixel-jungle-radar-outpost-gif.gif" width="360"></a>
+
+用 4×4 精灵图排列 16 帧、每帧约 200 毫秒，并固定镜头，使画面成为无缝循环。提示词把雷达光束、摆动绳索、飞鸟和小生物等动态元素逐一列出，同时固定建筑和树木位置，让画面在各帧之间保持稳定。
+
+GPT Image 2.6 · 文生图 · 出处: [@dextune on X](https://x.com/dextune/status/2118523179702624694) · 12 赞，统计于 2026-11-06
+
+[`pixel-art`](tags.md#tag-pixel-art) [`animation`](tags.md#tag-animation) [`gif`](tags.md#tag-gif) [`jungle`](tags.md#tag-jungle)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a seamless looping animated GIF in highly detailed 16-bit retro pixel art style, inspired by classic side-scrolling adventure games and lively miniature pixel-art worlds.
+
+Scene and composition
+
+A fixed-camera, square 1:1 pixel-art jungle environment with a soft pastel lavender-blue background and layered silhouettes of distant forest trees.
+
+On the left stands a compact beige retro-futuristic research station with mechanical panels, ladders, tiny windows, and a large rotating satellite dish mounted on its roof.
+
+On the right stands an ancient three-level brown brick tower with small openings and decorative stone details.
+
+Two enormous trees with rich lime-green pixelated foliage and reddish-brown trunks rise behind the structures. Small bushes, scattered rocks, and a tiny campsite occupy the ground.
+
+Several tiny colorful adventurer characters, birds, and little green creatures inhabit this miniature world.
+
+Animation sequence
+
+Radar scanning: The satellite dish slowly rotates, projecting a translucent white triangular searchlight across the scene. The beam sweeps between the trees and the brick tower, gradually expanding and fading.
+
+Character movement: Tiny adventurers run along rooftops, jump between platforms, briefly pause, and resume moving. Their legs and arms animate with authentic retro-game sprite cycles.
+
+Rope swinging: One adventurer grabs a thin suspended rope and swings between the trees and buildings in a smooth pendulum motion. The rope bends and follows the character's momentum.
+
+Wildlife: Small birds flap their wings and hop between branches. Tiny green creatures walk, bounce, and react to nearby characters.
+
+Environmental motion: Tree leaves gently sway, dangling vines oscillate, and small foliage details move subtly. The distant forest remains stationary.
+
+Continuous activity: Different characters perform independent actions at slightly different times, making the small world feel alive without excessive motion.
+
+Animation quality
+
+Authentic hand-crafted pixel-art animation.
+Sharp square pixels with consistent pixel density.
+Smooth sprite movement without morphing or deformation.
+Fixed camera, absolutely no zooming or panning.
+Buildings, trees, and terrain retain identical shapes and positions throughout.
+Natural overlapping animation cycles.
+Subtle secondary movement and playful character interactions.
+Preserve the original pastel palette and nostalgic video-game atmosphere.
+
+Loop requirements
+
+Create a 4×4 uniform spritesheet containing 16 sequential animation frames, with each frame occupying an identical square cell.
+
+Use approximately 200 milliseconds per frame for a 3.2-second animated GIF.
+
+All characters remain completely within their respective frame boundaries.
+
+The first and last frames must connect naturally to create a seamless infinite loop, without sudden resets, flickering, or visual jumps.
+
+Strict restrictions
+
+No camera movement, no scene cuts, no transitions, no motion blur, no realistic 3D rendering, no smooth vector illustration, no UI, no text, no frame borders, no added structures, and no inconsistent character designs.
+
+The result should resemble a beautifully animated living pixel-art game environment, not a static illustration with simple motion effects.
+```
+
+</details>
+
+<a id="gpt-image-2-6-sleepy-star-eyed-emoji-fusion"></a>
+### 犯困表情與追星表情融合成一張臉
+
+<a href="https://x.com/DeepBlueX0/status/2118276577322750086"><img src="../../previews/gpt-image-2-6-sleepy-star-eyed-emoji-fusion.jpg" width="360"></a>
+
+提示詞先提取兩個來源最有辨識度的特徵，即犯困的眼睛與星星眼，再融合成一個放大的圖標感表情，並在上方以公式呈現來源。zzz 與星光線條承載情緒，中文短句點明融合後的含義。
+
+GPT Image 2.6 · 文生图 · 出处: [@DeepBlueX0 on X](https://x.com/DeepBlueX0/status/2118276577322750086) · 6 赞，统计于 2026-11-06
+
+[`emoji`](tags.md#tag-emoji) [`fusion`](tags.md#tag-fusion) [`ios-emoji`](tags.md#tag-ios-emoji) [`chinese-text`](tags.md#tag-chinese-text)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+iOS 系統Emoji × 顏文字× 全新表情設計
+
+每張獨立選擇兩個或多個不同的 Emoji 或顏文字進行融合，開放探索人物、動物、食物、物件、自然元素與各種情緒。
+
+整組變化來源類別與組合方式，探索 Emoji 與 Emoji、Emoji 與顏文字、多個顏文字等不同搭配，讓顏文字多次參與融合。每張選擇不同組合與心情，減少主體和表達重復。
+
+先確定本張的融合配方，提取各來源最有辨識度的五官、神態、輪廓、動作或字符特徵，將它們融合成一個完整的新表情，表達一種有趣的情緒或狀態。
+
+根據來源自身形態設計結果：臉部表情重點融合五官與神態；帶手勢或全身形態的表情保留有助於識別的身體結構；動物、物件和自然元素保留關鍵外形；顏文字的眼睛、嘴巴、符號或字符排列自然融入新表情。身體、四肢與動作由組合和表達需要決定。
+
+融合結果保持簡潔的表情圖標感，以主體輪廓和關鍵特徵傳達心情，細節適度，縮小後仍清晰可辨。
+
+畫面從上到下展示融合公式：上方用「×」連接所選來源，中間將「＝」旋轉90°，呈現為兩條並排的細竪線，下方展示融合後的新表情。新表情明顯大於來源，是畫面的視覺重點。
+
+公式中的 Emoji 參照 iOS 系統對應表情的外觀，保留容易辨認的造型、顏色、神態與動作。公式中的顏文字以清晰字符原樣呈現，保持所選字符及排列完整。
+
+融合後的新表情採用與 iOS Emoji 協調的視覺風格：造型簡潔圓潤，表情鮮明，色彩飽滿，具有柔和漸變、細膩高光與輕微立體感。人物、動物與物件保留各自適合的形態，整體如同同一套系統表情。
+
+根據新表情的情緒與主體配色，自由選擇協調的低飽和漸變背景，在新表情後方加入柔和的主題色光暈。光暈與主體保持適當的明度或色相差異，讓表情輪廓清楚可辨。
+
+在新表情附近寫一句簡短自然的中文心情短句，準確表達融合後的意思。字體形態與筆畫氣質呼應情緒，文字完整清晰，與表情和公式保持適當間距。
+
+公式符號、顏文字與背景保持足夠對比。畫面疏密協調，留白自然。
+
+竪版 9:16，n=10。每張為獨立單圖，逐張生成，不拼圖。
+
+左下簽名：深藍色實心圓點在前，白色手寫體 DeepBlue 在後
+```
+
+</details>
+
 <a id="nano-banana-raccoon-elf-cookie-thief"></a>
 ### 穿精灵服的浣熊偷吃饼干被抓现行
 
@@ -1604,6 +1721,56 @@ Nano Banana 2.1 · 文生图 · 出处: [@heathergreen on X](https://x.com/heath
 @magnific
 
 PROMPT: Illustrate a hilariously untrustworthy raccoon dressed as a Christmas elf in the style of a vintage 1950s holiday comic. The raccoon wears a crooked green elf hat, has cookie crumbs all over its face, and is caught stealing a cookie from a plate while standing in a pile of torn wrapping paper. A long strand of Christmas ribbon is tangled around its tail like a sash. Give it a wide-eyed, completely unconvincing innocent expression. Use thick hand-inked outlines, expressive cartoon features, retro halftone shading, imperfect vintage print texture, and a cheerful palette of pine green, cherry red, mustard gold, and aged cream. The design should feel like a collectible old-fashioned Christmas novelty illustration with a clear central character, simple background, and bold readable shapes. No mockup, no watermark, no text.
+```
+
+</details>
+
+<a id="gpt-image-2-6-tom-and-jerry-cheese-chase"></a>
+### 杰瑞抢走奶酪，汤姆跃起追赶
+
+<a href="https://x.com/MrDasCreates/status/2118590560701481017"><img src="../../previews/gpt-image-2-6-tom-and-jerry-cheese-chase.gif" width="360"></a>
+
+按秒分段写出的分镜节拍让模型按顺序生成动作，挤压拉伸和滑稽打闹的明确提示带出夸张的卡通表演。固定1080×1080方形画幅和无缝循环的要求让GIF构图保持稳定。
+
+GPT Image 2.6 · 文生图 · 出处: [@MrDasCreates on X](https://x.com/MrDasCreates/status/2118590560701481017) · 2 赞，统计于 2026-11-06
+
+[`tom-and-jerry`](tags.md#tag-tom-and-jerry) [`cartoon`](tags.md#tag-cartoon) [`animation`](tags.md#tag-animation) [`gif`](tags.md#tag-gif)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a spectacular 8-second animated Tom and Jerry chase scene in a beautiful vintage cartoon house.
+
+SCENE SEQUENCE:
+
+0–2 seconds: Jerry steals a giant piece of cheese from the kitchen table. Tom notices him and immediately starts chasing him.
+
+2–4 seconds: Jerry runs across the kitchen counter, jumps over cooking pots, and slides beneath a chair. Tom follows him, knocking over kitchen utensils.
+
+4–6 seconds: Jerry jumps onto the sofa. Tom tries to catch him but crashes into a soft cushion, sending feathers flying everywhere.
+
+6–8 seconds: Jerry escapes through a tiny mouse hole while Tom gets stuck halfway. Jerry laughs mischievously as Tom struggles to escape.
+
+ANIMATION QUALITY:
+
+Smooth, continuous animation with consistent character designs, expressive faces, exaggerated squash-and-stretch movements, realistic cartoon physics, cinematic camera movement, vibrant colors, and detailed backgrounds.
+
+STYLE:
+
+Classic Tom and Jerry-inspired 2D cartoon animation, traditional hand-drawn cel-animation appearance, hilarious slapstick comedy.
+
+TECHNICAL REQUIREMENTS:
+
+* Duration: 8 seconds.
+* Seamless looping animation.
+* Smooth and fluid character movement.
+* No sudden scene cuts or frozen frames.
+* Consistent character appearance.
+* No character distortion.
+* No text, subtitles, logos, or watermarks.
+* 1:1 square aspect ratio, 1080×1080 resolution.
+* Keep both characters fully visible with safe margins.
+* High-quality GIF output.
 ```
 
 </details>
