@@ -1,0 +1,45 @@
+id: gpt-image-2-6-hooded-hero-helps-squirrel-snow
+title:
+  en: Hooded forest hero helps squirrel from snowy log
+  zh: 戴绿色兜帽的森林少年在雪地里帮松鼠
+model: GPT Image 2.6
+mode: image-edit
+category: illustration
+tags:
+- children-book
+- watercolor
+- character-consistency
+- winter-scene
+source:
+  name: OpenAI image prompting guide
+  url: https://developers.openai.com/api/docs/guides/image-prompting#keep-a-character-consistent
+  credit: OpenAI
+  captured: '2026-11-05'
+  posted: '2026-11-04'
+inputs:
+- https://developers.openai.com/images/platform/guides/image-prompting/childrens-book-illustration-1-gpt-image-2-6-sunburst.webp
+notes:
+  en: Attaching the earlier character image and pinning tunic, facial features and palette in a consistency block keeps the hero recognizable in a new scene. The constraints list stops redesigns and stray text.
+  zh: 附上角色参考图，并用一段一致性说明固定斗篷、五官与配色，使主角在新场景中保持辨识度。结尾的约束条款可防止角色被重新设计以及出现文字或水印。
+prompt: |
+  Continue the children’s book story using the same character.
+
+  Scene:
+  The same young forest hero is gently helping a frightened squirrel
+  out of a fallen tree after a winter storm.
+  The character kneels beside the squirrel, offering reassurance.
+
+  Character Consistency:
+  - Same green hooded tunic
+  - Same facial features, proportions, and color palette
+  - Same gentle, heroic personality
+
+  Style:
+  Children’s book watercolor illustration,
+  soft lighting, snowy forest environment,
+  warm and comforting mood.
+
+  Constraints:
+  - Do not redesign the character
+  - No text
+  - No watermarks

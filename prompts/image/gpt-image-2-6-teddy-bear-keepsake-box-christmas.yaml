@@ -1,0 +1,43 @@
+id: gpt-image-2-6-teddy-bear-keepsake-box-christmas
+title:
+  en: Worn teddy bear in keepsake box by snowy window
+  zh: 窗边礼盒里的旧泰迪熊
+model: GPT Image 2.6
+mode: text-to-image
+category: realism
+tags:
+- christmas
+- holiday-card
+- typography
+- still-life
+source:
+  name: OpenAI image prompting guide
+  url: https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card
+  credit: OpenAI
+  captured: '2026-11-05'
+  posted: '2026-11-04'
+notes:
+  en: The prompt anchors the mood in one concrete scene, a worn bear in a keepsake box beside a window with falling snow, and adds shallow depth of field and print-quality framing for a photographic look. The card text is given verbatim so the model renders one clean line of typography.
+  zh: 提示词用一个具体场景定下情绪：窗边飘雪，礼盒里放着旧泰迪熊，并加入浅景深和印刷级构图来强化摄影质感。卡片文字逐字给出，模型因此能渲染出一行清晰的排版文字。
+prompt: |
+  Create a Christmas holiday card illustration.
+
+  Scene:
+  a cozy Christmas scene with an old teddy bear sitting inside a keepsake box, slightly worn fur, soft stitching repairs, placed near a window with falling snow outside. The scene suggests the child has grown up, but the memories remain.
+
+  Mood:
+  Warm, nostalgic, gentle, emotional.
+
+  Style:
+  Premium holiday card photography, soft cinematic lighting,
+  realistic textures, shallow depth of field,
+  tasteful bokeh lights, high print-quality composition.
+
+  Constraints:
+  - Original artwork only
+  - No trademarks
+  - No watermarks
+  - No logos
+
+  Include ONLY this card text (verbatim):
+  "Merry Christmas — some memories never fade."

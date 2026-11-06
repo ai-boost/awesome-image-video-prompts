@@ -1,0 +1,43 @@
+id: gpt-image-2-6-forest-hero-helping-animals
+title:
+  en: Hooded forest hero helping woodland animals
+  zh: 戴绿色兜帽的森林少年与林中小动物
+model: GPT Image 2.6
+mode: text-to-image
+category: illustration
+tags:
+- children-book
+- watercolor
+- storybook
+- animals
+source:
+  name: OpenAI image prompting guide
+  url: https://developers.openai.com/api/docs/guides/image-prompting#keep-a-character-consistent
+  credit: OpenAI
+  captured: '2026-11-05'
+  posted: '2026-11-04'
+notes:
+  en: Listing the outfit item by item and pinning a clear style brief (hand painted watercolor, soft outlines, oversized head) keeps the character readable across a picture book series. Stating that the bow is only for helping steers the scene toward gentle rescue moments instead of conflict.
+  zh: 逐项列出服装细节，并明确水彩手绘、柔和轮廓、大头比例等风格要求，使角色在绘本系列中保持稳定。强调弓只用于帮助而非伤害，让画面聚焦于温和的救助场景而非冲突。
+prompt: |
+  Create a children’s book illustration introducing a main character.
+
+  Character:
+  A young, storybook-style hero inspired by a little forest outlaw,
+  wearing a simple green hooded tunic, soft brown boots, and a small belt pouch.
+  The character has a kind expression, gentle eyes, and a brave but warm demeanor.
+  Carries a small wooden bow used only for helping, never harming.
+
+  Theme:
+  The character protects and rescues small forest animals like squirrels, birds, and rabbits.
+
+  Style:
+  Children’s book illustration, hand-painted watercolor look,
+  soft outlines, warm earthy colors, whimsical and friendly.
+  Proportions suitable for picture books (slightly oversized head, expressive face).
+
+  Constraints:
+  - Original character (no copyrighted characters)
+  - No text
+  - No watermarks
+  - Plain forest background to clearly showcase the character

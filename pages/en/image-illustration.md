@@ -1,6 +1,6 @@
 # Illustration
 
-[Back to the list](../../README.md) · All 109 entries
+[Back to the list](../../README.md) · All 113 entries
 
 <a id="nano-banana-map-screenshot-anime-panorama-shibuya"></a>
 ### Anime style panorama of Shibuya Crossing from map screenshot
@@ -1607,6 +1607,126 @@ PROMPT: Illustrate a hilariously untrustworthy raccoon dressed as a Christmas el
 ```
 
 </details>
+
+<a id="gpt-image-2-6-forest-hero-helping-animals"></a>
+### Hooded forest hero helping woodland animals
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#keep-a-character-consistent"><img src="../../previews/gpt-image-2-6-forest-hero-helping-animals.jpg" width="360"></a>
+
+Listing the outfit item by item and pinning a clear style brief (hand painted watercolor, soft outlines, oversized head) keeps the character readable across a picture book series. Stating that the bow is only for helping steers the scene toward gentle rescue moments instead of conflict.
+
+GPT Image 2.6 · Text-to-image · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#keep-a-character-consistent)
+
+[`children-book`](tags.md#tag-children-book) [`watercolor`](tags.md#tag-watercolor) [`storybook`](tags.md#tag-storybook) [`animals`](tags.md#tag-animals)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a children’s book illustration introducing a main character.
+
+Character:
+A young, storybook-style hero inspired by a little forest outlaw,
+wearing a simple green hooded tunic, soft brown boots, and a small belt pouch.
+The character has a kind expression, gentle eyes, and a brave but warm demeanor.
+Carries a small wooden bow used only for helping, never harming.
+
+Theme:
+The character protects and rescues small forest animals like squirrels, birds, and rabbits.
+
+Style:
+Children’s book illustration, hand-painted watercolor look,
+soft outlines, warm earthy colors, whimsical and friendly.
+Proportions suitable for picture books (slightly oversized head, expressive face).
+
+Constraints:
+- Original character (no copyrighted characters)
+- No text
+- No watermarks
+- Plain forest background to clearly showcase the character
+```
+
+</details>
+
+<a id="gpt-image-2-6-hooded-hero-helps-squirrel-snow"></a>
+### Hooded forest hero helps squirrel from snowy log
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#keep-a-character-consistent"><img src="../../previews/gpt-image-2-6-hooded-hero-helps-squirrel-snow.jpg" width="360"></a>
+
+Attaching the earlier character image and pinning tunic, facial features and palette in a consistency block keeps the hero recognizable in a new scene. The constraints list stops redesigns and stray text.
+
+GPT Image 2.6 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#keep-a-character-consistent)
+
+[`children-book`](tags.md#tag-children-book) [`watercolor`](tags.md#tag-watercolor) [`character-consistency`](tags.md#tag-character-consistency) [`winter-scene`](tags.md#tag-winter-scene)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Continue the children’s book story using the same character.
+
+Scene:
+The same young forest hero is gently helping a frightened squirrel
+out of a fallen tree after a winter storm.
+The character kneels beside the squirrel, offering reassurance.
+
+Character Consistency:
+- Same green hooded tunic
+- Same facial features, proportions, and color palette
+- Same gentle, heroic personality
+
+Style:
+Children’s book watercolor illustration,
+soft lighting, snowy forest environment,
+warm and comforting mood.
+
+Constraints:
+- Do not redesign the character
+- No text
+- No watermarks
+```
+
+</details>
+
+Inputs: [1](https://developers.openai.com/images/platform/guides/image-prompting/childrens-book-illustration-1-gpt-image-2-6-sunburst.webp)
+
+<a id="gpt-image-2-6-paper-cut-football-champions"></a>
+### Paper cut football team lifting championship trophy
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#compare-complexity"><img src="../../previews/gpt-image-2-6-paper-cut-football-champions.jpg" width="360"></a>
+
+Naming a specific craft, layered paper cut, sets the whole visual language, so the prompt only needs the subject and the scene. The result keeps the depth, shadow layering and crowd detail without any of it being described.
+
+GPT Image 2.6 · Text-to-image · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#compare-complexity)
+
+[`paper-cut`](tags.md#tag-paper-cut) [`sports`](tags.md#tag-sports) [`celebration`](tags.md#tag-celebration) [`football`](tags.md#tag-football)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A premium handcrafted layered paper-cut illustration of a football team celebrating a championship victory inside a packed stadium.
+```
+
+</details>
+
+<a id="gpt-image-2-6-pixel-art-motorcycle-rider"></a>
+### Pixel art man riding a red motorcycle on white
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style"><img src="../../previews/gpt-image-2-6-pixel-art-motorcycle-rider.jpg" width="360"></a>
+
+Pointing the prompt at an input image to reuse its style lets the model copy the pixel grid, bold outlines and limited palette, while the text only supplies the subject and a plain white background.
+
+GPT Image 2.6 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style)
+
+[`pixel-art`](tags.md#tag-pixel-art) [`style-transfer`](tags.md#tag-style-transfer) [`motorcycle`](tags.md#tag-motorcycle) [`reference-image`](tags.md#tag-reference-image)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Use the same style from the input image and generate a man riding a motorcycle on a white background.
+```
+
+</details>
+
+Inputs: [1](https://developers.openai.com/images/platform/guides/image-prompting/pixels.webp)
 
 <a id="gpt-image-anime-angel-girl-close-up-portrait"></a>
 ### Anime Angel Girl Close-up Portrait

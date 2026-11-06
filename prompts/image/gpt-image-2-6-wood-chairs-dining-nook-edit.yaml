@@ -1,0 +1,27 @@
+id: gpt-image-2-6-wood-chairs-dining-nook-edit
+title:
+  en: Dining nook with wooden chairs and glass table
+  zh: 木质餐椅与玻璃餐桌的餐区
+model: GPT Image 2.6
+mode: image-edit
+category: edit
+tags:
+- interior-design
+- furniture
+- room-makeover
+source:
+  name: OpenAI image prompting guide
+  url: https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room
+  credit: OpenAI
+  captured: '2026-11-05'
+  posted: '2026-11-04'
+inputs:
+- https://developers.openai.com/images/platform/guides/image-prompting/kitchen.webp
+notes:
+  en: 'The prompt limits the edit to one object and names what must stay fixed: camera angle, room lighting, floor shadows and the surrounding objects. The closing line asks for contact shadows and fabric texture so the new chairs sit naturally in the scene.'
+  zh: 提示词把改动限定在一个对象上，并逐项写明必须保持不变的内容：相机角度、室内光线、地面阴影和周围物件。结尾要求接触阴影和织物纹理，让替换后的椅子与原场景自然融合。
+prompt: |
+  In this room photo, replace ONLY the white chairs with chairs made of wood.
+  Preserve camera angle, room lighting, floor shadows, and surrounding objects.
+  Keep all other aspects of the image unchanged.
+  Photorealistic contact shadows and fabric texture.

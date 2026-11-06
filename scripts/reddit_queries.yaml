@@ -1,5 +1,6 @@
 # Weekly Reddit refresh: one search per line, run in order by scripts/reddit_collect.py.
 # Reddit search sorted by top over the period t; min_score is the post's upvotes.
+- {model: GPT Image 2.6, kind: image, model_re: 'image[- ]?2\.6|images 2\.6|sunburst|flare', sub: ChatGPT, query: 'images 2.6 prompt', t: month, min_score: 15, max: 10}
 - {model: GPT Image 2.5, kind: image, model_re: 'image[- ]?2\.5|images 2\.5', query: '"image 2.5" prompt', t: year, min_score: 30, max: 12}
 - {model: GPT Image 2.5, kind: image, model_re: 'image[- ]?2\.5|images 2\.5', sub: ChatGPT, query: 'prompt image 2.5', t: month, min_score: 30, max: 10}
 - {model: Nano Banana 2.1, kind: image, model_re: 'banana 2\.1|nb ?2\.1', query: '"nano banana 2.1" prompt', t: year, min_score: 20, max: 12}

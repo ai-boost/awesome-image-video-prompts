@@ -1,6 +1,6 @@
 # Product shots and e-commerce
 
-[Back to the list](../../README.md) · All 73 entries
+[Back to the list](../../README.md) · All 76 entries
 
 <a id="gpt-image-giant-pepsi-can-seated-model-ad"></a>
 ### Woman leaning on giant Pepsi can ad
@@ -1440,6 +1440,95 @@ GPT Image 2.5 · Text-to-image · Source: [@MrDasCreates on X](https://x.com/MrD
 GPT Image 2.5 turns any brand into a magical little world inside a snow globe.
 
 “A highly detailed miniature [STORE / BRAND] store inside a beautiful glass snow globe. Signature architecture + logo preserved. Cozy winter street scene with snow-covered trees, tiny street lamps, benches, bicycles and miniature brand props. Warm glowing windows contrasting with the cool snowy environment, 1–2 tiny people for scale. Realistic glass reflections, delicate falling snow, handcrafted miniature details, wooden base, cinematic product photography, soft studio lighting, cream background, whimsical yet premium, 4:5.”
+```
+
+</details>
+
+<a id="gpt-image-2-6-shampoo-billboard-sunset"></a>
+### Shampoo billboard mockup on sunset highway
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#create-the-starting-image"><img src="../../previews/gpt-image-2-6-shampoo-billboard-sunset.jpg" width="360"></a>
+
+The billboard copy is quoted verbatim and paired with typography rules (bold sans-serif, high contrast, centred, appears once), which keeps the text legible. The product from the input photo is placed into a realistic highway scene at sunset.
+
+GPT Image 2.6 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#create-the-starting-image)
+
+[`billboard`](tags.md#tag-billboard) [`mockup`](tags.md#tag-mockup) [`typography`](tags.md#tag-typography) [`product-photo`](tags.md#tag-product-photo)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a realistic billboard mockup of the shampoo on a highway scene during sunset.
+Billboard text (EXACT, verbatim, no extra characters):
+"Fresh and clean"
+Typography: bold sans-serif, high contrast, centered, clean kerning.
+Ensure text appears once and is perfectly legible.
+No watermarks, no logos.
+```
+
+</details>
+
+Inputs: [1](https://developers.openai.com/images/platform/guides/image-prompting/shampoo.webp)
+
+<a id="gpt-image-2-6-shampoo-bottle-cutout"></a>
+### Shampoo bottle cut out on transparent background
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout"><img src="../../previews/gpt-image-2-6-shampoo-bottle-cutout.jpg" width="360"></a>
+
+Explicit output constraints keep the cutout clean: a centered product, no halos, label text preserved exactly, and no backdrop or shadow. Forbidding any restyling keeps the product faithful to the input photo.
+
+GPT Image 2.6 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout)
+
+[`product-cutout`](tags.md#tag-product-cutout) [`transparent-background`](tags.md#tag-transparent-background) [`product-photo`](tags.md#tag-product-photo) [`background-removal`](tags.md#tag-background-removal)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Extract the product from the input image and isolate it on a fully transparent background.
+Output: centered product, crisp silhouette, no halos/fringing.
+Preserve product geometry and label legibility exactly.
+Add only light polishing. Do not add a solid backdrop, checkerboard, scenery, or shadow.
+Do not restyle the product; remove the background and preserve clean alpha transparency.
+```
+
+</details>
+
+Inputs: [1](https://developers.openai.com/images/platform/guides/image-prompting/shampoo.webp)
+
+<a id="gpt-image-2-6-vintage-airplane-christmas-blister-pack"></a>
+### Vintage red toy airplane in Christmas blister pack
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise"><img src="../../previews/gpt-image-2-6-vintage-airplane-christmas-blister-pack.jpg" width="360"></a>
+
+The prompt names the product type, material wear, and packaging in one sentence, then adds studio lighting and shallow depth of field so the render reads as a retail product photo. Constraints on originality and an exact packaging string keep the label text clean and legible.
+
+GPT Image 2.6 · Text-to-image · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise)
+
+[`christmas`](tags.md#tag-christmas) [`toy`](tags.md#tag-toy) [`packaging`](tags.md#tag-packaging) [`vintage`](tags.md#tag-vintage)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a collectible action figure of a vintage-style toy propeller airplane with rounded wings, a front-mounted spinning propeller, slightly worn paint edges, classic childhood proportions, designed as a nostalgic holiday collectible, in blister packaging.
+
+Concept:
+A nostalgic holiday collectible inspired by the simple toy airplanes
+children used to play with during winter holidays.
+Evokes warmth, imagination, and childhood wonder.
+
+Style:
+Premium toy photography, realistic plastic and painted metal textures,
+studio lighting, shallow depth of field,
+sharp label printing, high-end retail presentation.
+
+Constraints:
+- Original design only
+- No trademarks
+- No watermarks
+- No logos
+
+Include ONLY this packaging text (verbatim):
+"Christmas Memories Edition"
 ```
 
 </details>

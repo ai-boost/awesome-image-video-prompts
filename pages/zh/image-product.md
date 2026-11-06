@@ -1,6 +1,6 @@
 # 产品图与电商
 
-[返回目录](../../README_zh.md) · 全部 73 条
+[返回目录](../../README_zh.md) · 全部 76 条
 
 <a id="gpt-image-giant-pepsi-can-seated-model-ad"></a>
 ### 女性倚靠巨型百事可乐罐广告
@@ -1440,6 +1440,95 @@ GPT Image 2.5 · 文生图 · 出处: [@MrDasCreates on X](https://x.com/MrDasCr
 GPT Image 2.5 turns any brand into a magical little world inside a snow globe.
 
 “A highly detailed miniature [STORE / BRAND] store inside a beautiful glass snow globe. Signature architecture + logo preserved. Cozy winter street scene with snow-covered trees, tiny street lamps, benches, bicycles and miniature brand props. Warm glowing windows contrasting with the cool snowy environment, 1–2 tiny people for scale. Realistic glass reflections, delicate falling snow, handcrafted miniature details, wooden base, cinematic product photography, soft studio lighting, cream background, whimsical yet premium, 4:5.”
+```
+
+</details>
+
+<a id="gpt-image-2-6-shampoo-billboard-sunset"></a>
+### 日落高速公路洗发水广告牌效果图
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#create-the-starting-image"><img src="../../previews/gpt-image-2-6-shampoo-billboard-sunset.jpg" width="360"></a>
+
+广告文案用引号逐字锁定，并配合排版约束（粗体无衬线、高对比、居中、只出现一次），使文字清晰可读。输入图中的产品被置入日落时分的真实公路场景。
+
+GPT Image 2.6 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#create-the-starting-image)
+
+[`billboard`](tags.md#tag-billboard) [`mockup`](tags.md#tag-mockup) [`typography`](tags.md#tag-typography) [`product-photo`](tags.md#tag-product-photo)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a realistic billboard mockup of the shampoo on a highway scene during sunset.
+Billboard text (EXACT, verbatim, no extra characters):
+"Fresh and clean"
+Typography: bold sans-serif, high contrast, centered, clean kerning.
+Ensure text appears once and is perfectly legible.
+No watermarks, no logos.
+```
+
+</details>
+
+输入素材: [1](https://developers.openai.com/images/platform/guides/image-prompting/shampoo.webp)
+
+<a id="gpt-image-2-6-shampoo-bottle-cutout"></a>
+### 透明背景中的洗发水瓶抠图
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout"><img src="../../previews/gpt-image-2-6-shampoo-bottle-cutout.jpg" width="360"></a>
+
+明确的输出约束让抠图更干净：产品居中、无光晕、标签文字原样保留，并且不加背景或阴影。禁止任何风格改动，使产品与原图保持一致。
+
+GPT Image 2.6 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout)
+
+[`product-cutout`](tags.md#tag-product-cutout) [`transparent-background`](tags.md#tag-transparent-background) [`product-photo`](tags.md#tag-product-photo) [`background-removal`](tags.md#tag-background-removal)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Extract the product from the input image and isolate it on a fully transparent background.
+Output: centered product, crisp silhouette, no halos/fringing.
+Preserve product geometry and label legibility exactly.
+Add only light polishing. Do not add a solid backdrop, checkerboard, scenery, or shadow.
+Do not restyle the product; remove the background and preserve clean alpha transparency.
+```
+
+</details>
+
+输入素材: [1](https://developers.openai.com/images/platform/guides/image-prompting/shampoo.webp)
+
+<a id="gpt-image-2-6-vintage-airplane-christmas-blister-pack"></a>
+### 复古红色玩具飞机圣诞泡壳包装
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise"><img src="../../previews/gpt-image-2-6-vintage-airplane-christmas-blister-pack.jpg" width="360"></a>
+
+提示词先用一句话写清商品类型、材质磨损和包装形式，再加入影棚光线与浅景深描述，让画面呈现零售商品摄影的质感。原创、无商标等约束加上精确的包装文字，使标签文字干净清晰。
+
+GPT Image 2.6 · 文生图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise)
+
+[`christmas`](tags.md#tag-christmas) [`toy`](tags.md#tag-toy) [`packaging`](tags.md#tag-packaging) [`vintage`](tags.md#tag-vintage)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a collectible action figure of a vintage-style toy propeller airplane with rounded wings, a front-mounted spinning propeller, slightly worn paint edges, classic childhood proportions, designed as a nostalgic holiday collectible, in blister packaging.
+
+Concept:
+A nostalgic holiday collectible inspired by the simple toy airplanes
+children used to play with during winter holidays.
+Evokes warmth, imagination, and childhood wonder.
+
+Style:
+Premium toy photography, realistic plastic and painted metal textures,
+studio lighting, shallow depth of field,
+sharp label printing, high-end retail presentation.
+
+Constraints:
+- Original design only
+- No trademarks
+- No watermarks
+- No logos
+
+Include ONLY this packaging text (verbatim):
+"Christmas Memories Edition"
 ```
 
 </details>

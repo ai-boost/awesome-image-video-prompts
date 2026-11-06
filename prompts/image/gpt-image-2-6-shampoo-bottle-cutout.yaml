@@ -1,0 +1,29 @@
+id: gpt-image-2-6-shampoo-bottle-cutout
+title:
+  en: Shampoo bottle cut out on transparent background
+  zh: 透明背景中的洗发水瓶抠图
+model: GPT Image 2.6
+mode: image-edit
+category: product
+tags:
+- product-cutout
+- transparent-background
+- product-photo
+- background-removal
+source:
+  name: OpenAI image prompting guide
+  url: https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout
+  credit: OpenAI
+  captured: '2026-11-05'
+  posted: '2026-11-04'
+inputs:
+- https://developers.openai.com/images/platform/guides/image-prompting/shampoo.webp
+notes:
+  en: 'Explicit output constraints keep the cutout clean: a centered product, no halos, label text preserved exactly, and no backdrop or shadow. Forbidding any restyling keeps the product faithful to the input photo.'
+  zh: 明确的输出约束让抠图更干净：产品居中、无光晕、标签文字原样保留，并且不加背景或阴影。禁止任何风格改动，使产品与原图保持一致。
+prompt: |
+  Extract the product from the input image and isolate it on a fully transparent background.
+  Output: centered product, crisp silhouette, no halos/fringing.
+  Preserve product geometry and label legibility exactly.
+  Add only light polishing. Do not add a solid backdrop, checkerboard, scenery, or shadow.
+  Do not restyle the product; remove the background and preserve clean alpha transparency.

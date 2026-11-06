@@ -1,6 +1,6 @@
 # 插画
 
-[返回目录](../../README_zh.md) · 全部 109 条
+[返回目录](../../README_zh.md) · 全部 113 条
 
 <a id="nano-banana-map-screenshot-anime-panorama-shibuya"></a>
 ### 由地图截图生成的涩谷十字路口动漫全景
@@ -1607,6 +1607,126 @@ PROMPT: Illustrate a hilariously untrustworthy raccoon dressed as a Christmas el
 ```
 
 </details>
+
+<a id="gpt-image-2-6-forest-hero-helping-animals"></a>
+### 戴绿色兜帽的森林少年与林中小动物
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#keep-a-character-consistent"><img src="../../previews/gpt-image-2-6-forest-hero-helping-animals.jpg" width="360"></a>
+
+逐项列出服装细节，并明确水彩手绘、柔和轮廓、大头比例等风格要求，使角色在绘本系列中保持稳定。强调弓只用于帮助而非伤害，让画面聚焦于温和的救助场景而非冲突。
+
+GPT Image 2.6 · 文生图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#keep-a-character-consistent)
+
+[`children-book`](tags.md#tag-children-book) [`watercolor`](tags.md#tag-watercolor) [`storybook`](tags.md#tag-storybook) [`animals`](tags.md#tag-animals)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a children’s book illustration introducing a main character.
+
+Character:
+A young, storybook-style hero inspired by a little forest outlaw,
+wearing a simple green hooded tunic, soft brown boots, and a small belt pouch.
+The character has a kind expression, gentle eyes, and a brave but warm demeanor.
+Carries a small wooden bow used only for helping, never harming.
+
+Theme:
+The character protects and rescues small forest animals like squirrels, birds, and rabbits.
+
+Style:
+Children’s book illustration, hand-painted watercolor look,
+soft outlines, warm earthy colors, whimsical and friendly.
+Proportions suitable for picture books (slightly oversized head, expressive face).
+
+Constraints:
+- Original character (no copyrighted characters)
+- No text
+- No watermarks
+- Plain forest background to clearly showcase the character
+```
+
+</details>
+
+<a id="gpt-image-2-6-hooded-hero-helps-squirrel-snow"></a>
+### 戴绿色兜帽的森林少年在雪地里帮松鼠
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#keep-a-character-consistent"><img src="../../previews/gpt-image-2-6-hooded-hero-helps-squirrel-snow.jpg" width="360"></a>
+
+附上角色参考图，并用一段一致性说明固定斗篷、五官与配色，使主角在新场景中保持辨识度。结尾的约束条款可防止角色被重新设计以及出现文字或水印。
+
+GPT Image 2.6 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#keep-a-character-consistent)
+
+[`children-book`](tags.md#tag-children-book) [`watercolor`](tags.md#tag-watercolor) [`character-consistency`](tags.md#tag-character-consistency) [`winter-scene`](tags.md#tag-winter-scene)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Continue the children’s book story using the same character.
+
+Scene:
+The same young forest hero is gently helping a frightened squirrel
+out of a fallen tree after a winter storm.
+The character kneels beside the squirrel, offering reassurance.
+
+Character Consistency:
+- Same green hooded tunic
+- Same facial features, proportions, and color palette
+- Same gentle, heroic personality
+
+Style:
+Children’s book watercolor illustration,
+soft lighting, snowy forest environment,
+warm and comforting mood.
+
+Constraints:
+- Do not redesign the character
+- No text
+- No watermarks
+```
+
+</details>
+
+输入素材: [1](https://developers.openai.com/images/platform/guides/image-prompting/childrens-book-illustration-1-gpt-image-2-6-sunburst.webp)
+
+<a id="gpt-image-2-6-paper-cut-football-champions"></a>
+### 纸雕风格足球队举起冠军奖杯
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#compare-complexity"><img src="../../previews/gpt-image-2-6-paper-cut-football-champions.jpg" width="360"></a>
+
+指定具体工艺（分层剪纸）即可定下整体视觉语言，所以提示词只需描述主体与场景。作品保留了层次、阴影和人群细节，无需逐项描述。
+
+GPT Image 2.6 · 文生图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#compare-complexity)
+
+[`paper-cut`](tags.md#tag-paper-cut) [`sports`](tags.md#tag-sports) [`celebration`](tags.md#tag-celebration) [`football`](tags.md#tag-football)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A premium handcrafted layered paper-cut illustration of a football team celebrating a championship victory inside a packed stadium.
+```
+
+</details>
+
+<a id="gpt-image-2-6-pixel-art-motorcycle-rider"></a>
+### 像素风男子骑红色摩托车 白色背景
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style"><img src="../../previews/gpt-image-2-6-pixel-art-motorcycle-rider.jpg" width="360"></a>
+
+提示词指向输入图片来复用其风格，模型会沿用像素网格、粗描边和有限配色，文字只需说明主体和纯白背景。
+
+GPT Image 2.6 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style)
+
+[`pixel-art`](tags.md#tag-pixel-art) [`style-transfer`](tags.md#tag-style-transfer) [`motorcycle`](tags.md#tag-motorcycle) [`reference-image`](tags.md#tag-reference-image)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Use the same style from the input image and generate a man riding a motorcycle on a white background.
+```
+
+</details>
+
+输入素材: [1](https://developers.openai.com/images/platform/guides/image-prompting/pixels.webp)
 
 <a id="gpt-image-anime-angel-girl-close-up-portrait"></a>
 ### 动漫天使少女特写肖像

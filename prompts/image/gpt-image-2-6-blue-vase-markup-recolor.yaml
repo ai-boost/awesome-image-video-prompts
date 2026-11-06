@@ -1,0 +1,27 @@
+id: gpt-image-2-6-blue-vase-markup-recolor
+title:
+  en: Striped vase recolored cobalt blue in kitchen nook
+  zh: 厨房餐桌上的条纹花瓶改为钴蓝色
+model: GPT Image 2.6
+mode: image-edit
+category: edit
+tags:
+- markup-edit
+- recolor
+- interior
+- home-decor
+source:
+  name: OpenAI image prompting guide
+  url: https://developers.openai.com/api/docs/guides/image-prompting#guide-an-edit-with-markup
+  credit: OpenAI
+  captured: '2026-11-05'
+  posted: '2026-11-04'
+inputs:
+- https://developers.openai.com/images/platform/guides/image-prompting/kitchen.webp
+- https://developers.openai.com/images/platform/guides/image-prompting/markup-vase-overlay-gpt-image-2-6.png
+- https://developers.openai.com/images/platform/guides/image-prompting/markup-vase-input-gpt-image-2-6.webp
+notes:
+  en: Circling the target with a red marker and naming the new colour tells the model exactly which object to change. Asking to keep the shape, the stems and the rest of the scene unchanged, and to remove the markup, keeps the edit local and the photo clean.
+  zh: 用红圈标出目标并说明新颜色，模型能准确定位要修改的物体。明确要求保持形状、干花和场景其余部分不变，并移除红圈标记，使编辑只作用于局部，成片保持干净。
+prompt: |
+  Recolor the striped vase inside the red circle to solid cobalt blue ceramic. Keep its shape, the dried stems, and the rest of the kitchen unchanged. Remove the red circle from the finished photo.

@@ -1,6 +1,6 @@
 # 漫画与分镜
 
-[返回目录](../../README_zh.md) · 全部 20 条
+[返回目录](../../README_zh.md) · 全部 21 条
 
 <a id="nano-banana-fluffy-creatures-treehouse-story"></a>
 ### 三只毛茸茸生物规划树屋
@@ -354,6 +354,29 @@ Comic-Book version art
 Gemini Nano Banana 2
 
 Prompt: Dynamic split-face concept art in detailed pencil & ink style: handsome young adult male, half his face calm realistic human with messy hair, intense gaze and natural skin texture; the other half explodes into a powerful superhero mask inspired by urban vigilante - black base with crimson red accents, sharp geometric patterns, reflective white eye lenses, subtle web cracks. Vertical divide looks like torn paper or shattered glass effect, strong side lighting with deep shadows, artistic cross-hatching and stippling, high contrast, epic movie poster mood, dark smoky background, intricate linework, masterpiece illustration
+```
+
+</details>
+
+<a id="gpt-image-2-6-dog-couch-takeover-comic"></a>
+### 主人出门后金毛霸占沙发
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#turn-a-story-into-a-comic-strip"><img src="../../previews/gpt-image-2-6-dog-couch-takeover-comic.jpg" width="360"></a>
+
+每个分镜都有编号和独立的画面指令，四步剧情依次成立。窗框、碎屑和阳光等具体道具让场景有可承载笑点的细节。
+
+GPT Image 2.6 · 文生图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#turn-a-story-into-a-comic-strip)
+
+[`comic`](tags.md#tag-comic) [`storytelling`](tags.md#tag-storytelling) [`pets`](tags.md#tag-pets) [`dog`](tags.md#tag-dog)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a short vertical comic-style reel with 4 panels.
+Panel 1: The owner leaves through the front door. The pet is framed in the window behind them, small against the glass, eyes wide, paws pressed high, the house suddenly quiet.
+Panel 2: The door clicks shut. Silence breaks. The pet slowly turns toward the empty house, posture shifting, eyes sharp with possibility.
+Panel 3: The house transformed. The pet sprawls across the couch like it owns the place, crumbs nearby, sunlight cutting across the room like a spotlight.
+Panel 4: The door opens. The pet is seated perfectly by the entrance, alert and composed, as if nothing happened.
 ```
 
 </details>

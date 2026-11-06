@@ -1,0 +1,28 @@
+id: gpt-image-2-6-museum-tan-blazer-outfit
+title:
+  en: Woman in tan blazer in museum gallery
+  zh: 博物馆中身穿米色西装的女子
+model: GPT Image 2.6
+mode: image-edit
+category: edit
+tags:
+- outfit-swap
+- identity-preservation
+- clothing-edit
+- reference-images
+source:
+  name: OpenAI image prompting guide
+  url: https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing
+  credit: OpenAI
+  captured: '2026-11-05'
+  posted: '2026-11-04'
+inputs:
+- https://developers.openai.com/images/platform/guides/image-prompting/woman-in-museum.webp
+- https://developers.openai.com/images/platform/guides/image-prompting/jacket.webp
+- https://developers.openai.com/images/platform/guides/image-prompting/tank-top.webp
+- https://developers.openai.com/images/platform/guides/image-prompting/boots.webp
+notes:
+  en: The prompt lists what must stay fixed (face, pose, hair, proportions, background, framing) and asks for only the clothing to be refitted to the pose with matching light and colour temperature. Four input images supply the garments as references, so the outfit comes from images rather than text.
+  zh: 提示词先列出必须保持不变的内容（脸部、姿势、发型、比例、背景与构图），再要求只替换服装，并按原图的光线与色温匹配，使服装看起来像真实穿着而非贴上去。四张输入图提供人物和服装参考，服装来自图片而非文字描述。
+prompt: |
+  Edit the image to dress the woman using the provided clothing images. Do not change her face, facial features, skin tone, body shape, pose, or identity in any way. Preserve her exact likeness, expression, hairstyle, and proportions. Replace only the clothing, fitting the garments naturally to her existing pose and body geometry with realistic fabric behavior. Match lighting, shadows, and color temperature to the original photo so the outfit integrates photorealistically, without looking pasted on. Do not change the background, camera angle, framing, or image quality, and do not add accessories, text, logos, or watermarks.

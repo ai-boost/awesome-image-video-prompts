@@ -1,0 +1,27 @@
+id: gpt-image-2-6-woman-fleeing-bear-yosemite
+title:
+  en: Runner fleeing a bear at Yosemite campsite
+  zh: 女子在约塞米蒂营地逃离棕熊
+model: GPT Image 2.6
+mode: image-edit
+category: edit
+tags:
+- photorealism
+- person-insertion
+- action-scene
+- yosemite
+source:
+  name: OpenAI image prompting guide
+  url: https://developers.openai.com/api/docs/guides/image-prompting#insert-a-person-into-a-scene
+  credit: OpenAI
+  captured: '2026-11-05'
+  posted: '2026-11-04'
+inputs:
+- https://developers.openai.com/images/platform/guides/image-prompting/woman-in-museum.webp
+notes:
+  en: Asking for an unstyled photo look and banning cinematic lighting keeps the result believable. Naming the location, time of day and specific damage gives the model concrete natural details to render.
+  zh: 要求像真实照片、不要电影感打光，让画面更可信。点明地点、时间和具体的破坏细节，为模型提供可落实的自然元素。
+prompt: |
+  Generate a highly realistic action scene where this person is running away from a large, realistic brown bear attacking a campsite. The image should look like a real photograph someone could have taken, not an overly enhanced or cinematic movie-poster image.
+  She is centered in the image but looking away from the camera, wearing outdoorsy camping attire, with dirt on her face and tears in her clothing. She is clearly afraid but focused on escaping, running away from the bear as it destroys the campsite behind her.
+  The campsite is in Yosemite National Park, with believable natural details. The time of day is dusk, with natural lighting and realistic colors. Everything should feel grounded, authentic, and unstyled, as if captured in a real moment. Avoid cinematic lighting, dramatic color grading, or stylized composition.

@@ -1,6 +1,6 @@
 # Characters and figures
 
-[Back to the list](../../README.md) · All 85 entries
+[Back to the list](../../README.md) · All 86 entries
 
 <a id="gpt-image-tanjiro-pixel-sprite-sheet-water-attack"></a>
 ### Tanjiro 16 frame pixel sprite sheet with water attack
@@ -1927,6 +1927,25 @@ Nano Banana 2 · Edit · Source: [@arsalannazir07 on X](https://x.com/arsalannaz
 
 ```text
 A hyperrealistic, detailed close-up photograph of a meticulously crafted stop-motion claymation figure, sculpted with a textured, tactile matte finish. The figure, inspired by the subject and clothing from image_0.png, portrays the man with his distinct full beard, intense gaze, and slightly elongated, stylized features reminiscent of Tim Burton's 'Corpse Bride' characters. He is wearing the light beige ESSENTIALS Fear of God hoodie (with clear, legible text and black drawstrings) and dark jeans, leaning casually with one hand in his pocket. He is positioned center frame, staring directly at the viewer. The background is a dense, atmospheric, claymation miniature set of a surreal gothic castle interior, heavily influenced by German Expressionism and 'The Nightmare Before Christmas' and 'Corpse Bride.' It's a bizarre, asymmetric structure of crooked stone towers, winding purple and teal staircases, arched doorways with gold and mint green doors, crooked bookshelves, and a myriad of lit candles creating pools of soft, flickering, dramatic light (chiaroscuro). The entire environment is made of sculpted, painted clay. The textures are tangible and raw, highlighting the artisanal quality. Multiple small candles on sconces and platforms illuminate the figure and the labyrinthine architecture. Shot with a macro lens, shallow depth of field, natural film grain. Grainy, textural, dark, and whimsical mood. Visible stop-motion elements and slight character movement. Film still quality.
+```
+
+</details>
+
+<a id="gpt-image-2-6-monkey-lantern-looping-gif"></a>
+### Monkey in hooded coat holding a lantern
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#generate-a-looping-gif"><img src="../../previews/gpt-image-2-6-monkey-lantern-looping-gif.jpg" width="360"></a>
+
+Locking the camera and describing one lift, look, blink and return arc from a fixed start pose makes the motion close cleanly into a loop. Naming the coat, lantern and cabin keeps the subject consistent across frames.
+
+GPT Image 2.6 · Text-to-image · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#generate-a-looping-gif)
+
+[`animated-gif`](tags.md#tag-animated-gif) [`looping-motion`](tags.md#tag-looping-motion) [`animal-character`](tags.md#tag-animal-character) [`winter`](tags.md#tag-winter) [`lantern`](tags.md#tag-lantern)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A little monkey in an olive-green hooded coat stands in a snowy pine forest at dusk. A wooden cabin glows in the background. The monkey holds a glowing amber paper lantern at chest height, slowly lifts it, looks up and blinks, then lowers it back to its starting pose. Keep the lantern in its hands and the camera still. Make the motion loop smoothly.
 ```
 
 </details>

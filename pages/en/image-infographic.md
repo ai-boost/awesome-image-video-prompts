@@ -1,6 +1,6 @@
 # Infographics and slides
 
-[Back to the list](../../README.md) · All 89 entries
+[Back to the list](../../README.md) · All 93 entries
 
 <a id="gpt-image-encyclopedia-infographic-topic-template"></a>
 ### Encyclopedia infographic card of the James Webb Telescope
@@ -2530,6 +2530,108 @@ GPT Image 2 · Text-to-image · Source: [@umesh_ai on X](https://x.com/umesh_ai/
 
 ```text
 Create a scene with 100 elements, and list the 100 elements within the image.
+```
+
+</details>
+
+<a id="gpt-image-2-6-cellular-respiration-diagram"></a>
+### Cellular respiration diagram with labeled molecules
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals"><img src="../../previews/gpt-image-2-6-cellular-respiration-diagram.jpg" width="360"></a>
+
+Naming each step and every molecule to label, then specifying a white classroom handout with simple icons and no tiny text, produces a readable teaching diagram. Arrows run in order from glucose to the final products.
+
+GPT Image 2.6 · Text-to-image · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals)
+
+[`biology`](tags.md#tag-biology) [`education`](tags.md#tag-education) [`diagram`](tags.md#tag-diagram) [`science`](tags.md#tag-science)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a simple biology diagram titled "Cellular Respiration at a Glance" for high school students.
+
+Show how glucose turns into energy inside a cell. Include glycolysis, the Krebs cycle, and the electron transport chain.
+Use arrows to connect the steps, and label the main molecules: glucose, pyruvate, ATP, NADH, FADH2, CO2, O2, and H2O.
+Make it look like a clean classroom handout or slide, with a white background, simple icons, clear labels, and easy-to-read text.
+
+Avoid tiny text, extra decoration, or anything that makes the diagram hard to understand.
+```
+
+</details>
+
+<a id="gpt-image-2-6-coffee-machine-infographic-spanish"></a>
+### Coffee machine infographic translated into Spanish
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#translate-while-preserving-layout"><img src="../../previews/gpt-image-2-6-coffee-machine-infographic-spanish.jpg" width="360"></a>
+
+The prompt changes one thing, the language of the text, and states that nothing else may change, so the layout, icons and diagram carry over intact. Naming the target language and the limit of the edit keeps the model from redrawing the scene.
+
+GPT Image 2.6 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#translate-while-preserving-layout)
+
+[`translation`](tags.md#tag-translation) [`infographic`](tags.md#tag-infographic) [`layout-preservation`](tags.md#tag-layout-preservation) [`localization`](tags.md#tag-localization)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Translate the text in the infographic to Spanish. Do not change any other aspect of the image.
+```
+
+</details>
+
+Inputs: [1](https://developers.openai.com/images/platform/guides/image-prompting/infographic-coffee-machine-gpt-image-2-6-sunburst.webp)
+
+<a id="gpt-image-2-6-coffee-machine-process-infographic"></a>
+### Jura style coffee machine process infographic
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#explain-a-process-visually"><img src="../../previews/gpt-image-2-6-coffee-machine-process-infographic.jpg" width="360"></a>
+
+Listing the stages in physical order, from beans through grinding, dosing and water heating to the brew group, gives the model a checklist for its labelled callouts. Asking for both technical and visual understanding pushes it toward a cutaway with numbered parts, a flow legend and a simplified flow diagram.
+
+GPT Image 2.6 · Text-to-image · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#explain-a-process-visually)
+
+[`infographic`](tags.md#tag-infographic) [`explainer`](tags.md#tag-explainer) [`coffee`](tags.md#tag-coffee) [`technical-diagram`](tags.md#tag-technical-diagram)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a detailed Infographic of the functioning and flow of an automatic coffee machine like a Jura.
+From bean basket, to grinding, to scale, water tank, boiler, etc.
+I'd like to understand technically and visually the flow.
+```
+
+</details>
+
+<a id="gpt-image-2-6-market-opportunity-pitch-slide"></a>
+### Pitch slide with TAM, SAM and SOM circles
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts"><img src="../../previews/gpt-image-2-6-market-opportunity-pitch-slide.jpg" width="360"></a>
+
+The prompt pins exact figures, the typeface and the footnote text, so the model builds a believable investor slide instead of a generic infographic. The closing list of things to avoid (gradients, shadows, clip art) keeps the result flat and minimal.
+
+GPT Image 2.6 · Text-to-image · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts)
+
+[`pitch-deck`](tags.md#tag-pitch-deck) [`infographic`](tags.md#tag-infographic) [`data-visualization`](tags.md#tag-data-visualization) [`business`](tags.md#tag-business)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create one pitch-deck slide titled **"Market Opportunity"** that feels like a real Series A fundraising slide from a YC-backed startup.
+
+Use a clean white background, modern sans-serif typography like Inter, and a crisp, minimal layout. The slide should include:
+
+* A TAM/SAM/SOM concentric-circle diagram in muted blues and grays
+* Specific, believable market sizing numbers:
+
+  * **TAM:** $42B
+  * **SAM:** $8.7B
+  * **SOM:** $340M
+* A clean bar chart below showing market growth from **2021 to 2026**, with a subtle upward trend
+* Small footnotes: **"AGI Research, 2024"** and **"Internal analysis"**
+* A company logo placeholder in the bottom-right corner
+
+The design should look like it belongs in a deck that actually raised money: highly readable text, clear data hierarchy, polished spacing, and professional startup-style visual language.
+
+Avoid clip art, stock photography, gradients, shadows, decorative elements, or anything that feels generic or overdesigned.
 ```
 
 </details>

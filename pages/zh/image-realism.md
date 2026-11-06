@@ -1,6 +1,6 @@
 # 写实照片
 
-[返回目录](../../README_zh.md) · 全部 100 条
+[返回目录](../../README_zh.md) · 全部 104 条
 
 <a id="gpt-image-coca-cola-tanker-leak-mentos-truck-dashcam"></a>
 ### 可口可乐罐车漏液，旁边是Mentos货车
@@ -2877,6 +2877,112 @@ GPT Image 2.5 · 文生图 · 出处: [OpenAI image prompting guide](https://dev
 ```text
 Create a realistic outdoor crowd scene in Bethel, New York on August 16, 1969.
 Photorealistic, period-accurate clothing, staging, and environment.
+```
+
+</details>
+
+<a id="gpt-image-2-6-bethel-1969-crowd-scene"></a>
+### 1969年贝瑟尔草地上的音乐节人群
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#use-historical-and-real-world-context"><img src="../../previews/gpt-image-2-6-bethel-1969-crowd-scene.jpg" width="360"></a>
+
+具体的地点和日期为模型提供历史锚点，让它自动补全时代服饰、舞台结构与地貌，无需长篇描述。结尾重复写实与时代准确性的要求，使画面保持摄影感而非插画感。
+
+GPT Image 2.6 · 文生图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#use-historical-and-real-world-context)
+
+[`historical-context`](tags.md#tag-historical-context) [`crowd`](tags.md#tag-crowd) [`photorealistic`](tags.md#tag-photorealistic) [`period-accuracy`](tags.md#tag-period-accuracy)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a realistic outdoor crowd scene in Bethel, New York on August 16, 1969.
+Photorealistic, period-accurate clothing, staging, and environment.
+```
+
+</details>
+
+<a id="gpt-image-2-6-elderly-sailor-net-dog"></a>
+### 老年水手整理渔网，身旁趴着他的狗
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#control-style-and-lighting"><img src="../../previews/gpt-image-2-6-elderly-sailor-net-dog.jpg" width="360"></a>
+
+明确指定 35mm 胶片质感、眼高视角的 50mm 镜头和中近景构图，并禁止美化修图，让画面更接近纪实摄影而不是精修人像。把皮肤纹理、纹身和旧物质感列为具体细节，则让画面有真实的质地。
+
+GPT Image 2.6 · 文生图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#control-style-and-lighting)
+
+[`film-look`](tags.md#tag-film-look) [`portrait`](tags.md#tag-portrait) [`candid`](tags.md#tag-candid) [`photorealism`](tags.md#tag-photorealism)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a photorealistic candid photograph of an elderly sailor standing on a small fishing boat.
+He has weathered skin with visible wrinkles, pores, and sun texture, and a few faded traditional sailor tattoos on his arms.
+He is calmly adjusting a net while his dog sits nearby on the deck. Shot like a 35mm film photograph, medium close-up at eye level, using a 50mm lens.
+Soft coastal daylight, shallow depth of field, subtle film grain, natural color balance.
+The image should feel honest and unposed, with real skin texture, worn materials, and everyday detail. No glamorization, no heavy retouching.
+```
+
+</details>
+
+<a id="gpt-image-2-6-sunset-river-sketch-to-photo"></a>
+### 草图转写实日落河流与孤树
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image"><img src="../../previews/gpt-image-2-6-sunset-river-sketch-to-photo.jpg" width="360"></a>
+
+提示词锁定草图的构图、比例和透视，只让模型补充材质与光线，因此原图的布局得以保留。明确禁止新增元素或文字，避免模型在画面中自行添加内容。
+
+GPT Image 2.6 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image)
+
+[`sketch-to-photo`](tags.md#tag-sketch-to-photo) [`landscape`](tags.md#tag-landscape) [`sunset`](tags.md#tag-sunset) [`lighting`](tags.md#tag-lighting)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Turn this drawing into a photorealistic image.
+Preserve the exact layout, proportions, and perspective.
+Choose realistic materials and lighting consistent with the sketch intent.
+Do not add new elements or text.
+```
+
+</details>
+
+输入素材: [1](https://developers.openai.com/images/platform/guides/image-prompting/drawings.webp)
+
+<a id="gpt-image-2-6-teddy-bear-keepsake-box-christmas"></a>
+### 窗边礼盒里的旧泰迪熊
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card"><img src="../../previews/gpt-image-2-6-teddy-bear-keepsake-box-christmas.jpg" width="360"></a>
+
+提示词用一个具体场景定下情绪：窗边飘雪，礼盒里放着旧泰迪熊，并加入浅景深和印刷级构图来强化摄影质感。卡片文字逐字给出，模型因此能渲染出一行清晰的排版文字。
+
+GPT Image 2.6 · 文生图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card)
+
+[`christmas`](tags.md#tag-christmas) [`holiday-card`](tags.md#tag-holiday-card) [`typography`](tags.md#tag-typography) [`still-life`](tags.md#tag-still-life)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a Christmas holiday card illustration.
+
+Scene:
+a cozy Christmas scene with an old teddy bear sitting inside a keepsake box, slightly worn fur, soft stitching repairs, placed near a window with falling snow outside. The scene suggests the child has grown up, but the memories remain.
+
+Mood:
+Warm, nostalgic, gentle, emotional.
+
+Style:
+Premium holiday card photography, soft cinematic lighting,
+realistic textures, shallow depth of field,
+tasteful bokeh lights, high print-quality composition.
+
+Constraints:
+- Original artwork only
+- No trademarks
+- No watermarks
+- No logos
+
+Include ONLY this card text (verbatim):
+"Merry Christmas — some memories never fade."
 ```
 
 </details>

@@ -1,6 +1,6 @@
 # Logos, ads and packaging
 
-[Back to the list](../../README.md) · All 25 entries
+[Back to the list](../../README.md) · All 27 entries
 
 <a id="nano-banana-inflated-3d-logotype-spikes"></a>
 ### Inflated 3D logotypes with spikes in one colour
@@ -1324,6 +1324,52 @@ Elegant from far away.
 Surprisingly intelligent up close.
 Immediately recognizable.
 Distinctly original.
+```
+
+</details>
+
+<a id="gpt-image-2-6-field-flour-bakery-logo"></a>
+### Bakery logo with wheat, loaf and serif wordmark
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo"><img src="../../previews/gpt-image-2-6-field-flour-bakery-logo.jpg" width="360"></a>
+
+Asking for clean vector shapes, a strong silhouette, flat design and a transparent background with no scenery keeps the result a reusable mark. Naming the exact brand text lets the model set the wordmark cleanly, while the wheat and loaf are added by the model rather than specified in the prompt.
+
+GPT Image 2.6 · Text-to-image · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo)
+
+[`logo`](tags.md#tag-logo) [`branding`](tags.md#tag-branding) [`bakery`](tags.md#tag-bakery) [`flat-design`](tags.md#tag-flat-design)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create an original, non-infringing logo for a company called Field & Flour, a local bakery.
+The logo should feel warm, simple, and timeless. Use clean, vector-like shapes, a strong silhouette, and balanced negative space.
+Favor simplicity over detail so it reads clearly at small and large sizes. Flat design, minimal strokes, no gradients unless essential.
+Fully transparent background. Deliver a single centered logo with generous padding, clean alpha edges, and no solid backdrop, scenery, checkerboard, or watermark.
+```
+
+</details>
+
+<a id="gpt-image-2-6-thread-yours-to-create"></a>
+### Friends laughing on a rooftop with Thread logo
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text"><img src="../../previews/gpt-image-2-6-thread-yours-to-create.jpg" width="360"></a>
+
+The prompt names the brand, gives the tagline verbatim, and asks for campaign cues such as clean composition, natural poses and premium fashion photography. It also says to render the tagline once with no extra text or logos, and the output keeps both the wordmark and tagline crisp inside a multi person shot.
+
+GPT Image 2.6 · Text-to-image · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text)
+
+[`text-rendering`](tags.md#tag-text-rendering) [`streetwear`](tags.md#tag-streetwear) [`campaign`](tags.md#tag-campaign) [`group-portrait`](tags.md#tag-group-portrait)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Give me a cool in culture ad / fashion shot for a brand called Thread.
+It's a hip young street brand. The ad shows a group of friends hanging out together with the tagline "Yours to Create."
+Make it feel like a polished campaign image for a youth streetwear audience: stylish, contemporary, energetic, and tasteful.
+Use clean composition, strong color direction, natural poses, and premium fashion photography cues.
+Render the tagline exactly once, clearly and legibly, integrated into the ad layout.
+No extra text, no watermarks, no unrelated logos.
 ```
 
 </details>

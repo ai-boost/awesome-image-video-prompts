@@ -1,0 +1,28 @@
+id: gpt-image-2-6-thread-yours-to-create
+title:
+  en: Friends laughing on a rooftop with Thread logo
+  zh: 朋友们在天台上大笑，画面带 Thread 标识
+model: GPT Image 2.6
+mode: text-to-image
+category: brand
+tags:
+- text-rendering
+- streetwear
+- campaign
+- group-portrait
+source:
+  name: OpenAI image prompting guide
+  url: https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text
+  credit: OpenAI
+  captured: '2026-11-05'
+  posted: '2026-11-04'
+notes:
+  en: The prompt names the brand, gives the tagline verbatim, and asks for campaign cues such as clean composition, natural poses and premium fashion photography. It also says to render the tagline once with no extra text or logos, and the output keeps both the wordmark and tagline crisp inside a multi person shot.
+  zh: 提示词写明品牌名、标语原文，并给出干净构图、自然姿态和高端时尚摄影等广告要求，同时规定标语只出现一次且不要其他文字或徽标。输出中字标和标语都清晰可读，说明精确文字渲染在多人合影中依然有效。
+prompt: |
+  Give me a cool in culture ad / fashion shot for a brand called Thread.
+  It's a hip young street brand. The ad shows a group of friends hanging out together with the tagline "Yours to Create."
+  Make it feel like a polished campaign image for a youth streetwear audience: stylish, contemporary, energetic, and tasteful.
+  Use clean composition, strong color direction, natural poses, and premium fashion photography cues.
+  Render the tagline exactly once, clearly and legibly, integrated into the ad layout.
+  No extra text, no watermarks, no unrelated logos.

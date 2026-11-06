@@ -1,6 +1,6 @@
 # 角色与手办
 
-[返回目录](../../README_zh.md) · 全部 85 条
+[返回目录](../../README_zh.md) · 全部 86 条
 
 <a id="gpt-image-tanjiro-pixel-sprite-sheet-water-attack"></a>
 ### 炭治郎十六帧像素精灵图与水之呼吸攻击
@@ -1927,6 +1927,25 @@ Nano Banana 2 · 上传图改图 · 出处: [@arsalannazir07 on X](https://x.com
 
 ```text
 A hyperrealistic, detailed close-up photograph of a meticulously crafted stop-motion claymation figure, sculpted with a textured, tactile matte finish. The figure, inspired by the subject and clothing from image_0.png, portrays the man with his distinct full beard, intense gaze, and slightly elongated, stylized features reminiscent of Tim Burton's 'Corpse Bride' characters. He is wearing the light beige ESSENTIALS Fear of God hoodie (with clear, legible text and black drawstrings) and dark jeans, leaning casually with one hand in his pocket. He is positioned center frame, staring directly at the viewer. The background is a dense, atmospheric, claymation miniature set of a surreal gothic castle interior, heavily influenced by German Expressionism and 'The Nightmare Before Christmas' and 'Corpse Bride.' It's a bizarre, asymmetric structure of crooked stone towers, winding purple and teal staircases, arched doorways with gold and mint green doors, crooked bookshelves, and a myriad of lit candles creating pools of soft, flickering, dramatic light (chiaroscuro). The entire environment is made of sculpted, painted clay. The textures are tangible and raw, highlighting the artisanal quality. Multiple small candles on sconces and platforms illuminate the figure and the labyrinthine architecture. Shot with a macro lens, shallow depth of field, natural film grain. Grainy, textural, dark, and whimsical mood. Visible stop-motion elements and slight character movement. Film still quality.
+```
+
+</details>
+
+<a id="gpt-image-2-6-monkey-lantern-looping-gif"></a>
+### 身披连帽大衣手提灯笼的小猴子
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#generate-a-looping-gif"><img src="../../previews/gpt-image-2-6-monkey-lantern-looping-gif.jpg" width="360"></a>
+
+固定镜头，并描述从固定起始姿势出发的抬灯、抬头眨眼再放回的单一动作弧线，动作才能平滑闭合成循环。明确写出大衣、灯笼和小屋等元素，能让每一帧的主体保持一致。
+
+GPT Image 2.6 · 文生图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#generate-a-looping-gif)
+
+[`animated-gif`](tags.md#tag-animated-gif) [`looping-motion`](tags.md#tag-looping-motion) [`animal-character`](tags.md#tag-animal-character) [`winter`](tags.md#tag-winter) [`lantern`](tags.md#tag-lantern)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A little monkey in an olive-green hooded coat stands in a snowy pine forest at dusk. A wooden cabin glows in the background. The monkey holds a glowing amber paper lantern at chest height, slowly lifts it, looks up and blinks, then lowers it back to its starting pose. Keep the lantern in its hands and the camera still. Make the motion loop smoothly.
 ```
 
 </details>

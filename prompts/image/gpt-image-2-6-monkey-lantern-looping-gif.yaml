@@ -1,0 +1,24 @@
+id: gpt-image-2-6-monkey-lantern-looping-gif
+title:
+  en: Monkey in hooded coat holding a lantern
+  zh: 身披连帽大衣手提灯笼的小猴子
+model: GPT Image 2.6
+mode: text-to-image
+category: character
+tags:
+- animated-gif
+- looping-motion
+- animal-character
+- winter
+- lantern
+source:
+  name: OpenAI image prompting guide
+  url: https://developers.openai.com/api/docs/guides/image-prompting#generate-a-looping-gif
+  credit: OpenAI
+  captured: '2026-11-05'
+  posted: '2026-11-04'
+notes:
+  en: Locking the camera and describing one lift, look, blink and return arc from a fixed start pose makes the motion close cleanly into a loop. Naming the coat, lantern and cabin keeps the subject consistent across frames.
+  zh: 固定镜头，并描述从固定起始姿势出发的抬灯、抬头眨眼再放回的单一动作弧线，动作才能平滑闭合成循环。明确写出大衣、灯笼和小屋等元素，能让每一帧的主体保持一致。
+prompt: |
+  A little monkey in an olive-green hooded coat stands in a snowy pine forest at dusk. A wooden cabin glows in the background. The monkey holds a glowing amber paper lantern at chest height, slowly lifts it, looks up and blinks, then lowers it back to its starting pose. Keep the lantern in its hands and the camera still. Make the motion loop smoothly.

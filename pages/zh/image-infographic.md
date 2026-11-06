@@ -1,6 +1,6 @@
 # 信息图与幻灯片
 
-[返回目录](../../README_zh.md) · 全部 89 条
+[返回目录](../../README_zh.md) · 全部 93 条
 
 <a id="gpt-image-encyclopedia-infographic-topic-template"></a>
 ### 詹姆斯韦伯望远镜百科信息图卡片
@@ -2530,6 +2530,108 @@ GPT Image 2 · 文生图 · 出处: [@umesh_ai on X](https://x.com/umesh_ai/stat
 
 ```text
 Create a scene with 100 elements, and list the 100 elements within the image.
+```
+
+</details>
+
+<a id="gpt-image-2-6-cellular-respiration-diagram"></a>
+### 带标注分子的细胞呼吸示意图
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals"><img src="../../previews/gpt-image-2-6-cellular-respiration-diagram.jpg" width="360"></a>
+
+提示中列出每个步骤和必须标注的分子，并规定白底课堂讲义风格、简单图标、不要小字，使图表清晰易读。箭头按顺序从葡萄糖连接到最终产物。
+
+GPT Image 2.6 · 文生图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals)
+
+[`biology`](tags.md#tag-biology) [`education`](tags.md#tag-education) [`diagram`](tags.md#tag-diagram) [`science`](tags.md#tag-science)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a simple biology diagram titled "Cellular Respiration at a Glance" for high school students.
+
+Show how glucose turns into energy inside a cell. Include glycolysis, the Krebs cycle, and the electron transport chain.
+Use arrows to connect the steps, and label the main molecules: glucose, pyruvate, ATP, NADH, FADH2, CO2, O2, and H2O.
+Make it look like a clean classroom handout or slide, with a white background, simple icons, clear labels, and easy-to-read text.
+
+Avoid tiny text, extra decoration, or anything that makes the diagram hard to understand.
+```
+
+</details>
+
+<a id="gpt-image-2-6-coffee-machine-infographic-spanish"></a>
+### 咖啡机信息图翻译成西班牙语
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#translate-while-preserving-layout"><img src="../../previews/gpt-image-2-6-coffee-machine-infographic-spanish.jpg" width="360"></a>
+
+提示词只改变一件事，即图中文字的语言，并明确要求其他部分保持不变，因此版式、图标和流程图都得以保留。明确目标语言和编辑范围，可以避免模型重绘整个画面。
+
+GPT Image 2.6 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#translate-while-preserving-layout)
+
+[`translation`](tags.md#tag-translation) [`infographic`](tags.md#tag-infographic) [`layout-preservation`](tags.md#tag-layout-preservation) [`localization`](tags.md#tag-localization)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Translate the text in the infographic to Spanish. Do not change any other aspect of the image.
+```
+
+</details>
+
+输入素材: [1](https://developers.openai.com/images/platform/guides/image-prompting/infographic-coffee-machine-gpt-image-2-6-sunburst.webp)
+
+<a id="gpt-image-2-6-coffee-machine-process-infographic"></a>
+### Jura 风格全自动咖啡机工作流程信息图
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#explain-a-process-visually"><img src="../../previews/gpt-image-2-6-coffee-machine-process-infographic.jpg" width="360"></a>
+
+按物理顺序列出各环节，从豆仓、研磨、称重、加热到冲煮组，给模型一份标注清单。同时要求讲清技术原理和视觉流程，促使它生成带编号部件、流向图例和简化流程图的剖面图。
+
+GPT Image 2.6 · 文生图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#explain-a-process-visually)
+
+[`infographic`](tags.md#tag-infographic) [`explainer`](tags.md#tag-explainer) [`coffee`](tags.md#tag-coffee) [`technical-diagram`](tags.md#tag-technical-diagram)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a detailed Infographic of the functioning and flow of an automatic coffee machine like a Jura.
+From bean basket, to grinding, to scale, water tank, boiler, etc.
+I'd like to understand technically and visually the flow.
+```
+
+</details>
+
+<a id="gpt-image-2-6-market-opportunity-pitch-slide"></a>
+### 带 TAM、SAM、SOM 同心圆的融资路演页
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts"><img src="../../previews/gpt-image-2-6-market-opportunity-pitch-slide.jpg" width="360"></a>
+
+提示词固定了具体数字、字体和脚注文字，因此模型生成的是可信的投资人路演页，而不是通用信息图。结尾列出的禁用项（渐变、阴影、剪贴画）让画面保持扁平简洁。
+
+GPT Image 2.6 · 文生图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts)
+
+[`pitch-deck`](tags.md#tag-pitch-deck) [`infographic`](tags.md#tag-infographic) [`data-visualization`](tags.md#tag-data-visualization) [`business`](tags.md#tag-business)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create one pitch-deck slide titled **"Market Opportunity"** that feels like a real Series A fundraising slide from a YC-backed startup.
+
+Use a clean white background, modern sans-serif typography like Inter, and a crisp, minimal layout. The slide should include:
+
+* A TAM/SAM/SOM concentric-circle diagram in muted blues and grays
+* Specific, believable market sizing numbers:
+
+  * **TAM:** $42B
+  * **SAM:** $8.7B
+  * **SOM:** $340M
+* A clean bar chart below showing market growth from **2021 to 2026**, with a subtle upward trend
+* Small footnotes: **"AGI Research, 2024"** and **"Internal analysis"**
+* A company logo placeholder in the bottom-right corner
+
+The design should look like it belongs in a deck that actually raised money: highly readable text, clear data hierarchy, polished spacing, and professional startup-style visual language.
+
+Avoid clip art, stock photography, gradients, shadows, decorative elements, or anything that feels generic or overdesigned.
 ```
 
 </details>

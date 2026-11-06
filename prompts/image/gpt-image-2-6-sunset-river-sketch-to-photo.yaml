@@ -1,0 +1,28 @@
+id: gpt-image-2-6-sunset-river-sketch-to-photo
+title:
+  en: Sunset river and lone tree from a sketch
+  zh: 草图转写实日落河流与孤树
+model: GPT Image 2.6
+mode: image-edit
+category: realism
+tags:
+- sketch-to-photo
+- landscape
+- sunset
+- lighting
+source:
+  name: OpenAI image prompting guide
+  url: https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image
+  credit: OpenAI
+  captured: '2026-11-05'
+  posted: '2026-11-04'
+inputs:
+- https://developers.openai.com/images/platform/guides/image-prompting/drawings.webp
+notes:
+  en: The prompt locks the sketch's layout, proportions and perspective, and asks the model to supply only materials and lighting, so the drawing's composition survives intact. The explicit ban on new elements or text stops the model from decorating the scene.
+  zh: 提示词锁定草图的构图、比例和透视，只让模型补充材质与光线，因此原图的布局得以保留。明确禁止新增元素或文字，避免模型在画面中自行添加内容。
+prompt: |
+  Turn this drawing into a photorealistic image.
+  Preserve the exact layout, proportions, and perspective.
+  Choose realistic materials and lighting consistent with the sketch intent.
+  Do not add new elements or text.

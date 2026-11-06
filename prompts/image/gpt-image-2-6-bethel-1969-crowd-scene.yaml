@@ -1,0 +1,24 @@
+id: gpt-image-2-6-bethel-1969-crowd-scene
+title:
+  en: Festival crowd on grassy field, Bethel 1969
+  zh: 1969年贝瑟尔草地上的音乐节人群
+model: GPT Image 2.6
+mode: text-to-image
+category: realism
+tags:
+- historical-context
+- crowd
+- photorealistic
+- period-accuracy
+source:
+  name: OpenAI image prompting guide
+  url: https://developers.openai.com/api/docs/guides/image-prompting#use-historical-and-real-world-context
+  credit: OpenAI
+  captured: '2026-11-05'
+  posted: '2026-11-04'
+notes:
+  en: A specific place and date act as a historical anchor, so the model fills in period clothing, stage rigging and landscape without a long description. Repeating the photorealism and period-accuracy requirements at the end keeps the result photographic rather than illustrated.
+  zh: 具体的地点和日期为模型提供历史锚点，让它自动补全时代服饰、舞台结构与地貌，无需长篇描述。结尾重复写实与时代准确性的要求，使画面保持摄影感而非插画感。
+prompt: |
+  Create a realistic outdoor crowd scene in Bethel, New York on August 16, 1969.
+  Photorealistic, period-accurate clothing, staging, and environment.

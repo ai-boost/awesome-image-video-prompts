@@ -1,6 +1,6 @@
 # Photo realism
 
-[Back to the list](../../README.md) · All 100 entries
+[Back to the list](../../README.md) · All 104 entries
 
 <a id="gpt-image-coca-cola-tanker-leak-mentos-truck-dashcam"></a>
 ### Coca Cola tanker leaking beside Mentos truck
@@ -2877,6 +2877,112 @@ GPT Image 2.5 · Text-to-image · Source: [OpenAI image prompting guide](https:/
 ```text
 Create a realistic outdoor crowd scene in Bethel, New York on August 16, 1969.
 Photorealistic, period-accurate clothing, staging, and environment.
+```
+
+</details>
+
+<a id="gpt-image-2-6-bethel-1969-crowd-scene"></a>
+### Festival crowd on grassy field, Bethel 1969
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#use-historical-and-real-world-context"><img src="../../previews/gpt-image-2-6-bethel-1969-crowd-scene.jpg" width="360"></a>
+
+A specific place and date act as a historical anchor, so the model fills in period clothing, stage rigging and landscape without a long description. Repeating the photorealism and period-accuracy requirements at the end keeps the result photographic rather than illustrated.
+
+GPT Image 2.6 · Text-to-image · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#use-historical-and-real-world-context)
+
+[`historical-context`](tags.md#tag-historical-context) [`crowd`](tags.md#tag-crowd) [`photorealistic`](tags.md#tag-photorealistic) [`period-accuracy`](tags.md#tag-period-accuracy)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a realistic outdoor crowd scene in Bethel, New York on August 16, 1969.
+Photorealistic, period-accurate clothing, staging, and environment.
+```
+
+</details>
+
+<a id="gpt-image-2-6-elderly-sailor-net-dog"></a>
+### Elderly sailor adjusting net beside his dog
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#control-style-and-lighting"><img src="../../previews/gpt-image-2-6-elderly-sailor-net-dog.jpg" width="360"></a>
+
+Naming a 35mm film look, a 50mm lens at eye level, and a ban on retouching steers the model toward a candid documentary frame instead of a glossy portrait. Listing skin, tattoos and worn materials as specific details gives the output its real-world texture.
+
+GPT Image 2.6 · Text-to-image · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#control-style-and-lighting)
+
+[`film-look`](tags.md#tag-film-look) [`portrait`](tags.md#tag-portrait) [`candid`](tags.md#tag-candid) [`photorealism`](tags.md#tag-photorealism)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a photorealistic candid photograph of an elderly sailor standing on a small fishing boat.
+He has weathered skin with visible wrinkles, pores, and sun texture, and a few faded traditional sailor tattoos on his arms.
+He is calmly adjusting a net while his dog sits nearby on the deck. Shot like a 35mm film photograph, medium close-up at eye level, using a 50mm lens.
+Soft coastal daylight, shallow depth of field, subtle film grain, natural color balance.
+The image should feel honest and unposed, with real skin texture, worn materials, and everyday detail. No glamorization, no heavy retouching.
+```
+
+</details>
+
+<a id="gpt-image-2-6-sunset-river-sketch-to-photo"></a>
+### Sunset river and lone tree from a sketch
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image"><img src="../../previews/gpt-image-2-6-sunset-river-sketch-to-photo.jpg" width="360"></a>
+
+The prompt locks the sketch's layout, proportions and perspective, and asks the model to supply only materials and lighting, so the drawing's composition survives intact. The explicit ban on new elements or text stops the model from decorating the scene.
+
+GPT Image 2.6 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image)
+
+[`sketch-to-photo`](tags.md#tag-sketch-to-photo) [`landscape`](tags.md#tag-landscape) [`sunset`](tags.md#tag-sunset) [`lighting`](tags.md#tag-lighting)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Turn this drawing into a photorealistic image.
+Preserve the exact layout, proportions, and perspective.
+Choose realistic materials and lighting consistent with the sketch intent.
+Do not add new elements or text.
+```
+
+</details>
+
+Inputs: [1](https://developers.openai.com/images/platform/guides/image-prompting/drawings.webp)
+
+<a id="gpt-image-2-6-teddy-bear-keepsake-box-christmas"></a>
+### Worn teddy bear in keepsake box by snowy window
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card"><img src="../../previews/gpt-image-2-6-teddy-bear-keepsake-box-christmas.jpg" width="360"></a>
+
+The prompt anchors the mood in one concrete scene, a worn bear in a keepsake box beside a window with falling snow, and adds shallow depth of field and print-quality framing for a photographic look. The card text is given verbatim so the model renders one clean line of typography.
+
+GPT Image 2.6 · Text-to-image · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card)
+
+[`christmas`](tags.md#tag-christmas) [`holiday-card`](tags.md#tag-holiday-card) [`typography`](tags.md#tag-typography) [`still-life`](tags.md#tag-still-life)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a Christmas holiday card illustration.
+
+Scene:
+a cozy Christmas scene with an old teddy bear sitting inside a keepsake box, slightly worn fur, soft stitching repairs, placed near a window with falling snow outside. The scene suggests the child has grown up, but the memories remain.
+
+Mood:
+Warm, nostalgic, gentle, emotional.
+
+Style:
+Premium holiday card photography, soft cinematic lighting,
+realistic textures, shallow depth of field,
+tasteful bokeh lights, high print-quality composition.
+
+Constraints:
+- Original artwork only
+- No trademarks
+- No watermarks
+- No logos
+
+Include ONLY this card text (verbatim):
+"Merry Christmas — some memories never fade."
 ```
 
 </details>

@@ -1,0 +1,25 @@
+id: gpt-image-2-6-coffee-machine-infographic-spanish
+title:
+  en: Coffee machine infographic translated into Spanish
+  zh: 咖啡机信息图翻译成西班牙语
+model: GPT Image 2.6
+mode: image-edit
+category: infographic
+tags:
+- translation
+- infographic
+- layout-preservation
+- localization
+source:
+  name: OpenAI image prompting guide
+  url: https://developers.openai.com/api/docs/guides/image-prompting#translate-while-preserving-layout
+  credit: OpenAI
+  captured: '2026-11-05'
+  posted: '2026-11-04'
+inputs:
+- https://developers.openai.com/images/platform/guides/image-prompting/infographic-coffee-machine-gpt-image-2-6-sunburst.webp
+notes:
+  en: The prompt changes one thing, the language of the text, and states that nothing else may change, so the layout, icons and diagram carry over intact. Naming the target language and the limit of the edit keeps the model from redrawing the scene.
+  zh: 提示词只改变一件事，即图中文字的语言，并明确要求其他部分保持不变，因此版式、图标和流程图都得以保留。明确目标语言和编辑范围，可以避免模型重绘整个画面。
+prompt: |
+  Translate the text in the infographic to Spanish. Do not change any other aspect of the image.

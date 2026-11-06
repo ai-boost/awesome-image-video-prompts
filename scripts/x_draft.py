@@ -73,7 +73,7 @@ yaml.add_representer(Lit, lambda d, s: d.represent_scalar("tag:yaml.org,2002:str
 
 def ask(c):
     prefix = {"Seedance": "seedance", "Wan": "wan", "Kling": "kling", "Veo": "veo", "MiniMax": "h3",
-              "Gemini": "omni", "GPT Image": "gpt-image", "Nano Banana": "nano-banana"}
+              "Gemini": "omni", "GPT Image 2.6": "gpt-image-2-6", "GPT Image": "gpt-image", "Nano Banana": "nano-banana"}
     pre = next((v for k, v in prefix.items() if c["model"].startswith(k)), re.sub(r"[^a-z0-9]+", "-", c["model"].lower()))
     text = RULES.format(thumb=c["thumb"], prefix=pre, modes=", ".join(MODES[c["kind"]]),
                         cat_line=f"- category: one of {', '.join(CATS[c['kind']])}",
@@ -101,6 +101,8 @@ def write_entry(c, d):
         e["source"]["via"] = f"https://github.com/{c['via']}"
     if kind == "video":
         e["video"] = c["url"]
+    if c.get("inputs"):  # the images an edit prompt was run on
+        e["inputs"] = c["inputs"]
     e.update({"notes": d["notes"], "prompt": Lit(c["prompt"].rstrip() + "\n")})
     with open(ROOT / f"prompts/{kind}/{eid}.yaml", "w", encoding="utf-8") as f:
         yaml.dump(e, f, allow_unicode=True, sort_keys=False, width=1000)
@@ -128,12 +130,13 @@ def image_hash(path):
 
 
 def duplicates(cands):
-    """Candidates whose prompt or picture is already in the list, or repeats an earlier candidate."""
-    keys = {prompt_key(yaml.safe_load(f.read_text())["prompt"]) for f in ROOT.glob("prompts/*/*.yaml")}
+    """Candidates whose prompt (for the same model) or picture is already in the list, or repeats an earlier candidate.
+    The same prompt run on a new model is a new entry: model makers rerun their guide prompts on each release."""
+    keys = {(e["model"], prompt_key(e["prompt"])) for e in (yaml.safe_load(f.read_text()) for f in ROOT.glob("prompts/*/*.yaml"))}
     hashes = [image_hash(f) for f in ROOT.glob("previews/*.jpg")]
     dup = set()
     for c in cands:
-        k, h = prompt_key(c["prompt"]), image_hash(c["thumb"])
+        k, h = (c["model"], prompt_key(c["prompt"])), image_hash(c["thumb"])
         if k in keys or any(bin(h ^ o).count("1") <= 8 for o in hashes):
             dup.add(c["cid"])
         keys.add(k)

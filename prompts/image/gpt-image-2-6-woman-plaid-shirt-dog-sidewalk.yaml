@@ -1,0 +1,26 @@
+id: gpt-image-2-6-woman-plaid-shirt-dog-sidewalk
+title:
+  en: Woman in plaid shirt and chocolate Labrador on sidewalk
+  zh: 格子衬衫女子与巧克力拉布拉多犬在人行道上
+model: GPT Image 2.6
+mode: image-edit
+category: edit
+tags:
+- reference-images
+- dog
+- street-style
+- image-combine
+source:
+  name: OpenAI image prompting guide
+  url: https://developers.openai.com/api/docs/guides/image-prompting#combine-references
+  credit: OpenAI
+  captured: '2026-11-05'
+  posted: '2026-11-04'
+inputs:
+- https://developers.openai.com/images/platform/guides/image-prompting/test-woman.webp
+- https://developers.openai.com/images/platform/guides/image-prompting/test-woman-2.webp
+notes:
+  en: Two reference images are passed with a placement instruction, so the second image supplies only the dog. The phrase right next to the woman anchors where the new subject goes, and the closing do not change anything else keeps the person, lighting and street background intact.
+  zh: 同时提供两张参考图，由第二张图只提供狗。放在女子旁边的指令明确了新主体的位置，结尾的不要改变其他内容则让人物、光线和街景背景保持不变。
+prompt: |
+  Place the dog from the second image into the setting of image 1, right next to the woman, use the same style of lighting, composition and background. Do not change anything else.

@@ -1,0 +1,42 @@
+id: gpt-image-2-6-vintage-airplane-christmas-blister-pack
+title:
+  en: Vintage red toy airplane in Christmas blister pack
+  zh: 复古红色玩具飞机圣诞泡壳包装
+model: GPT Image 2.6
+mode: text-to-image
+category: product
+tags:
+- christmas
+- toy
+- packaging
+- vintage
+source:
+  name: OpenAI image prompting guide
+  url: https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise
+  credit: OpenAI
+  captured: '2026-11-05'
+  posted: '2026-11-04'
+notes:
+  en: The prompt names the product type, material wear, and packaging in one sentence, then adds studio lighting and shallow depth of field so the render reads as a retail product photo. Constraints on originality and an exact packaging string keep the label text clean and legible.
+  zh: 提示词先用一句话写清商品类型、材质磨损和包装形式，再加入影棚光线与浅景深描述，让画面呈现零售商品摄影的质感。原创、无商标等约束加上精确的包装文字，使标签文字干净清晰。
+prompt: |
+  Create a collectible action figure of a vintage-style toy propeller airplane with rounded wings, a front-mounted spinning propeller, slightly worn paint edges, classic childhood proportions, designed as a nostalgic holiday collectible, in blister packaging.
+
+  Concept:
+  A nostalgic holiday collectible inspired by the simple toy airplanes
+  children used to play with during winter holidays.
+  Evokes warmth, imagination, and childhood wonder.
+
+  Style:
+  Premium toy photography, realistic plastic and painted metal textures,
+  studio lighting, shallow depth of field,
+  sharp label printing, high-end retail presentation.
+
+  Constraints:
+  - Original design only
+  - No trademarks
+  - No watermarks
+  - No logos
+
+  Include ONLY this packaging text (verbatim):
+  "Christmas Memories Edition"

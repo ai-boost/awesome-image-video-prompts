@@ -1,0 +1,26 @@
+id: gpt-image-2-6-field-flour-bakery-logo
+title:
+  en: Bakery logo with wheat, loaf and serif wordmark
+  zh: 面包店标志，麦穗、面包与衬线字标
+model: GPT Image 2.6
+mode: text-to-image
+category: brand
+tags:
+- logo
+- branding
+- bakery
+- flat-design
+source:
+  name: OpenAI image prompting guide
+  url: https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo
+  credit: OpenAI
+  captured: '2026-11-05'
+  posted: '2026-11-04'
+notes:
+  en: Asking for clean vector shapes, a strong silhouette, flat design and a transparent background with no scenery keeps the result a reusable mark. Naming the exact brand text lets the model set the wordmark cleanly, while the wheat and loaf are added by the model rather than specified in the prompt.
+  zh: 要求干净的矢量图形、清晰的轮廓、扁平设计以及无场景的透明背景，使结果成为可复用的标志。写明确切的品牌文字，模型就能干净地排出字标，而麦穗和面包是模型自行添加的，提示词中并未指定。
+prompt: |
+  Create an original, non-infringing logo for a company called Field & Flour, a local bakery.
+  The logo should feel warm, simple, and timeless. Use clean, vector-like shapes, a strong silhouette, and balanced negative space.
+  Favor simplicity over detail so it reads clearly at small and large sizes. Flat design, minimal strokes, no gradients unless essential.
+  Fully transparent background. Deliver a single centered logo with generous padding, clean alpha edges, and no solid backdrop, scenery, checkerboard, or watermark.

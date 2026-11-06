@@ -1,6 +1,6 @@
 # 照片编辑
 
-[返回目录](../../README_zh.md) · 全部 55 条
+[返回目录](../../README_zh.md) · 全部 61 条
 
 <a id="nano-banana-charmander-ember-route-101"></a>
 ### 小火龙在日落道路上使用火花攻击
@@ -1095,6 +1095,137 @@ red heart, pink flowers, a yellow sparkle. The subject alone stays in full photo
 ```
 
 </details>
+
+<a id="gpt-image-2-6-blue-vase-markup-recolor"></a>
+### 厨房餐桌上的条纹花瓶改为钴蓝色
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#guide-an-edit-with-markup"><img src="../../previews/gpt-image-2-6-blue-vase-markup-recolor.jpg" width="360"></a>
+
+用红圈标出目标并说明新颜色，模型能准确定位要修改的物体。明确要求保持形状、干花和场景其余部分不变，并移除红圈标记，使编辑只作用于局部，成片保持干净。
+
+GPT Image 2.6 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#guide-an-edit-with-markup)
+
+[`markup-edit`](tags.md#tag-markup-edit) [`recolor`](tags.md#tag-recolor) [`interior`](tags.md#tag-interior) [`home-decor`](tags.md#tag-home-decor)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Recolor the striped vase inside the red circle to solid cobalt blue ceramic. Keep its shape, the dried stems, and the rest of the kitchen unchanged. Remove the red circle from the finished photo.
+```
+
+</details>
+
+输入素材: [1](https://developers.openai.com/images/platform/guides/image-prompting/kitchen.webp) · [2](https://developers.openai.com/images/platform/guides/image-prompting/markup-vase-overlay-gpt-image-2-6.png) · [3](https://developers.openai.com/images/platform/guides/image-prompting/markup-vase-input-gpt-image-2-6.webp)
+
+<a id="gpt-image-2-6-museum-tan-blazer-outfit"></a>
+### 博物馆中身穿米色西装的女子
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing"><img src="../../previews/gpt-image-2-6-museum-tan-blazer-outfit.jpg" width="360"></a>
+
+提示词先列出必须保持不变的内容（脸部、姿势、发型、比例、背景与构图），再要求只替换服装，并按原图的光线与色温匹配，使服装看起来像真实穿着而非贴上去。四张输入图提供人物和服装参考，服装来自图片而非文字描述。
+
+GPT Image 2.6 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing)
+
+[`outfit-swap`](tags.md#tag-outfit-swap) [`identity-preservation`](tags.md#tag-identity-preservation) [`clothing-edit`](tags.md#tag-clothing-edit) [`reference-images`](tags.md#tag-reference-images)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Edit the image to dress the woman using the provided clothing images. Do not change her face, facial features, skin tone, body shape, pose, or identity in any way. Preserve her exact likeness, expression, hairstyle, and proportions. Replace only the clothing, fitting the garments naturally to her existing pose and body geometry with realistic fabric behavior. Match lighting, shadows, and color temperature to the original photo so the outfit integrates photorealistically, without looking pasted on. Do not change the background, camera angle, framing, or image quality, and do not add accessories, text, logos, or watermarks.
+```
+
+</details>
+
+输入素材: [1](https://developers.openai.com/images/platform/guides/image-prompting/woman-in-museum.webp) · [2](https://developers.openai.com/images/platform/guides/image-prompting/jacket.webp) · [3](https://developers.openai.com/images/platform/guides/image-prompting/tank-top.webp) · [4](https://developers.openai.com/images/platform/guides/image-prompting/boots.webp)
+
+<a id="gpt-image-2-6-winter-evening-snowfall-billboard"></a>
+### 雪夜高速公路旁的洗发水广告牌
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#change-one-condition"><img src="../../previews/gpt-image-2-6-winter-evening-snowfall-billboard.jpg" width="360"></a>
+
+只改动一个条件，即季节与天气，广告牌、产品和标题保持不变。一句简短的编辑指令就能让画面其余构图保持完整。
+
+GPT Image 2.6 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#change-one-condition)
+
+[`winter`](tags.md#tag-winter) [`snow`](tags.md#tag-snow) [`billboard`](tags.md#tag-billboard) [`weather-change`](tags.md#tag-weather-change)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Make it look like a winter evening with snowfall.
+```
+
+</details>
+
+输入素材: [1](https://developers.openai.com/images/platform/guides/image-prompting/billboard-gpt-image-2-6-sunburst.webp)
+
+<a id="gpt-image-2-6-woman-fleeing-bear-yosemite"></a>
+### 女子在约塞米蒂营地逃离棕熊
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#insert-a-person-into-a-scene"><img src="../../previews/gpt-image-2-6-woman-fleeing-bear-yosemite.jpg" width="360"></a>
+
+要求像真实照片、不要电影感打光，让画面更可信。点明地点、时间和具体的破坏细节，为模型提供可落实的自然元素。
+
+GPT Image 2.6 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#insert-a-person-into-a-scene)
+
+[`photorealism`](tags.md#tag-photorealism) [`person-insertion`](tags.md#tag-person-insertion) [`action-scene`](tags.md#tag-action-scene) [`yosemite`](tags.md#tag-yosemite)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Generate a highly realistic action scene where this person is running away from a large, realistic brown bear attacking a campsite. The image should look like a real photograph someone could have taken, not an overly enhanced or cinematic movie-poster image.
+She is centered in the image but looking away from the camera, wearing outdoorsy camping attire, with dirt on her face and tears in her clothing. She is clearly afraid but focused on escaping, running away from the bear as it destroys the campsite behind her.
+The campsite is in Yosemite National Park, with believable natural details. The time of day is dusk, with natural lighting and realistic colors. Everything should feel grounded, authentic, and unstyled, as if captured in a real moment. Avoid cinematic lighting, dramatic color grading, or stylized composition.
+```
+
+</details>
+
+输入素材: [1](https://developers.openai.com/images/platform/guides/image-prompting/woman-in-museum.webp)
+
+<a id="gpt-image-2-6-woman-plaid-shirt-dog-sidewalk"></a>
+### 格子衬衫女子与巧克力拉布拉多犬在人行道上
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#combine-references"><img src="../../previews/gpt-image-2-6-woman-plaid-shirt-dog-sidewalk.jpg" width="360"></a>
+
+同时提供两张参考图，由第二张图只提供狗。放在女子旁边的指令明确了新主体的位置，结尾的不要改变其他内容则让人物、光线和街景背景保持不变。
+
+GPT Image 2.6 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#combine-references)
+
+[`reference-images`](tags.md#tag-reference-images) [`dog`](tags.md#tag-dog) [`street-style`](tags.md#tag-street-style) [`image-combine`](tags.md#tag-image-combine)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Place the dog from the second image into the setting of image 1, right next to the woman, use the same style of lighting, composition and background. Do not change anything else.
+```
+
+</details>
+
+输入素材: [1](https://developers.openai.com/images/platform/guides/image-prompting/test-woman.webp) · [2](https://developers.openai.com/images/platform/guides/image-prompting/test-woman-2.webp)
+
+<a id="gpt-image-2-6-wood-chairs-dining-nook-edit"></a>
+### 木质餐椅与玻璃餐桌的餐区
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room"><img src="../../previews/gpt-image-2-6-wood-chairs-dining-nook-edit.jpg" width="360"></a>
+
+提示词把改动限定在一个对象上，并逐项写明必须保持不变的内容：相机角度、室内光线、地面阴影和周围物件。结尾要求接触阴影和织物纹理，让替换后的椅子与原场景自然融合。
+
+GPT Image 2.6 · 上传图改图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room)
+
+[`interior-design`](tags.md#tag-interior-design) [`furniture`](tags.md#tag-furniture) [`room-makeover`](tags.md#tag-room-makeover)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+In this room photo, replace ONLY the white chairs with chairs made of wood.
+Preserve camera angle, room lighting, floor shadows, and surrounding objects.
+Keep all other aspects of the image unchanged.
+Photorealistic contact shadows and fabric texture.
+```
+
+</details>
+
+输入素材: [1](https://developers.openai.com/images/platform/guides/image-prompting/kitchen.webp)
 
 <a id="gpt-image-3d-chibi-doodle-sticker-portrait"></a>
 ### 被3D Q版贴纸和涂鸦环绕的人像

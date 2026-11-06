@@ -1,6 +1,6 @@
 # Comics and storyboards
 
-[Back to the list](../../README.md) · All 20 entries
+[Back to the list](../../README.md) · All 21 entries
 
 <a id="nano-banana-fluffy-creatures-treehouse-story"></a>
 ### Three Fluffy Creatures Planning a Treehouse
@@ -354,6 +354,29 @@ Comic-Book version art
 Gemini Nano Banana 2
 
 Prompt: Dynamic split-face concept art in detailed pencil & ink style: handsome young adult male, half his face calm realistic human with messy hair, intense gaze and natural skin texture; the other half explodes into a powerful superhero mask inspired by urban vigilante - black base with crimson red accents, sharp geometric patterns, reflective white eye lenses, subtle web cracks. Vertical divide looks like torn paper or shattered glass effect, strong side lighting with deep shadows, artistic cross-hatching and stippling, high contrast, epic movie poster mood, dark smoky background, intricate linework, masterpiece illustration
+```
+
+</details>
+
+<a id="gpt-image-2-6-dog-couch-takeover-comic"></a>
+### Dog lounges on couch after owner leaves
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#turn-a-story-into-a-comic-strip"><img src="../../previews/gpt-image-2-6-dog-couch-takeover-comic.jpg" width="360"></a>
+
+Each panel is a numbered beat with its own camera framing, so the four-step story reads in order. Specific staging cues like the window frame, the crumbs and the sunbeam give the scene props that carry the joke.
+
+GPT Image 2.6 · Text-to-image · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#turn-a-story-into-a-comic-strip)
+
+[`comic`](tags.md#tag-comic) [`storytelling`](tags.md#tag-storytelling) [`pets`](tags.md#tag-pets) [`dog`](tags.md#tag-dog)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a short vertical comic-style reel with 4 panels.
+Panel 1: The owner leaves through the front door. The pet is framed in the window behind them, small against the glass, eyes wide, paws pressed high, the house suddenly quiet.
+Panel 2: The door clicks shut. Silence breaks. The pet slowly turns toward the empty house, posture shifting, eyes sharp with possibility.
+Panel 3: The house transformed. The pet sprawls across the couch like it owns the place, crumbs nearby, sunlight cutting across the room like a spotlight.
+Panel 4: The door opens. The pet is seated perfectly by the entrance, alert and composed, as if nothing happened.
 ```
 
 </details>

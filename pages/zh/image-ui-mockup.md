@@ -1,6 +1,6 @@
 # 手机与界面截图
 
-[返回目录](../../README_zh.md) · 全部 29 条
+[返回目录](../../README_zh.md) · 全部 30 条
 
 <a id="gpt-image-camera-roll-photos-screen"></a>
 ### 一名学生一整天的iPhone相册截图
@@ -275,6 +275,29 @@ Render the complete interface as a polished, high-resolution product mockup. Sho
 The final result should feel like a premium, launch-ready entertainment app design—not a generic template, wireframe, poster, or collection of unrelated elements.
 
 Important: Preserve the supplied app name, labels, and content exactly. Do not invent prices, account details, ratings, statistics, or unsupported features. Prioritize usability, visual consistency, and a clear content hierarchy.
+```
+
+</details>
+
+<a id="gpt-image-2-6-farmers-market-app-mockup"></a>
+### iPhone 框架中的农贸市场应用界面
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview"><img src="../../previews/gpt-image-2-6-farmers-market-app-mockup.jpg" width="360"></a>
+
+提示词按顺序列出每个界面模块，再给出配色和排版规则，模型因此能填充完整可信的应用布局。明确指定设备外框，使界面保持在手机边框之内。
+
+GPT Image 2.6 · 文生图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview)
+
+[`ui-mockup`](tags.md#tag-ui-mockup) [`mobile-app`](tags.md#tag-mobile-app) [`iphone`](tags.md#tag-iphone) [`farmers-market`](tags.md#tag-farmers-market)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a realistic mobile app UI mockup for a local farmers market.
+Show today’s market with a simple header, a short list of vendors with small photos and categories, a small “Today’s specials” section, and basic information for location and hours.
+Design it to be practical, and easy to use. White background, subtle natural accent colors, clear typography, and minimal decoration.
+It should look like a real, well-designed, beautiful app for a small local market.
+Place the UI mockup in an iPhone frame.
 ```
 
 </details>

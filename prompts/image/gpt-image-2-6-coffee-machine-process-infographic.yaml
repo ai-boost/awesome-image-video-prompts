@@ -1,0 +1,25 @@
+id: gpt-image-2-6-coffee-machine-process-infographic
+title:
+  en: Jura style coffee machine process infographic
+  zh: Jura 风格全自动咖啡机工作流程信息图
+model: GPT Image 2.6
+mode: text-to-image
+category: infographic
+tags:
+- infographic
+- explainer
+- coffee
+- technical-diagram
+source:
+  name: OpenAI image prompting guide
+  url: https://developers.openai.com/api/docs/guides/image-prompting#explain-a-process-visually
+  credit: OpenAI
+  captured: '2026-11-05'
+  posted: '2026-11-04'
+notes:
+  en: Listing the stages in physical order, from beans through grinding, dosing and water heating to the brew group, gives the model a checklist for its labelled callouts. Asking for both technical and visual understanding pushes it toward a cutaway with numbered parts, a flow legend and a simplified flow diagram.
+  zh: 按物理顺序列出各环节，从豆仓、研磨、称重、加热到冲煮组，给模型一份标注清单。同时要求讲清技术原理和视觉流程，促使它生成带编号部件、流向图例和简化流程图的剖面图。
+prompt: |
+  Create a detailed Infographic of the functioning and flow of an automatic coffee machine like a Jura.
+  From bean basket, to grinding, to scale, water tank, boiler, etc.
+  I'd like to understand technically and visually the flow.

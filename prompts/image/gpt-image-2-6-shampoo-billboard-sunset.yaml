@@ -1,0 +1,30 @@
+id: gpt-image-2-6-shampoo-billboard-sunset
+title:
+  en: Shampoo billboard mockup on sunset highway
+  zh: 日落高速公路洗发水广告牌效果图
+model: GPT Image 2.6
+mode: image-edit
+category: product
+tags:
+- billboard
+- mockup
+- typography
+- product-photo
+source:
+  name: OpenAI image prompting guide
+  url: https://developers.openai.com/api/docs/guides/image-prompting#create-the-starting-image
+  credit: OpenAI
+  captured: '2026-11-05'
+  posted: '2026-11-04'
+inputs:
+- https://developers.openai.com/images/platform/guides/image-prompting/shampoo.webp
+notes:
+  en: The billboard copy is quoted verbatim and paired with typography rules (bold sans-serif, high contrast, centred, appears once), which keeps the text legible. The product from the input photo is placed into a realistic highway scene at sunset.
+  zh: 广告文案用引号逐字锁定，并配合排版约束（粗体无衬线、高对比、居中、只出现一次），使文字清晰可读。输入图中的产品被置入日落时分的真实公路场景。
+prompt: |
+  Create a realistic billboard mockup of the shampoo on a highway scene during sunset.
+  Billboard text (EXACT, verbatim, no extra characters):
+  "Fresh and clean"
+  Typography: bold sans-serif, high contrast, centered, clean kerning.
+  Ensure text appears once and is perfectly legible.
+  No watermarks, no logos.

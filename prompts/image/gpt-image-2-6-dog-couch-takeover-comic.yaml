@@ -1,0 +1,27 @@
+id: gpt-image-2-6-dog-couch-takeover-comic
+title:
+  en: Dog lounges on couch after owner leaves
+  zh: 主人出门后金毛霸占沙发
+model: GPT Image 2.6
+mode: text-to-image
+category: comic
+tags:
+- comic
+- storytelling
+- pets
+- dog
+source:
+  name: OpenAI image prompting guide
+  url: https://developers.openai.com/api/docs/guides/image-prompting#turn-a-story-into-a-comic-strip
+  credit: OpenAI
+  captured: '2026-11-05'
+  posted: '2026-11-04'
+notes:
+  en: Each panel is a numbered beat with its own camera framing, so the four-step story reads in order. Specific staging cues like the window frame, the crumbs and the sunbeam give the scene props that carry the joke.
+  zh: 每个分镜都有编号和独立的画面指令，四步剧情依次成立。窗框、碎屑和阳光等具体道具让场景有可承载笑点的细节。
+prompt: |
+  Create a short vertical comic-style reel with 4 panels.
+  Panel 1: The owner leaves through the front door. The pet is framed in the window behind them, small against the glass, eyes wide, paws pressed high, the house suddenly quiet.
+  Panel 2: The door clicks shut. Silence breaks. The pet slowly turns toward the empty house, posture shifting, eyes sharp with possibility.
+  Panel 3: The house transformed. The pet sprawls across the couch like it owns the place, crumbs nearby, sunlight cutting across the room like a spotlight.
+  Panel 4: The door opens. The pet is seated perfectly by the entrance, alert and composed, as if nothing happened.

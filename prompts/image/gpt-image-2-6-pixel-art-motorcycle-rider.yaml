@@ -1,0 +1,25 @@
+id: gpt-image-2-6-pixel-art-motorcycle-rider
+title:
+  en: Pixel art man riding a red motorcycle on white
+  zh: 像素风男子骑红色摩托车 白色背景
+model: GPT Image 2.6
+mode: image-edit
+category: illustration
+tags:
+- pixel-art
+- style-transfer
+- motorcycle
+- reference-image
+source:
+  name: OpenAI image prompting guide
+  url: https://developers.openai.com/api/docs/guides/image-prompting#transfer-a-visual-style
+  credit: OpenAI
+  captured: '2026-11-05'
+  posted: '2026-11-04'
+inputs:
+- https://developers.openai.com/images/platform/guides/image-prompting/pixels.webp
+notes:
+  en: Pointing the prompt at an input image to reuse its style lets the model copy the pixel grid, bold outlines and limited palette, while the text only supplies the subject and a plain white background.
+  zh: 提示词指向输入图片来复用其风格，模型会沿用像素网格、粗描边和有限配色，文字只需说明主体和纯白背景。
+prompt: |
+  Use the same style from the input image and generate a man riding a motorcycle on a white background.

@@ -1,6 +1,6 @@
 # Phone and UI mockups
 
-[Back to the list](../../README.md) · All 29 entries
+[Back to the list](../../README.md) · All 30 entries
 
 <a id="gpt-image-camera-roll-photos-screen"></a>
 ### iPhone Photos camera roll of a student's day
@@ -275,6 +275,29 @@ Render the complete interface as a polished, high-resolution product mockup. Sho
 The final result should feel like a premium, launch-ready entertainment app design—not a generic template, wireframe, poster, or collection of unrelated elements.
 
 Important: Preserve the supplied app name, labels, and content exactly. Do not invent prices, account details, ratings, statistics, or unsupported features. Prioritize usability, visual consistency, and a clear content hierarchy.
+```
+
+</details>
+
+<a id="gpt-image-2-6-farmers-market-app-mockup"></a>
+### Farmers market app mockup in an iPhone frame
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview"><img src="../../previews/gpt-image-2-6-farmers-market-app-mockup.jpg" width="360"></a>
+
+The prompt walks through each screen section in order, then sets the palette and typography rules, so the model fills in a complete and believable app layout. Naming the device frame explicitly keeps the screen inside a phone bezel.
+
+GPT Image 2.6 · Text-to-image · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#create-an-interface-preview)
+
+[`ui-mockup`](tags.md#tag-ui-mockup) [`mobile-app`](tags.md#tag-mobile-app) [`iphone`](tags.md#tag-iphone) [`farmers-market`](tags.md#tag-farmers-market)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a realistic mobile app UI mockup for a local farmers market.
+Show today’s market with a simple header, a short list of vendors with small photos and categories, a small “Today’s specials” section, and basic information for location and hours.
+Design it to be practical, and easy to use. White background, subtle natural accent colors, clear typography, and minimal decoration.
+It should look like a real, well-designed, beautiful app for a small local market.
+Place the UI mockup in an iPhone frame.
 ```
 
 </details>

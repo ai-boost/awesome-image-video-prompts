@@ -1,6 +1,6 @@
 # Photo editing
 
-[Back to the list](../../README.md) · All 55 entries
+[Back to the list](../../README.md) · All 61 entries
 
 <a id="nano-banana-charmander-ember-route-101"></a>
 ### Charmander uses Ember on a sunset route
@@ -1095,6 +1095,137 @@ red heart, pink flowers, a yellow sparkle. The subject alone stays in full photo
 ```
 
 </details>
+
+<a id="gpt-image-2-6-blue-vase-markup-recolor"></a>
+### Striped vase recolored cobalt blue in kitchen nook
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#guide-an-edit-with-markup"><img src="../../previews/gpt-image-2-6-blue-vase-markup-recolor.jpg" width="360"></a>
+
+Circling the target with a red marker and naming the new colour tells the model exactly which object to change. Asking to keep the shape, the stems and the rest of the scene unchanged, and to remove the markup, keeps the edit local and the photo clean.
+
+GPT Image 2.6 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#guide-an-edit-with-markup)
+
+[`markup-edit`](tags.md#tag-markup-edit) [`recolor`](tags.md#tag-recolor) [`interior`](tags.md#tag-interior) [`home-decor`](tags.md#tag-home-decor)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Recolor the striped vase inside the red circle to solid cobalt blue ceramic. Keep its shape, the dried stems, and the rest of the kitchen unchanged. Remove the red circle from the finished photo.
+```
+
+</details>
+
+Inputs: [1](https://developers.openai.com/images/platform/guides/image-prompting/kitchen.webp) · [2](https://developers.openai.com/images/platform/guides/image-prompting/markup-vase-overlay-gpt-image-2-6.png) · [3](https://developers.openai.com/images/platform/guides/image-prompting/markup-vase-input-gpt-image-2-6.webp)
+
+<a id="gpt-image-2-6-museum-tan-blazer-outfit"></a>
+### Woman in tan blazer in museum gallery
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing"><img src="../../previews/gpt-image-2-6-museum-tan-blazer-outfit.jpg" width="360"></a>
+
+The prompt lists what must stay fixed (face, pose, hair, proportions, background, framing) and asks for only the clothing to be refitted to the pose with matching light and colour temperature. Four input images supply the garments as references, so the outfit comes from images rather than text.
+
+GPT Image 2.6 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing)
+
+[`outfit-swap`](tags.md#tag-outfit-swap) [`identity-preservation`](tags.md#tag-identity-preservation) [`clothing-edit`](tags.md#tag-clothing-edit) [`reference-images`](tags.md#tag-reference-images)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Edit the image to dress the woman using the provided clothing images. Do not change her face, facial features, skin tone, body shape, pose, or identity in any way. Preserve her exact likeness, expression, hairstyle, and proportions. Replace only the clothing, fitting the garments naturally to her existing pose and body geometry with realistic fabric behavior. Match lighting, shadows, and color temperature to the original photo so the outfit integrates photorealistically, without looking pasted on. Do not change the background, camera angle, framing, or image quality, and do not add accessories, text, logos, or watermarks.
+```
+
+</details>
+
+Inputs: [1](https://developers.openai.com/images/platform/guides/image-prompting/woman-in-museum.webp) · [2](https://developers.openai.com/images/platform/guides/image-prompting/jacket.webp) · [3](https://developers.openai.com/images/platform/guides/image-prompting/tank-top.webp) · [4](https://developers.openai.com/images/platform/guides/image-prompting/boots.webp)
+
+<a id="gpt-image-2-6-winter-evening-snowfall-billboard"></a>
+### Shampoo billboard on snowy highway at dusk
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#change-one-condition"><img src="../../previews/gpt-image-2-6-winter-evening-snowfall-billboard.jpg" width="360"></a>
+
+Changes one condition, the season and weather, and leaves the billboard, product and headline in place. A single short edit instruction keeps the rest of the composition intact.
+
+GPT Image 2.6 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#change-one-condition)
+
+[`winter`](tags.md#tag-winter) [`snow`](tags.md#tag-snow) [`billboard`](tags.md#tag-billboard) [`weather-change`](tags.md#tag-weather-change)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Make it look like a winter evening with snowfall.
+```
+
+</details>
+
+Inputs: [1](https://developers.openai.com/images/platform/guides/image-prompting/billboard-gpt-image-2-6-sunburst.webp)
+
+<a id="gpt-image-2-6-woman-fleeing-bear-yosemite"></a>
+### Runner fleeing a bear at Yosemite campsite
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#insert-a-person-into-a-scene"><img src="../../previews/gpt-image-2-6-woman-fleeing-bear-yosemite.jpg" width="360"></a>
+
+Asking for an unstyled photo look and banning cinematic lighting keeps the result believable. Naming the location, time of day and specific damage gives the model concrete natural details to render.
+
+GPT Image 2.6 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#insert-a-person-into-a-scene)
+
+[`photorealism`](tags.md#tag-photorealism) [`person-insertion`](tags.md#tag-person-insertion) [`action-scene`](tags.md#tag-action-scene) [`yosemite`](tags.md#tag-yosemite)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Generate a highly realistic action scene where this person is running away from a large, realistic brown bear attacking a campsite. The image should look like a real photograph someone could have taken, not an overly enhanced or cinematic movie-poster image.
+She is centered in the image but looking away from the camera, wearing outdoorsy camping attire, with dirt on her face and tears in her clothing. She is clearly afraid but focused on escaping, running away from the bear as it destroys the campsite behind her.
+The campsite is in Yosemite National Park, with believable natural details. The time of day is dusk, with natural lighting and realistic colors. Everything should feel grounded, authentic, and unstyled, as if captured in a real moment. Avoid cinematic lighting, dramatic color grading, or stylized composition.
+```
+
+</details>
+
+Inputs: [1](https://developers.openai.com/images/platform/guides/image-prompting/woman-in-museum.webp)
+
+<a id="gpt-image-2-6-woman-plaid-shirt-dog-sidewalk"></a>
+### Woman in plaid shirt and chocolate Labrador on sidewalk
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#combine-references"><img src="../../previews/gpt-image-2-6-woman-plaid-shirt-dog-sidewalk.jpg" width="360"></a>
+
+Two reference images are passed with a placement instruction, so the second image supplies only the dog. The phrase right next to the woman anchors where the new subject goes, and the closing do not change anything else keeps the person, lighting and street background intact.
+
+GPT Image 2.6 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#combine-references)
+
+[`reference-images`](tags.md#tag-reference-images) [`dog`](tags.md#tag-dog) [`street-style`](tags.md#tag-street-style) [`image-combine`](tags.md#tag-image-combine)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Place the dog from the second image into the setting of image 1, right next to the woman, use the same style of lighting, composition and background. Do not change anything else.
+```
+
+</details>
+
+Inputs: [1](https://developers.openai.com/images/platform/guides/image-prompting/test-woman.webp) · [2](https://developers.openai.com/images/platform/guides/image-prompting/test-woman-2.webp)
+
+<a id="gpt-image-2-6-wood-chairs-dining-nook-edit"></a>
+### Dining nook with wooden chairs and glass table
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room"><img src="../../previews/gpt-image-2-6-wood-chairs-dining-nook-edit.jpg" width="360"></a>
+
+The prompt limits the edit to one object and names what must stay fixed: camera angle, room lighting, floor shadows and the surrounding objects. The closing line asks for contact shadows and fabric texture so the new chairs sit naturally in the scene.
+
+GPT Image 2.6 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room)
+
+[`interior-design`](tags.md#tag-interior-design) [`furniture`](tags.md#tag-furniture) [`room-makeover`](tags.md#tag-room-makeover)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+In this room photo, replace ONLY the white chairs with chairs made of wood.
+Preserve camera angle, room lighting, floor shadows, and surrounding objects.
+Keep all other aspects of the image unchanged.
+Photorealistic contact shadows and fabric texture.
+```
+
+</details>
+
+Inputs: [1](https://developers.openai.com/images/platform/guides/image-prompting/kitchen.webp)
 
 <a id="gpt-image-3d-chibi-doodle-sticker-portrait"></a>
 ### Portrait surrounded by 3D chibi doodle stickers

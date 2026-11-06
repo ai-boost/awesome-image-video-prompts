@@ -1,6 +1,6 @@
 # 标志、广告与包装
 
-[返回目录](../../README_zh.md) · 全部 25 条
+[返回目录](../../README_zh.md) · 全部 27 条
 
 <a id="nano-banana-inflated-3d-logotype-spikes"></a>
 ### 单色充气立体字标与尖刺造型
@@ -1324,6 +1324,52 @@ Elegant from far away.
 Surprisingly intelligent up close.
 Immediately recognizable.
 Distinctly original.
+```
+
+</details>
+
+<a id="gpt-image-2-6-field-flour-bakery-logo"></a>
+### 面包店标志，麦穗、面包与衬线字标
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo"><img src="../../previews/gpt-image-2-6-field-flour-bakery-logo.jpg" width="360"></a>
+
+要求干净的矢量图形、清晰的轮廓、扁平设计以及无场景的透明背景，使结果成为可复用的标志。写明确切的品牌文字，模型就能干净地排出字标，而麦穗和面包是模型自行添加的，提示词中并未指定。
+
+GPT Image 2.6 · 文生图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo)
+
+[`logo`](tags.md#tag-logo) [`branding`](tags.md#tag-branding) [`bakery`](tags.md#tag-bakery) [`flat-design`](tags.md#tag-flat-design)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create an original, non-infringing logo for a company called Field & Flour, a local bakery.
+The logo should feel warm, simple, and timeless. Use clean, vector-like shapes, a strong silhouette, and balanced negative space.
+Favor simplicity over detail so it reads clearly at small and large sizes. Flat design, minimal strokes, no gradients unless essential.
+Fully transparent background. Deliver a single centered logo with generous padding, clean alpha edges, and no solid backdrop, scenery, checkerboard, or watermark.
+```
+
+</details>
+
+<a id="gpt-image-2-6-thread-yours-to-create"></a>
+### 朋友们在天台上大笑，画面带 Thread 标识
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text"><img src="../../previews/gpt-image-2-6-thread-yours-to-create.jpg" width="360"></a>
+
+提示词写明品牌名、标语原文，并给出干净构图、自然姿态和高端时尚摄影等广告要求，同时规定标语只出现一次且不要其他文字或徽标。输出中字标和标语都清晰可读，说明精确文字渲染在多人合影中依然有效。
+
+GPT Image 2.6 · 文生图 · 出处: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#render-exact-text)
+
+[`text-rendering`](tags.md#tag-text-rendering) [`streetwear`](tags.md#tag-streetwear) [`campaign`](tags.md#tag-campaign) [`group-portrait`](tags.md#tag-group-portrait)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Give me a cool in culture ad / fashion shot for a brand called Thread.
+It's a hip young street brand. The ad shows a group of friends hanging out together with the tagline "Yours to Create."
+Make it feel like a polished campaign image for a youth streetwear audience: stylish, contemporary, energetic, and tasteful.
+Use clean composition, strong color direction, natural poses, and premium fashion photography cues.
+Render the tagline exactly once, clearly and legibly, integrated into the ad layout.
+No extra text, no watermarks, no unrelated logos.
 ```
 
 </details>

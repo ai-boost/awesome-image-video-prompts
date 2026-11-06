@@ -1,0 +1,23 @@
+id: gpt-image-2-6-paper-cut-football-champions
+title:
+  en: Paper cut football team lifting championship trophy
+  zh: 纸雕风格足球队举起冠军奖杯
+model: GPT Image 2.6
+mode: text-to-image
+category: illustration
+tags:
+- paper-cut
+- sports
+- celebration
+- football
+source:
+  name: OpenAI image prompting guide
+  url: https://developers.openai.com/api/docs/guides/image-prompting#compare-complexity
+  credit: OpenAI
+  captured: '2026-11-05'
+  posted: '2026-11-04'
+notes:
+  en: Naming a specific craft, layered paper cut, sets the whole visual language, so the prompt only needs the subject and the scene. The result keeps the depth, shadow layering and crowd detail without any of it being described.
+  zh: 指定具体工艺（分层剪纸）即可定下整体视觉语言，所以提示词只需描述主体与场景。作品保留了层次、阴影和人群细节，无需逐项描述。
+prompt: |
+  A premium handcrafted layered paper-cut illustration of a football team celebrating a championship victory inside a packed stadium.
