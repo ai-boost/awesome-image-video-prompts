@@ -1,0 +1,24 @@
+id: gpt-image-2-6-orange-tabby-cat-gif
+title:
+  en: Orange tabby cat sitting with tail curled
+  zh: 橘色虎斑猫坐姿，尾巴卷起
+model: GPT Image 2.6
+mode: image-edit
+category: edit
+tags:
+- cat
+- line-drawing
+- animated-gif
+- seamless-loop
+source:
+  name: '@siennatries on X'
+  url: https://x.com/siennatries/status/2118154286811267282
+  credit: Sienna Blake
+  likes: 0
+  captured: '2026-11-05'
+  posted: '2026-11-05'
+notes:
+  en: The prompt keeps the pose from the source line drawing fixed and adds small motion cues (tail sway, breathing, head turn) plus a seamless loop request, so the animation stays on one subject. A clean coloured background and soft natural light keep the loop simple to read.
+  zh: 提示词将原始线稿的姿势固定为约束，再加入尾巴摆动、呼吸起伏、头部转动等细微动作和无缝循环要求，让动画始终围绕同一主体。干净的彩色背景和柔和自然光让循环画面保持简洁。
+prompt: |
+  Create a GIF of this continuous line drawing transformed into a realistic orange tabby cat in the same pose, tail gently swaying, body subtly breathing, head slightly turning, soft natural lighting, clean colored background, smooth seamless loop

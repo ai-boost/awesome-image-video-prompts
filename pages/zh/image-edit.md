@@ -1,6 +1,6 @@
 # 照片编辑
 
-[返回目录](../../README_zh.md) · 全部 63 条
+[返回目录](../../README_zh.md) · 全部 64 条
 
 <a id="nano-banana-charmander-ember-route-101"></a>
 ### 小火龙在日落道路上使用火花攻击
@@ -1175,6 +1175,25 @@ Edit the image to dress the woman using the provided clothing images. Do not cha
 </details>
 
 输入素材: [1](https://developers.openai.com/images/platform/guides/image-prompting/woman-in-museum.webp) · [2](https://developers.openai.com/images/platform/guides/image-prompting/jacket.webp) · [3](https://developers.openai.com/images/platform/guides/image-prompting/tank-top.webp) · [4](https://developers.openai.com/images/platform/guides/image-prompting/boots.webp)
+
+<a id="gpt-image-2-6-orange-tabby-cat-gif"></a>
+### 橘色虎斑猫坐姿，尾巴卷起
+
+<a href="https://x.com/siennatries/status/2118154286811267282"><img src="../../previews/gpt-image-2-6-orange-tabby-cat-gif.gif" width="360"></a>
+
+提示词将原始线稿的姿势固定为约束，再加入尾巴摆动、呼吸起伏、头部转动等细微动作和无缝循环要求，让动画始终围绕同一主体。干净的彩色背景和柔和自然光让循环画面保持简洁。
+
+GPT Image 2.6 · 上传图改图 · 出处: [@siennatries on X](https://x.com/siennatries/status/2118154286811267282)
+
+[`cat`](tags.md#tag-cat) [`line-drawing`](tags.md#tag-line-drawing) [`animated-gif`](tags.md#tag-animated-gif) [`seamless-loop`](tags.md#tag-seamless-loop)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a GIF of this continuous line drawing transformed into a realistic orange tabby cat in the same pose, tail gently swaying, body subtly breathing, head slightly turning, soft natural lighting, clean colored background, smooth seamless loop
+```
+
+</details>
 
 <a id="gpt-image-2-6-winter-evening-snowfall-billboard"></a>
 ### 雪夜高速公路旁的洗发水广告牌

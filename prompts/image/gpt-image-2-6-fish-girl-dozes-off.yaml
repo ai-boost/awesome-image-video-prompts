@@ -1,0 +1,46 @@
+id: gpt-image-2-6-fish-girl-dozes-off
+title:
+  en: Chibi fish girl dozes off at keyboard
+  zh: Q版大鱼女仆趴在键盘上打瞌睡
+model: GPT Image 2.6
+mode: image-edit
+category: character
+tags:
+- gif
+- meme
+- chibi
+- sticker
+source:
+  name: '@op7418 on X'
+  url: https://x.com/op7418/status/2118181775688241456
+  credit: 歸藏(guizang.ai)
+  likes: 141
+  captured: '2026-11-05'
+  posted: '2026-11-05'
+notes:
+  en: Two reference images lock the character design, and a fixed camera with a top caption slot keeps the layout steady across frames. The action is one escalating beat (eyes close, head drops, a zzz appears) that ends where it began so it loops, and the theme line is a fill-in slot that can take any meme.
+  zh: 用两张参考图锁定角色设计，固定镜头加顶部字幕位让每一帧版式稳定。动作是一个逐步加深的单一笑点（闭眼、头垂下、冒出 zzz），结束状态接回开头以便循环，主题那一行是可替换的填空位。
+prompt: |
+  请以我上传的大肥鱼图片为角色和画风参考，根据最后一行的「表情包主题」，直接制作一张可下载的动态 GIF 表情包。
+
+  【角色保持一致】
+  保留参考图中的蓝色渐变长发、呆毛、鲸鱼耳鳍、蓝色蝴蝶结、白色女仆头饰、蓝白女仆裙和大鲸鱼尾巴。
+  保持原图的大头小身体 Q 版比例、圆脸和可爱画风，人物外观在所有帧中保持一致。
+
+  【自动设计动作】
+  理解我想表达的情绪或梗，将它设计成一个简单、有趣、一眼能看懂的短动作。
+  突出一个核心笑点，用夸张表情、动作反差和轻微的压缩回弹增加喜感。头发、呆毛、耳鳍和尾巴自然跟随动作。
+  根据主题添加必要的少量道具，保持画面简洁。
+  主动设计首尾衔接，让动画能够自然循环播放。
+
+  【自动配字】
+  根据主题提炼一句简短、有网感的中文配字，优先控制在 2～8 个字。
+  如果主题中用引号指定了台词，直接使用该台词。
+  字幕放在顶部，使用粗圆体、深蓝字、白色描边；文字、字形和位置全程稳定，角色与道具不遮挡字幕。
+
+  【画面与输出】
+  正方形画面，纯白背景，固定镜头，主体居中并保留足够边距。
+  动画约 2～3 秒，无限循环，动作清晰，适合聊天时作为表情包发送。
+  最终交付实际会播放的多帧 GIF 文件，并提供下载。
+
+  表情包主题：【在这里填一句话，描述你想表达的梗、情绪或动作】

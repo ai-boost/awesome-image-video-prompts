@@ -22,6 +22,7 @@ import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = Path(os.environ.get("X_CANDIDATES", ROOT / ".x-candidates"))
+# Runs in the same Ego Lite profile as x_collect.py ("Default").
 SPACE = "awesome-ivp reddit"
 MARK = re.compile(r"^\s*(\*\*)?[^\n]{0,40}(prompt|提示词)[^\n]{0,40}$", re.I)
 
@@ -29,7 +30,7 @@ MARK = re.compile(r"^\s*(\*\*)?[^\n]{0,40}(prompt|提示词)[^\n]{0,40}$", re.I)
 def ego(js):
     """Run a script in ego-browser; the script sets RESULT, which comes back as JSON."""
     tmp = OUT / f".ego-{hashlib.sha1(js.encode()).hexdigest()[:8]}.json"
-    code = f"const t=await taskSpace({json.dumps(SPACE)}); const p=t.page('p1');\n" + js + \
+    code = f"const N={json.dumps(SPACE)};const ex=(await listTaskSpaces()).find(s=>s.name===N);if(ex&&ex.profileId!=='Default')throw new Error(N+' is in profile '+ex.profileId+', not Default');const t=ex?await taskSpace(ex.id):await taskSpace(N,{{profileId:'Default'}}); const p=t.page('p1');\n" + js + \
         f"\nconst fs=await import('node:fs/promises'); await fs.writeFile({json.dumps(str(tmp))}, JSON.stringify(RESULT));"
     subprocess.run(["ego-browser", "nodejs"], input=code, capture_output=True, text=True, timeout=900)
     data = json.loads(tmp.read_text())

@@ -1,6 +1,6 @@
 # 插画
 
-[返回目录](../../README_zh.md) · 全部 113 条
+[返回目录](../../README_zh.md) · 全部 115 条
 
 <a id="nano-banana-map-screenshot-anime-panorama-shibuya"></a>
 ### 由地图截图生成的涩谷十字路口动漫全景
@@ -1604,6 +1604,44 @@ Nano Banana 2.1 · 文生图 · 出处: [@heathergreen on X](https://x.com/heath
 @magnific
 
 PROMPT: Illustrate a hilariously untrustworthy raccoon dressed as a Christmas elf in the style of a vintage 1950s holiday comic. The raccoon wears a crooked green elf hat, has cookie crumbs all over its face, and is caught stealing a cookie from a plate while standing in a pile of torn wrapping paper. A long strand of Christmas ribbon is tangled around its tail like a sash. Give it a wide-eyed, completely unconvincing innocent expression. Use thick hand-inked outlines, expressive cartoon features, retro halftone shading, imperfect vintage print texture, and a cheerful palette of pine green, cherry red, mustard gold, and aged cream. The design should feel like a collectible old-fashioned Christmas novelty illustration with a clear central character, simple background, and bold readable shapes. No mockup, no watermark, no text.
+```
+
+</details>
+
+<a id="gpt-image-2-6-sheep-girl-chat-banner-gif"></a>
+### 两行活动标题动图，配挥手的小羊少女
+
+<a href="https://x.com/iidaatcnt/status/2118218668408746367"><img src="../../previews/gpt-image-2-6-sheep-girl-chat-banner-gif.gif" width="360"></a>
+
+提示词直接写出画面上要显示的完整文字并指定两行排版，文字内容因此保持准确。角色、姿势和对话框样式交给模型决定，所以一句话即可。
+
+GPT Image 2.6 · 文生图 · 出处: [@iidaatcnt on X](https://x.com/iidaatcnt/status/2118218668408746367) · 1 赞，统计于 2026-11-05
+
+[`anime`](tags.md#tag-anime) [`sticker`](tags.md#tag-sticker) [`speech-bubble`](tags.md#tag-speech-bubble) [`gif`](tags.md#tag-gif)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+”ChatGPT Images 2.6雑談 12：50まで”のGiFを作って！２行で！。
+```
+
+</details>
+
+<a id="gpt-image-2-6-this-is-fine-dog-gif"></a>
+### 卡通狗在着火的房间里继续喝茶
+
+<a href="https://x.com/shitunote/status/2118187063241777311"><img src="../../previews/gpt-image-2-6-this-is-fine-dog-gif.gif" width="360"></a>
+
+提示词按顺序写出四个情绪节拍：平静喝茶、察觉不对、慌张、再假装没事，画面也基本按这个顺序推进。同时写明帧数、扁平插画风格和无缝循环，让动作范围可控、结果更稳定。
+
+GPT Image 2.6 · 文生图 · 出处: [@shitunote on X](https://x.com/shitunote/status/2118187063241777311) · 1 赞，统计于 2026-11-05
+
+[`animated-gif`](tags.md#tag-animated-gif) [`meme`](tags.md#tag-meme) [`cartoon-dog`](tags.md#tag-cartoon-dog) [`loop`](tags.md#tag-loop)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+做一个循环 GIF，一只戴着小帽子的卡通狗坐在着火的房间里，先是平静地喝茶，然后慢慢意识到不对劲，表情逐渐从“没事”变成“其实有事”，最后又假装没事继续喝茶。风格偏扁平插画，表情夸张，背景火焰轻微闪动，6-8帧，无缝循环。
 ```
 
 </details>

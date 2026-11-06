@@ -1,0 +1,24 @@
+id: gpt-image-2-6-sheep-girl-chat-banner-gif
+title:
+  en: Two line chat event banner with a waving sheep girl
+  zh: 两行活动标题动图，配挥手的小羊少女
+model: GPT Image 2.6
+mode: text-to-image
+category: illustration
+tags:
+- anime
+- sticker
+- speech-bubble
+- gif
+source:
+  name: '@iidaatcnt on X'
+  url: https://x.com/iidaatcnt/status/2118218668408746367
+  credit: サバ缶＠AIを活用する情シス
+  likes: 1
+  captured: '2026-11-05'
+  posted: '2026-11-05'
+notes:
+  en: Quoting the exact on-image text and asking for a two-line layout keeps the wording correct. The character, pose and bubble style are left to the model, so one short line is enough.
+  zh: 提示词直接写出画面上要显示的完整文字并指定两行排版，文字内容因此保持准确。角色、姿势和对话框样式交给模型决定，所以一句话即可。
+prompt: |
+  ”ChatGPT Images 2.6雑談 12：50まで”のGiFを作って！２行で！。

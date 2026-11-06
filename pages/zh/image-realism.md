@@ -1,6 +1,6 @@
 # 写实照片
 
-[返回目录](../../README_zh.md) · 全部 114 条
+[返回目录](../../README_zh.md) · 全部 115 条
 
 <a id="gpt-image-coca-cola-tanker-leak-mentos-truck-dashcam"></a>
 ### 可口可乐罐车漏液，旁边是Mentos货车
@@ -3057,6 +3057,25 @@ He has weathered skin with visible wrinkles, pores, and sun texture, and a few f
 He is calmly adjusting a net while his dog sits nearby on the deck. Shot like a 35mm film photograph, medium close-up at eye level, using a 50mm lens.
 Soft coastal daylight, shallow depth of field, subtle film grain, natural color balance.
 The image should feel honest and unposed, with real skin texture, worn materials, and everyday detail. No glamorization, no heavy retouching.
+```
+
+</details>
+
+<a id="gpt-image-2-6-ginger-kitten-feather-gif"></a>
+### 姜黄色小猫在客厅扑逗粉色羽毛玩具
+
+<a href="https://x.com/meigesir/status/2118248846648287720"><img src="../../previews/gpt-image-2-6-ginger-kitten-feather-gif.gif" width="360"></a>
+
+固定在地面高度的镜头，加上逐帧写明的动作节奏（小猫逐渐变大，爪子最后伸向镜头），让循环动画清晰可读。结尾的同一只小猫、同一个房间、同样光线这一约束保持了各帧之间的主体一致。
+
+GPT Image 2.6 · 文生图 · 出处: [@meigesir on X](https://x.com/meigesir/status/2118248846648287720)
+
+[`gif`](tags.md#tag-gif) [`cat`](tags.md#tag-cat) [`animation`](tags.md#tag-animation) [`feather-toy`](tags.md#tag-feather-toy)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Animated 9-frame looping GIF. Fixed camera at floor level, bright cozy living room, warm soft daylight, cheerful mood. A tiny fluffy ginger kitten with big round sparkly eyes plays with a pink feather toy dangling just in front of the camera. Frames 1-2: kitten sits small in the center, wiggling, eyes locked on the feather. Frames 3-6: kitten hops playfully toward the camera, getting bigger each frame, mouth closed, ears perked, adorable curious face, one tiny paw reaching for the feather. Frame 7-8: kitten's soft pink paw pad gently boops the camera lens, kitten face cute and happy behind it. Frame 9: back to the kitten sitting small in the center, same as frame 1. Mouth closed in every frame, no teeth, no claws, cute and playful, never scary. Same kitten, same room, same lighting in every frame. Big, obvious motion. Photorealistic, sharp focus.
 ```
 
 </details>

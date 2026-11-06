@@ -1,6 +1,6 @@
 # Photo realism
 
-[Back to the list](../../README.md) · All 114 entries
+[Back to the list](../../README.md) · All 115 entries
 
 <a id="gpt-image-coca-cola-tanker-leak-mentos-truck-dashcam"></a>
 ### Coca Cola tanker leaking beside Mentos truck
@@ -3057,6 +3057,25 @@ He has weathered skin with visible wrinkles, pores, and sun texture, and a few f
 He is calmly adjusting a net while his dog sits nearby on the deck. Shot like a 35mm film photograph, medium close-up at eye level, using a 50mm lens.
 Soft coastal daylight, shallow depth of field, subtle film grain, natural color balance.
 The image should feel honest and unposed, with real skin texture, worn materials, and everyday detail. No glamorization, no heavy retouching.
+```
+
+</details>
+
+<a id="gpt-image-2-6-ginger-kitten-feather-gif"></a>
+### Ginger kitten paws at feather toy in living room
+
+<a href="https://x.com/meigesir/status/2118248846648287720"><img src="../../previews/gpt-image-2-6-ginger-kitten-feather-gif.gif" width="360"></a>
+
+A fixed camera at floor height and frame by frame beats (the kitten grows and its paw reaches the lens) make the loop easy to read. The closing line about the same kitten, room and lighting keeps the subject consistent across the animation.
+
+GPT Image 2.6 · Text-to-image · Source: [@meigesir on X](https://x.com/meigesir/status/2118248846648287720)
+
+[`gif`](tags.md#tag-gif) [`cat`](tags.md#tag-cat) [`animation`](tags.md#tag-animation) [`feather-toy`](tags.md#tag-feather-toy)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Animated 9-frame looping GIF. Fixed camera at floor level, bright cozy living room, warm soft daylight, cheerful mood. A tiny fluffy ginger kitten with big round sparkly eyes plays with a pink feather toy dangling just in front of the camera. Frames 1-2: kitten sits small in the center, wiggling, eyes locked on the feather. Frames 3-6: kitten hops playfully toward the camera, getting bigger each frame, mouth closed, ears perked, adorable curious face, one tiny paw reaching for the feather. Frame 7-8: kitten's soft pink paw pad gently boops the camera lens, kitten face cute and happy behind it. Frame 9: back to the kitten sitting small in the center, same as frame 1. Mouth closed in every frame, no teeth, no claws, cute and playful, never scary. Same kitten, same room, same lighting in every frame. Big, obvious motion. Photorealistic, sharp focus.
 ```
 
 </details>

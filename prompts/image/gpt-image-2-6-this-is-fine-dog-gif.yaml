@@ -1,0 +1,24 @@
+id: gpt-image-2-6-this-is-fine-dog-gif
+title:
+  en: Cartoon dog sipping tea in a burning room
+  zh: 卡通狗在着火的房间里继续喝茶
+model: GPT Image 2.6
+mode: text-to-image
+category: illustration
+tags:
+- animated-gif
+- meme
+- cartoon-dog
+- loop
+source:
+  name: '@shitunote on X'
+  url: https://x.com/shitunote/status/2118187063241777311
+  credit: 马识途
+  likes: 1
+  captured: '2026-11-05'
+  posted: '2026-11-05'
+notes:
+  en: 'The prompt sets out a four-beat emotional arc in order: calm sipping, dawning alarm, panic, then pretending again, and the frames follow it closely. Naming the frame count, the flat illustration style and a seamless loop keeps the motion contained and repeatable.'
+  zh: 提示词按顺序写出四个情绪节拍：平静喝茶、察觉不对、慌张、再假装没事，画面也基本按这个顺序推进。同时写明帧数、扁平插画风格和无缝循环，让动作范围可控、结果更稳定。
+prompt: |
+  做一个循环 GIF，一只戴着小帽子的卡通狗坐在着火的房间里，先是平静地喝茶，然后慢慢意识到不对劲，表情逐渐从“没事”变成“其实有事”，最后又假装没事继续喝茶。风格偏扁平插画，表情夸张，背景火焰轻微闪动，6-8帧，无缝循环。

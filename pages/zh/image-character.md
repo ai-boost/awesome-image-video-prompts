@@ -1,6 +1,6 @@
 # 角色与手办
 
-[返回目录](../../README_zh.md) · 全部 100 条
+[返回目录](../../README_zh.md) · 全部 104 条
 
 <a id="gpt-image-tanjiro-pixel-sprite-sheet-water-attack"></a>
 ### 炭治郎十六帧像素精灵图与水之呼吸攻击
@@ -160,6 +160,32 @@ ChatGPT · 文生图 · 出处: [@totalparadise on TikTok](https://www.tiktok.co
 
 ```text
 With everything you know about me, what would I look like as a Rugrats kid. Include the toy Reptar, other characters and things from the show.
+```
+
+</details>
+
+<a id="gpt-image-2-6-wrong-person-sticker-gif"></a>
+### 草帽Q版剑客大喊你认错人了表情包
+
+<a href="https://x.com/0xluffy_eth/status/2118235544459387112"><img src="../../previews/gpt-image-2-6-wrong-person-sticker-gif.gif" width="360"></a>
+
+提示词先锁定上传角色图的发型、配色和道具，再固定纯白正方形画布与短循环。主题位填入一句短梗，粗体顶部文字在每一帧位置保持一致。
+
+GPT Image 2.6 · 上传图改图 · 出处: [@0xluffy_eth on X](https://x.com/0xluffy_eth/status/2118235544459387112) · 895 赞，统计于 2026-11-05
+
+[`sticker`](tags.md#tag-sticker) [`gif`](tags.md#tag-gif) [`wechat-sticker`](tags.md#tag-wechat-sticker) [`chibi`](tags.md#tag-chibi)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+请以我上传的角色图为参考，按「表情包主题」做一张可下载的动态 GIF。
+
+【角色保持一致】锁发型/配色/标志道具，Q 版比例全帧不变
+【自动设计动作】一个核心笑点，夸张一点，首尾能循环
+【自动配字】2～8 个字网感短句，顶部粗圆体+白描边
+【画面】正方形纯白底，2～3 秒循环，聊天表情包规格
+
+表情包主题：【填你的梗，比如「周一不想上班」】
 ```
 
 </details>
@@ -979,6 +1005,47 @@ GPT Image 2.6 · 上传图改图 · 出处: [@Gorden_Sun on X](https://x.com/Gor
 
 </details>
 
+<a id="gpt-image-2-6-fish-girl-dozes-off"></a>
+### Q版大鱼女仆趴在键盘上打瞌睡
+
+<a href="https://x.com/op7418/status/2118181775688241456"><img src="../../previews/gpt-image-2-6-fish-girl-dozes-off.gif" width="360"></a>
+
+用两张参考图锁定角色设计，固定镜头加顶部字幕位让每一帧版式稳定。动作是一个逐步加深的单一笑点（闭眼、头垂下、冒出 zzz），结束状态接回开头以便循环，主题那一行是可替换的填空位。
+
+GPT Image 2.6 · 上传图改图 · 出处: [@op7418 on X](https://x.com/op7418/status/2118181775688241456) · 141 赞，统计于 2026-11-05
+
+[`gif`](tags.md#tag-gif) [`meme`](tags.md#tag-meme) [`chibi`](tags.md#tag-chibi) [`sticker`](tags.md#tag-sticker)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+请以我上传的大肥鱼图片为角色和画风参考，根据最后一行的「表情包主题」，直接制作一张可下载的动态 GIF 表情包。
+
+【角色保持一致】
+保留参考图中的蓝色渐变长发、呆毛、鲸鱼耳鳍、蓝色蝴蝶结、白色女仆头饰、蓝白女仆裙和大鲸鱼尾巴。
+保持原图的大头小身体 Q 版比例、圆脸和可爱画风，人物外观在所有帧中保持一致。
+
+【自动设计动作】
+理解我想表达的情绪或梗，将它设计成一个简单、有趣、一眼能看懂的短动作。
+突出一个核心笑点，用夸张表情、动作反差和轻微的压缩回弹增加喜感。头发、呆毛、耳鳍和尾巴自然跟随动作。
+根据主题添加必要的少量道具，保持画面简洁。
+主动设计首尾衔接，让动画能够自然循环播放。
+
+【自动配字】
+根据主题提炼一句简短、有网感的中文配字，优先控制在 2～8 个字。
+如果主题中用引号指定了台词，直接使用该台词。
+字幕放在顶部，使用粗圆体、深蓝字、白色描边；文字、字形和位置全程稳定，角色与道具不遮挡字幕。
+
+【画面与输出】
+正方形画面，纯白背景，固定镜头，主体居中并保留足够边距。
+动画约 2～3 秒，无限循环，动作清晰，适合聊天时作为表情包发送。
+最终交付实际会播放的多帧 GIF 文件，并提供下载。
+
+表情包主题：【在这里填一句话，描述你想表达的梗、情绪或动作】
+```
+
+</details>
+
 <a id="gpt-image-editorial-fashion-character-sheet-face-reference"></a>
 ### 由一张人脸照片生成的时尚编辑角色设定表
 
@@ -1753,6 +1820,43 @@ A cute cream-colored rabbit character with tall ears, wearing a simple plum cape
 
 </details>
 
+<a id="gpt-image-2-6-tanjiro-water-slash-gif"></a>
+### 像素风炭治郎水流斩击循环动画
+
+<a href="https://x.com/Mayz1169/status/2118245929505669260"><img src="../../previews/gpt-image-2-6-tanjiro-water-slash-gif.gif" width="360"></a>
+
+参考图锁定角色外观，动作拆分为起手、蓄力、出击、收势和回到起手几个节拍，镜头固定且所有帧共用同一地面线。首尾帧保持一致，因此 GIF 可以无缝循环。
+
+GPT Image 2.6 · 上传图改图 · 出处: [@Mayz1169 on X](https://x.com/Mayz1169/status/2118245929505669260) · 51 赞，统计于 2026-11-05
+
+[`gif`](tags.md#tag-gif) [`pixel-art`](tags.md#tag-pixel-art) [`anime`](tags.md#tag-anime) [`loop`](tags.md#tag-loop)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Use the character I uploaded as the reference and make a downloadable looping pixel-art GIF of them performing a signature move.
+
+[Keep the character consistent]
+Study the reference and keep every key feature: hairstyle and hair color, face and eye color, marks or scars, outfit colors and patterns, accessories, and their weapon or prop. Same proportions and same look in every frame.
+
+[Pixel art style]
+Highly detailed HD pixel art, like premium 2D fighting game sprites: crisp hard-edged pixels, rich palette with pixel shading and highlights, visible fabric folds and hair strands, no anti-aliasing.
+Full body, side 3/4 view, same size and same ground line in every frame.
+
+[Design the move]
+Pick a move that fits the character's personality, power or weapon (or use the one I give below).
+Make it a short, punchy attack anyone can read at a glance: ready stance → wind-up → strike → follow-through → back to ready.
+Add an elemental or energy effect that matches the character, rendered as pixel art (e.g. water waves, fire, lightning, petals).
+Hair, clothes and effects react naturally to the motion. First and last frame match so it loops seamlessly.
+
+[Output]
+Pure white background, fixed camera, character centered with enough margin. No text.
+About 12 frames, 1.5–2 seconds, infinite loop.
+Deliver an actual multi-frame GIF file I can download.
+```
+
+</details>
+
 <a id="nano-banana-christmas-desk-figurines-computer"></a>
 ### 电脑桌上的圣诞手办组合
 
@@ -1966,6 +2070,54 @@ GPT Image 2.6 · 上传图改图 · 出处: [@shinshin86 on X](https://x.com/shi
 
 ```text
 このキャラクターをちびキャラ化して、何か可愛らしい動きをしているところをGIF画像にしてください。
+```
+
+</details>
+
+<a id="gpt-image-2-6-anime-mage-wink-gif"></a>
+### 动漫法师角色眨眼微笑的循环动图
+
+<a href="https://x.com/uzuyanurp/status/2118133109980041703"><img src="../../previews/gpt-image-2-6-anime-mage-wink-gif.gif" width="360"></a>
+
+以参考图为唯一输入，提示词锁定脸部、发型、服装和饰品，并固定镜头与背景。六步表情顺序、固定帧时长和禁止文字的要求，让循环动画保持稳定。
+
+GPT Image 2.6 · 上传图改图 · 出处: [@uzuyanurp on X](https://x.com/uzuyanurp/status/2118133109980041703) · 21 赞，统计于 2026-11-05
+
+[`gif`](tags.md#tag-gif) [`animation`](tags.md#tag-animation) [`wink`](tags.md#tag-wink) [`reference-image`](tags.md#tag-reference-image)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+【参照画像からウインクGIFを作るプロンプト】
+
+添付した参照画像のキャラクターを使って、短いループGIFアニメーションを生成してください。
+
+■ キャラクター固定
+・顔立ち、髪型、髪色、瞳、衣装、装飾を維持
+・別人化や衣装変更をしない
+・参照画像が設定資料の場合は、主となるキャラクターを使用
+
+■ アニメーション
+① 正面を見つめる通常表情
+② 口元が少し緩む
+③ 優しく微笑む
+④ 片目を自然に閉じる
+⑤ ウインクしながら笑顔
+⑥ 片目を開き、元の表情へ戻る
+
+■ 生成仕様
+・9フレーム
+・3×3の均等なスプライトシート
+・1フレーム140ms
+・約1.26秒のループGIF
+・カメラ位置と背景は固定
+・自然な瞬きと表情変化
+・顔の輪郭や装飾のちらつきを抑える
+・各フレームに文字や番号を入れない
+
+■ 出力
+完成したアニメーションGIFを出力してください。
+静止画やプロンプトの提示だけで終わらないでください。
 ```
 
 </details>

@@ -26,6 +26,7 @@ import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = Path(os.environ.get("X_CANDIDATES", ROOT / ".x-candidates"))
+# Runs in the Ego Lite profile "Default", where X is signed in; ego's default profile is a different one.
 SPACE = "awesome-ivp x refresh"
 
 # A line that only announces the prompt ("Prompt:", "Prompt 👇", "提示词：", "Full prompt below").
@@ -35,7 +36,7 @@ MARK = re.compile(r"^\s*(\*\*)?[^\n]{0,30}(prompt|提示词)[^\n]{0,30}$", re.I)
 def ego(js):
     """Run a script in ego-browser; the script must write JSON to the path in TMP."""
     tmp = OUT / f".ego-{hashlib.sha1(js.encode()).hexdigest()[:8]}.json"
-    code = f"const TMP={json.dumps(str(tmp))};\nconst t=await taskSpace({json.dumps(SPACE)}); const p=t.page('p1');\n" + js + \
+    code = f"const TMP={json.dumps(str(tmp))};\nconst N={json.dumps(SPACE)};const ex=(await listTaskSpaces()).find(s=>s.name===N);if(ex&&ex.profileId!=='Default')throw new Error(N+' is in profile '+ex.profileId+', not Default');const t=ex?await taskSpace(ex.id):await taskSpace(N,{{profileId:'Default'}}); const p=t.page('p1');\n" + js + \
         "\nconst fs=await import('node:fs/promises'); await fs.writeFile(TMP, JSON.stringify(RESULT));"
     subprocess.run(["ego-browser", "nodejs"], input=code, capture_output=True, text=True, timeout=900)
     data = json.loads(tmp.read_text())
@@ -67,7 +68,10 @@ for (const u of {json.dumps(urls)}){{
   try{{
     await p.goto(u); await p.waitForSelector('article',{{timeout:20000}}); await p.waitForTimeout(2500);
     await p.evaluate(()=>document.querySelectorAll('[data-testid=tweet-text-show-more-link]').forEach(b=>b.click()));
-    await p.waitForTimeout(800);
+    // X auto-translates posts for this account; a prompt must be the author's own words, so switch every post back.
+    const original=(click)=>p.evaluate((click)=>{{const bs=[...document.querySelectorAll('article *')].filter(e=>e.childElementCount===0&&e.textContent.trim()==='Show original').map(e=>e.closest('button,[role=button],a')||e); if(click) bs.forEach(b=>b.click()); return bs.length;}},click);
+    if(await original(true)) await p.waitForTimeout(1500);
+    if(await original(false)) throw new Error('still showing X translations');
     const handle=u.split('/')[3].toLowerCase();
     const arts=await p.evaluate(()=>[...document.querySelectorAll('article')].map(a=>({{
       user:([...a.querySelectorAll('[data-testid=User-Name] a')].map(x=>x.getAttribute('href'))[0]||'').slice(1).toLowerCase(),

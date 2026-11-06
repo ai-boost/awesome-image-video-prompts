@@ -1,0 +1,53 @@
+id: gpt-image-2-6-anime-mage-wink-gif
+title:
+  en: Anime mage winks and smiles in animated loop
+  zh: 动漫法师角色眨眼微笑的循环动图
+model: GPT Image 2.6
+mode: image-edit
+category: character
+tags:
+- gif
+- animation
+- wink
+- reference-image
+source:
+  name: '@uzuyanurp on X'
+  url: https://x.com/uzuyanurp/status/2118133109980041703
+  credit: ぬる（温）
+  likes: 21
+  captured: '2026-11-05'
+  posted: '2026-11-05'
+notes:
+  en: The reference image is the only input, and the prompt locks face, hair, costume and accessories while fixing the camera and background. The six-step expression sequence with fixed frame timing and a no-text rule keeps the loop stable.
+  zh: 以参考图为唯一输入，提示词锁定脸部、发型、服装和饰品，并固定镜头与背景。六步表情顺序、固定帧时长和禁止文字的要求，让循环动画保持稳定。
+prompt: |
+  【参照画像からウインクGIFを作るプロンプト】
+
+  添付した参照画像のキャラクターを使って、短いループGIFアニメーションを生成してください。
+
+  ■ キャラクター固定
+  ・顔立ち、髪型、髪色、瞳、衣装、装飾を維持
+  ・別人化や衣装変更をしない
+  ・参照画像が設定資料の場合は、主となるキャラクターを使用
+
+  ■ アニメーション
+  ① 正面を見つめる通常表情
+  ② 口元が少し緩む
+  ③ 優しく微笑む
+  ④ 片目を自然に閉じる
+  ⑤ ウインクしながら笑顔
+  ⑥ 片目を開き、元の表情へ戻る
+
+  ■ 生成仕様
+  ・9フレーム
+  ・3×3の均等なスプライトシート
+  ・1フレーム140ms
+  ・約1.26秒のループGIF
+  ・カメラ位置と背景は固定
+  ・自然な瞬きと表情変化
+  ・顔の輪郭や装飾のちらつきを抑える
+  ・各フレームに文字や番号を入れない
+
+  ■ 出力
+  完成したアニメーションGIFを出力してください。
+  静止画やプロンプトの提示だけで終わらないでください。

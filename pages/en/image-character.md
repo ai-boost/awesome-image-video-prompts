@@ -1,6 +1,6 @@
 # Characters and figures
 
-[Back to the list](../../README.md) · All 100 entries
+[Back to the list](../../README.md) · All 104 entries
 
 <a id="gpt-image-tanjiro-pixel-sprite-sheet-water-attack"></a>
 ### Tanjiro 16 frame pixel sprite sheet with water attack
@@ -160,6 +160,32 @@ ChatGPT · Text-to-image · Source: [@totalparadise on TikTok](https://www.tikto
 
 ```text
 With everything you know about me, what would I look like as a Rugrats kid. Include the toy Reptar, other characters and things from the show.
+```
+
+</details>
+
+<a id="gpt-image-2-6-wrong-person-sticker-gif"></a>
+### Chibi swordsman in straw hat shouts wrong person caption
+
+<a href="https://x.com/0xluffy_eth/status/2118235544459387112"><img src="../../previews/gpt-image-2-6-wrong-person-sticker-gif.gif" width="360"></a>
+
+The prompt locks the uploaded character reference for hair, colours and props, and fixes a pure white square canvas with a short loop. The theme slot takes one short meme line set in bold top text, which stays in the same place across frames.
+
+GPT Image 2.6 · Edit · Source: [@0xluffy_eth on X](https://x.com/0xluffy_eth/status/2118235544459387112) · 895 likes on 2026-11-05
+
+[`sticker`](tags.md#tag-sticker) [`gif`](tags.md#tag-gif) [`wechat-sticker`](tags.md#tag-wechat-sticker) [`chibi`](tags.md#tag-chibi)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+请以我上传的角色图为参考，按「表情包主题」做一张可下载的动态 GIF。
+
+【角色保持一致】锁发型/配色/标志道具，Q 版比例全帧不变
+【自动设计动作】一个核心笑点，夸张一点，首尾能循环
+【自动配字】2～8 个字网感短句，顶部粗圆体+白描边
+【画面】正方形纯白底，2～3 秒循环，聊天表情包规格
+
+表情包主题：【填你的梗，比如「周一不想上班」】
 ```
 
 </details>
@@ -979,6 +1005,47 @@ GPT Image 2.6 · Edit · Source: [@Gorden_Sun on X](https://x.com/Gorden_Sun/sta
 
 </details>
 
+<a id="gpt-image-2-6-fish-girl-dozes-off"></a>
+### Chibi fish girl dozes off at keyboard
+
+<a href="https://x.com/op7418/status/2118181775688241456"><img src="../../previews/gpt-image-2-6-fish-girl-dozes-off.gif" width="360"></a>
+
+Two reference images lock the character design, and a fixed camera with a top caption slot keeps the layout steady across frames. The action is one escalating beat (eyes close, head drops, a zzz appears) that ends where it began so it loops, and the theme line is a fill-in slot that can take any meme.
+
+GPT Image 2.6 · Edit · Source: [@op7418 on X](https://x.com/op7418/status/2118181775688241456) · 141 likes on 2026-11-05
+
+[`gif`](tags.md#tag-gif) [`meme`](tags.md#tag-meme) [`chibi`](tags.md#tag-chibi) [`sticker`](tags.md#tag-sticker)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+请以我上传的大肥鱼图片为角色和画风参考，根据最后一行的「表情包主题」，直接制作一张可下载的动态 GIF 表情包。
+
+【角色保持一致】
+保留参考图中的蓝色渐变长发、呆毛、鲸鱼耳鳍、蓝色蝴蝶结、白色女仆头饰、蓝白女仆裙和大鲸鱼尾巴。
+保持原图的大头小身体 Q 版比例、圆脸和可爱画风，人物外观在所有帧中保持一致。
+
+【自动设计动作】
+理解我想表达的情绪或梗，将它设计成一个简单、有趣、一眼能看懂的短动作。
+突出一个核心笑点，用夸张表情、动作反差和轻微的压缩回弹增加喜感。头发、呆毛、耳鳍和尾巴自然跟随动作。
+根据主题添加必要的少量道具，保持画面简洁。
+主动设计首尾衔接，让动画能够自然循环播放。
+
+【自动配字】
+根据主题提炼一句简短、有网感的中文配字，优先控制在 2～8 个字。
+如果主题中用引号指定了台词，直接使用该台词。
+字幕放在顶部，使用粗圆体、深蓝字、白色描边；文字、字形和位置全程稳定，角色与道具不遮挡字幕。
+
+【画面与输出】
+正方形画面，纯白背景，固定镜头，主体居中并保留足够边距。
+动画约 2～3 秒，无限循环，动作清晰，适合聊天时作为表情包发送。
+最终交付实际会播放的多帧 GIF 文件，并提供下载。
+
+表情包主题：【在这里填一句话，描述你想表达的梗、情绪或动作】
+```
+
+</details>
+
 <a id="gpt-image-editorial-fashion-character-sheet-face-reference"></a>
 ### Editorial fashion character sheet from one face photo
 
@@ -1753,6 +1820,43 @@ A cute cream-colored rabbit character with tall ears, wearing a simple plum cape
 
 </details>
 
+<a id="gpt-image-2-6-tanjiro-water-slash-gif"></a>
+### Pixel art Tanjiro water strike loop
+
+<a href="https://x.com/Mayz1169/status/2118245929505669260"><img src="../../previews/gpt-image-2-6-tanjiro-water-slash-gif.gif" width="360"></a>
+
+A reference image locks the character across frames, and the move is split into ready, wind up, strike, follow through and back to ready beats on a fixed camera with a shared ground line. Matching first and last frames make the GIF loop cleanly.
+
+GPT Image 2.6 · Edit · Source: [@Mayz1169 on X](https://x.com/Mayz1169/status/2118245929505669260) · 51 likes on 2026-11-05
+
+[`gif`](tags.md#tag-gif) [`pixel-art`](tags.md#tag-pixel-art) [`anime`](tags.md#tag-anime) [`loop`](tags.md#tag-loop)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Use the character I uploaded as the reference and make a downloadable looping pixel-art GIF of them performing a signature move.
+
+[Keep the character consistent]
+Study the reference and keep every key feature: hairstyle and hair color, face and eye color, marks or scars, outfit colors and patterns, accessories, and their weapon or prop. Same proportions and same look in every frame.
+
+[Pixel art style]
+Highly detailed HD pixel art, like premium 2D fighting game sprites: crisp hard-edged pixels, rich palette with pixel shading and highlights, visible fabric folds and hair strands, no anti-aliasing.
+Full body, side 3/4 view, same size and same ground line in every frame.
+
+[Design the move]
+Pick a move that fits the character's personality, power or weapon (or use the one I give below).
+Make it a short, punchy attack anyone can read at a glance: ready stance → wind-up → strike → follow-through → back to ready.
+Add an elemental or energy effect that matches the character, rendered as pixel art (e.g. water waves, fire, lightning, petals).
+Hair, clothes and effects react naturally to the motion. First and last frame match so it loops seamlessly.
+
+[Output]
+Pure white background, fixed camera, character centered with enough margin. No text.
+About 12 frames, 1.5–2 seconds, infinite loop.
+Deliver an actual multi-frame GIF file I can download.
+```
+
+</details>
+
 <a id="nano-banana-christmas-desk-figurines-computer"></a>
 ### Christmas figurine sets on computer desks
 
@@ -1966,6 +2070,54 @@ GPT Image 2.6 · Edit · Source: [@shinshin86 on X](https://x.com/shinshin86/sta
 
 ```text
 このキャラクターをちびキャラ化して、何か可愛らしい動きをしているところをGIF画像にしてください。
+```
+
+</details>
+
+<a id="gpt-image-2-6-anime-mage-wink-gif"></a>
+### Anime mage winks and smiles in animated loop
+
+<a href="https://x.com/uzuyanurp/status/2118133109980041703"><img src="../../previews/gpt-image-2-6-anime-mage-wink-gif.gif" width="360"></a>
+
+The reference image is the only input, and the prompt locks face, hair, costume and accessories while fixing the camera and background. The six-step expression sequence with fixed frame timing and a no-text rule keeps the loop stable.
+
+GPT Image 2.6 · Edit · Source: [@uzuyanurp on X](https://x.com/uzuyanurp/status/2118133109980041703) · 21 likes on 2026-11-05
+
+[`gif`](tags.md#tag-gif) [`animation`](tags.md#tag-animation) [`wink`](tags.md#tag-wink) [`reference-image`](tags.md#tag-reference-image)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+【参照画像からウインクGIFを作るプロンプト】
+
+添付した参照画像のキャラクターを使って、短いループGIFアニメーションを生成してください。
+
+■ キャラクター固定
+・顔立ち、髪型、髪色、瞳、衣装、装飾を維持
+・別人化や衣装変更をしない
+・参照画像が設定資料の場合は、主となるキャラクターを使用
+
+■ アニメーション
+① 正面を見つめる通常表情
+② 口元が少し緩む
+③ 優しく微笑む
+④ 片目を自然に閉じる
+⑤ ウインクしながら笑顔
+⑥ 片目を開き、元の表情へ戻る
+
+■ 生成仕様
+・9フレーム
+・3×3の均等なスプライトシート
+・1フレーム140ms
+・約1.26秒のループGIF
+・カメラ位置と背景は固定
+・自然な瞬きと表情変化
+・顔の輪郭や装飾のちらつきを抑える
+・各フレームに文字や番号を入れない
+
+■ 出力
+完成したアニメーションGIFを出力してください。
+静止画やプロンプトの提示だけで終わらないでください。
 ```
 
 </details>

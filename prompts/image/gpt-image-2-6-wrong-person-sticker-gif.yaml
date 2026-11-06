@@ -1,0 +1,31 @@
+id: gpt-image-2-6-wrong-person-sticker-gif
+title:
+  en: Chibi swordsman in straw hat shouts wrong person caption
+  zh: 草帽Q版剑客大喊你认错人了表情包
+model: GPT Image 2.6
+mode: image-edit
+category: character
+tags:
+- sticker
+- gif
+- wechat-sticker
+- chibi
+source:
+  name: '@0xluffy_eth on X'
+  url: https://x.com/0xluffy_eth/status/2118235544459387112
+  credit: 路飞 🏴‍☠️ AI 研究员🧐
+  likes: 895
+  captured: '2026-11-05'
+  posted: '2026-11-05'
+notes:
+  en: The prompt locks the uploaded character reference for hair, colours and props, and fixes a pure white square canvas with a short loop. The theme slot takes one short meme line set in bold top text, which stays in the same place across frames.
+  zh: 提示词先锁定上传角色图的发型、配色和道具，再固定纯白正方形画布与短循环。主题位填入一句短梗，粗体顶部文字在每一帧位置保持一致。
+prompt: |
+  请以我上传的角色图为参考，按「表情包主题」做一张可下载的动态 GIF。
+
+  【角色保持一致】锁发型/配色/标志道具，Q 版比例全帧不变
+  【自动设计动作】一个核心笑点，夸张一点，首尾能循环
+  【自动配字】2～8 个字网感短句，顶部粗圆体+白描边
+  【画面】正方形纯白底，2～3 秒循环，聊天表情包规格
+
+  表情包主题：【填你的梗，比如「周一不想上班」】

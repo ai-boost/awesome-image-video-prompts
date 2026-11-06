@@ -1,6 +1,6 @@
 # Photo editing
 
-[Back to the list](../../README.md) · All 63 entries
+[Back to the list](../../README.md) · All 64 entries
 
 <a id="nano-banana-charmander-ember-route-101"></a>
 ### Charmander uses Ember on a sunset route
@@ -1175,6 +1175,25 @@ Edit the image to dress the woman using the provided clothing images. Do not cha
 </details>
 
 Inputs: [1](https://developers.openai.com/images/platform/guides/image-prompting/woman-in-museum.webp) · [2](https://developers.openai.com/images/platform/guides/image-prompting/jacket.webp) · [3](https://developers.openai.com/images/platform/guides/image-prompting/tank-top.webp) · [4](https://developers.openai.com/images/platform/guides/image-prompting/boots.webp)
+
+<a id="gpt-image-2-6-orange-tabby-cat-gif"></a>
+### Orange tabby cat sitting with tail curled
+
+<a href="https://x.com/siennatries/status/2118154286811267282"><img src="../../previews/gpt-image-2-6-orange-tabby-cat-gif.gif" width="360"></a>
+
+The prompt keeps the pose from the source line drawing fixed and adds small motion cues (tail sway, breathing, head turn) plus a seamless loop request, so the animation stays on one subject. A clean coloured background and soft natural light keep the loop simple to read.
+
+GPT Image 2.6 · Edit · Source: [@siennatries on X](https://x.com/siennatries/status/2118154286811267282)
+
+[`cat`](tags.md#tag-cat) [`line-drawing`](tags.md#tag-line-drawing) [`animated-gif`](tags.md#tag-animated-gif) [`seamless-loop`](tags.md#tag-seamless-loop)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a GIF of this continuous line drawing transformed into a realistic orange tabby cat in the same pose, tail gently swaying, body subtly breathing, head slightly turning, soft natural lighting, clean colored background, smooth seamless loop
+```
+
+</details>
 
 <a id="gpt-image-2-6-winter-evening-snowfall-billboard"></a>
 ### Shampoo billboard on snowy highway at dusk
