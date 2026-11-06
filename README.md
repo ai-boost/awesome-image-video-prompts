@@ -19,6 +19,7 @@
 ## Contents
 
 - [Recently added](#recent)
+- [By model](#bymodel)
 - [Video prompts](#video) (1081 entries)
   - [Cinematic scenes and short films](#vid-cinematic) (150)
   - [Action, chases and sports](#vid-action) (210)
@@ -68,6 +69,11 @@
 - 2026-11-06 · [Woman in mirrored elevator with Keor embroidered top](pages/en/image-realism.md#gpt-image-2-6-elevator-mirror-keor-embroidery) · GPT Image 2.6
 - 2026-11-06 · [Woman with bob holding red maple leaf](pages/en/image-edit.md#gpt-image-2-6-woman-holding-maple-leaf) · GPT Image 2.6
 - 2026-11-06 · [Chinese weekend book club poster with open book](pages/en/image-poster-2.md#gpt-image-2-6-reading-club-poster) · GPT Image 2.6
+
+<a id="bymodel"></a>
+## By model
+
+- [GPT Image 2.6](https://agentcraft.dev/en/prompts/image/gpt-image-2-6/): 93 prompts, 43 of them animated GIFs, each with its output and source
 
 <a id="video"></a>
 ## Video prompts
@@ -4993,7 +4999,7 @@ ffmpeg -i samples/night-train-ticket.mp4 -filter_complex "
 ### Official prompt guides
 
 - [MiniMax H3 prompt-writing skill](https://github.com/MiniMax-AI/MiniMax-H3/tree/main/.claude/skills/h3-prompt-writing): Official agent skill that rewrites a plain idea into H3's structured prompt format. Local H3 runs look much better with it.
-- [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting): Eight rules for GPT Image 2.5, with Flare and Sunburst outputs side by side for generation, editing and multi-turn refinement.
+- [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting): For GPT Image 2.6. When to pick Flare or Sunburst, moving over from 2.5, prompting basics, and examples for generation, editing and multi-turn refinement.
 - [Gemini Omni prompt guide](https://deepmind.google/models/gemini-omni/prompt-guide/): Conversational editing, camera changes, multi-input references, extend, first and last frame.
 - [Kling 4.0 user guide](https://kling.ai/quickstart/kling-4-model-user-guide): 30-second takes, up to 15 references, 10 keyframes, video editing by prompt, 8,000-token prompts.
 - [Kling VIDEO 3.0 user guide](https://app.klingai.com/global/quickstart/klingai-video-3-model-user-guide): Multi-shot, element binding, multilingual dialogue, accents, text rendering, 15-second takes.

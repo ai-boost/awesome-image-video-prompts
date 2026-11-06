@@ -12,6 +12,8 @@ import yaml
 
 # Model sections, ordered by the Artificial Analysis video arena (October 2026).
 MODELS = ["Wan 3.0", "MiniMax H3", "Seedance 2.5", "Gemini Omni Flash", "Kling 4.0", "Kling 3.0", "Veo 3.1", "Veo 3"]
+# Image models with their own page on agentcraft.dev (slug under /prompts/image/), listed under "By model" with counts from the data.
+MODEL_PAGES = {"GPT Image 2.6": "gpt-image-2-6"}
 # Video sections by type, in display order. The model shows on every entry.
 VIDEO_CATEGORIES = {
     "cinematic": {"en": "Cinematic scenes and short films", "zh": "电影感场景与短片"},
@@ -62,6 +64,8 @@ T = {
         "formerly": "Formerly **Awesome-GPTs**. The original GPTs list lives on in [legacy/awesome-gpts.md](legacy/awesome-gpts.md).",
         "contents": "Contents",
         "recent": "Recently added",
+        "bymodel": "By model",
+        "bymodel_item": "{n} prompts, {g} of them animated GIFs, each with its output and source",
         "video": "Video prompts",
         "video_intro": "Every prompt below is quoted verbatim from its source: the model maker's own guide or model card, or a creator's post on X with the video attached. "
                        "Click a thumbnail to watch the original with sound. Grouped by what you want to make, covering the leaders of the [Artificial Analysis video arena](https://artificialanalysis.ai/video/leaderboard/text-to-video); "
@@ -114,6 +118,8 @@ T = {
         "formerly": "本仓原名 **Awesome-GPTs**，原来的 GPTs 清单保存在 [legacy/awesome-gpts_zh.md](legacy/awesome-gpts_zh.md)。",
         "contents": "目录",
         "recent": "最近新增",
+        "bymodel": "按模型",
+        "bymodel_item": "{n} 条提示词，其中 {g} 条是 GIF 动图，每条附成图和出处",
         "video": "视频提示词",
         "video_intro": "下面每条提示词都原样摘自出处：模型厂商自己的指南或模型卡，或创作者在 X 上附带成片发布的帖子。"
                        "点缩略图看带声音的原片。按想做的内容分组，覆盖 [Artificial Analysis 视频榜](https://artificialanalysis.ai/video/leaderboard/text-to-video)前排模型，"
@@ -270,6 +276,10 @@ def build(lang, videos, images, recipes):
             more[key] = where[es[0]["id"]]
             loc.update({e["id"]: f'{where[e["id"]]}#{e["id"]}' for e in es[TOP:]})
 
+    # "By model": each model with a page on agentcraft.dev, its entry count and how many keep an animated GIF preview.
+    by_model = [(m, slug, [i for i in images if i["model"] == m]) for m, slug in MODEL_PAGES.items()]
+    by_model = [(m, slug, es) for m, slug, es in by_model if es]
+
     out = [
         '<div align="center">', "", f'<h1>{t["title"]}</h1>', "", f'<p>{t["tagline"]}</p>', "",
         f'<p>{t["switch"]}</p>', "", f'<p>{t["gallery"]}</p>', "",
@@ -277,6 +287,7 @@ def build(lang, videos, images, recipes):
         "".join(f'<a href="{loc[i]}"><img src="previews/{i}.gif" height="150"></a> ' for i in SHOWCASE if i in loc),
         "", "</div>", "", f'> {t["formerly"]}', "", f'## {t["contents"]}', "",
         f'- [{t["recent"]}](#recent)',
+        *([f'- [{t["bymodel"]}](#bymodel)'] if by_model else []),
         f'- [{t["video"]}](#video) ({len(videos)} {t["items"]})',
     ]
     out += [f'  - [{VIDEO_CATEGORIES[c][lang]}](#vid-{c}) ({len(by_vcat[c])})' for c in VIDEO_CATEGORIES if by_vcat[c]]
@@ -290,6 +301,13 @@ def build(lang, videos, images, recipes):
     newest = sorted(videos + images, key=lambda e: (ADDED.get(e["id"], now), e["source"].get("likes", 0)), reverse=True)[:RECENT]
     out += ['<a id="recent"></a>', f'## {t["recent"]}', ""]
     out += [f'- {ADDED.get(e["id"], now)[:10]} · [{e["title"][lang]}]({loc[e["id"]]}) · {e["model"]}' for e in newest] + [""]
+
+    if by_model:
+        out += ['<a id="bymodel"></a>', f'## {t["bymodel"]}', ""]
+        for m, slug, es in by_model:
+            gifs = sum(os.path.exists(f'previews/{e["id"]}.gif') for e in es)
+            out += [f'- [{m}](https://agentcraft.dev/{lang}/prompts/image/{slug}/): {t["bymodel_item"].format(n=len(es), g=gifs)}']
+        out += [""]
 
     for key, anc, title, es in sections:
         if key == sections[0][0]:

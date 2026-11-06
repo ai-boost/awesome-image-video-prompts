@@ -19,6 +19,7 @@
 ## 目录
 
 - [最近新增](#recent)
+- [按模型](#bymodel)
 - [视频提示词](#video) (1081 条)
   - [电影感场景与短片](#vid-cinematic) (150)
   - [动作、追逐与运动](#vid-action) (210)
@@ -68,6 +69,11 @@
 - 2026-11-06 · [镜面电梯中穿带 Keor 刺绣上衣的女性](pages/zh/image-realism.md#gpt-image-2-6-elevator-mirror-keor-embroidery) · GPT Image 2.6
 - 2026-11-06 · [短发女性手持红色枫叶](pages/zh/image-edit.md#gpt-image-2-6-woman-holding-maple-leaf) · GPT Image 2.6
 - 2026-11-06 · [周末读书会海报，摊开的书与茶杯](pages/zh/image-poster-2.md#gpt-image-2-6-reading-club-poster) · GPT Image 2.6
+
+<a id="bymodel"></a>
+## 按模型
+
+- [GPT Image 2.6](https://agentcraft.dev/zh/prompts/image/gpt-image-2-6/): 93 条提示词，其中 43 条是 GIF 动图，每条附成图和出处
 
 <a id="video"></a>
 ## 视频提示词
@@ -4993,7 +4999,7 @@ ffmpeg -i samples/night-train-ticket.mp4 -filter_complex "
 ### 官方提示词指南
 
 - [MiniMax H3 prompt-writing skill](https://github.com/MiniMax-AI/MiniMax-H3/tree/main/.claude/skills/h3-prompt-writing): 官方 Agent skill，把一句想法改写成 H3 的结构化提示词格式。本地跑 H3 用上它效果差别很大。
-- [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting): GPT Image 2.5 的八条写法规则，生成、编辑、多轮修改的示例都附 Flare 和 Sunburst 两版对比。
+- [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting): 针对 GPT Image 2.6：什么时候选 Flare、什么时候选 Sunburst，怎么从 2.5 迁移，写法基础，以及生成、编辑、多轮修改的示例。
 - [Gemini Omni prompt guide](https://deepmind.google/models/gemini-omni/prompt-guide/): 对话式编辑、换机位、多路参考、续写、首尾帧。
 - [Kling 4.0 user guide](https://kling.ai/quickstart/kling-4-model-user-guide): 30 秒单条、最多 15 份参考素材、10 张关键帧、用提示词改视频、8000 token 长提示词。
 - [Kling VIDEO 3.0 user guide](https://app.klingai.com/global/quickstart/klingai-video-3-model-user-guide): 多镜头、主体绑定、多语种对白、方言口音、文字渲染、15 秒长镜头。
