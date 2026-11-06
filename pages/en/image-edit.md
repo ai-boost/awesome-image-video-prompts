@@ -1,6 +1,6 @@
 # Photo editing
 
-[Back to the list](../../README.md) · All 61 entries
+[Back to the list](../../README.md) · All 63 entries
 
 <a id="nano-banana-charmander-ember-route-101"></a>
 ### Charmander uses Ember on a sunset route
@@ -1092,6 +1092,44 @@ Place a short handwritten caption in the open upper-left area: three lines, thre
 Everything in the lower panel is black line on cream, except three or four tiny color accents - a
 
 red heart, pink flowers, a yellow sparkle. The subject alone stays in full photographic color. Avoid: a cluttered or busy background, doodles filling every corner, doodles overlapping or touching the subject, large doodles rivaling the subject's size, three or more buildings, dense scribbled shadows, heavy thick linework, shading or crosshatching, long caption text, more than three lines of text, an illustrated or cartoon subject, changed face or identity, beautified skin, altered clothing or pose, colored or filled doodles, 3D rendering, side-by-side panels, watermark
+```
+
+</details>
+
+<a id="gpt-image-2-6-red-suit-mv-gif"></a>
+### Anime woman in red suit posing in MV style
+
+<a href="https://x.com/Ayu_AI_0912/status/2118138025024839939"><img src="../../previews/gpt-image-2-6-red-suit-mv-gif.gif" width="360"></a>
+
+A single short instruction plus one reference image is enough: the model keeps the character's outfit and styling consistent across four poses and a close-up. The high-contrast red-on-black palette gives the sequence its music-video feel.
+
+GPT Image 2.6 · Edit · Source: [@Ayu_AI_0912 on X](https://x.com/Ayu_AI_0912/status/2118138025024839939) · 11 likes on 2026-11-05
+
+[`anime`](tags.md#tag-anime) [`gif`](tags.md#tag-gif) [`animation`](tags.md#tag-animation) [`music-video`](tags.md#tag-music-video)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+添付した画像を使ってかっこいいMV風のGIFアニメにして
+```
+
+</details>
+
+<a id="gpt-image-2-6-woman-waving-winking-gif"></a>
+### Smiling woman waves and winks at camera
+
+<a href="https://x.com/daifuku_ailover/status/2118224031518454108"><img src="../../previews/gpt-image-2-6-woman-waving-winking-gif.gif" width="360"></a>
+
+The whole prompt is a one-line instruction that points at the attached portrait, so the model supplies the motion itself. A clean light background and a face that stays centered keep identity and hairstyle stable across the wave, smile and wink frames.
+
+GPT Image 2.6 · Edit · Source: [@daifuku_ailover on X](https://x.com/daifuku_ailover/status/2118224031518454108) · 1 likes on 2026-11-05
+
+[`gif`](tags.md#tag-gif) [`portrait`](tags.md#tag-portrait) [`image-to-gif`](tags.md#tag-image-to-gif) [`wave`](tags.md#tag-wave)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+この画像でGIFアニメーション作って
 ```
 
 </details>

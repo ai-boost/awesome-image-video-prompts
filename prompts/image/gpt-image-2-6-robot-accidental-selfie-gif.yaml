@@ -1,0 +1,24 @@
+id: gpt-image-2-6-robot-accidental-selfie-gif
+title:
+  en: Robot selfie with blinking eyes and hand gesture
+  zh: 机器人自拍时眨眼并抬手
+model: GPT Image 2.6
+mode: text-to-image
+category: character
+tags:
+- robot
+- selfie
+- gif
+- pov
+source:
+  name: '@nixus404 on X'
+  url: https://x.com/nixus404/status/2118180448840872167
+  credit: Nixus
+  likes: 0
+  captured: '2026-11-05'
+  posted: '2026-11-05'
+notes:
+  en: The framing as an accidental selfie sets a handheld, close-up point of view, so the robot fills the frame and its small reactions read as casual. Making the subject the model itself gives the character a consistent identity across frames.
+  zh: 将画面设定为意外自拍，形成手持近景视角，机器人占满画面，其小动作显得随意自然。让主体是模型自身，使角色在各帧中保持一致。
+prompt: |
+  Create an animated GIF of yourself, as if you were taking an accidental selfie with your phone

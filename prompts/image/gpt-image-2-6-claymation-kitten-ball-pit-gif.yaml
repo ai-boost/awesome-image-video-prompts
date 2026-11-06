@@ -1,0 +1,24 @@
+id: gpt-image-2-6-claymation-kitten-ball-pit-gif
+title:
+  en: Claymation kitten playing in a ball pit
+  zh: 黏土定格风小猫在球池中玩耍
+model: GPT Image 2.6
+mode: text-to-image
+category: character
+tags:
+- claymation
+- animated-gif
+- cute-animals
+- animation
+source:
+  name: '@dreamwieber on X'
+  url: https://x.com/dreamwieber/status/2118191599872344467
+  credit: Gregory Wieber
+  likes: 1
+  captured: '2026-11-05'
+  posted: '2026-11-05'
+notes:
+  en: The prompt names the medium (claymation) and the scene in one short line, and asks for an animated GIF, so the model picks the style and the playful motion itself. Adding a camera angle or frame count would give more control.
+  zh: 提示词用一句话同时点明媒介（黏土定格风）和场景，并要求生成动态 GIF，因此风格和嬉戏动作都由模型自行决定。若想更可控，可以补充镜头角度或帧数。
+prompt: |
+  generate an animated gif of a claymation kitten playing in a plastic ball pit

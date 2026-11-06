@@ -204,8 +204,10 @@ def video_entry(e, lang, t, root=""):
         meta += f' · {s["likes"]:,} {t["likes"]} {s["captured"]}'
     if s.get("via"):
         meta += f' · {t["via"]} [{s["via"].split("github.com/")[-1]}]({s["via"]})'
+    # An image entry whose output is an animated GIF keeps it next to the first-frame jpg, and shows the GIF.
+    ext = "gif" if "video" not in e and os.path.exists(f'previews/{e["id"]}.gif') else "jpg"
     out = [f'<a id="{e["id"]}"></a>', f'### {e["title"][lang]}', "",
-           f'<a href="{e.get("video", s["url"])}"><img src="{root}previews/{e["id"]}.jpg" width="360"></a>', "",
+           f'<a href="{e.get("video", s["url"])}"><img src="{root}previews/{e["id"]}.{ext}" width="360"></a>', "",
            e["notes"][lang], "", meta, "", tag_line(e["tags"], "tags.md" if root else f"pages/{lang}/tags.md"), "",
            f'<details><summary><b>{t["prompt"]}</b></summary>', "", "```text", e["prompt"].rstrip(), "```", "", "</details>", ""]
     if e.get("inputs"):

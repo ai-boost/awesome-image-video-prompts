@@ -1,0 +1,24 @@
+id: gpt-image-2-6-blue-hair-chibi-eating-rice-gif
+title:
+  en: Chibi character eating rice with chopsticks
+  zh: Q版角色用筷子吃白米饭
+model: GPT Image 2.6
+mode: image-edit
+category: character
+tags:
+- gif
+- chibi
+- character-edit
+- chinese-text
+source:
+  name: '@Gorden_Sun on X'
+  url: https://x.com/Gorden_Sun/status/2118166046175908016
+  credit: Gorden Sun
+  likes: 151
+  captured: '2026-11-05'
+  posted: '2026-11-05'
+notes:
+  en: Attach the character as a reference image and describe only the new action and the on-image text, so the design carries over while the model animates it. Asking for a GIF with exact text gives a short looping sequence with a steady background.
+  zh: 上传角色图作为参考，只描述新动作和画面文字，角色设计会被保留，模型据此生成动画。明确要求GIF和准确文字，可得到背景稳定的短循环动画。
+prompt: |
+  使用这个角色，生成一张GIF图，内容是她吃大白米饭，图片里有文字：真香！

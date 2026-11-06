@@ -1,0 +1,24 @@
+id: gpt-image-2-6-psychedelic-cat-dancing-gif
+title:
+  en: Kitten dances on hind legs before psychedelic swirls
+  zh: 小猫后腿站立在迷幻旋涡前跳舞
+model: GPT Image 2.6
+mode: text-to-image
+category: realism
+tags:
+- psychedelic
+- cat
+- dance
+- animation
+source:
+  name: '@xedrik7 on X'
+  url: https://x.com/xedrik7/status/2118258491043483978
+  credit: Xedrik
+  likes: 0
+  captured: '2026-11-05'
+  posted: '2026-11-05'
+notes:
+  en: A short subject with one clear motion verb, dancing, gives the model a single action to animate. The phrase psychedelic gif sets both the swirling background and the animated format in one step.
+  zh: 主体简短，只有一个明确的动作词 dancing，模型容易生成清晰的动作。psychedelic gif 这一短语同时定下迷幻旋涡背景和动图格式。
+prompt: |
+  psychedelic gif of cat dancing

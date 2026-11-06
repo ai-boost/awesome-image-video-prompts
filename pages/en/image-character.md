@@ -1,6 +1,6 @@
 # Characters and figures
 
-[Back to the list](../../README.md) · All 86 entries
+[Back to the list](../../README.md) · All 100 entries
 
 <a id="gpt-image-tanjiro-pixel-sprite-sheet-water-attack"></a>
 ### Tanjiro 16 frame pixel sprite sheet with water attack
@@ -960,6 +960,25 @@ Nano Banana 2 · Text-to-image · Source: [@Xaroon_x on X](https://x.com/Xaroon_
 
 </details>
 
+<a id="gpt-image-2-6-blue-hair-chibi-eating-rice-gif"></a>
+### Chibi character eating rice with chopsticks
+
+<a href="https://x.com/Gorden_Sun/status/2118166046175908016"><img src="../../previews/gpt-image-2-6-blue-hair-chibi-eating-rice-gif.gif" width="360"></a>
+
+Attach the character as a reference image and describe only the new action and the on-image text, so the design carries over while the model animates it. Asking for a GIF with exact text gives a short looping sequence with a steady background.
+
+GPT Image 2.6 · Edit · Source: [@Gorden_Sun on X](https://x.com/Gorden_Sun/status/2118166046175908016) · 151 likes on 2026-11-05
+
+[`gif`](tags.md#tag-gif) [`chibi`](tags.md#tag-chibi) [`character-edit`](tags.md#tag-character-edit) [`chinese-text`](tags.md#tag-chinese-text)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+使用这个角色，生成一张GIF图，内容是她吃大白米饭，图片里有文字：真香！
+```
+
+</details>
+
 <a id="gpt-image-editorial-fashion-character-sheet-face-reference"></a>
 ### Editorial fashion character sheet from one face photo
 
@@ -1866,6 +1885,26 @@ GPT Image 1.5 · Text-to-image · Source: [@KeorUnreal on X](https://x.com/KeorU
 
 </details>
 
+<a id="gpt-image-2-6-schoolgirl-reference-dance-gif"></a>
+### School uniform character dancing in four frames
+
+<a href="https://x.com/munou_ac/status/2118220485150535796"><img src="../../previews/gpt-image-2-6-schoolgirl-reference-dance-gif.gif" width="360"></a>
+
+A short instruction that points to the reference image keeps the character's outfit, hair and proportions fixed across frames. The words dance and GIF are enough for the model to choose the motion, so no pose list is needed.
+
+GPT Image 2.6 · Edit · Source: [@munou_ac on X](https://x.com/munou_ac/status/2118220485150535796) · 38 likes on 2026-11-05
+
+[`anime`](tags.md#tag-anime) [`dance`](tags.md#tag-dance) [`gif`](tags.md#tag-gif) [`reference-image`](tags.md#tag-reference-image)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+参照画像のキャラクターが
+ダンスするGIFを作ってください
+```
+
+</details>
+
 <a id="nano-banana-felt-designer-toy-history-dioramas"></a>
 ### Felt designer toy dioramas of four historic days
 
@@ -1912,6 +1951,25 @@ A collectible fuzzy designer-toy scene where $ SUBJECT becomes soft, expressive,
 
 </details>
 
+<a id="gpt-image-2-6-chibi-cheongsam-girl-gif"></a>
+### Chibi cheongsam girl performs a cute jump sequence
+
+<a href="https://x.com/shinshin86/status/2118225428976705908"><img src="../../previews/gpt-image-2-6-chibi-cheongsam-girl-gif.gif" width="360"></a>
+
+Attach the character as the second image and keep the instruction short. The model keeps the outfit and hairstyle from the reference while choosing its own cute motion, so the frames stay consistent.
+
+GPT Image 2.6 · Edit · Source: [@shinshin86 on X](https://x.com/shinshin86/status/2118225428976705908) · 22 likes on 2026-11-05
+
+[`gif`](tags.md#tag-gif) [`chibi`](tags.md#tag-chibi) [`animation`](tags.md#tag-animation) [`anime`](tags.md#tag-anime)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+このキャラクターをちびキャラ化して、何か可愛らしい動きをしているところをGIF画像にしてください。
+```
+
+</details>
+
 <a id="nano-banana-claymation-gothic-castle-hoodie"></a>
 ### Claymation man in gothic castle set
 
@@ -1931,10 +1989,163 @@ A hyperrealistic, detailed close-up photograph of a meticulously crafted stop-mo
 
 </details>
 
+<a id="gpt-image-2-6-dancing-frog-top-hat"></a>
+### Dancing cartoon frog in a top hat
+
+<a href="https://x.com/princess414141/status/2118144125354877152"><img src="../../previews/gpt-image-2-6-dancing-frog-top-hat.gif" width="360"></a>
+
+The prompt names one subject and its prop, then fixes the on-image text to a position, so the wording stays the same across frames while only the frog's pose changes. The loop reads as motion because the text anchors the frame.
+
+GPT Image 2.6 · Text-to-image · Source: [@princess414141 on X](https://x.com/princess414141/status/2118144125354877152) · 15 likes on 2026-11-05
+
+[`gif`](tags.md#tag-gif) [`animation`](tags.md#tag-animation) [`cartoon`](tags.md#tag-cartoon) [`text-in-image`](tags.md#tag-text-in-image)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+dancing frog with a top hat on, with ego be gone! written at the top
+```
+
+</details>
+
+<a id="gpt-image-2-6-waving-laughing-character-gif"></a>
+### Cartoon character waves and laughs in GIF
+
+<a href="https://x.com/okan_aitool/status/2118201578406772887"><img src="../../previews/gpt-image-2-6-waving-laughing-character-gif.gif" width="360"></a>
+
+The prompt names only the existing character and the two actions, so the model keeps the character's design and animates the wave and the smile across frames. No camera or timing terms are needed.
+
+GPT Image 2.6 · Edit · Source: [@okan_aitool on X](https://x.com/okan_aitool/status/2118201578406772887) · 9 likes on 2026-11-05
+
+[`gif`](tags.md#tag-gif) [`animation`](tags.md#tag-animation) [`character`](tags.md#tag-character)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+このキャラをGIFで動かして。手を振って笑う
+```
+
+</details>
+
+<a id="gpt-image-2-6-pixel-hero-sword-swing-gif"></a>
+### Pixel art hero swinging glowing sword
+
+<a href="https://x.com/YaReYaRu30Life/status/2118166505603153922"><img src="../../previews/gpt-image-2-6-pixel-hero-sword-swing-gif.gif" width="360"></a>
+
+Asking for a GIF directly and fixing the style as pixel art keeps the character consistent across frames. The glowing effect is described as a separate element on the sword, so the swing reads clearly as motion.
+
+GPT Image 2.6 · Text-to-image · Source: [@YaReYaRu30Life on X](https://x.com/YaReYaRu30Life/status/2118166505603153922) · 7 likes on 2026-11-05
+
+[`pixel-art`](tags.md#tag-pixel-art) [`gif`](tags.md#tag-gif) [`animation`](tags.md#tag-animation) [`game-art`](tags.md#tag-game-art)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+GIFを作成。ドット絵の勇者。
+剣にエフェクトをつけて振り回す
+```
+
+</details>
+
+<a id="gpt-image-2-6-pixel-character-bolt-blast-gif"></a>
+### Pixel man blasts nuts and bolts with purple lightning
+
+<a href="https://x.com/YaReYaRu30Life/status/2118167174053597233"><img src="../../previews/gpt-image-2-6-pixel-character-bolt-blast-gif.gif" width="360"></a>
+
+Attaching a three-view character sheet as the reference keeps the design consistent across frames, and one line sets both the effect color and the action. The frames follow a clear beat: wind-up, lightning release, parts flying, then dust settling.
+
+GPT Image 2.6 · Edit · Source: [@YaReYaRu30Life on X](https://x.com/YaReYaRu30Life/status/2118167174053597233) · 6 likes on 2026-11-05
+
+[`pixel-art`](tags.md#tag-pixel-art) [`animated-gif`](tags.md#tag-animated-gif) [`character-sheet`](tags.md#tag-character-sheet) [`lightning`](tags.md#tag-lightning)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+このキャラをドット化して、紫の電光エフェクトでボルトをナットを吹き飛ばすGIFを作成
+```
+
+</details>
+
+<a id="gpt-image-2-6-diligent-bee-daily-checkin-gif"></a>
+### Cartoon bee posts to X for daily check-in
+
+<a href="https://x.com/MrGafish/status/2118217749680025722"><img src="../../previews/gpt-image-2-6-diligent-bee-daily-checkin-gif.gif" width="360"></a>
+
+A short Chinese brief names the format (GIF), the platform (X) and the meaning, and leaves the bee, props and caption to the model. The four frames repeat the same posting action, which keeps the loop steady.
+
+GPT Image 2.6 · Text-to-image · Source: [@MrGafish on X](https://x.com/MrGafish/status/2118217749680025722) · 3 likes on 2026-11-05
+
+[`gif`](tags.md#tag-gif) [`check-in`](tags.md#tag-check-in) [`bee-mascot`](tags.md#tag-bee-mascot) [`x-post`](tags.md#tag-x-post)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+生成一个GIF，用于在𝕏 平台每日签到打卡，寓意我是一个发贴的勤劳小蜜蜂
+```
+
+</details>
+
+<a id="gpt-image-2-6-whale-girl-eating-rice-gif"></a>
+### Chibi whale girl eating rice from a bowl
+
+<a href="https://x.com/gantrols/status/2118147326351159730"><img src="../../previews/gpt-image-2-6-whale-girl-eating-rice-gif.gif" width="360"></a>
+
+A character reference image is attached, so the design stays the same across frames and the short prompt only has to name the subject and the eating action. Keeping the instruction minimal lets the reference drive the look of the animation.
+
+GPT Image 2.6 · Edit · Source: [@gantrols on X](https://x.com/gantrols/status/2118147326351159730) · 2 likes on 2026-11-05
+
+[`anime`](tags.md#tag-anime) [`chibi`](tags.md#tag-chibi) [`animated-gif`](tags.md#tag-animated-gif) [`reference-image`](tags.md#tag-reference-image)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a GIF of 鲸鱼娘干白饭饭，附图是人物形象参考图
+```
+
+</details>
+
+<a id="gpt-image-2-6-white-dog-heart-loop-gif"></a>
+### Fluffy white line-art dog with a floating heart
+
+<a href="https://x.com/CalosLaw/status/2118199125707547102"><img src="../../previews/gpt-image-2-6-white-dog-heart-loop-gif.gif" width="360"></a>
+
+Each motion is written as a small visible action (sway side to side, wag tail, smile with closed eyes, heart above head), so the frames stay readable at sticker size. The flat pure white background and the seamless loop and square framing instructions keep the animation consistent from frame to frame.
+
+GPT Image 2.6 · Text-to-image · Source: [@CalosLaw on X](https://x.com/CalosLaw/status/2118199125707547102) · 2 likes on 2026-11-05
+
+[`gif`](tags.md#tag-gif) [`sticker`](tags.md#tag-sticker) [`line-art`](tags.md#tag-line-art) [`loop-animation`](tags.md#tag-loop-animation) [`doodle`](tags.md#tag-doodle)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+做一个线条小狗风格的循环 GIF 动图：一只白色圆滚滚的简笔画小狗，黑色粗线条，手绘涂鸦感，纯白背景。小狗开心地左右摇摆身体、摇尾巴，眼睛眯成弯弯的笑眼，头顶冒出一颗小爱心。画面简洁可爱，动作流畅，首尾无缝循环，正方形构图，适合做表情包。
+```
+
+</details>
+
+<a id="gpt-image-2-6-claymation-kitten-ball-pit-gif"></a>
+### Claymation kitten playing in a ball pit
+
+<a href="https://x.com/dreamwieber/status/2118191599872344467"><img src="../../previews/gpt-image-2-6-claymation-kitten-ball-pit-gif.gif" width="360"></a>
+
+The prompt names the medium (claymation) and the scene in one short line, and asks for an animated GIF, so the model picks the style and the playful motion itself. Adding a camera angle or frame count would give more control.
+
+GPT Image 2.6 · Text-to-image · Source: [@dreamwieber on X](https://x.com/dreamwieber/status/2118191599872344467) · 1 likes on 2026-11-05
+
+[`claymation`](tags.md#tag-claymation) [`animated-gif`](tags.md#tag-animated-gif) [`cute-animals`](tags.md#tag-cute-animals) [`animation`](tags.md#tag-animation)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+generate an animated gif of a claymation kitten playing in a plastic ball pit
+```
+
+</details>
+
 <a id="gpt-image-2-6-monkey-lantern-looping-gif"></a>
 ### Monkey in hooded coat holding a lantern
 
-<a href="https://developers.openai.com/api/docs/guides/image-prompting#generate-a-looping-gif"><img src="../../previews/gpt-image-2-6-monkey-lantern-looping-gif.jpg" width="360"></a>
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#generate-a-looping-gif"><img src="../../previews/gpt-image-2-6-monkey-lantern-looping-gif.gif" width="360"></a>
 
 Locking the camera and describing one lift, look, blink and return arc from a fixed start pose makes the motion close cleanly into a loop. Naming the coat, lantern and cabin keeps the subject consistent across frames.
 
@@ -1946,6 +2157,63 @@ GPT Image 2.6 · Text-to-image · Source: [OpenAI image prompting guide](https:/
 
 ```text
 A little monkey in an olive-green hooded coat stands in a snowy pine forest at dusk. A wooden cabin glows in the background. The monkey holds a glowing amber paper lantern at chest height, slowly lifts it, looks up and blinks, then lowers it back to its starting pose. Keep the lantern in its hands and the camera still. Make the motion loop smoothly.
+```
+
+</details>
+
+<a id="gpt-image-2-6-orange-cat-goodnight-gif"></a>
+### Orange cat yawns, hugs moon pillow under blanket
+
+<a href="https://x.com/eeseverlasting/status/2118248165396848968"><img src="../../previews/gpt-image-2-6-orange-cat-goodnight-gif.gif" width="360"></a>
+
+A short instruction plus one attached photo lets the model invent the story beats from yawn to sleep while keeping the character consistent. The Japanese phrase is named as the goal, so it appears as on-screen text in the final frame.
+
+GPT Image 2.6 · Edit · Source: [@eeseverlasting on X](https://x.com/eeseverlasting/status/2118248165396848968)
+
+[`cat`](tags.md#tag-cat) [`animated-gif`](tags.md#tag-animated-gif) [`japanese-text`](tags.md#tag-japanese-text) [`bedtime`](tags.md#tag-bedtime)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+添付画像をつかって、おもしろいGIF『おやすみにゃ～！』をつくりたい。
+```
+
+</details>
+
+<a id="gpt-image-2-6-robot-accidental-selfie-gif"></a>
+### Robot selfie with blinking eyes and hand gesture
+
+<a href="https://x.com/nixus404/status/2118180448840872167"><img src="../../previews/gpt-image-2-6-robot-accidental-selfie-gif.gif" width="360"></a>
+
+The framing as an accidental selfie sets a handheld, close-up point of view, so the robot fills the frame and its small reactions read as casual. Making the subject the model itself gives the character a consistent identity across frames.
+
+GPT Image 2.6 · Text-to-image · Source: [@nixus404 on X](https://x.com/nixus404/status/2118180448840872167)
+
+[`robot`](tags.md#tag-robot) [`selfie`](tags.md#tag-selfie) [`gif`](tags.md#tag-gif) [`pov`](tags.md#tag-pov)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create an animated GIF of yourself, as if you were taking an accidental selfie with your phone
+```
+
+</details>
+
+<a id="gpt-image-2-6-robot-pouring-coffee-gif"></a>
+### Cute robot pouring coffee into a cup
+
+<a href="https://x.com/sousoccer6/status/2118210705585537226"><img src="../../previews/gpt-image-2-6-robot-pouring-coffee-gif.gif" width="360"></a>
+
+A one-line subject and action in Japanese is enough, since the model supplies the cafe setting, props and pouring motion. The frames keep the robot's face and apron consistent so the animation reads as one continuous shot.
+
+GPT Image 2.6 · Text-to-image · Source: [@sousoccer6 on X](https://x.com/sousoccer6/status/2118210705585537226)
+
+[`robot`](tags.md#tag-robot) [`coffee`](tags.md#tag-coffee) [`animation`](tags.md#tag-animation) [`cute`](tags.md#tag-cute)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+コーヒーを淹れるロボット
 ```
 
 </details>

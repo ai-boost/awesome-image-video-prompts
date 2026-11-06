@@ -1,0 +1,24 @@
+id: gpt-image-2-6-robot-dancing-lagos-street-gif
+title:
+  en: Robot dancing on a busy Lagos street
+  zh: 机器人在拉各斯繁忙街道上跳舞
+model: GPT Image 2.6
+mode: text-to-image
+category: realism
+tags:
+- robot
+- gif
+- street
+- loop
+source:
+  name: '@o_adeeko on X'
+  url: https://x.com/o_adeeko/status/2118203950306410729
+  credit: Olalekan Adeeko MVP
+  likes: 0
+  captured: '2026-11-05'
+  posted: '2026-11-05'
+notes:
+  en: A single sentence names the subject, action, setting and a looping request, which keeps the four frames as one consistent pose cycle. The loop instruction does the work of making the animation repeat cleanly.
+  zh: 一句话同时写明主体、动作、场景和循环要求，让四帧保持同一角色的连贯动作循环。循环要求是让动画可以无缝重复的关键。
+prompt: |
+  Create an animated GIF of a robot dancing to Afrobeats on a busy Lagos street. Make the movement loop smoothly.

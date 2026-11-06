@@ -1,0 +1,23 @@
+id: gpt-image-2-6-waving-laughing-character-gif
+title:
+  en: Cartoon character waves and laughs in GIF
+  zh: 卡通角色挥手大笑的GIF动画
+model: GPT Image 2.6
+mode: image-edit
+category: character
+tags:
+- gif
+- animation
+- character
+source:
+  name: '@okan_aitool on X'
+  url: https://x.com/okan_aitool/status/2118201578406772887
+  credit: あゆ｜キャラパレ運営🎨毎日プロンプト配布中
+  likes: 9
+  captured: '2026-11-05'
+  posted: '2026-11-05'
+notes:
+  en: The prompt names only the existing character and the two actions, so the model keeps the character's design and animates the wave and the smile across frames. No camera or timing terms are needed.
+  zh: 提示词只点明已有角色和两个动作，模型保留角色原有造型，并在各帧中完成挥手和微笑的动画。无需写镜头或时间参数。
+prompt: |
+  このキャラをGIFで動かして。手を振って笑う

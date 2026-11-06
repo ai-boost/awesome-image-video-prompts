@@ -1,0 +1,24 @@
+id: gpt-image-2-6-diligent-bee-daily-checkin-gif
+title:
+  en: Cartoon bee posts to X for daily check-in
+  zh: 卡通小蜜蜂在手机上发帖打卡
+model: GPT Image 2.6
+mode: text-to-image
+category: character
+tags:
+- gif
+- check-in
+- bee-mascot
+- x-post
+source:
+  name: '@MrGafish on X'
+  url: https://x.com/MrGafish/status/2118217749680025722
+  credit: 鱼哥
+  likes: 3
+  captured: '2026-11-05'
+  posted: '2026-11-05'
+notes:
+  en: A short Chinese brief names the format (GIF), the platform (X) and the meaning, and leaves the bee, props and caption to the model. The four frames repeat the same posting action, which keeps the loop steady.
+  zh: 简短的中文提示说明了格式（GIF）、平台（X）和寓意，把小蜜蜂、道具和文案交给模型发挥。四帧重复同一个发帖动作，循环起来很稳。
+prompt: |
+  生成一个GIF，用于在𝕏 平台每日签到打卡，寓意我是一个发贴的勤劳小蜜蜂

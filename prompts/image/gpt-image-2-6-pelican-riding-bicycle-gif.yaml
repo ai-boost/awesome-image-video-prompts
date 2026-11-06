@@ -1,0 +1,24 @@
+id: gpt-image-2-6-pelican-riding-bicycle-gif
+title:
+  en: Pelican in a helmet riding a bicycle
+  zh: 头戴头盔的鹈鹕骑自行车
+model: GPT Image 2.6
+mode: text-to-image
+category: realism
+tags:
+- gif
+- animal
+- bicycle
+- looping
+source:
+  name: '@SSHCodes on X'
+  url: https://x.com/SSHCodes/status/2118127375481504100
+  credit: SSH
+  likes: 20
+  captured: '2026-11-05'
+  posted: '2026-11-04'
+notes:
+  en: A single plain sentence that names the subject, the action and the gif format is enough. The model keeps the pelican, bike and seaside backdrop consistent across frames, so the loop reads as one continuous ride.
+  zh: 一句话写清主体、动作和 gif 格式就够了。模型在各帧之间保持鹈鹕、自行车和海边背景一致，所以循环播放时像是连续的骑行。
+prompt: |
+  generate a gif of a pelican riding a bicycle

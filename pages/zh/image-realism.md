@@ -1,6 +1,6 @@
 # 写实照片
 
-[返回目录](../../README_zh.md) · 全部 104 条
+[返回目录](../../README_zh.md) · 全部 114 条
 
 <a id="gpt-image-coca-cola-tanker-leak-mentos-truck-dashcam"></a>
 ### 可口可乐罐车漏液，旁边是Mentos货车
@@ -2807,6 +2807,143 @@ Nano Banana Pro · 文生图 · 出处: [@eachlabs on X](https://x.com/eachlabs/
 
 </details>
 
+<a id="gpt-image-2-6-pelican-riding-bicycle-gif"></a>
+### 头戴头盔的鹈鹕骑自行车
+
+<a href="https://x.com/SSHCodes/status/2118127375481504100"><img src="../../previews/gpt-image-2-6-pelican-riding-bicycle-gif.gif" width="360"></a>
+
+一句话写清主体、动作和 gif 格式就够了。模型在各帧之间保持鹈鹕、自行车和海边背景一致，所以循环播放时像是连续的骑行。
+
+GPT Image 2.6 · 文生图 · 出处: [@SSHCodes on X](https://x.com/SSHCodes/status/2118127375481504100) · 20 赞，统计于 2026-11-05
+
+[`gif`](tags.md#tag-gif) [`animal`](tags.md#tag-animal) [`bicycle`](tags.md#tag-bicycle) [`looping`](tags.md#tag-looping)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+generate a gif of a pelican riding a bicycle
+```
+
+</details>
+
+<a id="gpt-image-2-6-heisei-flip-phone-decomail-gif"></a>
+### 东京街头折叠手机屏幕播放平成风格动画
+
+<a href="https://x.com/rem_rev/status/2118252486360498485"><img src="../../previews/gpt-image-2-6-heisei-flip-phone-decomail-gif.gif" width="360"></a>
+
+这段日文提示只给出时代和格式，模型自行选取象征性的道具：折叠手机、涩谷109和东京塔。要求制作SNS用GIF后，手机屏幕内容在各帧之间切换。
+
+GPT Image 2.6 · 文生图 · 出处: [@rem_rev on X](https://x.com/rem_rev/status/2118252486360498485) · 14 赞，统计于 2026-11-05
+
+[`heisei`](tags.md#tag-heisei) [`japan`](tags.md#tag-japan) [`gif`](tags.md#tag-gif) [`retro-tech`](tags.md#tag-retro-tech)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+平成を象徴する何か。SNS向けのGIF画像を生成して下さい。
+```
+
+</details>
+
+<a id="gpt-image-2-6-sunglasses-cat-dancing-gif"></a>
+### 戴墨镜的猫在紫光房间里跳舞
+
+<a href="https://x.com/SSSS_CRYPTOMAN/status/2118144429848748108"><img src="../../previews/gpt-image-2-6-sunglasses-cat-dancing-gif.gif" width="360"></a>
+
+一句话写明输出格式（GIF）、主体和风格（迷因感），动作、场景和造型交给模型补全，四帧循环自然。
+
+GPT Image 2.6 · 文生图 · 出处: [@SSSS_CRYPTOMAN on X](https://x.com/SSSS_CRYPTOMAN/status/2118144429848748108) · 12 赞，统计于 2026-11-05
+
+[`animation`](tags.md#tag-animation) [`cat`](tags.md#tag-cat) [`meme`](tags.md#tag-meme) [`loop`](tags.md#tag-loop)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+次の内容で GIF を作成して: サングラスをかけた猫がダンスをするミームっぽいGIF
+```
+
+</details>
+
+<a id="gpt-image-2-6-elderly-man-splitting-firewood-gif"></a>
+### 雪中庭院里老人劈柴
+
+<a href="https://x.com/koe_ai414/status/2118153765094351279"><img src="../../previews/gpt-image-2-6-elderly-man-splitting-firewood-gif.gif" width="360"></a>
+
+一句话写清人物、季节、场景和动作，结尾的GIF要求让输出成为动图。挥斧动作、积雪和木屋等细节交给模型补全，无需额外的镜头或风格设定。
+
+GPT Image 2.6 · 文生图 · 出处: [@koe_ai414 on X](https://x.com/koe_ai414/status/2118153765094351279) · 6 赞，统计于 2026-11-05
+
+[`winter`](tags.md#tag-winter) [`snow`](tags.md#tag-snow) [`elderly`](tags.md#tag-elderly) [`animated-gif`](tags.md#tag-animated-gif)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+冬の寒い中、家の庭で薪割りをするおじいさんのGIF
+```
+
+</details>
+
+<a id="gpt-image-2-6-luminol-beaker-vortex-gif"></a>
+### 烧杯漩涡随滴入液体变成蓝绿紫荧光
+
+<a href="https://x.com/ZHENGJUNTING92/status/2118252052556255364"><img src="../../previews/gpt-image-2-6-luminol-beaker-vortex-gif.gif" width="360"></a>
+
+用垂直俯拍锁定烧杯杯口，让漩涡清晰可见。按旋转、滴入、发光的顺序描述动作，并写明每种染料的发光颜色，画面因此有清晰的先后和配色。
+
+GPT Image 2.6 · 文生图 · 出处: [@ZHENGJUNTING92 on X](https://x.com/ZHENGJUNTING92/status/2118252052556255364) · 6 赞，统计于 2026-11-05
+
+[`chemistry`](tags.md#tag-chemistry) [`liquid`](tags.md#tag-liquid) [`glow`](tags.md#tag-glow) [`macro`](tags.md#tag-macro)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+制作gif
+垂直俯拍一个烧杯的杯口，里面的水在旋转形成漩涡，然后滴入液体
+C8H7N3O2+H202+NaOH-Na2C8H5N204+N2 1+H20+luminol CL
+烧杯中是少量罗丹明B碱性的鲁米诺溶液 和过氧化氢
+胶头滴管中是含铁离子溶液 和荧光染料
+```
+
+</details>
+
+<a id="gpt-image-2-6-paper-boat-bobbing-gif"></a>
+### 蓝色水面上摇晃的白色纸船
+
+<a href="https://x.com/thinkszyg/status/2118166234495947044"><img src="../../previews/gpt-image-2-6-paper-boat-bobbing-gif.gif" width="360"></a>
+
+在一句话里同时写明输出是循环 GIF 和动作即可。模型会保持固定机位，并自行补出水面涟漪和倒影。
+
+GPT Image 2.6 · 文生图 · 出处: [@thinkszyg on X](https://x.com/thinkszyg/status/2118166234495947044) · 2 赞，统计于 2026-11-05
+
+[`gif`](tags.md#tag-gif) [`looping`](tags.md#tag-looping) [`paper-boat`](tags.md#tag-paper-boat) [`water`](tags.md#tag-water)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Make a looping GIF of a paper boat bobbing on the water.
+```
+
+</details>
+
+<a id="gpt-image-2-6-polka-dot-bodysuit-hip-wiggle-gif"></a>
+### 身穿波点连体衣的男子扭胯舞动
+
+<a href="https://x.com/TaikiTaiki04/status/2118177315176001988"><img src="../../previews/gpt-image-2-6-polka-dot-bodysuit-hip-wiggle-gif.gif" width="360"></a>
+
+用一句简短的日文同时点明 GIF 格式和单一动作，就能得到可循环的舞蹈片段。纯绿色背景让人物轮廓在各帧之间保持稳定。
+
+GPT Image 2.6 · 文生图 · 出处: [@TaikiTaiki04 on X](https://x.com/TaikiTaiki04/status/2118177315176001988) · 1 赞，统计于 2026-11-05
+
+[`dance`](tags.md#tag-dance) [`gif`](tags.md#tag-gif) [`motion`](tags.md#tag-motion) [`minimal-prompt`](tags.md#tag-minimal-prompt)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+GIFでお尻フリフリさせて。
+```
+
+</details>
+
 <a id="gpt-image-1942-arcade-city-pilot-walk"></a>
 ### 飞行员走过街机空战主题的战时城市
 
@@ -2920,6 +3057,63 @@ He has weathered skin with visible wrinkles, pores, and sun texture, and a few f
 He is calmly adjusting a net while his dog sits nearby on the deck. Shot like a 35mm film photograph, medium close-up at eye level, using a 50mm lens.
 Soft coastal daylight, shallow depth of field, subtle film grain, natural color balance.
 The image should feel honest and unposed, with real skin texture, worn materials, and everyday detail. No glamorization, no heavy retouching.
+```
+
+</details>
+
+<a id="gpt-image-2-6-nyc-snow-globe-gif"></a>
+### 纽约雪景水晶球，雪花飘落
+
+<a href="https://x.com/dreamwieber/status/2118190877567037732"><img src="../../previews/gpt-image-2-6-nyc-snow-globe-gif.gif" width="360"></a>
+
+简短提示只给出主体和媒介（水晶球），模型自行补足玻璃折射、暖光和天际线细节；动图要求让场景保持不动，而雪花在各帧中持续飘落。
+
+GPT Image 2.6 · 文生图 · 出处: [@dreamwieber on X](https://x.com/dreamwieber/status/2118190877567037732)
+
+[`snow-globe`](tags.md#tag-snow-globe) [`new-york`](tags.md#tag-new-york) [`animated-gif`](tags.md#tag-animated-gif) [`looping`](tags.md#tag-looping)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+generate an animated gif of a beautiful NYC snow globe
+```
+
+</details>
+
+<a id="gpt-image-2-6-psychedelic-cat-dancing-gif"></a>
+### 小猫后腿站立在迷幻旋涡前跳舞
+
+<a href="https://x.com/xedrik7/status/2118258491043483978"><img src="../../previews/gpt-image-2-6-psychedelic-cat-dancing-gif.gif" width="360"></a>
+
+主体简短，只有一个明确的动作词 dancing，模型容易生成清晰的动作。psychedelic gif 这一短语同时定下迷幻旋涡背景和动图格式。
+
+GPT Image 2.6 · 文生图 · 出处: [@xedrik7 on X](https://x.com/xedrik7/status/2118258491043483978)
+
+[`psychedelic`](tags.md#tag-psychedelic) [`cat`](tags.md#tag-cat) [`dance`](tags.md#tag-dance) [`animation`](tags.md#tag-animation)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+psychedelic gif of cat dancing
+```
+
+</details>
+
+<a id="gpt-image-2-6-robot-dancing-lagos-street-gif"></a>
+### 机器人在拉各斯繁忙街道上跳舞
+
+<a href="https://x.com/o_adeeko/status/2118203950306410729"><img src="../../previews/gpt-image-2-6-robot-dancing-lagos-street-gif.gif" width="360"></a>
+
+一句话同时写明主体、动作、场景和循环要求，让四帧保持同一角色的连贯动作循环。循环要求是让动画可以无缝重复的关键。
+
+GPT Image 2.6 · 文生图 · 出处: [@o_adeeko on X](https://x.com/o_adeeko/status/2118203950306410729)
+
+[`robot`](tags.md#tag-robot) [`gif`](tags.md#tag-gif) [`street`](tags.md#tag-street) [`loop`](tags.md#tag-loop)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create an animated GIF of a robot dancing to Afrobeats on a busy Lagos street. Make the movement loop smoothly.
 ```
 
 </details>

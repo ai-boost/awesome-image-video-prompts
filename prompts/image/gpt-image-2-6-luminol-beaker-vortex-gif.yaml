@@ -1,0 +1,28 @@
+id: gpt-image-2-6-luminol-beaker-vortex-gif
+title:
+  en: Glowing beaker vortex turns blue, green and magenta
+  zh: 烧杯漩涡随滴入液体变成蓝绿紫荧光
+model: GPT Image 2.6
+mode: text-to-image
+category: realism
+tags:
+- chemistry
+- liquid
+- glow
+- macro
+source:
+  name: '@ZHENGJUNTING92 on X'
+  url: https://x.com/ZHENGJUNTING92/status/2118252052556255364
+  credit: 鄭鈞霆
+  likes: 6
+  captured: '2026-11-05'
+  posted: '2026-11-05'
+notes:
+  en: Pinning the camera to a close overhead view of the beaker rim keeps the swirl readable. Ordering the beats as spin, drip, then glow, and naming each dye with its emission colour, gives the output a clear sequence and palette.
+  zh: 用垂直俯拍锁定烧杯杯口，让漩涡清晰可见。按旋转、滴入、发光的顺序描述动作，并写明每种染料的发光颜色，画面因此有清晰的先后和配色。
+prompt: |
+  制作gif
+  垂直俯拍一个烧杯的杯口，里面的水在旋转形成漩涡，然后滴入液体
+  C8H7N3O2+H202+NaOH-Na2C8H5N204+N2 1+H20+luminol CL
+  烧杯中是少量罗丹明B碱性的鲁米诺溶液 和过氧化氢
+  胶头滴管中是含铁离子溶液 和荧光染料

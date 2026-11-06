@@ -1,6 +1,6 @@
 # 照片编辑
 
-[返回目录](../../README_zh.md) · 全部 61 条
+[返回目录](../../README_zh.md) · 全部 63 条
 
 <a id="nano-banana-charmander-ember-route-101"></a>
 ### 小火龙在日落道路上使用火花攻击
@@ -1092,6 +1092,44 @@ Place a short handwritten caption in the open upper-left area: three lines, thre
 Everything in the lower panel is black line on cream, except three or four tiny color accents - a
 
 red heart, pink flowers, a yellow sparkle. The subject alone stays in full photographic color. Avoid: a cluttered or busy background, doodles filling every corner, doodles overlapping or touching the subject, large doodles rivaling the subject's size, three or more buildings, dense scribbled shadows, heavy thick linework, shading or crosshatching, long caption text, more than three lines of text, an illustrated or cartoon subject, changed face or identity, beautified skin, altered clothing or pose, colored or filled doodles, 3D rendering, side-by-side panels, watermark
+```
+
+</details>
+
+<a id="gpt-image-2-6-red-suit-mv-gif"></a>
+### 红西装动漫女性摆出MV风格姿势
+
+<a href="https://x.com/Ayu_AI_0912/status/2118138025024839939"><img src="../../previews/gpt-image-2-6-red-suit-mv-gif.gif" width="360"></a>
+
+只需一句简短指令加一张参考图，模型就能在四个姿势和一个特写中保持角色的服装与造型一致。红黑高对比配色让整组画面带有MV的质感。
+
+GPT Image 2.6 · 上传图改图 · 出处: [@Ayu_AI_0912 on X](https://x.com/Ayu_AI_0912/status/2118138025024839939) · 11 赞，统计于 2026-11-05
+
+[`anime`](tags.md#tag-anime) [`gif`](tags.md#tag-gif) [`animation`](tags.md#tag-animation) [`music-video`](tags.md#tag-music-video)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+添付した画像を使ってかっこいいMV風のGIFアニメにして
+```
+
+</details>
+
+<a id="gpt-image-2-6-woman-waving-winking-gif"></a>
+### 微笑女子挥手后向镜头眨眼
+
+<a href="https://x.com/daifuku_ailover/status/2118224031518454108"><img src="../../previews/gpt-image-2-6-woman-waving-winking-gif.gif" width="360"></a>
+
+整段提示只是一句指向附图的指令，动作（挥手、微笑、眨眼）由模型自行补全。干净的浅色背景和居中的人脸，让每一帧中的五官与发型保持稳定。
+
+GPT Image 2.6 · 上传图改图 · 出处: [@daifuku_ailover on X](https://x.com/daifuku_ailover/status/2118224031518454108) · 1 赞，统计于 2026-11-05
+
+[`gif`](tags.md#tag-gif) [`portrait`](tags.md#tag-portrait) [`image-to-gif`](tags.md#tag-image-to-gif) [`wave`](tags.md#tag-wave)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+この画像でGIFアニメーション作って
 ```
 
 </details>

@@ -1,6 +1,6 @@
 # Architecture and interiors
 
-[Back to the list](../../README.md) · All 23 entries
+[Back to the list](../../README.md) · All 24 entries
 
 <a id="nano-banana-floor-plan-rising-miniature-diner"></a>
 ### Diner Rising Out of Architectural Floor Plan
@@ -795,6 +795,25 @@ Line 1 bold heading max 5 words
 Line 2 bold MYTHPUNK smaller
 Line 3 description max 30 words
 Plaque must be rendered in aesthetically in an artistic mythpunk style.
+```
+
+</details>
+
+<a id="gpt-image-2-6-osaka-castle-construction-gif"></a>
+### Osaka Castle rising from stone base to full keep
+
+<a href="https://x.com/jammaru_lab/status/2118153279821787623"><img src="../../previews/gpt-image-2-6-osaka-castle-construction-gif.gif" width="360"></a>
+
+A single short request for a build sequence lets the model choose the stages itself: stone base, white walls, then the green tiered roofs, with the camera and setting held fixed across frames. Naming a real landmark gives the model a known silhouette to build toward.
+
+GPT Image 2.6 · Text-to-image · Source: [@jammaru_lab on X](https://x.com/jammaru_lab/status/2118153279821787623) · 6 likes on 2026-11-05
+
+[`japan`](tags.md#tag-japan) [`architecture`](tags.md#tag-architecture) [`construction`](tags.md#tag-construction) [`gif`](tags.md#tag-gif)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+大阪城を建築する流れをGIFにして
 ```
 
 </details>

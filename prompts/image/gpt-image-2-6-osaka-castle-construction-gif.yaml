@@ -1,0 +1,24 @@
+id: gpt-image-2-6-osaka-castle-construction-gif
+title:
+  en: Osaka Castle rising from stone base to full keep
+  zh: 大阪城从石垣逐层建成天守阁
+model: GPT Image 2.6
+mode: text-to-image
+category: architecture
+tags:
+- japan
+- architecture
+- construction
+- gif
+source:
+  name: '@jammaru_lab on X'
+  url: https://x.com/jammaru_lab/status/2118153279821787623
+  credit: じゃむまる
+  likes: 6
+  captured: '2026-11-05'
+  posted: '2026-11-05'
+notes:
+  en: 'A single short request for a build sequence lets the model choose the stages itself: stone base, white walls, then the green tiered roofs, with the camera and setting held fixed across frames. Naming a real landmark gives the model a known silhouette to build toward.'
+  zh: 只用一句简短的中文请求描述建造过程，模型会自行安排阶段：先石垣，再白墙，最后绿瓦天守阁，镜头和场景在各帧保持不变。指定真实地标，让模型有明确的轮廓可以逐步趋近。
+prompt: |
+  大阪城を建築する流れをGIFにして

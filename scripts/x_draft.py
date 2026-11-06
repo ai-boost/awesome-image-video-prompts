@@ -75,7 +75,8 @@ def ask(c):
     prefix = {"Seedance": "seedance", "Wan": "wan", "Kling": "kling", "Veo": "veo", "MiniMax": "h3",
               "Gemini": "omni", "GPT Image 2.6": "gpt-image-2-6", "GPT Image": "gpt-image", "Nano Banana": "nano-banana"}
     pre = next((v for k, v in prefix.items() if c["model"].startswith(k)), re.sub(r"[^a-z0-9]+", "-", c["model"].lower()))
-    text = RULES.format(thumb=c["thumb"], prefix=pre, modes=", ".join(MODES[c["kind"]]),
+    # sheet: frames of an animated output side by side, so the review sees the motion and not only the first frame
+    text = RULES.format(thumb=c.get("sheet") or c["thumb"], prefix=pre, modes=", ".join(MODES[c["kind"]]),
                         cat_line=f"- category: one of {', '.join(CATS[c['kind']])}",
                         cat_key=', "category": "..."',
                         model=c["model"], post=c["post_text"][:1500], prompt=c["prompt"])
@@ -108,6 +109,14 @@ def write_entry(c, d):
         yaml.dump(e, f, allow_unicode=True, sort_keys=False, width=1000)
     subprocess.run([FFMPEG, "-v", "error", "-y", "-i", c["thumb"], "-vf", "scale=480:-2", "-q:v", "4",
                     str(ROOT / f"previews/{eid}.jpg")], check=True)
+    if kind == "image" and c.get("anim"):  # an animated GIF output: keep it, or rebuild one from X's mp4 copy of it
+        gif = ROOT / f"previews/{eid}.gif"
+        if c["anim"].endswith(".gif"):
+            shutil.copy(c["anim"], gif)
+        else:
+            subprocess.run([FFMPEG, "-v", "error", "-y", "-i", c["anim"], "-vf",
+                            "fps=12,scale='min(480,iw)':-2:flags=lanczos,split[a][b];[a]palettegen[p];[b][p]paletteuse",
+                            "-loop", "0", str(gif)], check=True)
     return eid
 
 

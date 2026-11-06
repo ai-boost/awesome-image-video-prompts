@@ -1,0 +1,24 @@
+id: gpt-image-2-6-novel-character-gif
+title:
+  en: Woman in grey shirt in a sunlit courtyard
+  zh: 灰蓝衬衫女子站在阳光庭院中
+model: GPT Image 2.6
+mode: text-to-image
+category: portrait
+tags:
+- animated-gif
+- novel
+- character
+- portrait
+source:
+  name: '@MrGafish on X'
+  url: https://x.com/MrGafish/status/2118147815008518564
+  credit: 鱼哥
+  likes: 4
+  captured: '2026-11-05'
+  posted: '2026-11-05'
+notes:
+  en: The prompt quotes a novel's character description, giving concrete traits (fair skin, long hair, light makeup, a cool confident gaze, rolled sleeves, jeans and sneakers) instead of a generic portrait request. Opening with the GIF framing tells the model to animate one scene from the text.
+  zh: 提示词直接引用小说中的人物描写，把肤色、长发、淡妆、沉静冷峻的眼神和卷起袖子的衬衫等具体外观写清楚，让模型有明确的形象依据。开头点明生成 GIF 的形式，把文字场景转为一段动画。
+prompt: |
+  创建一个 GIF，内容是下面小说中的人物片断

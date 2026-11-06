@@ -1,0 +1,25 @@
+id: gpt-image-2-6-japanese-woman-turn-wink-gif
+title:
+  en: Woman in floral dress turns on a street
+  zh: 身穿碎花连衣裙的女性在街道上转身
+model: GPT Image 2.6
+mode: text-to-image
+category: portrait
+tags:
+- gif
+- animation
+- portrait
+- street
+- motion
+source:
+  name: '@koe_ai414 on X'
+  url: https://x.com/koe_ai414/status/2118153765094351279
+  credit: Koei / こうえい | AI Creator
+  likes: 6
+  captured: '2026-11-05'
+  posted: '2026-11-05'
+notes:
+  en: Naming the GIF format and giving a two-step action in order, turning and then winking at the camera, gives the model a clear motion arc in one short clip. The wink is hard to see in the output, so the turn carries most of the motion.
+  zh: 在提示词中明确写出GIF格式，并按顺序描述转身、再向镜头眨眼两步动作，让模型生成一段连贯的短动态画面。输出中眨眼不太明显，动作主要由转身完成。
+prompt: |
+  日本人女性がくるっとターンして、カメラに向かってウィンクするGIF

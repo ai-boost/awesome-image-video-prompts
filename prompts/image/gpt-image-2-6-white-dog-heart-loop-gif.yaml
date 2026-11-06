@@ -1,0 +1,25 @@
+id: gpt-image-2-6-white-dog-heart-loop-gif
+title:
+  en: Fluffy white line-art dog with a floating heart
+  zh: 头顶飘爱心的白色线条小狗
+model: GPT Image 2.6
+mode: text-to-image
+category: character
+tags:
+- gif
+- sticker
+- line-art
+- loop-animation
+- doodle
+source:
+  name: '@CalosLaw on X'
+  url: https://x.com/CalosLaw/status/2118199125707547102
+  credit: Carlos
+  likes: 2
+  captured: '2026-11-05'
+  posted: '2026-11-05'
+notes:
+  en: Each motion is written as a small visible action (sway side to side, wag tail, smile with closed eyes, heart above head), so the frames stay readable at sticker size. The flat pure white background and the seamless loop and square framing instructions keep the animation consistent from frame to frame.
+  zh: 提示词把每个动作写成清晰可见的小动作（左右摇摆、摇尾巴、笑眼、头顶爱心），让表情包尺寸下每一帧都容易辨认。纯白背景加上首尾无缝循环和正方形构图的要求，使各帧形象保持一致。
+prompt: |
+  做一个线条小狗风格的循环 GIF 动图：一只白色圆滚滚的简笔画小狗，黑色粗线条，手绘涂鸦感，纯白背景。小狗开心地左右摇摆身体、摇尾巴，眼睛眯成弯弯的笑眼，头顶冒出一颗小爱心。画面简洁可爱，动作流畅，首尾无缝循环，正方形构图，适合做表情包。

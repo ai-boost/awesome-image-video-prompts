@@ -1,0 +1,24 @@
+id: gpt-image-2-6-sunglasses-cat-dancing-gif
+title:
+  en: Sunglasses cat dancing in a purple-lit room
+  zh: 戴墨镜的猫在紫光房间里跳舞
+model: GPT Image 2.6
+mode: text-to-image
+category: realism
+tags:
+- animation
+- cat
+- meme
+- loop
+source:
+  name: '@SSSS_CRYPTOMAN on X'
+  url: https://x.com/SSSS_CRYPTOMAN/status/2118144429848748108
+  credit: SSSS.CRYPTOMAN⚡️AI
+  likes: 12
+  captured: '2026-11-05'
+  posted: '2026-11-05'
+notes:
+  en: A one-line brief that names the output format (GIF), the subject and the tone (meme). The model fills in the dance, room and styling, and the four frames loop cleanly.
+  zh: 一句话写明输出格式（GIF）、主体和风格（迷因感），动作、场景和造型交给模型补全，四帧循环自然。
+prompt: |
+  次の内容で GIF を作成して: サングラスをかけた猫がダンスをするミームっぽいGIF

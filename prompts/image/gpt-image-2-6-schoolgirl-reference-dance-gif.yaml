@@ -1,0 +1,25 @@
+id: gpt-image-2-6-schoolgirl-reference-dance-gif
+title:
+  en: School uniform character dancing in four frames
+  zh: 校服少女角色四帧跳舞动画
+model: GPT Image 2.6
+mode: image-edit
+category: character
+tags:
+- anime
+- dance
+- gif
+- reference-image
+source:
+  name: '@munou_ac on X'
+  url: https://x.com/munou_ac/status/2118220485150535796
+  credit: てんねん
+  likes: 38
+  captured: '2026-11-05'
+  posted: '2026-11-05'
+notes:
+  en: A short instruction that points to the reference image keeps the character's outfit, hair and proportions fixed across frames. The words dance and GIF are enough for the model to choose the motion, so no pose list is needed.
+  zh: 一句指向参考图的简短指令，让角色的服装、发型和身材比例在各帧中保持不变。只用跳舞和 GIF 两个词，模型就能自行决定动作，无需列出姿势。
+prompt: |
+  参照画像のキャラクターが
+  ダンスするGIFを作ってください

@@ -1,0 +1,25 @@
+id: gpt-image-2-6-pixel-hero-sword-swing-gif
+title:
+  en: Pixel art hero swinging glowing sword
+  zh: 像素风勇者挥舞发光剑
+model: GPT Image 2.6
+mode: text-to-image
+category: character
+tags:
+- pixel-art
+- gif
+- animation
+- game-art
+source:
+  name: '@YaReYaRu30Life on X'
+  url: https://x.com/YaReYaRu30Life/status/2118166505603153922
+  credit: ヤレヤル（AI動画/AI画像/AI音楽）
+  likes: 7
+  captured: '2026-11-05'
+  posted: '2026-11-05'
+notes:
+  en: Asking for a GIF directly and fixing the style as pixel art keeps the character consistent across frames. The glowing effect is described as a separate element on the sword, so the swing reads clearly as motion.
+  zh: 直接要求生成 GIF 并指定像素画风，使各帧角色保持一致。剑上的光效被单独描述，挥动的动作因此在各帧中清楚可读。
+prompt: |
+  GIFを作成。ドット絵の勇者。
+  剣にエフェクトをつけて振り回す

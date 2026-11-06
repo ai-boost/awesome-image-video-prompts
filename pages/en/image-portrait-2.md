@@ -1,6 +1,6 @@
 # Portraits
 
-[Back to the list](../../README.md) · All 263 entries · [1](image-portrait.md) · **2** · [3](image-portrait-3.md)
+[Back to the list](../../README.md) · All 265 entries · [1](image-portrait.md) · **2** · [3](image-portrait-3.md)
 
 <a id="gpt-image-halftone-windswept-hair-portrait-ivory-paper"></a>
 ### Windswept Hair Halftone Portrait on Ivory Paper
@@ -3207,6 +3207,44 @@ Nano Banana 2.1 · Text-to-image · Source: [@purrdoom on X](https://x.com/purrd
 A white woman, 34, a glamorous social media creator with the polished look of a pro athlete's wife. Very long, straight, sleek golden-blonde hair with a center part and slightly darker roots. A natural sun-kissed tan. Full glam makeup with a soft matte finish: voluminous lashes, sculpted arched brows, soft contour, satin peachy-nude overlined lips. Real skin texture: visible pores, faint lines under her eyes, a small mole on her left jaw. Small gold hoop earrings, a thin gold chain necklace, a large oval diamond engagement ring. A fitted ribbed heather-grey scoop-neck tank top. Confident, direct, a little urgent, like a friend about to tell you something you need to hear.
 
 She sits at a white vanity in her bedroom in the late afternoon. Behind her: a muted sage-grey wall, a dark doorway on the left edge of the frame, and a white ceiling at the top. Warm, soft natural light on her face from the front, with soft catchlights in her eyes. No makeup products in frame. No logos or readable text anywhere in frame.
+```
+
+</details>
+
+<a id="gpt-image-2-6-japanese-woman-turn-wink-gif"></a>
+### Woman in floral dress turns on a street
+
+<a href="https://x.com/koe_ai414/status/2118153765094351279"><img src="../../previews/gpt-image-2-6-japanese-woman-turn-wink-gif.gif" width="360"></a>
+
+Naming the GIF format and giving a two-step action in order, turning and then winking at the camera, gives the model a clear motion arc in one short clip. The wink is hard to see in the output, so the turn carries most of the motion.
+
+GPT Image 2.6 · Text-to-image · Source: [@koe_ai414 on X](https://x.com/koe_ai414/status/2118153765094351279) · 6 likes on 2026-11-05
+
+[`gif`](tags.md#tag-gif) [`animation`](tags.md#tag-animation) [`portrait`](tags.md#tag-portrait) [`street`](tags.md#tag-street) [`motion`](tags.md#tag-motion)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+日本人女性がくるっとターンして、カメラに向かってウィンクするGIF
+```
+
+</details>
+
+<a id="gpt-image-2-6-novel-character-gif"></a>
+### Woman in grey shirt in a sunlit courtyard
+
+<a href="https://x.com/MrGafish/status/2118147815008518564"><img src="../../previews/gpt-image-2-6-novel-character-gif.gif" width="360"></a>
+
+The prompt quotes a novel's character description, giving concrete traits (fair skin, long hair, light makeup, a cool confident gaze, rolled sleeves, jeans and sneakers) instead of a generic portrait request. Opening with the GIF framing tells the model to animate one scene from the text.
+
+GPT Image 2.6 · Text-to-image · Source: [@MrGafish on X](https://x.com/MrGafish/status/2118147815008518564) · 4 likes on 2026-11-05
+
+[`animated-gif`](tags.md#tag-animated-gif) [`novel`](tags.md#tag-novel) [`character`](tags.md#tag-character) [`portrait`](tags.md#tag-portrait)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+创建一个 GIF，内容是下面小说中的人物片断
 ```
 
 </details>

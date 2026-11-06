@@ -1,6 +1,6 @@
 # 人像
 
-[返回目录](../../README_zh.md) · 全部 263 条 · [1](image-portrait.md) · **2** · [3](image-portrait-3.md)
+[返回目录](../../README_zh.md) · 全部 265 条 · [1](image-portrait.md) · **2** · [3](image-portrait-3.md)
 
 <a id="gpt-image-cream-hoodie-selfie-portrait"></a>
 ### 特写自拍，女子穿奶油色连帽衫
@@ -3184,6 +3184,44 @@ Nano Banana 2.1 · 文生图 · 出处: [@purrdoom on X](https://x.com/purrdoom/
 A white woman, 34, a glamorous social media creator with the polished look of a pro athlete's wife. Very long, straight, sleek golden-blonde hair with a center part and slightly darker roots. A natural sun-kissed tan. Full glam makeup with a soft matte finish: voluminous lashes, sculpted arched brows, soft contour, satin peachy-nude overlined lips. Real skin texture: visible pores, faint lines under her eyes, a small mole on her left jaw. Small gold hoop earrings, a thin gold chain necklace, a large oval diamond engagement ring. A fitted ribbed heather-grey scoop-neck tank top. Confident, direct, a little urgent, like a friend about to tell you something you need to hear.
 
 She sits at a white vanity in her bedroom in the late afternoon. Behind her: a muted sage-grey wall, a dark doorway on the left edge of the frame, and a white ceiling at the top. Warm, soft natural light on her face from the front, with soft catchlights in her eyes. No makeup products in frame. No logos or readable text anywhere in frame.
+```
+
+</details>
+
+<a id="gpt-image-2-6-japanese-woman-turn-wink-gif"></a>
+### 身穿碎花连衣裙的女性在街道上转身
+
+<a href="https://x.com/koe_ai414/status/2118153765094351279"><img src="../../previews/gpt-image-2-6-japanese-woman-turn-wink-gif.gif" width="360"></a>
+
+在提示词中明确写出GIF格式，并按顺序描述转身、再向镜头眨眼两步动作，让模型生成一段连贯的短动态画面。输出中眨眼不太明显，动作主要由转身完成。
+
+GPT Image 2.6 · 文生图 · 出处: [@koe_ai414 on X](https://x.com/koe_ai414/status/2118153765094351279) · 6 赞，统计于 2026-11-05
+
+[`gif`](tags.md#tag-gif) [`animation`](tags.md#tag-animation) [`portrait`](tags.md#tag-portrait) [`street`](tags.md#tag-street) [`motion`](tags.md#tag-motion)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+日本人女性がくるっとターンして、カメラに向かってウィンクするGIF
+```
+
+</details>
+
+<a id="gpt-image-2-6-novel-character-gif"></a>
+### 灰蓝衬衫女子站在阳光庭院中
+
+<a href="https://x.com/MrGafish/status/2118147815008518564"><img src="../../previews/gpt-image-2-6-novel-character-gif.gif" width="360"></a>
+
+提示词直接引用小说中的人物描写，把肤色、长发、淡妆、沉静冷峻的眼神和卷起袖子的衬衫等具体外观写清楚，让模型有明确的形象依据。开头点明生成 GIF 的形式，把文字场景转为一段动画。
+
+GPT Image 2.6 · 文生图 · 出处: [@MrGafish on X](https://x.com/MrGafish/status/2118147815008518564) · 4 赞，统计于 2026-11-05
+
+[`animated-gif`](tags.md#tag-animated-gif) [`novel`](tags.md#tag-novel) [`character`](tags.md#tag-character) [`portrait`](tags.md#tag-portrait)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+创建一个 GIF，内容是下面小说中的人物片断
 ```
 
 </details>

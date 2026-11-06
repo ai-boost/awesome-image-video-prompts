@@ -1,0 +1,24 @@
+id: gpt-image-2-6-polka-dot-bodysuit-hip-wiggle-gif
+title:
+  en: Man in polka dot bodysuit doing a hip wiggle
+  zh: 身穿波点连体衣的男子扭胯舞动
+model: GPT Image 2.6
+mode: text-to-image
+category: realism
+tags:
+- dance
+- gif
+- motion
+- minimal-prompt
+source:
+  name: '@TaikiTaiki04 on X'
+  url: https://x.com/TaikiTaiki04/status/2118177315176001988
+  credit: TAIKI
+  likes: 1
+  captured: '2026-11-05'
+  posted: '2026-11-05'
+notes:
+  en: One short Japanese sentence that names the GIF format and a single motion is enough to get a looping dance clip. The plain green backdrop keeps the figure's outline steady from frame to frame.
+  zh: 用一句简短的日文同时点明 GIF 格式和单一动作，就能得到可循环的舞蹈片段。纯绿色背景让人物轮廓在各帧之间保持稳定。
+prompt: |
+  GIFでお尻フリフリさせて。

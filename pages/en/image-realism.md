@@ -1,6 +1,6 @@
 # Photo realism
 
-[Back to the list](../../README.md) · All 104 entries
+[Back to the list](../../README.md) · All 114 entries
 
 <a id="gpt-image-coca-cola-tanker-leak-mentos-truck-dashcam"></a>
 ### Coca Cola tanker leaking beside Mentos truck
@@ -2807,6 +2807,143 @@ Nano Banana Pro · Text-to-image · Source: [@eachlabs on X](https://x.com/eachl
 
 </details>
 
+<a id="gpt-image-2-6-pelican-riding-bicycle-gif"></a>
+### Pelican in a helmet riding a bicycle
+
+<a href="https://x.com/SSHCodes/status/2118127375481504100"><img src="../../previews/gpt-image-2-6-pelican-riding-bicycle-gif.gif" width="360"></a>
+
+A single plain sentence that names the subject, the action and the gif format is enough. The model keeps the pelican, bike and seaside backdrop consistent across frames, so the loop reads as one continuous ride.
+
+GPT Image 2.6 · Text-to-image · Source: [@SSHCodes on X](https://x.com/SSHCodes/status/2118127375481504100) · 20 likes on 2026-11-05
+
+[`gif`](tags.md#tag-gif) [`animal`](tags.md#tag-animal) [`bicycle`](tags.md#tag-bicycle) [`looping`](tags.md#tag-looping)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+generate a gif of a pelican riding a bicycle
+```
+
+</details>
+
+<a id="gpt-image-2-6-heisei-flip-phone-decomail-gif"></a>
+### Flip phone shows Heisei decomail animation in Tokyo street
+
+<a href="https://x.com/rem_rev/status/2118252486360498485"><img src="../../previews/gpt-image-2-6-heisei-flip-phone-decomail-gif.gif" width="360"></a>
+
+A one-line Japanese prompt names only the era and the format, and the model fills in iconic period props: a flip phone, Shibuya 109, and Tokyo Tower. Asking for an SNS GIF produces a short sequence where the phone screen content changes from frame to frame.
+
+GPT Image 2.6 · Text-to-image · Source: [@rem_rev on X](https://x.com/rem_rev/status/2118252486360498485) · 14 likes on 2026-11-05
+
+[`heisei`](tags.md#tag-heisei) [`japan`](tags.md#tag-japan) [`gif`](tags.md#tag-gif) [`retro-tech`](tags.md#tag-retro-tech)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+平成を象徴する何か。SNS向けのGIF画像を生成して下さい。
+```
+
+</details>
+
+<a id="gpt-image-2-6-sunglasses-cat-dancing-gif"></a>
+### Sunglasses cat dancing in a purple-lit room
+
+<a href="https://x.com/SSSS_CRYPTOMAN/status/2118144429848748108"><img src="../../previews/gpt-image-2-6-sunglasses-cat-dancing-gif.gif" width="360"></a>
+
+A one-line brief that names the output format (GIF), the subject and the tone (meme). The model fills in the dance, room and styling, and the four frames loop cleanly.
+
+GPT Image 2.6 · Text-to-image · Source: [@SSSS_CRYPTOMAN on X](https://x.com/SSSS_CRYPTOMAN/status/2118144429848748108) · 12 likes on 2026-11-05
+
+[`animation`](tags.md#tag-animation) [`cat`](tags.md#tag-cat) [`meme`](tags.md#tag-meme) [`loop`](tags.md#tag-loop)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+次の内容で GIF を作成して: サングラスをかけた猫がダンスをするミームっぽいGIF
+```
+
+</details>
+
+<a id="gpt-image-2-6-elderly-man-splitting-firewood-gif"></a>
+### Elderly man splitting firewood in a snowy yard
+
+<a href="https://x.com/koe_ai414/status/2118153765094351279"><img src="../../previews/gpt-image-2-6-elderly-man-splitting-firewood-gif.gif" width="360"></a>
+
+One plain sentence names the subject, season, place and action, and the closing GIF request makes the output an animated loop. The swing, snow and wooden house are left for the model to fill in, so no camera or style direction is needed.
+
+GPT Image 2.6 · Text-to-image · Source: [@koe_ai414 on X](https://x.com/koe_ai414/status/2118153765094351279) · 6 likes on 2026-11-05
+
+[`winter`](tags.md#tag-winter) [`snow`](tags.md#tag-snow) [`elderly`](tags.md#tag-elderly) [`animated-gif`](tags.md#tag-animated-gif)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+冬の寒い中、家の庭で薪割りをするおじいさんのGIF
+```
+
+</details>
+
+<a id="gpt-image-2-6-luminol-beaker-vortex-gif"></a>
+### Glowing beaker vortex turns blue, green and magenta
+
+<a href="https://x.com/ZHENGJUNTING92/status/2118252052556255364"><img src="../../previews/gpt-image-2-6-luminol-beaker-vortex-gif.gif" width="360"></a>
+
+Pinning the camera to a close overhead view of the beaker rim keeps the swirl readable. Ordering the beats as spin, drip, then glow, and naming each dye with its emission colour, gives the output a clear sequence and palette.
+
+GPT Image 2.6 · Text-to-image · Source: [@ZHENGJUNTING92 on X](https://x.com/ZHENGJUNTING92/status/2118252052556255364) · 6 likes on 2026-11-05
+
+[`chemistry`](tags.md#tag-chemistry) [`liquid`](tags.md#tag-liquid) [`glow`](tags.md#tag-glow) [`macro`](tags.md#tag-macro)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+制作gif
+垂直俯拍一个烧杯的杯口，里面的水在旋转形成漩涡，然后滴入液体
+C8H7N3O2+H202+NaOH-Na2C8H5N204+N2 1+H20+luminol CL
+烧杯中是少量罗丹明B碱性的鲁米诺溶液 和过氧化氢
+胶头滴管中是含铁离子溶液 和荧光染料
+```
+
+</details>
+
+<a id="gpt-image-2-6-paper-boat-bobbing-gif"></a>
+### White paper boat bobbing on rippling blue water
+
+<a href="https://x.com/thinkszyg/status/2118166234495947044"><img src="../../previews/gpt-image-2-6-paper-boat-bobbing-gif.gif" width="360"></a>
+
+Naming the output as a looping GIF and the motion in one plain sentence is enough. The model keeps the camera fixed and adds the water ripples and reflections on its own.
+
+GPT Image 2.6 · Text-to-image · Source: [@thinkszyg on X](https://x.com/thinkszyg/status/2118166234495947044) · 2 likes on 2026-11-05
+
+[`gif`](tags.md#tag-gif) [`looping`](tags.md#tag-looping) [`paper-boat`](tags.md#tag-paper-boat) [`water`](tags.md#tag-water)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Make a looping GIF of a paper boat bobbing on the water.
+```
+
+</details>
+
+<a id="gpt-image-2-6-polka-dot-bodysuit-hip-wiggle-gif"></a>
+### Man in polka dot bodysuit doing a hip wiggle
+
+<a href="https://x.com/TaikiTaiki04/status/2118177315176001988"><img src="../../previews/gpt-image-2-6-polka-dot-bodysuit-hip-wiggle-gif.gif" width="360"></a>
+
+One short Japanese sentence that names the GIF format and a single motion is enough to get a looping dance clip. The plain green backdrop keeps the figure's outline steady from frame to frame.
+
+GPT Image 2.6 · Text-to-image · Source: [@TaikiTaiki04 on X](https://x.com/TaikiTaiki04/status/2118177315176001988) · 1 likes on 2026-11-05
+
+[`dance`](tags.md#tag-dance) [`gif`](tags.md#tag-gif) [`motion`](tags.md#tag-motion) [`minimal-prompt`](tags.md#tag-minimal-prompt)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+GIFでお尻フリフリさせて。
+```
+
+</details>
+
 <a id="gpt-image-1942-arcade-city-pilot-walk"></a>
 ### Pilot walking through a wartime city under arcade dogfights
 
@@ -2920,6 +3057,63 @@ He has weathered skin with visible wrinkles, pores, and sun texture, and a few f
 He is calmly adjusting a net while his dog sits nearby on the deck. Shot like a 35mm film photograph, medium close-up at eye level, using a 50mm lens.
 Soft coastal daylight, shallow depth of field, subtle film grain, natural color balance.
 The image should feel honest and unposed, with real skin texture, worn materials, and everyday detail. No glamorization, no heavy retouching.
+```
+
+</details>
+
+<a id="gpt-image-2-6-nyc-snow-globe-gif"></a>
+### NYC snow globe with falling snow
+
+<a href="https://x.com/dreamwieber/status/2118190877567037732"><img src="../../previews/gpt-image-2-6-nyc-snow-globe-gif.gif" width="360"></a>
+
+A short prompt that names only the subject and the medium (snow globe) lets the model supply the glass refraction, warm light and skyline detail. The animated gif request keeps the scene fixed while the snow drifts across frames.
+
+GPT Image 2.6 · Text-to-image · Source: [@dreamwieber on X](https://x.com/dreamwieber/status/2118190877567037732)
+
+[`snow-globe`](tags.md#tag-snow-globe) [`new-york`](tags.md#tag-new-york) [`animated-gif`](tags.md#tag-animated-gif) [`looping`](tags.md#tag-looping)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+generate an animated gif of a beautiful NYC snow globe
+```
+
+</details>
+
+<a id="gpt-image-2-6-psychedelic-cat-dancing-gif"></a>
+### Kitten dances on hind legs before psychedelic swirls
+
+<a href="https://x.com/xedrik7/status/2118258491043483978"><img src="../../previews/gpt-image-2-6-psychedelic-cat-dancing-gif.gif" width="360"></a>
+
+A short subject with one clear motion verb, dancing, gives the model a single action to animate. The phrase psychedelic gif sets both the swirling background and the animated format in one step.
+
+GPT Image 2.6 · Text-to-image · Source: [@xedrik7 on X](https://x.com/xedrik7/status/2118258491043483978)
+
+[`psychedelic`](tags.md#tag-psychedelic) [`cat`](tags.md#tag-cat) [`dance`](tags.md#tag-dance) [`animation`](tags.md#tag-animation)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+psychedelic gif of cat dancing
+```
+
+</details>
+
+<a id="gpt-image-2-6-robot-dancing-lagos-street-gif"></a>
+### Robot dancing on a busy Lagos street
+
+<a href="https://x.com/o_adeeko/status/2118203950306410729"><img src="../../previews/gpt-image-2-6-robot-dancing-lagos-street-gif.gif" width="360"></a>
+
+A single sentence names the subject, action, setting and a looping request, which keeps the four frames as one consistent pose cycle. The loop instruction does the work of making the animation repeat cleanly.
+
+GPT Image 2.6 · Text-to-image · Source: [@o_adeeko on X](https://x.com/o_adeeko/status/2118203950306410729)
+
+[`robot`](tags.md#tag-robot) [`gif`](tags.md#tag-gif) [`street`](tags.md#tag-street) [`loop`](tags.md#tag-loop)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create an animated GIF of a robot dancing to Afrobeats on a busy Lagos street. Make the movement loop smoothly.
 ```
 
 </details>

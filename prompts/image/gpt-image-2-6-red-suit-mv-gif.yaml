@@ -1,0 +1,24 @@
+id: gpt-image-2-6-red-suit-mv-gif
+title:
+  en: Anime woman in red suit posing in MV style
+  zh: 红西装动漫女性摆出MV风格姿势
+model: GPT Image 2.6
+mode: image-edit
+category: edit
+tags:
+- anime
+- gif
+- animation
+- music-video
+source:
+  name: '@Ayu_AI_0912 on X'
+  url: https://x.com/Ayu_AI_0912/status/2118138025024839939
+  credit: アユネオ
+  likes: 11
+  captured: '2026-11-05'
+  posted: '2026-11-05'
+notes:
+  en: 'A single short instruction plus one reference image is enough: the model keeps the character''s outfit and styling consistent across four poses and a close-up. The high-contrast red-on-black palette gives the sequence its music-video feel.'
+  zh: 只需一句简短指令加一张参考图，模型就能在四个姿势和一个特写中保持角色的服装与造型一致。红黑高对比配色让整组画面带有MV的质感。
+prompt: |
+  添付した画像を使ってかっこいいMV風のGIFアニメにして

@@ -1,0 +1,24 @@
+id: gpt-image-2-6-orange-cat-goodnight-gif
+title:
+  en: Orange cat yawns, hugs moon pillow under blanket
+  zh: 橘猫打哈欠后抱着月亮抱枕裹进毯子
+model: GPT Image 2.6
+mode: image-edit
+category: character
+tags:
+- cat
+- animated-gif
+- japanese-text
+- bedtime
+source:
+  name: '@eeseverlasting on X'
+  url: https://x.com/eeseverlasting/status/2118248165396848968
+  credit: EES Everlasting
+  likes: 0
+  captured: '2026-11-05'
+  posted: '2026-11-05'
+notes:
+  en: A short instruction plus one attached photo lets the model invent the story beats from yawn to sleep while keeping the character consistent. The Japanese phrase is named as the goal, so it appears as on-screen text in the final frame.
+  zh: 一句简短指令加上一张参考图，模型就能自行补全从打哈欠到入睡的故事节奏，同时保持角色外观一致。日文台词被明确写进需求，因此会以画面文字的形式出现在最后一帧。
+prompt: |
+  添付画像をつかって、おもしろいGIF『おやすみにゃ～！』をつくりたい。

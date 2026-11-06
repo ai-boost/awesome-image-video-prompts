@@ -1,0 +1,24 @@
+id: gpt-image-2-6-heisei-flip-phone-decomail-gif
+title:
+  en: Flip phone shows Heisei decomail animation in Tokyo street
+  zh: 东京街头折叠手机屏幕播放平成风格动画
+model: GPT Image 2.6
+mode: text-to-image
+category: realism
+tags:
+- heisei
+- japan
+- gif
+- retro-tech
+source:
+  name: '@rem_rev on X'
+  url: https://x.com/rem_rev/status/2118252486360498485
+  credit: リマレレ│AI×YouTube×ブログ
+  likes: 14
+  captured: '2026-11-05'
+  posted: '2026-11-05'
+notes:
+  en: 'A one-line Japanese prompt names only the era and the format, and the model fills in iconic period props: a flip phone, Shibuya 109, and Tokyo Tower. Asking for an SNS GIF produces a short sequence where the phone screen content changes from frame to frame.'
+  zh: 这段日文提示只给出时代和格式，模型自行选取象征性的道具：折叠手机、涩谷109和东京塔。要求制作SNS用GIF后，手机屏幕内容在各帧之间切换。
+prompt: |
+  平成を象徴する何か。SNS向けのGIF画像を生成して下さい。

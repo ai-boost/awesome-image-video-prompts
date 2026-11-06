@@ -1,0 +1,24 @@
+id: gpt-image-2-6-chibi-cheongsam-girl-gif
+title:
+  en: Chibi cheongsam girl performs a cute jump sequence
+  zh: 穿旗袍的Q版少女做可爱跳跃动作
+model: GPT Image 2.6
+mode: image-edit
+category: character
+tags:
+- gif
+- chibi
+- animation
+- anime
+source:
+  name: '@shinshin86 on X'
+  url: https://x.com/shinshin86/status/2118225428976705908
+  credit: shinshin86｜AITuber OnAir開発者｜AIキャラのミコをバズらせたい人
+  likes: 22
+  captured: '2026-11-05'
+  posted: '2026-11-05'
+notes:
+  en: Attach the character as the second image and keep the instruction short. The model keeps the outfit and hairstyle from the reference while choosing its own cute motion, so the frames stay consistent.
+  zh: 附上角色参考图，指令保持简短。模型会保留参考图中的服装和发型，并自行选择可爱的动作，因此各帧角色保持一致。
+prompt: |
+  このキャラクターをちびキャラ化して、何か可愛らしい動きをしているところをGIF画像にしてください。

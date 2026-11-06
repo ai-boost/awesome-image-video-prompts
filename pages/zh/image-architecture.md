@@ -1,6 +1,6 @@
 # 建筑与室内
 
-[返回目录](../../README_zh.md) · 全部 23 条
+[返回目录](../../README_zh.md) · 全部 24 条
 
 <a id="nano-banana-floor-plan-rising-miniature-diner"></a>
 ### 从建筑平面图中升起的复古餐厅微缩场景
@@ -795,6 +795,25 @@ Line 1 bold heading max 5 words
 Line 2 bold MYTHPUNK smaller
 Line 3 description max 30 words
 Plaque must be rendered in aesthetically in an artistic mythpunk style.
+```
+
+</details>
+
+<a id="gpt-image-2-6-osaka-castle-construction-gif"></a>
+### 大阪城从石垣逐层建成天守阁
+
+<a href="https://x.com/jammaru_lab/status/2118153279821787623"><img src="../../previews/gpt-image-2-6-osaka-castle-construction-gif.gif" width="360"></a>
+
+只用一句简短的中文请求描述建造过程，模型会自行安排阶段：先石垣，再白墙，最后绿瓦天守阁，镜头和场景在各帧保持不变。指定真实地标，让模型有明确的轮廓可以逐步趋近。
+
+GPT Image 2.6 · 文生图 · 出处: [@jammaru_lab on X](https://x.com/jammaru_lab/status/2118153279821787623) · 6 赞，统计于 2026-11-05
+
+[`japan`](tags.md#tag-japan) [`architecture`](tags.md#tag-architecture) [`construction`](tags.md#tag-construction) [`gif`](tags.md#tag-gif)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+大阪城を建築する流れをGIFにして
 ```
 
 </details>

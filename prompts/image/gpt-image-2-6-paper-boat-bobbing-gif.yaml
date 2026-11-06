@@ -1,0 +1,24 @@
+id: gpt-image-2-6-paper-boat-bobbing-gif
+title:
+  en: White paper boat bobbing on rippling blue water
+  zh: 蓝色水面上摇晃的白色纸船
+model: GPT Image 2.6
+mode: text-to-image
+category: realism
+tags:
+- gif
+- looping
+- paper-boat
+- water
+source:
+  name: '@thinkszyg on X'
+  url: https://x.com/thinkszyg/status/2118166234495947044
+  credit: 爆裂队长NEXT
+  likes: 2
+  captured: '2026-11-05'
+  posted: '2026-11-05'
+notes:
+  en: Naming the output as a looping GIF and the motion in one plain sentence is enough. The model keeps the camera fixed and adds the water ripples and reflections on its own.
+  zh: 在一句话里同时写明输出是循环 GIF 和动作即可。模型会保持固定机位，并自行补出水面涟漪和倒影。
+prompt: |
+  Make a looping GIF of a paper boat bobbing on the water.

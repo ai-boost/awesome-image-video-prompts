@@ -1,0 +1,24 @@
+id: gpt-image-2-6-whale-girl-eating-rice-gif
+title:
+  en: Chibi whale girl eating rice from a bowl
+  zh: 鲸鱼娘用勺子吃白米饭
+model: GPT Image 2.6
+mode: image-edit
+category: character
+tags:
+- anime
+- chibi
+- animated-gif
+- reference-image
+source:
+  name: '@gantrols on X'
+  url: https://x.com/gantrols/status/2118147326351159730
+  credit: Gantrol
+  likes: 2
+  captured: '2026-11-05'
+  posted: '2026-11-05'
+notes:
+  en: A character reference image is attached, so the design stays the same across frames and the short prompt only has to name the subject and the eating action. Keeping the instruction minimal lets the reference drive the look of the animation.
+  zh: 附上角色参考图，每一帧的人物形象都能保持一致，提示词只需说明主体和吃饭的动作。指令保持简短，由参考图决定动画中的角色外观。
+prompt: |
+  Create a GIF of 鲸鱼娘干白饭饭，附图是人物形象参考图

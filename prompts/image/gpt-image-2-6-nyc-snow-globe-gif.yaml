@@ -1,0 +1,24 @@
+id: gpt-image-2-6-nyc-snow-globe-gif
+title:
+  en: NYC snow globe with falling snow
+  zh: 纽约雪景水晶球，雪花飘落
+model: GPT Image 2.6
+mode: text-to-image
+category: realism
+tags:
+- snow-globe
+- new-york
+- animated-gif
+- looping
+source:
+  name: '@dreamwieber on X'
+  url: https://x.com/dreamwieber/status/2118190877567037732
+  credit: Gregory Wieber
+  likes: 0
+  captured: '2026-11-05'
+  posted: '2026-11-05'
+notes:
+  en: A short prompt that names only the subject and the medium (snow globe) lets the model supply the glass refraction, warm light and skyline detail. The animated gif request keeps the scene fixed while the snow drifts across frames.
+  zh: 简短提示只给出主体和媒介（水晶球），模型自行补足玻璃折射、暖光和天际线细节；动图要求让场景保持不动，而雪花在各帧中持续飘落。
+prompt: |
+  generate an animated gif of a beautiful NYC snow globe

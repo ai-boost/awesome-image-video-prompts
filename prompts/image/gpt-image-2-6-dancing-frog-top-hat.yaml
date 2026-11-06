@@ -1,0 +1,24 @@
+id: gpt-image-2-6-dancing-frog-top-hat
+title:
+  en: Dancing cartoon frog in a top hat
+  zh: 戴礼帽跳舞的卡通青蛙
+model: GPT Image 2.6
+mode: text-to-image
+category: character
+tags:
+- gif
+- animation
+- cartoon
+- text-in-image
+source:
+  name: '@princess414141 on X'
+  url: https://x.com/princess414141/status/2118144125354877152
+  credit: Lucy
+  likes: 15
+  captured: '2026-11-05'
+  posted: '2026-11-05'
+notes:
+  en: The prompt names one subject and its prop, then fixes the on-image text to a position, so the wording stays the same across frames while only the frog's pose changes. The loop reads as motion because the text anchors the frame.
+  zh: 提示词只写一个主体和它的道具，并把画面顶部文字的位置与内容固定下来，所以各帧文字保持一致，只有青蛙的姿势在变化。文字作为固定锚点，让动作读起来更像连续动画。
+prompt: |
+  dancing frog with a top hat on, with ego be gone! written at the top

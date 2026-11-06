@@ -1,0 +1,24 @@
+id: gpt-image-2-6-robot-pouring-coffee-gif
+title:
+  en: Cute robot pouring coffee into a cup
+  zh: 可爱机器人往杯中倒咖啡
+model: GPT Image 2.6
+mode: text-to-image
+category: character
+tags:
+- robot
+- coffee
+- animation
+- cute
+source:
+  name: '@sousoccer6 on X'
+  url: https://x.com/sousoccer6/status/2118210705585537226
+  credit: Soichiro Abe | AI 営業 マーケ
+  likes: 0
+  captured: '2026-11-05'
+  posted: '2026-11-05'
+notes:
+  en: A one-line subject and action in Japanese is enough, since the model supplies the cafe setting, props and pouring motion. The frames keep the robot's face and apron consistent so the animation reads as one continuous shot.
+  zh: 只用一句主体加动作的日文提示即可，模型会自行补全咖啡馆场景、道具和倒水动作，各帧中机器人的脸和围裙保持一致，动画读起来像同一个连续镜头。
+prompt: |
+  コーヒーを淹れるロボット

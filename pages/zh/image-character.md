@@ -1,6 +1,6 @@
 # 角色与手办
 
-[返回目录](../../README_zh.md) · 全部 86 条
+[返回目录](../../README_zh.md) · 全部 100 条
 
 <a id="gpt-image-tanjiro-pixel-sprite-sheet-water-attack"></a>
 ### 炭治郎十六帧像素精灵图与水之呼吸攻击
@@ -960,6 +960,25 @@ Nano Banana 2 · 文生图 · 出处: [@Xaroon_x on X](https://x.com/Xaroon_x/st
 
 </details>
 
+<a id="gpt-image-2-6-blue-hair-chibi-eating-rice-gif"></a>
+### Q版角色用筷子吃白米饭
+
+<a href="https://x.com/Gorden_Sun/status/2118166046175908016"><img src="../../previews/gpt-image-2-6-blue-hair-chibi-eating-rice-gif.gif" width="360"></a>
+
+上传角色图作为参考，只描述新动作和画面文字，角色设计会被保留，模型据此生成动画。明确要求GIF和准确文字，可得到背景稳定的短循环动画。
+
+GPT Image 2.6 · 上传图改图 · 出处: [@Gorden_Sun on X](https://x.com/Gorden_Sun/status/2118166046175908016) · 151 赞，统计于 2026-11-05
+
+[`gif`](tags.md#tag-gif) [`chibi`](tags.md#tag-chibi) [`character-edit`](tags.md#tag-character-edit) [`chinese-text`](tags.md#tag-chinese-text)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+使用这个角色，生成一张GIF图，内容是她吃大白米饭，图片里有文字：真香！
+```
+
+</details>
+
 <a id="gpt-image-editorial-fashion-character-sheet-face-reference"></a>
 ### 由一张人脸照片生成的时尚编辑角色设定表
 
@@ -1866,6 +1885,26 @@ GPT Image 1.5 · 文生图 · 出处: [@KeorUnreal on X](https://x.com/KeorUnrea
 
 </details>
 
+<a id="gpt-image-2-6-schoolgirl-reference-dance-gif"></a>
+### 校服少女角色四帧跳舞动画
+
+<a href="https://x.com/munou_ac/status/2118220485150535796"><img src="../../previews/gpt-image-2-6-schoolgirl-reference-dance-gif.gif" width="360"></a>
+
+一句指向参考图的简短指令，让角色的服装、发型和身材比例在各帧中保持不变。只用跳舞和 GIF 两个词，模型就能自行决定动作，无需列出姿势。
+
+GPT Image 2.6 · 上传图改图 · 出处: [@munou_ac on X](https://x.com/munou_ac/status/2118220485150535796) · 38 赞，统计于 2026-11-05
+
+[`anime`](tags.md#tag-anime) [`dance`](tags.md#tag-dance) [`gif`](tags.md#tag-gif) [`reference-image`](tags.md#tag-reference-image)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+参照画像のキャラクターが
+ダンスするGIFを作ってください
+```
+
+</details>
+
 <a id="nano-banana-felt-designer-toy-history-dioramas"></a>
 ### 四个历史时刻的毛毡设计师玩具场景
 
@@ -1912,6 +1951,25 @@ A collectible fuzzy designer-toy scene where $ SUBJECT becomes soft, expressive,
 
 </details>
 
+<a id="gpt-image-2-6-chibi-cheongsam-girl-gif"></a>
+### 穿旗袍的Q版少女做可爱跳跃动作
+
+<a href="https://x.com/shinshin86/status/2118225428976705908"><img src="../../previews/gpt-image-2-6-chibi-cheongsam-girl-gif.gif" width="360"></a>
+
+附上角色参考图，指令保持简短。模型会保留参考图中的服装和发型，并自行选择可爱的动作，因此各帧角色保持一致。
+
+GPT Image 2.6 · 上传图改图 · 出处: [@shinshin86 on X](https://x.com/shinshin86/status/2118225428976705908) · 22 赞，统计于 2026-11-05
+
+[`gif`](tags.md#tag-gif) [`chibi`](tags.md#tag-chibi) [`animation`](tags.md#tag-animation) [`anime`](tags.md#tag-anime)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+このキャラクターをちびキャラ化して、何か可愛らしい動きをしているところをGIF画像にしてください。
+```
+
+</details>
+
 <a id="nano-banana-claymation-gothic-castle-hoodie"></a>
 ### 黏土定格人物置于哥特城堡布景中
 
@@ -1931,10 +1989,163 @@ A hyperrealistic, detailed close-up photograph of a meticulously crafted stop-mo
 
 </details>
 
+<a id="gpt-image-2-6-dancing-frog-top-hat"></a>
+### 戴礼帽跳舞的卡通青蛙
+
+<a href="https://x.com/princess414141/status/2118144125354877152"><img src="../../previews/gpt-image-2-6-dancing-frog-top-hat.gif" width="360"></a>
+
+提示词只写一个主体和它的道具，并把画面顶部文字的位置与内容固定下来，所以各帧文字保持一致，只有青蛙的姿势在变化。文字作为固定锚点，让动作读起来更像连续动画。
+
+GPT Image 2.6 · 文生图 · 出处: [@princess414141 on X](https://x.com/princess414141/status/2118144125354877152) · 15 赞，统计于 2026-11-05
+
+[`gif`](tags.md#tag-gif) [`animation`](tags.md#tag-animation) [`cartoon`](tags.md#tag-cartoon) [`text-in-image`](tags.md#tag-text-in-image)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+dancing frog with a top hat on, with ego be gone! written at the top
+```
+
+</details>
+
+<a id="gpt-image-2-6-waving-laughing-character-gif"></a>
+### 卡通角色挥手大笑的GIF动画
+
+<a href="https://x.com/okan_aitool/status/2118201578406772887"><img src="../../previews/gpt-image-2-6-waving-laughing-character-gif.gif" width="360"></a>
+
+提示词只点明已有角色和两个动作，模型保留角色原有造型，并在各帧中完成挥手和微笑的动画。无需写镜头或时间参数。
+
+GPT Image 2.6 · 上传图改图 · 出处: [@okan_aitool on X](https://x.com/okan_aitool/status/2118201578406772887) · 9 赞，统计于 2026-11-05
+
+[`gif`](tags.md#tag-gif) [`animation`](tags.md#tag-animation) [`character`](tags.md#tag-character)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+このキャラをGIFで動かして。手を振って笑う
+```
+
+</details>
+
+<a id="gpt-image-2-6-pixel-hero-sword-swing-gif"></a>
+### 像素风勇者挥舞发光剑
+
+<a href="https://x.com/YaReYaRu30Life/status/2118166505603153922"><img src="../../previews/gpt-image-2-6-pixel-hero-sword-swing-gif.gif" width="360"></a>
+
+直接要求生成 GIF 并指定像素画风，使各帧角色保持一致。剑上的光效被单独描述，挥动的动作因此在各帧中清楚可读。
+
+GPT Image 2.6 · 文生图 · 出处: [@YaReYaRu30Life on X](https://x.com/YaReYaRu30Life/status/2118166505603153922) · 7 赞，统计于 2026-11-05
+
+[`pixel-art`](tags.md#tag-pixel-art) [`gif`](tags.md#tag-gif) [`animation`](tags.md#tag-animation) [`game-art`](tags.md#tag-game-art)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+GIFを作成。ドット絵の勇者。
+剣にエフェクトをつけて振り回す
+```
+
+</details>
+
+<a id="gpt-image-2-6-pixel-character-bolt-blast-gif"></a>
+### 像素风男子用紫色闪电击飞螺母与螺栓
+
+<a href="https://x.com/YaReYaRu30Life/status/2118167174053597233"><img src="../../previews/gpt-image-2-6-pixel-character-bolt-blast-gif.gif" width="360"></a>
+
+附上三面图作为参考，角色设计在各帧中保持一致；一句提示词同时指定了特效颜色和动作。画面依次推进：蓄力、放出闪电、零件飞散、尘土落下。
+
+GPT Image 2.6 · 上传图改图 · 出处: [@YaReYaRu30Life on X](https://x.com/YaReYaRu30Life/status/2118167174053597233) · 6 赞，统计于 2026-11-05
+
+[`pixel-art`](tags.md#tag-pixel-art) [`animated-gif`](tags.md#tag-animated-gif) [`character-sheet`](tags.md#tag-character-sheet) [`lightning`](tags.md#tag-lightning)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+このキャラをドット化して、紫の電光エフェクトでボルトをナットを吹き飛ばすGIFを作成
+```
+
+</details>
+
+<a id="gpt-image-2-6-diligent-bee-daily-checkin-gif"></a>
+### 卡通小蜜蜂在手机上发帖打卡
+
+<a href="https://x.com/MrGafish/status/2118217749680025722"><img src="../../previews/gpt-image-2-6-diligent-bee-daily-checkin-gif.gif" width="360"></a>
+
+简短的中文提示说明了格式（GIF）、平台（X）和寓意，把小蜜蜂、道具和文案交给模型发挥。四帧重复同一个发帖动作，循环起来很稳。
+
+GPT Image 2.6 · 文生图 · 出处: [@MrGafish on X](https://x.com/MrGafish/status/2118217749680025722) · 3 赞，统计于 2026-11-05
+
+[`gif`](tags.md#tag-gif) [`check-in`](tags.md#tag-check-in) [`bee-mascot`](tags.md#tag-bee-mascot) [`x-post`](tags.md#tag-x-post)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+生成一个GIF，用于在𝕏 平台每日签到打卡，寓意我是一个发贴的勤劳小蜜蜂
+```
+
+</details>
+
+<a id="gpt-image-2-6-whale-girl-eating-rice-gif"></a>
+### 鲸鱼娘用勺子吃白米饭
+
+<a href="https://x.com/gantrols/status/2118147326351159730"><img src="../../previews/gpt-image-2-6-whale-girl-eating-rice-gif.gif" width="360"></a>
+
+附上角色参考图，每一帧的人物形象都能保持一致，提示词只需说明主体和吃饭的动作。指令保持简短，由参考图决定动画中的角色外观。
+
+GPT Image 2.6 · 上传图改图 · 出处: [@gantrols on X](https://x.com/gantrols/status/2118147326351159730) · 2 赞，统计于 2026-11-05
+
+[`anime`](tags.md#tag-anime) [`chibi`](tags.md#tag-chibi) [`animated-gif`](tags.md#tag-animated-gif) [`reference-image`](tags.md#tag-reference-image)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a GIF of 鲸鱼娘干白饭饭，附图是人物形象参考图
+```
+
+</details>
+
+<a id="gpt-image-2-6-white-dog-heart-loop-gif"></a>
+### 头顶飘爱心的白色线条小狗
+
+<a href="https://x.com/CalosLaw/status/2118199125707547102"><img src="../../previews/gpt-image-2-6-white-dog-heart-loop-gif.gif" width="360"></a>
+
+提示词把每个动作写成清晰可见的小动作（左右摇摆、摇尾巴、笑眼、头顶爱心），让表情包尺寸下每一帧都容易辨认。纯白背景加上首尾无缝循环和正方形构图的要求，使各帧形象保持一致。
+
+GPT Image 2.6 · 文生图 · 出处: [@CalosLaw on X](https://x.com/CalosLaw/status/2118199125707547102) · 2 赞，统计于 2026-11-05
+
+[`gif`](tags.md#tag-gif) [`sticker`](tags.md#tag-sticker) [`line-art`](tags.md#tag-line-art) [`loop-animation`](tags.md#tag-loop-animation) [`doodle`](tags.md#tag-doodle)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+做一个线条小狗风格的循环 GIF 动图：一只白色圆滚滚的简笔画小狗，黑色粗线条，手绘涂鸦感，纯白背景。小狗开心地左右摇摆身体、摇尾巴，眼睛眯成弯弯的笑眼，头顶冒出一颗小爱心。画面简洁可爱，动作流畅，首尾无缝循环，正方形构图，适合做表情包。
+```
+
+</details>
+
+<a id="gpt-image-2-6-claymation-kitten-ball-pit-gif"></a>
+### 黏土定格风小猫在球池中玩耍
+
+<a href="https://x.com/dreamwieber/status/2118191599872344467"><img src="../../previews/gpt-image-2-6-claymation-kitten-ball-pit-gif.gif" width="360"></a>
+
+提示词用一句话同时点明媒介（黏土定格风）和场景，并要求生成动态 GIF，因此风格和嬉戏动作都由模型自行决定。若想更可控，可以补充镜头角度或帧数。
+
+GPT Image 2.6 · 文生图 · 出处: [@dreamwieber on X](https://x.com/dreamwieber/status/2118191599872344467) · 1 赞，统计于 2026-11-05
+
+[`claymation`](tags.md#tag-claymation) [`animated-gif`](tags.md#tag-animated-gif) [`cute-animals`](tags.md#tag-cute-animals) [`animation`](tags.md#tag-animation)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+generate an animated gif of a claymation kitten playing in a plastic ball pit
+```
+
+</details>
+
 <a id="gpt-image-2-6-monkey-lantern-looping-gif"></a>
 ### 身披连帽大衣手提灯笼的小猴子
 
-<a href="https://developers.openai.com/api/docs/guides/image-prompting#generate-a-looping-gif"><img src="../../previews/gpt-image-2-6-monkey-lantern-looping-gif.jpg" width="360"></a>
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#generate-a-looping-gif"><img src="../../previews/gpt-image-2-6-monkey-lantern-looping-gif.gif" width="360"></a>
 
 固定镜头，并描述从固定起始姿势出发的抬灯、抬头眨眼再放回的单一动作弧线，动作才能平滑闭合成循环。明确写出大衣、灯笼和小屋等元素，能让每一帧的主体保持一致。
 
@@ -1946,6 +2157,63 @@ GPT Image 2.6 · 文生图 · 出处: [OpenAI image prompting guide](https://dev
 
 ```text
 A little monkey in an olive-green hooded coat stands in a snowy pine forest at dusk. A wooden cabin glows in the background. The monkey holds a glowing amber paper lantern at chest height, slowly lifts it, looks up and blinks, then lowers it back to its starting pose. Keep the lantern in its hands and the camera still. Make the motion loop smoothly.
+```
+
+</details>
+
+<a id="gpt-image-2-6-orange-cat-goodnight-gif"></a>
+### 橘猫打哈欠后抱着月亮抱枕裹进毯子
+
+<a href="https://x.com/eeseverlasting/status/2118248165396848968"><img src="../../previews/gpt-image-2-6-orange-cat-goodnight-gif.gif" width="360"></a>
+
+一句简短指令加上一张参考图，模型就能自行补全从打哈欠到入睡的故事节奏，同时保持角色外观一致。日文台词被明确写进需求，因此会以画面文字的形式出现在最后一帧。
+
+GPT Image 2.6 · 上传图改图 · 出处: [@eeseverlasting on X](https://x.com/eeseverlasting/status/2118248165396848968)
+
+[`cat`](tags.md#tag-cat) [`animated-gif`](tags.md#tag-animated-gif) [`japanese-text`](tags.md#tag-japanese-text) [`bedtime`](tags.md#tag-bedtime)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+添付画像をつかって、おもしろいGIF『おやすみにゃ～！』をつくりたい。
+```
+
+</details>
+
+<a id="gpt-image-2-6-robot-accidental-selfie-gif"></a>
+### 机器人自拍时眨眼并抬手
+
+<a href="https://x.com/nixus404/status/2118180448840872167"><img src="../../previews/gpt-image-2-6-robot-accidental-selfie-gif.gif" width="360"></a>
+
+将画面设定为意外自拍，形成手持近景视角，机器人占满画面，其小动作显得随意自然。让主体是模型自身，使角色在各帧中保持一致。
+
+GPT Image 2.6 · 文生图 · 出处: [@nixus404 on X](https://x.com/nixus404/status/2118180448840872167)
+
+[`robot`](tags.md#tag-robot) [`selfie`](tags.md#tag-selfie) [`gif`](tags.md#tag-gif) [`pov`](tags.md#tag-pov)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create an animated GIF of yourself, as if you were taking an accidental selfie with your phone
+```
+
+</details>
+
+<a id="gpt-image-2-6-robot-pouring-coffee-gif"></a>
+### 可爱机器人往杯中倒咖啡
+
+<a href="https://x.com/sousoccer6/status/2118210705585537226"><img src="../../previews/gpt-image-2-6-robot-pouring-coffee-gif.gif" width="360"></a>
+
+只用一句主体加动作的日文提示即可，模型会自行补全咖啡馆场景、道具和倒水动作，各帧中机器人的脸和围裙保持一致，动画读起来像同一个连续镜头。
+
+GPT Image 2.6 · 文生图 · 出处: [@sousoccer6 on X](https://x.com/sousoccer6/status/2118210705585537226)
+
+[`robot`](tags.md#tag-robot) [`coffee`](tags.md#tag-coffee) [`animation`](tags.md#tag-animation) [`cute`](tags.md#tag-cute)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+コーヒーを淹れるロボット
 ```
 
 </details>

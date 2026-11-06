@@ -1,0 +1,24 @@
+id: gpt-image-2-6-woman-waving-winking-gif
+title:
+  en: Smiling woman waves and winks at camera
+  zh: 微笑女子挥手后向镜头眨眼
+model: GPT Image 2.6
+mode: image-edit
+category: edit
+tags:
+- gif
+- portrait
+- image-to-gif
+- wave
+source:
+  name: '@daifuku_ailover on X'
+  url: https://x.com/daifuku_ailover/status/2118224031518454108
+  credit: yuA｜AIで収入の柱をつくる実践記
+  likes: 1
+  captured: '2026-11-05'
+  posted: '2026-11-05'
+notes:
+  en: The whole prompt is a one-line instruction that points at the attached portrait, so the model supplies the motion itself. A clean light background and a face that stays centered keep identity and hairstyle stable across the wave, smile and wink frames.
+  zh: 整段提示只是一句指向附图的指令，动作（挥手、微笑、眨眼）由模型自行补全。干净的浅色背景和居中的人脸，让每一帧中的五官与发型保持稳定。
+prompt: |
+  この画像でGIFアニメーション作って

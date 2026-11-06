@@ -1,0 +1,24 @@
+id: gpt-image-2-6-elderly-man-splitting-firewood-gif
+title:
+  en: Elderly man splitting firewood in a snowy yard
+  zh: 雪中庭院里老人劈柴
+model: GPT Image 2.6
+mode: text-to-image
+category: realism
+tags:
+- winter
+- snow
+- elderly
+- animated-gif
+source:
+  name: '@koe_ai414 on X'
+  url: https://x.com/koe_ai414/status/2118153765094351279
+  credit: Koei / こうえい | AI Creator
+  likes: 6
+  captured: '2026-11-05'
+  posted: '2026-11-05'
+notes:
+  en: One plain sentence names the subject, season, place and action, and the closing GIF request makes the output an animated loop. The swing, snow and wooden house are left for the model to fill in, so no camera or style direction is needed.
+  zh: 一句话写清人物、季节、场景和动作，结尾的GIF要求让输出成为动图。挥斧动作、积雪和木屋等细节交给模型补全，无需额外的镜头或风格设定。
+prompt: |
+  冬の寒い中、家の庭で薪割りをするおじいさんのGIF

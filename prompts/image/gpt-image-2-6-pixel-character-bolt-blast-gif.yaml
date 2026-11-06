@@ -1,0 +1,24 @@
+id: gpt-image-2-6-pixel-character-bolt-blast-gif
+title:
+  en: Pixel man blasts nuts and bolts with purple lightning
+  zh: 像素风男子用紫色闪电击飞螺母与螺栓
+model: GPT Image 2.6
+mode: image-edit
+category: character
+tags:
+- pixel-art
+- animated-gif
+- character-sheet
+- lightning
+source:
+  name: '@YaReYaRu30Life on X'
+  url: https://x.com/YaReYaRu30Life/status/2118167174053597233
+  credit: ヤレヤル（AI動画/AI画像/AI音楽）
+  likes: 6
+  captured: '2026-11-05'
+  posted: '2026-11-05'
+notes:
+  en: 'Attaching a three-view character sheet as the reference keeps the design consistent across frames, and one line sets both the effect color and the action. The frames follow a clear beat: wind-up, lightning release, parts flying, then dust settling.'
+  zh: 附上三面图作为参考，角色设计在各帧中保持一致；一句提示词同时指定了特效颜色和动作。画面依次推进：蓄力、放出闪电、零件飞散、尘土落下。
+prompt: |
+  このキャラをドット化して、紫の電光エフェクトでボルトをナットを吹き飛ばすGIFを作成
