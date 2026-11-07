@@ -16,3 +16,6 @@
 - {model: GPT Image 2.5, kind: image, max: 10, months: [11, 12, 1], query: '(christmas OR xmas OR santa) prompt "gpt image 2.5" filter:images min_faves:60'}
 - {model: Nano Banana 2.1, kind: image, max: 10, months: [11, 12, 1], model_re: 'banana 2\.1|nb ?2\.1', query: '(christmas OR xmas OR santa) prompt "nano banana 2.1" filter:images min_faves:20'}
 - {model: GPT Image 2.6, kind: image, max: 10, months: [11, 12, 1], model_re: 'images?[\s_-]*2\.6|gpt-image-2\.6|sunburst|\bflare\b', query: '(christmas OR xmas OR santa) ("Images 2.6" OR "GPT Image 2.6") prompt filter:images min_faves:20'}
+# Family and baby Christmas photos: the fastest-rising Christmas searches last season, and the thinnest part of the page.
+- {model: GPT Image 2.6, kind: image, max: 10, months: [11, 12, 1], tab: live, min_likes: 5, model_re: 'images?[\s_-]*2\.6|gpt-image-2\.6|sunburst|\bflare\b', query: '(christmas OR xmas OR santa) (family OR baby OR toddler OR newborn OR kids OR 家族 OR 赤ちゃん OR 全家福 OR 宝宝) ("Images 2.6" OR "GPT Image 2.6") filter:images'}
+- {model: Nano Banana 2.1, kind: image, max: 10, months: [11, 12, 1], tab: live, min_likes: 5, model_re: 'banana 2\.1|nb ?2\.1', query: '(christmas OR xmas OR santa) (family OR baby OR toddler OR newborn OR kids OR 家族 OR 赤ちゃん OR 全家福 OR 宝宝) "nano banana 2.1" filter:images'}
