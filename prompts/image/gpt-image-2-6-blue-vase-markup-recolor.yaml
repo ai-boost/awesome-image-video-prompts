@@ -10,6 +10,8 @@ tags:
 - recolor
 - interior
 - home-decor
+- photo-edit
+- object-edit
 source:
   name: OpenAI image prompting guide
   url: https://developers.openai.com/api/docs/guides/image-prompting#guide-an-edit-with-markup

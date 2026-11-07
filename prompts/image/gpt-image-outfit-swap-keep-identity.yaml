@@ -9,6 +9,8 @@ tags:
 - virtual-try-on
 - fashion
 - identity
+- photo-edit
+- outfit-change
 source:
   name: OpenAI image prompting guide
   url: https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing

@@ -9,6 +9,8 @@ tags:
 - sketch
 - photorealism
 - landscape
+- photo-edit
+- photo-restyle
 source:
   name: OpenAI image prompting guide
   url: https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image

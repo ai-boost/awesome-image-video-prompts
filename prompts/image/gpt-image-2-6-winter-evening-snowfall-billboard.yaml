@@ -10,6 +10,8 @@ tags:
 - snow
 - billboard
 - weather-change
+- photo-edit
+- background-change
 source:
   name: OpenAI image prompting guide
   url: https://developers.openai.com/api/docs/guides/image-prompting#change-one-condition

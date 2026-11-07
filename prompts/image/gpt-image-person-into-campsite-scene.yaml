@@ -9,6 +9,8 @@ tags:
 - identity
 - action
 - photorealism
+- photo-edit
+- background-change
 source:
   name: OpenAI image prompting guide
   url: https://developers.openai.com/api/docs/guides/image-prompting#insert-a-person-into-a-scene

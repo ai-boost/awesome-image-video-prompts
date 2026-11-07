@@ -9,6 +9,8 @@ tags:
 - multi-turn
 - weather
 - edit
+- photo-edit
+- background-change
 source:
   name: OpenAI image prompting guide
   url: https://developers.openai.com/api/docs/guides/image-prompting#refine-an-image-across-turns

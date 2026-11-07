@@ -11,7 +11,7 @@ The follow-up edit keeps the battle layout from the first prompt and swaps only 
 
 Nano Banana 2 · Edit · Source: [@ProperPrompter on X](https://x.com/ProperPrompter/status/2027157212863631567) · 4,659 likes on 2026-10-29
 
-[`pixel-art`](tags.md#tag-pixel-art) [`pokemon`](tags.md#tag-pokemon) [`game-ui`](tags.md#tag-game-ui) [`image-edit`](tags.md#tag-image-edit)
+[`pixel-art`](tags.md#tag-pixel-art) [`pokemon`](tags.md#tag-pokemon) [`game-ui`](tags.md#tag-game-ui) [`image-edit`](tags.md#tag-image-edit) [`photo-edit`](tags.md#tag-photo-edit) [`photo-restyle`](tags.md#tag-photo-restyle)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -34,7 +34,7 @@ The prompt first locks the original photo as unchanged, then lists each mini sel
 
 GPT Image 2 · Edit · Source: [@Ciri_ai on X](https://x.com/Ciri_ai/status/2050094437821513896) · 3,471 likes on 2026-10-29
 
-[`chibi`](tags.md#tag-chibi) [`scrapbook`](tags.md#tag-scrapbook) [`doodle`](tags.md#tag-doodle) [`gym`](tags.md#tag-gym) [`selfie`](tags.md#tag-selfie)
+[`chibi`](tags.md#tag-chibi) [`scrapbook`](tags.md#tag-scrapbook) [`doodle`](tags.md#tag-doodle) [`gym`](tags.md#tag-gym) [`selfie`](tags.md#tag-selfie) [`photo-edit`](tags.md#tag-photo-edit) [`doodle-edit`](tags.md#tag-doodle-edit)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -87,7 +87,7 @@ The prompt locks the original lighting and colors, then layers white outline str
 
 GPT Image 2 · Edit · Source: [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2050614367536939243) · 1,255 likes on 2026-10-28
 
-[`doodle`](tags.md#tag-doodle) [`chibi`](tags.md#tag-chibi) [`sticker-outline`](tags.md#tag-sticker-outline) [`xiaohongshu`](tags.md#tag-xiaohongshu) [`selfie`](tags.md#tag-selfie)
+[`doodle`](tags.md#tag-doodle) [`chibi`](tags.md#tag-chibi) [`sticker-outline`](tags.md#tag-sticker-outline) [`xiaohongshu`](tags.md#tag-xiaohongshu) [`selfie`](tags.md#tag-selfie) [`photo-edit`](tags.md#tag-photo-edit) [`doodle-edit`](tags.md#tag-doodle-edit)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -106,7 +106,7 @@ The prompt tells the model to keep the facial features of the source photo while
 
 ChatGPT · Edit · Source: [@diegocarvalhoosteo on TikTok](https://www.tiktok.com/@diegocarvalhoosteo/video/7682999891639078164) · 1,039 likes on 2026-10-30
 
-[`80s`](tags.md#tag-80s) [`couple`](tags.md#tag-couple) [`retro`](tags.md#tag-retro) [`film-grain`](tags.md#tag-film-grain)
+[`80s`](tags.md#tag-80s) [`couple`](tags.md#tag-couple) [`retro`](tags.md#tag-retro) [`film-grain`](tags.md#tag-film-grain) [`photo-edit`](tags.md#tag-photo-edit) [`photo-restyle`](tags.md#tag-photo-restyle)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -125,7 +125,7 @@ The prompt fixes identity first by asking for recognizable facial features and n
 
 ChatGPT · Edit · Source: [@ishaprayag on TikTok](https://www.tiktok.com/@ishaprayag/video/7683911490646199573) · 942 likes on 2026-10-30
 
-[`80s`](tags.md#tag-80s) [`retro`](tags.md#tag-retro) [`fashion`](tags.md#tag-fashion) [`vintage-film`](tags.md#tag-vintage-film)
+[`80s`](tags.md#tag-80s) [`retro`](tags.md#tag-retro) [`fashion`](tags.md#tag-fashion) [`vintage-film`](tags.md#tag-vintage-film) [`photo-edit`](tags.md#tag-photo-edit) [`photo-restyle`](tags.md#tag-photo-restyle)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -144,7 +144,7 @@ The prompt lists the damage to fix (scratches, stains, noise, torn areas), then 
 
 GPT Image 2 · Edit · Source: [@AiwithLariab on X](https://x.com/AiwithLariab/status/2075549421073469614) · 932 likes on 2026-10-29
 
-[`photo-restoration`](tags.md#tag-photo-restoration) [`colorize`](tags.md#tag-colorize) [`sharpen`](tags.md#tag-sharpen) [`old-photo`](tags.md#tag-old-photo)
+[`photo-restoration`](tags.md#tag-photo-restoration) [`colorize`](tags.md#tag-colorize) [`sharpen`](tags.md#tag-sharpen) [`old-photo`](tags.md#tag-old-photo) [`photo-edit`](tags.md#tag-photo-edit)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -163,7 +163,7 @@ The prompt locks identity first and then changes wardrobe, accessories and setti
 
 ChatGPT · Edit · Source: [@katrinayao on TikTok](https://www.tiktok.com/@katrinayao/video/7683941449594932500) · 844 likes on 2026-10-30
 
-[`80s-trend`](tags.md#tag-80s-trend) [`retro`](tags.md#tag-retro) [`date-stamp`](tags.md#tag-date-stamp) [`photo-edit`](tags.md#tag-photo-edit)
+[`80s-trend`](tags.md#tag-80s-trend) [`retro`](tags.md#tag-retro) [`date-stamp`](tags.md#tag-date-stamp) [`photo-edit`](tags.md#tag-photo-edit) [`photo-restyle`](tags.md#tag-photo-restyle)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -182,7 +182,7 @@ A positive prompt that locks identity, facial structure and composition, paired 
 
 Nano Banana 2 · Edit · Source: [@doctorwasif on X](https://x.com/doctorwasif/status/2030566053286457783) · 552 likes on 2026-10-28
 
-[`photo-restoration`](tags.md#tag-photo-restoration) [`old-photo`](tags.md#tag-old-photo) [`portrait`](tags.md#tag-portrait) [`upscale`](tags.md#tag-upscale) [`json-prompt`](tags.md#tag-json-prompt)
+[`photo-restoration`](tags.md#tag-photo-restoration) [`old-photo`](tags.md#tag-old-photo) [`portrait`](tags.md#tag-portrait) [`upscale`](tags.md#tag-upscale) [`json-prompt`](tags.md#tag-json-prompt) [`photo-edit`](tags.md#tag-photo-edit)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -205,7 +205,7 @@ The prompt names one material, soft modeling clay, then lists concrete tactile c
 
 GPT Image 2 · Edit · Source: [@miratechtool on X](https://x.com/miratechtool/status/2052033236964950111) · 255 likes on 2026-10-28
 
-[`claymation`](tags.md#tag-claymation) [`stop-motion`](tags.md#tag-stop-motion) [`pastel`](tags.md#tag-pastel) [`style-transfer`](tags.md#tag-style-transfer) [`social-profile`](tags.md#tag-social-profile)
+[`claymation`](tags.md#tag-claymation) [`stop-motion`](tags.md#tag-stop-motion) [`pastel`](tags.md#tag-pastel) [`style-transfer`](tags.md#tag-style-transfer) [`social-profile`](tags.md#tag-social-profile) [`photo-edit`](tags.md#tag-photo-edit) [`photo-restyle`](tags.md#tag-photo-restyle)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -224,7 +224,7 @@ Describes the mural and the real person in separate labeled blocks with matching
 
 GPT Image 2.5 · Edit · Source: [@Kubra_286 on X](https://x.com/Kubra_286/status/2102235098703880428) · 241 likes on 2026-10-28
 
-[`mural`](tags.md#tag-mural) [`trompe-l-oeil`](tags.md#tag-trompe-l-oeil) [`forced-perspective`](tags.md#tag-forced-perspective) [`street-art`](tags.md#tag-street-art) [`selfie`](tags.md#tag-selfie)
+[`mural`](tags.md#tag-mural) [`trompe-l-oeil`](tags.md#tag-trompe-l-oeil) [`forced-perspective`](tags.md#tag-forced-perspective) [`street-art`](tags.md#tag-street-art) [`selfie`](tags.md#tag-selfie) [`photo-edit`](tags.md#tag-photo-edit) [`background-change`](tags.md#tag-background-change)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -255,7 +255,7 @@ The prompt adds Santa to a real bedroom photo of a sleeping child and specifies 
 
 Nano Banana Pro · Edit · Source: [@nero_sansei on X](https://x.com/nero_sansei/status/2003285950571643175) · 215 likes on 2026-10-29
 
-[`christmas`](tags.md#tag-christmas) [`santa`](tags.md#tag-santa) [`family`](tags.md#tag-family)
+[`christmas`](tags.md#tag-christmas) [`santa`](tags.md#tag-santa) [`family`](tags.md#tag-family) [`photo-edit`](tags.md#tag-photo-edit) [`background-change`](tags.md#tag-background-change)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -290,7 +290,7 @@ Lists concrete interactions for the tiny figures (sitting on the shoulder and ba
 
 GPT Image 2 · Edit · Source: [@Zyrellix on X](https://x.com/Zyrellix/status/2055486410749309438) · 212 likes on 2026-10-28
 
-[`minimi`](tags.md#tag-minimi) [`miniature`](tags.md#tag-miniature) [`photo-to-3d`](tags.md#tag-photo-to-3d) [`portrait`](tags.md#tag-portrait) [`chibi`](tags.md#tag-chibi)
+[`minimi`](tags.md#tag-minimi) [`miniature`](tags.md#tag-miniature) [`photo-to-3d`](tags.md#tag-photo-to-3d) [`portrait`](tags.md#tag-portrait) [`chibi`](tags.md#tag-chibi) [`photo-edit`](tags.md#tag-photo-edit) [`doodle-edit`](tags.md#tag-doodle-edit)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -309,7 +309,7 @@ Two texture reference images are passed alongside the character sheet, and the p
 
 Nano Banana 2.1 · Edit · Source: [@Kiber_Alla on X](https://x.com/Kiber_Alla/status/2116291838852141297) · 199 likes on 2026-11-03
 
-[`seedream`](tags.md#tag-seedream) [`character-sheet`](tags.md#tag-character-sheet) [`skin-texture`](tags.md#tag-skin-texture) [`hair-texture`](tags.md#tag-hair-texture)
+[`seedream`](tags.md#tag-seedream) [`character-sheet`](tags.md#tag-character-sheet) [`skin-texture`](tags.md#tag-skin-texture) [`hair-texture`](tags.md#tag-hair-texture) [`photo-edit`](tags.md#tag-photo-edit) [`photo-restyle`](tags.md#tag-photo-restyle)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -339,7 +339,7 @@ A structured JSON brief separates identity lock, wardrobe, pose, lighting and ca
 
 Nano Banana Pro · Edit · Source: [@saniaspeaks_ on X](https://x.com/saniaspeaks_/status/2004032010482807073) · 197 likes on 2026-10-29
 
-[`christmas`](tags.md#tag-christmas) [`portrait`](tags.md#tag-portrait) [`santa`](tags.md#tag-santa) [`json-prompt`](tags.md#tag-json-prompt)
+[`christmas`](tags.md#tag-christmas) [`portrait`](tags.md#tag-portrait) [`santa`](tags.md#tag-santa) [`json-prompt`](tags.md#tag-json-prompt) [`photo-edit`](tags.md#tag-photo-edit) [`outfit-change`](tags.md#tag-outfit-change)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -422,7 +422,7 @@ Anchoring identity to the reference photo with explicit face, hair and body inst
 
 ChatGPT · Edit · Source: [@klh000o1 on TikTok](https://www.tiktok.com/@klh000o1/video/7682245250466712863) · 196 likes on 2026-10-30
 
-[`autumn`](tags.md#tag-autumn) [`fall-leaves`](tags.md#tag-fall-leaves) [`portrait`](tags.md#tag-portrait) [`photorealistic`](tags.md#tag-photorealistic)
+[`autumn`](tags.md#tag-autumn) [`fall-leaves`](tags.md#tag-fall-leaves) [`portrait`](tags.md#tag-portrait) [`photorealistic`](tags.md#tag-photorealistic) [`photo-edit`](tags.md#tag-photo-edit) [`background-change`](tags.md#tag-background-change)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -441,7 +441,7 @@ Ranks the instructions by priority and gives numeric ratios, such as a head 2.5 
 
 GPT Image 2.5 · Edit · Source: [@oggii_0 on X](https://x.com/oggii_0/status/2113887497751253111) · 180 likes on 2026-10-28
 
-[`chibi`](tags.md#tag-chibi) [`big-head`](tags.md#tag-big-head) [`photo-edit`](tags.md#tag-photo-edit) [`photorealistic`](tags.md#tag-photorealistic) [`proportion`](tags.md#tag-proportion)
+[`chibi`](tags.md#tag-chibi) [`big-head`](tags.md#tag-big-head) [`photo-edit`](tags.md#tag-photo-edit) [`photorealistic`](tags.md#tag-photorealistic) [`proportion`](tags.md#tag-proportion) [`photo-restyle`](tags.md#tag-photo-restyle)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -522,7 +522,7 @@ Keeps the original photo, lighting and background fixed, then layers thin white 
 
 Nano Banana 2 · Edit · Source: [@john_my07 on X](https://x.com/john_my07/status/2051162500780208297) · 160 likes on 2026-10-28
 
-[`doodle`](tags.md#tag-doodle) [`chibi`](tags.md#tag-chibi) [`sticker`](tags.md#tag-sticker) [`xiaohongshu`](tags.md#tag-xiaohongshu) [`photo-edit`](tags.md#tag-photo-edit)
+[`doodle`](tags.md#tag-doodle) [`chibi`](tags.md#tag-chibi) [`sticker`](tags.md#tag-sticker) [`xiaohongshu`](tags.md#tag-xiaohongshu) [`photo-edit`](tags.md#tag-photo-edit) [`doodle-edit`](tags.md#tag-doodle-edit)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -563,7 +563,7 @@ A stacked two panel layout keeps the original photo on top and a realistic cutou
 
 GPT Image 2.5 · Edit · Source: [@Ziha_ai on X](https://x.com/Ziha_ai/status/2111374785079103515) · 138 likes on 2026-10-29
 
-[`before-after`](tags.md#tag-before-after) [`doodle`](tags.md#tag-doodle) [`line-art`](tags.md#tag-line-art) [`cutout`](tags.md#tag-cutout) [`sketchbook`](tags.md#tag-sketchbook)
+[`before-after`](tags.md#tag-before-after) [`doodle`](tags.md#tag-doodle) [`line-art`](tags.md#tag-line-art) [`cutout`](tags.md#tag-cutout) [`sketchbook`](tags.md#tag-sketchbook) [`photo-edit`](tags.md#tag-photo-edit) [`doodle-edit`](tags.md#tag-doodle-edit)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -600,7 +600,7 @@ A wide angle lens with shallow depth of field forces the perspective, so the gia
 
 Nano Banana 2 · Edit · Source: [@HaniaAi12 on X](https://x.com/HaniaAi12/status/2028065588048810491) · 116 likes on 2026-10-29
 
-[`forced-perspective`](tags.md#tag-forced-perspective) [`miniature`](tags.md#tag-miniature) [`giant`](tags.md#tag-giant) [`face-reference`](tags.md#tag-face-reference) [`photorealistic`](tags.md#tag-photorealistic)
+[`forced-perspective`](tags.md#tag-forced-perspective) [`miniature`](tags.md#tag-miniature) [`giant`](tags.md#tag-giant) [`face-reference`](tags.md#tag-face-reference) [`photorealistic`](tags.md#tag-photorealistic) [`photo-edit`](tags.md#tag-photo-edit) [`background-change`](tags.md#tag-background-change)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -619,7 +619,7 @@ Attach a pixel art style reference and the source card, then swap the placeholde
 
 Nano Banana 2 · Edit · Source: [@ProperPrompter on X](https://x.com/ProperPrompter/status/2028603020746141797) · 115 likes on 2026-10-29
 
-[`pokemon`](tags.md#tag-pokemon) [`pixel-art`](tags.md#tag-pixel-art) [`dithering`](tags.md#tag-dithering) [`style-transfer`](tags.md#tag-style-transfer)
+[`pokemon`](tags.md#tag-pokemon) [`pixel-art`](tags.md#tag-pixel-art) [`dithering`](tags.md#tag-dithering) [`style-transfer`](tags.md#tag-style-transfer) [`photo-edit`](tags.md#tag-photo-edit) [`photo-restyle`](tags.md#tag-photo-restyle)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -642,7 +642,7 @@ Two uploaded images get fixed roles: the target is the master for everything and
 
 GPT Image 2.5 · Edit · Source: [@warraich_Ai2 on X](https://x.com/warraich_Ai2/status/2100532000042140040) · 114 likes on 2026-10-28
 
-[`face-swap`](tags.md#tag-face-swap) [`identity-transfer`](tags.md#tag-identity-transfer) [`scrapbook`](tags.md#tag-scrapbook) [`collage`](tags.md#tag-collage) [`reference-image`](tags.md#tag-reference-image)
+[`face-swap`](tags.md#tag-face-swap) [`identity-transfer`](tags.md#tag-identity-transfer) [`scrapbook`](tags.md#tag-scrapbook) [`collage`](tags.md#tag-collage) [`reference-image`](tags.md#tag-reference-image) [`photo-edit`](tags.md#tag-photo-edit) [`photo-restyle`](tags.md#tag-photo-restyle)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -693,7 +693,7 @@ Pairing the source image with a reverse angle instruction and an explicit lock o
 
 Nano Banana 2.1 · Edit · Source: [@ai_artworkgen on X](https://x.com/ai_artworkgen/status/2116217421077848340) · 111 likes on 2026-11-03
 
-[`reverse-angle`](tags.md#tag-reverse-angle) [`camera-angle`](tags.md#tag-camera-angle) [`subject-consistency`](tags.md#tag-subject-consistency)
+[`reverse-angle`](tags.md#tag-reverse-angle) [`camera-angle`](tags.md#tag-camera-angle) [`subject-consistency`](tags.md#tag-subject-consistency) [`photo-edit`](tags.md#tag-photo-edit) [`background-change`](tags.md#tag-background-change)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -718,7 +718,7 @@ Asking for the same character in several chibi poses, plus white sticker outline
 
 GPT Image 2 · Edit · Source: [@Zyrellix on X](https://x.com/Zyrellix/status/2053777315596042381) · 94 likes on 2026-10-29
 
-[`chibi`](tags.md#tag-chibi) [`doodles`](tags.md#tag-doodles) [`stickers`](tags.md#tag-stickers) [`beach`](tags.md#tag-beach)
+[`chibi`](tags.md#tag-chibi) [`doodles`](tags.md#tag-doodles) [`stickers`](tags.md#tag-stickers) [`beach`](tags.md#tag-beach) [`photo-edit`](tags.md#tag-photo-edit) [`doodle-edit`](tags.md#tag-doodle-edit)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -739,7 +739,7 @@ Turns an uploaded bike photo into a travel campaign by fixing the pose first (st
 
 GPT Image 2 · Edit · Source: [@AIwithkhan on X](https://x.com/AIwithkhan/status/2061674387137540325) · 85 likes on 2026-10-29
 
-[`travel-campaign`](tags.md#tag-travel-campaign) [`ar-interface`](tags.md#tag-ar-interface) [`motorcycle`](tags.md#tag-motorcycle) [`japan`](tags.md#tag-japan) [`golden-hour`](tags.md#tag-golden-hour)
+[`travel-campaign`](tags.md#tag-travel-campaign) [`ar-interface`](tags.md#tag-ar-interface) [`motorcycle`](tags.md#tag-motorcycle) [`japan`](tags.md#tag-japan) [`golden-hour`](tags.md#tag-golden-hour) [`photo-edit`](tags.md#tag-photo-edit) [`background-change`](tags.md#tag-background-change)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -764,7 +764,7 @@ The prompt runs in three steps: it first extracts the reference character's pale
 
 Nano Banana Pro · Edit · Source: [@konmari_tweet on X](https://x.com/konmari_tweet/status/2003611761451368464) · 71 likes on 2026-10-29
 
-[`christmas`](tags.md#tag-christmas) [`christmas-tree`](tags.md#tag-christmas-tree) [`character`](tags.md#tag-character) [`ornaments`](tags.md#tag-ornaments)
+[`christmas`](tags.md#tag-christmas) [`christmas-tree`](tags.md#tag-christmas-tree) [`character`](tags.md#tag-character) [`ornaments`](tags.md#tag-ornaments) [`photo-edit`](tags.md#tag-photo-edit) [`object-edit`](tags.md#tag-object-edit)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -799,7 +799,7 @@ A specific camera setup (eye-level medium shot), bright natural daylight and sof
 
 Nano Banana 2 · Edit · Source: [@frametheory058 on X](https://x.com/frametheory058/status/2050403431094083752) · 70 likes on 2026-10-29
 
-[`zootopia`](tags.md#tag-zootopia) [`cartoon-blend`](tags.md#tag-cartoon-blend) [`cable-car`](tags.md#tag-cable-car) [`photorealistic`](tags.md#tag-photorealistic)
+[`zootopia`](tags.md#tag-zootopia) [`cartoon-blend`](tags.md#tag-cartoon-blend) [`cable-car`](tags.md#tag-cable-car) [`photorealistic`](tags.md#tag-photorealistic) [`photo-edit`](tags.md#tag-photo-edit) [`object-edit`](tags.md#tag-object-edit)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -819,7 +819,7 @@ Starts from a full body photo and asks for an edit rather than a new image, with
 
 ChatGPT · Edit · Source: [@dianaunnie.799 on TikTok](https://www.tiktok.com/@dianaunnie.799/video/7684128723154816277) · 69 likes on 2026-10-30
 
-[`retro-80s`](tags.md#tag-retro-80s) [`couple`](tags.md#tag-couple) [`street-style`](tags.md#tag-street-style) [`hijab`](tags.md#tag-hijab)
+[`retro-80s`](tags.md#tag-retro-80s) [`couple`](tags.md#tag-couple) [`street-style`](tags.md#tag-street-style) [`hijab`](tags.md#tag-hijab) [`photo-edit`](tags.md#tag-photo-edit) [`photo-restyle`](tags.md#tag-photo-restyle)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -838,7 +838,7 @@ The prompt maps the input image's dominant colors to a cake flavor and icing pal
 
 Nano Banana Pro · Edit · Source: [@konmari_tweet on X](https://x.com/konmari_tweet/status/2000349853852062001) · 66 likes on 2026-10-29
 
-[`cake`](tags.md#tag-cake) [`food-photography`](tags.md#tag-food-photography)
+[`cake`](tags.md#tag-cake) [`food-photography`](tags.md#tag-food-photography) [`photo-edit`](tags.md#tag-photo-edit) [`object-edit`](tags.md#tag-object-edit)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -871,7 +871,7 @@ Uses an uploaded face reference with identity lock, then specifies pose, hair, s
 
 GPT Image 2.5 · Edit · Source: [@imGopalTiwari on X](https://x.com/imGopalTiwari/status/2104045915195724081) · 45 likes on 2026-10-28
 
-[`comic-book`](tags.md#tag-comic-book) [`surreal`](tags.md#tag-surreal) [`cinematic`](tags.md#tag-cinematic) [`face-reference`](tags.md#tag-face-reference) [`vertical`](tags.md#tag-vertical)
+[`comic-book`](tags.md#tag-comic-book) [`surreal`](tags.md#tag-surreal) [`cinematic`](tags.md#tag-cinematic) [`face-reference`](tags.md#tag-face-reference) [`vertical`](tags.md#tag-vertical) [`photo-edit`](tags.md#tag-photo-edit) [`background-change`](tags.md#tag-background-change)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -895,7 +895,7 @@ Labeled sections for scene, lighting, style and camera, plus a long negative lis
 
 GPT Image 2.5 · Edit · Source: [@KrishnaBio1 on X](https://x.com/KrishnaBio1/status/2097716825668702388) · 43 likes on 2026-10-29
 
-[`travel`](tags.md#tag-travel) [`sunset`](tags.md#tag-sunset) [`gif-loop`](tags.md#tag-gif-loop) [`landscape`](tags.md#tag-landscape) [`reference-blend`](tags.md#tag-reference-blend)
+[`travel`](tags.md#tag-travel) [`sunset`](tags.md#tag-sunset) [`gif-loop`](tags.md#tag-gif-loop) [`landscape`](tags.md#tag-landscape) [`reference-blend`](tags.md#tag-reference-blend) [`photo-edit`](tags.md#tag-photo-edit) [`photo-to-gif`](tags.md#tag-photo-to-gif)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -939,7 +939,7 @@ Names the target image as the master composition and the reference photo as face
 
 GPT Image 2.5 · Edit · Source: [@warraich_Ai2 on X](https://x.com/warraich_Ai2/status/2100776665500836060) · 41 likes on 2026-10-28
 
-[`face-swap`](tags.md#tag-face-swap) [`identity-reference`](tags.md#tag-identity-reference) [`line-art`](tags.md#tag-line-art) [`constraint-list`](tags.md#tag-constraint-list)
+[`face-swap`](tags.md#tag-face-swap) [`identity-reference`](tags.md#tag-identity-reference) [`line-art`](tags.md#tag-line-art) [`constraint-list`](tags.md#tag-constraint-list) [`photo-edit`](tags.md#tag-photo-edit) [`object-edit`](tags.md#tag-object-edit)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -996,7 +996,7 @@ The prompt fixes the subject, layout and camera angle of the input, so the room 
 
 Nano Banana Pro · Edit · Source: [@umesh_ai on X](https://x.com/umesh_ai/status/2004214017154601106) · 39 likes on 2026-10-29
 
-[`christmas`](tags.md#tag-christmas) [`interior`](tags.md#tag-interior) [`holiday-decor`](tags.md#tag-holiday-decor)
+[`christmas`](tags.md#tag-christmas) [`interior`](tags.md#tag-interior) [`holiday-decor`](tags.md#tag-holiday-decor) [`photo-edit`](tags.md#tag-photo-edit) [`background-change`](tags.md#tag-background-change)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -1019,7 +1019,7 @@ The JSON layout sets identity lock, pose, and camera as separate fields so each 
 
 Nano Banana 2 · Edit · Source: [@astronomerozge1 on X](https://x.com/astronomerozge1/status/2045235455298560426) · 31 likes on 2026-10-29
 
-[`fashion`](tags.md#tag-fashion) [`motion`](tags.md#tag-motion) [`json-prompt`](tags.md#tag-json-prompt) [`sunset`](tags.md#tag-sunset)
+[`fashion`](tags.md#tag-fashion) [`motion`](tags.md#tag-motion) [`json-prompt`](tags.md#tag-json-prompt) [`sunset`](tags.md#tag-sunset) [`photo-edit`](tags.md#tag-photo-edit) [`background-change`](tags.md#tag-background-change)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -1068,7 +1068,7 @@ The prompt keeps the subject as an unaltered photographic cutout and limits the 
 
 GPT Image 2.5 · Edit · Source: [@harboriis on X](https://x.com/harboriis/status/2115827211223912551) · 28 likes on 2026-10-29
 
-[`before-after`](tags.md#tag-before-after) [`doodle`](tags.md#tag-doodle) [`line-art`](tags.md#tag-line-art) [`portrait`](tags.md#tag-portrait)
+[`before-after`](tags.md#tag-before-after) [`doodle`](tags.md#tag-doodle) [`line-art`](tags.md#tag-line-art) [`portrait`](tags.md#tag-portrait) [`photo-edit`](tags.md#tag-photo-edit) [`doodle-edit`](tags.md#tag-doodle-edit)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -1105,7 +1105,7 @@ Attaches a reference image and fixes the framing (chest up, fixed camera, single
 
 GPT Image 2.6 · Edit · Source: [@mirai_ai2050 on X](https://x.com/mirai_ai2050/status/2118213713761292432) · 16 likes on 2026-11-06
 
-[`gif`](tags.md#tag-gif) [`portrait`](tags.md#tag-portrait) [`autumn`](tags.md#tag-autumn) [`animation`](tags.md#tag-animation)
+[`gif`](tags.md#tag-gif) [`portrait`](tags.md#tag-portrait) [`autumn`](tags.md#tag-autumn) [`animation`](tags.md#tag-animation) [`photo-edit`](tags.md#tag-photo-edit) [`photo-to-gif`](tags.md#tag-photo-to-gif)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -1150,7 +1150,7 @@ A single short instruction plus one reference image is enough: the model keeps t
 
 GPT Image 2.6 · Edit · Source: [@Ayu_AI_0912 on X](https://x.com/Ayu_AI_0912/status/2118138025024839939) · 11 likes on 2026-11-05
 
-[`anime`](tags.md#tag-anime) [`gif`](tags.md#tag-gif) [`animation`](tags.md#tag-animation) [`music-video`](tags.md#tag-music-video)
+[`anime`](tags.md#tag-anime) [`gif`](tags.md#tag-gif) [`animation`](tags.md#tag-animation) [`music-video`](tags.md#tag-music-video) [`photo-edit`](tags.md#tag-photo-edit) [`photo-to-gif`](tags.md#tag-photo-to-gif)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -1169,7 +1169,7 @@ The whole prompt is a one-line instruction that points at the attached portrait,
 
 GPT Image 2.6 · Edit · Source: [@daifuku_ailover on X](https://x.com/daifuku_ailover/status/2118224031518454108) · 1 likes on 2026-11-05
 
-[`gif`](tags.md#tag-gif) [`portrait`](tags.md#tag-portrait) [`image-to-gif`](tags.md#tag-image-to-gif) [`wave`](tags.md#tag-wave)
+[`gif`](tags.md#tag-gif) [`portrait`](tags.md#tag-portrait) [`image-to-gif`](tags.md#tag-image-to-gif) [`wave`](tags.md#tag-wave) [`photo-edit`](tags.md#tag-photo-edit) [`photo-to-gif`](tags.md#tag-photo-to-gif)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -1188,7 +1188,7 @@ Circling the target with a red marker and naming the new colour tells the model 
 
 GPT Image 2.6 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#guide-an-edit-with-markup)
 
-[`markup-edit`](tags.md#tag-markup-edit) [`recolor`](tags.md#tag-recolor) [`interior`](tags.md#tag-interior) [`home-decor`](tags.md#tag-home-decor)
+[`markup-edit`](tags.md#tag-markup-edit) [`recolor`](tags.md#tag-recolor) [`interior`](tags.md#tag-interior) [`home-decor`](tags.md#tag-home-decor) [`photo-edit`](tags.md#tag-photo-edit) [`object-edit`](tags.md#tag-object-edit)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -1209,7 +1209,7 @@ The prompt lists what must stay fixed (face, pose, hair, proportions, background
 
 GPT Image 2.6 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing)
 
-[`outfit-swap`](tags.md#tag-outfit-swap) [`identity-preservation`](tags.md#tag-identity-preservation) [`clothing-edit`](tags.md#tag-clothing-edit) [`reference-images`](tags.md#tag-reference-images)
+[`outfit-swap`](tags.md#tag-outfit-swap) [`identity-preservation`](tags.md#tag-identity-preservation) [`clothing-edit`](tags.md#tag-clothing-edit) [`reference-images`](tags.md#tag-reference-images) [`photo-edit`](tags.md#tag-photo-edit) [`outfit-change`](tags.md#tag-outfit-change)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -1230,7 +1230,7 @@ The prompt keeps the pose from the source line drawing fixed and adds small moti
 
 GPT Image 2.6 · Edit · Source: [@siennatries on X](https://x.com/siennatries/status/2118154286811267282)
 
-[`cat`](tags.md#tag-cat) [`line-drawing`](tags.md#tag-line-drawing) [`animated-gif`](tags.md#tag-animated-gif) [`seamless-loop`](tags.md#tag-seamless-loop)
+[`cat`](tags.md#tag-cat) [`line-drawing`](tags.md#tag-line-drawing) [`animated-gif`](tags.md#tag-animated-gif) [`seamless-loop`](tags.md#tag-seamless-loop) [`photo-edit`](tags.md#tag-photo-edit) [`photo-to-gif`](tags.md#tag-photo-to-gif)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -1249,7 +1249,7 @@ Changes one condition, the season and weather, and leaves the billboard, product
 
 GPT Image 2.6 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#change-one-condition)
 
-[`winter`](tags.md#tag-winter) [`snow`](tags.md#tag-snow) [`billboard`](tags.md#tag-billboard) [`weather-change`](tags.md#tag-weather-change)
+[`winter`](tags.md#tag-winter) [`snow`](tags.md#tag-snow) [`billboard`](tags.md#tag-billboard) [`weather-change`](tags.md#tag-weather-change) [`photo-edit`](tags.md#tag-photo-edit) [`background-change`](tags.md#tag-background-change)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -1270,7 +1270,7 @@ Asking for an unstyled photo look and banning cinematic lighting keeps the resul
 
 GPT Image 2.6 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#insert-a-person-into-a-scene)
 
-[`photorealism`](tags.md#tag-photorealism) [`person-insertion`](tags.md#tag-person-insertion) [`action-scene`](tags.md#tag-action-scene) [`yosemite`](tags.md#tag-yosemite)
+[`photorealism`](tags.md#tag-photorealism) [`person-insertion`](tags.md#tag-person-insertion) [`action-scene`](tags.md#tag-action-scene) [`yosemite`](tags.md#tag-yosemite) [`photo-edit`](tags.md#tag-photo-edit) [`background-change`](tags.md#tag-background-change)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -1293,7 +1293,7 @@ Two reference images are passed with a placement instruction, so the second imag
 
 GPT Image 2.6 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#combine-references)
 
-[`reference-images`](tags.md#tag-reference-images) [`dog`](tags.md#tag-dog) [`street-style`](tags.md#tag-street-style) [`image-combine`](tags.md#tag-image-combine)
+[`reference-images`](tags.md#tag-reference-images) [`dog`](tags.md#tag-dog) [`street-style`](tags.md#tag-street-style) [`image-combine`](tags.md#tag-image-combine) [`photo-edit`](tags.md#tag-photo-edit) [`object-edit`](tags.md#tag-object-edit)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -1314,7 +1314,7 @@ The prompt limits the edit to one object and names what must stay fixed: camera 
 
 GPT Image 2.6 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room)
 
-[`interior-design`](tags.md#tag-interior-design) [`furniture`](tags.md#tag-furniture) [`room-makeover`](tags.md#tag-room-makeover)
+[`interior-design`](tags.md#tag-interior-design) [`furniture`](tags.md#tag-furniture) [`room-makeover`](tags.md#tag-room-makeover) [`photo-edit`](tags.md#tag-photo-edit) [`object-edit`](tags.md#tag-object-edit)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -1338,7 +1338,7 @@ The prompt locks the original face and background first, then adds mini 3D chibi
 
 GPT Image 2 · Edit · Source: [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2051209193336545713) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
 
-[`chibi`](tags.md#tag-chibi) [`doodle`](tags.md#tag-doodle) [`sticker`](tags.md#tag-sticker) [`portrait`](tags.md#tag-portrait) [`reference-photo`](tags.md#tag-reference-photo)
+[`chibi`](tags.md#tag-chibi) [`doodle`](tags.md#tag-doodle) [`sticker`](tags.md#tag-sticker) [`portrait`](tags.md#tag-portrait) [`reference-photo`](tags.md#tag-reference-photo) [`photo-edit`](tags.md#tag-photo-edit) [`doodle-edit`](tags.md#tag-doodle-edit)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -1357,7 +1357,7 @@ One short follow-up on the previous output changes only the season and time of d
 
 GPT Image 2.5 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#refine-an-image-across-turns)
 
-[`multi-turn`](tags.md#tag-multi-turn) [`weather`](tags.md#tag-weather) [`edit`](tags.md#tag-edit)
+[`multi-turn`](tags.md#tag-multi-turn) [`weather`](tags.md#tag-weather) [`edit`](tags.md#tag-edit) [`photo-edit`](tags.md#tag-photo-edit) [`background-change`](tags.md#tag-background-change)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -1378,7 +1378,7 @@ Opens with a strict identity lock on the reference photo, then splits the rest i
 
 GPT Image 2 · Edit · Source: [@AiwithLariab on X](https://x.com/AiwithLariab/status/2091394735416160715) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
 
-[`cloud-balloon`](tags.md#tag-cloud-balloon) [`mountain`](tags.md#tag-mountain) [`travel-fashion`](tags.md#tag-travel-fashion) [`identity-preserve`](tags.md#tag-identity-preserve) [`vertical`](tags.md#tag-vertical)
+[`cloud-balloon`](tags.md#tag-cloud-balloon) [`mountain`](tags.md#tag-mountain) [`travel-fashion`](tags.md#tag-travel-fashion) [`identity-preserve`](tags.md#tag-identity-preserve) [`vertical`](tags.md#tag-vertical) [`photo-edit`](tags.md#tag-photo-edit) [`background-change`](tags.md#tag-background-change)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -1448,7 +1448,7 @@ The prompt pairs a restore instruction with explicit constraints: keep the drawi
 
 GPT Image 2.5 · Edit · Source: [@k_matsumaru on X](https://x.com/k_matsumaru/status/2097506834659893340) · found via [wangrunlin/awesome-gpt-image-2-5-prompts](https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts)
 
-[`image-restoration`](tags.md#tag-image-restoration) [`upscaling`](tags.md#tag-upscaling) [`anime`](tags.md#tag-anime) [`constraints`](tags.md#tag-constraints)
+[`image-restoration`](tags.md#tag-image-restoration) [`upscaling`](tags.md#tag-upscaling) [`anime`](tags.md#tag-anime) [`constraints`](tags.md#tag-constraints) [`photo-edit`](tags.md#tag-photo-edit) [`photo-restoration`](tags.md#tag-photo-restoration)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -1467,7 +1467,7 @@ The prompt first lists what must stay fixed (subject, pose, outfit, helmet, sett
 
 GPT Image 2 · Edit · Source: [@MMMusol on X](https://x.com/MMMusol/status/2051171670380126499) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
 
-[`cyberpunk`](tags.md#tag-cyberpunk) [`cinematic-grade`](tags.md#tag-cinematic-grade) [`cosplay`](tags.md#tag-cosplay) [`photo-retouch`](tags.md#tag-photo-retouch) [`relighting`](tags.md#tag-relighting)
+[`cyberpunk`](tags.md#tag-cyberpunk) [`cinematic-grade`](tags.md#tag-cinematic-grade) [`cosplay`](tags.md#tag-cosplay) [`photo-retouch`](tags.md#tag-photo-retouch) [`relighting`](tags.md#tag-relighting) [`photo-edit`](tags.md#tag-photo-edit) [`photo-restyle`](tags.md#tag-photo-restyle)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -1486,7 +1486,7 @@ The prompt pairs an attached reference with a strict style brief: white backgrou
 
 GPT Image 2 · Edit · Source: [@chetaslua on X](https://x.com/chetaslua/status/2052274915118645590) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
 
-[`ms-paint`](tags.md#tag-ms-paint) [`dragon-ball`](tags.md#tag-dragon-ball) [`doodle`](tags.md#tag-doodle) [`parody`](tags.md#tag-parody)
+[`ms-paint`](tags.md#tag-ms-paint) [`dragon-ball`](tags.md#tag-dragon-ball) [`doodle`](tags.md#tag-doodle) [`parody`](tags.md#tag-parody) [`photo-edit`](tags.md#tag-photo-edit) [`photo-restyle`](tags.md#tag-photo-restyle)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -1507,7 +1507,7 @@ The prompt lists every geometric attribute to preserve (silhouette, coil count, 
 
 GPT Image 2.5 · Edit · Source: [@higgsfield on X](https://x.com/higgsfield/status/2097514650518831462) · found via [wangrunlin/awesome-gpt-image-2-5-prompts](https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts)
 
-[`product-render`](tags.md#tag-product-render) [`geometry-guide`](tags.md#tag-geometry-guide) [`studio-lighting`](tags.md#tag-studio-lighting) [`3d-sculpture`](tags.md#tag-3d-sculpture) [`constraint-list`](tags.md#tag-constraint-list)
+[`product-render`](tags.md#tag-product-render) [`geometry-guide`](tags.md#tag-geometry-guide) [`studio-lighting`](tags.md#tag-studio-lighting) [`3d-sculpture`](tags.md#tag-3d-sculpture) [`constraint-list`](tags.md#tag-constraint-list) [`photo-edit`](tags.md#tag-photo-edit) [`photo-restyle`](tags.md#tag-photo-restyle)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -1526,7 +1526,7 @@ Splitting the two reference images by role works: Image 1 fixes layout, backgrou
 
 GPT Image 2.5 · Edit · Source: [@AdrianPunk115 on X](https://x.com/AdrianPunk115/status/2098055380857143807) · found via [wangrunlin/awesome-gpt-image-2-5-prompts](https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts)
 
-[`product-replacement`](tags.md#tag-product-replacement) [`poster`](tags.md#tag-poster) [`reference-images`](tags.md#tag-reference-images) [`iphone`](tags.md#tag-iphone)
+[`product-replacement`](tags.md#tag-product-replacement) [`poster`](tags.md#tag-poster) [`reference-images`](tags.md#tag-reference-images) [`iphone`](tags.md#tag-iphone) [`photo-edit`](tags.md#tag-photo-edit) [`object-edit`](tags.md#tag-object-edit)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -1563,7 +1563,7 @@ The prompt locks composition and objects first, then sets targets for each eleme
 
 GPT Image 2.5 · Edit · Source: [@HoodyLiu on X](https://x.com/HoodyLiu/status/2099115784417251690) · found via [wangrunlin/awesome-gpt-image-2-5-prompts](https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts)
 
-[`color-grading`](tags.md#tag-color-grading) [`japanese-film`](tags.md#tag-japanese-film) [`cherry-blossom`](tags.md#tag-cherry-blossom) [`portra-400`](tags.md#tag-portra-400) [`photo-retouch`](tags.md#tag-photo-retouch)
+[`color-grading`](tags.md#tag-color-grading) [`japanese-film`](tags.md#tag-japanese-film) [`cherry-blossom`](tags.md#tag-cherry-blossom) [`portra-400`](tags.md#tag-portra-400) [`photo-retouch`](tags.md#tag-photo-retouch) [`photo-edit`](tags.md#tag-photo-edit) [`photo-restyle`](tags.md#tag-photo-restyle)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -1582,7 +1582,7 @@ Names the single region to change, the screen, and the replacement content, then
 
 GPT Image 2.5 · Edit · Source: [@ai_kairos_jp on X](https://x.com/ai_kairos_jp/status/2097679848475099159) · found via [wangrunlin/awesome-gpt-image-2-5-prompts](https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts)
 
-[`local-edit`](tags.md#tag-local-edit) [`screen-replacement`](tags.md#tag-screen-replacement) [`workflow-diagram`](tags.md#tag-workflow-diagram) [`preserve-scene`](tags.md#tag-preserve-scene) [`desk-scene`](tags.md#tag-desk-scene)
+[`local-edit`](tags.md#tag-local-edit) [`screen-replacement`](tags.md#tag-screen-replacement) [`workflow-diagram`](tags.md#tag-workflow-diagram) [`preserve-scene`](tags.md#tag-preserve-scene) [`desk-scene`](tags.md#tag-desk-scene) [`photo-edit`](tags.md#tag-photo-edit) [`object-edit`](tags.md#tag-object-edit)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -1601,7 +1601,7 @@ Takes a reference image and locks the layout, text and exact panel and icon coun
 
 GPT Image 2 · Edit · Source: [@op7418 on X](https://x.com/op7418/status/2068239294372987378) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
 
-[`infographic`](tags.md#tag-infographic) [`upscale`](tags.md#tag-upscale) [`tea`](tags.md#tag-tea) [`layout-preserving`](tags.md#tag-layout-preserving) [`chinese-design`](tags.md#tag-chinese-design)
+[`infographic`](tags.md#tag-infographic) [`upscale`](tags.md#tag-upscale) [`tea`](tags.md#tag-tea) [`layout-preserving`](tags.md#tag-layout-preserving) [`chinese-design`](tags.md#tag-chinese-design) [`photo-edit`](tags.md#tag-photo-edit) [`photo-restoration`](tags.md#tag-photo-restoration)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -1630,7 +1630,7 @@ Lists every trait of the person that must stay fixed, then lets only the clothin
 
 GPT Image 2.5 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#preserve-identity-and-change-clothing)
 
-[`virtual-try-on`](tags.md#tag-virtual-try-on) [`fashion`](tags.md#tag-fashion) [`identity`](tags.md#tag-identity)
+[`virtual-try-on`](tags.md#tag-virtual-try-on) [`fashion`](tags.md#tag-fashion) [`identity`](tags.md#tag-identity) [`photo-edit`](tags.md#tag-photo-edit) [`outfit-change`](tags.md#tag-outfit-change)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -1651,7 +1651,7 @@ Spells out pose, gaze, torn clothing, place and dusk light, then asks again and 
 
 GPT Image 2.5 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#insert-a-person-into-a-scene)
 
-[`identity`](tags.md#tag-identity) [`action`](tags.md#tag-action) [`photorealism`](tags.md#tag-photorealism)
+[`identity`](tags.md#tag-identity) [`action`](tags.md#tag-action) [`photorealism`](tags.md#tag-photorealism) [`photo-edit`](tags.md#tag-photo-edit) [`background-change`](tags.md#tag-background-change)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -1674,7 +1674,7 @@ The prompt sets one core rule, photo background and doodle people, then lists wh
 
 GPT Image 2 · Edit · Source: [@Emmma__0 on X](https://x.com/Emmma__0/status/2091391958128251286) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
 
-[`doodle`](tags.md#tag-doodle) [`photo-edit`](tags.md#tag-photo-edit) [`people-replacement`](tags.md#tag-people-replacement) [`hand-drawn`](tags.md#tag-hand-drawn) [`background-preserve`](tags.md#tag-background-preserve)
+[`doodle`](tags.md#tag-doodle) [`photo-edit`](tags.md#tag-photo-edit) [`people-replacement`](tags.md#tag-people-replacement) [`hand-drawn`](tags.md#tag-hand-drawn) [`background-preserve`](tags.md#tag-background-preserve) [`doodle-edit`](tags.md#tag-doodle-edit)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -1756,7 +1756,7 @@ The prompt locks identity, pose, framing and background layout with explicit pre
 
 GPT Image 2 · Edit · Source: [@robiartec on X](https://x.com/robiartec/status/2063969416388178020) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
 
-[`photo-restoration`](tags.md#tag-photo-restoration) [`pet`](tags.md#tag-pet) [`upscale`](tags.md#tag-upscale) [`photorealistic`](tags.md#tag-photorealistic) [`cat`](tags.md#tag-cat)
+[`photo-restoration`](tags.md#tag-photo-restoration) [`pet`](tags.md#tag-pet) [`upscale`](tags.md#tag-upscale) [`photorealistic`](tags.md#tag-photorealistic) [`cat`](tags.md#tag-cat) [`photo-edit`](tags.md#tag-photo-edit)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -1775,7 +1775,7 @@ The prompt refers to each image by number and says what moves, where it goes and
 
 GPT Image 2.5 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#combine-references)
 
-[`composite`](tags.md#tag-composite) [`reference`](tags.md#tag-reference) [`pets`](tags.md#tag-pets)
+[`composite`](tags.md#tag-composite) [`reference`](tags.md#tag-reference) [`pets`](tags.md#tag-pets) [`photo-edit`](tags.md#tag-photo-edit) [`object-edit`](tags.md#tag-object-edit)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -1796,7 +1796,7 @@ Names the single object to remove and forbids any other change, so the model era
 
 GPT Image 2.5 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object)
 
-[`remove`](tags.md#tag-remove) [`inpainting`](tags.md#tag-inpainting) [`local-edit`](tags.md#tag-local-edit)
+[`remove`](tags.md#tag-remove) [`inpainting`](tags.md#tag-inpainting) [`local-edit`](tags.md#tag-local-edit) [`photo-edit`](tags.md#tag-photo-edit) [`object-edit`](tags.md#tag-object-edit)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -1817,7 +1817,7 @@ The prompt names each element to keep, namely pose, framing, curtain, dress, hai
 
 GPT Image 2 · Edit · Source: [@doctorwasif on X](https://x.com/doctorwasif/status/2048014890028486904) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
 
-[`photo-restoration`](tags.md#tag-photo-restoration) [`colorize`](tags.md#tag-colorize) [`vintage`](tags.md#tag-vintage) [`family-portrait`](tags.md#tag-family-portrait) [`4k`](tags.md#tag-4k)
+[`photo-restoration`](tags.md#tag-photo-restoration) [`colorize`](tags.md#tag-colorize) [`vintage`](tags.md#tag-vintage) [`family-portrait`](tags.md#tag-family-portrait) [`4k`](tags.md#tag-4k) [`photo-edit`](tags.md#tag-photo-edit)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -1836,7 +1836,7 @@ Locks layout, proportions and perspective, lets the model choose materials and l
 
 GPT Image 2.5 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image)
 
-[`sketch`](tags.md#tag-sketch) [`photorealism`](tags.md#tag-photorealism) [`landscape`](tags.md#tag-landscape)
+[`sketch`](tags.md#tag-sketch) [`photorealism`](tags.md#tag-photorealism) [`landscape`](tags.md#tag-landscape) [`photo-edit`](tags.md#tag-photo-edit) [`photo-restyle`](tags.md#tag-photo-restyle)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -1860,7 +1860,7 @@ Writing ONLY in capitals locks the edit to the chairs, and listing what to prese
 
 GPT Image 2.5 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room)
 
-[`interior`](tags.md#tag-interior) [`local-edit`](tags.md#tag-local-edit) [`photorealism`](tags.md#tag-photorealism)
+[`interior`](tags.md#tag-interior) [`local-edit`](tags.md#tag-local-edit) [`photorealism`](tags.md#tag-photorealism) [`photo-edit`](tags.md#tag-photo-edit) [`object-edit`](tags.md#tag-object-edit)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -1884,7 +1884,7 @@ One instruction names the target language and a second locks every other aspect 
 
 GPT Image 2.5 · Edit · Source: [OpenAI image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting#translate-while-preserving-layout)
 
-[`translation`](tags.md#tag-translation) [`edit`](tags.md#tag-edit) [`text-render`](tags.md#tag-text-render)
+[`translation`](tags.md#tag-translation) [`edit`](tags.md#tag-edit) [`text-render`](tags.md#tag-text-render) [`photo-edit`](tags.md#tag-photo-edit) [`object-edit`](tags.md#tag-object-edit)
 
 <details><summary><b>Prompt</b></summary>
 

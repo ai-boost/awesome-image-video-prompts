@@ -9,6 +9,8 @@ tags:
 - interior-design
 - furniture
 - room-makeover
+- photo-edit
+- object-edit
 source:
   name: OpenAI image prompting guide
   url: https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room

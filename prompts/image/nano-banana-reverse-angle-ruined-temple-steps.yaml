@@ -9,6 +9,8 @@ tags:
 - reverse-angle
 - camera-angle
 - subject-consistency
+- photo-edit
+- background-change
 source:
   name: '@ai_artworkgen on X'
   url: https://x.com/ai_artworkgen/status/2116217421077848340

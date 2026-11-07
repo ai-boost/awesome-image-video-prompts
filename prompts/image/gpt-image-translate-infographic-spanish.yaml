@@ -9,6 +9,8 @@ tags:
 - translation
 - edit
 - text-render
+- photo-edit
+- object-edit
 source:
   name: OpenAI image prompting guide
   url: https://developers.openai.com/api/docs/guides/image-prompting#translate-while-preserving-layout
