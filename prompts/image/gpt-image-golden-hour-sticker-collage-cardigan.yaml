@@ -1,0 +1,49 @@
+id: gpt-image-golden-hour-sticker-collage-cardigan
+title:
+  en: Anime sticker woman over four photo scenes
+  zh: 动漫贴纸女孩叠加四张实拍场景
+model: GPT Image 2.5
+mode: image-edit
+category: collage
+tags:
+- collage
+- character-consistency
+- anime-mix
+- golden-hour
+source:
+  name: '@Ziha_ai on X'
+  url: https://x.com/Ziha_ai/status/2119691900894773400
+  credit: Ziha
+  likes: 117
+  captured: '2026-11-10'
+  posted: '2026-11-09'
+notes:
+  en: The reference image is used as the layout guide, and the prompt locks one face, hairstyle and outfit across five appearances. The central anime figure sits over real photos with a thick white die-cut border, which contrasts the drawn character with the photographic background.
+  zh: 以参考图作为版式依据，并锁定同一人物的脸部、发型和服装在五次出现中保持一致。中间的动漫人物带白色模切贴纸边框，叠在实拍照片之上，让手绘角色与摄影背景形成对比。
+prompt: |
+  Create a vertical 9:16 photorealistic aesthetic collage using the uploaded reference image as the layout guide.
+
+  Main Concept:
+  A stylish character collage featuring the same young woman appearing in five different scenes. Arrange four realistic photographs in a 2×2 collage background, with one large illustrated cartoon version of the woman standing in the center.
+
+  Character Consistency:
+  Use the same person's face, hairstyle, facial features, and skin tone across all five appearances. The central character should be a cute 2D anime-style illustration with large expressive eyes, a gentle smile, clean outlines, and a thick white sticker border.
+
+  Outfit:
+  A cream-colored oversized knitted cardigan with black geometric patterns and buttons, a long black skirt, white socks, beige sandals, and a cream woven shoulder tote bag. Keep the outfit identical in every scene.
+
+  Background Scenes:
+
+  1. Standing outdoors on a sunny rooftop terrace, holding the woven tote bag.
+  2. Sitting sideways on a wooden bench beside a brick building.
+  3. Sitting casually on a wooden bench, raising one hand.
+  4. Standing near a traditional Korean-style rooftop with a gentle smile.
+
+  Central Character:
+  A full-body cartoon illustration in the exact same outfit, standing naturally while holding the woven tote bag. Place her prominently over the four background photographs with a thick white die-cut sticker outline.
+
+  Visual Style:
+  Soft golden-hour sunlight, warm film photography, pastel tones, dreamy atmosphere, natural shadows, subtle vintage aesthetic, realistic photography combined with cute anime illustration.
+
+  Important:
+  Preserve the original collage composition, clothing, accessories, poses, and background details. Maintain consistent facial identity across every appearance. High-quality details, clean composition, vertical 9:16 aspect ratio.

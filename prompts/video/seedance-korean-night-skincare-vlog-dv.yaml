@@ -1,0 +1,33 @@
+id: seedance-korean-night-skincare-vlog-dv
+title:
+  en: Korean woman night skincare routine in handheld DV style
+  zh: 韩国女生夜间护肤 手持 DV 质感 Vlog
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- skincare
+- ugc
+- handheld
+- product-placement
+source:
+  name: '@QAiStudio on X'
+  url: https://x.com/QAiStudio/status/2118337407657644323
+  credit: QAiStudio
+  captured: '2026-11-10'
+  posted: '2026-11-05'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/QAiStudio/status/2118337407657644323
+notes:
+  en: Anchors the look to a named camcorder format with handheld shake, tape grain and muted contrast, then writes the product as one casual step in the routine so it reads as vlog footage rather than an ad. A fixed character description and a night to next morning structure keep the same person consistent across the 12 cuts.
+  zh: 用具体的 DV 16mm 摄像机风格锁定画面质感，包括手持抖动、磁带颗粒和低对比度，再把产品写成日常护肤流程中的一个自然步骤，让画面像 vlog 实拍而不是广告。固定的角色外观加上从夜晚到次日清晨的结构，让 12 个镜头里的人物保持一致。
+prompt: |
+  Create a 30-second, 12-cut authentic UGC skincare vlog featuring CHASE, a Korean woman in her 20s, filming her nighttime routine with a handheld DV 16mm camcorder aesthetic. Use imperfect handheld framing, subtle shake, soft focus, tape grain, muted contrast, and natural skin texture.
+
+  CHASE has long black hair clipped up, minimal makeup, and wears oversized modest cotton pajamas at night, transitioning to a cozy knit sweater with her hair down the next morning. The setting is her bedroom vanity and bathroom, with warm lamp lighting at night and soft daylight in the morning.
+
+  Feature Lumé Dew Brightening Cream, a palm-sized frosted milky-white round jar with a peach-pink label, delicate lowercase branding, a small gold sun icon, and a flat brushed-gold lid. The cream inside is whipped, lightweight, and creamy white.
+
+  Follow her casual nighttime routine: greeting the camera, showing her cleanser and toner, rinsing her face, applying toner, introducing the Lumé Dew jar, opening it, showing the cream texture, applying it gently, and placing it back on the vanity before switching off the lamp. Transition to the next morning, where she checks her skin in natural daylight and finishes smiling at the camera while holding the product.
+
+  Keep the narration relaxed and conversational, like chatting with a friend. Include satisfying close-up product and skincare details, natural ambient sounds, and a cozy lifestyle feel. The product should appear organically throughout, never like a formal advertisement. End with a calm, authentic next-day skin check.

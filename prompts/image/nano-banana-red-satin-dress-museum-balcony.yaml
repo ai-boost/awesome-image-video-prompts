@@ -1,0 +1,46 @@
+id: nano-banana-red-satin-dress-museum-balcony
+title:
+  en: Woman in red satin dress beside gilded choir screen
+  zh: 红色缎面礼服女子站在金色唱诗席屏风前
+model: Nano Banana Pro
+mode: text-to-image
+category: realism
+tags:
+- fashion
+- structured-prompt
+- museum-interior
+source:
+  name: '@Adam38363368936 on X'
+  url: https://x.com/Adam38363368936/status/2006570723549261959
+  credit: Adam也叫吉米
+  likes: 185
+  captured: '2026-11-10'
+  posted: '2025-12-31'
+notes:
+  en: Splitting the prompt into subject, attire, environment and technical blocks keeps each element separate, so the red dress and the gold choir screen both come through. Stating eye level, full shot and soft diffuse daylight locks in a clean, even fashion frame.
+  zh: 将提示词拆分为主体、服装、环境和技术参数等模块，让红色礼服与金色唱诗席屏风各自被准确描述。明确平视、全身构图和柔和漫射自然光，使画面保持干净均匀的时尚摄影质感。
+prompt: |
+  "subject": {
+        "type": "Young woman",
+        "hair": "Long, dark brunette, loose waves, parted in the middle",
+        "pose": "Standing full-body, leaning backwards against a stone balustrade, one hand resting on the railing, legs crossed at the ankles, looking down/away candidly",
+        "expression": "Neutral, elegant, contemplative"
+      },
+      "attire": {
+        "dress": "Deep crimson red satin mini dress, fit-and-flare silhouette, plunging V-neckline, spaghetti straps, tiered ruffled skirt",
+        "shoes": "Dark plum or black pointed-toe high heels",
+        "accessories": "Simple drop earrings"
+      },
+      "environment": {
+        "setting": "Grand museum interior (Victorian/Classical architecture)",
+        "foreground": "White stone balcony with a decorative balustrade (railing) featuring classic balusters",
+        "background": "Large white architectural arches with detailed molding, an ornate Gothic Revival metal and gold choir screen visible in the distance",
+        "flooring": "Parquet wood flooring"
+      },
+      "technical_specs": {
+        "lighting": "Soft natural indoor light, diffuse and even, daylight ambience",
+        "camera_angle": "Eye-level, full shot",
+        "style": "High-fashion lifestyle photography, photorealistic, cinematic composition, crisp focus"
+      }
+    }
+  }

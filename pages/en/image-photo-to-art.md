@@ -1,6 +1,6 @@
 # Photo to art
 
-[Back to the list](../../README.md) · All 111 entries
+[Back to the list](../../README.md) · All 112 entries
 
 <a id="gpt-image-photo-to-watercolor-travel"></a>
 ### Travel photo above, same scene as watercolor below
@@ -1080,6 +1080,49 @@ Gemini · Edit · Source: [@gemini_photo on TikTok](https://www.tiktok.com/@gemi
 
 ```text
 Masterpiece, ultra-photorealistic, premium luxury editorial portrait, vertical composition. Create a large three-dimensional capital letter “VM” as the main centerpiece. The V and M must be clearly recognizable, perfectly formed, elegant and symmetrical, with the couple naturally integrated into the structure of the letters. A handsome young man stands on the left side, positioned along the V, wearing an elegant cream/off-white linen shirt with slightly rolled sleeves, matching tailored trousers and clean white sneakers. His body follows the diagonal shape of the V, creating a natural human interpretation of the letter. He gently looks toward the woman with a romantic expression. A beautiful young woman is positioned on the right/lower section of the M, sitting gracefully on one of the diagonal strokes while leaning slightly toward the man. She wears a sophisticated long flowing lavender-blue dress, elegant and modest, with delicate fabric details and soft natural folds. Her pose follows the geometry of the M, creating a visually meaningful connection between the couple and the letter. The couple should look naturally connected, with subtle romantic body language, soft eye contact and elegant chemistry — romantic but classy, not overly sexual. The entire VM letter should be luxurious deep navy blue, with a subtle metallic silver/chrome outline, realistic dimensional depth, glossy reflective edges and intricate elegant texture. Decorate the V and M with premium navy-blue and soft lavender flowers, delicate white flowers and tiny warm fairy lights arranged around the edges, without hiding the letter shape. Set the scene inside a luxurious dark navy studio, with dramatic soft spotlighting, subtle mist, cinematic shadows, warm glowing highlights and a highly polished reflective floor creating beautiful reflections of the couple and VM letter. Add tasteful small typography at the top: “LETTER” and at the bottom: “PORTRAIT”, using thin elegant white serif typography with a tiny heart symbol. Ultra-detailed skin texture, realistic hair strands, realistic fabric, natural anatomy, accurate hands and fingers, realistic shoes, cinematic depth of field, soft bokeh, luxury fashion photography, premium magazine aesthetic, dramatic but elegant lighting, photorealistic, 8K quality. Important: The V and M must remain clearly readable from the first glance, the couple must be positioned according to the actual letter structure, no extra letters, no distorted typography, no cartoon/anime appearance, no duplicated people, no extra limbs or fingers, no deformed faces. .
+```
+
+</details>
+
+<a id="gpt-image-3d-animated-bust-blonde-portrait"></a>
+### 3D animated bust portrait with windswept blonde hair
+
+<a href="https://x.com/harboriis/status/2118976038911000898"><img src="../../previews/gpt-image-3d-animated-bust-blonde-portrait.jpg" width="360"></a>
+
+Fixing the framing, a pure #FFFFFF background and a shadowed rounded bottom edge gives a clean square bust. The reference photo plus an identity-first clause keeps the likeness while the 3D animation style is applied on top.
+
+GPT Image 2.5 · Edit · Source: [@harboriis on X](https://x.com/harboriis/status/2118976038911000898) · 284 likes on 2026-11-10
+
+[`3d`](tags.md#tag-3d) [`portrait`](tags.md#tag-portrait) [`profile-picture`](tags.md#tag-profile-picture)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Professional 3D Animated Character Portrait | Animator's Brief
+
+Using the uploaded reference photo, create a premium-quality 3D animated character portrait of me, inspired by the expressive charm and polished visual storytelling of Pixar-style character design.
+
+Character Design: Transform me into a beautifully stylized 3D animated version while preserving my distinctive facial features, face shape, hairstyle, skin tone, and recognizable identity. The character should look instantly recognizable to anyone familiar with the original photo. Maintain natural facial proportions while adding subtle animated charm, expressive eyes, and refined details.
+
+Composition: Create a head-and-shoulders bust portrait only, positioned precisely in the center of the canvas. Keep the character relatively small, surrounded by generous, clean negative space on all sides. Use a pure, seamless white background with no additional objects or decorations.
+
+Rendering & Lighting: Use high-quality 3D character rendering, smooth yet realistic skin shading, detailed hair, refined facial textures, and soft studio lighting. Keep the skin tone fair and neutral, with accurate natural undertones. Avoid excessive warmth, golden hues, orange casts, or yellowish skin tones.
+
+Finishing Details: Give the bottom of the bust a smooth, softly rounded sculptural edge, with a subtle natural shadow directly beneath it to create a gentle floating effect. Maintain clean contours and beautifully polished 3D surfaces.
+
+Overall Aesthetic: Premium animated movie character quality, playful yet sophisticated, friendly facial expression, appealing character proportions, cinematic 3D craftsmanship, and professional studio presentation.
+
+Technical Requirements:
+
+- Aspect ratio: 1:1 (square)
+- Background: Pure white (#FFFFFF)
+- Framing: Head and shoulders only
+- Placement: Precisely centered
+- Lighting: Soft, balanced studio lighting
+- Output: High-resolution, crisp and polished
+- Intended use: WhatsApp profile picture
+
+Important: Identity preservation is the highest priority. Do not change my recognizable facial characteristics or invent a different person. The final result should feel like me reimagined as a high-end animated movie character.
 ```
 
 </details>

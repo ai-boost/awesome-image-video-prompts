@@ -1,6 +1,6 @@
 # Anime and animation
 
-[Back to the list](../../README.md) · All 81 entries · [1](video-anime.md) · **2**
+[Back to the list](../../README.md) · All 82 entries · [1](video-anime.md) · **2**
 
 <a id="seedance-ukiyo-e-tokyo-city-scroll"></a>
 ### Woodblock picture scroll unfolds over Edo bridge

@@ -1,6 +1,130 @@
 # Portraits
 
-[Back to the list](../../README.md) · All 273 entries · [1](image-portrait.md) · [2](image-portrait-2.md) · **3**
+[Back to the list](../../README.md) · All 278 entries · [1](image-portrait.md) · [2](image-portrait-2.md) · **3**
+
+<a id="gpt-image-night-flash-portrait-outside-restaurant"></a>
+### Night Flash Portrait Outside Restaurant
+
+<a href="https://x.com/craftian_keskin/status/2046774231900287107"><img src="../../previews/gpt-image-night-flash-portrait-outside-restaurant.jpg" width="360"></a>
+
+Direct on camera flash is paired with a raw film snapshot look, slight grain and deep shadows for an unfiltered nightlife feel. Exact jewelry counts, a thigh up vertical frame and specific sign text and neon placement keep the scene precise.
+
+GPT Image 2 · Text-to-image · Source: [@craftian_keskin on X](https://x.com/craftian_keskin/status/2046774231900287107) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`night-portrait`](tags.md#tag-night-portrait) [`direct-flash`](tags.md#tag-direct-flash) [`street-style`](tags.md#tag-street-style) [`film-grain`](tags.md#tag-film-grain) [`candid`](tags.md#tag-candid)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A candid nighttime street portrait of a young woman sitting casually on a woven bistro café chair outside a small urban restaurant. She has long black hair worn loose and slightly tousled, tan skin, and minimal natural makeup with a soft flash-lit glow. She wears a fitted white tank top layered over a visible black lace bralette and high-waisted relaxed blue jeans, with subtle gold jewelry: 2 thin bracelets on one wrist, 1 delicate necklace with a tiny heart pendant, and 1 slim bracelet on the other wrist. She leans diagonally toward the camera with one arm draped over the curved chair back and the other hand resting near her lap, giving an off-camera calm, detached expression. Shot vertically as a medium portrait from about thigh-up, slightly close and intimate, direct on-camera flash creating bright skin highlights, deep shadows, and a raw film-snapshot look with slight grain. The setting is a dark city sidewalk at night with storefront windows, black-painted exterior walls, warm interior reflections, and a glowing yellow sign in the upper left reading KOZY KORNER RESTAURANT, with a smaller lit sign below reading LIQUORS. Add a narrow red vertical neon glow in the background, distant streetlights and blurred city bokeh along the left side, and faint gold lettering on the glass door to the right. Include a clear glass bottle on the table edge at the far right. Authentic nightlife mood, stylish but unfiltered, shallow depth of field, realistic proportions, flash photography aesthetic, cinematic urban candid.
+```
+
+</details>
+
+<a id="gpt-image-night-market-skewer-three-sword-pose"></a>
+### Aloof woman striking skewer three sword pose
+
+<a href="https://x.com/BubbleBrain/status/2046564674112831920"><img src="../../previews/gpt-image-night-market-skewer-three-sword-pose.jpg" width="360"></a>
+
+A named pose with exact placement (one skewer in the mouth, one in each hand, crossed) keeps the gesture readable. A low angle wide lens, warm night market bokeh and film grain give it a fashion shoot look.
+
+GPT Image 2 · Text-to-image · Source: [@BubbleBrain on X](https://x.com/BubbleBrain/status/2046564674112831920) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`night-market`](tags.md#tag-night-market) [`street-photography`](tags.md#tag-street-photography) [`fashion`](tags.md#tag-fashion) [`film-look`](tags.md#tag-film-look) [`low-angle`](tags.md#tag-low-angle)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+[中文]
+一个有着清冷孤傲气质的绝美佳人，精致的面部特征，一张冷酷且精致的高级时装面容，长发，以及优雅苗条的身材；烧烤“三刀流”姿势：嘴里叼着一根烧烤串，每只手各拿一根烧烤串交叉以模仿索隆的三刀流；街头夜景氛围，温暖黄色的夜市灯光，模糊的背景，胶片般的质感，柔焦光晕，电影般的叙事感，时髦高端网红风格的时尚拍摄，清晰发光的肌肤，清晰细致的发丝，生动的动态表情，低角度广角镜头，情绪化的暗调氛围，浅景深，超高清8K，极致细节，电影级光照
+
+[English]
+a stunning beauty with a cool, aloof atmosphere, delicate facial features, a cold and sophisticated high-fashion face, long hair, and a graceful slender figure; barbecue “three-sword style” pose: one barbecue skewer held in her mouth, one skewer in each hand crossed to mimic Zoro’s three-sword style; street night scene ambiance, warm yellow night market lighting, blurred background, film-like texture, soft-focus glow, cinematic storytelling feel, trendy high-end influencer-style fashion shoot, clear luminous skin, sharply detailed strands of hair, lively dynamic expression, low-angle wide-angle shot, moody dark-toned atmosphere, shallow depth of field, ultra HD 8K, extreme detail, cinematic lighting
+```
+
+</details>
+
+<a id="gpt-image-oversized-button-fashion-split-editorial"></a>
+### Split frame fashion editorial with oversized colorful buttons
+
+<a href="https://x.com/Mind_Boticni/status/2053082199436759258"><img src="../../previews/gpt-image-oversized-button-fashion-split-editorial.jpg" width="360"></a>
+
+A split frame layout names each panel separately (full body left, two half body panels right) and asks for a different face, pose and background tone in each. A fixed cyan, orange, yellow and red palette plus glossy studio lighting keeps the three panels unified.
+
+GPT Image 2 · Text-to-image · Source: [@Mind_Boticni on X](https://x.com/Mind_Boticni/status/2053082199436759258) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`fashion`](tags.md#tag-fashion) [`editorial`](tags.md#tag-editorial) [`split-frame`](tags.md#tag-split-frame) [`buttons`](tags.md#tag-buttons) [`studio`](tags.md#tag-studio)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Use reference image as style guide.
+Surreal minimalist fashion editorial photography with vibrant oversized colorful buttons as main visual theme (cyan, orange, yellow, red palette), glossy 3D surface design, clean studio lighting, ultra-smooth gradients, and high-end commercial fashion look.
+Split-frame composition:
+
+Left side: full-body female model standing from top to bottom, wearing bold minimalist fashion outfit inspired by reference style, confident pose, clean studio background filled with oversized colorful buttons, cinematic lighting, soft shadows, ultra-clean composition.
+
+Right side (vertically split into two parts):
+Top-right: half-body female model, different face, different pose, different outfit variation inspired by same button aesthetic, different background color mood.
+Bottom-right: another half-body female model, completely different expression and pose, different styling, different background tone, maintaining same surreal button universe aesthetic.
+
+Each section visually distinct but unified by the colorful button-inspired design language, glossy surfaces, soft studio reflections, and fashion magazine editorial feel.
+Hyper-realistic, cinematic lighting, ultra-clean composition, high-end luxury campaign style, depth, contrast, 8k, 1:1 aspect ratio --style raw --v 6 --ar 1:1
+```
+
+</details>
+
+<a id="gpt-image-phone-screen-face-cover-store-portrait"></a>
+### Woman hiding eyes behind phone showing her face
+
+<a href="https://x.com/Ciri_ai/status/2053535379618423118"><img src="../../previews/gpt-image-phone-screen-face-cover-store-portrait.jpg" width="360"></a>
+
+The prompt fixes the setting, a slightly elevated frontal angle and the exact hand pose, then states that the phone screen faces the camera and shows her face live. That makes the phone a frame within the frame, while the reference image keeps the identity consistent.
+
+GPT Image 2 · Edit · Source: [@Ciri_ai on X](https://x.com/Ciri_ai/status/2053535379618423118) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`iphone-style`](tags.md#tag-iphone-style) [`creative-portrait`](tags.md#tag-creative-portrait) [`frame-within-frame`](tags.md#tag-frame-within-frame) [`identity-preserved`](tags.md#tag-identity-preserved) [`street-photo`](tags.md#tag-street-photo)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Ultra-realistic creative portrait taken with an iPhone, identity accurately preserved from the reference image. A woman stands inside a store, facing a glass display window or a reflective wall, photographed from a slightly elevated frontal angle. She holds a smartphone horizontally in front of her face, covering her eyes and the upper part of her face. The phone's screen points at the camera and clearly displays a real-time image of her face.
+```
+
+</details>
+
+<a id="gpt-image-pink-varsity-flower-cafe-portrait"></a>
+### Pink varsity jacket woman seated at flower cafe
+
+<a href="https://x.com/xRahultripathi/status/2050677614168391716"><img src="../../previews/gpt-image-pink-varsity-flower-cafe-portrait.jpg" width="360"></a>
+
+Strict labelled blocks for pose, framing, outfit, lighting and camera keep the edit controlled, while a keep the same face clause preserves identity. A low angle 50mm lens, a warm pastel grade and a negative list for eye contact and cropping steer the composition.
+
+GPT Image 2 · Edit · Source: [@xRahultripathi on X](https://x.com/xRahultripathi/status/2050677614168391716) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`portrait`](tags.md#tag-portrait) [`pastel`](tags.md#tag-pastel) [`flower-shop`](tags.md#tag-flower-shop) [`low-angle`](tags.md#tag-low-angle) [`face-preserve`](tags.md#tag-face-preserve)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Edit the provided image while preserving the same face identity, shape, and facial features without altering age, ethnicity, or structure. Maintain a calm, relaxed expression with the subject not looking at the camera.
+
+Subject: young woman (18–23) with soft feminine beauty, smooth glowing skin, natural texture.
+Pose (strict): seated on a wooden chair, body angled sideways (45–70°), legs crossed naturally, upper body slightly leaning forward, head turned away from camera, gaze to the side. She holds a drink cup with a straw using both hands.
+Framing: full-body vertical (9:16), head to shoes visible, centered but slightly offset for natural composition.
+Outfit: light pink varsity jacket with white stripes, soft pink inner top, modest knee-length pleated skirt, white sneakers.
+Accessories: beige newsboy cap, sunglasses (on face or cap), pink shoulder bag, small earrings.
+Hair: neat low bun with soft loose strands.
+Environment: outdoor flower shop street scene with pastel flowers (pink, soft tones), decorative plants, floral storefront.
+Lighting: bright natural daylight, soft glossy skin highlights, balanced exposure, soft shadows.
+Camera: low/frog angle (slightly below, looking up), 50mm lens, shallow depth of field.
+Color grading: warm pastel palette (pink, cream), clean bright lifestyle aesthetic.
+Quality: ultra-photorealistic, 8K detail, DSLR realism, natural skin texture.
+Negative: front-facing, eye contact, close-up, cropped body, mini/short skirt, indoor scene, dark lighting, anime, cartoon, CGI, plastic skin, distorted anatomy.
+--ar 9:16 --style raw --quality high
+```
+
+</details>
 
 <a id="gpt-image-rooftop-court-sunset-varsity-portrait"></a>
 ### Woman in varsity jacket on rooftop court at sunset

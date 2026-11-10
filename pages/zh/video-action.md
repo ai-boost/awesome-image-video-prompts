@@ -1,6 +1,6 @@
 # 动作、追逐与运动
 
-[返回目录](../../README_zh.md) · 全部 210 条 · **1** · [2](video-action-2.md) · [3](video-action-3.md)
+[返回目录](../../README_zh.md) · 全部 224 条 · **1** · [2](video-action-2.md) · [3](video-action-3.md)
 
 <a id="seedance-seoul-subway-revenge"></a>
 ### 首尔地铁站复仇喜剧
@@ -782,6 +782,31 @@ shot 4:the character is stopped by a pack of wolves.
 shot 5: he fights the wolves with his stick.
 
 Link to Spaces below
+```
+
+</details>
+
+<a id="h3-mai-shiranui-desktop-fan-attack"></a>
+### 不知火舞用扇子击落再复原桌面图标
+
+<a href="https://x.com/aidavid125/status/2102662408271692102"><img src="../../previews/h3-mai-shiranui-desktop-fan-attack.jpg" width="360"></a>
+
+参考图锁定角色与桌面布局，再用带时间码的分镜列表规定攻击、特写和复原的先后顺序。每个镜头都写明运镜和音效节拍，使切换与声音对齐。
+
+MiniMax H3 · 参考生视频 · 出处: [@aidavid125 on X](https://x.com/aidavid125/status/2102662408271692102) · 439 赞，统计于 2026-11-10 · 发现于 [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`fighting-game`](tags.md#tag-fighting-game) [`mai-shiranui`](tags.md#tag-mai-shiranui) [`multi-shot`](tags.md#tag-multi-shot) [`desktop-scene`](tags.md#tag-desktop-scene)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description: [Shot 1] 2D-animated, retro arcade fighting-game character art style blended with a clean macOS desktop scene, exactly as established in <Picture 1>: an arc-shaped light-band wallpaper sweeps from deep blue-violet at the lower left to orange-red and magenta at the upper right over a mirror-like reflective ground; two vertical columns of glossy rounded-square application icons stand on the left half — each icon is a clean pictogram with NO text label beneath it: the first column shows from top to bottom a blue smiling face, a red-yellow-green ring around a blue center dot, a white "N" block in a dark frame, a light-blue infinity-style ribbon, a dark tile with blue letters, an amber tile with yellow script, a purple tile with white letters, and green arcs inside a circle; the second column shows two white chat bubbles on green, a penguin on white, a white paper plane on blue gradient, four colored squares in a grid, a blue-green spiral ring, a red play triangle, colorful pinwheel petals, and a white "A" brushstroke on blue — on the right stands the brown high-ponytail young woman with white horn-like hair ornaments, wearing a red high-slit qipao-style fighting outfit with a large white waist knot trailing red-floral ribbons and white-tassel beads in her hair, black fingerless gloves and red-black heeled sandals; she holds an open white fan with red trim hanging behind her hip while one hand rests on her waist, gazing back over her shoulder. The camera pushes in with small amplitude at slow speed as she pivots from the回眸 stance into a low crouch, orange-yellow fire ribbons beginning to swirl around her feet and embers spiraling upward past her shoulders. [Shot 2] At 00:04.500, the camera cuts to a wider shot of the full desktop as she explodes out of the crouch into a dramatic backbend spin — one leg planted, the other extended far to the side-rear, torso twisted and arched backward, ponytail flaring wide in the motion — and roars <d>[Japanese] 超必殺・忍蜂！</d> A ring of glowing shuriken erupts from her spinning body and orbits outward like a whirlpool across the center of the screen; as the blades sweep through the icon columns, open fans launch from her wrist in rapid succession and strike the icons one by one — each struck icon wobbles violently, peels off its grid position, and tumbles downward with motion blur past the reflective ground out of frame, trailing orange-yellow sparks. The final shuriken detonates at the center of the grid as a white-blue light bloom, shaking the whole desktop loose; every remaining icon rains down in a cascade while her spin finishes in a low landing, one hand extended forward, palm up. [Shot 3] At 00:10.500, the camera cuts to a medium close-up of the young woman across the now-empty center of the screen; her expression stays calm and unbothered, lips pressed into a confident smirk while embers drift past her shoulder. She slowly raises her open fan beside her face and says <d>[Japanese] 花蝶扇。</d> Orange-yellow flame begins to gather along the fan's ribs like liquid fire pooling on silk, the light reflecting off her white waist knot and red-floral ribbons as tiny sparks orbit her wrist. [Shot 4] At 00:13.500, the shot cuts back to the full desktop as she sweeps the burning fan in a wide graceful arc through another spin; ribbons of orange-yellow flame unfurl from the fan like butterfly wings trailing behind her, and each ribbon's tip hooks one falling icon from below the frame, reeling it smoothly up into its exact original grid position — every lock-in flashing a small white-blue light bloom with a sharp click as the icons seat crisply back into place, restoring both columns perfectly. The last ribbon curls around the final icon and dissolves into sparks that spiral back into her fan as she closes it with a snap at her hip. [Shot 5] At 00:17.000, the camera cuts to a low-angle hero shot as she settles into her classic pose from <Picture 1>: side-turned stance with weight on the rear leg, one hand on her waist, the closed fan held elegantly beside her face, chin tilted down in a cold confident glare while her ribbons and hair flare outward in the residual wind. The camera pulls out with small amplitude at slow speed, revealing the fully restored desktop around her; drifting orange sparks fade to black as she holds the pose until the end of the video.
+
+overall_soundscape: Low flame crackle builds under a rumbling charge, then an explosive whoosh on the backbend spin — rapid shuriken whistles and fan-snap cracks striking icons one after another — followed by cascading rattling clatters as icons tumble out of frame and a sharp white-blue burst pop. A crisp fan snap and a soft confident breath carry across the empty desktop during the calm close-up. Rising flame hiss gathers along the fan's ribs, then graceful silk-ribbon whooshes sweep through the spin while crisp snap-back clicks land one after another as each icon locks into place with tiny light-bloom pops, ending with a low resonant boom under guttering ember crackle.
+
+non_diegetic_music: Driving taiko drums with fast electronic percussion at a high tempo building to a hard hit on the shuriken barrage, dropping out to sparse sustained synth and a single koto pluck during the calm close-up, then returning for one final strong downbeat as she locks her classic pose.
 ```
 
 </details>
@@ -3376,69 +3401,6 @@ integrated_multimodal_description: [Shot 1] Photoreal live-action rainy alley co
 overall_soundscape: Two distinct female vocal identities only: Chun-Li mature and steady, Cammy younger and tighter, expressed only through breath and impact exhalations. Heavy rain, splashing steps, wet fabric friction, short solid body impacts, close breathing, and distant alley ambience remain continuous. Lower the environment slightly before the line while keeping rain audible, then retain Cammy’s unanswered inhale and nearby rainfall after it.
 
 non_diegetic_music: N/A
-```
-
-</details>
-
-<a id="h3-swordswoman-kinetic-typography-title"></a>
-### 动漫女剑客与动态字体片头
-
-<a href="https://x.com/opener_ai/status/2085159317578330229"><img src="../../previews/h3-swordswoman-kinetic-typography-title.jpg" width="360"></a>
-
-用编号分镜和时间段描述每个镜头，并配合角色参考图锁定外观，使3D字样穿插在动作中时人物依然一致。明确要求忽略参考图的版式和标签，避免这些元素出现在视频里。
-
-MiniMax H3 · 参考生视频 · 出处: [@opener_ai on X](https://x.com/opener_ai/status/2085159317578330229) · 36 赞，统计于 2026-10-29 · 发现于 [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
-
-[`anime`](tags.md#tag-anime) [`martial-arts`](tags.md#tag-martial-arts) [`kinetic-typography`](tags.md#tag-kinetic-typography) [`identity-reference`](tags.md#tag-identity-reference)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-[1] FORMAT
-15-second 16:9 stylized anime action title sequence — martial-arts choreography fused with 3D kinetic typography. Painterly 2D anime illustration look with cel-shaded volumes and subtle paper grain, matching the source artwork's rendering.
-
-[2] ASSETS
-Use Image 1 as a strict identity reference for the female duelist KAELAN — read only the character artwork itself for her face, hair, wardrobe, weapon, and color palette. Ignore the sheet's layout, panels, printed labels, handwriting, silhouette thumbnails, and background parchment; none of them may appear in the video.
-
-[3] IDENTITY
-Preserve exactly: deep brown skin with warm highlights; luminous crimson-red eyes with a sharp black liner shape; jet-black hair pulled into a tight scalp-wrapped part that splits into two very long thick braids falling past the hips, moving like weighted whips; large white crescent hoop earrings on both ears; black high-neck sleeveless crop top exposing a toned midriff; a sheer white long-sleeved kimono robe worn open, translucent and lightly billowing; cream wide-leg hakama trousers with a single black diamond patch on the left thigh; black wrapped fingerless gloves with lattice cord across the back of the hand; white cloth-wrapped platform sandals; a well-worn katana with a dark blue-grey blade and a black diamond-wrapped hilt. Her expression stays calm and unblinking, never comic.
-
-[4] BEATS
-Shot 1 — [0–3 seconds] Kaelan stands centered in a void of warm off-white light, katana point-down, braids settling. She exhales; a slow iai draw begins. → Hard cut.
-Shot 2 — [3–6 seconds] Mid-draw. The blade clears the saya and a clean arc of light follows the edge. The 3D extruded word "HAILUO" flies in from screen left along the blade's arc, its letter faces catching the same light, passing BEHIND her shoulder and IN FRONT of her trailing braid before exiting right. → Whip-pan cut.
-Shot 3 — [6–9 seconds] Full-body kata combination: descending cut, pivot, rising horizontal sweep. Her sheer robe and both braids trail one frame behind her body. The word "MINIMAX" rotates up from the floor plane in thick extruded 3D, standing taller than her, and she cuts through the gap between its letters — the letterforms hold solid, do not shatter. → Hard cut.
-Shot 4 — [9–12.5 seconds] Low-angle crouch landing, sword arm extended back, dust ring pushing outward. "H3" slams in from depth as a massive chromed 3D glyph directly behind her, scaling down to lock, with her silhouette reading cleanly against it. → Flash cut on the impact frame.
-Shot 5 — [12.5–15 seconds] She rises into the neutral standing pose, katana returning to point-down. The full lockup "HAILUO MiniMax H3" assembles from the three pieces on a single horizontal baseline at lower third, settles, and holds perfectly still through the final frame.
-
-[5] CAMERA
-Anamorphic-feel 35mm for wides, 50mm for the mid shots.
-```
-
-</details>
-
-<a id="h3-hotdog-dash-skateboard-selection"></a>
-### 滑板选择界面，中间热狗滑板被选中
-
-<a href="https://x.com/0xbisc/status/2084626773015417323"><img src="../../previews/h3-hotdog-dash-skateboard-selection.jpg" width="360"></a>
-
-提示词把 15 秒的片段按时间段拆开，逐段规定每个界面元素的状态，让选择、滑动和确认的切换保持清楚可读。两张参考图分别锁定角色和菜单布局，音效也按时间段逐一写明。
-
-MiniMax H3 · 参考生视频 · 出处: [@0xbisc on X](https://x.com/0xbisc/status/2084626773015417323) · 35 赞，统计于 2026-10-29 · 发现于 [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
-
-[`game-ui`](tags.md#tag-game-ui) [`skateboard`](tags.md#tag-skateboard) [`reference-images`](tags.md#tag-reference-images) [`timed-beats`](tags.md#tag-timed-beats)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Use Image 1 as the main character role. Use Image 2 as the layout of the game selection interface.
-[0–2 seconds] Display the complete skateboard selection interface from the front. NOVA is in the selected and active state, the four ports at the bottom emit green light. HOTDOG and SHARK are in the unselected state, completely stationary.
-[2–4 seconds] The player presses the right selection key. SHARK ROCKET RIDER slides from the right preview slot into the middle selected module, NOVA JET GLIDER simultaneously slides from the middle into the left preview slot, HOTDOG DASH moves to the right preview slot. As soon as NOVA leaves the middle selected module, the green light immediately turns off and stops. After SHARK enters the middle, orange flames appear at the tail. The skateboard name, attribute bars, and SELECTED label update synchronously.
-[4–6.5 seconds] The player switches the selection again. HOTDOG DASH moves horizontally from the side preview slot to the middle selected module, SHARK ROCKET RIDER simultaneously slides into the other side slot, NOVA moves to the remaining side slot. As soon as SHARK loses the selected state, the orange flame immediately turns off. After HOTDOG becomes the selected item, facing the camera, it barks twice accurately, then turns around in place once.
-[6.5–8 seconds] The bottom CONFIRM button is clicked by the player. The button compresses downwards and bounces back, the right arrow extends forward. HOTDOG DASH becomes the final confirmed selection. The two unselected skateboards on the left and right continue to stay in the fixed preview slots, completely stationary.
-[8–10 seconds] The middle fixed selected module expands towards the depth of the screen. The light-colored display area inside the central card naturally transforms into the World Plaza. The complete world has been fully loaded, with no texture popping, placeholder models, or unfinished buildings. At the same time, the UI displays as the in-game HUD.
-[10–12 seconds] The camera enters the third-person game perspective, with HOTDOG DASH located under the protagonist’s feet. During normal gliding and preparation actions, both feet of the protagonist are standing on HOTDOG DASH. The game HUD appears at this time: mini-map in the top right corner, speed and health status in the bottom left corner, action and combo slots in the bottom right corner, mission route markers and interactive prompts appear ahead.
-[12–15 seconds] The protagonist enters the world riding the running HOTDOG DASH, passing pedestrians, stairs, slopes, railings, and multiple explorable routes. HOTDOG jumps before a low slope, completes a rotation action in the air, and upon landing, the protagonist’s feet are still standing on HOTDOG DASH, the combo count and TRICK prompt briefly increase in the HUD. Subsequently, lean to bypass street obstacles, then perform a small directional jump, and then continue sliding forward.
-Sound Design: Use pure instrumental music mixed with electronic arcade sounds, no vocals. UI switching corresponds to crisp key press sounds, card slot sliding sounds, sticker slapping sounds, and attribute bar update sounds. When SHARK is selected, ignition and propulsion sounds appear, and stop immediately when losing selection. When HOTDOG is selected, two barks are played accurately, and light footsteps are added when spinning around. After entering the world, add city ambient sounds, wind sounds, running footsteps, shoe friction sounds when pedaling to accelerate, and jump and landing feedback sounds.
 ```
 
 </details>

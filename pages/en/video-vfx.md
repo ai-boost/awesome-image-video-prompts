@@ -1,6 +1,6 @@
 # VFX and transformations
 
-[Back to the list](../../README.md) · All 95 entries
+[Back to the list](../../README.md) · All 98 entries
 
 <a id="veo-giant-girl-shibuya-crossing"></a>
 ### Giant girl kneeling over a Tokyo crossing
@@ -2546,6 +2546,54 @@ Technical Alignment: Maintain the original video's camera movement, focal length
 
 </details>
 
+<a id="seedance-chimp-stone-to-energy-sphere"></a>
+### Thrown stone evolves from arrow to jet and sphere
+
+<a href="https://x.com/itsSaira_1/status/2099728570625188123"><img src="../../previews/seedance-chimp-stone-to-energy-sphere.jpg" width="360"></a>
+
+Chains eight scenes where each one ends on the exact frame the next starts from, which keeps the object and camera continuous. Every step states the screen direction as LEFT to RIGHT and the negative prompt bans reversal, U-turns and replacement objects, so the transformations stay on one trajectory.
+
+Seedance 2.5 · Text-to-video · Source: [@itsSaira_1 on X](https://x.com/itsSaira_1/status/2099728570625188123) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`transformation`](tags.md#tag-transformation) [`multi-scene`](tags.md#tag-multi-scene) [`space`](tags.md#tag-space) [`evolution`](tags.md#tag-evolution)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+GLOBAL: Photorealistic cinematic 16:9. Each scene directly continues the previous; exact final frame = next Start/Reference Frame. Preserve same subject, position, orientation, motion, lighting, background and camera. ALWAYS SCREEN-LEFT → SCREEN-RIGHT. Never reverse, U-turn, 180° rotate, flip camera, change trajectory, disappear or touch ground. No text/logo/watermark/UI.
+
+1 — CHIMP → STONE:
+Realistic chimpanzee in ancient dry wilderness at golden hour throws a rough dark stone toward the horizon. Stone stays airborne, travels LEFT → RIGHT slightly upward. Camera tracks it continuously. End with stone visible near RIGHT. Exact frame → 2.
+
+2 — STONE → ARROW:
+Same stone, same frame and motion. While flying LEFT → RIGHT, it physically cracks and transforms into a wooden arrow: arrowhead RIGHT, feathers LEFT. Background smoothly becomes early historical/archery era. End with complete arrow. Exact frame → 3.
+
+3 — ARROW → BULLET:
+Same arrow continues LEFT → RIGHT and progressively becomes a realistic metallic firearm bullet: shaft → body, arrowhead → FRONT/RIGHT, feathers → REAR/LEFT. Background smoothly becomes early-modern industrial/firearm era. End with bullet. Exact frame → 4.
+
+4 — BULLET → MISSILE:
+Same bullet continues LEFT → RIGHT and physically becomes a realistic military missile: body lengthens, nose RIGHT, fins and rocket engine REAR/LEFT. Background smoothly becomes modern industrial/military. End with missile. Exact frame → 5.
+
+5 — MISSILE → FIGHTER JET:
+Same missile continues LEFT → RIGHT and transforms into an advanced realistic fighter jet: fuselage expands, wings unfold, cockpit RIGHT, stabilizers/engines LEFT. Background smoothly becomes modern high-altitude aviation. End above Earth with atmosphere visible. Exact frame → 6.
+
+6 — FIGHTER JET → ORBITAL RING:
+Same jet continues LEFT → RIGHT and progressively transforms into a gigantic futuristic orbital ring: wings curve into rings, fuselage expands into connected sections, concentric rings form. No replacement spaceship. Background becomes advanced near-space technology with Earth below. End with ring moving LEFT → RIGHT. Exact frame → 7.
+
+7 — ORBITAL RING → ENERGY SPHERE:
+Same ring continues LEFT → RIGHT. Rings rotate; blue-white energy flows inward as the structure contracts into one brilliant energy sphere. Background becomes deep futuristic space, Earth distant. Sphere keeps LEFT → RIGHT. Exact frame → 8.
+
+8 — SPHERE → POINT OF LIGHT:
+Same sphere continues LEFT → RIGHT, compresses into a tiny brilliant point and accelerates toward RIGHT with subtle light trail. Camera pulls back to reveal deep-black star field. Point becomes smaller and fades into distance. No reversal, U-turn or explosion.
+
+NEGATIVE: new/different object, replacement, sudden cut/morph, background or lighting jump, right-to-left, reverse, backward, U-turn, 180° rotation, camera flip, trajectory change, disappearance, falling, ground impact, teleportation, duplicates, random spaceship/aircraft, distorted anatomy, cartoon, low-quality CGI, text, subtitles, logo, watermark, Like, Follow, Share, UI.
+
+#AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #visualstorytelling #ai #supercool_hq
+#aicreation
+```
+
+</details>
+
 <a id="seedance-clay-pirate-ship-stop-motion"></a>
 ### Clay transforms into a miniature pirate ship
 
@@ -2665,6 +2713,44 @@ A cinematic 10-second tracking shot at golden hour. A giant young East Asian wom
 A tiny man (normal human scale relative to her) skateboards along her body. He has short dark hair, a dark gray t-shirt, beige trousers, black sneakers, and a small olive-green crossbody bag. He starts on her pale, sunlit thigh and rides up the curve of her hip and the black fabric of her robe toward her midriff and chest.
 
 Camera is extremely low and close, starting at her legs and tracking forward and slightly upward with the skateboarder. Strong motion blur on the nearest skin and fabric in the foreground. Shallow depth of field, warm rim light on her face and hair, slight wind in her hair and the robe. Photorealistic, high-end commercial look, 9:16 vertical, smooth continuous camera move, no cuts.
+```
+
+</details>
+
+<a id="seedance-golden-wings-girl-iron-man-climb"></a>
+### Girl with golden wings climbing wall beside Iron Man
+
+<a href="https://x.com/itsSaira_1/status/2103734886511128914"><img src="../../previews/seedance-golden-wings-girl-iron-man-climb.jpg" width="360"></a>
+
+Timestamped beats tie each segment to the source clip, so only the girl's identity changes while motion, camera and golden wing effects stay locked. The explicit list of banned changes, such as camera flips, reverse motion and extra characters, stops drift across the 20 second edit.
+
+Seedance 2.5 · Video edit · Source: [@itsSaira_1 on X](https://x.com/itsSaira_1/status/2103734886511128914) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`video-to-video`](tags.md#tag-video-to-video) [`identity-swap`](tags.md#tag-identity-swap) [`motion-lock`](tags.md#tag-motion-lock) [`iron-man`](tags.md#tag-iron-man)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+VIDEO-TO-VIDEO — USE THE PROVIDED VIDEO AS THE EXACT MOTION/SHOT REFERENCE.
+
+0–3.5s: Keep the girl in the exact same position, pose, movement, camera angle and background; she is climbing/holding the structure while golden energy/wings appear behind her. Replace ONLY her identity/appearance with the supplied GIRL REFERENCE IMAGE.
+
+3.5–5.5s: Iron Man appears exactly as in the reference video — same armor, face, proportions, flight pose, camera angle and movement. DO NOT change Iron Man.
+
+5.5–8.5s: Return to the girl; preserve the exact original body position, facial direction, movement, environment and golden energy. Change ONLY the girl's identity to the supplied reference image.
+
+8.5–12s: Girl falls/floats through the sky exactly like the original video, with the same wings, body motion, camera movement, scale and background.
+
+12–15s: Girl moves/falls beside the structure exactly as shown; preserve all motion, perspective, lighting and golden effects.
+
+15–18s: Close shot of the armored character/girl moving onto the structure; preserve the exact original action, framing and camera movement, replacing only the girl's identity.
+
+18–20.5s: Final hero shot — girl stands exactly like the original, same golden wings, armor, pose, environment, lighting and camera framing; ONLY her face/identity/appearance comes from the supplied GIRL REFERENCE IMAGE.
+
+IRON MAN: absolute character lock — same identity, armor, face, proportions, colors, movement and appearance throughout.
+GIRL: replace ONLY with the supplied reference image while preserving original pose, body motion, clothing/armor structure, wings and scene.
+NO new actions, NO changed camera, NO scene changes, NO reverse motion, NO U-turn, NO 180° flip, NO camera flip, NO text, NO logos, NO extra characters.
+Cinematic realistic quality, seamless frame-to-frame continuity.
 ```
 
 </details>
@@ -3803,6 +3889,53 @@ Seedance 2.5 · Text-to-video · Source: [@itsSaira_1 on X](https://x.com/itsSai
 low quality, blurry, distorted anatomy, jittery motion, abrupt cuts, poor lighting, unrealistic water, bad textures
 
 #AI #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #visualart
+```
+
+</details>
+
+<a id="seedance-tiny-chef-giant-corn-kernel-kitchen"></a>
+### Tiny 2D chef pushes giant corn kernel across kitchen
+
+<a href="https://x.com/AIwithSynthia/status/2105619247393321169"><img src="../../previews/seedance-tiny-chef-giant-corn-kernel-kitchen.jpg" width="360"></a>
+
+Each beat is a concrete action paired with a camera call, so a long multi-shot sequence stays readable for the model. Grouping the sound cues in one closing list and contrasting the 2D character with photoreal oversized props sets up the mixed-reality scale gag.
+
+Seedance 2.5 · Text-to-video · Source: [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2105619247393321169) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`mixed-reality`](tags.md#tag-mixed-reality) [`food`](tags.md#tag-food) [`stop-motion`](tags.md#tag-stop-motion)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A miniature hand-drawn 2D animated girl with curly black hair, a pink apron, yellow sneakers, and a tiny wooden spatula, making a giant bowl of popcorn inside a realistic full-sized kitchen.
+
+Style
+Mixed-reality hybrid animation combining playful 2D hand-drawn doodle character art with a photorealistic live-action kitchen. Whimsical stop-motion physics, expressive line animation, exaggerated scale, warm cinematic lighting, playful food-preparation energy, and detailed cooking sound effects.
+
+Camera & Framing
+Macro close-ups, dramatic low angles, overhead kitchen perspectives, fast tracking shots, extreme close-ups, and shallow depth of field emphasizing the tiny chef against gigantic kitchen objects.
+
+Audio & Scene Breakdown
+
+Visual: The tiny chef struggles to drag a giant corn kernel across the countertop, finally pushing it toward an enormous glass bowl.
+
+Visual: She climbs onto a giant butter cube, slides down its smooth surface, and lands beside the bowl as kernels begin bouncing around her.
+
+Visual: She jumps onto a giant wooden spoon and uses it as a seesaw, launching herself directly into the bowl.
+
+Visual: The kernels suddenly begin popping around her. She dodges exploding popcorn pieces while using the spoon to push them into a growing pile.
+
+Visual: One enormous popcorn piece launches her into the air. She lands on top of it and rides it across the countertop like a tiny fluffy vehicle.
+
+Visual: She grabs a giant salt shaker, struggles to tilt it, and accidentally creates a huge shower of salt that covers the popcorn and sends her sliding across the counter.
+
+Visual: She reaches the finished bowl, climbs a giant popcorn piece, and proudly places a tiny piece of caramel on top.
+
+Visual: The camera pulls back to reveal the giant bowl of popcorn. The tiny chef sits beside it, exhausted and proud—until a huge hand suddenly grabs the entire bowl and walks away.
+
+She stares at the empty countertop in complete disbelief.
+
+Audio: Kernel rattles, spoon clinks, popcorn popping, tiny footsteps, bowl vibrations, salt shaker sounds, sliding effects, comedic impacts, playful upbeat music, no dialogue.
 ```
 
 </details>

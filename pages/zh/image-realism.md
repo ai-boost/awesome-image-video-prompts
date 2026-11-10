@@ -1,6 +1,6 @@
 # 写实照片
 
-[返回目录](../../README_zh.md) · 全部 122 条
+[返回目录](../../README_zh.md) · 全部 126 条
 
 <a id="gpt-image-coca-cola-tanker-leak-mentos-truck-dashcam"></a>
 ### 可口可乐罐车漏液，旁边是Mentos货车
@@ -857,6 +857,48 @@ A women sitting calmly at the center of a wide horizontal swirling spiral made o
 
 </details>
 
+<a id="nano-banana-red-satin-dress-museum-balcony"></a>
+### 红色缎面礼服女子站在金色唱诗席屏风前
+
+<a href="https://x.com/Adam38363368936/status/2006570723549261959"><img src="../../previews/nano-banana-red-satin-dress-museum-balcony.jpg" width="360"></a>
+
+将提示词拆分为主体、服装、环境和技术参数等模块，让红色礼服与金色唱诗席屏风各自被准确描述。明确平视、全身构图和柔和漫射自然光，使画面保持干净均匀的时尚摄影质感。
+
+Nano Banana Pro · 文生图 · 出处: [@Adam38363368936 on X](https://x.com/Adam38363368936/status/2006570723549261959) · 185 赞，统计于 2026-11-10
+
+[`fashion`](tags.md#tag-fashion) [`structured-prompt`](tags.md#tag-structured-prompt) [`museum-interior`](tags.md#tag-museum-interior)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+"subject": {
+      "type": "Young woman",
+      "hair": "Long, dark brunette, loose waves, parted in the middle",
+      "pose": "Standing full-body, leaning backwards against a stone balustrade, one hand resting on the railing, legs crossed at the ankles, looking down/away candidly",
+      "expression": "Neutral, elegant, contemplative"
+    },
+    "attire": {
+      "dress": "Deep crimson red satin mini dress, fit-and-flare silhouette, plunging V-neckline, spaghetti straps, tiered ruffled skirt",
+      "shoes": "Dark plum or black pointed-toe high heels",
+      "accessories": "Simple drop earrings"
+    },
+    "environment": {
+      "setting": "Grand museum interior (Victorian/Classical architecture)",
+      "foreground": "White stone balcony with a decorative balustrade (railing) featuring classic balusters",
+      "background": "Large white architectural arches with detailed molding, an ornate Gothic Revival metal and gold choir screen visible in the distance",
+      "flooring": "Parquet wood flooring"
+    },
+    "technical_specs": {
+      "lighting": "Soft natural indoor light, diffuse and even, daylight ambience",
+      "camera_angle": "Eye-level, full shot",
+      "style": "High-fashion lifestyle photography, photorealistic, cinematic composition, crisp focus"
+    }
+  }
+}
+```
+
+</details>
+
 <a id="gpt-image-curry-udon-doodle-table"></a>
 ### 咖喱乌冬两碗配天妇罗与涂鸦便签
 
@@ -1392,6 +1434,31 @@ this is almost perfect but missed that 8
 
 </details>
 
+<a id="gpt-image-aurora-pebble-beach-seascape"></a>
+### 极光下的卵石海滩夜景
+
+<a href="https://x.com/churvikv/status/2119205952645632300"><img src="../../previews/gpt-image-aurora-pebble-beach-seascape.jpg" width="360"></a>
+
+提示词按天空、地平线、海面、海滩划分区域，再加一段光线与色板说明，模型就能按固定布局逐区生成。结尾的满版、无边框、无文字要求可以避免画框和字样出现在画面中。
+
+GPT Image 2.5 · 文生图 · 出处: [@churvikv on X](https://x.com/churvikv/status/2119205952645632300) · 123 赞，统计于 2026-11-10
+
+[`aurora`](tags.md#tag-aurora) [`seascape`](tags.md#tag-seascape) [`pebble-beach`](tags.md#tag-pebble-beach) [`night`](tags.md#tag-night)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Photorealistic magical seascape at night, wide 16:9 panoramic composition, ultra-detailed. Full bleed, no frame, no border, no lettering.
+SKY: a deep teal-green and indigo night sky fills the upper half, swept with tall vertical curtains of aurora borealis in luminous mint, emerald and pale jade, their strands hanging like combed light. Behind them glow soft magenta, rose and violet nebula clouds. Hundreds of fine white stars speckle the dark, and four bright four-point starburst stars with long cross flares burn at the left, centre, right and lower right. A pale glow swells along the horizon line where sky meets sea.
+HORIZON: a low dark rocky headland silhouette sits at the far left, softened by haze, with faint distant cliffs behind it. The rest of the horizon is a soft silver-blue fog band.
+SEA: the right half is calm glassy water in pale silvery-teal and grey-mint, marked with fine horizontal ripple lines. A bright path of glittering light runs down the surface toward the shore, dotted with sharp white sparkles, and a soft foam edge of small bubbles traces the waterline where it meets the stones.
+BEACH: the entire foreground and lower two-thirds is a vast beach of smooth rounded pebbles, thousands of them, in cream white, pale grey and soft pearl, packed tightly in rounded mounds and shallow sweeping curves that lead the eye from the bottom edge toward the water. Each stone is polished and softly lit from above, wet with salt sheen, some with bright specular highlights and sprinkles of tiny white dots like frost or salt crystals.
+LIGHT: cool silver-blue moonlight mixed with the green aurora glow, soft and diffuse, with a warm sparkle only in the star flares and the water highlights.
+PALETTE: deep teal, emerald, jade mint, dark indigo, magenta violet, silver grey, pearl white. Luminous, dreamlike, tranquil, high dynamic range.
+```
+
+</details>
+
 <a id="nano-banana-kfc-bag-head-wink-booth"></a>
 ### 女子头顶肯德基纸袋眨眼嘟嘴
 
@@ -1550,6 +1617,33 @@ The interaction feels natural and candid rather than posed—a quiet moment of l
 Camera: Medium-wide cinematic shot, slightly side angle, both subjects visible, shallow depth of field, soft bokeh background, natural composition.
 
 Style: Ultra-realistic, photorealistic, cinematic storytelling, luxury lifestyle photography, magazine-quality image, realistic skin textures, detailed fabric folds, volumetric sunlight, warm color grading, emotional atmosphere, masterpiece, 8K HDR, highly detailed, no text, no watermark.
+```
+
+</details>
+
+<a id="gpt-image-2-6-elevator-mirror-selfie-pinstripe-pants"></a>
+### 电梯镜子自拍，举高手机，穿条纹家居裤
+
+<a href="https://x.com/simonecanciello/status/2120189335194706023"><img src="../../previews/gpt-image-2-6-elevator-mirror-selfie-pinstripe-pants.jpg" width="360"></a>
+
+用位置锚定每个表面和物件（左侧深蓝墙板、右侧木墙、中间电梯门），给模型一个固定布局。结尾列出要保留的手机快照特征，如颗粒感、略欠曝和普通白平衡，并禁止电影感光线、美颜和HDR，避免画面像精修过的 AI 照片。
+
+GPT Image 2.6 · 文生图 · 出处: [@simonecanciello on X](https://x.com/simonecanciello/status/2120189335194706023) · 107 赞，统计于 2026-11-10
+
+[`mirror-selfie`](tags.md#tag-mirror-selfie) [`elevator`](tags.md#tag-elevator) [`smartphone-snapshot`](tags.md#tag-smartphone-snapshot)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+generated in 15-sec, 2K resolution, 9:16:
+
+“Create this image with maximum photographic accuracy.
+Scene: A casual full-body mirror selfie inside a modern, dimly lit elevator. Dark navy geometric patterned wall panels on the left, warm brown wood-paneled walls on the right, black reflective elevator doors in the center, illuminated elevator buttons, horizontal silver handrails, and a light gray tiled floor.
+Subject: A young woman with straight, shoulder-length dark brown hair parted in the middle, natural facial features, and minimal makeup. She is standing slightly angled toward the mirror, holding a black iPhone with a transparent protective case high above her head with her right arm fully extended. Her phone is positioned in the upper-left corner of the composition. She looks slightly downward at the mirror with puffed cheeks and a playful, serious expression. Her left arm hangs naturally beside her body.
+Outfit: A fitted dark charcoal-gray short-sleeve athletic jersey with white side stripes, white sports logos and lettering across the chest, loose oversized gray pinstriped pajama-style pants, and simple black flip-flops. A thin black hair tie around her raised wrist.
+Composition: Vertical 9:16 smartphone photo, full-body framing from a slightly elevated mirror-selfie perspective. Subject positioned slightly left of center, raised arm creating a strong diagonal, legs relaxed and slightly apart. Preserve the exact pose, body proportions, camera angle, perspective, outfit, background layout, and framing of the reference.
+Photography: Authentic unedited iPhone mirror selfie. Warm overhead elevator lighting mixed with cool ambient reflections, slightly underexposed shadows, realistic skin texture, subtle smartphone grain, natural reflections, imperfect sharpness, and ordinary indoor white balance.
+CRITICAL: The result must look like a real spontaneous smartphone snapshot, NOT an AI-generated photograph. No cinematic lighting, no professional photography, no beauty filters, no skin smoothing, no HDR, no artificial sharpness, no color grading, no stylization. Preserve the original reference's realistic colors, exposure, shadows, visual imperfections, and casual everyday aesthetic.”
 ```
 
 </details>
@@ -1878,6 +1972,109 @@ GPT Image 2.5 · 文生图 · 出处: [@churvikv on X](https://x.com/churvikv/st
 
 ```text
 A moonlit night scene with a cobblestone path winding through tall grass illuminated by glowing orbs, possibly fireflies, leading toward a distant city skyline under a star-filled sky. The composition is balanced with the moon as a focal point, and the style combines realism with a touch of fantasy, evoking a calm and enchanting mood.
+```
+
+</details>
+
+<a id="nano-banana-valentines-weather-forecast-studio"></a>
+### 情人节天气预报主播站在爱心气象图前
+
+<a href="https://x.com/AITalesNBH/status/2022638680444133507"><img src="../../previews/nano-banana-valentines-weather-forecast-studio.jpg" width="360"></a>
+
+将场景、人物、服装、镜头和灯光拆成独立字段，让每个元素都有明确设定。把屏幕上的预报文字单独列为数组，地图上的短句因此清晰可读，而不是乱码。
+
+Nano Banana Pro · 文生图 · 出处: [@AITalesNBH on X](https://x.com/AITalesNBH/status/2022638680444133507) · 74 赞，统计于 2026-11-10
+
+[`valentines-day`](tags.md#tag-valentines-day) [`weather-forecast`](tags.md#tag-weather-forecast) [`json-prompt`](tags.md#tag-json-prompt) [`studio`](tags.md#tag-studio)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+{
+  "MPNB_version": "Nano Banana Pro",
+  "intent": "Maximalist editorial, cinematic, photorealistic Valentine-themed weather forecast scene",
+  "aspect_ratio": "4:5",
+  "resolution": "8K",
+  "style_lock": {
+    "photorealism": true,
+    "editorial_grade": "luxury magazine cover",
+    "no_cartoon": true,
+    "no_watermark": true,
+    "controlled_imperfections": true
+  },
+  "scene": {
+    "concept": "Valentine Weather Forecast Studio",
+    "environment": "High-end modern broadcast studio redesigned for Valentine's Day",
+    "background": {
+      "main_screen": "Large curved LED weather map showing a stylized Europe forecast made of soft pink clouds, subtle heart-shaped pressure systems, glowing love fronts moving across the map",
+      "sky_elements": "Floating translucent hearts integrated subtly into realistic cloud formations",
+      "lighting_accent": "Soft neon pink and deep red LED rim lights integrated into studio architecture"
+    }
+  },
+  "subject": {
+    "role": "Weather Woman",
+    "age": 25,
+    "appearance": {
+      "hair": "Glossy soft waves, chestnut brown, natural movement",
+      "makeup": "Soft romantic glam, luminous skin, subtle blush, cherry-red lips, delicate highlighter",
+      "expression": "Confident, charming, warm editorial smile as if announcing a 'High Pressure of Love'"
+    },
+    "pose": {
+      "stance": "Standing slightly angled toward camera, one leg subtly forward",
+      "gesture": "Right hand elegantly gesturing toward a glowing heart-shaped weather system on the map",
+      "left_hand": "Holding a sleek digital tablet with a subtle glowing heart icon"
+    },
+    "wardrobe": {
+      "outfit": "Tailored pastel red blazer dress, structured shoulders, cinched waist",
+      "length": "Above the knees, elegant but professional",
+      "fabric": "Luxury satin-wool blend with subtle sheen",
+      "details": "Minimalist silver heart-shaped brooch, delicate diamond studs",
+      "heels": "High-heeled pumps in soft blush tone"
+    }
+  },
+  "cinematography": {
+    "camera": "Full-frame DSLR simulation",
+    "lens": "85mm f/1.8",
+    "depth_of_field": "Shallow depth of field, subject razor sharp, background softly diffused",
+    "angle": "Slight low-angle to create authority and glamour",
+    "framing": "Mid-thigh crop, cover-ready composition"
+  },
+  "lighting": {
+    "key_light": "Large softbox front-left, flattering skin tones",
+    "rim_light": "Soft magenta rim light for separation",
+    "ambient": "Warm studio glow with subtle red accents",
+    "skin_rendering": "Natural micro-texture preserved, no plastic smoothing"
+  },
+  "valentine_storytelling": {
+    "forecast_text_on_screen": [
+      "Romantic Warm Front Approaching",
+      "100% Chance of Kisses",
+      "High Pressure of Passion",
+      "Light Showers of Roses"
+    ],
+    "creative_element": "Tiny animated cupid silhouette flying across the digital weather map (subtle, not cartoonish)"
+  },
+  "color_grading": {
+    "palette": "Blush pink, deep crimson, soft gold highlights",
+    "contrast": "Balanced editorial contrast",
+    "finish": "Glossy luxury magazine tone"
+  },
+  "realism_constraints": {
+    "fabric_physics": "Natural folds and gravity",
+    "lighting_physics": "Correct shadow direction and studio reflections",
+    "screen_glow": "Realistic LED spill on subject’s blazer"
+  },
+  "negatives": [
+    "cartoon style",
+    "over-saturated reds",
+    "plastic skin",
+    "distorted hands",
+    "warped studio geometry",
+    "text artifacts",
+    "low resolution",
+    "flat lighting"
+  ]
+}
 ```
 
 </details>

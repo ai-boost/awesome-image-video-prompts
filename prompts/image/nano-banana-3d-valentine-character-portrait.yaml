@@ -1,0 +1,31 @@
+id: nano-banana-3d-valentine-character-portrait
+title:
+  en: 3D character portraits of four celebrities holding a rose
+  zh: 四位名人咬着红玫瑰的3D角色肖像
+model: Nano Banana Pro
+mode: image-edit
+category: character
+tags:
+- valentines-day
+- 3d-character
+- reference-photo
+source:
+  name: '@TechieBySA on X'
+  url: https://x.com/TechieBySA/status/2022406039568789552
+  credit: TechieSA
+  likes: 84
+  captured: '2026-11-10'
+  posted: '2026-02-13'
+notes:
+  en: The reference photo sets the likeness, while the prompt fixes the material language (soft skin, fibre-like hair) and a light grey studio backdrop. A rose laid horizontally between the teeth with a few glowing hearts gives the Valentine pose one clear focal point.
+  zh: 参考照片决定人物相似度，提示词则锁定材质（柔软皮肤、纤维状发丝）和浅灰摄影棚背景。玫瑰横咬在齿间、周围点缀发光爱心，让情人节主题形成清晰的视觉焦点。
+prompt: |
+  Inspired by krafterzz_ on Instagram🔥
+
+  Simply upload your reference picture & use this prompt:✨
+
+  “Create a premium stylized 3D character portrait with a soft, modern, designer-toy aesthetic. Use the person from the ATTACHED REFERENCE PHOTO. Preserve the exact facial features, proportions, skin tone, and overall likeness of the uploaded image, but translate the subject into a refined human-like 3D character (not a statue, not marble, not stone). Render with smooth, soft-touch materials, subtle skin texture with visible pores, expressive hair strands and facial hair rendered as detailed stylized fibers, and clean modern accessories and clothing with fabric-like texture. Maintain a calm, composed, realistic human presence with gentle expression.
+
+  The subject should be holding a red rose stem delicately between their teeth, with the rose positioned horizontally across their mouth. Add 3-5 floating heart shapes in the background - scatter them on the left and right sides behind the person, rendered in soft pink and red tones with a subtle 3D appearance and gentle glow.
+
+  Use a light neutral grey studio background, soft evenly diffused lighting, minimal shadows, and smooth gradients. The overall look should feel contemporary, friendly, premium, and slightly toy-like while remaining realistic, similar to high-end character renders seen in modern tech branding. Ensure ultra-high-definition output with hyper realistic hyper realism, clean cinematic 3D quality, no stone or sculpture appearance, no grayscale statue look, no rough surfaces, no text, no logos, no watermarks. Aspect ratio 4:5.”

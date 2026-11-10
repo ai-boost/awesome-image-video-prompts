@@ -1,6 +1,6 @@
 # Posters and editorial layouts
 
-[Back to the list](../../README.md) · All 204 entries · **1** · [2](image-poster-2.md)
+[Back to the list](../../README.md) · All 207 entries · **1** · [2](image-poster-2.md)
 
 <a id="gpt-image-flat-vector-city-travel-poster-template"></a>
 ### Flat vector travel poster template for any city
@@ -4158,6 +4158,55 @@ Complete [STYLE] outfit floating in its exact worn position around  an invisible
 
 </details>
 
+<a id="gpt-image-2-6-snowboarding-editorial-poster"></a>
+### Airborne snowboarder over red SNOWBOARDING headline
+
+<a href="https://x.com/Goodmanprotocol/status/2119083132691615772"><img src="../../previews/gpt-image-2-6-snowboarding-editorial-poster.jpg" width="360"></a>
+
+A fill-in editorial template with a [MAIN SUBJECT] slot and fixed magazine scaffolding (edition label, microtype, coordinates, footer) keeps the layout reproducible. Telling the model the subject should overlap the headline produces the integrated effect where the board cuts across the letters.
+
+GPT Image 2.6 · Text-to-image · Source: [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2119083132691615772) · 139 likes on 2026-11-10
+
+[`editorial`](tags.md#tag-editorial) [`sports`](tags.md#tag-sports) [`typography`](tags.md#tag-typography) [`poster`](tags.md#tag-poster)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a premium, photorealistic editorial magazine poster inspired by high-end outdoor adventure photography, contemporary sports campaigns, and minimalist Swiss graphic design.
+
+CORE CONCEPT: Automatically identify the main subject, activity, environment, and visual characteristics from the provided subject or concept. Transform it into a striking editorial cover that combines dramatic full-frame photography with oversized, bold typography.
+
+PHOTOGRAPHY & COMPOSITION: Capture the subject in an extraordinary, visually dynamic moment. Use professional sports and lifestyle photography, realistic anatomy, precise details, natural textures, dramatic environmental elements, and authentic movement.
+
+The main photograph should occupy the upper and middle sections of the poster. Use an immersive composition with the subject prominently positioned and the environment providing visual depth.
+
+TYPOGRAPHIC DESIGN:
+
+- Add an enormous, bold, uppercase headline featuring the main subject or activity.
+- Use condensed extra-bold sans-serif typography.
+- Position the headline across the lower-middle portion of the poster.
+- Allow the subject to overlap and partially obscure the typography, creating an integrated photographic-editorial effect.
+- Choose typography colors that contrast beautifully with the photograph.
+- Include subtle microtypography, thin horizontal divider lines, and editorial labels.
+
+EDITORIAL DETAILS: Include sophisticated magazine-style elements:
+
+- Small uppercase category label at the top.
+- Edition number: EDITION 01.
+- Small subtitle describing the activity or environment.
+- Minimalist footer branding: VISUAL STUDIES.
+- Short editorial tagline: THE ART OF [MAIN SUBJECT].
+- Subtle technical coordinates or location details where appropriate.
+
+VISUAL STYLE: Luxury outdoor adventure magazine, contemporary editorial art direction, premium sports photography, cinematic natural lighting, rich realistic colors, crisp details, sophisticated typography, professional graphic design, and carefully balanced negative space.
+
+LAYOUT: Vertical 4:5 poster composition. Clean rectangular layout with subtle rounded corners, carefully aligned typography, strong visual hierarchy, and professional magazine-cover aesthetics.
+
+IMPORTANT: The design must feel like a professionally art-directed magazine cover, not a generic AI-generated image. Ensure all typography is correctly spelled, legible, properly integrated, and visually balanced. Avoid unnecessary text, logos, watermarks, and decorative clutter.
+```
+
+</details>
+
 <a id="nano-banana-graffiti-streetwear-portrait-poster"></a>
 ### Graffiti Streetwear Portrait Poster with Spray Lettering
 
@@ -5653,6 +5702,75 @@ Composition: vertical 4:5, full-body woman on the right, desert silhouette domin
 
 </details>
 
+<a id="gpt-image-streetwear-own-ground-poster"></a>
+### Streetwear poster with giant OWN GROUND typography
+
+<a href="https://x.com/MrLarus/status/2118009126718771429"><img src="../../previews/gpt-image-streetwear-own-ground-poster.jpg" width="360"></a>
+
+The prompt is a template with bracketed slots for brand, headline, pose and palette, and it names the print textures outright (halftone, torn paper, photocopy grain, misregistration). Pairing one low sneaker perspective with oversized condensed letters gives the model a single interaction to build the whole layout around.
+
+GPT Image 2.5 · Text-to-image · Source: [@MrLarus on X](https://x.com/MrLarus/status/2118009126718771429) · 116 likes on 2026-11-10
+
+[`streetwear`](tags.md#tag-streetwear) [`typography`](tags.md#tag-typography) [`collage`](tags.md#tag-collage) [`editorial`](tags.md#tag-editorial)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a high-impact 9:16 vertical street culture editorial poster.
+
+Customize:
+- Brand: [BRAND NAME]
+- Headline: [MAIN TITLE]
+- Subject: [PERSON / OUTFIT / OBJECT]
+- Action & Perspective: [POSE / CAMERA ANGLE]
+- Visual Interaction: [TYPOGRAPHY OVERLAP / EXTREME PERSPECTIVE / MOTION COLLAGE / OBJECT STACKING]
+- Colors: [COLOR PALETTE]
+- Supporting Text: [TAGLINE / EVENT DETAILS]
+
+Visual Style
+
+Blend authentic streetwear photography, oversized experimental typography, 90s–2000s punk zine aesthetics, grunge editorial design, and analog print collage.
+
+Composition & Typography
+
+Build the composition around one striking interaction between the subject and giant letterforms. Use dramatic foreshortening, dynamic poses, layered cutouts, realistic occlusion, and bold asymmetrical layouts.
+
+Typography should dominate the poster with massive condensed sans-serif letters, tight spacing, intentional cropping, and strong visual hierarchy.
+
+Editorial Details & Texture
+
+Include meaningful supporting copy, small editorial labels, monochrome photo inserts, torn-paper elements, and structured information sections to create a rich, professional layout.
+
+Use bold contrasting colors, distressed ink, halftone dots, photocopy grain, subtle print misregistration, and tactile paper textures. Keep people and objects photorealistic, with natural skin, realistic fabrics, and accurate anatomy.
+
+Final Output
+
+A visually striking, information-rich street culture poster with authentic vintage print aesthetics and strong stop-scroll impact.
+
+Full-bleed 9:16 composition. Avoid generic layouts, glossy 3D effects, plastic skin, meaningless text, excessive clutter, and watermarks.
+```
+
+</details>
+
+<a id="nano-banana-beef-chow-fun-layers"></a>
+### Chef tosses beef chow fun into six labeled layers
+
+<a href="https://x.com/lxfater/status/1993185897337024648"><img src="../../previews/nano-banana-beef-chow-fun-layers.jpg" width="360"></a>
+
+Listing the layers in the order they leave the wok, with the intact dish shown first, gives the model a clear exploded-view sequence. One bilingual label per layer, matched to the layer count, keeps the text readable in both languages.
+
+Nano Banana Pro · Text-to-image · Source: [@lxfater on X](https://x.com/lxfater/status/1993185897337024648) · 115 likes on 2026-11-10
+
+[`food`](tags.md#tag-food) [`chinese-food`](tags.md#tag-chinese-food) [`exploded-view`](tags.md#tag-exploded-view) [`infographic`](tags.md#tag-infographic)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+0) Think first / 先思考再输出 菜品核心组成识别（干炒河牛 / Beef Chow Fun）： 主食：河粉（宽扁米粉） 主蛋白：牛肉片（腌制滑炒） 关键调味：生抽/老抽、蚝油、糖、白胡椒、绍兴酒（或料酒） 典型配菜：豆芽、洋葱、葱段 油与香气：花生油/菜籽油、锅气（wok hei） 最终点缀：葱花、少量胡椒或香油提香 拆分实物层数 N（不含空白层）：典型炒粉结构 → N = 6 层 解构叙事顺序（从颠出来的顶端开始）： 香气/调味粉香 → 顶部点缀 → 牛肉主体 → 配菜脆爽层 → 河粉主食层 → 酱油油润与锅气油层 每层包含：食材名 + 颜色/形态 + 质感/状态 + 风味作用 锅具中的“整体成品”先出现 → 颠锅抛起后解构成悬浮层 最后输出“成品层（Final Bowl）” 画面叙事： 黑色背景 + 顶端金色标题 人物正面朝向观者，手中颠锅 锅里是完整成品，锅上方是分层悬浮 1) 顶端标题输入（金色字） 标题文字（中文/或双语）： 铁锤人独立开发终点：卖炒粉 标题视觉（固定要求）： 金色标题 / golden title text, metallic gold foil or brushed gold, subtle glow, high contrast on black 排版建议： 置于画面最顶端，居中或略偏上居中。 不压住人物头部与悬浮层。 可一行主标题 + 小一号副标题（可选）。 约束： 标题已提供，直接使用，不要擅自改写。 2) 画面与人物输入（黑背景 + 颠锅动作版） 背景设定： 黑色背景 / deep black studio background, matte subtle texture, high contrast spotlight 用户头像要求（必须先让用户提供）： 请用户上传清晰正脸头像（光线均匀、无遮挡、无夸张滤镜）。未提供头像时不要生成具体人物。 厨师化处理（基于用户头像｜必须像本人）： 严格保留用户五官比例、脸型、皮肤质感与年龄特征（不改变性别/种族/身份特征）。 禁止“换脸/重塑成陌生人”；相似度优先。 专业厨师造型：厨师帽、厨师服/围裙（干净、利落）。 可加入自然厨师道具，但不喧宾夺主。 表情与气质：自信、友好、专注。 灯光：人物顶侧柔光 + 轮廓光，使其从黑背景中清晰分离。 人物朝向与姿态（关键）： 人物正面朝向观者（面向“我”），双手操纵锅具/餐具做颠锅动作。 锅具/餐具指定（必填）： 【指定锅具/餐具名称：如炒锅 / wok】 材质与颜色：【铸铁/碳钢 + 深色金属哑光】 动作叙事（已修正的逻辑）： 锅内：完整成品（合体状态）清晰可见。 颠出瞬间：成品从锅里被抛起，立刻开始解构。 锅上方：Layer 1…6 依次悬浮展开，保持重力方向一致、间距清晰。 人物与锅在下方“托举/颠出”，分层在上方“展开叙事”。 3) 菜品基本信息 主题菜品（中文）：干炒河牛 主题菜品（English）：Dry-Fried Beef Chow Fun (Beef Chow Fun) 菜系/风味关键词（可选）：粤式 / wok hei / 咸鲜 / 酱香 / 油润 4) 锅内整体（Whole Dish in Pan / Base State｜固定层） 锅内整体名称：干炒河牛 / Beef Chow Fun 锅内整体描述： 宽河粉裹着深浅相间的酱油色泽，牛肉片油亮嫩滑，豆芽与洋葱夹杂其间，葱段点缀；整体呈现干香咸鲜、带明显锅气的合体成品。 受光与质感： 锅内可见油光与酱色反射，河粉边缘微焦，牛肉表面润泽，热气轻薄上升。 与动作关系： 成品正处于被颠起的瞬间，锅内仍完整，锅上方即将展开分层解构。 5) 实物分层（Layer 1…6｜从颠出来的顶端开始） 总实物层数：N = 6 Layer 1（香气/调味层｜Aroma & Seasoning） 食材：白胡椒粉、微量糖粉、少许炒香蒜末碎 颜色/形态：淡米白/浅金色粉末与细碎颗粒 质感/状态：干燥轻盈、颗粒细小、带热香 作用/风味（可选）：提香、增鲜、制造“干炒”的香气顶端冲击 备注（可选）：胡椒与蒜香形成第一波锅气嗅觉 Layer 2（顶部点缀层｜Top Garnish） 食材：葱花、葱段 颜色/形态：鲜绿色小段/细碎 质感/状态：清新脆嫩、轻微油润 作用/风味（可选）：清香提亮、对比深色酱香 备注（可选）：随热气微微卷曲悬浮 Layer 3（牛肉主体层｜Beef Protein Layer） 食材：滑炒牛肉片、少量酱色包裹 颜色/形态：深棕至红褐色薄片，边缘油亮 质感/状态：嫩滑多汁、微焦香 作用/风味（可选）：主蛋白鲜味来源、与酱香结合 备注（可选）：腌制含生抽、料酒、淀粉形成滑嫩口感 Layer 4（配菜脆爽层｜Vegetable Crunch Layer） 食材：豆芽、洋葱丝、韭黄（可选） 颜色/形态：豆芽乳白带黄头、洋葱半透明浅紫白丝 质感/状态：爽脆多汁、轻微热熟 作用/风味（可选）：增加清甜与脆感，对比主食柔软 备注（可选）：保持短炒，避免出水 Layer 5（河粉主食层｜Rice Noodle Base） 食材：宽河粉 颜色/形态：酱油棕色宽扁带状、部分边缘微焦 质感/状态：柔韧滑弹、干身不粘、带锅气焦香 作用/风味（可选）：承载酱香与油香的主结构 备注（可选）：高温快炒形成“wok hei” Layer 6（汤/酱/油层｜Sauce & Oil / Wok Hei Layer） 食材：生抽、老抽、蚝油混合酱汁、热油薄雾 颜色/形态：深琥珀至黑棕色油亮薄膜/雾化油点 质感/状态：油润浓香、薄而均匀附着 作用/风味（可选）：咸鲜酱香核心、带微甜收口与锅气 备注（可选）：液体层负责把所有实体层“合体”成最终味型 6) 成品层（Finished Dish / Final Bowl） 成品名称：干炒河牛 / Beef Chow Fun 组成描述： 河粉、牛肉、豆芽洋葱与酱油油香在高温锅气中合并成干香咸鲜的一体成品。 主体表现： 宽河粉被酱油与热油均匀包裹，表面油亮、局部微焦；牛肉片嵌入其间，嫩滑带酱香。 顶部点缀： 葱花与葱段落回顶部，形成绿色对比与清香尾韵。 热气/新鲜感（可选）： 现出锅的轻薄蒸汽与油香热雾可见。 容器归位： 成品最终落回指定炒锅/餐具中，形成“解构→合体”的定格。 7) 食物标签（Bilingual Labels｜Layer 对应 + 中英对齐） 胡椒蒜香顶味 / Pepper-Garlic Aroma Crown 对应图层：Layer 1 对齐要点：中英都指向“胡椒粉+蒜末碎”的顶端香气层。 青葱清香点缀 / Fresh Scallion Garnish 对应图层：Layer 2 对齐要点：同步概括“葱花/葱段”的绿色清香装饰层。 滑嫩酱香牛肉 / Tender Soy-Glazed Beef 对应图层：Layer 3 对齐要点：中英一致描述“嫩滑牛肉片+酱色包裹”的主蛋白。 豆芽洋葱脆爽 / Crunchy Bean Sprouts & Onion 对应图层：Layer 4 对齐要点：双语对齐“豆芽+洋葱”带来的脆爽配菜层。 宽河粉锅气主食 / Wok-Hei Flat Rice Noodles 对应图层：Layer 5 对齐要点：中英都强调“宽河粉”与“锅气焦香”主食层。 酱油油润核心 / Soy Sauce Oil Gloss 对应图层：Layer 6 对齐要点：一致指向“生抽老抽蚝油+热油”的酱/油融合层。 干炒河牛合体成品 / Final Beef Chow Fun 对应图层：Finished Dish 对齐要点：整体标签中英一致指向所有层合并后的最终成品。 8) 快速自检  N = 6 合理覆盖灵魂元素（河粉、牛肉、酱油油香、豆芽洋葱、葱、胡椒蒜香、锅气）  包含：主体、关键调味、典型配菜、汤/酱/油、终极点缀  已先写“锅内整体”，再写“颠出来的分层”  分层顺序符合“风味→点缀→主体→配菜→主食→液体酱油油层→合体”  成品层包含所有层的合并结果  标题为用户输入且金色字效果已明确  人物相似度教练检查（需用户头像后执行）： 是否严格保留用户脸型/五官/年龄？→ 待用户头像 相似度是否达到“像本人”？→ 待用户头像 若不够像：减少风格化/回退真实头像特征。  标签对齐检查： Layer 1…6 关键词已列，Labels 全覆盖 中英文语义一致、图层编号真实存在 无遗漏，无需补充
+```
+
+</details>
+
 <a id="gpt-image-architectural-passport-travel-poster"></a>
 ### Tokyo Kaminarimon colored pencil architectural passport poster
 
@@ -6992,99 +7110,6 @@ All text in the image must be written in Russian, fully legible, grammatically c
 The AI automatically adapts fonts, sizes, composition, and text placement to the poster layout.
 Premium magazine design, high contrast, sharp focus, commercial product photography, luxury advertising, fashion editorial, ultra realistic, photorealistic, HDR, 8K.
 Avoid: unreadable text, errors in Russian, AI artifacts, CGI, cartoonish style, distorted product, blurriness, watermarks, and low quality.
-```
-
-</details>
-
-<a id="gpt-image-food-photo-ingredient-sketchbook-poster"></a>
-### Pizza photo above hand-drawn ingredient sketchbook
-
-<a href="https://x.com/Goodmanprotocol/status/2108555814604812483"><img src="../../previews/gpt-image-food-photo-ingredient-sketchbook-poster.jpg" width="360"></a>
-
-The prompt splits the canvas into a realistic food photo on top and a gouache ingredient sheet below, with a hard horizontal divider and a fixed height ratio. A small dish illustration in the center, arrows and numbered specimens give the lower half a field-note structure, and a long avoid list keeps it uncluttered.
-
-GPT Image 2.5 · Text-to-image · Source: [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2108555814604812483) · 67 likes on 2026-10-28
-
-[`food`](tags.md#tag-food) [`poster`](tags.md#tag-poster) [`editorial`](tags.md#tag-editorial) [`sketchbook`](tags.md#tag-sketchbook) [`split-layout`](tags.md#tag-split-layout)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a premium 3:4 vertical editorial food-art poster for [COUNTRY / CITY / LOCAL DISH / FOOD SUBJECT].
-
-TEXT-TO-IMAGE ONLY.
-Generate the entire composition from the written dish or food subject alone. Do not request, upload, use, or depend on any reference image or existing photograph. Automatically identify the dish’s authentic appearance, ingredients, textures, and cultural identity.
-
-CORE CONCEPT:
-Create one elegant travel-food editorial poster combining realistic food photography in the upper section with a handmade ingredient-observation sketchbook in the lower section. Feature ONE recognizable plate or bowl containing a single dish, with at least three visually distinct ingredients.
-
-UPPER SECTION — REALISTIC FOOD PHOTOGRAPHY:
-Occupy approximately 48% of the canvas height. Create a beautifully composed, authentic photographic view of the specified local dish, preserving believable ingredient textures, natural lighting, realistic proportions, and culturally accurate presentation. Use subtle food-magazine color grading and extremely light film grain. Keep the entire plate or bowl visible.
-
-SECTION DIVIDER:
-Separate both sections with a straight, clean horizontal boundary. A very thin warm-ivory paper strip is optional. No gradients, blending, or elements crossing the divider.
-
-LOWER SECTION — INGREDIENT OBSERVATION SHEET:
-Use warm ivory drawing paper with visible fibers, fine grain, faint smudges, and subtle handmade irregularities. Create a sparse, asymmetrical food-field-note composition rather than repeating the full photographic dish.
-
-Place ONE small, simplified but recognizable illustration of the complete dish near the center. Keep it secondary and compact, occupying approximately one-third of the lower section’s width.
-
-Around it, illustrate 3–6 individually selected ingredients inferred from the dish. Use small watercolor specimens, cut-surface studies, herb sketches, grain clusters, sauce swatches, or distinctive ingredient shapes. Arrange them at varied sizes and angles with generous breathing room.
-
-DRAWING STYLE:
-Matte gouache, delicate black-ink outlines, slightly hesitant hand-drawn strokes, dry-brush gaps, uneven pigment coverage, soft watercolor edges, visible paper texture, and restrained natural colors. Keep ingredients recognizable without excessive detail. Add a few fine arrows and small handwritten numbers connecting specimens to the miniature dish.
-
-TYPOGRAPHY:
-Use minimal, understated editorial annotations only when helpful. Short ingredient names or tiny handwritten notes are acceptable. Keep all text small and secondary; avoid unnecessary titles or decorative lettering.
-
-COLOR PALETTE:
-Derive the colors naturally from the dish, balanced by warm cream, muted earth tones, and subtle ink details.
-
-FINAL AESTHETIC:
-Authentic local food photography × handmade ingredient studies × refined travel-food editorial × collectible culinary field notebook.
-
-AVOID:
-Multiple dishes, duplicate plates, mixed meals, inaccurate ingredients, excessive garnish, crowded layouts, gradients, bleeding transitions, glossy digital painting, flat vector infographics, 3D rendering, commercial menu styling, excessive text, logos, watermarks, and interface elements.
-
-FORMAT:
-3:4 vertical portrait, approximately 48% photographic food scene above and 52% illustrated ingredient-observation sheet below, crisp horizontal separation, generous negative space, premium publication quality, ultra-high definition.
-```
-
-</details>
-
-<a id="gpt-image-photo-over-paper-sculpture-editorial-poster"></a>
-### Photo above, paper cutout poster below
-
-<a href="https://x.com/j_smeaton99/status/2111755839895699812"><img src="../../previews/gpt-image-photo-over-paper-sculpture-editorial-poster.jpg" width="360"></a>
-
-A strict 3:4 canvas split 50/50 keeps the original photo on top and rebuilds the subject as layered cardstock cutouts below. Palette is derived from the source image, with exclusion lists and sparing typography keeping each poster distinct.
-
-GPT Image 2.5 · Edit · Source: [@j_smeaton99 on X](https://x.com/j_smeaton99/status/2111755839895699812) · 64 likes on 2026-10-28
-
-[`paper-cutout`](tags.md#tag-paper-cutout) [`editorial-poster`](tags.md#tag-editorial-poster) [`photo-to-collage`](tags.md#tag-photo-to-collage) [`pastel-palette`](tags.md#tag-pastel-palette) [`split-layout`](tags.md#tag-split-layout)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a collection of individual, high-end editorial art posters, producing one separate design for every uploaded photograph. Treat each image as its own creative project, with no image merging, repeated layouts, or borrowed design elements between posters.
-
-CANVAS & STRUCTURE: Use a strict 3:4 vertical format with a precise 50/50 horizontal division. The upper section must retain the original photograph, including the subject’s face, identity, pose, clothing, defining details, original color relationships, and natural lighting. Apply only restrained tonal refinement for a polished magazine finish. Do not reconstruct, reshape, or replace the photographed subject.
-
-PHOTOGRAPHIC UPPER PANEL: Preserve the authentic image as the visual anchor. Simplify distracting surroundings only where necessary, without altering the subject or compromising the photograph’s original character.
-
-LOWER PANEL — PAPER SCULPTURE: Reinterpret the subject’s defining features, silhouette, or visual story as a contemporary handcrafted paper composition. Build the artwork from bold cutouts, abstract contours, overlapping cardstock, and carefully arranged geometric fragments. Reduce unnecessary details while retaining recognizable visual connections to the original photograph. The result should feel like an art director’s handcrafted mixed-media experiment, not a cartoon illustration.
-
-LAYOUT & SPATIAL DESIGN: Create a striking contrast between a spacious, pale upper field and a confidently colored lower section extending edge to edge. Let the subject interact visually with the dividing line, creating a seamless relationship between photography and collage. Introduce an off-center shape, architectural color panel, or restrained graphic accent only when it strengthens the composition. Keep the arrangement intentional, airy, and visually distinctive.
-
-PALETTE & MATERIALS: Derive a small selection of complementary colors from the source image, then translate them into luminous, understated pastel tones. Combine matte paper surfaces, fine fibrous grain, slightly irregular cut edges, and delicate overlapping layers. Establish dimension through the arrangement of paper elements rather than pronounced shadows, gradients, or artificial depth.
-
-EDITORIAL FINISH: Use typography sparingly. If suitable, include a small art-publication title, discreet caption, or minimal typographic detail, positioned with precision. Avoid unnecessary text, decorative labels, and oversized lettering.
-
-ARTISTIC DIRECTION: Contemporary gallery poster meets independent art-journal design. Balance photographic authenticity with tactile paper craftsmanship, bold color blocking, thoughtful asymmetry, and generous breathing room. Every poster should have its own visual character, derived directly from its source photograph.
-
-STRICT EXCLUSIONS: No combined photographs, duplicated designs, distorted anatomy, altered facial identity, full-scene illustration, cartoon rendering, glossy 3D elements, excessive drop shadows, gradients, busy backgrounds, or mass-produced template aesthetics.
-
-FINAL OBJECTIVE: Produce a refined, collectible-quality editorial poster that feels individually art-directed. The original photograph remains authentic in the upper half, while the lower half translates its visual identity into a fresh, tactile, minimalist paper-art interpretation.
 ```
 
 </details>

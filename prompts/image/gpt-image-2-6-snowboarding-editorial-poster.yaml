@@ -1,0 +1,54 @@
+id: gpt-image-2-6-snowboarding-editorial-poster
+title:
+  en: Airborne snowboarder over red SNOWBOARDING headline
+  zh: 单板滑雪者腾空跃起 红色 SNOWBOARDING 大标题
+model: GPT Image 2.6
+mode: text-to-image
+category: poster
+tags:
+- editorial
+- sports
+- typography
+- poster
+source:
+  name: '@Goodmanprotocol on X'
+  url: https://x.com/Goodmanprotocol/status/2119083132691615772
+  credit: Saul Goodman
+  likes: 139
+  captured: '2026-11-10'
+  posted: '2026-11-07'
+notes:
+  en: A fill-in editorial template with a [MAIN SUBJECT] slot and fixed magazine scaffolding (edition label, microtype, coordinates, footer) keeps the layout reproducible. Telling the model the subject should overlap the headline produces the integrated effect where the board cuts across the letters.
+  zh: 这是一个带 [MAIN SUBJECT] 占位符的固定杂志版式模板，版面元素（期数标签、微排版、坐标、页脚）可以稳定复现。明确要求主体压住标题，才会出现滑板穿过文字的整合效果。
+prompt: |
+  Create a premium, photorealistic editorial magazine poster inspired by high-end outdoor adventure photography, contemporary sports campaigns, and minimalist Swiss graphic design.
+
+  CORE CONCEPT: Automatically identify the main subject, activity, environment, and visual characteristics from the provided subject or concept. Transform it into a striking editorial cover that combines dramatic full-frame photography with oversized, bold typography.
+
+  PHOTOGRAPHY & COMPOSITION: Capture the subject in an extraordinary, visually dynamic moment. Use professional sports and lifestyle photography, realistic anatomy, precise details, natural textures, dramatic environmental elements, and authentic movement.
+
+  The main photograph should occupy the upper and middle sections of the poster. Use an immersive composition with the subject prominently positioned and the environment providing visual depth.
+
+  TYPOGRAPHIC DESIGN:
+
+  - Add an enormous, bold, uppercase headline featuring the main subject or activity.
+  - Use condensed extra-bold sans-serif typography.
+  - Position the headline across the lower-middle portion of the poster.
+  - Allow the subject to overlap and partially obscure the typography, creating an integrated photographic-editorial effect.
+  - Choose typography colors that contrast beautifully with the photograph.
+  - Include subtle microtypography, thin horizontal divider lines, and editorial labels.
+
+  EDITORIAL DETAILS: Include sophisticated magazine-style elements:
+
+  - Small uppercase category label at the top.
+  - Edition number: EDITION 01.
+  - Small subtitle describing the activity or environment.
+  - Minimalist footer branding: VISUAL STUDIES.
+  - Short editorial tagline: THE ART OF [MAIN SUBJECT].
+  - Subtle technical coordinates or location details where appropriate.
+
+  VISUAL STYLE: Luxury outdoor adventure magazine, contemporary editorial art direction, premium sports photography, cinematic natural lighting, rich realistic colors, crisp details, sophisticated typography, professional graphic design, and carefully balanced negative space.
+
+  LAYOUT: Vertical 4:5 poster composition. Clean rectangular layout with subtle rounded corners, carefully aligned typography, strong visual hierarchy, and professional magazine-cover aesthetics.
+
+  IMPORTANT: The design must feel like a professionally art-directed magazine cover, not a generic AI-generated image. Ensure all typography is correctly spelled, legible, properly integrated, and visually balanced. Avoid unnecessary text, logos, watermarks, and decorative clutter.

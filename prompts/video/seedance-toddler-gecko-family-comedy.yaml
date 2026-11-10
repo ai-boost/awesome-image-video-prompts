@@ -1,0 +1,78 @@
+id: seedance-toddler-gecko-family-comedy
+title:
+  en: Toddler spots a gecko on a bedroom wall
+  zh: 幼儿在卧室墙上发现壁虎
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- 3d-animation
+- family-comedy
+- multi-scene
+source:
+  name: '@Zarnab_with_Ai on X'
+  url: https://x.com/Zarnab_with_Ai/status/2105615254973792766
+  credit: Zarnab_with_Ai
+  captured: '2026-11-10'
+  posted: '2026-10-01'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Zarnab_with_Ai/status/2105615254973792766
+notes:
+  en: The prompt fixes a character list with clothing details, then numbers each scene with its own action and closes on the final shot, which keeps the cast and story order stable across cuts. Separate camera, lighting and quality blocks give the model shot-level direction instead of one vague action line.
+  zh: 提示词先固定角色清单并写明服装细节，再把故事按编号分场描述，每场都有自己的动作，最后给出结尾镜头，这样多个镜头中的人物与情节顺序都更稳定。镜头、光线和质量各自独立成段，为模型提供逐镜头的明确指令，而不是一句笼统的动作描述。
+prompt: |
+  Create a 60–65 second high-quality cinematic 3D animated family comedy video in a warm, charming, Pixar-inspired animation aesthetic.
+
+  CHARACTERS:
+  - A cute energetic blond toddler boy wearing only a white diaper.
+  - A cute little girl with short brown hair, wearing pink pajamas with small bows.
+  - A warm, expressive mother with short brown hair, wearing a cozy beige sweater and blue jeans.
+  - A friendly green gecko/lizard with large expressive eyes.
+  - A father with short dark brown hair, wearing a green T-shirt, dark gray pants and casual sneakers.
+
+  VISUAL STYLE:
+  Premium 3D animated movie quality, adorable stylized characters, expressive oversized eyes, realistic soft skin and hair textures, detailed facial expressions, polished cinematic lighting, warm family-home atmosphere, smooth natural character animation, physically believable movement, colorful but soft environment, shallow depth of field, global illumination, soft shadows, high-detail textures, cinematic composition.
+
+  SETTING:
+  A cozy modern family home with a child's bedroom and living room. Blue children's wallpaper decorated with stars and clouds, wooden furniture, framed children's artwork, warm lamps, large windows with sunlight streaming through curtains, patterned rugs, toys scattered naturally around the floor, comfortable sofa and family decorations.
+
+  STORY / ACTION:
+
+  SCENE 1 — BEDROOM:
+  The blond toddler walks around his bedroom curiously. He notices a small green gecko climbing on the wall. He looks surprised and fascinated, slowly approaches it, then carefully reaches toward it.
+
+  SCENE 2:
+  The toddler playfully grabs the gecko and holds it gently. The gecko reacts with funny exaggerated expressions while the toddler laughs and becomes excited.
+
+  SCENE 3:
+  A little girl in pink pajamas enters the room and notices the gecko. She gets curious and crawls toward it while the toddler proudly shows it to her. The gecko wiggles and tries to escape, creating a playful comedy moment.
+
+  SCENE 4 — LIVING ROOM:
+  Cut to the mother sitting on the sofa with both children. The girl looks nervous while the toddler excitedly shows the green gecko. The mother notices what is happening and reacts with surprise and concern.
+
+  SCENE 5:
+  The gecko suddenly moves closer to the children. The mother becomes startled and raises her hands. The children react with exaggerated surprised expressions. Keep the moment funny and family-friendly rather than scary.
+
+  SCENE 6:
+  The toddler tries to follow the gecko while the little girl runs away laughing. Toys roll across the wooden floor as the gecko quickly scurries around the room. The mother jumps up from the sofa and tries to keep the children safe.
+
+  SCENE 7:
+  The father suddenly enters the living room. He looks confused after seeing the chaos. The mother gestures toward the gecko while the children excitedly point at it.
+
+  SCENE 8 — COMEDIC ENDING:
+  The father carefully approaches the gecko and tries to catch it. The toddler happily follows him. The gecko suddenly climbs onto the father's shirt, creating a hilarious reaction. Everyone reacts with surprise and laughter.
+
+  FINAL SHOT:
+  The father stands in the middle of the living room with the gecko on his green shirt while the toddler laughs and claps happily. The mother and little girl react with amused expressions in the background. End on a warm, funny family moment.
+
+  CAMERA:
+  Cinematic medium shots, close-ups for facial reactions, gentle tracking shots, low-angle toddler perspective, occasional wide shots showing the entire room, smooth camera transitions, natural handheld-style movement during the comedic chase, expressive reaction close-ups.
+
+  LIGHTING:
+  Warm afternoon sunlight coming through windows, soft volumetric rays, cozy indoor practical lighting, natural shadows, cinematic highlights and realistic bounce light.
+
+  ANIMATION:
+  Highly expressive facial animation, natural body movement, believable toddler walking and running, playful exaggerated reactions, smooth hand gestures, realistic cloth and hair movement, detailed gecko movement, comedic timing and clear storytelling.
+
+  QUALITY:
+  Ultra-detailed 3D animation, cinematic rendering, 4K, high-quality global illumination, realistic materials, soft depth of field, polished feature-film animation, consistent character appearance throughout, smooth motion, no flickering, no distorted faces, no extra limbs, no character identity changes.

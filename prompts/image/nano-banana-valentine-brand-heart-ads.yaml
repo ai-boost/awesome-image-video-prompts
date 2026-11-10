@@ -1,0 +1,34 @@
+id: nano-banana-valentine-brand-heart-ads
+title:
+  en: Four brand Valentine ads with products shaped as hearts
+  zh: 四个品牌情人节广告，产品排成心形
+model: Nano Banana Pro
+mode: text-to-image
+category: brand
+tags:
+- valentines-day
+- product-ad
+- heart-shape
+- studio-lighting
+source:
+  name: '@TechieBySA on X'
+  url: https://x.com/TechieBySA/status/2022269227286102243
+  credit: TechieSA
+  likes: 553
+  captured: '2026-11-10'
+  posted: '2026-02-13'
+notes:
+  en: A fill-in template fixes the layout order (logo at top, product heart in the centre, tagline at the bottom) and names the brand colour as the backdrop, so every brand gets the same structure. Stating the 4:5 ratio, photorealistic 3D rendering and studio lighting gives the premium product shot look.
+  zh: 模板固定了版式顺序（顶部品牌标志、中央产品心形、底部标语），并指定品牌主色作背景，因此每个品牌都保持相同结构。写明4:5比例、照片级3D渲染和棚拍光线，可得到高端产品图的质感。
+prompt: |
+  🌹Valentine’s Special 30% Off with the latest models➡️
+  http://
+  supawork.ai/affiliate-prog
+  ram
+  …
+
+  Idea by Jadkassis on Instagram🔥
+
+  Simply replace [PRODUCT & [BRAND]:✨
+
+  “Create a professional Valentine’s Day advertisement for [BRAND] in 4:5 aspect ratio. The background should use the signature brand color as a clean, vibrant backdrop. Arrange multiple [PRODUCT] items creatively to form a perfect heart shape in the center of the composition. The products should appear realistic and three-dimensional with professional lighting and soft shadows, clearly displaying logos. Add romantic elements like rose petals or flowers floating around the heart. Position the logo at the top center of the image. At the bottom, include a romantic tagline in bold, modern typography that incorporates the brand’s messaging or plays on the product name. Use photorealistic 3D rendering style with studio lighting and premium advertising quality. Maintain a clean, modern aesthetic that matches the visual identity with significant breathing room around all elements.​​​​​​​​​​​​​​​​“

@@ -1,6 +1,6 @@
 # 手机实拍与 Vlog
 
-[返回目录](../../README_zh.md) · 全部 174 条 · [1](video-vlog.md) · **2** · [3](video-vlog-3.md)
+[返回目录](../../README_zh.md) · 全部 182 条 · [1](video-vlog.md) · **2** · [3](video-vlog-3.md)
 
 <a id="seedance-ice-cream-cart-chase-home-video"></a>
 ### 年轻女子追冰淇淋车的手持家庭录像
@@ -114,6 +114,45 @@ She reaches a safe spot, bends over briefly to catch her breath, then looks at t
 CAMERA & REALISM
 
 Amateur one-handed iPhone recording. Natural handheld shake, imperfect framing, slight tilt, occasional autofocus shifts, automatic exposure changes, realistic motion blur, natural smartphone colors, subtle digital sharpening and compression. Environmental details remain visible. No cinematic look.
+```
+
+</details>
+
+<a id="seedance-indonesian-hammock-phone-vlog"></a>
+### 女子在院子吊床上玩手机
+
+<a href="https://x.com/ai_anelia/status/2117239438942306560"><img src="../../previews/seedance-indonesian-hammock-phone-vlog.jpg" width="360"></a>
+
+用参考图锁定人物外观，用带时间戳的分镜让每一段只有一个清晰动作。DV 摄像机的抖动、对焦漂移、果线快门和褪色质感，加上禁止摆拍的要求，让画面保持随手拍的随意感。
+
+Seedance 2.5 · 图生视频 · 出处: [@ai_anelia on X](https://x.com/ai_anelia/status/2117239438942306560) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`vlog`](tags.md#tag-vlog) [`dv-camcorder`](tags.md#tag-dv-camcorder) [`indonesia`](tags.md#tag-indonesia) [`timestamped-shots`](tags.md#tag-timestamped-shots)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+image = Main Subject. Preserve her exact identity, face, hairstyle, skin tone, body proportions, natural underarm hair, olive-green faded crop top, loose high-waist light-blue jeans, black canvas sneakers, black cord necklace, wavy black hair, side-swept bangs and messy ponytail throughout.
+
+Authentic Indonesian woman, early-2000s atmosphere. Ordinary quiet Indonesian residential neighborhood: narrow concrete alley, simple single-story houses, front terrace, two large trees, potted plants, parked motorcycles and tangled overhead cables. No shops, markets, vendors or commercial activity.
+
+STYLE: Extremely raw handheld early-2000s DV camcorder home video. Gritty documentary realism, heavy organic camera shake, accidental framing, frequent reframing, off-center subject, partial face cropping, autofocus hunting, lens breathing, exposure fluctuations, rolling shutter, motion blur, digital noise, compression artifacts, faded desaturated colors, low contrast, washed highlights and faded blacks. Casual friend-recorded footage. No stabilization, cinematic glamour, commercial aesthetic, posing or modern grading.
+
+30-SECOND CONTINUOUS HOME-VIDEO SEQUENCE — 16:9
+
+- 00–03: Wide shaky shot of her relaxing in a hammock between two large front-yard trees, one leg dangling, dappled sunlight overhead.
+- 03–07: Close-up of her slowly pressing an old Nokia keypad and smiling slightly. Camera hunts for focus.
+- 07–10: She stretches lazily in the hammock, phone on stomach, gazing at the canopy as wind moves her hair and hammock.
+- 10–13: She gets up, pockets the phone and walks across the yard. Camera follows unsteadily.
+- 13–16: She crouches beside a parked motorcycle, picks up a bucket of soapy water and rag.
+- 16–20: Close-up as she slowly cleans a motorcycle helmet. Natural underarm hair briefly visible, suds dripping onto concrete.
+- 20–24: Side-angle shot of her wiping the motorcycle seat, briefly glancing at the camera with a small smile.
+- 24–27: She rinses and wrings the rag over the bucket.
+- 27–30: She wipes her wet hands on her jeans, looks up and smiles naturally. Abrupt cut to black.
+
+AUDIO: No music, dialogue or artificial sound. Only natural ambience: morning birds, light breeze, distant motorcycles, neighborhood chatter, rustling leaves, hammock creaks, Nokia keypad clicks, splashing water and rag squeaking against leather.
+
+STRICT: No posing, no fashion-commercial look, no perfect composition, no stabilization, no cinematic shots, no artificial lighting, no modern color grading. Maintain exact character consistency in every frame.
 ```
 
 </details>
@@ -422,6 +461,39 @@ Audio hard-cuts naturally with each location; subtle room-tone tails are accepta
 
 FINAL QUALITY RULES:
 Exactly one stable adult heroine, full modest coverage, consistent hijab and glasses, anatomically natural hands, no face drift or changing ethnicity, no glossy skin filter. Requested high-bitrate file must preserve intentional MiniDV texture rather than remove it. The viewer should feel these are precious imperfect memories from a real day together, not a compilation of polished commercial travel footage.
+```
+
+</details>
+
+<a id="seedance-korea-village-water-gun-chase"></a>
+### 女子加入村里孩子的水枪追逐
+
+<a href="https://x.com/nawalsehar/status/2099725518677655596"><img src="../../previews/seedance-korea-village-water-gun-chase.jpg" width="360"></a>
+
+提示词按三段结构书写：安静步行、突然遭袭、全员湿透的结尾，并给出跟拍、特写和过肩等镜头清单。它锁定人物、服装和水枪的一致性，并列出需要排除的瑕疵，使追逐过程中人物和道具保持稳定。
+
+Seedance 2.5 · 文生视频 · 出处: [@nawalsehar on X](https://x.com/nawalsehar/status/2099725518677655596) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`korea`](tags.md#tag-korea) [`water gun`](tags.md#tag-watergun) [`summer`](tags.md#tag-summer) [`vlog`](tags.md#tag-vlog)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 30-second ultra-photorealistic live-action Korean countryside lifestyle vlog showing a playful summer water-gun battle between a young Korean woman and three village children.
+
+Begin with the woman walking through a quiet Korean village when the children surprise her with a playful water-gun attack. She laughs, joins the game, and the friendly battle turns into a spontaneous chase through the sunlit village streets.
+
+Show authentic Korean countryside details including traditional homes, stone walls, gardens, trees, bicycles, narrow paved roads and warm summer sunlight. Keep all characters, clothing, water guns and environment perfectly consistent.
+
+Capture realistic water-gun pressure, fluid dynamics, gravity, air resistance, droplets, splashes, wet clothing, wet hair, running biomechanics, friction, momentum and natural environmental reactions. Water should behave like real pressurized liquid rather than artificial beams.
+
+Use modern 2026 handheld cinematic-vlog cinematography with dynamic tracking shots, close-ups, over-the-shoulder angles, realistic autofocus, natural camera inertia and occasional wide village views.
+
+Natural diegetic audio only: children's laughter, footsteps, water-gun sounds, water impacts, leaves, birds, insects and authentic Korean reactions. No music, narration or subtitles.
+
+End with everyone completely soaked and laughing together as sunlight catches the falling water droplets in the peaceful village street.
+
+No CGI, animation, fantasy water, impossible physics, dangerous behavior, distorted faces or hands, duplicated children, changing clothing, excessive camera movement, logos or watermark.
 ```
 
 </details>
@@ -870,6 +942,37 @@ Seedance 2.5 · 文生视频 · 出处: [@ayzalnooor24521 on X](https://x.com/ay
 
 ```text
 Created a 30-second ultra-realistic cinematic Korean street vlog, vertical 9:16 format. Beautiful Korean girl with natural Korean beauty, fair clear skin, delicate facial features, dark eyes, and black hair tied in a casual ponytail, wearing a simple black oversized sweatshirt, loose dark track pants, and black-and-white sneakers. Her female friend wears a burgundy zip-up jacket and dark pants. The video begins inside a Korean convenience store, where the girl casually selects food from a refrigerated display while her friend stands nearby. She then pays at the checkout counter, holding a bottle of water and snacks. The scene transitions to a nighttime Korean street, where both girls sit at a small blue outdoor plastic table and chairs under cool streetlights, enjoying their snacks, checking their phones, drinking water, and chatting naturally with relaxed expressions. One girl smiles while looking at her phone, and the other takes a bite of her food and drinks from her water bottle. Near the end, one girl stands up, gathers her belongings, and walks away, leaving the empty blue chairs and table behind as her friend moves into the distance. Authentic Korean everyday lifestyle, candid moments, natural body movements, realistic facial expressions, subtle handheld camera movement, soft focus, shallow depth of field, convenience-store fluorescent lighting, cinematic blue nighttime tones, realistic skin texture, natural ambient street sounds, documentary-style storytelling, high-quality details, consistent character appearance throughout, no exaggerated acting, no artificial beauty filters, no text, no subtitles, no watermark.
+```
+
+</details>
+
+<a id="seedance-korean-countryside-bicycle-vlog"></a>
+### 韩国乡村女孩与三个孩子骑车比赛
+
+<a href="https://x.com/nawalsehar/status/2099368044287947194"><img src="../../previews/seedance-korean-countryside-bicycle-vlog.jpg" width="360"></a>
+
+提示词按时间顺序描述场景，先交代村庄、人物和服装并要求全程保持一致，再列出自行车物理动作和具体的环境音与对白，帮助模型生成可信的动作与口型同步。手持式 vlog 镜头、自行车高度跟拍和结尾的远景共同营造纪实感。
+
+Seedance 2.5 · 文生视频 · 出处: [@nawalsehar on X](https://x.com/nawalsehar/status/2099368044287947194) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`vlog`](tags.md#tag-vlog) [`korean-countryside`](tags.md#tag-korean-countryside) [`bicycle`](tags.md#tag-bicycle) [`dialogue-audio`](tags.md#tag-dialogue-audio)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 30-second ultra-photorealistic live-action Korean countryside lifestyle vlog following a young Korean woman through a spontaneous afternoon adventure. Begin with her leaving her village home on a bicycle before three local children challenge her to a friendly race through the quiet countryside.
+
+Show an authentic Korean rural village with traditional houses, stone walls, vegetable gardens, rice fields, narrow roads, trees and a peaceful stream beyond the village. Keep the woman, children, bicycles, clothing and environment perfectly consistent throughout.
+
+Capture realistic cycling biomechanics, pedaling, steering, braking, balance, bicycle momentum, wind, hair and clothing movement, flowing water, grass, leaves and natural sunlight. Every movement should follow believable real-world physics.
+
+Use modern 2026 handheld cinematic-vlog cinematography with realistic autofocus, subtle camera movement, bicycle-height tracking shots, intimate close-ups and wide countryside views.
+
+Natural diegetic audio only: bicycle chains, tires, brakes, birds, insects, wind, children's laughter, flowing water, snack packaging and authentic Korean dialogue with accurate lip synchronization. No music, narration or subtitles.
+
+End with the woman and children sitting beside the stream, sharing snacks as their bicycles rest nearby and warm sunlight filters through the trees.
+
+No CGI, animation, artificial movement, impossible physics, distorted faces or hands, changing outfits, duplicated children, floating objects, excessive camera shake, logos or watermark.
 ```
 
 </details>
@@ -1535,6 +1638,33 @@ Priority: Every action must follow naturally from the previous one, with realist
 
 </details>
 
+<a id="seedance-korean-night-skincare-vlog-dv"></a>
+### 韩国女生夜间护肤 手持 DV 质感 Vlog
+
+<a href="https://x.com/QAiStudio/status/2118337407657644323"><img src="../../previews/seedance-korean-night-skincare-vlog-dv.jpg" width="360"></a>
+
+用具体的 DV 16mm 摄像机风格锁定画面质感，包括手持抖动、磁带颗粒和低对比度，再把产品写成日常护肤流程中的一个自然步骤，让画面像 vlog 实拍而不是广告。固定的角色外观加上从夜晚到次日清晨的结构，让 12 个镜头里的人物保持一致。
+
+Seedance 2.5 · 文生视频 · 出处: [@QAiStudio on X](https://x.com/QAiStudio/status/2118337407657644323) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`skincare`](tags.md#tag-skincare) [`ugc`](tags.md#tag-ugc) [`handheld`](tags.md#tag-handheld) [`product-placement`](tags.md#tag-product-placement)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 30-second, 12-cut authentic UGC skincare vlog featuring CHASE, a Korean woman in her 20s, filming her nighttime routine with a handheld DV 16mm camcorder aesthetic. Use imperfect handheld framing, subtle shake, soft focus, tape grain, muted contrast, and natural skin texture.
+
+CHASE has long black hair clipped up, minimal makeup, and wears oversized modest cotton pajamas at night, transitioning to a cozy knit sweater with her hair down the next morning. The setting is her bedroom vanity and bathroom, with warm lamp lighting at night and soft daylight in the morning.
+
+Feature Lumé Dew Brightening Cream, a palm-sized frosted milky-white round jar with a peach-pink label, delicate lowercase branding, a small gold sun icon, and a flat brushed-gold lid. The cream inside is whipped, lightweight, and creamy white.
+
+Follow her casual nighttime routine: greeting the camera, showing her cleanser and toner, rinsing her face, applying toner, introducing the Lumé Dew jar, opening it, showing the cream texture, applying it gently, and placing it back on the vanity before switching off the lamp. Transition to the next morning, where she checks her skin in natural daylight and finishes smiling at the camera while holding the product.
+
+Keep the narration relaxed and conversational, like chatting with a friend. Include satisfying close-up product and skincare details, natural ambient sounds, and a cozy lifestyle feel. The product should appear organically throughout, never like a formal advertisement. End with a calm, authentic next-day skin check.
+```
+
+</details>
+
 <a id="seedance-korean-school-rooftop-sunset"></a>
 ### 两名学生在日落屋顶追逐纸张
 
@@ -1854,6 +1984,35 @@ Wind, footsteps on gravel, kimbap wrapper crinkle, distant waves, soft laughter,
 
 NEGATIVE
 No cut or reset at the start, no face or outfit changes, no location or lighting change, no dangerous balancing, no glitches, no CGI look, no flat or emotionless dialogue, no lip-sync mismatch, no neon or glowing colors.
+```
+
+</details>
+
+<a id="seedance-korean-village-bus-commute-vlog"></a>
+### 韩国大学生乡村公交通勤的一天
+
+<a href="https://x.com/nawalsehar/status/2101906866921955737"><img src="../../previews/seedance-korean-village-bus-commute-vlog.jpg" width="360"></a>
+
+提示词把发型、毛衣、外套和背包写成固定的身份锁定，并逐项说明刹车、轮胎牵引力和背包重量等物理细节，让动作连贯可信。声音只限环境音效，结尾是写明的公交外景镜头，最后淡出到黑场。
+
+Seedance 2.5 · 文生视频 · 出处: [@nawalsehar on X](https://x.com/nawalsehar/status/2101906866921955737) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`vlog`](tags.md#tag-vlog) [`korea`](tags.md#tag-korea) [`university`](tags.md#tag-university) [`rural`](tags.md#tag-rural)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 30-second ultra-photorealistic live-action personal vlog following a Korean university student in her early 20s living in a peaceful rural Korean mountain village. Show her natural morning routine, walking to the village bus stop, catching the regional bus, traveling through rice fields and hills, attending a university lecture, chatting quietly with friends, then taking the bus home toward the village at sunset.
+
+Keep her identity, hairstyle, cream sweater, beige jacket, blue jeans, sneakers, backpack, and proportions consistent throughout. Use authentic modern 2026 smartphone/camera footage in 16:9 with subtle handheld movement, natural autofocus and exposure changes, realistic depth of field, and genuine Korean countryside and university atmosphere. No retro or VHS aesthetic.
+
+Make every movement physically believable: realistic walking biomechanics, balance, friction, inertia, backpack weight, fabric and hair movement, bus braking and suspension, tire traction, acceleration, turning, window reflections, natural shadows, and believable human interactions. Every action should naturally lead into the next with no teleportation, floating objects, foot sliding, or impossible motion.
+
+Use only diegetic audio: birds, footsteps, wind, doors, bus engine and brakes, transit-card beep, classroom ambience, writing, chairs, student conversations, and evening traffic. No music, narration, subtitles, or voice-over.
+
+End with an exterior shot of the bus traveling along a winding rural road toward the distant village as evening light falls, then fade naturally to black.
+
+No CGI look, animation, distorted hands, extra fingers, duplicated people, changing faces or outfits, robotic movement, repetitive walking cycles, exaggerated camera shake, fantasy elements, text overlays, logos, or watermark.
 ```
 
 </details>
@@ -2300,6 +2459,47 @@ Timeline:
 00:25–00:30: Walks toward the end of the lane, turns back with a playful smile, says "Ikou." ("Let's go.") Walks around the corner; camera follows; abrupt cut to black.
 Audio: Natural location sound only—cicadas, birds, footsteps, bicycle bell, distant traffic, vending machine hum, leaves rustling, cat sounds, camera-handling noise. No music, narration, subtitles, captions, logos, watermarks, or artificial effects.
 Continuity: Realistic cat and environmental movement. No duplicated people, distorted faces, broken hands, extra fingers, teleportation, or outfit changes. Warm, casual, feminine, playful, nostalgic forgotten-summer-memory feeling.
+```
+
+</details>
+
+<a id="seedance-kyoto-lane-vlog-ordinary-day"></a>
+### 手持拍摄的京都日常vlog，带日语对白
+
+<a href="https://x.com/Just_sharon7/status/2096109540924141746"><img src="../../previews/seedance-kyoto-lane-vlog-ordinary-day.jpg" width="360"></a>
+
+以朋友用手机随拍的方式描述镜头，手持抖动、自动对焦漂移和自然动态模糊让画面更像真实素材而非精修镜头。按秒分段写明每段动作和台词，并固定服装与配饰清单，使整段30秒内人物形象和情节保持一致。
+
+Seedance 2.5 · 文生视频 · 出处: [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2096109540924141746) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`vlog`](tags.md#tag-vlog) [`kyoto`](tags.md#tag-kyoto) [`handheld`](tags.md#tag-handheld) [`dialogue`](tags.md#tag-dialogue)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 30-second, 16:9 ultra-realistic handheld lifestyle vlog following the young Japanese woman in her 20s through an ordinary day in Kyoto. Keep her face, identity, hairstyle, body, outfit, accessories, and proportions perfectly consistent.
+
+She wears a fitted pastel yellow short top, straight-leg light denim jeans, yellow canvas sneakers, a small tan tote bag, and thin gold hoop earrings throughout.
+
+Style: Genuine footage filmed casually by a close friend on a smartphone/compact camera. Handheld shake, imperfect framing, autofocus/exposure shifts, natural motion blur, mild digital noise, realistic skin texture, occasional late camera reactions. No gimbal, drone, cinematic choreography, slow motion, beauty filter, or commercial look.
+
+0–5s: Quiet residential Kyoto street, narrow lane with wooden facades. She steps out of her apartment, glances at her phone, notices the camera, smiles softly, tucks her hair behind her ear and says naturally: "今日も一緒に行こう。"
+
+5–11s: Enters a small neighborhood bakery/konbini-style shop, notices a fresh melon pan and says: "これ、いい匂いがする。" Buys it, takes a bite outside, and smiles at the camera.
+
+11–17s: Boards a local city bus and sits by the window. Kyoto streets and old buildings pass outside with realistic reflections and sunlight. She quietly says: "こういう日は、歩きたくなるな。"
+
+17–23s: Gets off near a canal-side walking path. Buys a drink from a small vending machine or cart. A cyclist passes unexpectedly close; she steps aside, laughs, and says: "今、ちょっとびっくりした。"
+
+23–27s: Golden-hour canal-side scene. She sits on a low stone ledge or bench, places her drink beside her, removes one earbud, watches the water, and gives a small genuine smile as the wind moves her hair.
+
+27–30s: She stands and walks away. After a few steps, looks back and says: "次は一緒に来てね。" She continues walking as the camera follows behind. Recording naturally ends around 29.5s.
+
+REALISM: Accurate human biomechanics, grounded feet, continuous objects, realistic bus movement, natural walking/eating/sitting, consistent architecture and wardrobe. No teleportation, morphing, identity drift, duplicated/disappearing objects, distorted hands or limbs.
+
+AUDIO: Natural Japanese dialogue with accurate lip-sync, phone-mic quality, footsteps, traffic, birds, bakery sounds, bus engine, bicycle bell, wind and city ambience. No music, narrator, or cinematic SFX.
+
+Absolutely no subtitles, captions, on-screen text, logos, watermarks, or UI.
 ```
 
 </details>
@@ -2813,6 +3013,133 @@ Photorealistic cinematic quality, natural human movement, realistic facial expre
 
 IMPORTANT CONSISTENCY:
 The character's face, facial features, hairstyle, hair color, skin tone, outfit, shoes, accessories and body proportions must remain IDENTICAL from the first frame to the final frame. No face morphing, no identity change, no clothing change, no hairstyle change, no extra fingers, no distorted hands, no random accessories, no sudden age change.
+```
+
+</details>
+
+<a id="seedance-night-helipad-selfie-vlog"></a>
+### 夜晚直升机停机坪旁的女生自拍 vlog
+
+<a href="https://x.com/Just_sharon7/status/2113594768400023908"><img src="../../previews/seedance-night-helipad-selfie-vlog.jpg" width="360"></a>
+
+带时间段的逐场分镜脚本，并重复一段身份锁定描述，使脸部、服装和配饰在各镜头间保持一致。手持自拍、机舱特写与机外第一人称航拍交替剪辑，并明确写出旋翼、风声和对白等声音线索，让 vlog 质感更真实。
+
+Seedance 2.5 · 文生视频 · 出处: [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2113594768400023908) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`vlog`](tags.md#tag-vlog) [`helicopter`](tags.md#tag-helicopter) [`tokyo`](tags.md#tag-tokyo) [`night-city`](tags.md#tag-night-city) [`character-consistency`](tags.md#tag-character-consistency)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Concept: A beautiful young East Asian woman experiences an unforgettable open-door helicopter adventure above Tokyo at night, capturing her excitement, nervous laughter, and spectacular city views in a spontaneous travel vlog.
+
+Main Character — Strict Identity Lock
+
+A beautiful 23-year-old hair styled in a loose high ponytail, wispy bangs, expressive blue eyes, natural makeup, and realistic skin texture with visible pores.
+
+New outfit: A fitted pastel-blue long-sleeve knit top, high-waisted black cargo pants, white low-top sneakers, delicate silver earrings, and a small silver necklace. During the helicopter flight, she wears a black aviation headset with boom microphone and a securely fastened black four-point safety harness.
+
+Maintain exactly the same face, hairstyle, body proportions, outfit, and accessories throughout all scenes.
+
+Scene-by-scene storyboard
+
+Scene 1 — Waterfront Helicopter Terminal (0–3s)
+
+Location: A modern waterfront helipad near Yokohama, with illuminated skyscrapers, harbor reflections, and a white helicopter parked behind her.
+
+Handheld front-facing selfie shot. She walks excitedly toward the helicopter, smiling and pointing behind her.
+
+Dialogue: "Okay, this might be the craziest thing I've ever done!"
+
+The helicopter rotor begins spinning. Natural wind gently moves her ponytail.
+
+Scene 2 — Preparing for Takeoff (3–6s)
+
+Inside the helicopter cabin, she sits beside the window, wearing her aviation headset and securely fastened harness. The camera captures a close selfie as she adjusts her headset.
+
+Dialogue: "I'm actually a little scared right now!"
+
+She laughs nervously, glancing outside at the glowing harbor.
+
+Scene 3 — Yokohama Harbor Takeoff (6–9s)
+
+Cinematic first-person aerial view as the helicopter rises above Yokohama's waterfront.
+
+Below are the illuminated Cosmo Clock 21 Ferris wheel, Minato Mirai skyscrapers, colorful harbor lights, and reflections shimmering across dark water.
+
+The helicopter banks gently toward Tokyo.
+
+Scene 4 — Above the Glittering City (9–12s)
+
+Handheld selfie inside the helicopter during flight. Wind blows loose strands of her hair as she looks out at the enormous city below.
+
+Dialogue: "Oh my God, look at those lights!"
+
+She bursts into genuine laughter, turning the camera outward to reveal Tokyo's endless illuminated skyline.
+
+Scene 5 — Incredible POV Over Tokyo Bay (12–15s)
+
+First-person downward POV from her secured passenger seat. Her black cargo pants and white sneakers appear at the bottom of the frame, safely inside the aircraft.
+
+Far below, illuminated cargo ships move through Tokyo Bay. Highways curve around the coastline, forming glowing ribbons of light.
+
+Realistic helicopter vibration and subtle camera shake.
+
+Scene 6 — Tokyo Tower Flyby (15–18s)
+
+Close handheld selfie with Tokyo Tower glowing orange in the distant background as the helicopter passes at a safe distance.
+
+She turns her head toward the tower, smiling in disbelief.
+
+Dialogue: "Wait, Tokyo Tower looks unreal from up here!"
+
+The camera pans from her face to the spectacular orange landmark.
+
+Scene 7 — Skytree Skyline (18–21s)
+
+Cinematic POV aerial shot of Tokyo Skytree illuminated in cool blue and violet, surrounded by dense neighborhoods and glowing highways.
+
+Her white sneakers briefly appear at the bottom of the frame as she angles the camera downward from her seat.
+
+Subtle reflections on the helicopter window create an authentic nighttime aviation atmosphere.
+
+Scene 8 — Rainbow Bridge Panorama (21–24s)
+
+Wide aerial footage of Rainbow Bridge spanning Tokyo Bay, with streams of headlights moving across the bridge.
+
+The helicopter flies along the bay at a safe distance. The Tokyo skyline glitters beyond the bridge, with gentle reflections on the water.
+
+Dialogue (off-camera): "I seriously don't want this to end!"
+
+Scene 9 — Back on the Helipad (24–27s)
+
+The helicopter has landed at the waterfront terminal. With the rotors stopped and crew clearance given, she walks across the green-lit helipad carrying her headset.
+
+Her pastel-blue top, black cargo pants, and white sneakers remain identical.
+
+She smiles at the camera, slightly windblown.
+
+Dialogue: "That was absolutely worth it!"
+
+Scene 10 — Yokohama Night Streets (27–30s)
+
+Instead of Shibuya Crossing, the final scene takes place on a lively pedestrian street in Yokohama's Minato Mirai waterfront district.
+
+Warm storefront lighting, pedestrians, illuminated trees, and the colorful Ferris wheel in the background.
+
+She films herself walking, turns toward the camera, gives a playful wave, and smiles.
+
+Dialogue: "Tokyo from the sky? Ten out of ten. See you!"
+
+Visual and camera direction
+
+Authentic travel-vlogger footage, alternating between imperfect handheld selfies, intimate cabin close-ups, first-person aerial footage, and wide cinematic city views.
+
+Natural facial expressions, realistic wind movement, slight autofocus hunting, subtle low-light sensor noise, natural motion blur, believable city light exposure, realistic helicopter vibrations, and detailed skin texture. Avoid overly polished influencer footage.
+
+Audio: Natural helicopter engine and rotor sounds, rushing wind, genuine laughter, clear spontaneous dialogue, distant city ambience after landing. No background music.
+
+Strict constraints: No character changes, no outfit changes, no face morphing, no CGI-looking skin, no floating limbs, no unrealistic helicopter movements, no impossible close approaches to buildings, no subtitles, no text overlays, no watermark, no logos, and no visible brand names. All aerial shots must respect realistic aircraft positioning and passenger safety.
 ```
 
 </details>
@@ -4406,6 +4733,39 @@ The camera follows her for a few seconds before the recording abruptly cuts to B
 
 </details>
 
+<a id="seedance-seoul-summer-walk-candies-cat"></a>
+### 韩国女子走过首尔街道，喂孩子糖果并抚摸猫咪
+
+<a href="https://x.com/AIwithkhan/status/2099849272347021541"><img src="../../previews/seedance-seoul-summer-walk-candies-cat.jpg" width="360"></a>
+
+用参考图锁定人物形象，并重复列出服装细节，使30秒的连续镜头中外观保持一致。DV摄像机质感（手持抖动、自动对焦摇摆、曝光变化）加上只有环境音、没有音乐的声音描述，让画面像真实的家庭录像。
+
+Seedance 2.5 · 参考生视频 · 出处: [@AIwithkhan on X](https://x.com/AIwithkhan/status/2099849272347021541) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`seoul`](tags.md#tag-seoul) [`dv-camera`](tags.md#tag-dv-camera) [`slice-of-life`](tags.md#tag-slice-of-life) [`reference-image`](tags.md#tag-reference-image)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 30-second ultra-realistic personal home-video of a young Korean woman during a warm summer evening in an older Seoul residential neighborhood. Use the attached image as the character reference and keep her face, long black messy side ponytail, pastel-blue fitted top, loose cream pants, black sneakers, and silver necklace consistent.
+
+She walks out of her home carrying a simple canvas tote bag, locks the door, adjusts her ponytail, and starts walking casually down the quiet street.
+
+She notices a small group of schoolchildren walking home from school and warmly smiles at them. She opens her tote bag, takes out a few individually wrapped candies, and happily offers them to the children. They thank her with cheerful smiles before continuing home.
+
+A few steps later, she notices a friendly neighborhood cat sitting beside a wall. She crouches down, gently pets the cat and scratches it behind the ears, smiling warmly before standing up.
+
+She continues walking, casually adjusts her messy ponytail, and fixes a few loose strands around her face.
+
+She then spots a small roadside drink cart and stops to buy a fresh coconut drink. She takes the drink with a straw and walks home slowly while sipping it through the straw, looking relaxed and happy.
+
+Use raw early-2000s consumer DV-camera footage: handheld shake, imperfect framing, autofocus hunting, exposure shifts, soft detail, mild noise, natural motion blur and occasional awkward zooms.
+
+Natural Seoul neighborhood ambience only — footsteps, children chatting, bicycle bells, summer insects, distant traffic, cart sounds and leaves moving in the breeze. No music, no narration, no dramatic events, no polished commercial cinematography.
+```
+
+</details>
+
 <a id="seedance-seoul-sunday-dv-home-video"></a>
 ### 首尔小巷里提着购物袋的女子
 
@@ -4468,553 +4828,6 @@ She gives a small wave and lowers the phone.
 AUDIO: Natural Korean female voice with accurate lip-sync. Footsteps, fabric movement, dojo ambience, distant neighborhood sounds and light wind. No music or dramatic effects.
 
 FINAL RULES: Photorealistic, authentic smartphone vlog, believable physics and beginner-level martial arts. No fighting, exaggerated movements, action choreography, famous landmarks, logos, brands, subtitles, text, watermarks or visual effects.
-```
-
-</details>
-
-<a id="seedance-snowy-morning-campus-vlog"></a>
-### 女生用手机记录突如其来的雪天上学路
-
-<a href="https://x.com/nawalsehar/status/2107345257495138416"><img src="../../previews/seedance-snowy-morning-campus-vlog.jpg" width="360"></a>
-
-用明确的人物身份句锁定同一个人、服装和背包，并通过手抖、自动对焦呼吸、卷帘快门等具名瑕疵让手机画面更真实。写明 30 秒时长、24fps 以及逐项列出的现场声音，让片段结构清楚，音轨也更贴近real场景。
-
-Seedance 2.5 · 文生视频 · 出处: [@nawalsehar on X](https://x.com/nawalsehar/status/2107345257495138416) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`vlog`](tags.md#tag-vlog) [`snow`](tags.md#tag-snow) [`winter`](tags.md#tag-winter) [`smartphone`](tags.md#tag-smartphone)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create an exactly 30-second, 16:9, 24fps, 4K ultra-photorealistic live-action university vlog following the same European brunette woman in her mid-20s through an unexpected snowy morning.
-
-She wakes expecting rain, opens the curtains, and discovers the entire city covered in heavy fresh snow. She quickly dresses in a cream thermal sweater, dark jeans, charcoal coat, beige scarf, gloves, boots and dark university backpack. She prepares hot chocolate, takes a quick sip, then steps outside into the snowfall.
-
-Show realistic snow compression and footprints, visible breath, steam from the hot chocolate, natural wind movement in her hair and scarf, backpack inertia, careful walking on slippery snow, realistic slush and traffic, and snow naturally accumulating on cars, trees, buildings and clothing.
-
-She walks through the snow-covered city while filming herself with an authentic handheld smartphone. Include natural side-tracking and environmental angles showing snowy streets, cafés, pedestrians, cars and the university campus. She arrives at university, enters the warm hallway and quietly says:
-
-“Okay… this is actually the best morning ever.”
-
-Cut naturally to black at exactly 30 seconds.
-
-Use authentic smartphone imperfections: subtle hand shake, autofocus breathing, exposure adjustment, rolling-shutter artifacts, realistic motion blur and imperfect framing. Maintain identical face, hair, body proportions, wardrobe and backpack throughout.
-
-Natural diegetic audio only: alarm, bedsheets, curtains, clothing, milk pouring, spoon, mug, steam, door, wind, snow crunch, traffic, slush, footsteps and university ambience. No music or narration.
-
-Negative prompt: CGI appearance, animation, fantasy snow, glowing snow, impossible physics, floating objects, teleportation, weather changes, unrealistic sliding, distorted hands, extra fingers, face drift, body distortion, wardrobe changes, duplicated people or objects, fake snow particles, impossible reflections, excessive slow motion, subtitles, captions, logos, watermark, background music.
-```
-
-</details>
-
-<a id="seedance-sokcho-fish-market-flip-camera-vlog"></a>
-### 束草鱼市清晨翻盖相机旅行视频
-
-<a href="https://x.com/oggii_0/status/2095029762070900919"><img src="../../previews/seedance-sokcho-fish-market-flip-camera-vlog.jpg" width="360"></a>
-
-先用参考图锁定人物身份，再列出抖动、对焦漂移、高光过曝等刻意瑕疵，让画面像朋友随手拍的真实记录。七个带时间码的段落各含一个动作和一句台词，音频只保留现场自然声。
-
-Seedance 2.5 · 参考生视频 · 出处: [@oggii_0 on X](https://x.com/oggii_0/status/2095029762070900919) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`vlog`](tags.md#tag-vlog) [`handheld`](tags.md#tag-handheld) [`lo-fi`](tags.md#tag-lo-fi) [`travel`](tags.md#tag-travel) [`dialogue`](tags.md#tag-dialogue)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-FORMAT: 30 seconds | 16:9 | Ultra-photorealistic live-action | Continuous handheld vacation vlog
-
-Preserve the exact face, hairstyle, identity, skin tone, facial features, and body proportions from <<<image_1>>> throughout the entire video. The same woman must appear consistently in every shot.
-
-VISUAL STYLE: Authentic late-2000s personal vacation vlog recorded on a cheap handheld flip camera. Extremely raw and imperfect footage. Heavy natural camera shake, awkward handheld framing, occasional partial face crops, sudden reframing, autofocus hunting, exposure fluctuations, blown highlights, slightly soft image quality, warm faded colors, mild digital noise, compression artifacts, and subtle motion blur. No cinematic camera movements, no gimbal stabilization, no polished composition, no modern color grading, no beauty filter, no artificial sharpness.
-
-Outfit: oversized grey hooded sweatshirt, black leggings, worn white running shoes, hair pulled back into a low messy ponytail, small silver stud earrings, a canvas tote bag slung over one shoulder. The entire video must feel like one genuine recording captured by a friend on an early-morning trip through a fishing village in Sokcho, South Korea, not a staged commercial or cinematic recreation.
-
-00:00–00:04 — EARLY MORNING ARRIVAL
-The woman walks along a quiet harbor path as the sun rises, fishing boats bobbing gently in the water behind her, seagulls circling overhead.
-The camera shakes slightly as it follows her from the side.
-She says:
-"It's so early, but I really wanted to see the fish market before it gets busy."
-
-00:04–00:08 — THE FISH MARKET
-She steps into a covered harbor market filled with tanks of live fish, crabs, and squid, fishermen unloading crates from small boats nearby.
-The camera zooms unsteadily on a tank of wriggling crabs, focus hunting before snapping back to her face.
-She reacts with a mix of fascination and mild alarm.
-
-00:08–00:12 — TALKING WITH A FISHERMAN
-An older fisherman hoists a large fish onto a table for her to see up close.
-She leans in curiously, asks a question, and he answers while gesturing with his hands.
-She laughs and says to the camera:
-"He says this one was caught just an hour ago!"
-
-00:12–00:16 — TRYING RAW SQUID
-A nearby stall vendor offers her a small plate of freshly sliced raw squid with dipping sauce.
-She hesitates for a second, then takes a bite, chewing slowly with a surprised expression.
-She turns to the camera and says:
-"Okay wow, that's way fresher than I expected."
-
-00:16–00:20 — HELPING SORT THE CATCH
-A fisherwoman nearby is sorting fish into baskets and waves her over to help.
-She kneels down and awkwardly tries to sort a few fish, nearly dropping one, laughing at herself.
-The fisherwoman laughs too and pats her on the back encouragingly.
-
-00:20–00:24 — WALKING THE HARBOR
-She walks along the docks past rows of moored fishing boats, ropes coiled on the ground, nets drying in the morning sun.
-A couple of fishermen nod and greet her; she waves back cheerfully.
-The camera briefly swings toward the boats before swinging back to her.
-
-00:24–00:27 — QUIET MOMENT
-She stops at the edge of the harbor, looking out over the calm water as the sun fully rises over the horizon.
-For a moment there's no dialogue — just waves lapping, distant gulls, and the creak of boats.
-She smiles softly and says:
-"Mornings like this make the early wake-up worth it."
-
-00:27–00:30 — NATURAL ENDING
-She turns back toward the camera, gives a small wave, and says:
-"Okay, harbor adventure done. See you next time!"
-She laughs, turns, and walks off along the dock.
-The camera lingers a moment before the footage naturally ends with a slight shake and imperfect cut.
-
-AUDIO
-Natural location sound only:
-- waves lapping against the dock
-- seagulls calling
-- boat engines idling in the distance
-- fishermen calling out to each other
-- crates being unloaded
-- water splashing in fish tanks
-- footsteps on wet pavement
-- light morning breeze
-```
-
-</details>
-
-<a id="seedance-solo-camping-vlog-pine-forest"></a>
-### 松林中单人露营自拍 vlog
-
-<a href="https://x.com/ZorviaLux/status/2105892094032404502"><img src="../../previews/seedance-solo-camping-vlog-pine-forest.jpg" width="360"></a>
-
-把片子按时间拆成五个场景，每段都有自己的镜头和光线提示，模型就有了分镜可循。结尾的一致性说明锁定人物、服装和帐篷，单独的音频段落则排除音乐和字幕，让五个镜头始终保持统一。
-
-Seedance 2.5 · 文生视频 · 出处: [@ZorviaLux on X](https://x.com/ZorviaLux/status/2105892094032404502) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`camping`](tags.md#tag-camping) [`vlog`](tags.md#tag-vlog) [`selfie`](tags.md#tag-selfie) [`campfire`](tags.md#tag-campfire) [`timed-scenes`](tags.md#tag-timed-scenes)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a 20-second ultra-realistic cinematic camping vlog featuring a young Japanese woman with straight black hair and bangs, wearing a dusty pink outdoor jacket.
-
-Scene 1 (0–4 sec): Selfie-style vlog in a beautiful pine forest during golden hour. She smiles at the camera while holding a beige tent bag and excitedly introduces her solo camping adventure. Natural handheld camera movement, realistic facial expressions.
-
-Scene 2 (4–7 sec): Wide cinematic shot of her setting up a beige camping tent among tall pine trees. She happily raises both hands to celebrate after pitching the tent. Warm sunlight filters through the forest.
-
-Scene 3 (7–12 sec): Nighttime campfire scene. She sits on a folding camping chair, roasting a marshmallow on a stick. Close-up of her gently blowing on the toasted marshmallow, with realistic firelight illuminating her face.
-
-Scene 4 (12–16 sec): She sits beside the campfire holding a glowing marshmallow, enjoying the peaceful night in the forest. Natural expressions, cozy atmosphere, realistic shadows and warm orange lighting.
-
-Scene 5 (16–20 sec): Inside her illuminated tent at night, she smiles at the camera while holding a camping lantern. Suddenly, she hears a mysterious noise outside, opens her eyes wide, and pulls her sleeping bag up to her nose with a cute, surprised expression.
-
-Visual style: Photorealistic live-action, 4K, cinematic depth of field, natural skin texture, realistic lighting, smooth camera transitions, authentic outdoor atmosphere, detailed facial expressions, cozy solo camping aesthetic.
-
-Audio: Natural forest ambience, birds chirping, gentle wind, crackling campfire, subtle fabric sounds, and soft nighttime forest ambience. No background music, no subtitles, no text, no watermark.
-
-Consistency: Maintain exactly the same woman, hairstyle, outfit, facial features, and tent throughout all scenes.
-```
-
-</details>
-
-<a id="seedance-spicy-challenge-meltdown-korean-vlog"></a>
-### 韩国女生挑战辣面，很快彻底破防
-
-<a href="https://x.com/oggii_0/status/2094267751477232053"><img src="../../previews/seedance-spicy-challenge-meltdown-korean-vlog.jpg" width="360"></a>
-
-用带时间码的分镜把情绪从自信逐步推向崩溃，并写明每句台词和画外音。手持手机拍摄、自动对焦跳动和只要环境声的音频设定，让画面像真实的群聊视频。
-
-Seedance 2.5 · 文生视频 · 出处: [@oggii_0 on X](https://x.com/oggii_0/status/2094267751477232053) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`korean`](tags.md#tag-korean) [`spicy-food`](tags.md#tag-spicy-food) [`handheld`](tags.md#tag-handheld) [`comedy`](tags.md#tag-comedy)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a 30-second, 1080p ultra-realistic personal home-video of a young Korean woman confidently accepting a spicy food challenge from her friend, only to completely unravel as the heat kicks in. No reference image.
-MAIN SUBJECT
-Young Korean woman in her early 20s, casual and playful energy, natural makeup, expressive face that shifts from smug confidence to genuine distress.
-Hair tied back in a high ponytail to "keep it out of the way," a few loose strands already escaping, small stud earrings.
-Wearing an oversized gray hoodie with sleeves pushed up, loose sweatpants, sitting cross-legged on the floor like she's settling in for battle.
-Maintain the same face, hairstyle, clothing, body proportions, and appearance throughout the entire video.
-SETTING
-A cozy, lived-in living room floor setup, late afternoon light coming through the window.
-A low coffee table covered with a spread of increasingly spicy tteokbokki/ramen bowls lined up in a row, a stack of napkins, a carton of milk and a glass of water nearby "just in case," a phone propped against a water bottle timing things, a half-eaten snack bag pushed aside, and a blanket tossed on the couch behind her. Ordinary, slightly messy, very real.
-CAMERA / VISUAL AESTHETIC
-Raw personal footage filmed by her friend on a phone, strong handheld vlog shake throughout.
-Camera bounces slightly with the friend shifting position to get better angles of her face. Autofocus hunts between the steaming bowls and her face. Mild motion blur when she reaches for water in a panic. Exposure shifts slightly as the afternoon light changes. Visible digital noise, slightly warm color cast from the window light.
-No stabilization, no cinematic polish — it should feel like a real video shot for a group chat dare.
-00:00–00:05 — THE CONFIDENT SETUP
-She rolls up her sleeves theatrically, cracking her knuckles over the bowls like she's about to do something serious.
-She looks into the camera, completely unbothered, smug smile.
-"This is nothing. I grew up eating spicy."
-00:05–00:10 — FIRST BITE
-She picks up the first, mildest bowl and takes a confident bite, chewing casually, nodding like it's easy.
-"See? Nothing."
-The camera stays steady, her friend clearly unimpressed off-camera: "That one's basically ketchup, keep going."
-00:10–00:15 — THE SHIFT
-She moves to the second, spicier bowl. A few bites in, her nodding slows. Her eyes start to water slightly, and she reaches for the water glass "just to wash it down," still trying to act casual.
-Her voice comes out slightly strained: "It's — it's fine, it's just warm."
-The camera pushes in slightly, catching the sweat starting to form on her forehead.
-00:15–00:20 — LOSING COMPOSURE
-She hits the hottest bowl. One bite in, her whole face changes — eyes wide, fanning her open mouth with her hand, grabbing for the milk carton and drinking straight from it.
-She sets it down hard, breathing fast, pointing at the bowl accusingly.
-"Okay — okay that one's not normal, that's not — "
-The camera shakes as her friend bursts out laughing off-camera.
-00:20–00:25 — FULL MELTDOWN
-She grabs a napkin, fanning her tongue with her hand while making a pained noise, rocking slightly where she sits.
-She reaches for the water again, chugs it, immediately regrets that too and grabs the milk back.
-Her friend, off-camera, barely able to film straight from laughing: "You said you grew up eating spicy?!"
-She shoots a watery-eyed glare at the camera without being able to respond, still fanning her mouth.
-00:25–00:30 — FINAL MOMENT
-She slumps back against the couch, defeated, milk carton clutched to her chest, face flushed and eyes still watering.
-She looks at the camera, voice hoarse and pathetic.
-"...I don't grow up eating spicy. I lied."
-She weakly gives a thumbs down as the frame shakes with her friend's laughter, and the footage cuts abruptly to black.
-AUDIO
-Natural location sound only:
-Chewing, sniffling, exaggerated exhales and gasps, milk carton opening and gulping sounds, napkin rustling, her friend's genuine off-camera laughter throughout, glass clinking against the table, and handheld camera noise.
-No music. No narration. No artificial sound effects.
-Spoken lines: "This is nothing. I grew up eating spicy." / "See? Nothing." / "That one's basically ketchup, keep going." (friend) / "It's — it's fine, it's just warm." / "Okay — okay that one's not normal, that's not —" / "You said you grew up eating spicy?!" (friend) / "...I don't grow up eating spicy. I lied."
-FINAL FEEL
-Genuine, escalating physical comedy built entirely on real reactions to real heat — confident denial collapsing into full surrender. Funny, relatable, unscripted-feeling, the kind of video that gets sent straight to a group chat with "lmaooo."
-No exaggerated acting beyond real spice reactions. No fake toughing-it-out — the comedy comes from how fast and how completely her composure breaks.
-```
-
-</details>
-
-<a id="seedance-taipei-alley-door-keys-dv"></a>
-### 女子在台北巷弄开门
-
-<a href="https://x.com/harboriis/status/2097564633242779830"><img src="../../previews/seedance-taipei-alley-door-keys-dv.jpg" width="360"></a>
-
-按五秒一段的时间线分镜，并明确锁定脸部、服装和配饰的一致性，让角色在各镜头间保持稳定。手持抖动、自动对焦摇摆和褪色色调等消费级DV特征营造2000年代的怀旧感，声音清单也排除了配乐。
-
-Seedance 2.5 · 文生视频 · 出处: [@harboriis on X](https://x.com/harboriis/status/2097564633242779830) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`taipei`](tags.md#tag-taipei) [`home-video`](tags.md#tag-home-video) [`handheld`](tags.md#tag-handheld) [`vlog`](tags.md#tag-vlog)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a 30-second, 1080p, 16:9 ultra-realistic 2000s-style home video recording style video, featuring an ordinary Taiwanese summer evening.
-
-Main subject: The entire video is shot from the perspective of a young Taiwanese woman in her early 20s, with natural, realistic skin tone, light makeup, dark brown long hair styled in a low bun, with a few strands of hair. She is wearing a soft black long-sleeved knitted top, wide-leg light gray shorts, white vintage sneakers, carrying a dark black backpack, and wearing a silver bracelet. Please ensure that the face, hairstyle, clothing, proportions, and accessories remain completely consistent.
-
-Setting: A quiet old residential alley in Taipei, with small apartments, potted plants, bicycles, old walls, power poles, and a small snack shop, a water dispenser, and potted plants. Full of life, peaceful, and real; no brands, advertisements, tourist attractions, or elaborate commercial activities.
-
-Photography: The original consumer DV shooting style from the early 2000s, intense hand-held shaking, imperfect composition, search for autofocus, exposure changes, dynamic blur, faded colors, soft digital details, slight noise, and unexpected zoom. Stabilizer, sky lanterns, drones, cinematic lenses.
-
-Timeline:
-00:00-00:05: Take out an eco-friendly shopping bag, lock the door, check the keys, tidy up hair, smile at the camera, and walk down the alley.
-
-00:05-00:10: Buy a small bag of green grapes from a small grocery store. Take a bite, react to the sour taste, make a funny face, laugh, and hand the fruit to the camera.
-
-00:10-00:15: Walk and eat the fruit. A little dog notices her and wags its tail, she crouches down to let it smell her hand. The dog follows her for a short distance before leaving.
-
-00:15-00:20: The dry leaves on the tree fall on her shoulders and hair. She looks up, shakes off the leaves, and the camera zooms in and gets close to her face. She says: Here it comes again?
-
-00:20-00:25: Sit briefly on the low wall, finish eating the fruit, and a taxi passes by. The neighbor is watering the flowers. The wind blows her hair and clothes; she wipes her hands and adjusts her bag.
-
-00:25-00:30: Walk to the end of the alley, turn around with a playful smile, say: Let's go. Turn the corner; the camera follows; suddenly switches to black screen.
-
-Sound: Only natural ambient sounds, bird songs, insect sounds, footsteps, bicycle bells, distant motorcycle sounds, tree leaves, store sounds, dog movements, neighborhood sounds, and the noise of operating a camera. No music, voiceover, subtitles, titles, logos, watermarks, or special effects.
-
-Continuity: Real dogs and environmental actions. No repeated characters, distorted faces, deformed hands, extra fingers, instant movements, or clothing changes. Warm, leisurely, feminine, playful, intimate, with a nostalgic feeling of forgotten summer memories.
-```
-
-</details>
-
-<a id="seedance-teacher-school-day-vlog"></a>
-### 教师从居家到教室的完整一天
-
-<a href="https://x.com/ElsaSofia__AI/status/2092569909859647951"><img src="../../previews/seedance-teacher-school-day-vlog.jpg" width="360"></a>
-
-六张标注好的参考图通过 @IMG 标签对应到各个时间段，固定的身份与服装锁定句让同一位教师贯穿所有场景。每个四秒分镜都写明动作列表和独立机位，读起来像一份逐镜头的分镜脚本。
-
-Seedance 2.5 · 参考生视频 · 出处: [@ElsaSofia__AI on X](https://x.com/ElsaSofia__AI/status/2092569909859647951) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`reference-images`](tags.md#tag-reference-images) [`character-consistency`](tags.md#tag-character-consistency) [`lifestyle`](tags.md#tag-lifestyle) [`shot-timeline`](tags.md#tag-shot-timeline)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-DURATION: 30 seconds
-ASPECT RATIO: 16:9
-
-DURATION: 30 SECONDS
-
-Create an ultra-photorealistic cinematic professional female teacher lifestyle vlog.
-
-REFERENCE PRIORITY:
-
-@IMG1 = MAIN FEMALE TEACHER
-@IMG2 = SCHOOL EXTERIOR
-@IMG3 = CLASSROOM
-@IMG4 = TEACHING ACTION
-@IMG5 = NOTEBOOK CHECKING
-@IMG6 = SCHOOL EXIT
-
-CHARACTER CONSISTENCY:
-
-The EXACT SAME woman from @IMG1 must appear throughout the entire video.
-
-Preserve her exact face, facial features, hairstyle, skin tone, body proportions, age appearance and overall identity.
-
-She remains the SAME teacher throughout every scene.
-
-Keep her professional teacher outfit consistent after she gets dressed.
-
---------------------------------------------------
-
-0–4 SECONDS — LEAVING HOME
-
-The teacher prepares for her school day at home.
-
-She picks up her professional tote bag containing notebooks and teaching materials.
-
-She checks her phone briefly.
-
-She puts on her shoes, picks up her bag and leaves home.
-
-CAMERA:
-Quick cinematic morning lifestyle shots.
-
-Close-up of the bag and notebooks.
-
-Medium shot as she walks out the door.
-
-Natural morning light.
-
---------------------------------------------------
-
-4–8 SECONDS — SCHOOL ARRIVAL
-
-Use @IMG2.
-
-The teacher arrives at the school.
-
-She walks through the main entrance carrying her tote bag.
-
-She walks across the school courtyard toward the building.
-
-She enters the school.
-
-CAMERA:
-Wide establishing shot of the school exterior.
-
-Smooth tracking shot following her toward the entrance.
-
---------------------------------------------------
-
-8–12 SECONDS — CLASSROOM PREPARATION
-
-Use @IMG3.
-
-The teacher enters her classroom.
-
-She places her tote bag on the teacher's desk.
-
-She organizes her notebooks and teaching materials.
-
-She picks up a marker.
-
-She briefly checks the whiteboard and prepares the lesson.
-
-Students gradually settle into their desks.
-
-CAMERA:
-Medium classroom shot.
-
-Brief close-ups of notebooks, marker and teaching materials.
-
---------------------------------------------------
-
-12–20 SECONDS — TEACHING
-
-Use @IMG4.
-
-The teacher stands at the front of the classroom.
-
-She writes a simple lesson heading or diagram on the whiteboard.
-
-She turns toward the students.
-
-She explains the lesson using natural hand gestures.
-
-She points toward the board.
-
-One student raises a hand.
-
-The teacher acknowledges the student and responds with a natural smile.
-
-Students remain attentive.
-
-CAMERA:
-Wide classroom shot.
-
-Medium shot of teacher.
-
-Brief close-up of her writing.
-
-Over-the-shoulder shot from the students' perspective.
-
-Natural classroom interaction.
-
---------------------------------------------------
-
-20–25 SECONDS — NOTEBOOK CHECKING
-
-Use @IMG5.
-
-The lesson has finished.
-
-The teacher sits at her desk.
-
-She picks up a student's notebook.
-
-She reads the work.
-
-She turns a page.
-
-She makes a few simple corrections with a pen.
-
-She sees a well-completed answer and gives a small approving smile.
-
-She places the notebook on a neat stack of checked work.
-
-CAMERA:
-Medium shot.
-
-Brief close-up of notebook and hand.
-
-Close-up of her satisfied expression.
-
---------------------------------------------------
-
-25–30 SECONDS — SCHOOL EXIT
-
-Use @IMG6.
-
-The school day is finished.
-
-The teacher organizes her papers into her tote bag.
-
-She leaves the classroom.
-
-She walks through the school corridor toward the main entrance.
-
-She exits the school building.
-
-The camera follows her from behind as she walks away.
-
-Finish with a wide cinematic shot of the school exterior and the teacher walking toward the exit.
-
-She gives a subtle relaxed smile.
-
-CUT TO BLACK.
-
---------------------------------------------------
-
-CAMERA STYLE:
-
-Premium cinematic educational lifestyle vlog.
-
-Smooth professional tracking.
-
-Natural handheld feel.
-
-Wide establishing shots.
-
-Medium lifestyle shots.
-
-Close-ups for important details.
-
-Over-the-shoulder classroom shots.
-
-Gentle cinematic pull-back at the ending.
-
-No excessive camera shake.
-
-No unnecessary fast camera movement.
-
---------------------------------------------------
-
-REALISM:
-
-Natural walking.
-
-Natural classroom interaction.
-
-Realistic writing.
-
-Realistic notebook handling.
-
-Realistic teacher gestures.
-
-Natural student reactions.
-
-Realistic school environment.
-
-Natural facial expressions.
-
-Realistic hands and fingers.
-
-No exaggerated acting.
-
-No distorted hands.
-
-No extra fingers.
-
-No face morphing.
-
-No identity changes.
-
---------------------------------------------------
-
-CONTINUITY:
-
-Same female teacher throughout.
-
-Same face.
-
-Same hairstyle.
-
-Same professional outfit.
-
-Same school environment.
-
-Same classroom.
-
-Same teaching materials.
-
-No different teacher.
-
-No random outfit changes.
-
-No cartoon.
-
-No anime.
-
-No futuristic school.
-
-No text overlays.
-
-No logos.
-
-No watermark.
-
-FINAL FEELING:
-
-A realistic cinematic glimpse into a professional teacher's normal school day.
-
-HOME → SCHOOL → CLASSROOM PREPARATION → TEACHING → NOTEBOOK CHECKING → SCHOOL EXIT.
 ```
 
 </details>

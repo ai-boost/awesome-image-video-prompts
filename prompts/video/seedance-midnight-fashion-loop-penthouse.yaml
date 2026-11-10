@@ -1,0 +1,109 @@
+id: seedance-midnight-fashion-loop-penthouse
+title:
+  en: Penthouse fashion loop ending in dark foreground
+  zh: 巴黎顶层公寓时尚循环，以黑暗前景收尾
+model: Seedance 2.5
+mode: text-to-video
+category: commercial
+tags:
+- fashion
+- loop
+- camera-move
+source:
+  name: '@codewithhajra on X'
+  url: https://x.com/codewithhajra/status/2117859525734674842
+  credit: codewithhajra
+  captured: '2026-11-10'
+  posted: '2026-11-04'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/codewithhajra/status/2117859525734674842
+notes:
+  en: The reel ends on the same dark foreground object used in the opening shot, so the upward camera rise carries across the loop point. Fixed 3-second scene beats and a 130 BPM audio bed keep the five looks timed and the rhythm steady.
+  zh: 结尾与开场使用同一个深色前景物体，镜头上升在循环点处延续。固定的每3秒分镜节拍和130 BPM音乐设定，让五套造型的节奏保持统一。
+prompt: |
+  THE MIDNIGHT FASHION EDIT
+
+  15-second seamless looping fashion reel | Vertical 9:16 | 24 FPS | 5 scenes × 3 seconds
+
+  SEAMLESS OPENING & LOOP DESIGN
+
+  CRITICAL: The opening and ending must be visually identical and designed as one continuous camera movement.
+
+  OPENING FRAME (0.0s)
+
+  Begin with an extreme low-angle shot from behind the emerald-green velvet chaise lounge. A dark, out-of-focus foreground object partially covers the lens. Only a small portion of the golden lamp and warm penthouse lighting is visible.
+
+  The camera begins moving upward immediately, revealing the room as it rises toward the overhead composition.
+
+  ENDING FRAME (14.5–15.0s)
+
+  During the final clockwise barrel roll, rush toward the exact same dark foreground object used in the opening shot.
+
+  The foreground object gradually covers the entire lens until the final frame becomes completely dark.
+
+  Match the final frame to the opening frame in:
+
+  Camera position and height.
+  Lens angle and perspective.
+  Foreground object placement.
+  Darkness, exposure, and color.
+  Motion direction and speed.
+  Background lighting and visual composition.
+
+  LOOP CONNECTION
+
+  At exactly 15.0 seconds, the camera must continue the same upward movement established at 0.0 seconds. The opening rise should feel like the natural continuation of the final transition.
+
+  No fade-to-black followed by a separate restart. No sudden camera reset. No visible jump cut. No change in lighting.
+
+  The first and last frames must match precisely, and the motion across the cut must feel continuous.
+
+  FIVE FASHION SCENES
+
+  0–3s — THE CLASSIC MUSE
+
+  A timeless luxury outfit. She lies diagonally across the emerald velvet chaise, holding a perfume bottle above her face, then gently turns toward the camera.
+
+  3–6s — THE STREET-STYLE ICON
+
+  A completely different modern fashion look. One arm behind her head, the other near her waist. She adjusts her sleeve with a relaxed, confident expression.
+
+  6–9s — THE SOFT LUXURY LOOK
+
+  A romantic, elegant fashion look. She gently brushes her hair back and looks toward the overhead camera with a subtle smile.
+
+  9–12s — THE NIGHT OUT EDIT
+
+  A bold evening look. She holds an open fashion magazine above her chest, turns one page, and lowers it slightly.
+
+  12–15s — THE FINAL STATEMENT
+
+  A striking statement-fashion look. She rests one hand near her face, crosses her ankles, and gives the camera a subtle confident smile. The camera then performs the final clockwise barrel roll toward the dark foreground object.
+
+  ENVIRONMENT & CINEMATOGRAPHY
+
+  Maintain the same luxurious Parisian penthouse throughout: emerald-green velvet chaise, marble flooring, glowing city skyline, golden sculptural lamps, flowers, fashion magazines, vintage mirror, and candlelight.
+
+  Warm cinematic lighting, realistic fabric movement, subtle film grain, rich shadows, premium editorial color grading.
+
+  AUDIO
+
+  130 BPM laid-back luxury deep-house groove.
+  Consistent rhythm across all 15 seconds.
+  Bass impact and airy whoosh on each transition.
+  Natural fabric rustles and scene-specific foley.
+  No dialogue, no vocals.
+
+  FINAL TECHNICAL REQUIREMENTS
+
+  Duration: exactly 15 seconds.
+  Frame rate: 24 FPS.
+  Aspect ratio: 9:16.
+  Five scenes, exactly 3 seconds each.
+  Continuous visual environment.
+  Smooth camera movement.
+  No black-frame pause at the loop point.
+  No captions, logos, or watermarks.
+  Photorealistic live-action quality.
+
+  MOST IMPORTANT: Design the reel as a continuous circular camera journey. The final camera movement must return to the precise opening composition so viewers cannot tell where the video ends and begins. The loop must feel natural even when replayed repeatedly.

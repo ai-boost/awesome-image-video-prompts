@@ -1,0 +1,23 @@
+id: gpt-image-2-6-nine-frame-bedroom-portrait-white-tank
+title:
+  en: Nine frame morning bedroom portrait in white tank top
+  zh: 九宫格晨间卧室写真，白色吊带背心
+model: GPT Image 2.6
+mode: text-to-image
+category: collage
+tags:
+- grid-collage
+- film-look
+- bedroom-portrait
+source:
+  name: '@AYi_AInotes on X'
+  url: https://x.com/AYi_AInotes/status/2120154039581106503
+  credit: AYi
+  likes: 32
+  captured: '2026-11-10'
+  posted: '2026-11-10'
+notes:
+  en: A JSON prompt that lists each of the nine frames with its own pose and camera angle keeps the set coherent, since the model follows the panel plan instead of improvising. A shared lens (50mm, f/2.0 to f/2.8), film stock (Kodak Portra 400) and window light spec holds color, grain and light across every panel.
+  zh: 用 JSON 逐格列出九个画面的姿势和机位，模型按分镜执行，不会随意发挥。统一的镜头（50mm，f/2.0 到 f/2.8）、胶片类型（Kodak Portra 400）和窗户光设定，让所有画面的色调、颗粒和光线保持一致。
+prompt: |
+  {   "general_settings": {     "format": "3x3 照片拼贴 / 9宫格",     "layout": "九张纵向人像照片，以方形网格排列",     "consistency": "同一主体、同一服装，所有9个画面保持一致的柔和自然光线"   },   "aesthetic_style": {     "theme": "纯欲私房写真 / 男友视角抓拍",     "lighting_technique": "柔光自然窗光（柔和、高调）",     "visuals": "日系空气感胶片美学，通透肌肤质感，柔和粉彩色调，可见胶片颗粒，氛围亲密、无防备、生活化"   },   "subject_details": {     "archetype": "顶级爱豆颜值 – 面部精致，瓷白肌肤",     "hair": "长直深色自然发，略带凌乱的“刚睡醒”造型",     "outfit": "简约白色罗纹棉质吊带背心（白棉吊带），灰色或白色柔软棉质三角内裤",     "makeup": "伪素颜妆效，透明润唇膏，自然红晕，突出通透肌肤"   },   "environment_and_props": {     "background": "阳光洒入的极简卧室，皱褶的白色亚麻床单，薄纱白窗帘，木地板",     "decor": "少量体现日常生活的道具：一只陶瓷咖啡杯、床上摊开的书、一个枕头"   },   "panel_pose_breakdown_boyfriend_pov": {     "1_top_left": "从微微敞开的门缝偷拍。她坐在床沿，背对镜头，双臂向上伸展。（偷窥感）",     "2_top_center": "俯卧在白色床单上，手肘支撑身体正在看书，阳光洒在背上。自然且专注。",     "3_top_right": "特写镜头，前景略微虚化（仿佛躲在某物后）。她正揉着一只眼睛，睡眼惺忪地望向别处。",     "4_middle_left": "盘腿坐在床上，双手捧着咖啡杯，目光望向窗外，神情温柔而放空。（空气感）",     "5_middle_center": "极致特写：聚焦锁骨与白色棉质吊带肩带在苍白肌肤上的纹理细节。",     "6_middle_right": "仰卧姿势，头朝向镜头，用枕头半遮脸，眼神带着羞涩笑意。（男友互动感）",     "7_bottom_left": "镜中倒影：她正将长直发扎起，捕捉这一毫无防备的瞬间。",     "8_bottom_center": "侧身蜷缩在床上，膝盖抱胸，直视镜头，眼神纯真又脆弱。（纯欲核心）",     "9_bottom_right": "背影视角，跪坐在床上望向窗外，阳光勾勒出她的剪影轮廓。"   },   "camera_technical_values": {     "style": "模拟胶片效果（如 Kodak Portra 400）",     "focal_length": "50mm（亲密人像焦段）或 35mm（环境纪实感）",     "aperture": "f/2.0 - f/2.8（浅景深营造柔焦效果，突出主体）",     "lighting": "来自窗户的过曝自然光，形成柔和光晕与通透肌肤质感，无强烈阴影",     "details": "可见自然胶片颗粒，低对比度，暖调轻微褪色"   },   "google_prompt": "一组9宫格3x3照片拼贴，采用日系空气感‘纯欲’私房风格。主角为拥有顶级爱豆颜值的女性，长直黑发，身穿简约白色罗纹棉质吊带与内裤。照片以亲密男友视角拍摄，带有轻微偷窥感，呈现她在阳光洒落的极简卧室中（白色床单、薄纱帘、木地板）的日常无防备瞬间。光线为柔和漫射的晨间窗光，营造出肌肤通透发光的效果，并保留可见胶片颗粒。姿势包括伸懒腰、阅读、望窗、羞涩对视、小憩等，强调纯真与自然吸引力。",   "尺寸": "9:16" }

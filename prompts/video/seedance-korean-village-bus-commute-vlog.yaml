@@ -1,0 +1,35 @@
+id: seedance-korean-village-bus-commute-vlog
+title:
+  en: Korean student's village bus commute day
+  zh: 韩国大学生乡村公交通勤的一天
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- vlog
+- korea
+- university
+- rural
+source:
+  name: '@nawalsehar on X'
+  url: https://x.com/nawalsehar/status/2101906866921955737
+  credit: nawalsehar
+  captured: '2026-11-10'
+  posted: '2026-09-21'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/nawalsehar/status/2101906866921955737
+notes:
+  en: The prompt fixes the wardrobe, hairstyle and backpack as an identity lock, then names each physical behaviour such as braking, tyre traction and backpack weight so the motion stays believable. Sound is limited to diegetic cues, and the ending is a written exterior bus shot that fades to black.
+  zh: 提示词把发型、毛衣、外套和背包写成固定的身份锁定，并逐项说明刹车、轮胎牵引力和背包重量等物理细节，让动作连贯可信。声音只限环境音效，结尾是写明的公交外景镜头，最后淡出到黑场。
+prompt: |
+  Create a 30-second ultra-photorealistic live-action personal vlog following a Korean university student in her early 20s living in a peaceful rural Korean mountain village. Show her natural morning routine, walking to the village bus stop, catching the regional bus, traveling through rice fields and hills, attending a university lecture, chatting quietly with friends, then taking the bus home toward the village at sunset.
+
+  Keep her identity, hairstyle, cream sweater, beige jacket, blue jeans, sneakers, backpack, and proportions consistent throughout. Use authentic modern 2026 smartphone/camera footage in 16:9 with subtle handheld movement, natural autofocus and exposure changes, realistic depth of field, and genuine Korean countryside and university atmosphere. No retro or VHS aesthetic.
+
+  Make every movement physically believable: realistic walking biomechanics, balance, friction, inertia, backpack weight, fabric and hair movement, bus braking and suspension, tire traction, acceleration, turning, window reflections, natural shadows, and believable human interactions. Every action should naturally lead into the next with no teleportation, floating objects, foot sliding, or impossible motion.
+
+  Use only diegetic audio: birds, footsteps, wind, doors, bus engine and brakes, transit-card beep, classroom ambience, writing, chairs, student conversations, and evening traffic. No music, narration, subtitles, or voice-over.
+
+  End with an exterior shot of the bus traveling along a winding rural road toward the distant village as evening light falls, then fade naturally to black.
+
+  No CGI look, animation, distorted hands, extra fingers, duplicated people, changing faces or outfits, robotic movement, repetitive walking cycles, exaggerated camera shake, fantasy elements, text overlays, logos, or watermark.

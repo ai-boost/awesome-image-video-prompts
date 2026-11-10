@@ -1,6 +1,6 @@
 # 角色与手办
 
-[返回目录](../../README_zh.md) · 全部 108 条
+[返回目录](../../README_zh.md) · 全部 110 条
 
 <a id="gpt-image-tanjiro-pixel-sprite-sheet-water-attack"></a>
 ### 炭治郎十六帧像素精灵图与水之呼吸攻击
@@ -1732,6 +1732,33 @@ ar 3:2
 
 </details>
 
+<a id="nano-banana-3d-valentine-character-portrait"></a>
+### 四位名人咬着红玫瑰的3D角色肖像
+
+<a href="https://x.com/TechieBySA/status/2022406039568789552"><img src="../../previews/nano-banana-3d-valentine-character-portrait.jpg" width="360"></a>
+
+参考照片决定人物相似度，提示词则锁定材质（柔软皮肤、纤维状发丝）和浅灰摄影棚背景。玫瑰横咬在齿间、周围点缀发光爱心，让情人节主题形成清晰的视觉焦点。
+
+Nano Banana Pro · 上传图改图 · 出处: [@TechieBySA on X](https://x.com/TechieBySA/status/2022406039568789552) · 84 赞，统计于 2026-11-10
+
+[`valentines-day`](tags.md#tag-valentines-day) [`3d-character`](tags.md#tag-3d-character) [`reference-photo`](tags.md#tag-reference-photo)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Inspired by krafterzz_ on Instagram🔥
+
+Simply upload your reference picture & use this prompt:✨
+
+“Create a premium stylized 3D character portrait with a soft, modern, designer-toy aesthetic. Use the person from the ATTACHED REFERENCE PHOTO. Preserve the exact facial features, proportions, skin tone, and overall likeness of the uploaded image, but translate the subject into a refined human-like 3D character (not a statue, not marble, not stone). Render with smooth, soft-touch materials, subtle skin texture with visible pores, expressive hair strands and facial hair rendered as detailed stylized fibers, and clean modern accessories and clothing with fabric-like texture. Maintain a calm, composed, realistic human presence with gentle expression.
+
+The subject should be holding a red rose stem delicately between their teeth, with the rose positioned horizontally across their mouth. Add 3-5 floating heart shapes in the background - scatter them on the left and right sides behind the person, rendered in soft pink and red tones with a subtle 3D appearance and gentle glow.
+
+Use a light neutral grey studio background, soft evenly diffused lighting, minimal shadows, and smooth gradients. The overall look should feel contemporary, friendly, premium, and slightly toy-like while remaining realistic, similar to high-end character renders seen in modern tech branding. Ensure ultra-high-definition output with hyper realistic hyper realism, clean cinematic 3D quality, no stone or sculpture appearance, no grayscale statue look, no rough surfaces, no text, no logos, no watermarks. Aspect ratio 4:5.”
+```
+
+</details>
+
 <a id="gpt-image-good-morning-chibi-scene"></a>
 ### Q版人物坐在粉彩 GOOD MORNING 字母上
 
@@ -2024,6 +2051,51 @@ GPT Image 1.5 · 文生图 · 出处: [@KeorUnreal on X](https://x.com/KeorUnrea
 {
   "prompt": "Sultry mirror selfie of beautiful adult Wednesday Addams in gothic Victorian living room of Addams mansion, dramatic black-crimson lighting with subtle Christmas accents. Pale porcelain skin, intense dark brown eyes with sharp winged liner, arched brows, glossy pout smirk. Jet-black hair: blunt bangs, long straight with twin braids. Sparkling onyx choker, fitted short black velvet gothic minidress with lace-trimmed deep sweetheart neckline, sheer black spiderweb stockings. Holding black iPhone to ornate mirror, piercing confident gaze. Background: open door to opulent dark living room with sinister Christmas tree (black ornaments, skulls, red candles, purple lights), macabre portraits, cobweb chandelier, flickering candles. Moody high-contrast goth Christmas vibe, ultra-realistic textures, eerie glamorous atmosphere."
 }
+```
+
+</details>
+
+<a id="gpt-image-2-6-carl-sagan-caricature-telescope"></a>
+### 身穿灯芯绒外套站在望远镜旁的3D漫画人像
+
+<a href="https://x.com/SethCritchley/status/2119779478654312642"><img src="../../previews/gpt-image-2-6-carl-sagan-caricature-telescope.jpg" width="360"></a>
+
+上传的参考照片保留人物身份，而 CHARACTER、WARDROBE、POSE、RENDERING、COMPOSITION 等分段规定了夸张比例、服装和构图。结尾明确的 2:3 全身构图要求和 NOT 排除列表，防止画面滑向卡通或玩具感。
+
+GPT Image 2.6 · 上传图改图 · 出处: [@SethCritchley on X](https://x.com/SethCritchley/status/2119779478654312642) · 41 赞，统计于 2026-11-10
+
+[`caricature`](tags.md#tag-caricature) [`3d-render`](tags.md#tag-3d-render) [`portrait`](tags.md#tag-portrait) [`space`](tags.md#tag-space)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Using the uploaded reference image, transform ANY person, character, avatar, animal, or creature into a spectacular, hyperrealistic 3D CARL SAGAN-inspired caricature. Preserve the subject’s unmistakable identity, facial features, eye color, facial hair, and distinctive characteristics while incorporating Carl Sagan’s iconic appearance and personality.
+
+CHARACTER: Enormous oversized head, exaggerated yet recognizable facial features, expressive eyebrows, prominent nose, warm intelligent eyes, enormous forehead, humorous proportions, compact body, and slightly oversized hands and feet. Iconic thick, dark, wavy 1970s side-parted Carl Sagan hairstyle, naturally adapted to the subject. Curious, enthusiastic, educational expression with a charming, knowing smile, radiating wonder and fascination with the cosmos.
+
+WARDROBE: Classic, cliché 1970s Carl Sagan astronomy-professor outfit: brown corduroy blazer with elbow patches, cream turtleneck sweater, tailored earth-tone trousers, leather belt, and vintage brown dress shoes. Authentic retro academic elegance.
+
+POSE & SETTING: Full-body, standing beside a magnificent vintage astronomical telescope mounted on a sturdy tripod, one hand resting on the telescope, the other gesturing enthusiastically toward the heavens. Spectacular star-filled night sky, glowing Milky Way, distant galaxies, colorful nebulae, and subtle cosmic illumination. Whimsical, inspiring, cinematic astronomy setting.
+
+RENDERING: Ultra-hyperrealistic 3D caricature, authentic skin pores, fine wrinkles, natural blemishes, subsurface scattering, lifelike skin shaders, realistic reflective eyes, individually detailed hair strands, high-resolution PBR textures, physically accurate materials, cinematic studio-quality lighting, realistic shadows, atmospheric depth, Octane Render, 8K quality, photorealistic CGI.
+
+COMPOSITION: Vertical 2:3 portrait, full body visible from head to shoes, telescope fully visible, slightly low-angle cinematic hero shot, sharp character focus, breathtaking cosmic background. Exaggerated caricature proportions without sacrificing the original subject’s recognizable identity. NOT cartoon, illustration, plastic, or toy-like.
+
+🔄 Tweak it & make it yours
+🎨 Quote this post with your results.
+🔁 Share it so more artists can join.
+🤝 Make new creative friends.
+❤️ Support each other's art.
+
+GPT Image 2.6 image made on
+@AIMemeCreator
+ 🐸 Use my code SUPERPRODUCERSETH for 50 free credits
+https://
+magic.createa.meme/?ref=SUPERPROD
+UCERSETH
+…
+
+Happy Victory Monday 🙌🏻
 ```
 
 </details>

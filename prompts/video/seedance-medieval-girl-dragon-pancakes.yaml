@@ -1,0 +1,33 @@
+id: seedance-medieval-girl-dragon-pancakes
+title:
+  en: Medieval girl cooks pancakes beside a green dragon
+  zh: 中世纪少女与绿龙在庭院中煎薄饼
+model: Seedance 2.5
+mode: text-to-video
+category: scifi-fantasy
+tags:
+- fantasy
+- dragon
+- food
+- golden
+source:
+  name: '@Arzoo12sh on X'
+  url: https://x.com/Arzoo12sh/status/2117089440489431112
+  credit: Arzoo12sh
+  captured: '2026-11-10'
+  posted: '2026-11-02'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Arzoo12sh/status/2117089440489431112
+notes:
+  en: The prompt lays out the scene as ordered beats (close-up cooking, a pancake tossed in the air, tasting, then the dragon lowering its head) and fixes the look with photorealistic and golden hour style terms, which keeps the characters consistent across cuts. Detailed descriptions of the dragon's emerald scales and glowing eyes anchor its appearance.
+  zh: 提示词按顺序写出分镜（近景煎饼、空中翻饼、品尝、龙低头），并用写实与金色黄昏等风格词锁定画面，使人物在各镜头中保持一致。对龙的翠绿鳞片和发光金眼做细致描述，让角色外观更稳定。
+prompt: |
+  Create a stunning 30-second cinematic fantasy video in ultra-realistic 4K quality.
+  A beautiful young woman wearing a traditional medieval dress is preparing pancakes in a charming medieval village courtyard. A giant friendly green dragon with detailed emerald scales, glowing golden eyes, and expressive facial features stands beside her, curiously watching her cook.
+  The woman prepares fresh pancakes on a hot outdoor cooking pan. Show close-up shots of the pancakes cooking, golden sunlight shining across the courtyard, and a pancake playfully flying through the air. She stacks the freshly cooked pancakes on a beautiful vintage plate and tastes one while the friendly dragon watches with excitement.
+  In the final scene, the dragon happily lowers its enormous head toward the food while the woman smiles.
+  Visual style: Photorealistic fantasy, cinematic storytelling, warm golden-hour lighting, detailed medieval environment, realistic character movements, expressive dragon animation, smooth camera transitions, professional filmmaking, shallow depth of field.
+  Duration: 30 seconds.
+  Aspect ratio: 9:16 vertical.
+  Quality: 4K ultra-realistic.
+  No text, no subtitles, no watermark.

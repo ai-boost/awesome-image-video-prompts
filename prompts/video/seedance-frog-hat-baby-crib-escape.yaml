@@ -1,0 +1,51 @@
+id: seedance-frog-hat-baby-crib-escape
+title:
+  en: Baby in frog hat escapes crib, startles dad
+  zh: 戴青蛙帽的宝宝逃出婴儿床，吓到爸爸
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- 3d-animation
+- family-comedy
+- character-consistency
+source:
+  name: '@Zarnab_with_Ai on X'
+  url: https://x.com/Zarnab_with_Ai/status/2117812036126257293
+  credit: Zarnab_with_Ai
+  captured: '2026-11-10'
+  posted: '2026-11-04'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Zarnab_with_Ai/status/2117812036126257293
+notes:
+  en: A fixed character block and an explicit consistency line keep the frog hat, romper and nursery identical across seven numbered scenes. The closing selfie-style close-up gives the story a clear punchline.
+  zh: 提示词用固定的角色描述块加七个编号分镜，并明确要求青蛙帽、连体衣和婴儿房在每个镜头中保持一致。结尾指定自拍式特写，让故事有清晰的笑点收束。
+prompt: |
+  Style: High-quality 3D animated family comedy, adorable baby character, Pixar-inspired cinematic animation, ultra-detailed textures, expressive facial animations, warm lighting, realistic movement, and professional cinematic storytelling.
+
+  Character: An adorable chubby baby girl with big sparkling brown eyes, rosy cheeks, short dark brown hair, wearing a cute green knitted frog hat with big frog eyes and a white baby romper featuring a small green frog design.
+
+  Scene 1 – Baby in the Crib:
+  A cute baby girl stands inside a beautiful wooden baby crib in a cozy nursery. She holds the wooden bars with both hands, looking innocent and curious. Warm golden sunlight enters through the window, creating a peaceful atmosphere.
+
+  Scene 2 – Funny Baby Expressions:
+  Show a close-up of the baby making adorable funny facial expressions, squeezing her eyes, puffing her cheeks, and smiling playfully while wearing her oversized frog hat.
+
+  Scene 3 – Baby Escapes:
+  The baby cleverly crawls out of her crib and moves across the soft carpet. She explores the nursery with excitement, crawling behind furniture and hiding playfully.
+
+  Scene 4 – Cute Hiding Moment:
+  The baby hides behind a large cozy armchair. Only her little face and frog hat are visible. She peeks over the chair with a mischievous smile, then hides again.
+
+  Scene 5 – Mischievous Adventure:
+  The baby attempts to climb a nearby white dresser, reaching toward its drawers with her tiny hands. Show her funny and determined expressions.
+
+  Scene 6 – Unexpected Daddy Reaction:
+  Suddenly, her father appears in the nursery and is shocked to discover the baby's mischievous adventure. Show his exaggerated surprised facial expression, wide-open eyes, and funny reaction.
+
+  Scene 7 – Emotional Funny Ending:
+  The father discovers the adorable baby sitting safely in a little chair. He looks at her in disbelief while she smiles innocently. End with a cute close-up selfie-style shot of the father and baby together.
+
+  Visual Quality: Ultra-detailed 3D animation, realistic knitted fabric, soft baby skin, expressive eyes, natural body movements, cinematic depth of field, warm golden-hour lighting, smooth camera transitions, professional animation, 4K quality, vertical 9:16 aspect ratio.
+
+  Important: Maintain consistent baby character design, identical frog hat, clothing, facial features, and nursery environment throughout every scene. Make the story funny, heartwarming, adorable, and highly engaging.

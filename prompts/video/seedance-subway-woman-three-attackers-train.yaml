@@ -1,0 +1,33 @@
+id: seedance-subway-woman-three-attackers-train
+title:
+  en: Woman Stands Alone on Empty Subway Platform at Night
+  zh: 女子独自站在夜间空荡的地铁站台
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- subway
+- thriller
+- night
+- fight-scene
+source:
+  name: '@nawalsehar on X'
+  url: https://x.com/nawalsehar/status/2101173902307467397
+  credit: nawalsehar
+  captured: '2026-11-10'
+  posted: '2026-09-19'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/nawalsehar/status/2101173902307467397
+notes:
+  en: The prompt moves in beats from calm setup to escalation to a train arrival, and pairs each beat with a named shot type such as handheld tracking, wide geography shots, tight reactions and low angle train footage. A closed audio list limits sound to on-set sources, and the negative list keeps the fight physically grounded.
+  zh: 提示词按节奏分段，从平静铺垫到冲突升级再到列车进站收尾，每个阶段配一种镜头语言，如手持跟拍、全景交代站台地形、紧凑反应特写和低角度列车镜头。音频限定为现场声源，负面列表排除特效感和不合物理的动作，让打斗保持可信。
+prompt: |
+  Create a 30-second ultra-photorealistic live-action nighttime action-thriller inside an almost-empty underground train station. A woman finds herself surrounded by three unarmed attackers. She stays calm, evades their advances, redirects their momentum, and uses the station environment to create space without superhuman movement.
+
+  As the confrontation intensifies, the approaching train transforms the atmosphere—rails begin vibrating, loose paper moves across the platform, wind builds through the tunnel, and headlights sweep across the station. Keep every movement physically believable with realistic biomechanics, friction, momentum, balance, collisions, and environmental interaction.
+
+  Use cinematic handheld tracking, wide shots for clear fight geography, tight reaction shots, low-angle train footage, realistic fluorescent lighting, natural motion blur, autofocus, and subtle camera vibration. Diegetic audio only: footsteps, breathing, impacts, metal scraping, rail vibration, train horn, rushing air, braking, and doors opening.
+
+  End with the train arriving as the woman catches her breath, turns away from the attackers, and walks toward the open doors.
+
+  No CGI look, animation, superhero abilities, wire-fu, flying bodies, weapons, gore, impossible physics, distorted anatomy, duplicated characters, excessive camera shake, dangerous track behavior, subtitles, logos, or watermark.

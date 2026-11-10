@@ -1,0 +1,30 @@
+id: nano-banana-valentines-newspaper-editorial
+title:
+  en: Four portraits in red blazers holding a Valentine's newspaper
+  zh: 四位身着红色西装手持情人节报纸的肖像
+model: Nano Banana Pro
+mode: image-edit
+category: portrait
+tags:
+- valentines-day
+- editorial
+- reference-image
+- newspaper
+source:
+  name: '@TechieBySA on X'
+  url: https://x.com/TechieBySA/status/2022040472827691074
+  credit: TechieSA
+  likes: 108
+  captured: '2026-11-10'
+  posted: '2026-02-12'
+notes:
+  en: The uploaded reference image locks the likeness, while the camera angle, aspect ratio, lighting, props and colour grade are written out in one block so every subject gets the same scene. The bracketed gender line is a fill in slot, so one template works for any person.
+  zh: 上传的参考图锁定人物长相，同时把机位、画幅、布光、道具和调色都写进同一段描述，因此换人后画面结构保持一致。方括号中的性别句是可替换的填充位，同一模板可用于任何人物。
+prompt: |
+  Idea by
+  @kevinthebrandoc
+  🔥
+
+  Simply upload your reference image & use this prompt:✨
+
+  “Use the uploaded image as the subject reference (face and shoulders). Compose a top-down, close-up fashion editorial shot (4:5) of the subject lying on a floor covered in layered newspaper pages. [if subject is a woman, Hair fanned out in soft, voluminous waves around the head.] Outfit: tailored red blazer. Props: scattered red roses and loose rose petals, two red heart-shaped foil balloons near the top corners, and a folded newspaper held in the subject’s hands with the visible headline "Valentine's Day". Lighting: soft cinematic studio light from top-left with subtle rim light to separate hair, slightly diffused softbox feel, high contrast but natural skin highlights. Color grading: rich, saturated reds, true-to-life skin tones, slight warm film toning (Kodak Portra vibe). Depth of field: keep subject sharp with gentle background falloff so newspaper texture remains readable but not distracting. Style: ultra-realistic, magazine editorial, extremely detailed — visible hair strands, fabric texture, skin pores, crisp rose petals and balloon reflections. Composition: center the face, show upper torso and newspaper prop, maintain elegant negative space with newspaper background. Resolution: high (photoreal, 4k+). Preserve likeness and facial anatomy accurately”

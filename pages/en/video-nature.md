@@ -1,6 +1,6 @@
 # Nature, travel and aerial
 
-[Back to the list](../../README.md) · All 11 entries
+[Back to the list](../../README.md) · All 12 entries
 
 <a id="seedance-woman-panda-ancient-forest"></a>
 ### Woman strokes giant panda in misty ancient forest
@@ -255,6 +255,25 @@ Seedance 2.5 · Text-to-video · Source: [@noorwithwifi on X](https://x.com/noor
 
 ```text
 A seamless traditional Chinese ink-wash watercolor animation begins with deep blue ocean waves transforming into misty mountains with a pagoda and stone stairs. Crimson ink clouds sweep across the scene, transitioning to a calm river with a small boat and an autumn-red tree. The red foliage transforms into delicate pink cherry blossoms, with petals drifting around a lone bonsai-like tree on a tiny island. Finally, a glowing full moon rises behind distant mountains, casting a golden reflection across the tranquil water as the scene fades into a peaceful night. Atmospheric, poetic, fluid transitions, elegant Chinese painting aesthetic, soft watercolor textures.
+```
+
+</details>
+
+<a id="seedance-female-diver-reef-turtle-dolphin-manta"></a>
+### Female scuba diver swims through tropical reef
+
+<a href="https://x.com/Aiwithmaha/status/2117940947548090676"><img src="../../previews/seedance-female-diver-reef-turtle-dolphin-manta.jpg" width="360"></a>
+
+The prompt lays out a timed sequence of beats (diver, sea turtle, dolphin, then manta ray and fish) with a stated camera style and pacing words like slow and smooth, so each event has room to read on screen. Repeating the same diver description across the prompt helps the character stay consistent.
+
+Seedance 2.5 · Text-to-video · Source: [@Aiwithmaha on X](https://x.com/Aiwithmaha/status/2117940947548090676) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`underwater`](tags.md#tag-underwater) [`scuba-diving`](tags.md#tag-scuba-diving) [`sea-turtle`](tags.md#tag-sea-turtle) [`coral-reef`](tags.md#tag-coral-reef)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a beautiful and realistic 30-second cinematic underwater adventure featuring a female scuba diver exploring a magical tropical ocean. The video should move at a slow, smooth and natural pace, allowing every scene to be clearly visible. She slowly swims through crystal-clear blue water, surrounded by colorful tropical fish, beautiful coral reefs, and glowing underwater plants. A giant sea turtle gently swims beside her while a friendly dolphin gracefully circles around her. She slowly reaches out her hand and touches the turtle's shell as sunlight shines through the ocean surface, creating magical light rays underwater. Suddenly, a beautiful manta ray glides peacefully above her, followed by a large group of colorful fish moving together. Show detailed underwater environments, realistic swimming movements, floating bubbles, and natural ocean lighting. Use slow cinematic camera movements, smooth scene transitions, ultra-realistic 4K visuals, and consistent character appearance throughout the entire 30-second video.
 ```
 
 </details>

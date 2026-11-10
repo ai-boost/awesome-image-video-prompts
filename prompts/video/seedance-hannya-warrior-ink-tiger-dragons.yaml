@@ -1,0 +1,25 @@
+id: seedance-hannya-warrior-ink-tiger-dragons
+title:
+  en: Hannya masked warrior paints ink tiger and dragons
+  zh: 般若面具武者挥笔化出墨虎与游龙
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- ink-painting
+- martial-arts
+- hannya-mask
+- monochrome
+source:
+  name: '@ai_anelia on X'
+  url: https://x.com/ai_anelia/status/2117601946894995461
+  credit: ai_anelia
+  captured: '2026-11-10'
+  posted: '2026-11-03'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/ai_anelia/status/2117601946894995461
+notes:
+  en: Anchors the style to named visual references, ink wash painting and realistic fluid physics, so the splashes read as real ink rather than cartoon effects. Describing the ink turning into a tiger and then dragons in sequence gives the shot a clear transformation to follow.
+  zh: 以水墨画与写实流体物理作为明确的视觉参照，让墨点像真实墨汁而不是卡通特效。按顺序描述墨迹先化为墨虎、再化为游龙，为镜头提供清晰的变形路径。
+prompt: |
+  Cinematic 3D animation, action scene. A warrior wearing a traditional Japanese Hannya demon mask and white long hair, dressed in black flowing robes, wields a giant calligraphy brush like a staff inside a minimalist white minimalist studio. The warrior performs fluid, acrobatic martial arts movements, painting sweeping, dynamic splashes of black ink in the air that instantly materialize into living, roaring creatures: first a fierce black ink tiger, followed by majestic Chinese dragons swirling around the space. High-contrast monochrome aesthetic, sumi-e brushstroke effects blending with realistic fluid physics, dramatic cinematic lighting, 4k resolution, masterpiece.

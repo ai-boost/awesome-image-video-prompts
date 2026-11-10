@@ -1,0 +1,30 @@
+id: gpt-image-aurora-pebble-beach-seascape
+title:
+  en: Aurora over a pebble beach at night
+  zh: 极光下的卵石海滩夜景
+model: GPT Image 2.5
+mode: text-to-image
+category: realism
+tags:
+- aurora
+- seascape
+- pebble-beach
+- night
+source:
+  name: '@churvikv on X'
+  url: https://x.com/churvikv/status/2119205952645632300
+  credit: Viki
+  likes: 123
+  captured: '2026-11-10'
+  posted: '2026-11-07'
+notes:
+  en: The prompt is split into labelled zones (sky, horizon, sea, beach) plus a light and palette block, so the model fills a fixed layout region by region. The closing full bleed, no frame, no lettering line keeps out borders and text.
+  zh: 提示词按天空、地平线、海面、海滩划分区域，再加一段光线与色板说明，模型就能按固定布局逐区生成。结尾的满版、无边框、无文字要求可以避免画框和字样出现在画面中。
+prompt: |
+  Photorealistic magical seascape at night, wide 16:9 panoramic composition, ultra-detailed. Full bleed, no frame, no border, no lettering.
+  SKY: a deep teal-green and indigo night sky fills the upper half, swept with tall vertical curtains of aurora borealis in luminous mint, emerald and pale jade, their strands hanging like combed light. Behind them glow soft magenta, rose and violet nebula clouds. Hundreds of fine white stars speckle the dark, and four bright four-point starburst stars with long cross flares burn at the left, centre, right and lower right. A pale glow swells along the horizon line where sky meets sea.
+  HORIZON: a low dark rocky headland silhouette sits at the far left, softened by haze, with faint distant cliffs behind it. The rest of the horizon is a soft silver-blue fog band.
+  SEA: the right half is calm glassy water in pale silvery-teal and grey-mint, marked with fine horizontal ripple lines. A bright path of glittering light runs down the surface toward the shore, dotted with sharp white sparkles, and a soft foam edge of small bubbles traces the waterline where it meets the stones.
+  BEACH: the entire foreground and lower two-thirds is a vast beach of smooth rounded pebbles, thousands of them, in cream white, pale grey and soft pearl, packed tightly in rounded mounds and shallow sweeping curves that lead the eye from the bottom edge toward the water. Each stone is polished and softly lit from above, wet with salt sheen, some with bright specular highlights and sprinkles of tiny white dots like frost or salt crystals.
+  LIGHT: cool silver-blue moonlight mixed with the green aurora glow, soft and diffuse, with a warm sparkle only in the star flares and the water highlights.
+  PALETTE: deep teal, emerald, jade mint, dark indigo, magenta violet, silver grey, pearl white. Luminous, dreamlike, tranquil, high dynamic range.

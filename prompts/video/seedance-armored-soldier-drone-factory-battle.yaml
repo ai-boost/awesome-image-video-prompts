@@ -1,0 +1,38 @@
+id: seedance-armored-soldier-drone-factory-battle
+title:
+  en: Armored soldier fights drones in ruined factory
+  zh: 装甲士兵在废弃工厂与无人机交战
+model: Seedance 2.5
+mode: reference-to-video
+category: action
+tags:
+- sci-fi
+- war
+- reference-image
+- shot-list
+source:
+  name: '@itsSaira_1 on X'
+  url: https://x.com/itsSaira_1/status/2104432266235851168
+  credit: itsSaira_1
+  captured: '2026-11-10'
+  posted: '2026-09-28'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/itsSaira_1/status/2104432266235851168
+notes:
+  en: A timed shot list with a camera move for each beat, plus a reference image and a repeated instruction to keep the same face and armor in every shot, holds the character's identity across cuts. The grade and negative prompt keep the look gritty and filmic.
+  zh: 按时间段列出的分镜，每个节拍都标明镜头运动，再配合参考图和每个镜头都重复的角色一致性要求，让同一名士兵的脸和装甲在多次切换中保持不变。色调和负面提示词让画面保持粗粝的电影质感。
+prompt: |
+  Ultra-realistic cinematic sci-fi war film, 15 seconds, 16:9, 60fps, handheld camera, desaturated gray-blue color grade, overcast sky, film grain. Keep the character from the reference image identical in every shot: same face, same weathered gray-green armor with clear visor helmet and glowing amber visor trim. Location: ruined industrial wasteland, rusted factory towers, smoking chimneys, scrap piles, small fires, puddles. Enemies: small hovering quad-drones with glowing blue eyes, one with a red eye.
+
+  0-2s: Close-up of the soldier's face behind the visor, tense, dirt on face, drones flying behind him. Camera slowly pushes in.
+  2-4s: Tight shot, he ducks and turns fast, armor shoulder fills the frame, red-eyed drone above.
+  4-6s: Low wide shot, he crouches behind a concrete barrier, explosion and smoke in the background, blue light glowing on his wrist.
+  6-8s: Side shot, he rises and fires a plasma rifle at a drone, sparks burst from the drone.
+  8-10s: Wide shot, a hit drone flips and spins away through the air, he stands in firing stance, more drones circling.
+  10-12s: Medium shot, he swings his arm with a glowing blue wrist gauntlet, then a close-up of the blue energy charging in his fist, face determined.
+  12-13s: Wide shot, blue energy dome shield erupts around him at the barrier, drones fly around.
+  13-15s: Camera slowly pulls back to a huge wide shot, tiny soldier in the center of the wrecked factory field, smoke and flames, drones in the sky.
+
+  Negative prompt: face change, different character, armor change, cartoon, anime, CGI look, plastic skin, blur, low quality, distorted hands, extra limbs, deformed helmet, flicker, warping, text, watermark, logo, subtitles, oversaturated colors, bright daylight, morphing, inconsistent lighting
+
+  #AIVideo #SciFi #CinematicAI #AIArt #FutureWar #Cinematic #AIFilm

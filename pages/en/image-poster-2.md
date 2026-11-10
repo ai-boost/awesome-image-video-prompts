@@ -1,6 +1,99 @@
 # Posters and editorial layouts
 
-[Back to the list](../../README.md) · All 204 entries · [1](image-poster.md) · **2**
+[Back to the list](../../README.md) · All 207 entries · [1](image-poster.md) · **2**
+
+<a id="gpt-image-food-photo-ingredient-sketchbook-poster"></a>
+### Pizza photo above hand-drawn ingredient sketchbook
+
+<a href="https://x.com/Goodmanprotocol/status/2108555814604812483"><img src="../../previews/gpt-image-food-photo-ingredient-sketchbook-poster.jpg" width="360"></a>
+
+The prompt splits the canvas into a realistic food photo on top and a gouache ingredient sheet below, with a hard horizontal divider and a fixed height ratio. A small dish illustration in the center, arrows and numbered specimens give the lower half a field-note structure, and a long avoid list keeps it uncluttered.
+
+GPT Image 2.5 · Text-to-image · Source: [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2108555814604812483) · 67 likes on 2026-10-28
+
+[`food`](tags.md#tag-food) [`poster`](tags.md#tag-poster) [`editorial`](tags.md#tag-editorial) [`sketchbook`](tags.md#tag-sketchbook) [`split-layout`](tags.md#tag-split-layout)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a premium 3:4 vertical editorial food-art poster for [COUNTRY / CITY / LOCAL DISH / FOOD SUBJECT].
+
+TEXT-TO-IMAGE ONLY.
+Generate the entire composition from the written dish or food subject alone. Do not request, upload, use, or depend on any reference image or existing photograph. Automatically identify the dish’s authentic appearance, ingredients, textures, and cultural identity.
+
+CORE CONCEPT:
+Create one elegant travel-food editorial poster combining realistic food photography in the upper section with a handmade ingredient-observation sketchbook in the lower section. Feature ONE recognizable plate or bowl containing a single dish, with at least three visually distinct ingredients.
+
+UPPER SECTION — REALISTIC FOOD PHOTOGRAPHY:
+Occupy approximately 48% of the canvas height. Create a beautifully composed, authentic photographic view of the specified local dish, preserving believable ingredient textures, natural lighting, realistic proportions, and culturally accurate presentation. Use subtle food-magazine color grading and extremely light film grain. Keep the entire plate or bowl visible.
+
+SECTION DIVIDER:
+Separate both sections with a straight, clean horizontal boundary. A very thin warm-ivory paper strip is optional. No gradients, blending, or elements crossing the divider.
+
+LOWER SECTION — INGREDIENT OBSERVATION SHEET:
+Use warm ivory drawing paper with visible fibers, fine grain, faint smudges, and subtle handmade irregularities. Create a sparse, asymmetrical food-field-note composition rather than repeating the full photographic dish.
+
+Place ONE small, simplified but recognizable illustration of the complete dish near the center. Keep it secondary and compact, occupying approximately one-third of the lower section’s width.
+
+Around it, illustrate 3–6 individually selected ingredients inferred from the dish. Use small watercolor specimens, cut-surface studies, herb sketches, grain clusters, sauce swatches, or distinctive ingredient shapes. Arrange them at varied sizes and angles with generous breathing room.
+
+DRAWING STYLE:
+Matte gouache, delicate black-ink outlines, slightly hesitant hand-drawn strokes, dry-brush gaps, uneven pigment coverage, soft watercolor edges, visible paper texture, and restrained natural colors. Keep ingredients recognizable without excessive detail. Add a few fine arrows and small handwritten numbers connecting specimens to the miniature dish.
+
+TYPOGRAPHY:
+Use minimal, understated editorial annotations only when helpful. Short ingredient names or tiny handwritten notes are acceptable. Keep all text small and secondary; avoid unnecessary titles or decorative lettering.
+
+COLOR PALETTE:
+Derive the colors naturally from the dish, balanced by warm cream, muted earth tones, and subtle ink details.
+
+FINAL AESTHETIC:
+Authentic local food photography × handmade ingredient studies × refined travel-food editorial × collectible culinary field notebook.
+
+AVOID:
+Multiple dishes, duplicate plates, mixed meals, inaccurate ingredients, excessive garnish, crowded layouts, gradients, bleeding transitions, glossy digital painting, flat vector infographics, 3D rendering, commercial menu styling, excessive text, logos, watermarks, and interface elements.
+
+FORMAT:
+3:4 vertical portrait, approximately 48% photographic food scene above and 52% illustrated ingredient-observation sheet below, crisp horizontal separation, generous negative space, premium publication quality, ultra-high definition.
+```
+
+</details>
+
+<a id="gpt-image-photo-over-paper-sculpture-editorial-poster"></a>
+### Photo above, paper cutout poster below
+
+<a href="https://x.com/j_smeaton99/status/2111755839895699812"><img src="../../previews/gpt-image-photo-over-paper-sculpture-editorial-poster.jpg" width="360"></a>
+
+A strict 3:4 canvas split 50/50 keeps the original photo on top and rebuilds the subject as layered cardstock cutouts below. Palette is derived from the source image, with exclusion lists and sparing typography keeping each poster distinct.
+
+GPT Image 2.5 · Edit · Source: [@j_smeaton99 on X](https://x.com/j_smeaton99/status/2111755839895699812) · 64 likes on 2026-10-28
+
+[`paper-cutout`](tags.md#tag-paper-cutout) [`editorial-poster`](tags.md#tag-editorial-poster) [`photo-to-collage`](tags.md#tag-photo-to-collage) [`pastel-palette`](tags.md#tag-pastel-palette) [`split-layout`](tags.md#tag-split-layout)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a collection of individual, high-end editorial art posters, producing one separate design for every uploaded photograph. Treat each image as its own creative project, with no image merging, repeated layouts, or borrowed design elements between posters.
+
+CANVAS & STRUCTURE: Use a strict 3:4 vertical format with a precise 50/50 horizontal division. The upper section must retain the original photograph, including the subject’s face, identity, pose, clothing, defining details, original color relationships, and natural lighting. Apply only restrained tonal refinement for a polished magazine finish. Do not reconstruct, reshape, or replace the photographed subject.
+
+PHOTOGRAPHIC UPPER PANEL: Preserve the authentic image as the visual anchor. Simplify distracting surroundings only where necessary, without altering the subject or compromising the photograph’s original character.
+
+LOWER PANEL — PAPER SCULPTURE: Reinterpret the subject’s defining features, silhouette, or visual story as a contemporary handcrafted paper composition. Build the artwork from bold cutouts, abstract contours, overlapping cardstock, and carefully arranged geometric fragments. Reduce unnecessary details while retaining recognizable visual connections to the original photograph. The result should feel like an art director’s handcrafted mixed-media experiment, not a cartoon illustration.
+
+LAYOUT & SPATIAL DESIGN: Create a striking contrast between a spacious, pale upper field and a confidently colored lower section extending edge to edge. Let the subject interact visually with the dividing line, creating a seamless relationship between photography and collage. Introduce an off-center shape, architectural color panel, or restrained graphic accent only when it strengthens the composition. Keep the arrangement intentional, airy, and visually distinctive.
+
+PALETTE & MATERIALS: Derive a small selection of complementary colors from the source image, then translate them into luminous, understated pastel tones. Combine matte paper surfaces, fine fibrous grain, slightly irregular cut edges, and delicate overlapping layers. Establish dimension through the arrangement of paper elements rather than pronounced shadows, gradients, or artificial depth.
+
+EDITORIAL FINISH: Use typography sparingly. If suitable, include a small art-publication title, discreet caption, or minimal typographic detail, positioned with precision. Avoid unnecessary text, decorative labels, and oversized lettering.
+
+ARTISTIC DIRECTION: Contemporary gallery poster meets independent art-journal design. Balance photographic authenticity with tactile paper craftsmanship, bold color blocking, thoughtful asymmetry, and generous breathing room. Every poster should have its own visual character, derived directly from its source photograph.
+
+STRICT EXCLUSIONS: No combined photographs, duplicated designs, distorted anatomy, altered facial identity, full-scene illustration, cartoon rendering, glossy 3D elements, excessive drop shadows, gradients, busy backgrounds, or mass-produced template aesthetics.
+
+FINAL OBJECTIVE: Produce a refined, collectible-quality editorial poster that feels individually art-directed. The original photograph remains authentic in the upper half, while the lower half translates its visual identity into a fresh, tactile, minimalist paper-art interpretation.
+```
+
+</details>
 
 <a id="nano-banana-maggi-2-minute-magic-billboard"></a>
 ### Maggi 2 Minute Magic noodle billboard at sunrise

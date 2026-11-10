@@ -1,0 +1,25 @@
+id: seedance-king-kong-rooftop-girl-rescue
+title:
+  en: Giant King Kong holds girl on ruined rooftop
+  zh: 废墟楼顶巨猿温柔抱起红衣女孩
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- king-kong
+- giant-creature
+- golden-hour
+- emotional-story
+source:
+  name: '@Aiwithmaha on X'
+  url: https://x.com/Aiwithmaha/status/2119275576846594139
+  credit: Aiwithmaha
+  captured: '2026-11-10'
+  posted: '2026-11-08'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Aiwithmaha/status/2119275576846594139
+notes:
+  en: A numbered sequence of plain beats sets the order of shots, and the closing camera move, a slow zoom out to a golden sunset, gives the clip a clear ending. The instruction to keep the character identical for the full 30 seconds targets identity drift in a long single generation.
+  zh: 用分段的情节句列出镜头顺序，结尾指定慢速拉远镜头到金色落日，让片子有明确收尾。要求全程角色外形一致，用来抑制长片中的人物漂移。
+prompt: |
+  Create an ultra-realistic 30-second cinematic Hollywood-style action and emotional story. A giant powerful King Kong stands on the rooftop of a tall skyscraper in a destroyed city, surrounded by smoke, fire, and flying helicopters. A little girl wearing a beautiful red dress stands fearlessly near him, and King Kong gently protects her with his massive hands. Suddenly, a gigantic futuristic combat robot appears and approaches them aggressively. King Kong turns around and prepares to fight the robot while keeping the little girl safe. After an intense battle, King Kong defeats the robot and returns to the little girl. She gently hugs his huge chest, and King Kong carefully holds her in his arms. The camera slowly zooms out, revealing a breathtaking golden sunset over the city skyline, with warm sunlight, cinematic lighting, emotional background music, realistic movements, detailed facial expressions, and stunning Hollywood-level visual effects. Maintain consistent character appearance throughout the entire 30-second video, vertical 9:16 format, ultra-realistic 4K quality.

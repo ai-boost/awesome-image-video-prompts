@@ -1,0 +1,24 @@
+id: seedance-overhead-fan-four-looks-rug
+title:
+  en: Woman on rug changes outfits as ceiling fan passes
+  zh: 女子躺在地毯上，吊扇经过时四套造型依次切换
+model: Seedance 2.5
+mode: reference-to-video
+category: commercial
+tags:
+- fashion
+- overhead-shot
+- outfit-transition
+source:
+  name: '@AIwithkhan on X'
+  url: https://x.com/AIwithkhan/status/2102221702667309467
+  credit: AIwithkhan
+  captured: '2026-11-10'
+  posted: '2026-09-22'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithkhan/status/2102221702667309467
+notes:
+  en: A fixed overhead camera with a ceiling fan as the only transition device lets each outfit change happen inside a blade sweep, so no cuts are needed. Strict reference images for the character and each look keep identity and wardrobe consistent across the four reveals.
+  zh: 固定俯拍机位，并以吊扇作为唯一转场，每次换装都发生在叶片扫过身体的瞬间，因此无需剪辑。角色与每套服装的参考图确保四次造型揭示中人物身份和服饰保持一致。
+prompt: |
+  Create a 15-second ultra-realistic vertical 9: 16 fashion film shot entirely from a fixed 90° overhead camera, using the supplied character and wardrobe images as strict references; preserve the same face, body proportions, hair and identity throughout. The Korean woman lies on a luxurious autumn-toned Persian-inspired rug over walnut flooring, surrounded by subtle upscale apartment furniture, while warm late-afternoon sunlight creates realistic shadows. A realistic wooden ceiling fan rotates continuously above her and acts as the only transition device. LOOK 1 chocolate ribbed tank, oversized camel suede bomber, burgundy pleated mini skirt, espresso tights, tobacco slouch boots, oxblood shoulder bag, gold hoops and tortoiseshell sunglasses. She casually picks up a remote and looks upward. As the fan blade physically passes over her body, seamlessly reveal LOOK 2 cream shearling hat, ivory knit sweater, olive utility jacket, wide faded jeans, cream socks, leopard slingbacks and espresso tote. Another blade sweep reveals LOOK 3 oxblood asymmetric knit top, chocolate faux-fur coat, charcoal pinstripe trousers, black kitten-heel boots and cherry-red handbag. The next rotation reveals LOOK 4 charcoal beret, moss-green mohair cardigan, chocolate tank, espresso leather trousers, burgundy loafers, charcoal socks and cherry-red handbag. She makes subtle editorial pose adjustments after each transition, always looking directly upward. End with her completely still in LOOK 4 as the fan continues rotating. Ultra-realistic fabrics, leather, suede, fur and skin, cinematic autumn color grading, natural film grain and premium fashion-campaign realism. Strictly no cuts, camera movement, zooms, angle changes, morphing, identity drift, outfit glitches, warped hands, duplicated limbs, disappearing accessories, text, logos or watermark.

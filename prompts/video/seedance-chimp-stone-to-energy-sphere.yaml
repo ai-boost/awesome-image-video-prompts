@@ -1,0 +1,54 @@
+id: seedance-chimp-stone-to-energy-sphere
+title:
+  en: Thrown stone evolves from arrow to jet and sphere
+  zh: 投掷的石头依次变为箭矢、子弹、导弹、战机，最终化为能量球
+model: Seedance 2.5
+mode: text-to-video
+category: vfx
+tags:
+- transformation
+- multi-scene
+- space
+- evolution
+source:
+  name: '@itsSaira_1 on X'
+  url: https://x.com/itsSaira_1/status/2099728570625188123
+  credit: itsSaira_1
+  captured: '2026-11-10'
+  posted: '2026-09-15'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/itsSaira_1/status/2099728570625188123
+notes:
+  en: Chains eight scenes where each one ends on the exact frame the next starts from, which keeps the object and camera continuous. Every step states the screen direction as LEFT to RIGHT and the negative prompt bans reversal, U-turns and replacement objects, so the transformations stay on one trajectory.
+  zh: 将八个镜头串成一条链，每段结束于下一段的起始帧，使主体和镜头保持连续。每一步都明确标注从左到右的画面方向，负面提示禁止反向、掉头和替换物体，让每次变形都沿同一轨迹进行。
+prompt: |
+  GLOBAL: Photorealistic cinematic 16:9. Each scene directly continues the previous; exact final frame = next Start/Reference Frame. Preserve same subject, position, orientation, motion, lighting, background and camera. ALWAYS SCREEN-LEFT → SCREEN-RIGHT. Never reverse, U-turn, 180° rotate, flip camera, change trajectory, disappear or touch ground. No text/logo/watermark/UI.
+
+  1 — CHIMP → STONE:
+  Realistic chimpanzee in ancient dry wilderness at golden hour throws a rough dark stone toward the horizon. Stone stays airborne, travels LEFT → RIGHT slightly upward. Camera tracks it continuously. End with stone visible near RIGHT. Exact frame → 2.
+
+  2 — STONE → ARROW:
+  Same stone, same frame and motion. While flying LEFT → RIGHT, it physically cracks and transforms into a wooden arrow: arrowhead RIGHT, feathers LEFT. Background smoothly becomes early historical/archery era. End with complete arrow. Exact frame → 3.
+
+  3 — ARROW → BULLET:
+  Same arrow continues LEFT → RIGHT and progressively becomes a realistic metallic firearm bullet: shaft → body, arrowhead → FRONT/RIGHT, feathers → REAR/LEFT. Background smoothly becomes early-modern industrial/firearm era. End with bullet. Exact frame → 4.
+
+  4 — BULLET → MISSILE:
+  Same bullet continues LEFT → RIGHT and physically becomes a realistic military missile: body lengthens, nose RIGHT, fins and rocket engine REAR/LEFT. Background smoothly becomes modern industrial/military. End with missile. Exact frame → 5.
+
+  5 — MISSILE → FIGHTER JET:
+  Same missile continues LEFT → RIGHT and transforms into an advanced realistic fighter jet: fuselage expands, wings unfold, cockpit RIGHT, stabilizers/engines LEFT. Background smoothly becomes modern high-altitude aviation. End above Earth with atmosphere visible. Exact frame → 6.
+
+  6 — FIGHTER JET → ORBITAL RING:
+  Same jet continues LEFT → RIGHT and progressively transforms into a gigantic futuristic orbital ring: wings curve into rings, fuselage expands into connected sections, concentric rings form. No replacement spaceship. Background becomes advanced near-space technology with Earth below. End with ring moving LEFT → RIGHT. Exact frame → 7.
+
+  7 — ORBITAL RING → ENERGY SPHERE:
+  Same ring continues LEFT → RIGHT. Rings rotate; blue-white energy flows inward as the structure contracts into one brilliant energy sphere. Background becomes deep futuristic space, Earth distant. Sphere keeps LEFT → RIGHT. Exact frame → 8.
+
+  8 — SPHERE → POINT OF LIGHT:
+  Same sphere continues LEFT → RIGHT, compresses into a tiny brilliant point and accelerates toward RIGHT with subtle light trail. Camera pulls back to reveal deep-black star field. Point becomes smaller and fades into distance. No reversal, U-turn or explosion.
+
+  NEGATIVE: new/different object, replacement, sudden cut/morph, background or lighting jump, right-to-left, reverse, backward, U-turn, 180° rotation, camera flip, trajectory change, disappearance, falling, ground impact, teleportation, duplicates, random spaceship/aircraft, distorted anatomy, cartoon, low-quality CGI, text, subtitles, logo, watermark, Like, Follow, Share, UI.
+
+  #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #visualstorytelling #ai #supercool_hq
+  #aicreation

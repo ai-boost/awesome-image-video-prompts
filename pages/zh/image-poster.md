@@ -1,6 +1,6 @@
 # 海报与编辑排版
 
-[返回目录](../../README_zh.md) · 全部 204 条 · **1** · [2](image-poster-2.md)
+[返回目录](../../README_zh.md) · 全部 207 条 · **1** · [2](image-poster-2.md)
 
 <a id="gpt-image-flat-vector-city-travel-poster-template"></a>
 ### 适用任意城市的扁平矢量旅行海报模板
@@ -4158,6 +4158,55 @@ Complete [STYLE] outfit floating in its exact worn position around  an invisible
 
 </details>
 
+<a id="gpt-image-2-6-snowboarding-editorial-poster"></a>
+### 单板滑雪者腾空跃起 红色 SNOWBOARDING 大标题
+
+<a href="https://x.com/Goodmanprotocol/status/2119083132691615772"><img src="../../previews/gpt-image-2-6-snowboarding-editorial-poster.jpg" width="360"></a>
+
+这是一个带 [MAIN SUBJECT] 占位符的固定杂志版式模板，版面元素（期数标签、微排版、坐标、页脚）可以稳定复现。明确要求主体压住标题，才会出现滑板穿过文字的整合效果。
+
+GPT Image 2.6 · 文生图 · 出处: [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2119083132691615772) · 139 赞，统计于 2026-11-10
+
+[`editorial`](tags.md#tag-editorial) [`sports`](tags.md#tag-sports) [`typography`](tags.md#tag-typography) [`poster`](tags.md#tag-poster)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a premium, photorealistic editorial magazine poster inspired by high-end outdoor adventure photography, contemporary sports campaigns, and minimalist Swiss graphic design.
+
+CORE CONCEPT: Automatically identify the main subject, activity, environment, and visual characteristics from the provided subject or concept. Transform it into a striking editorial cover that combines dramatic full-frame photography with oversized, bold typography.
+
+PHOTOGRAPHY & COMPOSITION: Capture the subject in an extraordinary, visually dynamic moment. Use professional sports and lifestyle photography, realistic anatomy, precise details, natural textures, dramatic environmental elements, and authentic movement.
+
+The main photograph should occupy the upper and middle sections of the poster. Use an immersive composition with the subject prominently positioned and the environment providing visual depth.
+
+TYPOGRAPHIC DESIGN:
+
+- Add an enormous, bold, uppercase headline featuring the main subject or activity.
+- Use condensed extra-bold sans-serif typography.
+- Position the headline across the lower-middle portion of the poster.
+- Allow the subject to overlap and partially obscure the typography, creating an integrated photographic-editorial effect.
+- Choose typography colors that contrast beautifully with the photograph.
+- Include subtle microtypography, thin horizontal divider lines, and editorial labels.
+
+EDITORIAL DETAILS: Include sophisticated magazine-style elements:
+
+- Small uppercase category label at the top.
+- Edition number: EDITION 01.
+- Small subtitle describing the activity or environment.
+- Minimalist footer branding: VISUAL STUDIES.
+- Short editorial tagline: THE ART OF [MAIN SUBJECT].
+- Subtle technical coordinates or location details where appropriate.
+
+VISUAL STYLE: Luxury outdoor adventure magazine, contemporary editorial art direction, premium sports photography, cinematic natural lighting, rich realistic colors, crisp details, sophisticated typography, professional graphic design, and carefully balanced negative space.
+
+LAYOUT: Vertical 4:5 poster composition. Clean rectangular layout with subtle rounded corners, carefully aligned typography, strong visual hierarchy, and professional magazine-cover aesthetics.
+
+IMPORTANT: The design must feel like a professionally art-directed magazine cover, not a generic AI-generated image. Ensure all typography is correctly spelled, legible, properly integrated, and visually balanced. Avoid unnecessary text, logos, watermarks, and decorative clutter.
+```
+
+</details>
+
 <a id="nano-banana-graffiti-streetwear-portrait-poster"></a>
 ### 喷漆字体街头潮牌人像海报
 
@@ -5653,6 +5702,75 @@ Composition: vertical 4:5, full-body woman on the right, desert silhouette domin
 
 </details>
 
+<a id="gpt-image-streetwear-own-ground-poster"></a>
+### 街头海报，巨型 OWN GROUND 字体与仰拍球鞋
+
+<a href="https://x.com/MrLarus/status/2118009126718771429"><img src="../../previews/gpt-image-streetwear-own-ground-poster.jpg" width="360"></a>
+
+提示词是带方括号槽位的模板，可替换品牌、标题、姿势和配色，并直接点名印刷质感（网点、撕纸、复印颗粒、套印错位）。把仰拍的运动鞋透视与超大窄体字母组合成一个互动焦点，模型就能围绕它搭建整张版面。
+
+GPT Image 2.5 · 文生图 · 出处: [@MrLarus on X](https://x.com/MrLarus/status/2118009126718771429) · 116 赞，统计于 2026-11-10
+
+[`streetwear`](tags.md#tag-streetwear) [`typography`](tags.md#tag-typography) [`collage`](tags.md#tag-collage) [`editorial`](tags.md#tag-editorial)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a high-impact 9:16 vertical street culture editorial poster.
+
+Customize:
+- Brand: [BRAND NAME]
+- Headline: [MAIN TITLE]
+- Subject: [PERSON / OUTFIT / OBJECT]
+- Action & Perspective: [POSE / CAMERA ANGLE]
+- Visual Interaction: [TYPOGRAPHY OVERLAP / EXTREME PERSPECTIVE / MOTION COLLAGE / OBJECT STACKING]
+- Colors: [COLOR PALETTE]
+- Supporting Text: [TAGLINE / EVENT DETAILS]
+
+Visual Style
+
+Blend authentic streetwear photography, oversized experimental typography, 90s–2000s punk zine aesthetics, grunge editorial design, and analog print collage.
+
+Composition & Typography
+
+Build the composition around one striking interaction between the subject and giant letterforms. Use dramatic foreshortening, dynamic poses, layered cutouts, realistic occlusion, and bold asymmetrical layouts.
+
+Typography should dominate the poster with massive condensed sans-serif letters, tight spacing, intentional cropping, and strong visual hierarchy.
+
+Editorial Details & Texture
+
+Include meaningful supporting copy, small editorial labels, monochrome photo inserts, torn-paper elements, and structured information sections to create a rich, professional layout.
+
+Use bold contrasting colors, distressed ink, halftone dots, photocopy grain, subtle print misregistration, and tactile paper textures. Keep people and objects photorealistic, with natural skin, realistic fabrics, and accurate anatomy.
+
+Final Output
+
+A visually striking, information-rich street culture poster with authentic vintage print aesthetics and strong stop-scroll impact.
+
+Full-bleed 9:16 composition. Avoid generic layouts, glossy 3D effects, plastic skin, meaningless text, excessive clutter, and watermarks.
+```
+
+</details>
+
+<a id="nano-banana-beef-chow-fun-layers"></a>
+### 厨师颠锅把干炒河粉拆成六层标注
+
+<a href="https://x.com/lxfater/status/1993185897337024648"><img src="../../previews/nano-banana-beef-chow-fun-layers.jpg" width="360"></a>
+
+按出锅后的顺序列出各层，并先描述锅内完整成品，让模型生成清晰的分层爆炸图。每层配一组中英双语标签且与层数一一对应，使两种文字都清楚可读。
+
+Nano Banana Pro · 文生图 · 出处: [@lxfater on X](https://x.com/lxfater/status/1993185897337024648) · 115 赞，统计于 2026-11-10
+
+[`food`](tags.md#tag-food) [`chinese-food`](tags.md#tag-chinese-food) [`exploded-view`](tags.md#tag-exploded-view) [`infographic`](tags.md#tag-infographic)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+0) Think first / 先思考再输出 菜品核心组成识别（干炒河牛 / Beef Chow Fun）： 主食：河粉（宽扁米粉） 主蛋白：牛肉片（腌制滑炒） 关键调味：生抽/老抽、蚝油、糖、白胡椒、绍兴酒（或料酒） 典型配菜：豆芽、洋葱、葱段 油与香气：花生油/菜籽油、锅气（wok hei） 最终点缀：葱花、少量胡椒或香油提香 拆分实物层数 N（不含空白层）：典型炒粉结构 → N = 6 层 解构叙事顺序（从颠出来的顶端开始）： 香气/调味粉香 → 顶部点缀 → 牛肉主体 → 配菜脆爽层 → 河粉主食层 → 酱油油润与锅气油层 每层包含：食材名 + 颜色/形态 + 质感/状态 + 风味作用 锅具中的“整体成品”先出现 → 颠锅抛起后解构成悬浮层 最后输出“成品层（Final Bowl）” 画面叙事： 黑色背景 + 顶端金色标题 人物正面朝向观者，手中颠锅 锅里是完整成品，锅上方是分层悬浮 1) 顶端标题输入（金色字） 标题文字（中文/或双语）： 铁锤人独立开发终点：卖炒粉 标题视觉（固定要求）： 金色标题 / golden title text, metallic gold foil or brushed gold, subtle glow, high contrast on black 排版建议： 置于画面最顶端，居中或略偏上居中。 不压住人物头部与悬浮层。 可一行主标题 + 小一号副标题（可选）。 约束： 标题已提供，直接使用，不要擅自改写。 2) 画面与人物输入（黑背景 + 颠锅动作版） 背景设定： 黑色背景 / deep black studio background, matte subtle texture, high contrast spotlight 用户头像要求（必须先让用户提供）： 请用户上传清晰正脸头像（光线均匀、无遮挡、无夸张滤镜）。未提供头像时不要生成具体人物。 厨师化处理（基于用户头像｜必须像本人）： 严格保留用户五官比例、脸型、皮肤质感与年龄特征（不改变性别/种族/身份特征）。 禁止“换脸/重塑成陌生人”；相似度优先。 专业厨师造型：厨师帽、厨师服/围裙（干净、利落）。 可加入自然厨师道具，但不喧宾夺主。 表情与气质：自信、友好、专注。 灯光：人物顶侧柔光 + 轮廓光，使其从黑背景中清晰分离。 人物朝向与姿态（关键）： 人物正面朝向观者（面向“我”），双手操纵锅具/餐具做颠锅动作。 锅具/餐具指定（必填）： 【指定锅具/餐具名称：如炒锅 / wok】 材质与颜色：【铸铁/碳钢 + 深色金属哑光】 动作叙事（已修正的逻辑）： 锅内：完整成品（合体状态）清晰可见。 颠出瞬间：成品从锅里被抛起，立刻开始解构。 锅上方：Layer 1…6 依次悬浮展开，保持重力方向一致、间距清晰。 人物与锅在下方“托举/颠出”，分层在上方“展开叙事”。 3) 菜品基本信息 主题菜品（中文）：干炒河牛 主题菜品（English）：Dry-Fried Beef Chow Fun (Beef Chow Fun) 菜系/风味关键词（可选）：粤式 / wok hei / 咸鲜 / 酱香 / 油润 4) 锅内整体（Whole Dish in Pan / Base State｜固定层） 锅内整体名称：干炒河牛 / Beef Chow Fun 锅内整体描述： 宽河粉裹着深浅相间的酱油色泽，牛肉片油亮嫩滑，豆芽与洋葱夹杂其间，葱段点缀；整体呈现干香咸鲜、带明显锅气的合体成品。 受光与质感： 锅内可见油光与酱色反射，河粉边缘微焦，牛肉表面润泽，热气轻薄上升。 与动作关系： 成品正处于被颠起的瞬间，锅内仍完整，锅上方即将展开分层解构。 5) 实物分层（Layer 1…6｜从颠出来的顶端开始） 总实物层数：N = 6 Layer 1（香气/调味层｜Aroma & Seasoning） 食材：白胡椒粉、微量糖粉、少许炒香蒜末碎 颜色/形态：淡米白/浅金色粉末与细碎颗粒 质感/状态：干燥轻盈、颗粒细小、带热香 作用/风味（可选）：提香、增鲜、制造“干炒”的香气顶端冲击 备注（可选）：胡椒与蒜香形成第一波锅气嗅觉 Layer 2（顶部点缀层｜Top Garnish） 食材：葱花、葱段 颜色/形态：鲜绿色小段/细碎 质感/状态：清新脆嫩、轻微油润 作用/风味（可选）：清香提亮、对比深色酱香 备注（可选）：随热气微微卷曲悬浮 Layer 3（牛肉主体层｜Beef Protein Layer） 食材：滑炒牛肉片、少量酱色包裹 颜色/形态：深棕至红褐色薄片，边缘油亮 质感/状态：嫩滑多汁、微焦香 作用/风味（可选）：主蛋白鲜味来源、与酱香结合 备注（可选）：腌制含生抽、料酒、淀粉形成滑嫩口感 Layer 4（配菜脆爽层｜Vegetable Crunch Layer） 食材：豆芽、洋葱丝、韭黄（可选） 颜色/形态：豆芽乳白带黄头、洋葱半透明浅紫白丝 质感/状态：爽脆多汁、轻微热熟 作用/风味（可选）：增加清甜与脆感，对比主食柔软 备注（可选）：保持短炒，避免出水 Layer 5（河粉主食层｜Rice Noodle Base） 食材：宽河粉 颜色/形态：酱油棕色宽扁带状、部分边缘微焦 质感/状态：柔韧滑弹、干身不粘、带锅气焦香 作用/风味（可选）：承载酱香与油香的主结构 备注（可选）：高温快炒形成“wok hei” Layer 6（汤/酱/油层｜Sauce & Oil / Wok Hei Layer） 食材：生抽、老抽、蚝油混合酱汁、热油薄雾 颜色/形态：深琥珀至黑棕色油亮薄膜/雾化油点 质感/状态：油润浓香、薄而均匀附着 作用/风味（可选）：咸鲜酱香核心、带微甜收口与锅气 备注（可选）：液体层负责把所有实体层“合体”成最终味型 6) 成品层（Finished Dish / Final Bowl） 成品名称：干炒河牛 / Beef Chow Fun 组成描述： 河粉、牛肉、豆芽洋葱与酱油油香在高温锅气中合并成干香咸鲜的一体成品。 主体表现： 宽河粉被酱油与热油均匀包裹，表面油亮、局部微焦；牛肉片嵌入其间，嫩滑带酱香。 顶部点缀： 葱花与葱段落回顶部，形成绿色对比与清香尾韵。 热气/新鲜感（可选）： 现出锅的轻薄蒸汽与油香热雾可见。 容器归位： 成品最终落回指定炒锅/餐具中，形成“解构→合体”的定格。 7) 食物标签（Bilingual Labels｜Layer 对应 + 中英对齐） 胡椒蒜香顶味 / Pepper-Garlic Aroma Crown 对应图层：Layer 1 对齐要点：中英都指向“胡椒粉+蒜末碎”的顶端香气层。 青葱清香点缀 / Fresh Scallion Garnish 对应图层：Layer 2 对齐要点：同步概括“葱花/葱段”的绿色清香装饰层。 滑嫩酱香牛肉 / Tender Soy-Glazed Beef 对应图层：Layer 3 对齐要点：中英一致描述“嫩滑牛肉片+酱色包裹”的主蛋白。 豆芽洋葱脆爽 / Crunchy Bean Sprouts & Onion 对应图层：Layer 4 对齐要点：双语对齐“豆芽+洋葱”带来的脆爽配菜层。 宽河粉锅气主食 / Wok-Hei Flat Rice Noodles 对应图层：Layer 5 对齐要点：中英都强调“宽河粉”与“锅气焦香”主食层。 酱油油润核心 / Soy Sauce Oil Gloss 对应图层：Layer 6 对齐要点：一致指向“生抽老抽蚝油+热油”的酱/油融合层。 干炒河牛合体成品 / Final Beef Chow Fun 对应图层：Finished Dish 对齐要点：整体标签中英一致指向所有层合并后的最终成品。 8) 快速自检  N = 6 合理覆盖灵魂元素（河粉、牛肉、酱油油香、豆芽洋葱、葱、胡椒蒜香、锅气）  包含：主体、关键调味、典型配菜、汤/酱/油、终极点缀  已先写“锅内整体”，再写“颠出来的分层”  分层顺序符合“风味→点缀→主体→配菜→主食→液体酱油油层→合体”  成品层包含所有层的合并结果  标题为用户输入且金色字效果已明确  人物相似度教练检查（需用户头像后执行）： 是否严格保留用户脸型/五官/年龄？→ 待用户头像 相似度是否达到“像本人”？→ 待用户头像 若不够像：减少风格化/回退真实头像特征。  标签对齐检查： Layer 1…6 关键词已列，Labels 全覆盖 中英文语义一致、图层编号真实存在 无遗漏，无需补充
+```
+
+</details>
+
 <a id="gpt-image-architectural-passport-travel-poster"></a>
 ### 东京雷门彩铅建筑护照旅行海报
 
@@ -7048,176 +7166,6 @@ Multiple dishes, duplicate plates, mixed meals, inaccurate ingredients, excessiv
 
 FORMAT:
 3:4 vertical portrait, approximately 48% photographic food scene above and 52% illustrated ingredient-observation sheet below, crisp horizontal separation, generous negative space, premium publication quality, ultra-high definition.
-```
-
-</details>
-
-<a id="gpt-image-photo-over-paper-sculpture-editorial-poster"></a>
-### 上半部原图，下半部纸雕拼贴海报
-
-<a href="https://x.com/j_smeaton99/status/2111755839895699812"><img src="../../previews/gpt-image-photo-over-paper-sculpture-editorial-poster.jpg" width="360"></a>
-
-严格 3:4 画幅上下各占一半，上半保留原照片，下半把人物重做成多层卡纸剪贴。配色取自原图，并用排除清单和克制的文字排版让每张海报各有个性。
-
-GPT Image 2.5 · 上传图改图 · 出处: [@j_smeaton99 on X](https://x.com/j_smeaton99/status/2111755839895699812) · 64 赞，统计于 2026-10-28
-
-[`paper-cutout`](tags.md#tag-paper-cutout) [`editorial-poster`](tags.md#tag-editorial-poster) [`photo-to-collage`](tags.md#tag-photo-to-collage) [`pastel-palette`](tags.md#tag-pastel-palette) [`split-layout`](tags.md#tag-split-layout)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a collection of individual, high-end editorial art posters, producing one separate design for every uploaded photograph. Treat each image as its own creative project, with no image merging, repeated layouts, or borrowed design elements between posters.
-
-CANVAS & STRUCTURE: Use a strict 3:4 vertical format with a precise 50/50 horizontal division. The upper section must retain the original photograph, including the subject’s face, identity, pose, clothing, defining details, original color relationships, and natural lighting. Apply only restrained tonal refinement for a polished magazine finish. Do not reconstruct, reshape, or replace the photographed subject.
-
-PHOTOGRAPHIC UPPER PANEL: Preserve the authentic image as the visual anchor. Simplify distracting surroundings only where necessary, without altering the subject or compromising the photograph’s original character.
-
-LOWER PANEL — PAPER SCULPTURE: Reinterpret the subject’s defining features, silhouette, or visual story as a contemporary handcrafted paper composition. Build the artwork from bold cutouts, abstract contours, overlapping cardstock, and carefully arranged geometric fragments. Reduce unnecessary details while retaining recognizable visual connections to the original photograph. The result should feel like an art director’s handcrafted mixed-media experiment, not a cartoon illustration.
-
-LAYOUT & SPATIAL DESIGN: Create a striking contrast between a spacious, pale upper field and a confidently colored lower section extending edge to edge. Let the subject interact visually with the dividing line, creating a seamless relationship between photography and collage. Introduce an off-center shape, architectural color panel, or restrained graphic accent only when it strengthens the composition. Keep the arrangement intentional, airy, and visually distinctive.
-
-PALETTE & MATERIALS: Derive a small selection of complementary colors from the source image, then translate them into luminous, understated pastel tones. Combine matte paper surfaces, fine fibrous grain, slightly irregular cut edges, and delicate overlapping layers. Establish dimension through the arrangement of paper elements rather than pronounced shadows, gradients, or artificial depth.
-
-EDITORIAL FINISH: Use typography sparingly. If suitable, include a small art-publication title, discreet caption, or minimal typographic detail, positioned with precision. Avoid unnecessary text, decorative labels, and oversized lettering.
-
-ARTISTIC DIRECTION: Contemporary gallery poster meets independent art-journal design. Balance photographic authenticity with tactile paper craftsmanship, bold color blocking, thoughtful asymmetry, and generous breathing room. Every poster should have its own visual character, derived directly from its source photograph.
-
-STRICT EXCLUSIONS: No combined photographs, duplicated designs, distorted anatomy, altered facial identity, full-scene illustration, cartoon rendering, glossy 3D elements, excessive drop shadows, gradients, busy backgrounds, or mass-produced template aesthetics.
-
-FINAL OBJECTIVE: Produce a refined, collectible-quality editorial poster that feels individually art-directed. The original photograph remains authentic in the upper half, while the lower half translates its visual identity into a fresh, tactile, minimalist paper-art interpretation.
-```
-
-</details>
-
-<a id="nano-banana-maggi-2-minute-magic-billboard"></a>
-### Maggi 2 Minute Magic 日出街头面条广告牌
-
-<a href="https://x.com/Diplomeme/status/2109694043559223444"><img src="../../previews/nano-banana-maggi-2-minute-magic-billboard.jpg" width="360"></a>
-
-用编号规格书定义画幅、镜头、光线和前中后三层构图，并为标题预留干净的暗色区域，使文字不会遮挡面碗。背景中淡化的重复文字隐在叉子和蒸汽之后，增加纵深又不抢产品焦点。
-
-Nano Banana 2.1 · 文生图 · 出处: [@Diplomeme on X](https://x.com/Diplomeme/status/2109694043559223444) · 62 赞，统计于 2026-10-29
-
-[`typography`](tags.md#tag-typography) [`food-photography`](tags.md#tag-food-photography) [`billboard`](tags.md#tag-billboard) [`brand`](tags.md#tag-brand)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-AGENCY-GRADE CINEMATIC FMCG BILLBOARD CAMPAIGN
-FORMAT: Premium FMCG Key Visual / Outdoor Advertising Billboard
-ASPECT RATIO: 4:5 Portrait
-RESOLUTION: Ultra-high-resolution 8K, print-ready detail
-VISUAL STYLE: Hyper-realistic commercial food photography, premium Indian FMCG advertising, large-format editorial art direction
-CAMERA: ARRI Alexa Mini LF visual character, 35mm anamorphic perspective, controlled low-angle composition
-ART DIRECTION: Murphy AI
-CORE CREATIVE IDEA:
-Transform an ordinary bowl of Maggi into an irresistible moment of instant gratification. The visual should communicate speed, warmth, familiarity, and intense food craving in a single frame. The noodles are the hero; the typography becomes a monumental graphic element integrated into the photographic environment. The final result must feel like a professionally art-directed global billboard campaign, not a generic AI-generated food poster.
-01 — HERO SCENE & ENVIRONMENT
-A cinematic Indian roadside chai-and-snack stall at first light, captured immediately after a light drizzle. The setting feels authentic, atmospheric, and unexpectedly premium. A dark, rain-dampened stainless-steel counter occupies the foreground, reflecting the warm amber glow of the rising sun.
-At the exact center of the composition sits a generous ceramic bowl filled with freshly prepared Maggi Masala noodles. The noodles retain their unmistakable thin, curly structure, coated in a rich golden-yellow masala sheen with subtle orange seasoning, delicate oil highlights, and realistic moisture.
-A stainless-steel fork enters from the upper-right quadrant, lifting a substantial bundle of noodles in a dramatic upward arc. Individual strands separate naturally, forming intricate overlapping curves with physically believable weight, tension, and gravity. Some strands remain connected to the bowl, creating a continuous visual path that directs the eye from the food toward the headline.
-Thick, freshly released steam rises from the bowl in distinct translucent layers. Warm sunlight penetrates the vapor, creating luminous golden edges and subtle volumetric depth without obscuring the food.
-A few microscopic droplets of masala-coated moisture catch the backlight near the lifted noodles. Keep the action restrained and appetizing; no exaggerated splashes or artificial floating ingredients.
-02 — PRODUCT HERO & PACKAGING ACCURACY
-Position one upright, sealed Maggi Masala Noodles packet behind the bowl, slightly left of center. Place a second, partially opened packet beside it, with the uncooked noodle cake visibly emerging from its original packaging.
-The packaging must remain physically plausible, with realistic plastic-film reflections, natural folds, accurate packet proportions, and legible branding.
-Use authentic Maggi packaging references wherever supplied. Preserve the original red-and-yellow brand identity, logo proportions, product naming, and packaging artwork. Do not invent additional product claims, redesign the logo, or generate counterfeit-looking package text.
-The bowl remains the largest physical object in the foreground. The packets provide immediate brand recognition without competing with the noodles.
-Any distant stall objects must be secondary, softly defocused, and free of distracting signage.
-03 — COMPOSITION & VISUAL HIERARCHY
-Build the frame using a carefully controlled three-plane composition.
-FOREGROUND:
-The reflective counter, the bowl, individual noodle strands, and subtle moisture details. Razor-sharp food texture with premium commercial styling.
-MIDGROUND:
-The Maggi packaging, fork, and ascending noodle movement. The fork and noodle strands form the principal diagonal leading line.
-BACKGROUND:
-A quiet, early-morning Indian street with shuttered storefronts, indistinct architectural silhouettes, distant atmospheric haze, and restrained practical lights.
-Use a low camera position close to counter height. Keep the bowl visually substantial and the lifted noodles silhouetted against a brighter area of steam and sunrise.
-Reserve a clean, dark-to-warm gradient in the upper-middle and right portions of the frame for the primary headline. Typography must remain readable at billboard viewing distance.
-The composition should feel bold and asymmetrical, with deliberate negative space rather than excessive decorative elements.
-04 — PRIMARY BILLBOARD TYPOGRAPHY
-MAIN HEADLINE:
-“2 MINUTE
-MAGIC”
-Set in monumental, ultra-bold condensed sans-serif typography with custom optical spacing, tight kerning, and precise alignment.
-The headline occupies the central upper half of the poster, extending across the composition without covering the bowl or the critical noodle silhouette.
-Use warm ivory or pale butter-yellow lettering with selective deep-red accents. Introduce subtle dimensional separation through controlled shadowing and atmospheric integration, never through excessive bevels, extrusion, or artificial 3D effects.
-The numeral “2” should be the dominant typographic anchor. “MINUTE” creates a strong horizontal block, while “MAGIC” delivers the final visual impact.
-The typography should feel engineered for a high-visibility Times Square-scale advertising installation: immediate comprehension, powerful contrast, and unmistakable hierarchy.
-05 — SECONDARY TYPOGRAPHIC SYSTEM
-BACKGROUND TYPOGRAPHY:
-“HOT / FAST / TASTY / AGAIN”
-Repeat this phrase as oversized, low-opacity typographic layers receding into the background. Use progressively reduced contrast and carefully controlled perspective to create depth.
-The words must sit behind the physical subject, with portions naturally disappearing into the atmospheric haze. Maintain sufficient separation from the main headline.
-MID-LEFT SUPPORTING COPY:
-“NO WAIT.
-JUST CRAVE.”
-Set in bold condensed uppercase lettering, smaller than the headline but strong enough to read at a glance. Position it within a controlled dark region to preserve legibility.
-BOTTOM-LEFT PRODUCT DESCRIPTOR:
-“INSTANT NOODLES · MASALA FLAVOUR · 2026 EDITION”
-Use a clean, compact grotesk sans-serif with generous tracking, precise baseline alignment, and restrained visual weight.
-BOTTOM-RIGHT:
-“
-http://
-maggi.com”
-Set in small, clean, high-contrast typography with comfortable spacing from the frame edges.
-LEFT VERTICAL EDGE:
-“QUICK · COMFORT · FLAVOUR”
-Run vertically along the left margin as a narrow editorial detail. Maintain consistent letter spacing and a clear safe margin.
-BRAND SIGNATURE — TOP LEFT:
-Authentic Maggi logo, reproduced faithfully from the supplied reference.
-Directly beneath the logo, place:
-“MURPHY AI”
-Use small, thin, understated uppercase typography with generous tracking. Treat it as a discreet creative studio signature rather than a competing brand element.
-06 — LIGHTING & FOOD PHOTOGRAPHY
-PRIMARY LIGHT:
-Warm sunrise backlight entering from the rear-left, producing a golden halo around the steam and delicate highlights across the lifted noodles.
-FILL:
-Soft, neutral frontal fill sufficient to reveal the individual noodle strands, masala coating, and bowl rim without flattening the shadows.
-EDGE LIGHT:
-A narrow, naturally motivated highlight along the fork, selected noodle strands, and upper edge of the packaging.
-SURFACE LIGHT:
-Long, broken reflections across the wet stainless-steel counter, with realistic changes in brightness and texture.
-SHADOWS:
-Deep, controlled blacks in the background and underneath the bowl. Preserve detail in the dark areas.
-The image should exhibit the tonal richness of a premium food commercial, with bright appetizing highlights, dimensional shadows, and restrained HDR. Avoid oversaturation, excessive orange color grading, and artificial glow.
-07 — COLOR SCIENCE & MATERIAL DETAIL
-CORE PALETTE:
-• Signature Maggi red
-• Saturated brand yellow
-• Golden-orange sunrise
-• Warm ivory typography
-• Deep charcoal-black shadows
-• Neutral stainless-steel reflections
-FOOD TEXTURE:
-Individual noodle ridges must remain distinct. Show realistic masala adherence, delicate moisture, tiny oil highlights, and natural variations in strand thickness.
-STEAM:
-Translucent, volumetric, and irregular. It must behave like real hot food vapor, not smoke from a fire or digitally generated ribbons.
-PACKAGING:
-Realistic printed plastic film with accurate specular highlights and subtle surface creasing.
-COUNTER:
-Wet brushed stainless steel with directional grain, tiny water droplets, and broken reflections.
-All materials must respond consistently to the same light sources.
-08 — CAMERA & IMAGE CHARACTER
-Camera reference: ARRI Alexa Mini LF.
-Lens character: 35mm anamorphic-inspired perspective.
-Focus: Precise on the lifted noodles and bowl, with the packaging remaining sufficiently legible.
-Depth of field: Shallow but commercially controlled.
-Exposure: Protect the bright steam and packaging highlights while retaining rich shadow detail.
-Motion impression: Freeze the noodles at the most visually compelling instant, preserving strand separation and believable physical structure.
-Image finish: Natural microcontrast, realistic optical falloff, fine photographic texture, premium commercial color grading.
-The final image must resemble a real food campaign shot by a specialist commercial photography team, with typography and graphic design added through a disciplined professional art-direction process.
-09 — FINAL ART DIRECTION
-The finished billboard must communicate three things within the first second:
-1. The unmistakable craving appeal of freshly cooked Maggi.
-2. The immediate promise of speed through “2 MINUTE MAGIC.”
-3. The warmth and comfort of an everyday food moment transformed into a premium advertising image.
-Maintain a clear distinction between photography, product packaging, and typography while ensuring that all three operate as one cohesive visual system.
-The atmosphere may be cinematic, but the food must remain believable. The design may be monumental, but the layout must remain disciplined.
-No unnecessary props. No cluttered street scene. No random floating spice particles. No excessive steam obscuring the product. No distorted noodles. No warped fork. No duplicate packaging. No malformed lettering. No illegible logo. No plastic-looking food. No synthetic CGI aesthetic. No arbitrary typography floating across the frame.
-FINAL OUTPUT:
-A striking 4:5 portrait Maggi billboard key visual with authentic brand presence, extraordinary food texture, dramatic sunrise lighting, monumental editorial typography, premium FMCG art direction, and a subtle Murphy AI signature.
-The image should feel ready for a major outdoor advertising campaign: visually immediate, commercially polished, appetizing at first glance, and memorable from a distance.
 ```
 
 </details>

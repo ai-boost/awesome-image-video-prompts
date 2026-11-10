@@ -1,0 +1,37 @@
+id: seedance-dragon-medieval-market-flyover
+title:
+  en: Dragon flies over a medieval market street
+  zh: 巨龙掠过中世纪市集街道
+model: Seedance 2.5
+mode: text-to-video
+category: scifi-fantasy
+tags:
+- dragon
+- medieval
+- crowd-reaction
+- wide-shot
+source:
+  name: '@AIwithZeeshi on X'
+  url: https://x.com/AIwithZeeshi/status/2117835941050224975
+  credit: AIwithZeeshi
+  captured: '2026-11-10'
+  posted: '2026-11-04'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithZeeshi/status/2117835941050224975
+notes:
+  en: The prompt splits the clip into timed beats (0 to 5s, 5 to 10s, 10 to 15s) so the dragon's entry, the wind effects and the wide circling shot play in order. Spelling out the physical consequences of flight, such as gusts scattering leaves and frightening horses, gives the crowd reactions a visible cause.
+  zh: 提示词按时间段拆分镜头（0到5秒、5到10秒、10到15秒），让巨龙出现、风压效果和环绕远景按顺序呈现。写明飞行带来的物理后果，如阵风吹散落叶、惊动马匹，让人群的反应有可见的起因。
+prompt: |
+  Create a 15-second ultra-realistic cinematic fantasy film featuring a colossal dark-scaled dragon flying above a medieval European city.
+
+  0–5s: A bustling medieval street suddenly falls into chaos as birds flee and people look up at the sky. A massive dragon emerges from behind ancient castle towers.
+
+  5–10s: The dragon spreads its enormous wings and flies over the city, creating powerful gusts of wind that scatter leaves, shake market stalls, and frighten horses and people.
+
+  10–15s: The camera captures a breathtaking wide shot as the dragon circles the castle, its enormous shadow sweeping across the rooftops while terrified citizens watch below.
+
+  Realism requirements: Physically accurate dragon flight, realistic wing-generated turbulence, natural gravity, believable human reactions, consistent lighting, and smooth cinematic camera movement.
+
+  Negative prompt: No cartoon appearance, artificial CGI, distorted anatomy, extra limbs, floating objects, unnatural flight, inconsistent shadows, or abrupt transitions.
+
+  Final output: A photorealistic cinematic fantasy film with realistic physics and breathtaking visual storytelling.

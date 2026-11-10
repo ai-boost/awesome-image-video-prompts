@@ -1,0 +1,55 @@
+id: gpt-image-streetwear-own-ground-poster
+title:
+  en: Streetwear poster with giant OWN GROUND typography
+  zh: 街头海报，巨型 OWN GROUND 字体与仰拍球鞋
+model: GPT Image 2.5
+mode: text-to-image
+category: poster
+tags:
+- streetwear
+- typography
+- collage
+- editorial
+source:
+  name: '@MrLarus on X'
+  url: https://x.com/MrLarus/status/2118009126718771429
+  credit: Larus Canus
+  likes: 116
+  captured: '2026-11-10'
+  posted: '2026-10-27'
+notes:
+  en: The prompt is a template with bracketed slots for brand, headline, pose and palette, and it names the print textures outright (halftone, torn paper, photocopy grain, misregistration). Pairing one low sneaker perspective with oversized condensed letters gives the model a single interaction to build the whole layout around.
+  zh: 提示词是带方括号槽位的模板，可替换品牌、标题、姿势和配色，并直接点名印刷质感（网点、撕纸、复印颗粒、套印错位）。把仰拍的运动鞋透视与超大窄体字母组合成一个互动焦点，模型就能围绕它搭建整张版面。
+prompt: |
+  Create a high-impact 9:16 vertical street culture editorial poster.
+
+  Customize:
+  - Brand: [BRAND NAME]
+  - Headline: [MAIN TITLE]
+  - Subject: [PERSON / OUTFIT / OBJECT]
+  - Action & Perspective: [POSE / CAMERA ANGLE]
+  - Visual Interaction: [TYPOGRAPHY OVERLAP / EXTREME PERSPECTIVE / MOTION COLLAGE / OBJECT STACKING]
+  - Colors: [COLOR PALETTE]
+  - Supporting Text: [TAGLINE / EVENT DETAILS]
+
+  Visual Style
+
+  Blend authentic streetwear photography, oversized experimental typography, 90s–2000s punk zine aesthetics, grunge editorial design, and analog print collage.
+
+  Composition & Typography
+
+  Build the composition around one striking interaction between the subject and giant letterforms. Use dramatic foreshortening, dynamic poses, layered cutouts, realistic occlusion, and bold asymmetrical layouts.
+
+  Typography should dominate the poster with massive condensed sans-serif letters, tight spacing, intentional cropping, and strong visual hierarchy.
+
+  Editorial Details & Texture
+
+  Include meaningful supporting copy, small editorial labels, monochrome photo inserts, torn-paper elements, and structured information sections to create a rich, professional layout.
+
+  Use bold contrasting colors, distressed ink, halftone dots, photocopy grain, subtle print misregistration, and tactile paper textures. Keep people and objects photorealistic, with natural skin, realistic fabrics, and accurate anatomy.
+
+  Final Output
+
+  A visually striking, information-rich street culture poster with authentic vintage print aesthetics and strong stop-scroll impact.
+
+  Full-bleed 9:16 composition. Avoid generic layouts, glossy 3D effects, plastic skin, meaningless text, excessive clutter, and watermarks.

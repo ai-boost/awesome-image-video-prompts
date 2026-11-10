@@ -1,0 +1,31 @@
+id: gpt-image-2-6-elevator-mirror-selfie-pinstripe-pants
+title:
+  en: Elevator mirror selfie with raised phone and pinstripe pants
+  zh: 电梯镜子自拍，举高手机，穿条纹家居裤
+model: GPT Image 2.6
+mode: text-to-image
+category: realism
+tags:
+- mirror-selfie
+- elevator
+- smartphone-snapshot
+source:
+  name: '@simonecanciello on X'
+  url: https://x.com/simonecanciello/status/2120189335194706023
+  credit: Simone Canc
+  likes: 107
+  captured: '2026-11-10'
+  posted: '2026-11-10'
+notes:
+  en: Anchoring each surface and object to a position (navy panels on the left, wood on the right, doors in the centre) gives the model a fixed layout to follow. The closing block lists phone-snapshot traits to keep, such as grain, underexposure and ordinary white balance, and bans the cinematic, beauty-filter and HDR looks that make AI photos read as polished.
+  zh: 用位置锚定每个表面和物件（左侧深蓝墙板、右侧木墙、中间电梯门），给模型一个固定布局。结尾列出要保留的手机快照特征，如颗粒感、略欠曝和普通白平衡，并禁止电影感光线、美颜和HDR，避免画面像精修过的 AI 照片。
+prompt: |
+  generated in 15-sec, 2K resolution, 9:16:
+
+  “Create this image with maximum photographic accuracy.
+  Scene: A casual full-body mirror selfie inside a modern, dimly lit elevator. Dark navy geometric patterned wall panels on the left, warm brown wood-paneled walls on the right, black reflective elevator doors in the center, illuminated elevator buttons, horizontal silver handrails, and a light gray tiled floor.
+  Subject: A young woman with straight, shoulder-length dark brown hair parted in the middle, natural facial features, and minimal makeup. She is standing slightly angled toward the mirror, holding a black iPhone with a transparent protective case high above her head with her right arm fully extended. Her phone is positioned in the upper-left corner of the composition. She looks slightly downward at the mirror with puffed cheeks and a playful, serious expression. Her left arm hangs naturally beside her body.
+  Outfit: A fitted dark charcoal-gray short-sleeve athletic jersey with white side stripes, white sports logos and lettering across the chest, loose oversized gray pinstriped pajama-style pants, and simple black flip-flops. A thin black hair tie around her raised wrist.
+  Composition: Vertical 9:16 smartphone photo, full-body framing from a slightly elevated mirror-selfie perspective. Subject positioned slightly left of center, raised arm creating a strong diagonal, legs relaxed and slightly apart. Preserve the exact pose, body proportions, camera angle, perspective, outfit, background layout, and framing of the reference.
+  Photography: Authentic unedited iPhone mirror selfie. Warm overhead elevator lighting mixed with cool ambient reflections, slightly underexposed shadows, realistic skin texture, subtle smartphone grain, natural reflections, imperfect sharpness, and ordinary indoor white balance.
+  CRITICAL: The result must look like a real spontaneous smartphone snapshot, NOT an AI-generated photograph. No cinematic lighting, no professional photography, no beauty filters, no skin smoothing, no HDR, no artificial sharpness, no color grading, no stylization. Preserve the original reference's realistic colors, exposure, shadows, visual imperfections, and casual everyday aesthetic.”

@@ -1,0 +1,72 @@
+id: seedance-tsunami-rescue-quake-village
+title:
+  en: Woman runs through quake-shaken fishing village home
+  zh: 女子穿过地震中摇晃的渔村民居
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- disaster
+- rescue
+- tsunami
+- handheld-camera
+source:
+  name: '@Aqsahere_ on X'
+  url: https://x.com/Aqsahere_/status/2118187360525414673
+  credit: Aqsahere_
+  captured: '2026-11-10'
+  posted: '2026-11-05'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Aqsahere_/status/2118187360525414673
+notes:
+  en: A numbered beat list with a timestamp for each moment fixes the shot order across the 30 second clip, and a continuity block that repeats the character, outfit, boat and location keeps them the same from cut to cut. A handheld documentary camera and an explicit list of sounds like sirens, wind and engine set the realism, with music and subtitles banned.
+  zh: 用编号的分镜列表，逐段标注时间点，为30秒视频固定镜头顺序；连续性段落重复人物、服装、船只和地点，保证各镜头一致。手持纪实镜头加上明确的声音清单（警报、风声、引擎声），营造真实感，并禁止配乐和字幕。
+prompt: |
+  THE FINAL WAVE | A DESPERATE TSUNAMI RESCUE
+
+  Create a 30-second ultra-realistic live-action cinematic disaster video set in a Japanese coastal fishing village. A massive tsunami approaches after a powerful earthquake. A brave young woman risks her life to rescue stranded people.
+
+  CHARACTER & LOCATION:
+  A young Japanese woman with dark hair in a ponytail, wearing a dark waterproof jacket, black trousers and rubber boots. Three adult fishermen, one small child and one elderly woman. Keep all characters, outfits, faces, rescue boat and village consistent.
+
+  EXACT SCENE SEQUENCE:
+
+  1. EARTHQUAKE (0–3s):
+  The village shakes violently. Objects fall, houses rattle and villagers rush outside.
+
+  2. TSUNAMI WARNING (3–5s):
+  Emergency sirens sound. The girl looks towards the ocean as the water suddenly retreats from the harbor.
+
+  3. FISHERMEN IN DANGER (5–8s):
+  She spots three fishermen stranded near a damaged fishing boat, desperately waving for help.
+
+  4. RESCUE BOAT (8–11s):
+  She runs to a small motorboat, unties it and starts the engine.
+
+  5. ROUGH SEA (11–15s):
+  She navigates through violent waves, avoiding floating debris as water splashes over the boat.
+
+  6. FISHERMEN RESCUE (15–19s):
+  She reaches the damaged boat and helps all three fishermen climb safely aboard, catching one as he nearly slips.
+
+  7. CHILD AND ELDERLY WOMAN (19–22s):
+  She spots a frightened child and elderly woman trapped on a flooded rooftop and steers towards them.
+
+  8. MASSIVE TSUNAMI (22–26s):
+  A gigantic dark wave appears behind the harbor. The fishermen help bring the child and elderly woman aboard from a reachable flooded platform.
+
+  9. ESCAPE (26–28s):
+  The boat reaches elevated ground. She helps everyone climb to safety as floodwater crashes through the harbor.
+
+  10. FINAL SHOT (28–30s):
+  The rescued child holds her hand. She watches in shock as the massive wave engulfs the distant village.
+
+  VISUAL STYLE:
+  Ultra-photorealistic live-action disaster film, realistic tsunami physics, powerful water movement, natural handheld documentary camera, stormy daylight, wet clothing, emotional expressions and believable boat movement.
+
+  Natural audio: earthquake rumbling, emergency sirens, wind, engine, shouting and crashing waves. No music, subtitles or voiceover.
+
+  STRICT CONTINUITY:
+  Same characters, outfits, boat and location throughout. Show every rescue physically, with logical movement between scenes. No teleportation, superhero powers, cartoon water or unrealistic CGI.
+
+  The final video must feel like real disaster footage, full of tension, urgency and emotion.

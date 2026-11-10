@@ -1,0 +1,25 @@
+id: seedance-schoolgirl-purple-lightning-corridor-fight
+title:
+  en: Schoolgirl awakens purple lightning and fights corridor bullies
+  zh: 女高中生觉醒紫电反击走廊霸凌者
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- live-action
+- martial-arts
+- supernatural
+- school
+source:
+  name: '@ItsMaryamAi on X'
+  url: https://x.com/ItsMaryamAi/status/2117077642344284286
+  credit: ItsMaryamAi
+  captured: '2026-11-10'
+  posted: '2026-11-02'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/ItsMaryamAi/status/2117077642344284286
+notes:
+  en: The 30-second scene is split into ordered beats (bullying, awakening, fight, collapse), each with its own camera and lighting cues. The grade is set as a contrast of teal-green school tones against vivid violet, so the energy effects stand out from the set.
+  zh: 将 30 秒场景按顺序拆成几段（霸凌、觉醒、战斗、倒地），每段都配有独立的镜头和光线要求。调色写明青绿校园色调与鲜紫的对比，让紫色能量特效在场景中更突出。
+prompt: "VIDEO PROMPT:Cinematic live-action, 30-second supernatural school action scene. \nA Japanese high school girl (cream knit sweater, navy bow tie, \nplaid pleated skirt, black knee-high socks, messy shoulder-length \ndark hair) is thrown to the floor of an empty school corridor by \nbullies. She rises with a furious, awakened expression — close-up \nof her eyes and a wild, defiant grin as crackling purple lightning \nand dark violet smoke erupt around her body.\n\nShe then fights a group of male students in black gakuran-style \nuniforms inside a bright corridor with green-and-white walls, \nwooden doors, lockers and large windows. Fast, powerful martial-arts \ncombat: dodging punches, counter strikes, leaping off lockers, \nflying kicks. Each hit releases purple energy bursts and dust \nparticles; the floor cracks beneath impacts, papers scatter in \nthe air, defeated bullies lie sprawled in the background.\n\nCamera: handheld, dynamic tracking shots, quick whip pans, dramatic \n\
+  low angles, slow-motion on impacts, extreme close-ups on her face. \nLighting: natural overcast daylight through windows, with glowing \npurple energy as the main accent. Color grade: slightly desaturated, \nhigh contrast, teal-green school tones against vivid violet. \nEnding: she collapses exhausted on the cracked floor among \nscattered papers. \nStyle: photorealistic, anime-inspired live-action, 24fps, 16:9, \nhigh detail, no text, no subtitles\n"

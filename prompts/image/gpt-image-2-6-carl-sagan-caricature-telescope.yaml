@@ -1,0 +1,50 @@
+id: gpt-image-2-6-carl-sagan-caricature-telescope
+title:
+  en: 3D caricature in corduroy blazer beside telescope under stars
+  zh: 身穿灯芯绒外套站在望远镜旁的3D漫画人像
+model: GPT Image 2.6
+mode: image-edit
+category: character
+tags:
+- caricature
+- 3d-render
+- portrait
+- space
+source:
+  name: '@SethCritchley on X'
+  url: https://x.com/SethCritchley/status/2119779478654312642
+  credit: Super Producer Seth
+  likes: 41
+  captured: '2026-11-10'
+  posted: '2026-11-02'
+notes:
+  en: The uploaded photo carries the identity while the labeled blocks (CHARACTER, WARDROBE, POSE, RENDERING, COMPOSITION) set the caricature rules. The explicit 2:3 framing with a full body view and a closing NOT list keep the result from drifting into cartoon or toy territory.
+  zh: 上传的参考照片保留人物身份，而 CHARACTER、WARDROBE、POSE、RENDERING、COMPOSITION 等分段规定了夸张比例、服装和构图。结尾明确的 2:3 全身构图要求和 NOT 排除列表，防止画面滑向卡通或玩具感。
+prompt: |
+  Using the uploaded reference image, transform ANY person, character, avatar, animal, or creature into a spectacular, hyperrealistic 3D CARL SAGAN-inspired caricature. Preserve the subject’s unmistakable identity, facial features, eye color, facial hair, and distinctive characteristics while incorporating Carl Sagan’s iconic appearance and personality.
+
+  CHARACTER: Enormous oversized head, exaggerated yet recognizable facial features, expressive eyebrows, prominent nose, warm intelligent eyes, enormous forehead, humorous proportions, compact body, and slightly oversized hands and feet. Iconic thick, dark, wavy 1970s side-parted Carl Sagan hairstyle, naturally adapted to the subject. Curious, enthusiastic, educational expression with a charming, knowing smile, radiating wonder and fascination with the cosmos.
+
+  WARDROBE: Classic, cliché 1970s Carl Sagan astronomy-professor outfit: brown corduroy blazer with elbow patches, cream turtleneck sweater, tailored earth-tone trousers, leather belt, and vintage brown dress shoes. Authentic retro academic elegance.
+
+  POSE & SETTING: Full-body, standing beside a magnificent vintage astronomical telescope mounted on a sturdy tripod, one hand resting on the telescope, the other gesturing enthusiastically toward the heavens. Spectacular star-filled night sky, glowing Milky Way, distant galaxies, colorful nebulae, and subtle cosmic illumination. Whimsical, inspiring, cinematic astronomy setting.
+
+  RENDERING: Ultra-hyperrealistic 3D caricature, authentic skin pores, fine wrinkles, natural blemishes, subsurface scattering, lifelike skin shaders, realistic reflective eyes, individually detailed hair strands, high-resolution PBR textures, physically accurate materials, cinematic studio-quality lighting, realistic shadows, atmospheric depth, Octane Render, 8K quality, photorealistic CGI.
+
+  COMPOSITION: Vertical 2:3 portrait, full body visible from head to shoes, telescope fully visible, slightly low-angle cinematic hero shot, sharp character focus, breathtaking cosmic background. Exaggerated caricature proportions without sacrificing the original subject’s recognizable identity. NOT cartoon, illustration, plastic, or toy-like.
+
+  🔄 Tweak it & make it yours
+  🎨 Quote this post with your results.
+  🔁 Share it so more artists can join.
+  🤝 Make new creative friends.
+  ❤️ Support each other's art.
+
+  GPT Image 2.6 image made on
+  @AIMemeCreator
+   🐸 Use my code SUPERPRODUCERSETH for 50 free credits
+  https://
+  magic.createa.meme/?ref=SUPERPROD
+  UCERSETH
+  …
+
+  Happy Victory Monday 🙌🏻

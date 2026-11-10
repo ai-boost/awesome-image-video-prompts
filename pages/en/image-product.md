@@ -1,6 +1,6 @@
 # Product shots and e-commerce
 
-[Back to the list](../../README.md) · All 78 entries
+[Back to the list](../../README.md) · All 79 entries
 
 <a id="gpt-image-giant-pepsi-can-seated-model-ad"></a>
 ### Woman leaning on giant Pepsi can ad
@@ -1547,6 +1547,70 @@ GPT Image 2.6 · Text-to-image · Source: [@GeekCatX on X](https://x.com/GeekCat
 不让物件重叠、碰撞、堆叠或横向移位。
 不让文字闪烁、变形、位移或重新生成。
 不改变相机位置、背景亮度或整体色调。
+```
+
+</details>
+
+<a id="nano-banana-manga-creators-toy-boxes-grid"></a>
+### Four manga artists as toy figures, creations escaping boxes
+
+<a href="https://x.com/Gdgtify/status/2112968409235292580"><img src="../../previews/nano-banana-manga-creators-toy-boxes-grid.jpg" width="360"></a>
+
+The prompt sets out five numbered elements (figure at the craft station, matching box art, escaping creations, orbiting artifacts, studio light) and a forbidden list of failure modes, so each cell is built element by element. The explicit rule that box art must match the figure keeps each creator recognisable.
+
+Nano Banana 2.1 · Text-to-image · Source: [@Gdgtify on X](https://x.com/Gdgtify/status/2112968409235292580) · 11 likes on 2026-11-10
+
+[`manga`](tags.md#tag-manga) [`figurine`](tags.md#tag-figurine) [`grid-layout`](tags.md#tag-grid-layout) [`fan-art`](tags.md#tag-fan-art)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+INPUT = [VARIABLE_OBJECT_OR_MATERIAL]
+
+INFER:
+Determine a defensible lifecycle for the input:
+its origin, formation, use, transformation, and likely aftermath.
+
+Choose one coherent pathway.
+Do not combine incompatible branches into a false sequence.
+
+TRANSFORMATION:
+TEMPORAL_SEQUENCE(INPUT) → CONTINUOUS_PHYSICAL_SPECIMEN
+
+[MAPPING_CONSTRAINTS]
+
+Create one uninterrupted specimen in which successive
+regions embody successive lifecycle states.
+
+Each state must physically transition into the next.
+No panels, separate miniatures, timeline arrows, floating
+vignettes, or repeated copies of the object.
+
+Infer a continuous path suited to the subject.
+Do not default to a straight strip or circular loop.
+
+At every transition, expose the relevant change in structure:
+what is added, removed, reorganized, consumed, or left behind.
+
+Respect material identity and plausible transformation.
+Do not imply that the arrangement represents real timescale,
+quantity, or mass conservation unless it actually does.
+
+[VISUAL_EXECUTION]
+
+Photograph the specimen as an extraordinary material study.
+
+Choose a viewpoint that reveals the full progression
+while allowing close inspection of transitional regions.
+
+Infer lighting from the surface properties.
+Use a restrained setting that makes continuity unmistakable.
+
+[VERIFY]
+
+The eye can follow one unbroken physical path.
+Each region has a distinct and defensible lifecycle role.
+The transitions communicate the story without captions.
 ```
 
 </details>

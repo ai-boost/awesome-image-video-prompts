@@ -1,6 +1,6 @@
 # Logos, ads and packaging
 
-[Back to the list](../../README.md) · All 27 entries
+[Back to the list](../../README.md) · All 28 entries
 
 <a id="nano-banana-inflated-3d-logotype-spikes"></a>
 ### Inflated 3D logotypes with spikes in one colour
@@ -460,6 +460,35 @@ Render with:
 The final result should feel like an actual luxury industrial object photographed in a professional studio: restrained, tactile, architectural, cinematic, precisely engineered and art-directed down to the microscopic material transitions.
 
 Do not add extra text, captions, labels, particles, smoke, pedestal, floor, visible support, cast shadow, glow, neon light, lens flare, scenery or surrounding objects.
+```
+
+</details>
+
+<a id="nano-banana-valentine-brand-heart-ads"></a>
+### Four brand Valentine ads with products shaped as hearts
+
+<a href="https://x.com/TechieBySA/status/2022269227286102243"><img src="../../previews/nano-banana-valentine-brand-heart-ads.jpg" width="360"></a>
+
+A fill-in template fixes the layout order (logo at top, product heart in the centre, tagline at the bottom) and names the brand colour as the backdrop, so every brand gets the same structure. Stating the 4:5 ratio, photorealistic 3D rendering and studio lighting gives the premium product shot look.
+
+Nano Banana Pro · Text-to-image · Source: [@TechieBySA on X](https://x.com/TechieBySA/status/2022269227286102243) · 553 likes on 2026-11-10
+
+[`valentines-day`](tags.md#tag-valentines-day) [`product-ad`](tags.md#tag-product-ad) [`heart-shape`](tags.md#tag-heart-shape) [`studio-lighting`](tags.md#tag-studio-lighting)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+🌹Valentine’s Special 30% Off with the latest models➡️
+http://
+supawork.ai/affiliate-prog
+ram
+…
+
+Idea by Jadkassis on Instagram🔥
+
+Simply replace [PRODUCT & [BRAND]:✨
+
+“Create a professional Valentine’s Day advertisement for [BRAND] in 4:5 aspect ratio. The background should use the signature brand color as a clean, vibrant backdrop. Arrange multiple [PRODUCT] items creatively to form a perfect heart shape in the center of the composition. The products should appear realistic and three-dimensional with professional lighting and soft shadows, clearly displaying logos. Add romantic elements like rose petals or flowers floating around the heart. Position the logo at the top center of the image. At the bottom, include a romantic tagline in bold, modern typography that incorporates the brand’s messaging or plays on the product name. Use photorealistic 3D rendering style with studio lighting and premium advertising quality. Maintain a clean, modern aesthetic that matches the visual identity with significant breathing room around all elements.​​​​​​​​​​​​​​​​“
 ```
 
 </details>

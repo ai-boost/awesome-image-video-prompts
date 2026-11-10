@@ -1,6 +1,6 @@
 # 科幻与奇幻
 
-[返回目录](../../README_zh.md) · 全部 94 条
+[返回目录](../../README_zh.md) · 全部 97 条
 
 <a id="seedance-lab-containment-breach"></a>
 ### 实验室收容失效，科幻恐怖
@@ -1804,6 +1804,30 @@ A dark figure leaps from a skyscraper ledge and free-falls through a neon-drench
 
 </details>
 
+<a id="seedance-cybertruck-car-lifts-off-traffic"></a>
+### 白色未来感汽车从城市车流中垂直升空
+
+<a href="https://x.com/noorlewisx/status/2118217361899782368"><img src="../../previews/seedance-cybertruck-car-lifts-off-traffic.jpg" width="360"></a>
+
+按时间段分镜，把13秒拆成几个镜头，每个镜头都重复描述车辆和人物，使两者在切换中保持一致。引号内的车牌文字为模型提供了可跨镜头保持的具体文字目标。
+
+Seedance 2.5 · 文生视频 · 出处: [@noorlewisx on X](https://x.com/noorlewisx/status/2118217361899782368) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`flying-car`](tags.md#tag-flying-car) [`city-traffic`](tags.md#tag-city-traffic) [`smoke-trail`](tags.md#tag-smoke-trail)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A cinematic short video, realistic AI-generated style, 13 seconds.
+Scene 1 (0-2s): Rear view of a sleek white angular futuristic electric car (Cybertruck-inspired, sharp geometric design, black roof, thin taillights) stuck in heavy city traffic on a tree-lined European street. Blue city bus on the left, ornate old buildings, green trees, overcast sky. License plate clearly reads “GI-777-GI”. Traffic is slow, cars packed.
+Scene 2 (2-5s): Interior shot of the same car. A very muscular Black man with long wavy black hair, wearing a black tank top, black cargo shorts, black baseball cap, over-ear headphones, silver chain and bracelets. He is sitting in the white leather driver’s seat, looking at his phone with a calm expression. A paper coffee cup is in the cup holder. Steering wheel is white. Daylight coming from outside, city buildings visible through the window.
+Scene 3 (5-8s): Cut back to exterior. The same white futuristic car suddenly accelerates hard, then lifts off the road vertically like a rocket. Massive thick white smoke trails shoot downward from the rear. The car shoots high into the sky, does a smooth loop in the air while leaving a big circular smoke ring, then continues flying. Background shows the city street below with other cars and the blue bus.
+Scene 4 (8-13s): Back to interior while the car is flying. The muscular man is now laughing and enjoying the ride. He raises one hand to adjust his cap, other hand on the steering wheel. He is holding a roasted chicken leg in one hand. He looks happy and relaxed, body slightly bouncing from the flight. Bright sky visible through the windows.
+Style: Hyper-realistic, cinematic lighting, smooth camera cuts, high detail, slight motion blur on fast movements, natural city atmosphere, no text overlays.
+```
+
+</details>
+
 <a id="seedance-dark-fantasy-sword-ritual-cathedral"></a>
 ### 受伤女子在哥特大教堂石地上撑起身体
 
@@ -1927,6 +1951,37 @@ Camera: Smooth tracking shots, wide establishing shots, extreme close-ups, slow 
 Audio: Natural kitchen ambience, crackling fire, subtle dragon breathing and growls, sizzling meat, and cinematic fantasy background music.
 
 Format: 16:9 widescreen, 30 seconds, 24 FPS, consistent character design, consistent dragon appearance, no text, no subtitles, no logos, no watermarks.
+```
+
+</details>
+
+<a id="seedance-dragon-medieval-market-flyover"></a>
+### 巨龙掠过中世纪市集街道
+
+<a href="https://x.com/AIwithZeeshi/status/2117835941050224975"><img src="../../previews/seedance-dragon-medieval-market-flyover.jpg" width="360"></a>
+
+提示词按时间段拆分镜头（0到5秒、5到10秒、10到15秒），让巨龙出现、风压效果和环绕远景按顺序呈现。写明飞行带来的物理后果，如阵风吹散落叶、惊动马匹，让人群的反应有可见的起因。
+
+Seedance 2.5 · 文生视频 · 出处: [@AIwithZeeshi on X](https://x.com/AIwithZeeshi/status/2117835941050224975) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`dragon`](tags.md#tag-dragon) [`medieval`](tags.md#tag-medieval) [`crowd-reaction`](tags.md#tag-crowd-reaction) [`wide-shot`](tags.md#tag-wide-shot)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 15-second ultra-realistic cinematic fantasy film featuring a colossal dark-scaled dragon flying above a medieval European city.
+
+0–5s: A bustling medieval street suddenly falls into chaos as birds flee and people look up at the sky. A massive dragon emerges from behind ancient castle towers.
+
+5–10s: The dragon spreads its enormous wings and flies over the city, creating powerful gusts of wind that scatter leaves, shake market stalls, and frighten horses and people.
+
+10–15s: The camera captures a breathtaking wide shot as the dragon circles the castle, its enormous shadow sweeping across the rooftops while terrified citizens watch below.
+
+Realism requirements: Physically accurate dragon flight, realistic wing-generated turbulence, natural gravity, believable human reactions, consistent lighting, and smooth cinematic camera movement.
+
+Negative prompt: No cartoon appearance, artificial CGI, distorted anatomy, extra limbs, floating objects, unnatural flight, inconsistent shadows, or abrupt transitions.
+
+Final output: A photorealistic cinematic fantasy film with realistic physics and breathtaking visual storytelling.
 ```
 
 </details>
@@ -2370,6 +2425,33 @@ Create a  cinematic dark-fantasy transformation in 16:9. A realistic adult man w
 12–15s: Dramatic full-body wide shot. The werewolf stands in fog, breathing heavily, fur moving in the wind, then slowly raises its head toward the moon.
 
 Style: ultra-realistic live-action, cinematic VFX, volumetric moonlight, deep shadows, realistic fur, natural anatomy, depth of field, subtle motion blur and film grain. Sound: forest wind, heavy breathing, low bass rumble, transformation sounds and deep growl. Exactly ONE man transforms into ONE werewolf. No duplicates, extra creatures, extra limbs, cartoon look or deformed anatomy.
+```
+
+</details>
+
+<a id="seedance-medieval-girl-dragon-pancakes"></a>
+### 中世纪少女与绿龙在庭院中煎薄饼
+
+<a href="https://x.com/Arzoo12sh/status/2117089440489431112"><img src="../../previews/seedance-medieval-girl-dragon-pancakes.jpg" width="360"></a>
+
+提示词按顺序写出分镜（近景煎饼、空中翻饼、品尝、龙低头），并用写实与金色黄昏等风格词锁定画面，使人物在各镜头中保持一致。对龙的翠绿鳞片和发光金眼做细致描述，让角色外观更稳定。
+
+Seedance 2.5 · 文生视频 · 出处: [@Arzoo12sh on X](https://x.com/Arzoo12sh/status/2117089440489431112) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`fantasy`](tags.md#tag-fantasy) [`dragon`](tags.md#tag-dragon) [`food`](tags.md#tag-food) [`golden`](tags.md#tag-golden)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a stunning 30-second cinematic fantasy video in ultra-realistic 4K quality.
+A beautiful young woman wearing a traditional medieval dress is preparing pancakes in a charming medieval village courtyard. A giant friendly green dragon with detailed emerald scales, glowing golden eyes, and expressive facial features stands beside her, curiously watching her cook.
+The woman prepares fresh pancakes on a hot outdoor cooking pan. Show close-up shots of the pancakes cooking, golden sunlight shining across the courtyard, and a pancake playfully flying through the air. She stacks the freshly cooked pancakes on a beautiful vintage plate and tastes one while the friendly dragon watches with excitement.
+In the final scene, the dragon happily lowers its enormous head toward the food while the woman smiles.
+Visual style: Photorealistic fantasy, cinematic storytelling, warm golden-hour lighting, detailed medieval environment, realistic character movements, expressive dragon animation, smooth camera transitions, professional filmmaking, shallow depth of field.
+Duration: 30 seconds.
+Aspect ratio: 9:16 vertical.
+Quality: 4K ultra-realistic.
+No text, no subtitles, no watermark.
 ```
 
 </details>

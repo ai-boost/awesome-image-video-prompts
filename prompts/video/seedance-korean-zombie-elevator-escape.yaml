@@ -1,0 +1,52 @@
+id: seedance-korean-zombie-elevator-escape
+title:
+  en: Korean woman escapes zombies in apartment elevator
+  zh: 韩国女子在公寓电梯中躲避丧尸
+model: Seedance 2.5
+mode: reference-to-video
+category: action
+tags:
+- zombie
+- horror
+- korean
+- chase
+source:
+  name: '@QAiStudio on X'
+  url: https://x.com/QAiStudio/status/2117256134616818159
+  credit: QAiStudio
+  captured: '2026-11-10'
+  posted: '2026-11-02'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/QAiStudio/status/2117256134616818159
+notes:
+  en: A numbered 10-shot timeline with second markers and a fixed location list keeps the sequence spatially continuous, and a reference image locks the heroine's face and outfit. Audio cues are listed separately so the horror sound design is part of the generation.
+  zh: 用带秒数的十段编号时间轴和固定场景清单保证空间连续，参考图锁定主角的脸和服装。音效单独列出，让恐怖氛围成为生成内容的一部分。
+prompt: |
+  Create a 30-second ultra-photorealistic Korean zombie survival thriller, cinematic live-action style.
+
+  CHARACTER CONSISTENCY: Young adult Korean woman, identical face, hairstyle, outfit, and body proportions to the reference image throughout. Expression evolves from terrified to desperate, determined, then shaken relief.
+
+  ZOMBIES: Aggressive, realistic human-like zombies with pale dirty skin, sunken eyes, damaged faces, messy hair, and torn everyday clothing. Practical horror makeup, no excessive gore.
+
+  LOCATION: One consistent dim Korean apartment tower: concrete stairwell, narrow numbered-door corridor, flickering greenish fluorescent lights, metal elevator with glowing floor indicator, CLOSE DOOR button, and pulsing red emergency light.
+
+  30-SECOND SEQUENCE (10 SHOTS):
+
+  1. 0–3s: Close-up, woman sprints down stairs as zombie hands reach from above.
+  2. 3–6s: She bursts into corridor, shoves an attacking zombie into the wall.
+  3. 6–9s: Rear tracking shot as she races toward the elevator, zombies emerging behind her.
+  4. 9–12s: She repeatedly presses elevator call button; horde approaches.
+  5. 12–15s: Doors open; she dives inside as zombies charge.
+  6. 15–18s: Extreme close-up, repeatedly jams CLOSE DOOR button as doors begin shutting.
+  7. 18–21s: Zombie arms force through the gap; she kicks them away.
+  8. 21–24s: Doors slam shut; she trembles as zombies pound outside.
+  9. 24–27s: Elevator descends; she collapses against the wall, gasping.
+  10. 27–30s: Lobby doors open, revealing motionless shadowy figures. One slowly turns its head. Extreme close-up of her terrified eyes. CUT TO BLACK.
+
+  CINEMATOGRAPHY: Handheld chase tracking, dynamic wide shots, extreme close-ups, low-angle elevator struggle, realistic movement, natural motion blur, cinematic green-gray lighting, practical VFX, consistent spatial continuity.
+
+  AUDIO: Heavy breathing, rapid footsteps, zombie snarls, fluorescent buzz, elevator chime, metallic scraping, pounding doors, elevator hum, rising horror drone. No narration.
+
+  NEGATIVE: No location changes, rooftop, outdoor scenes, phones, weapons, superhero powers, fantasy effects, extra limbs, duplicated heroine, identity or outfit changes, cartoon/anime, excessive gore, subtitles, random text, or watermark.
+
+  OUTPUT: One coherent, suspenseful, photorealistic 30-second Korean zombie-thriller sequence with seamless character and environment consistency.

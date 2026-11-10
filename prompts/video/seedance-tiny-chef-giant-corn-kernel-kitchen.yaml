@@ -1,0 +1,52 @@
+id: seedance-tiny-chef-giant-corn-kernel-kitchen
+title:
+  en: Tiny 2D chef pushes giant corn kernel across kitchen
+  zh: 小小手绘厨师推动巨大玉米粒穿过厨房
+model: Seedance 2.5
+mode: text-to-video
+category: vfx
+tags:
+- mixed-reality
+- food
+- stop-motion
+source:
+  name: '@AIwithSynthia on X'
+  url: https://x.com/AIwithSynthia/status/2105619247393321169
+  credit: AIwithSynthia
+  captured: '2026-11-10'
+  posted: '2026-10-01'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithSynthia/status/2105619247393321169
+notes:
+  en: Each beat is a concrete action paired with a camera call, so a long multi-shot sequence stays readable for the model. Grouping the sound cues in one closing list and contrasting the 2D character with photoreal oversized props sets up the mixed-reality scale gag.
+  zh: 每段视觉节拍都写成一句具体动作加一个镜头指令，让多镜头长提示词的分镜清晰可读。把音效集中列在末尾，并让手绘小人物对照写实的超大厨房道具，立起混合现实的比例反差。
+prompt: |
+  A miniature hand-drawn 2D animated girl with curly black hair, a pink apron, yellow sneakers, and a tiny wooden spatula, making a giant bowl of popcorn inside a realistic full-sized kitchen.
+
+  Style
+  Mixed-reality hybrid animation combining playful 2D hand-drawn doodle character art with a photorealistic live-action kitchen. Whimsical stop-motion physics, expressive line animation, exaggerated scale, warm cinematic lighting, playful food-preparation energy, and detailed cooking sound effects.
+
+  Camera & Framing
+  Macro close-ups, dramatic low angles, overhead kitchen perspectives, fast tracking shots, extreme close-ups, and shallow depth of field emphasizing the tiny chef against gigantic kitchen objects.
+
+  Audio & Scene Breakdown
+
+  Visual: The tiny chef struggles to drag a giant corn kernel across the countertop, finally pushing it toward an enormous glass bowl.
+
+  Visual: She climbs onto a giant butter cube, slides down its smooth surface, and lands beside the bowl as kernels begin bouncing around her.
+
+  Visual: She jumps onto a giant wooden spoon and uses it as a seesaw, launching herself directly into the bowl.
+
+  Visual: The kernels suddenly begin popping around her. She dodges exploding popcorn pieces while using the spoon to push them into a growing pile.
+
+  Visual: One enormous popcorn piece launches her into the air. She lands on top of it and rides it across the countertop like a tiny fluffy vehicle.
+
+  Visual: She grabs a giant salt shaker, struggles to tilt it, and accidentally creates a huge shower of salt that covers the popcorn and sends her sliding across the counter.
+
+  Visual: She reaches the finished bowl, climbs a giant popcorn piece, and proudly places a tiny piece of caramel on top.
+
+  Visual: The camera pulls back to reveal the giant bowl of popcorn. The tiny chef sits beside it, exhausted and proud—until a huge hand suddenly grabs the entire bowl and walks away.
+
+  She stares at the empty countertop in complete disbelief.
+
+  Audio: Kernel rattles, spoon clinks, popcorn popping, tiny footsteps, bowl vibrations, salt shaker sounds, sliding effects, comedic impacts, playful upbeat music, no dialogue.

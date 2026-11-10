@@ -1,0 +1,60 @@
+id: seedance-schoolgirl-library-bully-transformation
+title:
+  en: Schoolgirl reads in library as classmates tease her
+  zh: 女生在图书馆看书时被同学戏弄
+model: Seedance 2.5
+mode: reference-to-video
+category: action
+tags:
+- martial-arts
+- supernatural
+- korean
+- school
+source:
+  name: '@QAiStudio on X'
+  url: https://x.com/QAiStudio/status/2117947303965384993
+  credit: QAiStudio
+  captured: '2026-11-10'
+  posted: '2026-11-04'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/QAiStudio/status/2117947303965384993
+notes:
+  en: Identity is locked by an image1 face reference, and the story runs as timed beats with quoted dialogue so each segment has a clear job. The physics lock requires every air burst to come from visible martial arts contact, which keeps the spectacle grounded.
+  zh: 通过 image1 人脸参考锁定角色身份，剧情按带时间码的分段节拍推进，并附上引号台词，每段职责清楚。物理锁定要求每次气压爆发都源自可见的武术接触，让特效保持真实可信。
+prompt: |
+  Ultra-photorealistic live-action Korean gothic supernatural action. Use image1 as So-Yeon's exact face and identity. Exactly ONE human So-Yeon throughout. Dark ponytail, navy school blazer, white blouse, plaid skirt, petite 160cm frame. Real human skin, hair and biomechanics. Never CGI her body.
+
+  **LOCATION:** After-hours Korean school library, wooden bookshelves, green lamps, reading tables, rolling ladder, sunset beams and floating dust.
+
+  **ENEMIES:** Five unarmed delinquent male classmates attacking aggressively.
+
+  **00:00–00:06 | BULLYING:** So-Yeon reads silently. Boys pull her ponytail, flick her head, kick her chair and knock her book down. She trembles.
+
+  Bully: {야, 반응 좀 해봐. 재미없게.}
+  So-Yeon: {아… 하지 마…}
+
+  **00:06–00:09 | TRANSFORMATION:** She becomes unnaturally still. Porcelain-pale skin, dark red-black veins, glowing crimson eyes and emerging sharp fangs. Controlled hiss.
+
+  So-Yeon: {…배고프네.}
+
+  Boys recoil: {뭐, 뭐야 씨발?!}
+
+  Body horror only. No transformation VFX.
+
+  **00:09–00:28 | SUPERNATURAL COMBAT:** She calmly rises and attacks all five simultaneously, completely UNARMED. Fluid Taekwondo × Karate × Pencak Silat combinations: punches, kicks, parries, redirects, elbows, sweeps and spinning counters. Elegant, predatory, impossibly fast.
+
+  Pale-cyan AZURE BLOOM VFX: physical dash bursts, thin speed streaks, translucent after-images BEHIND her real body and glowing blue petals.
+
+  Every major physical strike compresses the REAL surrounding air, producing transparent pressure cavities, refractive distortion, circular shockwaves, displaced dust and violent environmental destruction. Books explode from shelves, tables overturn, lamps swing and windows rattle.
+
+  Final sequence: leader flees; So-Yeon overtakes him with a maximum-speed dash and lands a devastating spinning back kick. Compressed air detonates into a massive concussive shockwave, throwing him into the front desk and blasting books and papers throughout the library.
+
+  **00:28–00:30 | AFTERMATH:** Crimson eyes fade, fangs retract, veins disappear. So-Yeon stares at her trembling hands, then calmly walks away through settling dust.
+
+  **CAMERA:** Close handheld cinematic pursuit, whip-pans, tracking, facial inserts and impact shake. Still creeping push-in during transformation; explosive kinetic camera during combat.
+
+  **PHYSICS LOCK:** Every air explosion MUST originate from visible physical martial-arts contact. Impact → compression → pressure collapse → detonation → shockwave. No magic projectiles, beams, plasma, fireballs or teleportation.
+
+  **AUDIO:** Korean dialogue, hiss, impacts, furniture, books and atmospheric sounds only. NO MUSIC. NO SUBTITLES.
+
+  **PRIORITY:** One consistent real human identity, readable choreography, spectacular physical VFX and premium AAA live-action realism.

@@ -1,0 +1,54 @@
+id: seedance-subway-zombie-shutter-escape
+title:
+  en: Korean subway zombie chase ending at a shutter
+  zh: 韩国地铁大厅丧尸追逐与卷帘门逃生
+model: Seedance 2.5
+mode: reference-to-video
+category: action
+tags:
+- zombie
+- chase
+- korean-setting
+- reference-character
+source:
+  name: '@doctorwasif on X'
+  url: https://x.com/doctorwasif/status/2117239135169908817
+  credit: doctorwasif
+  captured: '2026-11-10'
+  posted: '2026-11-02'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/doctorwasif/status/2117239135169908817
+notes:
+  en: A reference image locks the heroine's face and outfit, while a fixed chase rule keeps her running toward the shutter with the zombies behind her. The 15 timed beats and the shared setting and lighting lines keep the 30 second sequence spatially consistent.
+  zh: 用参考图锁定女主的五官和服装，并固定追逐方向，让她始终朝卷帘门奔跑、丧尸在身后。15 个带时间段的分镜加上统一的布景和光线描述，使 30 秒内的空间与画面保持连贯。
+prompt: |
+  Create a **30-second ultra-photorealistic Korean zombie-survival thriller**, cinematic live-action, high-octane blockbuster style.
+
+  **HEROINE:** Character A — preserve the reference image's exact face, hairstyle, outfit, and body proportions in every shot. Her emotions evolve from terror to desperation, fierce determination, relief, then dread.
+
+  **SETTING:** Empty Korean subway concourse at night. Wet glossy tiles, ticket gates, concrete pillars, escalator, scattered luggage, flickering fluorescent lights, dead departure screens. At the far end: a heavy descending steel shutter marked **"SAFE ZONE"**, red warning light, and red wall-mounted control panel. Maintain identical layout and lighting throughout.
+
+  **ACTION — 15 rapid cinematic beats:**
+  1. (0–2s) Extreme close-up of terrified eyes; pull back as she sprints toward camera.
+  2. (2–4s) Rear wide shot reveals dozens of pale, decaying commuter zombies exploding from the escalator in pursuit.
+  3. (4–6s) Slow-motion leap over luggage cart; zombie hand narrowly misses her ankle.
+  4. (6–8s) Zombie ambushes from behind pillar; she ducks and slams it sideways.
+  5. (8–10s) Overhead shot as she vaults ticket gates; horde crashes over them.
+  6. (10–12s) Red alarm flashes; SAFE ZONE shutter begins descending.
+  7. (12–14s) Low rear tracking shot as she races toward the shrinking gap, horde closing behind.
+  8. (14–16s) Slow-motion feet-first slide beneath shutter, steel edge inches above her face.
+  9. (16–18s) Zombie grabs her sleeve through the gap; she tears free.
+  10. (18–20s) Extreme close-up: trembling hand smashes red control panel.
+  11. (20–22s) Dozens of zombie hands claw beneath the descending shutter; no gore.
+  12. (22–24s) Shutter crashes shut with massive metallic impact; pounding shakes the walls.
+  13. (24–26s) She collapses against the wall, breathless, illuminated by pulsing red light.
+  14. (26–28s) Shutter buckles inward; a pale zombie face appears through a widening crack.
+  15. (28–30s) She turns toward a dark corridor and discovers a motionless silhouette. Its head slowly turns toward her. Smash cut to black.
+
+  **CINEMATOGRAPHY:** Dynamic handheld tracking, extreme close-ups, wide horde reveals, overhead gate shot, whip-pans, low-angle slow motion, realistic motion blur, practical zombie makeup, cold green-gray color grading with red accents. Strict spatial continuity: heroine always runs toward shutter, zombies always behind.
+
+  **AUDIO:** Echoing footsteps, ragged breathing, zombie snarls, fluorescent buzz, luggage scraping, gate clatter, alarm, motor rumble, metallic slam, pounding steel, escalating horror drone. No narration.
+
+  **NEGATIVE:** No location changes, outdoor scenes, rooftops, phones, weapons, vehicles, fire, superhero powers, fantasy effects, identity or outfit changes, duplicate heroine, extra limbs, cartoon/anime, excessive gore, blood spray, subtitles, random text, or watermark.
+
+  **FINAL:** Seamless, coherent 30-second cinematic chase with consistent heroine, escalating zombie threat, dramatic shutter escape, and terrifying final silhouette reveal.

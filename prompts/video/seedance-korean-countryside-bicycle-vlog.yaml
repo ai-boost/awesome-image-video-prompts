@@ -1,0 +1,37 @@
+id: seedance-korean-countryside-bicycle-vlog
+title:
+  en: Korean countryside bicycle race with three children
+  zh: 韩国乡村女孩与三个孩子骑车比赛
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- vlog
+- korean-countryside
+- bicycle
+- dialogue-audio
+source:
+  name: '@nawalsehar on X'
+  url: https://x.com/nawalsehar/status/2099368044287947194
+  credit: nawalsehar
+  captured: '2026-11-10'
+  posted: '2026-09-14'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/nawalsehar/status/2099368044287947194
+notes:
+  en: The prompt runs as a timed sequence with a fixed cast and outfit restated for consistency, then lists the bicycle physics and the exact sound palette so the model fills in believable motion and dialogue lip sync. Handheld vlog camera language with bicycle height tracking and a closing wide shot gives the clip a documentary feel.
+  zh: 提示词按时间顺序描述场景，先交代村庄、人物和服装并要求全程保持一致，再列出自行车物理动作和具体的环境音与对白，帮助模型生成可信的动作与口型同步。手持式 vlog 镜头、自行车高度跟拍和结尾的远景共同营造纪实感。
+prompt: |
+  Create a 30-second ultra-photorealistic live-action Korean countryside lifestyle vlog following a young Korean woman through a spontaneous afternoon adventure. Begin with her leaving her village home on a bicycle before three local children challenge her to a friendly race through the quiet countryside.
+
+  Show an authentic Korean rural village with traditional houses, stone walls, vegetable gardens, rice fields, narrow roads, trees and a peaceful stream beyond the village. Keep the woman, children, bicycles, clothing and environment perfectly consistent throughout.
+
+  Capture realistic cycling biomechanics, pedaling, steering, braking, balance, bicycle momentum, wind, hair and clothing movement, flowing water, grass, leaves and natural sunlight. Every movement should follow believable real-world physics.
+
+  Use modern 2026 handheld cinematic-vlog cinematography with realistic autofocus, subtle camera movement, bicycle-height tracking shots, intimate close-ups and wide countryside views.
+
+  Natural diegetic audio only: bicycle chains, tires, brakes, birds, insects, wind, children's laughter, flowing water, snack packaging and authentic Korean dialogue with accurate lip synchronization. No music, narration or subtitles.
+
+  End with the woman and children sitting beside the stream, sharing snacks as their bicycles rest nearby and warm sunlight filters through the trees.
+
+  No CGI, animation, artificial movement, impossible physics, distorted faces or hands, changing outfits, duplicated children, floating objects, excessive camera shake, logos or watermark.

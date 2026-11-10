@@ -1,0 +1,58 @@
+id: seedance-elevator-floor-0-mystery
+title:
+  en: Suited man enters glowing elevator, floor display at 13
+  zh: 西装男子走进发光电梯，楼层显示13
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- thriller
+- korean
+- elevator
+- multi-scene
+source:
+  name: '@ch_h234 on X'
+  url: https://x.com/ch_h234/status/2118714265792291152
+  credit: ch_h234
+  captured: '2026-11-10'
+  posted: '2026-11-06'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/ch_h234/status/2118714265792291152
+notes:
+  en: A fixed character block and timed scene beats (0 to 7 seconds, 7 to 14 seconds and so on) keep one suit and face across the cuts. Explicit camera terms like slow pushes and symmetrical framing, plus a labelled sound design list, give the model pacing and tension cues.
+  zh: 固定的人物设定与按秒划分的分镜（0到7秒、7到14秒等）让整段视频中人物的脸和西装保持一致。明确的镜头语言（缓慢推进、对称构图）和分条列出的声音设计，为模型提供节奏与紧张感的指引。
+prompt: |
+  TITLE: THE ELEVATOR – FLOOR 0
+
+  Create a 30-second ultra-realistic Korean cinematic mystery thriller with the visual quality of a premium Korean feature film.
+
+  CHARACTER:
+  A 28-year-old Korean businessman with short black hair, wearing a black formal suit, white shirt, and black tie. Maintain identical facial features, clothing, and appearance throughout every scene.
+
+  SCENE 1 (0–7 SECONDS):
+  Late at night in Seoul, a businessman enters a luxurious modern apartment elevator. He presses floor 18. The elevator doors slowly close. He checks his wristwatch. The elevator begins moving upward.
+
+  SCENE 2 (7–14 SECONDS):
+  Suddenly, the elevator lights flicker. The floor display changes from 12 to 11, then displays an unfamiliar number: 0. The elevator stops. The doors slowly open, revealing a long, completely empty underground corridor with cold fluorescent lighting.
+
+  SCENE 3 (14–22 SECONDS):
+  The businessman looks confused and steps slightly forward. At the far end of the corridor, he notices a little Korean girl wearing a red coat. She is standing completely still, facing away from him. He calls out, but she does not respond. Suddenly, the elevator doors begin closing behind him.
+
+  SCENE 4 (22–30 SECONDS):
+  He rushes back into the elevator and presses the emergency button. The doors close. He looks into the elevator mirror and sees the little girl standing directly behind him. He turns around immediately. Nobody is there.
+
+  The elevator display changes to FLOOR 18.
+
+  FINAL SHOT:
+  As the doors open, the businessman sees himself standing outside the elevator, wearing the exact same suit, staring directly at him with a terrifying smile.
+
+  CUT TO BLACK.
+
+  CINEMATOGRAPHY:
+  Premium Korean thriller cinematography, realistic human expressions, atmospheric shadows, slow camera pushes, cinematic close-ups, symmetrical framing, natural skin textures, realistic elevator reflections, professional color grading, and subtle film grain.
+
+  SOUND DESIGN:
+  Elevator mechanical hum, soft electrical buzzing, footsteps echoing through the corridor, subtle heartbeat sound, suspenseful cinematic music, and sudden silence during the final reveal.
+
+  STRICT REQUIREMENTS:
+  Photorealistic live-action only. No animation, no cartoon style, no artificial-looking characters, no inconsistent faces, no random wardrobe changes, no unnecessary dialogue, no watermarks. Preserve character continuity and realistic physical movement throughout the entire 30-second film.

@@ -1,0 +1,32 @@
+id: h3-mai-shiranui-desktop-fan-attack
+title:
+  en: Mai Shiranui fan strike scatters then restores desktop icons
+  zh: 不知火舞用扇子击落再复原桌面图标
+model: MiniMax H3
+mode: reference-to-video
+category: action
+tags:
+- fighting-game
+- mai-shiranui
+- multi-shot
+- desktop-scene
+source:
+  name: '@aidavid125 on X'
+  url: https://x.com/aidavid125/status/2102662408271692102
+  credit: 大卫叔的AI旅程
+  likes: 439
+  captured: '2026-11-10'
+  posted: '2026-09-23'
+  via: https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases
+video: https://x.com/aidavid125/status/2102662408271692102
+notes:
+  en: A reference image locks the character and desktop layout, then a timed shot list sets the order of attack, close-up and restore. Each shot names its camera move and sound beat so the cuts and audio land on the same timing.
+  zh: 参考图锁定角色与桌面布局，再用带时间码的分镜列表规定攻击、特写和复原的先后顺序。每个镜头都写明运镜和音效节拍，使切换与声音对齐。
+prompt: |
+  For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+  integrated_multimodal_description: [Shot 1] 2D-animated, retro arcade fighting-game character art style blended with a clean macOS desktop scene, exactly as established in <Picture 1>: an arc-shaped light-band wallpaper sweeps from deep blue-violet at the lower left to orange-red and magenta at the upper right over a mirror-like reflective ground; two vertical columns of glossy rounded-square application icons stand on the left half — each icon is a clean pictogram with NO text label beneath it: the first column shows from top to bottom a blue smiling face, a red-yellow-green ring around a blue center dot, a white "N" block in a dark frame, a light-blue infinity-style ribbon, a dark tile with blue letters, an amber tile with yellow script, a purple tile with white letters, and green arcs inside a circle; the second column shows two white chat bubbles on green, a penguin on white, a white paper plane on blue gradient, four colored squares in a grid, a blue-green spiral ring, a red play triangle, colorful pinwheel petals, and a white "A" brushstroke on blue — on the right stands the brown high-ponytail young woman with white horn-like hair ornaments, wearing a red high-slit qipao-style fighting outfit with a large white waist knot trailing red-floral ribbons and white-tassel beads in her hair, black fingerless gloves and red-black heeled sandals; she holds an open white fan with red trim hanging behind her hip while one hand rests on her waist, gazing back over her shoulder. The camera pushes in with small amplitude at slow speed as she pivots from the回眸 stance into a low crouch, orange-yellow fire ribbons beginning to swirl around her feet and embers spiraling upward past her shoulders. [Shot 2] At 00:04.500, the camera cuts to a wider shot of the full desktop as she explodes out of the crouch into a dramatic backbend spin — one leg planted, the other extended far to the side-rear, torso twisted and arched backward, ponytail flaring wide in the motion — and roars <d>[Japanese] 超必殺・忍蜂！</d> A ring of glowing shuriken erupts from her spinning body and orbits outward like a whirlpool across the center of the screen; as the blades sweep through the icon columns, open fans launch from her wrist in rapid succession and strike the icons one by one — each struck icon wobbles violently, peels off its grid position, and tumbles downward with motion blur past the reflective ground out of frame, trailing orange-yellow sparks. The final shuriken detonates at the center of the grid as a white-blue light bloom, shaking the whole desktop loose; every remaining icon rains down in a cascade while her spin finishes in a low landing, one hand extended forward, palm up. [Shot 3] At 00:10.500, the camera cuts to a medium close-up of the young woman across the now-empty center of the screen; her expression stays calm and unbothered, lips pressed into a confident smirk while embers drift past her shoulder. She slowly raises her open fan beside her face and says <d>[Japanese] 花蝶扇。</d> Orange-yellow flame begins to gather along the fan's ribs like liquid fire pooling on silk, the light reflecting off her white waist knot and red-floral ribbons as tiny sparks orbit her wrist. [Shot 4] At 00:13.500, the shot cuts back to the full desktop as she sweeps the burning fan in a wide graceful arc through another spin; ribbons of orange-yellow flame unfurl from the fan like butterfly wings trailing behind her, and each ribbon's tip hooks one falling icon from below the frame, reeling it smoothly up into its exact original grid position — every lock-in flashing a small white-blue light bloom with a sharp click as the icons seat crisply back into place, restoring both columns perfectly. The last ribbon curls around the final icon and dissolves into sparks that spiral back into her fan as she closes it with a snap at her hip. [Shot 5] At 00:17.000, the camera cuts to a low-angle hero shot as she settles into her classic pose from <Picture 1>: side-turned stance with weight on the rear leg, one hand on her waist, the closed fan held elegantly beside her face, chin tilted down in a cold confident glare while her ribbons and hair flare outward in the residual wind. The camera pulls out with small amplitude at slow speed, revealing the fully restored desktop around her; drifting orange sparks fade to black as she holds the pose until the end of the video.
+
+  overall_soundscape: Low flame crackle builds under a rumbling charge, then an explosive whoosh on the backbend spin — rapid shuriken whistles and fan-snap cracks striking icons one after another — followed by cascading rattling clatters as icons tumble out of frame and a sharp white-blue burst pop. A crisp fan snap and a soft confident breath carry across the empty desktop during the calm close-up. Rising flame hiss gathers along the fan's ribs, then graceful silk-ribbon whooshes sweep through the spin while crisp snap-back clicks land one after another as each icon locks into place with tiny light-bloom pops, ending with a low resonant boom under guttering ember crackle.
+
+  non_diegetic_music: Driving taiko drums with fast electronic percussion at a high tempo building to a hard hit on the shuriken barrage, dropping out to sparse sustained synth and a single koto pluck during the calm close-up, then returning for one final strong downbeat as she locks her classic pose.

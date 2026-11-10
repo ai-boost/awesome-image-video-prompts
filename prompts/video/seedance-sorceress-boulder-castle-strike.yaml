@@ -1,0 +1,26 @@
+id: seedance-sorceress-boulder-castle-strike
+title:
+  en: Sorceress hurls floating boulder to shatter castle
+  zh: 女术士以巨石砸毁城堡
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- fantasy
+- telekinesis
+- battle-scene
+source:
+  name: '@laviniavelle on X'
+  url: https://x.com/laviniavelle/status/2094262382478737792
+  credit: laviniavelle
+  captured: '2026-11-10'
+  posted: '2026-08-31'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/laviniavelle/status/2094262382478737792
+notes:
+  en: A shot list with explicit camera moves (low angle wide, extreme close up) gives the model a clear edit order. Listing the physical beats in sequence, pebbles lifting then merging into one boulder, keeps the telekinesis reading as one continuous action.
+  zh: 用分镜式的镜头指令（低角度远景、极近特写）给出清晰的剪辑顺序。按顺序写明物理动作，碎石先升起再合并成一块巨石，让隔空操控的过程连贯可读。
+prompt: |
+  Cinematic dark fantasy action sequence, dynamic low-angle wide shots and extreme close-ups. A young East Asian female sorceress with short black hair, wearing a traditional black hanbok with red trim, stands in the middle of a medieval battlefield at sunset under a moody pink and orange sky. Surrounding her are fallen soldiers in plate armor and scattered swords. Close-up on her intense gaze as her eyes glow deep red. She performs intricate martial hand seals (mudras). As she touches the ground, small pebbles hover into the air, telekinetically lifting swords and massive boulders from the earth. In the background, a massive stone castle wall begins to crack and crumble. The hovering rocks gather high in the sky, merging into a colossal floating boulder. With a sharp hand gesture, she hurls the massive rock down, slamming it into the fortress in a giant explosion of dust and shockwaves. High contrast cinematic lighting, epic fantasy VFX, motion blur, hyper-detailed, 8k resolution, photorealistic, 24fps film style.
+
+  #polloai

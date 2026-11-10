@@ -1,0 +1,25 @@
+id: seedance-rain-kitten-rescue-spaghetti
+title:
+  en: Spaghetti stirred in a pan over blue flame
+  zh: 蓝色火焰上翻炒意面
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- kitten-rescue
+- pasta
+- rain
+- emotional-storytelling
+source:
+  name: '@Aiwithmaha on X'
+  url: https://x.com/Aiwithmaha/status/2118903281280020855
+  credit: Aiwithmaha
+  captured: '2026-11-10'
+  posted: '2026-11-07'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Aiwithmaha/status/2118903281280020855
+notes:
+  en: The prompt opens with a format line (30 seconds, vertical 9:16) and then lists the story as ordered beats with named props such as the pink towel and pink bowl, so colours and objects stay consistent from shot to shot. It closes with a sound direction (heartwarming background music), which gives a visual brief an audio cue.
+  zh: 提示词开头先写明时长 30 秒和竖屏 9:16 格式，然后按顺序列出剧情节拍，并点名粉色毛巾、粉色食盆等道具，让颜色和物件在各个镜头间保持一致。结尾加入配乐要求，为纯画面描述补上听感方向。
+prompt: |
+  Create a 30-second ultra-realistic cinematic emotional short film in vertical 9:16 format. A young woman wearing a black outfit is cooking delicious spaghetti in her modern kitchen, gently stirring the pasta in a pan over a blue flame. Suddenly, she notices heavy rain falling outside her window and sees a tiny orange-and-white kitten sitting alone in the cold rain. She immediately leaves her cooking, grabs an umbrella, and rushes outside to rescue the helpless kitten. She carefully picks up the frightened, wet kitten and brings it safely inside her warm home. She gently wraps the little kitten in a soft pink towel and lovingly dries its wet fur. Next, she prepares a small pink food bowl filled with delicious cat food and places it in front of the hungry kitten. The kitten happily eats while the woman watches with a warm, emotional smile. Finally, she sits in her cozy kitchen enjoying her spaghetti while the adorable kitten rests peacefully beside her. Use realistic facial expressions, natural movements, beautiful cinematic lighting, emotional storytelling, detailed environments, and heartwarming background music throughout the entire 30-second video.

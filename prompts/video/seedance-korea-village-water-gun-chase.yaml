@@ -1,0 +1,39 @@
+id: seedance-korea-village-water-gun-chase
+title:
+  en: Woman joins kids in Korean village water gun chase
+  zh: 女子加入村里孩子的水枪追逐
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- korea
+- water gun
+- summer
+- vlog
+source:
+  name: '@nawalsehar on X'
+  url: https://x.com/nawalsehar/status/2099725518677655596
+  credit: nawalsehar
+  captured: '2026-11-10'
+  posted: '2026-09-15'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/nawalsehar/status/2099725518677655596
+notes:
+  en: The prompt gives a three-beat structure (quiet walk, surprise attack, soaked finale) with a shot list of tracking, close-ups and over the shoulder angles. Its consistency lock on characters, clothing and water guns, plus a list of banned artifacts, keeps the people and props stable through the chase.
+  zh: 提示词按三段结构书写：安静步行、突然遭袭、全员湿透的结尾，并给出跟拍、特写和过肩等镜头清单。它锁定人物、服装和水枪的一致性，并列出需要排除的瑕疵，使追逐过程中人物和道具保持稳定。
+prompt: |
+  Create a 30-second ultra-photorealistic live-action Korean countryside lifestyle vlog showing a playful summer water-gun battle between a young Korean woman and three village children.
+
+  Begin with the woman walking through a quiet Korean village when the children surprise her with a playful water-gun attack. She laughs, joins the game, and the friendly battle turns into a spontaneous chase through the sunlit village streets.
+
+  Show authentic Korean countryside details including traditional homes, stone walls, gardens, trees, bicycles, narrow paved roads and warm summer sunlight. Keep all characters, clothing, water guns and environment perfectly consistent.
+
+  Capture realistic water-gun pressure, fluid dynamics, gravity, air resistance, droplets, splashes, wet clothing, wet hair, running biomechanics, friction, momentum and natural environmental reactions. Water should behave like real pressurized liquid rather than artificial beams.
+
+  Use modern 2026 handheld cinematic-vlog cinematography with dynamic tracking shots, close-ups, over-the-shoulder angles, realistic autofocus, natural camera inertia and occasional wide village views.
+
+  Natural diegetic audio only: children's laughter, footsteps, water-gun sounds, water impacts, leaves, birds, insects and authentic Korean reactions. No music, narration or subtitles.
+
+  End with everyone completely soaked and laughing together as sunlight catches the falling water droplets in the peaceful village street.
+
+  No CGI, animation, fantasy water, impossible physics, dangerous behavior, distorted faces or hands, duplicated children, changing clothing, excessive camera movement, logos or watermark.

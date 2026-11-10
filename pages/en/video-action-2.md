@@ -1,6 +1,42 @@
 # Action, chases and sports
 
-[Back to the list](../../README.md) · All 210 entries · [1](video-action.md) · **2** · [3](video-action-3.md)
+[Back to the list](../../README.md) · All 224 entries · [1](video-action.md) · **2** · [3](video-action-3.md)
+
+<a id="h3-swordswoman-kinetic-typography-title"></a>
+### Anime swordswoman in kinetic typography title sequence
+
+<a href="https://x.com/opener_ai/status/2085159317578330229"><img src="../../previews/h3-swordswoman-kinetic-typography-title.jpg" width="360"></a>
+
+A numbered shot list with timed beats, paired with an identity reference image, keeps the character consistent while 3D title words move through the action. Telling the model to ignore the reference sheet's layout and labels keeps those artifacts out of the video.
+
+MiniMax H3 · Reference-to-video · Source: [@opener_ai on X](https://x.com/opener_ai/status/2085159317578330229) · 36 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`anime`](tags.md#tag-anime) [`martial-arts`](tags.md#tag-martial-arts) [`kinetic-typography`](tags.md#tag-kinetic-typography) [`identity-reference`](tags.md#tag-identity-reference)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+[1] FORMAT
+15-second 16:9 stylized anime action title sequence — martial-arts choreography fused with 3D kinetic typography. Painterly 2D anime illustration look with cel-shaded volumes and subtle paper grain, matching the source artwork's rendering.
+
+[2] ASSETS
+Use Image 1 as a strict identity reference for the female duelist KAELAN — read only the character artwork itself for her face, hair, wardrobe, weapon, and color palette. Ignore the sheet's layout, panels, printed labels, handwriting, silhouette thumbnails, and background parchment; none of them may appear in the video.
+
+[3] IDENTITY
+Preserve exactly: deep brown skin with warm highlights; luminous crimson-red eyes with a sharp black liner shape; jet-black hair pulled into a tight scalp-wrapped part that splits into two very long thick braids falling past the hips, moving like weighted whips; large white crescent hoop earrings on both ears; black high-neck sleeveless crop top exposing a toned midriff; a sheer white long-sleeved kimono robe worn open, translucent and lightly billowing; cream wide-leg hakama trousers with a single black diamond patch on the left thigh; black wrapped fingerless gloves with lattice cord across the back of the hand; white cloth-wrapped platform sandals; a well-worn katana with a dark blue-grey blade and a black diamond-wrapped hilt. Her expression stays calm and unblinking, never comic.
+
+[4] BEATS
+Shot 1 — [0–3 seconds] Kaelan stands centered in a void of warm off-white light, katana point-down, braids settling. She exhales; a slow iai draw begins. → Hard cut.
+Shot 2 — [3–6 seconds] Mid-draw. The blade clears the saya and a clean arc of light follows the edge. The 3D extruded word "HAILUO" flies in from screen left along the blade's arc, its letter faces catching the same light, passing BEHIND her shoulder and IN FRONT of her trailing braid before exiting right. → Whip-pan cut.
+Shot 3 — [6–9 seconds] Full-body kata combination: descending cut, pivot, rising horizontal sweep. Her sheer robe and both braids trail one frame behind her body. The word "MINIMAX" rotates up from the floor plane in thick extruded 3D, standing taller than her, and she cuts through the gap between its letters — the letterforms hold solid, do not shatter. → Hard cut.
+Shot 4 — [9–12.5 seconds] Low-angle crouch landing, sword arm extended back, dust ring pushing outward. "H3" slams in from depth as a massive chromed 3D glyph directly behind her, scaling down to lock, with her silhouette reading cleanly against it. → Flash cut on the impact frame.
+Shot 5 — [12.5–15 seconds] She rises into the neutral standing pose, katana returning to point-down. The full lockup "HAILUO MiniMax H3" assembles from the three pieces on a single horizontal baseline at lower third, settles, and holds perfectly still through the final frame.
+
+[5] CAMERA
+Anamorphic-feel 35mm for wides, 50mm for the mid shots.
+```
+
+</details>
 
 <a id="h3-hotdog-dash-skateboard-selection"></a>
 ### Skateboard selection screen with HotDog Dash selected
@@ -825,6 +861,38 @@ MOTION: fast tracking, whip pans, slow-motion airborne beat, handheld shake on e
 NEGATIVE PROMPT: cartoon, anime, CGI look, plastic skin, deformed face, bad hands, extra limbs, extra wheels, changing bike design, inconsistent character, blurry, low resolution, flicker, morphing, warped anatomy, text, subtitles, watermark, logo, oversaturated, duplicate characters, unnatural motion
 
 #AIVideo #AIArt #AIFilm #CinematicAI #SciFi #ActionScene #Midjourney #GenerativeAI
+```
+
+</details>
+
+<a id="seedance-armored-soldier-drone-factory-battle"></a>
+### Armored soldier fights drones in ruined factory
+
+<a href="https://x.com/itsSaira_1/status/2104432266235851168"><img src="../../previews/seedance-armored-soldier-drone-factory-battle.jpg" width="360"></a>
+
+A timed shot list with a camera move for each beat, plus a reference image and a repeated instruction to keep the same face and armor in every shot, holds the character's identity across cuts. The grade and negative prompt keep the look gritty and filmic.
+
+Seedance 2.5 · Reference-to-video · Source: [@itsSaira_1 on X](https://x.com/itsSaira_1/status/2104432266235851168) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`sci-fi`](tags.md#tag-sci-fi) [`war`](tags.md#tag-war) [`reference-image`](tags.md#tag-reference-image) [`shot-list`](tags.md#tag-shot-list)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Ultra-realistic cinematic sci-fi war film, 15 seconds, 16:9, 60fps, handheld camera, desaturated gray-blue color grade, overcast sky, film grain. Keep the character from the reference image identical in every shot: same face, same weathered gray-green armor with clear visor helmet and glowing amber visor trim. Location: ruined industrial wasteland, rusted factory towers, smoking chimneys, scrap piles, small fires, puddles. Enemies: small hovering quad-drones with glowing blue eyes, one with a red eye.
+
+0-2s: Close-up of the soldier's face behind the visor, tense, dirt on face, drones flying behind him. Camera slowly pushes in.
+2-4s: Tight shot, he ducks and turns fast, armor shoulder fills the frame, red-eyed drone above.
+4-6s: Low wide shot, he crouches behind a concrete barrier, explosion and smoke in the background, blue light glowing on his wrist.
+6-8s: Side shot, he rises and fires a plasma rifle at a drone, sparks burst from the drone.
+8-10s: Wide shot, a hit drone flips and spins away through the air, he stands in firing stance, more drones circling.
+10-12s: Medium shot, he swings his arm with a glowing blue wrist gauntlet, then a close-up of the blue energy charging in his fist, face determined.
+12-13s: Wide shot, blue energy dome shield erupts around him at the barrier, drones fly around.
+13-15s: Camera slowly pulls back to a huge wide shot, tiny soldier in the center of the wrecked factory field, smoke and flames, drones in the sky.
+
+Negative prompt: face change, different character, armor change, cartoon, anime, CGI look, plastic skin, blur, low quality, distorted hands, extra limbs, deformed helmet, flicker, warping, text, watermark, logo, subtitles, oversaturated colors, bright daylight, morphing, inconsistent lighting
+
+#AIVideo #SciFi #CinematicAI #AIArt #FutureWar #Cinematic #AIFilm
 ```
 
 </details>
@@ -2328,6 +2396,58 @@ CAMERA: close, kinetic handheld pursuit, tracking, low angles, OTS/facial insert
 
 </details>
 
+<a id="seedance-han-river-handbag-chase"></a>
+### Korean grandmother's handbag chase along Han River
+
+<a href="https://x.com/doctorwasif/status/2118221865273659429"><img src="../../previews/seedance-han-river-handbag-chase.jpg" width="360"></a>
+
+A timed beat sheet of six segments gives the model a shot list to follow, and wardrobe plus location are pinned so characters stay consistent across cuts. Audio is spelled out line by line, including the Korean dialogue, which anchors the lip sync and sound design.
+
+Seedance 2.5 · Text-to-video · Source: [@doctorwasif on X](https://x.com/doctorwasif/status/2118221865273659429) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`comedy`](tags.md#tag-comedy) [`chase`](tags.md#tag-chase) [`korean`](tags.md#tag-korean) [`outdoor`](tags.md#tag-outdoor)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Ultra-realistic live-action Korean revenge-comedy along Seoul’s Han River at golden hour. Handheld cinematic camera, warm sunset, authentic park ambience, realistic physics, fast-paced slapstick action, expressive reactions.
+
+**Characters:** Lee Ji-won Korean woman in her 20s, high ponytail, mint-green windbreaker, black cycling shorts, sneakers, riding a city bicycle. Shin Tae-oh — Korean man in his 20s, black cap, grey hoodie, riding an electric scooter. Korean grandmother wearing a purple visor.
+
+**30-SECOND ACTION:**
+0–3s: Grandmother sits on a bench with her brown handbag. Tae-oh snatches it and speeds away on his scooter.
+3–6s: She cries out. Ji-won hears her, shouts “저기요!”, and starts chasing on her bicycle.
+6–12s: Tae-oh weaves through joggers, laughing. Ji-won catches up, follows him across grass, and launches off a small ramp, landing with a hard bounce.
+12–18s: Tae-oh scatters a family's picnic snacks. Ji-won hops over the blanket, shouting “거기 서!”, then grabs the handbag strap beside his scooter. A brief, chaotic tug-of-war makes the scooter wobble.
+18–25s: Ji-won yanks the bag free. Tae-oh loses control, spins off the path, flies over the handlebars, and crashes into a large circular fountain with a huge splash. Pigeons scatter.
+25–30s: Ji-won returns the bag to the grandmother and asks, “다 괜찮으세요, 할머니?” The grandmother smiles and pats her hand. Behind them, the drenched Tae-oh sits in the fountain beside his floating cap as amused joggers and families clap and film.
+
+**Audio:** Natural Korean-only dialogue, perfectly lip-synced, wind, bicycle chains, scooter motor, footsteps, startled gasps, water splash, pigeons, traffic, and applause.
+
+**Requirements:** Consistent character identities, faces, outfits, and location throughout. Clearly show the theft, ramp jump, picnic leap, tug-of-war, scooter spin-out, and fountain crash. Believable momentum and water physics. Photorealistic skin, natural movement, non-gory slapstick. No logos, brands, subtitles, text overlays, cartoon effects, or watermark.
+```
+
+</details>
+
+<a id="seedance-hannya-warrior-ink-tiger-dragons"></a>
+### Hannya masked warrior paints ink tiger and dragons
+
+<a href="https://x.com/ai_anelia/status/2117601946894995461"><img src="../../previews/seedance-hannya-warrior-ink-tiger-dragons.jpg" width="360"></a>
+
+Anchors the style to named visual references, ink wash painting and realistic fluid physics, so the splashes read as real ink rather than cartoon effects. Describing the ink turning into a tiger and then dragons in sequence gives the shot a clear transformation to follow.
+
+Seedance 2.5 · Text-to-video · Source: [@ai_anelia on X](https://x.com/ai_anelia/status/2117601946894995461) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`ink-painting`](tags.md#tag-ink-painting) [`martial-arts`](tags.md#tag-martial-arts) [`hannya-mask`](tags.md#tag-hannya-mask) [`monochrome`](tags.md#tag-monochrome)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Cinematic 3D animation, action scene. A warrior wearing a traditional Japanese Hannya demon mask and white long hair, dressed in black flowing robes, wields a giant calligraphy brush like a staff inside a minimalist white minimalist studio. The warrior performs fluid, acrobatic martial arts movements, painting sweeping, dynamic splashes of black ink in the air that instantly materialize into living, roaring creatures: first a fierce black ink tiger, followed by majestic Chinese dragons swirling around the space. High-contrast monochrome aesthetic, sumi-e brushstroke effects blending with realistic fluid physics, dramatic cinematic lighting, 4k resolution, masterpiece.
+```
+
+</details>
+
 <a id="seedance-helicopter-news-dirt-bike-pursuit"></a>
 ### Helicopter news footage of a dirt bike chase
 
@@ -2628,6 +2748,224 @@ Photorealistic live-action Japanese horror-thriller, realistic Japanese high-sch
 
 </details>
 
+<a id="seedance-jason-zara-nyc-street-showdown"></a>
+### Crowd Circles Night Street Showdown in Manhattan
+
+<a href="https://x.com/ZaraIrahh/status/2119659069829189987"><img src="../../previews/seedance-jason-zara-nyc-street-showdown.jpg" width="360"></a>
+
+Each fighter is locked to a reference image through @image1 and @image2, and the prompt then walks through timed beats with a camera move and speed ramp for each one, so the 30 second structure holds together. The negative prompt names identity drift and wardrobe changes to keep both faces and outfits stable.
+
+Seedance 2.5 · Reference-to-video · Source: [@ZaraIrahh on X](https://x.com/ZaraIrahh/status/2119659069829189987) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`street-fight`](tags.md#tag-street-fight) [`new-york`](tags.md#tag-new-york) [`character-reference`](tags.md#tag-character-reference) [`multi-shot`](tags.md#tag-multi-shot)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+JASON VS ZARA — THE NEW YORK STREET SHOWDOWN
+DURATION: EXACTLY 30 SECONDS
+ASPECT RATIO: 16:9 WIDESCREEN
+STYLE: Ultra-photorealistic live-action Hollywood action blockbuster, brutal realistic martial arts, cinematic nighttime street fight.
+
+CHARACTER IDENTITY LOCK
+
+JASON —  @image1 
+Preserve his exact facial identity, hairstyle, physique, skin tone, and tattoos.
+
+NEW OUTFIT:
+
+- Charcoal-black tailored three-piece suit.
+- Fitted black dress shirt.
+- Dark crimson tie.
+- Black polished leather shoes.
+- Luxury metallic wristwatch.
+- Tattooed arms visible.
+
+A tall, intimidating, muscular, mature mafia boss.
+
+ZARA —  @image2 
+Preserve her exact facial identity, hairstyle, physique, and skin tone.
+
+NEW OUTFIT:
+
+- Fitted black leather biker jacket.
+- Deep red crop top.
+- Black tactical cargo pants.
+- Black combat boots.
+- Long dark-brown hair.
+
+A beautiful, athletic, confident, fearless young woman.
+
+Never exchange identities or change their appearances and outfits throughout the video.
+
+ENVIRONMENT — NEW YORK CITY
+
+A crowded Manhattan street at nighttime.
+
+Authentic New York atmosphere featuring:
+
+- Towering illuminated skyscrapers.
+- Times Square-style giant LED billboards.
+- Yellow New York taxis.
+- American street signs and traffic lights.
+- Subway entrance and street-level storefronts.
+- Wet asphalt reflecting colorful neon lights.
+- Pedestrians walking along crowded sidewalks.
+- Street vendors and realistic urban architecture.
+
+A large crowd surrounds Jason and Zara. People record the fight on smartphones, shout, gasp, and move backward in shock.
+
+Authentic New York traffic, distant sirens, footsteps, conversations, and city ambience.
+
+ACTION SEQUENCE — EXACTLY 30 SECONDS
+
+00:00–00:04 | THE CONFRONTATION
+
+Wide cinematic establishing shot of a crowded Manhattan street.
+
+Jason adjusts his charcoal-black suit sleeve and confronts Zara.
+
+Camera pushes between pedestrians into an intense low-angle two-shot.
+
+JASON, deep intimidating English male voice:
+
+"Give up, sweetheart. You don't stand a chance."
+
+ZARA, confident English female voice:
+
+"An old man like you? Never!"
+
+00:04–00:09 | FIRST IMPACT
+
+Jason launches a powerful right-hand punch.
+
+Zara narrowly dodges, counters with a fast body punch, and delivers a spinning kick.
+
+Jason blocks with his forearm but gets pushed backward.
+
+Dynamic 90-degree overhead shot reveals their footwork and the crowd forming a circle.
+
+00:09–00:14 | SAVAGE CLOSE COMBAT
+
+Jason grabs Zara's arm.
+
+Zara escapes his grip, ducks beneath his next punch, and delivers two body strikes followed by a powerful kick to his abdomen.
+
+Jason stumbles backward into a metal street barrier.
+
+Descending 360-degree camera orbit, extreme facial close-ups, and brief realistic smartphone POV.
+
+00:14–00:19 | JASON'S RAGE
+
+Jason regains his balance, wipes his mouth, and charges furiously.
+
+JASON, explosive English male voice:
+
+"Damn you! TAKE THIS!"
+
+He unleashes heavy punches. Zara blocks, parries, and dodges.
+
+Ground-level high-speed tracking, vertical 3D orbit, and a brief 360-degree slow-motion near-miss punch.
+
+00:19–00:25 | THE FINAL COMBINATION
+
+Zara steps inside Jason's attack range.
+
+She delivers:
+
+1. A precise elbow strike to his torso.
+2. A rapid pivot.
+3. A low sweeping kick.
+4. A powerful spinning kick to his upper body.
+
+Jason loses his balance and crashes onto the wet Manhattan pavement.
+
+Dramatic diagonal camera dive follows the finishing kick.
+
+The crowd gasps and records the moment.
+
+00:25–00:30 | ZARA'S VICTORY
+
+Jason lies defeated on the pavement.
+
+Zara stands over him, breathing heavily.
+
+Camera slowly cranes upward and pushes into her face.
+
+ZARA, sarcastic and confident English female voice:
+
+"Is that all you've got, old geezer?"
+
+Zara gives him a dismissive look, turns away, and walks confidently through the shocked crowd.
+
+Jason remains defeated in the background.
+
+End exactly at 00:30 with a decisive cinematic cut to black.
+
+CAMERA AND EDITING
+
+Use sophisticated Hollywood action cinematography:
+
+- 90-degree overhead shots.
+- Descending 360-degree helix orbit.
+- Compressed telephoto skyscraper shots.
+- Bystander smartphone POV.
+- Brief CCTV surveillance perspective.
+- Storefront reflection shots.
+- Ground-level footwork tracking.
+- Vertical 3D orbit.
+- Opposing aerial spiral.
+- Diagonal dive following the finishing kick.
+- Dramatic crane ascent.
+
+Speed ramping:
+
+- 40% slow motion during near-miss punches.
+- 200% acceleration during rapid combinations.
+- Natural speed for heavy impacts.
+- Immediate return to real-time motion.
+
+Maintain realistic fighting physics, screen direction, and spatial continuity.
+
+AUDIO
+
+All dialogue must be in natural English.
+
+Jason: deep, mature, slightly raspy male voice with controlled intimidation that turns into explosive anger.
+
+Zara: confident, sharp, natural young adult female voice with sarcastic delivery.
+
+Perfect English lip synchronization.
+
+Include realistic punches, kicks, clothing friction, breathing, shoes scraping against wet asphalt, crowd reactions, New York traffic, and distant sirens.
+
+No Japanese speech or Japanese voiceover.
+
+VISUAL QUALITY
+
+Ultra-photorealistic live-action cinematography, authentic human anatomy, realistic martial arts, natural skin texture, visible pores, realistic hair physics, accurate fabric simulation, wet pavement reflections, cinematic nighttime lighting, and natural motion blur.
+
+STRICT NEGATIVE PROMPT
+
+No animation, cartoons, video game appearance, fantasy powers, supernatural effects, wire-fu, floating bodies, impossible acrobatics, distorted anatomy, extra fingers, duplicated characters, face morphing, identity drift, wardrobe changes, original outfits, incorrect tattoos, character swapping, teleportation, disappearing pedestrians, frozen crowd, unnatural expressions, flickering, jitter, ghosting, visual glitches, Japanese dialogue, Japanese voiceover, subtitles, watermarks, or audio distortion.
+
+FINAL REQUIREMENT
+
+One coherent, spectacular, exactly 30-second, 16:9 photorealistic Hollywood action sequence.
+
+JASON ( @image1 ) must fight ZARA ( @image2 ) on a realistic nighttime New York City street.
+
+Both characters must maintain their exact reference identities and new outfits.
+
+All dialogue must be in English.
+
+Jason must visibly lose. Zara must clearly win.
+
+End precisely at 00:30 with a cinematic cut to black.
+```
+
+</details>
+
 <a id="seedance-joseon-witch-night-bazaar-fight"></a>
 ### Witch walks through lantern lit Joseon night bazaar
 
@@ -2796,6 +3134,25 @@ VISUAL RULES
 - Every action directly causes the next event.
 - Continuous movement, zero pauses, zero dead frames.
 - No unnecessary movement or ending hero pose. #ImagineArt
+```
+
+</details>
+
+<a id="seedance-king-kong-rooftop-girl-rescue"></a>
+### Giant King Kong holds girl on ruined rooftop
+
+<a href="https://x.com/Aiwithmaha/status/2119275576846594139"><img src="../../previews/seedance-king-kong-rooftop-girl-rescue.jpg" width="360"></a>
+
+A numbered sequence of plain beats sets the order of shots, and the closing camera move, a slow zoom out to a golden sunset, gives the clip a clear ending. The instruction to keep the character identical for the full 30 seconds targets identity drift in a long single generation.
+
+Seedance 2.5 · Text-to-video · Source: [@Aiwithmaha on X](https://x.com/Aiwithmaha/status/2119275576846594139) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`king-kong`](tags.md#tag-king-kong) [`giant-creature`](tags.md#tag-giant-creature) [`golden-hour`](tags.md#tag-golden-hour) [`emotional-story`](tags.md#tag-emotional-story)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create an ultra-realistic 30-second cinematic Hollywood-style action and emotional story. A giant powerful King Kong stands on the rooftop of a tall skyscraper in a destroyed city, surrounded by smoke, fire, and flying helicopters. A little girl wearing a beautiful red dress stands fearlessly near him, and King Kong gently protects her with his massive hands. Suddenly, a gigantic futuristic combat robot appears and approaches them aggressively. King Kong turns around and prepares to fight the robot while keeping the little girl safe. After an intense battle, King Kong defeats the robot and returns to the little girl. She gently hugs his huge chest, and King Kong carefully holds her in his arms. The camera slowly zooms out, revealing a breathtaking golden sunset over the city skyline, with warm sunlight, cinematic lighting, emotional background music, realistic movements, detailed facial expressions, and stunning Hollywood-level visual effects. Maintain consistent character appearance throughout the entire 30-second video, vertical 9:16 format, ultra-realistic 4K quality.
 ```
 
 </details>
@@ -3007,6 +3364,52 @@ No gore, blood, serious injuries, identity drift, outfit changes, duplicated peo
 
 </details>
 
+<a id="seedance-korean-zombie-elevator-escape"></a>
+### Korean woman escapes zombies in apartment elevator
+
+<a href="https://x.com/QAiStudio/status/2117256134616818159"><img src="../../previews/seedance-korean-zombie-elevator-escape.jpg" width="360"></a>
+
+A numbered 10-shot timeline with second markers and a fixed location list keeps the sequence spatially continuous, and a reference image locks the heroine's face and outfit. Audio cues are listed separately so the horror sound design is part of the generation.
+
+Seedance 2.5 · Reference-to-video · Source: [@QAiStudio on X](https://x.com/QAiStudio/status/2117256134616818159) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`zombie`](tags.md#tag-zombie) [`horror`](tags.md#tag-horror) [`korean`](tags.md#tag-korean) [`chase`](tags.md#tag-chase)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 30-second ultra-photorealistic Korean zombie survival thriller, cinematic live-action style.
+
+CHARACTER CONSISTENCY: Young adult Korean woman, identical face, hairstyle, outfit, and body proportions to the reference image throughout. Expression evolves from terrified to desperate, determined, then shaken relief.
+
+ZOMBIES: Aggressive, realistic human-like zombies with pale dirty skin, sunken eyes, damaged faces, messy hair, and torn everyday clothing. Practical horror makeup, no excessive gore.
+
+LOCATION: One consistent dim Korean apartment tower: concrete stairwell, narrow numbered-door corridor, flickering greenish fluorescent lights, metal elevator with glowing floor indicator, CLOSE DOOR button, and pulsing red emergency light.
+
+30-SECOND SEQUENCE (10 SHOTS):
+
+1. 0–3s: Close-up, woman sprints down stairs as zombie hands reach from above.
+2. 3–6s: She bursts into corridor, shoves an attacking zombie into the wall.
+3. 6–9s: Rear tracking shot as she races toward the elevator, zombies emerging behind her.
+4. 9–12s: She repeatedly presses elevator call button; horde approaches.
+5. 12–15s: Doors open; she dives inside as zombies charge.
+6. 15–18s: Extreme close-up, repeatedly jams CLOSE DOOR button as doors begin shutting.
+7. 18–21s: Zombie arms force through the gap; she kicks them away.
+8. 21–24s: Doors slam shut; she trembles as zombies pound outside.
+9. 24–27s: Elevator descends; she collapses against the wall, gasping.
+10. 27–30s: Lobby doors open, revealing motionless shadowy figures. One slowly turns its head. Extreme close-up of her terrified eyes. CUT TO BLACK.
+
+CINEMATOGRAPHY: Handheld chase tracking, dynamic wide shots, extreme close-ups, low-angle elevator struggle, realistic movement, natural motion blur, cinematic green-gray lighting, practical VFX, consistent spatial continuity.
+
+AUDIO: Heavy breathing, rapid footsteps, zombie snarls, fluorescent buzz, elevator chime, metallic scraping, pounding doors, elevator hum, rising horror drone. No narration.
+
+NEGATIVE: No location changes, rooftop, outdoor scenes, phones, weapons, superhero powers, fantasy effects, extra limbs, duplicated heroine, identity or outfit changes, cartoon/anime, excessive gore, subtitles, random text, or watermark.
+
+OUTPUT: One coherent, suspenseful, photorealistic 30-second Korean zombie-thriller sequence with seamless character and environment consistency.
+```
+
+</details>
+
 <a id="seedance-kuala-lumpur-earthquake-survival-run-storyboard"></a>
 ### Kuala Lumpur Earthquake Survival Run Storyboard
 
@@ -3119,6 +3522,53 @@ Shot 11 (16–18s): Wide static shot: the woman stands in the center of the wrec
 Shot 12 (18–20.5s): She slowly raises her head and walks toward the camera; the camera pushes in slowly from a medium shot to a tight close-up of her face, wet hair strands across her forehead, breathing hard, staring straight into the lens with a cold, defiant look.
 
 Audio: heavy thuds, bone-crunching punches, glass shattering, wood splintering, mahjong tiles scattering, men yelling and groaning, a low tense drone with a pounding drum beat that cuts to near silence on the final close-up with only her heavy breathing and the hiss of the TV static.
+```
+
+</details>
+
+<a id="seedance-mall-zombie-armor-transformation"></a>
+### Shopper in mall transforms into armored warrior vs zombies
+
+<a href="https://x.com/aiwithaayat/status/2117468811712700511"><img src="../../previews/seedance-mall-zombie-armor-transformation.jpg" width="360"></a>
+
+Six timed scene beats, each with its own camera move, plus a closing rule that the cream sweater and black skirt must disappear, so the outfit swap reads as the key change between scenes. Identity is pinned by repeating the same hair and face description in every scene.
+
+Seedance 2.5 · Text-to-video · Source: [@aiwithaayat on X](https://x.com/aiwithaayat/status/2117468811712700511) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`zombie-apocalypse`](tags.md#tag-zombie-apocalypse) [`transformation`](tags.md#tag-transformation) [`multi-scene`](tags.md#tag-multi-scene) [`consistent-character`](tags.md#tag-consistent-character)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 30-second ultra-realistic cinematic zombie apocalypse action video in 9:16 vertical format, set inside a modern luxury shopping mall. Feature a beautiful young Korean woman with long black hair, a consistent face, and realistic body proportions throughout the entire video.
+
+Scene 1 (0–5 seconds): Shopping in the mall
+
+The girl is shopping inside a luxurious clothing store in a modern shopping mall. She wears a cream-colored knit sweater, a short black skirt, black shoes, and carries a beautiful black quilted luxury shoulder bag with a gold chain. She picks up clothes from the racks and places them into her shopping cart. Show elegant mall lighting, glass storefronts, and realistic shopping activity. Use smooth cinematic camera movement.
+
+Scene 2 (5–10 seconds): Zombie invasion
+
+Suddenly, a large group of terrifying zombies enters the mall through the main entrance. They have pale faces, messy hair, torn clothes, and frightening expressions. Shoppers begin running away in panic. The girl turns around and sees zombies approaching from the direction she needs to escape. Her expression changes from calm to shocked and frightened. Use a dramatic camera push-in and intense background atmosphere.
+
+Scene 3 (10–15 seconds): Trapped and desperate
+
+The girl runs through the mall, trying to escape the zombies. Every corridor and entrance she approaches is blocked by more zombies. She stops in the middle of the mall, breathing heavily, surrounded by approaching zombies. Her luxury bag remains on her shoulder. Blue electric sparks begin appearing around her hands and body.
+
+Scene 4 (15–20 seconds): Powerful transformation
+
+A bright flash of blue lightning surrounds her entire body. Her cream sweater, black skirt, and luxury shopping bag transform into a futuristic black armored warrior outfit. She now wears sleek black metallic body armor with silver details, armored shoulder plates, a fitted black combat suit, black gloves, and heavy black combat boots. Her long black hair flows dramatically in the electric wind. Her eyes glow electric blue. Show energy traveling across her armor, with powerful blue lightning bolts surrounding her body. The transformation must be dramatic, seamless, and visually spectacular.
+
+Scene 5 (20–25 seconds): Epic zombie battle
+
+The transformed warrior girl raises both hands and releases powerful blue electric energy. Lightning bolts strike the approaching zombies, sending them flying backward. She performs fast martial arts moves, dodges zombie attacks, and defeats multiple zombies using her superpowers. Show intense action, dynamic camera angles, realistic motion, and glowing blue electricity illuminating the mall. Keep the action cinematic without graphic gore.
+
+Scene 6 (25–30 seconds): Victorious ending
+
+The girl stands confidently in the center of the mall wearing her futuristic black armored warrior outfit. Defeated zombies lie scattered in the background. Blue electric energy continues flowing around her arms and armor. Her long black hair moves gently in the air. She looks toward the camera with a fearless expression as the camera slowly moves closer. End with a dramatic cinematic hero shot.
+
+Visual style: Ultra-realistic cinematic quality, 4K detail, realistic Korean facial features, consistent character identity, dramatic lighting, realistic physics, smooth transitions, powerful blue lightning effects, detailed black futuristic armor, high-quality action choreography, vertical 9:16 composition.
+
+Important: Keep the girl's face, hairstyle, and body proportions consistent throughout every scene. The transformation must clearly change her outfit from casual shopping clothes into futuristic black combat armor. Do not keep the cream sweater or black skirt after transformation.
 ```
 
 </details>
@@ -3297,6 +3747,57 @@ SEQUENCE:
 SOUND: Crowd roar, bell, breathing, canvas footsteps, realistic glove impacts. Low drone, cello, taiko and strings build toward knockout, brief silence at impact, then orchestral hit and emotional piano/strings finale.
 
 QUALITY: Realistic physics, anatomy, sweat, skin texture, cinematic motion blur and subtle film grain. No cartoon, CGI look, plastic skin, face changes, wardrobe changes, duplicated fighters, extra limbs/fingers, deformed hands, warped faces, impossible punches, jitter, flicker, oversaturation, text, watermark or logos.
+```
+
+</details>
+
+<a id="seedance-monster-chase-jelly-gun-paris"></a>
+### Woman in orange dress fleeing monsters in Paris
+
+<a href="https://x.com/BlairHayesAi/status/2117905062303604976"><img src="../../previews/seedance-monster-chase-jelly-gun-paris.jpg" width="360"></a>
+
+The global rules line sets the look: a vintage handheld camcorder with VHS grain and muted colour. A timed shot list gives each beat its own camera angle, and the three reference images lock the heroine, the gun and the jelly creature so every cut stays consistent.
+
+Seedance 2.5 · Reference-to-video · Source: [@BlairHayesAi on X](https://x.com/BlairHayesAi/status/2117905062303604976) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`halloween`](tags.md#tag-halloween) [`monster-chase`](tags.md#tag-monster-chase) [`handheld-camera`](tags.md#tag-handheld-camera) [`transformation`](tags.md#tag-transformation)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+GLOBAL RULES: photorealistic monster chase in classical downtown Europe. Vintage handheld camcorder, muted colors, low saturation, VHS grain, gritty cinematic realism. 
+
+A young Korean woman <<<image_1>>> escapes monsters using a transformation gun <<<image_2>>> . Every monster has a completely unique appearance, silhouette, anatomy, size, texture, and movement. Extreme high-speed action, aggressive handheld tracking, fisheye angles, whip pans, snap zooms, speed ramps, heavy motion blur, speed streaks, subtle afterimages, and rapid cuts. 
+
+Different camera angle for every cut. The gun fires invisible projectiles with NO light, beams, or muzzle flashes, only violent recoil and gray muzzle smoke. 
+
+Targets INSTANTLY transform on impact (under 0.5 seconds) into adorable, crystal-clear, translucent jack-o'-lantern jelly <<<image_3>>> versions of themselves in diverse vibrant colors—ruby red, emerald green, sapphire blue, amber yellow, violet, and pink. Each jack-o'-lantern jelly creature retains its original silhouette and distinctive features, with glossy gelatin surfaces, realistic light refraction, visible internal transparency, soft elastic wobbling. 
+
+Realistic bouncing and jiggling, never floating like balloons. No slow morphing, opaque jelly, cartoon rendering, subtitles, or logos.
+
+0–2s: Aerial quarter wide shot. Unique monsters chase her through Paris traffic.
+
+2–5s: Frontal quarter tracking. She sprints toward camera, monsters closing in at extreme speed.
+
+5–6.5s: Extreme left quarter close-up. She glances back and draws her gun. Snap zoom.
+
+6.5–10s: Over-the-shoulder. She spins, fires, instantly turning a horned monster into a transparent ruby-red jack-o'-lantern  jelly <<<image_3>>> creature.
+
+10–14.5s: Ground-level fisheye. She slides beneath two attacking monsters, fires twice, instantly transforming them into translucent emerald-green and sapphire-blue jack-o'-lantern jelly <<<image_3>>> creatures.
+
+14.5–16s: Dutch angle. A woman <<<image_1>>> performs aerial acrobatics and shoots a gun, and the monsters turn into jelly while floating in the air.
+
+16–20s: Side tracking. She leaps over a barrier, shoots a dumpster, instantly turning it into a giant transparent amber jack-o'-lantern jelly <<<image_3>>> Monsters crash into its elastic surface.
+
+20–22s: Extreme low angle. A colossal, uniquely shaped monster towers over Paris.
+
+22–27s: rear quarter hero shot. She fires to A colossal, uniquely shaped monster with massive recoil and smoke. 
+
+The giant instantly transforms into an enormous, crystal-clear violet jelly monster, turns into a giant jack-o'-lantern jelly <<<image_3>>>. 
+
+27–30 seconds: A medium close-up, upper-body shot from the front. A woman takes a jack-o'-lantern jelly <<<image_3>>> candy from a bag <<<image_4>>> and eats it. 
+
+The handheld camera slowly moves toward her face, capturing the contrast between the chaotic streets of Seoul—overrun by monsters—and her own remarkably calm reaction.
 ```
 
 </details>
@@ -3728,363 +4229,6 @@ Final wide shot at peak — arms open, head back, eyes closed, face of pure free
 AUDIO: SFX ONLY. NO MUSIC. Wind rushing. Web snap and twang. Feet hitting car roof. Feet hitting pavement — real impact sounds. Taxi horn. Her genuine laugh. "WOOHOO!" echoing between buildings. Wind cutting as she rises. Then — silence at the peak.
 
 RED Monstro 8K, anamorphic, 165cm 47kg controlled athletic body throughout, physical contact with walls/cars/surfaces at every opportunity, detailed body mechanics per movement type — swing/run/push-off/sprint, NO ragdoll NO float, severe Dutch angle during swings, golden hour sunset sky warm orange pink, dramatic volumetric clouds, subject at rooftop level NOT high altitude, subject tiny in center of wide final frame, residential NYC brownstones, continuous single drone follow, no cuts, photorealistic
-```
-
-</details>
-
-<a id="seedance-office-stealth-game-escape-elevator"></a>
-### Office worker sneaks to elevator, stealth game
-
-<a href="https://x.com/Just_sharon7/status/2099440985872933199"><img src="../../previews/seedance-office-stealth-game-escape-elevator.jpg" width="360"></a>
-
-A cast separation block gives each character a distinct height, age and hairstyle so they stay separate people. Seedance is told to use one unbroken third person camera with a spring delay, smooth FOV breathing, a timed beat list and a single hard cut to a locked reverse shot.
-
-Seedance 2.5 · Image-to-video · Source: [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2099440985872933199) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`stealth-game`](tags.md#tag-stealth-game) [`third-person`](tags.md#tag-third-person) [`one-take`](tags.md#tag-one-take) [`office`](tags.md#tag-office) [`hud`](tags.md#tag-hud)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-SCENE CONTEXT
-
-A 30-second realistic AAA third-person stealth-action game sequence set in a Japanese corporate office at exactly 5:00 PM on a bright weekday afternoon. The player character, NAGI, has finished her work and must reach the elevator without being stopped by her boss and given another assignment.
-
-ACTIVE REFERENCES
-
-[@Image1] = NAGI’s facial identity, if a character reference is supplied. Use only her facial appearance as the identity reference; replace any school clothing and background with the adult office character and environment specified below.
-
-NAGI: Japanese woman, 25, long straight black hair with blunt bangs, white short-sleeve office blouse, charcoal tailored trousers, black leather belt, white minimalist sneakers, employee ID clipped to her waistband, small black work tote held close to her body.
-
-Voice: light, breathy adult female voice, speaking Japanese in a hushed whisper. Keep her face, hairstyle, outfit, proportions, and accessories identical throughout.
-
-CAST SEPARATION
-
-Four distinct adult office characters appear, each with a different silhouette, age, and hairstyle so they read as separate people:
-
-TEAM LEADER: man in his 40s, 170 cm, average build, full head of short black hair parted at the side, thin metal-framed glasses, white dress shirt with a loosened navy tie. Appears only beside the first desk cluster, checking his watch.
-PAPERWORK COWORKER: woman in her 20s, 160 cm, slim, brown hair in a high ponytail, beige cardigan over a white blouse, carrying a thick stack of printouts. Appears only in the printer aisle.
-BOSS: man in his 60s, 160 cm, stout and round-shouldered, completely bald with a shiny scalp and a fringe of white hair above the ears, round gold-rimmed glasses, charcoal three-piece suit with a company lapel badge, carrying a blue assignment folder. Appears at the corridor T-junction and remains in that connected corridor during the whiteboard sequence.
-OFFICE ASSISTANT: man in his early 30s, 182 cm, lean and broad-shouldered, thick full black hair swept back, short beard, navy shirt with rolled sleeves, dark trousers, no glasses. Pushes the mobile whiteboard from the meeting-room alcove toward the elevator lobby.
-
-The BOSS is the only bald character in the entire video. The OFFICE ASSISTANT keeps a full head of thick black hair and a beard, stands more than 20 cm taller than the BOSS, and is clearly a different, much younger man.
-
-LOCATION MAP
-
-One unbroken spatial route the camera travels with her:
-
-Her workstation → low desk partition → printer aisle → corridor T-junction → meeting-room alcove with mobile whiteboard → elevator lobby → elevator interior.
-
-Keep the route compact and physically traversable within the 27-second continuous section.
-
-Foreground: polished linoleum floor, office desks, steel filing cabinets, rolling chairs, and reflective glass meeting-room partitions.
-
-Background: window wall on camera-right overlooking neighboring office buildings, dust suspended in the sunbeams. Light enters from camera-right along the office route.
-
-ELEVATOR GEOMETRY
-
-The elevator entrance is at the end of the office corridor. The call button is on the wall beside the entrance. The elevator is empty when NAGI enters.
-
-Inside the elevator: brushed-metal rear wall, side handrails, softly illuminated ceiling, control panel beside the doorway. No rear exit and no mirror creating a second NAGI.
-
-NAGI enters facing the rear wall, then turns to face the open elevator doors.
-
-For the final reverse shot, the camera is positioned INSIDE the elevator, immediately beside the doorway, looking inward at NAGI. The brushed-metal rear wall is behind her. The elevator doors close behind the camera, allowing her face to remain visible throughout the final shot.
-
-FIRST FRAME / BLOCKING
-
-First frame is already in motion: NAGI darts in from lower-left toward camera-right, work tote clutched to her chest, and drops into a crouch-slide behind a low desk partition beside her workstation.
-
-Camera behind her right shoulder. Game HUD fully visible from frame one.
-
-A small desk clock reads 17:00.
-
-FORMAT MODE
-
-One continuous unbroken take from 0.0s to 27.0s with no cuts of any kind, then a single HARD CUT at 27.0s to one final locked reverse shot that runs to 30.0s.
-
-Exactly one cut exists in the whole video, at 27.0s. The camera does not cut anywhere else.
-
-OPTICS
-
-One lens for the continuous section: 47° third-person over-the-shoulder framing as the baseline, breathing in to 29° on reaction beats and out to 63° for the boss encounter and moving-whiteboard concealment.
-
-All FOV changes in that section happen as smooth continuous zoom breathing, never as a jump.
-
-The final shot after the cut is a fixed 29° frontal framing of NAGI, no drift.
-
-CAMERA
-
-For the continuous section, the camera is a physical object flying with her.
-
-Chest-height, 1.5 meters behind NAGI, slightly camera-right of her spine, swinging with a soft spring delay half a beat behind her turns like an analog-stick gameplay camera.
-
-It dips to knee height when she crouches, rises when she stands, slides sideways along the filing cabinets with her, swings wide to corridor-left to reveal the boss encounter, drifts behind her for the moving whiteboard, and follows her through the open elevator doorway.
-
-The camera travels through open space around desks and partitions. It never clips through furniture, walls, the whiteboard, or elevator doors.
-
-After the cut, the camera is repositioned inside the elevator beside the doorway, looking inward at NAGI — locked off, eye level, completely static, no movement.
-
-ACTION
-
-[Beat 1 — 0.0s to 6.0s]
-
-NAGI crouch-slides behind the low desk partition, back flat against it, chest heaving. She leans out 20 cm to peek at the TEAM LEADER checking his watch beside the adjacent desk cluster, then pulls back.
-
-She whispers in Japanese:
-
-{定時だ…捕まったら終わり。}
-
-HUD flashes 【5:00 PM — SHIFT OVER】 and the mission banner 【OBJECTIVE: REACH THE ELEVATOR UNDETECTED】.
-
-The TEAM LEADER turns toward a ringing desk phone. NAGI slips behind his back, staying below the desk-partition line, and moves into the printer aisle.
-
-The camera follows without stopping.
-
-[Beat 2 — 6.0s to 12.0s]
-
-The camera stays with her beside the steel filing cabinets.
-
-NAGI presses her spine flat against the cabinets and shuffles sideways at 2 km/h, sneakers rolling heel-to-toe in silence. The camera tracks sideways with her at the same speed.
-
-The PAPERWORK COWORKER walks past the end of the row carrying a thick stack of printouts, scanning the office for someone available to help.
-
-NAGI holds her breath, pupils tracking the coworker without moving her head, and whispers:
-
-{来ないで…こっち見ないで。}
-
-The minimap vision cone sweeps past NAGI’s marker and turns away.
-
-HUD shows 【SNEAKING MODE】.
-
-The PAPERWORK COWORKER exits frame-left. NAGI exhales, crouches beneath the edge of the last desk, and slips into the corridor with the camera still on her shoulder.
-
-[Beat 3 — 12.0s to 18.0s]
-
-The BOSS steps around the T-junction two meters in front of her, blue assignment folder in hand.
-
-He catches a brief glimpse of movement. A red exclamation marker snaps above his bald head with a sharp alert sting. The HUD edge pulses red: 【ALERT】.
-
-He starts saying in Japanese:
-
-{なぎさん、追加の仕事が…}
-
-The camera swings wide to corridor-left as NAGI reacts in one motion: hugs her tote tightly against her ribs, drops below his eye line, pivots around the corner of a tall filing cabinet, and slips into the adjacent meeting-room alcove.
-
-The cabinet fully blocks his view before he can finish approaching her.
-
-She whispers:
-
-{今だけは無理…！}
-
-HUD prints 【EVASIVE MANEUVER】 and 【BREAK LINE OF SIGHT】.
-
-The BOSS takes a step toward the place where he last saw her, looking around the cabinet. NAGI has already moved to the far side of a mobile whiteboard in the alcove.
-
-The camera falls in behind her again.
-
-[Beat 4 — 18.0s to 24.0s]
-
-The OFFICE ASSISTANT starts pushing the mobile whiteboard out of the meeting-room alcove toward the elevator lobby.
-
-The whiteboard is a tall, opaque rectangular board on a metal frame with four caster wheels. Its panel extends low enough to conceal NAGI’s crouched torso and head; only her white sneakers occasionally show below the frame.
-
-NAGI crouches on the side opposite the BOSS and shuffles with the board, matching its rolling speed exactly. She keeps her tote tucked close so it never protrudes beyond the board’s edge.
-
-The camera tracks low on her concealed side, showing her careful steps and the BOSS intermittently visible beyond the board’s far edge.
-
-The BOSS pauses, looks toward the moving whiteboard for a full beat, then turns back toward the office with his assignment folder.
-
-From behind the board, NAGI whispers:
-
-{ホワイトボード…最強。}
-
-HUD prints 【MOBILE COVER EQUIPPED】, then 【ENEMY LOST CONTACT】.
-
-The alert bar drains to green.
-
-The OFFICE ASSISTANT steers the board into a wall recess beside the elevator lobby. NAGI slips away from its concealed side as it stops.
-
-[Beat 5 — 24.0s to 27.0s]
-
-NAGI reaches the elevator call button and taps it once.
-
-A soft arrival chime sounds. The elevator is already waiting on this floor; its doors slide fully open.
-
-She slips through the clear doorway. The camera follows her inside, staying behind her shoulder.
-
-She turns to face the entrance and presses the door-close button once. Her shoulders remain tense, tote held tightly in both hands.
-
-The doors remain open until the cut.
-
-27.0s HARD CUT
-
-[Beat 6 — 27.0s to 30.0s]
-
-Locked static reverse shot from inside the elevator beside the doorway, looking inward:
-
-NAGI stands facing camera, shoulders squared, work tote held in front of her, chest still rising fast. Behind her are the brushed-metal rear wall and a horizontal handrail.
-
-Off camera behind the lens, from the distant office corridor, the BOSS calls in Japanese:
-
-{なぎさん、ちょっといい？}
-
-The elevator doors slide closed behind the camera. Their narrowing opening is registered by the shrinking patch of corridor light across NAGI’s face and the sliding-door sound.
-
-NAGI answers brightly, looking straight down the lens:
-
-{お先に失礼します！}
-
-The doors finish closing. Her shoulders drop with relief.
-
-HUD prints 【MISSION COMPLETE】, 【STEALTH RANK: S】, 【ADRENALINE +150】, and the final notification:
-
-【AFTER-HOURS TASK EVADED】
-
-Final frame: NAGI facing camera, a tiny triumphant smile pulling at one corner of her mouth.
-
-PERFORMANCE
-
-Photographic human realism indistinguishable from live-action footage: skin with visible pores, fine vellus hair catching the light, subsurface scattering in the earlobes and fingertips, capillary flush across her cheeks and ears from running, individual flyaway strands lifting off her hair, wet living eyes with true window catchlights and a faint red inner rim, clean matte skin.
-
-Visible fast breathing at the collarbone, eyes darting a half-second before her head turns.
-
-Tension shown by muscle: shoulders drawn up to her ears, fingers clamped white on the tote handles, jaw set, then a full-body shoulder drop on each escape.
-
-All adults have equally real skin, real hair follicles, and natural asymmetric faces.
-
-PHYSICS
-
-Her blouse and tailored trousers crease naturally during crouches and turns. Hair lags and sweeps across her face on fast direction changes.
-
-The work tote has real weight: its handles pull taut in her hands, and its body swings with inertia before settling against her torso.
-
-The mobile whiteboard has real mass. Its caster wheels rotate against the floor, swivel when steered, and rattle lightly over a flooring seam. The board wobbles subtly when the OFFICE ASSISTANT starts and stops it.
-
-NAGI moves with her own visible footsteps; the board does not drag or transport her.
-
-The coworker’s printouts flex slightly while walking. The BOSS’s folder stays in his hand.
-
-Elevator doors slide smoothly on fixed tracks and close only after NAGI and the camera are fully inside.
-
-Contact shadows stay glued under every foot, every knee, every furniture leg, and every caster wheel.
-
-LIGHTING
-
-One continuous light logic across the office route: bright late-afternoon sun at 5600K entering from the window wall on camera-right, throwing long window-frame stripes across the floor.
-
-NAGI passes through light and shadow as she travels. Soft bounce fill off the pale linoleum lifts her face. Fine dust hangs suspended in the sunbeams.
-
-The elevator lobby receives the same window light. Inside the elevator, neutral overhead illumination provides continuous soft fill.
-
-In the final reverse shot, the same corridor daylight enters from camera-left through the open doorway, raking across her cheek. As the doors close behind the lens, this daylight narrows and disappears naturally, leaving the elevator’s established overhead light.
-
-Exposure rolls smoothly as she moves between bright and shadowed stretches, and the color temperature matches exactly across the cut.
-
-HUD
-
-GTA-style real-time game HUD locked to fixed screen positions for the whole 30 seconds, with every on-screen word written in English:
-
-Circular minimap bottom-left with the player arrow and yellow vision cones for the office characters; health and stamina bars top-left; alert-state bar shifting green to amber to red; controller button prompts bottom-right; English mission objective text top-center; floating red exclamation markers over alerted characters; notification cards sliding in from screen-right.
-
-The HUD stays in the same screen positions across the cut.
-
-No subtitles or caption bars anywhere on screen.
-
-The HUD is a clean flat graphic overlay composited on top of fully photographic live-action-grade footage.
-
-AUDIO
-
-Tense minimalist stealth synth loop with a pulsing heartbeat underneath, running unbroken across the cut and resolving to a short bright victory fanfare at the end.
-
-Ambience carries continuously through the cut. Office sounds become naturally muffled as the elevator doors close.
-All dialogue is spoken in Japanese.
-STYLE
-Photoreal live-action realism, real human beings and real fabric, natural skin tones with true-to-life color science, physically correct materials, realistic human proportions and anatomy, real optical depth of field, real floor reflections, subtle handheld gameplay motion blur, fine film grain at 5%, sharp detail intent.
-OUTPUT SETTINGS
-16:9, real-time speed throughout, one continuous 27-second take plus one 3-second locked shot after a single hard cut.
-POSITIVE LOCKS
-Exactly one cut in the entire video, at 27.0s — everything before it is a single unbroken take with the camera connected to NAGI.
-NAGI is consistently an adult office employee, 25, with the same face, long black hair with blunt bangs, white office blouse, charcoal tailored trousers, black belt, white sneakers, clipped employee ID, and black work tote throughout, with dry clean skin.
-The work tote stays with her throughout.
-The mobile whiteboard appears only from the meeting-room alcove onward and is physically pushed by the OFFICE ASSISTANT. It remains between NAGI and the BOSS during the concealment beat.
-
-The bald BOSS in the charcoal suit and the tall bearded OFFICE ASSISTANT with thick black hair are unmistakably different men.
-
-The office route remains spatially continuous. Characters do not teleport between locations.
-
-NAGI enters the elevator before turning toward its doors.
-
-In the final shot, the camera is inside the elevator beside the doorway, with NAGI facing the lens and the brushed-metal rear wall behind her. The doors close behind the camera; they never pass between the lens and her face.
-
-All on-screen text is English. The last 3 seconds hold a locked frontal eye-level shot of NAGI facing camera.
-
-HUD elements stay in the same screen corners throughout.
-
-One single NAGI on screen at all times.
-
-All spoken lines are in Japanese.
-
-Sunlight direction stays consistent across the office route, with a physically motivated transition to elevator lighting as the doors close.
-
-Final notification: 【AFTER-HOURS TASK EVADED】.
-```
-
-</details>
-
-<a id="seedance-osaka-grandma-double-dip-police-chase"></a>
-### Osaka grandma double-dips and outruns police
-
-<a href="https://x.com/SSSS_CRYPTOMAN/status/2098390231695376452"><img src="../../previews/seedance-osaka-grandma-double-dip-police-chase.jpg" width="360"></a>
-
-Timed beats (0 to 6s, 6 to 10s and so on) lock the sequence in order, and a fixed third-person game camera with one character and bike description keeps the look consistent across all 30 seconds. The deadpan ending, where a candy defuses the wanted level, lands because everything else is written as a serious AAA crime scene.
-
-Seedance 2.5 · Text-to-video · Source: [@SSSS_CRYPTOMAN on X](https://x.com/SSSS_CRYPTOMAN/status/2098390231695376452)
-
-[`game-style`](tags.md#tag-game-style) [`chase`](tags.md#tag-chase) [`comedy`](tags.md#tag-comedy) [`timed-shots`](tags.md#tag-timed-shots)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-30秒の連続映像。大阪を舞台にしたAAA級オープンワールド犯罪アクションゲーム風のプレイ映像。実写映画ではなく、最新AAAゲームの高精細なリアルタイム3DCGとして描く。人物の肌、髪、衣服、道路、車両、建物、照明、影、反射、物理挙動まで、リアルだが明確にゲームCGらしい質感で統一する。主人公の背後から追従する三人称ゲームカメラを基本とし、実際にプレイヤーが操作しているように空間と動きを連続させる。左下に小さな円形ミニマップと体力ゲージ、右上に手配度の星を表示。
-
-舞台は雨上がりの夕方、大阪ミナミを思わせる繁華街。串カツ店、狭い商店街、派手な立体看板、雑居ビル、自動販売機、路上駐輪、電線、濡れたアスファルトが並ぶ。主人公は60歳前後の大阪のおばちゃん。短い紫がかったパーマ、金色のイヤリング、オレンジと黒のトラ柄シャツ、黒いパンツ、赤いスニーカー、斜め掛けバッグ。がっしりした体格で眼光が鋭い。乗り物は銀色の普通のママチャリ。前カゴにはスーパーの買い物袋と長ネギ。顔、衣装、自転車、小物は全編で統一する。
-
-0〜6秒。三人称視点でおばちゃんが串カツ店の屋外カウンターに立つ。串カツを共用ソースに一度浸し、一口食べた直後、その食べかけの串をもう一度ソースへゆっくり浸す。周囲の空気が止まり、店主が絶句。近くの警察官が「二度漬けやないか！」と叫ぶ。右上の手配度が★2へ上昇。警察官がおばちゃんの腕をつかむが、おばちゃんは強く振りほどき、警察官を突き飛ばす。警察官は金属テーブルにぶつかり地面へ倒れる。重量感のある衝撃。手配度が★3になる。
-
-6〜10秒。おばちゃんは買い物袋を拾い、店先のママチャリへ向かう。追ってくる警察官を無視し、袋を前カゴへ放り込み、自転車にまたがって全力で発進。カメラが自然に自転車後方のゲーム視点へ移行。遠くからパトカーのサイレン。
-
-10〜17秒。おばちゃんが大阪の狭い商店街を猛スピードで逃走。現実的なペダリングで必死に加速し、服やバッグが揺れ、前カゴの長ネギが激しく振動する。後方からパトカーと警察バイクが追跡。おばちゃんは路地を急旋回し、追跡車両は急ブレーキ。濡れた路面でタイヤが鳴き、車体がカラーコーンや壁を擦る。逃走中、おばちゃんは歩行者1人にママチャリで接触して転倒させ、別の歩行者の肩をかすめる。周囲から「危ないやろ！」「何さらしてんねん！」と罵声が飛ぶ。おばちゃんも前方を見たまま「どいてや！」と怒鳴る。短くベルを鳴らし、さらに狭い路地へ突入。手配度は★4。
-
-17〜23秒。前方を警察官2人が塞ぐ。おばちゃんは強くブレーキをかけ、濡れた路面で後輪を少し滑らせて停止。すぐにママチャリを降り、前カゴから長ネギを引き抜く。進路を塞ぐ1人目の警察官の腕を長ネギで強く叩き、そのまま顔面へ一撃。警察官はよろめいて倒れる。2人目が接近すると、おばちゃんは長ネギを横薙ぎに振り、肩から首元を打ってひるませ、さらに体当たりして地面へ倒す。ネギは大きくしなり、一部が潰れる。人体には重さがあり、大げさには吹き飛ばない。おばちゃんは乱れた長ネギを持ったまま進もうとするが、路地の出口をさらに別の警察官が塞ぎ、後方にはパトカー。完全に包囲される。
-
-23〜30秒。BGMが静まり、サイレン、警察無線、おばちゃんの荒い呼吸が響く。警察官が慎重に近づき「もう逃げられへんで」と言う。おばちゃんは無言で斜め掛けバッグに手を入れる。警察官が緊張する。おばちゃんが取り出したのは赤い透明包装の小さな飴。肩越しのゲームカメラで、おばちゃんが低い声で「兄ちゃん、飴ちゃん食べる？」と言う。短い沈黙。警察官が飴とおばちゃんを交互に見る。おばちゃんが警察官の手のひらに飴を1個置く。警察官は少し迷い、静かに受け取る。その瞬間、右上の手配度が★★★★から★★★、★★、★、0へ順番に消えていく。サイレンも止まる。警察官は無言で身体を横へずらして道を空ける。おばちゃんは小さくうなずき、ママチャリに戻って乗り込む。警察官の横を通り過ぎながら「ほな」と一言。最後は標準的な三人称ゲーム視点に戻り、折れかけた長ネギを前カゴから突き出したまま、おばちゃんが大阪の街へ走り去る。
-
-全編を通して、人物、街、車、自転車、衝突、衣服、表情、路面反射を最新AAAゲームのリアルCGとして描写する。犯罪ゲームらしい緊張感と重量感を保ちつつ、「串カツ二度漬け→ママチャリ逃走→ネギで警察を突破→飴ちゃんで手配解除」という異常な展開だけがシュールな笑いになる構成。
-```
-
-</details>
-
-<a id="seedance-pakistani-train-compartment-fight"></a>
-### Woman fights men in old train compartment
-
-<a href="https://x.com/Zoyavelle/status/2104802751435911223"><img src="../../previews/seedance-pakistani-train-compartment-fight.jpg" width="360"></a>
-
-Names the camera rig (handheld, dynamic tracking, low angle) and places the fight in a narrow aisle so the choreography has clear spatial logic. The negative prompt guards against the usual CGI look, anatomy errors and duplicate people.
-
-Seedance 2.5 · Text-to-video · Source: [@Zoyavelle on X](https://x.com/Zoyavelle/status/2104802751435911223) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`action`](tags.md#tag-action) [`martial-arts`](tags.md#tag-martial-arts) [`handheld`](tags.md#tag-handheld) [`photorealistic`](tags.md#tag-photorealistic)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-“cartoon, anime, CGI look, unrealistic anatomy, extra fingers, extra limbs, distorted face, duplicate people, floating objects, unnatural movement, excessive blood, gore, blurry faces, low quality, oversaturated colors, text, subtitles, watermark, logo.”
-Aspect Ratio: 16:9
-Style: Photorealistic cinematic action
-Duration: 20 seconds
-Camera: Handheld + dynamic tracking + low-angle shots
-Quality: 4K cinematic realism
 ```
 
 </details>

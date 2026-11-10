@@ -1,0 +1,24 @@
+id: nano-banana-alpine-menswear-shearling-coat-portrait
+title:
+  en: Man in black shearling coat on alpine balcony
+  zh: 黑色羊皮大衣男士站在阿尔卑斯山阳台
+model: Nano Banana 2.1
+mode: text-to-image
+category: portrait
+tags:
+- portrait
+- menswear
+- winter
+- editorial
+source:
+  name: '@pictsbyai on X'
+  url: https://x.com/pictsbyai/status/2119706055076942142
+  credit: Picts by AI
+  likes: 44
+  captured: '2026-11-10'
+  posted: '2026-11-09'
+notes:
+  en: The prompt pins exact hex colours for skin, coat and gloves, then names the lens, aperture, shutter speed and exposure bias like a camera setup. Scene layout, foreground framing and the 9:16 ratio are stated outright so the model composes the portrait instead of guessing.
+  zh: 提示词精确给出皮肤、大衣和手套的十六进制颜色，并像相机设置一样写明镜头、光圈、快门速度和曝光补偿。场景布局、前景框架和 9:16 竖幅比例都直接写明，让模型按构图出片而不是自行猜测。
+prompt: |
+  An adult male with warm beige skin (#D2A183) stands centered in a medium-scale portrait, wearing a plush jet-black (#121214) shearling overcoat with leather collar tabs over a black turtleneck. His dark brown hair is styled in a tapered side-part quiff with short sides above the ears, a 3-inch swept-back wavy top, a matte finish, and minor crown flyaways, paired with a groomed short full beard and mustache. Featuring neutral eyebrows and slightly parted lips in a confident, posed expression, he angles his head slightly left to look off-camera behind dark wayfarer sunglasses. Standing straight-on with level shoulders, his hands are clad in charcoal-brown (#332B28) suede-leather gloves and clasped at his waist, with his relaxed left hand and gently curved fingers resting over his right wrist. Set on an outdoor alpine balcony with weathered grey-brown solid wood flooring, the foreground features a dark navy top rail over weathered grey horizontal wooden slats dusted with snow, alongside dried winterberry twigs (Ilex verticillata) bearing muted orange-red berry clusters in the bottom left corner. The subject is against a blurred background of snow-covered alpine slopes, dark rock ridges, and evergreen tree lines. Illuminated by a bright, cool, overcast sky (#EAECEF) from above and front-left with snow bounce fill, the scene exhibits medium-to-high contrast, soft short gray shadows under the chin, coat folds, and railing, and preserved highlights across the forehead, nose bridge, sunglass frames, and coat shoulders. Shot as a tack-sharp, realistic digital photograph on a full-frame camera with an 85mm prime lens at f/2.8, 1/1000s, and ISO 100 (+0.7 EV), the luxury alpine menswear editorial incorporates cool desaturated monochromatic grading, lifted blacks, highlight recovery, and a shallow depth of field, framed in a 9:16 vertical portrait aspect ratio.

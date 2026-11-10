@@ -1,0 +1,44 @@
+id: seedance-golden-wings-girl-iron-man-climb
+title:
+  en: Girl with golden wings climbing wall beside Iron Man
+  zh: 金色翅膀女孩攀爬墙面，钢铁侠同框
+model: Seedance 2.5
+mode: video-edit
+category: vfx
+tags:
+- video-to-video
+- identity-swap
+- motion-lock
+- iron-man
+source:
+  name: '@itsSaira_1 on X'
+  url: https://x.com/itsSaira_1/status/2103734886511128914
+  credit: itsSaira_1
+  captured: '2026-11-10'
+  posted: '2026-09-26'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/itsSaira_1/status/2103734886511128914
+notes:
+  en: Timestamped beats tie each segment to the source clip, so only the girl's identity changes while motion, camera and golden wing effects stay locked. The explicit list of banned changes, such as camera flips, reverse motion and extra characters, stops drift across the 20 second edit.
+  zh: 分段时间轴把每一段都绑定到源视频，因此只替换女孩的身份，动作、机位和金色翅膀特效保持锁定。明确列出的禁止项，如翻转镜头、倒放和增加角色，可防止二十秒剪辑中的画面漂移。
+prompt: |
+  VIDEO-TO-VIDEO — USE THE PROVIDED VIDEO AS THE EXACT MOTION/SHOT REFERENCE.
+
+  0–3.5s: Keep the girl in the exact same position, pose, movement, camera angle and background; she is climbing/holding the structure while golden energy/wings appear behind her. Replace ONLY her identity/appearance with the supplied GIRL REFERENCE IMAGE.
+
+  3.5–5.5s: Iron Man appears exactly as in the reference video — same armor, face, proportions, flight pose, camera angle and movement. DO NOT change Iron Man.
+
+  5.5–8.5s: Return to the girl; preserve the exact original body position, facial direction, movement, environment and golden energy. Change ONLY the girl's identity to the supplied reference image.
+
+  8.5–12s: Girl falls/floats through the sky exactly like the original video, with the same wings, body motion, camera movement, scale and background.
+
+  12–15s: Girl moves/falls beside the structure exactly as shown; preserve all motion, perspective, lighting and golden effects.
+
+  15–18s: Close shot of the armored character/girl moving onto the structure; preserve the exact original action, framing and camera movement, replacing only the girl's identity.
+
+  18–20.5s: Final hero shot — girl stands exactly like the original, same golden wings, armor, pose, environment, lighting and camera framing; ONLY her face/identity/appearance comes from the supplied GIRL REFERENCE IMAGE.
+
+  IRON MAN: absolute character lock — same identity, armor, face, proportions, colors, movement and appearance throughout.
+  GIRL: replace ONLY with the supplied reference image while preserving original pose, body motion, clothing/armor structure, wings and scene.
+  NO new actions, NO changed camera, NO scene changes, NO reverse motion, NO U-turn, NO 180° flip, NO camera flip, NO text, NO logos, NO extra characters.
+  Cinematic realistic quality, seamless frame-to-frame continuity.

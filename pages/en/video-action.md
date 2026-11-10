@@ -1,6 +1,6 @@
 # Action, chases and sports
 
-[Back to the list](../../README.md) · All 210 entries · **1** · [2](video-action-2.md) · [3](video-action-3.md)
+[Back to the list](../../README.md) · All 224 entries · **1** · [2](video-action-2.md) · [3](video-action-3.md)
 
 <a id="seedance-seoul-subway-revenge"></a>
 ### Seoul subway revenge comedy
@@ -782,6 +782,31 @@ shot 4:the character is stopped by a pack of wolves.
 shot 5: he fights the wolves with his stick.
 
 Link to Spaces below
+```
+
+</details>
+
+<a id="h3-mai-shiranui-desktop-fan-attack"></a>
+### Mai Shiranui fan strike scatters then restores desktop icons
+
+<a href="https://x.com/aidavid125/status/2102662408271692102"><img src="../../previews/h3-mai-shiranui-desktop-fan-attack.jpg" width="360"></a>
+
+A reference image locks the character and desktop layout, then a timed shot list sets the order of attack, close-up and restore. Each shot names its camera move and sound beat so the cuts and audio land on the same timing.
+
+MiniMax H3 · Reference-to-video · Source: [@aidavid125 on X](https://x.com/aidavid125/status/2102662408271692102) · 439 likes on 2026-11-10 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`fighting-game`](tags.md#tag-fighting-game) [`mai-shiranui`](tags.md#tag-mai-shiranui) [`multi-shot`](tags.md#tag-multi-shot) [`desktop-scene`](tags.md#tag-desktop-scene)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description: [Shot 1] 2D-animated, retro arcade fighting-game character art style blended with a clean macOS desktop scene, exactly as established in <Picture 1>: an arc-shaped light-band wallpaper sweeps from deep blue-violet at the lower left to orange-red and magenta at the upper right over a mirror-like reflective ground; two vertical columns of glossy rounded-square application icons stand on the left half — each icon is a clean pictogram with NO text label beneath it: the first column shows from top to bottom a blue smiling face, a red-yellow-green ring around a blue center dot, a white "N" block in a dark frame, a light-blue infinity-style ribbon, a dark tile with blue letters, an amber tile with yellow script, a purple tile with white letters, and green arcs inside a circle; the second column shows two white chat bubbles on green, a penguin on white, a white paper plane on blue gradient, four colored squares in a grid, a blue-green spiral ring, a red play triangle, colorful pinwheel petals, and a white "A" brushstroke on blue — on the right stands the brown high-ponytail young woman with white horn-like hair ornaments, wearing a red high-slit qipao-style fighting outfit with a large white waist knot trailing red-floral ribbons and white-tassel beads in her hair, black fingerless gloves and red-black heeled sandals; she holds an open white fan with red trim hanging behind her hip while one hand rests on her waist, gazing back over her shoulder. The camera pushes in with small amplitude at slow speed as she pivots from the回眸 stance into a low crouch, orange-yellow fire ribbons beginning to swirl around her feet and embers spiraling upward past her shoulders. [Shot 2] At 00:04.500, the camera cuts to a wider shot of the full desktop as she explodes out of the crouch into a dramatic backbend spin — one leg planted, the other extended far to the side-rear, torso twisted and arched backward, ponytail flaring wide in the motion — and roars <d>[Japanese] 超必殺・忍蜂！</d> A ring of glowing shuriken erupts from her spinning body and orbits outward like a whirlpool across the center of the screen; as the blades sweep through the icon columns, open fans launch from her wrist in rapid succession and strike the icons one by one — each struck icon wobbles violently, peels off its grid position, and tumbles downward with motion blur past the reflective ground out of frame, trailing orange-yellow sparks. The final shuriken detonates at the center of the grid as a white-blue light bloom, shaking the whole desktop loose; every remaining icon rains down in a cascade while her spin finishes in a low landing, one hand extended forward, palm up. [Shot 3] At 00:10.500, the camera cuts to a medium close-up of the young woman across the now-empty center of the screen; her expression stays calm and unbothered, lips pressed into a confident smirk while embers drift past her shoulder. She slowly raises her open fan beside her face and says <d>[Japanese] 花蝶扇。</d> Orange-yellow flame begins to gather along the fan's ribs like liquid fire pooling on silk, the light reflecting off her white waist knot and red-floral ribbons as tiny sparks orbit her wrist. [Shot 4] At 00:13.500, the shot cuts back to the full desktop as she sweeps the burning fan in a wide graceful arc through another spin; ribbons of orange-yellow flame unfurl from the fan like butterfly wings trailing behind her, and each ribbon's tip hooks one falling icon from below the frame, reeling it smoothly up into its exact original grid position — every lock-in flashing a small white-blue light bloom with a sharp click as the icons seat crisply back into place, restoring both columns perfectly. The last ribbon curls around the final icon and dissolves into sparks that spiral back into her fan as she closes it with a snap at her hip. [Shot 5] At 00:17.000, the camera cuts to a low-angle hero shot as she settles into her classic pose from <Picture 1>: side-turned stance with weight on the rear leg, one hand on her waist, the closed fan held elegantly beside her face, chin tilted down in a cold confident glare while her ribbons and hair flare outward in the residual wind. The camera pulls out with small amplitude at slow speed, revealing the fully restored desktop around her; drifting orange sparks fade to black as she holds the pose until the end of the video.
+
+overall_soundscape: Low flame crackle builds under a rumbling charge, then an explosive whoosh on the backbend spin — rapid shuriken whistles and fan-snap cracks striking icons one after another — followed by cascading rattling clatters as icons tumble out of frame and a sharp white-blue burst pop. A crisp fan snap and a soft confident breath carry across the empty desktop during the calm close-up. Rising flame hiss gathers along the fan's ribs, then graceful silk-ribbon whooshes sweep through the spin while crisp snap-back clicks land one after another as each icon locks into place with tiny light-bloom pops, ending with a low resonant boom under guttering ember crackle.
+
+non_diegetic_music: Driving taiko drums with fast electronic percussion at a high tempo building to a hard hit on the shuriken barrage, dropping out to sparse sustained synth and a single koto pluck during the calm close-up, then returning for one final strong downbeat as she locks her classic pose.
 ```
 
 </details>
@@ -3376,42 +3401,6 @@ integrated_multimodal_description: [Shot 1] Photoreal live-action rainy alley co
 overall_soundscape: Two distinct female vocal identities only: Chun-Li mature and steady, Cammy younger and tighter, expressed only through breath and impact exhalations. Heavy rain, splashing steps, wet fabric friction, short solid body impacts, close breathing, and distant alley ambience remain continuous. Lower the environment slightly before the line while keeping rain audible, then retain Cammy’s unanswered inhale and nearby rainfall after it.
 
 non_diegetic_music: N/A
-```
-
-</details>
-
-<a id="h3-swordswoman-kinetic-typography-title"></a>
-### Anime swordswoman in kinetic typography title sequence
-
-<a href="https://x.com/opener_ai/status/2085159317578330229"><img src="../../previews/h3-swordswoman-kinetic-typography-title.jpg" width="360"></a>
-
-A numbered shot list with timed beats, paired with an identity reference image, keeps the character consistent while 3D title words move through the action. Telling the model to ignore the reference sheet's layout and labels keeps those artifacts out of the video.
-
-MiniMax H3 · Reference-to-video · Source: [@opener_ai on X](https://x.com/opener_ai/status/2085159317578330229) · 36 likes on 2026-10-29 · found via [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
-
-[`anime`](tags.md#tag-anime) [`martial-arts`](tags.md#tag-martial-arts) [`kinetic-typography`](tags.md#tag-kinetic-typography) [`identity-reference`](tags.md#tag-identity-reference)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-[1] FORMAT
-15-second 16:9 stylized anime action title sequence — martial-arts choreography fused with 3D kinetic typography. Painterly 2D anime illustration look with cel-shaded volumes and subtle paper grain, matching the source artwork's rendering.
-
-[2] ASSETS
-Use Image 1 as a strict identity reference for the female duelist KAELAN — read only the character artwork itself for her face, hair, wardrobe, weapon, and color palette. Ignore the sheet's layout, panels, printed labels, handwriting, silhouette thumbnails, and background parchment; none of them may appear in the video.
-
-[3] IDENTITY
-Preserve exactly: deep brown skin with warm highlights; luminous crimson-red eyes with a sharp black liner shape; jet-black hair pulled into a tight scalp-wrapped part that splits into two very long thick braids falling past the hips, moving like weighted whips; large white crescent hoop earrings on both ears; black high-neck sleeveless crop top exposing a toned midriff; a sheer white long-sleeved kimono robe worn open, translucent and lightly billowing; cream wide-leg hakama trousers with a single black diamond patch on the left thigh; black wrapped fingerless gloves with lattice cord across the back of the hand; white cloth-wrapped platform sandals; a well-worn katana with a dark blue-grey blade and a black diamond-wrapped hilt. Her expression stays calm and unblinking, never comic.
-
-[4] BEATS
-Shot 1 — [0–3 seconds] Kaelan stands centered in a void of warm off-white light, katana point-down, braids settling. She exhales; a slow iai draw begins. → Hard cut.
-Shot 2 — [3–6 seconds] Mid-draw. The blade clears the saya and a clean arc of light follows the edge. The 3D extruded word "HAILUO" flies in from screen left along the blade's arc, its letter faces catching the same light, passing BEHIND her shoulder and IN FRONT of her trailing braid before exiting right. → Whip-pan cut.
-Shot 3 — [6–9 seconds] Full-body kata combination: descending cut, pivot, rising horizontal sweep. Her sheer robe and both braids trail one frame behind her body. The word "MINIMAX" rotates up from the floor plane in thick extruded 3D, standing taller than her, and she cuts through the gap between its letters — the letterforms hold solid, do not shatter. → Hard cut.
-Shot 4 — [9–12.5 seconds] Low-angle crouch landing, sword arm extended back, dust ring pushing outward. "H3" slams in from depth as a massive chromed 3D glyph directly behind her, scaling down to lock, with her silhouette reading cleanly against it. → Flash cut on the impact frame.
-Shot 5 — [12.5–15 seconds] She rises into the neutral standing pose, katana returning to point-down. The full lockup "HAILUO MiniMax H3" assembles from the three pieces on a single horizontal baseline at lower third, settles, and holds perfectly still through the final frame.
-
-[5] CAMERA
-Anamorphic-feel 35mm for wides, 50mm for the mid shots.
 ```
 
 </details>

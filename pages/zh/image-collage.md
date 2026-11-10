@@ -1,6 +1,6 @@
 # 拼贴
 
-[返回目录](../../README_zh.md) · 全部 103 条
+[返回目录](../../README_zh.md) · 全部 106 条
 
 <a id="gpt-image-failed-photos-grid"></a>
 ### 任意角色的九宫格失败抓拍照
@@ -1349,6 +1349,121 @@ Nano Banana Pro · 上传图改图 · 出处: [@songguoxiansen on X](https://x.c
 (9-panel grid collage, photobooth style, studio lighting). A fun and vibrant 3x3 grid featuring the specific character in 9 different poses. [CRITICAL: Maintain exact facial features, preserve original face structure across all panels].
 
 Styling: She is wearing a soft white mohair sweater. Accessories change slightly in panels: a reindeer antler headband, a thick red knitted scarf, and holding a giant Christmas lollipop. Poses: 1. Winking with a V-sign. 2. Pouting while holding a miniature Christmas tree. 3. Surprised face with snowflake stickers on cheeks. 4. Laughing with eyes closed. 5. Blowing a kiss. 6. Holding a wrapped gift box on head. 7. Making a heart shape with hands. 8. Pretending to eat a gingerbread man. 9. Saluting with a serious cute face. Background: Uniform pastel blue studio backdrop for all panels. Lighting: Bright, shadowless beauty lighting, high-key, commercial pop style.
+```
+
+</details>
+
+<a id="gpt-image-golden-hour-sticker-collage-cardigan"></a>
+### 动漫贴纸女孩叠加四张实拍场景
+
+<a href="https://x.com/Ziha_ai/status/2119691900894773400"><img src="../../previews/gpt-image-golden-hour-sticker-collage-cardigan.jpg" width="360"></a>
+
+以参考图作为版式依据，并锁定同一人物的脸部、发型和服装在五次出现中保持一致。中间的动漫人物带白色模切贴纸边框，叠在实拍照片之上，让手绘角色与摄影背景形成对比。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@Ziha_ai on X](https://x.com/Ziha_ai/status/2119691900894773400) · 117 赞，统计于 2026-11-10
+
+[`collage`](tags.md#tag-collage) [`character-consistency`](tags.md#tag-character-consistency) [`anime-mix`](tags.md#tag-anime-mix) [`golden-hour`](tags.md#tag-golden-hour)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a vertical 9:16 photorealistic aesthetic collage using the uploaded reference image as the layout guide.
+
+Main Concept:
+A stylish character collage featuring the same young woman appearing in five different scenes. Arrange four realistic photographs in a 2×2 collage background, with one large illustrated cartoon version of the woman standing in the center.
+
+Character Consistency:
+Use the same person's face, hairstyle, facial features, and skin tone across all five appearances. The central character should be a cute 2D anime-style illustration with large expressive eyes, a gentle smile, clean outlines, and a thick white sticker border.
+
+Outfit:
+A cream-colored oversized knitted cardigan with black geometric patterns and buttons, a long black skirt, white socks, beige sandals, and a cream woven shoulder tote bag. Keep the outfit identical in every scene.
+
+Background Scenes:
+
+1. Standing outdoors on a sunny rooftop terrace, holding the woven tote bag.
+2. Sitting sideways on a wooden bench beside a brick building.
+3. Sitting casually on a wooden bench, raising one hand.
+4. Standing near a traditional Korean-style rooftop with a gentle smile.
+
+Central Character:
+A full-body cartoon illustration in the exact same outfit, standing naturally while holding the woven tote bag. Place her prominently over the four background photographs with a thick white die-cut sticker outline.
+
+Visual Style:
+Soft golden-hour sunlight, warm film photography, pastel tones, dreamy atmosphere, natural shadows, subtle vintage aesthetic, realistic photography combined with cute anime illustration.
+
+Important:
+Preserve the original collage composition, clothing, accessories, poses, and background details. Maintain consistent facial identity across every appearance. High-quality details, clean composition, vertical 9:16 aspect ratio.
+```
+
+</details>
+
+<a id="gpt-image-summer-egg-tart-hoodie-3x3-collage"></a>
+### 3x3夏日拼贴，蛋挞卫衣人像九宫格
+
+<a href="https://x.com/Ziha_ai/status/2120026285753913570"><img src="../../previews/gpt-image-summer-egg-tart-hoodie-3x3-collage.jpg" width="360"></a>
+
+提示词先固定人物身份、服装和配色，再为九个格子分别指定姿势、角度和涂鸦文字，因此九格看起来像同一场拍摄。逐格写明手写文字和位置，让版式与文字都能对应到输出。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@Ziha_ai on X](https://x.com/Ziha_ai/status/2120026285753913570) · 117 赞，统计于 2026-11-10
+
+[`collage`](tags.md#tag-collage) [`portrait`](tags.md#tag-portrait) [`summer`](tags.md#tag-summer) [`doodle-text`](tags.md#tag-doodle-text)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a high-quality, ultra-realistic 3×3 photographic collage featuring the person from the uploaded reference image. Preserve the person's exact facial identity, facial features, face shape, hairstyle, hair texture, skin tone, and natural appearance across all nine panels.
+
+Overall Style:
+A playful Korean summer fashion editorial photoshoot with a dreamy, youthful and cheerful aesthetic. Bright clear sky-blue background, warm natural sunlight, soft shadows, crisp photography, and subtle film-like color grading.
+
+Outfit:
+The subject wears an oversized cream-colored hoodie with small orange food illustrations on the front and a larger yellow-orange egg tart graphic on the back, a white pleated mini skirt or shorts, and a pastel pink baseball cap. Maintain consistent clothing, accessories, and appearance across every panel.
+
+3×3 Collage Composition:
+
+Panel 1 (Top Left):
+Close-up portrait. The subject holds a bright orange fruit toward the camera with one hand while making a playful expression. Add cute white cat-face doodles on the fruit and handwritten text "WOW".
+
+Panel 2 (Top Center):
+Full-body playful pose against the blue sky, standing on one leg with the other leg stretched sideways and arms spread out. Add handwritten text "egg tart" with small hearts and movement lines.
+
+Panel 3 (Top Right):
+Side profile, holding an orange fruit near the face while looking at it. Add playful white doodles, cartoon eyes, and handwritten text "LOOK!".
+
+Panel 4 (Middle Left):
+Back view of the subject reaching upward with one hand, showing the large egg tart illustration on the back of the hoodie. Add a large hand-drawn white cloud outline and a small heart.
+
+Panel 5 (Middle Center):
+Front-facing portrait with both hands near the head, holding a small orange fruit beside the cheek. Add a white speech bubble containing "Hi".
+
+Panel 6 (Middle Right):
+Relaxed sitting pose with one knee raised, holding an orange fruit near the cheek. Looking slightly upward with a cute, confident expression. Add handwritten text "yum" and small decorative lines.
+
+Panel 7 (Bottom Left):
+Sitting casually with one hand touching the pink cap and an orange fruit resting above it. Eyes gently closed with a relaxed smile. Add playful crown-like doodles and small decorative hearts.
+
+Panel 8 (Bottom Center):
+Full back view, hands on waist, clearly displaying the oversized hoodie and its large yellow-orange egg tart artwork. Add curved white doodle lines around the subject.
+
+Panel 9 (Bottom Right):
+Low-angle sitting portrait with one sneaker sole close to the camera. The subject raises one hand toward the pink cap and smiles gently. Add white hand-drawn geometric shapes and playful motion lines.
+
+Visual Details:
+
+- Perfectly aligned 3×3 grid with nine equally sized rectangular panels.
+- Consistent facial identity throughout all nine photographs.
+- Sky-blue and deep cobalt-blue backgrounds.
+- Bright natural summer sunlight.
+- Realistic skin texture and natural anatomy.
+- Authentic fashion editorial photography.
+- White handwritten doodles, hearts, clouds, stars, cartoon eyes, and motion marks.
+- Maintain consistent outfit, hairstyle, cap, and accessories in every panel.
+- No borders or gaps between panels.
+
+Text and Typography:
+Use casual, imperfect, hand-drawn white lettering. Include "WOW", "egg tart", "LOOK!", "Hi", and "yum" in the corresponding panels.
+
+Final Output: A beautiful, cohesive 3×3 Korean-inspired summer fashion photo collage, vertical 3:4 composition, ultra-realistic photography, high detail, vibrant blue skies, and playful editorial storytelling.
 ```
 
 </details>
@@ -3380,6 +3495,25 @@ Premium Korean lifestyle editorial photography, professional DSLR quality, 85mm 
 
 FINAL QUALITY:
 Photorealistic, crystal-clear, beautifully composed, irresistibly cute, premium Instagram-worthy aesthetic. Maintain identical facial identity, hairstyle, outfit, and kitten appearance across all three panels. Natural human proportions, accurate hands and paws, no facial distortion, no excessive skin smoothing, no artificial CGI or plastic appearance.
+```
+
+</details>
+
+<a id="gpt-image-2-6-nine-frame-bedroom-portrait-white-tank"></a>
+### 九宫格晨间卧室写真，白色吊带背心
+
+<a href="https://x.com/AYi_AInotes/status/2120154039581106503"><img src="../../previews/gpt-image-2-6-nine-frame-bedroom-portrait-white-tank.jpg" width="360"></a>
+
+用 JSON 逐格列出九个画面的姿势和机位，模型按分镜执行，不会随意发挥。统一的镜头（50mm，f/2.0 到 f/2.8）、胶片类型（Kodak Portra 400）和窗户光设定，让所有画面的色调、颗粒和光线保持一致。
+
+GPT Image 2.6 · 文生图 · 出处: [@AYi_AInotes on X](https://x.com/AYi_AInotes/status/2120154039581106503) · 32 赞，统计于 2026-11-10
+
+[`grid-collage`](tags.md#tag-grid-collage) [`film-look`](tags.md#tag-film-look) [`bedroom-portrait`](tags.md#tag-bedroom-portrait)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+{   "general_settings": {     "format": "3x3 照片拼贴 / 9宫格",     "layout": "九张纵向人像照片，以方形网格排列",     "consistency": "同一主体、同一服装，所有9个画面保持一致的柔和自然光线"   },   "aesthetic_style": {     "theme": "纯欲私房写真 / 男友视角抓拍",     "lighting_technique": "柔光自然窗光（柔和、高调）",     "visuals": "日系空气感胶片美学，通透肌肤质感，柔和粉彩色调，可见胶片颗粒，氛围亲密、无防备、生活化"   },   "subject_details": {     "archetype": "顶级爱豆颜值 – 面部精致，瓷白肌肤",     "hair": "长直深色自然发，略带凌乱的“刚睡醒”造型",     "outfit": "简约白色罗纹棉质吊带背心（白棉吊带），灰色或白色柔软棉质三角内裤",     "makeup": "伪素颜妆效，透明润唇膏，自然红晕，突出通透肌肤"   },   "environment_and_props": {     "background": "阳光洒入的极简卧室，皱褶的白色亚麻床单，薄纱白窗帘，木地板",     "decor": "少量体现日常生活的道具：一只陶瓷咖啡杯、床上摊开的书、一个枕头"   },   "panel_pose_breakdown_boyfriend_pov": {     "1_top_left": "从微微敞开的门缝偷拍。她坐在床沿，背对镜头，双臂向上伸展。（偷窥感）",     "2_top_center": "俯卧在白色床单上，手肘支撑身体正在看书，阳光洒在背上。自然且专注。",     "3_top_right": "特写镜头，前景略微虚化（仿佛躲在某物后）。她正揉着一只眼睛，睡眼惺忪地望向别处。",     "4_middle_left": "盘腿坐在床上，双手捧着咖啡杯，目光望向窗外，神情温柔而放空。（空气感）",     "5_middle_center": "极致特写：聚焦锁骨与白色棉质吊带肩带在苍白肌肤上的纹理细节。",     "6_middle_right": "仰卧姿势，头朝向镜头，用枕头半遮脸，眼神带着羞涩笑意。（男友互动感）",     "7_bottom_left": "镜中倒影：她正将长直发扎起，捕捉这一毫无防备的瞬间。",     "8_bottom_center": "侧身蜷缩在床上，膝盖抱胸，直视镜头，眼神纯真又脆弱。（纯欲核心）",     "9_bottom_right": "背影视角，跪坐在床上望向窗外，阳光勾勒出她的剪影轮廓。"   },   "camera_technical_values": {     "style": "模拟胶片效果（如 Kodak Portra 400）",     "focal_length": "50mm（亲密人像焦段）或 35mm（环境纪实感）",     "aperture": "f/2.0 - f/2.8（浅景深营造柔焦效果，突出主体）",     "lighting": "来自窗户的过曝自然光，形成柔和光晕与通透肌肤质感，无强烈阴影",     "details": "可见自然胶片颗粒，低对比度，暖调轻微褪色"   },   "google_prompt": "一组9宫格3x3照片拼贴，采用日系空气感‘纯欲’私房风格。主角为拥有顶级爱豆颜值的女性，长直黑发，身穿简约白色罗纹棉质吊带与内裤。照片以亲密男友视角拍摄，带有轻微偷窥感，呈现她在阳光洒落的极简卧室中（白色床单、薄纱帘、木地板）的日常无防备瞬间。光线为柔和漫射的晨间窗光，营造出肌肤通透发光的效果，并保留可见胶片颗粒。姿势包括伸懒腰、阅读、望窗、羞涩对视、小憩等，强调纯真与自然吸引力。",   "尺寸": "9:16" }
 ```
 
 </details>

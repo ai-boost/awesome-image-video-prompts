@@ -1,6 +1,6 @@
 # 广告与产品
 
-[返回目录](../../README_zh.md) · 全部 130 条 · [1](video-commercial.md) · **2**
+[返回目录](../../README_zh.md) · 全部 133 条 · [1](video-commercial.md) · **2**
 
 <a id="seedance-chocolate-lava-cake-commercial"></a>
 ### 巧克力熔岩蛋糕广告，从打蛋到勺子切开
@@ -613,6 +613,27 @@ Visual style: high-fashion magazine campaign, cinematic overhead photography, dr
 
 </details>
 
+<a id="seedance-fermina-skincare-splash-commercial"></a>
+### 水花溅湿的瓶子转场到女子涂抹面霜
+
+<a href="https://x.com/laviniavelle/status/2097171135033143553"><img src="../../previews/seedance-fermina-skincare-splash-commercial.jpg" width="360"></a>
+
+开场先展示带水珠和飞溅水花的产品，再用微距匹配剪接转到涂抹面霜的画面，让瓶子和皮肤处在同一段连贯运动中。提示词还固定了竖版 9:16 画幅、暖色棚拍光和结尾定格，让广告有明确的收尾画面。
+
+Seedance 2.5 · 文生视频 · 出处: [@laviniavelle on X](https://x.com/laviniavelle/status/2097171135033143553) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`skincare`](tags.md#tag-skincare) [`product-commercial`](tags.md#tag-product-commercial) [`macro`](tags.md#tag-macro)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Cinematic skincare commercial, vertical 9:16 aspect ratio. Starts with a sleek white cosmetic bottle labeled FERMINA covered in water droplets with water splashing dynamically over the top Quick seamless macro transition to a young woman with natural glowing skin pumping cream onto her fingers then gently applying the white moisturizer onto her cheek. Close up on her smooth hydrated skin with a subtle dew effect Ends with the woman smiling softly at the camera, holding the FERMINA product bottle next to her face warm studio lighting minimal clean aesthetic, soft focus background, high-definition commercial style.
+
+#polloai
+```
+
+</details>
+
 <a id="seedance-fish-creative-drink-commercial"></a>
 ### 青绿瓷砖卡座里的女孩与奶昔
 
@@ -1063,6 +1084,110 @@ Ultra-realistic UGC fashion content, authentic creator review, cinematic handhel
 
 </details>
 
+<a id="seedance-midnight-fashion-loop-penthouse"></a>
+### 巴黎顶层公寓时尚循环，以黑暗前景收尾
+
+<a href="https://x.com/codewithhajra/status/2117859525734674842"><img src="../../previews/seedance-midnight-fashion-loop-penthouse.jpg" width="360"></a>
+
+结尾与开场使用同一个深色前景物体，镜头上升在循环点处延续。固定的每3秒分镜节拍和130 BPM音乐设定，让五套造型的节奏保持统一。
+
+Seedance 2.5 · 文生视频 · 出处: [@codewithhajra on X](https://x.com/codewithhajra/status/2117859525734674842) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`fashion`](tags.md#tag-fashion) [`loop`](tags.md#tag-loop) [`camera-move`](tags.md#tag-camera-move)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+THE MIDNIGHT FASHION EDIT
+
+15-second seamless looping fashion reel | Vertical 9:16 | 24 FPS | 5 scenes × 3 seconds
+
+SEAMLESS OPENING & LOOP DESIGN
+
+CRITICAL: The opening and ending must be visually identical and designed as one continuous camera movement.
+
+OPENING FRAME (0.0s)
+
+Begin with an extreme low-angle shot from behind the emerald-green velvet chaise lounge. A dark, out-of-focus foreground object partially covers the lens. Only a small portion of the golden lamp and warm penthouse lighting is visible.
+
+The camera begins moving upward immediately, revealing the room as it rises toward the overhead composition.
+
+ENDING FRAME (14.5–15.0s)
+
+During the final clockwise barrel roll, rush toward the exact same dark foreground object used in the opening shot.
+
+The foreground object gradually covers the entire lens until the final frame becomes completely dark.
+
+Match the final frame to the opening frame in:
+
+Camera position and height.
+Lens angle and perspective.
+Foreground object placement.
+Darkness, exposure, and color.
+Motion direction and speed.
+Background lighting and visual composition.
+
+LOOP CONNECTION
+
+At exactly 15.0 seconds, the camera must continue the same upward movement established at 0.0 seconds. The opening rise should feel like the natural continuation of the final transition.
+
+No fade-to-black followed by a separate restart. No sudden camera reset. No visible jump cut. No change in lighting.
+
+The first and last frames must match precisely, and the motion across the cut must feel continuous.
+
+FIVE FASHION SCENES
+
+0–3s — THE CLASSIC MUSE
+
+A timeless luxury outfit. She lies diagonally across the emerald velvet chaise, holding a perfume bottle above her face, then gently turns toward the camera.
+
+3–6s — THE STREET-STYLE ICON
+
+A completely different modern fashion look. One arm behind her head, the other near her waist. She adjusts her sleeve with a relaxed, confident expression.
+
+6–9s — THE SOFT LUXURY LOOK
+
+A romantic, elegant fashion look. She gently brushes her hair back and looks toward the overhead camera with a subtle smile.
+
+9–12s — THE NIGHT OUT EDIT
+
+A bold evening look. She holds an open fashion magazine above her chest, turns one page, and lowers it slightly.
+
+12–15s — THE FINAL STATEMENT
+
+A striking statement-fashion look. She rests one hand near her face, crosses her ankles, and gives the camera a subtle confident smile. The camera then performs the final clockwise barrel roll toward the dark foreground object.
+
+ENVIRONMENT & CINEMATOGRAPHY
+
+Maintain the same luxurious Parisian penthouse throughout: emerald-green velvet chaise, marble flooring, glowing city skyline, golden sculptural lamps, flowers, fashion magazines, vintage mirror, and candlelight.
+
+Warm cinematic lighting, realistic fabric movement, subtle film grain, rich shadows, premium editorial color grading.
+
+AUDIO
+
+130 BPM laid-back luxury deep-house groove.
+Consistent rhythm across all 15 seconds.
+Bass impact and airy whoosh on each transition.
+Natural fabric rustles and scene-specific foley.
+No dialogue, no vocals.
+
+FINAL TECHNICAL REQUIREMENTS
+
+Duration: exactly 15 seconds.
+Frame rate: 24 FPS.
+Aspect ratio: 9:16.
+Five scenes, exactly 3 seconds each.
+Continuous visual environment.
+Smooth camera movement.
+No black-frame pause at the loop point.
+No captions, logos, or watermarks.
+Photorealistic live-action quality.
+
+MOST IMPORTANT: Design the reel as a continuous circular camera journey. The final camera movement must return to the precise opening composition so viewers cannot tell where the video ends and begins. The loop must feel natural even when replayed repeatedly.
+```
+
+</details>
+
 <a id="seedance-monochrome-studio-emerald-gown-ritual"></a>
 ### 黑白美妆工作室仪式，揭晓翡翠绿礼服
 
@@ -1440,6 +1565,25 @@ Nike is the only fashion-sports brand.
 Sony compact camera remains consistent.
 Photoreal premium live-action.
 No anime, no 3D, no plastic skin.
+```
+
+</details>
+
+<a id="seedance-overhead-fan-four-looks-rug"></a>
+### 女子躺在地毯上，吊扇经过时四套造型依次切换
+
+<a href="https://x.com/AIwithkhan/status/2102221702667309467"><img src="../../previews/seedance-overhead-fan-four-looks-rug.jpg" width="360"></a>
+
+固定俯拍机位，并以吊扇作为唯一转场，每次换装都发生在叶片扫过身体的瞬间，因此无需剪辑。角色与每套服装的参考图确保四次造型揭示中人物身份和服饰保持一致。
+
+Seedance 2.5 · 参考生视频 · 出处: [@AIwithkhan on X](https://x.com/AIwithkhan/status/2102221702667309467) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`fashion`](tags.md#tag-fashion) [`overhead-shot`](tags.md#tag-overhead-shot) [`outfit-transition`](tags.md#tag-outfit-transition)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 15-second ultra-realistic vertical 9: 16 fashion film shot entirely from a fixed 90° overhead camera, using the supplied character and wardrobe images as strict references; preserve the same face, body proportions, hair and identity throughout. The Korean woman lies on a luxurious autumn-toned Persian-inspired rug over walnut flooring, surrounded by subtle upscale apartment furniture, while warm late-afternoon sunlight creates realistic shadows. A realistic wooden ceiling fan rotates continuously above her and acts as the only transition device. LOOK 1 chocolate ribbed tank, oversized camel suede bomber, burgundy pleated mini skirt, espresso tights, tobacco slouch boots, oxblood shoulder bag, gold hoops and tortoiseshell sunglasses. She casually picks up a remote and looks upward. As the fan blade physically passes over her body, seamlessly reveal LOOK 2 cream shearling hat, ivory knit sweater, olive utility jacket, wide faded jeans, cream socks, leopard slingbacks and espresso tote. Another blade sweep reveals LOOK 3 oxblood asymmetric knit top, chocolate faux-fur coat, charcoal pinstripe trousers, black kitten-heel boots and cherry-red handbag. The next rotation reveals LOOK 4 charcoal beret, moss-green mohair cardigan, chocolate tank, espresso leather trousers, burgundy loafers, charcoal socks and cherry-red handbag. She makes subtle editorial pose adjustments after each transition, always looking directly upward. End with her completely still in LOOK 4 as the fan continues rotating. Ultra-realistic fabrics, leather, suede, fur and skin, cinematic autumn color grading, natural film grain and premium fashion-campaign realism. Strictly no cuts, camera movement, zooms, angle changes, morphing, identity drift, outfit glitches, warped hands, duplicated limbs, disappearing accessories, text, logos or watermark.
 ```
 
 </details>

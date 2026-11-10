@@ -1,0 +1,53 @@
+id: seedance-mall-zombie-armor-transformation
+title:
+  en: Shopper in mall transforms into armored warrior vs zombies
+  zh: 商场购物女孩变身机甲战士对抗僵尸
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- zombie-apocalypse
+- transformation
+- multi-scene
+- consistent-character
+source:
+  name: '@aiwithaayat on X'
+  url: https://x.com/aiwithaayat/status/2117468811712700511
+  credit: aiwithaayat
+  captured: '2026-11-10'
+  posted: '2026-11-03'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/aiwithaayat/status/2117468811712700511
+notes:
+  en: Six timed scene beats, each with its own camera move, plus a closing rule that the cream sweater and black skirt must disappear, so the outfit swap reads as the key change between scenes. Identity is pinned by repeating the same hair and face description in every scene.
+  zh: 按 5 秒一段列出六个分镜，每段配独立镜头运动，并明确写出变身后不再保留毛衣和裙子，让服装切换成为段落之间最明显的变化。反复描述同一张脸和发型来锁定角色一致性。
+prompt: |
+  Create a 30-second ultra-realistic cinematic zombie apocalypse action video in 9:16 vertical format, set inside a modern luxury shopping mall. Feature a beautiful young Korean woman with long black hair, a consistent face, and realistic body proportions throughout the entire video.
+
+  Scene 1 (0–5 seconds): Shopping in the mall
+
+  The girl is shopping inside a luxurious clothing store in a modern shopping mall. She wears a cream-colored knit sweater, a short black skirt, black shoes, and carries a beautiful black quilted luxury shoulder bag with a gold chain. She picks up clothes from the racks and places them into her shopping cart. Show elegant mall lighting, glass storefronts, and realistic shopping activity. Use smooth cinematic camera movement.
+
+  Scene 2 (5–10 seconds): Zombie invasion
+
+  Suddenly, a large group of terrifying zombies enters the mall through the main entrance. They have pale faces, messy hair, torn clothes, and frightening expressions. Shoppers begin running away in panic. The girl turns around and sees zombies approaching from the direction she needs to escape. Her expression changes from calm to shocked and frightened. Use a dramatic camera push-in and intense background atmosphere.
+
+  Scene 3 (10–15 seconds): Trapped and desperate
+
+  The girl runs through the mall, trying to escape the zombies. Every corridor and entrance she approaches is blocked by more zombies. She stops in the middle of the mall, breathing heavily, surrounded by approaching zombies. Her luxury bag remains on her shoulder. Blue electric sparks begin appearing around her hands and body.
+
+  Scene 4 (15–20 seconds): Powerful transformation
+
+  A bright flash of blue lightning surrounds her entire body. Her cream sweater, black skirt, and luxury shopping bag transform into a futuristic black armored warrior outfit. She now wears sleek black metallic body armor with silver details, armored shoulder plates, a fitted black combat suit, black gloves, and heavy black combat boots. Her long black hair flows dramatically in the electric wind. Her eyes glow electric blue. Show energy traveling across her armor, with powerful blue lightning bolts surrounding her body. The transformation must be dramatic, seamless, and visually spectacular.
+
+  Scene 5 (20–25 seconds): Epic zombie battle
+
+  The transformed warrior girl raises both hands and releases powerful blue electric energy. Lightning bolts strike the approaching zombies, sending them flying backward. She performs fast martial arts moves, dodges zombie attacks, and defeats multiple zombies using her superpowers. Show intense action, dynamic camera angles, realistic motion, and glowing blue electricity illuminating the mall. Keep the action cinematic without graphic gore.
+
+  Scene 6 (25–30 seconds): Victorious ending
+
+  The girl stands confidently in the center of the mall wearing her futuristic black armored warrior outfit. Defeated zombies lie scattered in the background. Blue electric energy continues flowing around her arms and armor. Her long black hair moves gently in the air. She looks toward the camera with a fearless expression as the camera slowly moves closer. End with a dramatic cinematic hero shot.
+
+  Visual style: Ultra-realistic cinematic quality, 4K detail, realistic Korean facial features, consistent character identity, dramatic lighting, realistic physics, smooth transitions, powerful blue lightning effects, detailed black futuristic armor, high-quality action choreography, vertical 9:16 composition.
+
+  Important: Keep the girl's face, hairstyle, and body proportions consistent throughout every scene. The transformation must clearly change her outfit from casual shopping clothes into futuristic black combat armor. Do not keep the cream sweater or black skirt after transformation.

@@ -1,0 +1,29 @@
+id: seedance-cybertruck-car-lifts-off-traffic
+title:
+  en: White futuristic car lifts off from city traffic
+  zh: 白色未来感汽车从城市车流中垂直升空
+model: Seedance 2.5
+mode: text-to-video
+category: scifi-fantasy
+tags:
+- flying-car
+- city-traffic
+- smoke-trail
+source:
+  name: '@noorlewisx on X'
+  url: https://x.com/noorlewisx/status/2118217361899782368
+  credit: noorlewisx
+  captured: '2026-11-10'
+  posted: '2026-11-05'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/noorlewisx/status/2118217361899782368
+notes:
+  en: Timed scenes split the 13 second clip into beats, and the car and driver are described again in each beat so they stay consistent across cuts. The quoted licence plate gives the model an exact text target to hold across shots.
+  zh: 按时间段分镜，把13秒拆成几个镜头，每个镜头都重复描述车辆和人物，使两者在切换中保持一致。引号内的车牌文字为模型提供了可跨镜头保持的具体文字目标。
+prompt: |
+  A cinematic short video, realistic AI-generated style, 13 seconds.
+  Scene 1 (0-2s): Rear view of a sleek white angular futuristic electric car (Cybertruck-inspired, sharp geometric design, black roof, thin taillights) stuck in heavy city traffic on a tree-lined European street. Blue city bus on the left, ornate old buildings, green trees, overcast sky. License plate clearly reads “GI-777-GI”. Traffic is slow, cars packed.
+  Scene 2 (2-5s): Interior shot of the same car. A very muscular Black man with long wavy black hair, wearing a black tank top, black cargo shorts, black baseball cap, over-ear headphones, silver chain and bracelets. He is sitting in the white leather driver’s seat, looking at his phone with a calm expression. A paper coffee cup is in the cup holder. Steering wheel is white. Daylight coming from outside, city buildings visible through the window.
+  Scene 3 (5-8s): Cut back to exterior. The same white futuristic car suddenly accelerates hard, then lifts off the road vertically like a rocket. Massive thick white smoke trails shoot downward from the rear. The car shoots high into the sky, does a smooth loop in the air while leaving a big circular smoke ring, then continues flying. Background shows the city street below with other cars and the blue bus.
+  Scene 4 (8-13s): Back to interior while the car is flying. The muscular man is now laughing and enjoying the ride. He raises one hand to adjust his cap, other hand on the steering wheel. He is holding a roasted chicken leg in one hand. He looks happy and relaxed, body slightly bouncing from the flight. Bright sky visible through the windows.
+  Style: Hyper-realistic, cinematic lighting, smooth camera cuts, high detail, slight motion blur on fast movements, natural city atmosphere, no text overlays.

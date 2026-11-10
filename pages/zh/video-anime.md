@@ -1,6 +1,6 @@
 # 动漫与动画
 
-[返回目录](../../README_zh.md) · 全部 81 条
+[返回目录](../../README_zh.md) · 全部 82 条
 
 <a id="seedance-two-friends-bedsheet-ghost-prank"></a>
 ### 手机镜头拍下两个朋友和床单鬼的恶作剧
@@ -545,6 +545,25 @@ Create a polished 15-second anime sports-game player stats screen opening. Use o
 Use crisp premium game-UI motion, clean 2D anime character animation, subtle depth between Kaze and the interface, and stable legible typography. Keep every panel, icon, label, number, and geometric boundary fixed once revealed. Do not introduce new text, extra characters, additional objects, logos, captions, or UI elements.
 
 Audio: low electronic boot hum, delicate scanning ticks, short confirmation tones as values lock, rising airy wind around the ball, soft cloth movement, and one refined completion chime. No dialogue and no music.
+```
+
+</details>
+
+<a id="h3-anime-omurice-storyboard-maid"></a>
+### 动漫女仆依据分镜制作蛋包饭
+
+<a href="https://x.com/aimikoda/status/2090969477588427222"><img src="../../previews/h3-anime-omurice-storyboard-maid.jpg" width="360"></a>
+
+分镜图被用作连续镜头指引，提示词要求模型把每个分镜当作独立节拍，而不是单张静态图。另附的角色参考图让各镜头中的人物外观保持一致。
+
+MiniMax H3 · 参考生视频 · 出处: [@aimikoda on X](https://x.com/aimikoda/status/2090969477588427222) · 598 赞，统计于 2026-11-10
+
+[`anime`](tags.md#tag-anime) [`storyboard`](tags.md#tag-storyboard) [`multi-shot`](tags.md#tag-multi-shot) [`food`](tags.md#tag-food)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+"Use the storyboard @[storyboard ref] as sequential shot guidance, not as a static image. Do not treat the storyboard as one image. Follow each panel as a separate beat. Use @[character ref] as the character and visual style reference."
 ```
 
 </details>

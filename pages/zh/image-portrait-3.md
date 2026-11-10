@@ -1,6 +1,96 @@
 # 人像
 
-[返回目录](../../README_zh.md) · 全部 273 条 · [1](image-portrait.md) · [2](image-portrait-2.md) · **3**
+[返回目录](../../README_zh.md) · 全部 278 条 · [1](image-portrait.md) · [2](image-portrait-2.md) · **3**
+
+<a id="gpt-image-phone-screen-face-cover-store-portrait"></a>
+### 手机屏幕遮住上半脸的商场人像
+
+<a href="https://x.com/Ciri_ai/status/2053535379618423118"><img src="../../previews/gpt-image-phone-screen-face-cover-store-portrait.jpg" width="360"></a>
+
+提示词先锁定场景、略微俯拍的正面机位和握手机的姿势，再明确屏幕朝向镜头并显示她的脸，让手机成为画中画，同时用参考图保持人物身份一致。
+
+GPT Image 2 · 上传图改图 · 出处: [@Ciri_ai on X](https://x.com/Ciri_ai/status/2053535379618423118) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`iphone-style`](tags.md#tag-iphone-style) [`creative-portrait`](tags.md#tag-creative-portrait) [`frame-within-frame`](tags.md#tag-frame-within-frame) [`identity-preserved`](tags.md#tag-identity-preserved) [`street-photo`](tags.md#tag-street-photo)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Ultra-realistic creative portrait taken with an iPhone, identity accurately preserved from the reference image. A woman stands inside a store, facing a glass display window or a reflective wall, photographed from a slightly elevated frontal angle. She holds a smartphone horizontally in front of her face, covering her eyes and the upper part of her face. The phone's screen points at the camera and clearly displays a real-time image of her face.
+```
+
+</details>
+
+<a id="gpt-image-pink-varsity-flower-cafe-portrait"></a>
+### 粉色棒球外套女生坐在花店咖啡馆外
+
+<a href="https://x.com/xRahultripathi/status/2050677614168391716"><img src="../../previews/gpt-image-pink-varsity-flower-cafe-portrait.jpg" width="360"></a>
+
+姿势、构图、服装、光线和镜头分块写明，并加入保持同一张脸的约束来锁定人物身份。低机位 50mm 镜头、暖粉色调，再用负面词排除对视和裁切，让构图稳定。
+
+GPT Image 2 · 上传图改图 · 出处: [@xRahultripathi on X](https://x.com/xRahultripathi/status/2050677614168391716) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`portrait`](tags.md#tag-portrait) [`pastel`](tags.md#tag-pastel) [`flower-shop`](tags.md#tag-flower-shop) [`low-angle`](tags.md#tag-low-angle) [`face-preserve`](tags.md#tag-face-preserve)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Edit the provided image while preserving the same face identity, shape, and facial features without altering age, ethnicity, or structure. Maintain a calm, relaxed expression with the subject not looking at the camera.
+
+Subject: young woman (18–23) with soft feminine beauty, smooth glowing skin, natural texture.
+Pose (strict): seated on a wooden chair, body angled sideways (45–70°), legs crossed naturally, upper body slightly leaning forward, head turned away from camera, gaze to the side. She holds a drink cup with a straw using both hands.
+Framing: full-body vertical (9:16), head to shoes visible, centered but slightly offset for natural composition.
+Outfit: light pink varsity jacket with white stripes, soft pink inner top, modest knee-length pleated skirt, white sneakers.
+Accessories: beige newsboy cap, sunglasses (on face or cap), pink shoulder bag, small earrings.
+Hair: neat low bun with soft loose strands.
+Environment: outdoor flower shop street scene with pastel flowers (pink, soft tones), decorative plants, floral storefront.
+Lighting: bright natural daylight, soft glossy skin highlights, balanced exposure, soft shadows.
+Camera: low/frog angle (slightly below, looking up), 50mm lens, shallow depth of field.
+Color grading: warm pastel palette (pink, cream), clean bright lifestyle aesthetic.
+Quality: ultra-photorealistic, 8K detail, DSLR realism, natural skin texture.
+Negative: front-facing, eye contact, close-up, cropped body, mini/short skirt, indoor scene, dark lighting, anime, cartoon, CGI, plastic skin, distorted anatomy.
+--ar 9:16 --style raw --quality high
+```
+
+</details>
+
+<a id="gpt-image-rooftop-court-sunset-varsity-portrait"></a>
+### 屋顶球场日落下身穿棒球夹克的女生全身人像
+
+<a href="https://x.com/HaniaAi12/status/2061313477696954522"><img src="../../previews/gpt-image-rooftop-court-sunset-varsity-portrait.jpg" width="360"></a>
+
+提示词把姿态写得很具体：重心落在一条腿上、肩膀放松、一只手轻触夹克边缘、身体微侧并直视镜头。再用明确的场景和日落金光定下氛围，开头的超写实关键词把画面推向摄影质感。
+
+GPT Image 2 · 文生图 · 出处: [@HaniaAi12 on X](https://x.com/HaniaAi12/status/2061313477696954522) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`portrait`](tags.md#tag-portrait) [`rooftop`](tags.md#tag-rooftop) [`sunset`](tags.md#tag-sunset) [`varsity-jacket`](tags.md#tag-varsity-jacket) [`pose-direction`](tags.md#tag-pose-direction)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Ultra-realistic, high-quality portrait of a stylish young South Asian woman standing gracefully on a colorful urban rooftop basketball court at sunset. She is standing in a relaxed and elegant posture with her weight naturally shifted to one leg, shoulders relaxed, and one hand gently resting by her side while the other lightly touches the edge of her varsity jacket. Her body is slightly angled toward the camera, creating a confident yet sophisticated appearance. She is looking directly into the camera with a warm, natural smile, projecting confidence, charm, and effortless style.
+```
+
+</details>
+
+<a id="gpt-image-semi-chibi-double-tugging-runner-editorial"></a>
+### 奔跑男子被半Q版分身向后拉扯
+
+<a href="https://x.com/Waseem_890Ai/status/2073412769693741415"><img src="../../previews/gpt-image-semi-chibi-double-tugging-runner-editorial.jpg" width="360"></a>
+
+提示词先把人物身份锁定在上传的参考照片上,再加入一个3D半Q版分身,并明确其抓住衣服向后拉的动作。拉伸、褶皱和张力等布料物理描述,加上纯白无缝影棚背景和详细的负面提示词,让这一幕的互动既好笑又可信。
+
+GPT Image 2 · 上传图改图 · 出处: [@Waseem_890Ai on X](https://x.com/Waseem_890Ai/status/2073412769693741415) · 发现于 [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`semi-chibi`](tags.md#tag-semi-chibi) [`studio-portrait`](tags.md#tag-studio-portrait) [`fabric-physics`](tags.md#tag-fabric-physics) [`reference-photo`](tags.md#tag-reference-photo) [`playful`](tags.md#tag-playful)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create an ultra-realistic lifestyle editorial studio photo in a 4:5 aspect ratio. Use the uploaded reference photo as the primary source for the character's identity. Preserve the face, facial features, body proportions, hairstyle, outfit, shoes, colors, and overall appearance exactly as shown. Do not redesign or alter the character. Place the character in a clean, minimalist photo studio with a seamless pure white background. The mood should feel modern, bright, playful, energetic, and polished, like a high-end fashion editorial. Capture the character mid-run with natural, believable movement. The body leans forward, one foot is off the ground, and the arms move naturally. The upper body is subtly pulled backward, as though the clothing is being tugged, while the lower body continues driving forward. Give the character a joyful, expressive face with laughter, excitement, and a hint of playful panic. On the left side, add a stylized 3D semi-chibi version of the same person. Keep the identity recognizable while using a larger head, smaller body, expressive eyes, and exaggerated emotions. The semi-chibi character should look frustrated and determined, grabbing the main character's clothing with both hands and pulling backward in an attempt to stop them. Emphasize the comedic struggle. Focus on realistic fabric physics where the clothing is being pulled, showing stretched material, natural folds, wrinkles, and convincing tension. The interaction should feel physically believable and visually entertaining. Use soft professional studio lighting, crisp shadows, ultra-sharp focus, realistic skin textures, detailed fabric, cinematic editorial styling, clean composition, and a premium polished finish. Negative Prompt: Low quality, blurry, noisy, pixelated, bad anatomy, extra or missing fingers, deformed hands, broken joints, stiff pose, weak motion, incorrect fabric physics, flat clothing, missing wrinkles, unrealistic interaction, altered facial identity, changed outfit, changed shoes, altered body proportions, extra characters, cluttered scene, colored background, props, harsh shadows, dark lighting, plastic skin, poor 3D quality, distorted face, watermark, logo, or text.
+```
+
+</details>
 
 <a id="gpt-image-shanghai-metro-platform-reading-portrait"></a>
 ### 上海地铁站台读书的年轻女子

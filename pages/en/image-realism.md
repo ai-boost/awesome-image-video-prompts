@@ -1,6 +1,6 @@
 # Photo realism
 
-[Back to the list](../../README.md) · All 122 entries
+[Back to the list](../../README.md) · All 126 entries
 
 <a id="gpt-image-coca-cola-tanker-leak-mentos-truck-dashcam"></a>
 ### Coca Cola tanker leaking beside Mentos truck
@@ -857,6 +857,48 @@ A women sitting calmly at the center of a wide horizontal swirling spiral made o
 
 </details>
 
+<a id="nano-banana-red-satin-dress-museum-balcony"></a>
+### Woman in red satin dress beside gilded choir screen
+
+<a href="https://x.com/Adam38363368936/status/2006570723549261959"><img src="../../previews/nano-banana-red-satin-dress-museum-balcony.jpg" width="360"></a>
+
+Splitting the prompt into subject, attire, environment and technical blocks keeps each element separate, so the red dress and the gold choir screen both come through. Stating eye level, full shot and soft diffuse daylight locks in a clean, even fashion frame.
+
+Nano Banana Pro · Text-to-image · Source: [@Adam38363368936 on X](https://x.com/Adam38363368936/status/2006570723549261959) · 185 likes on 2026-11-10
+
+[`fashion`](tags.md#tag-fashion) [`structured-prompt`](tags.md#tag-structured-prompt) [`museum-interior`](tags.md#tag-museum-interior)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+"subject": {
+      "type": "Young woman",
+      "hair": "Long, dark brunette, loose waves, parted in the middle",
+      "pose": "Standing full-body, leaning backwards against a stone balustrade, one hand resting on the railing, legs crossed at the ankles, looking down/away candidly",
+      "expression": "Neutral, elegant, contemplative"
+    },
+    "attire": {
+      "dress": "Deep crimson red satin mini dress, fit-and-flare silhouette, plunging V-neckline, spaghetti straps, tiered ruffled skirt",
+      "shoes": "Dark plum or black pointed-toe high heels",
+      "accessories": "Simple drop earrings"
+    },
+    "environment": {
+      "setting": "Grand museum interior (Victorian/Classical architecture)",
+      "foreground": "White stone balcony with a decorative balustrade (railing) featuring classic balusters",
+      "background": "Large white architectural arches with detailed molding, an ornate Gothic Revival metal and gold choir screen visible in the distance",
+      "flooring": "Parquet wood flooring"
+    },
+    "technical_specs": {
+      "lighting": "Soft natural indoor light, diffuse and even, daylight ambience",
+      "camera_angle": "Eye-level, full shot",
+      "style": "High-fashion lifestyle photography, photorealistic, cinematic composition, crisp focus"
+    }
+  }
+}
+```
+
+</details>
+
 <a id="gpt-image-curry-udon-doodle-table"></a>
 ### Curry udon bowls with tempura and doodle notes
 
@@ -1392,6 +1434,31 @@ this is almost perfect but missed that 8
 
 </details>
 
+<a id="gpt-image-aurora-pebble-beach-seascape"></a>
+### Aurora over a pebble beach at night
+
+<a href="https://x.com/churvikv/status/2119205952645632300"><img src="../../previews/gpt-image-aurora-pebble-beach-seascape.jpg" width="360"></a>
+
+The prompt is split into labelled zones (sky, horizon, sea, beach) plus a light and palette block, so the model fills a fixed layout region by region. The closing full bleed, no frame, no lettering line keeps out borders and text.
+
+GPT Image 2.5 · Text-to-image · Source: [@churvikv on X](https://x.com/churvikv/status/2119205952645632300) · 123 likes on 2026-11-10
+
+[`aurora`](tags.md#tag-aurora) [`seascape`](tags.md#tag-seascape) [`pebble-beach`](tags.md#tag-pebble-beach) [`night`](tags.md#tag-night)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Photorealistic magical seascape at night, wide 16:9 panoramic composition, ultra-detailed. Full bleed, no frame, no border, no lettering.
+SKY: a deep teal-green and indigo night sky fills the upper half, swept with tall vertical curtains of aurora borealis in luminous mint, emerald and pale jade, their strands hanging like combed light. Behind them glow soft magenta, rose and violet nebula clouds. Hundreds of fine white stars speckle the dark, and four bright four-point starburst stars with long cross flares burn at the left, centre, right and lower right. A pale glow swells along the horizon line where sky meets sea.
+HORIZON: a low dark rocky headland silhouette sits at the far left, softened by haze, with faint distant cliffs behind it. The rest of the horizon is a soft silver-blue fog band.
+SEA: the right half is calm glassy water in pale silvery-teal and grey-mint, marked with fine horizontal ripple lines. A bright path of glittering light runs down the surface toward the shore, dotted with sharp white sparkles, and a soft foam edge of small bubbles traces the waterline where it meets the stones.
+BEACH: the entire foreground and lower two-thirds is a vast beach of smooth rounded pebbles, thousands of them, in cream white, pale grey and soft pearl, packed tightly in rounded mounds and shallow sweeping curves that lead the eye from the bottom edge toward the water. Each stone is polished and softly lit from above, wet with salt sheen, some with bright specular highlights and sprinkles of tiny white dots like frost or salt crystals.
+LIGHT: cool silver-blue moonlight mixed with the green aurora glow, soft and diffuse, with a warm sparkle only in the star flares and the water highlights.
+PALETTE: deep teal, emerald, jade mint, dark indigo, magenta violet, silver grey, pearl white. Luminous, dreamlike, tranquil, high dynamic range.
+```
+
+</details>
+
 <a id="nano-banana-kfc-bag-head-wink-booth"></a>
 ### Woman winking with KFC bag on head
 
@@ -1550,6 +1617,33 @@ The interaction feels natural and candid rather than posed—a quiet moment of l
 Camera: Medium-wide cinematic shot, slightly side angle, both subjects visible, shallow depth of field, soft bokeh background, natural composition.
 
 Style: Ultra-realistic, photorealistic, cinematic storytelling, luxury lifestyle photography, magazine-quality image, realistic skin textures, detailed fabric folds, volumetric sunlight, warm color grading, emotional atmosphere, masterpiece, 8K HDR, highly detailed, no text, no watermark.
+```
+
+</details>
+
+<a id="gpt-image-2-6-elevator-mirror-selfie-pinstripe-pants"></a>
+### Elevator mirror selfie with raised phone and pinstripe pants
+
+<a href="https://x.com/simonecanciello/status/2120189335194706023"><img src="../../previews/gpt-image-2-6-elevator-mirror-selfie-pinstripe-pants.jpg" width="360"></a>
+
+Anchoring each surface and object to a position (navy panels on the left, wood on the right, doors in the centre) gives the model a fixed layout to follow. The closing block lists phone-snapshot traits to keep, such as grain, underexposure and ordinary white balance, and bans the cinematic, beauty-filter and HDR looks that make AI photos read as polished.
+
+GPT Image 2.6 · Text-to-image · Source: [@simonecanciello on X](https://x.com/simonecanciello/status/2120189335194706023) · 107 likes on 2026-11-10
+
+[`mirror-selfie`](tags.md#tag-mirror-selfie) [`elevator`](tags.md#tag-elevator) [`smartphone-snapshot`](tags.md#tag-smartphone-snapshot)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+generated in 15-sec, 2K resolution, 9:16:
+
+“Create this image with maximum photographic accuracy.
+Scene: A casual full-body mirror selfie inside a modern, dimly lit elevator. Dark navy geometric patterned wall panels on the left, warm brown wood-paneled walls on the right, black reflective elevator doors in the center, illuminated elevator buttons, horizontal silver handrails, and a light gray tiled floor.
+Subject: A young woman with straight, shoulder-length dark brown hair parted in the middle, natural facial features, and minimal makeup. She is standing slightly angled toward the mirror, holding a black iPhone with a transparent protective case high above her head with her right arm fully extended. Her phone is positioned in the upper-left corner of the composition. She looks slightly downward at the mirror with puffed cheeks and a playful, serious expression. Her left arm hangs naturally beside her body.
+Outfit: A fitted dark charcoal-gray short-sleeve athletic jersey with white side stripes, white sports logos and lettering across the chest, loose oversized gray pinstriped pajama-style pants, and simple black flip-flops. A thin black hair tie around her raised wrist.
+Composition: Vertical 9:16 smartphone photo, full-body framing from a slightly elevated mirror-selfie perspective. Subject positioned slightly left of center, raised arm creating a strong diagonal, legs relaxed and slightly apart. Preserve the exact pose, body proportions, camera angle, perspective, outfit, background layout, and framing of the reference.
+Photography: Authentic unedited iPhone mirror selfie. Warm overhead elevator lighting mixed with cool ambient reflections, slightly underexposed shadows, realistic skin texture, subtle smartphone grain, natural reflections, imperfect sharpness, and ordinary indoor white balance.
+CRITICAL: The result must look like a real spontaneous smartphone snapshot, NOT an AI-generated photograph. No cinematic lighting, no professional photography, no beauty filters, no skin smoothing, no HDR, no artificial sharpness, no color grading, no stylization. Preserve the original reference's realistic colors, exposure, shadows, visual imperfections, and casual everyday aesthetic.”
 ```
 
 </details>
@@ -1878,6 +1972,109 @@ GPT Image 2.5 · Text-to-image · Source: [@churvikv on X](https://x.com/churvik
 
 ```text
 A moonlit night scene with a cobblestone path winding through tall grass illuminated by glowing orbs, possibly fireflies, leading toward a distant city skyline under a star-filled sky. The composition is balanced with the moon as a focal point, and the style combines realism with a touch of fantasy, evoking a calm and enchanting mood.
+```
+
+</details>
+
+<a id="nano-banana-valentines-weather-forecast-studio"></a>
+### Weather presenter beside a Valentine love forecast map
+
+<a href="https://x.com/AITalesNBH/status/2022638680444133507"><img src="../../previews/nano-banana-valentines-weather-forecast-studio.jpg" width="360"></a>
+
+Splitting the scene, subject, wardrobe, camera and lighting into separate fields keeps every element specified. Listing the on screen forecast lines as their own array gives the map short, readable phrases instead of garbled text.
+
+Nano Banana Pro · Text-to-image · Source: [@AITalesNBH on X](https://x.com/AITalesNBH/status/2022638680444133507) · 74 likes on 2026-11-10
+
+[`valentines-day`](tags.md#tag-valentines-day) [`weather-forecast`](tags.md#tag-weather-forecast) [`json-prompt`](tags.md#tag-json-prompt) [`studio`](tags.md#tag-studio)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+{
+  "MPNB_version": "Nano Banana Pro",
+  "intent": "Maximalist editorial, cinematic, photorealistic Valentine-themed weather forecast scene",
+  "aspect_ratio": "4:5",
+  "resolution": "8K",
+  "style_lock": {
+    "photorealism": true,
+    "editorial_grade": "luxury magazine cover",
+    "no_cartoon": true,
+    "no_watermark": true,
+    "controlled_imperfections": true
+  },
+  "scene": {
+    "concept": "Valentine Weather Forecast Studio",
+    "environment": "High-end modern broadcast studio redesigned for Valentine's Day",
+    "background": {
+      "main_screen": "Large curved LED weather map showing a stylized Europe forecast made of soft pink clouds, subtle heart-shaped pressure systems, glowing love fronts moving across the map",
+      "sky_elements": "Floating translucent hearts integrated subtly into realistic cloud formations",
+      "lighting_accent": "Soft neon pink and deep red LED rim lights integrated into studio architecture"
+    }
+  },
+  "subject": {
+    "role": "Weather Woman",
+    "age": 25,
+    "appearance": {
+      "hair": "Glossy soft waves, chestnut brown, natural movement",
+      "makeup": "Soft romantic glam, luminous skin, subtle blush, cherry-red lips, delicate highlighter",
+      "expression": "Confident, charming, warm editorial smile as if announcing a 'High Pressure of Love'"
+    },
+    "pose": {
+      "stance": "Standing slightly angled toward camera, one leg subtly forward",
+      "gesture": "Right hand elegantly gesturing toward a glowing heart-shaped weather system on the map",
+      "left_hand": "Holding a sleek digital tablet with a subtle glowing heart icon"
+    },
+    "wardrobe": {
+      "outfit": "Tailored pastel red blazer dress, structured shoulders, cinched waist",
+      "length": "Above the knees, elegant but professional",
+      "fabric": "Luxury satin-wool blend with subtle sheen",
+      "details": "Minimalist silver heart-shaped brooch, delicate diamond studs",
+      "heels": "High-heeled pumps in soft blush tone"
+    }
+  },
+  "cinematography": {
+    "camera": "Full-frame DSLR simulation",
+    "lens": "85mm f/1.8",
+    "depth_of_field": "Shallow depth of field, subject razor sharp, background softly diffused",
+    "angle": "Slight low-angle to create authority and glamour",
+    "framing": "Mid-thigh crop, cover-ready composition"
+  },
+  "lighting": {
+    "key_light": "Large softbox front-left, flattering skin tones",
+    "rim_light": "Soft magenta rim light for separation",
+    "ambient": "Warm studio glow with subtle red accents",
+    "skin_rendering": "Natural micro-texture preserved, no plastic smoothing"
+  },
+  "valentine_storytelling": {
+    "forecast_text_on_screen": [
+      "Romantic Warm Front Approaching",
+      "100% Chance of Kisses",
+      "High Pressure of Passion",
+      "Light Showers of Roses"
+    ],
+    "creative_element": "Tiny animated cupid silhouette flying across the digital weather map (subtle, not cartoonish)"
+  },
+  "color_grading": {
+    "palette": "Blush pink, deep crimson, soft gold highlights",
+    "contrast": "Balanced editorial contrast",
+    "finish": "Glossy luxury magazine tone"
+  },
+  "realism_constraints": {
+    "fabric_physics": "Natural folds and gravity",
+    "lighting_physics": "Correct shadow direction and studio reflections",
+    "screen_glow": "Realistic LED spill on subject’s blazer"
+  },
+  "negatives": [
+    "cartoon style",
+    "over-saturated reds",
+    "plastic skin",
+    "distorted hands",
+    "warped studio geometry",
+    "text artifacts",
+    "low resolution",
+    "flat lighting"
+  ]
+}
 ```
 
 </details>

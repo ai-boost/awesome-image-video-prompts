@@ -1,0 +1,47 @@
+id: seedance-kyoto-lane-vlog-ordinary-day
+title:
+  en: Handheld Kyoto day vlog with Japanese dialogue
+  zh: 手持拍摄的京都日常vlog，带日语对白
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- vlog
+- kyoto
+- handheld
+- dialogue
+source:
+  name: '@Just_sharon7 on X'
+  url: https://x.com/Just_sharon7/status/2096109540924141746
+  credit: Just_sharon7
+  captured: '2026-11-10'
+  posted: '2026-09-05'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Just_sharon7/status/2096109540924141746
+notes:
+  en: Framing it as a friend's phone footage, with handheld shake, autofocus drift and natural motion blur, makes it read as real footage rather than a polished shot. Timed segments with exact spoken lines and a fixed wardrobe list keep the same woman and story consistent across all 30 seconds.
+  zh: 以朋友用手机随拍的方式描述镜头，手持抖动、自动对焦漂移和自然动态模糊让画面更像真实素材而非精修镜头。按秒分段写明每段动作和台词，并固定服装与配饰清单，使整段30秒内人物形象和情节保持一致。
+prompt: |
+  Create a 30-second, 16:9 ultra-realistic handheld lifestyle vlog following the young Japanese woman in her 20s through an ordinary day in Kyoto. Keep her face, identity, hairstyle, body, outfit, accessories, and proportions perfectly consistent.
+
+  She wears a fitted pastel yellow short top, straight-leg light denim jeans, yellow canvas sneakers, a small tan tote bag, and thin gold hoop earrings throughout.
+
+  Style: Genuine footage filmed casually by a close friend on a smartphone/compact camera. Handheld shake, imperfect framing, autofocus/exposure shifts, natural motion blur, mild digital noise, realistic skin texture, occasional late camera reactions. No gimbal, drone, cinematic choreography, slow motion, beauty filter, or commercial look.
+
+  0–5s: Quiet residential Kyoto street, narrow lane with wooden facades. She steps out of her apartment, glances at her phone, notices the camera, smiles softly, tucks her hair behind her ear and says naturally: "今日も一緒に行こう。"
+
+  5–11s: Enters a small neighborhood bakery/konbini-style shop, notices a fresh melon pan and says: "これ、いい匂いがする。" Buys it, takes a bite outside, and smiles at the camera.
+
+  11–17s: Boards a local city bus and sits by the window. Kyoto streets and old buildings pass outside with realistic reflections and sunlight. She quietly says: "こういう日は、歩きたくなるな。"
+
+  17–23s: Gets off near a canal-side walking path. Buys a drink from a small vending machine or cart. A cyclist passes unexpectedly close; she steps aside, laughs, and says: "今、ちょっとびっくりした。"
+
+  23–27s: Golden-hour canal-side scene. She sits on a low stone ledge or bench, places her drink beside her, removes one earbud, watches the water, and gives a small genuine smile as the wind moves her hair.
+
+  27–30s: She stands and walks away. After a few steps, looks back and says: "次は一緒に来てね。" She continues walking as the camera follows behind. Recording naturally ends around 29.5s.
+
+  REALISM: Accurate human biomechanics, grounded feet, continuous objects, realistic bus movement, natural walking/eating/sitting, consistent architecture and wardrobe. No teleportation, morphing, identity drift, duplicated/disappearing objects, distorted hands or limbs.
+
+  AUDIO: Natural Japanese dialogue with accurate lip-sync, phone-mic quality, footsteps, traffic, birds, bakery sounds, bus engine, bicycle bell, wind and city ambience. No music, narrator, or cinematic SFX.
+
+  Absolutely no subtitles, captions, on-screen text, logos, watermarks, or UI.

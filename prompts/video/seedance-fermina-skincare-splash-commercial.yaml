@@ -1,0 +1,26 @@
+id: seedance-fermina-skincare-splash-commercial
+title:
+  en: Water splashed bottle cuts to woman applying moisturizer
+  zh: 水花溅湿的瓶子转场到女子涂抹面霜
+model: Seedance 2.5
+mode: text-to-video
+category: commercial
+tags:
+- skincare
+- product-commercial
+- macro
+source:
+  name: '@laviniavelle on X'
+  url: https://x.com/laviniavelle/status/2097171135033143553
+  credit: laviniavelle
+  captured: '2026-11-10'
+  posted: '2026-09-08'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/laviniavelle/status/2097171135033143553
+notes:
+  en: The shot opens on the product with droplets and splashing water, then uses a macro match cut into the application so the bottle and the skin share one continuous move. The prompt also fixes the 9:16 frame, warm studio light and a closing hold on the bottle beside the face, which gives the spot a clear end frame.
+  zh: 开场先展示带水珠和飞溅水花的产品，再用微距匹配剪接转到涂抹面霜的画面，让瓶子和皮肤处在同一段连贯运动中。提示词还固定了竖版 9:16 画幅、暖色棚拍光和结尾定格，让广告有明确的收尾画面。
+prompt: |
+  Cinematic skincare commercial, vertical 9:16 aspect ratio. Starts with a sleek white cosmetic bottle labeled FERMINA covered in water droplets with water splashing dynamically over the top Quick seamless macro transition to a young woman with natural glowing skin pumping cream onto her fingers then gently applying the white moisturizer onto her cheek. Close up on her smooth hydrated skin with a subtle dew effect Ends with the woman smiling softly at the camera, holding the FERMINA product bottle next to her face warm studio lighting minimal clean aesthetic, soft focus background, high-definition commercial style.
+
+  #polloai

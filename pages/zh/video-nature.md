@@ -1,6 +1,6 @@
 # 自然、旅行与航拍
 
-[返回目录](../../README_zh.md) · 全部 11 条
+[返回目录](../../README_zh.md) · 全部 12 条
 
 <a id="seedance-woman-panda-ancient-forest"></a>
 ### 女子在雾气弥漫的古老森林中抚摸大熊猫
@@ -255,6 +255,25 @@ Seedance 2.5 · 文生视频 · 出处: [@noorwithwifi on X](https://x.com/noorw
 
 ```text
 A seamless traditional Chinese ink-wash watercolor animation begins with deep blue ocean waves transforming into misty mountains with a pagoda and stone stairs. Crimson ink clouds sweep across the scene, transitioning to a calm river with a small boat and an autumn-red tree. The red foliage transforms into delicate pink cherry blossoms, with petals drifting around a lone bonsai-like tree on a tiny island. Finally, a glowing full moon rises behind distant mountains, casting a golden reflection across the tranquil water as the scene fades into a peaceful night. Atmospheric, poetic, fluid transitions, elegant Chinese painting aesthetic, soft watercolor textures.
+```
+
+</details>
+
+<a id="seedance-female-diver-reef-turtle-dolphin-manta"></a>
+### 女潜水员游过热带珊瑚礁
+
+<a href="https://x.com/Aiwithmaha/status/2117940947548090676"><img src="../../previews/seedance-female-diver-reef-turtle-dolphin-manta.jpg" width="360"></a>
+
+提示词按时间顺序列出几段画面（潜水员、海龟、海豚，再到蝠鲼和鱼群），并写明镜头风格以及慢速、平滑等节奏词，让每个画面都有足够时间清楚呈现。整段反复描述同一位潜水员，有助于角色外观保持一致。
+
+Seedance 2.5 · 文生视频 · 出处: [@Aiwithmaha on X](https://x.com/Aiwithmaha/status/2117940947548090676) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`underwater`](tags.md#tag-underwater) [`scuba-diving`](tags.md#tag-scuba-diving) [`sea-turtle`](tags.md#tag-sea-turtle) [`coral-reef`](tags.md#tag-coral-reef)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a beautiful and realistic 30-second cinematic underwater adventure featuring a female scuba diver exploring a magical tropical ocean. The video should move at a slow, smooth and natural pace, allowing every scene to be clearly visible. She slowly swims through crystal-clear blue water, surrounded by colorful tropical fish, beautiful coral reefs, and glowing underwater plants. A giant sea turtle gently swims beside her while a friendly dolphin gracefully circles around her. She slowly reaches out her hand and touches the turtle's shell as sunlight shines through the ocean surface, creating magical light rays underwater. Suddenly, a beautiful manta ray glides peacefully above her, followed by a large group of colorful fish moving together. Show detailed underwater environments, realistic swimming movements, floating bubbles, and natural ocean lighting. Use slow cinematic camera movements, smooth scene transitions, ultra-realistic 4K visuals, and consistent character appearance throughout the entire 30-second video.
 ```
 
 </details>

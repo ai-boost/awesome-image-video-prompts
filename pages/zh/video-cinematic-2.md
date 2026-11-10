@@ -1,6 +1,211 @@
 # 电影感场景与短片
 
-[返回目录](../../README_zh.md) · 全部 150 条 · [1](video-cinematic.md) · **2**
+[返回目录](../../README_zh.md) · 全部 160 条 · [1](video-cinematic.md) · **2**
+
+<a id="seedance-coronation-modern-man-fixes-crown"></a>
+### 王座厅中跪拜的王子与站立的国王
+
+<a href="https://x.com/Caden_Flux/status/2109652904864829898"><img src="../../previews/seedance-coronation-modern-man-fixes-crown.jpg" width="360"></a>
+
+提示词锁定三张上传的角色设定图作为参考，并逐条写明每个角色需保留的特征。分段时间轴配合明确的台词与音效提示，以及严格的负面约束，让喜剧效果保持克制。
+
+Seedance 2.5 · 参考生视频 · 出处: [@Caden_Flux on X](https://x.com/Caden_Flux/status/2109652904864829898) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`comedy`](tags.md#tag-comedy) [`medieval`](tags.md#tag-medieval) [`character-lock`](tags.md#tag-character-lock) [`dialogue`](tags.md#tag-dialogue)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+THE CORONATION — 20-SECOND CINEMATIC COMEDY
+
+MODEL: Seedance 2.5
+DURATION: 20 seconds
+ASPECT RATIO: 16:9
+STYLE: Photorealistic live-action medieval fantasy film with subtle absurdist comedy.
+REFERENCE IMAGES AND CHARACTER LOCK
+Use the uploaded King character sheet, Prince character sheet, and Random Man character sheet as the definitive visual references.
+King: Preserve his exact face, gray-streaked hair, beard, crown, and burgundy royal outfit.
+
+Prince: Preserve his exact face, hairstyle, navy-and-gold coronation outfit, blue cloak, and crown once placed.
+
+Random Man: Preserve his exact face, hairstyle, modern casual outfit, and body proportions.
+
+Maintain consistent character identities, costumes, lighting, and the layout of the throne room throughout the entire video.
+LOCATION AND ATMOSPHERE
+An enormous medieval royal throne room with towering stone pillars, golden chandeliers, tall stained-glass windows, red velvet banners, and a magnificent golden throne. The royal court stands silently on either side of a red carpet.
+
+The atmosphere is extremely serious and emotionally grand, like the climax of an epic fantasy film. Warm golden sunlight streams through the windows. The music is majestic, with a full orchestral score.
+
+The modern man must look completely out of place in this medieval setting.
+
+SHOT 1 — THE MOMENT OF CORONATION
+
+0–5 seconds
+
+Wide cinematic establishing shot of the royal throne room. The prince kneels on a cushion before the king. The king stands solemnly in front of him, holding an ornate golden crown with both hands.
+
+The court watches in absolute silence.
+Cut to a medium close-up of the king slowly raising the crown above the prince's head.
+
+The king speaks in a deep, solemn voice:
+
+KING: "Today, you become king."
+
+The orchestral music swells dramatically. The prince bows his head with complete seriousness.
+
+SHOT 2 — THE WRONG MAN ENTERS
+
+5–9 seconds
+
+Just as the king is about to lower the crown, a casually dressed modern man in a dark hoodie, jeans, and sneakers walks into the royal ceremony from the side of the hall.
+
+He walks directly between the king and prince as though he belongs there.
+The king freezes with the crown suspended in midair. The prince remains kneeling, looking slightly confused. The courtiers stare in silent disbelief.
+
+The modern man barely acknowledges anyone. He notices the crown, looks at it critically, and gives a small disapproving shake of his head.
+
+The orchestral music abruptly softens into an awkward, sustained note.
+
+SHOT 3 — THE UNEXPECTED FIX
+
+9–14 seconds
+
+In one continuous, clearly visible action, the modern man casually takes the crown from the king's hands.
+
+He notices a small paper price tag hanging from the crown, removes it, and slips it into his pocket. He then gently straightens the prince's crooked collar and nudges the royal throne a few inches into better alignment with the carpet.
+His movements are practical, quick, and completely unbothered.
+
+The king stands frozen, visibly bewildered but trying to preserve his royal dignity. The prince looks from the man to his father, unsure whether he is allowed to move.
+
+The man steps back, examines his work, and gives one satisfied nod.
+
+RANDOM MAN: "Much better."
+
+Deliver the line casually, in a natural conversational voice, without a dramatic pause or exaggerated comic delivery.
+
+SHOT 4 — BACK TO BUSINESS
+
+14–17 seconds
+
+The modern man turns around and casually walks out of the throne room the same way he entered.
+
+No one stops him. Nobody speaks.
+The king slowly follows him with his eyes, then looks down at the crown in his hands as if trying to understand what just happened.
+
+The prince remains kneeling in the exact same position.
+
+The man exits the frame completely.
+
+SHOT 5 — THE CORONATION CONTINUES
+
+17–20 seconds
+
+Cut to a cinematic medium close-up of the king taking a slow breath, regaining his composure, and carefully positioning himself to continue the ceremony.
+
+He raises the crown again.
+The prince bows his head.
+
+The orchestral music resumes its original majestic intensity, as if the interruption never happened.
+
+KING: "Today… you become king."
+
+End immediately on the king's perfectly serious face.
+
+Cut to black.
+
+CAMERA AND EDITING
+
+Use professional cinematic framing, smooth controlled camera movements, realistic depth of field, natural facial micro-expressions, and clean film-style cuts. Establish the room before moving into medium shots and close-ups. Make the modern man's entrance and practical actions easy to see.
+
+Keep the comedy understated and driven by timing, awkward silence, and the contrast between the epic ceremony and the man's mundane behavior.
+
+AUDIO DESIGN
+
+Majestic orchestral music during the coronation, subtle footsteps and clothing movement, a slight musical interruption when the man enters, a soft paper rustle as he removes the price tag, and a return to full orchestral grandeur for the final line.
+
+All dialogue must be clearly audible, naturally delivered, and spoken in English. No narration, no subtitles, no extra dialogue, and no random background voices.
+
+STRICT NEGATIVE CONSTRAINTS
+
+No cartoon effects, no slapstick falls, no exaggerated facial expressions, no character morphing, no identity changes, no costume changes, no duplicated characters, no extra limbs, no floating objects, no random camera transitions, no modern objects apart from the man's clothing and the tiny price tag, and no characters looking directly into the camera.
+
+The king, prince, and courtiers must treat the event as a real interruption to a serious royal ceremony. The modern man must remain completely calm and behave as though fixing the coronation is an ordinary task.
+
+FINAL CREATIVE DIRECTION: Make it look like a genuine, high-budget medieval fantasy movie that has been interrupted by a man who thinks he is responsible for fixing continuity errors. The audience should find the situation funny without the characters turning it into a comedy performance.
+```
+
+</details>
+
+<a id="seedance-disaster-comedy-restaurant-feast"></a>
+### 城市爆炸后两名女子在餐厅大快朵颐
+
+<a href="https://x.com/Aqsahere_/status/2096077108808470604"><img src="../../previews/seedance-disaster-comedy-restaurant-feast.jpg" width="360"></a>
+
+两人分别固定在画面左右两侧，并配上对比鲜明的道具（沙拉对比披萨、汉堡和辣炒年糕），让节食的笑点一眼可见。爆炸被设定为会震动餐盘的冲击波，为模型提供了从羡慕转向慌乱进食的明确物理线索。
+
+Seedance 2.5 · 文生视频 · 出处: [@Aqsahere_ on X](https://x.com/Aqsahere_/status/2096077108808470604)
+
+[`disaster-comedy`](tags.md#tag-disaster-comedy) [`restaurant`](tags.md#tag-restaurant) [`food`](tags.md#tag-food) [`korean`](tags.md#tag-korean)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a premium photorealistic live-action cinematic disaster comedy featuring two beautiful young Korean women with clearly different faces, hairstyles, body proportions, and fashion styles. WOMAN 1 sits screen left, wearing a stylish elegant outfit, with only a small green salad in front of her. WOMAN 2 sits screen right, with a completely different beautiful face and different fashionable outfit, enjoying a hamburger, pizza, and red tteokbokki. They sit in a luxurious modern restaurant beside a huge floor-to-ceiling window overlooking a dense city skyline. WOMAN 1 sadly stares at her salad and envies WOMAN 2's feast until a colossal distant explosion suddenly erupts across the city, sending orange-white light and a powerful pressure wave that shakes the window and rattles the plates. Realizing the world might be ending, WOMAN 1 immediately abandons her diet, slides her salad aside, and urgently starts eating the pizza and hamburger. WOMAN 2 watches in disbelief, but another shockwave hits and she instantly joins the frantic feast. Finish with both women seriously panic-eating while repeatedly glancing at the enormous apocalyptic cloud outside. Premium large-format cinematic realism, Cooke anamorphic look, realistic physics, natural acting, cinematic orange disaster lighting, subtle handheld urgency after the explosion, no dialogue, no subtitles, no extra characters, no face duplication, and consistent screen positions throughout.
+```
+
+</details>
+
+<a id="seedance-elevator-floor-0-mystery"></a>
+### 西装男子走进发光电梯，楼层显示13
+
+<a href="https://x.com/ch_h234/status/2118714265792291152"><img src="../../previews/seedance-elevator-floor-0-mystery.jpg" width="360"></a>
+
+固定的人物设定与按秒划分的分镜（0到7秒、7到14秒等）让整段视频中人物的脸和西装保持一致。明确的镜头语言（缓慢推进、对称构图）和分条列出的声音设计，为模型提供节奏与紧张感的指引。
+
+Seedance 2.5 · 文生视频 · 出处: [@ch_h234 on X](https://x.com/ch_h234/status/2118714265792291152) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`thriller`](tags.md#tag-thriller) [`korean`](tags.md#tag-korean) [`elevator`](tags.md#tag-elevator) [`multi-scene`](tags.md#tag-multi-scene)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+TITLE: THE ELEVATOR – FLOOR 0
+
+Create a 30-second ultra-realistic Korean cinematic mystery thriller with the visual quality of a premium Korean feature film.
+
+CHARACTER:
+A 28-year-old Korean businessman with short black hair, wearing a black formal suit, white shirt, and black tie. Maintain identical facial features, clothing, and appearance throughout every scene.
+
+SCENE 1 (0–7 SECONDS):
+Late at night in Seoul, a businessman enters a luxurious modern apartment elevator. He presses floor 18. The elevator doors slowly close. He checks his wristwatch. The elevator begins moving upward.
+
+SCENE 2 (7–14 SECONDS):
+Suddenly, the elevator lights flicker. The floor display changes from 12 to 11, then displays an unfamiliar number: 0. The elevator stops. The doors slowly open, revealing a long, completely empty underground corridor with cold fluorescent lighting.
+
+SCENE 3 (14–22 SECONDS):
+The businessman looks confused and steps slightly forward. At the far end of the corridor, he notices a little Korean girl wearing a red coat. She is standing completely still, facing away from him. He calls out, but she does not respond. Suddenly, the elevator doors begin closing behind him.
+
+SCENE 4 (22–30 SECONDS):
+He rushes back into the elevator and presses the emergency button. The doors close. He looks into the elevator mirror and sees the little girl standing directly behind him. He turns around immediately. Nobody is there.
+
+The elevator display changes to FLOOR 18.
+
+FINAL SHOT:
+As the doors open, the businessman sees himself standing outside the elevator, wearing the exact same suit, staring directly at him with a terrifying smile.
+
+CUT TO BLACK.
+
+CINEMATOGRAPHY:
+Premium Korean thriller cinematography, realistic human expressions, atmospheric shadows, slow camera pushes, cinematic close-ups, symmetrical framing, natural skin textures, realistic elevator reflections, professional color grading, and subtle film grain.
+
+SOUND DESIGN:
+Elevator mechanical hum, soft electrical buzzing, footsteps echoing through the corridor, subtle heartbeat sound, suspenseful cinematic music, and sudden silence during the final reveal.
+
+STRICT REQUIREMENTS:
+Photorealistic live-action only. No animation, no cartoon style, no artificial-looking characters, no inconsistent faces, no random wardrobe changes, no unnecessary dialogue, no watermarks. Preserve character continuity and realistic physical movement throughout the entire 30-second film.
+```
+
+</details>
 
 <a id="seedance-fairground-ice-cream-nose-tease"></a>
 ### 夕阳下女孩走向游乐场冰淇淋摊
@@ -150,6 +355,52 @@ Use the uploaded reference image as the visual base. Maintain the same character
 - **0:14–0:15** — She kneels down in the flower field, overwhelmed with heartbreak, face in her hands — some moments stay with us forever.
 
 **End title card:** "Some moments take you back forever..." with theme tags: Love | Memory | Time | Always
+```
+
+</details>
+
+<a id="seedance-frog-hat-baby-crib-escape"></a>
+### 戴青蛙帽的宝宝逃出婴儿床，吓到爸爸
+
+<a href="https://x.com/Zarnab_with_Ai/status/2117812036126257293"><img src="../../previews/seedance-frog-hat-baby-crib-escape.jpg" width="360"></a>
+
+提示词用固定的角色描述块加七个编号分镜，并明确要求青蛙帽、连体衣和婴儿房在每个镜头中保持一致。结尾指定自拍式特写，让故事有清晰的笑点收束。
+
+Seedance 2.5 · 文生视频 · 出处: [@Zarnab_with_Ai on X](https://x.com/Zarnab_with_Ai/status/2117812036126257293) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`3d-animation`](tags.md#tag-3d-animation) [`family-comedy`](tags.md#tag-family-comedy) [`character-consistency`](tags.md#tag-character-consistency)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Style: High-quality 3D animated family comedy, adorable baby character, Pixar-inspired cinematic animation, ultra-detailed textures, expressive facial animations, warm lighting, realistic movement, and professional cinematic storytelling.
+
+Character: An adorable chubby baby girl with big sparkling brown eyes, rosy cheeks, short dark brown hair, wearing a cute green knitted frog hat with big frog eyes and a white baby romper featuring a small green frog design.
+
+Scene 1 – Baby in the Crib:
+A cute baby girl stands inside a beautiful wooden baby crib in a cozy nursery. She holds the wooden bars with both hands, looking innocent and curious. Warm golden sunlight enters through the window, creating a peaceful atmosphere.
+
+Scene 2 – Funny Baby Expressions:
+Show a close-up of the baby making adorable funny facial expressions, squeezing her eyes, puffing her cheeks, and smiling playfully while wearing her oversized frog hat.
+
+Scene 3 – Baby Escapes:
+The baby cleverly crawls out of her crib and moves across the soft carpet. She explores the nursery with excitement, crawling behind furniture and hiding playfully.
+
+Scene 4 – Cute Hiding Moment:
+The baby hides behind a large cozy armchair. Only her little face and frog hat are visible. She peeks over the chair with a mischievous smile, then hides again.
+
+Scene 5 – Mischievous Adventure:
+The baby attempts to climb a nearby white dresser, reaching toward its drawers with her tiny hands. Show her funny and determined expressions.
+
+Scene 6 – Unexpected Daddy Reaction:
+Suddenly, her father appears in the nursery and is shocked to discover the baby's mischievous adventure. Show his exaggerated surprised facial expression, wide-open eyes, and funny reaction.
+
+Scene 7 – Emotional Funny Ending:
+The father discovers the adorable baby sitting safely in a little chair. He looks at her in disbelief while she smiles innocently. End with a cute close-up selfie-style shot of the father and baby together.
+
+Visual Quality: Ultra-detailed 3D animation, realistic knitted fabric, soft baby skin, expressive eyes, natural body movements, cinematic depth of field, warm golden-hour lighting, smooth camera transitions, professional animation, 4K quality, vertical 9:16 aspect ratio.
+
+Important: Maintain consistent baby character design, identical frog hat, clothing, facial features, and nursery environment throughout every scene. Make the story funny, heartwarming, adorable, and highly engaging.
 ```
 
 </details>
@@ -1469,6 +1720,25 @@ cartoon, anime, CGI look, low quality, blurry face, extra fingers, warped hands,
 
 </details>
 
+<a id="seedance-rain-kitten-rescue-spaghetti"></a>
+### 蓝色火焰上翻炒意面
+
+<a href="https://x.com/Aiwithmaha/status/2118903281280020855"><img src="../../previews/seedance-rain-kitten-rescue-spaghetti.jpg" width="360"></a>
+
+提示词开头先写明时长 30 秒和竖屏 9:16 格式，然后按顺序列出剧情节拍，并点名粉色毛巾、粉色食盆等道具，让颜色和物件在各个镜头间保持一致。结尾加入配乐要求，为纯画面描述补上听感方向。
+
+Seedance 2.5 · 文生视频 · 出处: [@Aiwithmaha on X](https://x.com/Aiwithmaha/status/2118903281280020855) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`kitten-rescue`](tags.md#tag-kitten-rescue) [`pasta`](tags.md#tag-pasta) [`rain`](tags.md#tag-rain) [`emotional-storytelling`](tags.md#tag-emotional-storytelling)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 30-second ultra-realistic cinematic emotional short film in vertical 9:16 format. A young woman wearing a black outfit is cooking delicious spaghetti in her modern kitchen, gently stirring the pasta in a pan over a blue flame. Suddenly, she notices heavy rain falling outside her window and sees a tiny orange-and-white kitten sitting alone in the cold rain. She immediately leaves her cooking, grabs an umbrella, and rushes outside to rescue the helpless kitten. She carefully picks up the frightened, wet kitten and brings it safely inside her warm home. She gently wraps the little kitten in a soft pink towel and lovingly dries its wet fur. Next, she prepares a small pink food bowl filled with delicious cat food and places it in front of the hungry kitten. The kitten happily eats while the woman watches with a warm, emotional smile. Finally, she sits in her cozy kitchen enjoying her spaghetti while the adorable kitten rests peacefully beside her. Use realistic facial expressions, natural movements, beautiful cinematic lighting, emotional storytelling, detailed environments, and heartwarming background music throughout the entire 30-second video.
+```
+
+</details>
+
 <a id="seedance-rainy-limo-three-slaps-kiss"></a>
 ### 雨夜豪车中三次耳光与长吻
 
@@ -2573,6 +2843,39 @@ A cinematic teen drama short film, shot in warm golden-hour autumn light on the 
 
 </details>
 
+<a id="seedance-tired-dad-daughter-drawing-reveal"></a>
+### 疲惫的爸爸看到女儿的画后动容
+
+<a href="https://x.com/Zarnab_with_Ai/status/2105974631106818101"><img src="../../previews/seedance-tired-dad-daughter-drawing-reveal.jpg" width="360"></a>
+
+提示词把20秒拆成清晰的段落（工作、分心、看画、拥抱），并用皮克斯式家庭电影风格、柔和暖光和浅景深固定画面。描述眉毛、眼神等细微面部动作，让从疲惫到感动的情绪转变更加清楚。
+
+Seedance 2.5 · 文生视频 · 出处: [@Zarnab_with_Ai on X](https://x.com/Zarnab_with_Ai/status/2105974631106818101) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`3d-animation`](tags.md#tag-3d-animation) [`family`](tags.md#tag-family) [`emotional`](tags.md#tag-emotional) [`pixar-style`](tags.md#tag-pixar-style)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a heartwarming cinematic 20-second 3D animated family scene in a cozy home office during a warm evening.
+
+A young father with curly brown hair, expressive eyebrows, and a red-and-blue Spider-Man inspired sweater sits at a wooden desk working on a laptop. Beside him is his adorable little baby girl wearing a beige knitted outfit and a cute bear-ear winter hat.
+
+The baby watches her father closely while he works. The father occasionally looks at her with a tired but loving expression, drinks from a white coffee mug, and continues typing on his laptop. The baby sits beside him in a small high chair, curiously observing everything.
+
+Show the father becoming distracted when the baby interacts with a small red toy car and a plate of food on the desk. Include natural facial expressions, subtle eye movements, gentle hand gestures, and realistic parent-child interaction.
+
+Later, the baby proudly shows her father a handmade drawing of the two of them together with a heart. The father's expression changes from tired and stressed to emotional, surprised, and deeply touched.
+
+End with the father smiling warmly, turning toward his daughter, embracing her lovingly, and giving her a gentle hug.
+
+Style: high-quality cinematic 3D animation, Pixar-inspired family-film aesthetic, soft warm indoor lighting, detailed expressive faces, realistic fabric and hair textures, cozy atmosphere, shallow depth of field, smooth character animation, natural camera movement, emotional storytelling.
+
+Vertical 9:16 composition, cinematic framing, consistent character appearance throughout, smooth transitions, detailed environment, wholesome emotional ending.
+```
+
+</details>
+
 <a id="seedance-toddler-banknote-prank-3d-comedy"></a>
 ### 幼童把钞票递给父亲的3D喜剧
 
@@ -2606,6 +2909,112 @@ Audio: Playful orchestral comedy music, subtle footsteps, soft paper rustling, t
 Consistency requirements: Maintain identical character designs, clothing, hairstyles, facial features, and proportions throughout every shot. Smooth animation, coherent actions, accurate hand movements, no flickering, no extra fingers, no character distortion, and no sudden scene changes.
 
 Format: 16:9, 4K quality, 24 fps, approximately 22 seconds, family-friendly comedic storytelling.
+```
+
+</details>
+
+<a id="seedance-toddler-gecko-family-comedy"></a>
+### 幼儿在卧室墙上发现壁虎
+
+<a href="https://x.com/Zarnab_with_Ai/status/2105615254973792766"><img src="../../previews/seedance-toddler-gecko-family-comedy.jpg" width="360"></a>
+
+提示词先固定角色清单并写明服装细节，再把故事按编号分场描述，每场都有自己的动作，最后给出结尾镜头，这样多个镜头中的人物与情节顺序都更稳定。镜头、光线和质量各自独立成段，为模型提供逐镜头的明确指令，而不是一句笼统的动作描述。
+
+Seedance 2.5 · 文生视频 · 出处: [@Zarnab_with_Ai on X](https://x.com/Zarnab_with_Ai/status/2105615254973792766) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`3d-animation`](tags.md#tag-3d-animation) [`family-comedy`](tags.md#tag-family-comedy) [`multi-scene`](tags.md#tag-multi-scene)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 60–65 second high-quality cinematic 3D animated family comedy video in a warm, charming, Pixar-inspired animation aesthetic.
+
+CHARACTERS:
+- A cute energetic blond toddler boy wearing only a white diaper.
+- A cute little girl with short brown hair, wearing pink pajamas with small bows.
+- A warm, expressive mother with short brown hair, wearing a cozy beige sweater and blue jeans.
+- A friendly green gecko/lizard with large expressive eyes.
+- A father with short dark brown hair, wearing a green T-shirt, dark gray pants and casual sneakers.
+
+VISUAL STYLE:
+Premium 3D animated movie quality, adorable stylized characters, expressive oversized eyes, realistic soft skin and hair textures, detailed facial expressions, polished cinematic lighting, warm family-home atmosphere, smooth natural character animation, physically believable movement, colorful but soft environment, shallow depth of field, global illumination, soft shadows, high-detail textures, cinematic composition.
+
+SETTING:
+A cozy modern family home with a child's bedroom and living room. Blue children's wallpaper decorated with stars and clouds, wooden furniture, framed children's artwork, warm lamps, large windows with sunlight streaming through curtains, patterned rugs, toys scattered naturally around the floor, comfortable sofa and family decorations.
+
+STORY / ACTION:
+
+SCENE 1 — BEDROOM:
+The blond toddler walks around his bedroom curiously. He notices a small green gecko climbing on the wall. He looks surprised and fascinated, slowly approaches it, then carefully reaches toward it.
+
+SCENE 2:
+The toddler playfully grabs the gecko and holds it gently. The gecko reacts with funny exaggerated expressions while the toddler laughs and becomes excited.
+
+SCENE 3:
+A little girl in pink pajamas enters the room and notices the gecko. She gets curious and crawls toward it while the toddler proudly shows it to her. The gecko wiggles and tries to escape, creating a playful comedy moment.
+
+SCENE 4 — LIVING ROOM:
+Cut to the mother sitting on the sofa with both children. The girl looks nervous while the toddler excitedly shows the green gecko. The mother notices what is happening and reacts with surprise and concern.
+
+SCENE 5:
+The gecko suddenly moves closer to the children. The mother becomes startled and raises her hands. The children react with exaggerated surprised expressions. Keep the moment funny and family-friendly rather than scary.
+
+SCENE 6:
+The toddler tries to follow the gecko while the little girl runs away laughing. Toys roll across the wooden floor as the gecko quickly scurries around the room. The mother jumps up from the sofa and tries to keep the children safe.
+
+SCENE 7:
+The father suddenly enters the living room. He looks confused after seeing the chaos. The mother gestures toward the gecko while the children excitedly point at it.
+
+SCENE 8 — COMEDIC ENDING:
+The father carefully approaches the gecko and tries to catch it. The toddler happily follows him. The gecko suddenly climbs onto the father's shirt, creating a hilarious reaction. Everyone reacts with surprise and laughter.
+
+FINAL SHOT:
+The father stands in the middle of the living room with the gecko on his green shirt while the toddler laughs and claps happily. The mother and little girl react with amused expressions in the background. End on a warm, funny family moment.
+
+CAMERA:
+Cinematic medium shots, close-ups for facial reactions, gentle tracking shots, low-angle toddler perspective, occasional wide shots showing the entire room, smooth camera transitions, natural handheld-style movement during the comedic chase, expressive reaction close-ups.
+
+LIGHTING:
+Warm afternoon sunlight coming through windows, soft volumetric rays, cozy indoor practical lighting, natural shadows, cinematic highlights and realistic bounce light.
+
+ANIMATION:
+Highly expressive facial animation, natural body movement, believable toddler walking and running, playful exaggerated reactions, smooth hand gestures, realistic cloth and hair movement, detailed gecko movement, comedic timing and clear storytelling.
+
+QUALITY:
+Ultra-detailed 3D animation, cinematic rendering, 4K, high-quality global illumination, realistic materials, soft depth of field, polished feature-film animation, consistent character appearance throughout, smooth motion, no flickering, no distorted faces, no extra limbs, no character identity changes.
+```
+
+</details>
+
+<a id="seedance-toddlers-mom-secret-snack-3d"></a>
+### 妈妈偷偷拿零食，两个小宝贝专心玩积木
+
+<a href="https://x.com/Zarnab_with_Ai/status/2117442957347606909"><img src="../../previews/seedance-toddlers-mom-secret-snack-3d.jpg" width="360"></a>
+
+前景固定的玩耍动作与背景里的偷吃动作形成对照，一个画面就能看懂笑点。镜头顺序、表情变化和运镜依次写明，给模型清晰的逐镜头节奏。
+
+Seedance 2.5 · 文生视频 · 出处: [@Zarnab_with_Ai on X](https://x.com/Zarnab_with_Ai/status/2117442957347606909) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`family-comedy`](tags.md#tag-family-comedy) [`3d-animation`](tags.md#tag-3d-animation) [`kids`](tags.md#tag-kids)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a high-quality, adorable 3D animated family comedy scene in a warm, modern home.
+
+Two cute toddler girls with oversized expressive eyes, chubby cheeks, soft skin, and beautifully detailed hairstyles are sitting on a cozy living-room rug, playing with a wooden stacking block tower. One toddler wears a purple outfit with a pink hair clip, while the other wears a cream-colored outfit with a knitted cardigan.
+
+In the background, their young mother, wearing a cozy cream-colored outfit, secretly sneaks into the kitchen pantry and grabs a packet of crunchy snacks. She carefully opens the packet, trying not to make any noise because she doesn't want the toddlers to notice.
+
+Show cinematic close-up shots of her hands opening the shiny red snack packet, followed by an extreme close-up of her secretly eating a crunchy snack. Her cheeks puff up adorably as she chews, and her eyes look around nervously.
+
+Suddenly, she realizes someone might be watching her. Show a hilarious close-up of her wide-open eyes, surprised facial expression, and puffed cheeks.
+
+Use expressive facial animation, adorable character movements, realistic snack packaging details, smooth cinematic camera transitions, warm golden indoor lighting, soft shadows, detailed textures, and polished Pixar-inspired 3D animation.
+
+Style: Cinematic 3D animated family comedy, adorable characters, humorous storytelling, ultra-detailed rendering, expressive facial emotions, professional animation.
+
+Format: Vertical 9:16, 4K quality, smooth 24 FPS animation.
 ```
 
 </details>
@@ -2653,6 +3062,72 @@ Seedance 2.5 · 参考生视频 · 出处: [@doctorwasif on X](https://x.com/doc
 24.5–27.5s: Survivors race toward the front, dragging luggage behind them as a zombie horde crashes through the barricade.
 
 27.5–30s: Survivors slam the next door shut and stare in horror as the infected horde pounds against the glass. Dim flickering lights, heavy breathing, cinematic outbreak ending.
+```
+
+</details>
+
+<a id="seedance-tsunami-rescue-quake-village"></a>
+### 女子穿过地震中摇晃的渔村民居
+
+<a href="https://x.com/Aqsahere_/status/2118187360525414673"><img src="../../previews/seedance-tsunami-rescue-quake-village.jpg" width="360"></a>
+
+用编号的分镜列表，逐段标注时间点，为30秒视频固定镜头顺序；连续性段落重复人物、服装、船只和地点，保证各镜头一致。手持纪实镜头加上明确的声音清单（警报、风声、引擎声），营造真实感，并禁止配乐和字幕。
+
+Seedance 2.5 · 文生视频 · 出处: [@Aqsahere_ on X](https://x.com/Aqsahere_/status/2118187360525414673) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`disaster`](tags.md#tag-disaster) [`rescue`](tags.md#tag-rescue) [`tsunami`](tags.md#tag-tsunami) [`handheld-camera`](tags.md#tag-handheld-camera)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+THE FINAL WAVE | A DESPERATE TSUNAMI RESCUE
+
+Create a 30-second ultra-realistic live-action cinematic disaster video set in a Japanese coastal fishing village. A massive tsunami approaches after a powerful earthquake. A brave young woman risks her life to rescue stranded people.
+
+CHARACTER & LOCATION:
+A young Japanese woman with dark hair in a ponytail, wearing a dark waterproof jacket, black trousers and rubber boots. Three adult fishermen, one small child and one elderly woman. Keep all characters, outfits, faces, rescue boat and village consistent.
+
+EXACT SCENE SEQUENCE:
+
+1. EARTHQUAKE (0–3s):
+The village shakes violently. Objects fall, houses rattle and villagers rush outside.
+
+2. TSUNAMI WARNING (3–5s):
+Emergency sirens sound. The girl looks towards the ocean as the water suddenly retreats from the harbor.
+
+3. FISHERMEN IN DANGER (5–8s):
+She spots three fishermen stranded near a damaged fishing boat, desperately waving for help.
+
+4. RESCUE BOAT (8–11s):
+She runs to a small motorboat, unties it and starts the engine.
+
+5. ROUGH SEA (11–15s):
+She navigates through violent waves, avoiding floating debris as water splashes over the boat.
+
+6. FISHERMEN RESCUE (15–19s):
+She reaches the damaged boat and helps all three fishermen climb safely aboard, catching one as he nearly slips.
+
+7. CHILD AND ELDERLY WOMAN (19–22s):
+She spots a frightened child and elderly woman trapped on a flooded rooftop and steers towards them.
+
+8. MASSIVE TSUNAMI (22–26s):
+A gigantic dark wave appears behind the harbor. The fishermen help bring the child and elderly woman aboard from a reachable flooded platform.
+
+9. ESCAPE (26–28s):
+The boat reaches elevated ground. She helps everyone climb to safety as floodwater crashes through the harbor.
+
+10. FINAL SHOT (28–30s):
+The rescued child holds her hand. She watches in shock as the massive wave engulfs the distant village.
+
+VISUAL STYLE:
+Ultra-photorealistic live-action disaster film, realistic tsunami physics, powerful water movement, natural handheld documentary camera, stormy daylight, wet clothing, emotional expressions and believable boat movement.
+
+Natural audio: earthquake rumbling, emergency sirens, wind, engine, shouting and crashing waves. No music, subtitles or voiceover.
+
+STRICT CONTINUITY:
+Same characters, outfits, boat and location throughout. Show every rescue physically, with logical movement between scenes. No teleportation, superhero powers, cartoon water or unrealistic CGI.
+
+The final video must feel like real disaster footage, full of tension, urgency and emotion.
 ```
 
 </details>

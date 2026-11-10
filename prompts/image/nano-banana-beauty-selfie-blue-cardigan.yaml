@@ -1,0 +1,33 @@
+id: nano-banana-beauty-selfie-blue-cardigan
+title:
+  en: Close-up selfie with voluminous hair and cardigan
+  zh: 特写自拍，蓬松长发与浅蓝开衫
+model: Nano Banana 2.1
+mode: image-edit
+category: portrait
+tags:
+- selfie
+- beauty
+- reference-photo
+source:
+  name: '@Faeiz4Ai on X'
+  url: https://x.com/Faeiz4Ai/status/2119451091251101995
+  credit: FAEIZ
+  likes: 49
+  captured: '2026-11-10'
+  posted: '2026-11-08'
+notes:
+  en: Naming the uploaded reference as the absolute source for identity, and forbidding beautification or reinterpretation, keeps the face consistent. Framing the phone outside the shot and adding iPhone, RAW, and film-grain cues makes the result read as a casual evening selfie.
+  zh: 将上传的参考图设为身份的唯一依据，并禁止美化或重新诠释，使人脸保持一致。把手机置于画外，并加入 iPhone、RAW 和胶片颗粒等拍摄线索，让画面看起来像随手拍的傍晚自拍。
+prompt: |
+  Create an ultra-realistic luxury beauty selfie, using the uploaded reference image as the ABSOLUTE SOURCE OF TRUTH for facial identity. Preserve the exact face, facial features, proportions, and natural skin tone. Do not alter, beautify, reconstruct, or reinterpret the identity.
+
+  COMPOSITION & POSE: First-person perspective selfie, tight close-up portrait, with the phone completely outside the frame. The subject's voluminous hair occupies nearly half the composition, spreading organically around the head in a beautiful, effortless arrangement. A few loose strands fall naturally across the face, partially obscuring the gaze. One hand, emerging from a sheer pale-blue cardigan sleeve with small buttons, is casually raised near the face. Medium-length square French manicure.
+
+  HAIR & BEAUTY: Exceptionally thick, voluminous, glossy hair with soft waves concentrated at the ends. Expressive black cat-eye eyeliner, long dense lashes, full nude lips, and a subtle closed-mouth smile. Natural, refined skin texture with realistic detail.
+
+  ENVIRONMENT & LIGHTING: A small portion of a softly visible room appears in the background, featuring a subtle stretch ceiling and light-colored furniture. Bright frontal sunlight illuminates the hair, reveals authentic skin texture, and creates delicate highlights on the lips.
+
+  PHOTOGRAPHIC AESTHETIC: Spontaneous evening selfie with an effortlessly beautiful, unplanned feel. Shot on iPhone 17 Pro, RAW photography, muted tones, subtle film grain, soft contrast, natural exposure, and premium beauty-editorial aesthetics.
+
+  REALISM LOCK: Extreme photorealism, highly detailed individual hair strands, authentic skin texture, realistic fabric transparency, and natural lighting. No AI-generated appearance, no plastic skin, no artificial smoothing, no excessive retouching, no facial distortion, and no identity changes.

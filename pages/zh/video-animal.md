@@ -1,6 +1,6 @@
 # 动物与萌宠
 
-[返回目录](../../README_zh.md) · 全部 30 条
+[返回目录](../../README_zh.md) · 全部 31 条
 
 <a id="h3-tom-jerry-mac-desktop-icon-chaos"></a>
 ### 汤姆一个个把掉落的桌面图标放回原位
@@ -853,6 +853,27 @@ FINAL SHOT:
 Return to the empty colorful meadow for a short moment.
 
 Overall feeling: cheerful, wholesome, education
+```
+
+</details>
+
+<a id="seedance-baby-hammer-kittens-courtyard"></a>
+### 萌娃挥锤变出小猫惊呆白兔
+
+<a href="https://x.com/laviniavelle/status/2110585994445770795"><img src="../../previews/seedance-baby-hammer-kittens-courtyard.jpg" width="360"></a>
+
+提示词先用一句话交代主角、服装、道具和庭院场景，再把魔法效果写成一个明确动作（锤子敲地留下发光爪印，爪印变成小猫），让变化只有一个起因。结尾的光线与质感词保证统一的3D画风。
+
+Seedance 2.5 · 文生视频 · 出处: [@laviniavelle on X](https://x.com/laviniavelle/status/2110585994445770795) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`3d-animation`](tags.md#tag-3d-animation) [`animals`](tags.md#tag-animals) [`magic-transformation`](tags.md#tag-magic-transformation) [`chinese-courtyard`](tags.md#tag-chinese-courtyard)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+3D animated style a cute baby wearing a fluffy grey cat hoodie and holding a large pink toy hammer, playing with a small white fluffy bunny wearing a black headband in a traditional Chinese courtyard. The baby hits the ground with the hammer creating glowing pink paw prints that magically transform into cute orange kittens, surprising the bunny. Cinematic lighting, vibrant colors, detailed textures, expressive characters, and a cheerful atmosphere.
+
+#FlovaAI #Flovacpp
 ```
 
 </details>

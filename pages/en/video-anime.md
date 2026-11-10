@@ -1,6 +1,6 @@
 # Anime and animation
 
-[Back to the list](../../README.md) · All 81 entries · **1** · [2](video-anime-2.md)
+[Back to the list](../../README.md) · All 82 entries · **1** · [2](video-anime-2.md)
 
 <a id="seedance-two-friends-bedsheet-ghost-prank"></a>
 ### Phone camera sketch of friends and a bedsheet ghost
@@ -545,6 +545,25 @@ Create a polished 15-second anime sports-game player stats screen opening. Use o
 Use crisp premium game-UI motion, clean 2D anime character animation, subtle depth between Kaze and the interface, and stable legible typography. Keep every panel, icon, label, number, and geometric boundary fixed once revealed. Do not introduce new text, extra characters, additional objects, logos, captions, or UI elements.
 
 Audio: low electronic boot hum, delicate scanning ticks, short confirmation tones as values lock, rising airy wind around the ball, soft cloth movement, and one refined completion chime. No dialogue and no music.
+```
+
+</details>
+
+<a id="h3-anime-omurice-storyboard-maid"></a>
+### Anime maid cooks omurice from storyboard panels
+
+<a href="https://x.com/aimikoda/status/2090969477588427222"><img src="../../previews/h3-anime-omurice-storyboard-maid.jpg" width="360"></a>
+
+The storyboard is passed as sequential shot guidance, and the prompt tells the model to follow each panel as its own beat rather than one static image. A separate character reference keeps the look consistent across panels.
+
+MiniMax H3 · Reference-to-video · Source: [@aimikoda on X](https://x.com/aimikoda/status/2090969477588427222) · 598 likes on 2026-11-10
+
+[`anime`](tags.md#tag-anime) [`storyboard`](tags.md#tag-storyboard) [`multi-shot`](tags.md#tag-multi-shot) [`food`](tags.md#tag-food)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+"Use the storyboard @[storyboard ref] as sequential shot guidance, not as a static image. Do not treat the storyboard as one image. Follow each panel as a separate beat. Use @[character ref] as the character and visual style reference."
 ```
 
 </details>

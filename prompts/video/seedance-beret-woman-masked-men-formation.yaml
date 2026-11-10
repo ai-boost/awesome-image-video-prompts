@@ -1,0 +1,27 @@
+id: seedance-beret-woman-masked-men-formation
+title:
+  en: Woman in beret stands calm among masked men in formation
+  zh: 贝雷帽女子静立于蓝头套男群列队之中
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- fashion
+- editorial
+- crowd
+- masks
+source:
+  name: '@noorlewisx on X'
+  url: https://x.com/noorlewisx/status/2117850726021914955
+  credit: noorlewisx
+  captured: '2026-11-10'
+  posted: '2026-11-04'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/noorlewisx/status/2117850726021914955
+notes:
+  en: Fixing the woman as the centered subject with a wide shot and a detailed wardrobe list keeps her identity stable while dozens of extras fill the frame behind her. Repeating the same suit, shirt, tie and balaclava description for the group keeps the formation uniform without naming individuals.
+  zh: 提示词将女子固定在画面中央，并详细列出服装与配饰，使主体形象保持稳定；对群体统一描述相同的西装、衬衫、领带和头套，让背景人群整齐列队，无需逐一命名。
+prompt: |
+  A cinematic fashion editorial still of a striking woman standing confidently in the center of a large group of young men. She has fair skin, sharp features, dark hair in a low bun, wearing a black beret, an elegant black off-shoulder velvet top, layered pearl necklaces, and pearl earrings. She holds a cigarette near her lips with a calm, intense gaze.
+  Surrounding her are dozens of men in identical black suits, white shirts, and striped ties, all wearing light blue distressed balaclavas with eye and mouth cutouts. Some have small emblems on their jackets. They stand in rigid formation, creating a powerful, almost cult-like atmosphere.
+  Wide shot composition, the woman perfectly centered, men filling the frame in front of a brick building with a large arched doorway. Dramatic natural lighting, high fashion mood, photorealistic, ultra detailed, 8k, cinematic color grading

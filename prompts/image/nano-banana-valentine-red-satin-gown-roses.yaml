@@ -1,0 +1,25 @@
+id: nano-banana-valentine-red-satin-gown-roses
+title:
+  en: Woman in red satin gown with burgundy roses
+  zh: 身着红色缎面长裙手持深红玫瑰的女子
+model: Nano Banana Pro
+mode: text-to-image
+category: portrait
+tags:
+- valentines-day
+- fashion
+- studio-lighting
+source:
+  name: '@AIwithSynthia on X'
+  url: https://x.com/AIwithSynthia/status/2022201717371347334
+  credit: Synthia
+  likes: 84
+  captured: '2026-11-10'
+  posted: '2026-02-13'
+notes:
+  en: Naming the fabric, the studio backdrop and a magazine style gives the model a concrete target. The phrase wind effect in hair and fabric is what produces the motion in the gown.
+  zh: 明确写出面料、影棚背景和杂志风格，为模型提供具体目标。风吹动头发和衣料这一描述，正是裙摆产生动感的原因。
+prompt: |
+  Fashion editorial shoot of a woman in an elegant long red satin gown holding a bouquet of deep burgundy roses, minimal ivory studio background, wind effect in hair and fabric, high-fashion lighting, luxury magazine aesthetic.
+
+  High-end Valentine’s Day perfume advertisement, crystal perfume bottle placed on a velvet red pedestal, surrounded by scattered rose petals and golden heart charms, soft pink mist swirling around the bottle, glossy reflective surface, dramatic spotlight, luxury editorial photography, rich red and gold palette, 1080x1080.

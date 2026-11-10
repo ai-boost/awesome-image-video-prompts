@@ -1,0 +1,26 @@
+id: seedance-monster-chase-jelly-gun-paris
+title:
+  en: Woman in orange dress fleeing monsters in Paris
+  zh: 橙裙女子在巴黎街头逃离怪物
+model: Seedance 2.5
+mode: reference-to-video
+category: action
+tags:
+- halloween
+- monster-chase
+- handheld-camera
+- transformation
+source:
+  name: '@BlairHayesAi on X'
+  url: https://x.com/BlairHayesAi/status/2117905062303604976
+  credit: BlairHayesAi
+  captured: '2026-11-10'
+  posted: '2026-11-04'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/BlairHayesAi/status/2117905062303604976
+notes:
+  en: 'The global rules line sets the look: a vintage handheld camcorder with VHS grain and muted colour. A timed shot list gives each beat its own camera angle, and the three reference images lock the heroine, the gun and the jelly creature so every cut stays consistent.'
+  zh: 开头的全局规则定下画面风格：手持老式摄像机、VHS 颗粒感与低饱和色。分时段的镜头表让每个镜头都有独立机位，三张参考图分别锁定女主角、武器和果冻南瓜生物，保证切镜后形象一致。
+prompt: "GLOBAL RULES: photorealistic monster chase in classical downtown Europe. Vintage handheld camcorder, muted colors, low saturation, VHS grain, gritty cinematic realism. \n\nA young Korean woman <<<image_1>>> escapes monsters using a transformation gun <<<image_2>>> . Every monster has a completely unique appearance, silhouette, anatomy, size, texture, and movement. Extreme high-speed action, aggressive handheld tracking, fisheye angles, whip pans, snap zooms, speed ramps, heavy motion blur, speed streaks, subtle afterimages, and rapid cuts. \n\nDifferent camera angle for every cut. The gun fires invisible projectiles with NO light, beams, or muzzle flashes, only violent recoil and gray muzzle smoke. \n\nTargets INSTANTLY transform on impact (under 0.5 seconds) into adorable, crystal-clear, translucent jack-o'-lantern jelly <<<image_3>>> versions of themselves in diverse vibrant colors—ruby red, emerald green, sapphire blue, amber yellow, violet, and pink. Each jack-o'-lantern jelly\
+  \ creature retains its original silhouette and distinctive features, with glossy gelatin surfaces, realistic light refraction, visible internal transparency, soft elastic wobbling. \n\nRealistic bouncing and jiggling, never floating like balloons. No slow morphing, opaque jelly, cartoon rendering, subtitles, or logos.\n\n0–2s: Aerial quarter wide shot. Unique monsters chase her through Paris traffic.\n\n2–5s: Frontal quarter tracking. She sprints toward camera, monsters closing in at extreme speed.\n\n5–6.5s: Extreme left quarter close-up. She glances back and draws her gun. Snap zoom.\n\n6.5–10s: Over-the-shoulder. She spins, fires, instantly turning a horned monster into a transparent ruby-red jack-o'-lantern  jelly <<<image_3>>> creature.\n\n10–14.5s: Ground-level fisheye. She slides beneath two attacking monsters, fires twice, instantly transforming them into translucent emerald-green and sapphire-blue jack-o'-lantern jelly <<<image_3>>> creatures.\n\n14.5–16s: Dutch angle. A woman\
+  \ <<<image_1>>> performs aerial acrobatics and shoots a gun, and the monsters turn into jelly while floating in the air.\n\n16–20s: Side tracking. She leaps over a barrier, shoots a dumpster, instantly turning it into a giant transparent amber jack-o'-lantern jelly <<<image_3>>> Monsters crash into its elastic surface.\n\n20–22s: Extreme low angle. A colossal, uniquely shaped monster towers over Paris.\n\n22–27s: rear quarter hero shot. She fires to A colossal, uniquely shaped monster with massive recoil and smoke. \n\nThe giant instantly transforms into an enormous, crystal-clear violet jelly monster, turns into a giant jack-o'-lantern jelly <<<image_3>>>. \n\n27–30 seconds: A medium close-up, upper-body shot from the front. A woman takes a jack-o'-lantern jelly <<<image_3>>> candy from a bag <<<image_4>>> and eats it. \n\nThe handheld camera slowly moves toward her face, capturing the contrast between the chaotic streets of Seoul—overrun by monsters—and her own remarkably calm reaction.\n"

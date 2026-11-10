@@ -1,0 +1,47 @@
+id: gpt-image-3d-animated-bust-blonde-portrait
+title:
+  en: 3D animated bust portrait with windswept blonde hair
+  zh: 带风吹金发的3D动画半身像
+model: GPT Image 2.5
+mode: image-edit
+category: photo-to-art
+tags:
+- 3d
+- portrait
+- profile-picture
+source:
+  name: '@harboriis on X'
+  url: https://x.com/harboriis/status/2118976038911000898
+  credit: Harboris
+  likes: 284
+  captured: '2026-11-10'
+  posted: '2026-11-07'
+notes:
+  en: 'Fixing the framing, a pure #FFFFFF background and a shadowed rounded bottom edge gives a clean square bust. The reference photo plus an identity-first clause keeps the likeness while the 3D animation style is applied on top.'
+  zh: '明确构图、纯白背景 #FFFFFF 和带阴影的圆润底边，得到干净的方形半身像。参考照片加上优先保持身份的要求，在套用3D动画风格的同时保留人物相似度。'
+prompt: |
+  Professional 3D Animated Character Portrait | Animator's Brief
+
+  Using the uploaded reference photo, create a premium-quality 3D animated character portrait of me, inspired by the expressive charm and polished visual storytelling of Pixar-style character design.
+
+  Character Design: Transform me into a beautifully stylized 3D animated version while preserving my distinctive facial features, face shape, hairstyle, skin tone, and recognizable identity. The character should look instantly recognizable to anyone familiar with the original photo. Maintain natural facial proportions while adding subtle animated charm, expressive eyes, and refined details.
+
+  Composition: Create a head-and-shoulders bust portrait only, positioned precisely in the center of the canvas. Keep the character relatively small, surrounded by generous, clean negative space on all sides. Use a pure, seamless white background with no additional objects or decorations.
+
+  Rendering & Lighting: Use high-quality 3D character rendering, smooth yet realistic skin shading, detailed hair, refined facial textures, and soft studio lighting. Keep the skin tone fair and neutral, with accurate natural undertones. Avoid excessive warmth, golden hues, orange casts, or yellowish skin tones.
+
+  Finishing Details: Give the bottom of the bust a smooth, softly rounded sculptural edge, with a subtle natural shadow directly beneath it to create a gentle floating effect. Maintain clean contours and beautifully polished 3D surfaces.
+
+  Overall Aesthetic: Premium animated movie character quality, playful yet sophisticated, friendly facial expression, appealing character proportions, cinematic 3D craftsmanship, and professional studio presentation.
+
+  Technical Requirements:
+
+  - Aspect ratio: 1:1 (square)
+  - Background: Pure white (#FFFFFF)
+  - Framing: Head and shoulders only
+  - Placement: Precisely centered
+  - Lighting: Soft, balanced studio lighting
+  - Output: High-resolution, crisp and polished
+  - Intended use: WhatsApp profile picture
+
+  Important: Identity preservation is the highest priority. Do not change my recognizable facial characteristics or invent a different person. The final result should feel like me reimagined as a high-end animated movie character.

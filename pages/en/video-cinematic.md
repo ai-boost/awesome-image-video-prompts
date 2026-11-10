@@ -1,6 +1,6 @@
 # Cinematic scenes and short films
 
-[Back to the list](../../README.md) · All 150 entries · **1** · [2](video-cinematic-2.md)
+[Back to the list](../../README.md) · All 160 entries · **1** · [2](video-cinematic-2.md)
 
 <a id="h3-character-detail-montage"></a>
 ### Twenty shot character detail montage, face revealed last
@@ -53,6 +53,25 @@ Jump between distant body regions. Mix brief visual punches with longer moving-d
 20. Hard cut to a frontal face close-up as the character sharply completes the turn toward the lens. An explosive short push reveals the entire face clearly for the first time and stops tightening before cropping out its features. Direct eye contact lands while hair, clothing or natural body follow-through remains alive. Keep the whole face readable through the end; finish on living motion, without a held pose or another cut.
 
 No added props, scenery, text, graphic overlays or split screens.
+```
+
+</details>
+
+<a id="h3-fpv-noir-bedspread-pistol-glide"></a>
+### Low FPV glide over bedspread toward noir pistol
+
+<a href="https://x.com/CharaspowerAI/status/2090091561506009588"><img src="../../previews/h3-fpv-noir-bedspread-pistol-glide.jpg" width="360"></a>
+
+The prompt writes the whole shot as one continuous FPV path with the camera's route stated in order, then lists the focus handoffs (pistol, ember, smoke, pendants, lips, eyes). The reference-identity line and the no-cut instruction keep the character and the take consistent.
+
+MiniMax H3 · Image-to-video · Source: [@CharaspowerAI on X](https://x.com/CharaspowerAI/status/2090091561506009588) · 1,863 likes on 2026-11-10
+
+[`fpv`](tags.md#tag-fpv) [`noir`](tags.md#tag-noir) [`macro`](tags.md#tag-macro) [`single-take`](tags.md#tag-single-take)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Invisible micro-FPV camera skimming less than an inch above the coarse woven bedspread, the ribbed diagonal threads rushing past in extreme macro like a textured landscape, warm lamplight grazing every raised fiber while the background dissolves into creamy noir blur; the lens glides forward with a low, weightless inertia, catching a sudden silver glint from the handgun at the right edge as the first visual hook, then banking gently left around the corner of the small textured cushion that supports the woman’s elbows, so the cushion becomes a massive foreground wall sliding across frame. Focus starts razor-thin on the bedspread threads, then racks smoothly to the metallic pistol grip in her resting left hand, revealing her red-painted nails, the extended index finger along the slide, and tiny reflected streaks of warm practical light on the gun’s polished edges. Without cutting, the camera rises in a shallow arc over the pistol muzzle line, never crossing it abruptly, drifting close enough for the weapon to sweep past the lens as a blurred silver foreground occlusion, then eases toward her hand and forearm, the black wrist band briefly framing the lower edge while the bed and white pillow behind stretch into parallax layers. The movement continues as one controlled breath: a slow clockwise orbit around her upper body, passing just above the cushion and climbing toward the black scoop-neck top, where the two red teardrop pendants swing subtly against her collarbone; focus pulls from the jewelry’s glossy facets to the soft highlights on her skin, then to the dark shine of her straight black bob. The camera slips upward beside her raised cigarette hand, threading through the thin smoke drifting from the ember, the burning tip blooming as a warm macro point of light before it smears into bokeh; the cigarette and red fingernails fill the foreground while her face remains ghosted behind them, then focus snaps elegantly through the smoke onto her eyes. She remains visually identical to the reference: prone on the bed, elbows planted, head slightly tilted, feet lifted and crossed behind her, calm direct gaze, blunt bangs, dark clothing, red pendants, pistol in hand, no redesign, no change of pose logic. The camera now floats inches from her face, almost at pillow height, drifting from her cigarette hand across the line of her cheek and lips as a thin blue-toned exhale lifts past her forehead; the smoke curls around the lens as semi-transparent veils, briefly occluding one eye, then revealing it again with a controlled rack-focus from vapor texture to the sharp reflective wetness of her gaze. Momentum carries the viewpoint upward in a graceful rising bank over the bridge of her nose and bangs, grazing the glossy black hair so individual strands catch warm highlights from the lamp on frame-left and cooler ambience from the blinds behind. As the lens crests above her head, it widens slightly, revealing the room geometry: the illuminated pleated table lamp glowing on the left, closed horizontal blinds behind her raised heels, the smooth white pillow on the right, and the bedspread plane anchoring the entire scene. The camera then dives in a smooth S-curve toward her crossed glossy black stilettos, using the lifted legs as a dramatic foreground arch; focus shifts from her face to the patent leather shoes, catching tiny specular highlights as the lamp and blinds slide in opposite directions behind them, creating strong parallax without disorienting the space. The viewpoint wraps around the shoes in a technically precise half-orbit, passing close to one heel until it becomes a dark blurred vertical blade, then descending along the diagonal line of her legs back toward the bed, letting the blinds streak horizontally across the background while the warm lamp glow expands and contracts at the left edge. The movement accelerates subtly into the final escalation: the camera swoops low beside the bedspread, races past the cushion, then climbs in a smooth spiral around her right side, threading between the foreground cigarette smoke and the reflective pistol so smoke, gunmetal, red nails, red pendants, black hair, warm lamp, white pillow, and striped blinds all align in layered depth. During this final wraparound, focus choreographs a continuous chain—pistol highlight, cigarette ember, drifting smoke, pendant facets, her lips, then her eyes—each handoff motivated by the camera’s path and changing distance. The last maneuver decelerates into a poised three-quarter frontal hero composition at bed height, slightly low and intimate, with her face and eyes razor sharp, cigarette hand lifted in the foreground, pistol resting in the opposite hand, crossed heels and horizontal blinds behind, the glowing pleated lamp forming a warm practical halo at one side, smoke rising in elegant blue wisps through the frame. The final image holds as a premium neo-noir movie-poster frame: stable, iconic, high-contrast, shallow depth of field, warm practical light against cool background ambience, all textures preserved, the woman’s expression calm and unwavering, the room intact and spatially coherent, no cuts, no visible camera, only one continuous fluid FPV trajectory ending in perfect cinematic stillness.
 ```
 
 </details>
@@ -3812,6 +3831,56 @@ Show me in this story. Follow the story exactly in order starting top left. Enti
 
 Inputs: [1](https://storage.googleapis.com/deepmind-media/DeepMind.com/Models/gemini-omni/prompt-guide/gemini-omni__reference-anything-storyboard-ingredient-01.webp) · [2](https://storage.googleapis.com/deepmind-media/DeepMind.com/Models/gemini-omni/prompt-guide/gemini-omni__reference-anything-storyboard-ingredient-02.webp)
 
+<a id="seedance-3-17-cctv-doppelganger-apartment"></a>
+### Seated man in dark Seoul apartment at 3:17 AM
+
+<a href="https://x.com/navi_Ai2/status/2118712307001798888"><img src="../../previews/seedance-3-17-cctv-doppelganger-apartment.jpg" width="360"></a>
+
+Timed scene beats with fixed second ranges and one character description repeated for continuity keep the 30-second structure readable. Explicit camera, lighting and sound cues such as the clock tick, the CCTV beep and the silence before the reveal give the model concrete targets for the suspense build.
+
+Seedance 2.5 · Text-to-video · Source: [@navi_Ai2 on X](https://x.com/navi_Ai2/status/2118712307001798888) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`korean`](tags.md#tag-korean) [`psychological-thriller`](tags.md#tag-psychological-thriller) [`cctv`](tags.md#tag-cctv) [`suspense`](tags.md#tag-suspense)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+TITLE: 3:17 AM – THE MAN IN THE CCTV
+
+Create a 30-second ultra-realistic Korean psychological thriller short film. The film must feel like a scene from a high-budget Korean mystery movie, with professional cinematography, natural performances, realistic environments, and intense suspense.
+
+CHARACTER CONSISTENCY:
+A 29-year-old Korean man with short black hair, wearing a dark grey T-shirt and black trousers. Maintain exactly the same face, clothing, hairstyle, and physical appearance throughout the film.
+
+SCENE 1 (0–7 SECONDS):
+At 3:17 AM, a young Korean man sits alone in his modern Seoul apartment. The room is dark except for the television and a small table lamp. Suddenly, his security camera monitor makes a notification sound. He looks toward the screen.
+
+SCENE 2 (7–14 SECONDS):
+He opens the CCTV recording. The footage shows a man standing silently in the middle of his living room. The man looks exactly like him. The protagonist freezes. Slowly, he looks around his actual empty living room.
+
+SCENE 3 (14–22 SECONDS):
+He rewinds the CCTV footage. The mysterious duplicate is now standing directly behind his chair. His breathing becomes faster. He slowly turns his head, but nobody is there. Suddenly, the CCTV camera moves by itself.
+
+SCENE 4 (22–30 SECONDS):
+The monitor displays a live camera view. The duplicate is standing directly behind him in the actual room. The protagonist notices a shadow moving across the wall. He slowly turns around. Before his face is revealed, all the lights suddenly switch off.
+
+FINAL SHOT:
+In complete darkness, the CCTV monitor turns back on. The screen displays the protagonist sitting peacefully in his chair, smiling directly at the camera.
+
+CUT TO BLACK.
+
+CINEMATOGRAPHY:
+Ultra-realistic Korean live-action filmmaking, cinematic wide shots, controlled handheld camera movements, dramatic close-ups, natural skin textures, realistic shadows, subtle film grain, deep atmospheric lighting, professional color grading, and carefully composed framing.
+
+SOUND DESIGN:
+Quiet apartment ambience, subtle clock ticking, CCTV notification beep, low-frequency suspense music, realistic breathing, sudden silence before the final reveal.
+
+STRICT REQUIREMENTS:
+No cartoon visuals, no animation, no fantasy effects, no artificial faces, no exaggerated acting, no random transitions, no inconsistent characters, no unnecessary dialogue, no watermarks. Maintain visual continuity across all scenes. Make the final twist genuinely shocking and memorable.
+```
+
+</details>
+
 <a id="seedance-3d-toddler-bob-dressing-room-comedy"></a>
 ### Animated toddler with bob haircut in a bedroom
 
@@ -3878,6 +3947,27 @@ LOCATION: Quiet beach, wet sand, foaming waves behind, side sunlight with rim li
 CAMERA: smooth, slight handheld, slow push-ins, no sudden cuts.
 AUDIO: waves, seagulls, wind, her small cough, soft laughter, light emotional score.
 NEGATIVE: no blood, no gore, no distortion, no extra fingers, no face morphing, no outfit or jewelry change, no text, no watermark, no cartoon or plastic skin.
+```
+
+</details>
+
+<a id="seedance-beret-woman-masked-men-formation"></a>
+### Woman in beret stands calm among masked men in formation
+
+<a href="https://x.com/noorlewisx/status/2117850726021914955"><img src="../../previews/seedance-beret-woman-masked-men-formation.jpg" width="360"></a>
+
+Fixing the woman as the centered subject with a wide shot and a detailed wardrobe list keeps her identity stable while dozens of extras fill the frame behind her. Repeating the same suit, shirt, tie and balaclava description for the group keeps the formation uniform without naming individuals.
+
+Seedance 2.5 · Text-to-video · Source: [@noorlewisx on X](https://x.com/noorlewisx/status/2117850726021914955) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`fashion`](tags.md#tag-fashion) [`editorial`](tags.md#tag-editorial) [`crowd`](tags.md#tag-crowd) [`masks`](tags.md#tag-masks)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A cinematic fashion editorial still of a striking woman standing confidently in the center of a large group of young men. She has fair skin, sharp features, dark hair in a low bun, wearing a black beret, an elegant black off-shoulder velvet top, layered pearl necklaces, and pearl earrings. She holds a cigarette near her lips with a calm, intense gaze.
+Surrounding her are dozens of men in identical black suits, white shirts, and striped ties, all wearing light blue distressed balaclavas with eye and mouth cutouts. Some have small emblems on their jackets. They stand in rigid formation, creating a powerful, almost cult-like atmosphere.
+Wide shot composition, the woman perfectly centered, men filling the frame in front of a brick building with a large arched doorway. Dramatic natural lighting, high fashion mood, photorealistic, ultra detailed, 8k, cinematic color grading
 ```
 
 </details>
@@ -4193,206 +4283,6 @@ Ultra-photorealistic cinematic horror fantasy, realistic human anatomy, detailed
 Camera: Fixed frontal camera, medium-wide composition, no cuts, no zooms, consistent character appearance and costume throughout.
 
 Important: No cartoon aesthetics, no animation look, no plastic skin, no character morphing, no extra limbs, no distorted hands, no scene transitions, and no changes to the character's identity.
-```
-
-</details>
-
-<a id="seedance-college-lab-zombie-infection"></a>
-### College lab student turns into a zombie
-
-<a href="https://x.com/AIwithSynthia/status/2106955772395659431"><img src="../../previews/seedance-college-lab-zombie-infection.jpg" width="360"></a>
-
-The prompt runs as a timed chain of beats, from the cracked container to infection, chase, barricade and a final smile at the door window, and it locks the character's face and clothes up front. A separate audio line with no music, a style line that moves from cold fluorescent to red emergency light, and a negative list against gore and face morphing keep the horror grounded.
-
-Seedance 2.5 · Text-to-video · Source: [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2106955772395659431) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`horror`](tags.md#tag-horror) [`zombie`](tags.md#tag-zombie) [`photorealistic`](tags.md#tag-photorealistic) [`handheld`](tags.md#tag-handheld) [`sound-design`](tags.md#tag-sound-design)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a photorealistic live-action zombie-horror sequence inside a modern university science laboratory during a normal college practical session. The central character is a young adult Korean female college student wearing a white laboratory coat over a simple shirt, blue jeans and white sneakers. Keep her face, hairstyle, clothing and body proportions identical throughout. Surround her with several college students, laboratory benches, microscopes, glass test tubes, chemical containers, computers and scientific equipment. Use realistic fluorescent lighting, practical effects, handheld camerawork and believable physics.
-
-The students are quietly working on an experiment when a sealed glass specimen container suddenly cracks. A dark infected substance escapes and attaches itself to the young woman near her shoulder and neck. She stumbles backward in fear as dark veins slowly spread beneath her skin, traveling across her neck and face. Her fingers begin twitching, her body develops violent tremors and her skin becomes pale and clammy.
-
-Her frightened expression gradually disappears. She raises her head and her eyes slowly transform into deep cloudy-black eyes. She suddenly turns toward a nearby classmate and charges. He desperately backs away behind a laboratory table while she repeatedly slams against it, moving with unnatural strength.
-
-The other students freeze before scrambling toward the laboratory exit. The infected woman suddenly becomes completely still, then slowly rotates her head toward them. Her dark veins pulse visibly across her face while her black eyes remain fixed on the students.
-
-Another glass specimen container cracks in the background. A second infected student suddenly collapses onto the floor, convulsing violently as dark veins spread across his neck and face and his eyes turn black. Panic erupts throughout the laboratory.
-
-Students grab backpacks, chairs and laboratory equipment while trying to escape. One student pulls another toward the emergency exit as the infected chase them through the narrow aisles. A heavy laboratory table is pushed against the door as a temporary barricade.
-
-The survivors finally reach the hallway and slam the laboratory door shut. Red emergency lights begin flashing as they catch their breath.
-
-Inside the laboratory, everything becomes silent.
-
-The camera slowly approaches the small observation window in the door. The infected female student stands motionless in the darkness, still wearing her white lab coat and jeans. Her pale face, prominent dark veins and completely black eyes are clearly visible.
-
-She slowly tilts her head toward the window.
-
-Then she suddenly smiles.
-
-Cut to black.
-
-AUDIO: Realistic laboratory ambience, fluorescent hum, glass cracking, equipment falling, footsteps, frightened breathing, screams, alarms, convulsions, impacts and distant banging. No music or exaggerated sound effects.
-
-STYLE: Ultra-realistic college laboratory horror, practical-effects infection, realistic skin texture, believable anatomy, natural handheld camera, grounded movement, realistic facial transformation, dark spreading veins, black/cloudy eyes, violent convulsions and unnatural infected movements, cold fluorescent lighting transitioning into red emergency lighting.
-
-NEGATIVE: Excessive gore, graphic dismemberment, graphic eye gore, anime, cartoon, illustration, plastic skin, fake CGI, duplicated students, face morphing, distorted anatomy, extra limbs, floating objects, impossible physics, changing clothes, inconsistent identities, subtitles, text, logos, watermark.
-```
-
-</details>
-
-<a id="seedance-coronation-modern-man-fixes-crown"></a>
-### Kneeling prince before king in throne room
-
-<a href="https://x.com/Caden_Flux/status/2109652904864829898"><img src="../../previews/seedance-coronation-modern-man-fixes-crown.jpg" width="360"></a>
-
-Three uploaded character sheets are locked as references, and the prompt lists the traits each character must keep. A timed beat sheet with exact dialogue and audio cues, plus a strict negative list, keeps the comedy understated.
-
-Seedance 2.5 · Reference-to-video · Source: [@Caden_Flux on X](https://x.com/Caden_Flux/status/2109652904864829898) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`comedy`](tags.md#tag-comedy) [`medieval`](tags.md#tag-medieval) [`character-lock`](tags.md#tag-character-lock) [`dialogue`](tags.md#tag-dialogue)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-THE CORONATION — 20-SECOND CINEMATIC COMEDY
-
-MODEL: Seedance 2.5
-DURATION: 20 seconds
-ASPECT RATIO: 16:9
-STYLE: Photorealistic live-action medieval fantasy film with subtle absurdist comedy.
-REFERENCE IMAGES AND CHARACTER LOCK
-Use the uploaded King character sheet, Prince character sheet, and Random Man character sheet as the definitive visual references.
-King: Preserve his exact face, gray-streaked hair, beard, crown, and burgundy royal outfit.
-
-Prince: Preserve his exact face, hairstyle, navy-and-gold coronation outfit, blue cloak, and crown once placed.
-
-Random Man: Preserve his exact face, hairstyle, modern casual outfit, and body proportions.
-
-Maintain consistent character identities, costumes, lighting, and the layout of the throne room throughout the entire video.
-LOCATION AND ATMOSPHERE
-An enormous medieval royal throne room with towering stone pillars, golden chandeliers, tall stained-glass windows, red velvet banners, and a magnificent golden throne. The royal court stands silently on either side of a red carpet.
-
-The atmosphere is extremely serious and emotionally grand, like the climax of an epic fantasy film. Warm golden sunlight streams through the windows. The music is majestic, with a full orchestral score.
-
-The modern man must look completely out of place in this medieval setting.
-
-SHOT 1 — THE MOMENT OF CORONATION
-
-0–5 seconds
-
-Wide cinematic establishing shot of the royal throne room. The prince kneels on a cushion before the king. The king stands solemnly in front of him, holding an ornate golden crown with both hands.
-
-The court watches in absolute silence.
-Cut to a medium close-up of the king slowly raising the crown above the prince's head.
-
-The king speaks in a deep, solemn voice:
-
-KING: "Today, you become king."
-
-The orchestral music swells dramatically. The prince bows his head with complete seriousness.
-
-SHOT 2 — THE WRONG MAN ENTERS
-
-5–9 seconds
-
-Just as the king is about to lower the crown, a casually dressed modern man in a dark hoodie, jeans, and sneakers walks into the royal ceremony from the side of the hall.
-
-He walks directly between the king and prince as though he belongs there.
-The king freezes with the crown suspended in midair. The prince remains kneeling, looking slightly confused. The courtiers stare in silent disbelief.
-
-The modern man barely acknowledges anyone. He notices the crown, looks at it critically, and gives a small disapproving shake of his head.
-
-The orchestral music abruptly softens into an awkward, sustained note.
-
-SHOT 3 — THE UNEXPECTED FIX
-
-9–14 seconds
-
-In one continuous, clearly visible action, the modern man casually takes the crown from the king's hands.
-
-He notices a small paper price tag hanging from the crown, removes it, and slips it into his pocket. He then gently straightens the prince's crooked collar and nudges the royal throne a few inches into better alignment with the carpet.
-His movements are practical, quick, and completely unbothered.
-
-The king stands frozen, visibly bewildered but trying to preserve his royal dignity. The prince looks from the man to his father, unsure whether he is allowed to move.
-
-The man steps back, examines his work, and gives one satisfied nod.
-
-RANDOM MAN: "Much better."
-
-Deliver the line casually, in a natural conversational voice, without a dramatic pause or exaggerated comic delivery.
-
-SHOT 4 — BACK TO BUSINESS
-
-14–17 seconds
-
-The modern man turns around and casually walks out of the throne room the same way he entered.
-
-No one stops him. Nobody speaks.
-The king slowly follows him with his eyes, then looks down at the crown in his hands as if trying to understand what just happened.
-
-The prince remains kneeling in the exact same position.
-
-The man exits the frame completely.
-
-SHOT 5 — THE CORONATION CONTINUES
-
-17–20 seconds
-
-Cut to a cinematic medium close-up of the king taking a slow breath, regaining his composure, and carefully positioning himself to continue the ceremony.
-
-He raises the crown again.
-The prince bows his head.
-
-The orchestral music resumes its original majestic intensity, as if the interruption never happened.
-
-KING: "Today… you become king."
-
-End immediately on the king's perfectly serious face.
-
-Cut to black.
-
-CAMERA AND EDITING
-
-Use professional cinematic framing, smooth controlled camera movements, realistic depth of field, natural facial micro-expressions, and clean film-style cuts. Establish the room before moving into medium shots and close-ups. Make the modern man's entrance and practical actions easy to see.
-
-Keep the comedy understated and driven by timing, awkward silence, and the contrast between the epic ceremony and the man's mundane behavior.
-
-AUDIO DESIGN
-
-Majestic orchestral music during the coronation, subtle footsteps and clothing movement, a slight musical interruption when the man enters, a soft paper rustle as he removes the price tag, and a return to full orchestral grandeur for the final line.
-
-All dialogue must be clearly audible, naturally delivered, and spoken in English. No narration, no subtitles, no extra dialogue, and no random background voices.
-
-STRICT NEGATIVE CONSTRAINTS
-
-No cartoon effects, no slapstick falls, no exaggerated facial expressions, no character morphing, no identity changes, no costume changes, no duplicated characters, no extra limbs, no floating objects, no random camera transitions, no modern objects apart from the man's clothing and the tiny price tag, and no characters looking directly into the camera.
-
-The king, prince, and courtiers must treat the event as a real interruption to a serious royal ceremony. The modern man must remain completely calm and behave as though fixing the coronation is an ordinary task.
-
-FINAL CREATIVE DIRECTION: Make it look like a genuine, high-budget medieval fantasy movie that has been interrupted by a man who thinks he is responsible for fixing continuity errors. The audience should find the situation funny without the characters turning it into a comedy performance.
-```
-
-</details>
-
-<a id="seedance-disaster-comedy-restaurant-feast"></a>
-### Two women eat after city explosion shakes restaurant
-
-<a href="https://x.com/Aqsahere_/status/2096077108808470604"><img src="../../previews/seedance-disaster-comedy-restaurant-feast.jpg" width="360"></a>
-
-Each character is locked to a fixed screen side and given contrasting props (salad against pizza, burger and tteokbokki), so the diet joke reads at a glance. The explosion is staged as a pressure wave that rattles the plates, which gives the model a clear physical cue for the shift from envy to panic eating.
-
-Seedance 2.5 · Text-to-video · Source: [@Aqsahere_ on X](https://x.com/Aqsahere_/status/2096077108808470604)
-
-[`disaster-comedy`](tags.md#tag-disaster-comedy) [`restaurant`](tags.md#tag-restaurant) [`food`](tags.md#tag-food) [`korean`](tags.md#tag-korean)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a premium photorealistic live-action cinematic disaster comedy featuring two beautiful young Korean women with clearly different faces, hairstyles, body proportions, and fashion styles. WOMAN 1 sits screen left, wearing a stylish elegant outfit, with only a small green salad in front of her. WOMAN 2 sits screen right, with a completely different beautiful face and different fashionable outfit, enjoying a hamburger, pizza, and red tteokbokki. They sit in a luxurious modern restaurant beside a huge floor-to-ceiling window overlooking a dense city skyline. WOMAN 1 sadly stares at her salad and envies WOMAN 2's feast until a colossal distant explosion suddenly erupts across the city, sending orange-white light and a powerful pressure wave that shakes the window and rattles the plates. Realizing the world might be ending, WOMAN 1 immediately abandons her diet, slides her salad aside, and urgently starts eating the pizza and hamburger. WOMAN 2 watches in disbelief, but another shockwave hits and she instantly joins the frantic feast. Finish with both women seriously panic-eating while repeatedly glancing at the enormous apocalyptic cloud outside. Premium large-format cinematic realism, Cooke anamorphic look, realistic physics, natural acting, cinematic orange disaster lighting, subtle handheld urgency after the explosion, no dialogue, no subtitles, no extra characters, no face duplication, and consistent screen positions throughout.
 ```
 
 </details>

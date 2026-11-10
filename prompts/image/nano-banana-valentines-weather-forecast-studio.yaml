@@ -1,0 +1,108 @@
+id: nano-banana-valentines-weather-forecast-studio
+title:
+  en: Weather presenter beside a Valentine love forecast map
+  zh: 情人节天气预报主播站在爱心气象图前
+model: Nano Banana Pro
+mode: text-to-image
+category: realism
+tags:
+- valentines-day
+- weather-forecast
+- json-prompt
+- studio
+source:
+  name: '@AITalesNBH on X'
+  url: https://x.com/AITalesNBH/status/2022638680444133507
+  credit: AI Tales - Not by Humans
+  likes: 74
+  captured: '2026-11-10'
+  posted: '2026-02-14'
+notes:
+  en: Splitting the scene, subject, wardrobe, camera and lighting into separate fields keeps every element specified. Listing the on screen forecast lines as their own array gives the map short, readable phrases instead of garbled text.
+  zh: 将场景、人物、服装、镜头和灯光拆成独立字段，让每个元素都有明确设定。把屏幕上的预报文字单独列为数组，地图上的短句因此清晰可读，而不是乱码。
+prompt: |
+  {
+    "MPNB_version": "Nano Banana Pro",
+    "intent": "Maximalist editorial, cinematic, photorealistic Valentine-themed weather forecast scene",
+    "aspect_ratio": "4:5",
+    "resolution": "8K",
+    "style_lock": {
+      "photorealism": true,
+      "editorial_grade": "luxury magazine cover",
+      "no_cartoon": true,
+      "no_watermark": true,
+      "controlled_imperfections": true
+    },
+    "scene": {
+      "concept": "Valentine Weather Forecast Studio",
+      "environment": "High-end modern broadcast studio redesigned for Valentine's Day",
+      "background": {
+        "main_screen": "Large curved LED weather map showing a stylized Europe forecast made of soft pink clouds, subtle heart-shaped pressure systems, glowing love fronts moving across the map",
+        "sky_elements": "Floating translucent hearts integrated subtly into realistic cloud formations",
+        "lighting_accent": "Soft neon pink and deep red LED rim lights integrated into studio architecture"
+      }
+    },
+    "subject": {
+      "role": "Weather Woman",
+      "age": 25,
+      "appearance": {
+        "hair": "Glossy soft waves, chestnut brown, natural movement",
+        "makeup": "Soft romantic glam, luminous skin, subtle blush, cherry-red lips, delicate highlighter",
+        "expression": "Confident, charming, warm editorial smile as if announcing a 'High Pressure of Love'"
+      },
+      "pose": {
+        "stance": "Standing slightly angled toward camera, one leg subtly forward",
+        "gesture": "Right hand elegantly gesturing toward a glowing heart-shaped weather system on the map",
+        "left_hand": "Holding a sleek digital tablet with a subtle glowing heart icon"
+      },
+      "wardrobe": {
+        "outfit": "Tailored pastel red blazer dress, structured shoulders, cinched waist",
+        "length": "Above the knees, elegant but professional",
+        "fabric": "Luxury satin-wool blend with subtle sheen",
+        "details": "Minimalist silver heart-shaped brooch, delicate diamond studs",
+        "heels": "High-heeled pumps in soft blush tone"
+      }
+    },
+    "cinematography": {
+      "camera": "Full-frame DSLR simulation",
+      "lens": "85mm f/1.8",
+      "depth_of_field": "Shallow depth of field, subject razor sharp, background softly diffused",
+      "angle": "Slight low-angle to create authority and glamour",
+      "framing": "Mid-thigh crop, cover-ready composition"
+    },
+    "lighting": {
+      "key_light": "Large softbox front-left, flattering skin tones",
+      "rim_light": "Soft magenta rim light for separation",
+      "ambient": "Warm studio glow with subtle red accents",
+      "skin_rendering": "Natural micro-texture preserved, no plastic smoothing"
+    },
+    "valentine_storytelling": {
+      "forecast_text_on_screen": [
+        "Romantic Warm Front Approaching",
+        "100% Chance of Kisses",
+        "High Pressure of Passion",
+        "Light Showers of Roses"
+      ],
+      "creative_element": "Tiny animated cupid silhouette flying across the digital weather map (subtle, not cartoonish)"
+    },
+    "color_grading": {
+      "palette": "Blush pink, deep crimson, soft gold highlights",
+      "contrast": "Balanced editorial contrast",
+      "finish": "Glossy luxury magazine tone"
+    },
+    "realism_constraints": {
+      "fabric_physics": "Natural folds and gravity",
+      "lighting_physics": "Correct shadow direction and studio reflections",
+      "screen_glow": "Realistic LED spill on subject’s blazer"
+    },
+    "negatives": [
+      "cartoon style",
+      "over-saturated reds",
+      "plastic skin",
+      "distorted hands",
+      "warped studio geometry",
+      "text artifacts",
+      "low resolution",
+      "flat lighting"
+    ]
+  }

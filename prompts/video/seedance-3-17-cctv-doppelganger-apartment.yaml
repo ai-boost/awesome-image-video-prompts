@@ -1,0 +1,56 @@
+id: seedance-3-17-cctv-doppelganger-apartment
+title:
+  en: Seated man in dark Seoul apartment at 3:17 AM
+  zh: 凌晨3:17首尔昏暗公寓中独坐的男子
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- korean
+- psychological-thriller
+- cctv
+- suspense
+source:
+  name: '@navi_Ai2 on X'
+  url: https://x.com/navi_Ai2/status/2118712307001798888
+  credit: navi_Ai2
+  captured: '2026-11-10'
+  posted: '2026-11-06'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/navi_Ai2/status/2118712307001798888
+notes:
+  en: Timed scene beats with fixed second ranges and one character description repeated for continuity keep the 30-second structure readable. Explicit camera, lighting and sound cues such as the clock tick, the CCTV beep and the silence before the reveal give the model concrete targets for the suspense build.
+  zh: 按秒数划分的分镜段落加上固定不变的人物描述，让30秒结构清晰并保持人物前后一致。明确的镜头、光线和声音提示，如时钟滴答、监控提示音和揭示前的寂静，为悬念递进提供了具体指令。
+prompt: |
+  TITLE: 3:17 AM – THE MAN IN THE CCTV
+
+  Create a 30-second ultra-realistic Korean psychological thriller short film. The film must feel like a scene from a high-budget Korean mystery movie, with professional cinematography, natural performances, realistic environments, and intense suspense.
+
+  CHARACTER CONSISTENCY:
+  A 29-year-old Korean man with short black hair, wearing a dark grey T-shirt and black trousers. Maintain exactly the same face, clothing, hairstyle, and physical appearance throughout the film.
+
+  SCENE 1 (0–7 SECONDS):
+  At 3:17 AM, a young Korean man sits alone in his modern Seoul apartment. The room is dark except for the television and a small table lamp. Suddenly, his security camera monitor makes a notification sound. He looks toward the screen.
+
+  SCENE 2 (7–14 SECONDS):
+  He opens the CCTV recording. The footage shows a man standing silently in the middle of his living room. The man looks exactly like him. The protagonist freezes. Slowly, he looks around his actual empty living room.
+
+  SCENE 3 (14–22 SECONDS):
+  He rewinds the CCTV footage. The mysterious duplicate is now standing directly behind his chair. His breathing becomes faster. He slowly turns his head, but nobody is there. Suddenly, the CCTV camera moves by itself.
+
+  SCENE 4 (22–30 SECONDS):
+  The monitor displays a live camera view. The duplicate is standing directly behind him in the actual room. The protagonist notices a shadow moving across the wall. He slowly turns around. Before his face is revealed, all the lights suddenly switch off.
+
+  FINAL SHOT:
+  In complete darkness, the CCTV monitor turns back on. The screen displays the protagonist sitting peacefully in his chair, smiling directly at the camera.
+
+  CUT TO BLACK.
+
+  CINEMATOGRAPHY:
+  Ultra-realistic Korean live-action filmmaking, cinematic wide shots, controlled handheld camera movements, dramatic close-ups, natural skin textures, realistic shadows, subtle film grain, deep atmospheric lighting, professional color grading, and carefully composed framing.
+
+  SOUND DESIGN:
+  Quiet apartment ambience, subtle clock ticking, CCTV notification beep, low-frequency suspense music, realistic breathing, sudden silence before the final reveal.
+
+  STRICT REQUIREMENTS:
+  No cartoon visuals, no animation, no fantasy effects, no artificial faces, no exaggerated acting, no random transitions, no inconsistent characters, no unnecessary dialogue, no watermarks. Maintain visual continuity across all scenes. Make the final twist genuinely shocking and memorable.

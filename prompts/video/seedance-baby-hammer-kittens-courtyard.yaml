@@ -1,0 +1,27 @@
+id: seedance-baby-hammer-kittens-courtyard
+title:
+  en: Baby's hammer strike turns paw prints into kittens
+  zh: 萌娃挥锤变出小猫惊呆白兔
+model: Seedance 2.5
+mode: text-to-video
+category: animal
+tags:
+- 3d-animation
+- animals
+- magic-transformation
+- chinese-courtyard
+source:
+  name: '@laviniavelle on X'
+  url: https://x.com/laviniavelle/status/2110585994445770795
+  credit: laviniavelle
+  captured: '2026-11-10'
+  posted: '2026-10-15'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/laviniavelle/status/2110585994445770795
+notes:
+  en: The prompt sets the subject, outfit, prop and courtyard in one sentence, then states the magic as a single clear action (a hammer strike leaves glowing paw prints that become kittens), so the transformation has one cause. The closing lighting and texture terms hold a consistent 3D look.
+  zh: 提示词先用一句话交代主角、服装、道具和庭院场景，再把魔法效果写成一个明确动作（锤子敲地留下发光爪印，爪印变成小猫），让变化只有一个起因。结尾的光线与质感词保证统一的3D画风。
+prompt: |
+  3D animated style a cute baby wearing a fluffy grey cat hoodie and holding a large pink toy hammer, playing with a small white fluffy bunny wearing a black headband in a traditional Chinese courtyard. The baby hits the ground with the hammer creating glowing pink paw prints that magically transform into cute orange kittens, surprising the bunny. Cinematic lighting, vibrant colors, detailed textures, expressive characters, and a cheerful atmosphere.
+
+  #FlovaAI #Flovacpp

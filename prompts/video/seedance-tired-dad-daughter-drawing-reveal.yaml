@@ -1,0 +1,39 @@
+id: seedance-tired-dad-daughter-drawing-reveal
+title:
+  en: Tired dad melts at daughter's handmade drawing
+  zh: 疲惫的爸爸看到女儿的画后动容
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- 3d-animation
+- family
+- emotional
+- pixar-style
+source:
+  name: '@Zarnab_with_Ai on X'
+  url: https://x.com/Zarnab_with_Ai/status/2105974631106818101
+  credit: Zarnab_with_Ai
+  captured: '2026-11-10'
+  posted: '2026-10-02'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Zarnab_with_Ai/status/2105974631106818101
+notes:
+  en: The prompt sets out the 20 seconds as clear beats (work, distraction, the drawing reveal, the hug) and pins the look with a Pixar family film style, soft warm light and shallow depth of field. Naming small facial cues such as raised eyebrows and subtle eye movement makes the shift from tired to touched readable.
+  zh: 提示词把20秒拆成清晰的段落（工作、分心、看画、拥抱），并用皮克斯式家庭电影风格、柔和暖光和浅景深固定画面。描述眉毛、眼神等细微面部动作，让从疲惫到感动的情绪转变更加清楚。
+prompt: |
+  Create a heartwarming cinematic 20-second 3D animated family scene in a cozy home office during a warm evening.
+
+  A young father with curly brown hair, expressive eyebrows, and a red-and-blue Spider-Man inspired sweater sits at a wooden desk working on a laptop. Beside him is his adorable little baby girl wearing a beige knitted outfit and a cute bear-ear winter hat.
+
+  The baby watches her father closely while he works. The father occasionally looks at her with a tired but loving expression, drinks from a white coffee mug, and continues typing on his laptop. The baby sits beside him in a small high chair, curiously observing everything.
+
+  Show the father becoming distracted when the baby interacts with a small red toy car and a plate of food on the desk. Include natural facial expressions, subtle eye movements, gentle hand gestures, and realistic parent-child interaction.
+
+  Later, the baby proudly shows her father a handmade drawing of the two of them together with a heart. The father's expression changes from tired and stressed to emotional, surprised, and deeply touched.
+
+  End with the father smiling warmly, turning toward his daughter, embracing her lovingly, and giving her a gentle hug.
+
+  Style: high-quality cinematic 3D animation, Pixar-inspired family-film aesthetic, soft warm indoor lighting, detailed expressive faces, realistic fabric and hair textures, cozy atmosphere, shallow depth of field, smooth character animation, natural camera movement, emotional storytelling.
+
+  Vertical 9:16 composition, cinematic framing, consistent character appearance throughout, smooth transitions, detailed environment, wholesome emotional ending.

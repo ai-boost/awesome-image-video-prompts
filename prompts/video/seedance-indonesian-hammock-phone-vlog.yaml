@@ -1,0 +1,45 @@
+id: seedance-indonesian-hammock-phone-vlog
+title:
+  en: Woman scrolls her phone in a yard hammock
+  zh: 女子在院子吊床上玩手机
+model: Seedance 2.5
+mode: image-to-video
+category: vlog
+tags:
+- vlog
+- dv-camcorder
+- indonesia
+- timestamped-shots
+source:
+  name: '@ai_anelia on X'
+  url: https://x.com/ai_anelia/status/2117239438942306560
+  credit: ai_anelia
+  captured: '2026-11-10'
+  posted: '2026-11-02'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/ai_anelia/status/2117239438942306560
+notes:
+  en: An image reference locks the identity, and a timestamped shot list gives each beat one clear action. The DV camcorder spec (shake, focus hunting, rolling shutter, faded color) plus the rule against posing keeps it casual rather than glossy.
+  zh: 用参考图锁定人物外观，用带时间戳的分镜让每一段只有一个清晰动作。DV 摄像机的抖动、对焦漂移、果线快门和褪色质感，加上禁止摆拍的要求，让画面保持随手拍的随意感。
+prompt: |
+  image = Main Subject. Preserve her exact identity, face, hairstyle, skin tone, body proportions, natural underarm hair, olive-green faded crop top, loose high-waist light-blue jeans, black canvas sneakers, black cord necklace, wavy black hair, side-swept bangs and messy ponytail throughout.
+
+  Authentic Indonesian woman, early-2000s atmosphere. Ordinary quiet Indonesian residential neighborhood: narrow concrete alley, simple single-story houses, front terrace, two large trees, potted plants, parked motorcycles and tangled overhead cables. No shops, markets, vendors or commercial activity.
+
+  STYLE: Extremely raw handheld early-2000s DV camcorder home video. Gritty documentary realism, heavy organic camera shake, accidental framing, frequent reframing, off-center subject, partial face cropping, autofocus hunting, lens breathing, exposure fluctuations, rolling shutter, motion blur, digital noise, compression artifacts, faded desaturated colors, low contrast, washed highlights and faded blacks. Casual friend-recorded footage. No stabilization, cinematic glamour, commercial aesthetic, posing or modern grading.
+
+  30-SECOND CONTINUOUS HOME-VIDEO SEQUENCE — 16:9
+
+  - 00–03: Wide shaky shot of her relaxing in a hammock between two large front-yard trees, one leg dangling, dappled sunlight overhead.
+  - 03–07: Close-up of her slowly pressing an old Nokia keypad and smiling slightly. Camera hunts for focus.
+  - 07–10: She stretches lazily in the hammock, phone on stomach, gazing at the canopy as wind moves her hair and hammock.
+  - 10–13: She gets up, pockets the phone and walks across the yard. Camera follows unsteadily.
+  - 13–16: She crouches beside a parked motorcycle, picks up a bucket of soapy water and rag.
+  - 16–20: Close-up as she slowly cleans a motorcycle helmet. Natural underarm hair briefly visible, suds dripping onto concrete.
+  - 20–24: Side-angle shot of her wiping the motorcycle seat, briefly glancing at the camera with a small smile.
+  - 24–27: She rinses and wrings the rag over the bucket.
+  - 27–30: She wipes her wet hands on her jeans, looks up and smiles naturally. Abrupt cut to black.
+
+  AUDIO: No music, dialogue or artificial sound. Only natural ambience: morning birds, light breeze, distant motorcycles, neighborhood chatter, rustling leaves, hammock creaks, Nokia keypad clicks, splashing water and rag squeaking against leather.
+
+  STRICT: No posing, no fashion-commercial look, no perfect composition, no stabilization, no cinematic shots, no artificial lighting, no modern color grading. Maintain exact character consistency in every frame.

@@ -1,6 +1,6 @@
 # Sci-fi and fantasy
 
-[Back to the list](../../README.md) · All 94 entries
+[Back to the list](../../README.md) · All 97 entries · **1** · [2](video-scifi-fantasy-2.md)
 
 <a id="seedance-lab-containment-breach"></a>
 ### Lab containment breach, sci-fi horror
@@ -1804,6 +1804,30 @@ A dark figure leaps from a skyscraper ledge and free-falls through a neon-drench
 
 </details>
 
+<a id="seedance-cybertruck-car-lifts-off-traffic"></a>
+### White futuristic car lifts off from city traffic
+
+<a href="https://x.com/noorlewisx/status/2118217361899782368"><img src="../../previews/seedance-cybertruck-car-lifts-off-traffic.jpg" width="360"></a>
+
+Timed scenes split the 13 second clip into beats, and the car and driver are described again in each beat so they stay consistent across cuts. The quoted licence plate gives the model an exact text target to hold across shots.
+
+Seedance 2.5 · Text-to-video · Source: [@noorlewisx on X](https://x.com/noorlewisx/status/2118217361899782368) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`flying-car`](tags.md#tag-flying-car) [`city-traffic`](tags.md#tag-city-traffic) [`smoke-trail`](tags.md#tag-smoke-trail)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A cinematic short video, realistic AI-generated style, 13 seconds.
+Scene 1 (0-2s): Rear view of a sleek white angular futuristic electric car (Cybertruck-inspired, sharp geometric design, black roof, thin taillights) stuck in heavy city traffic on a tree-lined European street. Blue city bus on the left, ornate old buildings, green trees, overcast sky. License plate clearly reads “GI-777-GI”. Traffic is slow, cars packed.
+Scene 2 (2-5s): Interior shot of the same car. A very muscular Black man with long wavy black hair, wearing a black tank top, black cargo shorts, black baseball cap, over-ear headphones, silver chain and bracelets. He is sitting in the white leather driver’s seat, looking at his phone with a calm expression. A paper coffee cup is in the cup holder. Steering wheel is white. Daylight coming from outside, city buildings visible through the window.
+Scene 3 (5-8s): Cut back to exterior. The same white futuristic car suddenly accelerates hard, then lifts off the road vertically like a rocket. Massive thick white smoke trails shoot downward from the rear. The car shoots high into the sky, does a smooth loop in the air while leaving a big circular smoke ring, then continues flying. Background shows the city street below with other cars and the blue bus.
+Scene 4 (8-13s): Back to interior while the car is flying. The muscular man is now laughing and enjoying the ride. He raises one hand to adjust his cap, other hand on the steering wheel. He is holding a roasted chicken leg in one hand. He looks happy and relaxed, body slightly bouncing from the flight. Bright sky visible through the windows.
+Style: Hyper-realistic, cinematic lighting, smooth camera cuts, high detail, slight motion blur on fast movements, natural city atmosphere, no text overlays.
+```
+
+</details>
+
 <a id="seedance-dark-fantasy-sword-ritual-cathedral"></a>
 ### Wounded woman pushes up on cathedral floor
 
@@ -1927,6 +1951,37 @@ Camera: Smooth tracking shots, wide establishing shots, extreme close-ups, slow 
 Audio: Natural kitchen ambience, crackling fire, subtle dragon breathing and growls, sizzling meat, and cinematic fantasy background music.
 
 Format: 16:9 widescreen, 30 seconds, 24 FPS, consistent character design, consistent dragon appearance, no text, no subtitles, no logos, no watermarks.
+```
+
+</details>
+
+<a id="seedance-dragon-medieval-market-flyover"></a>
+### Dragon flies over a medieval market street
+
+<a href="https://x.com/AIwithZeeshi/status/2117835941050224975"><img src="../../previews/seedance-dragon-medieval-market-flyover.jpg" width="360"></a>
+
+The prompt splits the clip into timed beats (0 to 5s, 5 to 10s, 10 to 15s) so the dragon's entry, the wind effects and the wide circling shot play in order. Spelling out the physical consequences of flight, such as gusts scattering leaves and frightening horses, gives the crowd reactions a visible cause.
+
+Seedance 2.5 · Text-to-video · Source: [@AIwithZeeshi on X](https://x.com/AIwithZeeshi/status/2117835941050224975) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`dragon`](tags.md#tag-dragon) [`medieval`](tags.md#tag-medieval) [`crowd-reaction`](tags.md#tag-crowd-reaction) [`wide-shot`](tags.md#tag-wide-shot)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 15-second ultra-realistic cinematic fantasy film featuring a colossal dark-scaled dragon flying above a medieval European city.
+
+0–5s: A bustling medieval street suddenly falls into chaos as birds flee and people look up at the sky. A massive dragon emerges from behind ancient castle towers.
+
+5–10s: The dragon spreads its enormous wings and flies over the city, creating powerful gusts of wind that scatter leaves, shake market stalls, and frighten horses and people.
+
+10–15s: The camera captures a breathtaking wide shot as the dragon circles the castle, its enormous shadow sweeping across the rooftops while terrified citizens watch below.
+
+Realism requirements: Physically accurate dragon flight, realistic wing-generated turbulence, natural gravity, believable human reactions, consistent lighting, and smooth cinematic camera movement.
+
+Negative prompt: No cartoon appearance, artificial CGI, distorted anatomy, extra limbs, floating objects, unnatural flight, inconsistent shadows, or abrupt transitions.
+
+Final output: A photorealistic cinematic fantasy film with realistic physics and breathtaking visual storytelling.
 ```
 
 </details>
@@ -2370,6 +2425,33 @@ Create a  cinematic dark-fantasy transformation in 16:9. A realistic adult man w
 12–15s: Dramatic full-body wide shot. The werewolf stands in fog, breathing heavily, fur moving in the wind, then slowly raises its head toward the moon.
 
 Style: ultra-realistic live-action, cinematic VFX, volumetric moonlight, deep shadows, realistic fur, natural anatomy, depth of field, subtle motion blur and film grain. Sound: forest wind, heavy breathing, low bass rumble, transformation sounds and deep growl. Exactly ONE man transforms into ONE werewolf. No duplicates, extra creatures, extra limbs, cartoon look or deformed anatomy.
+```
+
+</details>
+
+<a id="seedance-medieval-girl-dragon-pancakes"></a>
+### Medieval girl cooks pancakes beside a green dragon
+
+<a href="https://x.com/Arzoo12sh/status/2117089440489431112"><img src="../../previews/seedance-medieval-girl-dragon-pancakes.jpg" width="360"></a>
+
+The prompt lays out the scene as ordered beats (close-up cooking, a pancake tossed in the air, tasting, then the dragon lowering its head) and fixes the look with photorealistic and golden hour style terms, which keeps the characters consistent across cuts. Detailed descriptions of the dragon's emerald scales and glowing eyes anchor its appearance.
+
+Seedance 2.5 · Text-to-video · Source: [@Arzoo12sh on X](https://x.com/Arzoo12sh/status/2117089440489431112) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`fantasy`](tags.md#tag-fantasy) [`dragon`](tags.md#tag-dragon) [`food`](tags.md#tag-food) [`golden`](tags.md#tag-golden)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a stunning 30-second cinematic fantasy video in ultra-realistic 4K quality.
+A beautiful young woman wearing a traditional medieval dress is preparing pancakes in a charming medieval village courtyard. A giant friendly green dragon with detailed emerald scales, glowing golden eyes, and expressive facial features stands beside her, curiously watching her cook.
+The woman prepares fresh pancakes on a hot outdoor cooking pan. Show close-up shots of the pancakes cooking, golden sunlight shining across the courtyard, and a pancake playfully flying through the air. She stacks the freshly cooked pancakes on a beautiful vintage plate and tastes one while the friendly dragon watches with excitement.
+In the final scene, the dragon happily lowers its enormous head toward the food while the woman smiles.
+Visual style: Photorealistic fantasy, cinematic storytelling, warm golden-hour lighting, detailed medieval environment, realistic character movements, expressive dragon animation, smooth camera transitions, professional filmmaking, shallow depth of field.
+Duration: 30 seconds.
+Aspect ratio: 9:16 vertical.
+Quality: 4K ultra-realistic.
+No text, no subtitles, no watermark.
 ```
 
 </details>
@@ -3112,82 +3194,4 @@ Cinematic video of a young woman in an elegant white medieval dress opening larg
 
 </details>
 
-<a id="seedance-woodland-guardian-lantern-door"></a>
-### Woodland guardian touches glowing carved standing stone
-
-<a href="https://x.com/itxabdullaa/status/2107792780395458733"><img src="../../previews/seedance-woodland-guardian-lantern-door.jpg" width="360"></a>
-
-The prompt locks character, costume and palette in one reusable block, then runs timed beats with a continuity rule so the face, cloak and props stay the same across shots. Film-stock and practical-effects terms such as 35mm grain, practical lanterns and miniature sets steer the model away from glossy CGI.
-
-Seedance 2.5 · Text-to-video · Source: [@itxabdullaa on X](https://x.com/itxabdullaa/status/2107792780395458733) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`fantasy`](tags.md#tag-fantasy) [`practical-effects`](tags.md#tag-practical-effects) [`continuity`](tags.md#tag-continuity) [`film-grain`](tags.md#tag-film-grain) [`timed-shots`](tags.md#tag-timed-shots)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create an original young adult female woodland guardian in the handcrafted style of a forgotten early-1990s live-action fantasy film. Fully original character and world, practical-effects aesthetic, not modern CGI.
-
-CHARACTER: Young adult woman, natural expressive face, amber-brown eyes, softly angular features, subtly elongated fantasy ears, thick dark auburn wavy hair with small braids. Intelligent, brave, curious and quietly playful.
-
-COSTUME: Fully modest sage-green high-neck linen blouse, brown leather vest, ankle-length olive wool skirt, opaque dark leggings, worn brown boots, leather wrist guards and long burnt-orange hooded cloak. Leather belt with small pouches, brass compass, herbs, wooden whistle and bronze leaf pendant. Real fibers, worn leather, tarnished metal and natural mud. Practical prosthetic fantasy ears.
-
-SETTING: Ancient woodland at dusk, twisted trees, moss, ferns, mushrooms, streams, wooden bridges, carved stones and handmade lanterns. Hidden shelters and distant lights suggest a secret woodland settlement.
-
-STYLE: Practical foliage, physical props, theatrical mist, practical lanterns, miniature sets, restrained optical effects, 35mm film softness, subtle grain, lantern halation, earthy greens, browns and amber, warm theatrical lighting. No glossy CGI or modern fantasy aesthetic.
-
-[00:00-00:04] THE PATH
-Low shot of her boots walking through damp leaves. Camera rises to her face. A distant metallic chime makes her stop.
-
-[00:04-00:08] THE LANTERN
-She finds a glowing antique lantern with no visible flame. It goes dark as she reaches for it. Another lantern lights deeper in the forest, then another. She realizes she is being guided.
-
-[00:08-00:12] THE TRAIL
-She follows the lanterns and discovers carved symbols on trees. One rotates when touched. Another moves behind her. Nobody is there. She smiles, realizing someone is watching.
-
-[00:12-00:16] THE FOX
-A woodland fox leads her to a fallen tree. Beneath its roots she finds a box containing a brass compass. Its spinning needle suddenly points upward. A shadow moves through the canopy.
-
-[00:16-00:20] SOMEONE ABOVE
-Leaves rustle. Acorns drop beside her boots. She looks upward and says softly, "You could simply come down." A hidden wooden platform creaks above. She smiles suspiciously.
-
-[00:20-00:24] THE DOOR
-She follows the sound to an enormous tree and discovers a hidden seam. She touches it. Carved symbols glow and the bark opens into a secret doorway filled with warm golden light. She enters.
-
-[00:24-00:27] THE HIDDEN WORLD
-Inside is a vast woodland settlement built around the tree: lanterns, wooden platforms, rope bridges, workshops, herbs and glowing windows. Hundreds of lanterns illuminate as she looks around in wonder.
-
-[00:27-00:30] THE INVITATION
-A wooden bridge leads to a folded parchment reading "YOU FOUND US." Several silhouettes appear among the lanterns. She smiles, places the parchment in her satchel and walks deeper into the settlement.
-
-Camera pulls backward through the ancient tree doorway into the dark forest. Cut to black.
-
-STRICT CONTINUITY: Same face, hair, ears, proportions, costume, cloak, boots, belt, pendant and satchel in every shot. Fully modest clothing with no wardrobe changes or exposure. Continuous geography and logical progression.
-
-CAMERA: Atmospheric low angles, slow tracking, facial close-ups, wide environmental shots and restrained handheld movement.
-
-FINAL LOOK: Authentic early-1990s 35mm fantasy film, practical prosthetics, real costumes, physical sets, theatrical mist, practical lanterns, subtle optical effects, natural performances and beautiful film grain.
-
-Original character and world only. No recognizable existing characters, franchises, logos, branded costumes, copied designs, blood or gore.
-```
-
-</details>
-
-<a id="veo-moon-dust-flowers"></a>
-### Crystal flowers on a moon-dust plain
-
-<a href="https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/media/veo__veo-3__moon-dust.webm"><img src="../../previews/veo-moon-dust-flowers.jpg" width="360"></a>
-
-Short world-building prompt. One striking detail (`the only footprints in untouched dust`) does more than a long list.
-
-Veo 3 · Text-to-video · Source: [Veo 3 prompt guide](https://deepmind.google/models/veo/prompt-guide/)
-
-[`world-building`](tags.md#tag-world-building) [`fantasy`](tags.md#tag-fantasy)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A snow-covered plain of iridescent moon-dust under twilight skies. Thirty-foot crystalline flowers bloom, refracting light into slow-moving rainbows. A fur-cloaked figure walks between these colossal blossoms, leaving the only footprints in untouched dust.
-```
-
-</details>
+**1** · [2](video-scifi-fantasy-2.md)

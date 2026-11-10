@@ -1,0 +1,39 @@
+id: seedance-seoul-summer-walk-candies-cat
+title:
+  en: Korean woman walks Seoul street, feeds children and cat
+  zh: 韩国女子走过首尔街道，喂孩子糖果并抚摸猫咪
+model: Seedance 2.5
+mode: reference-to-video
+category: vlog
+tags:
+- seoul
+- dv-camera
+- slice-of-life
+- reference-image
+source:
+  name: '@AIwithkhan on X'
+  url: https://x.com/AIwithkhan/status/2099849272347021541
+  credit: AIwithkhan
+  captured: '2026-11-10'
+  posted: '2026-09-15'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithkhan/status/2099849272347021541
+notes:
+  en: Locks identity to a reference image and repeats the wardrobe details so the look holds across a 30 second sequence. The DV camera brief (handheld shake, autofocus hunting, exposure shifts) and a sound list with no music make it read as raw home footage.
+  zh: 用参考图锁定人物形象，并重复列出服装细节，使30秒的连续镜头中外观保持一致。DV摄像机质感（手持抖动、自动对焦摇摆、曝光变化）加上只有环境音、没有音乐的声音描述，让画面像真实的家庭录像。
+prompt: |
+  Create a 30-second ultra-realistic personal home-video of a young Korean woman during a warm summer evening in an older Seoul residential neighborhood. Use the attached image as the character reference and keep her face, long black messy side ponytail, pastel-blue fitted top, loose cream pants, black sneakers, and silver necklace consistent.
+
+  She walks out of her home carrying a simple canvas tote bag, locks the door, adjusts her ponytail, and starts walking casually down the quiet street.
+
+  She notices a small group of schoolchildren walking home from school and warmly smiles at them. She opens her tote bag, takes out a few individually wrapped candies, and happily offers them to the children. They thank her with cheerful smiles before continuing home.
+
+  A few steps later, she notices a friendly neighborhood cat sitting beside a wall. She crouches down, gently pets the cat and scratches it behind the ears, smiling warmly before standing up.
+
+  She continues walking, casually adjusts her messy ponytail, and fixes a few loose strands around her face.
+
+  She then spots a small roadside drink cart and stops to buy a fresh coconut drink. She takes the drink with a straw and walks home slowly while sipping it through the straw, looking relaxed and happy.
+
+  Use raw early-2000s consumer DV-camera footage: handheld shake, imperfect framing, autofocus hunting, exposure shifts, soft detail, mild noise, natural motion blur and occasional awkward zooms.
+
+  Natural Seoul neighborhood ambience only — footsteps, children chatting, bicycle bells, summer insects, distant traffic, cart sounds and leaves moving in the breeze. No music, no narration, no dramatic events, no polished commercial cinematography.

@@ -1,0 +1,30 @@
+id: nano-banana-monochrome-eye-beam-portrait
+title:
+  en: Monochrome portrait with a thin light beam across eyes
+  zh: 黑白肖像，一道细光束照亮双眼
+model: Nano Banana 2.1
+mode: image-edit
+category: portrait
+tags:
+- portrait
+- monochrome
+- chiaroscuro
+- identity-lock
+source:
+  name: '@Faeiz4Ai on X'
+  url: https://x.com/Faeiz4Ai/status/2120108002648694809
+  credit: FAEIZ
+  likes: 42
+  captured: '2026-11-10'
+  posted: '2026-11-10'
+notes:
+  en: An identity lock to the reference image plus a single thin horizontal beam placed on the eyes does the work, with almost total darkness everywhere else. Spelling out the light's geometry rather than only mood words keeps the output on this look.
+  zh: 用参考图锁定身份，并把一道细长的水平光束只打在眼睛上，其余部分保持几乎全黑。光线的几何形状比情绪词更能决定画面效果。
+prompt: |
+  Create an ultra-realistic black-and-white luxury fine-art portrait, vertical 9:16, using the uploaded reference image as the absolute source of truth.
+
+  STRICT IDENTITY LOCK: Preserve the exact facial identity, eyes, eyebrows, eyelashes, natural skin details, hairstyle, clothing, and accessories from the reference image without alterations.
+
+  LIGHTING & COMPOSITION: Immerse the entire scene in near-total darkness. Reveal only a thin, sharply defined horizontal beam of light crossing the face, selectively illuminating the eyes, eyebrows, and eyelashes while keeping the rest of the face and background completely hidden in deep black shadows.
+
+  FOCUS: Extreme close-up emphasizing the natural beauty of the eyes, intricate iris details, sharp eyelashes, and expressive gaze. Dramatic high-contrast chiaroscuro, deep blacks, cinematic mystery, and sophisticated fine-art photography.

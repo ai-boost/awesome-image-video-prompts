@@ -1,0 +1,39 @@
+id: seedance-han-river-handbag-chase
+title:
+  en: Korean grandmother's handbag chase along Han River
+  zh: 首尔汉江边抢包追逐喜剧
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- comedy
+- chase
+- korean
+- outdoor
+source:
+  name: '@doctorwasif on X'
+  url: https://x.com/doctorwasif/status/2118221865273659429
+  credit: doctorwasif
+  captured: '2026-11-10'
+  posted: '2026-11-05'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/doctorwasif/status/2118221865273659429
+notes:
+  en: A timed beat sheet of six segments gives the model a shot list to follow, and wardrobe plus location are pinned so characters stay consistent across cuts. Audio is spelled out line by line, including the Korean dialogue, which anchors the lip sync and sound design.
+  zh: 用带时间段的六段节拍表给模型一份可执行的镜头清单，并锁定服装和地点，让人物在切镜后保持一致。音效逐项写明，包括韩语台词，有助于口型同步和声音层次。
+prompt: |
+  Ultra-realistic live-action Korean revenge-comedy along Seoul’s Han River at golden hour. Handheld cinematic camera, warm sunset, authentic park ambience, realistic physics, fast-paced slapstick action, expressive reactions.
+
+  **Characters:** Lee Ji-won Korean woman in her 20s, high ponytail, mint-green windbreaker, black cycling shorts, sneakers, riding a city bicycle. Shin Tae-oh — Korean man in his 20s, black cap, grey hoodie, riding an electric scooter. Korean grandmother wearing a purple visor.
+
+  **30-SECOND ACTION:**
+  0–3s: Grandmother sits on a bench with her brown handbag. Tae-oh snatches it and speeds away on his scooter.
+  3–6s: She cries out. Ji-won hears her, shouts “저기요!”, and starts chasing on her bicycle.
+  6–12s: Tae-oh weaves through joggers, laughing. Ji-won catches up, follows him across grass, and launches off a small ramp, landing with a hard bounce.
+  12–18s: Tae-oh scatters a family's picnic snacks. Ji-won hops over the blanket, shouting “거기 서!”, then grabs the handbag strap beside his scooter. A brief, chaotic tug-of-war makes the scooter wobble.
+  18–25s: Ji-won yanks the bag free. Tae-oh loses control, spins off the path, flies over the handlebars, and crashes into a large circular fountain with a huge splash. Pigeons scatter.
+  25–30s: Ji-won returns the bag to the grandmother and asks, “다 괜찮으세요, 할머니?” The grandmother smiles and pats her hand. Behind them, the drenched Tae-oh sits in the fountain beside his floating cap as amused joggers and families clap and film.
+
+  **Audio:** Natural Korean-only dialogue, perfectly lip-synced, wind, bicycle chains, scooter motor, footsteps, startled gasps, water splash, pigeons, traffic, and applause.
+
+  **Requirements:** Consistent character identities, faces, outfits, and location throughout. Clearly show the theft, ramp jump, picnic leap, tug-of-war, scooter spin-out, and fountain crash. Believable momentum and water physics. Photorealistic skin, natural movement, non-gory slapstick. No logos, brands, subtitles, text overlays, cartoon effects, or watermark.

@@ -1,6 +1,6 @@
 # 标志、广告与包装
 
-[返回目录](../../README_zh.md) · 全部 27 条
+[返回目录](../../README_zh.md) · 全部 28 条
 
 <a id="nano-banana-inflated-3d-logotype-spikes"></a>
 ### 单色充气立体字标与尖刺造型
@@ -460,6 +460,35 @@ Render with:
 The final result should feel like an actual luxury industrial object photographed in a professional studio: restrained, tactile, architectural, cinematic, precisely engineered and art-directed down to the microscopic material transitions.
 
 Do not add extra text, captions, labels, particles, smoke, pedestal, floor, visible support, cast shadow, glow, neon light, lens flare, scenery or surrounding objects.
+```
+
+</details>
+
+<a id="nano-banana-valentine-brand-heart-ads"></a>
+### 四个品牌情人节广告，产品排成心形
+
+<a href="https://x.com/TechieBySA/status/2022269227286102243"><img src="../../previews/nano-banana-valentine-brand-heart-ads.jpg" width="360"></a>
+
+模板固定了版式顺序（顶部品牌标志、中央产品心形、底部标语），并指定品牌主色作背景，因此每个品牌都保持相同结构。写明4:5比例、照片级3D渲染和棚拍光线，可得到高端产品图的质感。
+
+Nano Banana Pro · 文生图 · 出处: [@TechieBySA on X](https://x.com/TechieBySA/status/2022269227286102243) · 553 赞，统计于 2026-11-10
+
+[`valentines-day`](tags.md#tag-valentines-day) [`product-ad`](tags.md#tag-product-ad) [`heart-shape`](tags.md#tag-heart-shape) [`studio-lighting`](tags.md#tag-studio-lighting)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+🌹Valentine’s Special 30% Off with the latest models➡️
+http://
+supawork.ai/affiliate-prog
+ram
+…
+
+Idea by Jadkassis on Instagram🔥
+
+Simply replace [PRODUCT & [BRAND]:✨
+
+“Create a professional Valentine’s Day advertisement for [BRAND] in 4:5 aspect ratio. The background should use the signature brand color as a clean, vibrant backdrop. Arrange multiple [PRODUCT] items creatively to form a perfect heart shape in the center of the composition. The products should appear realistic and three-dimensional with professional lighting and soft shadows, clearly displaying logos. Add romantic elements like rose petals or flowers floating around the heart. Position the logo at the top center of the image. At the bottom, include a romantic tagline in bold, modern typography that incorporates the brand’s messaging or plays on the product name. Use photorealistic 3D rendering style with studio lighting and premium advertising quality. Maintain a clean, modern aesthetic that matches the visual identity with significant breathing room around all elements.​​​​​​​​​​​​​​​​“
 ```
 
 </details>

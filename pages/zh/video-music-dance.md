@@ -1,6 +1,6 @@
 # 音乐与舞蹈
 
-[返回目录](../../README_zh.md) · 全部 49 条
+[返回目录](../../README_zh.md) · 全部 50 条
 
 <a id="h3-pink-panic-punk-mv"></a>
 ### 红格靴动漫少女滑入朋克MV画面
@@ -46,6 +46,36 @@ Choose the graphics’ colors, line weight, angularity, curvature and texture to
 Sync editing, contour animation and graphic accents to character-appropriate music and precise sound details. On the final beat, land in a distinctive signature pose as the animated strokes complete an expressive graphic frame around the full figure. Briefly hold the finished composition.
 
 Only drawings, contour lines and graphic shapes. No text, typography, letters, numbers, captions, titles or added logos anywhere.
+```
+
+</details>
+
+<a id="seedance-runway-wardrobe-changes-music-video"></a>
+### 歌手在同一T台上随场景切换服装
+
+<a href="https://x.com/KrishnaBio1/status/2115627142503710799"><img src="../../previews/seedance-runway-wardrobe-changes-music-video.jpg" width="360"></a>
+
+以同一条T台和同一张脸作为固定锚点，每2到3秒切换场景与服装，靠匹配剪辑保持人物形象稳定。低到中机位从背后跟拍，并让每次换装对准节拍，使画面具有音乐录影带的节奏。
+
+Seedance 2.5 · 文生视频 · 出处: [@KrishnaBio1 on X](https://x.com/KrishnaBio1/status/2115627142503710799) · 661 赞，统计于 2026-11-10
+
+[`music-video`](tags.md#tag-music-video) [`match-cut`](tags.md#tag-match-cut) [`tracking-shot`](tags.md#tag-tracking-shot) [`outfit-change`](tags.md#tag-outfit-change)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Cinematic ultra-realistic music-video short film, 16:9, 30 seconds, 24fps, shot like a high-budget concert film, fast match cuts on every beat, smooth tracking shots, golden-hour and night lighting, shallow depth of field, crisp detail, subtle film grain, high-energy and stylish mood.
+👩 MAIN CONCEPT: One young woman in her early 20s, long dark-brown hair tied in a high ponytail, expressive confident face, a wireless microphone in her hand, runs and dances forward along a long, narrow, glossy elevated platform (like a runway). The platform is always the same, but the world around it and her outfit change abruptly every 2 to 3 seconds. The camera mostly follows her from behind at low-to-mid angle with fast, smooth tracking and match cuts. Keep her face and hair identical in every shot.
+🎤 0–3s: Backstage of a concert. She walks toward camera in a grey blazer, loose striped tie, brown pleated skirt and a red backpack, mic in hand, crew members holding cameras around her. She turns and steps out onto the platform.
+🏙️ 3–6s: A bright New York-style avenue in daylight, with tall glass skyscrapers and rows of yellow taxis. She wears the same school-style outfit, runs forward away from the camera down the platform, backpack bouncing, skirt flying, joyful and energetic.
+⚔️ 6–9s: A misty, rain-soaked battlefield. She wears polished silver knight armor with red details and a dark cape, standing proudly on the platform, a lined-up army far in the distance, cold blue-grey tones.
+🌾 9–12s: A wide golden wheat field under a bright blue sky. She wears an oversized white t-shirt and loose jeans, ponytail whipping in the wind, running along the platform with one arm raised, rapping to the beat.
+🌸 12–15s: A huge outdoor crowd of fans waving glowing lights stretches on both sides of the platform. She wears a flowing long brown dress with a dark jacket, dancing forward with a confident stride while the camera tracks from behind.
+🏘️ 15–19s: A foggy old European cobblestone street at night with warm gas lamps and wet glowing stones. She wears a long mustard-yellow raincoat with the hood up, walking slowly down the platform, then raising both arms in triumph as smoke rolls around her.
+🌟 19–23s: A night concert stage with giant spotlights and thousands of glowing lights in the crowd. She wears a blue-and-white racing jacket, a black cap and blue jeans, standing in the centre with arms stretched wide, silhouetted against the beam of light.
+🔥 23–30s: A wide green field at sunset. She now wears an olive military jacket, cargo pants, boots and a bucket hat, dancing with strong stomping steps, high knee kicks and powerful arm swings. In the distance a huge orange fireball and mushroom-shaped cloud rises above the horizon. A giant shockwave of dust, smoke and flying debris rushes across the field and engulfs the frame. Cut to black on the final beat.
+🎧 AUDIO: A modern hard-hitting rap beat with deep bass, every outfit change landing on a beat, crowd cheers and wind sounds between sections, a heavy bass drop at the final explosion followed by sudden silence.
+🎬 STYLE: Realistic cinematic music-video energy, smooth natural movement, bold color grading for each location, non-graphic, no text, no subtitles, no logos, no watermark.
 ```
 
 </details>

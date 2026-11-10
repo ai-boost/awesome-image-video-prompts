@@ -1,6 +1,6 @@
 # Animals and pets
 
-[Back to the list](../../README.md) · All 30 entries
+[Back to the list](../../README.md) · All 31 entries
 
 <a id="h3-tom-jerry-mac-desktop-icon-chaos"></a>
 ### Tom restores fallen desktop icons one by one
@@ -853,6 +853,27 @@ FINAL SHOT:
 Return to the empty colorful meadow for a short moment.
 
 Overall feeling: cheerful, wholesome, education
+```
+
+</details>
+
+<a id="seedance-baby-hammer-kittens-courtyard"></a>
+### Baby's hammer strike turns paw prints into kittens
+
+<a href="https://x.com/laviniavelle/status/2110585994445770795"><img src="../../previews/seedance-baby-hammer-kittens-courtyard.jpg" width="360"></a>
+
+The prompt sets the subject, outfit, prop and courtyard in one sentence, then states the magic as a single clear action (a hammer strike leaves glowing paw prints that become kittens), so the transformation has one cause. The closing lighting and texture terms hold a consistent 3D look.
+
+Seedance 2.5 · Text-to-video · Source: [@laviniavelle on X](https://x.com/laviniavelle/status/2110585994445770795) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`3d-animation`](tags.md#tag-3d-animation) [`animals`](tags.md#tag-animals) [`magic-transformation`](tags.md#tag-magic-transformation) [`chinese-courtyard`](tags.md#tag-chinese-courtyard)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+3D animated style a cute baby wearing a fluffy grey cat hoodie and holding a large pink toy hammer, playing with a small white fluffy bunny wearing a black headband in a traditional Chinese courtyard. The baby hits the ground with the hammer creating glowing pink paw prints that magically transform into cute orange kittens, surprising the bunny. Cinematic lighting, vibrant colors, detailed textures, expressive characters, and a cheerful atmosphere.
+
+#FlovaAI #Flovacpp
 ```
 
 </details>
