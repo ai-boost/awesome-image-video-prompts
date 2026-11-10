@@ -3550,7 +3550,7 @@ No CGI, animation, superhero abilities, impossible parkour, teleportation, weigh
 
 <a href="https://pesoszpesosz.github.io/seedancecheap-video-cookbook/night-run-original.mp4"><img src="../../previews/seedance-night-run-coffee-chase.jpg" width="360"></a>
 
-提示词从疾驰的车辆开始，切到广角漂移和低机位后方跟拍，最后以仍然直立的咖啡杯收尾。链接视频为完整的15.072秒交付文件，保留原始生成音频，没有剪辑或添加文字。开场构图、驾驶者视线和车辆细节与指令不同。视频于2026年11月1日通过Plenx生成，完整源文件于11月4日发布。
+提示词从疾驰的车辆开始，切到广角漂移和低机位后方跟拍，最后以仍然直立的咖啡杯收尾。链接视频为完整的15.072秒交付文件，保留原始生成音频，没有剪辑或添加文字。开场构图、驾驶者视线和车辆细节与指令不同。视频于2026年11月1日使用 Seedance 2.5 生成，完整源文件于11月4日发布。
 
 Seedance 2.5 · 文生视频 · 出处: [SeedanceCheap team's original source page](https://pesoszpesosz.github.io/seedancecheap-video-cookbook/night-run-source.html)
 

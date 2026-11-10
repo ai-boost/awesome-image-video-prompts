@@ -3577,7 +3577,7 @@ No CGI, animation, superhero abilities, impossible parkour, teleportation, weigh
 
 <a href="https://pesoszpesosz.github.io/seedancecheap-video-cookbook/night-run-original.mp4"><img src="../../previews/seedance-night-run-coffee-chase.jpg" width="360"></a>
 
-The brief starts with moving vehicles, shifts to a wide drift and rear tracking shot, then ends on an upright coffee cup. The linked file is the complete 15.072-second delivery with original audio, without trims or added text. Opening framing, driver gaze and vehicle details differ from the instructions. Generated through Plenx on November 1, 2026; full source published November 4.
+The brief starts with moving vehicles, shifts to a wide drift and rear tracking shot, then ends on an upright coffee cup. The linked file is the complete 15.072-second delivery with original audio, without trims or added text. Opening framing, driver gaze and vehicle details differ from the instructions. Generated with Seedance 2.5 on November 1, 2026; full source published November 4.
 
 Seedance 2.5 · Text-to-video · Source: [SeedanceCheap team's original source page](https://pesoszpesosz.github.io/seedancecheap-video-cookbook/night-run-source.html)
 

@@ -22,9 +22,9 @@ video: https://pesoszpesosz.github.io/seedancecheap-video-cookbook/night-run-ori
 notes:
   en: The brief starts with moving vehicles, shifts to a wide drift and rear tracking shot, then ends on an upright
     coffee cup. The linked file is the complete 15.072-second delivery with original audio, without trims or added
-    text. Opening framing, driver gaze and vehicle details differ from the instructions. Generated through Plenx
+    text. Opening framing, driver gaze and vehicle details differ from the instructions. Generated with Seedance 2.5
     on November 1, 2026; full source published November 4.
-  zh: 提示词从疾驰的车辆开始，切到广角漂移和低机位后方跟拍，最后以仍然直立的咖啡杯收尾。链接视频为完整的15.072秒交付文件，保留原始生成音频，没有剪辑或添加文字。开场构图、驾驶者视线和车辆细节与指令不同。视频于2026年11月1日通过Plenx生成，完整源文件于11月4日发布。
+  zh: 提示词从疾驰的车辆开始，切到广角漂移和低机位后方跟拍，最后以仍然直立的咖啡杯收尾。链接视频为完整的15.072秒交付文件，保留原始生成音频，没有剪辑或添加文字。开场构图、驾驶者视线和车辆细节与指令不同。视频于2026年11月1日使用 Seedance 2.5 生成，完整源文件于11月4日发布。
 prompt: |
   NIGHT RUN — original cinematic car-chase microfilm, fifteen seconds, vertical 9:16, photographic live action with synchronized original sound. A glossy unbranded acid-yellow rally coupe with black wheels races through an empty rain-soaked industrial district at night, pursued by one black SUV. Same two cars throughout. One fictional adult woman drives the coupe.
 
