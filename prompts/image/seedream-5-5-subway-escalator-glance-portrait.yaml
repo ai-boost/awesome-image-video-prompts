@@ -1,0 +1,30 @@
+id: seedream-5-5-subway-escalator-glance-portrait
+title:
+  en: Woman glancing back on subway escalator, 35mm look
+  zh: 地铁扶梯上回眸的女子，35毫米胶片质感
+model: Seedream 5.5
+mode: text-to-image
+category: portrait
+tags:
+- portrait
+- film-grain
+- subway
+- bokeh
+source:
+  name: '@johnAGI168 on X'
+  url: https://x.com/johnAGI168/status/2120363733713039575
+  credit: John
+  likes: 71
+  captured: '2026-11-11'
+  posted: '2026-11-11'
+notes:
+  en: The prompt stacks a shot spec (eye level over the shoulder medium portrait, 50mm f/1.4, film grain) on concrete light sources (amber green halation, red and cyan bokeh) that set the mood. The closing list of negatives (no CGI, no plastic skin, no smoothing) pushes the model toward real skin texture rather than its default glossy look.
+  zh: 提示词先给出镜头规格（平视过肩中景、50mm f/1.4、胶片颗粒），再写明具体光源（琥珀绿光晕、红青色散景）来定氛围。结尾的反向约束（不要 CGI、不要塑料皮肤、不要磨皮）把画面拉向真实皮肤质感，而不是模型默认的光滑效果。
+prompt: |
+  A cinematic vertical 35mm photograph captured at eye level — an evocative over-the-shoulder medium portrait of a stunning young East Asian woman looking back toward the camera while riding a dimly lit subway escalator.
+
+  She possesses delicate, melancholic beauty with expressive dark eyes and natural lips, casting an enigmatic glance over her shoulder. Her long, layered jet-black hair blows freely in the underground draft, with loose strands sweeping across her cheeks and face with realistic kinetic motion. She wears a minimalist black spaghetti-strap slip top that reveals elegant collarbones and bare shoulders.
+
+  The setting is a vintage metro tunnel with escalator railings receding into deep perspective. Overhead linear fluorescent lights glow with a soft amber-green halation bloom, while the distant terminal melts into colorful circular bokeh of red, cyan, and warm white, creating a moody, nostalgic urban atmosphere reminiscent of 90s cinema.
+
+  Shot on a fast 50mm vintage prime at f/1.4 with soft diffusion filtration and authentic 35mm film grain in an M1 cinematic narrative register. Genuine human skin with fine pores, biological warmth, realistic wind dynamics on hair, and rich color-negative film roll-off — cinematic frame, strictly no CGI, no 3D render, no plastic skin, no artificial smoothing.

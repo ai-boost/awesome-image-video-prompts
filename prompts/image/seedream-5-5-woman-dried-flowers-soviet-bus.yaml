@@ -1,0 +1,29 @@
+id: seedream-5-5-woman-dried-flowers-soviet-bus
+title:
+  en: Woman with dried flowers beside a Soviet bus
+  zh: 女子手持干花站在苏联公交车旁
+model: Seedream 5.5
+mode: text-to-image
+category: portrait
+tags:
+- portrait
+- winter
+- fashion-editorial
+source:
+  name: '@ZaraIrahh on X'
+  url: https://x.com/ZaraIrahh/status/2120161811571912709
+  credit: Zara
+  likes: 217
+  captured: '2026-11-11'
+  posted: '2026-11-10'
+notes:
+  en: 'The prompt builds the scene in a fixed order: a named vehicle and setting, then a clothing list, then framing rules (knees up, off center, eye level) and a lighting setup. The 50mm lens, film grain and a negative prompt keep the result close to candid film street photography rather than a glossy modern shoot.'
+  zh: 提示词按固定顺序组织：先写具体车型和场景，再列出服装清单，然后用取景规则（膝盖以上、偏离中心、平视）和布光描述控制构图。50mm 镜头、胶片颗粒和负面提示词让画面接近抓拍胶片，而不是现代精修大片。
+prompt: |
+  Photorealistic fashion editorial with the atmosphere of a winter morning in the early 1990s, in a Soviet-era residential neighborhood. A beautiful adult brunette woman with delicate facial features stands beside the open folding doors of an aged cream-and-red Soviet LiAZ-677 city bus. She holds a small bouquet of dried wildflowers wrapped in vintage brown kraft paper, gently gripping it with both hands in front of her thighs.
+
+  She wears an oversized charcoal wool coat, a soft ivory knitted scarf, a dark burgundy ribbed sweater, straight dark trousers and black leather winter boots. Loose dark brown hair falls naturally around her face, a few strands lifted by the freezing wind. Flushed cheeks, minimal makeup, thoughtful expression, looking slightly past the camera, shoulders gently raised against the cold.
+
+  Snow-covered pavement, compacted gray snow beside the bus wheels, frosted windows with condensation, faded red paint, weathered metal. Blurred Soviet apartment blocks and a modest bus shelter in the distance. Fine snowflakes in the air, visible breath. The delicate dried flowers add a subtle warm color accent against the muted winter surroundings.
+
+  Three-quarter portrait framed from the knees up, eye-level camera, woman placed off-center, the bus filling one side of the composition. Cold overcast daylight with direct on-camera flash, crisp face, deep background, subtle analog film grain, restrained colors, candid 1990s street photography combined with luxury fashion editorial. Real skin texture, tactile wool, believable hands and bouquet construction, shot on a 50mm lens --ar 3:4 --style raw --s 150 --no modern cars smartphones logos text watermark

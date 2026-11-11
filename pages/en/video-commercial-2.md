@@ -1,6 +1,261 @@
 # Ads and product videos
 
-[Back to the list](../../README.md) · All 133 entries · [1](video-commercial.md) · **2**
+[Back to the list](../../README.md) · All 136 entries · [1](video-commercial.md) · **2**
+
+<a id="seedance-artisan-bakery-donut-commercial"></a>
+### Pastry chef cracks egg into flour bowl
+
+<a href="https://x.com/AIwithAliya/status/2090780603872624826"><img src="../../previews/seedance-artisan-bakery-donut-commercial.jpg" width="360"></a>
+
+A timed storyboard in five-second ranges, with a shared lighting and colour grade block, and an @material reference that anchors the storyboard and the closing box shot. Sound is limited to implied kitchen ambience and a restrained score, which keeps the commercial tone consistent.
+
+Seedance 2.5 · Reference-to-video · Source: [@AIwithAliya on X](https://x.com/AIwithAliya/status/2090780603872624826)
+
+[`commercial`](tags.md#tag-commercial) [`food`](tags.md#tag-food) [`timed-storyboard`](tags.md#tag-timed-storyboard) [`product-reveal`](tags.md#tag-product-reveal)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+follow the storyboard @material:149015 A 30-second cinematic spec commercial / film-style advertisement for a premium artisan bakery brand. High-end food-commercial aesthetic, luxurious and sensory, shot like a short film.
+
+Soft, warm, high-key kitchen lighting with gentle highlights on stainless steel and glossy glaze. Shallow depth of field, slow elegant camera moves, occasional slow-motion, rich color grading (soft pinks, golden dough, deep raspberry red). Ultra-clean, appetizing, almost tactile.
+
+0–6s  
+Medium shot of a striking young female pastry chef in a pale-pink chef’s jacket, matching pink toque, and pink gloves. She stands in a sleek, modern commercial kitchen. She looks down with quiet concentration and cracks a fresh egg into a stainless-steel bowl of flour. Subtle steam and flour dust in the air.
+
+6–11s  
+Tight close-up of the vivid yolk and white pouring into the flour well. Cut to the KitchenAid mixer head descending and beginning to knead. Macro of pale, elastic dough stretching, folding, and becoming silky and glossy.
+
+11–16s  
+Overhead shot of twelve perfectly formed raw ring donuts on a parchment-lined tray. Gloved hands lift the tray with precision. The camera follows as they are carried toward the fryer.
+
+16–22s  
+Donuts lowered into bubbling golden oil. Slow-motion close-up of four donuts frying, edges turning amber. A single donut is lifted on a metal skewer, oil dripping in slow motion. The full basket rises, steam rising, donuts now perfectly golden.
+
+22–26s  
+A warm donut is dipped halfway into a bowl of thick, vibrant raspberry-red glaze. Extreme close-up of the glossy glaze slowly cascading down the sides. Fine white sugar crystals rain onto the wet glaze, catching the light.
+
+26–30s  
+Product reveal. Gloved hands place the last donut into an open kraft bakery box. The camera slowly pulls back and tilts up as the lid is closed, revealing the brand name **MAISON ROSE** in elegant, minimal serif lettering on the lid, with a small rose emblem. The box sits perfectly centered, six glazed donuts visible through a brief moment before the lid settles. Soft light catches the logo. Hold on the branded box as the hero product shot.
+
+Elegant, silent except for implied kitchen sounds and a refined, understated score. Premium, filmic, commercial-grade finish.
+```
+
+</details>
+
+<a id="seedance-automated-fries-factory-potato-conveyor"></a>
+### Workers tip potatoes onto a factory conveyor
+
+<a href="https://x.com/aiwithaly/status/2091031033986634183"><img src="../../previews/seedance-automated-fries-factory-potato-conveyor.jpg" width="360"></a>
+
+The prompt walks through the process in strict stage order from intake to packing, so the clip follows a clear production sequence. Named sounds such as conveyor motors and fryer bubbling, plus a list of negatives for distortion, floating objects and watermarks, keep the factory look realistic and clean.
+
+Seedance 2.5 · Text-to-video · Source: [@aiwithaly on X](https://x.com/aiwithaly/status/2091031033986634183)
+
+[`food-factory`](tags.md#tag-food-factory) [`industrial`](tags.md#tag-industrial) [`documentary`](tags.md#tag-documentary) [`conveyor`](tags.md#tag-conveyor)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A modern automated French fries factory processes fresh potatoes from start to finish. Potatoes arrive on stainless-steel conveyors, pass through industrial washing and peeling machines, then enter precision cutting equipment that produces evenly sized fries. The fresh-cut fries move through blanching, hot-oil frying, draining, and cooling systems before reaching automated weighing and packaging machines. Portions are measured, sealed into food-grade bags, checked by quality-control scanners, and transferred into cartons by robotic arms. Ultra-photorealistic industrial food production documentary, realistic potato and fry physics, physically accurate machinery, continuous conveyor movement, authentic water flow, realistic frying bubbles, natural steam, accurate robotic movements, hygienic factory environment, bright industrial LED lighting, realistic stainless-steel reflections, trained workers wearing proper protective equipment, smooth documentary cinematography, authentic factory sounds including conveyor motors, flowing water, cutting machines, fryer bubbling, cooling fans, and packaging mechanisms, no narration, no music, seamless visual continuity, no CGI appearance, no floating objects, no distorted food, no machine clipping, no excessive steam, no flickering lights, no text overlays, logos, or watermarks.
+```
+
+</details>
+
+<a id="seedance-bare-faced-makeover-swipe"></a>
+### Bare faced woman swipes into glamorous makeover
+
+<a href="https://x.com/MissDelulu9/status/2108101531426083045"><img src="../../previews/seedance-bare-faced-makeover-swipe.jpg" width="360"></a>
+
+A timed beat sheet with hard cuts, white flashes and snap zooms locks the pacing for each second. The palm swipe covers the lens as the hidden cut, so the transformation reads as one gesture instead of a morph.
+
+Seedance 2.5 · Text-to-video · Source: [@MissDelulu9 on X](https://x.com/MissDelulu9/status/2108101531426083045) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`makeup`](tags.md#tag-makeup) [`transformation`](tags.md#tag-transformation) [`beauty`](tags.md#tag-beauty) [`hard-cut`](tags.md#tag-hard-cut)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Creare 10-second ultra-realistic Douyin-style makeup transformation of the same attractive young adult woman, cinematic 16:9, luxury beauty-commercial aesthetic.
+
+0–2.5s: Bare face, messy hair, oversized T-shirt, sleepy expression in a casual room. Slow push-in. She suddenly becomes confident and makes a FAST sideways palm swipe across the lens. Camera whip-pans with her hand; palm covers frame.
+
+2.5s: HARD CUT + WHITE FLASH + WHOOSH + SHAKE. Instant hidden transformation, no morphing. SNAP ZOOM OUT → IN.
+
+2.5–4s: Black studio. Full glamorous Douyin makeup, styled voluminous hair, elegant fashion outfit. Strong wind blows her hair. Fast head turn + intense eye contact.
+
+4–10s: Rapid editorial sequence: FLASH → HARD CUT → NEW POSE → CAMERA MOVE. Hair sweep, 3/4 turn, hand near jaw, low-angle pose, final hero shot. Multiple flashes and snap zooms, ending with a huge white photography flash + brief freeze.
+```
+
+</details>
+
+<a id="seedance-bleu-de-chanel-perfume-review"></a>
+### Woman reviews Bleu de Chanel bottle in living room
+
+<a href="https://x.com/CaliraVal/status/2097904148360630318"><img src="../../previews/seedance-bleu-de-chanel-perfume-review.jpg" width="360"></a>
+
+The prompt runs the clip as ordered beats (show the bottle, spray wrist and neck, smell, speak) and gives the full script word for word so lip sync has a fixed line. Naming the exact product and repeating that the bottle must stay consistent anchors the brand, while camera, lighting and realism terms set the premium look.
+
+Seedance 2.5 · Text-to-video · Source: [@CaliraVal on X](https://x.com/CaliraVal/status/2097904148360630318)
+
+[`fragrance`](tags.md#tag-fragrance) [`product-review`](tags.md#tag-product-review) [`lip-sync`](tags.md#tag-lip-sync) [`influencer`](tags.md#tag-influencer)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a realistic luxury perfume review video featuring a stylish young woman in an elegant modern setting.
+
+She holds the Bleu de Chanel perfume bottle toward the camera, showing the bottle clearly. She then sprays a small amount on her wrist and neck, gently smells the fragrance, smiles naturally, and gives a genuine personal reaction.
+
+She looks directly into the camera and speaks naturally in a warm, confident female English voice with perfect lip-sync:
+
+“I’ve been trying Bleu de Chanel, and honestly, I really love it. It smells fresh, clean, sophisticated, and very elegant. It’s perfect for everyday wear, but it also feels special enough for an evening out. Definitely a fragrance I’d recommend.”
+
+Use natural facial expressions, realistic hand gestures, accurate lip movement, and authentic influencer-style delivery. Keep her voice clear, smooth, friendly, and conversational—not robotic or overly commercial.
+
+Use soft flattering lighting, realistic skin texture, shallow depth of field, cinematic camera movement, natural perfume spray mist, realistic reflections, and a premium lifestyle background. Keep the perfume bottle consistent and recognizable throughout.
+
+Photorealistic, luxury fragrance commercial, authentic product review, realistic physics, smooth motion, 4K, vertical . No distorted hands, no warped bottle, no changing face, no flickering, no incorrect text.
+```
+
+</details>
+
+<a id="seedance-blonde-model-pink-ball-gown-palace"></a>
+### Blonde model poses in pink gown under chandelier
+
+<a href="https://x.com/Zoyavelle/status/2108783755460853994"><img src="../../previews/seedance-blonde-model-pink-ball-gown-palace.jpg" width="360"></a>
+
+The prompt names each gown colour in order and fixes the palace setting and chandelier lighting, so every transition has a stable scene to land in. The skirt is held and turned with a fabric-flow instruction, which keeps the motion grounded.
+
+Seedance 2.5 · Text-to-video · Source: [@Zoyavelle on X](https://x.com/Zoyavelle/status/2108783755460853994) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`fashion`](tags.md#tag-fashion) [`ball-gown`](tags.md#tag-ball-gown) [`palace`](tags.md#tag-palace) [`runway`](tags.md#tag-runway)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A stunning blonde fashion model gracefully walks and poses in a luxurious palace ballroom, wearing an enormous elegant princess ball gown. She gently holds both sides of her voluminous skirt and slowly turns, allowing the delicate embroidered fabric to flow naturally. The camera smoothly moves forward and captures her full body and the intricate details of the dress. Transition seamlessly between different luxurious gowns in pastel pink, icy blue, lavender, champagne gold, and black, with each dress appearing in a grand palace interior with elegant chandeliers and cinematic lighting. Realistic walking motion, natural fabric movement, graceful posing, smooth cinematic transitions, high-end couture fashion runway aesthetic, photorealistic details, stable camera, vertical 9:16 video.
+```
+
+</details>
+
+<a id="seedance-blue-perfume-golden-beach-commercial"></a>
+### Blue perfume bottle with droplets at golden sunset
+
+<a href="https://x.com/laviniavelle/status/2100071299968032968"><img src="../../previews/seedance-blue-perfume-golden-beach-commercial.jpg" width="360"></a>
+
+The prompt sequences a backlit macro product shot into a cross dissolve to a model spraying the scent, so the shot order and the lens flare cues control the pacing. Stating photorealistic 8K and shallow depth of field holds a consistent luxury look across both shots.
+
+Seedance 2.5 · Text-to-video · Source: [@laviniavelle on X](https://x.com/laviniavelle/status/2100071299968032968) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`perfume`](tags.md#tag-perfume) [`luxury`](tags.md#tag-luxury) [`golden-hour`](tags.md#tag-golden-hour) [`beach-commercial`](tags.md#tag-beach-commercial)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A cinematic photorealistic commercial shot on a golden hour beach A deep sea blue glass perfume bottle covered in micro water droplets rests on a wet rock, backlit by the setting sun glittering over gentle ocean waves Soft lens flare and warm golden reflections glimmer across the water The scene seamlessly cross dissolves to a stunning woman wearing a flowing white deep V dress standing on the sandy shore She sprays the fragrance onto her neck with her eyes closed in bliss surrounded by a fine mist catching the golden sunlight then looks directly into the camera with a gentle confident smile holding the bottle Photorealistic 8K resolution, dynamic lighting, high end luxury aesthetic shallow depth of field.
+```
+
+</details>
+
+<a id="seedance-china-train-travel-multishot"></a>
+### Traveler watches the landscape from a train window
+
+<a href="https://x.com/Diplomeme/status/2099726668164444397"><img src="../../previews/seedance-china-train-travel-multishot.jpg" width="360"></a>
+
+A timed beat sheet pairs each segment with its lens, camera motion and light source, and a locked character block is restated for continuity across cuts. Naming real environmental sounds and natural light sources keeps the grade grounded rather than stylized.
+
+Seedance 2.5 · Text-to-video · Source: [@Diplomeme on X](https://x.com/Diplomeme/status/2099726668164444397) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`travel`](tags.md#tag-travel) [`multishot`](tags.md#tag-multishot) [`fashion`](tags.md#tag-fashion) [`music-video`](tags.md#tag-music-video) [`china`](tags.md#tag-china)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+30 seconds | 16:9 | premium travel music video / fashion travel film | 2024–2026 commercial grade | MULTISHOT
+
+CORE CONCEPT
+A young traveler experiences China through an energetic but natural sequence of movement, culture, fashion, food, architecture and landscapes. The film feels like a premium Chinese tourism campaign combined with an elite fashion travel film. The traveler is always physically present in the environment. Every location feels photographed rather than generated. Music drives the edit, but the footage retains the imperfections and spontaneity of real travel photography.
+
+CHARACTER
+ONE TRAVELER — young adult international traveler wearing a contemporary Adidas travel outfit: premium red Adidas jacket, neutral trousers, sneakers, compact crossbody bag. Natural hair, realistic skin texture, minimal accessories. Same face, clothing, hairstyle, proportions and accessories throughout the entire film. Do not invent additional Adidas branding.
+
+SETTING
+Modern and historic China: high-speed railway, Shanghai streets, traditional water-town lanes, Chengdu food streets, ancient architecture, dramatic mountain valleys, elevated viewpoints and vibrant nighttime streets. Real pedestrians, vendors, commuters, vehicles and local activity. Locations feel naturally connected through the journey.
+
+STORY — MUSIC-DRIVEN MULTISHOT VISUALS
+
+00:00–02.5 — CLOSE-UP HOOK
+85mm close-up of the traveler beside a high-speed train window. Warm sunlight catches the face while reflections of the moving Chinese landscape slide across the glass. Traveler looks outside, then turns toward camera as the first beat begins.
+
+02.5–05 — MOVEMENT
+24mm wide shot from the platform as the traveler walks alongside the departing high-speed train. Wind moves the red jacket naturally. The train accelerates through frame. Cut precisely with the music.
+
+05–07.5 — CITY ARRIVAL
+35mm handheld follow shot as the traveler exits a busy station into a dense Chinese city street. Real pedestrians cross naturally. Electric scooters, taxis and buses move through the background. Camera operator follows slightly behind rather than perfectly framing the subject.
+
+07.5–10 — STREET LIFE
+50mm observational shot. Traveler moves through a crowded neighborhood while a food vendor prepares steaming street food nearby. Traveler briefly stops, watches the preparation and smiles naturally. Steam passes across the foreground.
+
+10–12.5 — CULTURAL TRANSITION
+24mm shot following the traveler through a traditional Chinese water-town street. Stone paths, wooden buildings, bridges and hanging signs surround them. People move naturally through the scene. Traveler crosses a small bridge as sunlight breaks through the buildings.
+
+12.5–15 — FOOD / HUMAN MOMENT
+50mm close-up. A local vendor hands the traveler a freshly prepared dish. Traveler takes a bite and reacts naturally. Shallow depth of field, warm skin tones, authentic background activity and subtle handheld movement.
+
+15–17.5 — MOUNTAIN REVEAL
+24mm deep-focus landscape. Traveler walks up a long stone staircase through dense greenery. Camera follows from behind. As the traveler reaches the top, a vast mountain valley emerges through cool atmospheric mist.
+
+17.5–20 — FASHION MOMENT
+50mm side-tracking shot in golden sunlight. Traveler walks along the mountain viewpoint. Red Adidas jacket contrasts strongly against deep green vegetation. Golden rim light catches the hair and shoulders. Natural wind moves fabric.
+
+20–22.5 — LANDSCAPE / SCALE
+24mm wide. Traveler becomes small against enormous mountains disappearing into mist. Clouds move slowly through the valley. No artificial drone aesthetic; perspective feels like a real elevated camera position.
+
+22.5–25 — NIGHT TRANSITION
+50mm handheld street shot at blue hour. Traveler enters a lively nighttime food district. Warm lanterns, cool ambient light, scooters and pedestrians create layered depth. The music increases in intensity.
+
+25–27.5 — CITY ENERGY
+35mm tracking shot as traveler walks beside a modern riverside district. Reflections ripple across the water. Modern towers illuminate behind them while boats move naturally through the frame.
+
+27.5–30 — FINAL REVEAL
+24mm wide composition from behind the traveler. They stop briefly at the riverside and look across the illuminated skyline. Camera slowly moves backward rather than flying upward. Traveler then continues walking as the music reaches its final beat.
+
+CAMERA
+35mm and 50mm for portraits and human moments, 24mm for landscapes, architecture and stairs, occasional 85mm compression on faces. Shallow DOF on close-ups, deep focus on mountain wides. Handheld and physically motivated tracking movement. Natural camera micro-movement, imperfect framing, subtle autofocus adjustment, realistic exposure adaptation and occasional foreground obstruction. No impossible camera movement, no floating drone aesthetic.
+
+VISUAL / COLOR SETTING
+Premium travel music video / fashion travel film, 2024–2026 commercial grade. Look: photoreal cinema, slight filmic grain, mild halation on highlights, teal-cyan skies, punchy crimson reds, deep forest greens, warm skin, crushed-but-not-crushed blacks.
+
+COLOR GRADE
+Cinematic teal-and-warm, greens slightly cyan, red Adidas pops hard against foliage, golden rim on faces in sun, cool mist in mountain valleys. Maintain realistic skin tones and natural environmental color. No excessive saturation or artificial HDR.
+
+MOTION
+180-degree cinematic shutter, natural motion blur on hair and fabric, 24fps. No soap-opera 60fps look. Movement should retain the subtle imperfections of real location photography.
+
+LIGHTING
+Natural daylight, soft overcast city light, warm direct sunlight, golden-hour rim light, cool mountain mist, practical lanterns and nighttime city illumination. Lighting must originate naturally from the environment.
+
+AUDIO
+Premium contemporary travel soundtrack with subtle modern Chinese-inspired textures. Music drives the transitions and rhythm. Keep authentic location sound underneath: train ambience, station announcements, footsteps, scooters, traffic, vendors, cooking sounds, crowd chatter, wind, birds, distant city noise and riverside ambience. Environmental sound should occasionally become prominent during intimate moments.
+
+REALISM
+No CGI look, no plastic skin, no beauty-filter smoothing, no extra fingers, no warped architecture, no artificial crowd synchronization, no impossible reflections, no floating objects, no exaggerated depth of field. Realistic skin pores, hair strands, fabric texture, water reflections, atmospheric perspective and human movement.
+
+BRAND CONTROL
+The only Adidas branding visible is the existing Adidas trefoil already present on the traveler’s garments. Do not invent additional logos, advertisements, storefront branding or branded products. Do not add watermarks or random UI.
+
+EDITING
+Music-synchronized commercial editing without excessive effects. Cuts are motivated by movement, reflections, steam, architectural shapes, walking direction and changes in light. Use clean match cuts and occasional speed changes only when physically believable. Avoid generic AI transitions, artificial zooms, excessive whip transitions and over-edited montage pacing.
+
+CONTINUITY
+The traveler remains identical throughout all shots. Preserve face, hairstyle, red Adidas jacket, trousers, sneakers, bag and accessories. Maintain realistic weather and lighting progression from daylight → golden hour → blue hour → night. Each location should feel like part of one continuous journey through China.
+
+FINAL QUALITY TARGET
+The final film should look like genuine footage captured by an elite travel filmmaker for a major Chinese tourism/fashion campaign—not a collection of AI-generated beauty shots. The realism comes first; the commercial polish comes from cinematography, color, music, editing and art direction.
+```
+
+</details>
 
 <a id="seedance-chinese-spicy-sour-fish-cooking"></a>
 ### Chef cuts a whole fish on wooden board

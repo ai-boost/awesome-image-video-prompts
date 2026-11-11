@@ -1,0 +1,46 @@
+id: seedance-metal-car-garbage-truck-chase
+title:
+  en: Metal car morphs into grimy garbage truck during chase
+  zh: 金属汽车在追逐中变形为脏污垃圾车
+model: Seedance 2.5
+mode: reference-to-video
+category: action
+tags:
+- transformation
+- police-chase
+- reference-character
+source:
+  name: '@Xaroon_x on X'
+  url: https://x.com/Xaroon_x/status/2099012948232483096
+  credit: Xaroon_x
+  captured: '2026-11-11'
+  posted: '2026-09-13'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Xaroon_x/status/2099012948232483096
+notes:
+  en: Numbered shots, each with a camera move and a sound cue (tight close-up, pull back, sirens, sparks), give the model a clear edit order. Reference Image 1 is limited to one character and the negative list blocks extra people, which keeps the identity stable.
+  zh: 每个镜头都写明运镜和声音线索（近景特写、拉远、警笛、火花），让模型清楚知道剪辑顺序。参考图只用于一个角色，负面提示排除多余人物，从而保持人物身份稳定。
+prompt: |
+  Create a hyper-realistic cinematic action sequence on a bright urban road in daytime. Clean streets, light traffic, realistic buildings, natural daylight.
+
+  IMPORTANT: Use Reference Image 1 ONLY for the male character. Preserve his exact face, eyes, nose, lips, jawline, hairstyle and skin tone throughout. No face morphing or identity drift.
+
+  Open with a tight close-up of a sleek angular metallic futuristic vehicle speeding forward. Sudden gunfire erupts from off-screen; NO SHOOTERS are visible. Bullets hit the body and ricochet with sharp sparks.
+
+  Camera rapidly pulls back to reveal the full vehicle. Police sirens grow louder.
+
+  WITHOUT slowing down, the vehicle begins a realistic mechanical transformation while moving. Metallic panels slide, split, fold and reconfigure. Smooth surfaces become dirty, dented, scratched, rusted and uneven. The aerodynamic body becomes rough and boxy. No magic or teleportation. Within seconds it transforms into a grimy dumpster-style garbage truck blending naturally into the street.
+
+  The truck hard-brakes and performs a sharp 180-degree skid turn. Tires screech; dust kicks up. It settles into roadside parking.
+
+  CUT TO: Police vehicles rush past at high speed with sirens and lights, completely missing the disguised truck.
+
+  In the foreground, the SAME MALE CHARACTER FROM REFERENCE IMAGE 1 casually loads garbage into the truck. Dress him as a garbage-truck worker while keeping his exact identity and face. He pauses, watches the police pass, turns toward camera and gives a subtle confident wink.
+
+  Camera gently pushes in. Sirens fade into city ambience.
+
+  FINAL: Hold after the wink, then smoothly FADE TO BLACK. On the fully black screen, centered clean white text slowly fades in: “Wizstar AI”. Hold, then end.
+
+  STYLE: Photorealistic, premium Hollywood action, realistic VFX, natural physics.
+
+  NEGATIVE: No shooters, extra characters, identity change, face distortion, cartoon/anime, random cuts, subtitles, watermark, logos.

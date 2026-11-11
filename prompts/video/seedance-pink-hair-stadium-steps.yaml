@@ -1,0 +1,27 @@
+id: seedance-pink-hair-stadium-steps
+title:
+  en: Pink haired woman lounging on stadium steps
+  zh: 粉色长发女生躺在体育场看台台阶上
+model: Seedance 2.5
+mode: reference-to-video
+category: cinematic
+tags:
+- music-video
+- multi-shot
+- character-consistency
+- reference-image
+source:
+  name: '@Just_sharon7 on X'
+  url: https://x.com/Just_sharon7/status/2100983315381829840
+  credit: Just_sharon7
+  captured: '2026-11-11'
+  posted: '2026-09-18'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Just_sharon7/status/2100983315381829840
+notes:
+  en: A reference image locks the character, and the identity block repeats hair, cap, sweater and outfit in every shot so the look holds across cuts. Each shot is a short beat with a slow camera move, and a mood-matched song suggestion sets the pacing.
+  zh: 参考图锁定角色，并在每个镜头中重复发色、帽子、毛衣和穿着等身份描述，使切换镜头后形象保持一致。每个镜头只有 2 到 4 秒，配合缓慢运镜和情绪匹配的歌曲建议来定节奏。
+prompt: "Cinematic 30-second vertical or 16:9 music-video style sequence, photorealistic, high detail, natural outdoor lighting, slightly melancholic and dreamy atmosphere, soft color grade with muted greens, concrete greys, and pastel pinks. Consistent single female character throughout every shot. \nCharacter (lock this identity):\nYoung East-Asian woman @[Image 1](image_1), mid-20s, long straight pastel-pink hair with darker roots and lighter tips, fair skin, delicate makeup with reddish lips, slightly tired or distant expression. Wearing a light-green denim baseball cap decorated with a row of white pearls along the brim. Light-green cropped ribbed knit sweater with black ribbon bows tied along both sleeves. pink-and-white plaid flannel shirt tied around her waist. Baggy light-wash distressed jeans. Small silver necklace. Occasional black backpack in later shots. Same face, hair length, outfit, and body proportions in every scene.\nShot sequence (smooth cuts, slow camera moves, 2–4 seconds\
+  \ each):\nMedium-wide: She lies on her side on weathered grey concrete stadium steps, head resting against the riser, one arm along the step, looking softly at camera. Background: empty sandy sports field and distant people.\nMedium: She hangs from the top white crossbar of a soccer goal, both hands gripping the bar, body dangling in front of the net, looking straight at camera. Green hills and a second goal in the background.\nMedium: She is inside a stainless-steel cage packed with orange basketballs, eyes closed, cheek resting on a basketball as if sleeping. Soft natural light.\nMedium: She reclines against a colorful red-yellow-green playground tube slide, eyes half-closed or looking down, same outfit, playground equipment and trees behind.\nMedium-wide: She sits still on a chain swing in a playground, looking down, legs hanging, empty swing beside her. Blue rubber flooring, red and blue poles.\nMedium-wide: She sits on a low concrete wall in the playground, an orange traffic cone\
+  \ placed on her head like a hat, staring forward with a blank expression. Colorful play structures and trees behind.\nMedium: Outdoor ping-pong table. She stands holding a red-and-black paddle, then leans forward and rests her head and arms on the blue table surface, paddle still in hand, looking sideways at camera.\nMedium close: She stands at a stainless-steel outdoor drinking fountain, presses the button, water arcs up; she leans in as if to drink, then looks down at the basin.\nWide then medium: Large concrete stadium steps with metal railings and trees. She walks slowly past a black backpack on a step, stops, looks up at the sky, then sits and leans back against the steps, eyes closed or looking upward, legs extended.\nCamera & motion:\nSlow pans and gentle dollies, shallow-to-medium depth of field, natural handheld-but-stable feel. Soft overcast or late-afternoon light. Subtle wind in hair and clothes. No fast cuts, no zooms that break character consistency.\nMood & audio suggestion:\n\
+  Quiet, introspective, slightly surreal “lost in thought” feeling. Pair with the Indonesian song snippet “Pikiranku tak dapat ku mengerti / kaki di kepala kepala di kaki…” (Peterpan / Noah – Di Atas Normal) or a similar melancholic indie track. Soft ambient outdoor sound (distant voices, wind, faint playground noise).\nQuality tags:\nPhotorealistic, 4K, cinematic lighting, consistent character, natural skin texture, fabric detail on sweater and jeans, realistic physics on hanging/sitting/leaning poses.\n"

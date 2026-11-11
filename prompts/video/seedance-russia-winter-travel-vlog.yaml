@@ -1,0 +1,53 @@
+id: seedance-russia-winter-travel-vlog
+title:
+  en: Drone pullback over snowy Russian city in morning haze
+  zh: 无人机拉远俯拍晨雾中覆雪的俄罗斯城市
+model: Seedance 2.5
+mode: reference-to-video
+category: vlog
+tags:
+- winter
+- travel-vlog
+- drone
+- russia
+source:
+  name: '@Xaroon_x on X'
+  url: https://x.com/Xaroon_x/status/2098642605735125046
+  credit: Xaroon_x
+  captured: '2026-11-11'
+  posted: '2026-09-12'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Xaroon_x/status/2098642605735125046
+notes:
+  en: Timed beats with one named camera move each (drone pullback, whip pan, rack focus, speed ramp) keep a 30 second sequence readable. A single image1 reference locks the traveler's face, and the outfit is listed item by item so it stays the same in every shot.
+  zh: 按时间段拆分镜头，每段只写一个明确的运镜（无人机拉远、甩镜、变焦对焦、变速），让30秒的片子结构清楚。用 image1 参考图锁定人物面部，并把服装逐项写明，保证每个镜头里人物一致。
+prompt: |
+  Create a 30-second ultra-realistic 4K cinematic winter travel vlog in Russia. Use the male traveler from image1 as the exact character reference in every shot. Keep his face, hairstyle, facial hair, skin and body consistent.
+
+  He wears the same winter outfit throughout: insulated puffer jacket, knitted beanie, scarf, gloves, dark trousers and waterproof boots. Keep colors and design consistent.
+
+  0:00–0:02: Cinematic drone pull-back over a snow-covered Russian city with golden domes, frozen rooftops, ice crystals, pale sunlight and morning haze.
+
+  0:02–0:05: Handheld selfie vlog. He walks on a snowy cobblestone street, smiles and talks to camera. Visible breath mist and winter lens flare. Whip pan.
+
+  0:05–0:08: Russian winter market with colorful stalls, matryoshka dolls and steaming samovars. Focus on objects, rack focus to his face as he picks up a souvenir, slow push-in, warm grade.
+
+  0:08–0:10: Macro of his gloved hand holding a lacquered figurine, frost details, bokeh and subtle camera drift. Match cut.
+
+  0:10–0:14: Side tracking shot beside a grand ice-covered historic building, icy reflections, speed ramp 60% to 100%.
+
+  0:14–0:16: Dutch tilt and tilt-up revealing a frozen cathedral against a grey winter sky. He looks up in awe.
+
+  0:16–0:19: Slow-motion wide shot walking beside a frozen river, blowing snow, distant skyline, cinematic letterbox.
+
+  0:19–0:22: Handheld selfie close-up holding a steaming hot drink, satisfied expression, warm grade.
+
+  0:22–0:25: Fast montage: palace hallway walk, photographing an ice sculpture, snowy bridge thumbs-up. Rapid cuts and motion blur.
+
+  0:25–0:28: Golden-hour overlook of the frozen city, slow push-in toward his silhouette.
+
+  0:28–0:29: He faces camera, smiles and waves, subtle lens flare.
+
+  0:29–0:30: Cut to black screen. Centered elegant white text fades in: “Wizstar AI”. Music fades to silence.
+
+  Photorealistic, cinematic lighting, realistic snow, natural motion, accurate hands, consistent image1 identity and outfit, no face changes, distortion, cartoon or CGI.

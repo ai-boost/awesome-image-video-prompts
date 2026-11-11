@@ -1,6 +1,6 @@
 # Phone footage and vlogs
 
-[Back to the list](../../README.md) · All 182 entries · **1** · [2](video-vlog-2.md) · [3](video-vlog-3.md)
+[Back to the list](../../README.md) · All 186 entries · **1** · [2](video-vlog-2.md) · [3](video-vlog-3.md)
 
 <a id="seedance-balcony-pool-phone-video-collapse"></a>
 ### Bald man in kiddie pool beside balcony grill
@@ -3560,6 +3560,31 @@ SCENES SEQUENCE:
 
 STYLE: photorealistic, shallow depth of field, gentle tracking camera, lifestyle vlog aesthetic.
 NEGATIVE: character identity drift, different woman, generic face, 3D, CGI, anime, beauty filter. --ar 9:16
+```
+
+</details>
+
+<a id="seedance-countryside-wrong-road-vlog"></a>
+### Young woman walks a sunlit countryside road
+
+<a href="https://x.com/nawalsehar/status/2100801502990516476"><img src="../../previews/seedance-countryside-wrong-road-vlog.jpg" width="360"></a>
+
+Pairs a handheld vlog camera plan (selfie moments, over-the-shoulder reveal, final wide pullback) with a sound list limited to diegetic audio, so the model stages a continuous real walk instead of a montage. The explicit negative list covering CGI, duplicated people and impossible physics helps keep faces and clothing stable over 30 seconds.
+
+Seedance 2.5 · Text-to-video · Source: [@nawalsehar on X](https://x.com/nawalsehar/status/2100801502990516476) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`vlog`](tags.md#tag-vlog) [`travel`](tags.md#tag-travel) [`countryside`](tags.md#tag-countryside) [`golden-hour`](tags.md#tag-golden-hour)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 30-second ultra-photorealistic live-action travel vlog about a young woman who accidentally takes the wrong rural road and discovers a peaceful countryside village. She checks her phone, follows the unfamiliar path, becomes curious as rooftops appear through the trees, then discovers beautiful homes, gardens, bicycles, a flowing stream, and distant green hills.
+
+Show spontaneous natural reactions, realistic walking and human biomechanics, authentic bag and clothing movement, gentle wind, realistic bicycles, flowing water, gravel and wooden bridge interaction, and physically accurate environmental motion. Use handheld vlog shots, stabilized walking footage, selfie-style moments, over-the-shoulder reveals, natural autofocus, and a final wide cinematic pullback.
+
+Use only natural dialogue and diegetic sounds: footsteps, birds, bicycle bells, wind, distant voices, gravel, and flowing water. Warm late-afternoon sunlight, realistic shadows, reflections, depth of field, and natural 24fps motion. End with her walking peacefully toward the village as the camera slowly pulls back.
+
+No CGI, animation, fantasy, artificial faces, impossible physics, floating objects, distorted anatomy, duplicated people, changing clothes or faces, unrealistic water, impossible camera movement, subtitles, logos, or watermark.
 ```
 
 </details>

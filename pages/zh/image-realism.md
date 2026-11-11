@@ -1,6 +1,6 @@
 # 写实照片
 
-[返回目录](../../README_zh.md) · 全部 133 条
+[返回目录](../../README_zh.md) · 全部 135 条
 
 <a id="gpt-image-coca-cola-tanker-leak-mentos-truck-dashcam"></a>
 ### 可口可乐罐车漏液，旁边是Mentos货车
@@ -1224,6 +1224,77 @@ Prompt 2 — “His Temptation” Movie Scene at Home A cinematic back-view shot
 
 </details>
 
+<a id="gpt-image-reception-blue-top-mini-skirt"></a>
+### 穿蓝色上衣和迷你裙的女子站在前台
+
+<a href="https://x.com/AIjee_tpe/status/2118119884718842227"><img src="../../previews/gpt-image-reception-blue-top-mini-skirt.jpg" width="360"></a>
+
+提示词按主体、场景、光线、构图、风格和质量分段描述，并固定机位高度和取景范围，使服装和道具都能保持稳定。明确指定荧光顶灯和中性白平衡，让肤色和布料颜色更接近真实拍摄。
+
+GPT Image 2.5 · 文生图 · 出处: [@AIjee_tpe on X](https://x.com/AIjee_tpe/status/2118119884718842227) · 157 赞，统计于 2026-11-11
+
+[`fashion`](tags.md#tag-fashion) [`photorealism`](tags.md#tag-photorealism) [`full-body`](tags.md#tag-full-body) [`office`](tags.md#tag-office)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+## \(Subject Description\)
+
+A highly detailed, photorealistic full-body fashion photograph of an adult East Asian woman with fair, smooth skin and naturally full breasts,S-shaped female figure,  She has a delicate oval face, soft facial features, dark eyes, and naturally pink-red lips. Her expression is gentle and composed, with her gaze lowered toward the floor.
+
+Her long, glossy black hair is styled in a half-up hairstyle, with the remaining hair cascading in loose waves over her shoulders and down her back. She has straight, full bangs framing her forehead and a small black floral hair accessory positioned at the back of her head.
+
+She wears a fitted, short-sleeved royal-blue crew-neck T-shirt, neatly tucked into a high-waisted, form-fitting black mini skirt with a simple, clean silhouette. Her legs are covered in sheer, dark charcoal-black pantyhose. She wears glossy black patent-leather platform stilettos with extremely high thin heels and rounded platform toe sections.
+
+Her pose is elegant and slightly angled sideways. One hand rests against her lower back and waist, with the elbow bent outward, while the other arm remains naturally positioned. Her hips are subtly shifted to one side, and her legs are close together with one knee slightly bent, creating a graceful S-shaped standing posture.
+
+She possesses the best head-to-body ratio, naturally full breasts,a perfect, curvaceous, S-shaped female figure,Hourglass figure,long legs with perfect leg lines, and a slender waist, perfect foots,perfect foot lines
+
+## \(Scene / Background\)
+
+An ordinary, clean indoor office or reception area with a neutral, functional interior.
+
+Behind the subject is a long light-colored reception counter with a smooth surface. Several white modern plastic chairs with curved backs are arranged in front of and behind the counter. Wooden-framed windows with horizontal blinds and warm natural wood paneling occupy the rear wall.
+
+A potted white orchid with delicate white petals and pink-purple centers sits on the counter, adding a decorative touch. A white wall-mounted board or display panel is visible on the right side. The floor is covered in gray commercial carpeting, and a fluorescent ceiling light is visible overhead.
+
+## \(Light / Atmosphere\)
+
+Soft, evenly distributed indoor fluorescent lighting from overhead ceiling fixtures. Neutral white illumination creates realistic skin tones and gentle shadows without dramatic contrast.
+
+The atmosphere is calm, understated, and professional, resembling a candid fashion photograph taken inside an everyday office environment.
+
+## \(Composition / View\)
+
+* Full-body vertical portrait, showing the subject from head to shoes without cropping.
+
+* Single female subject positioned prominently near the center of the frame.
+
+* Slight three-quarter side-facing body orientation.
+
+* Camera positioned approximately at waist-to-chest height, capturing the subject and surrounding interior.
+
+* Natural standing pose with one hand resting at the waist, hips slightly shifted, and one knee gently bent.
+
+* The entire outfit, sheer pantyhose, and high-heeled shoes remain clearly visible.
+
+* Background furniture and decorative orchid provide environmental context without distracting from the subject.
+
+## \(Style Reference\)
+
+Photorealistic fashion and lifestyle photography, realistic human anatomy, natural body proportions, authentic fabric textures, detailed hair strands, realistic skin texture, subtle reflections on patent leather, and accurate environmental details.
+
+A natural, documentary-style indoor fashion photograph rather than a heavily stylized studio production.
+
+## \(Quality Parameters\)
+
+Ultra-high resolution, highly detailed, sharp focus, realistic skin texture, accurate facial features, natural fabric folds, realistic sheer hosiery transparency, glossy patent-leather reflections, balanced exposure, neutral white balance, soft indoor lighting, natural color reproduction, professional photography quality, photorealistic rendering.
+
+No illustration, no CGI appearance, no exaggerated proportions, no artificial beauty filters, no distorted anatomy, no extra limbs, no cropped feet.
+```
+
+</details>
+
 <a id="gpt-image-tree-sun-skyline-frozen-lake"></a>
 ### 巨大落日前的树影与冰湖倒影
 
@@ -1844,6 +1915,43 @@ Nano Banana 2 · 文生图 · 出处: [@MrDasCreates on X](https://x.com/MrDasCr
 A cinematic three-panel vertical collage featuring a fit young man in a dark underground gym, shirtless, wearing black Gymshark athletic shorts. In the top panel, he is captured from behind, standing under a single dim overhead light, revealing a deeply defined back and shoulders with shadows cutting across his muscles. In the middle panel, he faces forward in a mirror, performing a slow controlled flex, showcasing sharp abs, chest, and arms with a powerful, intense presence. In the bottom panel, he is shown in a low-angle close-up, leaning forward with hands on his knees, breathing heavily after a set, sweat dripping onto the floor. His messy medium-length dark hair is damp and partially covering his eyes, giving a raw, focused, and slightly aggressive expression.
 
 The environment is gritty with concrete walls, exposed pipes, and minimal lighting, enhanced by subtle fog and dust particles in the air. A single harsh light source creates deep shadows and dramatic contrast, emphasizing muscle definition. Blurred old-school gym equipment in the background, shallow depth of field, ultra-realistic skin texture, editorial underground fitness photography style. 4K resolution, hyper-realistic, cinematic film still, high-contrast dark color grading, 100% same face as reference photo, vertical 9:16 composition, slightly zoomed-in framing.
+```
+
+</details>
+
+<a id="seedream-5-5-rooftop-chess-king-fur-coat"></a>
+### 屋顶上身穿绿色仿毛大衣的下棋男子
+
+<a href="https://x.com/MayorKingAI/status/2120198834508955990"><img src="../../previews/seedream-5-5-rooftop-chess-king-fur-coat.jpg" width="360"></a>
+
+提示词把相机固定在棋盘高度并使用20毫米广角镜头，让前景的国王棋子显得巨大、棋盘向远处延伸；同时写明机身和曝光参数来锁定摄影质感。结尾关于不磨皮、不做CGI的约束让皮肤和面料纹理保持真实。
+
+Seedream 5.5 · 文生图 · 出处: [@MayorKingAI on X](https://x.com/MayorKingAI/status/2120198834508955990) · 91 赞，统计于 2026-11-11
+
+[`fashion`](tags.md#tag-fashion) [`portrait`](tags.md#tag-portrait) [`chess`](tags.md#tag-chess) [`rooftop`](tags.md#tag-rooftop)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+I tested all four models directly in
+@magnific
+
+
+Prompt: An ultra-realistic high-fashion editorial photograph of a striking 28-year-old Japanese man with sharp facial features, a defined jawline, slightly messy medium-length black hair and narrow rectangular black sunglasses, sitting confidently on a rooftop terrace while playing chess.
+
+He wears an oversized luxurious emerald-green faux-fur coat over a black silk shirt, tailored black trousers and a subtle silver chain necklace. His expression is calm, confident and slightly intimidating, looking directly toward the camera.
+
+Camera composition: An extreme low-angle shot taken from the very edge of a chessboard, with the camera positioned only a few centimeters above the board's surface. The black-and-white chessboard dominates the entire bottom third of the frame, its squares appearing exceptionally large in the foreground and rapidly shrinking toward the seated man.
+
+The man is centered in the composition, visible from approximately the knees upward, leaning slightly forward. His right arm extends directly toward the camera, with his hand dramatically enlarged by perspective. He is gripping the top of a polished ivory wooden king chess piece between his thumb and index finger, moving it toward an empty square near the camera. The king is dramatically oversized in the immediate foreground due to the wide-angle perspective, while the remaining chess pieces appear progressively smaller toward the background.
+
+His other hand rests naturally near his knee. The chess pieces are physically accurate and positioned naturally on the board, with realistic contact shadows and detailed polished wooden surfaces.
+
+Environment: An open urban rooftop with subtle concrete architectural details, low surrounding rooftops and an enormous vivid cyan-blue sky with a few soft, scattered white clouds. The bright sky occupies the upper half of the composition, creating strong visual contrast against the emerald-green coat.
+
+Photography: Shot on a Sony A1 II with a 20mm wide-angle lens, camera placed at chessboard level, f/8, ISO 100, 1/1000s. Deep environmental perspective, exaggerated foreground scale, realistic optical distortion, crisp textures across the chessboard and subject. Bright natural midday sunlight, accurate skin tones, natural facial asymmetry, individual hair strands, detailed fabric and fur fibers, subtle imperfections and physically realistic shadows.
+
+Authentic luxury fashion campaign photography, bold editorial framing, natural photographic color grading, exceptionally realistic skin texture, no artificial skin smoothing, no CGI appearance, no illustration, no plastic textures, no excessive cinematic effects.
 ```
 
 </details>

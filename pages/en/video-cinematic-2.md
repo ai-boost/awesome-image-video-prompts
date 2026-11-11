@@ -1,6 +1,59 @@
 # Cinematic scenes and short films
 
-[Back to the list](../../README.md) · All 160 entries · [1](video-cinematic.md) · **2**
+[Back to the list](../../README.md) · All 170 entries · [1](video-cinematic.md) · **2**
+
+<a id="seedance-clown-pumpkin-bat-halloween"></a>
+### Clown smashes glowing pumpkin with baseball bat
+
+<a href="https://x.com/iam_mian7/status/2116450954296074371"><img src="../../previews/seedance-clown-pumpkin-bat-halloween.jpg" width="360"></a>
+
+A numbered beat-by-beat timeline with a fixed medium-wide frontal camera gives the model a clear sequence to follow. Explicit slow-motion and realistic-physics instructions for the explosion, plus an exact final text overlay, keep the payoff readable.
+
+Seedance 2.5 · Text-to-video · Source: [@iam_mian7 on X](https://x.com/iam_mian7/status/2116450954296074371) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`halloween`](tags.md#tag-halloween) [`horror`](tags.md#tag-horror) [`slow-motion`](tags.md#tag-slow-motion) [`vfx`](tags.md#tag-vfx)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a hyper-realistic, cinematic Halloween video in vertical 9:16 format, approximately 10 seconds long, with photorealistic 4K quality.
+
+Scene and Environment:
+A dark, spooky forest at night, filled with tall leafless trees, thick atmospheric fog, subtle floating red glowing particles, and dramatic moonlight. In the foreground, place a rustic, weathered wooden table.
+
+Main Character:
+A beautiful young female Halloween clown standing behind the table. She wears an elaborate vintage circus clown costume featuring a black-and-white checkered bodice, red decorative accents, a layered grey tulle skirt, white gloves, and two high curly buns decorated with red roses. Her face has elegant but slightly creepy Halloween clown makeup, with pale skin, dark eyes, and red details.
+
+Action Sequence:
+
+1. The camera remains fixed in a medium-wide frontal shot. The clown enters the scene holding a glowing orange jack-o'-lantern pumpkin. Several red helium balloons float above and behind her.
+
+2. She carefully places the pumpkin on the wooden table, adjusting it with both hands. The pumpkin has a realistically carved, illuminated scary face.
+
+3. She steps back, looks at the pumpkin, and raises her hands with a playful, mischievous expression.
+
+4. A large wooden baseball bat suddenly appears in her hands. She grips it firmly with both hands and prepares to swing.
+
+5. She performs a powerful horizontal baseball swing, striking the pumpkin with full force.
+
+6. On impact, the pumpkin explodes dramatically into hundreds of realistic orange pieces, flying pumpkin seeds, glowing embers, and fiery particles. Create a spectacular cinematic slow-motion explosion with realistic physics.
+
+7. Finish with the clown holding her follow-through batting pose while pumpkin fragments scatter across the wooden table and foreground.
+
+**Final Frame:**
+Display bold, clean white uppercase text at the bottom center:
+
+"HAPPY HALLOWEEN"
+
+Visual Style:
+Ultra-photorealistic cinematic horror fantasy, realistic human anatomy, detailed facial expressions, natural character movement, physically accurate object interactions, dramatic volumetric lighting, atmospheric fog, realistic fire and particle effects, professional Hollywood VFX, sharp details, natural motion blur.
+
+Camera: Fixed frontal camera, medium-wide composition, no cuts, no zooms, consistent character appearance and costume throughout.
+
+Important: No cartoon aesthetics, no animation look, no plastic skin, no character morphing, no extra limbs, no distorted hands, no scene transitions, and no changes to the character's identity.
+```
+
+</details>
 
 <a id="seedance-college-lab-zombie-infection"></a>
 ### College lab student turns into a zombie
@@ -810,6 +863,29 @@ Style: cinematic Korean folk horror, dark wooden interior, warm candlelight, dee
 
 </details>
 
+<a id="seedance-korean-folk-horror-ritual"></a>
+### Shaman ritual possession in a Korean wooden house
+
+<a href="https://x.com/AIwithSynthia/status/2099836457430974932"><img src="../../previews/seedance-korean-folk-horror-ritual.jpg" width="360"></a>
+
+Anchor the character with a consistency instruction, then move through clear beats from a calm ritual to a violent wind and fire climax. The closing wide shot with a slow push toward one smoking talisman sets up an unresolved ending, and the practical fire, smoke and sound direction keeps the horror realistic without gore.
+
+Seedance 2.5 · Reference-to-video · Source: [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2099836457430974932) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`horror`](tags.md#tag-horror) [`korean-folk-horror`](tags.md#tag-korean-folk-horror) [`practical-effects`](tags.md#tag-practical-effects)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a cinematic Korean folk-horror ritual inside a dark traditional Korean wooden house. Keep the Word character’s face, hairstyle, outfit, and appearance perfectly consistent. She kneels weakly inside a salt circle surrounded by candles, incense, rice, and Korean talismans while worried family members watch and a shaman prepares the ritual. The shaman begins chanting as her fingers twitch, her body trembles, her head suddenly moves unnaturally, dark veins spread across her skin, and her eyes gradually turn completely black. Her body convulses violently as the shaman throws rice and salt around the circle.
+
+The woman suddenly rises unnaturally while the shaman presses a burning talisman against her forehead. A powerful wind tears through the closed room, shaking candles, scattering papers, and whipping her hair and clothing. The talisman catches fire, flames surge, and she collapses onto the wooden floor, completely still. After a tense silence, her eyes reopen normally and the family rushes toward her in relief while the exhausted shaman watches carefully.
+
+End with a wide aftermath shot showing scattered salt, burnt talismans, melted candles, incense smoke, and ritual objects across the floor. Everything appears finished until one untouched talisman begins releasing a faint trail of dark smoke. The camera slowly moves toward it, leaving the supernatural threat unresolved. Realistic Korean folk horror, cinematic lighting, deep shadows, practical fire and smoke, dramatic camera movement, natural acting and sound design, no gore, no subtitles, no watermark, no anime or cartoon style.
+```
+
+</details>
+
 <a id="seedance-korean-washroom-zombie-chase"></a>
 ### Woman in Camisole Stands in Tiled Washroom
 
@@ -1055,6 +1131,121 @@ Narrow winding cobblestone streets of a medieval coastal city, high stone walls,
 
 [STYLE & QUALITY BOOSTERS]
 Exact period production texture of a major series, coherent physics of every body and fabric movement, stable character continuity, natural motion blur, no modern digital cleanliness, no artificial enhancement.
+```
+
+</details>
+
+<a id="seedance-mercedes-convertible-mediterranean-coast-romance"></a>
+### Black Mercedes convertible cruising a Mediterranean coastal road
+
+<a href="https://x.com/codewithhajra/status/2119668766841672041"><img src="../../previews/seedance-mercedes-convertible-mediterranean-coast-romance.jpg" width="360"></a>
+
+Each beat is tied to a time range in seconds and carries its own camera line with a lens and light spec, so the model generates one shot per beat in order. The explicit cut and camera cues keep the sequence coherent across the 30 second run.
+
+Seedance 2.5 · Text-to-video · Source: [@codewithhajra on X](https://x.com/codewithhajra/status/2119668766841672041) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`car`](tags.md#tag-car) [`coastal`](tags.md#tag-coastal) [`romance`](tags.md#tag-romance) [`sunset`](tags.md#tag-sunset)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Begin with a cinematic aerial establishing shot of a luxurious black Mercedes convertible cruising along a winding Mediterranean coastal road.
+
+The turquoise sea sparkles under the afternoon sunlight. Palm trees and beautiful coastal cliffs pass in the background.
+
+Cut to an interior passenger-side shot. The woman sits comfortably in the passenger seat, enjoying the breeze. Her skirt moves gently with the wind.
+
+The handsome man drives with one hand on the steering wheel. He glances at her and smiles.
+
+She notices him looking and gives him a playful smile.
+
+Camera: Smooth aerial tracking, followed by intimate 50mm interior shots, natural sunlight and beautiful depth of field.
+
+THE LITTLE STOP (5–10 SECONDS)
+
+The man notices a beautiful seaside viewpoint and gently slows down.
+
+Cut to an elegant side shot as the black Mercedes pulls into a scenic coastal parking area overlooking the ocean.
+
+He parks the car safely and switches off the engine.
+
+The woman looks outside excitedly, smiles and reaches for the door handle.
+
+The man steps out first, walks around the front of the car and opens the passenger door for her.
+
+She laughs softly and steps out, adjusting her skirt as the coastal breeze catches her hair.
+
+They exchange a sweet smile.
+
+Camera: Low-angle automotive shot, smooth movement around the car and cinematic couple entrance.
+
+WALKING BY THE SEA (10–16 SECONDS)
+
+Transition to a beautiful wide tracking shot of the couple walking together along a charming seaside pedestrian path.
+
+The ocean is on one side, with a stone railing, coastal flowers and warm sunset light surrounding them.
+
+The woman walks beside the man, holding his arm. He gently takes her hand.
+
+She points toward the beautiful sunset over the water.
+
+He looks where she points, then turns back toward her with a genuine smile.
+
+They continue walking slowly, laughing and enjoying the moment.
+
+Her flowing polka-dot skirt moves naturally in the sea breeze.
+
+Camera: Side-tracking shot, cinematic 35mm lens, foreground flowers softly framing the couple and beautiful ocean bokeh.
+
+THE SUNSET MOMENT (16–22 SECONDS)
+
+Cut to an intimate cinematic shot at a beautiful seaside overlook.
+
+The couple stops beside a stone railing, facing the ocean.
+
+The sky is painted with beautiful shades of peach, pink, golden orange and lavender.
+
+The woman rests her hands on the railing, admiring the sunset.
+
+The man steps beside her, gently places his arm around her shoulders and looks at the horizon.
+
+She turns toward him and smiles.
+
+He gently brushes a loose strand of hair away from her face.
+
+They share a quiet, affectionate moment while the sunlight softly illuminates their faces.
+
+Camera: Over-the-shoulder composition, close-up facial details, beautiful sunset backlighting and subtle lens flare.
+
+A MEMORY TO KEEP (22–26 SECONDS)
+
+The woman takes a small vintage digital camera from her shoulder bag.
+
+She turns toward the man and asks him to take a picture with her.
+
+He takes the camera, holds it up and captures a photograph of them standing together against the glowing sunset.
+
+After taking the picture, he shows her the screen.
+
+She laughs happily and leans her head gently against his shoulder.
+
+They admire the beautiful photograph together.
+
+Camera: Close-up of the camera, their genuine expressions and a soft over-the-shoulder composition.
+
+THE BEAUTIFUL GOODBYE (26–30 SECONDS)
+
+End with a breathtaking cinematic wide shot.
+
+The man opens the passenger door for her again.
+
+Before getting inside, she turns around, looks at the sunset one last time and smiles.
+
+He stands beside her, holding her hand.
+
+The camera slowly cranes upward and pulls away, revealing the beautiful black convertible, the winding coastal road, the endless ocean and the glowing sunset.
+
+ENDING MOOD: A beautiful little escape, a sunset, and a memory they will never forget.
 ```
 
 </details>
@@ -1657,6 +1848,43 @@ STYLE: Photorealistic Korean horror, creepy laughter, milky-white eyes, realisti
 
 </details>
 
+<a id="seedance-pink-hair-stadium-steps"></a>
+### Pink haired woman lounging on stadium steps
+
+<a href="https://x.com/Just_sharon7/status/2100983315381829840"><img src="../../previews/seedance-pink-hair-stadium-steps.jpg" width="360"></a>
+
+A reference image locks the character, and the identity block repeats hair, cap, sweater and outfit in every shot so the look holds across cuts. Each shot is a short beat with a slow camera move, and a mood-matched song suggestion sets the pacing.
+
+Seedance 2.5 · Reference-to-video · Source: [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2100983315381829840) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`music-video`](tags.md#tag-music-video) [`multi-shot`](tags.md#tag-multi-shot) [`character-consistency`](tags.md#tag-character-consistency) [`reference-image`](tags.md#tag-reference-image)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Cinematic 30-second vertical or 16:9 music-video style sequence, photorealistic, high detail, natural outdoor lighting, slightly melancholic and dreamy atmosphere, soft color grade with muted greens, concrete greys, and pastel pinks. Consistent single female character throughout every shot. 
+Character (lock this identity):
+Young East-Asian woman @[Image 1](image_1), mid-20s, long straight pastel-pink hair with darker roots and lighter tips, fair skin, delicate makeup with reddish lips, slightly tired or distant expression. Wearing a light-green denim baseball cap decorated with a row of white pearls along the brim. Light-green cropped ribbed knit sweater with black ribbon bows tied along both sleeves. pink-and-white plaid flannel shirt tied around her waist. Baggy light-wash distressed jeans. Small silver necklace. Occasional black backpack in later shots. Same face, hair length, outfit, and body proportions in every scene.
+Shot sequence (smooth cuts, slow camera moves, 2–4 seconds each):
+Medium-wide: She lies on her side on weathered grey concrete stadium steps, head resting against the riser, one arm along the step, looking softly at camera. Background: empty sandy sports field and distant people.
+Medium: She hangs from the top white crossbar of a soccer goal, both hands gripping the bar, body dangling in front of the net, looking straight at camera. Green hills and a second goal in the background.
+Medium: She is inside a stainless-steel cage packed with orange basketballs, eyes closed, cheek resting on a basketball as if sleeping. Soft natural light.
+Medium: She reclines against a colorful red-yellow-green playground tube slide, eyes half-closed or looking down, same outfit, playground equipment and trees behind.
+Medium-wide: She sits still on a chain swing in a playground, looking down, legs hanging, empty swing beside her. Blue rubber flooring, red and blue poles.
+Medium-wide: She sits on a low concrete wall in the playground, an orange traffic cone placed on her head like a hat, staring forward with a blank expression. Colorful play structures and trees behind.
+Medium: Outdoor ping-pong table. She stands holding a red-and-black paddle, then leans forward and rests her head and arms on the blue table surface, paddle still in hand, looking sideways at camera.
+Medium close: She stands at a stainless-steel outdoor drinking fountain, presses the button, water arcs up; she leans in as if to drink, then looks down at the basin.
+Wide then medium: Large concrete stadium steps with metal railings and trees. She walks slowly past a black backpack on a step, stops, looks up at the sky, then sits and leans back against the steps, eyes closed or looking upward, legs extended.
+Camera & motion:
+Slow pans and gentle dollies, shallow-to-medium depth of field, natural handheld-but-stable feel. Soft overcast or late-afternoon light. Subtle wind in hair and clothes. No fast cuts, no zooms that break character consistency.
+Mood & audio suggestion:
+Quiet, introspective, slightly surreal “lost in thought” feeling. Pair with the Indonesian song snippet “Pikiranku tak dapat ku mengerti / kaki di kepala kepala di kaki…” (Peterpan / Noah – Di Atas Normal) or a similar melancholic indie track. Soft ambient outdoor sound (distant voices, wind, faint playground noise).
+Quality tags:
+Photorealistic, 4K, cinematic lighting, consistent character, natural skin texture, fabric detail on sweater and jeans, realistic physics on hanging/sitting/leaning poses.
+```
+
+</details>
+
 <a id="seedance-pirate-chef-parrot-galley-asmr"></a>
 ### Pirate chef and parrot thief in galley
 
@@ -1763,6 +1991,41 @@ NEGATIVE PROMPT:
 cartoon, anime, CGI look, low quality, blurry face, extra fingers, warped hands, duplicate objects, duplicate people, distorted body, floating objects, unrealistic physics, unnatural falling motion, overexposed lighting, oversaturated colors, AI artifacts, camera shake, abrupt cuts, warped architecture, deformed eyes
 
 #Seedance25 #AIVideo #AIFilmmaking #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️
+```
+
+</details>
+
+<a id="seedance-pregnant-woman-kitchen-tennis-comedy"></a>
+### Pregnant woman cutting cucumber in luxury kitchen
+
+<a href="https://x.com/Zarnab_with_Ai/status/2118533471786406031"><img src="../../previews/seedance-pregnant-woman-kitchen-tennis-comedy.jpg" width="360"></a>
+
+Numbered scene beats plus a shared visual style block and a repeated character description keep the look consistent across cuts. The 9:16 spec and the closing line about no text, no subtitles and no watermark keep the frame clean.
+
+Seedance 2.5 · Text-to-video · Source: [@Zarnab_with_Ai on X](https://x.com/Zarnab_with_Ai/status/2118533471786406031) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`3d-animation`](tags.md#tag-3d-animation) [`multi-scene`](tags.md#tag-multi-scene) [`vertical-video`](tags.md#tag-vertical-video) [`comedy`](tags.md#tag-comedy)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a cute, high-quality 3D animated cinematic comedy scene in a vertical 9:16 format.
+
+Scene 1: A beautiful pregnant young woman with long, straight black hair, wearing a shiny pink satin two-piece outfit, is standing in a modern luxury kitchen, peacefully cutting fresh vegetables on a wooden chopping board. Warm lighting, elegant marble countertops, and realistic kitchen details.
+
+Scene 2: Suddenly, a kitchen knife appears to float mysteriously in the air, creating a magical transition. Show a cinematic close-up of the woman's pregnant belly with soft, warm lighting.
+
+Scene 3: Transition into a magical glowing tennis court with golden sparkling lights. An adorable little 3D cartoon baby boy with curly brown hair, a white headband, big expressive eyes, and a white tennis outfit appears holding a miniature tennis racket. He takes an energetic tennis stance and confidently prepares to hit a tennis ball.
+
+Scene 4: Show the cute little tennis player running forward with an adorable but fierce expression, swinging his racket and hitting the ball with surprising power. Use dynamic camera movements and cinematic close-ups.
+
+Scene 5: Return to the modern kitchen. The pregnant woman looks shocked and surprised. A handsome young man with curly brown hair, wearing a black sleeveless athletic shirt, appears beside her holding a tennis racket. He looks at her belly in amazement.
+
+Scene 6: The man and woman exchange surprised expressions, then both burst into laughter, sharing a sweet and funny moment together.
+
+Visual Style: Premium 3D Pixar-inspired animation, adorable character designs, expressive facial emotions, detailed textures, smooth natural movements, cinematic lighting, magical golden particles, vibrant colors, consistent character appearance, professional camera angles, and heartwarming comedy storytelling.
+
+Quality: 4K, ultra-detailed 3D rendering, smooth animation, vertical 9:16, no text, no subtitles, no watermark.
 ```
 
 </details>
@@ -2717,6 +2980,72 @@ End with survivors huddled together beneath flashing red emergency lights, prote
 
 </details>
 
+<a id="seedance-snowy-upper-west-side-couple-walk"></a>
+### Couple strolls snowy Upper West Side at dusk
+
+<a href="https://x.com/ZaraIrahh/status/2119293619282567471"><img src="../../previews/seedance-snowy-upper-west-side-couple-walk.jpg" width="360"></a>
+
+The prompt locks both characters with a character sheet and a location reference, then lists each hard-cut shot with its camera move, action and sound. Standing rules for continuous movement and scarf placement keep faces, outfits and colour grade consistent across the cuts.
+
+Seedance 2.5 · Reference-to-video · Source: [@ZaraIrahh on X](https://x.com/ZaraIrahh/status/2119293619282567471) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`romance`](tags.md#tag-romance) [`winter`](tags.md#tag-winter) [`multi-shot`](tags.md#tag-multi-shot) [`character-lock`](tags.md#tag-character-lock)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+AUDIO RULE: Natural sound only. No music, no score, no voiceover, no dialogue. Ambient winter city sound and foley only.
+
+MOTION RULE: Continuous movement in every shot. The couple never stop, freeze or hold a pose, and the camera is always moving. Every romantic moment happens while they walk, spin or run.
+
+STYLE: Hand-painted illustrated look, matching the location reference: soft painterly brush texture, warm amber lamplight against cool lavender-gray snow haze. Same color grade in every shot.
+
+CHARACTER LOCK: <<<image_1>>>  is a single character sheet showing two people. The TOP ROW is the woman and the BOTTOM ROW is the man. Match both exactly in every shot.
+The woman (top row): messy curly dark-brown hair in a loose updo with loose strands, freckles, small gold hoop earrings. Long dark brown textured wool coat, white collared shirt, charcoal wide-leg trousers, black leather belt, black lace-up boots. She also wears a burgundy fringed wool scarf, as in the location image. She carries a paper cup of tea with the tea-bag tag hanging out.
+The man (bottom row): tall, tousled wavy dark-brown hair, freckles. Long brown herringbone tweed coat, olive-green fringed scarf, cream cable-knit sweater, dark brown trousers, dark leather boots.
+SCARF LOCK: His olive scarf stays on his neck and her burgundy scarf stays on hers in every shot. Scarves never move between people.
+Faces, hair, outfits, heights and proportions never change between shots. They look at each other with deep affection and never look at the camera.
+
+LOCATION: <<<image_2>>> , snowy Upper West Side at dusk. Gas-style street lamps, snow-covered trees, black iron fences, brownstones with warm lit windows and snowy stoops, a street sign reading "W 73 St / Broadway", a yellow taxi, the Empire State Building glowing in the haze. Soft snow falls throughout.
+
+SHOT 1 (0:00-0:03)
+Camera: Wide tracking shot gliding backward ahead of them down the snowy sidewalk, lamps streaking past.
+Action: They walk toward us, his arm around her shoulders, her tea steaming. She leans her head against him while they walk, and he kisses the top of her head without breaking stride. Snow swirls through the lamplight and a yellow taxi slides by behind them.
+Sound: Crunching, slushy footsteps, a muffled tire hiss, a soft contented sigh, gentle wind.
+
+HARD CUT
+
+SHOT 2 (0:03-0:06)
+Camera: Medium shot, smooth handheld tracking sideways at walking pace, shallow depth of field.
+Action: Still walking, he opens the front of his coat and pulls her in against his side, wrapping the coat around her shoulder. His olive scarf stays on his neck and her burgundy scarf stays on hers. She laughs, looks up at him, and catches a snowflake on her tongue. He grins and tucks a loose curl behind her ear as they keep moving.
+Sound: Her bright laugh, wool rustling, quick footsteps, snow hush.
+
+HARD CUT
+
+SHOT 3 (0:06-0:09)
+Camera: Low tracking shot at hip height, following their hands and the cup as they move, warm window lights streaming past.
+Action: They swing their linked hands as they walk. She lifts the steaming cup to his lips and he sips, smiling at her. Snowflakes melt on his knuckles and her burgundy scarf fringe while the tea-bag tag sways.
+Sound: Cup crinkle, a quiet sip, playful breath, soft footsteps, a car passing.
+
+HARD CUT
+
+SHOT 4 (0:09-0:12)
+Camera: Fast but smooth circling orbit around them, snow flying through the foreground.
+Action: He lifts her hand and spins her under his arm. Her coat flares and her curls swing as she twirls, laughing. She spins back into him and they keep moving in a flowing walking waltz down the sidewalk, foreheads close, eyes locked.
+Sound: Coat swish, her delighted laugh, quick light footsteps in snow, a distant bell.
+
+HARD CUT
+
+SHOT 5 (0:12-0:15)
+Camera: Sweeping crane move that begins close and rises into a wide pull-back, following them up the avenue with the Empire State Building glowing in the haze.
+Action: Hand in hand, they run a few joyful steps through the falling snow, then he pulls her in and they kiss mid-stride, still moving, her scarf fringe flying. They keep walking away up the avenue, arms around each other, leaving two sets of footprints as the flakes thicken.
+Sound: Quick crunching footsteps, a happy laugh, coat rustle, fading into the hush of falling snow.
+
+AVOID: music, dialogue, text overlays, still poses, freeze frames, camera looks, face or hairstyle drift, swapping the two characters' outfits, scarves moving between people, any change to coats, scarves, earrings or boots between shots, photorealistic style.
+```
+
+</details>
+
 <a id="seedance-suburban-outbreak-neighbors-fight-back"></a>
 ### Suburban street outbreak and neighbors fighting back
 
@@ -3033,6 +3362,92 @@ Ultra-detailed 3D animation, cinematic rendering, 4K, high-quality global illumi
 
 </details>
 
+<a id="seedance-toddler-glitter-nails-comedy"></a>
+### Toddler Concentrates on Painting Long Glossy Nails
+
+<a href="https://x.com/Zarnab_with_Ai/status/2109231900430569762"><img src="../../previews/seedance-toddler-glitter-nails-comedy.jpg" width="360"></a>
+
+Timed scene beats (0 to 4 seconds, 4 to 7 seconds and so on) plus a repeated character sheet of hair, sweater, eyes and room keep the toddler consistent across cuts. Named shot types (extreme closeup, macro, medium shot) and explicit sound cues for the brush and button taps set the pacing.
+
+Seedance 2.5 · Text-to-video · Source: [@Zarnab_with_Ai on X](https://x.com/Zarnab_with_Ai/status/2109231900430569762) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`pixar-style`](tags.md#tag-pixar-style) [`character-consistency`](tags.md#tag-character-consistency) [`shot-list`](tags.md#tag-shot-list) [`sound-design`](tags.md#tag-sound-design)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+AI Video Prompt — Little Girl’s Glitter Nail Polish Adventure
+
+Create a high-quality, ultra-detailed 3D animated cartoon video, approximately 26 seconds long, in vertical 9:16 format. Use a cute, cinematic Pixar-inspired animation style with realistic textures, soft lighting, expressive facial animation, and smooth camera movements.
+
+Main Character: A ridiculously adorable toddler girl with a round face, huge sparkling blue eyes, rosy cheeks, a tiny nose, blonde hair styled in two small buns with pink bows, and a playful personality. She wears a cozy white sweater featuring a teddy bear and pink pajama pants decorated with little black hearts.
+
+Scene 1 (0–4 seconds): Applying Nail Polish
+Begin with an extreme close-up of the little girl sitting at a small table in a warm, pink-themed living room. She carefully examines her tiny fingers, which have long, glossy white artificial-looking nails. She concentrates intensely, furrowing her eyebrows and slightly sticking out her tongue while trying to paint her nails. Her facial expressions are adorable and funny.
+
+Scene 2 (4–7 seconds): Purple Glitter Polish
+Show a detailed close-up of her tiny hand holding a nail polish brush. She carefully applies sparkling purple glitter nail polish to her long nails. A small open bottle of purple glitter polish sits on the table. Capture the glossy liquid, sparkling particles, delicate brush movements, and her focused expression. Use shallow depth of field and cinematic macro photography.
+
+Scene 3 (7–12 seconds): Proud Little Girl
+Cut to a medium shot revealing her finished purple glitter nails. She raises both hands in front of her face, spreads her fingers, and admires her beautiful nails with a huge, delighted smile. She wiggles her fingers excitedly and looks from one hand to the other. The room features soft pink curtains, a comfortable pink sofa, warm lamps, and cute decorative objects.
+
+Scene 4 (12–17 seconds): The Remote Control Problem
+The little girl walks toward the table while admiring her extra-long purple glitter nails. She notices a television remote control lying on the tabletop. She reaches toward it, attempting to press its colorful buttons with her long nails. Her movements become awkward and clumsy. Show an extreme close-up of her shiny nails hovering over the buttons as she struggles to operate the remote. One tiny piece of purple glitter nail polish accidentally falls onto the table, creating a funny surprise.
+
+Scene 5 (17–21 seconds): Funny Reaction
+Show her staring at her nails and the remote control with wide-open eyes and a shocked, confused expression. She opens her mouth in surprise, lifts both hands, and carefully examines her fingertips. After a brief pause, her expression changes from shock to excitement as she realizes how shiny her nails look.
+
+Scene 6 (21–26 seconds): Happy Ending
+Cut to a warm medium shot of the toddler sitting comfortably on a pink sofa, watching a colorful cartoon on the television. She happily raises her hands and admires her sparkling purple nails while smiling with pure childlike joy. The television casts a soft pink and blue glow across her face. Finish with a charming final shot of her smiling and showing off her glittery nails.
+
+Visual Style: Premium 3D animated family-friendly comedy, adorable toddler proportions, oversized expressive blue eyes, realistic skin shading, finely detailed blonde hair, glossy purple glitter nail polish, pastel pink interiors, cinematic depth of field, soft golden sunlight, smooth character animation, natural hand movements, detailed close-ups, consistent character design, and polished professional rendering.
+
+Camera Direction: Alternate between extreme close-ups, macro nail-polish shots, facial close-ups, and medium-wide living-room shots. Use gentle camera push-ins, smooth cuts, and expressive reaction shots. Maintain clear visual continuity between every scene.
+
+Audio: Soft, playful background music with subtle nail-polish brush sounds, gentle tapping on the remote buttons, and cute comedic sound effects during the surprised reaction. No dialogue or subtitles.
+
+Important Requirements: Maintain the same toddler's face, hairstyle, clothing, proportions, and environment throughout the entire video. Preserve the purple glitter nails after they are painted. Keep the animation smooth, visually coherent, adorable, and humorous. Vertical 9:16 composition, high detail, clean rendering, no flickering, no distorted fingers, no extra limbs, no unwanted text, and no watermarks.
+```
+
+</details>
+
+<a id="seedance-toddler-skateboard-school-short"></a>
+### Toddler runs out of house in 3D animated short
+
+<a href="https://x.com/Zarnab_with_Ai/status/2110193320047898957"><img src="../../previews/seedance-toddler-skateboard-school-short.jpg" width="360"></a>
+
+The prompt locks the character with a detailed identity description (face, cornrows, printed shirt, red shorts, pink backpack) and repeats a consistency rule at the end. Golden hour lighting and a Pixar inspired 3D rendering direction keep the look steady across its six scene breakdowns.
+
+Seedance 2.5 · Text-to-video · Source: [@Zarnab_with_Ai on X](https://x.com/Zarnab_with_Ai/status/2110193320047898957) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`3d-animation`](tags.md#tag-3d-animation) [`pixar-style`](tags.md#tag-pixar-style) [`skateboard`](tags.md#tag-skateboard) [`multi-scene`](tags.md#tag-multi-scene)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a high-quality cinematic 3D animated short film featuring an adorable toddler girl with big expressive brown eyes, chubby rosy cheeks, tiny braided cornrows, a white T-shirt with “I ♥ MOM DAD” printed on it, red shorts, white sneakers, and a cute pink backpack.
+
+Scene 1 — School Morning: The little girl runs out of a cozy suburban house in warm golden-hour sunlight. She looks excited and energetic as she heads toward the street, with a charming neighborhood in the background.
+
+Scene 2 — Emotional Close-Up: Show a series of cinematic close-ups of her face, capturing surprise, nervousness, determination, and a mischievous smile. Her large eyes and expressive facial animations create a heartwarming, humorous personality.
+
+Scene 3 — The Skateboard Reveal: A colorful skateboard rests beside a white picket fence. The toddler notices it, grins confidently, and prepares for an exciting ride.
+
+Scene 4 — Skateboarding Action: The girl rides the skateboard down the sunny suburban sidewalk, maintaining her balance with a determined expression. Another little girl with braided hair and a pink backpack performs a playful skateboard jump nearby. Show dynamic tracking shots, low-angle camera movements, realistic wheel motion, and subtle dust and pavement particles.
+
+Scene 5 — The School Bus: Both toddlers skateboard toward a parked yellow school bus. The main girl confidently approaches the bus while the other child follows. Use smooth cinematic camera tracking and warm sunlight filtering through the trees.
+
+Scene 6 — Happy Ending: Inside the school bus, the adorable toddler sits among a diverse group of cheerful children. Everyone laughs, smiles, and waves excitedly as the bus drives away down the suburban road.
+
+Visual Style: Premium Pixar-inspired 3D animation, adorable character design, highly expressive facial animation, realistic fabric and hair details, cinematic depth of field, warm golden-hour lighting, soft shadows, vibrant colors, polished rendering, smooth character movements, dynamic camera angles, family-friendly comedy, and professional animated-film quality.
+
+Technical Specifications: Vertical 9:16 aspect ratio, approximately 30 seconds, seamless scene transitions, consistent character appearance throughout, detailed suburban environment, cinematic motion, and high-quality 3D rendering.
+
+Important: Maintain the same character identity, clothing, hairstyle, backpack, and proportions in every scene. Ensure natural skateboard physics, coherent movements, and consistent lighting. Avoid character distortion, flickering, extra limbs, and visual inconsistencies.
+```
+
+</details>
+
 <a id="seedance-toddlers-mom-secret-snack-3d"></a>
 ### Mom sneaks a snack while toddlers play with blocks
 
@@ -3227,6 +3642,39 @@ A large custom-built pale mint-green wooden seesaw / dunk-lever structure (thick
 An off-camera operator slowly pumps the opposite end of the lever, tilting the beam so her head and hair repeatedly dunk into the water then lift out, water streaming from her hair and the cloth. Her expression shifts between wide-eyed surprise, a slight smile, and composure as she looks toward camera. Water ripples and drips throughout.
 
 Natural window light, muted filmic color palette, shallow depth of field, slight handheld camera movement that stays locked on the woman and the barrel. Slow, rhythmic, slightly surreal and elegant rather than slapstick. No text, no logos.
+```
+
+</details>
+
+<a id="seedance-vaccination-father-panic-clinic"></a>
+### Father panics during baby's vaccination in 3D clinic
+
+<a href="https://x.com/Zarnab_with_Ai/status/2111280639295275309"><img src="../../previews/seedance-vaccination-father-panic-clinic.jpg" width="360"></a>
+
+The beats escalate in a clear order (nervous baby, terrified father, injection, relief, baby laughs), which keeps the comedy timing readable across 10 seconds. The nurse's calm delivery against the father's exaggerated reaction creates the contrast the joke depends on.
+
+Seedance 2.5 · Text-to-video · Source: [@Zarnab_with_Ai on X](https://x.com/Zarnab_with_Ai/status/2111280639295275309) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`3d-animation`](tags.md#tag-3d-animation) [`comedy`](tags.md#tag-comedy) [`pixar-style`](tags.md#tag-pixar-style) [`family-friendly`](tags.md#tag-family-friendly)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a high-quality, ultra-detailed 3D animated comedy video set inside a bright, modern pediatric clinic. A cute, chubby baby wearing a light green floral romper sits on her father's lap. The father is a heavyset man with messy brown hair, an orange T-shirt, and blue jeans. A blonde female nurse wearing a white uniform, surgical mask, and gloves prepares to give the baby a vaccination.
+
+As the nurse approaches with the syringe, the father becomes increasingly terrified, his eyes widening and his hair standing straight up in exaggerated cartoon fashion. The baby initially looks confused and nervous. When the nurse gives the injection, the father screams dramatically with his mouth wide open, tears streaming down his cheeks, while the baby watches him in surprise.
+
+The nurse calmly continues the procedure, showing a funny contrast between her professional attitude and the father's over-the-top reaction. Finally, the father realizes the injection is over, relaxes, and smiles with relief. The baby bursts into laughter at her father's ridiculous reaction.
+
+Visual Style: Premium 3D animated movie quality, Pixar-inspired character design, expressive facial animations, realistic skin shading, detailed clothing textures, cinematic lighting, soft shadows, vibrant colors, vertical 9:16 composition.
+
+Camera: Medium shot transitioning into close-ups of the father's terrified expressions, the baby's reactions, and the nurse's calm movements. Smooth camera motion and consistent character designs throughout.
+
+Duration: 10 seconds.
+
+Audio: Funny cartoon sound effects, exaggerated scream, subtle clinic ambience, and joyful baby laughter. No dialogue or subtitles.
+
+Important: Maintain consistent character appearances, natural body movements, accurate hand anatomy, and smooth facial expressions. Make the scene humorous, family-friendly, and visually engaging.
 ```
 
 </details>

@@ -1,6 +1,6 @@
 # 电影感场景与短片
 
-[返回目录](../../README_zh.md) · 全部 160 条 · **1** · [2](video-cinematic-2.md)
+[返回目录](../../README_zh.md) · 全部 170 条 · **1** · [2](video-cinematic-2.md)
 
 <a id="h3-character-detail-montage"></a>
 ### 二十镜头角色细节蒙太奇，最后才露脸
@@ -787,6 +787,29 @@ Warm sunlight enters through large windows, revealing drifting dust above desks 
 Use one slow camera push-in, natural movement, restrained facial expressions, and a brief moment of subtle slow motion during the gesture. Maintain consistent anatomy, lighting, and spatial relationships.
 
 Realistic cinematic photography, 16:9 widescreen, 4K where supported. No text or watermark.
+```
+
+</details>
+
+<a id="omni-regency-ballroom-claude-shirt-jigglypuff"></a>
+### 摄政时代舞会少女，穿 Claude 衫、头戴胖丁
+
+<a href="https://x.com/chetaslua/status/2118348030906937504"><img src="../../previews/omni-regency-ballroom-claude-shirt-jigglypuff.jpg" width="360"></a>
+
+提示词先确定时代背景，以及主角的品牌衫和头饰，再用并列的角色清单让模型补充场景。用 prestige drama 限定为正剧式的光线与节奏。
+
+Gemini Omni Flash · 文生视频 · 出处: [@chetaslua on X](https://x.com/chetaslua/status/2118348030906937504) · 518 赞，统计于 2026-11-11
+
+[`period-drama`](tags.md#tag-period-drama) [`pokemon`](tags.md#tag-pokemon) [`brand-logos`](tags.md#tag-brand-logos) [`ballroom`](tags.md#tag-ballroom)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+🚨 Gemini Omni Pro Spotted internally
+
+4k supported , 15 second , and also omni flash 1.2 can launch anyday literally ready and deployed
+
+Prompt : an Elaborate regency romance  a girl is wearing claude t shirt and biy is wearing chagpt shirt where everyone is wearing a live pokemon for a hat (), a llama plays a flute, prestige drama and fat orange cat with mistral shirt is singing
 ```
 
 </details>
@@ -3999,6 +4022,36 @@ Negative prompt: no subtitles, no text, no logos, no watermark, no distorted fac
 
 </details>
 
+<a id="seedance-black-cat-halloween-horror"></a>
+### 黑猫走过万圣节雾中的村庄街道
+
+<a href="https://x.com/AIwithSynthia/status/2116548193840431160"><img src="../../previews/seedance-black-cat-halloween-horror.jpg" width="360"></a>
+
+分段结构（场景、猫、最终揭示）加上按顺序排列的镜头，让模型清楚地从平静走向惊悚。低机位跟拍、缓慢推近面部，并明确写实的真人实拍风格，在保持真实感的同时逐步推进到尖叫的高潮。
+
+Seedance 2.5 · 文生视频 · 出处: [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2116548193840431160) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`halloween`](tags.md#tag-halloween) [`horror`](tags.md#tag-horror) [`black-cat`](tags.md#tag-black-cat)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a  ultra-realistic, photorealistic live-action Halloween horror video featuring a mysterious black cat with sleek glossy fur and piercing golden eyes.
+SETTING
+A deserted village street at midnight, surrounded by enormous glowing jack-o'-lanterns, twisted trees, abandoned houses, scattered autumn leaves, and thick rolling fog. A blood-red moon hangs above the village, casting an eerie orange-red glow across the road.
+— THE MYSTERIOUS CAT
+A black cat slowly walks down the empty village street, passing several glowing pumpkins. Its golden eyes reflect the flickering candlelight. The camera follows it from a low ground-level angle as its paws move naturally across the leaf-covered road.
+
+The camera slowly pushes toward the cat's face. Its eyes transform into glowing supernatural orange eyes with narrow vertical pupils. Its fur rises, its mouth stretches into an unnatural monstrous grin, and its sharp fangs become visible.
+The pumpkins behind it begin shaking violently as black smoke erupts from the ground. The cat suddenly opens its mouth and releases a terrifying demonic growl.
+— FINAL HORROR REVEAL
+The cat slowly walks toward the camera, staring directly into the lens. Its glowing eyes become brighter with every step.
+It suddenly stops inches from the camera, opens its mouth impossibly wide, revealing rows of terrifying sharp teeth, and unleashes a horrifying demonic scream.
+FINAL SHOT: Extreme close-up of the cat's fiery orange eyes and monstrous grin. The pumpkins behind it simultaneously explode into darkness as the screen cuts to black.
+```
+
+</details>
+
 <a id="seedance-blonde-girl-pouts-cheek-poke"></a>
 ### 金发女孩被戳脸后撒娇委屈
 
@@ -4283,53 +4336,6 @@ Ultra-photorealistic cinematic horror fantasy, realistic human anatomy, detailed
 Camera: Fixed frontal camera, medium-wide composition, no cuts, no zooms, consistent character appearance and costume throughout.
 
 Important: No cartoon aesthetics, no animation look, no plastic skin, no character morphing, no extra limbs, no distorted hands, no scene transitions, and no changes to the character's identity.
-```
-
-</details>
-
-<a id="seedance-college-lab-zombie-infection"></a>
-### 大学实验室学生被感染变成丧尸
-
-<a href="https://x.com/AIwithSynthia/status/2106955772395659431"><img src="../../previews/seedance-college-lab-zombie-infection.jpg" width="360"></a>
-
-提示词按时间顺序串起容器破裂、感染、追逐、堵门和门窗前的最后一笑，开头就锁定人物的脸和衣着。单独的音频行不要音乐，风格行写明冷色荧光灯转红色应急灯，负面清单排除血腥和脸部变形，让恐怖感保持写实。
-
-Seedance 2.5 · 文生视频 · 出处: [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2106955772395659431) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`horror`](tags.md#tag-horror) [`zombie`](tags.md#tag-zombie) [`photorealistic`](tags.md#tag-photorealistic) [`handheld`](tags.md#tag-handheld) [`sound-design`](tags.md#tag-sound-design)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a photorealistic live-action zombie-horror sequence inside a modern university science laboratory during a normal college practical session. The central character is a young adult Korean female college student wearing a white laboratory coat over a simple shirt, blue jeans and white sneakers. Keep her face, hairstyle, clothing and body proportions identical throughout. Surround her with several college students, laboratory benches, microscopes, glass test tubes, chemical containers, computers and scientific equipment. Use realistic fluorescent lighting, practical effects, handheld camerawork and believable physics.
-
-The students are quietly working on an experiment when a sealed glass specimen container suddenly cracks. A dark infected substance escapes and attaches itself to the young woman near her shoulder and neck. She stumbles backward in fear as dark veins slowly spread beneath her skin, traveling across her neck and face. Her fingers begin twitching, her body develops violent tremors and her skin becomes pale and clammy.
-
-Her frightened expression gradually disappears. She raises her head and her eyes slowly transform into deep cloudy-black eyes. She suddenly turns toward a nearby classmate and charges. He desperately backs away behind a laboratory table while she repeatedly slams against it, moving with unnatural strength.
-
-The other students freeze before scrambling toward the laboratory exit. The infected woman suddenly becomes completely still, then slowly rotates her head toward them. Her dark veins pulse visibly across her face while her black eyes remain fixed on the students.
-
-Another glass specimen container cracks in the background. A second infected student suddenly collapses onto the floor, convulsing violently as dark veins spread across his neck and face and his eyes turn black. Panic erupts throughout the laboratory.
-
-Students grab backpacks, chairs and laboratory equipment while trying to escape. One student pulls another toward the emergency exit as the infected chase them through the narrow aisles. A heavy laboratory table is pushed against the door as a temporary barricade.
-
-The survivors finally reach the hallway and slam the laboratory door shut. Red emergency lights begin flashing as they catch their breath.
-
-Inside the laboratory, everything becomes silent.
-
-The camera slowly approaches the small observation window in the door. The infected female student stands motionless in the darkness, still wearing her white lab coat and jeans. Her pale face, prominent dark veins and completely black eyes are clearly visible.
-
-She slowly tilts her head toward the window.
-
-Then she suddenly smiles.
-
-Cut to black.
-
-AUDIO: Realistic laboratory ambience, fluorescent hum, glass cracking, equipment falling, footsteps, frightened breathing, screams, alarms, convulsions, impacts and distant banging. No music or exaggerated sound effects.
-
-STYLE: Ultra-realistic college laboratory horror, practical-effects infection, realistic skin texture, believable anatomy, natural handheld camera, grounded movement, realistic facial transformation, dark spreading veins, black/cloudy eyes, violent convulsions and unnatural infected movements, cold fluorescent lighting transitioning into red emergency lighting.
-
-NEGATIVE: Excessive gore, graphic dismemberment, graphic eye gore, anime, cartoon, illustration, plastic skin, fake CGI, duplicated students, face morphing, distorted anatomy, extra limbs, floating objects, impossible physics, changing clothes, inconsistent identities, subtitles, text, logos, watermark.
 ```
 
 </details>

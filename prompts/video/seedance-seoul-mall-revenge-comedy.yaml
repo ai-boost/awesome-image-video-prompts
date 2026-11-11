@@ -1,0 +1,37 @@
+id: seedance-seoul-mall-revenge-comedy
+title:
+  en: Woman with iced coffee in a Seoul shopping mall
+  zh: 首尔购物中心里拿着冰咖啡的女子
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- revenge-comedy
+- slapstick
+- handheld-camera
+- seoul
+source:
+  name: '@AIwithkhan on X'
+  url: https://x.com/AIwithkhan/status/2111296614904336739
+  credit: AIwithkhan
+  captured: '2026-11-11'
+  posted: '2026-10-17'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithkhan/status/2111296614904336739
+notes:
+  en: The prompt sets the handheld camera, reflective floor, white subtitles and a no-music rule up front, then walks through the slapstick beats in order. Quoted dialogue lines and a fixed wardrobe and location line keep the faces, outfits and setting consistent across the sequence.
+  zh: 提示词开头就写明手持镜头、反光地面、白色字幕和无背景音乐的要求，然后按顺序描述每个滑稽动作节拍。引号内的台词以及固定的服装和场景描述，让整段视频中的人物外观与场景保持一致。
+prompt: |
+  Create a live-action cinematic revenge-comedy video set inside a busy Seoul shopping mall. Use realistic handheld camera movement, bright mall lighting, reflective floors, dramatic reactions, and real-time action.
+
+  A Korean woman in her 20s with a short black bob, sunglasses resting on her head, a fitted black crop top, high-waisted blue jeans, black boots, and a brown shoulder bag walks through the mall carrying an iced coffee and shopping bags. A cocky Korean man in his 20s wearing a dark bomber jacket deliberately bumps into her, knocks her coffee out of her hand, and laughs while her drink spills across the shiny floor.
+
+  She stares at the mess, then looks at him and says, “You think that's funny?”
+
+  He mocks her and tries to walk away. She quickly grabs the handle of his rolling shopping suitcase, spins him around, and sends him stumbling backward into a tower of empty shopping baskets. The baskets scatter everywhere as he lands awkwardly on the floor. He jumps up angrily, but she sidesteps his dramatic charge, causing him to slide across the polished floor and crash harmlessly into a pile of soft promotional cushions.
+
+  Shoppers stop and stare. Someone laughs as the man struggles to get up, surrounded by scattered baskets and cushions. The woman calmly picks up her shoulder bag, looks down at him, and says, “Next time, pick someone your own size.”
+
+  She grabs a fresh drink from a nearby café, gives the camera a confident smirk, and walks away while he remains embarrassed on the floor.
+
+  Maintain identical faces, hairstyles, outfits, and location throughout. Include believable slapstick physics, expressive reactions, detailed coffee spilling across the floor, scattering baskets, cinematic close-ups, and shocked bystanders. Keep the action non-gory and comedic, with a clearly visible final humiliating landing. Natural mall ambience, footsteps, crowd reactions, and realistic dialogue. Clear white subtitles. No background music or narration.

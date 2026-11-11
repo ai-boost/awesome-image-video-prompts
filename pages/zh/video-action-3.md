@@ -1,6 +1,79 @@
 # 动作、追逐与运动
 
-[返回目录](../../README_zh.md) · 全部 224 条 · [1](video-action.md) · [2](video-action-2.md) · **3**
+[返回目录](../../README_zh.md) · 全部 233 条 · [1](video-action.md) · [2](video-action-2.md) · **3**
+
+<a id="seedance-nun-demon-cathedral-sword-fight"></a>
+### 跪地修女手持染血长剑 被恶魔包围
+
+<a href="https://x.com/itsSaira_1/status/2108765927194198397"><img src="../../previews/seedance-nun-demon-cathedral-sword-fight.jpg" width="360"></a>
+
+提示词写成一份带时间顺序的分镜表，从下跪开场，依次写变身、战斗到结尾远景，每个阶段都有明确的画面动作。满月、符文圈和教堂废墟等固定场景元素贯穿全片，帮助模型在切换镜头时保持环境一致。
+
+Seedance 2.5 · 文生视频 · 出处: [@itsSaira_1 on X](https://x.com/itsSaira_1/status/2108765927194198397)
+
+[`transformation`](tags.md#tag-transformation) [`fight-sequence`](tags.md#tag-fight-sequence) [`gothic-fantasy`](tags.md#tag-gothic-fantasy)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A cinematic 30-second sequence starting in a dark, ruined gothic cathedral at night with a full moon. A woman dressed as a nun is kneeling inside a glowing magical rune circle on a stone floor, holding a bloodied sword, surrounded by hordes of terrifying demonic creatures. She pulls the sword to her chest, bursting with fiery light from her ribcage, and transforms into a powerful entity with large white glowing angelic wings and a halo, her clothes changing into an ornate dark blue gown with golden embroidery. She wields glowing magical swords, fighting off and defeating the demons with fiery energy and brilliant flashes of light in an epic action sequence. Finally, she plants her glowing sword into the ground, creating a protective circle with giant glowing crosses, standing victorious as the cathedral clears.
+
+Negative Prompt:
+blurry, low quality, distorted, deformed, bad anatomy, extra limbs, poorly drawn face, poorly drawn hands, watermark, signature, ugly, low resolution, choppy animation
+```
+
+</details>
+
+<a id="seedance-nyc-web-swing-golden-hour"></a>
+### 纽约街头黄金时刻的飞荡少女
+
+<a href="https://x.com/ElsaSofia__AI/status/2089306746804375878"><img src="../../previews/seedance-nyc-web-swing-golden-hour.jpg" width="360"></a>
+
+每个动作都写明了身体姿态和具体接触点（墙面、车顶、路面），让飞荡呈现为有落点的跑酷动作，而不是悬浮。全程单机位连续跟拍，配合按秒划分的时间节拍和锁定的角色参考图，保持画面连贯。
+
+Seedance 2.5 · 参考生视频 · 出处: [@ElsaSofia__AI on X](https://x.com/ElsaSofia__AI/status/2089306746804375878) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`parkour`](tags.md#tag-parkour) [`web-swinging`](tags.md#tag-web-swinging) [`nyc`](tags.md#tag-nyc) [`golden-hour`](tags.md#tag-golden-hour)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+CHARACTER REFERENCE — MANDATORY: Face — Reference Image 3. Outfit — short dark bob, black fitted crop jacket, distressed dark cargo denim shorts, gray hoodie tied at waist, teal satin ballet pointe shoes, pink tights, black headphones ON EARS, white gloves.
+ CRITICAL — CHARACTER ANATOMY. NON-NEGOTIABLE: 165cm, 47kg. Athletic, lean, controlled. NEVER ragdoll. NEVER limp. NEVER floppy. Core always engaged. Every movement has muscle intention. She moves like a trained gymnast/dancer who happens to have superpowers — precise, casual, effortless. Minimal spinning. Body follows physics of each movement logically.
+ CRITICAL — PHYSICAL CONTACT WITH ENVIRONMENT. NON-NEGOTIABLE: She does NOT just fly through the air. She interacts with the city physically — feet push off walls, hands grab ledges, body grazes building surfaces. Every contact point: knees absorb impact, muscles engage, body reacts to the surface. This is parkour + web-swinging, not floating.
+ CRITICAL — BODY POSITIONS PER MOVEMENT TYPE:
+Web swing: arms extended forward gripping web, legs together trailing, core tight, back straight, chin up — clean rope-swing athlete position
+Wall push-off: both feet plant flat on wall, knees bend deep to absorb, then legs explode into full extension at launch, arms punch forward for momentum
+Running on wall: body leans 45 degrees toward wall, feet striking surface in running gait, arms pumping, hair and hoodie pulled sideways by momentum
+Free flight peak: arms naturally open to sides, body slightly arched back, relaxed — not posed, just physically released
+Street level run: full sprint, arms driving, head forward, teal pointe shoes striking pavement, body leaning into direction of travel
+ CRITICAL — REALISM. NON-NEGOTIABLE: Real Hollywood film. RED Monstro 8K, anamorphic lens. Real motion blur, real fabric physics, real atmospheric NYC haze. REAL.
+ CRITICAL — CAMERA. NON-NEGOTIABLE: ONE continuous drone-follow. ZERO cuts. ZERO teleporting. Tilts, banks, rolls physically. Wide enough to always show her AND environment. 
+
+15-second continuous drone-follow shot. DIRECT CONTINUATION — starts from black.
+0–1 sec: Black. Then — CLOSE-UP — white-gloved hand. Fingers open. Wrist snaps. Web shoots. Camera pulls back immediately.
+1–4 sec: Wide — residential NYC street. Brownstones, fire escapes, bodegas. She swings LOW — 3 meters above street. Body: arms extended gripping web, legs together trailing, core tight, back straight. At the bottom of the swing arc her feet skim the roof of a parked car — brief physical contact, feet bounce off lightly, she uses it to redirect. Camera banks 40 degrees.
+4–7 sec: She releases the web at peak — body opens, arms out, legs extend. Then instead of firing a new web immediately — she runs along the side of a brownstone wall. Feet strike the brick surface in a real running gait — body angled 45 degrees toward the wall, arms pumping, 4–5 quick steps along the vertical surface — then she pushes off hard with both feet, knees fully extending, and fires a new web mid-air toward a building across a wide intersection. Swing pulls her hard sideways — camera rolls 60 degrees.
+7–10 sec: She comes in LOW down a narrow street packed with yellow taxis. 2 meters off the ground, body streamlined — arms forward, legs trailing like an arrow. Web releases. Her feet hit the ground — full sprint, body leaning forward, arms driving — she runs 3–4 steps between taxis, using the momentum, feet striking the wet pavement. A taxi honks. She laughs. Then plants one foot on the side of a taxi cab, pushes off the car roof with a single explosive step, fires a web upward at a tall building, and rockets HIGH.
+"WOOHOO!"
+10–15 sec: WIDE SHOT — rooftop level, not too high. She hangs at the peak — arms slightly open, body naturally arched, completely still for one breathless moment. Golden hour sky — warm orange and pink light across the horizon. Massive dramatic clouds lit from below with gold. She is a small figure dead center against the enormous glowing sky. City rooftops, water towers, streets below. The frame holds. She begins to fall back down.
+[END]
+
+ CRITICAL — EMOTION AND SOUND. NON-NEGOTIABLE: She is fully alive in every frame. Not blank. Not neutral. Not AFK.
+Her face and body express genuine real-time emotion throughout:
+During the first swing — wide eyes, slight grin, pure focus
+When feet skim the car — quick surprised laugh, instinctive
+Running on the wall — jaw set, determined, intense concentration
+Low between taxis — teeth showing, adrenaline grin, leaning into it
+The taxi honk — she laughs out loud, head tips back slightly
+"WOOHOO!" — completely uncontrolled, mouth open, genuine scream of joy
+Final wide shot at peak — arms open, head back, eyes closed, face of pure freedom — not blank, not posed, just a person at the best moment of their life
+AUDIO: SFX ONLY. NO MUSIC. Wind rushing. Web snap and twang. Feet hitting car roof. Feet hitting pavement — real impact sounds. Taxi horn. Her genuine laugh. "WOOHOO!" echoing between buildings. Wind cutting as she rises. Then — silence at the peak.
+
+RED Monstro 8K, anamorphic, 165cm 47kg controlled athletic body throughout, physical contact with walls/cars/surfaces at every opportunity, detailed body mechanics per movement type — swing/run/push-off/sprint, NO ragdoll NO float, severe Dutch angle during swings, golden hour sunset sky warm orange pink, dramatic volumetric clouds, subject at rooftop level NOT high altitude, subject tiny in center of wide final frame, residential NYC brownstones, continuous single drone follow, no cuts, photorealistic
+```
+
+</details>
 
 <a id="seedance-office-stealth-game-escape-elevator"></a>
 ### 上班族潜行下班，潜行游戏视角
@@ -1521,6 +1594,293 @@ Use exactly 2 uploaded image assets.\nimage1 = 成年女主唯一且最高优先
 
 </details>
 
+<a id="seedance-rooftop-queen-downfall"></a>
+### 粉发女主角在天台与金发对手对峙
+
+<a href="https://x.com/Just_sharon7/status/2111459728216015154"><img src="../../previews/seedance-rooftop-queen-downfall.jpg" width="360"></a>
+
+用参考图槽位锁定女主角的人物身份，并把提示词写成每段约四秒的时间节拍，每个镜头都附带机位说明。明确排除霓虹、魔法阵和卡通物理等写法，让念力效果保持写实。
+
+Seedance 2.5 · 参考生视频 · 出处: [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2111459728216015154) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`telekinesis`](tags.md#tag-telekinesis) [`korean-drama`](tags.md#tag-korean-drama) [`revenge`](tags.md#tag-revenge)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+CINEMATIC VIDEO GENERATION PROMPT
+
+TITLE: THE ROOFTOP QUEEN'S DOWNFALL
+
+GENRE: Korean supernatural action drama | Psychological revenge | Telekinetic powers | High-intensity confrontation
+FORMAT: 30 seconds | 16:9 widescreen | 1080p | 24 FPS | Ultra-photorealistic live action
+VISUAL STYLE
+Premium Korean action cinema blended with the spectacular supernatural destruction of Hollywood blockbusters.
+
+Extremely realistic physical movements, intense confrontations, dramatic facial expressions, explosive invisible forces, believable gravity manipulation, violent environmental reactions, dynamic handheld camera movements, aggressive tracking shots, rapid whip pans, and breathtaking vertical cinematography.
+Realistic human skin texture, visible pores, natural facial imperfections, believable clothing physics, realistic hair movement, authentic shadows, and physically accurate object collisions.
+The heroine must appear completely human. No anime, cartoon physics, plastic skin, exaggerated CGI effects, magical circles, or superhero costumes.
+CHARACTER IDENTITY LOCK
+MAIN HEROINE — {{Image 1}}
+
+A striking 22-year-old Korean university student. Preserve her exact reference facial identity, hairstyle, skin tone, body proportions, and appearance throughout every shot.
+
+OUTFIT: Fitted black university blazer, crisp white collared shirt, black ribbon tie, short black pleated skirt, black knee-high socks, polished black loafers, and a delicate silver necklace with a small heart-shaped pendant.
+
+PERSONALITY: Quiet, mysterious, emotionally restrained, fearless, cold, sarcastic, and extraordinarily powerful.
+
+She secretly possesses devastating telekinetic abilities, capable of manipulating gravity, suspending human bodies in midair, controlling hundreds of objects simultaneously, and generating enormous invisible shockwaves.
+
+POWER ACTIVATION: Her irises develop a subtle electric-pink glow. The glow remains confined primarily to her eyes, producing delicate pink reflections along her eyelids. No laser beams, pink smoke, magical symbols, or exaggerated visual effects.
+
+She activates her powers through small, controlled finger movements, subtle head tilts, or simply by staring at her target.
+
+MAIN ANTAGONIST — THE ROOFTOP QUEEN
+
+A beautiful but arrogant 23-year-old wealthy Korean university student with long blonde hair, flawless fashionable makeup, an expensive cream-colored designer blazer, white blouse, short pleated skirt, luxury handbag, and high heels.
+
+She is cruel, entitled, theatrical, and convinced that everyone fears her.
+
+SECONDARY CHARACTERS
+
+Three fashionable university students who accompany the bully, laughing, recording the confrontation, and encouraging the humiliation.
+
+SETTING
+
+The rooftop of a prestigious modern Korean university during late afternoon.
+
+A large concrete rooftop surrounded by protective railings, ventilation systems, rooftop air-conditioning units, loose plastic chairs, scattered papers, metal buckets, empty flowerpots, maintenance equipment, and a small rooftop utility structure with a tall concrete wall.
+
+Beyond the rooftop, an expansive Seoul skyline stretches into the distance.
+
+Strong natural daylight, slightly overcast skies, realistic wind, and dramatic atmospheric depth.
+
+No neon lighting or nighttime environment.
+
+00:00–00:04 — THE PUBLIC HUMILIATION
+
+OPEN IMMEDIATELY with an aggressive handheld tracking shot.
+
+The wealthy blonde bully forcefully shoves the heroine backward against a concrete rooftop wall.
+
+Three students stand nearby, laughing and filming.
+
+The heroine remains silent, staring directly into the bully's eyes.
+
+The bully suddenly grabs the delicate silver necklace around the heroine's neck and tears it away.
+
+BULLY (mocking): "You really thought you belonged here?"
+
+The heroine looks at the necklace in the bully's hand.
+
+For the first time, her expression changes.
+
+Her jaw tightens.
+
+00:04–00:08 — THE UNFORGIVABLE MISTAKE
+
+The blonde bully walks toward the rooftop railing, dangling the necklace between two fingers.
+
+HEROINE (quietly): "Give it back."
+
+The bully laughs.
+
+BULLY: "Then go get it."
+
+She throws the necklace over the railing.
+
+CAMERA WHIP-PANS toward the falling necklace.
+
+EXTREME CLOSE-UP:
+
+The silver necklace tumbles through the air beyond the rooftop.
+
+Suddenly—
+
+IT STOPS.
+
+The necklace freezes completely in midair, suspended several feet outside the railing.
+
+The wind continues moving naturally around it.
+
+All laughter stops.
+
+00:08–00:12 — ELECTRIC-PINK AWAKENING
+
+SMASH CUT to an extreme close-up of the heroine's face.
+
+Her eyes slowly develop a subtle ELECTRIC-PINK GLOW.
+
+A deep, barely audible supernatural pressure begins building.
+
+Her hair moves backward in a sudden unnatural gust.
+
+Loose papers tremble.
+
+Metal buckets rattle.
+
+The rooftop chairs begin vibrating against the concrete.
+
+The heroine slowly lifts her chin.
+
+HEROINE (coldly): "You shouldn't have done that."
+
+The necklace begins floating back toward her.
+
+The bully takes a nervous step backward.
+
+00:12–00:17 — THE GRAVITY REVERSAL
+
+The blonde bully suddenly charges toward the heroine, attempting to strike her.
+
+WITHOUT MOVING—
+
+The heroine raises one finger.
+
+The bully instantly freezes in mid-stride.
+
+Her shoes slowly lift from the rooftop.
+
+She rises three feet above the ground, arms flailing as she struggles against an invisible force.
+
+Her long blonde hair and cream blazer move naturally in the wind.
+
+BULLY (terrified): "PUT ME DOWN!"
+
+The heroine tilts her head.
+
+HEROINE: "You wanted to be above everyone."
+
+The bully rises another few feet, remaining safely suspended above the rooftop.
+
+00:17–00:22 — THE ROOFTOP GRAVITY STORM
+
+The heroine spreads her fingers.
+
+A powerful invisible gravitational field expands across the rooftop.
+
+HUNDREDS OF LOOSE OBJECTS BEGIN LEVITATING.
+
+Metal buckets spin violently.
+
+Plastic chairs rise and rotate.
+
+Loose papers swirl through the air.
+
+Flowerpots hover above the concrete.
+
+Maintenance tools vibrate and float.
+
+Dust and small debris form a massive rotating vortex around the heroine.
+
+The three other students stumble backward in terror, grabbing the railing.
+
+The heroine stands completely motionless at the center.
+
+Her electric-pink eyes glow with terrifying calmness.
+
+CAMERA ORBITS RAPIDLY around her, revealing the floating objects and the suspended bully.
+
+00:22–00:27 — THE IMPOSSIBLE WALL WALK
+
+The heroine slowly turns toward the tall concrete utility wall.
+
+She takes one step forward.
+
+Then another.
+
+Without changing her body posture, she begins WALKING VERTICALLY UP THE WALL.
+
+Her shoes make realistic contact with the concrete as her personal gravity rotates ninety degrees.
+
+Her hair and clothing respond naturally to the altered gravitational field.
+
+The camera rotates with her movement, creating a breathtaking perspective shift.
+
+She walks several feet upward, now standing sideways relative to the rooftop.
+
+The blonde bully remains suspended safely in midair, staring at her in absolute terror.
+
+The heroine looks directly at her.
+
+HEROINE (calmly): "Now look down."
+
+The bully looks at the rooftop below and gasps.
+
+00:27–00:30 — THE QUEEN FALLS
+
+The heroine slowly closes her fist.
+
+Every floating object freezes in place.
+
+The bully descends rapidly but decelerates smoothly, landing safely on her knees on the rooftop.
+
+The necklace floats gently into the heroine's open palm.
+
+She steps down the vertical wall, returning to normal gravity.
+
+Her electric-pink eyes fade back to their natural color.
+
+She puts the necklace back around her neck.
+
+The bully remains kneeling, trembling.
+
+HEROINE (whispering): "Never touch what's mine."
+
+FINAL SHOT:
+
+Low-angle close-up of the heroine walking confidently past the camera.
+
+Behind her, every floating object drops simultaneously onto the rooftop with an enormous metallic crash.
+
+She doesn't look back.
+
+CUT TO BLACK.
+
+CINEMATOGRAPHY
+
+Aggressive handheld tracking during the confrontation.
+
+Extreme macro close-up of the necklace falling.
+
+Slow dramatic push-in during electric-pink eye activation.
+
+Sudden whip pans following telekinetic movements.
+
+Wide-angle shots revealing the rooftop gravity storm.
+
+Smooth rotating camera movement during the vertical wall walk.
+
+Low-angle hero framing during the final confrontation.
+
+Realistic motion blur, natural lighting, authentic skin textures, and physically convincing movement.
+
+SOUND DESIGN
+
+Natural rooftop wind, distant Seoul traffic, footsteps against concrete, realistic fabric movement, metallic rattling, frightened breathing, subtle supernatural pressure pulses, powerful bass impacts, and crashing rooftop equipment.
+Build tension through silence immediately before the heroine activates her powers.
+Korean dialogue with natural delivery and accurate lip synchronization.
+STRICT REQUIREMENTS
+Preserve the heroine's exact facial identity and outfit throughout.
+Her eyes must glow subtle electric pink only when activating telekinesis.
+The necklace must visibly stop falling in midair before returning to her.
+Telekinetic objects must respond with believable mass, momentum, and collisions.
+
+The bully must remain physically consistent and visibly frightened.
+
+The heroine must walk vertically along the concrete wall, not simply float beside it.
+
+The vertical wall walk must be shown clearly in a wide shot.
+
+No excessive glowing energy, lightning beams, magical symbols, or cartoon effects.
+
+The bully must remain safely above the rooftop and never fall over the edge.
+
+Maintain escalating tension, emotional intensity, supernatural dominance, and a spectacular final payoff.
+```
+
+</details>
+
 <a id="seedance-ruined-temple-warrior-swordsmen-battle"></a>
 ### 女武者在破败古寺大战剑客
 
@@ -1742,6 +2102,37 @@ Seedance 2.5 · 文生视频 · 出处: [@aiwithaly on X](https://x.com/aiwithal
 
 ```text
 A 30-second ultra-realistic Hollywood-style sci-fi action sequence set above a vast desert highway at golden hour. A futuristic silver flying sports car races through towering red-rock canyons, pursued by a heavily armored black police interceptor with glowing blue emergency lights and powerful jet thrusters. A fearless female police officer in a fitted black tactical uniform leaps from the interceptor onto the moving sports car, performing a breathtaking aerial rotation before landing hard on its roof. She uses a magnetic anchor to stabilize herself, breaks through the reinforced sunroof, and confronts a mysterious blond male driver inside the cockpit. He shouts, “You should've stayed on the ground!” She responds coldly, “Pull over. Now!” A violent aerial maneuver triggers an energy-core malfunction, sending the sports car spiraling toward the highway below. The vehicle crashes in a shower of sparks and erupts into a massive fireball. Through the smoke and glowing embers, the officer emerges with the subdued suspect in magnetic restraints. Dynamic FPV drone shots, sweeping camera movements, realistic vehicle physics, high-speed aerial choreography, detailed metallic reflections, authentic facial expressions, synchronized dialogue, dramatic explosions, volumetric golden-hour lighting, anamorphic lens flares, cinematic motion blur, HDR, 4K, rich teal-and-orange color grading, powerful orchestral soundtrack, realistic engine roars, and immersive action sound effects. Exactly 30 seconds, landscape 16:9, continuous high-energy action, strong opening hook, consistent character identity, realistic gravity, no black-screen opening, no subtitles, no on-screen text, no logos, no watermark.
+```
+
+</details>
+
+<a id="seedance-seoul-mall-revenge-comedy"></a>
+### 首尔购物中心里拿着冰咖啡的女子
+
+<a href="https://x.com/AIwithkhan/status/2111296614904336739"><img src="../../previews/seedance-seoul-mall-revenge-comedy.jpg" width="360"></a>
+
+提示词开头就写明手持镜头、反光地面、白色字幕和无背景音乐的要求，然后按顺序描述每个滑稽动作节拍。引号内的台词以及固定的服装和场景描述，让整段视频中的人物外观与场景保持一致。
+
+Seedance 2.5 · 文生视频 · 出处: [@AIwithkhan on X](https://x.com/AIwithkhan/status/2111296614904336739) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`revenge-comedy`](tags.md#tag-revenge-comedy) [`slapstick`](tags.md#tag-slapstick) [`handheld-camera`](tags.md#tag-handheld-camera) [`seoul`](tags.md#tag-seoul)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a live-action cinematic revenge-comedy video set inside a busy Seoul shopping mall. Use realistic handheld camera movement, bright mall lighting, reflective floors, dramatic reactions, and real-time action.
+
+A Korean woman in her 20s with a short black bob, sunglasses resting on her head, a fitted black crop top, high-waisted blue jeans, black boots, and a brown shoulder bag walks through the mall carrying an iced coffee and shopping bags. A cocky Korean man in his 20s wearing a dark bomber jacket deliberately bumps into her, knocks her coffee out of her hand, and laughs while her drink spills across the shiny floor.
+
+She stares at the mess, then looks at him and says, “You think that's funny?”
+
+He mocks her and tries to walk away. She quickly grabs the handle of his rolling shopping suitcase, spins him around, and sends him stumbling backward into a tower of empty shopping baskets. The baskets scatter everywhere as he lands awkwardly on the floor. He jumps up angrily, but she sidesteps his dramatic charge, causing him to slide across the polished floor and crash harmlessly into a pile of soft promotional cushions.
+
+Shoppers stop and stare. Someone laughs as the man struggles to get up, surrounded by scattered baskets and cushions. The woman calmly picks up her shoulder bag, looks down at him, and says, “Next time, pick someone your own size.”
+
+She grabs a fresh drink from a nearby café, gives the camera a confident smirk, and walks away while he remains embarrassed on the floor.
+
+Maintain identical faces, hairstyles, outfits, and location throughout. Include believable slapstick physics, expressive reactions, detailed coffee spilling across the floor, scattering baskets, cinematic close-ups, and shocked bystanders. Keep the action non-gory and comedic, with a clearly visible final humiliating landing. Natural mall ambience, footsteps, crowd reactions, and realistic dialogue. Clear white subtitles. No background music or narration.
 ```
 
 </details>
@@ -2777,6 +3168,205 @@ Never redesign faces. Never change costumes. Never replace the temple. Never int
 
 </details>
 
+<a id="seedance-tokyo-alley-black-rose-fight"></a>
+### 黑玫瑰在东京小巷击退三名袭击者
+
+<a href="https://x.com/ChillaiKalan__/status/2119662957512798561"><img src="../../previews/seedance-tokyo-alley-black-rose-fight.jpg" width="360"></a>
+
+提示词锁定参考人脸，并固定画面布局（左侧摊位、右侧袭击者），让每个镜头的空间关系在整段打斗中保持一致。全片只在踢击接触瞬间使用 0.25 秒慢动作，让动作清晰可读，而不是整段放慢。
+
+Seedance 2.5 · 参考生视频 · 出处: [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2119662957512798561) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`martial-arts`](tags.md#tag-martial-arts) [`tokyo`](tags.md#tag-tokyo) [`slow-motion`](tags.md#tag-slow-motion) [`fight-choreography`](tags.md#tag-fight-choreography)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+30 SECONDS | 9:16 | 4K | 60 FPS
+ULTRA-PHOTOREALISTIC JAPANESE ACTION CINEMA
+COMBAT SAMBO × DIRTY BOXING × SAVATE
+6 SHOTS / EXACTLY 5 CUTS
+ONE 0.25S MICRO SLOW-MOTION MOMENT
+
+01 — ABSOLUTE CHARACTER & ENEMY LOCK
+
+@Image 1 — BLACK ROSE:
+Preserve exact reference face, pale natural skin, messy black updo, black fitted clothing, black floral embroidered outerwear, necklaces and heeled lace-up boots. Cold, confident, rebellious attitude. No visual changes.
+
+VICTIM:
+Adult Japanese female street-food vendor, approximately 30, shoulder-length dark hair, cream blouse, dark-green apron.
+
+EXACTLY THREE ATTACKERS:
+
+A — Tall man in a black leather jacket.
+B — Broad-shouldered man in a dark-red bomber jacket.
+C — Lean man in a beige utility jacket.
+
+No additional attackers, duplicate people or replacement characters.
+
+02 — FIXED GEOGRAPHY & LOCATION
+
+Location: Narrow Tokyo night-market alley after rainfall.
+
+- SCREEN-LEFT: Small ramen stall with a wooden counter and hanging red lantern.
+- CENTER: Female vendor standing behind the counter.
+- SCREEN-RIGHT: Three attackers standing in the pedestrian alley.
+- BACKGROUND: Neon signs, closed storefronts, wet pavement and distant market lights.
+
+Keep the same camera axis and screen positions in every shot.
+
+03 — SIX-SHOT ACTION SEQUENCE
+
+SHOT 1 | 0–5S — THE STALL IS DESTROYED
+
+CAMERA: 35mm wide establishing tracking shot.
+
+A grabs the wooden counter and knocks several empty bowls onto the ground.
+
+The vendor steps backward, frightened.
+
+VICTIM:
+「やめてください！」
+Please stop!
+
+B kicks a small empty stool aside. C stands beside A, blocking the vendor's exit.
+
+At the far end of the alley, @Image 1 walks into view carrying a small black handbag.
+
+CUT 1 — ON THE SOUND OF A BOWL HITTING THE GROUND.
+
+SHOT 2 | 5–10S — BLACK ROSE ARRIVES
+
+CAMERA: 40mm low-angle forward tracking shot.
+
+@Image 1 stops beside the overturned stool.
+
+She looks at the vendor, then slowly turns toward A.
+
+BLACK ROSE:
+「店から離れな。」
+Get away from her stall.
+
+A laughs and steps toward her.
+
+A:
+「どけよ。」
+Move.
+
+He throws a committed right punch.
+
+@Image 1 slips outside his attack and redirects his arm with a sharp defensive movement, making him stumble toward SCREEN-RIGHT.
+
+CUT 2 — ON B STEPPING FORWARD.
+
+SHOT 3 | 10–15S — THE HEAVY ATTACK
+
+CAMERA: 35mm lateral tracking shot.
+
+B rushes forward with a powerful shoulder-led charge.
+
+@Image 1 sidesteps his momentum, delivers a compact body strike and follows with a controlled Savate push kick.
+
+B loses balance and falls onto the wet pavement away from the stall.
+
+B IS DOWN — remains down.
+
+C moves forward immediately.
+
+CUT 3 — ON C REACHING FOR HER WRIST.
+
+SHOT 4 | 15–20S — THE GRIP BREAK
+
+CAMERA: 50mm medium three-quarter shot.
+
+C grabs toward her wrist.
+
+@Image 1 rotates her arm free, steps to the outside and delivers a short elbow strike to his upper torso.
+
+C staggers backward and falls beside a closed storefront.
+
+C IS DOWN — remains down.
+
+A regains his footing and rushes forward.
+
+CUT 4 — ON A'S APPROACH.
+
+SHOT 5 | 20–25S — THE FINAL COUNTER
+
+CAMERA: 35mm low frontal action angle.
+
+A launches a desperate swinging punch.
+
+@Image 1 ducks, pivots on her supporting foot and delivers one explosive spinning back kick to his torso.
+
+ONE 0.25-SECOND MICRO SLOW-MOTION AT CONTACT.
+
+His jacket compresses and his upper body moves backward in the direction of the kick.
+
+INSTANT RETURN TO REAL-TIME.
+
+A falls onto the open wet pavement.
+
+A IS DOWN — remains down.
+
+CUT 5 — ON BLACK ROSE TURNING BACK TOWARD THE STALL.
+
+SHOT 6 | 25–30S — THE PROTECTOR
+
+CAMERA: 35mm slow reverse dolly.
+
+@Image 1 walks toward the vendor and gently picks up a fallen bowl from the ground.
+
+The vendor looks at her with relief.
+
+VICTIM:
+「本当にありがとうございます。」
+Thank you so much.
+
+BLACK ROSE places the bowl on the counter.
+
+BLACK ROSE:
+「もう大丈夫。」
+It's okay now.
+
+She turns and walks down the neon-lit alley.
+
+Exactly three attackers remain down in the background.
+
+04 — ABSOLUTE CONTINUITY RULES
+
+ENEMY LEDGER:
+A: Stumbles in Shot 2, falls in Shot 5.
+B: Falls in Shot 3.
+C: Falls in Shot 4.
+
+FINAL COUNT: EXACTLY THREE FALLEN ATTACKERS.
+
+POSITION LOCK:
+B lies in the center-right wet alley.
+C lies near the right-side closed storefront.
+A lies farther down the right-side pedestrian lane.
+
+The overturned stool and fallen bowls remain in their original positions unless physically picked up.
+
+CAMERA AXIS:
+Never cross the 180-degree axis. Maintain the stall on SCREEN-LEFT and attackers on SCREEN-RIGHT.
+
+CONTACT PHYSICS:
+Every strike shows contact, force transfer, recoil and correct fall direction. No teleportation, floating bodies or premature knockdowns.
+
+WORLD REACTIONS:
+Lanterns remain hanging, neon lighting stays consistent, and no additional people enter the foreground.
+
+AUDIO:
+Natural Japanese dialogue, rainwater dripping, ceramic bowls hitting pavement, footsteps, fabric movement and realistic non-graphic combat impacts. No background music.
+
+NEGATIVE:
+Extra attackers, cloned people, reversed geography, changing stall design, disappearing bowls, random weapons, blood, gore, excessive slow motion, distorted limbs, subtitles, text overlays, cartoon physics or abrupt cuts.
+```
+
+</details>
+
 <a id="seedance-toon-noir-rabbit-brawl"></a>
 ### 兔子打手在卡通小巷大战斗牛犬老大
 
@@ -2962,6 +3552,204 @@ Seedance 2.5 · 文生视频 · 出处: [@Zyrellix on X](https://x.com/Zyrellix/
 
 ```text
 A cinematic sci-fi action scene set on a skyscraper rooftop overlooking a glowing futuristic night city reminiscent of Times Square. A blonde woman wearing a black leather crop jacket, black turtleneck, high-waisted shorts, and tactical combat boots stands alongside a man in a long dark leather trench coat. Cool-toned night lighting mixed with vibrant blue and warm orange neon backlighting from surrounding digital billboards.The sequence begins with a low-angle tracking shot focusing on combat boots walking forward, panning up to a sharp close-up of the woman's face. The camera quickly transitions to an ultra-wide aerial shot looking down at the illuminated, crowded city streets below, then cuts to an extreme macro close-up of her eye reflecting a glowing temporal portal.Dynamic visual effects feature glowing holographic wrist interfaces, shimmering glass-like time distortions, and glowing white energy particles emanating from her outstretched palm as she projects a spherical forcefield. A giant fracture anomaly in the night sky glimmers overhead. Fast-paced camera movement, 35mm anamorphic lens framing, shallow depth of field, dramatic motion blur, dynamic action stances, ending with a blinding flash of white light that seals the portal, leaving the two heroes standing triumphantly on the ledge. Cinematic, hyper-realistic, 8k resolution, photorealistic film grain.
+```
+
+</details>
+
+<a id="seedance-underground-parking-enforcer"></a>
+### 黑玫瑰在停车场对峙三名袭击者
+
+<a href="https://x.com/ChillaiKalan__/status/2119303534537822246"><img src="../../previews/seedance-underground-parking-enforcer.jpg" width="360"></a>
+
+参考图锁定人物面部、服装以及每名袭击者的外套，左、中、右的固定站位和单一机位轴线让六个镜头保持连贯。接触瞬间只用一次0.25秒微慢动作，既突出冲击力，又不会过度慢放。
+
+Seedance 2.5 · 参考生视频 · 出处: [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2119303534537822246) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`martial-arts`](tags.md#tag-martial-arts) [`korean-action`](tags.md#tag-korean-action) [`multi-shot`](tags.md#tag-multi-shot) [`reference-image`](tags.md#tag-reference-image)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+THE UNDERGROUND PARKING ENFORCER
+
+30 SECONDS | 9:16 | 4K | 60 FPS
+ULTRA-PHOTOREALISTIC KOREAN ACTION CINEMA
+COMBAT SAMBO × DIRTY BOXING × SAVATE
+6 SHOTS / EXACTLY 5 CUTS
+ONE 0.25S MICRO SLOW-MOTION MOMENT
+
+01 — ABSOLUTE CHARACTER & ENEMY LOCK
+
+Image 1  — BLACK ROSE:
+Preserve the exact reference face, pale natural skin, messy black updo, black fitted clothing, black floral embroidered outerwear, necklaces and heeled lace-up boots. Cold, rebellious tomboy attitude, relaxed half-lidded eyes and restrained arrogant smirk. No face, hair, body or outfit changes.
+
+VICTIM:
+Adult Japanese female motorcycle courier, approximately 26, short dark-brown hair, black riding jacket, dark jeans and motorcycle helmet held in one hand.
+
+EXACTLY THREE ATTACKERS:
+
+A — Tall muscular man, black leather jacket, aggressive leader.
+B — Stocky man, gray bomber jacket, heavy punching style.
+C — Lean man, olive-green jacket, fast grappler.
+
+All three remain individually recognizable. No additional attackers, clones or replacement characters.
+
+02 — FIXED GEOGRAPHY & ENVIRONMENT
+
+Location: Spacious underground parking garage in Tokyo at night.
+
+- SCREEN-LEFT: Black motorcycle and parked black sedan.
+- CENTER: Female courier standing beside her motorcycle.
+- SCREEN-RIGHT: Three attackers confronting her.
+- BACKGROUND: Concrete pillars, overhead fluorescent lights, painted parking lines and a distant exit ramp.
+
+Maintain the same 180-degree camera axis. Never mirror or reverse the geography.
+
+03 — SIX-SHOT ACTION SEQUENCE
+
+SHOT 1 | 0–5S — THE CONFRONTATION
+
+CAMERA: 35mm medium-wide tracking shot from beside the black sedan.
+
+The courier holds her helmet close to her chest. A blocks her path while B and C stand behind him.
+
+VICTIM:
+「通してください。」
+Please let me pass.
+
+A steps closer and knocks her helmet from her hand. It rolls across the concrete.
+
+At SCREEN-LEFT, Image 1 closes the door of the black sedan and looks toward the confrontation.
+
+CUT 1 — ON BLACK ROSE TURNING HER HEAD.
+
+SHOT 2 | 5–10S — THE WARNING
+
+CAMERA: 40mm low three-quarter tracking shot.
+
+Image 1 walks toward the group with a relaxed posture.
+
+BLACK ROSE:
+「三人で一人を囲むの？」
+Three against one?
+
+A turns toward her with an arrogant smile.
+
+A:
+「お前には関係ない。」
+None of your business.
+
+A moves toward her with an aggressive right-hand swing.
+
+BLACK ROSE slips outside his punch, redirects his arm and drives a compact body strike into his torso.
+
+A folds forward and stumbles toward SCREEN-RIGHT.
+
+CUT 2 — ON B CHARGING.
+
+SHOT 3 | 10–15S — THE BOXER
+
+CAMERA: 35mm lateral action tracking.
+
+B launches a committed left hook.
+
+Image 1 ducks underneath, pivots and delivers a sharp knee strike to his midsection, followed by a controlled shove that sends him stumbling backward.
+
+B loses his balance and falls onto the clear concrete.
+
+B IS DOWN — remains down.
+
+C circles toward her from SCREEN-RIGHT.
+
+CUT 3 — ON C REACHING FOR HER SHOULDERS.
+
+SHOT 4 | 15–20S — THE GRAPPLER
+
+CAMERA: 50mm medium close tracking shot.
+
+C attempts a two-handed grab.
+
+Image 1 pivots outside his arms, breaks his grip and uses a shoulder-control rotation to redirect his momentum.
+
+C stumbles into a concrete pillar, rebounds and falls onto the floor.
+
+C IS DOWN — remains down.
+
+A struggles back to his feet in the background.
+
+CUT 4 — ON A'S SECOND ATTACK.
+
+SHOT 5 | 20–25S — THE FINAL COUNTER
+
+CAMERA: 35mm low three-quarter frontal angle.
+
+A rushes toward @Image 1 with a desperate straight punch.
+
+She parries his arm outward, pivots and delivers one explosive spinning back kick into his torso.
+
+ONE 0.25-SECOND MICRO SLOW-MOTION AT CONTACT.
+
+Her boot compresses his jacket. His body moves backward in the direction of the kick.
+
+INSTANT RETURN TO REAL-TIME.
+
+A loses balance and falls onto the open concrete.
+
+A IS DOWN — remains down.
+
+CUT 5 — FOLLOW BLACK ROSE'S TURN TOWARD THE COURIER.
+
+SHOT 6 | 25–30S — THE QUIET ENDING
+
+CAMERA: 35mm slow reverse dolly.
+
+Image 1 adjusts her embroidered outerwear and calmly looks toward the courier.
+
+The courier retrieves her helmet and looks at BLACK ROSE with relief.
+
+VICTIM:
+「助けてくれて、ありがとう。」
+Thank you for helping me.
+
+BLACK ROSE gives a small sideways glance and replies:
+
+「気をつけて。」
+Be careful.
+
+She turns and walks toward the black sedan.
+
+Exactly three attackers remain down in their established positions.
+
+04 — ABSOLUTE CONTINUITY RULES
+
+ENEMY LEDGER:
+A: Stumbles in Shot 2, falls in Shot 5.
+B: Falls in Shot 3.
+C: Falls in Shot 4.
+
+FINAL COUNT: EXACTLY THREE ATTACKERS. All three remain down in Shot 6.
+
+POSITION LOCK:
+B lies near the center-right parking line.
+C lies beside the right-side concrete pillar.
+A lies farther toward the right-side exit lane.
+
+No teleportation, duplicate bodies, disappearing attackers or rearranged positions.
+
+CAMERA AXIS:
+Maintain screen-left / center / screen-right geography throughout. Camera never crosses the 180-degree axis.
+
+CONTACT PHYSICS:
+Every strike requires visible contact, force transfer, realistic recoil and directionally correct balance loss. No floating bodies, instant collapses or impossible movement.
+
+WORLD REACTIONS:
+The victim steps away from the fight and stays safe. The fallen helmet remains on the floor until she retrieves it. Background remains stable.
+
+AUDIO:
+Natural Japanese dialogue, underground ventilation, footsteps, helmet rolling, clothing movement and realistic non-graphic fight impacts. No music.
+
+NEGATIVE:
+Extra attackers, cloned characters, incorrect eyelines, reversed geography, disappearing objects, distorted anatomy, excessive slow motion, blood, gore, weapons, subtitles, text overlays, cartoon physics, abrupt cut
 ```
 
 </details>

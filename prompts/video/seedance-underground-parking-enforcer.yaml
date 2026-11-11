@@ -1,0 +1,204 @@
+id: seedance-underground-parking-enforcer
+title:
+  en: Black Rose confronts three attackers in parking garage
+  zh: 黑玫瑰在停车场对峙三名袭击者
+model: Seedance 2.5
+mode: reference-to-video
+category: action
+tags:
+- martial-arts
+- korean-action
+- multi-shot
+- reference-image
+source:
+  name: '@ChillaiKalan__ on X'
+  url: https://x.com/ChillaiKalan__/status/2119303534537822246
+  credit: ChillaiKalan__
+  captured: '2026-11-11'
+  posted: '2026-11-08'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/ChillaiKalan__/status/2119303534537822246
+notes:
+  en: A reference image locks the face, outfit and each attacker's jacket, and fixed screen left, centre and right positions with a single camera axis keep the six shots continuous. One 0.25 second micro slow motion at contact gives the impact weight without tipping into excess slow motion.
+  zh: 参考图锁定人物面部、服装以及每名袭击者的外套，左、中、右的固定站位和单一机位轴线让六个镜头保持连贯。接触瞬间只用一次0.25秒微慢动作，既突出冲击力，又不会过度慢放。
+prompt: |
+  THE UNDERGROUND PARKING ENFORCER
+
+  30 SECONDS | 9:16 | 4K | 60 FPS
+  ULTRA-PHOTOREALISTIC KOREAN ACTION CINEMA
+  COMBAT SAMBO × DIRTY BOXING × SAVATE
+  6 SHOTS / EXACTLY 5 CUTS
+  ONE 0.25S MICRO SLOW-MOTION MOMENT
+
+  01 — ABSOLUTE CHARACTER & ENEMY LOCK
+
+  Image 1  — BLACK ROSE:
+  Preserve the exact reference face, pale natural skin, messy black updo, black fitted clothing, black floral embroidered outerwear, necklaces and heeled lace-up boots. Cold, rebellious tomboy attitude, relaxed half-lidded eyes and restrained arrogant smirk. No face, hair, body or outfit changes.
+
+  VICTIM:
+  Adult Japanese female motorcycle courier, approximately 26, short dark-brown hair, black riding jacket, dark jeans and motorcycle helmet held in one hand.
+
+  EXACTLY THREE ATTACKERS:
+
+  A — Tall muscular man, black leather jacket, aggressive leader.
+  B — Stocky man, gray bomber jacket, heavy punching style.
+  C — Lean man, olive-green jacket, fast grappler.
+
+  All three remain individually recognizable. No additional attackers, clones or replacement characters.
+
+  02 — FIXED GEOGRAPHY & ENVIRONMENT
+
+  Location: Spacious underground parking garage in Tokyo at night.
+
+  - SCREEN-LEFT: Black motorcycle and parked black sedan.
+  - CENTER: Female courier standing beside her motorcycle.
+  - SCREEN-RIGHT: Three attackers confronting her.
+  - BACKGROUND: Concrete pillars, overhead fluorescent lights, painted parking lines and a distant exit ramp.
+
+  Maintain the same 180-degree camera axis. Never mirror or reverse the geography.
+
+  03 — SIX-SHOT ACTION SEQUENCE
+
+  SHOT 1 | 0–5S — THE CONFRONTATION
+
+  CAMERA: 35mm medium-wide tracking shot from beside the black sedan.
+
+  The courier holds her helmet close to her chest. A blocks her path while B and C stand behind him.
+
+  VICTIM:
+  「通してください。」
+  Please let me pass.
+
+  A steps closer and knocks her helmet from her hand. It rolls across the concrete.
+
+  At SCREEN-LEFT, Image 1 closes the door of the black sedan and looks toward the confrontation.
+
+  CUT 1 — ON BLACK ROSE TURNING HER HEAD.
+
+  SHOT 2 | 5–10S — THE WARNING
+
+  CAMERA: 40mm low three-quarter tracking shot.
+
+  Image 1 walks toward the group with a relaxed posture.
+
+  BLACK ROSE:
+  「三人で一人を囲むの？」
+  Three against one?
+
+  A turns toward her with an arrogant smile.
+
+  A:
+  「お前には関係ない。」
+  None of your business.
+
+  A moves toward her with an aggressive right-hand swing.
+
+  BLACK ROSE slips outside his punch, redirects his arm and drives a compact body strike into his torso.
+
+  A folds forward and stumbles toward SCREEN-RIGHT.
+
+  CUT 2 — ON B CHARGING.
+
+  SHOT 3 | 10–15S — THE BOXER
+
+  CAMERA: 35mm lateral action tracking.
+
+  B launches a committed left hook.
+
+  Image 1 ducks underneath, pivots and delivers a sharp knee strike to his midsection, followed by a controlled shove that sends him stumbling backward.
+
+  B loses his balance and falls onto the clear concrete.
+
+  B IS DOWN — remains down.
+
+  C circles toward her from SCREEN-RIGHT.
+
+  CUT 3 — ON C REACHING FOR HER SHOULDERS.
+
+  SHOT 4 | 15–20S — THE GRAPPLER
+
+  CAMERA: 50mm medium close tracking shot.
+
+  C attempts a two-handed grab.
+
+  Image 1 pivots outside his arms, breaks his grip and uses a shoulder-control rotation to redirect his momentum.
+
+  C stumbles into a concrete pillar, rebounds and falls onto the floor.
+
+  C IS DOWN — remains down.
+
+  A struggles back to his feet in the background.
+
+  CUT 4 — ON A'S SECOND ATTACK.
+
+  SHOT 5 | 20–25S — THE FINAL COUNTER
+
+  CAMERA: 35mm low three-quarter frontal angle.
+
+  A rushes toward @Image 1 with a desperate straight punch.
+
+  She parries his arm outward, pivots and delivers one explosive spinning back kick into his torso.
+
+  ONE 0.25-SECOND MICRO SLOW-MOTION AT CONTACT.
+
+  Her boot compresses his jacket. His body moves backward in the direction of the kick.
+
+  INSTANT RETURN TO REAL-TIME.
+
+  A loses balance and falls onto the open concrete.
+
+  A IS DOWN — remains down.
+
+  CUT 5 — FOLLOW BLACK ROSE'S TURN TOWARD THE COURIER.
+
+  SHOT 6 | 25–30S — THE QUIET ENDING
+
+  CAMERA: 35mm slow reverse dolly.
+
+  Image 1 adjusts her embroidered outerwear and calmly looks toward the courier.
+
+  The courier retrieves her helmet and looks at BLACK ROSE with relief.
+
+  VICTIM:
+  「助けてくれて、ありがとう。」
+  Thank you for helping me.
+
+  BLACK ROSE gives a small sideways glance and replies:
+
+  「気をつけて。」
+  Be careful.
+
+  She turns and walks toward the black sedan.
+
+  Exactly three attackers remain down in their established positions.
+
+  04 — ABSOLUTE CONTINUITY RULES
+
+  ENEMY LEDGER:
+  A: Stumbles in Shot 2, falls in Shot 5.
+  B: Falls in Shot 3.
+  C: Falls in Shot 4.
+
+  FINAL COUNT: EXACTLY THREE ATTACKERS. All three remain down in Shot 6.
+
+  POSITION LOCK:
+  B lies near the center-right parking line.
+  C lies beside the right-side concrete pillar.
+  A lies farther toward the right-side exit lane.
+
+  No teleportation, duplicate bodies, disappearing attackers or rearranged positions.
+
+  CAMERA AXIS:
+  Maintain screen-left / center / screen-right geography throughout. Camera never crosses the 180-degree axis.
+
+  CONTACT PHYSICS:
+  Every strike requires visible contact, force transfer, realistic recoil and directionally correct balance loss. No floating bodies, instant collapses or impossible movement.
+
+  WORLD REACTIONS:
+  The victim steps away from the fight and stays safe. The fallen helmet remains on the floor until she retrieves it. Background remains stable.
+
+  AUDIO:
+  Natural Japanese dialogue, underground ventilation, footsteps, helmet rolling, clothing movement and realistic non-graphic fight impacts. No music.
+
+  NEGATIVE:
+  Extra attackers, cloned characters, incorrect eyelines, reversed geography, disappearing objects, distorted anatomy, excessive slow motion, blood, gore, weapons, subtitles, text overlays, cartoon physics, abrupt cut

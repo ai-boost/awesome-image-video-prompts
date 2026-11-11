@@ -1,6 +1,6 @@
 # Portraits
 
-[Back to the list](../../README.md) · All 280 entries · **1** · [2](image-portrait-2.md) · [3](image-portrait-3.md)
+[Back to the list](../../README.md) · All 287 entries · **1** · [2](image-portrait-2.md) · [3](image-portrait-3.md)
 
 <a id="chatgpt-bw-editorial-portrait-hand-on-chin"></a>
 ### Black and white portrait, man with hand on chin
@@ -1648,6 +1648,53 @@ Camera Angle.Walk-behind shot.
 
 </details>
 
+<a id="gpt-image-seated-woman-concrete-stairs-pantyhose"></a>
+### Seated woman on concrete stairs in pantyhose
+
+<a href="https://x.com/AIjee_tpe/status/2117914893760524335"><img src="../../previews/gpt-image-seated-woman-concrete-stairs-pantyhose.jpg" width="360"></a>
+
+The prompt is split into labelled sections for subject, scene, lighting, composition and quality, so each part of the scene is controlled separately. Naming a low camera angle from the bottom of the stairs and placing the bare foot and heels in the foreground fixes the perspective and the framing.
+
+GPT Image 2.5 · Text-to-image · Source: [@AIjee_tpe on X](https://x.com/AIjee_tpe/status/2117914893760524335) · 260 likes on 2026-11-11
+
+[`portrait`](tags.md#tag-portrait) [`fashion`](tags.md#tag-fashion) [`low-angle`](tags.md#tag-low-angle) [`photorealistic`](tags.md#tag-photorealistic)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+##  (Subject Description)
+
+A photorealistic full-body fashion portrait of an adult East Asian woman with fair, smooth skin, naturally full breasts,S-shaped female figure,  long legs, and delicate facial features. She has long, straight, naturally voluminous black hair cascading loosely over her shoulders, with a subtle side part. Her makeup is elegant and understated, featuring softly defined eyes, delicate eyeliner, natural blush, and muted rose-pink lips. She gazes directly at the camera with a calm, composed, slightly alluring expression.
+
+She wears a fitted, long-sleeved chocolate-brown turtleneck top with a smooth, close-fitting silhouette, paired with a short black leather mini skirt featuring a subtle glossy finish. She wears sheer, translucent, grayish-black pantyhose with a smooth, slightly reflective texture. Her footwear has been removed, and she is barefoot, with a pair of dark chocolate-brown glossy patent-leather pointed-toe high heels placed neatly on the staircase beside her.
+
+She sits naturally on a concrete stair, leaning her upper back and shoulder lightly against the adjacent wall. Her hands rest gently together near her lap. Her legs are elegantly crossed: one leg extends forward toward the camera, with the sole of her bare foot prominently visible in the foreground, while the other leg descends naturally toward the lower stair, its bare foot resting on the step. Her posture creates a graceful diagonal line through the composition.
+
+She possesses the best head-to-body ratio, naturally full breasts,a perfect, curvaceous, S-shaped female figure,Hourglass figure,long legs with perfect leg lines, and a slender waist, perfect foots,perfect foot lines
+
+##  (Scene / Background)
+
+A minimalist indoor concrete staircase in a modern industrial-style building. The staircase features pale gray, unfinished concrete steps, lightly textured off-white walls, and a brushed stainless-steel railing with clean geometric lines on the right side. A small rectangular wall-mounted light is visible near the lower left wall. A small caution sign is mounted on the wall behind the subject. A few cardboard boxes are partially visible near the lower right staircase area. The architectural environment is simple, understated, and uncluttered.
+
+##  (Lighting / Atmosphere)
+
+Soft, diffused indoor lighting with gentle overhead illumination and subtle ambient reflections. Neutral warm-white tones illuminate the woman's face and outfit, while delicate highlights emphasize the silky texture of her pantyhose, the glossy leather skirt, and the patent-leather shoes. Soft natural shadows add depth to the concrete staircase without creating harsh contrast. The overall atmosphere is quiet, sophisticated, intimate, and editorial.
+
+##  (Composition / Camera Angle)
+
+Vertical portrait orientation, full-body composition, photographed from a low camera angle near the bottom of the staircase, looking slightly upward toward the seated subject. The woman is positioned near the center of the frame, with her crossed legs extending diagonally toward the foreground. The forward-projecting bare foot appears prominently due to natural wide-angle perspective, creating a pronounced sense of depth. The pair of glossy brown high heels is clearly visible in the lower-left foreground. Preserve the complete seated pose, both legs, and surrounding staircase architecture. Maintain realistic body proportions and natural anatomical details.
+
+##  (Style Reference)
+
+High-end photorealistic fashion editorial photography, contemporary minimalist fashion aesthetic, realistic East Asian beauty portraiture, natural skin texture, refined styling, subtle cinematic perspective, authentic architectural details, realistic fabric and leather materials, sophisticated neutral color grading. Avoid excessive retouching, artificial skin smoothing, exaggerated anatomy, or overly stylized effects.
+
+##  (Image Quality Parameters)
+
+Ultra-high resolution, 8K-quality rendering, highly detailed facial features, realistic skin texture, anatomically accurate hands and feet, natural leg proportions, finely rendered sheer hosiery, detailed leather reflections, sharp subject focus, balanced exposure, realistic depth of field, professional fashion photography,No cropped limbs or truncated feet.
+```
+
+</details>
+
 <a id="nano-banana-amber-lingerie-hotel-suite-portrait"></a>
 ### Kneeling woman in amber lingerie on white rug
 
@@ -2061,6 +2108,31 @@ Nano Banana Pro · Edit · Source: [@saniaspeaks_ on X](https://x.com/saniaspeak
     }
   }
 }
+```
+
+</details>
+
+<a id="seedream-5-5-woman-dried-flowers-soviet-bus"></a>
+### Woman with dried flowers beside a Soviet bus
+
+<a href="https://x.com/ZaraIrahh/status/2120161811571912709"><img src="../../previews/seedream-5-5-woman-dried-flowers-soviet-bus.jpg" width="360"></a>
+
+The prompt builds the scene in a fixed order: a named vehicle and setting, then a clothing list, then framing rules (knees up, off center, eye level) and a lighting setup. The 50mm lens, film grain and a negative prompt keep the result close to candid film street photography rather than a glossy modern shoot.
+
+Seedream 5.5 · Text-to-image · Source: [@ZaraIrahh on X](https://x.com/ZaraIrahh/status/2120161811571912709) · 217 likes on 2026-11-11
+
+[`portrait`](tags.md#tag-portrait) [`winter`](tags.md#tag-winter) [`fashion-editorial`](tags.md#tag-fashion-editorial)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Photorealistic fashion editorial with the atmosphere of a winter morning in the early 1990s, in a Soviet-era residential neighborhood. A beautiful adult brunette woman with delicate facial features stands beside the open folding doors of an aged cream-and-red Soviet LiAZ-677 city bus. She holds a small bouquet of dried wildflowers wrapped in vintage brown kraft paper, gently gripping it with both hands in front of her thighs.
+
+She wears an oversized charcoal wool coat, a soft ivory knitted scarf, a dark burgundy ribbed sweater, straight dark trousers and black leather winter boots. Loose dark brown hair falls naturally around her face, a few strands lifted by the freezing wind. Flushed cheeks, minimal makeup, thoughtful expression, looking slightly past the camera, shoulders gently raised against the cold.
+
+Snow-covered pavement, compacted gray snow beside the bus wheels, frosted windows with condensation, faded red paint, weathered metal. Blurred Soviet apartment blocks and a modest bus shelter in the distance. Fine snowflakes in the air, visible breath. The delicate dried flowers add a subtle warm color accent against the muted winter surroundings.
+
+Three-quarter portrait framed from the knees up, eye-level camera, woman placed off-center, the bus filling one side of the composition. Cold overcast daylight with direct on-camera flash, crisp face, deep background, subtle analog film grain, restrained colors, candid 1990s street photography combined with luxury fashion editorial. Real skin texture, tactile wool, believable hands and bouquet construction, shot on a 50mm lens --ar 3:4 --style raw --s 150 --no modern cars smartphones logos text watermark
 ```
 
 </details>
@@ -2542,6 +2614,25 @@ Transform this couple photo into an authentic 1980s studio portrait while preser
 
 </details>
 
+<a id="gpt-image-polaroid-peony-bouquet-doorway"></a>
+### Woman with pink peony bouquet in doorway
+
+<a href="https://x.com/MissDelulu9/status/2119338630808494256"><img src="../../previews/gpt-image-polaroid-peony-bouquet-doorway.jpg" width="360"></a>
+
+Named analog cues such as direct flash, organic grain, faded warm colors and slight exposure error do the vintage work better than a generic retro filter. An explicit edge to edge 9:16 frame with a ban on borders and text keeps the output clean enough to post.
+
+GPT Image 2.5 · Text-to-image · Source: [@MissDelulu9 on X](https://x.com/MissDelulu9/status/2119338630808494256) · 191 likes on 2026-11-11
+
+[`polaroid`](tags.md#tag-polaroid) [`portrait`](tags.md#tag-portrait) [`film-look`](tags.md#tag-film-look) [`flowers`](tags.md#tag-flowers)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A full-length vintage Polaroid-style photograph of an adult woman in her twenties standing beside an open wooden doorway, softly smiling while holding a huge bouquet of fully bloomed pink peonies wrapped in brown kraft paper. She wears an oversized white men's shirt, with long, naturally voluminous hair and minimal rosy nude makeup. Cozy home interior with warm wooden panels and neutral walls. Direct on-camera flash, soft shadows, slightly imperfect exposure, gentle highlights, organic film grain, faded warm colors, and authentic analog texture. Romantic, candid 90s Polaroid aesthetic, photorealistic, natural skin and hands, full-bleed vertical 9:16 composition, absolutely no white border, frame, text, or watermark.
+```
+
+</details>
+
 <a id="gpt-image-tokyo-night-flash-candid-snapshot"></a>
 ### Candid flash snapshot on a rainy Tokyo street
 
@@ -2820,6 +2911,26 @@ Nano Banana 2.1 · Edit · Source: [@rovvmut_ on X](https://x.com/rovvmut_/statu
 
 ```text
 A hyper-realistic, 8K resolution cinematic close-up portrait of the person in the uploaded image. The image features dramatic chiaroscuro lighting, heavily illuminating the left side of his face while casting deep, moody shadows on the right against a solid black background. He has an intense, direct gaze, dark brown eyes with square catchlights, and textured, wet-styled hair. He is wearing a plain black t-shirt. Render with 35mm film grain and a shallow depth of field, prioritizing extreme character consistency and highly detailed skin texture, including visible pores.
+```
+
+</details>
+
+<a id="nano-banana-good-vibes-wink-peace-sign"></a>
+### Woman winking with peace sign in orange tee
+
+<a href="https://x.com/TaliaAariz/status/2109516297809604744"><img src="../../previews/nano-banana-good-vibes-wink-peace-sign.jpg" width="360"></a>
+
+The prompt anchors the subject to the uploaded reference with an explicit identity instruction, then lists wardrobe, accessories and hand placement in separate clauses so each detail is easy to follow. Facial actions such as the wink, tongue and peace sign are described individually, which keeps the gesture count accurate.
+
+Nano Banana 2.1 · Edit · Source: [@TaliaAariz on X](https://x.com/TaliaAariz/status/2109516297809604744) · 168 likes on 2026-11-11
+
+[`street-fashion`](tags.md#tag-street-fashion) [`portrait`](tags.md#tag-portrait) [`summer`](tags.md#tag-summer)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Hyper-realistic IMAX-level Netflix-style cinematic sunny street-fashion portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing an oversized bright-orange “Good Vibes” T-shirt, loosely draped off her left shoulder to reveal a white lace-trim camisole strap, knotted at the waist into a cropped fit, paired with distressed light-blue denim shorts featuring frayed hems and ripped patches, an orange paisley bandana tied at the hip, layered black and orange bracelets, small earrings and a delicate pendant necklace. She stands facing the camera with her torso slightly angled, her right hand raised beside her shoulder making a peace sign, while her left hand rests inside her shorts pocket. Her head tilts slightly to one side, one eye playfully closed in a wink, the other looking directly at the camera, with raised cheeks, a broad toothy smile and her tongue peeking out between her teeth. Her blonde hair has dark roots and is styled in two thick, loose front braids secured with orange flower-shaped ties, with voluminous tousled crown layers and wispy flyaways framing her face. Fair luminous porcelain skin with a bright ivory to light beige tone, a neutral-cool undertone and natural texture, warmed by direct sunlight. The background features a textured cream wall with handwritten “Good Vibes Only” lettering, a weathered blue metal door, rustic wooden signs and a skateboard leaning near leafy greenery. Bright directional afternoon sunlight creates crisp highlights on her hair and shoulders, defined natural shadows and a lively summer atmosphere. Apply vibrant warm colour grading with saturated orange accents, sunlit golden highlights, balanced denim blues, creamy neutrals, rich but natural skin tones and a subtle filmic contrast for a polished, cheerful editorial look.
+Negative prompt: altered identity, incorrect wink, malformed peace sign, extra fingers, distorted hands, unnatural anatomy, plastic skin, illegible text, watermark.
 ```
 
 </details>
@@ -4655,179 +4766,6 @@ Lighting: professional three-point studio lighting — softbox key light 45° ca
 Camera: Sony A7R V, 85mm portrait lens, f/2.2, ISO 100, 1/160s, WB 5600K, shallow depth of field, focus on eyes.
 Realism: natural skin pores, hair strands, subtle fabric wrinkles, realistic shadows, lens compression, reflections in sunglasses.
 Output: ultra-realistic GQ/Vogue-style editorial photography, sharp detail, 4K resolution, clean 2×2 grid layout.
-```
-
-</details>
-
-<a id="gpt-image-damp-hair-beauty-portrait"></a>
-### Close up beauty portrait with damp hair
-
-<a href="https://x.com/mehvishs25/status/2082648912981328244"><img src="../../previews/gpt-image-damp-hair-beauty-portrait.jpg" width="360"></a>
-
-Pinning the face to an uploaded reference, then listing each feature as a checklist, keeps identity stable through the edit. The 85mm lens spec and eyes placed near the upper third set a tight editorial crop.
-
-GPT Image 2 · Edit · Source: [@mehvishs25 on X](https://x.com/mehvishs25/status/2082648912981328244) · 112 likes on 2026-10-29
-
-[`beauty`](tags.md#tag-beauty) [`portrait`](tags.md#tag-portrait) [`reference-image`](tags.md#tag-reference-image) [`golden-hour`](tags.md#tag-golden-hour)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Ultra-photorealistic RAW beauty portrait using the uploaded reference image to preserve the subject's exact facial identity, proportions, and defining facial features. The woman in the final image must closely match the reference while appearing naturally more polished and editorial, without altering her recognizable face.
-
-An extraordinary young woman with captivating soft emerald-green eyes featuring subtle golden sunburst details around the irises and crystal-clear natural catchlights. She looks directly into the camera with a calm, confident expression and a faint, elegant smile, creating an intimate luxury beauty campaign aesthetic.
-
-Her porcelain-fair skin glows with healthy natural radiance, displaying authentic pores, delicate freckles across the bridge of the nose and cheeks, gentle peach undertones, and realistic skin texture without excessive smoothing. Naturally full dark eyebrows, long separated lashes, a refined straight nose, softly sculpted cheekbones, and hydrated satin rose lips complete her timeless beauty.
-
-Her silky jet-black hair is slightly damp, with glossy strands framing her face naturally. Soft curtain bangs and loose textured wisps fall across one side of her forehead, creating effortless movement and cinematic elegance. Tiny highlights shimmer along the damp hair, enhancing realism.
-
-Golden-hour sunlight filters through sheer curtains, wrapping her face in warm, diffused light while casting delicate organic shadow patterns across her skin. The lighting creates luminous highlights, rich dimensional contrast, and sparkling reflections inside her eyes without appearing overly dramatic.
-
-The background fades into a luxurious creamy bokeh of warm ivory, champagne, and soft beige tones, keeping complete attention on her face. The composition is slightly asymmetrical for a modern editorial feel, with the eyes positioned near the upper third of the frame for a more striking visual impact.
-
-Luxury skincare campaign, Vogue Italia beauty editorial, high-fashion cosmetic advertisement, quiet luxury aesthetic, old-money elegance, cinematic realism, premium natural beauty, ultra-detailed DSLR photography, 85mm portrait lens, f/1.2 aperture, ultra-shallow depth of field, razor-sharp focus on the eyes, HDR lighting, realistic micro skin detail, global illumination, premium cinematic color grading, hyper-realistic, 8K, award-winning beauty photography, sophisticated editorial masterpiece, visually unforgettable, trending luxury beauty campaign.
-```
-
-</details>
-
-<a id="gpt-image-convenience-store-flash-found-photo"></a>
-### Found photo flash portrait in a night convenience store
-
-<a href="https://x.com/Ciri_ai/status/2101253843870707722"><img src="../../previews/gpt-image-convenience-store-flash-found-photo.jpg" width="360"></a>
-
-Stacks a magazine editorial sensibility with a specific consumer compact camera spec (30mm, ISO 640, f/3.2) and direct flash, then adds deliberate flaws like clipped highlights, odd white balance and accidental cropping. A long negative list rules out studio gloss, HDR and plastic skin so it reads as a found photograph.
-
-GPT Image 2.5 · Text-to-image · Source: [@Ciri_ai on X](https://x.com/Ciri_ai/status/2101253843870707722) · 111 likes on 2026-10-29
-
-[`found-photo`](tags.md#tag-found-photo) [`direct-flash`](tags.md#tag-direct-flash) [`y2k-compact`](tags.md#tag-y2k-compact) [`convenience-store`](tags.md#tag-convenience-store) [`fashion-editorial`](tags.md#tag-fashion-editorial)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-GINZA Magazine-inspired Japanese lifestyle fashion editorial × early-2000s Y2K consumer compact digital camera × Korean female idol × raw documentary-fashion hybrid × found photograph aesthetic.
-
-The image must feel like a real photograph discovered inside an old digital camera rather than a deliberately retro-styled AI image.
-
-Japanese urban lifestyle sensibility, understated fashion intelligence, quiet observational storytelling, mundane everyday environment transformed into subtle fashion imagery.
-
-A beautiful young adult Korean female idol standing inside a small Japanese convenience store late at night, casually holding a bottled milk drink while looking directly into the camera.
-
-She wears a faded navy oversized zip hoodie over a white fitted ribbed tank top, low-rise charcoal mini skirt, worn sneakers, tiny silver shoulder bag and thin silver necklace.
-
-Long platinum-blonde hair, slightly messy straight bangs, loose strands around her face.
-
-Soft Korean-Japanese makeup, natural flushed cheeks, subtle taupe eyeshadow, soft pink lips, realistic visible pores.
-
-She stands between narrow convenience-store aisles, refrigerators glowing behind her, shelves of snacks and drinks creating visual clutter.
-
-Photographed extremely close with a late-2000s consumer compact digital camera, 30mm equivalent, ISO 640, f/3.2.
-
-DIRECT ON-CAMERA FLASH, slightly harsh frontal flash, realistic specular highlights on skin and packaging, warm fluorescent ambient light mixing with cooler refrigerator illumination.
-
-Slightly imperfect white balance, clipped highlights on reflective packaging, darker corners, subtle digital noise, mild chromatic aberration, slight edge softness.
-
-The framing feels accidental: part of a shelf enters the foreground, one product is slightly cropped, subject not perfectly centered.
-
-GINZA-inspired quiet Japanese lifestyle sensibility, understated fashion intelligence, raw documentary observation.
-
-LUT: Warm Convenience Digital / muted highlights / fluorescent contamination
-Harmony: navy × white × charcoal × refrigerator cyan
-sRef: [Y2K-COMPACT-SREF]
-Tokens: found photograph, direct flash, consumer digital, mundane location, incidental framing, not retro filter.
-Real photograph, not AI fashion campaign.
-
-3:4 portrait.
-
-NEGATIVE:
-studio lighting, beauty campaign, luxury advertising, perfect symmetry, HDR, smartphone photography, cinematic teal orange, plastic skin, excessive bokeh, flawless skin, CGI, illustration, anime, overly posed idol photoshoot.
-```
-
-</details>
-
-<a id="gpt-image-emerald-cafe-sage-green-fashion-portrait"></a>
-### Sage green outfit portrait outside emerald cafe
-
-<a href="https://x.com/hey_am_cherry/status/2112044506514440506"><img src="../../previews/gpt-image-emerald-cafe-sage-green-fashion-portrait.jpg" width="360"></a>
-
-The prompt fixes the setting first, then lists each garment and accessory with its color, so the palette stays coherent. Eye-level full-body framing, shallow depth of field and golden-hour light give it an editorial look, and a closing negative prompt guards against anatomy errors.
-
-GPT Image 2.5 · Text-to-image · Source: [@hey_am_cherry on X](https://x.com/hey_am_cherry/status/2112044506514440506) · 111 likes on 2026-10-28
-
-[`fashion`](tags.md#tag-fashion) [`cafe`](tags.md#tag-cafe) [`golden-hour`](tags.md#tag-golden-hour) [`editorial`](tags.md#tag-editorial) [`full-body`](tags.md#tag-full-body)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a realistic lifestyle fashion portrait, subject stands casually outside a premium modern café with deep emerald green exterior panels and large glass windows revealing a warm, softly lit interior. Minimal Scandinavian café aesthetic with hanging pendant lights, wooden furniture, and subtle reflections on the glass.
-
-The model wears a pastel sage-green baseball cap, fitted white tube top, olive-green denim overall shorts with one strap unfastened, matching green sneakers, delicate gold jewelry, and a luxury black quilted mini handbag with pearl chain placed on a small marble café table beside a takeaway coffee cup.
-
-Natural relaxed pose with one leg slightly crossed, one hand inside the pocket, calm confident expression, looking directly at the camera. Eye-level composition, full-body framing, shallow depth of field, creamy bokeh, soft golden-hour daylight, premium editorial fashion photography, ultra-realistic skin texture, luxury color grading, crisp details, cinematic realism, high-end Vogue campaign quality.
-
-Negative Prompt: low quality, blurry, extra fingers, bad anatomy, distorted face, duplicate person, cartoon, CGI, oversaturated colors, watermark, logo, text, cropped body, unnatural pose, plastic skin, noise.
-```
-
-</details>
-
-<a id="gpt-image-surveillance-hud-street-portrait-russian-text"></a>
-### Street portrait with Russian surveillance HUD overlay
-
-<a href="https://x.com/codewithhajra/status/2074473336327802940"><img src="../../previews/gpt-image-surveillance-hud-street-portrait-russian-text.jpg" width="360"></a>
-
-A candid photo from an elevated surveillance angle is combined with a list of specific HUD parts such as a face frame, ID card, scan lines and timestamp. Forcing all overlay text into one language and banning English keeps the labels consistent, and bracketed slots for outfit, place, animal and palette make it a reusable template.
-
-GPT Image 2 · Text-to-image · Source: [@codewithhajra on X](https://x.com/codewithhajra/status/2074473336327802940) · 111 likes on 2026-10-29
-
-[`hud-overlay`](tags.md#tag-hud-overlay) [`surveillance-style`](tags.md#tag-surveillance-style) [`street-photography`](tags.md#tag-street-photography) [`multilingual-text`](tags.md#tag-multilingual-text) [`template`](tags.md#tag-template)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Cyber-core editorial photography of [your details] wearing [clothing], walking through [location] with [animal]. A realistic candid street photograph captured from a slightly elevated surveillance-style angle, featuring natural movement, stylish everyday fashion, and a calm cinematic atmosphere. Add elegant digital interface elements, including a facial detection frame, object labels, an identity card panel, subtle scan lines, thin HUD boxes, small data text, tracking points, a timestamp, and minimal biometric graphics. Keep the interface clean, refined, and well-spaced. All visible interface text, labels, captions, ID panel content, biometric data, object tags, timestamps, and digital overlay elements must be written entirely in Russian. Do not use any English text anywhere in the image. Use a [color palette] with realistic lighting, polished editorial photography, soft contrast, sharp details, and a sophisticated futuristic design language. Beautiful, minimal, and uncluttered. Aspect ratio: 4:5.
-```
-
-</details>
-
-<a id="nano-banana-cheetah-red-velvet-sofa-luxury"></a>
-### Man with cheetah on red velvet sofa
-
-<a href="https://x.com/auqibhabib/status/2029721401033384149"><img src="../../previews/nano-banana-cheetah-red-velvet-sofa-luxury.jpg" width="360"></a>
-
-Starts with a reference picture to keep the subject's face, then lists wardrobe, props, a sofa setting and blurred guards in the background for depth. Closing cues like cinematic lighting and dramatic atmosphere set the mood.
-
-Nano Banana 2 · Edit · Source: [@auqibhabib on X](https://x.com/auqibhabib/status/2029721401033384149) · 111 likes on 2026-10-28
-
-[`reference-image`](tags.md#tag-reference-image) [`luxury`](tags.md#tag-luxury) [`cinematic-lighting`](tags.md#tag-cinematic-lighting) [`animal`](tags.md#tag-animal) [`portrait`](tags.md#tag-portrait)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Using the reference picture, create A stylish man sitting on a luxurious vintage red velvet sofa, wearing black silk shirt, sunglasses, confi-dently holding a cheetah adorned with cinematic lighting, dollars are spread on sofa too and there are two guards on back side in blur bg, luxury life-style, dramatic atmosphere." 100% Real Face 8K Resolution
-```
-
-</details>
-
-<a id="nano-banana-miniature-self-figurine-in-hand"></a>
-### Woman Holding Miniature Figurine of Herself
-
-<a href="https://x.com/HaniaAi12/status/2031190193253056883"><img src="../../previews/nano-banana-miniature-self-figurine-in-hand.jpg" width="360"></a>
-
-A forced perspective setup with a 24mm lens places the figurine in the foreground and the woman in the mid ground. The uploaded face reference is reused for both, and the prompt repeats the outfit so the figurine matches. Skin detail on the hand and a soft bokeh garden background sell the scale illusion.
-
-Nano Banana 2 · Edit · Source: [@HaniaAi12 on X](https://x.com/HaniaAi12/status/2031190193253056883) · 111 likes on 2026-10-29
-
-[`forced-perspective`](tags.md#tag-forced-perspective) [`miniature-figurine`](tags.md#tag-miniature-figurine) [`face-reference`](tags.md#tag-face-reference) [`wide-angle`](tags.md#tag-wide-angle) [`scale-illusion`](tags.md#tag-scale-illusion)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A hyper-realistic, forced-perspective wide-angle photography shot captured with a 24mm lens, featuring a woman holding a highly detailed miniature figurine of herself in her outstretched right hand, creating a playful scale illusion. The woman in the mid-ground, identified by the uploaded face as reference, wears a black and grey plaid flannel shirt left unbuttoned over a black graphic t-shirt with a yellow and white logo, paired with blue jeans, and is smiling warmly with a soft focus applied to her face.
-
-The miniature figurine in the immediate foreground is a perfect scale replica, also featuring the uploaded face as reference but with a slightly stylized, hand-painted resin texture, wearing the exact same outfit including the plaid shirt, graphic tee, distressed denim jeans with rips, and grey sneakers, standing on a small circular grey concrete base.
-
-The hand holding the base is rendered with extreme dermatological fidelity, showing skin pores, knuckles, and fingerprints in razor-sharp focus. The background is a picturesque English countryside garden featuring a stone cottage with a chimney, a wooden archway covered in climbing purple wisteria, lush green lawns, and vibrant pink rose bushes, all bathed in soft, diffused natural daylight with a shallow depth of field that creates a creamy bokeh effect on the distant architecture and foliage.
-
-8K resolution, cinematic lighting, photorealistic textures, 2:3 ratio.
 ```
 
 </details>

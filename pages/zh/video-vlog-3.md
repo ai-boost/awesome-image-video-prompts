@@ -1,6 +1,218 @@
 # 手机实拍与 Vlog
 
-[返回目录](../../README_zh.md) · 全部 182 条 · [1](video-vlog.md) · [2](video-vlog-2.md) · **3**
+[返回目录](../../README_zh.md) · 全部 186 条 · [1](video-vlog.md) · [2](video-vlog-2.md) · **3**
+
+<a id="seedance-seoul-summer-gum-home-video"></a>
+### 身穿淡蓝上衣的韩国女子走出家门
+
+<a href="https://x.com/AIwithkhan/status/2116387431289344020"><img src="../../previews/seedance-seoul-summer-gum-home-video.jpg" width="360"></a>
+
+以朋友随手拍的 DV 摄像机口吻设定画面，叠加手持抖动、自动对焦跳动和曝光变化，同时锁定人物脸部、发型与服装。按段落逐步描述动作，如吹泡泡和踢球，让每个事件具体、可执行。
+
+Seedance 2.5 · 文生视频 · 出处: [@AIwithkhan on X](https://x.com/AIwithkhan/status/2116387431289344020) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`korean`](tags.md#tag-korean) [`home-video`](tags.md#tag-home-video) [`daily-life`](tags.md#tag-daily-life) [`handheld`](tags.md#tag-handheld)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinary summer afternoon in the life of a young Korean woman. 
+
+MAIN SUBJECT
+
+Young Korean woman in her early 20s, naturally pretty, realistic skin texture, minimal makeup, relaxed and confident personality.
+
+Long black hair loosely tied into a messy side ponytail with a few loose strands around her face. Wearing a fitted pastel-blue crop top, loose cream-colored jeans, black sneakers, and a simple silver necklace.
+
+Maintain the same face, hairstyle, clothing, body proportions, and overall appearance throughout the entire video.
+
+SETTING
+
+A quiet older Seoul residential neighborhood during a warm summer afternoon. Narrow concrete lanes, small houses, old walls, potted plants, parked bicycles, utility poles, overhead wires, laundry hanging outside homes, a small convenience store, and children playing football in the street.
+
+Everything should feel lived-in, ordinary, and peaceful.
+
+CAMERA / VISUAL AESTHETIC
+
+Raw personal footage casually recorded by a friend on an early-2000s consumer DV camcorder.
+
+Strong handheld shake, imperfect framing, autofocus hunting, exposure shifts, occasional motion blur, faded colors, soft digital detail, mild noise, accidental zooms, and natural camera imperfections.
+
+No stabilization, drone footage, gimbal movement, dramatic lighting, or polished commercial cinematography.
+
+— LEAVING HOME
+
+She steps outside her house, closes the door, and adjusts her messy side ponytail.
+
+A gentle summer breeze naturally moves her loose hair and a few strands fall across her face. She smiles at the camera, brushes the strands away, and starts walking down the narrow neighborhood lane.
+
+The camera casually follows her from a few steps behind.
+
+— STOPPING AT THE STORE
+
+She reaches a tiny neighborhood convenience store and walks inside.
+
+She casually browses the shelves, picks up a colorful pack of bubble gum, and pays at the counter.
+
+She opens the packet, takes one piece, puts it in her mouth, and slips the remaining gum into her pocket.
+
+She walks back outside, chewing happily and smiling at the camera.
+
+— THE BUBBLE GUM MOMENT
+
+While walking down the street, she starts blowing a bubble with her gum.
+
+The bubble slowly grows larger until it suddenly pops against her lips.
+
+She freezes for a second, looks at the camera, and bursts into genuine laughter.
+
+She wipes the little pieces of gum away, laughs again, and continues walking.
+
+Keep the bubble formation and popping physically realistic.
+
+— DRINKING WATER
+
+She reaches a small public water tap beside an old residential wall.
+
+She turns the tap, cups her hands beneath the flowing water, and drinks a little.
+
+She splashes some water onto her face, shakes the droplets from her fingers, fixes her loose hair, and smiles toward the camera.
+
+The water flows naturally from the tap and remains consistent.
+
+— THE FOOTBALL MOMENT
+
+A few meters ahead, several neighborhood children are playing football in the street.
+
+Suddenly, the football rolls toward her and stops directly beside her sneakers.
+
+She looks down at it, then toward the children.
+
+One child calls out:
+
+“Noona! Kick it!”
+
+She smiles, positions herself beside the ball, and gently kicks it back toward the children.
+
+The ball rolls naturally along the concrete. The children excitedly chase after it, cheering and laughing.
+
+She waves at them and continues walking.
+
+The football stays with the children and does not disappear, duplicate, or return to her.
+
+She reaches the corner of the neighborhood and pauses.
+
+The camera moves closer as she turns toward it with a cheerful smile. A gentle breeze moves her ponytail again.
+
+She raises one hand, gives a casual wave, and says clearly:
+
+“Happy weekend!”
+
+She laughs softly, turns around, and continues walking down the lane.
+
+The camera follows her for a few seconds before the recording abruptly cuts to Black
+```
+
+</details>
+
+<a id="seedance-seoul-summer-walk-candies-cat"></a>
+### 韩国女子走过首尔街道，喂孩子糖果并抚摸猫咪
+
+<a href="https://x.com/AIwithkhan/status/2099849272347021541"><img src="../../previews/seedance-seoul-summer-walk-candies-cat.jpg" width="360"></a>
+
+用参考图锁定人物形象，并重复列出服装细节，使30秒的连续镜头中外观保持一致。DV摄像机质感（手持抖动、自动对焦摇摆、曝光变化）加上只有环境音、没有音乐的声音描述，让画面像真实的家庭录像。
+
+Seedance 2.5 · 参考生视频 · 出处: [@AIwithkhan on X](https://x.com/AIwithkhan/status/2099849272347021541) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`seoul`](tags.md#tag-seoul) [`dv-camera`](tags.md#tag-dv-camera) [`slice-of-life`](tags.md#tag-slice-of-life) [`reference-image`](tags.md#tag-reference-image)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 30-second ultra-realistic personal home-video of a young Korean woman during a warm summer evening in an older Seoul residential neighborhood. Use the attached image as the character reference and keep her face, long black messy side ponytail, pastel-blue fitted top, loose cream pants, black sneakers, and silver necklace consistent.
+
+She walks out of her home carrying a simple canvas tote bag, locks the door, adjusts her ponytail, and starts walking casually down the quiet street.
+
+She notices a small group of schoolchildren walking home from school and warmly smiles at them. She opens her tote bag, takes out a few individually wrapped candies, and happily offers them to the children. They thank her with cheerful smiles before continuing home.
+
+A few steps later, she notices a friendly neighborhood cat sitting beside a wall. She crouches down, gently pets the cat and scratches it behind the ears, smiling warmly before standing up.
+
+She continues walking, casually adjusts her messy ponytail, and fixes a few loose strands around her face.
+
+She then spots a small roadside drink cart and stops to buy a fresh coconut drink. She takes the drink with a straw and walks home slowly while sipping it through the straw, looking relaxed and happy.
+
+Use raw early-2000s consumer DV-camera footage: handheld shake, imperfect framing, autofocus hunting, exposure shifts, soft detail, mild noise, natural motion blur and occasional awkward zooms.
+
+Natural Seoul neighborhood ambience only — footsteps, children chatting, bicycle bells, summer insects, distant traffic, cart sounds and leaves moving in the breeze. No music, no narration, no dramatic events, no polished commercial cinematography.
+```
+
+</details>
+
+<a id="seedance-seoul-sunday-dv-home-video"></a>
+### 首尔小巷里提着购物袋的女子
+
+<a href="https://x.com/AIwithkhan/status/2096424933366931946"><img src="../../previews/seedance-seoul-sunday-dv-home-video.jpg" width="360"></a>
+
+摄像机风格段落（自动对焦反复、曝光跳动、意外变焦）营造DV质感，连续性段落则明确每个物品归谁，防止交接的气球和购物袋出现漂移。音频只写分层环境声且不加音乐，让片段读起来像原始家庭录像。
+
+Seedance 2.5 · 文生视频 · 出处: [@AIwithkhan on X](https://x.com/AIwithkhan/status/2096424933366931946)
+
+[`dv-look`](tags.md#tag-dv-look) [`handheld`](tags.md#tag-handheld) [`continuity`](tags.md#tag-continuity) [`ambient-audio`](tags.md#tag-ambient-audio)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 30-second, 1080p ultra-realistic early-2000s DV home video of a young Korean woman spending a quiet Sunday afternoon in an older Seoul neighborhood. Young Korean woman, early 20s, natural beauty, realistic skin, minimal makeup, black wavy hair in a messy side ponytail, fitted pastel-blue short top, loose cream pajama-style pants, black sneakers and simple silver necklace. Keep her identity, outfit, hairstyle and proportions perfectly consistent. She walks through a quiet residential lane carrying a small reusable shopping bag. She passes a neighborhood playground where a little girl's balloon is stuck in a low tree branch. She notices the girl struggling, walks over and gently frees the balloon from the branch. The balloon visibly comes into her hand, then she clearly hands it to the girl. The girl keeps holding it afterward. The girl smiles and says, “Thank you!” She replies, “You're welcome.” She continues walking home, smiling as a light breeze moves her hair and leaves around the street. She reaches her house, turns toward the camera and says: “Pretty nice Sunday.” She walks inside and the camera cuts to black. Camera: Raw handheld early-2000s DV camcorder, shaky footage, autofocus hunting, faded colors, exposure shifts, motion blur, soft digital detail, accidental zooms. No polished cinematography. Audio: Natural neighborhood ambience, birds, children, bicycles, footsteps, wind and distant traffic. No music. Continuity: No disappearing or duplicated objects. Balloon stays with the girl after being handed over. Shopping bag remains with the woman. Smooth realistic movements and transitions. Negative: CGI look, plastic skin, identity drift, outfit changes, teleporting objects, distorted hands, extra fingers, subtitles, watermark.
+```
+
+</details>
+
+<a id="seedance-smartphone-japanese-dojo-vlog"></a>
+### 日式道场里初学者的自拍vlog
+
+<a href="https://x.com/SimplyAnnisa/status/2093978574692679983"><img src="../../previews/seedance-smartphone-japanese-dojo-vlog.jpg" width="360"></a>
+
+提示词用明确的负面约束锁定人物身份、服装和手持手机的拍摄风格（不要云台、不要滤镜、不要电影感镜头），并把20秒拆成带时间码的段落，韩语台词原文写出，便于控制口型同步。音频部分只指定环境声，保证声音真实。
+
+Seedance 2.5 · 文生视频 · 出处: [@SimplyAnnisa on X](https://x.com/SimplyAnnisa/status/2093978574692679983)
+
+[`smartphone-vlog`](tags.md#tag-smartphone-vlog) [`martial-arts`](tags.md#tag-martial-arts) [`japan`](tags.md#tag-japan) [`selfie`](tags.md#tag-selfie) [`korean-dialogue`](tags.md#tag-korean-dialogue)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 20-second ultra-realistic casual smartphone travel vlog featuring the same Korean woman in her early 20s throughout. She has a petite oval face, brown eyes, natural coral lips, fair realistic skin and long straight black hair. Maintain identical facial identity, hairstyle, body proportions and appearance with no morphing or identity drift.
+
+TRAVEL OUTFIT: Cream oversized knit sweater, dark blue straight-leg jeans, white low-top sneakers and small crossbody bag. Hair in a loose low ponytail with natural strands.
+
+TRAINING OUTFIT: Off-white cotton keikogi-style jacket, matching white training pants and plain dark navy beginner belt. No logos, text or patterns. Keep this outfit identical throughout training.
+
+STYLE: Genuine handheld smartphone footage, imperfect framing, subtle camera shake, autofocus shifts, natural exposure, slight motion blur, realistic skin, blinking and body movement. No cinematic shots, drones, gimbals, beauty filters or commercial look.
+
+LOCATION: Quiet Japanese countryside neighborhood and a small authentic wooden dojo with traditional architecture, wooden floors and natural daylight. No famous landmarks.
+
+0:00–0:04: She walks toward the dojo while filming herself, excited and curious. She says naturally in Korean:
+“오늘은 일본 무술을 직접 배워볼게요!”
+She briefly shows the dojo entrance, then returns to selfie mode.
+
+0:04–0:07: Inside the dojo, she is now wearing the training uniform. She adjusts her sleeves. A friendly instructor bows respectfully; she bows back slightly awkwardly and smiles.
+
+0:07–0:11: Instructor demonstrates a simple beginner stance and controlled hand movement. She copies it awkwardly, places one foot incorrectly, then tries again after the instructor calmly corrects her posture.
+
+0:11–0:15: She attempts a slow beginner stance transition with controlled defensive arm movement, briefly loses balance, regains footing and laughs naturally. Instructor smiles encouragingly. Keep movements safe and beginner-friendly.
+
+0:15–0:18: Natural jump cut. Same woman and identical outfit/appearance. She repeats the sequence with noticeably better balance but still looks like a beginner. She smiles proudly.
+
+0:18–0:20: Outside the dojo in soft late-afternoon light, she films herself, slightly out of breath and smiling. She says:
+“생각보다 어렵지만 정말 재미있어요!”
+She gives a small wave and lowers the phone.
+
+AUDIO: Natural Korean female voice with accurate lip-sync. Footsteps, fabric movement, dojo ambience, distant neighborhood sounds and light wind. No music or dramatic effects.
+
+FINAL RULES: Photorealistic, authentic smartphone vlog, believable physics and beginner-level martial arts. No fighting, exaggerated movements, action choreography, famous landmarks, logos, brands, subtitles, text, watermarks or visual effects.
+```
+
+</details>
 
 <a id="seedance-snowy-morning-campus-vlog"></a>
 ### 女生用手机记录突如其来的雪天上学路

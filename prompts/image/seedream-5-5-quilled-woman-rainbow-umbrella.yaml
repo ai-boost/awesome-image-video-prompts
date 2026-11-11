@@ -1,0 +1,28 @@
+id: seedream-5-5-quilled-woman-rainbow-umbrella
+title:
+  en: Quilled paper woman dancing with rainbow umbrella
+  zh: 卷纸艺术舞者配彩虹伞
+model: Seedream 5.5
+mode: text-to-image
+category: illustration
+tags:
+- paper-craft
+- quilling
+- rainbow
+- woman
+source:
+  name: '@yourPlugAI on X'
+  url: https://x.com/yourPlugAI/status/2120176960999403776
+  credit: Gilbert Odera | Your AI Plug
+  likes: 114
+  captured: '2026-11-11'
+  posted: '2026-11-10'
+notes:
+  en: Naming the medium as coiled paper strips and quilled butterflies, plus a matte charcoal cardstock backdrop with overhead studio light, makes the output read as a real paper sculpture. The ordered colour list for the gradient keeps the rainbow transitions consistent across the dress, umbrella and water ripples.
+  zh: 用卷纸条和卷纸蝴蝶点明媒介，并以哑光深灰卡纸背景配顶部棚拍光，让画面像真实的纸雕作品。按顺序列出渐变色，使裙摆、伞面和水纹的彩虹过渡保持一致。
+prompt: |
+  3D paper quilling art of a graceful woman dancing in side-profile. She wears an elegant sleeveless v-neck dress made of intricately coiled paper strips in a vivid rainbow gradient—transitioning seamlessly through yellow, orange, red, magenta, deep purple, royal blue, and emerald green.
+
+  Her long brown hair flows in the wind behind her as she gracefully holds an open quilled umbrella featuring matching rainbow paper panels overhead. She wears bright red high heels, standing atop quilled paper water ripples reflecting vibrant hues. Surrounding her in mid-air are multiple detailed quilled paper butterflies in shades of bright orange, yellow, pink, and sky blue.
+
+  The background is a solid matte dark charcoal grey cardstock, featuring subtle overhead studio directional lighting that casts soft 3D drop shadows underneath the layered paper elements, emphasizing realistic texture and depth. High detail, paper craft sculpture aesthetic, 4k resolution. --ar 2:3

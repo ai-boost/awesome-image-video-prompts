@@ -1,0 +1,30 @@
+id: gpt-image-2-6-couple-face-to-face-hand-on-cheek
+title:
+  en: Couple face to face with hand on cheek
+  zh: 两人面对面，女子手扶男子脸颊
+model: GPT Image 2.6
+mode: text-to-image
+category: portrait
+tags:
+- k-drama
+- cinematic
+- film-grain
+- portrait
+source:
+  name: '@johnAGI168 on X'
+  url: https://x.com/johnAGI168/status/2120506337821917644
+  credit: John
+  likes: 3
+  captured: '2026-11-11'
+  posted: '2026-11-11'
+notes:
+  en: The prompt fixes each person's profile direction and outfit details, so the pose and wardrobe read clearly in the frame. The 50mm f/1.8 lens and fine film grain set the cinematic register, and the closing no CGI and no plastic skin line steers away from oversmoothed AI faces.
+  zh: 提示词分别固定了两人的侧脸朝向和服装细节，使姿态与穿着在画面中清晰可辨。50mm 镜头、f/1.8 光圈与细腻胶片颗粒设定了电影质感，结尾的无CGI无塑料皮肤约束避免了过度磨皮的 AI 人脸。
+prompt: |
+  A cinematic vertical 3:4 romantic drama still photograph captured at eye level — a tight, emotional face-to-face side-profile close-up of a gorgeous young East Asian woman and an exceptionally handsome young East Asian man facing each other closely in a dimly lit room.
+
+  On the left in right-facing profile, the woman possesses elite K-drama lead beauty with sleek dark brown hair tucked behind her ear, delicate features, slightly furrowed brows, and softly parted lips filled with tender concern. Dressed in a light cream-beige long-sleeve cardigan over a pastel floral top with a delicate silver heart necklace, she gently lifts her hand to cup the side of the man's cheek near his ear. On the right in left-facing profile, the strikingly handsome man features soft chestnut middle-parted hair with wispy fringe strands over his brow, a clean jawline, and vulnerable, intense eyes gazing back into hers, wearing a minimalist black crewneck t-shirt.
+
+  The setting is a softly out-of-focus dark charcoal interior speckled with faint, luminous dust motes. Soft rim lighting gently illuminates the edges of their hair and facial profiles while casting deep, moody shadows behind them, evoking a bittersweet, heartfelt cinematic tension.
+
+  Captured on a 50mm cinema prime at f/1.8 with shallow depth of field, delicate highlight bloom, and fine 35mm film grain in an M1 narrative drama register. Authentic human skin with fine pores, natural biological warmth, and tangible fabric folds — cinematic frame, strictly no CGI, no 3D render, no plastic skin, no artificial smoothing.

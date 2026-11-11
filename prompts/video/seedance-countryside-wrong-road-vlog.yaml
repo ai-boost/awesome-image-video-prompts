@@ -1,0 +1,31 @@
+id: seedance-countryside-wrong-road-vlog
+title:
+  en: Young woman walks a sunlit countryside road
+  zh: 年轻女子走在夕阳下的乡间小路上
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- vlog
+- travel
+- countryside
+- golden-hour
+source:
+  name: '@nawalsehar on X'
+  url: https://x.com/nawalsehar/status/2100801502990516476
+  credit: nawalsehar
+  captured: '2026-11-11'
+  posted: '2026-09-18'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/nawalsehar/status/2100801502990516476
+notes:
+  en: Pairs a handheld vlog camera plan (selfie moments, over-the-shoulder reveal, final wide pullback) with a sound list limited to diegetic audio, so the model stages a continuous real walk instead of a montage. The explicit negative list covering CGI, duplicated people and impossible physics helps keep faces and clothing stable over 30 seconds.
+  zh: 以手持 vlog 镜头设计（自拍时刻、过肩揭示、结尾广角拉远）配合只含环境声的声音列表，让模型生成连贯的真实步行画面而不是拼接镜头。明确列出的禁止项（CGI、重复人物、违反物理）有助于在 30 秒内保持人物面部和服装稳定。
+prompt: |
+  Create a 30-second ultra-photorealistic live-action travel vlog about a young woman who accidentally takes the wrong rural road and discovers a peaceful countryside village. She checks her phone, follows the unfamiliar path, becomes curious as rooftops appear through the trees, then discovers beautiful homes, gardens, bicycles, a flowing stream, and distant green hills.
+
+  Show spontaneous natural reactions, realistic walking and human biomechanics, authentic bag and clothing movement, gentle wind, realistic bicycles, flowing water, gravel and wooden bridge interaction, and physically accurate environmental motion. Use handheld vlog shots, stabilized walking footage, selfie-style moments, over-the-shoulder reveals, natural autofocus, and a final wide cinematic pullback.
+
+  Use only natural dialogue and diegetic sounds: footsteps, birds, bicycle bells, wind, distant voices, gravel, and flowing water. Warm late-afternoon sunlight, realistic shadows, reflections, depth of field, and natural 24fps motion. End with her walking peacefully toward the village as the camera slowly pulls back.
+
+  No CGI, animation, fantasy, artificial faces, impossible physics, floating objects, distorted anatomy, duplicated people, changing clothes or faces, unrealistic water, impossible camera movement, subtitles, logos, or watermark.

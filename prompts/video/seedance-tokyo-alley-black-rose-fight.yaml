@@ -1,0 +1,205 @@
+id: seedance-tokyo-alley-black-rose-fight
+title:
+  en: Black Rose defeats three attackers in Tokyo alley
+  zh: 黑玫瑰在东京小巷击退三名袭击者
+model: Seedance 2.5
+mode: reference-to-video
+category: action
+tags:
+- martial-arts
+- tokyo
+- slow-motion
+- fight-choreography
+source:
+  name: '@ChillaiKalan__ on X'
+  url: https://x.com/ChillaiKalan__/status/2119662957512798561
+  credit: ChillaiKalan__
+  captured: '2026-11-11'
+  posted: '2026-11-09'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/ChillaiKalan__/status/2119662957512798561
+notes:
+  en: The prompt locks the reference face and a fixed screen layout, stall on the left and attackers on the right, across every cut, so the geography holds through the fight. A single 0.25 second slow motion beat at contact makes the spinning kick readable without turning the action into slow motion throughout.
+  zh: 提示词锁定参考人脸，并固定画面布局（左侧摊位、右侧袭击者），让每个镜头的空间关系在整段打斗中保持一致。全片只在踢击接触瞬间使用 0.25 秒慢动作，让动作清晰可读，而不是整段放慢。
+prompt: |
+  30 SECONDS | 9:16 | 4K | 60 FPS
+  ULTRA-PHOTOREALISTIC JAPANESE ACTION CINEMA
+  COMBAT SAMBO × DIRTY BOXING × SAVATE
+  6 SHOTS / EXACTLY 5 CUTS
+  ONE 0.25S MICRO SLOW-MOTION MOMENT
+
+  01 — ABSOLUTE CHARACTER & ENEMY LOCK
+
+  @Image 1 — BLACK ROSE:
+  Preserve exact reference face, pale natural skin, messy black updo, black fitted clothing, black floral embroidered outerwear, necklaces and heeled lace-up boots. Cold, confident, rebellious attitude. No visual changes.
+
+  VICTIM:
+  Adult Japanese female street-food vendor, approximately 30, shoulder-length dark hair, cream blouse, dark-green apron.
+
+  EXACTLY THREE ATTACKERS:
+
+  A — Tall man in a black leather jacket.
+  B — Broad-shouldered man in a dark-red bomber jacket.
+  C — Lean man in a beige utility jacket.
+
+  No additional attackers, duplicate people or replacement characters.
+
+  02 — FIXED GEOGRAPHY & LOCATION
+
+  Location: Narrow Tokyo night-market alley after rainfall.
+
+  - SCREEN-LEFT: Small ramen stall with a wooden counter and hanging red lantern.
+  - CENTER: Female vendor standing behind the counter.
+  - SCREEN-RIGHT: Three attackers standing in the pedestrian alley.
+  - BACKGROUND: Neon signs, closed storefronts, wet pavement and distant market lights.
+
+  Keep the same camera axis and screen positions in every shot.
+
+  03 — SIX-SHOT ACTION SEQUENCE
+
+  SHOT 1 | 0–5S — THE STALL IS DESTROYED
+
+  CAMERA: 35mm wide establishing tracking shot.
+
+  A grabs the wooden counter and knocks several empty bowls onto the ground.
+
+  The vendor steps backward, frightened.
+
+  VICTIM:
+  「やめてください！」
+  Please stop!
+
+  B kicks a small empty stool aside. C stands beside A, blocking the vendor's exit.
+
+  At the far end of the alley, @Image 1 walks into view carrying a small black handbag.
+
+  CUT 1 — ON THE SOUND OF A BOWL HITTING THE GROUND.
+
+  SHOT 2 | 5–10S — BLACK ROSE ARRIVES
+
+  CAMERA: 40mm low-angle forward tracking shot.
+
+  @Image 1 stops beside the overturned stool.
+
+  She looks at the vendor, then slowly turns toward A.
+
+  BLACK ROSE:
+  「店から離れな。」
+  Get away from her stall.
+
+  A laughs and steps toward her.
+
+  A:
+  「どけよ。」
+  Move.
+
+  He throws a committed right punch.
+
+  @Image 1 slips outside his attack and redirects his arm with a sharp defensive movement, making him stumble toward SCREEN-RIGHT.
+
+  CUT 2 — ON B STEPPING FORWARD.
+
+  SHOT 3 | 10–15S — THE HEAVY ATTACK
+
+  CAMERA: 35mm lateral tracking shot.
+
+  B rushes forward with a powerful shoulder-led charge.
+
+  @Image 1 sidesteps his momentum, delivers a compact body strike and follows with a controlled Savate push kick.
+
+  B loses balance and falls onto the wet pavement away from the stall.
+
+  B IS DOWN — remains down.
+
+  C moves forward immediately.
+
+  CUT 3 — ON C REACHING FOR HER WRIST.
+
+  SHOT 4 | 15–20S — THE GRIP BREAK
+
+  CAMERA: 50mm medium three-quarter shot.
+
+  C grabs toward her wrist.
+
+  @Image 1 rotates her arm free, steps to the outside and delivers a short elbow strike to his upper torso.
+
+  C staggers backward and falls beside a closed storefront.
+
+  C IS DOWN — remains down.
+
+  A regains his footing and rushes forward.
+
+  CUT 4 — ON A'S APPROACH.
+
+  SHOT 5 | 20–25S — THE FINAL COUNTER
+
+  CAMERA: 35mm low frontal action angle.
+
+  A launches a desperate swinging punch.
+
+  @Image 1 ducks, pivots on her supporting foot and delivers one explosive spinning back kick to his torso.
+
+  ONE 0.25-SECOND MICRO SLOW-MOTION AT CONTACT.
+
+  His jacket compresses and his upper body moves backward in the direction of the kick.
+
+  INSTANT RETURN TO REAL-TIME.
+
+  A falls onto the open wet pavement.
+
+  A IS DOWN — remains down.
+
+  CUT 5 — ON BLACK ROSE TURNING BACK TOWARD THE STALL.
+
+  SHOT 6 | 25–30S — THE PROTECTOR
+
+  CAMERA: 35mm slow reverse dolly.
+
+  @Image 1 walks toward the vendor and gently picks up a fallen bowl from the ground.
+
+  The vendor looks at her with relief.
+
+  VICTIM:
+  「本当にありがとうございます。」
+  Thank you so much.
+
+  BLACK ROSE places the bowl on the counter.
+
+  BLACK ROSE:
+  「もう大丈夫。」
+  It's okay now.
+
+  She turns and walks down the neon-lit alley.
+
+  Exactly three attackers remain down in the background.
+
+  04 — ABSOLUTE CONTINUITY RULES
+
+  ENEMY LEDGER:
+  A: Stumbles in Shot 2, falls in Shot 5.
+  B: Falls in Shot 3.
+  C: Falls in Shot 4.
+
+  FINAL COUNT: EXACTLY THREE FALLEN ATTACKERS.
+
+  POSITION LOCK:
+  B lies in the center-right wet alley.
+  C lies near the right-side closed storefront.
+  A lies farther down the right-side pedestrian lane.
+
+  The overturned stool and fallen bowls remain in their original positions unless physically picked up.
+
+  CAMERA AXIS:
+  Never cross the 180-degree axis. Maintain the stall on SCREEN-LEFT and attackers on SCREEN-RIGHT.
+
+  CONTACT PHYSICS:
+  Every strike shows contact, force transfer, recoil and correct fall direction. No teleportation, floating bodies or premature knockdowns.
+
+  WORLD REACTIONS:
+  Lanterns remain hanging, neon lighting stays consistent, and no additional people enter the foreground.
+
+  AUDIO:
+  Natural Japanese dialogue, rainwater dripping, ceramic bowls hitting pavement, footsteps, fabric movement and realistic non-graphic combat impacts. No background music.
+
+  NEGATIVE:
+  Extra attackers, cloned people, reversed geography, changing stall design, disappearing bowls, random weapons, blood, gore, excessive slow motion, distorted limbs, subtitles, text overlays, cartoon physics or abrupt cuts.

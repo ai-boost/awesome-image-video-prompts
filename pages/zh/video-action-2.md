@@ -1,6 +1,73 @@
 # 动作、追逐与运动
 
-[返回目录](../../README_zh.md) · 全部 224 条 · [1](video-action.md) · **2** · [3](video-action-3.md)
+[返回目录](../../README_zh.md) · 全部 233 条 · [1](video-action.md) · **2** · [3](video-action-3.md)
+
+<a id="kling-jaguar-chase-waterfall-pool"></a>
+### 背包客被美洲豹追逐跳入瀑布池
+
+<a href="https://x.com/PixVerse/status/2115760864238469589"><img src="../../previews/kling-jaguar-chase-waterfall-pool.jpg" width="360"></a>
+
+提示词按时间段写出分镜，每一段都指定景别，相当于为模型提供一份30秒的剪辑方案。四张参考图各自绑定角色，并点名锁定人物身份、服装和背包，使角色在多次切镜中保持一致。
+
+Kling 4.0 · 参考生视频 · 出处: [@PixVerse on X](https://x.com/PixVerse/status/2115760864238469589) · 38 赞，统计于 2026-10-29
+
+[`multi-shot`](tags.md#tag-multi-shot) [`reference-images`](tags.md#tag-reference-images) [`chase`](tags.md#tag-chase) [`jaguar`](tags.md#tag-jaguar)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 30-second, 16:9 photorealistic adventure thriller. Use Image 1 for the jaguar, Image 2 for the rainforest, Image 3 for the waterfall pool, and Image 4 for the backpacker. Preserve identity, clothing, markings, and backpack throughout.
+
+**0–5s**
+Medium tracking shot: the backpacker walks through dense rainforest. A rustle stops him. Cut to his tense face, then over his shoulder as he parts the leaves. A jaguar suddenly lunges.
+
+**5–9s**
+Low lateral wide shot: the jaguar knocks him backward, his backpack striking the muddy ground. Leaves scatter. He shields his head, rolls aside, and scrambles upright while the jaguar turns. Realistic impact, no blood.
+
+**9–15s**
+Ground-level tracking captures pounding boots and flying mud. Cut wider: he races screen-right, the jaguar close behind. He stumbles over a root, braces against a trunk, and keeps running, backpack bouncing against secured straps.
+
+**15–19s**
+Close-up: gasping, he spots an opening. Cut aerial-wide to reveal the trail ending at a rocky bank beside the waterfall pool. The jaguar follows him toward a ledge one meter above the water.
+
+**19–22s**
+Lateral wide shot: trapped, he glances back and jumps. Show takeoff through feet-first entry continuously. His backpack remains attached. Water erupts; the jaguar brakes at the edge.
+
+**22–26s**
+Water-level medium shot: he surfaces and swims away with strenuous strokes, the backpack dragging through the water. He looks back at the jaguar watching from shore.
+
+**26–30s**
+His wet shoulders fill the foreground. Beyond him, the jaguar pauses, turns, and disappears into the forest. He keeps paddling as the waterfall roars.
+
+Natural filtered light, cinematic contrast, varied framing, readable handheld movement, hard cuts, normal speed. Maintain chase direction and geography. Preserve mud after falling and wet clothing after immersion. No dialogue or text. Emphasize foliage, impacts, running, gasping, and rushing water.
+```
+
+</details>
+
+<a id="h3-chun-li-cammy-rain-kick-clash"></a>
+### 春丽与卡米在雨中交锋踢击
+
+<a href="https://x.com/ou_zhen599/status/2096262846963396954"><img src="../../previews/h3-chun-li-cammy-rain-kick-clash.jpg" width="360"></a>
+
+参考图锁定开场构图，提示词写明空中踢击已在进行，因此动作直接延续而不重置。分时段镜头加上禁止定格、悬停和夸张飞行的明确要求，让打斗贴合物理规律。
+
+MiniMax H3 · 图生视频 · 出处: [@ou_zhen599 on X](https://x.com/ou_zhen599/status/2096262846963396954) · 36 赞，统计于 2026-10-29
+
+[`street-fighter`](tags.md#tag-street-fighter) [`chun-li`](tags.md#tag-chun-li) [`cammy`](tags.md#tag-cammy) [`rain`](tags.md#tag-rain)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description: [Shot 1] Photoreal live-action rainy alley confrontation between adult Chun-Li and Cammy. Preserve the exact opening composition, identities, hairstyles, costumes, proportions, wet East Asian alley, lanterns, puddles, rainfall, and light positions from <Picture 1>. Continue the airborne kick collision already in progress with no freeze, reset, or new wind-up. Contact shakes rain from skin and fabric; puddle splashes happen only on landing. Follow collision, recoil, and landing. Chun-Li (S1) lands stable, bends her knees, restores torso alignment, exhales sharply, and watches Cammy’s shoulder line. Cammy (S2) lands lower, slides briefly, regains support, and stays pitched forward. [Shot 2] At 00:01.400, the camera cuts to a matched advancing three-quarter view after landing. Cammy wipes rain and a trace of blood from her lip once, looks up, and drives in low. Chun-Li reads shoulder and hip initiation, makes a short evasive adjustment, intercepts with one compact kick, retracts, and adds one short pressing kick that shifts Cammy half a step off line. Show planted support, contact, recoil, and recovery. [Shot 3] At 00:03.800, the camera cuts to a lateral close two-shot on Cammy’s recovery. Cammy presses back into close range without resetting. Chun-Li redirects the entry and takes the centerline. Their faces draw near during the brief check. Chun-Li meets Cammy’s eyes. Cammy glances down and aside for one instant, catches breath, tightens her jaw, and attacks again. Chun-Li’s movements grow shorter and more precise while Cammy’s shoulders tighten and breathing fragments. [Shot 4] At 00:06.500, the camera cuts along Cammy’s renewed forward commitment. She gives half a step, lunges again too early, and places weight too far forward. Chun-Li intercepts the entry, sets her support foot, rotates through her hips, and lands one decisive kick to Cammy’s torso. The camera makes one short controlled whip with the turn, then settles before impact. Cammy recoils diagonally, skids through a puddle, loses support, braces with a forearm, and falls onto hip and side in shallow water. No hovering, no exaggerated flight. Chun-Li retracts, plants, and does not pursue. [Shot 5] At 00:09.800, the camera cuts on Cammy’s hand planting on the wet ground. Cammy raises her upper body with a small shoulder load tremor and keeps a defiant lifted chin. Chun-Li approaches with one or two measured steps, then lowers in a controlled squat until both women’s eyes are level. Cammy checks Chun-Li’s hands, then looks into her eyes. Chun-Li does not touch her. Before 00:12.000, settle into a lateral close two-shot with both eyes and Chun-Li’s mouth readable. [Shot 6] At 00:12.000, the camera cuts seamlessly on the completed squat into the settled close two-shot and holds this angle to the end. Chun-Li (S1), in a mature calm female voice, says: <d>[English] You would rather hate me than tell the truth.</d> Deliver the line evenly, with slight extra weight on “hate me” and a firm landing on “truth,” finishing by about 00:14.500. Cammy (S2) keeps eye contact, takes one audible inward breath as if to answer, parts her lips slightly, but says nothing. Chun-Li adds nothing. Rain continues along eyelashes, cheeks, and jaws; both breathing and tiny balance adjustments remain visible until 15.00 seconds. End on unresolved proximity with no freeze, fade, or reconciliation. Treat all six shots as one continuous confrontation, not separate rounds. No action-showcase fighting, no round reset, no routine reverse coverage, no arbitrary cuts, no showy orbiting, no uncontrolled shake, no blank expressions, no glassy eyes, no exaggerated lip sync, no weightless kicks, no unsupported aerial combos, no extra dialogue, no subtitles, no watermarks, no identity drift, no malformed bodies or hands.
+
+overall_soundscape: Two distinct female vocal identities only: Chun-Li mature and steady, Cammy younger and tighter, expressed only through breath and impact exhalations. Heavy rain, splashing steps, wet fabric friction, short solid body impacts, close breathing, and distant alley ambience remain continuous. Lower the environment slightly before the line while keeping rain audible, then retain Cammy’s unanswered inhale and nearby rainfall after it.
+
+non_diegetic_music: N/A
+```
+
+</details>
 
 <a id="h3-swordswoman-kinetic-typography-title"></a>
 ### 动漫女剑客与动态字体片头
@@ -2353,6 +2420,37 @@ Cinematic 8k hyper-realistic action sequence dark atmospheric ancient East Asian
 
 </details>
 
+<a id="seedance-gta-delivery-chase-hud"></a>
+### 女子走在日本街道上，画面叠加游戏界面
+
+<a href="https://x.com/AIwithSynthia/status/2098615400141619289"><img src="../../previews/seedance-gta-delivery-chase-hud.jpg" width="360"></a>
+
+上传的图片作为角色参考，锁定发型和服装，提示词按顺序写明每个剧情节拍。明确列出HUD元素，并排除动漫、电影镜头和卡通渲染，让画面保持写实的游戏实录质感。
+
+Seedance 2.5 · 参考生视频 · 出处: [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2098615400141619289) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`gta-style`](tags.md#tag-gta-style) [`open-world`](tags.md#tag-open-world) [`game-hud`](tags.md#tag-game-hud) [`chase`](tags.md#tag-chase)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+GTA-style chaos, but the mission makes absolutely no sense. 😂
+
+Created with Seedance 2.5 on @itsPolloAI 
+
+Create a 30-second realistic AAA third-person open-world game sequence in a lively local Japanese neighborhood. Use the uploaded image as the exact character reference: a young Korean woman in her early 20s with long black hair, pastel-lavender top, white cargo pants and sneakers. Keep her appearance consistent.
+
+She notices a delivery cyclist carrying a cardboard package, grabs the package, and runs. The cyclist chases her through the streets. She hides behind a parked kei truck, sneaks out, then accidentally crashes into another delivery worker, sending boxes everywhere. She ignores a “RETURN PACKAGE” prompt and runs again. She crosses a pedestrian bridge, briefly leaves the package beside a bench, grabs it when the cyclist arrives, and continues escaping.
+
+She eventually reaches the address printed on the package and realizes she has accidentally delivered it to the correct recipient. The recipient happily takes it while the exhausted cyclist arrives and looks completely confused. She gives him an innocent smile and walks away.
+
+Use authentic third-person gameplay graphics, realistic 3D characters, detailed village/neighborhood environment, believable physics and NPC reactions. Include a GTA-style HUD with minimap, health/stamina bars, controller prompts, mission objectives, alert markers and notifications such as “PACKAGE STOLEN,” “THEY FOUND YOU,” “BAD DECISION,” “DELIVERY COMPLETE,” “MISSION COMPLETE,” and “CHAOS +150.”
+
+No anime, cartoon, cel-shading, mobile-game graphics, cinematic movie shots, distorted characters, inconsistent objects, gore or unrealistic physics.
+```
+
+</details>
+
 <a id="seedance-gym-static-martial-arts-vs-five-bullies"></a>
 ### 女高中生在体育馆以静电武术击退五名霸凌者
 
@@ -3176,6 +3274,39 @@ Live-action anime-style hybrid fox girl Kitsune Gumiho warrior with long blonde 
 
 </details>
 
+<a id="seedance-korean-cafe-chair-takedown"></a>
+### 韩国咖啡馆里女子慢慢喝冰咖啡
+
+<a href="https://x.com/nawalsehar/status/2106975147806576802"><img src="../../previews/seedance-korean-cafe-chair-takedown.jpg" width="360"></a>
+
+提示词把每个动作拆成具体的身体接触和物理反应，例如抓住手腕、沙发被压缩，使模型有清晰的动作编排，而不是模糊的打斗描述。锁定咖啡馆布局和画面方向，并明确列出允许的环境音效，使30秒内的场景和声音保持一致。
+
+Seedance 2.5 · 文生视频 · 出处: [@nawalsehar on X](https://x.com/nawalsehar/status/2106975147806576802) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`korean`](tags.md#tag-korean) [`cafe`](tags.md#tag-cafe) [`action-comedy`](tags.md#tag-action-comedy)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create an exactly 30-second, 16:9, 24fps hyper-realistic Korean live-action action-comedy scene inside one modern café. All characters are adults. Keep the café layout, screen direction, tables, chair and sofa consistent.
+
+PYONA sits calmly when an arrogant man approaches and says, “야, 비켜.” He kicks her chair, making it jerk sideways and causing her to fall realistically. He smirks, convinced he has won.
+
+PYONA slowly rises, looks at him and says, “너 지금 뭐 한 거야?” He reaches for her. She catches his wrist, redirects his momentum and sends him stumbling into an empty table. He throws a desperate punch; she ducks, strikes his midsection, grabs his jacket and redirects him into the table again.
+
+He panics and charges. PYONA sidesteps at the last second, redirects his momentum and sends him stumbling backward into the soft sofa. The sofa compresses naturally as he crashes into it.
+
+A stunned silence follows. Customers stare. PYONA calmly returns to her table, fixes the chair, sits down and takes another sip. She glances toward the sofa. The terrified man sinks lower into the cushions. Cut to black.
+
+Grounded physical choreography throughout: clear contact, realistic weight, momentum, friction, balance and furniture reactions. Cinematic handheld camera with clear impact framing and consistent spatial direction.
+
+Natural café ambience only: footsteps, chair scraping, impacts, rattling cups, clothing movement, breathing and customer reactions. No music, narration or cartoon sound effects.
+
+Negative prompt: duplicated characters, changing faces, impossible physics, premature falls, invisible strikes, floating bodies, teleportation, excessive camera shake, excessive slow motion, blood, gore, broken bones, head impacts, supernatural force, subtitles, captions, logos, watermark.
+```
+
+</details>
+
 <a id="seedance-korean-classroom-gunfight-red-scarf"></a>
 ### 红围巾女主的韩式教室枪战
 
@@ -3636,6 +3767,74 @@ Cartoon, 3d render, animation, anime, painting, illustration, low quality, low r
 ​#VisualStorytelling #AIVideo #VFX
 #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #AI @Flovaai @Flovaai_Japan 
 @PixVerse @itsPolloAI
+```
+
+</details>
+
+<a id="seedance-metal-car-garbage-truck-chase"></a>
+### 金属汽车在追逐中变形为脏污垃圾车
+
+<a href="https://x.com/Xaroon_x/status/2099012948232483096"><img src="../../previews/seedance-metal-car-garbage-truck-chase.jpg" width="360"></a>
+
+每个镜头都写明运镜和声音线索（近景特写、拉远、警笛、火花），让模型清楚知道剪辑顺序。参考图只用于一个角色，负面提示排除多余人物，从而保持人物身份稳定。
+
+Seedance 2.5 · 参考生视频 · 出处: [@Xaroon_x on X](https://x.com/Xaroon_x/status/2099012948232483096) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`transformation`](tags.md#tag-transformation) [`police-chase`](tags.md#tag-police-chase) [`reference-character`](tags.md#tag-reference-character)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a hyper-realistic cinematic action sequence on a bright urban road in daytime. Clean streets, light traffic, realistic buildings, natural daylight.
+
+IMPORTANT: Use Reference Image 1 ONLY for the male character. Preserve his exact face, eyes, nose, lips, jawline, hairstyle and skin tone throughout. No face morphing or identity drift.
+
+Open with a tight close-up of a sleek angular metallic futuristic vehicle speeding forward. Sudden gunfire erupts from off-screen; NO SHOOTERS are visible. Bullets hit the body and ricochet with sharp sparks.
+
+Camera rapidly pulls back to reveal the full vehicle. Police sirens grow louder.
+
+WITHOUT slowing down, the vehicle begins a realistic mechanical transformation while moving. Metallic panels slide, split, fold and reconfigure. Smooth surfaces become dirty, dented, scratched, rusted and uneven. The aerodynamic body becomes rough and boxy. No magic or teleportation. Within seconds it transforms into a grimy dumpster-style garbage truck blending naturally into the street.
+
+The truck hard-brakes and performs a sharp 180-degree skid turn. Tires screech; dust kicks up. It settles into roadside parking.
+
+CUT TO: Police vehicles rush past at high speed with sirens and lights, completely missing the disguised truck.
+
+In the foreground, the SAME MALE CHARACTER FROM REFERENCE IMAGE 1 casually loads garbage into the truck. Dress him as a garbage-truck worker while keeping his exact identity and face. He pauses, watches the police pass, turns toward camera and gives a subtle confident wink.
+
+Camera gently pushes in. Sirens fade into city ambience.
+
+FINAL: Hold after the wink, then smoothly FADE TO BLACK. On the fully black screen, centered clean white text slowly fades in: “Wizstar AI”. Hold, then end.
+
+STYLE: Photorealistic, premium Hollywood action, realistic VFX, natural physics.
+
+NEGATIVE: No shooters, extra characters, identity change, face distortion, cartoon/anime, random cuts, subtitles, watermark, logos.
+```
+
+</details>
+
+<a id="seedance-miniature-athlete-supermarket-adventure"></a>
+### 迷你女运动员与超市购物车巨型车轮
+
+<a href="https://x.com/AIwithkhan/status/2111657888733442529"><img src="../../previews/seedance-miniature-athlete-supermarket-adventure.jpg" width="360"></a>
+
+在开头用一句话锁定人物的脸、发型、服装和身体比例，并写明约1:5的缩放比例，让迷你人物在各个镜头中保持一致。微距浅景深的镜头语言加上结尾的镜头后拉，把人物与巨大超市的尺度反差呈现出来。
+
+Seedance 2.5 · 文生视频 · 出处: [@AIwithkhan on X](https://x.com/AIwithkhan/status/2111657888733442529) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`miniature`](tags.md#tag-miniature) [`supermarket`](tags.md#tag-supermarket) [`macro-photography`](tags.md#tag-macro-photography)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 30-second photorealistic live-action miniature adventure featuring one athletic miniature woman at approximately 1- 5 scale inside a modern supermarket. She wears a fitted red athletic top, black cargo shorts and white sneakers. Maintain her exact face, hairstyle, outfit, body proportions and scale throughout.
+
+She climbs the metal frame of a giant shopping cart, leaps onto a towering cereal box and slides down its cardboard surface. Suddenly, enormous oranges roll toward her like an avalanche. She sprints across the counter, jumps onto a rolling orange and leaps onto a giant banana bunch. She then races across a moving checkout conveyor belt as a massive milk carton tips over, sending milk flowing across the surface. She escapes on a floating plastic produce tray, grabs a shopping bag and swings onto a rolling shopping cart. Dodging bouncing vegetables and falling snack packets, she leaps onto a towering stack of shopping bags and stands triumphantly as the camera pulls backward, revealing her tiny size in the enormous supermarket.
+
+STYLE: Cinematic macro photography, ultra-shallow depth of field, dynamic handheld tracking, dramatic low angles, realistic fabric and liquid physics, detailed grocery textures, natural supermarket lighting, strong foreground parallax, believable human movement and premium viral commercial aesthetics.
+
+SFX: Shopping cart wheels, footsteps, packaging crinkles, rolling fruit, conveyor motor, milk splashing, groceries tumbling and metal impacts. No music or narration.
+
+NEGATIVE: Cartoon, anime, toy-like appearance, plastic skin, duplicated character, face or outfit changes, inconsistent scale, floating objects, impossible physics, teleportation, distorted anatomy, excessive motion blur, subtitles, logos, watermark.
 ```
 
 </details>
@@ -4156,79 +4355,6 @@ SOUND: Explosive energy shockwave BOOM, heavy armor platform crash THUD, power-d
 VISUAL: Hero center-framed 360-degree orbital camera settling on Ren against the cyberpunk city.
 ACTION: Ren flicks his Greatsword downward, clearing the remaining plasma trail, as the floating debris gently settles and the camera orbits his victorious stance above the glowing neon metropolis below. CUT TO BLACK at 00:30.
 SOUND: Sword energy flick WHOOSH, settling debris rustle, quiet wind chime, total silence.
-```
-
-</details>
-
-<a id="seedance-nun-demon-cathedral-sword-fight"></a>
-### 跪地修女手持染血长剑 被恶魔包围
-
-<a href="https://x.com/itsSaira_1/status/2108765927194198397"><img src="../../previews/seedance-nun-demon-cathedral-sword-fight.jpg" width="360"></a>
-
-提示词写成一份带时间顺序的分镜表，从下跪开场，依次写变身、战斗到结尾远景，每个阶段都有明确的画面动作。满月、符文圈和教堂废墟等固定场景元素贯穿全片，帮助模型在切换镜头时保持环境一致。
-
-Seedance 2.5 · 文生视频 · 出处: [@itsSaira_1 on X](https://x.com/itsSaira_1/status/2108765927194198397)
-
-[`transformation`](tags.md#tag-transformation) [`fight-sequence`](tags.md#tag-fight-sequence) [`gothic-fantasy`](tags.md#tag-gothic-fantasy)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-A cinematic 30-second sequence starting in a dark, ruined gothic cathedral at night with a full moon. A woman dressed as a nun is kneeling inside a glowing magical rune circle on a stone floor, holding a bloodied sword, surrounded by hordes of terrifying demonic creatures. She pulls the sword to her chest, bursting with fiery light from her ribcage, and transforms into a powerful entity with large white glowing angelic wings and a halo, her clothes changing into an ornate dark blue gown with golden embroidery. She wields glowing magical swords, fighting off and defeating the demons with fiery energy and brilliant flashes of light in an epic action sequence. Finally, she plants her glowing sword into the ground, creating a protective circle with giant glowing crosses, standing victorious as the cathedral clears.
-
-Negative Prompt:
-blurry, low quality, distorted, deformed, bad anatomy, extra limbs, poorly drawn face, poorly drawn hands, watermark, signature, ugly, low resolution, choppy animation
-```
-
-</details>
-
-<a id="seedance-nyc-web-swing-golden-hour"></a>
-### 纽约街头黄金时刻的飞荡少女
-
-<a href="https://x.com/ElsaSofia__AI/status/2089306746804375878"><img src="../../previews/seedance-nyc-web-swing-golden-hour.jpg" width="360"></a>
-
-每个动作都写明了身体姿态和具体接触点（墙面、车顶、路面），让飞荡呈现为有落点的跑酷动作，而不是悬浮。全程单机位连续跟拍，配合按秒划分的时间节拍和锁定的角色参考图，保持画面连贯。
-
-Seedance 2.5 · 参考生视频 · 出处: [@ElsaSofia__AI on X](https://x.com/ElsaSofia__AI/status/2089306746804375878) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`parkour`](tags.md#tag-parkour) [`web-swinging`](tags.md#tag-web-swinging) [`nyc`](tags.md#tag-nyc) [`golden-hour`](tags.md#tag-golden-hour)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-CHARACTER REFERENCE — MANDATORY: Face — Reference Image 3. Outfit — short dark bob, black fitted crop jacket, distressed dark cargo denim shorts, gray hoodie tied at waist, teal satin ballet pointe shoes, pink tights, black headphones ON EARS, white gloves.
- CRITICAL — CHARACTER ANATOMY. NON-NEGOTIABLE: 165cm, 47kg. Athletic, lean, controlled. NEVER ragdoll. NEVER limp. NEVER floppy. Core always engaged. Every movement has muscle intention. She moves like a trained gymnast/dancer who happens to have superpowers — precise, casual, effortless. Minimal spinning. Body follows physics of each movement logically.
- CRITICAL — PHYSICAL CONTACT WITH ENVIRONMENT. NON-NEGOTIABLE: She does NOT just fly through the air. She interacts with the city physically — feet push off walls, hands grab ledges, body grazes building surfaces. Every contact point: knees absorb impact, muscles engage, body reacts to the surface. This is parkour + web-swinging, not floating.
- CRITICAL — BODY POSITIONS PER MOVEMENT TYPE:
-Web swing: arms extended forward gripping web, legs together trailing, core tight, back straight, chin up — clean rope-swing athlete position
-Wall push-off: both feet plant flat on wall, knees bend deep to absorb, then legs explode into full extension at launch, arms punch forward for momentum
-Running on wall: body leans 45 degrees toward wall, feet striking surface in running gait, arms pumping, hair and hoodie pulled sideways by momentum
-Free flight peak: arms naturally open to sides, body slightly arched back, relaxed — not posed, just physically released
-Street level run: full sprint, arms driving, head forward, teal pointe shoes striking pavement, body leaning into direction of travel
- CRITICAL — REALISM. NON-NEGOTIABLE: Real Hollywood film. RED Monstro 8K, anamorphic lens. Real motion blur, real fabric physics, real atmospheric NYC haze. REAL.
- CRITICAL — CAMERA. NON-NEGOTIABLE: ONE continuous drone-follow. ZERO cuts. ZERO teleporting. Tilts, banks, rolls physically. Wide enough to always show her AND environment. 
-
-15-second continuous drone-follow shot. DIRECT CONTINUATION — starts from black.
-0–1 sec: Black. Then — CLOSE-UP — white-gloved hand. Fingers open. Wrist snaps. Web shoots. Camera pulls back immediately.
-1–4 sec: Wide — residential NYC street. Brownstones, fire escapes, bodegas. She swings LOW — 3 meters above street. Body: arms extended gripping web, legs together trailing, core tight, back straight. At the bottom of the swing arc her feet skim the roof of a parked car — brief physical contact, feet bounce off lightly, she uses it to redirect. Camera banks 40 degrees.
-4–7 sec: She releases the web at peak — body opens, arms out, legs extend. Then instead of firing a new web immediately — she runs along the side of a brownstone wall. Feet strike the brick surface in a real running gait — body angled 45 degrees toward the wall, arms pumping, 4–5 quick steps along the vertical surface — then she pushes off hard with both feet, knees fully extending, and fires a new web mid-air toward a building across a wide intersection. Swing pulls her hard sideways — camera rolls 60 degrees.
-7–10 sec: She comes in LOW down a narrow street packed with yellow taxis. 2 meters off the ground, body streamlined — arms forward, legs trailing like an arrow. Web releases. Her feet hit the ground — full sprint, body leaning forward, arms driving — she runs 3–4 steps between taxis, using the momentum, feet striking the wet pavement. A taxi honks. She laughs. Then plants one foot on the side of a taxi cab, pushes off the car roof with a single explosive step, fires a web upward at a tall building, and rockets HIGH.
-"WOOHOO!"
-10–15 sec: WIDE SHOT — rooftop level, not too high. She hangs at the peak — arms slightly open, body naturally arched, completely still for one breathless moment. Golden hour sky — warm orange and pink light across the horizon. Massive dramatic clouds lit from below with gold. She is a small figure dead center against the enormous glowing sky. City rooftops, water towers, streets below. The frame holds. She begins to fall back down.
-[END]
-
- CRITICAL — EMOTION AND SOUND. NON-NEGOTIABLE: She is fully alive in every frame. Not blank. Not neutral. Not AFK.
-Her face and body express genuine real-time emotion throughout:
-During the first swing — wide eyes, slight grin, pure focus
-When feet skim the car — quick surprised laugh, instinctive
-Running on the wall — jaw set, determined, intense concentration
-Low between taxis — teeth showing, adrenaline grin, leaning into it
-The taxi honk — she laughs out loud, head tips back slightly
-"WOOHOO!" — completely uncontrolled, mouth open, genuine scream of joy
-Final wide shot at peak — arms open, head back, eyes closed, face of pure freedom — not blank, not posed, just a person at the best moment of their life
-AUDIO: SFX ONLY. NO MUSIC. Wind rushing. Web snap and twang. Feet hitting car roof. Feet hitting pavement — real impact sounds. Taxi horn. Her genuine laugh. "WOOHOO!" echoing between buildings. Wind cutting as she rises. Then — silence at the peak.
-
-RED Monstro 8K, anamorphic, 165cm 47kg controlled athletic body throughout, physical contact with walls/cars/surfaces at every opportunity, detailed body mechanics per movement type — swing/run/push-off/sprint, NO ragdoll NO float, severe Dutch angle during swings, golden hour sunset sky warm orange pink, dramatic volumetric clouds, subject at rooftop level NOT high altitude, subject tiny in center of wide final frame, residential NYC brownstones, continuous single drone follow, no cuts, photorealistic
 ```
 
 </details>

@@ -1,6 +1,6 @@
 # 插画
 
-[返回目录](../../README_zh.md) · 全部 119 条
+[返回目录](../../README_zh.md) · 全部 121 条
 
 <a id="nano-banana-map-screenshot-anime-panorama-shibuya"></a>
 ### 由地图截图生成的涩谷十字路口动漫全景
@@ -667,6 +667,43 @@ A vibrant colored-pencil illustration in portrait orientation. A vast field of v
 
 </details>
 
+<a id="gpt-image-cotton-wool-felt-canal-town"></a>
+### 棉絮毛毡运河小镇与睡莲
+
+<a href="https://x.com/churvikv/status/2117886438691799105"><img src="../../previews/gpt-image-cotton-wool-felt-canal-town.jpg" width="360"></a>
+
+提示词按区域逐一描述场景（天空、建筑、塔楼、桥、河道、小船、岸边、睡莲），每个区域都给出材质、颜色和位置，使构图清晰。明确的左右方位与固定色板让画面布局和配色在整幅图中保持稳定。
+
+GPT Image 2.5 · 文生图 · 出处: [@churvikv on X](https://x.com/churvikv/status/2117886438691799105) · 142 赞，统计于 2026-11-11
+
+[`felt`](tags.md#tag-felt) [`landscape`](tags.md#tag-landscape) [`relief-art`](tags.md#tag-relief-art) [`pastel`](tags.md#tag-pastel)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Soft cotton-wool relief artwork photographed flat, wide 16:9 panoramic composition. Every form is sculpted from fluffy white cotton batting, felted wool and airy pulled fibre, so the scene looks puffy and three-dimensional, like clouds pressed into shapes. Surfaces are matte, fuzzy and softly fibrous, with loose wisps of fluff at every edge, no hard outlines, gentle shadows between the puffed shapes to show real volume.
+
+SKY: billowing tufts of pulled cotton in ivory and cream, layered into rounded cloud masses across the upper third, pale blue backing showing through the gaps.
+
+FACADES: a row of ornate old-European townhouses fills the right half and centre, pressed felted wool in pale blush pink, butter yellow and creamy ochre, with faded apricot patches worked into the surface. Stepped baroque gables crown the roofs, tiny rolled-wool finials along the ridges, rows of tall windows with pale blue wool glass and white sills raised on every facade. Carved pediments and balconies are puffed shapes.
+
+TOWER: left of centre a tall slender tower rises highest, its spire a slim needle of rolled slate-blue and white fibre with a small cross, a round clock face and arched openings below.
+
+BRIDGE: far left, a pale felt bridge with two low arches crosses the canal, tiny dark wool figures on its parapet.
+
+CANAL: the lower half is calm pale turquoise and powder-blue felt water, combed into fine ripples, with long soft vertical reflections of the pastel buildings in pale violet, cream and mint.
+
+BOAT: at the centre a brown felt rowboat floats, a single figure with back turned in a blue-grey coat and wide straw hat, one oar reaching to the water.
+
+SHORES: dense reeds of pale sage-green fibre blades fringe both banks, with tall cattails and bare twigs at the left edge.
+
+WATER LILIES: golden-yellow lotus blooms with layered pointed felt petals across the lower foreground, on green lily pads.
+
+PALETTE: blush pink, cream, butter yellow, apricot, sage, powder blue, slate, gold. Matte fluff.
+```
+
+</details>
+
 <a id="nano-banana-colored-pencil-daisies-rain-sunbeams"></a>
 ### 阳光雨中的彩铅雏菊花田
 
@@ -758,6 +795,29 @@ GPT Image 2 · 文生图 · 出处: [@SimplyAnnisa on X](https://x.com/SimplyAnn
 
 ```text
 Abstract biomorphic mixed-media painting of [HUMAN] with [ANIMAL], caught in a dynamic off-balance pose inside [SCENERY]. Build the figures from irregular floating shape-cells, softly warped anatomy, oversized curious eyes, rounded mask-like faces, playful distorted proportions, and interlocking organic fragments that feel hand-cut and reassembled. Use [PALETTE] with translucent alcohol-ink blooms, watery pigment stains, dry watercolor edges, milky gradients, saturated accent shapes, soft paper texture, visible brush pooling, loose graphite contour marks, and bold imperfect outline moments. Keep the composition whimsical and unstable, with the human and animal visually connected by curling limbs, echoing shapes, shared eye direction, and rhythmic abstract movement. Background scenery should remain suggestive rather than literal, made from drifting color fields, bent geometric pieces, floating domestic symbols, and airy negative space. Painterly abstract portrait energy, playful emotional tension, softly organic surrealism, aspect ratio 4:5.
+```
+
+</details>
+
+<a id="seedream-5-5-quilled-woman-rainbow-umbrella"></a>
+### 卷纸艺术舞者配彩虹伞
+
+<a href="https://x.com/yourPlugAI/status/2120176960999403776"><img src="../../previews/seedream-5-5-quilled-woman-rainbow-umbrella.jpg" width="360"></a>
+
+用卷纸条和卷纸蝴蝶点明媒介，并以哑光深灰卡纸背景配顶部棚拍光，让画面像真实的纸雕作品。按顺序列出渐变色，使裙摆、伞面和水纹的彩虹过渡保持一致。
+
+Seedream 5.5 · 文生图 · 出处: [@yourPlugAI on X](https://x.com/yourPlugAI/status/2120176960999403776) · 114 赞，统计于 2026-11-11
+
+[`paper-craft`](tags.md#tag-paper-craft) [`quilling`](tags.md#tag-quilling) [`rainbow`](tags.md#tag-rainbow) [`woman`](tags.md#tag-woman)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+3D paper quilling art of a graceful woman dancing in side-profile. She wears an elegant sleeveless v-neck dress made of intricately coiled paper strips in a vivid rainbow gradient—transitioning seamlessly through yellow, orange, red, magenta, deep purple, royal blue, and emerald green.
+
+Her long brown hair flows in the wind behind her as she gracefully holds an open quilled umbrella featuring matching rainbow paper panels overhead. She wears bright red high heels, standing atop quilled paper water ripples reflecting vibrant hues. Surrounding her in mid-air are multiple detailed quilled paper butterflies in shades of bright orange, yellow, pink, and sky blue.
+
+The background is a solid matte dark charcoal grey cardstock, featuring subtle overhead studio directional lighting that casts soft 3D drop shadows underneath the layered paper elements, emphasizing realistic texture and depth. High detail, paper craft sculpture aesthetic, 4k resolution. --ar 2:3
 ```
 
 </details>

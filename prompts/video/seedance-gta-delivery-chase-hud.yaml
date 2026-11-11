@@ -1,0 +1,25 @@
+id: seedance-gta-delivery-chase-hud
+title:
+  en: Woman walks Japanese street under game HUD overlay
+  zh: 女子走在日本街道上，画面叠加游戏界面
+model: Seedance 2.5
+mode: reference-to-video
+category: action
+tags:
+- gta-style
+- open-world
+- game-hud
+- chase
+source:
+  name: '@AIwithSynthia on X'
+  url: https://x.com/AIwithSynthia/status/2098615400141619289
+  credit: AIwithSynthia
+  captured: '2026-11-11'
+  posted: '2026-09-12'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithSynthia/status/2098615400141619289
+notes:
+  en: The uploaded image is attached as a character reference, so hair and outfit stay fixed while the prompt scripts a beat by beat chase. Naming the exact HUD elements and banning anime, cinematic shots and cel shading keeps the output in realistic gameplay capture.
+  zh: 上传的图片作为角色参考，锁定发型和服装，提示词按顺序写明每个剧情节拍。明确列出HUD元素，并排除动漫、电影镜头和卡通渲染，让画面保持写实的游戏实录质感。
+prompt: "GTA-style chaos, but the mission makes absolutely no sense. \U0001F602\n\nCreated with Seedance 2.5 on @itsPolloAI \n\nCreate a 30-second realistic AAA third-person open-world game sequence in a lively local Japanese neighborhood. Use the uploaded image as the exact character reference: a young Korean woman in her early 20s with long black hair, pastel-lavender top, white cargo pants and sneakers. Keep her appearance consistent.\n\nShe notices a delivery cyclist carrying a cardboard package, grabs the package, and runs. The cyclist chases her through the streets. She hides behind a parked kei truck, sneaks out, then accidentally crashes into another delivery worker, sending boxes everywhere. She ignores a “RETURN PACKAGE” prompt and runs again. She crosses a pedestrian bridge, briefly leaves the package beside a bench, grabs it when the cyclist arrives, and continues escaping.\n\nShe eventually reaches the address printed on the package and realizes she has accidentally delivered\
+  \ it to the correct recipient. The recipient happily takes it while the exhausted cyclist arrives and looks completely confused. She gives him an innocent smile and walks away.\n\nUse authentic third-person gameplay graphics, realistic 3D characters, detailed village/neighborhood environment, believable physics and NPC reactions. Include a GTA-style HUD with minimap, health/stamina bars, controller prompts, mission objectives, alert markers and notifications such as “PACKAGE STOLEN,” “THEY FOUND YOU,” “BAD DECISION,” “DELIVERY COMPLETE,” “MISSION COMPLETE,” and “CHAOS +150.”\n\nNo anime, cartoon, cel-shading, mobile-game graphics, cinematic movie shots, distorted characters, inconsistent objects, gore or unrealistic physics.\n"

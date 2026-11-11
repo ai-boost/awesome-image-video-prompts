@@ -1,0 +1,292 @@
+id: seedance-rooftop-queen-downfall
+title:
+  en: Pink hair heroine confronts blonde rival on rooftop
+  zh: 粉发女主角在天台与金发对手对峙
+model: Seedance 2.5
+mode: reference-to-video
+category: action
+tags:
+- telekinesis
+- korean-drama
+- revenge
+source:
+  name: '@Just_sharon7 on X'
+  url: https://x.com/Just_sharon7/status/2111459728216015154
+  credit: Just_sharon7
+  captured: '2026-11-11'
+  posted: '2026-10-17'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Just_sharon7/status/2111459728216015154
+notes:
+  en: A reference image slot locks the heroine's identity, and the prompt is written as timed beats of about four seconds each with a camera direction for every shot. Explicit exclusions such as no neon, no magical circles and no cartoon physics keep the telekinesis grounded and realistic.
+  zh: 用参考图槽位锁定女主角的人物身份，并把提示词写成每段约四秒的时间节拍，每个镜头都附带机位说明。明确排除霓虹、魔法阵和卡通物理等写法，让念力效果保持写实。
+prompt: |
+  CINEMATIC VIDEO GENERATION PROMPT
+
+  TITLE: THE ROOFTOP QUEEN'S DOWNFALL
+
+  GENRE: Korean supernatural action drama | Psychological revenge | Telekinetic powers | High-intensity confrontation
+  FORMAT: 30 seconds | 16:9 widescreen | 1080p | 24 FPS | Ultra-photorealistic live action
+  VISUAL STYLE
+  Premium Korean action cinema blended with the spectacular supernatural destruction of Hollywood blockbusters.
+
+  Extremely realistic physical movements, intense confrontations, dramatic facial expressions, explosive invisible forces, believable gravity manipulation, violent environmental reactions, dynamic handheld camera movements, aggressive tracking shots, rapid whip pans, and breathtaking vertical cinematography.
+  Realistic human skin texture, visible pores, natural facial imperfections, believable clothing physics, realistic hair movement, authentic shadows, and physically accurate object collisions.
+  The heroine must appear completely human. No anime, cartoon physics, plastic skin, exaggerated CGI effects, magical circles, or superhero costumes.
+  CHARACTER IDENTITY LOCK
+  MAIN HEROINE — {{Image 1}}
+
+  A striking 22-year-old Korean university student. Preserve her exact reference facial identity, hairstyle, skin tone, body proportions, and appearance throughout every shot.
+
+  OUTFIT: Fitted black university blazer, crisp white collared shirt, black ribbon tie, short black pleated skirt, black knee-high socks, polished black loafers, and a delicate silver necklace with a small heart-shaped pendant.
+
+  PERSONALITY: Quiet, mysterious, emotionally restrained, fearless, cold, sarcastic, and extraordinarily powerful.
+
+  She secretly possesses devastating telekinetic abilities, capable of manipulating gravity, suspending human bodies in midair, controlling hundreds of objects simultaneously, and generating enormous invisible shockwaves.
+
+  POWER ACTIVATION: Her irises develop a subtle electric-pink glow. The glow remains confined primarily to her eyes, producing delicate pink reflections along her eyelids. No laser beams, pink smoke, magical symbols, or exaggerated visual effects.
+
+  She activates her powers through small, controlled finger movements, subtle head tilts, or simply by staring at her target.
+
+  MAIN ANTAGONIST — THE ROOFTOP QUEEN
+
+  A beautiful but arrogant 23-year-old wealthy Korean university student with long blonde hair, flawless fashionable makeup, an expensive cream-colored designer blazer, white blouse, short pleated skirt, luxury handbag, and high heels.
+
+  She is cruel, entitled, theatrical, and convinced that everyone fears her.
+
+  SECONDARY CHARACTERS
+
+  Three fashionable university students who accompany the bully, laughing, recording the confrontation, and encouraging the humiliation.
+
+  SETTING
+
+  The rooftop of a prestigious modern Korean university during late afternoon.
+
+  A large concrete rooftop surrounded by protective railings, ventilation systems, rooftop air-conditioning units, loose plastic chairs, scattered papers, metal buckets, empty flowerpots, maintenance equipment, and a small rooftop utility structure with a tall concrete wall.
+
+  Beyond the rooftop, an expansive Seoul skyline stretches into the distance.
+
+  Strong natural daylight, slightly overcast skies, realistic wind, and dramatic atmospheric depth.
+
+  No neon lighting or nighttime environment.
+
+  00:00–00:04 — THE PUBLIC HUMILIATION
+
+  OPEN IMMEDIATELY with an aggressive handheld tracking shot.
+
+  The wealthy blonde bully forcefully shoves the heroine backward against a concrete rooftop wall.
+
+  Three students stand nearby, laughing and filming.
+
+  The heroine remains silent, staring directly into the bully's eyes.
+
+  The bully suddenly grabs the delicate silver necklace around the heroine's neck and tears it away.
+
+  BULLY (mocking): "You really thought you belonged here?"
+
+  The heroine looks at the necklace in the bully's hand.
+
+  For the first time, her expression changes.
+
+  Her jaw tightens.
+
+  00:04–00:08 — THE UNFORGIVABLE MISTAKE
+
+  The blonde bully walks toward the rooftop railing, dangling the necklace between two fingers.
+
+  HEROINE (quietly): "Give it back."
+
+  The bully laughs.
+
+  BULLY: "Then go get it."
+
+  She throws the necklace over the railing.
+
+  CAMERA WHIP-PANS toward the falling necklace.
+
+  EXTREME CLOSE-UP:
+
+  The silver necklace tumbles through the air beyond the rooftop.
+
+  Suddenly—
+
+  IT STOPS.
+
+  The necklace freezes completely in midair, suspended several feet outside the railing.
+
+  The wind continues moving naturally around it.
+
+  All laughter stops.
+
+  00:08–00:12 — ELECTRIC-PINK AWAKENING
+
+  SMASH CUT to an extreme close-up of the heroine's face.
+
+  Her eyes slowly develop a subtle ELECTRIC-PINK GLOW.
+
+  A deep, barely audible supernatural pressure begins building.
+
+  Her hair moves backward in a sudden unnatural gust.
+
+  Loose papers tremble.
+
+  Metal buckets rattle.
+
+  The rooftop chairs begin vibrating against the concrete.
+
+  The heroine slowly lifts her chin.
+
+  HEROINE (coldly): "You shouldn't have done that."
+
+  The necklace begins floating back toward her.
+
+  The bully takes a nervous step backward.
+
+  00:12–00:17 — THE GRAVITY REVERSAL
+
+  The blonde bully suddenly charges toward the heroine, attempting to strike her.
+
+  WITHOUT MOVING—
+
+  The heroine raises one finger.
+
+  The bully instantly freezes in mid-stride.
+
+  Her shoes slowly lift from the rooftop.
+
+  She rises three feet above the ground, arms flailing as she struggles against an invisible force.
+
+  Her long blonde hair and cream blazer move naturally in the wind.
+
+  BULLY (terrified): "PUT ME DOWN!"
+
+  The heroine tilts her head.
+
+  HEROINE: "You wanted to be above everyone."
+
+  The bully rises another few feet, remaining safely suspended above the rooftop.
+
+  00:17–00:22 — THE ROOFTOP GRAVITY STORM
+
+  The heroine spreads her fingers.
+
+  A powerful invisible gravitational field expands across the rooftop.
+
+  HUNDREDS OF LOOSE OBJECTS BEGIN LEVITATING.
+
+  Metal buckets spin violently.
+
+  Plastic chairs rise and rotate.
+
+  Loose papers swirl through the air.
+
+  Flowerpots hover above the concrete.
+
+  Maintenance tools vibrate and float.
+
+  Dust and small debris form a massive rotating vortex around the heroine.
+
+  The three other students stumble backward in terror, grabbing the railing.
+
+  The heroine stands completely motionless at the center.
+
+  Her electric-pink eyes glow with terrifying calmness.
+
+  CAMERA ORBITS RAPIDLY around her, revealing the floating objects and the suspended bully.
+
+  00:22–00:27 — THE IMPOSSIBLE WALL WALK
+
+  The heroine slowly turns toward the tall concrete utility wall.
+
+  She takes one step forward.
+
+  Then another.
+
+  Without changing her body posture, she begins WALKING VERTICALLY UP THE WALL.
+
+  Her shoes make realistic contact with the concrete as her personal gravity rotates ninety degrees.
+
+  Her hair and clothing respond naturally to the altered gravitational field.
+
+  The camera rotates with her movement, creating a breathtaking perspective shift.
+
+  She walks several feet upward, now standing sideways relative to the rooftop.
+
+  The blonde bully remains suspended safely in midair, staring at her in absolute terror.
+
+  The heroine looks directly at her.
+
+  HEROINE (calmly): "Now look down."
+
+  The bully looks at the rooftop below and gasps.
+
+  00:27–00:30 — THE QUEEN FALLS
+
+  The heroine slowly closes her fist.
+
+  Every floating object freezes in place.
+
+  The bully descends rapidly but decelerates smoothly, landing safely on her knees on the rooftop.
+
+  The necklace floats gently into the heroine's open palm.
+
+  She steps down the vertical wall, returning to normal gravity.
+
+  Her electric-pink eyes fade back to their natural color.
+
+  She puts the necklace back around her neck.
+
+  The bully remains kneeling, trembling.
+
+  HEROINE (whispering): "Never touch what's mine."
+
+  FINAL SHOT:
+
+  Low-angle close-up of the heroine walking confidently past the camera.
+
+  Behind her, every floating object drops simultaneously onto the rooftop with an enormous metallic crash.
+
+  She doesn't look back.
+
+  CUT TO BLACK.
+
+  CINEMATOGRAPHY
+
+  Aggressive handheld tracking during the confrontation.
+
+  Extreme macro close-up of the necklace falling.
+
+  Slow dramatic push-in during electric-pink eye activation.
+
+  Sudden whip pans following telekinetic movements.
+
+  Wide-angle shots revealing the rooftop gravity storm.
+
+  Smooth rotating camera movement during the vertical wall walk.
+
+  Low-angle hero framing during the final confrontation.
+
+  Realistic motion blur, natural lighting, authentic skin textures, and physically convincing movement.
+
+  SOUND DESIGN
+
+  Natural rooftop wind, distant Seoul traffic, footsteps against concrete, realistic fabric movement, metallic rattling, frightened breathing, subtle supernatural pressure pulses, powerful bass impacts, and crashing rooftop equipment.
+  Build tension through silence immediately before the heroine activates her powers.
+  Korean dialogue with natural delivery and accurate lip synchronization.
+  STRICT REQUIREMENTS
+  Preserve the heroine's exact facial identity and outfit throughout.
+  Her eyes must glow subtle electric pink only when activating telekinesis.
+  The necklace must visibly stop falling in midair before returning to her.
+  Telekinetic objects must respond with believable mass, momentum, and collisions.
+
+  The bully must remain physically consistent and visibly frightened.
+
+  The heroine must walk vertically along the concrete wall, not simply float beside it.
+
+  The vertical wall walk must be shown clearly in a wide shot.
+
+  No excessive glowing energy, lightning beams, magical symbols, or cartoon effects.
+
+  The bully must remain safely above the rooftop and never fall over the edge.
+
+  Maintain escalating tension, emotional intensity, supernatural dominance, and a spectacular final payoff.

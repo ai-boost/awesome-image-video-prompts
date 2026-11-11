@@ -1,0 +1,24 @@
+id: nano-banana-valentines-chocolate-portrait
+title:
+  en: Man on newspapers with roses and chocolates
+  zh: 男子躺在报纸上配玫瑰与巧克力
+model: Nano Banana Pro
+mode: image-edit
+category: portrait
+tags:
+- valentines-day
+- portrait
+- chocolate
+- roses
+source:
+  name: '@doctorwasif on X'
+  url: https://x.com/doctorwasif/status/2021905485847531762
+  credit: WasifAI
+  likes: 67
+  captured: '2026-11-11'
+  posted: '2026-02-12'
+notes:
+  en: Uploading a reference photo and stating preserve likeness exactly fixes the face while the scene is built around it. Naming lens, aperture, light direction and film stock turns a generic request into a magazine editorial look.
+  zh: 上传参考照片并写明保留面部特征，可以固定人脸，再围绕它搭建场景。写明镜头焦段、光圈、光线方向和胶片色调，能把通用提示词变成杂志编辑风格的画面。
+prompt: |
+  Use uploaded image (face+shoulders) — preserve likeness exactly; top-down 4:5 close-up of subject lying on densely layered, readable newspapers (folded paper in hands headline "Valentine's Day"); hair fanned; tailored red blazer over white shirt with tiny red "ImagineArt" + heart; scattered deep-red roses, loose petals, open artisanal chocolate box near hands with assorted chocolates (one truffle bitten revealing creamy filling), loose chocolates, crumbs, cocoa dusting and faint cocoa speck on fingertips; two red heart foil balloons at top corners; heart-shaped gobo/flash across face & half body; subject wears heart-shaped chocolate-frame glasses with pink translucent lenses (eyes visible); pin-sharp face, hands, main chocolates/rose cluster with creamy bokeh (85mm/100mm, f/1.8–2.8), ISO100–200, ~1/125s, full-frame, 4K+; warm top-left softbox + subtle warm rim from right; Kodak-Portra warm toning, rich saturated reds, slight film grain; microdetail: hair strands, fabric weave, skin pores, petal veins, chocolate gloss/speculars, tiny melted gloss bead, cocoa powder texture, crumbs, faint foil fingerprint; subtle imperfections: one slightly crushed petal, small cocoa smudge on newspaper edge; ultra-realistic magazine-editorial — no added text or watermark.

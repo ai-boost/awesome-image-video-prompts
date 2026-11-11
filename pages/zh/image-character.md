@@ -1,6 +1,6 @@
 # 角色与手办
 
-[返回目录](../../README_zh.md) · 全部 111 条
+[返回目录](../../README_zh.md) · 全部 112 条
 
 <a id="gpt-image-tanjiro-pixel-sprite-sheet-water-attack"></a>
 ### 炭治郎十六帧像素精灵图与水之呼吸攻击
@@ -160,6 +160,31 @@ ChatGPT · 文生图 · 出处: [@totalparadise on TikTok](https://www.tiktok.co
 
 ```text
 With everything you know about me, what would I look like as a Rugrats kid. Include the toy Reptar, other characters and things from the show.
+```
+
+</details>
+
+<a id="seedream-5-5-slytherin-library-smile"></a>
+### 霍格沃茨图书馆烛光中微笑的斯莱特林少女
+
+<a href="https://x.com/Mayz1169/status/2120151170102767819"><img src="../../previews/seedream-5-5-slytherin-library-smile.jpg" width="360"></a>
+
+用参考图锁定角色外形，提示词再逐项列出校服和配色，让服装保持一致。光线来自两个方向，左侧暖色烛光与窗外冷蓝暮光，形成明暗层次。
+
+Seedream 5.5 · 上传图改图 · 出处: [@Mayz1169 on X](https://x.com/Mayz1169/status/2120151170102767819) · 924 赞，统计于 2026-11-11
+
+[`anime`](tags.md#tag-anime) [`harry-potter`](tags.md#tag-harry-potter) [`fan-art`](tags.md#tag-fan-art) [`candlelight`](tags.md#tag-candlelight)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+try it here 👉
+https://
+renoise.ai/?utm_medium=xc
+om&utm_source=kiki-seedream-5-5
+…
+
+Use @ image as the exact character design: long pale-blonde hair, grey eyes, Slytherin uniform with grey sweater vest, green-and-silver striped tie and black robe with green lining. High-quality anime illustration, upper-body shot of her sitting at a long wooden table in the Hogwarts library at dusk, turning her head toward the viewer with a sly, confident smile. Her hands are out of frame. Warm candlelight from the left lights her face and hair, cool blue twilight comes through the tall arched window behind her, glowing dust in the air, stacks of old books softly blurred in the background. Clean line art, rich soft lighting, detailed hair strands, no text.
 ```
 
 </details>

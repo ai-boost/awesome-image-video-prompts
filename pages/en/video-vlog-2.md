@@ -1,6 +1,6 @@
 # Phone footage and vlogs
 
-[Back to the list](../../README.md) · All 182 entries · [1](video-vlog.md) · **2** · [3](video-vlog-3.md)
+[Back to the list](../../README.md) · All 186 entries · [1](video-vlog.md) · **2** · [3](video-vlog-3.md)
 
 <a id="seedance-hawaii-travel-vlog-montage"></a>
 ### Woman in floral dress walks a Hawaii street
@@ -902,6 +902,67 @@ Create a 60-second ultra-realistic cinematic lifestyle vlog featuring a beautifu
 **Mood:** Peaceful, romantic, cozy, elegant, dreamy everyday life.
 
 Maintain perfect character consistency, identical facial features, hairstyle, clothing, and accessories across all scenes. No distorted hands, no flickering, no face changes, no unnatural movements, no text, no watermark.
+```
+
+</details>
+
+<a id="seedance-korean-camping-vlog-three-friends"></a>
+### Three friends camping in Korean mountains vlog
+
+<a href="https://x.com/saniaspeaks_/status/2119291884556169419"><img src="../../previews/seedance-korean-camping-vlog-three-friends.jpg" width="360"></a>
+
+A numbered list of ten timed scenes with exact second ranges fixes the order and pacing of the clip. A character block with outfit details plus a continuity rule keeps the three friends consistent across cuts.
+
+Seedance 2.5 · Text-to-video · Source: [@saniaspeaks_ on X](https://x.com/saniaspeaks_/status/2119291884556169419) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`camping`](tags.md#tag-camping) [`korea`](tags.md#tag-korea) [`handheld`](tags.md#tag-handheld) [`vlog`](tags.md#tag-vlog)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 30-second ultra-realistic 4K live-action travel vlog featuring three young Korean female friends camping in the beautiful mountains of South Korea. Authentic handheld camcorder footage, natural friendship moments and realistic activities.
+
+CHARACTERS:
+
+- Main girl: Shoulder-length dark brown hair, beige fleece jacket, white T-shirt, olive cargo pants and hiking shoes.
+- Friend 1: Black ponytail, dusty blue outdoor jacket, black pants and hiking shoes.
+- Friend 2: Medium-length brown hair, brown knitted sweater, dark jeans and hiking shoes.
+
+Keep all faces, hairstyles and outfits identical throughout.
+
+EXACT 10-SCENE SEQUENCE — 30 SECONDS
+
+1. ROAD TRIP (0–3s): A car travels along a winding Korean mountain road. The main girl films the forest from the passenger seat while her two friends laugh in the back.
+
+2. CAMPSITE ARRIVAL (3–5s): They park at a grassy campsite surrounded by pine trees and mountains, then unload their tent, backpacks and supplies.
+
+3. SETTING UP TENT (5–9s): They spread the tent fabric, connect poles, raise the tent, secure stakes and attach the rain cover. Show the complete assembly naturally.
+
+4. CAMPSITE SETUP (9–11s): They arrange camping chairs, a folding table, backpacks, vegetables, meat and cooking equipment.
+
+5. BARBECUE (11–15s): One girl prepares the portable grill, another chops vegetables, and the main girl grills marinated meat. Realistic sizzling, smoke and cooking movements.
+
+6. DINNER (15–18s): They enjoy Korean barbecue, lettuce wraps, rice and side dishes while laughing and sharing food.
+
+7. CAMPFIRE (18–22s): At night, they sit around a safe campfire. The main girl tells a funny story, her friends laugh, and warm firelight illuminates their faces.
+
+8. STARRY NIGHT (22–24s): They admire the stars, pointing towards the sky while their tent glows softly behind them.
+
+9. NEXT MORNING (24–26s): The main girl wakes inside her sleeping bag, stretches, unzips the tent and looks outside at the misty mountains.
+
+10. SUNRISE ENDING (26–30s): All three walk to a safe mountain viewpoint overlooking misty green peaks. They admire the golden sunrise. The main girl smiles and waves at the camera. End with a beautiful wide handheld shot of the friends together.
+
+VISUAL STYLE:
+Ultra-photorealistic 4K travel vlog, authentic Korean mountains, natural handheld camera shake, imperfect framing, occasional autofocus adjustments, realistic lighting, skin textures, expressions, camping equipment, food, smoke, fire and morning mist.
+
+AUDIO: Natural sounds only: car engine, forest wind, footsteps, tent assembly, sizzling barbecue, conversations, laughter, crackling fire, crickets and morning birds. No music or narration.
+
+STRICT CONTINUITY:
+Same three girls, outfits, campsite, tent and equipment throughout. Show every action in the correct order. Tent setup before cooking, cooking before eating, campfire after dinner and sunrise the following morning.
+
+No teleportation, missing scenes, duplicated objects, distorted hands, sudden outfit changes, artificial CGI or unnatural movements.
+
+FINAL GOAL: A warm, nostalgic and completely believable weekend camping vlog filled with genuine friendship, beautiful mountain scenery and a breathtaking sunrise. All 10 scenes must appear within exactly 30 seconds.
 ```
 
 </details>
@@ -4011,6 +4072,53 @@ She slows down, sits on the edge of the mat, drinks water and catches her breath
 
 </details>
 
+<a id="seedance-russia-winter-travel-vlog"></a>
+### Drone pullback over snowy Russian city in morning haze
+
+<a href="https://x.com/Xaroon_x/status/2098642605735125046"><img src="../../previews/seedance-russia-winter-travel-vlog.jpg" width="360"></a>
+
+Timed beats with one named camera move each (drone pullback, whip pan, rack focus, speed ramp) keep a 30 second sequence readable. A single image1 reference locks the traveler's face, and the outfit is listed item by item so it stays the same in every shot.
+
+Seedance 2.5 · Reference-to-video · Source: [@Xaroon_x on X](https://x.com/Xaroon_x/status/2098642605735125046) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`winter`](tags.md#tag-winter) [`travel-vlog`](tags.md#tag-travel-vlog) [`drone`](tags.md#tag-drone) [`russia`](tags.md#tag-russia)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 30-second ultra-realistic 4K cinematic winter travel vlog in Russia. Use the male traveler from image1 as the exact character reference in every shot. Keep his face, hairstyle, facial hair, skin and body consistent.
+
+He wears the same winter outfit throughout: insulated puffer jacket, knitted beanie, scarf, gloves, dark trousers and waterproof boots. Keep colors and design consistent.
+
+0:00–0:02: Cinematic drone pull-back over a snow-covered Russian city with golden domes, frozen rooftops, ice crystals, pale sunlight and morning haze.
+
+0:02–0:05: Handheld selfie vlog. He walks on a snowy cobblestone street, smiles and talks to camera. Visible breath mist and winter lens flare. Whip pan.
+
+0:05–0:08: Russian winter market with colorful stalls, matryoshka dolls and steaming samovars. Focus on objects, rack focus to his face as he picks up a souvenir, slow push-in, warm grade.
+
+0:08–0:10: Macro of his gloved hand holding a lacquered figurine, frost details, bokeh and subtle camera drift. Match cut.
+
+0:10–0:14: Side tracking shot beside a grand ice-covered historic building, icy reflections, speed ramp 60% to 100%.
+
+0:14–0:16: Dutch tilt and tilt-up revealing a frozen cathedral against a grey winter sky. He looks up in awe.
+
+0:16–0:19: Slow-motion wide shot walking beside a frozen river, blowing snow, distant skyline, cinematic letterbox.
+
+0:19–0:22: Handheld selfie close-up holding a steaming hot drink, satisfied expression, warm grade.
+
+0:22–0:25: Fast montage: palace hallway walk, photographing an ice sculpture, snowy bridge thumbs-up. Rapid cuts and motion blur.
+
+0:25–0:28: Golden-hour overlook of the frozen city, slow push-in toward his silhouette.
+
+0:28–0:29: He faces camera, smiles and waves, subtle lens flare.
+
+0:29–0:30: Cut to black screen. Centered elegant white text fades in: “Wizstar AI”. Music fades to silence.
+
+Photorealistic, cinematic lighting, realistic snow, natural motion, accurate hands, consistent image1 identity and outfit, no face changes, distortion, cartoon or CGI.
+```
+
+</details>
+
 <a id="seedance-selfie-kitten-swat-vlog"></a>
 ### Selfie vlog woman laughs as kitten swats
 
@@ -4526,274 +4634,35 @@ Mood: dreamy, youthful, warm, slightly nostalgic Korea travel film. No dialogue.
 
 </details>
 
-<a id="seedance-seoul-summer-day-handheld"></a>
-### Man sits on Seoul rooftop with cold drink
+<a id="seedance-seoul-neighborhood-walk-corn"></a>
+### Woman with water bottle leaves Seoul home
 
-<a href="https://x.com/Sheldon056/status/2091396663718117706"><img src="../../previews/seedance-seoul-summer-day-handheld.jpg" width="360"></a>
+<a href="https://x.com/AIwithkhan/status/2105860239375638663"><img src="../../previews/seedance-seoul-neighborhood-walk-corn.jpg" width="360"></a>
 
-The prompt locks in a handheld home-video look with explicit flaws such as late refocusing, exposure shifts and cropped framing, and bans gimbal moves and colour grading. Repeating the wardrobe and watch details in every beat keeps the same person consistent across the whole clip.
+A reference image locks the character's face and outfit, while the prompt names early 2000s DV traits such as handheld shake, autofocus hunting and mild digital noise so the footage reads as a real home video. Restricting the audio to natural neighborhood sounds and banning music, narration and polished camera moves keeps it believable.
 
-Seedance 2.5 · Text-to-video · Source: [@Sheldon056 on X](https://x.com/Sheldon056/status/2091396663718117706) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+Seedance 2.5 · Reference-to-video · Source: [@AIwithkhan on X](https://x.com/AIwithkhan/status/2105860239375638663) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
 
-[`handheld`](tags.md#tag-handheld) [`home-video`](tags.md#tag-home-video) [`seoul`](tags.md#tag-seoul) [`rain`](tags.md#tag-rain)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a 30-second, 1080p ultra-realistic documentary-style personal home video showing an ordinary summer day in the life of a young Korean man. The footage should feel spontaneous, intimate, imperfect, and genuinely observed rather than performed.
-MAIN SUBJECT
-The same young Korean man in his early 20s throughout the entire video.
-Naturally handsome, realistic skin texture, minimal styling, relaxed expression, slightly tired but peaceful eyes.
-He has naturally messy medium-length dark hair with a few strands falling over his forehead and very subtle stubble.
-He wears a loose washed-black T-shirt, relaxed olive-beige trousers, worn white sneakers, and a simple silver wristwatch.
-Keep his face, identity, body proportions, hairstyle, clothing, watch, and overall appearance completely consistent from beginning to end.
-LOCATION
-A quiet older residential neighborhood in Seoul during a warm summer afternoon.
-Narrow concrete alleys, low-rise homes, rooftop terraces, external staircases, potted plants, laundry lines, parked bicycles, utility poles, overhead wires, mature trees, concrete walls, small residential courtyards, and distant city sounds.
-The neighborhood should feel authentic and lived-in.
-No crowds, tourist attractions, advertisements, recognizable brands, or commercial activity.
-CAMERA / VISUAL STYLE
-Authentic casual personal-video footage captured with an older consumer digital camera.
-Handheld camera operated by a friend walking nearby.
-Natural camera shake, imperfect framing, occasional autofocus changes, slight exposure adjustments when moving between sunlight and shade, soft image detail, mild motion blur, subtle digital noise, slightly muted colors, imperfect white balance, and natural compression.
-The camera operator occasionally reacts a little late, cuts off part of the subject, or briefly loses focus.
-No stabilization, gimbal movement, drone shots, cinematic camera choreography, dramatic lighting, slow motion, modern commercial color grading, or polished cinematography.
-The footage should feel like someone simply decided to record his friend during an ordinary day.
----
-00:00–00:05 — MORNING ROOFTOP
-He sits casually on a small rooftop beside an old plastic chair.
-A cold bottled drink rests beside him.
-He looks quietly across the neighborhood while the wind moves his hair and T-shirt.
-He takes a sip, notices something happening in the distance, and smiles faintly.
-He briefly notices the camera and gives a subtle nod before looking away.
-The camera takes a moment to find focus on his face.
----
-00:05–00:10 — WALKING THROUGH THE ALLEY
-He gets up and walks downstairs into the neighborhood.
-He walks casually through a narrow concrete alley with his hands in his pockets.
-He passes parked bicycles, potted plants, laundry hanging from balconies, and old residential walls.
-The camera follows several steps behind him.
-He occasionally looks back toward the camera but never deliberately poses.
-His footsteps remain naturally synchronized with his movement.
----
-00:10–00:14 — SMALL EVERYDAY MOMENT
-He notices an old basketball resting near a wall.
-He picks it up, casually bounces it twice, then takes a simple shot toward a nearby hoop.
-The shot misses.
-He laughs quietly, shakes his head, and leaves the ball where he found it.
-The camera briefly loses focus during the movement and recovers naturally.
-No exaggerated athletic movement.
----
-00:14–00:19 — LOCAL SHOP
-He walks to a tiny neighborhood shop and buys a cold drink.
-He exchanges a few natural words with the shopkeeper but the conversation is not clearly audible.
-He steps outside, opens the bottle, takes a drink, and leans casually against the wall.
-He watches bicycles and pedestrians passing in the distance.
-The camera remains handheld and slightly imperfect.
----
-00:19–00:23 — SUMMER RAIN
-A sudden summer shower begins.
-He looks toward the sky with mild surprise.
-Instead of immediately running for shelter, he smiles and slowly walks into the rain.
-The rain becomes heavier.
-His hair becomes wet and falls naturally across his forehead.
-He eventually starts running down the alley, laughing genuinely.
-He briefly spins around while running, then continues toward a covered walkway.
-His clothes become visibly damp.
-Maintain realistic rain interaction, wet fabric, wet hair, reflections, and foot contact with the ground.
----
-00:23–00:27 — QUIET MOMENT
-He reaches the covered walkway and catches his breath.
-Rain falls heavily behind him.
-He wipes water from his forehead and looks quietly toward the street.
-For a moment, everything becomes still.
-He notices the camera again.
-He gives a small genuine smile, not a posed expression.
----
-00:27–00:30 — WALKING AWAY
-The rain becomes lighter.
-He walks away down the wet residential lane.
-The camera follows from behind.
-Reflections shimmer across the concrete.
-He turns his head once, gives a tiny wave toward the camera, smiles, and continues walking.
-The camera remains pointed toward the empty street for a brief moment.
-At approximately 00:29, the recording abruptly cuts to black mid-motion.
-No fade-out.
----
-PHYSICAL REALISM
-Maintain believable real-world physics throughout.
-Hands, fingers, feet, clothing, hair, rain, bottle, basketball, and background objects must behave naturally.
-No extra fingers, fused hands, duplicated limbs, distorted anatomy, floating objects, teleportation, disappearing objects, or sudden transformations.
-The bottle remains a separate physical object and never intersects with his face.
-The basketball behaves naturally and remains where it lands.
-Parked bicycles and background objects remain stationary unless physically moved.
-His feet remain properly connected to the ground while walking and running.
-Keep the environment and subject consistent between shots.
----
-AUDIO
-Natural environmental audio only.
-Footsteps on concrete, distant traffic, birds, leaves moving in the wind, bicycles, faint neighborhood conversations, shop sounds, bottle opening, basketball bouncing, rain hitting concrete, water dripping from rooftops, and subtle camera-handling noise.
-No music.
-No narration.
-No soundtrack.
-No artificial sound effects.
-No spoken dialogue is necessary.
----
-FINAL FEEL
-The result should feel like a forgotten personal recording of an ordinary summer day.
-Not a commercial.
-Not a fashion film.
-Not a music video.
-Not a professional cinematic production.
-The emotional appeal should come from small human moments: sitting alone, wandering through familiar streets, missing a basketball shot, drinking something cold, getting caught in the rain, laughing, and walking home.
-Quiet, masculine, youthful, nostalgic, slightly melancholic, warm, spontaneous, and deeply human.
-Prioritize natural behavior, consistent identity, believable physics, imperfect handheld framing, authentic environmental details, and the feeling that the camera happened to be there.
-```
-
-</details>
-
-<a id="seedance-seoul-summer-gum-home-video"></a>
-### Korean woman in pastel top leaves home
-
-<a href="https://x.com/AIwithkhan/status/2116387431289344020"><img src="../../previews/seedance-seoul-summer-gum-home-video.jpg" width="360"></a>
-
-Frames the clip as a friend's casual camcorder recording, pairing handheld shake, autofocus hunting and exposure shifts with a locked identity for face, hair and outfit. Beat by beat action lines keep each event, such as the gum bubble and the football kick, physically specific.
-
-Seedance 2.5 · Text-to-video · Source: [@AIwithkhan on X](https://x.com/AIwithkhan/status/2116387431289344020) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`korean`](tags.md#tag-korean) [`home-video`](tags.md#tag-home-video) [`daily-life`](tags.md#tag-daily-life) [`handheld`](tags.md#tag-handheld)
+[`home-video`](tags.md#tag-home-video) [`seoul`](tags.md#tag-seoul) [`reference-image`](tags.md#tag-reference-image) [`ambient-audio`](tags.md#tag-ambient-audio)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinary summer afternoon in the life of a young Korean woman. 
+Create a ultra-realistic early-2000s consumer DV camcorder home video of a young Korean woman enjoying a simple day in an older Seoul residential neighborhood. Use the attached image as the character reference and keep her face and appearance consistent. She wears a pink fitted crop top, white casual shorts, simple slippers, and a small bracelet, carrying a clear water bottle.
 
-MAIN SUBJECT
+She steps out of her home, closes the door and walks through the quiet neighborhood with the bottle in hand. Along the way, she greets a few friendly neighbors with natural smiles and small waves.
 
-Young Korean woman in her early 20s, naturally pretty, realistic skin texture, minimal makeup, relaxed and confident personality.
+She reaches a neighborhood park and sits on a bench, casually watching children playing football. Suddenly, the football rolls toward her. She picks it up, smiles, kicks it gently back to the children and says, “Enjoy!” The children laugh and continue playing.
 
-Long black hair loosely tied into a messy side ponytail with a few loose strands around her face. Wearing a fitted pastel-blue crop top, loose cream-colored jeans, black sneakers, and a simple silver necklace.
+She leaves the park and walks down the street, still carrying her water bottle. She stops at a small street vendor selling sweet corn, buys one and happily takes her first bite while walking.
 
-Maintain the same face, hairstyle, clothing, body proportions, and overall appearance throughout the entire video.
+While eating, her water bottle accidentally slips from her hand and falls onto the sidewalk. She pauses, looks down, laughs softly, picks it up, takes another bite of the sweet corn and continues walking home.
 
-SETTING
+Near the end, she walks slowly down the residential lane with the water bottle in one hand and sweet corn in the other, enjoying her snack. She looks toward the camera, smiles naturally and says “Bye bye!”, then walks away.
 
-A quiet older Seoul residential neighborhood during a warm summer afternoon. Narrow concrete lanes, small houses, old walls, potted plants, parked bicycles, utility poles, overhead wires, laundry hanging outside homes, a small convenience store, and children playing football in the street.
+Use raw early-2000s consumer DV-camera footage: handheld shake, imperfect framing, autofocus hunting, slight exposure shifts, soft digital detail, mild digital noise, natural motion blur and occasional awkward zooms. Authentic home-video feeling, realistic skin, natural expressions and believable movement.
 
-Everything should feel lived-in, ordinary, and peaceful.
-
-CAMERA / VISUAL AESTHETIC
-
-Raw personal footage casually recorded by a friend on an early-2000s consumer DV camcorder.
-
-Strong handheld shake, imperfect framing, autofocus hunting, exposure shifts, occasional motion blur, faded colors, soft digital detail, mild noise, accidental zooms, and natural camera imperfections.
-
-No stabilization, drone footage, gimbal movement, dramatic lighting, or polished commercial cinematography.
-
-— LEAVING HOME
-
-She steps outside her house, closes the door, and adjusts her messy side ponytail.
-
-A gentle summer breeze naturally moves her loose hair and a few strands fall across her face. She smiles at the camera, brushes the strands away, and starts walking down the narrow neighborhood lane.
-
-The camera casually follows her from a few steps behind.
-
-— STOPPING AT THE STORE
-
-She reaches a tiny neighborhood convenience store and walks inside.
-
-She casually browses the shelves, picks up a colorful pack of bubble gum, and pays at the counter.
-
-She opens the packet, takes one piece, puts it in her mouth, and slips the remaining gum into her pocket.
-
-She walks back outside, chewing happily and smiling at the camera.
-
-— THE BUBBLE GUM MOMENT
-
-While walking down the street, she starts blowing a bubble with her gum.
-
-The bubble slowly grows larger until it suddenly pops against her lips.
-
-She freezes for a second, looks at the camera, and bursts into genuine laughter.
-
-She wipes the little pieces of gum away, laughs again, and continues walking.
-
-Keep the bubble formation and popping physically realistic.
-
-— DRINKING WATER
-
-She reaches a small public water tap beside an old residential wall.
-
-She turns the tap, cups her hands beneath the flowing water, and drinks a little.
-
-She splashes some water onto her face, shakes the droplets from her fingers, fixes her loose hair, and smiles toward the camera.
-
-The water flows naturally from the tap and remains consistent.
-
-— THE FOOTBALL MOMENT
-
-A few meters ahead, several neighborhood children are playing football in the street.
-
-Suddenly, the football rolls toward her and stops directly beside her sneakers.
-
-She looks down at it, then toward the children.
-
-One child calls out:
-
-“Noona! Kick it!”
-
-She smiles, positions herself beside the ball, and gently kicks it back toward the children.
-
-The ball rolls naturally along the concrete. The children excitedly chase after it, cheering and laughing.
-
-She waves at them and continues walking.
-
-The football stays with the children and does not disappear, duplicate, or return to her.
-
-She reaches the corner of the neighborhood and pauses.
-
-The camera moves closer as she turns toward it with a cheerful smile. A gentle breeze moves her ponytail again.
-
-She raises one hand, gives a casual wave, and says clearly:
-
-“Happy weekend!”
-
-She laughs softly, turns around, and continues walking down the lane.
-
-The camera follows her for a few seconds before the recording abruptly cuts to Black
-```
-
-</details>
-
-<a id="seedance-seoul-summer-walk-candies-cat"></a>
-### Korean woman walks Seoul street, feeds children and cat
-
-<a href="https://x.com/AIwithkhan/status/2099849272347021541"><img src="../../previews/seedance-seoul-summer-walk-candies-cat.jpg" width="360"></a>
-
-Locks identity to a reference image and repeats the wardrobe details so the look holds across a 30 second sequence. The DV camera brief (handheld shake, autofocus hunting, exposure shifts) and a sound list with no music make it read as raw home footage.
-
-Seedance 2.5 · Reference-to-video · Source: [@AIwithkhan on X](https://x.com/AIwithkhan/status/2099849272347021541) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`seoul`](tags.md#tag-seoul) [`dv-camera`](tags.md#tag-dv-camera) [`slice-of-life`](tags.md#tag-slice-of-life) [`reference-image`](tags.md#tag-reference-image)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a 30-second ultra-realistic personal home-video of a young Korean woman during a warm summer evening in an older Seoul residential neighborhood. Use the attached image as the character reference and keep her face, long black messy side ponytail, pastel-blue fitted top, loose cream pants, black sneakers, and silver necklace consistent.
-
-She walks out of her home carrying a simple canvas tote bag, locks the door, adjusts her ponytail, and starts walking casually down the quiet street.
-
-She notices a small group of schoolchildren walking home from school and warmly smiles at them. She opens her tote bag, takes out a few individually wrapped candies, and happily offers them to the children. They thank her with cheerful smiles before continuing home.
-
-A few steps later, she notices a friendly neighborhood cat sitting beside a wall. She crouches down, gently pets the cat and scratches it behind the ears, smiling warmly before standing up.
-
-She continues walking, casually adjusts her messy ponytail, and fixes a few loose strands around her face.
-
-She then spots a small roadside drink cart and stops to buy a fresh coconut drink. She takes the drink with a straw and walks home slowly while sipping it through the straw, looking relaxed and happy.
-
-Use raw early-2000s consumer DV-camera footage: handheld shake, imperfect framing, autofocus hunting, exposure shifts, soft detail, mild noise, natural motion blur and occasional awkward zooms.
-
-Natural Seoul neighborhood ambience only — footsteps, children chatting, bicycle bells, summer insects, distant traffic, cart sounds and leaves moving in the breeze. No music, no narration, no dramatic events, no polished commercial cinematography.
+Natural neighborhood audio only: footsteps, birds, distant traffic, children playing football, neighbors talking, bicycle sounds, vendor ambience, water bottle movement and light wind. No music, narration, subtitles, beauty filters, CGI, cinematic commercial look or polished camera movement.
 ```
 
 </details>

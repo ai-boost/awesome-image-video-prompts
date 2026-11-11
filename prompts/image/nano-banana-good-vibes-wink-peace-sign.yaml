@@ -1,0 +1,24 @@
+id: nano-banana-good-vibes-wink-peace-sign
+title:
+  en: Woman winking with peace sign in orange tee
+  zh: 橙色T恤女孩比耶眨眼吐舌
+model: Nano Banana 2.1
+mode: image-edit
+category: portrait
+tags:
+- street-fashion
+- portrait
+- summer
+source:
+  name: '@TaliaAariz on X'
+  url: https://x.com/TaliaAariz/status/2109516297809604744
+  credit: Talia
+  likes: 168
+  captured: '2026-11-11'
+  posted: '2026-10-12'
+notes:
+  en: The prompt anchors the subject to the uploaded reference with an explicit identity instruction, then lists wardrobe, accessories and hand placement in separate clauses so each detail is easy to follow. Facial actions such as the wink, tongue and peace sign are described individually, which keeps the gesture count accurate.
+  zh: 提示词先用上传的参考图锁定人物，并明确要求保持面部身份不变，再把服装、配饰和手部位置分别写成独立句子，画面细节更容易逐项还原。眨眼、吐舌和比耶等表情动作单独描述，手势数量也更准确。
+prompt: |
+  Hyper-realistic IMAX-level Netflix-style cinematic sunny street-fashion portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing an oversized bright-orange “Good Vibes” T-shirt, loosely draped off her left shoulder to reveal a white lace-trim camisole strap, knotted at the waist into a cropped fit, paired with distressed light-blue denim shorts featuring frayed hems and ripped patches, an orange paisley bandana tied at the hip, layered black and orange bracelets, small earrings and a delicate pendant necklace. She stands facing the camera with her torso slightly angled, her right hand raised beside her shoulder making a peace sign, while her left hand rests inside her shorts pocket. Her head tilts slightly to one side, one eye playfully closed in a wink, the other looking directly at the camera, with raised cheeks, a broad toothy smile and her tongue peeking out between her teeth. Her blonde hair has dark roots and is styled in two thick, loose front braids secured with orange flower-shaped ties, with voluminous tousled crown layers and wispy flyaways framing her face. Fair luminous porcelain skin with a bright ivory to light beige tone, a neutral-cool undertone and natural texture, warmed by direct sunlight. The background features a textured cream wall with handwritten “Good Vibes Only” lettering, a weathered blue metal door, rustic wooden signs and a skateboard leaning near leafy greenery. Bright directional afternoon sunlight creates crisp highlights on her hair and shoulders, defined natural shadows and a lively summer atmosphere. Apply vibrant warm colour grading with saturated orange accents, sunlit golden highlights, balanced denim blues, creamy neutrals, rich but natural skin tones and a subtle filmic contrast for a polished, cheerful editorial look.
+  Negative prompt: altered identity, incorrect wink, malformed peace sign, extra fingers, distorted hands, unnatural anatomy, plastic skin, illegible text, watermark.

@@ -1,0 +1,52 @@
+id: gpt-image-seated-woman-concrete-stairs-pantyhose
+title:
+  en: Seated woman on concrete stairs in pantyhose
+  zh: 坐在混凝土台阶上的女子
+model: GPT Image 2.5
+mode: text-to-image
+category: portrait
+tags:
+- portrait
+- fashion
+- low-angle
+- photorealistic
+source:
+  name: '@AIjee_tpe on X'
+  url: https://x.com/AIjee_tpe/status/2117914893760524335
+  credit: jee chen
+  likes: 260
+  captured: '2026-11-11'
+  posted: '2026-11-04'
+notes:
+  en: The prompt is split into labelled sections for subject, scene, lighting, composition and quality, so each part of the scene is controlled separately. Naming a low camera angle from the bottom of the stairs and placing the bare foot and heels in the foreground fixes the perspective and the framing.
+  zh: 提示词按主体、场景、光线、构图和质量分成带标题的段落，每个部分分别控制。明确写出从台阶底部仰拍的低机位，并把裸脚和高跟鞋放在前景，固定了透视与画面构图。
+prompt: |
+  ##  (Subject Description)
+
+  A photorealistic full-body fashion portrait of an adult East Asian woman with fair, smooth skin, naturally full breasts,S-shaped female figure,  long legs, and delicate facial features. She has long, straight, naturally voluminous black hair cascading loosely over her shoulders, with a subtle side part. Her makeup is elegant and understated, featuring softly defined eyes, delicate eyeliner, natural blush, and muted rose-pink lips. She gazes directly at the camera with a calm, composed, slightly alluring expression.
+
+  She wears a fitted, long-sleeved chocolate-brown turtleneck top with a smooth, close-fitting silhouette, paired with a short black leather mini skirt featuring a subtle glossy finish. She wears sheer, translucent, grayish-black pantyhose with a smooth, slightly reflective texture. Her footwear has been removed, and she is barefoot, with a pair of dark chocolate-brown glossy patent-leather pointed-toe high heels placed neatly on the staircase beside her.
+
+  She sits naturally on a concrete stair, leaning her upper back and shoulder lightly against the adjacent wall. Her hands rest gently together near her lap. Her legs are elegantly crossed: one leg extends forward toward the camera, with the sole of her bare foot prominently visible in the foreground, while the other leg descends naturally toward the lower stair, its bare foot resting on the step. Her posture creates a graceful diagonal line through the composition.
+
+  She possesses the best head-to-body ratio, naturally full breasts,a perfect, curvaceous, S-shaped female figure,Hourglass figure,long legs with perfect leg lines, and a slender waist, perfect foots,perfect foot lines
+
+  ##  (Scene / Background)
+
+  A minimalist indoor concrete staircase in a modern industrial-style building. The staircase features pale gray, unfinished concrete steps, lightly textured off-white walls, and a brushed stainless-steel railing with clean geometric lines on the right side. A small rectangular wall-mounted light is visible near the lower left wall. A small caution sign is mounted on the wall behind the subject. A few cardboard boxes are partially visible near the lower right staircase area. The architectural environment is simple, understated, and uncluttered.
+
+  ##  (Lighting / Atmosphere)
+
+  Soft, diffused indoor lighting with gentle overhead illumination and subtle ambient reflections. Neutral warm-white tones illuminate the woman's face and outfit, while delicate highlights emphasize the silky texture of her pantyhose, the glossy leather skirt, and the patent-leather shoes. Soft natural shadows add depth to the concrete staircase without creating harsh contrast. The overall atmosphere is quiet, sophisticated, intimate, and editorial.
+
+  ##  (Composition / Camera Angle)
+
+  Vertical portrait orientation, full-body composition, photographed from a low camera angle near the bottom of the staircase, looking slightly upward toward the seated subject. The woman is positioned near the center of the frame, with her crossed legs extending diagonally toward the foreground. The forward-projecting bare foot appears prominently due to natural wide-angle perspective, creating a pronounced sense of depth. The pair of glossy brown high heels is clearly visible in the lower-left foreground. Preserve the complete seated pose, both legs, and surrounding staircase architecture. Maintain realistic body proportions and natural anatomical details.
+
+  ##  (Style Reference)
+
+  High-end photorealistic fashion editorial photography, contemporary minimalist fashion aesthetic, realistic East Asian beauty portraiture, natural skin texture, refined styling, subtle cinematic perspective, authentic architectural details, realistic fabric and leather materials, sophisticated neutral color grading. Avoid excessive retouching, artificial skin smoothing, exaggerated anatomy, or overly stylized effects.
+
+  ##  (Image Quality Parameters)
+
+  Ultra-high resolution, 8K-quality rendering, highly detailed facial features, realistic skin texture, anatomically accurate hands and feet, natural leg proportions, finely rendered sheer hosiery, detailed leather reflections, sharp subject focus, balanced exposure, realistic depth of field, professional fashion photography,No cropped limbs or truncated feet.

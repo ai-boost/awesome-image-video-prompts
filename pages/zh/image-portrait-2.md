@@ -1,6 +1,177 @@
 # 人像
 
-[返回目录](../../README_zh.md) · 全部 280 条 · [1](image-portrait.md) · **2** · [3](image-portrait-3.md)
+[返回目录](../../README_zh.md) · 全部 287 条 · [1](image-portrait.md) · **2** · [3](image-portrait-3.md)
+
+<a id="gpt-image-convenience-store-flash-found-photo"></a>
+### 深夜便利店里的闪光灯随手拍人像
+
+<a href="https://x.com/Ciri_ai/status/2101253843870707722"><img src="../../previews/gpt-image-convenience-store-flash-found-photo.jpg" width="360"></a>
+
+把杂志编辑感与具体的卡片机参数（30mm、ISO 640、f/3.2）和直闪叠加，再刻意加入高光溢出、偏色白平衡和随意构图等瑕疵。长负面清单排除影棚质感、HDR 与塑料皮肤，让画面像翻出来的旧照片。
+
+GPT Image 2.5 · 文生图 · 出处: [@Ciri_ai on X](https://x.com/Ciri_ai/status/2101253843870707722) · 111 赞，统计于 2026-10-29
+
+[`found-photo`](tags.md#tag-found-photo) [`direct-flash`](tags.md#tag-direct-flash) [`y2k-compact`](tags.md#tag-y2k-compact) [`convenience-store`](tags.md#tag-convenience-store) [`fashion-editorial`](tags.md#tag-fashion-editorial)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+GINZA Magazine-inspired Japanese lifestyle fashion editorial × early-2000s Y2K consumer compact digital camera × Korean female idol × raw documentary-fashion hybrid × found photograph aesthetic.
+
+The image must feel like a real photograph discovered inside an old digital camera rather than a deliberately retro-styled AI image.
+
+Japanese urban lifestyle sensibility, understated fashion intelligence, quiet observational storytelling, mundane everyday environment transformed into subtle fashion imagery.
+
+A beautiful young adult Korean female idol standing inside a small Japanese convenience store late at night, casually holding a bottled milk drink while looking directly into the camera.
+
+She wears a faded navy oversized zip hoodie over a white fitted ribbed tank top, low-rise charcoal mini skirt, worn sneakers, tiny silver shoulder bag and thin silver necklace.
+
+Long platinum-blonde hair, slightly messy straight bangs, loose strands around her face.
+
+Soft Korean-Japanese makeup, natural flushed cheeks, subtle taupe eyeshadow, soft pink lips, realistic visible pores.
+
+She stands between narrow convenience-store aisles, refrigerators glowing behind her, shelves of snacks and drinks creating visual clutter.
+
+Photographed extremely close with a late-2000s consumer compact digital camera, 30mm equivalent, ISO 640, f/3.2.
+
+DIRECT ON-CAMERA FLASH, slightly harsh frontal flash, realistic specular highlights on skin and packaging, warm fluorescent ambient light mixing with cooler refrigerator illumination.
+
+Slightly imperfect white balance, clipped highlights on reflective packaging, darker corners, subtle digital noise, mild chromatic aberration, slight edge softness.
+
+The framing feels accidental: part of a shelf enters the foreground, one product is slightly cropped, subject not perfectly centered.
+
+GINZA-inspired quiet Japanese lifestyle sensibility, understated fashion intelligence, raw documentary observation.
+
+LUT: Warm Convenience Digital / muted highlights / fluorescent contamination
+Harmony: navy × white × charcoal × refrigerator cyan
+sRef: [Y2K-COMPACT-SREF]
+Tokens: found photograph, direct flash, consumer digital, mundane location, incidental framing, not retro filter.
+Real photograph, not AI fashion campaign.
+
+3:4 portrait.
+
+NEGATIVE:
+studio lighting, beauty campaign, luxury advertising, perfect symmetry, HDR, smartphone photography, cinematic teal orange, plastic skin, excessive bokeh, flawless skin, CGI, illustration, anime, overly posed idol photoshoot.
+```
+
+</details>
+
+<a id="gpt-image-emerald-cafe-sage-green-fashion-portrait"></a>
+### 翠绿咖啡馆外的鼠尾草绿穿搭人像
+
+<a href="https://x.com/hey_am_cherry/status/2112044506514440506"><img src="../../previews/gpt-image-emerald-cafe-sage-green-fashion-portrait.jpg" width="360"></a>
+
+先定场景，再逐件列出服饰配饰并指定颜色，让整体色调统一。平视全身构图、浅景深和黄金时段光线带来杂志感，结尾的负面提示词用来防止人体结构出错。
+
+GPT Image 2.5 · 文生图 · 出处: [@hey_am_cherry on X](https://x.com/hey_am_cherry/status/2112044506514440506) · 111 赞，统计于 2026-10-28
+
+[`fashion`](tags.md#tag-fashion) [`cafe`](tags.md#tag-cafe) [`golden-hour`](tags.md#tag-golden-hour) [`editorial`](tags.md#tag-editorial) [`full-body`](tags.md#tag-full-body)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a realistic lifestyle fashion portrait, subject stands casually outside a premium modern café with deep emerald green exterior panels and large glass windows revealing a warm, softly lit interior. Minimal Scandinavian café aesthetic with hanging pendant lights, wooden furniture, and subtle reflections on the glass.
+
+The model wears a pastel sage-green baseball cap, fitted white tube top, olive-green denim overall shorts with one strap unfastened, matching green sneakers, delicate gold jewelry, and a luxury black quilted mini handbag with pearl chain placed on a small marble café table beside a takeaway coffee cup.
+
+Natural relaxed pose with one leg slightly crossed, one hand inside the pocket, calm confident expression, looking directly at the camera. Eye-level composition, full-body framing, shallow depth of field, creamy bokeh, soft golden-hour daylight, premium editorial fashion photography, ultra-realistic skin texture, luxury color grading, crisp details, cinematic realism, high-end Vogue campaign quality.
+
+Negative Prompt: low quality, blurry, extra fingers, bad anatomy, distorted face, duplicate person, cartoon, CGI, oversaturated colors, watermark, logo, text, cropped body, unnatural pose, plastic skin, noise.
+```
+
+</details>
+
+<a id="gpt-image-surveillance-hud-street-portrait-russian-text"></a>
+### 街头人像叠加俄文监控界面
+
+<a href="https://x.com/codewithhajra/status/2074473336327802940"><img src="../../previews/gpt-image-surveillance-hud-street-portrait-russian-text.jpg" width="360"></a>
+
+以监控视角的抓拍照为底，再列出人脸框、身份卡、扫描线、时间戳等具体界面元素。要求所有界面文字统一为俄语并禁用英文，保证标签一致，服装、地点、动物和色板用方括号留空，可直接套用。
+
+GPT Image 2 · 文生图 · 出处: [@codewithhajra on X](https://x.com/codewithhajra/status/2074473336327802940) · 111 赞，统计于 2026-10-29
+
+[`hud-overlay`](tags.md#tag-hud-overlay) [`surveillance-style`](tags.md#tag-surveillance-style) [`street-photography`](tags.md#tag-street-photography) [`multilingual-text`](tags.md#tag-multilingual-text) [`template`](tags.md#tag-template)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Cyber-core editorial photography of [your details] wearing [clothing], walking through [location] with [animal]. A realistic candid street photograph captured from a slightly elevated surveillance-style angle, featuring natural movement, stylish everyday fashion, and a calm cinematic atmosphere. Add elegant digital interface elements, including a facial detection frame, object labels, an identity card panel, subtle scan lines, thin HUD boxes, small data text, tracking points, a timestamp, and minimal biometric graphics. Keep the interface clean, refined, and well-spaced. All visible interface text, labels, captions, ID panel content, biometric data, object tags, timestamps, and digital overlay elements must be written entirely in Russian. Do not use any English text anywhere in the image. Use a [color palette] with realistic lighting, polished editorial photography, soft contrast, sharp details, and a sophisticated futuristic design language. Beautiful, minimal, and uncluttered. Aspect ratio: 4:5.
+```
+
+</details>
+
+<a id="nano-banana-cheetah-red-velvet-sofa-luxury"></a>
+### 红色丝绒沙发上抱着猎豹的男人
+
+<a href="https://x.com/auqibhabib/status/2029721401033384149"><img src="../../previews/nano-banana-cheetah-red-velvet-sofa-luxury.jpg" width="360"></a>
+
+以参考图锁定人物面部，再依次列出服装、道具、沙发场景和虚化背景中的保镖来营造层次。结尾的电影感光线和戏剧氛围用来定下整体情绪。
+
+Nano Banana 2 · 上传图改图 · 出处: [@auqibhabib on X](https://x.com/auqibhabib/status/2029721401033384149) · 111 赞，统计于 2026-10-28
+
+[`reference-image`](tags.md#tag-reference-image) [`luxury`](tags.md#tag-luxury) [`cinematic-lighting`](tags.md#tag-cinematic-lighting) [`animal`](tags.md#tag-animal) [`portrait`](tags.md#tag-portrait)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Using the reference picture, create A stylish man sitting on a luxurious vintage red velvet sofa, wearing black silk shirt, sunglasses, confi-dently holding a cheetah adorned with cinematic lighting, dollars are spread on sofa too and there are two guards on back side in blur bg, luxury life-style, dramatic atmosphere." 100% Real Face 8K Resolution
+```
+
+</details>
+
+<a id="nano-banana-miniature-self-figurine-in-hand"></a>
+### 女子掌托自己的迷你手办
+
+<a href="https://x.com/HaniaAi12/status/2031190193253056883"><img src="../../previews/nano-banana-miniature-self-figurine-in-hand.jpg" width="360"></a>
+
+用24mm广角和强制透视，把手办放在前景、真人放在中景。真人和手办共用同一张上传的人脸参考，并重复描述服装让两者保持一致。手部皮肤细节清晰，花园背景虚化柔和，强化了大小反差的错觉。
+
+Nano Banana 2 · 上传图改图 · 出处: [@HaniaAi12 on X](https://x.com/HaniaAi12/status/2031190193253056883) · 111 赞，统计于 2026-10-29
+
+[`forced-perspective`](tags.md#tag-forced-perspective) [`miniature-figurine`](tags.md#tag-miniature-figurine) [`face-reference`](tags.md#tag-face-reference) [`wide-angle`](tags.md#tag-wide-angle) [`scale-illusion`](tags.md#tag-scale-illusion)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A hyper-realistic, forced-perspective wide-angle photography shot captured with a 24mm lens, featuring a woman holding a highly detailed miniature figurine of herself in her outstretched right hand, creating a playful scale illusion. The woman in the mid-ground, identified by the uploaded face as reference, wears a black and grey plaid flannel shirt left unbuttoned over a black graphic t-shirt with a yellow and white logo, paired with blue jeans, and is smiling warmly with a soft focus applied to her face.
+
+The miniature figurine in the immediate foreground is a perfect scale replica, also featuring the uploaded face as reference but with a slightly stylized, hand-painted resin texture, wearing the exact same outfit including the plaid shirt, graphic tee, distressed denim jeans with rips, and grey sneakers, standing on a small circular grey concrete base.
+
+The hand holding the base is rendered with extreme dermatological fidelity, showing skin pores, knuckles, and fingerprints in razor-sharp focus. The background is a picturesque English countryside garden featuring a stone cottage with a chimney, a wooden archway covered in climbing purple wisteria, lush green lawns, and vibrant pink rose bushes, all bathed in soft, diffused natural daylight with a shallow depth of field that creates a creamy bokeh effect on the distant architecture and foliage.
+
+8K resolution, cinematic lighting, photorealistic textures, 2:3 ratio.
+```
+
+</details>
+
+<a id="nano-banana-burgundy-satin-editorial-portrait"></a>
+### 酒红缎面高定与金色耳饰的时尚人像
+
+<a href="https://x.com/MissDelulu9/status/2109630710642528421"><img src="../../previews/nano-banana-burgundy-satin-editorial-portrait.jpg" width="360"></a>
+
+提示词按面部、发型服装、姿势、背景、光线和摄影风格分块书写，结构清晰。85mm、柔光箱、毛孔与香槟色高光等具体镜头、光线和皮肤质感词，让画面接近真实杂志大片。
+
+Nano Banana 2.1 · 文生图 · 出处: [@MissDelulu9 on X](https://x.com/MissDelulu9/status/2109630710642528421) · 110 赞，统计于 2026-10-28
+
+[`editorial`](tags.md#tag-editorial) [`fashion`](tags.md#tag-fashion) [`portrait`](tags.md#tag-portrait) [`satin`](tags.md#tag-satin) [`studio-lighting`](tags.md#tag-studio-lighting)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create an ultra-realistic, high-fashion editorial portrait of a stunning adult woman with striking blue-grey eyes, naturally full lips with glossy coral-red lipstick, defined eyebrows, sharp black winged eyeliner, long eyelashes, subtle freckles, and luminous dewy skin with realistic pores and a soft champagne highlight.
+
+Her sleek, jet-black hair is neatly center-parted and pulled back into a long, straight, low ponytail. She wears an elegant deep burgundy satin couture dress featuring an exaggerated sculptural high collar, dramatic draped fabric, and an asymmetrical sleeveless design. Large, polished gold geometric statement earrings complete the luxurious look.
+
+Pose: Three-quarter over-the-shoulder pose, body turned away from the camera while her face looks directly toward the viewer, with a confident, elegant, slightly mysterious expression.
+
+Background: Minimalist muted sage-green and turquoise studio backdrop with soft, atmospheric gradients.
+
+Lighting: Professional softbox lighting, cinematic shadows, delicate highlights on the cheekbones, realistic satin reflections, beautiful skin texture, and sophisticated color grading.
+
+Photography style: Luxury beauty campaign, Vogue-inspired editorial photography, 85mm portrait lens, shallow depth of field, sharp focus on the eyes, photorealistic details, premium fashion magazine aesthetic,  vertical 9:16 composition.
+```
+
+</details>
 
 <a id="gpt-image-halftone-windswept-hair-portrait-ivory-paper"></a>
 ### 象牙纸上的飞发网点肖像
@@ -1511,6 +1682,31 @@ Negative prompt: low quality, blurry, oversharpened, plastic skin, extra facial 
 
 </details>
 
+<a id="seedream-5-5-subway-escalator-glance-portrait"></a>
+### 地铁扶梯上回眸的女子，35毫米胶片质感
+
+<a href="https://x.com/johnAGI168/status/2120363733713039575"><img src="../../previews/seedream-5-5-subway-escalator-glance-portrait.jpg" width="360"></a>
+
+提示词先给出镜头规格（平视过肩中景、50mm f/1.4、胶片颗粒），再写明具体光源（琥珀绿光晕、红青色散景）来定氛围。结尾的反向约束（不要 CGI、不要塑料皮肤、不要磨皮）把画面拉向真实皮肤质感，而不是模型默认的光滑效果。
+
+Seedream 5.5 · 文生图 · 出处: [@johnAGI168 on X](https://x.com/johnAGI168/status/2120363733713039575) · 71 赞，统计于 2026-11-11
+
+[`portrait`](tags.md#tag-portrait) [`film-grain`](tags.md#tag-film-grain) [`subway`](tags.md#tag-subway) [`bokeh`](tags.md#tag-bokeh)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A cinematic vertical 35mm photograph captured at eye level — an evocative over-the-shoulder medium portrait of a stunning young East Asian woman looking back toward the camera while riding a dimly lit subway escalator.
+
+She possesses delicate, melancholic beauty with expressive dark eyes and natural lips, casting an enigmatic glance over her shoulder. Her long, layered jet-black hair blows freely in the underground draft, with loose strands sweeping across her cheeks and face with realistic kinetic motion. She wears a minimalist black spaghetti-strap slip top that reveals elegant collarbones and bare shoulders.
+
+The setting is a vintage metro tunnel with escalator railings receding into deep perspective. Overhead linear fluorescent lights glow with a soft amber-green halation bloom, while the distant terminal melts into colorful circular bokeh of red, cyan, and warm white, creating a moody, nostalgic urban atmosphere reminiscent of 90s cinema.
+
+Shot on a fast 50mm vintage prime at f/1.4 with soft diffusion filtration and authentic 35mm film grain in an M1 cinematic narrative register. Genuine human skin with fine pores, biological warmth, realistic wind dynamics on hair, and rich color-negative film roll-off — cinematic frame, strictly no CGI, no 3D render, no plastic skin, no artificial smoothing.
+```
+
+</details>
+
 <a id="gpt-image-realistic-big-head-miniature-pinwheel-portrait"></a>
 ### 手持风车的写实大头小身人像
 
@@ -1802,6 +1998,25 @@ Nano Banana 2 · 文生图 · 出处: [@pictsbyai on X](https://x.com/pictsbyai/
 
 ```text
 A handsome, sophisticated man with sharp facial features, a strong jawline, and perfectly groomed light stubble gazes intensely and directly into the lens with a calm, confident expression. His dark hair is swept back with a natural side part, displaying subtle texture where individual strands catch the soft ambient light. He is dressed in a sharply tailored dark suit jacket accented by a dark patterned pocket square, layered over a crisp white dress shirt left casually unbuttoned at the collar. Sitting in a relaxed posture, his hands are raised to mid-chest, gently gripping the inner edges of his jacket lapels in a subtle adjustment, revealing the glint of a metallic wristwatch on his left wrist. He is seated in a plush, curved light-colored upholstered armchair pulled up to a smooth, veined white marble table in the immediate foreground, which holds a closed black leather notebook, a pen, a pair of folded dark-rimmed eyeglasses, and the partial view of a glowing ribbed glass table lamp. Behind him in the midground, the textured, arching fronds of a large indoor palm tree frame his head, while other patrons blur slightly into the ambiance, including a man seated to the left and a blonde woman relaxing at a softly lit table to the right. The background extends into a grand, high-ceilinged interior lounge featuring tall, dramatic dark vertical drapery, imposing architectural columns, and a softly illuminated arched glass display case. Rendered entirely in a rich black-and-white monochrome palette, the lighting is soft yet directional, carving out precise specular highlights on the man's cheekbones, his watch, and the polished marble surface, while deep, velvety shadows gather in the heavy folds of his suit, the curtain pleats, and the distant recesses of the room to forge a moody, luxurious atmosphere. Captured with a classic 50mm lens for an editorial fashion aesthetic, utilizing a shallow depth of field to isolate the razor-sharp subject against the softly blurred environment, processed with a high-contrast tonal range and subtle photographic film grain, framed in a 4:5 aspect ratio.
+```
+
+</details>
+
+<a id="nano-banana-valentines-chocolate-portrait"></a>
+### 男子躺在报纸上配玫瑰与巧克力
+
+<a href="https://x.com/doctorwasif/status/2021905485847531762"><img src="../../previews/nano-banana-valentines-chocolate-portrait.jpg" width="360"></a>
+
+上传参考照片并写明保留面部特征，可以固定人脸，再围绕它搭建场景。写明镜头焦段、光圈、光线方向和胶片色调，能把通用提示词变成杂志编辑风格的画面。
+
+Nano Banana Pro · 上传图改图 · 出处: [@doctorwasif on X](https://x.com/doctorwasif/status/2021905485847531762) · 67 赞，统计于 2026-11-11
+
+[`valentines-day`](tags.md#tag-valentines-day) [`portrait`](tags.md#tag-portrait) [`chocolate`](tags.md#tag-chocolate) [`roses`](tags.md#tag-roses)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Use uploaded image (face+shoulders) — preserve likeness exactly; top-down 4:5 close-up of subject lying on densely layered, readable newspapers (folded paper in hands headline "Valentine's Day"); hair fanned; tailored red blazer over white shirt with tiny red "ImagineArt" + heart; scattered deep-red roses, loose petals, open artisanal chocolate box near hands with assorted chocolates (one truffle bitten revealing creamy filling), loose chocolates, crumbs, cocoa dusting and faint cocoa speck on fingertips; two red heart foil balloons at top corners; heart-shaped gobo/flash across face & half body; subject wears heart-shaped chocolate-frame glasses with pink translucent lenses (eyes visible); pin-sharp face, hands, main chocolates/rose cluster with creamy bokeh (85mm/100mm, f/1.8–2.8), ISO100–200, ~1/125s, full-frame, 4K+; warm top-left softbox + subtle warm rim from right; Kodak-Portra warm toning, rich saturated reds, slight film grain; microdetail: hair strands, fabric weave, skin pores, petal veins, chocolate gloss/speculars, tiny melted gloss bead, cocoa powder texture, crumbs, faint foil fingerprint; subtle imperfections: one slightly crushed petal, small cocoa smudge on newspaper edge; ultra-realistic magazine-editorial — no added text or watermark.
 ```
 
 </details>
@@ -3474,6 +3689,31 @@ GPT Image 2.6 · 文生图 · 出处: [@MrGafish on X](https://x.com/MrGafish/st
 
 </details>
 
+<a id="gpt-image-2-6-couple-face-to-face-hand-on-cheek"></a>
+### 两人面对面，女子手扶男子脸颊
+
+<a href="https://x.com/johnAGI168/status/2120506337821917644"><img src="../../previews/gpt-image-2-6-couple-face-to-face-hand-on-cheek.jpg" width="360"></a>
+
+提示词分别固定了两人的侧脸朝向和服装细节，使姿态与穿着在画面中清晰可辨。50mm 镜头、f/1.8 光圈与细腻胶片颗粒设定了电影质感，结尾的无CGI无塑料皮肤约束避免了过度磨皮的 AI 人脸。
+
+GPT Image 2.6 · 文生图 · 出处: [@johnAGI168 on X](https://x.com/johnAGI168/status/2120506337821917644) · 3 赞，统计于 2026-11-11
+
+[`k-drama`](tags.md#tag-k-drama) [`cinematic`](tags.md#tag-cinematic) [`film-grain`](tags.md#tag-film-grain) [`portrait`](tags.md#tag-portrait)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A cinematic vertical 3:4 romantic drama still photograph captured at eye level — a tight, emotional face-to-face side-profile close-up of a gorgeous young East Asian woman and an exceptionally handsome young East Asian man facing each other closely in a dimly lit room.
+
+On the left in right-facing profile, the woman possesses elite K-drama lead beauty with sleek dark brown hair tucked behind her ear, delicate features, slightly furrowed brows, and softly parted lips filled with tender concern. Dressed in a light cream-beige long-sleeve cardigan over a pastel floral top with a delicate silver heart necklace, she gently lifts her hand to cup the side of the man's cheek near his ear. On the right in left-facing profile, the strikingly handsome man features soft chestnut middle-parted hair with wispy fringe strands over his brow, a clean jawline, and vulnerable, intense eyes gazing back into hers, wearing a minimalist black crewneck t-shirt.
+
+The setting is a softly out-of-focus dark charcoal interior speckled with faint, luminous dust motes. Soft rim lighting gently illuminates the edges of their hair and facial profiles while casting deep, moody shadows behind them, evoking a bittersweet, heartfelt cinematic tension.
+
+Captured on a 50mm cinema prime at f/1.8 with shallow depth of field, delicate highlight bloom, and fine 35mm film grain in an M1 narrative drama register. Authentic human skin with fine pores, natural biological warmth, and tangible fabric folds — cinematic frame, strictly no CGI, no 3D render, no plastic skin, no artificial smoothing.
+```
+
+</details>
+
 <a id="gpt-image-2-6-kneeling-lace-camisole-backlight"></a>
 ### 窗光逆光中跪坐的蕾丝吊带女子
 
@@ -3977,233 +4217,6 @@ I want to see what you really look like.
 Draw a snapshot of your everyday life as if it were accidentally taken on an iPhone.
 Make it feel like a very ordinary, imperfect candid shot.
 The photo should have slight motion blur, with uneven, natural lighting.
-```
-
-</details>
-
-<a id="gpt-image-japanese-fireworks-festival-yukata-portrait"></a>
-### 日本烟花祭浴衣人像
-
-<a href="https://x.com/reonkun_sub/status/2072266484857098584"><img src="../../previews/gpt-image-japanese-fireworks-festival-yukata-portrait.jpg" width="360"></a>
-
-服装、腰带、发饰和束口袋的细节锁定了主体,四分之三背向姿势加浅景深让烟花成为柔和虚化背景。暖色灯笼光与冷蓝暮色天空拉开主体与背景的层次,结尾的避免清单排除了塑料皮肤和动漫风格。
-
-GPT Image 2 · 文生图 · 出处: [@reonkun_sub on X](https://x.com/reonkun_sub/status/2072266484857098584) · 发现于 [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
-
-[`portrait`](tags.md#tag-portrait) [`yukata`](tags.md#tag-yukata) [`fireworks`](tags.md#tag-fireworks) [`festival`](tags.md#tag-festival) [`photorealistic`](tags.md#tag-photorealistic)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a highly realistic vertical portrait photo of a beautiful Japanese woman in her 20s at a summer evening fireworks festival in Japan. She is shown from the waist up in a three-quarter back-facing pose, turning her head over her shoulder to smile warmly at the camera, with natural expressive eyes, soft skin texture, and an approachable candid expression. She wears a pale cream-pink yukata with purple and lavender floral patterns, a large beige obi bow tied at the back, and small pink and cream chrysanthemum hair ornaments tucked into a low updo with loose bangs and face-framing strands. Her right hand holds a small floral drawstring kinchaku pouch with thin red cords. The setting is a crowded Japanese matsuri street at dusk, lined with glowing food stalls and red-and-white festival banners, warm paper lanterns, and many festivalgoers in colorful yukata walking away in the background. Above her, the blue twilight sky is filled with large bright fireworks bursts in pink, purple, white, and gold, slightly blurred by depth of field but still dramatic and luminous. Use a close 3/4 portrait composition, subject centered slightly right, shallow depth of field, realistic lens perspective, warm lantern light on her face and yukata, cool blue ambient evening light in the sky, cinematic color grading, crisp detail on the woman and soft bokeh background. Emphasize photorealism, natural human proportions, realistic fabric folds, authentic Japanese summer festival atmosphere, and a joyful romantic mood. Avoid extra text, logos, watermarks, distorted hands, plastic skin, over-smoothed face, or anime styling.
-```
-
-</details>
-
-<a id="gpt-image-kids-fashion-boots-concrete-steps-editorial"></a>
-### 水泥台阶上身穿灯芯绒夹克的微笑男孩
-
-<a href="https://x.com/Itswsm105f/status/2072544301418988014"><img src="../../previews/gpt-image-kids-fashion-boots-concrete-steps-editorial.jpg" width="360"></a>
-
-提示词逐件列出服装与材质（灯芯绒、卷边牛仔、皮靴），让质感还原准确。简洁的城市背景、柔和日光和编辑式坐姿把视觉重点留给鞋子。
-
-GPT Image 2 · 文生图 · 出处: [@Itswsm105f on X](https://x.com/Itswsm105f/status/2072544301418988014) · 发现于 [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
-
-[`kids-fashion`](tags.md#tag-kids-fashion) [`editorial`](tags.md#tag-editorial) [`footwear`](tags.md#tag-footwear) [`urban`](tags.md#tag-urban) [`daylight`](tags.md#tag-daylight)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Ultra-realistic premium kids fashion advertisement featuring an adorable little boy with fair glowing skin, stylish brown hair, wearing a beige corduroy jacket, white T-shirt, rolled-up dark blue jeans, and premium brown leather lace-up ankle boots. Sitting confidently on modern concrete steps with a cheerful smile, clean minimal urban background, focus on stylish footwear, luxury fashion campaign, soft natural daylight, cinematic lighting, editorial composition, DSLR photography, ultra-detailed, masterpiece, 8K,
-```
-
-</details>
-
-<a id="gpt-image-komorebi-garden-overhead-cat-portrait"></a>
-### 木漏日庭院俯拍猫咪人像
-
-<a href="https://x.com/ohmuyi/status/2067930690977779942"><img src="../../previews/gpt-image-komorebi-garden-overhead-cat-portrait.jpg" width="360"></a>
-
-用高角度俯拍机位定下构图，再叠加木漏日光斑、潮湿薄雾形成的丁达尔光柱和柔化的画面边缘来增加层次。表情从俏皮噘嘴写到眼角带纹的真挚笑容，并点明皮肤纹理，让面部显得自然。
-
-GPT Image 2 · 文生图 · 出处: [@ohmuyi on X](https://x.com/ohmuyi/status/2067930690977779942) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-[`top-down`](tags.md#tag-top-down) [`komorebi`](tags.md#tag-komorebi) [`dappled-light`](tags.md#tag-dappled-light) [`garden`](tags.md#tag-garden) [`cat`](tags.md#tag-cat)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-俯拍镜头，高角度顶机位，自上而下俯瞰一位年轻的东亚裔女性，她有着精致的东亚五官和柔顺的黑发。她蹲在花园小径上，轻轻逗弄一只毛茸茸的橘猫。头顶密密的枝叶滤过阳光，形成灵动的“木漏日”效果——跃动、圆形的光斑在她的肌肤和猫毛上流转舞动。空气中悬浮着淡淡的潮湿薄雾，捕捉住光束，营造出柔和可见的立体光柱（丁达尔效应）。当她仰头朝向镜头时，一层轻雾柔化了画面边缘，增添梦幻氛围。她的表情从略带俏皮的轻噘嘴，渐渐转为眼角堆起细纹的真挚笑容，斑驳的光线恰好勾勒出她肌肤的细腻纹理和眼中盈盈的水光。
-```
-
-</details>
-
-<a id="gpt-image-korean-convenience-store-pink-hoodie-portrait"></a>
-### 韩国便利店粉色绒毛连帽衫人像
-
-<a href="https://x.com/john_my07/status/2054573350199111928"><img src="../../previews/gpt-image-korean-convenience-store-pink-hoodie-portrait.jpg" width="360"></a>
-
-暖色便利店荧光灯与 iPhone 闪光灯的写实感结合，营造出随手抓拍的深夜快照效果。身后发光的冷柜货架和柔和的粉色奶油色调让画面温馨统一。
-
-GPT Image 2 · 文生图 · 出处: [@john_my07 on X](https://x.com/john_my07/status/2054573350199111928) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-[`korean`](tags.md#tag-korean) [`convenience-store`](tags.md#tag-convenience-store) [`iphone-flash`](tags.md#tag-iphone-flash) [`pastel`](tags.md#tag-pastel) [`night`](tags.md#tag-night)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Ultra-realistic cozy Korean convenience store portrait of a beautiful Korean woman standing in front of glowing refrigerator aisles at night, wearing an oversized fluffy pastel pink hoodie with the hood up. She holds a bottle of strawberry milk in one hand and a tiny strawberry cake in the other while shyly looking toward the camera. Long soft black hair, glossy eyes, natural skin texture, subtle blushy makeup, gentle expression, youthful Korean beauty aesthetic. Warm fluorescent convenience store lighting mixed with realistic iPhone flash photography. Tiny reflections on drink bottles and glass refrigerator doors, dreamy romantic atmosphere, soft pink and cream color palette, slice-of-life anime realism blended with cinematic photography, highly detailed, cozy late-night Seoul convenience store vibe, shallow depth of field, realistic Korean snack packaging, candid aesthetic, soft glow, ultra photorealistic.
-```
-
-</details>
-
-<a id="gpt-image-low-poly-papercraft-man-portrait"></a>
-### 低多边形折纸风男士肖像
-
-<a href="https://x.com/iamsofiaijaz/status/2056953102755115162"><img src="../../previews/gpt-image-low-poly-papercraft-man-portrait.jpg" width="360"></a>
-
-提示词同时写明材质与造型语言：棱角分明的多边形面、层叠纸张纵深和真实纸张质感。头发、衬衫和墨镜的颜色都有指定，再配干净的白色影棚背景与柔和光线。
-
-GPT Image 2 · 文生图 · 出处: [@iamsofiaijaz on X](https://x.com/iamsofiaijaz/status/2056953102755115162) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-[`papercraft`](tags.md#tag-papercraft) [`low-poly`](tags.md#tag-low-poly) [`origami`](tags.md#tag-origami) [`portrait`](tags.md#tag-portrait) [`studio`](tags.md#tag-studio)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a highly detailed low-poly papercraft portrait of a stylish young man, designed like an origami paper sculpture. The character has curly dark brown hair, a trimmed beard, and wears slightly black-tinted geometric sunglasses with thin black frames. His shirt is medium grey with sharp polygonal folds and realistic paper texture. Use faceted angular shapes across the face, hair, and clothing, with realistic shadows and layered paper depth. Minimal clean white studio background, soft lighting, ultra-realistic paper craft aesthetic, modern geometric art style, high detail, centered composition, 8k quality.
-```
-
-</details>
-
-<a id="gpt-image-minimalist-boutique-full-body-fashion"></a>
-### 极简精品店全身时尚写真
-
-<a href="https://x.com/john_my07/status/2062579742759649486"><img src="../../previews/gpt-image-minimalist-boutique-full-body-fashion.jpg" width="360"></a>
-
-逐件写清服装，从宽松粉蓝针织衫到百褶裙、白袜和厚底运动鞋，再配上木材与石材等零售空间材质。用与参考图相同的外貌来锁定人脸，景深和杂志大片关键词负责定调。
-
-GPT Image 2 · 上传图改图 · 出处: [@john_my07 on X](https://x.com/john_my07/status/2062579742759649486) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-[`fashion`](tags.md#tag-fashion) [`editorial`](tags.md#tag-editorial) [`boutique`](tags.md#tag-boutique) [`full-body`](tags.md#tag-full-body) [`reference-face`](tags.md#tag-reference-face)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-A full-body editorial fashion photograph of a beautiful young woman with the same appearance as the reference, long glossy dark hair, soft bangs, fair skin, and refined feminine features. She stands casually in an upscale minimalist fashion boutique, wearing an oversized pastel-blue knit sweater paired with a black pleated tennis-style skirt, white crew socks, and chunky designer sneakers. Relaxed confident pose, gentle smile, luxury retail interior with modern clothing racks, neutral-toned garments, warm ambient lighting, wood and stone textures, clean architectural lines, cinematic depth of field, realistic lighting, premium fashion advertising, Vogue-style editorial, ultra-detailed, sharp focus, photorealistic, 4K.
-```
-
-</details>
-
-<a id="gpt-image-morning-bedroom-candid-window-light"></a>
-### 晨光窗边卧室抓拍人像
-
-<a href="https://x.com/ToroJushiAi/status/2053078195482632421"><img src="../../previews/gpt-image-morning-bedroom-candid-window-light.jpg" width="360"></a>
-
-提示词先锁定机位角度、光线方向和冷暖过渡，再加入皮肤次表面散射、散落发丝和 ISO 400 颗粒等物理细节。生活化的背景和结尾的排除项（卡通、插画、动漫）让画面保持摄影质感。
-
-GPT Image 2 · 文生图 · 出处: [@ToroJushiAi on X](https://x.com/ToroJushiAi/status/2053078195482632421) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-[`morning-light`](tags.md#tag-morning-light) [`candid`](tags.md#tag-candid) [`bedroom`](tags.md#tag-bedroom) [`film-grain`](tags.md#tag-film-grain) [`japanese-woman`](tags.md#tag-japanese-woman)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-A close-medium shot of a young Japanese woman in her bedroom on an ordinary morning, captured in authentic daily life photography as a natural candid moment. She is seated sideways on the edge of the bed, not fully awake yet, photographed from a slightly elevated three-quarter angle with cool-to-warm morning window light entering from the left.
-East Asian young woman in her early 20s. Almond-shaped eyes with soft natural single eyelids, slightly elongated eye corners, still carrying the heaviness of just waking. Straight refined nose with a delicate bridge. Skin tone fair to light beige — skin subsurface scattering visible under the soft directional morning window light, specular micro-highlights catching gently on her cheekbone and nose ridge, fine skin texture perceptible, no makeup. Naturally straight fine black hair loosely gathered, slightly disheveled from sleep.
-She wears a loose oversized cotton sleep shirt and soft shorts, nothing styled. Her gaze drifts toward the window, posture relaxed and unhurried, one hand resting on her knee, the other barely holding a phone face-down. The bedroom background suggests real life — slightly unmade linen, a potted plant near the window partially in shadow, small cluttered bedside items. Two or three stray hairs fall across her cheek in natural asymmetric displacement, not geometrically placed.
-Soft directional morning light from a side window, cool-to-warm transition across her face and shoulder, long gentle shadows on the bedding behind her. The mood is quietly adrift — not sad, not performing, just suspended in the unhurried first minutes of the day. Subtle ISO 400 film grain in shadow areas, photographic noise texture not CG render smoothness. Aspect ratio 2:3. No watermark, no text overlay, not cartoon, not digitally painted, not illustration, not anime.
-```
-
-</details>
-
-<a id="gpt-image-neon-graffiti-black-white-portrait"></a>
-### 霓虹绿眼睛的黑白涂鸦肖像
-
-<a href="https://x.com/harboriis/status/2060208419811074350"><img src="../../previews/gpt-image-neon-graffiti-black-white-portrait.jpg" width="360"></a>
-
-画面整体为黑白，只用一种霓虹绿点缀，最亮处在发光的眼睛，颜料飞溅和标语中也有重复，把人脸和背景联系起来。皇冠、箭头和手写文字等层叠街头涂鸦元素铺满脸部周围的水泥墙，脸部本身保持干净。
-
-GPT Image 2 · 文生图 · 出处: [@harboriis on X](https://x.com/harboriis/status/2060208419811074350) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-[`graffiti`](tags.md#tag-graffiti) [`black-and-white`](tags.md#tag-black-and-white) [`neon`](tags.md#tag-neon) [`street-art`](tags.md#tag-street-art) [`portrait`](tags.md#tag-portrait)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-High-contrast black-and-white urban portrait of a curly-haired bearded man in a black leather jacket, holding two fingers near glowing neon green eyes, with bold graffiti doodles, colorful paint splashes, abstract arrows, crown sketches, and grunge street-art textures on a concrete background, cinematic lighting, edgy graphic poster style.
-```
-
-</details>
-
-<a id="gpt-image-night-flash-portrait-outside-restaurant"></a>
-### 餐厅门外的夜间闪光灯人像
-
-<a href="https://x.com/craftian_keskin/status/2046774231900287107"><img src="../../previews/gpt-image-night-flash-portrait-outside-restaurant.jpg" width="360"></a>
-
-直闪灯配合胶片快照质感、轻微颗粒和深色阴影，营造不加修饰的夜生活氛围。饰品数量、大腿以上竖构图、招牌文字和霓虹位置都写得很具体，画面因此更可控。
-
-GPT Image 2 · 文生图 · 出处: [@craftian_keskin on X](https://x.com/craftian_keskin/status/2046774231900287107) · 发现于 [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
-
-[`night-portrait`](tags.md#tag-night-portrait) [`direct-flash`](tags.md#tag-direct-flash) [`street-style`](tags.md#tag-street-style) [`film-grain`](tags.md#tag-film-grain) [`candid`](tags.md#tag-candid)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-A candid nighttime street portrait of a young woman sitting casually on a woven bistro café chair outside a small urban restaurant. She has long black hair worn loose and slightly tousled, tan skin, and minimal natural makeup with a soft flash-lit glow. She wears a fitted white tank top layered over a visible black lace bralette and high-waisted relaxed blue jeans, with subtle gold jewelry: 2 thin bracelets on one wrist, 1 delicate necklace with a tiny heart pendant, and 1 slim bracelet on the other wrist. She leans diagonally toward the camera with one arm draped over the curved chair back and the other hand resting near her lap, giving an off-camera calm, detached expression. Shot vertically as a medium portrait from about thigh-up, slightly close and intimate, direct on-camera flash creating bright skin highlights, deep shadows, and a raw film-snapshot look with slight grain. The setting is a dark city sidewalk at night with storefront windows, black-painted exterior walls, warm interior reflections, and a glowing yellow sign in the upper left reading KOZY KORNER RESTAURANT, with a smaller lit sign below reading LIQUORS. Add a narrow red vertical neon glow in the background, distant streetlights and blurred city bokeh along the left side, and faint gold lettering on the glass door to the right. Include a clear glass bottle on the table edge at the far right. Authentic nightlife mood, stylish but unfiltered, shallow depth of field, realistic proportions, flash photography aesthetic, cinematic urban candid.
-```
-
-</details>
-
-<a id="gpt-image-night-market-skewer-three-sword-pose"></a>
-### 清冷女子在夜市摆烧烤三刀流姿势
-
-<a href="https://x.com/BubbleBrain/status/2046564674112831920"><img src="../../previews/gpt-image-night-market-skewer-three-sword-pose.jpg" width="360"></a>
-
-用具体的姿势描述（一根叼在嘴里，两手各持一根并交叉）让动作清晰可控。低机位广角、夜市暖光虚化和胶片颗粒营造出时尚大片的质感。
-
-GPT Image 2 · 文生图 · 出处: [@BubbleBrain on X](https://x.com/BubbleBrain/status/2046564674112831920) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-[`night-market`](tags.md#tag-night-market) [`street-photography`](tags.md#tag-street-photography) [`fashion`](tags.md#tag-fashion) [`film-look`](tags.md#tag-film-look) [`low-angle`](tags.md#tag-low-angle)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-[中文]
-一个有着清冷孤傲气质的绝美佳人，精致的面部特征，一张冷酷且精致的高级时装面容，长发，以及优雅苗条的身材；烧烤“三刀流”姿势：嘴里叼着一根烧烤串，每只手各拿一根烧烤串交叉以模仿索隆的三刀流；街头夜景氛围，温暖黄色的夜市灯光，模糊的背景，胶片般的质感，柔焦光晕，电影般的叙事感，时髦高端网红风格的时尚拍摄，清晰发光的肌肤，清晰细致的发丝，生动的动态表情，低角度广角镜头，情绪化的暗调氛围，浅景深，超高清8K，极致细节，电影级光照
-
-[English]
-a stunning beauty with a cool, aloof atmosphere, delicate facial features, a cold and sophisticated high-fashion face, long hair, and a graceful slender figure; barbecue “three-sword style” pose: one barbecue skewer held in her mouth, one skewer in each hand crossed to mimic Zoro’s three-sword style; street night scene ambiance, warm yellow night market lighting, blurred background, film-like texture, soft-focus glow, cinematic storytelling feel, trendy high-end influencer-style fashion shoot, clear luminous skin, sharply detailed strands of hair, lively dynamic expression, low-angle wide-angle shot, moody dark-toned atmosphere, shallow depth of field, ultra HD 8K, extreme detail, cinematic lighting
-```
-
-</details>
-
-<a id="gpt-image-oversized-button-fashion-split-editorial"></a>
-### 巨型彩色纽扣分屏时尚大片
-
-<a href="https://x.com/Mind_Boticni/status/2053082199436759258"><img src="../../previews/gpt-image-oversized-button-fashion-split-editorial.jpg" width="360"></a>
-
-提示词为每个分屏单独写明景别（左侧全身，右侧上下两个半身），并要求各自不同的面孔、姿势和背景色调。固定的青橙黄红配色加上统一的光泽棚拍灯光，让三个画面保持一致。
-
-GPT Image 2 · 文生图 · 出处: [@Mind_Boticni on X](https://x.com/Mind_Boticni/status/2053082199436759258) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-[`fashion`](tags.md#tag-fashion) [`editorial`](tags.md#tag-editorial) [`split-frame`](tags.md#tag-split-frame) [`buttons`](tags.md#tag-buttons) [`studio`](tags.md#tag-studio)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Use reference image as style guide.
-Surreal minimalist fashion editorial photography with vibrant oversized colorful buttons as main visual theme (cyan, orange, yellow, red palette), glossy 3D surface design, clean studio lighting, ultra-smooth gradients, and high-end commercial fashion look.
-Split-frame composition:
-
-Left side: full-body female model standing from top to bottom, wearing bold minimalist fashion outfit inspired by reference style, confident pose, clean studio background filled with oversized colorful buttons, cinematic lighting, soft shadows, ultra-clean composition.
-
-Right side (vertically split into two parts):
-Top-right: half-body female model, different face, different pose, different outfit variation inspired by same button aesthetic, different background color mood.
-Bottom-right: another half-body female model, completely different expression and pose, different styling, different background tone, maintaining same surreal button universe aesthetic.
-
-Each section visually distinct but unified by the colorful button-inspired design language, glossy surfaces, soft studio reflections, and fashion magazine editorial feel.
-Hyper-realistic, cinematic lighting, ultra-clean composition, high-end luxury campaign style, depth, contrast, 8k, 1:1 aspect ratio --style raw --v 6 --ar 1:1
 ```
 
 </details>

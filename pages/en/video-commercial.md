@@ -1,6 +1,6 @@
 # Ads and product videos
 
-[Back to the list](../../README.md) · All 133 entries · **1** · [2](video-commercial-2.md)
+[Back to the list](../../README.md) · All 136 entries · **1** · [2](video-commercial-2.md)
 
 <a id="kling-vintage-watch-macro"></a>
 ### Macro shot of a vintage wristwatch between fingers
@@ -763,6 +763,25 @@ Fast cuts, energetic commercial pacing, whip transitions, speed ramps, crisp sum
 
 </details>
 
+<a id="h3-flat-explainer-question-poster-opening"></a>
+### Flat explainer opens on question mark and blank poster
+
+<a href="https://x.com/ponzponz15/status/2087455628621230462"><img src="../../previews/h3-flat-explainer-question-poster-opening.jpg" width="360"></a>
+
+The prompt anchors the opening frame to a reference image and fixes the palette and a timed shot list, so each cut has a clear visual target. Headlines are treated as information design, revealed word by word, and the no camera movement rule keeps the flat layers stable.
+
+MiniMax H3 · Image-to-video · Source: [@ponzponz15 on X](https://x.com/ponzponz15/status/2087455628621230462) · 299 likes on 2026-11-11
+
+[`explainer`](tags.md#tag-explainer) [`flat-illustration`](tags.md#tag-flat-illustration) [`japanese`](tags.md#tag-japanese) [`motion-graphics`](tags.md#tag-motion-graphics)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced. integrated_multimodal_description: Create a complete 10.000-second Japanese flat-illustration explainer commercial for a fictional service that creates simple promotional announcement videos for seminars and events. The service helps customers turn a few images and short pieces of information into a clear, attractive announcement video. Preserve the exact warm-white background, vivid rose-pink question mark, deep-plum outlines, white fills, saturated sunflower yellow, coral-red accent, blank event-poster card, blank smartphone, calendar icon, ticket shape, and clean flat-vector composition from <Picture 1>. Use the visual grammar of the supplied Japanese flat-illustration explainer reference: friendly 2D vector-style characters, thick dark outlines, simple facial features, white clothing areas, flat solid colors, recurring characters, circular information bubbles, document and calendar cards, simple icons, color-field wipes, and restrained cutout animation. Use a compact feminine promotional palette of warm white, deep plum, vivid rose pink, saturated sunflower yellow, and a small coral-red accent. Do not use bright teal, cold blue, neon gradients, metallic colors, or full-screen coffee-brown colors. Use no camera movement. Animate with simple 2D slides, pop-up characters, card assembly, circular bubbles, rounded color wipes, checklist marks, and small scale pops. Typography is a primary information-design element, not subtitles. Use a bold modern Japanese Gothic display style with soft corners, stable stroke width, and high readability. The tone should feel professional, friendly, optimistic, and suitable for women organizing seminars, workshops, lessons, and small events. Do not use handwritten script, luxury serif fonts, futuristic fonts, condensed industrial fonts, or monospaced computer fonts. [Shot 1] Begin exactly from <Picture 1>. Start on the clean warm-white background with the vivid rose-pink question mark partially cropped at the upper-right edge. A blank event-poster card, a blank smartphone, and a small calendar icon slide gently into the lower part of the frame as separate flat cutout layers. The main Japanese headline appears word by word with soft horizontal slide-in motion: "告知動画、" "つくりませんか？" Use vivid rose pink for the key phrase and a simple sunflower-yellow underline. Keep the composition spacious and immediately readable. [Shot 2] At 00:01.600, a vivid rose-pink color field wipes across the frame. A friendly Japanese woman who is organizing a seminar sits at a small desk surrounded by a calendar, smartphone, blank poster cards, loose papers, and a small event ticket. Three white circular speech bubbles pop in one at a time around her, reading: "情報が多い" "準備が大変" "届きにくい" The woman makes a small worried hand gesture while looking at the unfinished poster. Keep her face simple, friendly, and clearly readable. [Shot 3] At 00:03.300, the rose-pink field wipes into a coral-red field. Several blank poster and information cards slide horizontally into a neat row. One card receives a small sunflower-yellow warning mark and wobbles briefly. Large warm-white Japanese text assembles in two stages: "伝えたいことが" "届かない" A short sunflower-yellow underline appears beneath the final phrase. Keep the text large and avoid dense paragraphs or tiny details. [Shot 4] At 00:05.100, the coral-red field wipes into a saturated sunflower-yellow solution field. A friendly Japanese female guide wearing a white shirt and holding a pink folder and a simple magnifying glass pops up from the lower-right. Large outlined Japanese text appears around her: "告知動画" Three white outlined information cards assemble one by one with simple icons and exact labels: "日時" "内容" "申込み" Small rose-pink plus signs appear between the cards. A simple presentation-screen icon and event-ticket icon pop in beside the guide. The cards settle into a clean horizontal information structure. Do not add additional readable words. [Shot 5] At 00:07.300, transition to a vivid rose-pink field. A simple left-to-right workflow assembles from three large flat cards. The cards are labeled: "画像" "文章" "動画" A yellow arrow connects the cards. The first card contains a simple blank image frame, the second contains three abstract black writing lines, and the third contains a finished event-poster composition with large geometric shapes. The headline appears in two stages: "画像と文章から" "かんたん告知" The phrase "かんたん告知" is highlighted in sunflower yellow with a thick underline. Two small circular illustrations pop in around the workflow: one woman speaking at a seminar and one small audience watching attentively. [Shot 6] At 00:08.700, cut to a calm warm-white end card with generous negative space. Place the female guide, event poster, smartphone, and small calendar as a compact illustration group on the left side. Reveal the final Japanese message in large vivid-rose typography: "告知動画、つくりませんか？" Then reveal the second line inside a sunflower-yellow rectangular block: "セミナー・イベントに最適" Keep both final phrases sharp, centered, and readable. Hold the complete end card completely still until exactly 10.000 seconds. overall_soundscape: Generate clean, friendly, beat-synchronized flat-illustration sound design with no voice. Use soft paper-like pops for the poster cards, light UI clicks when the speech bubbles align, a gentle worried wobble sound for the warning card, rounded whooshes for the color-field wipes, crisp clicks as the three feature cards assemble, a bright confirmation chime when the workflow connects, and a clear final impact on "セミナー・イベントに最適". Keep the sound effects short, clean, and slightly playful without becoming childish. No dialogue, no narration, no spoken words, no crowd recording, and no realistic room ambience. non_diegetic_music: Generate an original 10-second upbeat Japanese promotional jingle using bright marimba, warm plucked synth, light hand percussion, soft electronic claps, a rounded bass pulse, and a confident final chord. Begin sparsely during the opening question, become more energetic during the rose-pink problem section, build through the yellow solution section, and reach its strongest point during the workflow and final end card. Synchronize the main musical accents to these moments: 00:00.000 — opening downbeat 00:01.600 — rose-pink problem transition 00:02.200 — speech-bubble accents 00:03.300 — coral-red warning transition 00:04.000 — warning-card impact 00:05.100 — yellow solution transition 00:05.700 — first feature card 00:06.000 — second feature card 00:06.300 — third feature card 00:07.300 — workflow transition 00:07.900 — "画像" accent 00:08.100 — "文章" accent 00:08.300 — "動画" accent 00:08.700 — final-card transition 00:09.300 — strong accent on "セミナー・イベントに最適" 00:10.000 — clean final chord and stop
+```
+
+</details>
+
 <a id="h3-four-city-outfit-change-depth-reference"></a>
 ### Four city outfit change with depth reference
 
@@ -808,6 +827,146 @@ Keep the city UI style consistent; update both location labels at each city chan
 The angle in Picture 6 describes identity only, NOT a fixed head pose. Face direction, expression, head tilt, hand gestures and full body movement follow Video 1, with each completed city presentation matching its corresponding scene picture.
 
 In Paris the sunglasses are opaque black and fully cover both eyes and eye sockets. Keep the sunglasses on throughout the Paris presentation. At the Rome transformation, switch to the accessories shown in Picture 3.
+```
+
+</details>
+
+<a id="wan-pixel-claw-pajama-lift"></a>
+### Pixel claw lifts sleeping woman in pajamas
+
+<a href="https://x.com/johnAGI168/status/2092472542783021455"><img src="../../previews/wan-pixel-claw-pajama-lift.jpg" width="360"></a>
+
+A fixed 24 to 28mm full-body shot and a flat 2D pixel overlay are described separately from the photoreal person, so the game graphics stay graphic while the face and body stay locked to the reference image. Timed beats for each action keep the sequence in a clear order.
+
+Wan 3.0 · Reference-to-video · Source: [@johnAGI168 on X](https://x.com/johnAGI168/status/2092472542783021455) · 286 likes on 2026-11-11
+
+[`pixel-art`](tags.md#tag-pixel-art) [`fashion`](tags.md#tag-fashion) [`game-ui`](tags.md#tag-game-ui) [`outfit-change`](tags.md#tag-outfit-change)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+【风格】复古像素换装游戏穿搭短片（Pixel Dress-Up Game），真人时尚摄影（Photorealistic Fashion Video），Y2K森系早秋穿搭，奶油棕色调，4K高清，30fps，像素动画与真人画面结合
+【时长】15秒
+【画幅】9:16竖屏
+【场景】暖灰色居家卧室兼试衣区，浅米色地毯；左侧摆放黄铜阅读灯、深蓝细条纹扶手椅、白色兔子抱枕和圆形木边几，边几上放一杯咖啡；中央后方有一株绿植；右侧是白色房门，门上挂深棕托特包和灰棕色衣物，旁边摆放浅木色藤编玻璃柜
+【角色】@  命名为“米娅”。下文只使用“米娅”代称；面孔、肤色、五官和身材比例严格匹配参考图，全程保持同一身份，换装时不得换脸或改变身体比例
+【声音】轻快复古电子音乐混合8-bit游戏音效；机械爪移动、加载完成、鼠标点击、单品装备和通关提示分别对应清晰音效；无对白、无真人字幕
+
+【全局摄影】
+固定竖屏全身镜头，正面略高机位轻微俯拍，约24–28mm手机广角，米娅从头到鞋完整入画。摄影机全程不推、不拉、不摇、不移；人物和家具位置稳定，所有视觉节奏来自像素动画、鼠标移动和卡点硬切换装。
+
+[00:00-00:02.80] 镜头1：像素机械爪投放角色（Pixel Claw Entrance）
+
+【开场钩子】
+第一帧是空房间。一个巨大的棕白色像素机械爪从画面右上方快速进入，同时把米娅从画面右侧水平吊运进来。
+
+【初始穿着】
+米娅穿奶油香槟色亮面缎质睡衣套装：宽松长袖翻领上衣、同面料直筒长裤，布面布满细小深棕圆点，翻领、门襟、袖口和裤脚带深棕滚边，脚穿纯白色包头软底居家拖鞋。造型完整不透明。
+
+【造型】
+铜橘红色长卷发自然披肩，轻薄刘海，无帽子、无项链、无手提包。
+
+【动作】
+像素机械爪夹持在米娅头肩上方，把她从右侧吊运到画面正中央。米娅双眼闭合，头向左肩歪斜，双臂无力垂下，双脚并拢，身体像睡着的游戏角色一样轻微晃动。
+
+机械爪到达中央后停止横移，爪臂松开并垂直升出画面。米娅落在地毯上保持站立，身体轻轻回弹，双脚稳定着地。
+
+机械爪是平面像素动画（2D Pixel Overlay），边缘清晰、色块规整，不是写实金属装置，不遮挡或改变米娅的面孔。
+
+[00:02.80-00:05.40] 镜头2：苏醒与换装菜单加载（Game UI Loading）
+
+【动作】
+米娅先保持低头闭眼，随后缓慢抬头睁眼，直视镜头，嘴唇微张，像刚从睡梦中醒来。
+
+画面底部弹出一条奶油色与棕色描边的像素加载条。加载条从左向右逐格填充。
+
+米娅闭上眼睛打哈欠，两只手从腿侧抬起，双肘弯曲经过肩部，随后双臂完全伸直举过头顶，形成宽V形伸懒腰姿势；头部轻轻后仰，肩膀上提，缎面袖子产生真实褶皱。
+
+加载条填满时发出短促游戏提示音。五张像素服饰卡从画面左上方高速落下，依次排列成左侧竖向选择栏。
+
+【像素界面】
+左上显示奶油色像素边框标题“DRESS UP”，右侧排列三颗粉红色像素爱心；右上显示像素边框“X”。
+
+左侧五张服饰卡从上到下分别显示：
+1. 奶油白蕾丝细肩带上衣；
+2. 棕色格纹蕾丝层叠短裙；
+3. 可可棕毛绒针织开衫；
+4. 奶油色堆堆袜与棕色毛绒厚底鞋；
+5. 橙棕色问号卡“?”。
+
+大型白色像素鼠标箭头从画面右侧进入，移动到第一张服饰卡旁边。所有UI保持平面像素风，不遮挡米娅的脸和主要身体轮廓。
+
+[00:05.40-00:10.80] 镜头3：逐项点击换装（Rhythmic Outfit Jump Cuts）
+
+【统一换装规则】
+每次均严格按照“鼠标移动到服饰卡→点击音效→停顿一拍→固定机位硬跳切→对应单品瞬间装备”的顺序进行。
+
+人物站位、身体大小、双脚位置、头部方向和手臂高度在硬切前后保持一致。禁止衣服逐渐生长、粒子生成、融化变形或遮镜换装。
+
+【第一次点击｜00:05.40-00:06.20】
+鼠标点击第一张上衣卡。
+
+下一拍，香槟色睡衣上衣瞬间替换成奶油白修身细肩带上衣；胸前有小型棕色动物刺绣和深色纽扣，下摆拼接奶油白蕾丝荷叶边。
+
+香槟色睡裤、白色居家拖鞋继续保留。米娅把举过头顶的双臂放到身体两侧，展示新上衣。
+
+【第二次点击｜00:06.20-00:07.10】
+鼠标下移并点击第二张短裙卡。
+
+下一拍，香槟色睡裤瞬间替换成棕咖色格纹多层百褶短裙；裙摆由多层格纹荷叶边和奶油白蕾丝组成，轮廓轻盈蓬松。
+
+颈部同时出现多层复古项链：短链带星形小吊坠，长链带钥匙或十字形吊坠。白色居家拖鞋暂时保留。
+
+【第三次点击｜00:07.10-00:08.10】
+鼠标下移并点击第三张针织开衫卡。
+
+下一拍，米娅上身增加一件可可棕色毛绒短款针织开衫，V领、长袖、宽松袖口，敞开穿着，完整露出奶油白吊带和多层项链。
+
+双腿同时增加白色半透明花纹连裤袜，纹理细密清晰，不透明过度、不出现破损。
+
+【第四次点击｜00:08.10-00:09.20】
+鼠标下移并点击第四张鞋袜卡。
+
+下一拍，白色居家拖鞋消失，替换为奶油米色抽绳堆堆腿套和棕色长绒毛厚底鞋。腿套在小腿处形成多层自然褶皱，奶油色系绳松散垂落；毛绒鞋头宽大蓬松，深棕厚鞋底完整落地。
+
+米娅始终双脚并拢，服装替换后身体只产生轻微自然回弹，不抬脚、不手动穿鞋。
+
+【第五次点击｜00:09.20-00:10.80】
+鼠标移动到最下方问号卡，短暂停顿后点击。
+
+下一拍，米娅头上瞬间出现奶油白软呢贝雷帽，右手同时出现深棕色复古结构手提包。手提包带短提手、金色环扣和皮革装饰带，垂落至膝盖附近。
+
+右臂因手提包重量自然下沉；铜橘长卷发从贝雷帽两侧蓬松垂落。米娅低头快速检查完整穿搭，随后抬头看向镜头。
+
+[00:10.80-00:13.00] 镜头4：最终穿搭展示（Final Outfit Check）
+
+【完整造型】
+奶油白贝雷帽、铜橘长卷发、可可棕毛绒短开衫、奶油白蕾丝吊带、棕色格纹多层蕾丝短裙、多层复古项链、白色花纹连裤袜、奶油色绑带堆堆腿套、棕色毛绒厚底鞋、深棕色复古手提包。
+
+【动作】
+米娅先低头看向自己的裙摆和鞋袜，左手轻轻整理开衫下摆，右手稳定提包。
+
+她重新抬头直视镜头，左手移到腰部，手肘向外打开；右手提包垂在身体侧面。身体重心轻轻移向一侧，形成自然S形站姿，双膝靠拢，头部微微侧倾。
+
+左侧五张服饰卡从下到上依次缩小并消失，只保留左上“DRESS UP”、三颗爱心和右上“X”。
+
+[00:13.00-00:15.00] 镜头5：游戏通关定格（Complete Screen）
+
+【画面】
+中央偏下位置弹出大型像素文字“COMPLETE!”：奶油白色字面、深棕色像素描边和浅色立体阴影，横跨腰部下方，但不完全遮住裙装层次。
+
+出现文字时配一声清晰的8-bit通关音效，三颗粉红爱心同步闪亮一次。
+
+米娅保持左手扶腰、右手提包、双腿靠拢的全身定妆姿势，直视镜头，嘴角轻轻上扬；人物只保留自然呼吸和细微头部动作。
+
+最后1秒，顶部“DRESS UP”、爱心和“X”以隔帧像素扫描方式轻微闪烁；“COMPLETE!”始终基本完整。人物、服装和背景保持稳定。
+
+15.00秒停留在完整UI和完整穿搭画面上直接结束，不渐隐、不切黑。
+
+【负面约束】
+禁止主角换脸、身份变化、肤色变化、年龄变化、身体比例漂移；禁止像素机械爪变成写实机械、机械爪压住人物面孔、机械爪导致身体悬空变形；禁止菜单文字乱码、服饰卡顺序改变、鼠标点击错误单品、鼠标穿过人物面部；禁止先换装后点击、点击后没有装备反馈、多个单品提前同时出现；禁止渐变换装、魔法粒子换装、烟雾换装、服装融化、衣物从身体内部生长；禁止换装前后人物位置漂移、镜头角度改变、背景家具跳动；禁止丢失吊带、短裙、开衫、项链、花纹袜、堆堆腿套、毛绒鞋、贝雷帽或手提包；禁止衣物透明、裙底暴露、意外走光、连裤袜破损、包带穿过手臂；禁止多余肢体、多余手指、融合手指、扭曲面孔、发丝穿过身体；禁止背景人物、镜面反射、摄影机摇晃、随机推拉、UI遮挡人物脸部；禁止乱码字幕、水印、品牌标识、塑料皮肤、塑料CG质感和动漫人物渲染。
+
+wan3.0 效果👇
 ```
 
 </details>
@@ -881,6 +1040,41 @@ Veo 3.1 · Text-to-video · Source: [@Fujimoto_hina on X](https://x.com/Fujimoto
     "negative_prompt": "text, watermark, logo, blurry, low resolution, cartoon, plastic texture, unrealistic movement, jerky cuts"
   }
 }
+```
+
+</details>
+
+<a id="h3-three-pigs-housing-brand-reveal"></a>
+### Three pigs withstand wolf, then reveal housing brand
+
+<a href="https://x.com/ponzponz15/status/2097891416798282216"><img src="../../previews/h3-three-pigs-housing-brand-reveal.jpg" width="360"></a>
+
+Timed shots with exact on-screen text, a fixed palette and static framing keep the flat picture book style steady across cuts. Naming each pig's overall colour and the house build order keeps the characters consistent, and the brand name is spelled out exactly so the final card reads cleanly.
+
+MiniMax H3 · Text-to-video · Source: [@ponzponz15 on X](https://x.com/ponzponz15/status/2097891416798282216) · 279 likes on 2026-11-11
+
+[`motion-graphics`](tags.md#tag-motion-graphics) [`fairy-tale`](tags.md#tag-fairy-tale) [`japanese-commercial`](tags.md#tag-japanese-commercial) [`flat-illustration`](tags.md#tag-flat-illustration)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+integrated_multimodal_description: [Shot 1] Create a 12.000-second vertical 4:5 Japanese SNS housing commercial told as a miniature Three Little Pigs picture book. The pigs are protagonists; the wolf is their obstacle. Flat illustration, bold hand-drawn outlines, subtle static washi grain, cute round silhouettes, generous negative space. Palette only: warm cream PAPER, sumi-black INK, indigo COOL, golden-yellow WARM, vermilion HOT. Japanese kinetic type uses paper-card assembly and compact settles. Static shots, crisp cuts, color-field wipes, pose-to-pose animation; no 3D, gradients or particles. Three PAPER pigs keep distinct WARM, HOT and COOL overalls. One small INK wolf with pointed ears and COOL scarf blows rightward from the left edge. House order: STRAW, BRICK, sturdy final home. On PAPER, arrange the three pigs across the lower half beside their separate miniature houses: WARM straw hut left, HOT brick cottage center, PAPER house with COOL pitched roof and thick INK frame right. In three staggered beats, the WARM and HOT pigs place their own roof pieces; the COOL pig merely pulls a PAPER cover from its already finished house. All three proudly lift their arms; do not reveal why the third house is already complete. Assemble exact INK "家、できた！" above them by 00:00.600 and hold until the cut. No brand clues yet.
+
+[Shot 2] At 00:01.800, cut to the WARM pig proudly standing just outside its straw doorway at right. The smaller wolf appears at far left, takes a brief breath and blows three COOL wind lines rightward. On contact, three large straw panels fly offscreen right; the pig's ears flick up and both arms rise in alarm. Exact HOT "うわーっ！" pops above the pig, not the wolf. The pig dashes right to its sibling's house, ears trailing. No injury or debris cloud.
+
+[Shot 3] At 00:03.200, cut to the HOT brick cottage at right, now with the WARM and HOT pigs together in front of its doorway. The wolf stays smaller at far left. A stronger rightward gust hits; the cottage separates into three large flat brick-patterned panels which tip and slide offscreen right, no individual flying bricks. Both pigs recoil in a synchronized alarm pose under exact HOT "こっちもー！", then scramble right together toward the third sibling. Preserve overalls and travel direction.
+
+[Shot 4] At 00:04.600, cut to the PAPER house with COOL roof. All three pigs are visible at its broad window; the two visitors huddle nervously, while the COOL-overall owner leans calmly against the sill. The wolf's first forceful gust flattens against the exterior. He recoils, spreads his feet, bends his knees and takes a desperate second inhalation, chest and cheeks swelling. He lunges into a harder sustained blow with clenched paws and a whipping scarf. Broad COOL wind bands compress against the wall, but the entire house stays absolutely fixed. Exact INK "ふーーーっ！" grows above him, then stops. No damage or movement. His breath runs out at 00:06.500; cheeks deflate, shoulders drop and the wind disappears. The two visitors open their eyes; the owner remains knowingly relaxed. Clear the lettering.
+
+[Shot 5] At 00:06.800, cut close to the three pigs beside the intact interior wall. The HOT pig turns to the owner and asks, curious youthful Japanese voice (S1): <d>[Japanese] どこで建てたの？</d> Finish by 00:07.850. The WARM pig admires the wall. The COOL owner gives a tiny knowing smile and reaches into an overall pocket, without speaking. No dialogue subtitles or extra reaction text.
+
+[Shot 6] At 00:08.000, cut to a medium close view of the owner smoothly pulling out one small smartphone and turning its screen toward the camera. The siblings lean in. By 00:08.350, show a simple PAPER screen containing one large notification card only: the exact brand "えーあい住宅" beside a clean COOL geometric company symbol, and the exact status "お引き渡し完了" beneath. No other UI or text. The owner commissioned this home. Symbol: two COOL pillars and one connecting beam, precisely arranged; no animal or cartoon house. Typography is precise medium-bold Japanese Gothic. Hold the screen legibly through 00:09.150; owner smiles silently.
+
+[Shot 7] At 00:09.300, match-cut the smartphone brand to the same symbol and wordmark enlarged on a pristine PAPER corporate end card. Suddenly replace washi and hand-drawn lines with precise vectors, clean space and architectural typography. The COOL structural symbol and exact COOL wordmark "えーあい住宅" lock into place with one firm, compact scale settle. No animals or phone remain. Reveal the exact INK headline "安心・安全の住まいづくり。" above the logo by 00:09.550. A calm, polished adult Japanese commercial announcer (S2) says in an off-screen voiceover: <d>[Japanese] 安心・安全の住まいづくり。えーあい住宅。</d> Speak crisply from 00:09.300 to 00:11.900. Hold the finished headline and logo still from 00:09.550 until 00:12.000. Keep the exact brand spelling. No secondary copy, awards, ratings, certifications or earthquake-test imagery. End as an unexpectedly straight corporate advertisement.
+
+overall_soundscape: Use roof-placement taps, a cover-removal paper swish, breath sweeps and flat-panel knocks, with graphic pops for the early reaction text. Clearly separate the failed puff, desperate inhalation and strongest final gust; stop effects for the visitor's question, then add a small phone-handling click and notification tick. At the full-screen brand transition use one low, tightly controlled corporate sonic-logo impact instead of a cute paper pop, and duck all effects beneath the final voiceover; no other dialogue, singing or laughter.
+
+non_diegetic_music: Original 140 BPM instrumental with wooden percussion, shamisen-like synthetic plucks, muted claps and rounded bass. Tighten the rhythm through the escapes and the wolf's second blow, thin to a light bed under the question, and leave a short gap for the smartphone reveal. At 00:09.300 switch decisively to a polished, reassuring sustained corporate chord under the announcer, ending cleanly at 00:12.000 without a fade-out.
 ```
 
 </details>
@@ -4213,261 +4407,6 @@ Character: woman from @Image 1 — same facial features, same long dark layered 
 [50–60s] CUT 11 — THE LOGO. Still handheld, gently breathing: she turns, looks into the lens, smiling, and RAISES the can toward camera — holding it out at chest-to-shoulder height, FRONT FACE of the label squared to the lens (exactly as in @Image 2), the white "AQUA LAGOON" wordmark and swirl logo centered, sharp and legible at frame center, one long horizontal cyan flare streaking off the aluminum rim, the deep-blue label glowing against the warm cream kitchen. Camera eases in a breath closer and settles. Final frame: her smile behind the can, logo to camera, lime and cherry garnish visible on the counter beside her.
 
 AUDIO: [MUSIC] uplifting swell from Part 1 continues softly under the dive and ice islands, dropping out completely on the return match cut (38s) for total silence, then re-entering warm and soft under the pour and logo shots, resolving on a clean, bright final chord as she raises the can. [SFX] slow-motion water splashes on the dive, glassy bubble hums, wind of flight; on the match cut (38s) all dreamworld sound CUTS DEAD in one frame to sudden dry kitchen silence + fridge hum, bare feet settling, her soft delighted exhale; ice clinking and liquid pouring on Cut 10; under the final logo shot, music plus one soft airy shimmer as the flare crosses the lens. [AMBIENT] vast open-sky airiness with distant cascades in dreamworld; kitchen quiet + fridge hum in real world.
-```
-
-</details>
-
-<a id="seedance-artisan-bakery-donut-commercial"></a>
-### Pastry chef cracks egg into flour bowl
-
-<a href="https://x.com/AIwithAliya/status/2090780603872624826"><img src="../../previews/seedance-artisan-bakery-donut-commercial.jpg" width="360"></a>
-
-A timed storyboard in five-second ranges, with a shared lighting and colour grade block, and an @material reference that anchors the storyboard and the closing box shot. Sound is limited to implied kitchen ambience and a restrained score, which keeps the commercial tone consistent.
-
-Seedance 2.5 · Reference-to-video · Source: [@AIwithAliya on X](https://x.com/AIwithAliya/status/2090780603872624826)
-
-[`commercial`](tags.md#tag-commercial) [`food`](tags.md#tag-food) [`timed-storyboard`](tags.md#tag-timed-storyboard) [`product-reveal`](tags.md#tag-product-reveal)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-follow the storyboard @material:149015 A 30-second cinematic spec commercial / film-style advertisement for a premium artisan bakery brand. High-end food-commercial aesthetic, luxurious and sensory, shot like a short film.
-
-Soft, warm, high-key kitchen lighting with gentle highlights on stainless steel and glossy glaze. Shallow depth of field, slow elegant camera moves, occasional slow-motion, rich color grading (soft pinks, golden dough, deep raspberry red). Ultra-clean, appetizing, almost tactile.
-
-0–6s  
-Medium shot of a striking young female pastry chef in a pale-pink chef’s jacket, matching pink toque, and pink gloves. She stands in a sleek, modern commercial kitchen. She looks down with quiet concentration and cracks a fresh egg into a stainless-steel bowl of flour. Subtle steam and flour dust in the air.
-
-6–11s  
-Tight close-up of the vivid yolk and white pouring into the flour well. Cut to the KitchenAid mixer head descending and beginning to knead. Macro of pale, elastic dough stretching, folding, and becoming silky and glossy.
-
-11–16s  
-Overhead shot of twelve perfectly formed raw ring donuts on a parchment-lined tray. Gloved hands lift the tray with precision. The camera follows as they are carried toward the fryer.
-
-16–22s  
-Donuts lowered into bubbling golden oil. Slow-motion close-up of four donuts frying, edges turning amber. A single donut is lifted on a metal skewer, oil dripping in slow motion. The full basket rises, steam rising, donuts now perfectly golden.
-
-22–26s  
-A warm donut is dipped halfway into a bowl of thick, vibrant raspberry-red glaze. Extreme close-up of the glossy glaze slowly cascading down the sides. Fine white sugar crystals rain onto the wet glaze, catching the light.
-
-26–30s  
-Product reveal. Gloved hands place the last donut into an open kraft bakery box. The camera slowly pulls back and tilts up as the lid is closed, revealing the brand name **MAISON ROSE** in elegant, minimal serif lettering on the lid, with a small rose emblem. The box sits perfectly centered, six glazed donuts visible through a brief moment before the lid settles. Soft light catches the logo. Hold on the branded box as the hero product shot.
-
-Elegant, silent except for implied kitchen sounds and a refined, understated score. Premium, filmic, commercial-grade finish.
-```
-
-</details>
-
-<a id="seedance-automated-fries-factory-potato-conveyor"></a>
-### Workers tip potatoes onto a factory conveyor
-
-<a href="https://x.com/aiwithaly/status/2091031033986634183"><img src="../../previews/seedance-automated-fries-factory-potato-conveyor.jpg" width="360"></a>
-
-The prompt walks through the process in strict stage order from intake to packing, so the clip follows a clear production sequence. Named sounds such as conveyor motors and fryer bubbling, plus a list of negatives for distortion, floating objects and watermarks, keep the factory look realistic and clean.
-
-Seedance 2.5 · Text-to-video · Source: [@aiwithaly on X](https://x.com/aiwithaly/status/2091031033986634183)
-
-[`food-factory`](tags.md#tag-food-factory) [`industrial`](tags.md#tag-industrial) [`documentary`](tags.md#tag-documentary) [`conveyor`](tags.md#tag-conveyor)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A modern automated French fries factory processes fresh potatoes from start to finish. Potatoes arrive on stainless-steel conveyors, pass through industrial washing and peeling machines, then enter precision cutting equipment that produces evenly sized fries. The fresh-cut fries move through blanching, hot-oil frying, draining, and cooling systems before reaching automated weighing and packaging machines. Portions are measured, sealed into food-grade bags, checked by quality-control scanners, and transferred into cartons by robotic arms. Ultra-photorealistic industrial food production documentary, realistic potato and fry physics, physically accurate machinery, continuous conveyor movement, authentic water flow, realistic frying bubbles, natural steam, accurate robotic movements, hygienic factory environment, bright industrial LED lighting, realistic stainless-steel reflections, trained workers wearing proper protective equipment, smooth documentary cinematography, authentic factory sounds including conveyor motors, flowing water, cutting machines, fryer bubbling, cooling fans, and packaging mechanisms, no narration, no music, seamless visual continuity, no CGI appearance, no floating objects, no distorted food, no machine clipping, no excessive steam, no flickering lights, no text overlays, logos, or watermarks.
-```
-
-</details>
-
-<a id="seedance-bare-faced-makeover-swipe"></a>
-### Bare faced woman swipes into glamorous makeover
-
-<a href="https://x.com/MissDelulu9/status/2108101531426083045"><img src="../../previews/seedance-bare-faced-makeover-swipe.jpg" width="360"></a>
-
-A timed beat sheet with hard cuts, white flashes and snap zooms locks the pacing for each second. The palm swipe covers the lens as the hidden cut, so the transformation reads as one gesture instead of a morph.
-
-Seedance 2.5 · Text-to-video · Source: [@MissDelulu9 on X](https://x.com/MissDelulu9/status/2108101531426083045) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`makeup`](tags.md#tag-makeup) [`transformation`](tags.md#tag-transformation) [`beauty`](tags.md#tag-beauty) [`hard-cut`](tags.md#tag-hard-cut)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Creare 10-second ultra-realistic Douyin-style makeup transformation of the same attractive young adult woman, cinematic 16:9, luxury beauty-commercial aesthetic.
-
-0–2.5s: Bare face, messy hair, oversized T-shirt, sleepy expression in a casual room. Slow push-in. She suddenly becomes confident and makes a FAST sideways palm swipe across the lens. Camera whip-pans with her hand; palm covers frame.
-
-2.5s: HARD CUT + WHITE FLASH + WHOOSH + SHAKE. Instant hidden transformation, no morphing. SNAP ZOOM OUT → IN.
-
-2.5–4s: Black studio. Full glamorous Douyin makeup, styled voluminous hair, elegant fashion outfit. Strong wind blows her hair. Fast head turn + intense eye contact.
-
-4–10s: Rapid editorial sequence: FLASH → HARD CUT → NEW POSE → CAMERA MOVE. Hair sweep, 3/4 turn, hand near jaw, low-angle pose, final hero shot. Multiple flashes and snap zooms, ending with a huge white photography flash + brief freeze.
-```
-
-</details>
-
-<a id="seedance-bleu-de-chanel-perfume-review"></a>
-### Woman reviews Bleu de Chanel bottle in living room
-
-<a href="https://x.com/CaliraVal/status/2097904148360630318"><img src="../../previews/seedance-bleu-de-chanel-perfume-review.jpg" width="360"></a>
-
-The prompt runs the clip as ordered beats (show the bottle, spray wrist and neck, smell, speak) and gives the full script word for word so lip sync has a fixed line. Naming the exact product and repeating that the bottle must stay consistent anchors the brand, while camera, lighting and realism terms set the premium look.
-
-Seedance 2.5 · Text-to-video · Source: [@CaliraVal on X](https://x.com/CaliraVal/status/2097904148360630318)
-
-[`fragrance`](tags.md#tag-fragrance) [`product-review`](tags.md#tag-product-review) [`lip-sync`](tags.md#tag-lip-sync) [`influencer`](tags.md#tag-influencer)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a realistic luxury perfume review video featuring a stylish young woman in an elegant modern setting.
-
-She holds the Bleu de Chanel perfume bottle toward the camera, showing the bottle clearly. She then sprays a small amount on her wrist and neck, gently smells the fragrance, smiles naturally, and gives a genuine personal reaction.
-
-She looks directly into the camera and speaks naturally in a warm, confident female English voice with perfect lip-sync:
-
-“I’ve been trying Bleu de Chanel, and honestly, I really love it. It smells fresh, clean, sophisticated, and very elegant. It’s perfect for everyday wear, but it also feels special enough for an evening out. Definitely a fragrance I’d recommend.”
-
-Use natural facial expressions, realistic hand gestures, accurate lip movement, and authentic influencer-style delivery. Keep her voice clear, smooth, friendly, and conversational—not robotic or overly commercial.
-
-Use soft flattering lighting, realistic skin texture, shallow depth of field, cinematic camera movement, natural perfume spray mist, realistic reflections, and a premium lifestyle background. Keep the perfume bottle consistent and recognizable throughout.
-
-Photorealistic, luxury fragrance commercial, authentic product review, realistic physics, smooth motion, 4K, vertical . No distorted hands, no warped bottle, no changing face, no flickering, no incorrect text.
-```
-
-</details>
-
-<a id="seedance-blonde-model-pink-ball-gown-palace"></a>
-### Blonde model poses in pink gown under chandelier
-
-<a href="https://x.com/Zoyavelle/status/2108783755460853994"><img src="../../previews/seedance-blonde-model-pink-ball-gown-palace.jpg" width="360"></a>
-
-The prompt names each gown colour in order and fixes the palace setting and chandelier lighting, so every transition has a stable scene to land in. The skirt is held and turned with a fabric-flow instruction, which keeps the motion grounded.
-
-Seedance 2.5 · Text-to-video · Source: [@Zoyavelle on X](https://x.com/Zoyavelle/status/2108783755460853994) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`fashion`](tags.md#tag-fashion) [`ball-gown`](tags.md#tag-ball-gown) [`palace`](tags.md#tag-palace) [`runway`](tags.md#tag-runway)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A stunning blonde fashion model gracefully walks and poses in a luxurious palace ballroom, wearing an enormous elegant princess ball gown. She gently holds both sides of her voluminous skirt and slowly turns, allowing the delicate embroidered fabric to flow naturally. The camera smoothly moves forward and captures her full body and the intricate details of the dress. Transition seamlessly between different luxurious gowns in pastel pink, icy blue, lavender, champagne gold, and black, with each dress appearing in a grand palace interior with elegant chandeliers and cinematic lighting. Realistic walking motion, natural fabric movement, graceful posing, smooth cinematic transitions, high-end couture fashion runway aesthetic, photorealistic details, stable camera, vertical 9:16 video.
-```
-
-</details>
-
-<a id="seedance-blue-perfume-golden-beach-commercial"></a>
-### Blue perfume bottle with droplets at golden sunset
-
-<a href="https://x.com/laviniavelle/status/2100071299968032968"><img src="../../previews/seedance-blue-perfume-golden-beach-commercial.jpg" width="360"></a>
-
-The prompt sequences a backlit macro product shot into a cross dissolve to a model spraying the scent, so the shot order and the lens flare cues control the pacing. Stating photorealistic 8K and shallow depth of field holds a consistent luxury look across both shots.
-
-Seedance 2.5 · Text-to-video · Source: [@laviniavelle on X](https://x.com/laviniavelle/status/2100071299968032968) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`perfume`](tags.md#tag-perfume) [`luxury`](tags.md#tag-luxury) [`golden-hour`](tags.md#tag-golden-hour) [`beach-commercial`](tags.md#tag-beach-commercial)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A cinematic photorealistic commercial shot on a golden hour beach A deep sea blue glass perfume bottle covered in micro water droplets rests on a wet rock, backlit by the setting sun glittering over gentle ocean waves Soft lens flare and warm golden reflections glimmer across the water The scene seamlessly cross dissolves to a stunning woman wearing a flowing white deep V dress standing on the sandy shore She sprays the fragrance onto her neck with her eyes closed in bliss surrounded by a fine mist catching the golden sunlight then looks directly into the camera with a gentle confident smile holding the bottle Photorealistic 8K resolution, dynamic lighting, high end luxury aesthetic shallow depth of field.
-```
-
-</details>
-
-<a id="seedance-china-train-travel-multishot"></a>
-### Traveler watches the landscape from a train window
-
-<a href="https://x.com/Diplomeme/status/2099726668164444397"><img src="../../previews/seedance-china-train-travel-multishot.jpg" width="360"></a>
-
-A timed beat sheet pairs each segment with its lens, camera motion and light source, and a locked character block is restated for continuity across cuts. Naming real environmental sounds and natural light sources keeps the grade grounded rather than stylized.
-
-Seedance 2.5 · Text-to-video · Source: [@Diplomeme on X](https://x.com/Diplomeme/status/2099726668164444397) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`travel`](tags.md#tag-travel) [`multishot`](tags.md#tag-multishot) [`fashion`](tags.md#tag-fashion) [`music-video`](tags.md#tag-music-video) [`china`](tags.md#tag-china)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-30 seconds | 16:9 | premium travel music video / fashion travel film | 2024–2026 commercial grade | MULTISHOT
-
-CORE CONCEPT
-A young traveler experiences China through an energetic but natural sequence of movement, culture, fashion, food, architecture and landscapes. The film feels like a premium Chinese tourism campaign combined with an elite fashion travel film. The traveler is always physically present in the environment. Every location feels photographed rather than generated. Music drives the edit, but the footage retains the imperfections and spontaneity of real travel photography.
-
-CHARACTER
-ONE TRAVELER — young adult international traveler wearing a contemporary Adidas travel outfit: premium red Adidas jacket, neutral trousers, sneakers, compact crossbody bag. Natural hair, realistic skin texture, minimal accessories. Same face, clothing, hairstyle, proportions and accessories throughout the entire film. Do not invent additional Adidas branding.
-
-SETTING
-Modern and historic China: high-speed railway, Shanghai streets, traditional water-town lanes, Chengdu food streets, ancient architecture, dramatic mountain valleys, elevated viewpoints and vibrant nighttime streets. Real pedestrians, vendors, commuters, vehicles and local activity. Locations feel naturally connected through the journey.
-
-STORY — MUSIC-DRIVEN MULTISHOT VISUALS
-
-00:00–02.5 — CLOSE-UP HOOK
-85mm close-up of the traveler beside a high-speed train window. Warm sunlight catches the face while reflections of the moving Chinese landscape slide across the glass. Traveler looks outside, then turns toward camera as the first beat begins.
-
-02.5–05 — MOVEMENT
-24mm wide shot from the platform as the traveler walks alongside the departing high-speed train. Wind moves the red jacket naturally. The train accelerates through frame. Cut precisely with the music.
-
-05–07.5 — CITY ARRIVAL
-35mm handheld follow shot as the traveler exits a busy station into a dense Chinese city street. Real pedestrians cross naturally. Electric scooters, taxis and buses move through the background. Camera operator follows slightly behind rather than perfectly framing the subject.
-
-07.5–10 — STREET LIFE
-50mm observational shot. Traveler moves through a crowded neighborhood while a food vendor prepares steaming street food nearby. Traveler briefly stops, watches the preparation and smiles naturally. Steam passes across the foreground.
-
-10–12.5 — CULTURAL TRANSITION
-24mm shot following the traveler through a traditional Chinese water-town street. Stone paths, wooden buildings, bridges and hanging signs surround them. People move naturally through the scene. Traveler crosses a small bridge as sunlight breaks through the buildings.
-
-12.5–15 — FOOD / HUMAN MOMENT
-50mm close-up. A local vendor hands the traveler a freshly prepared dish. Traveler takes a bite and reacts naturally. Shallow depth of field, warm skin tones, authentic background activity and subtle handheld movement.
-
-15–17.5 — MOUNTAIN REVEAL
-24mm deep-focus landscape. Traveler walks up a long stone staircase through dense greenery. Camera follows from behind. As the traveler reaches the top, a vast mountain valley emerges through cool atmospheric mist.
-
-17.5–20 — FASHION MOMENT
-50mm side-tracking shot in golden sunlight. Traveler walks along the mountain viewpoint. Red Adidas jacket contrasts strongly against deep green vegetation. Golden rim light catches the hair and shoulders. Natural wind moves fabric.
-
-20–22.5 — LANDSCAPE / SCALE
-24mm wide. Traveler becomes small against enormous mountains disappearing into mist. Clouds move slowly through the valley. No artificial drone aesthetic; perspective feels like a real elevated camera position.
-
-22.5–25 — NIGHT TRANSITION
-50mm handheld street shot at blue hour. Traveler enters a lively nighttime food district. Warm lanterns, cool ambient light, scooters and pedestrians create layered depth. The music increases in intensity.
-
-25–27.5 — CITY ENERGY
-35mm tracking shot as traveler walks beside a modern riverside district. Reflections ripple across the water. Modern towers illuminate behind them while boats move naturally through the frame.
-
-27.5–30 — FINAL REVEAL
-24mm wide composition from behind the traveler. They stop briefly at the riverside and look across the illuminated skyline. Camera slowly moves backward rather than flying upward. Traveler then continues walking as the music reaches its final beat.
-
-CAMERA
-35mm and 50mm for portraits and human moments, 24mm for landscapes, architecture and stairs, occasional 85mm compression on faces. Shallow DOF on close-ups, deep focus on mountain wides. Handheld and physically motivated tracking movement. Natural camera micro-movement, imperfect framing, subtle autofocus adjustment, realistic exposure adaptation and occasional foreground obstruction. No impossible camera movement, no floating drone aesthetic.
-
-VISUAL / COLOR SETTING
-Premium travel music video / fashion travel film, 2024–2026 commercial grade. Look: photoreal cinema, slight filmic grain, mild halation on highlights, teal-cyan skies, punchy crimson reds, deep forest greens, warm skin, crushed-but-not-crushed blacks.
-
-COLOR GRADE
-Cinematic teal-and-warm, greens slightly cyan, red Adidas pops hard against foliage, golden rim on faces in sun, cool mist in mountain valleys. Maintain realistic skin tones and natural environmental color. No excessive saturation or artificial HDR.
-
-MOTION
-180-degree cinematic shutter, natural motion blur on hair and fabric, 24fps. No soap-opera 60fps look. Movement should retain the subtle imperfections of real location photography.
-
-LIGHTING
-Natural daylight, soft overcast city light, warm direct sunlight, golden-hour rim light, cool mountain mist, practical lanterns and nighttime city illumination. Lighting must originate naturally from the environment.
-
-AUDIO
-Premium contemporary travel soundtrack with subtle modern Chinese-inspired textures. Music drives the transitions and rhythm. Keep authentic location sound underneath: train ambience, station announcements, footsteps, scooters, traffic, vendors, cooking sounds, crowd chatter, wind, birds, distant city noise and riverside ambience. Environmental sound should occasionally become prominent during intimate moments.
-
-REALISM
-No CGI look, no plastic skin, no beauty-filter smoothing, no extra fingers, no warped architecture, no artificial crowd synchronization, no impossible reflections, no floating objects, no exaggerated depth of field. Realistic skin pores, hair strands, fabric texture, water reflections, atmospheric perspective and human movement.
-
-BRAND CONTROL
-The only Adidas branding visible is the existing Adidas trefoil already present on the traveler’s garments. Do not invent additional logos, advertisements, storefront branding or branded products. Do not add watermarks or random UI.
-
-EDITING
-Music-synchronized commercial editing without excessive effects. Cuts are motivated by movement, reflections, steam, architectural shapes, walking direction and changes in light. Use clean match cuts and occasional speed changes only when physically believable. Avoid generic AI transitions, artificial zooms, excessive whip transitions and over-edited montage pacing.
-
-CONTINUITY
-The traveler remains identical throughout all shots. Preserve face, hairstyle, red Adidas jacket, trousers, sneakers, bag and accessories. Maintain realistic weather and lighting progression from daylight → golden hour → blue hour → night. Each location should feel like part of one continuous journey through China.
-
-FINAL QUALITY TARGET
-The final film should look like genuine footage captured by an elite travel filmmaker for a major Chinese tourism/fashion campaign—not a collection of AI-generated beauty shots. The realism comes first; the commercial polish comes from cinematography, color, music, editing and art direction.
 ```
 
 </details>

@@ -1,6 +1,6 @@
 # 动作、追逐与运动
 
-[返回目录](../../README_zh.md) · 全部 224 条 · **1** · [2](video-action-2.md) · [3](video-action-3.md)
+[返回目录](../../README_zh.md) · 全部 233 条 · **1** · [2](video-action-2.md) · [3](video-action-3.md)
 
 <a id="seedance-seoul-subway-revenge"></a>
 ### 首尔地铁站复仇喜剧
@@ -431,6 +431,64 @@ Use the first provided image as exact reference for the ethereal dark reaper sil
 Photorealistic, ultra-detailed fabric physics and particle simulation, perfect motion blur, volumetric haze at maximum density, coherent anatomy and proportions, stable character consistency, cinematic color grade, movie-level VFX polish.
 
 Hope you like it! 🫡
+```
+
+</details>
+
+<a id="seedance-steadicam-impossible-physics-stunt"></a>
+### 秃头男子在曼哈顿人行道上大步走向镜头
+
+<a href="https://x.com/techhalla/status/2094476485977416162"><img src="../../previews/seedance-steadicam-impossible-physics-stunt.jpg" width="360"></a>
+
+按秒分段的时间线，每段都写明镜头规则（斯坦尼康跟拍、不切镜、不用无人机），让长段物理动作保持一镜到底。[image_reference] 占位处绑定参考人脸，使角色在所有特技中保持一致。
+
+Seedance 2.5 · 参考生视频 · 出处: [@techhalla on X](https://x.com/techhalla/status/2094476485977416162) · 876 赞，统计于 2026-11-11
+
+[`steadicam`](tags.md#tag-steadicam) [`physics`](tags.md#tag-physics) [`single-take`](tags.md#tag-single-take)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+I used a pic of myself as reference, so tweak that part unless you want to appear with no hair upstairs:
+
+A 2000s studio-comedy film shot, 16:9, 35mm spherical, moderate film grain, bright New York daylight. ONE UNBROKEN STEADICAM TAKE. The camera walks backward down a crowded Manhattan sidewalk, chest-high, always facing the bald man, holding him in a medium-wide as he walks toward camera the whole clip. Smooth steadicam, no cuts, no drone, no phone, no gimbal whip, no crash zoom. He looks into the lens.
+
+PLACE
+A packed downtown Manhattan sidewalk, ordinary block, not Times Square. Cast-iron storefronts, a bodega, a red brick building wall, a red fire hydrant, a manhole in the pavement, a wide rain-puddle covering the whole sidewalk ahead, yellow cabs in the street, a hot-dog cart, pedestrians filling the sidewalk. Late morning sun.
+
+CHARACTER
+An American man in his 40s [image_reference], completely bald, thick dark beard with grey, dark eyebrows. Open grey plaid flannel over a white crew-neck t-shirt, tan trousers, sneakers. He walks with a lot of swag, eyes on camera. Exact same face the entire clip. No singing. No music.
+
+TIMELINE
+0-2s: [Steadicam walking backward, he walks toward lens] Crowded sidewalk. He comes at camera with heavy swag, looking straight into the lens, shoulders rolling, a bounce in the step, pedestrians splitting around him. City noise only. A wide rain-puddle already covering the sidewalk ahead, curb to wall.
+
+2-7s: [Steadicam walking backward] He does not walk on the water. Without breaking eye contact he steps onto the building wall and walks along the vertical brick as if the wall were the floor, body parallel to the sidewalk, fast, no effort, physics ignoring him. Pedestrians on the ground stare, incredulous, heads whipping to follow him. At the end of the puddle he kicks off the wall with a sharp lateral jump, lands on dry sidewalk, and keeps walking toward camera as if nothing happened.
+
+7-12s: [Steadicam, still on his face] He jumps. On the landing he throws both arms hard to the right, an abrupt full-body gesture, then freezes in a balanced stance, upright, unmoving. A camera/world tilt slams everything toward that right side as if gravity rotated 90 degrees: the sidewalk becomes a slope. Pedestrians, yellow cabs, the hot-dog cart, trash cans, a bike, a newsstand, bags, a pretzel cart, all lose their footing and crash downhill to the right with real weight and real physics. He stays perfectly vertical, as if his gravity never changed. The frame itself feels canted. Five seconds of the collapse.
+
+12-13s: [Steadicam levels back] The world snaps level. Disaster on the ground: people on the pavement, cabs smashed into parked cars, the food cart on its side, pretzels everywhere. He has not a scratch. He is still looking at camera.
+
+13-15s: [Steadicam holds] A manhole cover is in his path. He stops in front of it, still looking at camera. One hand gesture. The cover launches straight up and out of frame. He drops in and vanishes. Empty hole, two seconds. Camera stays on the open manhole and the brick wall behind it. No pan.
+
+15-17s: [Steadicam still holding that same piece of street] Engine scream. A dirty four-door sedan shoots in from the traffic lane, two golden retrievers in the front seats: one standing on the driver's seat with both paws on the wheel, ears back, mouth open, the other in the passenger seat bouncing against the dash. No human driver. The car is already out of control, bouncing over debris from the tilt, hubcap sparking. It does not slow down.
+
+17-20s: [Steadicam, no pan, the crash happens in frame] The sedan slams nose-first into the red brick wall of the building. Real impact: hood folds, headlight bursts, brick dust and broken masonry, the windshield stars, the chassis wedges against the wall and dies. Through the intact side window the bald man is sitting in the back seat, unharmed, looking toward camera. He plants one foot, kicks the rear door from the inside. The door shears off both hinges, flies across the sidewalk and skips on the concrete. He ducks through the empty door frame, both feet on the sidewalk, stands up, flannel still clean, and walks toward camera again, swag, eyes on the lens. The two retrievers stay in the front seats, barking at the wheel. He came out of the car through the kicked-off door. Not the trunk.
+
+20-22s: [Steadicam walking backward with him] He takes two steps toward camera, stops. Raises one hand and snaps his fingers, loud, close enough to see the fingers. On the snap, a giant tortoise is suddenly there in the traffic lane beside him, Galapagos-scale, shell wider than the sedan, scutes cracked and dusty, real claws on the asphalt, neck extended, blinking. The street dips under the weight. People still on the ground from the tilt look up at it. No fade, no glow: it is just there.
+
+22-25s: [Steadicam] He runs two steps and jumps onto the shell. Both sneakers land on the highest scute, knees bend, he finds his balance, stands upright on the tortoise like a platform, still facing camera, still looking into the lens. The tortoise takes one slow step, claws scraping. He rides it.
+
+25-27s: [Steadicam pushes in from medium-wide to a tight medium] The camera walks closer, chest-high, filling the frame with his bald head, beard, and the shell under his feet. He holds completely still on the tortoise, no swagger, just looking into the lens. He says, clearly, in English, dry: "Steal this, mada-faka." Mouth, beard, eyes readable. No smile.
+
+27-30s: [Steadicam, still close, then he leaves] The tortoise launches. Four claws gouge the asphalt, the shell lurches forward at full speed toward camera. He stays standing on it, knees absorbing the start, still looking at the lens as they fill the frame. They blast past the camera. The steadicam holds as he and the tortoise recede down the wrecked block, him riding away at full speed, dust and brick grit kicking up, dogs still barking at the crashed sedan. Clip ends on him leaving. Never cut.
+
+AUDIO
+City sidewalk, crowd, footsteps on brick wall, a landing. Jump landing, the roar of a gravity tilt (metal, glass, bodies hitting asphalt), then a sudden level-out. Manhole clang, the cover flying, a hollow drop. Engine scream, two dogs barking, tires over debris, a car hitting brick: metal fold, glass, masonry. A door kicked off, steel on concrete. Finger snap. A sudden heavy animal weight on asphalt, tortoise claws. His line, dry, close to camera: "Steal this, mada-faka." Then claws ripping pavement, the shell taking off, the crash receding, dogs still barking. No music. No extra score. No singing. 2000s film production sound.
+
+STYLE & QUALITY
+Looks like a real early-2000s movie steadicam shot that never cuts: 35mm grain, daylight NYC, stable face, real crowd, real wall-walk, real tilt-gravity, real crash into the building wall, real kicked-off door, real giant tortoise with weight, real takeoff. Photoreal. No cartoon, no CGI sheen, no text overlays, no logos, no phone look.
+
+Hope you like it fam!
 ```
 
 </details>
@@ -3334,73 +3392,6 @@ A futuristic experimental racing vehicle attempts to become the first ground veh
 
 Made with Wan 3.0 in
 @openart_ai
-```
-
-</details>
-
-<a id="kling-jaguar-chase-waterfall-pool"></a>
-### 背包客被美洲豹追逐跳入瀑布池
-
-<a href="https://x.com/PixVerse/status/2115760864238469589"><img src="../../previews/kling-jaguar-chase-waterfall-pool.jpg" width="360"></a>
-
-提示词按时间段写出分镜，每一段都指定景别，相当于为模型提供一份30秒的剪辑方案。四张参考图各自绑定角色，并点名锁定人物身份、服装和背包，使角色在多次切镜中保持一致。
-
-Kling 4.0 · 参考生视频 · 出处: [@PixVerse on X](https://x.com/PixVerse/status/2115760864238469589) · 38 赞，统计于 2026-10-29
-
-[`multi-shot`](tags.md#tag-multi-shot) [`reference-images`](tags.md#tag-reference-images) [`chase`](tags.md#tag-chase) [`jaguar`](tags.md#tag-jaguar)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a 30-second, 16:9 photorealistic adventure thriller. Use Image 1 for the jaguar, Image 2 for the rainforest, Image 3 for the waterfall pool, and Image 4 for the backpacker. Preserve identity, clothing, markings, and backpack throughout.
-
-**0–5s**
-Medium tracking shot: the backpacker walks through dense rainforest. A rustle stops him. Cut to his tense face, then over his shoulder as he parts the leaves. A jaguar suddenly lunges.
-
-**5–9s**
-Low lateral wide shot: the jaguar knocks him backward, his backpack striking the muddy ground. Leaves scatter. He shields his head, rolls aside, and scrambles upright while the jaguar turns. Realistic impact, no blood.
-
-**9–15s**
-Ground-level tracking captures pounding boots and flying mud. Cut wider: he races screen-right, the jaguar close behind. He stumbles over a root, braces against a trunk, and keeps running, backpack bouncing against secured straps.
-
-**15–19s**
-Close-up: gasping, he spots an opening. Cut aerial-wide to reveal the trail ending at a rocky bank beside the waterfall pool. The jaguar follows him toward a ledge one meter above the water.
-
-**19–22s**
-Lateral wide shot: trapped, he glances back and jumps. Show takeoff through feet-first entry continuously. His backpack remains attached. Water erupts; the jaguar brakes at the edge.
-
-**22–26s**
-Water-level medium shot: he surfaces and swims away with strenuous strokes, the backpack dragging through the water. He looks back at the jaguar watching from shore.
-
-**26–30s**
-His wet shoulders fill the foreground. Beyond him, the jaguar pauses, turns, and disappears into the forest. He keeps paddling as the waterfall roars.
-
-Natural filtered light, cinematic contrast, varied framing, readable handheld movement, hard cuts, normal speed. Maintain chase direction and geography. Preserve mud after falling and wet clothing after immersion. No dialogue or text. Emphasize foliage, impacts, running, gasping, and rushing water.
-```
-
-</details>
-
-<a id="h3-chun-li-cammy-rain-kick-clash"></a>
-### 春丽与卡米在雨中交锋踢击
-
-<a href="https://x.com/ou_zhen599/status/2096262846963396954"><img src="../../previews/h3-chun-li-cammy-rain-kick-clash.jpg" width="360"></a>
-
-参考图锁定开场构图，提示词写明空中踢击已在进行，因此动作直接延续而不重置。分时段镜头加上禁止定格、悬停和夸张飞行的明确要求，让打斗贴合物理规律。
-
-MiniMax H3 · 图生视频 · 出处: [@ou_zhen599 on X](https://x.com/ou_zhen599/status/2096262846963396954) · 36 赞，统计于 2026-10-29
-
-[`street-fighter`](tags.md#tag-street-fighter) [`chun-li`](tags.md#tag-chun-li) [`cammy`](tags.md#tag-cammy) [`rain`](tags.md#tag-rain)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
-
-integrated_multimodal_description: [Shot 1] Photoreal live-action rainy alley confrontation between adult Chun-Li and Cammy. Preserve the exact opening composition, identities, hairstyles, costumes, proportions, wet East Asian alley, lanterns, puddles, rainfall, and light positions from <Picture 1>. Continue the airborne kick collision already in progress with no freeze, reset, or new wind-up. Contact shakes rain from skin and fabric; puddle splashes happen only on landing. Follow collision, recoil, and landing. Chun-Li (S1) lands stable, bends her knees, restores torso alignment, exhales sharply, and watches Cammy’s shoulder line. Cammy (S2) lands lower, slides briefly, regains support, and stays pitched forward. [Shot 2] At 00:01.400, the camera cuts to a matched advancing three-quarter view after landing. Cammy wipes rain and a trace of blood from her lip once, looks up, and drives in low. Chun-Li reads shoulder and hip initiation, makes a short evasive adjustment, intercepts with one compact kick, retracts, and adds one short pressing kick that shifts Cammy half a step off line. Show planted support, contact, recoil, and recovery. [Shot 3] At 00:03.800, the camera cuts to a lateral close two-shot on Cammy’s recovery. Cammy presses back into close range without resetting. Chun-Li redirects the entry and takes the centerline. Their faces draw near during the brief check. Chun-Li meets Cammy’s eyes. Cammy glances down and aside for one instant, catches breath, tightens her jaw, and attacks again. Chun-Li’s movements grow shorter and more precise while Cammy’s shoulders tighten and breathing fragments. [Shot 4] At 00:06.500, the camera cuts along Cammy’s renewed forward commitment. She gives half a step, lunges again too early, and places weight too far forward. Chun-Li intercepts the entry, sets her support foot, rotates through her hips, and lands one decisive kick to Cammy’s torso. The camera makes one short controlled whip with the turn, then settles before impact. Cammy recoils diagonally, skids through a puddle, loses support, braces with a forearm, and falls onto hip and side in shallow water. No hovering, no exaggerated flight. Chun-Li retracts, plants, and does not pursue. [Shot 5] At 00:09.800, the camera cuts on Cammy’s hand planting on the wet ground. Cammy raises her upper body with a small shoulder load tremor and keeps a defiant lifted chin. Chun-Li approaches with one or two measured steps, then lowers in a controlled squat until both women’s eyes are level. Cammy checks Chun-Li’s hands, then looks into her eyes. Chun-Li does not touch her. Before 00:12.000, settle into a lateral close two-shot with both eyes and Chun-Li’s mouth readable. [Shot 6] At 00:12.000, the camera cuts seamlessly on the completed squat into the settled close two-shot and holds this angle to the end. Chun-Li (S1), in a mature calm female voice, says: <d>[English] You would rather hate me than tell the truth.</d> Deliver the line evenly, with slight extra weight on “hate me” and a firm landing on “truth,” finishing by about 00:14.500. Cammy (S2) keeps eye contact, takes one audible inward breath as if to answer, parts her lips slightly, but says nothing. Chun-Li adds nothing. Rain continues along eyelashes, cheeks, and jaws; both breathing and tiny balance adjustments remain visible until 15.00 seconds. End on unresolved proximity with no freeze, fade, or reconciliation. Treat all six shots as one continuous confrontation, not separate rounds. No action-showcase fighting, no round reset, no routine reverse coverage, no arbitrary cuts, no showy orbiting, no uncontrolled shake, no blank expressions, no glassy eyes, no exaggerated lip sync, no weightless kicks, no unsupported aerial combos, no extra dialogue, no subtitles, no watermarks, no identity drift, no malformed bodies or hands.
-
-overall_soundscape: Two distinct female vocal identities only: Chun-Li mature and steady, Cammy younger and tighter, expressed only through breath and impact exhalations. Heavy rain, splashing steps, wet fabric friction, short solid body impacts, close breathing, and distant alley ambience remain continuous. Lower the environment slightly before the line while keeping rain audible, then retain Cammy’s unanswered inhale and nearby rainfall after it.
-
-non_diegetic_music: N/A
 ```
 
 </details>

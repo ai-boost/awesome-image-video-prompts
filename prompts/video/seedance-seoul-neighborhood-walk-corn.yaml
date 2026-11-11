@@ -1,0 +1,39 @@
+id: seedance-seoul-neighborhood-walk-corn
+title:
+  en: Woman with water bottle leaves Seoul home
+  zh: 女子拿着水瓶走出首尔的家
+model: Seedance 2.5
+mode: reference-to-video
+category: vlog
+tags:
+- home-video
+- seoul
+- reference-image
+- ambient-audio
+source:
+  name: '@AIwithkhan on X'
+  url: https://x.com/AIwithkhan/status/2105860239375638663
+  credit: AIwithkhan
+  captured: '2026-11-11'
+  posted: '2026-10-02'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithkhan/status/2105860239375638663
+notes:
+  en: A reference image locks the character's face and outfit, while the prompt names early 2000s DV traits such as handheld shake, autofocus hunting and mild digital noise so the footage reads as a real home video. Restricting the audio to natural neighborhood sounds and banning music, narration and polished camera moves keeps it believable.
+  zh: 参考图锁定角色的脸和穿着，提示词再写明早期 2000 年代 DV 摄像机的特征，如手持抖动、自动对焦来回跳动和轻微数字噪点，让画面像真实的家庭录像。音频只保留邻里自然声，并禁止音乐、旁白和精致运镜，使整体更可信。
+prompt: |
+  Create a ultra-realistic early-2000s consumer DV camcorder home video of a young Korean woman enjoying a simple day in an older Seoul residential neighborhood. Use the attached image as the character reference and keep her face and appearance consistent. She wears a pink fitted crop top, white casual shorts, simple slippers, and a small bracelet, carrying a clear water bottle.
+
+  She steps out of her home, closes the door and walks through the quiet neighborhood with the bottle in hand. Along the way, she greets a few friendly neighbors with natural smiles and small waves.
+
+  She reaches a neighborhood park and sits on a bench, casually watching children playing football. Suddenly, the football rolls toward her. She picks it up, smiles, kicks it gently back to the children and says, “Enjoy!” The children laugh and continue playing.
+
+  She leaves the park and walks down the street, still carrying her water bottle. She stops at a small street vendor selling sweet corn, buys one and happily takes her first bite while walking.
+
+  While eating, her water bottle accidentally slips from her hand and falls onto the sidewalk. She pauses, looks down, laughs softly, picks it up, takes another bite of the sweet corn and continues walking home.
+
+  Near the end, she walks slowly down the residential lane with the water bottle in one hand and sweet corn in the other, enjoying her snack. She looks toward the camera, smiles naturally and says “Bye bye!”, then walks away.
+
+  Use raw early-2000s consumer DV-camera footage: handheld shake, imperfect framing, autofocus hunting, slight exposure shifts, soft digital detail, mild digital noise, natural motion blur and occasional awkward zooms. Authentic home-video feeling, realistic skin, natural expressions and believable movement.
+
+  Natural neighborhood audio only: footsteps, birds, distant traffic, children playing football, neighbors talking, bicycle sounds, vendor ambience, water bottle movement and light wind. No music, narration, subtitles, beauty filters, CGI, cinematic commercial look or polished camera movement.

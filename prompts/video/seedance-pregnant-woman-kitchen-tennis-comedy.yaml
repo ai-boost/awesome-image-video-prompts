@@ -1,0 +1,41 @@
+id: seedance-pregnant-woman-kitchen-tennis-comedy
+title:
+  en: Pregnant woman cutting cucumber in luxury kitchen
+  zh: 孕妇在豪华厨房切黄瓜
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- 3d-animation
+- multi-scene
+- vertical-video
+- comedy
+source:
+  name: '@Zarnab_with_Ai on X'
+  url: https://x.com/Zarnab_with_Ai/status/2118533471786406031
+  credit: Zarnab_with_Ai
+  captured: '2026-11-11'
+  posted: '2026-11-06'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Zarnab_with_Ai/status/2118533471786406031
+notes:
+  en: Numbered scene beats plus a shared visual style block and a repeated character description keep the look consistent across cuts. The 9:16 spec and the closing line about no text, no subtitles and no watermark keep the frame clean.
+  zh: 用编号分镜逐段写清每个场景，并在结尾附统一的视觉风格段和角色外观描述，让多次切镜后人物形象保持一致。开头标明 9:16 竖屏，结尾写明无文字、无字幕、无水印，画面更干净。
+prompt: |
+  Create a cute, high-quality 3D animated cinematic comedy scene in a vertical 9:16 format.
+
+  Scene 1: A beautiful pregnant young woman with long, straight black hair, wearing a shiny pink satin two-piece outfit, is standing in a modern luxury kitchen, peacefully cutting fresh vegetables on a wooden chopping board. Warm lighting, elegant marble countertops, and realistic kitchen details.
+
+  Scene 2: Suddenly, a kitchen knife appears to float mysteriously in the air, creating a magical transition. Show a cinematic close-up of the woman's pregnant belly with soft, warm lighting.
+
+  Scene 3: Transition into a magical glowing tennis court with golden sparkling lights. An adorable little 3D cartoon baby boy with curly brown hair, a white headband, big expressive eyes, and a white tennis outfit appears holding a miniature tennis racket. He takes an energetic tennis stance and confidently prepares to hit a tennis ball.
+
+  Scene 4: Show the cute little tennis player running forward with an adorable but fierce expression, swinging his racket and hitting the ball with surprising power. Use dynamic camera movements and cinematic close-ups.
+
+  Scene 5: Return to the modern kitchen. The pregnant woman looks shocked and surprised. A handsome young man with curly brown hair, wearing a black sleeveless athletic shirt, appears beside her holding a tennis racket. He looks at her belly in amazement.
+
+  Scene 6: The man and woman exchange surprised expressions, then both burst into laughter, sharing a sweet and funny moment together.
+
+  Visual Style: Premium 3D Pixar-inspired animation, adorable character designs, expressive facial emotions, detailed textures, smooth natural movements, cinematic lighting, magical golden particles, vibrant colors, consistent character appearance, professional camera angles, and heartwarming comedy storytelling.
+
+  Quality: 4K, ultra-detailed 3D rendering, smooth animation, vertical 9:16, no text, no subtitles, no watermark.

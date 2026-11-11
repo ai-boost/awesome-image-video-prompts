@@ -1,6 +1,6 @@
 # Characters and figures
 
-[Back to the list](../../README.md) · All 111 entries
+[Back to the list](../../README.md) · All 112 entries
 
 <a id="gpt-image-tanjiro-pixel-sprite-sheet-water-attack"></a>
 ### Tanjiro 16 frame pixel sprite sheet with water attack
@@ -160,6 +160,31 @@ ChatGPT · Text-to-image · Source: [@totalparadise on TikTok](https://www.tikto
 
 ```text
 With everything you know about me, what would I look like as a Rugrats kid. Include the toy Reptar, other characters and things from the show.
+```
+
+</details>
+
+<a id="seedream-5-5-slytherin-library-smile"></a>
+### Slytherin girl smiling in candlelit Hogwarts library
+
+<a href="https://x.com/Mayz1169/status/2120151170102767819"><img src="../../previews/seedream-5-5-slytherin-library-smile.jpg" width="360"></a>
+
+A reference image locks the character design, and the prompt then lists the uniform and colours item by item so the outfit stays exact. Light comes from two sources, a warm candle on the left and cool blue twilight through the window, which gives the scene depth.
+
+Seedream 5.5 · Edit · Source: [@Mayz1169 on X](https://x.com/Mayz1169/status/2120151170102767819) · 924 likes on 2026-11-11
+
+[`anime`](tags.md#tag-anime) [`harry-potter`](tags.md#tag-harry-potter) [`fan-art`](tags.md#tag-fan-art) [`candlelight`](tags.md#tag-candlelight)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+try it here 👉
+https://
+renoise.ai/?utm_medium=xc
+om&utm_source=kiki-seedream-5-5
+…
+
+Use @ image as the exact character design: long pale-blonde hair, grey eyes, Slytherin uniform with grey sweater vest, green-and-silver striped tie and black robe with green lining. High-quality anime illustration, upper-body shot of her sitting at a long wooden table in the Hogwarts library at dusk, turning her head toward the viewer with a sly, confident smile. Her hands are out of frame. Warm candlelight from the left lights her face and hair, cool blue twilight comes through the tall arched window behind her, glowing dust in the air, stacks of old books softly blurred in the background. Clean line art, rich soft lighting, detailed hair strands, no text.
 ```
 
 </details>

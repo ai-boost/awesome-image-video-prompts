@@ -1,0 +1,39 @@
+id: seedance-vaccination-father-panic-clinic
+title:
+  en: Father panics during baby's vaccination in 3D clinic
+  zh: 父亲在3D诊所陪婴儿打针时惊慌失措
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- 3d-animation
+- comedy
+- pixar-style
+- family-friendly
+source:
+  name: '@Zarnab_with_Ai on X'
+  url: https://x.com/Zarnab_with_Ai/status/2111280639295275309
+  credit: Zarnab_with_Ai
+  captured: '2026-11-11'
+  posted: '2026-10-17'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Zarnab_with_Ai/status/2111280639295275309
+notes:
+  en: The beats escalate in a clear order (nervous baby, terrified father, injection, relief, baby laughs), which keeps the comedy timing readable across 10 seconds. The nurse's calm delivery against the father's exaggerated reaction creates the contrast the joke depends on.
+  zh: 节拍按紧张、惊恐、打针、松一口气、婴儿大笑的顺序递进，让10秒内的喜剧节奏清晰可读。护士的平静与父亲夸张的反应形成对比，笑点由此产生。
+prompt: |
+  Create a high-quality, ultra-detailed 3D animated comedy video set inside a bright, modern pediatric clinic. A cute, chubby baby wearing a light green floral romper sits on her father's lap. The father is a heavyset man with messy brown hair, an orange T-shirt, and blue jeans. A blonde female nurse wearing a white uniform, surgical mask, and gloves prepares to give the baby a vaccination.
+
+  As the nurse approaches with the syringe, the father becomes increasingly terrified, his eyes widening and his hair standing straight up in exaggerated cartoon fashion. The baby initially looks confused and nervous. When the nurse gives the injection, the father screams dramatically with his mouth wide open, tears streaming down his cheeks, while the baby watches him in surprise.
+
+  The nurse calmly continues the procedure, showing a funny contrast between her professional attitude and the father's over-the-top reaction. Finally, the father realizes the injection is over, relaxes, and smiles with relief. The baby bursts into laughter at her father's ridiculous reaction.
+
+  Visual Style: Premium 3D animated movie quality, Pixar-inspired character design, expressive facial animations, realistic skin shading, detailed clothing textures, cinematic lighting, soft shadows, vibrant colors, vertical 9:16 composition.
+
+  Camera: Medium shot transitioning into close-ups of the father's terrified expressions, the baby's reactions, and the nurse's calm movements. Smooth camera motion and consistent character designs throughout.
+
+  Duration: 10 seconds.
+
+  Audio: Funny cartoon sound effects, exaggerated scream, subtle clinic ambience, and joyful baby laughter. No dialogue or subtitles.
+
+  Important: Maintain consistent character appearances, natural body movements, accurate hand anatomy, and smooth facial expressions. Make the scene humorous, family-friendly, and visually engaging.

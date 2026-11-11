@@ -1,0 +1,121 @@
+id: seedance-mercedes-convertible-mediterranean-coast-romance
+title:
+  en: Black Mercedes convertible cruising a Mediterranean coastal road
+  zh: 黑色梅赛德斯敞篷车驶过地中海海岸公路
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- car
+- coastal
+- romance
+- sunset
+source:
+  name: '@codewithhajra on X'
+  url: https://x.com/codewithhajra/status/2119668766841672041
+  credit: codewithhajra
+  captured: '2026-11-11'
+  posted: '2026-11-09'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/codewithhajra/status/2119668766841672041
+notes:
+  en: Each beat is tied to a time range in seconds and carries its own camera line with a lens and light spec, so the model generates one shot per beat in order. The explicit cut and camera cues keep the sequence coherent across the 30 second run.
+  zh: 每段都标注起止秒数，并附带镜头、焦段和光线说明，让模型按顺序逐段生成对应镜头。明确的切镜和运镜指令能让 30 秒的序列保持连贯。
+prompt: |
+  Begin with a cinematic aerial establishing shot of a luxurious black Mercedes convertible cruising along a winding Mediterranean coastal road.
+
+  The turquoise sea sparkles under the afternoon sunlight. Palm trees and beautiful coastal cliffs pass in the background.
+
+  Cut to an interior passenger-side shot. The woman sits comfortably in the passenger seat, enjoying the breeze. Her skirt moves gently with the wind.
+
+  The handsome man drives with one hand on the steering wheel. He glances at her and smiles.
+
+  She notices him looking and gives him a playful smile.
+
+  Camera: Smooth aerial tracking, followed by intimate 50mm interior shots, natural sunlight and beautiful depth of field.
+
+  THE LITTLE STOP (5–10 SECONDS)
+
+  The man notices a beautiful seaside viewpoint and gently slows down.
+
+  Cut to an elegant side shot as the black Mercedes pulls into a scenic coastal parking area overlooking the ocean.
+
+  He parks the car safely and switches off the engine.
+
+  The woman looks outside excitedly, smiles and reaches for the door handle.
+
+  The man steps out first, walks around the front of the car and opens the passenger door for her.
+
+  She laughs softly and steps out, adjusting her skirt as the coastal breeze catches her hair.
+
+  They exchange a sweet smile.
+
+  Camera: Low-angle automotive shot, smooth movement around the car and cinematic couple entrance.
+
+  WALKING BY THE SEA (10–16 SECONDS)
+
+  Transition to a beautiful wide tracking shot of the couple walking together along a charming seaside pedestrian path.
+
+  The ocean is on one side, with a stone railing, coastal flowers and warm sunset light surrounding them.
+
+  The woman walks beside the man, holding his arm. He gently takes her hand.
+
+  She points toward the beautiful sunset over the water.
+
+  He looks where she points, then turns back toward her with a genuine smile.
+
+  They continue walking slowly, laughing and enjoying the moment.
+
+  Her flowing polka-dot skirt moves naturally in the sea breeze.
+
+  Camera: Side-tracking shot, cinematic 35mm lens, foreground flowers softly framing the couple and beautiful ocean bokeh.
+
+  THE SUNSET MOMENT (16–22 SECONDS)
+
+  Cut to an intimate cinematic shot at a beautiful seaside overlook.
+
+  The couple stops beside a stone railing, facing the ocean.
+
+  The sky is painted with beautiful shades of peach, pink, golden orange and lavender.
+
+  The woman rests her hands on the railing, admiring the sunset.
+
+  The man steps beside her, gently places his arm around her shoulders and looks at the horizon.
+
+  She turns toward him and smiles.
+
+  He gently brushes a loose strand of hair away from her face.
+
+  They share a quiet, affectionate moment while the sunlight softly illuminates their faces.
+
+  Camera: Over-the-shoulder composition, close-up facial details, beautiful sunset backlighting and subtle lens flare.
+
+  A MEMORY TO KEEP (22–26 SECONDS)
+
+  The woman takes a small vintage digital camera from her shoulder bag.
+
+  She turns toward the man and asks him to take a picture with her.
+
+  He takes the camera, holds it up and captures a photograph of them standing together against the glowing sunset.
+
+  After taking the picture, he shows her the screen.
+
+  She laughs happily and leans her head gently against his shoulder.
+
+  They admire the beautiful photograph together.
+
+  Camera: Close-up of the camera, their genuine expressions and a soft over-the-shoulder composition.
+
+  THE BEAUTIFUL GOODBYE (26–30 SECONDS)
+
+  End with a breathtaking cinematic wide shot.
+
+  The man opens the passenger door for her again.
+
+  Before getting inside, she turns around, looks at the sunset one last time and smiles.
+
+  He stands beside her, holding her hand.
+
+  The camera slowly cranes upward and pulls away, revealing the beautiful black convertible, the winding coastal road, the endless ocean and the glowing sunset.
+
+  ENDING MOOD: A beautiful little escape, a sunset, and a memory they will never forget.

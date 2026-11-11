@@ -1,0 +1,28 @@
+id: seedance-korean-folk-horror-ritual
+title:
+  en: Shaman ritual possession in a Korean wooden house
+  zh: 韩国民俗驱邪仪式中的附身场景
+model: Seedance 2.5
+mode: reference-to-video
+category: cinematic
+tags:
+- horror
+- korean-folk-horror
+- practical-effects
+source:
+  name: '@AIwithSynthia on X'
+  url: https://x.com/AIwithSynthia/status/2099836457430974932
+  credit: AIwithSynthia
+  captured: '2026-11-11'
+  posted: '2026-09-15'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithSynthia/status/2099836457430974932
+notes:
+  en: Anchor the character with a consistency instruction, then move through clear beats from a calm ritual to a violent wind and fire climax. The closing wide shot with a slow push toward one smoking talisman sets up an unresolved ending, and the practical fire, smoke and sound direction keeps the horror realistic without gore.
+  zh: 先用一致性指令锁定角色形象，再依次推进从平静仪式到狂风与火焰高潮的段落。结尾用广角镜头缓慢推向一张冒烟的符纸，留下未解的悬念，并明确实拍火焰、烟雾与声音，让恐怖保持写实而不血腥。
+prompt: |
+  Create a cinematic Korean folk-horror ritual inside a dark traditional Korean wooden house. Keep the Word character’s face, hairstyle, outfit, and appearance perfectly consistent. She kneels weakly inside a salt circle surrounded by candles, incense, rice, and Korean talismans while worried family members watch and a shaman prepares the ritual. The shaman begins chanting as her fingers twitch, her body trembles, her head suddenly moves unnaturally, dark veins spread across her skin, and her eyes gradually turn completely black. Her body convulses violently as the shaman throws rice and salt around the circle.
+
+  The woman suddenly rises unnaturally while the shaman presses a burning talisman against her forehead. A powerful wind tears through the closed room, shaking candles, scattering papers, and whipping her hair and clothing. The talisman catches fire, flames surge, and she collapses onto the wooden floor, completely still. After a tense silence, her eyes reopen normally and the family rushes toward her in relief while the exhausted shaman watches carefully.
+
+  End with a wide aftermath shot showing scattered salt, burnt talismans, melted candles, incense smoke, and ritual objects across the floor. Everything appears finished until one untouched talisman begins releasing a faint trail of dark smoke. The camera slowly moves toward it, leaving the supernatural threat unresolved. Realistic Korean folk horror, cinematic lighting, deep shadows, practical fire and smoke, dramatic camera movement, natural acting and sound design, no gore, no subtitles, no watermark, no anime or cartoon style.

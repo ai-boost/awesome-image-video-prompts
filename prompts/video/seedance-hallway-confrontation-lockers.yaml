@@ -1,0 +1,45 @@
+id: seedance-hallway-confrontation-lockers
+title:
+  en: Two students confront each other at school lockers
+  zh: 两名学生在学校储物柜前对峙
+model: Seedance 2.5
+mode: text-to-video
+category: scifi-fantasy
+tags:
+- superpowers
+- high-school
+- teen-drama
+- vfx
+source:
+  name: '@itsSaira_1 on X'
+  url: https://x.com/itsSaira_1/status/2102994561144434785
+  credit: itsSaira_1
+  captured: '2026-11-11'
+  posted: '2026-09-24'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/itsSaira_1/status/2102994561144434785
+notes:
+  en: The prompt splits the 24 second clip into timed scene beats, each with its own shot size and camera move, so the escalation from standoff to energy attack stays readable. Fixed wardrobe details like the plaid shirt and the red R letterman jacket keep each character recognizable across cuts.
+  zh: 提示词把24秒的视频拆成带时间段的分镜节拍，每一段都写明景别和运镜，使从对峙到能量攻击的递进清晰可读。格子衬衫、带红色R字母的棒球外套等固定服装细节，让角色在切镜后依然容易辨认。
+prompt: |
+  Cinematic 16:9 live-action, 24 sec, realistic high school hallway, bright fluorescent lighting, shiny floor, grey lockers, shallow depth of field. Characters: Girl A: long wavy brown hair, blue plaid shirt over white tank top, jeans. Girl B: short dark bob, navy-and-cream letterman jacket with red "R".
+
+  Scene 1 (0-2s): Wide shot. Girl A stands against lockers, Girl B faces her, confronting her. Students walk in the background.
+
+  Scene 2 (2-4s): Close-up of Girl A, nervous and calm, Girl B's head blurred in the foreground. Cut to Girl B's close-up, smirking.
+
+  Scene 3 (4-7s): Medium two-shot over Girl B's shoulder. Girl A looks tense and stares back.
+
+  Scene 4 (7-8s): Girl B slaps Girl A. Girl A's head whips sideways, hair flying, and her eyes flash glowing white.
+
+  Scene 5 (8-9s): Wide handheld shot. Girl A, eyes glowing, thrusts her arm out, blue-white electric energy crackles along her arm. Students in the hallway watch in shock.
+
+  Scene 6 (10-15s): Close-up. Girl A's face, glowing white eyes, angry and shaken. Her glowing hand rises toward the camera, energy sparking around her fingers.
+
+  Scene 7 (16-19s): Wide long hallway shot. Two jocks in varsity jackets rush at Girl A. She unleashes streaks of white energy that hurl them backward through the air.
+
+  Scene 8 (20-24s): Front-facing tracking shot. Girl A walks down the empty hallway toward the camera, glowing energy on her arms and eyes. The glow fades, her eyes turn normal, and she looks breathless and shocked.
+
+  Style: realistic teen superhero drama, natural skin texture, motion blur on energy effects, smooth camera moves, cool blue-white glow, no text or subtitles. @Flovaai @itsPolloAI @PixVerse @dreamina_ai
+
+  #SuperPowers #ShortFilm #AIVideo #Cinematic

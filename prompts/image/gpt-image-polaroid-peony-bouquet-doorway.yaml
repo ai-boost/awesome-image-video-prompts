@@ -1,0 +1,24 @@
+id: gpt-image-polaroid-peony-bouquet-doorway
+title:
+  en: Woman with pink peony bouquet in doorway
+  zh: 女子站在门口抱着粉色芍药花束
+model: GPT Image 2.5
+mode: text-to-image
+category: portrait
+tags:
+- polaroid
+- portrait
+- film-look
+- flowers
+source:
+  name: '@MissDelulu9 on X'
+  url: https://x.com/MissDelulu9/status/2119338630808494256
+  credit: Eesha
+  likes: 191
+  captured: '2026-11-11'
+  posted: '2026-11-08'
+notes:
+  en: Named analog cues such as direct flash, organic grain, faded warm colors and slight exposure error do the vintage work better than a generic retro filter. An explicit edge to edge 9:16 frame with a ban on borders and text keeps the output clean enough to post.
+  zh: 提示词用具体的胶片线索，例如直接闪光、颗粒感、褪色暖色和轻微曝光偏差来营造复古感，比笼统的复古滤镜更有效。明确要求满幅9:16构图并禁止白边和文字，使输出可以直接发布。
+prompt: |
+  A full-length vintage Polaroid-style photograph of an adult woman in her twenties standing beside an open wooden doorway, softly smiling while holding a huge bouquet of fully bloomed pink peonies wrapped in brown kraft paper. She wears an oversized white men's shirt, with long, naturally voluminous hair and minimal rosy nude makeup. Cozy home interior with warm wooden panels and neutral walls. Direct on-camera flash, soft shadows, slightly imperfect exposure, gentle highlights, organic film grain, faded warm colors, and authentic analog texture. Romantic, candid 90s Polaroid aesthetic, photorealistic, natural skin and hands, full-bleed vertical 9:16 composition, absolutely no white border, frame, text, or watermark.

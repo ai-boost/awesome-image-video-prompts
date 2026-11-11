@@ -1,6 +1,6 @@
 # Cinematic scenes and short films
 
-[Back to the list](../../README.md) · All 160 entries · **1** · [2](video-cinematic-2.md)
+[Back to the list](../../README.md) · All 170 entries · **1** · [2](video-cinematic-2.md)
 
 <a id="h3-character-detail-montage"></a>
 ### Twenty shot character detail montage, face revealed last
@@ -787,6 +787,29 @@ Warm sunlight enters through large windows, revealing drifting dust above desks 
 Use one slow camera push-in, natural movement, restrained facial expressions, and a brief moment of subtle slow motion during the gesture. Maintain consistent anatomy, lighting, and spatial relationships.
 
 Realistic cinematic photography, 16:9 widescreen, 4K where supported. No text or watermark.
+```
+
+</details>
+
+<a id="omni-regency-ballroom-claude-shirt-jigglypuff"></a>
+### Regency ballroom girl in Claude shirt, Jigglypuff hat
+
+<a href="https://x.com/chetaslua/status/2118348030906937504"><img src="../../previews/omni-regency-ballroom-claude-shirt-jigglypuff.jpg" width="360"></a>
+
+The prompt sets the period setting, brand shirts and a creature hat on one clear subject, then lists extra characters so the model fills the scene. Naming the genre as prestige drama steers the lighting and pacing toward a serious period film.
+
+Gemini Omni Flash · Text-to-video · Source: [@chetaslua on X](https://x.com/chetaslua/status/2118348030906937504) · 518 likes on 2026-11-11
+
+[`period-drama`](tags.md#tag-period-drama) [`pokemon`](tags.md#tag-pokemon) [`brand-logos`](tags.md#tag-brand-logos) [`ballroom`](tags.md#tag-ballroom)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+🚨 Gemini Omni Pro Spotted internally
+
+4k supported , 15 second , and also omni flash 1.2 can launch anyday literally ready and deployed
+
+Prompt : an Elaborate regency romance  a girl is wearing claude t shirt and biy is wearing chagpt shirt where everyone is wearing a live pokemon for a hat (), a llama plays a flute, prestige drama and fat orange cat with mistral shirt is singing
 ```
 
 </details>
@@ -3999,6 +4022,36 @@ Negative prompt: no subtitles, no text, no logos, no watermark, no distorted fac
 
 </details>
 
+<a id="seedance-black-cat-halloween-horror"></a>
+### Black cat walks a foggy Halloween village street
+
+<a href="https://x.com/AIwithSynthia/status/2116548193840431160"><img src="../../previews/seedance-black-cat-halloween-horror.jpg" width="360"></a>
+
+Labelled sections (setting, cat, final reveal) and a numbered shot order give Seedance a clear escalation path. A low ground level tracking camera, a slow push in toward the face, and the explicit photorealistic live action style keep the realism while the scene builds to the scream.
+
+Seedance 2.5 · Text-to-video · Source: [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2116548193840431160) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`halloween`](tags.md#tag-halloween) [`horror`](tags.md#tag-horror) [`black-cat`](tags.md#tag-black-cat)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a  ultra-realistic, photorealistic live-action Halloween horror video featuring a mysterious black cat with sleek glossy fur and piercing golden eyes.
+SETTING
+A deserted village street at midnight, surrounded by enormous glowing jack-o'-lanterns, twisted trees, abandoned houses, scattered autumn leaves, and thick rolling fog. A blood-red moon hangs above the village, casting an eerie orange-red glow across the road.
+— THE MYSTERIOUS CAT
+A black cat slowly walks down the empty village street, passing several glowing pumpkins. Its golden eyes reflect the flickering candlelight. The camera follows it from a low ground-level angle as its paws move naturally across the leaf-covered road.
+
+The camera slowly pushes toward the cat's face. Its eyes transform into glowing supernatural orange eyes with narrow vertical pupils. Its fur rises, its mouth stretches into an unnatural monstrous grin, and its sharp fangs become visible.
+The pumpkins behind it begin shaking violently as black smoke erupts from the ground. The cat suddenly opens its mouth and releases a terrifying demonic growl.
+— FINAL HORROR REVEAL
+The cat slowly walks toward the camera, staring directly into the lens. Its glowing eyes become brighter with every step.
+It suddenly stops inches from the camera, opens its mouth impossibly wide, revealing rows of terrifying sharp teeth, and unleashes a horrifying demonic scream.
+FINAL SHOT: Extreme close-up of the cat's fiery orange eyes and monstrous grin. The pumpkins behind it simultaneously explode into darkness as the screen cuts to black.
+```
+
+</details>
+
 <a id="seedance-blonde-girl-pouts-cheek-poke"></a>
 ### Blonde girl pouts after finger pokes her cheek
 
@@ -4230,59 +4283,6 @@ Seedance 2.5 · Text-to-video · Source: [@Dheepanratnam on X](https://x.com/Dhe
 
 ```text
 [SCENE] A 30-second stylised 3D animated short. A handmade clay mug at the back of a kitchen cupboard waits to be chosen, while the perfect porcelain cups at the front are used every day. Warm, funny, quietly moving. 2.35:1.
-```
-
-</details>
-
-<a id="seedance-clown-pumpkin-bat-halloween"></a>
-### Clown smashes glowing pumpkin with baseball bat
-
-<a href="https://x.com/iam_mian7/status/2116450954296074371"><img src="../../previews/seedance-clown-pumpkin-bat-halloween.jpg" width="360"></a>
-
-A numbered beat-by-beat timeline with a fixed medium-wide frontal camera gives the model a clear sequence to follow. Explicit slow-motion and realistic-physics instructions for the explosion, plus an exact final text overlay, keep the payoff readable.
-
-Seedance 2.5 · Text-to-video · Source: [@iam_mian7 on X](https://x.com/iam_mian7/status/2116450954296074371) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`halloween`](tags.md#tag-halloween) [`horror`](tags.md#tag-horror) [`slow-motion`](tags.md#tag-slow-motion) [`vfx`](tags.md#tag-vfx)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a hyper-realistic, cinematic Halloween video in vertical 9:16 format, approximately 10 seconds long, with photorealistic 4K quality.
-
-Scene and Environment:
-A dark, spooky forest at night, filled with tall leafless trees, thick atmospheric fog, subtle floating red glowing particles, and dramatic moonlight. In the foreground, place a rustic, weathered wooden table.
-
-Main Character:
-A beautiful young female Halloween clown standing behind the table. She wears an elaborate vintage circus clown costume featuring a black-and-white checkered bodice, red decorative accents, a layered grey tulle skirt, white gloves, and two high curly buns decorated with red roses. Her face has elegant but slightly creepy Halloween clown makeup, with pale skin, dark eyes, and red details.
-
-Action Sequence:
-
-1. The camera remains fixed in a medium-wide frontal shot. The clown enters the scene holding a glowing orange jack-o'-lantern pumpkin. Several red helium balloons float above and behind her.
-
-2. She carefully places the pumpkin on the wooden table, adjusting it with both hands. The pumpkin has a realistically carved, illuminated scary face.
-
-3. She steps back, looks at the pumpkin, and raises her hands with a playful, mischievous expression.
-
-4. A large wooden baseball bat suddenly appears in her hands. She grips it firmly with both hands and prepares to swing.
-
-5. She performs a powerful horizontal baseball swing, striking the pumpkin with full force.
-
-6. On impact, the pumpkin explodes dramatically into hundreds of realistic orange pieces, flying pumpkin seeds, glowing embers, and fiery particles. Create a spectacular cinematic slow-motion explosion with realistic physics.
-
-7. Finish with the clown holding her follow-through batting pose while pumpkin fragments scatter across the wooden table and foreground.
-
-**Final Frame:**
-Display bold, clean white uppercase text at the bottom center:
-
-"HAPPY HALLOWEEN"
-
-Visual Style:
-Ultra-photorealistic cinematic horror fantasy, realistic human anatomy, detailed facial expressions, natural character movement, physically accurate object interactions, dramatic volumetric lighting, atmospheric fog, realistic fire and particle effects, professional Hollywood VFX, sharp details, natural motion blur.
-
-Camera: Fixed frontal camera, medium-wide composition, no cuts, no zooms, consistent character appearance and costume throughout.
-
-Important: No cartoon aesthetics, no animation look, no plastic skin, no character morphing, no extra limbs, no distorted hands, no scene transitions, and no changes to the character's identity.
 ```
 
 </details>

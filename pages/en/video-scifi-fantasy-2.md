@@ -1,6 +1,44 @@
 # Sci-fi and fantasy
 
-[Back to the list](../../README.md) · All 97 entries · [1](video-scifi-fantasy.md) · **2**
+[Back to the list](../../README.md) · All 99 entries · [1](video-scifi-fantasy.md) · **2**
+
+<a id="seedance-wizard-workshop-transformation"></a>
+### First person wizard workshop with glowing potion
+
+<a href="https://x.com/KICHOCHEZI/status/2098432693222715716"><img src="../../previews/seedance-wizard-workshop-transformation.jpg" width="360"></a>
+
+A Blender white model fixes the camera path, timing and spatial layout through a reference video, while the supplied images set materials and light. Asking for one continuous take with a single held potion keeps the motion and props stable.
+
+Seedance 2.5 · Reference-to-video · Source: [@KICHOCHEZI on X](https://x.com/KICHOCHEZI/status/2098432693222715716)
+
+[`blender`](tags.md#tag-blender) [`white-model`](tags.md#tag-white-model) [`first-person`](tags.md#tag-first-person) [`reference-video`](tags.md#tag-reference-video)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 12-second single-take white-model animation in Blender based on the supplied wizard workshop reference. Build the stone walls, wooden shelves, arched window, fireplace, books, astronomical instrument and alchemy table filled with potion bottles. Animate a low first-person viewpoint with exactly one right hand holding one potion. Begin with the bottle near the lower-right edge, look around the workshop and toward the window, raise the potion naturally, pause to examine it, then lower it while turning toward the fireplace and glowing reagents. Export the white-model MP4. Then use PixVerse with Seedance 2.5, referencing the Blender video for camera, action and spatial layout and the supplied images for appearance. Preserve the continuous shot and timing while adding weathered stone, carved wood, worn leather, realistic glass, cool window light, warm fireplace illumination, glowing magical liquids, natural flames, embers, sparks and smoke.
+```
+
+</details>
+
+<a id="seedance-woman-castle-doors-floating-islands"></a>
+### Woman opens castle doors to a floating sky
+
+<a href="https://x.com/laviniavelle/status/2105889515948921057"><img src="../../previews/seedance-woman-castle-doors-floating-islands.jpg" width="360"></a>
+
+The prompt lays out the shot in time order: dark interior, door reveal, run across the field, then a leap with the camera following, which gives the model a clear beat sequence to follow. The closing lighting and resolution terms set the cinematic finish.
+
+Seedance 2.5 · Text-to-video · Source: [@laviniavelle on X](https://x.com/laviniavelle/status/2105889515948921057)
+
+[`fantasy`](tags.md#tag-fantasy) [`castle`](tags.md#tag-castle) [`floating-islands`](tags.md#tag-floating-islands) [`camera-follow`](tags.md#tag-camera-follow)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Cinematic video of a young woman in an elegant white medieval dress opening large wooden doors from a dark castle interior to reveal a breathtaking sunny landscape with lush green fields a lake and distant mountains She runs out across the grassy field towards a large grand castle The camera follows her as she leaps into the air, gracefully floating into a magical fantasy sky filled with floating islands cascading waterfalls above clouds, and a large glowing pink moon in the surreal sky, 8k resolution, ultra detailed, cinematic lighting.
+```
+
+</details>
 
 <a id="seedance-woodland-guardian-lantern-door"></a>
 ### Woodland guardian touches glowing carved standing stone

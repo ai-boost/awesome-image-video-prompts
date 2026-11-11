@@ -1,0 +1,38 @@
+id: seedance-korean-cafe-chair-takedown
+title:
+  en: Woman sips iced coffee in Korean café
+  zh: 韩国咖啡馆里女子慢慢喝冰咖啡
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- korean
+- cafe
+- action-comedy
+source:
+  name: '@nawalsehar on X'
+  url: https://x.com/nawalsehar/status/2106975147806576802
+  credit: nawalsehar
+  captured: '2026-11-11'
+  posted: '2026-10-05'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/nawalsehar/status/2106975147806576802
+notes:
+  en: The prompt states each beat as a concrete physical action with named contact and reaction, such as catches wrist and sofa compresses, so the model gets clear choreography instead of vague fight language. Locking the café layout and screen direction, plus an explicit list of allowed ambient sounds, keeps the set and audio consistent across the 30 seconds.
+  zh: 提示词把每个动作拆成具体的身体接触和物理反应，例如抓住手腕、沙发被压缩，使模型有清晰的动作编排，而不是模糊的打斗描述。锁定咖啡馆布局和画面方向，并明确列出允许的环境音效，使30秒内的场景和声音保持一致。
+prompt: |
+  Create an exactly 30-second, 16:9, 24fps hyper-realistic Korean live-action action-comedy scene inside one modern café. All characters are adults. Keep the café layout, screen direction, tables, chair and sofa consistent.
+
+  PYONA sits calmly when an arrogant man approaches and says, “야, 비켜.” He kicks her chair, making it jerk sideways and causing her to fall realistically. He smirks, convinced he has won.
+
+  PYONA slowly rises, looks at him and says, “너 지금 뭐 한 거야?” He reaches for her. She catches his wrist, redirects his momentum and sends him stumbling into an empty table. He throws a desperate punch; she ducks, strikes his midsection, grabs his jacket and redirects him into the table again.
+
+  He panics and charges. PYONA sidesteps at the last second, redirects his momentum and sends him stumbling backward into the soft sofa. The sofa compresses naturally as he crashes into it.
+
+  A stunned silence follows. Customers stare. PYONA calmly returns to her table, fixes the chair, sits down and takes another sip. She glances toward the sofa. The terrified man sinks lower into the cushions. Cut to black.
+
+  Grounded physical choreography throughout: clear contact, realistic weight, momentum, friction, balance and furniture reactions. Cinematic handheld camera with clear impact framing and consistent spatial direction.
+
+  Natural café ambience only: footsteps, chair scraping, impacts, rattling cups, clothing movement, breathing and customer reactions. No music, narration or cartoon sound effects.
+
+  Negative prompt: duplicated characters, changing faces, impossible physics, premature falls, invisible strikes, floating bodies, teleportation, excessive camera shake, excessive slow motion, blood, gore, broken bones, head impacts, supernatural force, subtitles, captions, logos, watermark.

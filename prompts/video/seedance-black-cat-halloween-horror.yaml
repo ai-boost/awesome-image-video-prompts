@@ -1,0 +1,35 @@
+id: seedance-black-cat-halloween-horror
+title:
+  en: Black cat walks a foggy Halloween village street
+  zh: 黑猫走过万圣节雾中的村庄街道
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- halloween
+- horror
+- black-cat
+source:
+  name: '@AIwithSynthia on X'
+  url: https://x.com/AIwithSynthia/status/2116548193840431160
+  credit: AIwithSynthia
+  captured: '2026-11-11'
+  posted: '2026-10-31'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithSynthia/status/2116548193840431160
+notes:
+  en: Labelled sections (setting, cat, final reveal) and a numbered shot order give Seedance a clear escalation path. A low ground level tracking camera, a slow push in toward the face, and the explicit photorealistic live action style keep the realism while the scene builds to the scream.
+  zh: 分段结构（场景、猫、最终揭示）加上按顺序排列的镜头，让模型清楚地从平静走向惊悚。低机位跟拍、缓慢推近面部，并明确写实的真人实拍风格，在保持真实感的同时逐步推进到尖叫的高潮。
+prompt: |
+  Create a  ultra-realistic, photorealistic live-action Halloween horror video featuring a mysterious black cat with sleek glossy fur and piercing golden eyes.
+  SETTING
+  A deserted village street at midnight, surrounded by enormous glowing jack-o'-lanterns, twisted trees, abandoned houses, scattered autumn leaves, and thick rolling fog. A blood-red moon hangs above the village, casting an eerie orange-red glow across the road.
+  — THE MYSTERIOUS CAT
+  A black cat slowly walks down the empty village street, passing several glowing pumpkins. Its golden eyes reflect the flickering candlelight. The camera follows it from a low ground-level angle as its paws move naturally across the leaf-covered road.
+
+  The camera slowly pushes toward the cat's face. Its eyes transform into glowing supernatural orange eyes with narrow vertical pupils. Its fur rises, its mouth stretches into an unnatural monstrous grin, and its sharp fangs become visible.
+  The pumpkins behind it begin shaking violently as black smoke erupts from the ground. The cat suddenly opens its mouth and releases a terrifying demonic growl.
+  — FINAL HORROR REVEAL
+  The cat slowly walks toward the camera, staring directly into the lens. Its glowing eyes become brighter with every step.
+  It suddenly stops inches from the camera, opens its mouth impossibly wide, revealing rows of terrifying sharp teeth, and unleashes a horrifying demonic scream.
+  FINAL SHOT: Extreme close-up of the cat's fiery orange eyes and monstrous grin. The pumpkins behind it simultaneously explode into darkness as the screen cuts to black.

@@ -1,0 +1,32 @@
+id: seedance-miniature-athlete-supermarket-adventure
+title:
+  en: Miniature athlete dwarfed by giant supermarket cart wheel
+  zh: 迷你女运动员与超市购物车巨型车轮
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- miniature
+- supermarket
+- macro-photography
+source:
+  name: '@AIwithkhan on X'
+  url: https://x.com/AIwithkhan/status/2111657888733442529
+  credit: AIwithkhan
+  captured: '2026-11-11'
+  posted: '2026-10-18'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithkhan/status/2111657888733442529
+notes:
+  en: Locking her face, hairstyle, outfit and body proportions in one sentence, with an explicit 1:5 scale ratio, keeps the miniature consistent across cuts. Macro shallow-depth-of-field language and a final backward camera pull sell the size gap against the enormous store.
+  zh: 在开头用一句话锁定人物的脸、发型、服装和身体比例，并写明约1:5的缩放比例，让迷你人物在各个镜头中保持一致。微距浅景深的镜头语言加上结尾的镜头后拉，把人物与巨大超市的尺度反差呈现出来。
+prompt: |
+  Create a 30-second photorealistic live-action miniature adventure featuring one athletic miniature woman at approximately 1- 5 scale inside a modern supermarket. She wears a fitted red athletic top, black cargo shorts and white sneakers. Maintain her exact face, hairstyle, outfit, body proportions and scale throughout.
+
+  She climbs the metal frame of a giant shopping cart, leaps onto a towering cereal box and slides down its cardboard surface. Suddenly, enormous oranges roll toward her like an avalanche. She sprints across the counter, jumps onto a rolling orange and leaps onto a giant banana bunch. She then races across a moving checkout conveyor belt as a massive milk carton tips over, sending milk flowing across the surface. She escapes on a floating plastic produce tray, grabs a shopping bag and swings onto a rolling shopping cart. Dodging bouncing vegetables and falling snack packets, she leaps onto a towering stack of shopping bags and stands triumphantly as the camera pulls backward, revealing her tiny size in the enormous supermarket.
+
+  STYLE: Cinematic macro photography, ultra-shallow depth of field, dynamic handheld tracking, dramatic low angles, realistic fabric and liquid physics, detailed grocery textures, natural supermarket lighting, strong foreground parallax, believable human movement and premium viral commercial aesthetics.
+
+  SFX: Shopping cart wheels, footsteps, packaging crinkles, rolling fruit, conveyor motor, milk splashing, groceries tumbling and metal impacts. No music or narration.
+
+  NEGATIVE: Cartoon, anime, toy-like appearance, plastic skin, duplicated character, face or outfit changes, inconsistent scale, floating objects, impossible physics, teleportation, distorted anatomy, excessive motion blur, subtitles, logos, watermark.

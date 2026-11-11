@@ -1,6 +1,6 @@
 # Sci-fi and fantasy
 
-[Back to the list](../../README.md) · All 97 entries · **1** · [2](video-scifi-fantasy-2.md)
+[Back to the list](../../README.md) · All 99 entries · **1** · [2](video-scifi-fantasy-2.md)
 
 <a id="seedance-lab-containment-breach"></a>
 ### Lab containment breach, sci-fi horror
@@ -2196,6 +2196,45 @@ Negative prompt: cartoon, anime, low quality, blurry, face change, different per
 
 </details>
 
+<a id="seedance-hallway-confrontation-lockers"></a>
+### Two students confront each other at school lockers
+
+<a href="https://x.com/itsSaira_1/status/2102994561144434785"><img src="../../previews/seedance-hallway-confrontation-lockers.jpg" width="360"></a>
+
+The prompt splits the 24 second clip into timed scene beats, each with its own shot size and camera move, so the escalation from standoff to energy attack stays readable. Fixed wardrobe details like the plaid shirt and the red R letterman jacket keep each character recognizable across cuts.
+
+Seedance 2.5 · Text-to-video · Source: [@itsSaira_1 on X](https://x.com/itsSaira_1/status/2102994561144434785) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`superpowers`](tags.md#tag-superpowers) [`high-school`](tags.md#tag-high-school) [`teen-drama`](tags.md#tag-teen-drama) [`vfx`](tags.md#tag-vfx)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Cinematic 16:9 live-action, 24 sec, realistic high school hallway, bright fluorescent lighting, shiny floor, grey lockers, shallow depth of field. Characters: Girl A: long wavy brown hair, blue plaid shirt over white tank top, jeans. Girl B: short dark bob, navy-and-cream letterman jacket with red "R".
+
+Scene 1 (0-2s): Wide shot. Girl A stands against lockers, Girl B faces her, confronting her. Students walk in the background.
+
+Scene 2 (2-4s): Close-up of Girl A, nervous and calm, Girl B's head blurred in the foreground. Cut to Girl B's close-up, smirking.
+
+Scene 3 (4-7s): Medium two-shot over Girl B's shoulder. Girl A looks tense and stares back.
+
+Scene 4 (7-8s): Girl B slaps Girl A. Girl A's head whips sideways, hair flying, and her eyes flash glowing white.
+
+Scene 5 (8-9s): Wide handheld shot. Girl A, eyes glowing, thrusts her arm out, blue-white electric energy crackles along her arm. Students in the hallway watch in shock.
+
+Scene 6 (10-15s): Close-up. Girl A's face, glowing white eyes, angry and shaken. Her glowing hand rises toward the camera, energy sparking around her fingers.
+
+Scene 7 (16-19s): Wide long hallway shot. Two jocks in varsity jackets rush at Girl A. She unleashes streaks of white energy that hurl them backward through the air.
+
+Scene 8 (20-24s): Front-facing tracking shot. Girl A walks down the empty hallway toward the camera, glowing energy on her arms and eyes. The glow fades, her eyes turn normal, and she looks breathless and shocked.
+
+Style: realistic teen superhero drama, natural skin texture, motion blur on energy effects, smooth camera moves, cool blue-white glow, no text or subtitles. @Flovaai @itsPolloAI @PixVerse @dreamina_ai
+
+#SuperPowers #ShortFilm #AIVideo #Cinematic
+```
+
+</details>
+
 <a id="seedance-hell-maglev-commute-descent"></a>
 ### Packed commuter train descends from city toward Hell
 
@@ -2878,6 +2917,37 @@ Negative prompt: blurry, low quality, distorted proportions, extra limbs, deform
 
 </details>
 
+<a id="seedance-shinobi-reaper-soul-extraction"></a>
+### Shinobi stands alone in ancient ruins
+
+<a href="https://x.com/AIwithSynthia/status/2114369635311382788"><img src="../../previews/seedance-shinobi-reaper-soul-extraction.jpg" width="360"></a>
+
+The prompt splits the sequence into named beats (hand seals, reaper, chains, soul extraction, final seal), each with its own camera move, which keeps a long action sequence readable. It limits the audio to ambience and one spoken Japanese phrase and bans music and dialogue, so the sound stays tied to the action.
+
+Seedance 2.5 · Text-to-video · Source: [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2114369635311382788) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`shinobi`](tags.md#tag-shinobi) [`supernatural`](tags.md#tag-supernatural) [`dark-fantasy`](tags.md#tag-dark-fantasy) [`live-action`](tags.md#tag-live-action)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create an ultra-photorealistic live-action Japanese supernatural action sequence with high-budget Hollywood cinematography, realistic physics, dark fantasy atmosphere, and practical-feeling VFX. A Japanese female shinobi with long black hair, wearing a fitted black ninja outfit, layered dark robe, forearm wraps, and traditional black boots, stands on a devastated battlefield surrounded by ruined shrines, broken stone structures, cracked ground, and swirling dust.
+
+HAND SEALS: She faces a powerful enemy and rapidly performs precise ninja hand seals. Strong winds intensify as the camera pushes toward her focused face. She completes the final seal and forcefully shouts in Japanese, 「死鬼封尽！」 (“SHIKI FŪJIN!”). A powerful shockwave blasts dust and debris outward.
+
+REAPER MANIFESTATION: A gigantic terrifying Shinigami materializes behind her, towering over the battlefield with a pale corpse-like face, terrifying supernatural eyes, long wild white hair, dark ancient Japanese robes, and enormous spectral arms. The camera circles around them, revealing its immense scale as wind and debris react naturally to its presence.
+
+SPIRITUAL CHAINS: The Shinigami extends its enormous hand, releasing thick supernatural chains that wrap around the enemy's torso, arms, and legs. The enemy struggles desperately as the chains drag them backward across the cracked battlefield, scattering stones and dust.
+
+SOUL EXTRACTION: The Reaper's spectral arm passes harmlessly through the female shinobi and reaches the enemy. Its enormous hand grabs the enemy's spiritual essence, forcibly extracting a translucent humanoid soul from the intact physical body. The soul stretches and struggles against the supernatural force while the chains hold the enemy in place.
+
+FINAL SEAL: The Shinigami pulls the soul into its open mouth and absorbs it. A massive shockwave erupts across the battlefield. The enemy collapses to their knees, completely immobilized. The woman releases her hand seal, remaining calm and fearless as the gigantic Reaper fades into the drifting dust behind her. End with a dramatic wide shot of the woman standing alone amid the ancient ruins.
+
+VISUAL & AUDIO: Ultra-realistic skin textures, natural hair movement, detailed fabric physics, cinematic lighting, volumetric dust, realistic supernatural effects, dynamic camera movements, and consistent character appearance. No music, narration, subtitles, or additional dialogue. Only natural battlefield sounds, powerful wind, supernatural rumbling, chains, soul extraction effects, and the clearly pronounced Japanese activation phrase. Avoid anime, cartoon visuals, cheap CGI, excessive neon glow, distorted anatomy, inconsistent faces, unrealistic physics, blood, and gore.
+```
+
+</details>
+
 <a id="seedance-sorceress-water-beast-castle-courtyard-rain"></a>
 ### Sorceress Summons Water Beast in Rainy Courtyard
 
@@ -3152,44 +3222,6 @@ The duck suddenly starts chasing him.
 SFX: Quack! Quack! Quack!
 End text:
 ✨ Never rush a spell. 🦆
-```
-
-</details>
-
-<a id="seedance-wizard-workshop-transformation"></a>
-### First person wizard workshop with glowing potion
-
-<a href="https://x.com/KICHOCHEZI/status/2098432693222715716"><img src="../../previews/seedance-wizard-workshop-transformation.jpg" width="360"></a>
-
-A Blender white model fixes the camera path, timing and spatial layout through a reference video, while the supplied images set materials and light. Asking for one continuous take with a single held potion keeps the motion and props stable.
-
-Seedance 2.5 · Reference-to-video · Source: [@KICHOCHEZI on X](https://x.com/KICHOCHEZI/status/2098432693222715716)
-
-[`blender`](tags.md#tag-blender) [`white-model`](tags.md#tag-white-model) [`first-person`](tags.md#tag-first-person) [`reference-video`](tags.md#tag-reference-video)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a 12-second single-take white-model animation in Blender based on the supplied wizard workshop reference. Build the stone walls, wooden shelves, arched window, fireplace, books, astronomical instrument and alchemy table filled with potion bottles. Animate a low first-person viewpoint with exactly one right hand holding one potion. Begin with the bottle near the lower-right edge, look around the workshop and toward the window, raise the potion naturally, pause to examine it, then lower it while turning toward the fireplace and glowing reagents. Export the white-model MP4. Then use PixVerse with Seedance 2.5, referencing the Blender video for camera, action and spatial layout and the supplied images for appearance. Preserve the continuous shot and timing while adding weathered stone, carved wood, worn leather, realistic glass, cool window light, warm fireplace illumination, glowing magical liquids, natural flames, embers, sparks and smoke.
-```
-
-</details>
-
-<a id="seedance-woman-castle-doors-floating-islands"></a>
-### Woman opens castle doors to a floating sky
-
-<a href="https://x.com/laviniavelle/status/2105889515948921057"><img src="../../previews/seedance-woman-castle-doors-floating-islands.jpg" width="360"></a>
-
-The prompt lays out the shot in time order: dark interior, door reveal, run across the field, then a leap with the camera following, which gives the model a clear beat sequence to follow. The closing lighting and resolution terms set the cinematic finish.
-
-Seedance 2.5 · Text-to-video · Source: [@laviniavelle on X](https://x.com/laviniavelle/status/2105889515948921057)
-
-[`fantasy`](tags.md#tag-fantasy) [`castle`](tags.md#tag-castle) [`floating-islands`](tags.md#tag-floating-islands) [`camera-follow`](tags.md#tag-camera-follow)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Cinematic video of a young woman in an elegant white medieval dress opening large wooden doors from a dark castle interior to reveal a breathtaking sunny landscape with lush green fields a lake and distant mountains She runs out across the grassy field towards a large grand castle The camera follows her as she leaps into the air, gracefully floating into a magical fantasy sky filled with floating islands cascading waterfalls above clouds, and a large glowing pink moon in the surreal sky, 8k resolution, ultra detailed, cinematic lighting.
 ```
 
 </details>

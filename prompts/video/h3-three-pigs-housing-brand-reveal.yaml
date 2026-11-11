@@ -1,0 +1,41 @@
+id: h3-three-pigs-housing-brand-reveal
+title:
+  en: Three pigs withstand wolf, then reveal housing brand
+  zh: 三只小猪挡住狼，结尾亮出住宅品牌
+model: MiniMax H3
+mode: text-to-video
+category: commercial
+tags:
+- motion-graphics
+- fairy-tale
+- japanese-commercial
+- flat-illustration
+source:
+  name: '@ponzponz15 on X'
+  url: https://x.com/ponzponz15/status/2097891416798282216
+  credit: ぽんず | AI映像
+  likes: 279
+  captured: '2026-11-11'
+  posted: '2026-08-17'
+video: https://x.com/ponzponz15/status/2097891416798282216
+notes:
+  en: Timed shots with exact on-screen text, a fixed palette and static framing keep the flat picture book style steady across cuts. Naming each pig's overall colour and the house build order keeps the characters consistent, and the brand name is spelled out exactly so the final card reads cleanly.
+  zh: 按时间拆分镜头，并写明画面上的准确文字、固定配色和静态机位，使扁平绘本风格在各次切换中保持稳定。为每只小猪指定背带颜色并规定房屋搭建顺序，让角色在镜头间保持一致，品牌名逐字写明，结尾画面才清晰。
+prompt: |
+  integrated_multimodal_description: [Shot 1] Create a 12.000-second vertical 4:5 Japanese SNS housing commercial told as a miniature Three Little Pigs picture book. The pigs are protagonists; the wolf is their obstacle. Flat illustration, bold hand-drawn outlines, subtle static washi grain, cute round silhouettes, generous negative space. Palette only: warm cream PAPER, sumi-black INK, indigo COOL, golden-yellow WARM, vermilion HOT. Japanese kinetic type uses paper-card assembly and compact settles. Static shots, crisp cuts, color-field wipes, pose-to-pose animation; no 3D, gradients or particles. Three PAPER pigs keep distinct WARM, HOT and COOL overalls. One small INK wolf with pointed ears and COOL scarf blows rightward from the left edge. House order: STRAW, BRICK, sturdy final home. On PAPER, arrange the three pigs across the lower half beside their separate miniature houses: WARM straw hut left, HOT brick cottage center, PAPER house with COOL pitched roof and thick INK frame right. In three staggered beats, the WARM and HOT pigs place their own roof pieces; the COOL pig merely pulls a PAPER cover from its already finished house. All three proudly lift their arms; do not reveal why the third house is already complete. Assemble exact INK "家、できた！" above them by 00:00.600 and hold until the cut. No brand clues yet.
+
+  [Shot 2] At 00:01.800, cut to the WARM pig proudly standing just outside its straw doorway at right. The smaller wolf appears at far left, takes a brief breath and blows three COOL wind lines rightward. On contact, three large straw panels fly offscreen right; the pig's ears flick up and both arms rise in alarm. Exact HOT "うわーっ！" pops above the pig, not the wolf. The pig dashes right to its sibling's house, ears trailing. No injury or debris cloud.
+
+  [Shot 3] At 00:03.200, cut to the HOT brick cottage at right, now with the WARM and HOT pigs together in front of its doorway. The wolf stays smaller at far left. A stronger rightward gust hits; the cottage separates into three large flat brick-patterned panels which tip and slide offscreen right, no individual flying bricks. Both pigs recoil in a synchronized alarm pose under exact HOT "こっちもー！", then scramble right together toward the third sibling. Preserve overalls and travel direction.
+
+  [Shot 4] At 00:04.600, cut to the PAPER house with COOL roof. All three pigs are visible at its broad window; the two visitors huddle nervously, while the COOL-overall owner leans calmly against the sill. The wolf's first forceful gust flattens against the exterior. He recoils, spreads his feet, bends his knees and takes a desperate second inhalation, chest and cheeks swelling. He lunges into a harder sustained blow with clenched paws and a whipping scarf. Broad COOL wind bands compress against the wall, but the entire house stays absolutely fixed. Exact INK "ふーーーっ！" grows above him, then stops. No damage or movement. His breath runs out at 00:06.500; cheeks deflate, shoulders drop and the wind disappears. The two visitors open their eyes; the owner remains knowingly relaxed. Clear the lettering.
+
+  [Shot 5] At 00:06.800, cut close to the three pigs beside the intact interior wall. The HOT pig turns to the owner and asks, curious youthful Japanese voice (S1): <d>[Japanese] どこで建てたの？</d> Finish by 00:07.850. The WARM pig admires the wall. The COOL owner gives a tiny knowing smile and reaches into an overall pocket, without speaking. No dialogue subtitles or extra reaction text.
+
+  [Shot 6] At 00:08.000, cut to a medium close view of the owner smoothly pulling out one small smartphone and turning its screen toward the camera. The siblings lean in. By 00:08.350, show a simple PAPER screen containing one large notification card only: the exact brand "えーあい住宅" beside a clean COOL geometric company symbol, and the exact status "お引き渡し完了" beneath. No other UI or text. The owner commissioned this home. Symbol: two COOL pillars and one connecting beam, precisely arranged; no animal or cartoon house. Typography is precise medium-bold Japanese Gothic. Hold the screen legibly through 00:09.150; owner smiles silently.
+
+  [Shot 7] At 00:09.300, match-cut the smartphone brand to the same symbol and wordmark enlarged on a pristine PAPER corporate end card. Suddenly replace washi and hand-drawn lines with precise vectors, clean space and architectural typography. The COOL structural symbol and exact COOL wordmark "えーあい住宅" lock into place with one firm, compact scale settle. No animals or phone remain. Reveal the exact INK headline "安心・安全の住まいづくり。" above the logo by 00:09.550. A calm, polished adult Japanese commercial announcer (S2) says in an off-screen voiceover: <d>[Japanese] 安心・安全の住まいづくり。えーあい住宅。</d> Speak crisply from 00:09.300 to 00:11.900. Hold the finished headline and logo still from 00:09.550 until 00:12.000. Keep the exact brand spelling. No secondary copy, awards, ratings, certifications or earthquake-test imagery. End as an unexpectedly straight corporate advertisement.
+
+  overall_soundscape: Use roof-placement taps, a cover-removal paper swish, breath sweeps and flat-panel knocks, with graphic pops for the early reaction text. Clearly separate the failed puff, desperate inhalation and strongest final gust; stop effects for the visitor's question, then add a small phone-handling click and notification tick. At the full-screen brand transition use one low, tightly controlled corporate sonic-logo impact instead of a cute paper pop, and duck all effects beneath the final voiceover; no other dialogue, singing or laughter.
+
+  non_diegetic_music: Original 140 BPM instrumental with wooden percussion, shamisen-like synthetic plucks, muted claps and rounded bass. Tighten the rhythm through the escapes and the wolf's second blow, thin to a light bed under the question, and leave a short gap for the smartphone reveal. At 00:09.300 switch decisively to a polished, reassuring sustained corporate chord under the announcer, ending cleanly at 00:12.000 without a fade-out.

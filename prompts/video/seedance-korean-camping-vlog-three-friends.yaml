@@ -1,0 +1,67 @@
+id: seedance-korean-camping-vlog-three-friends
+title:
+  en: Three friends camping in Korean mountains vlog
+  zh: 三位韩国女生山间露营Vlog
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- camping
+- korea
+- handheld
+- vlog
+source:
+  name: '@saniaspeaks_ on X'
+  url: https://x.com/saniaspeaks_/status/2119291884556169419
+  credit: saniaspeaks_
+  captured: '2026-11-11'
+  posted: '2026-11-08'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/saniaspeaks_/status/2119291884556169419
+notes:
+  en: A numbered list of ten timed scenes with exact second ranges fixes the order and pacing of the clip. A character block with outfit details plus a continuity rule keeps the three friends consistent across cuts.
+  zh: 用十个带精确秒数的编号场景锁定片段的顺序与节奏。人物服装细节加上连贯性约束，让三位女生在各镜头间保持一致。
+prompt: |
+  Create a 30-second ultra-realistic 4K live-action travel vlog featuring three young Korean female friends camping in the beautiful mountains of South Korea. Authentic handheld camcorder footage, natural friendship moments and realistic activities.
+
+  CHARACTERS:
+
+  - Main girl: Shoulder-length dark brown hair, beige fleece jacket, white T-shirt, olive cargo pants and hiking shoes.
+  - Friend 1: Black ponytail, dusty blue outdoor jacket, black pants and hiking shoes.
+  - Friend 2: Medium-length brown hair, brown knitted sweater, dark jeans and hiking shoes.
+
+  Keep all faces, hairstyles and outfits identical throughout.
+
+  EXACT 10-SCENE SEQUENCE — 30 SECONDS
+
+  1. ROAD TRIP (0–3s): A car travels along a winding Korean mountain road. The main girl films the forest from the passenger seat while her two friends laugh in the back.
+
+  2. CAMPSITE ARRIVAL (3–5s): They park at a grassy campsite surrounded by pine trees and mountains, then unload their tent, backpacks and supplies.
+
+  3. SETTING UP TENT (5–9s): They spread the tent fabric, connect poles, raise the tent, secure stakes and attach the rain cover. Show the complete assembly naturally.
+
+  4. CAMPSITE SETUP (9–11s): They arrange camping chairs, a folding table, backpacks, vegetables, meat and cooking equipment.
+
+  5. BARBECUE (11–15s): One girl prepares the portable grill, another chops vegetables, and the main girl grills marinated meat. Realistic sizzling, smoke and cooking movements.
+
+  6. DINNER (15–18s): They enjoy Korean barbecue, lettuce wraps, rice and side dishes while laughing and sharing food.
+
+  7. CAMPFIRE (18–22s): At night, they sit around a safe campfire. The main girl tells a funny story, her friends laugh, and warm firelight illuminates their faces.
+
+  8. STARRY NIGHT (22–24s): They admire the stars, pointing towards the sky while their tent glows softly behind them.
+
+  9. NEXT MORNING (24–26s): The main girl wakes inside her sleeping bag, stretches, unzips the tent and looks outside at the misty mountains.
+
+  10. SUNRISE ENDING (26–30s): All three walk to a safe mountain viewpoint overlooking misty green peaks. They admire the golden sunrise. The main girl smiles and waves at the camera. End with a beautiful wide handheld shot of the friends together.
+
+  VISUAL STYLE:
+  Ultra-photorealistic 4K travel vlog, authentic Korean mountains, natural handheld camera shake, imperfect framing, occasional autofocus adjustments, realistic lighting, skin textures, expressions, camping equipment, food, smoke, fire and morning mist.
+
+  AUDIO: Natural sounds only: car engine, forest wind, footsteps, tent assembly, sizzling barbecue, conversations, laughter, crackling fire, crickets and morning birds. No music or narration.
+
+  STRICT CONTINUITY:
+  Same three girls, outfits, campsite, tent and equipment throughout. Show every action in the correct order. Tent setup before cooking, cooking before eating, campfire after dinner and sunrise the following morning.
+
+  No teleportation, missing scenes, duplicated objects, distorted hands, sudden outfit changes, artificial CGI or unnatural movements.
+
+  FINAL GOAL: A warm, nostalgic and completely believable weekend camping vlog filled with genuine friendship, beautiful mountain scenery and a breathtaking sunrise. All 10 scenes must appear within exactly 30 seconds.

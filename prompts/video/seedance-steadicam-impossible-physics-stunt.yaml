@@ -1,0 +1,63 @@
+id: seedance-steadicam-impossible-physics-stunt
+title:
+  en: Bald man strides toward camera on Manhattan sidewalk
+  zh: 秃头男子在曼哈顿人行道上大步走向镜头
+model: Seedance 2.5
+mode: reference-to-video
+category: action
+tags:
+- steadicam
+- physics
+- single-take
+source:
+  name: '@techhalla on X'
+  url: https://x.com/techhalla/status/2094476485977416162
+  credit: TechHalla
+  likes: 876
+  captured: '2026-11-11'
+  posted: '2026-08-31'
+video: https://x.com/techhalla/status/2094476485977416162
+notes:
+  en: A timed second-by-second timeline with a camera rule in each block (steadicam, no cuts, no drone) keeps a long physics sequence in one unbroken take. The [image_reference] slot ties the face to a reference photo so the same character holds across every stunt.
+  zh: 按秒分段的时间线，每段都写明镜头规则（斯坦尼康跟拍、不切镜、不用无人机），让长段物理动作保持一镜到底。[image_reference] 占位处绑定参考人脸，使角色在所有特技中保持一致。
+prompt: |
+  I used a pic of myself as reference, so tweak that part unless you want to appear with no hair upstairs:
+
+  A 2000s studio-comedy film shot, 16:9, 35mm spherical, moderate film grain, bright New York daylight. ONE UNBROKEN STEADICAM TAKE. The camera walks backward down a crowded Manhattan sidewalk, chest-high, always facing the bald man, holding him in a medium-wide as he walks toward camera the whole clip. Smooth steadicam, no cuts, no drone, no phone, no gimbal whip, no crash zoom. He looks into the lens.
+
+  PLACE
+  A packed downtown Manhattan sidewalk, ordinary block, not Times Square. Cast-iron storefronts, a bodega, a red brick building wall, a red fire hydrant, a manhole in the pavement, a wide rain-puddle covering the whole sidewalk ahead, yellow cabs in the street, a hot-dog cart, pedestrians filling the sidewalk. Late morning sun.
+
+  CHARACTER
+  An American man in his 40s [image_reference], completely bald, thick dark beard with grey, dark eyebrows. Open grey plaid flannel over a white crew-neck t-shirt, tan trousers, sneakers. He walks with a lot of swag, eyes on camera. Exact same face the entire clip. No singing. No music.
+
+  TIMELINE
+  0-2s: [Steadicam walking backward, he walks toward lens] Crowded sidewalk. He comes at camera with heavy swag, looking straight into the lens, shoulders rolling, a bounce in the step, pedestrians splitting around him. City noise only. A wide rain-puddle already covering the sidewalk ahead, curb to wall.
+
+  2-7s: [Steadicam walking backward] He does not walk on the water. Without breaking eye contact he steps onto the building wall and walks along the vertical brick as if the wall were the floor, body parallel to the sidewalk, fast, no effort, physics ignoring him. Pedestrians on the ground stare, incredulous, heads whipping to follow him. At the end of the puddle he kicks off the wall with a sharp lateral jump, lands on dry sidewalk, and keeps walking toward camera as if nothing happened.
+
+  7-12s: [Steadicam, still on his face] He jumps. On the landing he throws both arms hard to the right, an abrupt full-body gesture, then freezes in a balanced stance, upright, unmoving. A camera/world tilt slams everything toward that right side as if gravity rotated 90 degrees: the sidewalk becomes a slope. Pedestrians, yellow cabs, the hot-dog cart, trash cans, a bike, a newsstand, bags, a pretzel cart, all lose their footing and crash downhill to the right with real weight and real physics. He stays perfectly vertical, as if his gravity never changed. The frame itself feels canted. Five seconds of the collapse.
+
+  12-13s: [Steadicam levels back] The world snaps level. Disaster on the ground: people on the pavement, cabs smashed into parked cars, the food cart on its side, pretzels everywhere. He has not a scratch. He is still looking at camera.
+
+  13-15s: [Steadicam holds] A manhole cover is in his path. He stops in front of it, still looking at camera. One hand gesture. The cover launches straight up and out of frame. He drops in and vanishes. Empty hole, two seconds. Camera stays on the open manhole and the brick wall behind it. No pan.
+
+  15-17s: [Steadicam still holding that same piece of street] Engine scream. A dirty four-door sedan shoots in from the traffic lane, two golden retrievers in the front seats: one standing on the driver's seat with both paws on the wheel, ears back, mouth open, the other in the passenger seat bouncing against the dash. No human driver. The car is already out of control, bouncing over debris from the tilt, hubcap sparking. It does not slow down.
+
+  17-20s: [Steadicam, no pan, the crash happens in frame] The sedan slams nose-first into the red brick wall of the building. Real impact: hood folds, headlight bursts, brick dust and broken masonry, the windshield stars, the chassis wedges against the wall and dies. Through the intact side window the bald man is sitting in the back seat, unharmed, looking toward camera. He plants one foot, kicks the rear door from the inside. The door shears off both hinges, flies across the sidewalk and skips on the concrete. He ducks through the empty door frame, both feet on the sidewalk, stands up, flannel still clean, and walks toward camera again, swag, eyes on the lens. The two retrievers stay in the front seats, barking at the wheel. He came out of the car through the kicked-off door. Not the trunk.
+
+  20-22s: [Steadicam walking backward with him] He takes two steps toward camera, stops. Raises one hand and snaps his fingers, loud, close enough to see the fingers. On the snap, a giant tortoise is suddenly there in the traffic lane beside him, Galapagos-scale, shell wider than the sedan, scutes cracked and dusty, real claws on the asphalt, neck extended, blinking. The street dips under the weight. People still on the ground from the tilt look up at it. No fade, no glow: it is just there.
+
+  22-25s: [Steadicam] He runs two steps and jumps onto the shell. Both sneakers land on the highest scute, knees bend, he finds his balance, stands upright on the tortoise like a platform, still facing camera, still looking into the lens. The tortoise takes one slow step, claws scraping. He rides it.
+
+  25-27s: [Steadicam pushes in from medium-wide to a tight medium] The camera walks closer, chest-high, filling the frame with his bald head, beard, and the shell under his feet. He holds completely still on the tortoise, no swagger, just looking into the lens. He says, clearly, in English, dry: "Steal this, mada-faka." Mouth, beard, eyes readable. No smile.
+
+  27-30s: [Steadicam, still close, then he leaves] The tortoise launches. Four claws gouge the asphalt, the shell lurches forward at full speed toward camera. He stays standing on it, knees absorbing the start, still looking at the lens as they fill the frame. They blast past the camera. The steadicam holds as he and the tortoise recede down the wrecked block, him riding away at full speed, dust and brick grit kicking up, dogs still barking at the crashed sedan. Clip ends on him leaving. Never cut.
+
+  AUDIO
+  City sidewalk, crowd, footsteps on brick wall, a landing. Jump landing, the roar of a gravity tilt (metal, glass, bodies hitting asphalt), then a sudden level-out. Manhole clang, the cover flying, a hollow drop. Engine scream, two dogs barking, tires over debris, a car hitting brick: metal fold, glass, masonry. A door kicked off, steel on concrete. Finger snap. A sudden heavy animal weight on asphalt, tortoise claws. His line, dry, close to camera: "Steal this, mada-faka." Then claws ripping pavement, the shell taking off, the crash receding, dogs still barking. No music. No extra score. No singing. 2000s film production sound.
+
+  STYLE & QUALITY
+  Looks like a real early-2000s movie steadicam shot that never cuts: 35mm grain, daylight NYC, stable face, real crowd, real wall-walk, real tilt-gravity, real crash into the building wall, real kicked-off door, real giant tortoise with weight, real takeoff. Photoreal. No cartoon, no CGI sheen, no text overlays, no logos, no phone look.
+
+  Hope you like it fam!

@@ -1,0 +1,76 @@
+id: gpt-image-reception-blue-top-mini-skirt
+title:
+  en: Woman in blue top and mini skirt at reception
+  zh: 穿蓝色上衣和迷你裙的女子站在前台
+model: GPT Image 2.5
+mode: text-to-image
+category: realism
+tags:
+- fashion
+- photorealism
+- full-body
+- office
+source:
+  name: '@AIjee_tpe on X'
+  url: https://x.com/AIjee_tpe/status/2118119884718842227
+  credit: jee chen
+  likes: 157
+  captured: '2026-11-11'
+  posted: '2026-11-04'
+notes:
+  en: The prompt is split into labelled sections (subject, scene, light, composition, style, quality) with a fixed camera height and framing, so every garment and prop stays in place. Naming the fluorescent ceiling light and neutral white balance keeps the skin tones and fabric colours realistic.
+  zh: 提示词按主体、场景、光线、构图、风格和质量分段描述，并固定机位高度和取景范围，使服装和道具都能保持稳定。明确指定荧光顶灯和中性白平衡，让肤色和布料颜色更接近真实拍摄。
+prompt: |
+  ## \(Subject Description\)
+
+  A highly detailed, photorealistic full-body fashion photograph of an adult East Asian woman with fair, smooth skin and naturally full breasts,S-shaped female figure,  She has a delicate oval face, soft facial features, dark eyes, and naturally pink-red lips. Her expression is gentle and composed, with her gaze lowered toward the floor.
+
+  Her long, glossy black hair is styled in a half-up hairstyle, with the remaining hair cascading in loose waves over her shoulders and down her back. She has straight, full bangs framing her forehead and a small black floral hair accessory positioned at the back of her head.
+
+  She wears a fitted, short-sleeved royal-blue crew-neck T-shirt, neatly tucked into a high-waisted, form-fitting black mini skirt with a simple, clean silhouette. Her legs are covered in sheer, dark charcoal-black pantyhose. She wears glossy black patent-leather platform stilettos with extremely high thin heels and rounded platform toe sections.
+
+  Her pose is elegant and slightly angled sideways. One hand rests against her lower back and waist, with the elbow bent outward, while the other arm remains naturally positioned. Her hips are subtly shifted to one side, and her legs are close together with one knee slightly bent, creating a graceful S-shaped standing posture.
+
+  She possesses the best head-to-body ratio, naturally full breasts,a perfect, curvaceous, S-shaped female figure,Hourglass figure,long legs with perfect leg lines, and a slender waist, perfect foots,perfect foot lines
+
+  ## \(Scene / Background\)
+
+  An ordinary, clean indoor office or reception area with a neutral, functional interior.
+
+  Behind the subject is a long light-colored reception counter with a smooth surface. Several white modern plastic chairs with curved backs are arranged in front of and behind the counter. Wooden-framed windows with horizontal blinds and warm natural wood paneling occupy the rear wall.
+
+  A potted white orchid with delicate white petals and pink-purple centers sits on the counter, adding a decorative touch. A white wall-mounted board or display panel is visible on the right side. The floor is covered in gray commercial carpeting, and a fluorescent ceiling light is visible overhead.
+
+  ## \(Light / Atmosphere\)
+
+  Soft, evenly distributed indoor fluorescent lighting from overhead ceiling fixtures. Neutral white illumination creates realistic skin tones and gentle shadows without dramatic contrast.
+
+  The atmosphere is calm, understated, and professional, resembling a candid fashion photograph taken inside an everyday office environment.
+
+  ## \(Composition / View\)
+
+  * Full-body vertical portrait, showing the subject from head to shoes without cropping.
+
+  * Single female subject positioned prominently near the center of the frame.
+
+  * Slight three-quarter side-facing body orientation.
+
+  * Camera positioned approximately at waist-to-chest height, capturing the subject and surrounding interior.
+
+  * Natural standing pose with one hand resting at the waist, hips slightly shifted, and one knee gently bent.
+
+  * The entire outfit, sheer pantyhose, and high-heeled shoes remain clearly visible.
+
+  * Background furniture and decorative orchid provide environmental context without distracting from the subject.
+
+  ## \(Style Reference\)
+
+  Photorealistic fashion and lifestyle photography, realistic human anatomy, natural body proportions, authentic fabric textures, detailed hair strands, realistic skin texture, subtle reflections on patent leather, and accurate environmental details.
+
+  A natural, documentary-style indoor fashion photograph rather than a heavily stylized studio production.
+
+  ## \(Quality Parameters\)
+
+  Ultra-high resolution, highly detailed, sharp focus, realistic skin texture, accurate facial features, natural fabric folds, realistic sheer hosiery transparency, glossy patent-leather reflections, balanced exposure, neutral white balance, soft indoor lighting, natural color reproduction, professional photography quality, photorealistic rendering.
+
+  No illustration, no CGI appearance, no exaggerated proportions, no artificial beauty filters, no distorted anatomy, no extra limbs, no cropped feet.

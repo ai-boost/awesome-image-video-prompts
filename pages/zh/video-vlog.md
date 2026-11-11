@@ -1,6 +1,6 @@
 # 手机实拍与 Vlog
 
-[返回目录](../../README_zh.md) · 全部 182 条 · **1** · [2](video-vlog-2.md) · [3](video-vlog-3.md)
+[返回目录](../../README_zh.md) · 全部 186 条 · **1** · [2](video-vlog-2.md) · [3](video-vlog-3.md)
 
 <a id="seedance-balcony-pool-phone-video-collapse"></a>
 ### 光头男子坐在阳台小泳池里，身旁是烧烤架
@@ -3564,6 +3564,31 @@ NEGATIVE: character identity drift, different woman, generic face, 3D, CGI, anim
 
 </details>
 
+<a id="seedance-countryside-wrong-road-vlog"></a>
+### 年轻女子走在夕阳下的乡间小路上
+
+<a href="https://x.com/nawalsehar/status/2100801502990516476"><img src="../../previews/seedance-countryside-wrong-road-vlog.jpg" width="360"></a>
+
+以手持 vlog 镜头设计（自拍时刻、过肩揭示、结尾广角拉远）配合只含环境声的声音列表，让模型生成连贯的真实步行画面而不是拼接镜头。明确列出的禁止项（CGI、重复人物、违反物理）有助于在 30 秒内保持人物面部和服装稳定。
+
+Seedance 2.5 · 文生视频 · 出处: [@nawalsehar on X](https://x.com/nawalsehar/status/2100801502990516476) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`vlog`](tags.md#tag-vlog) [`travel`](tags.md#tag-travel) [`countryside`](tags.md#tag-countryside) [`golden-hour`](tags.md#tag-golden-hour)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 30-second ultra-photorealistic live-action travel vlog about a young woman who accidentally takes the wrong rural road and discovers a peaceful countryside village. She checks her phone, follows the unfamiliar path, becomes curious as rooftops appear through the trees, then discovers beautiful homes, gardens, bicycles, a flowing stream, and distant green hills.
+
+Show spontaneous natural reactions, realistic walking and human biomechanics, authentic bag and clothing movement, gentle wind, realistic bicycles, flowing water, gravel and wooden bridge interaction, and physically accurate environmental motion. Use handheld vlog shots, stabilized walking footage, selfie-style moments, over-the-shoulder reveals, natural autofocus, and a final wide cinematic pullback.
+
+Use only natural dialogue and diegetic sounds: footsteps, birds, bicycle bells, wind, distant voices, gravel, and flowing water. Warm late-afternoon sunlight, realistic shadows, reflections, depth of field, and natural 24fps motion. End with her walking peacefully toward the village as the camera slowly pulls back.
+
+No CGI, animation, fantasy, artificial faces, impossible physics, floating objects, distorted anatomy, duplicated people, changing clothes or faces, unrealistic water, impossible camera movement, subtitles, logos, or watermark.
+```
+
+</details>
+
 <a id="seedance-county-fair-golden-hour-entrance"></a>
 ### 年轻女子在日落时走进乡村集市
 
@@ -4980,38 +5005,6 @@ No cartoon, no animation, no CGI appearance, no plastic skin, no artificial beau
 
 FINAL PRIORITY:
 Character consistency and photorealism are the highest priorities. The uploaded reference image should strongly guide the woman's appearance and daytime outfit. Preserve her recognizable appearance across every scene while creating a seamless, dreamy, authentic Hawaii luxury travel vlog.
-```
-
-</details>
-
-<a id="seedance-hawaii-travel-vlog-montage"></a>
-### 身穿碎花裙的女子走在夏威夷街道上
-
-<a href="https://x.com/im_shahid7/status/2086677274217381905"><img src="../../previews/seedance-hawaii-travel-vlog-montage.jpg" width="360"></a>
-
-按时间划分的四段结构（0至4秒、4至8秒等）配合统一的风格段落和重复的人物锁定描述（同一张脸、发型和体型），让女主角在各镜头间保持一致。开场从背后跟拍，是旅行 vlog 的常见手法，为后面转身微笑的特写做铺垫。
-
-Seedance 2.5 · 文生视频 · 出处: [@im_shahid7 on X](https://x.com/im_shahid7/status/2086677274217381905)
-
-[`hawaii`](tags.md#tag-hawaii) [`travel-vlog`](tags.md#tag-travel-vlog) [`character-consistency`](tags.md#tag-character-consistency) [`golden-hour`](tags.md#tag-golden-hour) [`film-look`](tags.md#tag-film-look)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-15-Second Cinematic Hawaii Travel Vlog
-A cinematic 15-second tropical travel vlog montage featuring the same beautiful 20-year-old East Asian woman with dark hair enjoying a dreamy summer vacation in Hawaii. Maintain perfect character consistency throughout every shot: same face, dark hairstyle, youthful appearance, natural makeup, realistic skin texture, elegant summer styling, and relaxed happy expressions.
-Visual style: authentic luxury travel diary, realistic handheld camera movement, candid moments, soft golden-hour sunlight, dreamy 35mm film aesthetic, warm vintage color grading, shallow depth of field, natural atmospheric lighting, subtle film grain, realistic autofocus, natural motion blur, cinematic storytelling. 4K, 24fps, 35mm lens, photorealistic, travel documentary aesthetic.
-Scene 1 — Arrival & Beach Walk (0–4s)
-Bright Hawaiian morning. The woman walks through a colorful tropical street lined with palm trees, wearing a flowing floral summer dress and sunglasses. Camera follows her from behind, then smoothly moves to a close-up as she turns and smiles naturally. Wind gently moves her dark hair. Quick transition toward the ocean.
-Scene 2 — Beach & Tropical Nature (4–8s)
-She walks barefoot along a wide sandy beach as crystal-blue waves touch her feet. Low-angle shot of her footsteps in wet sand, followed by a cinematic shot of her near a rocky ocean cliff looking peacefully toward the sea. Palm trees sway in golden sunlight, with subtle lens flare and distant volcanic mountains.
-Scene 3 — Ocean Adventure & Cafe Moment (8–12s)
-She laughs naturally while floating on a surfboard in calm turquoise water. Water-level camera circles around her, sunlight sparkling across the ocean and tropical mountains in the distance. Cut smoothly to her sitting at a cozy beachfront cafe, holding a tropical drink while watching the waves.
-Scene 4 — Golden Sunset Ending (12–15s)
-Emotional cinematic ending. Wide silhouette of the woman standing barefoot at the shoreline during a glowing orange-pink sunset. Waves gently move around her feet. Camera slowly pushes in as she looks toward the horizon, then briefly turns toward the camera with a peaceful smile. End with a soft filmic fade.
-Camera: authentic travel vlog cinematography, handheld movement, smooth transitions, slow push-ins, occasional POV shots, realistic autofocus adjustments, subtle motion blur.
-Keep the woman identical in every scene: same facial features, same dark hair, same youthful appearance, same body proportions, realistic skin texture and natural expressions. No character morphing or hairstyle changes.
-Avoid: cartoon/CGI appearance, plastic skin, unrealistic face, inconsistent character, changing hairstyle, extra fingers, distorted anatomy, artificial movements, oversaturated colors, excessive sharpening, blurry face, duplicate people, unnatural lighting.
 ```
 
 </details>

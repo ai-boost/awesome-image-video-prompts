@@ -1,0 +1,72 @@
+id: seedance-snowy-upper-west-side-couple-walk
+title:
+  en: Couple strolls snowy Upper West Side at dusk
+  zh: 情侣在雪夜的上西区街头漫步
+model: Seedance 2.5
+mode: reference-to-video
+category: cinematic
+tags:
+- romance
+- winter
+- multi-shot
+- character-lock
+source:
+  name: '@ZaraIrahh on X'
+  url: https://x.com/ZaraIrahh/status/2119293619282567471
+  credit: ZaraIrahh
+  captured: '2026-11-11'
+  posted: '2026-11-08'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/ZaraIrahh/status/2119293619282567471
+notes:
+  en: The prompt locks both characters with a character sheet and a location reference, then lists each hard-cut shot with its camera move, action and sound. Standing rules for continuous movement and scarf placement keep faces, outfits and colour grade consistent across the cuts.
+  zh: 提示词先用角色设定图和场景参考图锁定两人的外观，再按镜头逐条写明运镜、动作和声音。持续运动与围巾位置等固定规则，让各个切镜之间的人物造型和色调保持一致。
+prompt: |
+  AUDIO RULE: Natural sound only. No music, no score, no voiceover, no dialogue. Ambient winter city sound and foley only.
+
+  MOTION RULE: Continuous movement in every shot. The couple never stop, freeze or hold a pose, and the camera is always moving. Every romantic moment happens while they walk, spin or run.
+
+  STYLE: Hand-painted illustrated look, matching the location reference: soft painterly brush texture, warm amber lamplight against cool lavender-gray snow haze. Same color grade in every shot.
+
+  CHARACTER LOCK: <<<image_1>>>  is a single character sheet showing two people. The TOP ROW is the woman and the BOTTOM ROW is the man. Match both exactly in every shot.
+  The woman (top row): messy curly dark-brown hair in a loose updo with loose strands, freckles, small gold hoop earrings. Long dark brown textured wool coat, white collared shirt, charcoal wide-leg trousers, black leather belt, black lace-up boots. She also wears a burgundy fringed wool scarf, as in the location image. She carries a paper cup of tea with the tea-bag tag hanging out.
+  The man (bottom row): tall, tousled wavy dark-brown hair, freckles. Long brown herringbone tweed coat, olive-green fringed scarf, cream cable-knit sweater, dark brown trousers, dark leather boots.
+  SCARF LOCK: His olive scarf stays on his neck and her burgundy scarf stays on hers in every shot. Scarves never move between people.
+  Faces, hair, outfits, heights and proportions never change between shots. They look at each other with deep affection and never look at the camera.
+
+  LOCATION: <<<image_2>>> , snowy Upper West Side at dusk. Gas-style street lamps, snow-covered trees, black iron fences, brownstones with warm lit windows and snowy stoops, a street sign reading "W 73 St / Broadway", a yellow taxi, the Empire State Building glowing in the haze. Soft snow falls throughout.
+
+  SHOT 1 (0:00-0:03)
+  Camera: Wide tracking shot gliding backward ahead of them down the snowy sidewalk, lamps streaking past.
+  Action: They walk toward us, his arm around her shoulders, her tea steaming. She leans her head against him while they walk, and he kisses the top of her head without breaking stride. Snow swirls through the lamplight and a yellow taxi slides by behind them.
+  Sound: Crunching, slushy footsteps, a muffled tire hiss, a soft contented sigh, gentle wind.
+
+  HARD CUT
+
+  SHOT 2 (0:03-0:06)
+  Camera: Medium shot, smooth handheld tracking sideways at walking pace, shallow depth of field.
+  Action: Still walking, he opens the front of his coat and pulls her in against his side, wrapping the coat around her shoulder. His olive scarf stays on his neck and her burgundy scarf stays on hers. She laughs, looks up at him, and catches a snowflake on her tongue. He grins and tucks a loose curl behind her ear as they keep moving.
+  Sound: Her bright laugh, wool rustling, quick footsteps, snow hush.
+
+  HARD CUT
+
+  SHOT 3 (0:06-0:09)
+  Camera: Low tracking shot at hip height, following their hands and the cup as they move, warm window lights streaming past.
+  Action: They swing their linked hands as they walk. She lifts the steaming cup to his lips and he sips, smiling at her. Snowflakes melt on his knuckles and her burgundy scarf fringe while the tea-bag tag sways.
+  Sound: Cup crinkle, a quiet sip, playful breath, soft footsteps, a car passing.
+
+  HARD CUT
+
+  SHOT 4 (0:09-0:12)
+  Camera: Fast but smooth circling orbit around them, snow flying through the foreground.
+  Action: He lifts her hand and spins her under his arm. Her coat flares and her curls swing as she twirls, laughing. She spins back into him and they keep moving in a flowing walking waltz down the sidewalk, foreheads close, eyes locked.
+  Sound: Coat swish, her delighted laugh, quick light footsteps in snow, a distant bell.
+
+  HARD CUT
+
+  SHOT 5 (0:12-0:15)
+  Camera: Sweeping crane move that begins close and rises into a wide pull-back, following them up the avenue with the Empire State Building glowing in the haze.
+  Action: Hand in hand, they run a few joyful steps through the falling snow, then he pulls her in and they kiss mid-stride, still moving, her scarf fringe flying. They keep walking away up the avenue, arms around each other, leaving two sets of footprints as the flakes thicken.
+  Sound: Quick crunching footsteps, a happy laugh, coat rustle, fading into the hush of falling snow.
+
+  AVOID: music, dialogue, text overlays, still poses, freeze frames, camera looks, face or hairstyle drift, swapping the two characters' outfits, scarves moving between people, any change to coats, scarves, earrings or boots between shots, photorealistic style.

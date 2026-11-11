@@ -1,0 +1,29 @@
+id: omni-regency-ballroom-claude-shirt-jigglypuff
+title:
+  en: Regency ballroom girl in Claude shirt, Jigglypuff hat
+  zh: 摄政时代舞会少女，穿 Claude 衫、头戴胖丁
+model: Gemini Omni Flash
+mode: text-to-video
+category: cinematic
+tags:
+- period-drama
+- pokemon
+- brand-logos
+- ballroom
+source:
+  name: '@chetaslua on X'
+  url: https://x.com/chetaslua/status/2118348030906937504
+  credit: Chetaslua
+  likes: 518
+  captured: '2026-11-11'
+  posted: '2026-11-05'
+video: https://x.com/chetaslua/status/2118348030906937504
+notes:
+  en: The prompt sets the period setting, brand shirts and a creature hat on one clear subject, then lists extra characters so the model fills the scene. Naming the genre as prestige drama steers the lighting and pacing toward a serious period film.
+  zh: 提示词先确定时代背景，以及主角的品牌衫和头饰，再用并列的角色清单让模型补充场景。用 prestige drama 限定为正剧式的光线与节奏。
+prompt: |
+  🚨 Gemini Omni Pro Spotted internally
+
+  4k supported , 15 second , and also omni flash 1.2 can launch anyday literally ready and deployed
+
+  Prompt : an Elaborate regency romance  a girl is wearing claude t shirt and biy is wearing chagpt shirt where everyone is wearing a live pokemon for a hat (), a llama plays a flute, prestige drama and fat orange cat with mistral shirt is singing

@@ -1,0 +1,42 @@
+id: seedream-5-5-rooftop-chess-king-fur-coat
+title:
+  en: Rooftop chess player in green faux fur coat
+  zh: 屋顶上身穿绿色仿毛大衣的下棋男子
+model: Seedream 5.5
+mode: text-to-image
+category: realism
+tags:
+- fashion
+- portrait
+- chess
+- rooftop
+source:
+  name: '@MayorKingAI on X'
+  url: https://x.com/MayorKingAI/status/2120198834508955990
+  credit: MayorkingAI
+  likes: 91
+  captured: '2026-11-11'
+  posted: '2026-11-10'
+notes:
+  en: The prompt fixes the camera at chessboard height with a 20mm wide angle lens, so the foreground king looms large while the board recedes. It also names the camera body and exposure to lock in a photographic look, and the no smoothing and no CGI clauses keep skin and fabric texture real.
+  zh: 提示词把相机固定在棋盘高度并使用20毫米广角镜头，让前景的国王棋子显得巨大、棋盘向远处延伸；同时写明机身和曝光参数来锁定摄影质感。结尾关于不磨皮、不做CGI的约束让皮肤和面料纹理保持真实。
+prompt: |
+  I tested all four models directly in
+  @magnific
+
+
+  Prompt: An ultra-realistic high-fashion editorial photograph of a striking 28-year-old Japanese man with sharp facial features, a defined jawline, slightly messy medium-length black hair and narrow rectangular black sunglasses, sitting confidently on a rooftop terrace while playing chess.
+
+  He wears an oversized luxurious emerald-green faux-fur coat over a black silk shirt, tailored black trousers and a subtle silver chain necklace. His expression is calm, confident and slightly intimidating, looking directly toward the camera.
+
+  Camera composition: An extreme low-angle shot taken from the very edge of a chessboard, with the camera positioned only a few centimeters above the board's surface. The black-and-white chessboard dominates the entire bottom third of the frame, its squares appearing exceptionally large in the foreground and rapidly shrinking toward the seated man.
+
+  The man is centered in the composition, visible from approximately the knees upward, leaning slightly forward. His right arm extends directly toward the camera, with his hand dramatically enlarged by perspective. He is gripping the top of a polished ivory wooden king chess piece between his thumb and index finger, moving it toward an empty square near the camera. The king is dramatically oversized in the immediate foreground due to the wide-angle perspective, while the remaining chess pieces appear progressively smaller toward the background.
+
+  His other hand rests naturally near his knee. The chess pieces are physically accurate and positioned naturally on the board, with realistic contact shadows and detailed polished wooden surfaces.
+
+  Environment: An open urban rooftop with subtle concrete architectural details, low surrounding rooftops and an enormous vivid cyan-blue sky with a few soft, scattered white clouds. The bright sky occupies the upper half of the composition, creating strong visual contrast against the emerald-green coat.
+
+  Photography: Shot on a Sony A1 II with a 20mm wide-angle lens, camera placed at chessboard level, f/8, ISO 100, 1/1000s. Deep environmental perspective, exaggerated foreground scale, realistic optical distortion, crisp textures across the chessboard and subject. Bright natural midday sunlight, accurate skin tones, natural facial asymmetry, individual hair strands, detailed fabric and fur fibers, subtle imperfections and physically realistic shadows.
+
+  Authentic luxury fashion campaign photography, bold editorial framing, natural photographic color grading, exceptionally realistic skin texture, no artificial skin smoothing, no CGI appearance, no illustration, no plastic textures, no excessive cinematic effects.
