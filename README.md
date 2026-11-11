@@ -6,7 +6,7 @@
 
 <p><b>English</b> · <a href="README_zh.md">简体中文</a></p>
 
-<p>Search, filter and copy in the <a href="https://agentcraft.dev/en/prompts/">online gallery</a></p>
+<p>Browse every prompt by category with previews on <a href="https://agentcraft.dev/en/prompts/">agentcraft.dev</a>, and search, filter and copy it there</p>
 
 <p><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a></p>
 
@@ -73,7 +73,12 @@
 <a id="bymodel"></a>
 ## By model
 
+- [Seedance 2.5](https://agentcraft.dev/en/prompts/video/seedance-2-5/): 635 prompts, each with its output and source
+- [MiniMax H3](https://agentcraft.dev/en/prompts/video/minimax-h3/): 313 prompts, each with its output and source
+- [Wan 3.0](https://agentcraft.dev/en/prompts/video/wan-3-0/): 60 prompts, each with its output and source
+- [Kling 4.0](https://agentcraft.dev/en/prompts/video/kling-4-0/): 37 prompts, each with its output and source
 - [GPT Image 2.6](https://agentcraft.dev/en/prompts/image/gpt-image-2-6/): 97 prompts, 43 of them animated GIFs, each with its output and source
+- [Nano Banana 2.1](https://agentcraft.dev/en/prompts/image/nano-banana-2-1/): 94 prompts, each with its output and source
 
 <a id="video"></a>
 ## Video prompts
@@ -82,6 +87,8 @@ Every prompt below is quoted verbatim from its source: the model maker's own gui
 
 <a id="vid-cinematic"></a>
 ## Cinematic scenes and short films
+
+All of this category with previews on [agentcraft.dev](https://agentcraft.dev/en/prompts/video/cinematic/)
 
 <a id="h3-character-detail-montage"></a>
 ### Twenty shot character detail montage, face revealed last
@@ -242,6 +249,8 @@ Use Image 1 as the exact opening frame and Image 2 as the exact destination worl
 <a id="vid-action"></a>
 ## Action, chases and sports
 
+All of this category with previews on [agentcraft.dev](https://agentcraft.dev/en/prompts/video/action/)
+
 <a id="seedance-seoul-subway-revenge"></a>
 ### Seoul subway revenge comedy
 
@@ -357,6 +366,8 @@ Shot 4: 高角度大全景起，倾斜成荷兰角；镜头在两人跃起时螺
 
 <a id="vid-scifi-fantasy"></a>
 ## Sci-fi and fantasy
+
+All of this category with previews on [agentcraft.dev](https://agentcraft.dev/en/prompts/video/scifi-fantasy/)
 
 <a id="seedance-lab-containment-breach"></a>
 ### Lab containment breach, sci-fi horror
@@ -537,6 +548,8 @@ Audio: gentle fantasy folk music (soft strings and flute), crackling fire and a 
 
 <a id="vid-anime"></a>
 ## Anime and animation
+
+All of this category with previews on [agentcraft.dev](https://agentcraft.dev/en/prompts/video/anime/)
 
 <a id="seedance-two-friends-bedsheet-ghost-prank"></a>
 ### Phone camera sketch of friends and a bedsheet ghost
@@ -821,6 +834,8 @@ Fast real-time movement throughout, including the opening wipe. No slow motion, 
 <a id="vid-commercial"></a>
 ## Ads and product videos
 
+All of this category with previews on [agentcraft.dev](https://agentcraft.dev/en/prompts/video/commercial/)
+
 <a id="kling-vintage-watch-macro"></a>
 ### Macro shot of a vintage wristwatch between fingers
 
@@ -1047,6 +1062,8 @@ Cartoonish feel, CG feel, plastic skin, excessive smoothing, over-beautification
 <a id="vid-dialogue"></a>
 ## Dialogue and talking heads
 
+All of this category with previews on [agentcraft.dev](https://agentcraft.dev/en/prompts/video/dialogue/)
+
 <a id="seedance-cafe-table-multi-angle-reshoot"></a>
 ### Cafe table talk reshot from thirteen new angles
 
@@ -1272,6 +1289,8 @@ Narration:
 <a id="vid-music-dance"></a>
 ## Music and dance
 
+All of this category with previews on [agentcraft.dev](https://agentcraft.dev/en/prompts/video/music-dance/)
+
 <a id="h3-pink-panic-punk-mv"></a>
 ### Anime girl in plaid boots slides into punk MV
 
@@ -1373,6 +1392,8 @@ Seedance 2.5 · Text-to-video · Source: [@Just_sharon7 on X](https://x.com/Just
 
 <a id="vid-vlog"></a>
 ## Phone footage and vlogs
+
+All of this category with previews on [agentcraft.dev](https://agentcraft.dev/en/prompts/video/vlog/)
 
 <a id="seedance-balcony-pool-phone-video-collapse"></a>
 ### Bald man in kiddie pool beside balcony grill
@@ -1603,6 +1624,8 @@ Style: Raw amateur vertical phone footage, natural night lighting, warm street l
 <a id="vid-nature"></a>
 ## Nature, travel and aerial
 
+All of this category with previews on [agentcraft.dev](https://agentcraft.dev/en/prompts/video/nature/)
+
 <a id="seedance-woman-panda-ancient-forest"></a>
 ### Woman strokes giant panda in misty ancient forest
 
@@ -1718,6 +1741,8 @@ Duration: 15s. Camera: locked, pot height. Rendered locally in ComfyUI, then Top
 
 <a id="vid-animal"></a>
 ## Animals and pets
+
+All of this category with previews on [agentcraft.dev](https://agentcraft.dev/en/prompts/video/animal/)
 
 <a id="h3-tom-jerry-mac-desktop-icon-chaos"></a>
 ### Tom restores fallen desktop icons one by one
@@ -2079,6 +2104,8 @@ Start with the computer screen content exactly the same as in the video. Make th
 <a id="vid-vfx"></a>
 ## VFX and transformations
 
+All of this category with previews on [agentcraft.dev](https://agentcraft.dev/en/prompts/video/vfx/)
+
 <a id="veo-giant-girl-shibuya-crossing"></a>
 ### Giant girl kneeling over a Tokyo crossing
 
@@ -2194,6 +2221,8 @@ The most-liked prompts for the top image models on the [Artificial Analysis imag
 
 <a id="img-poster"></a>
 ## Posters and editorial layouts
+
+All of this category with previews on [agentcraft.dev](https://agentcraft.dev/en/prompts/image/poster/)
 
 <a id="gpt-image-flat-vector-city-travel-poster-template"></a>
 ### Flat vector travel poster template for any city
@@ -2503,6 +2532,8 @@ Create a vertical ASPECT_RATIO monochrome editorial double-exposure portrait bas
 <a id="img-infographic"></a>
 ## Infographics and slides
 
+All of this category with previews on [agentcraft.dev](https://agentcraft.dev/en/prompts/image/infographic/)
+
 <a id="gpt-image-encyclopedia-infographic-topic-template"></a>
 ### Encyclopedia infographic card of the James Webb Telescope
 
@@ -2678,6 +2709,8 @@ Generate a detailed infographic showcasing the qualifying results for the Austra
 <a id="img-ui-mockup"></a>
 ## Phone and UI mockups
 
+All of this category with previews on [agentcraft.dev](https://agentcraft.dev/en/prompts/image/ui-mockup/)
+
 <a id="gpt-image-camera-roll-photos-screen"></a>
 ### iPhone Photos camera roll of a student's day
 
@@ -2851,6 +2884,8 @@ The whole set is quiet, private, relaxed, and real. The album forms a dense, con
 <a id="img-product"></a>
 ## Product shots and e-commerce
 
+All of this category with previews on [agentcraft.dev](https://agentcraft.dev/en/prompts/image/product/)
+
 <a id="gpt-image-giant-pepsi-can-seated-model-ad"></a>
 ### Woman leaning on giant Pepsi can ad
 
@@ -2973,6 +3008,8 @@ Quality & mood: Ultra-high resolution, photorealistic textures, premium holiday 
 
 <a id="img-brand"></a>
 ## Logos, ads and packaging
+
+All of this category with previews on [agentcraft.dev](https://agentcraft.dev/en/prompts/image/brand/)
 
 <a id="nano-banana-inflated-3d-logotype-spikes"></a>
 ### Inflated 3D logotypes with spikes in one colour
@@ -3441,6 +3478,8 @@ Do not add extra text, captions, labels, particles, smoke, pedestal, floor, visi
 <a id="img-realism"></a>
 ## Photo realism
 
+All of this category with previews on [agentcraft.dev](https://agentcraft.dev/en/prompts/image/realism/)
+
 <a id="gpt-image-coca-cola-tanker-leak-mentos-truck-dashcam"></a>
 ### Coca Cola tanker leaking beside Mentos truck
 
@@ -3586,6 +3625,8 @@ Photorealistic cinematic heartbreak artwork in a wide **16:9 composition**, depi
 <a id="img-portrait"></a>
 ## Portraits
 
+All of this category with previews on [agentcraft.dev](https://agentcraft.dev/en/prompts/image/portrait/)
+
 <a id="chatgpt-bw-editorial-portrait-hand-on-chin"></a>
 ### Black and white portrait, man with hand on chin
 
@@ -3673,6 +3714,8 @@ Nano Banana 2 · Text-to-image · Source: [@KeorUnreal on X](https://x.com/KeorU
 
 <a id="img-character"></a>
 ## Characters and figures
+
+All of this category with previews on [agentcraft.dev](https://agentcraft.dev/en/prompts/image/character/)
 
 <a id="gpt-image-tanjiro-pixel-sprite-sheet-water-attack"></a>
 ### Tanjiro 16 frame pixel sprite sheet with water attack
@@ -3841,6 +3884,8 @@ With everything you know about me, what would I look like as a Rugrats kid. Incl
 <a id="img-illustration"></a>
 ## Illustration
 
+All of this category with previews on [agentcraft.dev](https://agentcraft.dev/en/prompts/image/illustration/)
+
 <a id="nano-banana-map-screenshot-anime-panorama-shibuya"></a>
 ### Anime style panorama of Shibuya Crossing from map screenshot
 
@@ -3931,6 +3976,8 @@ Use a warm ivory background with plenty of negative space, soft ground shadows, 
 
 <a id="img-comic"></a>
 ## Comics and storyboards
+
+All of this category with previews on [agentcraft.dev](https://agentcraft.dev/en/prompts/image/comic/)
 
 <a id="nano-banana-fluffy-creatures-treehouse-story"></a>
 ### Three Fluffy Creatures Planning a Treehouse
@@ -4037,6 +4084,8 @@ Create a professional Hollywood advertising storyboard sheet for a premium anti-
 
 <a id="img-photo-to-art"></a>
 ## Photo to art
+
+All of this category with previews on [agentcraft.dev](https://agentcraft.dev/en/prompts/image/photo-to-art/)
 
 <a id="gpt-image-photo-to-watercolor-travel"></a>
 ### Travel photo above, same scene as watercolor below
@@ -4278,6 +4327,8 @@ With the picture provided and what you know about me Show me what I would look l
 <a id="img-architecture"></a>
 ## Architecture and interiors
 
+All of this category with previews on [agentcraft.dev](https://agentcraft.dev/en/prompts/image/architecture/)
+
 <a id="nano-banana-floor-plan-rising-miniature-diner"></a>
 ### Diner Rising Out of Architectural Floor Plan
 
@@ -4385,6 +4436,8 @@ Create a whimsical handcrafted miniature diorama featuring [ICONIC STRUCTURE] as
 
 <a id="img-map"></a>
 ## Maps
+
+All of this category with previews on [agentcraft.dev](https://agentcraft.dev/en/prompts/image/map/)
 
 <a id="gpt-image-isometric-anime-world-map-diorama-poster"></a>
 ### Isometric Anime World Map Diorama Poster
@@ -4553,6 +4606,8 @@ See ALTs for ideas 👇
 <a id="img-collage"></a>
 ## Collage
 
+All of this category with previews on [agentcraft.dev](https://agentcraft.dev/en/prompts/image/collage/)
+
 <a id="gpt-image-failed-photos-grid"></a>
 ### Nine accidental phone snapshots of any character
 
@@ -4718,6 +4773,8 @@ Nano Banana 2 · Text-to-image · Source: [@Strength04_X on X](https://x.com/Str
 
 <a id="img-edit"></a>
 ## Photo editing
+
+All of this category with previews on [agentcraft.dev](https://agentcraft.dev/en/prompts/image/edit/)
 
 <a id="nano-banana-charmander-ember-route-101"></a>
 ### Charmander uses Ember on a sunset route

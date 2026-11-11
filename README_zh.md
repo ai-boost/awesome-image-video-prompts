@@ -6,7 +6,7 @@
 
 <p><a href="README.md">English</a> · <b>简体中文</b></p>
 
-<p>在<a href="https://agentcraft.dev/zh/prompts/">在线画廊</a>里搜索、筛选、一键复制</p>
+<p>在 <a href="https://agentcraft.dev/zh/prompts/">agentcraft.dev</a> 按分类浏览全部提示词，带预览，可搜索、筛选、一键复制</p>
 
 <p><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a></p>
 
@@ -73,7 +73,12 @@
 <a id="bymodel"></a>
 ## 按模型
 
+- [Seedance 2.5](https://agentcraft.dev/zh/prompts/video/seedance-2-5/): 635 条提示词，每条附成品和出处
+- [MiniMax H3](https://agentcraft.dev/zh/prompts/video/minimax-h3/): 313 条提示词，每条附成品和出处
+- [Wan 3.0](https://agentcraft.dev/zh/prompts/video/wan-3-0/): 60 条提示词，每条附成品和出处
+- [Kling 4.0](https://agentcraft.dev/zh/prompts/video/kling-4-0/): 37 条提示词，每条附成品和出处
 - [GPT Image 2.6](https://agentcraft.dev/zh/prompts/image/gpt-image-2-6/): 97 条提示词，其中 43 条是 GIF 动图，每条附成图和出处
+- [Nano Banana 2.1](https://agentcraft.dev/zh/prompts/image/nano-banana-2-1/): 94 条提示词，每条附成品和出处
 
 <a id="video"></a>
 ## 视频提示词
@@ -82,6 +87,8 @@
 
 <a id="vid-cinematic"></a>
 ## 电影感场景与短片
+
+这一类的全部提示词和预览见 [agentcraft.dev](https://agentcraft.dev/zh/prompts/video/cinematic/)
 
 <a id="h3-character-detail-montage"></a>
 ### 二十镜头角色细节蒙太奇，最后才露脸
@@ -242,6 +249,8 @@ Use Image 1 as the exact opening frame and Image 2 as the exact destination worl
 <a id="vid-action"></a>
 ## 动作、追逐与运动
 
+这一类的全部提示词和预览见 [agentcraft.dev](https://agentcraft.dev/zh/prompts/video/action/)
+
 <a id="seedance-seoul-subway-revenge"></a>
 ### 首尔地铁站复仇喜剧
 
@@ -357,6 +366,8 @@ Shot 4: 高角度大全景起，倾斜成荷兰角；镜头在两人跃起时螺
 
 <a id="vid-scifi-fantasy"></a>
 ## 科幻与奇幻
+
+这一类的全部提示词和预览见 [agentcraft.dev](https://agentcraft.dev/zh/prompts/video/scifi-fantasy/)
 
 <a id="seedance-lab-containment-breach"></a>
 ### 实验室收容失效，科幻恐怖
@@ -537,6 +548,8 @@ Audio: gentle fantasy folk music (soft strings and flute), crackling fire and a 
 
 <a id="vid-anime"></a>
 ## 动漫与动画
+
+这一类的全部提示词和预览见 [agentcraft.dev](https://agentcraft.dev/zh/prompts/video/anime/)
 
 <a id="seedance-two-friends-bedsheet-ghost-prank"></a>
 ### 手机镜头拍下两个朋友和床单鬼的恶作剧
@@ -821,6 +834,8 @@ Fast real-time movement throughout, including the opening wipe. No slow motion, 
 <a id="vid-commercial"></a>
 ## 广告与产品
 
+这一类的全部提示词和预览见 [agentcraft.dev](https://agentcraft.dev/zh/prompts/video/commercial/)
+
 <a id="kling-vintage-watch-macro"></a>
 ### 指尖捏着复古腕表的微距镜头
 
@@ -1047,6 +1062,8 @@ Cartoonish feel, CG feel, plastic skin, excessive smoothing, over-beautification
 <a id="vid-dialogue"></a>
 ## 对白与口播
 
+这一类的全部提示词和预览见 [agentcraft.dev](https://agentcraft.dev/zh/prompts/video/dialogue/)
+
 <a id="seedance-cafe-table-multi-angle-reshoot"></a>
 ### 咖啡馆桌边讲话重拍成十三个新机位
 
@@ -1272,6 +1289,8 @@ Narration:
 <a id="vid-music-dance"></a>
 ## 音乐与舞蹈
 
+这一类的全部提示词和预览见 [agentcraft.dev](https://agentcraft.dev/zh/prompts/video/music-dance/)
+
 <a id="h3-pink-panic-punk-mv"></a>
 ### 红格靴动漫少女滑入朋克MV画面
 
@@ -1373,6 +1392,8 @@ Seedance 2.5 · 文生视频 · 出处: [@Just_sharon7 on X](https://x.com/Just_
 
 <a id="vid-vlog"></a>
 ## 手机实拍与 Vlog
+
+这一类的全部提示词和预览见 [agentcraft.dev](https://agentcraft.dev/zh/prompts/video/vlog/)
 
 <a id="seedance-balcony-pool-phone-video-collapse"></a>
 ### 光头男子坐在阳台小泳池里，身旁是烧烤架
@@ -1603,6 +1624,8 @@ Style: Raw amateur vertical phone footage, natural night lighting, warm street l
 <a id="vid-nature"></a>
 ## 自然、旅行与航拍
 
+这一类的全部提示词和预览见 [agentcraft.dev](https://agentcraft.dev/zh/prompts/video/nature/)
+
 <a id="seedance-woman-panda-ancient-forest"></a>
 ### 女子在雾气弥漫的古老森林中抚摸大熊猫
 
@@ -1718,6 +1741,8 @@ Duration: 15s. Camera: locked, pot height. Rendered locally in ComfyUI, then Top
 
 <a id="vid-animal"></a>
 ## 动物与萌宠
+
+这一类的全部提示词和预览见 [agentcraft.dev](https://agentcraft.dev/zh/prompts/video/animal/)
 
 <a id="h3-tom-jerry-mac-desktop-icon-chaos"></a>
 ### 汤姆一个个把掉落的桌面图标放回原位
@@ -2079,6 +2104,8 @@ Start with the computer screen content exactly the same as in the video. Make th
 <a id="vid-vfx"></a>
 ## 特效与变身转场
 
+这一类的全部提示词和预览见 [agentcraft.dev](https://agentcraft.dev/zh/prompts/video/vfx/)
+
 <a id="veo-giant-girl-shibuya-crossing"></a>
 ### 巨型女孩跪在东京街口俯身触碰出租车
 
@@ -2194,6 +2221,8 @@ Prompt for this video: Add the word “SMILE” in bold white sans-serif typogra
 
 <a id="img-poster"></a>
 ## 海报与编辑排版
+
+这一类的全部提示词和预览见 [agentcraft.dev](https://agentcraft.dev/zh/prompts/image/poster/)
 
 <a id="gpt-image-flat-vector-city-travel-poster-template"></a>
 ### 适用任意城市的扁平矢量旅行海报模板
@@ -2503,6 +2532,8 @@ Create a vertical ASPECT_RATIO monochrome editorial double-exposure portrait bas
 <a id="img-infographic"></a>
 ## 信息图与幻灯片
 
+这一类的全部提示词和预览见 [agentcraft.dev](https://agentcraft.dev/zh/prompts/image/infographic/)
+
 <a id="gpt-image-encyclopedia-infographic-topic-template"></a>
 ### 詹姆斯韦伯望远镜百科信息图卡片
 
@@ -2678,6 +2709,8 @@ Generate a detailed infographic showcasing the qualifying results for the Austra
 <a id="img-ui-mockup"></a>
 ## 手机与界面截图
 
+这一类的全部提示词和预览见 [agentcraft.dev](https://agentcraft.dev/zh/prompts/image/ui-mockup/)
+
 <a id="gpt-image-camera-roll-photos-screen"></a>
 ### 一名学生一整天的iPhone相册截图
 
@@ -2851,6 +2884,8 @@ The whole set is quiet, private, relaxed, and real. The album forms a dense, con
 <a id="img-product"></a>
 ## 产品图与电商
 
+这一类的全部提示词和预览见 [agentcraft.dev](https://agentcraft.dev/zh/prompts/image/product/)
+
 <a id="gpt-image-giant-pepsi-can-seated-model-ad"></a>
 ### 女性倚靠巨型百事可乐罐广告
 
@@ -2973,6 +3008,8 @@ Quality & mood: Ultra-high resolution, photorealistic textures, premium holiday 
 
 <a id="img-brand"></a>
 ## 标志、广告与包装
+
+这一类的全部提示词和预览见 [agentcraft.dev](https://agentcraft.dev/zh/prompts/image/brand/)
 
 <a id="nano-banana-inflated-3d-logotype-spikes"></a>
 ### 单色充气立体字标与尖刺造型
@@ -3441,6 +3478,8 @@ Do not add extra text, captions, labels, particles, smoke, pedestal, floor, visi
 <a id="img-realism"></a>
 ## 写实照片
 
+这一类的全部提示词和预览见 [agentcraft.dev](https://agentcraft.dev/zh/prompts/image/realism/)
+
 <a id="gpt-image-coca-cola-tanker-leak-mentos-truck-dashcam"></a>
 ### 可口可乐罐车漏液，旁边是Mentos货车
 
@@ -3586,6 +3625,8 @@ Photorealistic cinematic heartbreak artwork in a wide **16:9 composition**, depi
 <a id="img-portrait"></a>
 ## 人像
 
+这一类的全部提示词和预览见 [agentcraft.dev](https://agentcraft.dev/zh/prompts/image/portrait/)
+
 <a id="chatgpt-bw-editorial-portrait-hand-on-chin"></a>
 ### 黑白肖像，男子手托下巴
 
@@ -3673,6 +3714,8 @@ Nano Banana 2 · 文生图 · 出处: [@KeorUnreal on X](https://x.com/KeorUnrea
 
 <a id="img-character"></a>
 ## 角色与手办
+
+这一类的全部提示词和预览见 [agentcraft.dev](https://agentcraft.dev/zh/prompts/image/character/)
 
 <a id="gpt-image-tanjiro-pixel-sprite-sheet-water-attack"></a>
 ### 炭治郎十六帧像素精灵图与水之呼吸攻击
@@ -3841,6 +3884,8 @@ With everything you know about me, what would I look like as a Rugrats kid. Incl
 <a id="img-illustration"></a>
 ## 插画
 
+这一类的全部提示词和预览见 [agentcraft.dev](https://agentcraft.dev/zh/prompts/image/illustration/)
+
 <a id="nano-banana-map-screenshot-anime-panorama-shibuya"></a>
 ### 由地图截图生成的涩谷十字路口动漫全景
 
@@ -3931,6 +3976,8 @@ Use a warm ivory background with plenty of negative space, soft ground shadows, 
 
 <a id="img-comic"></a>
 ## 漫画与分镜
+
+这一类的全部提示词和预览见 [agentcraft.dev](https://agentcraft.dev/zh/prompts/image/comic/)
 
 <a id="nano-banana-fluffy-creatures-treehouse-story"></a>
 ### 三只毛茸茸生物规划树屋
@@ -4037,6 +4084,8 @@ Create a professional Hollywood advertising storyboard sheet for a premium anti-
 
 <a id="img-photo-to-art"></a>
 ## 照片转艺术风格
+
+这一类的全部提示词和预览见 [agentcraft.dev](https://agentcraft.dev/zh/prompts/image/photo-to-art/)
 
 <a id="gpt-image-photo-to-watercolor-travel"></a>
 ### 上半旅行照片，下半同一场景水彩画
@@ -4278,6 +4327,8 @@ With the picture provided and what you know about me Show me what I would look l
 <a id="img-architecture"></a>
 ## 建筑与室内
 
+这一类的全部提示词和预览见 [agentcraft.dev](https://agentcraft.dev/zh/prompts/image/architecture/)
+
 <a id="nano-banana-floor-plan-rising-miniature-diner"></a>
 ### 从建筑平面图中升起的复古餐厅微缩场景
 
@@ -4385,6 +4436,8 @@ Create a whimsical handcrafted miniature diorama featuring [ICONIC STRUCTURE] as
 
 <a id="img-map"></a>
 ## 地图
+
+这一类的全部提示词和预览见 [agentcraft.dev](https://agentcraft.dev/zh/prompts/image/map/)
 
 <a id="gpt-image-isometric-anime-world-map-diorama-poster"></a>
 ### 等距视角动漫世界地图微缩模型海报
@@ -4553,6 +4606,8 @@ See ALTs for ideas 👇
 <a id="img-collage"></a>
 ## 拼贴
 
+这一类的全部提示词和预览见 [agentcraft.dev](https://agentcraft.dev/zh/prompts/image/collage/)
+
 <a id="gpt-image-failed-photos-grid"></a>
 ### 任意角色的九宫格失败抓拍照
 
@@ -4718,6 +4773,8 @@ Nano Banana 2 · 文生图 · 出处: [@Strength04_X on X](https://x.com/Strengt
 
 <a id="img-edit"></a>
 ## 照片编辑
+
+这一类的全部提示词和预览见 [agentcraft.dev](https://agentcraft.dev/zh/prompts/image/edit/)
 
 <a id="nano-banana-charmander-ember-route-101"></a>
 ### 小火龙在日落道路上使用火花攻击

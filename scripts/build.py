@@ -12,8 +12,9 @@ import yaml
 
 # Model sections, ordered by the Artificial Analysis video arena (October 2026).
 MODELS = ["Wan 3.0", "MiniMax H3", "Seedance 2.5", "Gemini Omni Flash", "Kling 4.0", "Kling 3.0", "Veo 3.1", "Veo 3"]
-# Image models with their own page on agentcraft.dev (slug under /prompts/image/), listed under "By model" with counts from the data.
-MODEL_PAGES = {"GPT Image 2.6": "gpt-image-2-6"}
+# Models with their own page on agentcraft.dev (path under /prompts/), listed under "By model" with counts from the data.
+MODEL_PAGES = {"Seedance 2.5": "video/seedance-2-5", "MiniMax H3": "video/minimax-h3", "Wan 3.0": "video/wan-3-0",
+               "Kling 4.0": "video/kling-4-0", "GPT Image 2.6": "image/gpt-image-2-6", "Nano Banana 2.1": "image/nano-banana-2-1"}
 # Video sections by type, in display order. The model shows on every entry.
 VIDEO_CATEGORIES = {
     "cinematic": {"en": "Cinematic scenes and short films", "zh": "电影感场景与短片"},
@@ -60,12 +61,14 @@ T = {
         "tagline": "Copy-ready prompts for the leading AI video and image models, each with its real output and a link to where it came from. "
                    "Plus agent recipes for editing video.",
         "switch": '<b>English</b> · <a href="README_zh.md">简体中文</a>',
-        "gallery": 'Search, filter and copy in the <a href="https://agentcraft.dev/en/prompts/">online gallery</a>',
+        "gallery": 'Browse every prompt by category with previews on <a href="https://agentcraft.dev/en/prompts/">agentcraft.dev</a>, and search, filter and copy it there',
+        "onsite": "All of this category with previews on [agentcraft.dev]({url})",
         "formerly": "Formerly **Awesome-GPTs**. The original GPTs list lives on in [legacy/awesome-gpts.md](legacy/awesome-gpts.md).",
         "contents": "Contents",
         "recent": "Recently added",
         "bymodel": "By model",
         "bymodel_item": "{n} prompts, {g} of them animated GIFs, each with its output and source",
+        "bymodel_plain": "{n} prompts, each with its output and source",
         "video": "Video prompts",
         "video_intro": "Every prompt below is quoted verbatim from its source: the model maker's own guide or model card, or a creator's post on X with the video attached. "
                        "Click a thumbnail to watch the original with sound. Grouped by what you want to make, covering the leaders of the [Artificial Analysis video arena](https://artificialanalysis.ai/video/leaderboard/text-to-video); "
@@ -114,12 +117,14 @@ T = {
         "title": "Awesome Image & Video Prompts",
         "tagline": "主流 AI 视频和图片模型的提示词，拿来就能用。每条都附真实成品和出处链接。另有用 Agent 剪视频的配方。",
         "switch": '<a href="README.md">English</a> · <b>简体中文</b>',
-        "gallery": '在<a href="https://agentcraft.dev/zh/prompts/">在线画廊</a>里搜索、筛选、一键复制',
+        "gallery": '在 <a href="https://agentcraft.dev/zh/prompts/">agentcraft.dev</a> 按分类浏览全部提示词，带预览，可搜索、筛选、一键复制',
+        "onsite": "这一类的全部提示词和预览见 [agentcraft.dev]({url})",
         "formerly": "本仓原名 **Awesome-GPTs**，原来的 GPTs 清单保存在 [legacy/awesome-gpts_zh.md](legacy/awesome-gpts_zh.md)。",
         "contents": "目录",
         "recent": "最近新增",
         "bymodel": "按模型",
         "bymodel_item": "{n} 条提示词，其中 {g} 条是 GIF 动图，每条附成图和出处",
+        "bymodel_plain": "{n} 条提示词，每条附成品和出处",
         "video": "视频提示词",
         "video_intro": "下面每条提示词都原样摘自出处：模型厂商自己的指南或模型卡，或创作者在 X 上附带成片发布的帖子。"
                        "点缩略图看带声音的原片。按想做的内容分组，覆盖 [Artificial Analysis 视频榜](https://artificialanalysis.ai/video/leaderboard/text-to-video)前排模型，"
@@ -277,7 +282,7 @@ def build(lang, videos, images, recipes):
             loc.update({e["id"]: f'{where[e["id"]]}#{e["id"]}' for e in es[TOP:]})
 
     # "By model": each model with a page on agentcraft.dev, its entry count and how many keep an animated GIF preview.
-    by_model = [(m, slug, [i for i in images if i["model"] == m]) for m, slug in MODEL_PAGES.items()]
+    by_model = [(m, slug, [e for e in videos + images if e["model"] == m]) for m, slug in MODEL_PAGES.items()]
     by_model = [(m, slug, es) for m, slug, es in by_model if es]
 
     out = [
@@ -306,7 +311,8 @@ def build(lang, videos, images, recipes):
         out += ['<a id="bymodel"></a>', f'## {t["bymodel"]}', ""]
         for m, slug, es in by_model:
             gifs = sum(os.path.exists(f'previews/{e["id"]}.gif') for e in es)
-            out += [f'- [{m}](https://agentcraft.dev/{lang}/prompts/image/{slug}/): {t["bymodel_item"].format(n=len(es), g=gifs)}']
+            item = t["bymodel_item"] if slug.startswith("image/") and gifs else t["bymodel_plain"]
+            out += [f'- [{m}](https://agentcraft.dev/{lang}/prompts/{slug}/): {item.format(n=len(es), g=gifs)}']
         out += [""]
 
     for key, anc, title, es in sections:
@@ -314,7 +320,8 @@ def build(lang, videos, images, recipes):
             out += ['<a id="video"></a>', f'## {t["video"]}', "", t["video_intro"], ""]
         if key.startswith("image-") and not any(k.startswith("image-") for k, *_ in sections[:sections.index((key, anc, title, es))]):
             out += ['<a id="image"></a>', f'## {t["image"]}', "", t["image_body"], ""]
-        out += [f'<a id="{anc}"></a>', f"## {title}", ""]
+        kind, cat = key.split("-", 1)
+        out += [f'<a id="{anc}"></a>', f"## {title}", "", t["onsite"].format(url=f"https://agentcraft.dev/{lang}/prompts/{kind}/{cat}/"), ""]
         for e in es[:TOP]:
             out += video_entry(e, lang, t)
         if key in more:
