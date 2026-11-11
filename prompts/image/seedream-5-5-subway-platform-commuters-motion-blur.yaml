@@ -1,0 +1,24 @@
+id: seedream-5-5-subway-platform-commuters-motion-blur
+title:
+  en: Commuters streaming along a subway platform
+  zh: 地铁站台上川流的通勤人群
+model: Seedream 5.5
+mode: text-to-image
+category: realism
+tags:
+- seedream
+- subway
+- motion-blur
+- central-perspective
+- crowd
+source:
+  name: 'ByteDance Seed: Seedream 5.5'
+  url: https://seed.bytedance.com/en/seedream5_5
+  credit: ByteDance Seed
+  captured: '2026-11-11'
+  posted: '2026-11-09'
+notes:
+  en: Central perspective with lines that recede to one point gives structure, and motion blur on the crowd gives speed, while the last clause keeps detail in both highlights and shadows.
+  zh: 中心透视让站台线条汇向一点，给出结构；人群的动态模糊给出速度；最后一句要求高光和暗部都保留细节。
+prompt: |
+  Photograph a busy modern city subway platform filled with Asian commuters walking briskly in orderly flows. Use central perspective, with the platform, yellow safety lines and overhead lights receding into the distance. Combine motion blur, soft diffuse light and a subtle glow while retaining highlight and shadow detail to convey the energy of urban life.

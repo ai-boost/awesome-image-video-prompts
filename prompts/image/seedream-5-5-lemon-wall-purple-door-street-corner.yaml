@@ -1,0 +1,24 @@
+id: seedream-5-5-lemon-wall-purple-door-street-corner
+title:
+  en: Lemon wall, purple door and linen in hard afternoon sun
+  zh: 柠檬黄墙、紫色木门和亚麻布，午后硬光
+model: Seedream 5.5
+mode: text-to-image
+category: realism
+tags:
+- seedream
+- street-photography
+- complementary-colors
+- hard-shadow
+- 3-4-ratio
+source:
+  name: 'ByteDance Seed: Seedream 5.5'
+  url: https://seed.bytedance.com/en/seedream5_5
+  credit: ByteDance Seed
+  captured: '2026-11-11'
+  posted: '2026-11-09'
+notes:
+  en: The prompt sets the ratio first, then builds the frame from flat colour blocks and ends by listing the textures the hard light should reveal, from plaster to rust to petals.
+  zh: 提示词先定画幅，再用几块平涂的颜色搭出构图，最后列出硬光要照出的质感，从墙灰到铁锈再到花瓣。
+prompt: |
+  A vertical 3:4 street photograph of a southern European corner. A lemon-yellow limewashed wall, an old deep-purple wooden door and hanging royal-purple linen form a bold geometric composition. Golden flowers fill a weathered metal bucket at the lower right. Strong afternoon sunlight casts crisp shadows, revealing textured plaster, fabric folds, rust and layered petals in vivid complementary purple and yellow.

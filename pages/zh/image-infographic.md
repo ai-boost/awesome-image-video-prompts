@@ -1,6 +1,6 @@
 # 信息图与幻灯片
 
-[返回目录](../../README_zh.md) · 全部 93 条
+[返回目录](../../README_zh.md) · 全部 95 条
 
 <a id="gpt-image-encyclopedia-infographic-topic-template"></a>
 ### 詹姆斯韦伯望远镜百科信息图卡片
@@ -4496,6 +4496,44 @@ Tom Ford：
 
 ———
 品牌：YSL
+```
+
+</details>
+
+<a id="seedream-5-5-blue-morpho-butterfly-bilingual-infographic"></a>
+### 蓝闪蝶中英双语信息图
+
+<a href="https://seed.bytedance.com/en/seedream5_5"><img src="../../previews/seedream-5-5-blue-morpho-butterfly-bilingual-infographic.jpg" width="360"></a>
+
+八个指名的细节模块和一行页脚说明，让这张图成了中文小字的考题，字节在博客里正是用它展示笔画多的字也能写清楚。
+
+Seedream 5.5 · 文生图 · 出处: [ByteDance Seed: Seedream 5.5](https://seed.bytedance.com/en/seedream5_5)
+
+[`seedream`](tags.md#tag-seedream) [`infographic`](tags.md#tag-infographic) [`bilingual-text`](tags.md#tag-bilingual-text) [`macro`](tags.md#tag-macro) [`nature`](tags.md#tag-nature)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A horizontal natural-history infographic titled “蓝闪蝶：一只蝴蝶的微观宇宙”, with the English heading “BLUE MORPHO・A CLOSER LOOK”. A large blue morpho spreads its wings against a black background, surrounded by eight macro-detail modules: antennae, structural color, wing margin, proboscis, compound eye, ventral wing, wing venation and wing scales. Pair Chinese explanations with English terms and observation notes. Preserve legible small text and fine wing textures, with a footer stating that enlarged details are illustrative and not to scale.
+```
+
+</details>
+
+<a id="seedream-5-5-from-seed-to-salad-infographic"></a>
+### FROM SEED TO SALAD 六步种菜信息图
+
+<a href="https://seed.bytedance.com/en/seedream5_5"><img src="../../previews/seedream-5-5-from-seed-to-salad-infographic.jpg" width="360"></a>
+
+六个阶段的名字按顺序给出，提示词还数了箭头，六步配五个，模型就得把阅读顺序也画对。
+
+Seedream 5.5 · 文生图 · 出处: [ByteDance Seed: Seedream 5.5](https://seed.bytedance.com/en/seedream5_5)
+
+[`seedream`](tags.md#tag-seedream) [`infographic`](tags.md#tag-infographic) [`process-diagram`](tags.md#tag-process-diagram) [`arrows`](tags.md#tag-arrows) [`small-text`](tags.md#tag-small-text)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create an illustrated infographic poster titled “FROM SEED TO SALAD” on warm-white paper with a handmade print texture. One continuous path snakes across three tiers, linking six numbered stages in order: SOW, SPROUT, GROW, TEND, HARVEST and SHARE. Five correctly directed arrows connect the sequence. Pair miniature gardening scenes and English descriptions with each stage, keeping the reading order clear, lettering legible and colors soft yet varied.
 ```
 
 </details>

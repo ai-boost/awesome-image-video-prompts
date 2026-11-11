@@ -1,6 +1,6 @@
 # Infographics and slides
 
-[Back to the list](../../README.md) · All 93 entries
+[Back to the list](../../README.md) · All 95 entries
 
 <a id="gpt-image-encyclopedia-infographic-topic-template"></a>
 ### Encyclopedia infographic card of the James Webb Telescope
@@ -4496,6 +4496,44 @@ Tom Ford：
 
 ———
 品牌：YSL
+```
+
+</details>
+
+<a id="seedream-5-5-blue-morpho-butterfly-bilingual-infographic"></a>
+### Blue morpho butterfly infographic in Chinese and English
+
+<a href="https://seed.bytedance.com/en/seedream5_5"><img src="../../previews/seedream-5-5-blue-morpho-butterfly-bilingual-infographic.jpg" width="360"></a>
+
+Eight named detail modules and a footer note make this a test of small Chinese text, the case ByteDance uses in its blog to show clearer characters with many strokes.
+
+Seedream 5.5 · Text-to-image · Source: [ByteDance Seed: Seedream 5.5](https://seed.bytedance.com/en/seedream5_5)
+
+[`seedream`](tags.md#tag-seedream) [`infographic`](tags.md#tag-infographic) [`bilingual-text`](tags.md#tag-bilingual-text) [`macro`](tags.md#tag-macro) [`nature`](tags.md#tag-nature)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A horizontal natural-history infographic titled “蓝闪蝶：一只蝴蝶的微观宇宙”, with the English heading “BLUE MORPHO・A CLOSER LOOK”. A large blue morpho spreads its wings against a black background, surrounded by eight macro-detail modules: antennae, structural color, wing margin, proboscis, compound eye, ventral wing, wing venation and wing scales. Pair Chinese explanations with English terms and observation notes. Preserve legible small text and fine wing textures, with a footer stating that enlarged details are illustrative and not to scale.
+```
+
+</details>
+
+<a id="seedream-5-5-from-seed-to-salad-infographic"></a>
+### FROM SEED TO SALAD six stage garden infographic
+
+<a href="https://seed.bytedance.com/en/seedream5_5"><img src="../../previews/seedream-5-5-from-seed-to-salad-infographic.jpg" width="360"></a>
+
+The six stage names are given in order and the prompt counts the arrows, five for six stages, so the model has to keep the reading path correct as well as pretty.
+
+Seedream 5.5 · Text-to-image · Source: [ByteDance Seed: Seedream 5.5](https://seed.bytedance.com/en/seedream5_5)
+
+[`seedream`](tags.md#tag-seedream) [`infographic`](tags.md#tag-infographic) [`process-diagram`](tags.md#tag-process-diagram) [`arrows`](tags.md#tag-arrows) [`small-text`](tags.md#tag-small-text)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create an illustrated infographic poster titled “FROM SEED TO SALAD” on warm-white paper with a handmade print texture. One continuous path snakes across three tiers, linking six numbered stages in order: SOW, SPROUT, GROW, TEND, HARVEST and SHARE. Five correctly directed arrows connect the sequence. Pair miniature gardening scenes and English descriptions with each stage, keeping the reading order clear, lettering legible and colors soft yet varied.
 ```
 
 </details>

@@ -1,0 +1,24 @@
+id: seedream-5-5-from-seed-to-salad-infographic
+title:
+  en: FROM SEED TO SALAD six stage garden infographic
+  zh: FROM SEED TO SALAD 六步种菜信息图
+model: Seedream 5.5
+mode: text-to-image
+category: infographic
+tags:
+- seedream
+- infographic
+- process-diagram
+- arrows
+- small-text
+source:
+  name: 'ByteDance Seed: Seedream 5.5'
+  url: https://seed.bytedance.com/en/seedream5_5
+  credit: ByteDance Seed
+  captured: '2026-11-11'
+  posted: '2026-11-09'
+notes:
+  en: The six stage names are given in order and the prompt counts the arrows, five for six stages, so the model has to keep the reading path correct as well as pretty.
+  zh: 六个阶段的名字按顺序给出，提示词还数了箭头，六步配五个，模型就得把阅读顺序也画对。
+prompt: |
+  Create an illustrated infographic poster titled “FROM SEED TO SALAD” on warm-white paper with a handmade print texture. One continuous path snakes across three tiers, linking six numbered stages in order: SOW, SPROUT, GROW, TEND, HARVEST and SHARE. Five correctly directed arrows connect the sequence. Pair miniature gardening scenes and English descriptions with each stage, keeping the reading order clear, lettering legible and colors soft yet varied.

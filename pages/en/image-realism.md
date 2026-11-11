@@ -1,6 +1,6 @@
 # Photo realism
 
-[Back to the list](../../README.md) · All 126 entries
+[Back to the list](../../README.md) · All 133 entries
 
 <a id="gpt-image-coca-cola-tanker-leak-mentos-truck-dashcam"></a>
 ### Coca Cola tanker leaking beside Mentos truck
@@ -4396,6 +4396,139 @@ GPT Image 2.5 · Text-to-image · Source: [@ImagineArt_X on X](https://x.com/Ima
 
 ```text
 a cork notice board outside a Welsh village post office, overcast light, seven pinned items. A choral society flyer, a lost cat poster on yellow paper, a handwritten piano card, a bus timetable with four times, a sheepdog photo, tear off tabs, and one blank white card.
+```
+
+</details>
+
+<a id="seedream-5-5-donkey-fence-gap-ultra-wide"></a>
+### Donkey peering through a fence gap, ultra wide close-up
+
+<a href="https://seed.bytedance.com/en/seedream5_5"><img src="../../previews/seedream-5-5-donkey-fence-gap-ultra-wide.jpg" width="360"></a>
+
+An ultra wide lens held close exaggerates the muzzle and shrinks the ears, and the prompt says where to focus, so fine hair and whiskers get the sharpness.
+
+Seedream 5.5 · Text-to-image · Source: [ByteDance Seed: Seedream 5.5](https://seed.bytedance.com/en/seedream5_5)
+
+[`seedream`](tags.md#tag-seedream) [`animal`](tags.md#tag-animal) [`ultra-wide-angle`](tags.md#tag-ultra-wide-angle) [`close-up`](tags.md#tag-close-up) [`fur-texture`](tags.md#tag-fur-texture)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A horizontal ultra-wide-angle photograph of a curious gray-brown donkey peering through a vertical gap in a weathered wooden fence. Its broad muzzle nearly touches the lens, while its eyes and long ears recede in exaggerated close-up perspective. Focus on the muzzle’s fine hair, whiskers and skin texture, with softly blurred fence boards, blue sky and grass beyond. Natural daylight creates a playful candid moment.
+```
+
+</details>
+
+<a id="seedream-5-5-european-bistro-diners-candid-evening"></a>
+### Two older diners in a European bistro on a summer evening
+
+<a href="https://seed.bytedance.com/en/seedream5_5"><img src="../../previews/seedream-5-5-european-bistro-diners-candid-evening.jpg" width="360"></a>
+
+Small signs of use, breadcrumbs and worn furniture, plus slight underexposure, high ISO grain and a foreground object in the way, push the image toward an unplanned snapshot.
+
+Seedream 5.5 · Text-to-image · Source: [ByteDance Seed: Seedream 5.5](https://seed.bytedance.com/en/seedream5_5)
+
+[`seedream`](tags.md#tag-seedream) [`candid`](tags.md#tag-candid) [`restaurant`](tags.md#tag-restaurant) [`high-iso-grain`](tags.md#tag-high-iso-grain) [`mixed-light`](tags.md#tag-mixed-light)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A candid horizontal snapshot inside a neighborhood bistro in Europe on a summer evening. Two older diners eat naturally at a table covered with cream linen, unaware of the camera. Glasses, cutlery, breadcrumbs and worn wooden furniture show everyday use. Warm pendant lights mix with traces of cool evening light. Slight underexposure, subtle high-ISO grain and foreground occlusion create an intimate, spontaneous atmosphere.
+```
+
+</details>
+
+<a id="seedream-5-5-lemon-wall-purple-door-street-corner"></a>
+### Lemon wall, purple door and linen in hard afternoon sun
+
+<a href="https://seed.bytedance.com/en/seedream5_5"><img src="../../previews/seedream-5-5-lemon-wall-purple-door-street-corner.jpg" width="360"></a>
+
+The prompt sets the ratio first, then builds the frame from flat colour blocks and ends by listing the textures the hard light should reveal, from plaster to rust to petals.
+
+Seedream 5.5 · Text-to-image · Source: [ByteDance Seed: Seedream 5.5](https://seed.bytedance.com/en/seedream5_5)
+
+[`seedream`](tags.md#tag-seedream) [`street-photography`](tags.md#tag-street-photography) [`complementary-colors`](tags.md#tag-complementary-colors) [`hard-shadow`](tags.md#tag-hard-shadow) [`3-4-ratio`](tags.md#tag-3-4-ratio)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A vertical 3:4 street photograph of a southern European corner. A lemon-yellow limewashed wall, an old deep-purple wooden door and hanging royal-purple linen form a bold geometric composition. Golden flowers fill a weathered metal bucket at the lower right. Strong afternoon sunlight casts crisp shadows, revealing textured plaster, fabric folds, rust and layered petals in vivid complementary purple and yellow.
+```
+
+</details>
+
+<a id="seedream-5-5-rain-puddle-golden-building-reflection"></a>
+### Golden building reflected in puddles after rain
+
+<a href="https://seed.bytedance.com/en/seedream5_5"><img src="../../previews/seedream-5-5-rain-puddle-golden-building-reflection.jpg" width="360"></a>
+
+The building appears only as broken reflections, and the last line says what stays out of frame. The model has to render the scene through water, stone edges and ripples.
+
+Seedream 5.5 · Text-to-image · Source: [ByteDance Seed: Seedream 5.5](https://seed.bytedance.com/en/seedream5_5)
+
+[`seedream`](tags.md#tag-seedream) [`reflection`](tags.md#tag-reflection) [`after-rain`](tags.md#tag-after-rain) [`low-angle`](tags.md#tag-low-angle) [`3-4-ratio`](tags.md#tag-3-4-ratio)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A vertical 3:4 street photograph after rain, taken from a low angle looking down at wet paving stones and irregular puddles. Reflections of an old building’s golden carvings, window frames and colonnades are fragmented by exposed stones, puddle edges and ripples. Warm golden light contrasts with deep-blue reflections, preserving worn joints and wet surface textures. No full building, people or vehicles appear.
+```
+
+</details>
+
+<a id="seedream-5-5-subway-platform-commuters-motion-blur"></a>
+### Commuters streaming along a subway platform
+
+<a href="https://seed.bytedance.com/en/seedream5_5"><img src="../../previews/seedream-5-5-subway-platform-commuters-motion-blur.jpg" width="360"></a>
+
+Central perspective with lines that recede to one point gives structure, and motion blur on the crowd gives speed, while the last clause keeps detail in both highlights and shadows.
+
+Seedream 5.5 · Text-to-image · Source: [ByteDance Seed: Seedream 5.5](https://seed.bytedance.com/en/seedream5_5)
+
+[`seedream`](tags.md#tag-seedream) [`subway`](tags.md#tag-subway) [`motion-blur`](tags.md#tag-motion-blur) [`central-perspective`](tags.md#tag-central-perspective) [`crowd`](tags.md#tag-crowd)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Photograph a busy modern city subway platform filled with Asian commuters walking briskly in orderly flows. Use central perspective, with the platform, yellow safety lines and overhead lights receding into the distance. Combine motion blur, soft diffuse light and a subtle glow while retaining highlight and shadow detail to convey the energy of urban life.
+```
+
+</details>
+
+<a id="seedream-5-5-water-droplets-spell-seedream-pool"></a>
+### Water droplets lifted from a tiny pool spell seedream
+
+<a href="https://seed.bytedance.com/en/seedream5_5"><img src="../../previews/seedream-5-5-water-droplets-spell-seedream-pool.jpg" width="360"></a>
+
+A short prompt works here because one surreal idea carries the image: letters made of water. Vivid colour and a film look are the only style notes.
+
+Seedream 5.5 · Text-to-image · Source: [ByteDance Seed: Seedream 5.5](https://seed.bytedance.com/en/seedream5_5)
+
+[`seedream`](tags.md#tag-seedream) [`surreal`](tags.md#tag-surreal) [`water`](tags.md#tag-water) [`lettering`](tags.md#tag-lettering) [`summer`](tags.md#tag-summer)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A hand lifts a string of water droplets from a miniature swimming pool. The droplets spell “seedream” vertically. Surreal summer photography with vivid colors and a film-like texture.
+```
+
+</details>
+
+<a id="seedream-5-5-white-cat-bar-flash-film"></a>
+### White cat among bar bottles in flash film light
+
+<a href="https://seed.bytedance.com/en/seedream5_5"><img src="../../previews/seedream-5-5-white-cat-bar-flash-film.jpg" width="360"></a>
+
+A low angle, a tilted frame, on-camera flash and a named film stock give the model four concrete photographic choices, so the cat reads as a real snapshot with hard highlights and grain.
+
+Seedream 5.5 · Text-to-image · Source: [ByteDance Seed: Seedream 5.5](https://seed.bytedance.com/en/seedream5_5)
+
+[`seedream`](tags.md#tag-seedream) [`cat`](tags.md#tag-cat) [`flash-photography`](tags.md#tag-flash-photography) [`film-grain`](tags.md#tag-film-grain) [`night-bar`](tags.md#tag-night-bar)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A white cat sits elegantly among bottles and glasses in a bar at night. Shoot from a low angle with a tilted composition, using flash, Fujifilm Provia colors and film grain. Capture dappled light, bright highlights and crisp detail for a vintage photographic feel.
 ```
 
 </details>

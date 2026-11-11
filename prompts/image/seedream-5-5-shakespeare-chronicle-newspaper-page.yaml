@@ -1,0 +1,24 @@
+id: seedream-5-5-shakespeare-chronicle-newspaper-page
+title:
+  en: Shakespeare literary newspaper with seven short articles
+  zh: 莎士比亚文学报，七篇短文环绕插图
+model: Seedream 5.5
+mode: text-to-image
+category: poster
+tags:
+- seedream
+- newspaper
+- small-text
+- engraving
+- editorial-layout
+source:
+  name: 'ByteDance Seed: Seedream 5.5'
+  url: https://seed.bytedance.com/en/seedream5_5
+  credit: ByteDance Seed
+  captured: '2026-11-11'
+  posted: '2026-11-09'
+notes:
+  en: The masthead and headline are given word for word, and the page asks for seven short English articles in legible small type. Dense small text is one of the three upgrades ByteDance lists for 5.5.
+  zh: 报头和大标题逐字给出，版面要求七篇英文短文，小字清晰可读。密集小字是字节为 5.5 列出的三项升级之一。
+prompt: |
+  Design a landscape literary newspaper with the masthead “THE SHAKESPEARE CHRONICLE” and the headline “WILLIAM SHAKESPEARE”. On warm ivory paper, illustrate Shakespeare and the Globe Theatre in black engraving, with muted blue clouds and waves weaving through the page. Arrange seven short articles in English around the illustrations, using bold serif headings and legible small type.

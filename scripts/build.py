@@ -14,7 +14,8 @@ import yaml
 MODELS = ["Wan 3.0", "MiniMax H3", "Seedance 2.5", "Gemini Omni Flash", "Kling 4.0", "Kling 3.0", "Veo 3.1", "Veo 3"]
 # Models with their own page on agentcraft.dev (path under /prompts/), listed under "By model" with counts from the data.
 MODEL_PAGES = {"Seedance 2.5": "video/seedance-2-5", "MiniMax H3": "video/minimax-h3", "Wan 3.0": "video/wan-3-0",
-               "Kling 4.0": "video/kling-4-0", "GPT Image 2.6": "image/gpt-image-2-6", "Nano Banana 2.1": "image/nano-banana-2-1"}
+               "Kling 4.0": "video/kling-4-0", "GPT Image 2.6": "image/gpt-image-2-6", "Nano Banana 2.1": "image/nano-banana-2-1",
+               "Seedream 5.5": "image/seedream-5-5"}
 # Video sections by type, in display order. The model shows on every entry.
 VIDEO_CATEGORIES = {
     "cinematic": {"en": "Cinematic scenes and short films", "zh": "电影感场景与短片"},

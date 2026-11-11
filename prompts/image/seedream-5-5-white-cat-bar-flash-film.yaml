@@ -1,0 +1,24 @@
+id: seedream-5-5-white-cat-bar-flash-film
+title:
+  en: White cat among bar bottles in flash film light
+  zh: 夜晚酒吧瓶罐间的白猫，闪光灯胶片感
+model: Seedream 5.5
+mode: text-to-image
+category: realism
+tags:
+- seedream
+- cat
+- flash-photography
+- film-grain
+- night-bar
+source:
+  name: 'ByteDance Seed: Seedream 5.5'
+  url: https://seed.bytedance.com/en/seedream5_5
+  credit: ByteDance Seed
+  captured: '2026-11-11'
+  posted: '2026-11-09'
+notes:
+  en: A low angle, a tilted frame, on-camera flash and a named film stock give the model four concrete photographic choices, so the cat reads as a real snapshot with hard highlights and grain.
+  zh: 低机位、倾斜构图、机顶闪光灯和指定胶片色彩，给了模型四个具体的拍摄决定，猫就像一张真实抓拍，高光硬朗，颗粒明显。
+prompt: |
+  A white cat sits elegantly among bottles and glasses in a bar at night. Shoot from a low angle with a tilted composition, using flash, Fujifilm Provia colors and film grain. Capture dappled light, bright highlights and crisp detail for a vintage photographic feel.

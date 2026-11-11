@@ -1,0 +1,24 @@
+id: seedream-5-5-father-sleeping-baby-sofa-daylight
+title:
+  en: Father holding a sleeping baby on a sofa in window light
+  zh: 窗光下抱着熟睡婴儿躺在沙发上的父亲
+model: Seedream 5.5
+mode: text-to-image
+category: portrait
+tags:
+- seedream
+- documentary
+- skin-texture
+- window-light
+- family
+source:
+  name: 'ByteDance Seed: Seedream 5.5'
+  url: https://seed.bytedance.com/en/seedream5_5
+  credit: ByteDance Seed
+  captured: '2026-11-11'
+  posted: '2026-11-09'
+notes:
+  en: 'Each fabric gets a colour and a texture, and the light gets a direction and a warmth. That is the detail Seedream 5.5 is tuned for: skin and cloth that stay readable in soft shadow.'
+  zh: 每种布料都写了颜色和质地，光线写了方向和冷暖。这正是 Seedream 5.5 主打的细节：柔和阴影里，皮肤和布料依然清楚。
+prompt: |
+  A warm documentary photograph of a young father reclining on a dark purple-gray fabric sofa, holding a sleeping baby. Cream knitted cushions and a mustard-yellow blanket show soft, tactile fabric textures. Warm golden daylight enters through a window on the right. Relaxed poses, natural skin tones, gentle shadows and film grain capture a quiet, intimate afternoon.

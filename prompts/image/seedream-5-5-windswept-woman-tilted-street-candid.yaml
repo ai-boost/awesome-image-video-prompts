@@ -1,0 +1,24 @@
+id: seedream-5-5-windswept-woman-tilted-street-candid
+title:
+  en: Windswept woman on her phone in a tilted street frame
+  zh: 大风中低头看手机的女子，整幅画面倾斜
+model: Seedream 5.5
+mode: text-to-image
+category: portrait
+tags:
+- seedream
+- candid
+- street-photography
+- dutch-angle
+- wind
+source:
+  name: 'ByteDance Seed: Seedream 5.5'
+  url: https://seed.bytedance.com/en/seedream5_5
+  credit: ByteDance Seed
+  captured: '2026-11-11'
+  posted: '2026-11-09'
+notes:
+  en: Naming the tilt as 25 degrees clockwise and asking for consistent perspective across the figure, buildings and lamppost keeps the whole scene rotated together, which is how a hurried real photo looks.
+  zh: 把倾斜写成顺时针约 25 度，并要求人物、楼房和路灯的透视一致，整个画面就一起转动，像一张匆忙按下快门的真实照片。
+prompt: |
+  A candid horizontal street photograph of a long-haired woman in a burgundy top and light brown jacket looking down at her phone. Strong wind sweeps her hair across her sunglasses and face. The entire frame tilts about 25 degrees clockwise, with consistent perspective across the figure, buildings, lamppost and pavement. Natural clothing folds, hurried framing and asymmetric cropping create an unposed everyday moment.

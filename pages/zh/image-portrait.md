@@ -1,6 +1,6 @@
 # 人像
 
-[返回目录](../../README_zh.md) · 全部 278 条 · **1** · [2](image-portrait-2.md) · [3](image-portrait-3.md)
+[返回目录](../../README_zh.md) · 全部 280 条 · **1** · [2](image-portrait-2.md) · [3](image-portrait-3.md)
 
 <a id="chatgpt-bw-editorial-portrait-hand-on-chin"></a>
 ### 黑白肖像，男子手托下巴

@@ -1,6 +1,6 @@
 # Posters and editorial layouts
 
-[Back to the list](../../README.md) · All 207 entries · **1** · [2](image-poster-2.md)
+[Back to the list](../../README.md) · All 209 entries · **1** · [2](image-poster-2.md)
 
 <a id="gpt-image-flat-vector-city-travel-poster-template"></a>
 ### Flat vector travel poster template for any city

@@ -1,6 +1,6 @@
 # 角色与手办
 
-[返回目录](../../README_zh.md) · 全部 110 条
+[返回目录](../../README_zh.md) · 全部 111 条
 
 <a id="gpt-image-tanjiro-pixel-sprite-sheet-water-attack"></a>
 ### 炭治郎十六帧像素精灵图与水之呼吸攻击
@@ -4299,6 +4299,25 @@ GPT Image 2 · 上传图改图 · 出处: [@Kashberg_0 on X](https://x.com/Kashb
 
 ```text
 I am “TAURUS.” Create a poster inspired by Yumi’s Cells with the same soft, aesthetic, slice-of-life vibe and background style, while fully reflecting the Taurus zodiac theme in the design. The subject’s face must remain completely unchanged and untouched. Surround the subject with multiple small, raw yet realistic cute chibi-style mini 3D versions of the subject, designed like expressive “cells” with oversized heads, glossy high-detail finishes, and playful emotions. Each mini character should reflect Taurus traits such as calmness, loyalty, comfort-loving energy, stubbornness, sensuality, patience, and love for luxury and food. Show them in different actions: one clinging onto the subject’s arm, one relaxing with a cozy blanket, one reading a book peacefully, one drinking coffee or tea, one holding snacks or dessert, one lying down using a phone, one refusing to move with a stubborn expression, one looking sleepy and unbothered, and one with soft messy “just woke up” energy. Add playful hand-drawn doodles interacting directly with the subject and chibi characters—outlining poses, sketching comfy cushions, steam from drinks, tiny flowers, sparkle details, and calm motion accents to enhance storytelling. Use a clean aesthetic composition, white sticker outlines, soft pastel sage green, cream, beige, dusty pink, and warm earthy tones, high-detail glossy 3D chibi look, cute Korean-inspired design, with a raw natural poster feel in a 9:16 vertical aspect ratio, and the Taurus identity clearly integrated into the overall concept.
+```
+
+</details>
+
+<a id="seedream-5-5-berry-club-blueberry-character-board"></a>
+### BERRY CLUB 蓝莓角色设定板，中英双语
+
+<a href="https://seed.bytedance.com/en/seedream5_5"><img src="../../previews/seedream-5-5-berry-club-blueberry-character-board.jpg" width="360"></a>
+
+设定板把要的每一块都列了出来：标题、中文标语、主角、四个变体、三视图、五个表情、六个配件。把数量写清，版面就满而有序。
+
+Seedream 5.5 · 文生图 · 出处: [ByteDance Seed: Seedream 5.5](https://seed.bytedance.com/en/seedream5_5)
+
+[`seedream`](tags.md#tag-seedream) [`character-sheet`](tags.md#tag-character-sheet) [`collectible`](tags.md#tag-collectible) [`bilingual-text`](tags.md#tag-bilingual-text) [`vinyl-toy`](tags.md#tag-vinyl-toy)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Design a vertical blueberry collectible-character board with sky-blue and cream cloud-shaped sections. Use the title “BERRY CLUB” and the Chinese tagline “小小一颗，慢慢快乐”. Feature the main character “莓小蓝” alongside four themed variants: MAIL RUNNER, RAINY DAY, STAR GUARDIAN and BLUEBERRY CHEF. Below, arrange front, side and back views, five expressions and six accessories. Keep consistent character proportions, matte vinyl textures and rounded bilingual typography in a rich, orderly layout.
 ```
 
 </details>

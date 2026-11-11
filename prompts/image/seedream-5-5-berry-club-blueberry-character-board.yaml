@@ -1,0 +1,24 @@
+id: seedream-5-5-berry-club-blueberry-character-board
+title:
+  en: BERRY CLUB blueberry character board in two languages
+  zh: BERRY CLUB 蓝莓角色设定板，中英双语
+model: Seedream 5.5
+mode: text-to-image
+category: character
+tags:
+- seedream
+- character-sheet
+- collectible
+- bilingual-text
+- vinyl-toy
+source:
+  name: 'ByteDance Seed: Seedream 5.5'
+  url: https://seed.bytedance.com/en/seedream5_5
+  credit: ByteDance Seed
+  captured: '2026-11-11'
+  posted: '2026-11-09'
+notes:
+  en: 'The board lists every block it needs: title, Chinese tagline, a main character, four variants, three views, five expressions and six accessories. Counting the parts keeps the layout full and orderly.'
+  zh: 设定板把要的每一块都列了出来：标题、中文标语、主角、四个变体、三视图、五个表情、六个配件。把数量写清，版面就满而有序。
+prompt: |
+  Design a vertical blueberry collectible-character board with sky-blue and cream cloud-shaped sections. Use the title “BERRY CLUB” and the Chinese tagline “小小一颗，慢慢快乐”. Feature the main character “莓小蓝” alongside four themed variants: MAIL RUNNER, RAINY DAY, STAR GUARDIAN and BLUEBERRY CHEF. Below, arrange front, side and back views, five expressions and six accessories. Keep consistent character proportions, matte vinyl textures and rounded bilingual typography in a rich, orderly layout.

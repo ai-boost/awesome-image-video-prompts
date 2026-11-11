@@ -1,0 +1,24 @@
+id: seedream-5-5-rain-puddle-golden-building-reflection
+title:
+  en: Golden building reflected in puddles after rain
+  zh: 雨后水洼里倒映的金色建筑
+model: Seedream 5.5
+mode: text-to-image
+category: realism
+tags:
+- seedream
+- reflection
+- after-rain
+- low-angle
+- 3-4-ratio
+source:
+  name: 'ByteDance Seed: Seedream 5.5'
+  url: https://seed.bytedance.com/en/seedream5_5
+  credit: ByteDance Seed
+  captured: '2026-11-11'
+  posted: '2026-11-09'
+notes:
+  en: The building appears only as broken reflections, and the last line says what stays out of frame. The model has to render the scene through water, stone edges and ripples.
+  zh: 建筑只以破碎的倒影出现，最后一句写明画面里只留哪些东西。模型只能透过水面、石缝和涟漪去画这个场景。
+prompt: |
+  A vertical 3:4 street photograph after rain, taken from a low angle looking down at wet paving stones and irregular puddles. Reflections of an old building’s golden carvings, window frames and colonnades are fragmented by exposed stones, puddle edges and ripples. Warm golden light contrasts with deep-blue reflections, preserving worn joints and wet surface textures. No full building, people or vehicles appear.

@@ -1,6 +1,6 @@
 # 插画
 
-[返回目录](../../README_zh.md) · 全部 118 条
+[返回目录](../../README_zh.md) · 全部 119 条
 
 <a id="nano-banana-map-screenshot-anime-panorama-shibuya"></a>
 ### 由地图截图生成的涩谷十字路口动漫全景
@@ -3297,6 +3297,25 @@ GPT Image 2 · 文生图 · 出处: [@Arina_hoqe on X](https://x.com/Arina_hoqe/
 
 ```text
 Create a vertical watercolor fashion portrait of a stylish young woman with warm light skin and tousled dark brown hair shown from the chest up against a clean white paper background. She wears a wide-brim woven straw sun hat with visible circular stitch lines and loose sketchy ink outlines, round mirrored sunglasses reflecting a tropical beach scene with palm trees and blue sky, glossy red lipstick, silver hoop earrings, a crisp white button-up shirt, a faded light-blue denim jacket with detailed seams, buttons, chest pockets, and watercolor bleeds, plus a tan leather crossbody strap crossing diagonally over her shoulder. Pose her in a relaxed three-quarter view, head slightly tilted upward and turned to the side as if looking into bright sunlight, with loose strands of hair blowing around her face. Use an elegant mixed-media style: transparent watercolor washes, fine black ink contour lines, expressive splatters, soft skin shading, realistic facial proportions, detailed fabric texture, and airy negative space. Include scattered blue and warm brown paint splashes around the figure, especially near the hat and jacket, while keeping the background mostly white. Make the illustration refined, fashionable, summery, travel-inspired, and high-detail, with no text or watermark.
+```
+
+</details>
+
+<a id="seedream-5-5-cloud-sea-glider-workshop-gouache"></a>
+### 云海滑翔船工坊里的熊、小熊猫和水獭
+
+<a href="https://seed.bytedance.com/en/seedream5_5"><img src="../../previews/seedream-5-5-cloud-sea-glider-workshop-gouache.jpg" width="360"></a>
+
+每个角色只做一件事，镜头写了高度和倾斜，配色是三种指定颜色。画面热闹，依然清楚好读。
+
+Seedream 5.5 · 文生图 · 出处: [ByteDance Seed: Seedream 5.5](https://seed.bytedance.com/en/seedream5_5)
+
+[`seedream`](tags.md#tag-seedream) [`picture-book`](tags.md#tag-picture-book) [`gouache`](tags.md#tag-gouache) [`animals`](tags.md#tag-animals) [`fantasy`](tags.md#tag-fantasy)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A fantasy picture-book illustration with delicate gouache textures, set in a cloud-sea glider workshop. A bear mechanic steadies the mast, a red panda pilot pulls the sail rope from inside the boat, and an otter assistant approaches in the foreground carrying a wooden securing pin. A low, upward-looking view and gently tilted perspective emphasize the bow, triangular sail and tall timber roof. Cream, deep teal and honey-colored wood create a bright, warm scene of teamwork.
 ```
 
 </details>

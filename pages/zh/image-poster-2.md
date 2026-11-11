@@ -1,6 +1,6 @@
 # 海报与编辑排版
 
-[返回目录](../../README_zh.md) · 全部 207 条 · [1](image-poster.md) · **2**
+[返回目录](../../README_zh.md) · 全部 209 条 · [1](image-poster.md) · **2**
 
 <a id="gpt-image-photo-over-paper-sculpture-editorial-poster"></a>
 ### 上半部原图，下半部纸雕拼贴海报
@@ -4028,6 +4028,44 @@ GPT Image 2 · 文生图 · 出处: [@Mrpinecone888 on X](https://x.com/Mrpineco
 
 ```text
 为原创文旅品牌“鹤望武汉”创作一幅高端分层纸雕插画海报，传播命题为“登楼望江，一眼看见武汉的山水骨架”，3:4 竖版。画面使用前景窗口构图，以五至七层厚纹理纸构成蛇山、黄鹤楼、长江、武汉长江大桥与对岸城市天际线；黄鹤楼位于后景山脊，屋檐层叠、金色琉璃瓦与朱红柱体关系准确，中景长江大桥横向延伸，江面两艘小型轮渡尺度克制，不能把晴川阁与黄鹤楼合并。纸张切边利落，统一左上柔光，层间阴影真实，综合色为黛青、暖米白、朱砂红和少量鎏金黄，金色只用于视觉焦点。主标题“登楼见江城”置于右上大片留白区，两行现代宋体；副标题“从蛇山望向长江的壮阔日常”横排于标题下方；品牌名“鹤望武汉”置于左下纸质印章形品牌位，保持现代而非仿古。规范简体中文、无错字漏字，仅使用中文；禁止廉价红金模板、漫天祥云、古装人物、建筑比例失真、塑料材质、厚重发光描边、知名标识、水印与额外文案。
+```
+
+</details>
+
+<a id="seedream-5-5-print-play-graffiti-collage-poster"></a>
+### PRINT PLAY 涂鸦拼贴海报
+
+<a href="https://seed.bytedance.com/en/seedream5_5"><img src="../../previews/seedream-5-5-print-play-graffiti-collage-poster.jpg" width="360"></a>
+
+三种指定颜色、一种纸张质感、逐字的标语和每个元素的位置，把一种松散的风格变成模型能逐句照做的版面。
+
+Seedream 5.5 · 文生图 · 出处: [ByteDance Seed: Seedream 5.5](https://seed.bytedance.com/en/seedream5_5)
+
+[`seedream`](tags.md#tag-seedream) [`graffiti`](tags.md#tag-graffiti) [`collage`](tags.md#tag-collage) [`typography`](tags.md#tag-typography) [`halftone`](tags.md#tag-halftone)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a graffiti collage poster about collaborative street printing, using lime green, aubergine purple and mint over a gray-white photocopied paper texture. Oversized “PRINT PLAY!” lettering overlaps diagonally. A grayscale printmaker at the upper right holds a roller and print sample, with printing tools and handwritten phrases including “MAKE A MARK” and “PASS IT ON” below. Preserve matte halftone ink, fine grain and legible lettering in a layered, asymmetric composition.
+```
+
+</details>
+
+<a id="seedream-5-5-shakespeare-chronicle-newspaper-page"></a>
+### 莎士比亚文学报，七篇短文环绕插图
+
+<a href="https://seed.bytedance.com/en/seedream5_5"><img src="../../previews/seedream-5-5-shakespeare-chronicle-newspaper-page.jpg" width="360"></a>
+
+报头和大标题逐字给出，版面要求七篇英文短文，小字清晰可读。密集小字是字节为 5.5 列出的三项升级之一。
+
+Seedream 5.5 · 文生图 · 出处: [ByteDance Seed: Seedream 5.5](https://seed.bytedance.com/en/seedream5_5)
+
+[`seedream`](tags.md#tag-seedream) [`newspaper`](tags.md#tag-newspaper) [`small-text`](tags.md#tag-small-text) [`engraving`](tags.md#tag-engraving) [`editorial-layout`](tags.md#tag-editorial-layout)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Design a landscape literary newspaper with the masthead “THE SHAKESPEARE CHRONICLE” and the headline “WILLIAM SHAKESPEARE”. On warm ivory paper, illustrate Shakespeare and the Globe Theatre in black engraving, with muted blue clouds and waves weaving through the page. Arrange seven short articles in English around the illustrations, using bold serif headings and legible small type.
 ```
 
 </details>

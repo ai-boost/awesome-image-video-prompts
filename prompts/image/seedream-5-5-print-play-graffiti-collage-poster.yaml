@@ -1,0 +1,24 @@
+id: seedream-5-5-print-play-graffiti-collage-poster
+title:
+  en: PRINT PLAY graffiti collage poster
+  zh: PRINT PLAY 涂鸦拼贴海报
+model: Seedream 5.5
+mode: text-to-image
+category: poster
+tags:
+- seedream
+- graffiti
+- collage
+- typography
+- halftone
+source:
+  name: 'ByteDance Seed: Seedream 5.5'
+  url: https://seed.bytedance.com/en/seedream5_5
+  credit: ByteDance Seed
+  captured: '2026-11-11'
+  posted: '2026-11-09'
+notes:
+  en: Three named colours, a paper texture, the exact lettering and the position of each element turn a loose style into a layout the model can follow line by line.
+  zh: 三种指定颜色、一种纸张质感、逐字的标语和每个元素的位置，把一种松散的风格变成模型能逐句照做的版面。
+prompt: |
+  Create a graffiti collage poster about collaborative street printing, using lime green, aubergine purple and mint over a gray-white photocopied paper texture. Oversized “PRINT PLAY!” lettering overlaps diagonally. A grayscale printmaker at the upper right holds a roller and print sample, with printing tools and handwritten phrases including “MAKE A MARK” and “PASS IT ON” below. Preserve matte halftone ink, fine grain and legible lettering in a layered, asymmetric composition.

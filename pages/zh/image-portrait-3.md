@@ -1,6 +1,6 @@
 # 人像
 
-[返回目录](../../README_zh.md) · 全部 278 条 · [1](image-portrait.md) · [2](image-portrait-2.md) · **3**
+[返回目录](../../README_zh.md) · 全部 280 条 · [1](image-portrait.md) · [2](image-portrait-2.md) · **3**
 
 <a id="gpt-image-phone-screen-face-cover-store-portrait"></a>
 ### 手机屏幕遮住上半脸的商场人像
@@ -388,6 +388,44 @@ GPT Image 2 · 上传图改图 · 出处: [@ElainaNotes on X](https://x.com/Elai
 
 ```text
 Using the provided reference image, redraw it as a polished exaggerated editorial caricature while preserving the original Financial Times-style composition and all key elements. Keep the same seated-at-keyboard pose, the hands reaching toward the keyboard, the white grid-paper background, the red/pink dotted side shapes, the blue dotted rounded rectangle in the upper right, and the same lower-left headline text: Yang Zhilin, the rock star founder behind China’s Moonshot AI. Transform the portrait into a glossy, high-detail digital caricature with an oversized head, fuller cheeks, slightly comical smile, enlarged glasses, stylized black hair, painterly skin texture, and a more satirical magazine-illustration look. Keep the crop tight and vertical, with the face much larger in frame than the reference and the text overlay still readable in large white serif type across the lower third. Maintain the keyboard along the bottom edge and do not add any new objects, logos, watermarks, or extra text.
+```
+
+</details>
+
+<a id="seedream-5-5-father-sleeping-baby-sofa-daylight"></a>
+### 窗光下抱着熟睡婴儿躺在沙发上的父亲
+
+<a href="https://seed.bytedance.com/en/seedream5_5"><img src="../../previews/seedream-5-5-father-sleeping-baby-sofa-daylight.jpg" width="360"></a>
+
+每种布料都写了颜色和质地，光线写了方向和冷暖。这正是 Seedream 5.5 主打的细节：柔和阴影里，皮肤和布料依然清楚。
+
+Seedream 5.5 · 文生图 · 出处: [ByteDance Seed: Seedream 5.5](https://seed.bytedance.com/en/seedream5_5)
+
+[`seedream`](tags.md#tag-seedream) [`documentary`](tags.md#tag-documentary) [`skin-texture`](tags.md#tag-skin-texture) [`window-light`](tags.md#tag-window-light) [`family`](tags.md#tag-family)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A warm documentary photograph of a young father reclining on a dark purple-gray fabric sofa, holding a sleeping baby. Cream knitted cushions and a mustard-yellow blanket show soft, tactile fabric textures. Warm golden daylight enters through a window on the right. Relaxed poses, natural skin tones, gentle shadows and film grain capture a quiet, intimate afternoon.
+```
+
+</details>
+
+<a id="seedream-5-5-windswept-woman-tilted-street-candid"></a>
+### 大风中低头看手机的女子，整幅画面倾斜
+
+<a href="https://seed.bytedance.com/en/seedream5_5"><img src="../../previews/seedream-5-5-windswept-woman-tilted-street-candid.jpg" width="360"></a>
+
+把倾斜写成顺时针约 25 度，并要求人物、楼房和路灯的透视一致，整个画面就一起转动，像一张匆忙按下快门的真实照片。
+
+Seedream 5.5 · 文生图 · 出处: [ByteDance Seed: Seedream 5.5](https://seed.bytedance.com/en/seedream5_5)
+
+[`seedream`](tags.md#tag-seedream) [`candid`](tags.md#tag-candid) [`street-photography`](tags.md#tag-street-photography) [`dutch-angle`](tags.md#tag-dutch-angle) [`wind`](tags.md#tag-wind)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A candid horizontal street photograph of a long-haired woman in a burgundy top and light brown jacket looking down at her phone. Strong wind sweeps her hair across her sunglasses and face. The entire frame tilts about 25 degrees clockwise, with consistent perspective across the figure, buildings, lamppost and pavement. Natural clothing folds, hurried framing and asymmetric cropping create an unposed everyday moment.
 ```
 
 </details>

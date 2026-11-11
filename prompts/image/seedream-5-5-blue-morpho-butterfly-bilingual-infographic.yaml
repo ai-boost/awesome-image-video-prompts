@@ -1,0 +1,24 @@
+id: seedream-5-5-blue-morpho-butterfly-bilingual-infographic
+title:
+  en: Blue morpho butterfly infographic in Chinese and English
+  zh: 蓝闪蝶中英双语信息图
+model: Seedream 5.5
+mode: text-to-image
+category: infographic
+tags:
+- seedream
+- infographic
+- bilingual-text
+- macro
+- nature
+source:
+  name: 'ByteDance Seed: Seedream 5.5'
+  url: https://seed.bytedance.com/en/seedream5_5
+  credit: ByteDance Seed
+  captured: '2026-11-11'
+  posted: '2026-11-09'
+notes:
+  en: Eight named detail modules and a footer note make this a test of small Chinese text, the case ByteDance uses in its blog to show clearer characters with many strokes.
+  zh: 八个指名的细节模块和一行页脚说明，让这张图成了中文小字的考题，字节在博客里正是用它展示笔画多的字也能写清楚。
+prompt: |
+  A horizontal natural-history infographic titled “蓝闪蝶：一只蝴蝶的微观宇宙”, with the English heading “BLUE MORPHO・A CLOSER LOOK”. A large blue morpho spreads its wings against a black background, surrounded by eight macro-detail modules: antennae, structural color, wing margin, proboscis, compound eye, ventral wing, wing venation and wing scales. Pair Chinese explanations with English terms and observation notes. Preserve legible small text and fine wing textures, with a footer stating that enlarged details are illustrative and not to scale.

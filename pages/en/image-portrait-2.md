@@ -1,6 +1,6 @@
 # Portraits
 
-[Back to the list](../../README.md) · All 278 entries · [1](image-portrait.md) · **2** · [3](image-portrait-3.md)
+[Back to the list](../../README.md) · All 280 entries · [1](image-portrait.md) · **2** · [3](image-portrait-3.md)
 
 <a id="nano-banana-burgundy-satin-editorial-portrait"></a>
 ### Editorial portrait in burgundy satin with gold earrings

@@ -1,0 +1,24 @@
+id: seedream-5-5-cloud-sea-glider-workshop-gouache
+title:
+  en: Bear, red panda and otter build a glider above the clouds
+  zh: 云海滑翔船工坊里的熊、小熊猫和水獭
+model: Seedream 5.5
+mode: text-to-image
+category: illustration
+tags:
+- seedream
+- picture-book
+- gouache
+- animals
+- fantasy
+source:
+  name: 'ByteDance Seed: Seedream 5.5'
+  url: https://seed.bytedance.com/en/seedream5_5
+  credit: ByteDance Seed
+  captured: '2026-11-11'
+  posted: '2026-11-09'
+notes:
+  en: Every character gets one action, the camera gets a height and a tilt, and the palette is three named colours. The scene stays busy and still reads clearly.
+  zh: 每个角色只做一件事，镜头写了高度和倾斜，配色是三种指定颜色。画面热闹，依然清楚好读。
+prompt: |
+  A fantasy picture-book illustration with delicate gouache textures, set in a cloud-sea glider workshop. A bear mechanic steadies the mast, a red panda pilot pulls the sail rope from inside the boat, and an otter assistant approaches in the foreground carrying a wooden securing pin. A low, upward-looking view and gently tilted perspective emphasize the bow, triangular sail and tall timber roof. Cream, deep teal and honey-colored wood create a bright, warm scene of teamwork.

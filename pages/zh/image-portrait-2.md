@@ -1,6 +1,6 @@
 # 人像
 
-[返回目录](../../README_zh.md) · 全部 278 条 · [1](image-portrait.md) · **2** · [3](image-portrait-3.md)
+[返回目录](../../README_zh.md) · 全部 280 条 · [1](image-portrait.md) · **2** · [3](image-portrait-3.md)
 
 <a id="gpt-image-halftone-windswept-hair-portrait-ivory-paper"></a>
 ### 象牙纸上的飞发网点肖像

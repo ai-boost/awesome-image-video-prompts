@@ -1,0 +1,24 @@
+id: seedream-5-5-european-bistro-diners-candid-evening
+title:
+  en: Two older diners in a European bistro on a summer evening
+  zh: 夏夜欧洲小馆里用餐的两位老人
+model: Seedream 5.5
+mode: text-to-image
+category: realism
+tags:
+- seedream
+- candid
+- restaurant
+- high-iso-grain
+- mixed-light
+source:
+  name: 'ByteDance Seed: Seedream 5.5'
+  url: https://seed.bytedance.com/en/seedream5_5
+  credit: ByteDance Seed
+  captured: '2026-11-11'
+  posted: '2026-11-09'
+notes:
+  en: Small signs of use, breadcrumbs and worn furniture, plus slight underexposure, high ISO grain and a foreground object in the way, push the image toward an unplanned snapshot.
+  zh: 面包屑、磨旧的桌椅这些使用痕迹，加上略微欠曝、高感光颗粒和前景遮挡，把画面推向一张随手拍下的照片。
+prompt: |
+  A candid horizontal snapshot inside a neighborhood bistro in Europe on a summer evening. Two older diners eat naturally at a table covered with cream linen, unaware of the camera. Glasses, cutlery, breadcrumbs and worn wooden furniture show everyday use. Warm pendant lights mix with traces of cool evening light. Slight underexposure, subtle high-ISO grain and foreground occlusion create an intimate, spontaneous atmosphere.
