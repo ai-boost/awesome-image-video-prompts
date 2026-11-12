@@ -178,12 +178,6 @@ Seedream 5.5 · Edit · Source: [@Mayz1169 on X](https://x.com/Mayz1169/status/2
 <details><summary><b>Prompt</b></summary>
 
 ```text
-try it here 👉
-https://
-renoise.ai/?utm_medium=xc
-om&utm_source=kiki-seedream-5-5
-…
-
 Use @ image as the exact character design: long pale-blonde hair, grey eyes, Slytherin uniform with grey sweater vest, green-and-silver striped tie and black robe with green lining. High-quality anime illustration, upper-body shot of her sitting at a long wooden table in the Hogwarts library at dusk, turning her head toward the viewer with a sly, confident smile. Her hands are out of frame. Warm candlelight from the left lights her face and hair, cool blue twilight comes through the tall arched window behind her, glowing dust in the air, stacks of old books softly blurred in the background. Clean line art, rich soft lighting, detailed hair strands, no text.
 ```
 
