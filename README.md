@@ -16,8 +16,16 @@
 
 > Formerly **Awesome-GPTs**. The original GPTs list lives on in [legacy/awesome-gpts.md](legacy/awesome-gpts.md).
 
+<a id="spotlight"></a>
+## Seedream 5.5
+
+Seedream 5.5 is the newest image model from ByteDance Seed. All 20 of its prompts so far, each with the output and source, are on [agentcraft.dev](https://agentcraft.dev/en/prompts/image/seedream-5-5/), next to [GPT Image 2.6](https://agentcraft.dev/en/prompts/image/gpt-image-2-6/) and [Nano Banana 2.1](https://agentcraft.dev/en/prompts/image/nano-banana-2-1/) for comparison.
+
+<a href="pages/en/image-character.md#seedream-5-5-slytherin-library-smile"><img src="previews/seedream-5-5-slytherin-library-smile.jpg" height="150"></a> <a href="pages/en/image-portrait.md#seedream-5-5-woman-dried-flowers-soviet-bus"><img src="previews/seedream-5-5-woman-dried-flowers-soviet-bus.jpg" height="150"></a> <a href="pages/en/image-infographic.md#seedream-5-5-blue-morpho-butterfly-bilingual-infographic"><img src="previews/seedream-5-5-blue-morpho-butterfly-bilingual-infographic.jpg" height="150"></a> <a href="pages/en/image-poster-2.md#seedream-5-5-shakespeare-chronicle-newspaper-page"><img src="previews/seedream-5-5-shakespeare-chronicle-newspaper-page.jpg" height="150"></a> 
+
 ## Contents
 
+- [Seedream 5.5](#spotlight)
 - [Recently added](#recent)
 - [By model](#bymodel)
 - [Video prompts](#video) (1154 entries)

@@ -16,8 +16,16 @@
 
 > 本仓原名 **Awesome-GPTs**，原来的 GPTs 清单保存在 [legacy/awesome-gpts_zh.md](legacy/awesome-gpts_zh.md)。
 
+<a id="spotlight"></a>
+## Seedream 5.5
+
+Seedream 5.5 是字节 Seed 最新的图片模型。目前收到的 20 条提示词都附成图和出处，见 [agentcraft.dev](https://agentcraft.dev/zh/prompts/image/seedream-5-5/)，可以和 [GPT Image 2.6](https://agentcraft.dev/zh/prompts/image/gpt-image-2-6/)、[Nano Banana 2.1](https://agentcraft.dev/zh/prompts/image/nano-banana-2-1/) 对照着看。
+
+<a href="pages/zh/image-character.md#seedream-5-5-slytherin-library-smile"><img src="previews/seedream-5-5-slytherin-library-smile.jpg" height="150"></a> <a href="pages/zh/image-portrait.md#seedream-5-5-woman-dried-flowers-soviet-bus"><img src="previews/seedream-5-5-woman-dried-flowers-soviet-bus.jpg" height="150"></a> <a href="pages/zh/image-infographic.md#seedream-5-5-blue-morpho-butterfly-bilingual-infographic"><img src="previews/seedream-5-5-blue-morpho-butterfly-bilingual-infographic.jpg" height="150"></a> <a href="pages/zh/image-poster-2.md#seedream-5-5-shakespeare-chronicle-newspaper-page"><img src="previews/seedream-5-5-shakespeare-chronicle-newspaper-page.jpg" height="150"></a> 
+
 ## 目录
 
+- [Seedream 5.5](#spotlight)
 - [最近新增](#recent)
 - [按模型](#bymodel)
 - [视频提示词](#video) (1154 条)

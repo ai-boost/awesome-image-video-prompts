@@ -16,6 +16,9 @@ MODELS = ["Wan 3.0", "MiniMax H3", "Seedance 2.5", "Gemini Omni Flash", "Kling 4
 MODEL_PAGES = {"Seedance 2.5": "video/seedance-2-5", "MiniMax H3": "video/minimax-h3", "Wan 3.0": "video/wan-3-0",
                "Kling 4.0": "video/kling-4-0", "GPT Image 2.6": "image/gpt-image-2-6", "Nano Banana 2.1": "image/nano-banana-2-1",
                "Seedream 5.5": "image/seedream-5-5"}
+# Newest model, shown above the contents with a few of its previews; set to None once it is no longer new.
+SPOTLIGHT = {"model": "Seedream 5.5", "ids": ["seedream-5-5-slytherin-library-smile", "seedream-5-5-woman-dried-flowers-soviet-bus",
+             "seedream-5-5-blue-morpho-butterfly-bilingual-infographic", "seedream-5-5-shakespeare-chronicle-newspaper-page"]}
 # Video sections by type, in display order. The model shows on every entry.
 VIDEO_CATEGORIES = {
     "cinematic": {"en": "Cinematic scenes and short films", "zh": "电影感场景与短片"},
@@ -66,6 +69,8 @@ T = {
         "onsite": "All of this category with previews on [agentcraft.dev]({url})",
         "formerly": "Formerly **Awesome-GPTs**. The original GPTs list lives on in [legacy/awesome-gpts.md](legacy/awesome-gpts.md).",
         "contents": "Contents",
+        "spotlight": "{m} is the newest image model from ByteDance Seed. All {n} of its prompts so far, each with the output and source, "
+                     "are on [agentcraft.dev]({url}), next to [GPT Image 2.6]({gpt}) and [Nano Banana 2.1]({nb}) for comparison.",
         "recent": "Recently added",
         "bymodel": "By model",
         "bymodel_item": "{n} prompts, {g} of them animated GIFs, each with its output and source",
@@ -122,6 +127,8 @@ T = {
         "onsite": "这一类的全部提示词和预览见 [agentcraft.dev]({url})",
         "formerly": "本仓原名 **Awesome-GPTs**，原来的 GPTs 清单保存在 [legacy/awesome-gpts_zh.md](legacy/awesome-gpts_zh.md)。",
         "contents": "目录",
+        "spotlight": "{m} 是字节 Seed 最新的图片模型。目前收到的 {n} 条提示词都附成图和出处，见 [agentcraft.dev]({url})，"
+                     "可以和 [GPT Image 2.6]({gpt})、[Nano Banana 2.1]({nb}) 对照着看。",
         "recent": "最近新增",
         "bymodel": "按模型",
         "bymodel_item": "{n} 条提示词，其中 {g} 条是 GIF 动图，每条附成图和出处",
@@ -291,7 +298,17 @@ def build(lang, videos, images, recipes):
         f'<p>{t["switch"]}</p>', "", f'<p>{t["gallery"]}</p>', "",
         '<p><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a></p>', "",
         "".join(f'<a href="{loc[i]}"><img src="previews/{i}.gif" height="150"></a> ' for i in SHOWCASE if i in loc),
-        "", "</div>", "", f'> {t["formerly"]}', "", f'## {t["contents"]}', "",
+        "", "</div>", "", f'> {t["formerly"]}', "",
+    ]
+    spot = SPOTLIGHT and next((x for x in by_model if x[0] == SPOTLIGHT["model"]), None)
+    if spot:
+        page = lambda m: f'https://agentcraft.dev/{lang}/prompts/{MODEL_PAGES[m]}/'
+        out += ['<a id="spotlight"></a>', f'## {spot[0]}', "",
+                t["spotlight"].format(m=spot[0], n=len(spot[2]), url=page(spot[0]), gpt=page("GPT Image 2.6"), nb=page("Nano Banana 2.1")), "",
+                "".join(f'<a href="{loc[i]}"><img src="previews/{i}.jpg" height="150"></a> ' for i in SPOTLIGHT["ids"] if i in loc), ""]
+    out += [
+        f'## {t["contents"]}', "",
+        *([f'- [{spot[0]}](#spotlight)'] if spot else []),
         f'- [{t["recent"]}](#recent)',
         *([f'- [{t["bymodel"]}](#bymodel)'] if by_model else []),
         f'- [{t["video"]}](#video) ({len(videos)} {t["items"]})',
