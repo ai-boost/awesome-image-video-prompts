@@ -69,7 +69,6 @@ T = {
         "onsite": "All of this category with previews on [agentcraft.dev]({url})",
         "formerly": "Formerly **Awesome-GPTs**. The original GPTs list lives on in [legacy/awesome-gpts.md](legacy/awesome-gpts.md).",
         "contents": "Contents",
-        "sponsor": '<b><a href="https://github.com/ai-boost/awesome-image-video-prompts/issues/new?template=sponsorship.yml">Sponsor this list</a></b> to put your product in front of its readers',
         "spotlight": "{m} is the newest image model from ByteDance Seed. All {n} of its prompts so far, each with the output and source, "
                      "are on [agentcraft.dev]({url}), next to [GPT Image 2.6]({gpt}) and [Nano Banana 2.1]({nb}) for comparison.",
         "recent": "Recently added",
@@ -128,7 +127,6 @@ T = {
         "onsite": "这一类的全部提示词和预览见 [agentcraft.dev]({url})",
         "formerly": "本仓原名 **Awesome-GPTs**，原来的 GPTs 清单保存在 [legacy/awesome-gpts_zh.md](legacy/awesome-gpts_zh.md)。",
         "contents": "目录",
-        "sponsor": '<b><a href="https://github.com/ai-boost/awesome-image-video-prompts/issues/new?template=sponsorship.yml">赞助本清单</a></b>，让你的产品出现在读者面前',
         "spotlight": "{m} 是字节 Seed 最新的图片模型。目前收到的 {n} 条提示词都附成图和出处，见 [agentcraft.dev]({url})，"
                      "可以和 [GPT Image 2.6]({gpt})、[Nano Banana 2.1]({nb}) 对照着看。",
         "recent": "最近新增",
@@ -298,7 +296,7 @@ def build(lang, videos, images, recipes):
     out = [
         '<div align="center">', "", f'<h1>{t["title"]}</h1>', "", f'<p>{t["tagline"]}</p>', "",
         f'<p>{t["switch"]}</p>', "", f'<p>{t["gallery"]}</p>', "",
-        '<p><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a></p>', "", f'<p>{t["sponsor"]}</p>', "",
+        '<p><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a></p>', "",
         "".join(f'<a href="{loc[i]}"><img src="previews/{i}.gif" height="150"></a> ' for i in SHOWCASE if i in loc),
         "", "</div>", "", f'> {t["formerly"]}', "",
     ]
