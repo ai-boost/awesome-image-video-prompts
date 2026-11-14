@@ -4,11 +4,11 @@
 
 <p>主流 AI 视频和图片模型的提示词，拿来就能用。每条都附真实成品和出处链接。另有用 Agent 剪视频的配方。</p>
 
-<p><a href="README.md">English</a> · <b>简体中文</b> · <a href="mailto:noahbenjamin1994@gmail.com?subject=Sponsorship%3A%20awesome-image-video-prompts">赞助</a></p>
+<p><a href="README.md">English</a> · <b>简体中文</b></p>
 
 <p>在 <a href="https://agentcraft.dev/zh/prompts/">agentcraft.dev</a> 按分类浏览全部提示词，带预览，可搜索、筛选、一键复制</p>
 
-<p><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a></p>
+<p><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a> <a href="mailto:noahbenjamin1994@gmail.com?subject=Sponsorship%3A%20awesome-image-video-prompts"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?logo=githubsponsors&logoColor=white" alt="Sponsor"></a></p>
 
 <a href="#seedance-seoul-subway-revenge"><img src="previews/seedance-seoul-subway-revenge.gif" height="150"></a> <a href="pages/zh/video-scifi-fantasy.md#wan-time-space-train"><img src="previews/wan-time-space-train.gif" height="150"></a> <a href="pages/zh/video-scifi-fantasy.md#h3-starship-hyperspace-jump"><img src="previews/h3-starship-hyperspace-jump.gif" height="150"></a> <a href="pages/zh/video-vfx.md#omni-four-style-progression"><img src="previews/omni-four-style-progression.gif" height="150"></a> <a href="pages/zh/video-cinematic.md#kling-moonlit-garden-run"><img src="previews/kling-moonlit-garden-run.gif" height="150"></a> <a href="pages/zh/video-action-3.md#veo-off-road-rally"><img src="previews/veo-off-road-rally.gif" height="150"></a> 
 
