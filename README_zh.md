@@ -10,6 +10,8 @@
 
 <p><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a></p>
 
+<p><b><a href="mailto:noahbenjamin1994@gmail.com?subject=Sponsorship%3A%20awesome-image-video-prompts">赞助本清单</a></b> · 你的 logo 和一句介绍放在本 README 顶部。每月 $150 起，价格可谈。</p>
+
 <a href="#seedance-seoul-subway-revenge"><img src="previews/seedance-seoul-subway-revenge.gif" height="150"></a> <a href="pages/zh/video-scifi-fantasy.md#wan-time-space-train"><img src="previews/wan-time-space-train.gif" height="150"></a> <a href="pages/zh/video-scifi-fantasy.md#h3-starship-hyperspace-jump"><img src="previews/h3-starship-hyperspace-jump.gif" height="150"></a> <a href="pages/zh/video-vfx.md#omni-four-style-progression"><img src="previews/omni-four-style-progression.gif" height="150"></a> <a href="pages/zh/video-cinematic.md#kling-moonlit-garden-run"><img src="previews/kling-moonlit-garden-run.gif" height="150"></a> <a href="pages/zh/video-action-3.md#veo-off-road-rally"><img src="previews/veo-off-road-rally.gif" height="150"></a> 
 
 </div>
