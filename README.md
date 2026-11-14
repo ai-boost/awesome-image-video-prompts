@@ -4,13 +4,11 @@
 
 <p>Copy-ready prompts for the leading AI video and image models, each with its real output and a link to where it came from. Plus agent recipes for editing video.</p>
 
-<p><b>English</b> · <a href="README_zh.md">简体中文</a></p>
+<p><b>English</b> · <a href="README_zh.md">简体中文</a> · <a href="mailto:noahbenjamin1994@gmail.com?subject=Sponsorship%3A%20awesome-image-video-prompts">Sponsor</a></p>
 
 <p>Browse every prompt by category with previews on <a href="https://agentcraft.dev/en/prompts/">agentcraft.dev</a>, and search, filter and copy it there</p>
 
 <p><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a></p>
-
-<p><b><a href="mailto:noahbenjamin1994@gmail.com?subject=Sponsorship%3A%20awesome-image-video-prompts">Sponsor this list</a></b> · Your logo and one line at the top of this README. From $150/month, open to discussion.</p>
 
 <a href="#seedance-seoul-subway-revenge"><img src="previews/seedance-seoul-subway-revenge.gif" height="150"></a> <a href="pages/en/video-scifi-fantasy.md#wan-time-space-train"><img src="previews/wan-time-space-train.gif" height="150"></a> <a href="pages/en/video-scifi-fantasy.md#h3-starship-hyperspace-jump"><img src="previews/h3-starship-hyperspace-jump.gif" height="150"></a> <a href="pages/en/video-vfx.md#omni-four-style-progression"><img src="previews/omni-four-style-progression.gif" height="150"></a> <a href="pages/en/video-cinematic.md#kling-moonlit-garden-run"><img src="previews/kling-moonlit-garden-run.gif" height="150"></a> <a href="pages/en/video-action-3.md#veo-off-road-rally"><img src="previews/veo-off-road-rally.gif" height="150"></a> 
 
