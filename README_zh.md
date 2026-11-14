@@ -19,9 +19,283 @@
 <a id="spotlight"></a>
 ## Seedream 5.5
 
-Seedream 5.5 是字节 Seed 最新的图片模型。目前收到的 20 条提示词都附成图和出处，见 [agentcraft.dev](https://agentcraft.dev/zh/prompts/image/seedream-5-5/)，可以和 [GPT Image 2.6](https://agentcraft.dev/zh/prompts/image/gpt-image-2-6/)、[Nano Banana 2.1](https://agentcraft.dev/zh/prompts/image/nano-banana-2-1/) 对照着看。
+Seedream 5.5 是字节 Seed 最新的图片模型。下面是目前收到的全部 20 条提示词，每条附成图、完整提示词和出处。
 
-<a href="pages/zh/image-character.md#seedream-5-5-slytherin-library-smile"><img src="previews/seedream-5-5-slytherin-library-smile.jpg" height="150"></a> <a href="pages/zh/image-portrait.md#seedream-5-5-woman-dried-flowers-soviet-bus"><img src="previews/seedream-5-5-woman-dried-flowers-soviet-bus.jpg" height="150"></a> <a href="pages/zh/image-infographic.md#seedream-5-5-blue-morpho-butterfly-bilingual-infographic"><img src="previews/seedream-5-5-blue-morpho-butterfly-bilingual-infographic.jpg" height="150"></a> <a href="pages/zh/image-poster-2.md#seedream-5-5-shakespeare-chronicle-newspaper-page"><img src="previews/seedream-5-5-shakespeare-chronicle-newspaper-page.jpg" height="150"></a> 
+<a href="https://x.com/Mayz1169/status/2120151170102767819"><img src="previews/seedream-5-5-slytherin-library-smile.jpg" width="240"></a>
+
+**[霍格沃茨图书馆烛光中微笑的斯莱特林少女](pages/zh/image-character.md#seedream-5-5-slytherin-library-smile)** · 上传图改图 · 出处: [@Mayz1169 on X](https://x.com/Mayz1169/status/2120151170102767819) · 924 赞，统计于 2026-11-11
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Use @ image as the exact character design: long pale-blonde hair, grey eyes, Slytherin uniform with grey sweater vest, green-and-silver striped tie and black robe with green lining. High-quality anime illustration, upper-body shot of her sitting at a long wooden table in the Hogwarts library at dusk, turning her head toward the viewer with a sly, confident smile. Her hands are out of frame. Warm candlelight from the left lights her face and hair, cool blue twilight comes through the tall arched window behind her, glowing dust in the air, stacks of old books softly blurred in the background. Clean line art, rich soft lighting, detailed hair strands, no text.
+```
+
+</details>
+
+<a href="https://x.com/ZaraIrahh/status/2120161811571912709"><img src="previews/seedream-5-5-woman-dried-flowers-soviet-bus.jpg" width="240"></a>
+
+**[女子手持干花站在苏联公交车旁](pages/zh/image-portrait.md#seedream-5-5-woman-dried-flowers-soviet-bus)** · 文生图 · 出处: [@ZaraIrahh on X](https://x.com/ZaraIrahh/status/2120161811571912709) · 217 赞，统计于 2026-11-11
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Photorealistic fashion editorial with the atmosphere of a winter morning in the early 1990s, in a Soviet-era residential neighborhood. A beautiful adult brunette woman with delicate facial features stands beside the open folding doors of an aged cream-and-red Soviet LiAZ-677 city bus. She holds a small bouquet of dried wildflowers wrapped in vintage brown kraft paper, gently gripping it with both hands in front of her thighs.
+
+She wears an oversized charcoal wool coat, a soft ivory knitted scarf, a dark burgundy ribbed sweater, straight dark trousers and black leather winter boots. Loose dark brown hair falls naturally around her face, a few strands lifted by the freezing wind. Flushed cheeks, minimal makeup, thoughtful expression, looking slightly past the camera, shoulders gently raised against the cold.
+
+Snow-covered pavement, compacted gray snow beside the bus wheels, frosted windows with condensation, faded red paint, weathered metal. Blurred Soviet apartment blocks and a modest bus shelter in the distance. Fine snowflakes in the air, visible breath. The delicate dried flowers add a subtle warm color accent against the muted winter surroundings.
+
+Three-quarter portrait framed from the knees up, eye-level camera, woman placed off-center, the bus filling one side of the composition. Cold overcast daylight with direct on-camera flash, crisp face, deep background, subtle analog film grain, restrained colors, candid 1990s street photography combined with luxury fashion editorial. Real skin texture, tactile wool, believable hands and bouquet construction, shot on a 50mm lens --ar 3:4 --style raw --s 150 --no modern cars smartphones logos text watermark
+```
+
+</details>
+
+<a href="https://x.com/yourPlugAI/status/2120176960999403776"><img src="previews/seedream-5-5-quilled-woman-rainbow-umbrella.jpg" width="240"></a>
+
+**[卷纸艺术舞者配彩虹伞](pages/zh/image-illustration.md#seedream-5-5-quilled-woman-rainbow-umbrella)** · 文生图 · 出处: [@yourPlugAI on X](https://x.com/yourPlugAI/status/2120176960999403776) · 114 赞，统计于 2026-11-11
+
+<details><summary><b>提示词</b></summary>
+
+```text
+3D paper quilling art of a graceful woman dancing in side-profile. She wears an elegant sleeveless v-neck dress made of intricately coiled paper strips in a vivid rainbow gradient—transitioning seamlessly through yellow, orange, red, magenta, deep purple, royal blue, and emerald green.
+
+Her long brown hair flows in the wind behind her as she gracefully holds an open quilled umbrella featuring matching rainbow paper panels overhead. She wears bright red high heels, standing atop quilled paper water ripples reflecting vibrant hues. Surrounding her in mid-air are multiple detailed quilled paper butterflies in shades of bright orange, yellow, pink, and sky blue.
+
+The background is a solid matte dark charcoal grey cardstock, featuring subtle overhead studio directional lighting that casts soft 3D drop shadows underneath the layered paper elements, emphasizing realistic texture and depth. High detail, paper craft sculpture aesthetic, 4k resolution. --ar 2:3
+```
+
+</details>
+
+<a href="https://x.com/MayorKingAI/status/2120198834508955990"><img src="previews/seedream-5-5-rooftop-chess-king-fur-coat.jpg" width="240"></a>
+
+**[屋顶上身穿绿色仿毛大衣的下棋男子](pages/zh/image-realism.md#seedream-5-5-rooftop-chess-king-fur-coat)** · 文生图 · 出处: [@MayorKingAI on X](https://x.com/MayorKingAI/status/2120198834508955990) · 91 赞，统计于 2026-11-11
+
+<details><summary><b>提示词</b></summary>
+
+```text
+I tested all four models directly in
+@magnific
+
+
+Prompt: An ultra-realistic high-fashion editorial photograph of a striking 28-year-old Japanese man with sharp facial features, a defined jawline, slightly messy medium-length black hair and narrow rectangular black sunglasses, sitting confidently on a rooftop terrace while playing chess.
+
+He wears an oversized luxurious emerald-green faux-fur coat over a black silk shirt, tailored black trousers and a subtle silver chain necklace. His expression is calm, confident and slightly intimidating, looking directly toward the camera.
+
+Camera composition: An extreme low-angle shot taken from the very edge of a chessboard, with the camera positioned only a few centimeters above the board's surface. The black-and-white chessboard dominates the entire bottom third of the frame, its squares appearing exceptionally large in the foreground and rapidly shrinking toward the seated man.
+
+The man is centered in the composition, visible from approximately the knees upward, leaning slightly forward. His right arm extends directly toward the camera, with his hand dramatically enlarged by perspective. He is gripping the top of a polished ivory wooden king chess piece between his thumb and index finger, moving it toward an empty square near the camera. The king is dramatically oversized in the immediate foreground due to the wide-angle perspective, while the remaining chess pieces appear progressively smaller toward the background.
+
+His other hand rests naturally near his knee. The chess pieces are physically accurate and positioned naturally on the board, with realistic contact shadows and detailed polished wooden surfaces.
+
+Environment: An open urban rooftop with subtle concrete architectural details, low surrounding rooftops and an enormous vivid cyan-blue sky with a few soft, scattered white clouds. The bright sky occupies the upper half of the composition, creating strong visual contrast against the emerald-green coat.
+
+Photography: Shot on a Sony A1 II with a 20mm wide-angle lens, camera placed at chessboard level, f/8, ISO 100, 1/1000s. Deep environmental perspective, exaggerated foreground scale, realistic optical distortion, crisp textures across the chessboard and subject. Bright natural midday sunlight, accurate skin tones, natural facial asymmetry, individual hair strands, detailed fabric and fur fibers, subtle imperfections and physically realistic shadows.
+
+Authentic luxury fashion campaign photography, bold editorial framing, natural photographic color grading, exceptionally realistic skin texture, no artificial skin smoothing, no CGI appearance, no illustration, no plastic textures, no excessive cinematic effects.
+```
+
+</details>
+
+<a href="https://x.com/johnAGI168/status/2120363733713039575"><img src="previews/seedream-5-5-subway-escalator-glance-portrait.jpg" width="240"></a>
+
+**[地铁扶梯上回眸的女子，35毫米胶片质感](pages/zh/image-portrait-2.md#seedream-5-5-subway-escalator-glance-portrait)** · 文生图 · 出处: [@johnAGI168 on X](https://x.com/johnAGI168/status/2120363733713039575) · 71 赞，统计于 2026-11-11
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A cinematic vertical 35mm photograph captured at eye level — an evocative over-the-shoulder medium portrait of a stunning young East Asian woman looking back toward the camera while riding a dimly lit subway escalator.
+
+She possesses delicate, melancholic beauty with expressive dark eyes and natural lips, casting an enigmatic glance over her shoulder. Her long, layered jet-black hair blows freely in the underground draft, with loose strands sweeping across her cheeks and face with realistic kinetic motion. She wears a minimalist black spaghetti-strap slip top that reveals elegant collarbones and bare shoulders.
+
+The setting is a vintage metro tunnel with escalator railings receding into deep perspective. Overhead linear fluorescent lights glow with a soft amber-green halation bloom, while the distant terminal melts into colorful circular bokeh of red, cyan, and warm white, creating a moody, nostalgic urban atmosphere reminiscent of 90s cinema.
+
+Shot on a fast 50mm vintage prime at f/1.4 with soft diffusion filtration and authentic 35mm film grain in an M1 cinematic narrative register. Genuine human skin with fine pores, biological warmth, realistic wind dynamics on hair, and rich color-negative film roll-off — cinematic frame, strictly no CGI, no 3D render, no plastic skin, no artificial smoothing.
+```
+
+</details>
+
+<a href="https://seed.bytedance.com/en/seedream5_5"><img src="previews/seedream-5-5-berry-club-blueberry-character-board.jpg" width="240"></a>
+
+**[BERRY CLUB 蓝莓角色设定板，中英双语](pages/zh/image-character.md#seedream-5-5-berry-club-blueberry-character-board)** · 文生图 · 出处: [ByteDance Seed: Seedream 5.5](https://seed.bytedance.com/en/seedream5_5)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Design a vertical blueberry collectible-character board with sky-blue and cream cloud-shaped sections. Use the title “BERRY CLUB” and the Chinese tagline “小小一颗，慢慢快乐”. Feature the main character “莓小蓝” alongside four themed variants: MAIL RUNNER, RAINY DAY, STAR GUARDIAN and BLUEBERRY CHEF. Below, arrange front, side and back views, five expressions and six accessories. Keep consistent character proportions, matte vinyl textures and rounded bilingual typography in a rich, orderly layout.
+```
+
+</details>
+
+<a href="https://seed.bytedance.com/en/seedream5_5"><img src="previews/seedream-5-5-blue-morpho-butterfly-bilingual-infographic.jpg" width="240"></a>
+
+**[蓝闪蝶中英双语信息图](pages/zh/image-infographic.md#seedream-5-5-blue-morpho-butterfly-bilingual-infographic)** · 文生图 · 出处: [ByteDance Seed: Seedream 5.5](https://seed.bytedance.com/en/seedream5_5)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A horizontal natural-history infographic titled “蓝闪蝶：一只蝴蝶的微观宇宙”, with the English heading “BLUE MORPHO・A CLOSER LOOK”. A large blue morpho spreads its wings against a black background, surrounded by eight macro-detail modules: antennae, structural color, wing margin, proboscis, compound eye, ventral wing, wing venation and wing scales. Pair Chinese explanations with English terms and observation notes. Preserve legible small text and fine wing textures, with a footer stating that enlarged details are illustrative and not to scale.
+```
+
+</details>
+
+<a href="https://seed.bytedance.com/en/seedream5_5"><img src="previews/seedream-5-5-cloud-sea-glider-workshop-gouache.jpg" width="240"></a>
+
+**[云海滑翔船工坊里的熊、小熊猫和水獭](pages/zh/image-illustration.md#seedream-5-5-cloud-sea-glider-workshop-gouache)** · 文生图 · 出处: [ByteDance Seed: Seedream 5.5](https://seed.bytedance.com/en/seedream5_5)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A fantasy picture-book illustration with delicate gouache textures, set in a cloud-sea glider workshop. A bear mechanic steadies the mast, a red panda pilot pulls the sail rope from inside the boat, and an otter assistant approaches in the foreground carrying a wooden securing pin. A low, upward-looking view and gently tilted perspective emphasize the bow, triangular sail and tall timber roof. Cream, deep teal and honey-colored wood create a bright, warm scene of teamwork.
+```
+
+</details>
+
+<a href="https://seed.bytedance.com/en/seedream5_5"><img src="previews/seedream-5-5-donkey-fence-gap-ultra-wide.jpg" width="240"></a>
+
+**[超广角镜头下从篱笆缝里探头的驴](pages/zh/image-realism.md#seedream-5-5-donkey-fence-gap-ultra-wide)** · 文生图 · 出处: [ByteDance Seed: Seedream 5.5](https://seed.bytedance.com/en/seedream5_5)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A horizontal ultra-wide-angle photograph of a curious gray-brown donkey peering through a vertical gap in a weathered wooden fence. Its broad muzzle nearly touches the lens, while its eyes and long ears recede in exaggerated close-up perspective. Focus on the muzzle’s fine hair, whiskers and skin texture, with softly blurred fence boards, blue sky and grass beyond. Natural daylight creates a playful candid moment.
+```
+
+</details>
+
+<a href="https://seed.bytedance.com/en/seedream5_5"><img src="previews/seedream-5-5-european-bistro-diners-candid-evening.jpg" width="240"></a>
+
+**[夏夜欧洲小馆里用餐的两位老人](pages/zh/image-realism.md#seedream-5-5-european-bistro-diners-candid-evening)** · 文生图 · 出处: [ByteDance Seed: Seedream 5.5](https://seed.bytedance.com/en/seedream5_5)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A candid horizontal snapshot inside a neighborhood bistro in Europe on a summer evening. Two older diners eat naturally at a table covered with cream linen, unaware of the camera. Glasses, cutlery, breadcrumbs and worn wooden furniture show everyday use. Warm pendant lights mix with traces of cool evening light. Slight underexposure, subtle high-ISO grain and foreground occlusion create an intimate, spontaneous atmosphere.
+```
+
+</details>
+
+<a href="https://seed.bytedance.com/en/seedream5_5"><img src="previews/seedream-5-5-father-sleeping-baby-sofa-daylight.jpg" width="240"></a>
+
+**[窗光下抱着熟睡婴儿躺在沙发上的父亲](pages/zh/image-portrait-3.md#seedream-5-5-father-sleeping-baby-sofa-daylight)** · 文生图 · 出处: [ByteDance Seed: Seedream 5.5](https://seed.bytedance.com/en/seedream5_5)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A warm documentary photograph of a young father reclining on a dark purple-gray fabric sofa, holding a sleeping baby. Cream knitted cushions and a mustard-yellow blanket show soft, tactile fabric textures. Warm golden daylight enters through a window on the right. Relaxed poses, natural skin tones, gentle shadows and film grain capture a quiet, intimate afternoon.
+```
+
+</details>
+
+<a href="https://seed.bytedance.com/en/seedream5_5"><img src="previews/seedream-5-5-from-seed-to-salad-infographic.jpg" width="240"></a>
+
+**[FROM SEED TO SALAD 六步种菜信息图](pages/zh/image-infographic.md#seedream-5-5-from-seed-to-salad-infographic)** · 文生图 · 出处: [ByteDance Seed: Seedream 5.5](https://seed.bytedance.com/en/seedream5_5)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create an illustrated infographic poster titled “FROM SEED TO SALAD” on warm-white paper with a handmade print texture. One continuous path snakes across three tiers, linking six numbered stages in order: SOW, SPROUT, GROW, TEND, HARVEST and SHARE. Five correctly directed arrows connect the sequence. Pair miniature gardening scenes and English descriptions with each stage, keeping the reading order clear, lettering legible and colors soft yet varied.
+```
+
+</details>
+
+<a href="https://seed.bytedance.com/en/seedream5_5"><img src="previews/seedream-5-5-lemon-wall-purple-door-street-corner.jpg" width="240"></a>
+
+**[柠檬黄墙、紫色木门和亚麻布，午后硬光](pages/zh/image-realism.md#seedream-5-5-lemon-wall-purple-door-street-corner)** · 文生图 · 出处: [ByteDance Seed: Seedream 5.5](https://seed.bytedance.com/en/seedream5_5)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A vertical 3:4 street photograph of a southern European corner. A lemon-yellow limewashed wall, an old deep-purple wooden door and hanging royal-purple linen form a bold geometric composition. Golden flowers fill a weathered metal bucket at the lower right. Strong afternoon sunlight casts crisp shadows, revealing textured plaster, fabric folds, rust and layered petals in vivid complementary purple and yellow.
+```
+
+</details>
+
+<a href="https://seed.bytedance.com/en/seedream5_5"><img src="previews/seedream-5-5-print-play-graffiti-collage-poster.jpg" width="240"></a>
+
+**[PRINT PLAY 涂鸦拼贴海报](pages/zh/image-poster-2.md#seedream-5-5-print-play-graffiti-collage-poster)** · 文生图 · 出处: [ByteDance Seed: Seedream 5.5](https://seed.bytedance.com/en/seedream5_5)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a graffiti collage poster about collaborative street printing, using lime green, aubergine purple and mint over a gray-white photocopied paper texture. Oversized “PRINT PLAY!” lettering overlaps diagonally. A grayscale printmaker at the upper right holds a roller and print sample, with printing tools and handwritten phrases including “MAKE A MARK” and “PASS IT ON” below. Preserve matte halftone ink, fine grain and legible lettering in a layered, asymmetric composition.
+```
+
+</details>
+
+<a href="https://seed.bytedance.com/en/seedream5_5"><img src="previews/seedream-5-5-rain-puddle-golden-building-reflection.jpg" width="240"></a>
+
+**[雨后水洼里倒映的金色建筑](pages/zh/image-realism.md#seedream-5-5-rain-puddle-golden-building-reflection)** · 文生图 · 出处: [ByteDance Seed: Seedream 5.5](https://seed.bytedance.com/en/seedream5_5)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A vertical 3:4 street photograph after rain, taken from a low angle looking down at wet paving stones and irregular puddles. Reflections of an old building’s golden carvings, window frames and colonnades are fragmented by exposed stones, puddle edges and ripples. Warm golden light contrasts with deep-blue reflections, preserving worn joints and wet surface textures. No full building, people or vehicles appear.
+```
+
+</details>
+
+<a href="https://seed.bytedance.com/en/seedream5_5"><img src="previews/seedream-5-5-shakespeare-chronicle-newspaper-page.jpg" width="240"></a>
+
+**[莎士比亚文学报，七篇短文环绕插图](pages/zh/image-poster-2.md#seedream-5-5-shakespeare-chronicle-newspaper-page)** · 文生图 · 出处: [ByteDance Seed: Seedream 5.5](https://seed.bytedance.com/en/seedream5_5)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Design a landscape literary newspaper with the masthead “THE SHAKESPEARE CHRONICLE” and the headline “WILLIAM SHAKESPEARE”. On warm ivory paper, illustrate Shakespeare and the Globe Theatre in black engraving, with muted blue clouds and waves weaving through the page. Arrange seven short articles in English around the illustrations, using bold serif headings and legible small type.
+```
+
+</details>
+
+<a href="https://seed.bytedance.com/en/seedream5_5"><img src="previews/seedream-5-5-subway-platform-commuters-motion-blur.jpg" width="240"></a>
+
+**[地铁站台上川流的通勤人群](pages/zh/image-realism.md#seedream-5-5-subway-platform-commuters-motion-blur)** · 文生图 · 出处: [ByteDance Seed: Seedream 5.5](https://seed.bytedance.com/en/seedream5_5)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Photograph a busy modern city subway platform filled with Asian commuters walking briskly in orderly flows. Use central perspective, with the platform, yellow safety lines and overhead lights receding into the distance. Combine motion blur, soft diffuse light and a subtle glow while retaining highlight and shadow detail to convey the energy of urban life.
+```
+
+</details>
+
+<a href="https://seed.bytedance.com/en/seedream5_5"><img src="previews/seedream-5-5-water-droplets-spell-seedream-pool.jpg" width="240"></a>
+
+**[从迷你泳池提起的水珠拼出 seedream](pages/zh/image-realism.md#seedream-5-5-water-droplets-spell-seedream-pool)** · 文生图 · 出处: [ByteDance Seed: Seedream 5.5](https://seed.bytedance.com/en/seedream5_5)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A hand lifts a string of water droplets from a miniature swimming pool. The droplets spell “seedream” vertically. Surreal summer photography with vivid colors and a film-like texture.
+```
+
+</details>
+
+<a href="https://seed.bytedance.com/en/seedream5_5"><img src="previews/seedream-5-5-white-cat-bar-flash-film.jpg" width="240"></a>
+
+**[夜晚酒吧瓶罐间的白猫，闪光灯胶片感](pages/zh/image-realism.md#seedream-5-5-white-cat-bar-flash-film)** · 文生图 · 出处: [ByteDance Seed: Seedream 5.5](https://seed.bytedance.com/en/seedream5_5)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A white cat sits elegantly among bottles and glasses in a bar at night. Shoot from a low angle with a tilted composition, using flash, Fujifilm Provia colors and film grain. Capture dappled light, bright highlights and crisp detail for a vintage photographic feel.
+```
+
+</details>
+
+<a href="https://seed.bytedance.com/en/seedream5_5"><img src="previews/seedream-5-5-windswept-woman-tilted-street-candid.jpg" width="240"></a>
+
+**[大风中低头看手机的女子，整幅画面倾斜](pages/zh/image-portrait-3.md#seedream-5-5-windswept-woman-tilted-street-candid)** · 文生图 · 出处: [ByteDance Seed: Seedream 5.5](https://seed.bytedance.com/en/seedream5_5)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A candid horizontal street photograph of a long-haired woman in a burgundy top and light brown jacket looking down at her phone. Strong wind sweeps her hair across her sunglasses and face. The entire frame tilts about 25 degrees clockwise, with consistent perspective across the figure, buildings, lamppost and pavement. Natural clothing folds, hurried framing and asymmetric cropping create an unposed everyday moment.
+```
+
+</details>
+
+在 [agentcraft.dev](https://agentcraft.dev/zh/prompts/image/seedream-5-5/) 上可以和 [GPT Image 2.6](https://agentcraft.dev/zh/prompts/image/gpt-image-2-6/)、[Nano Banana 2.1](https://agentcraft.dev/zh/prompts/image/nano-banana-2-1/) 对照着看。
 
 ## 目录
 
