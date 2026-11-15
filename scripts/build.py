@@ -51,7 +51,9 @@ CATEGORIES = {
     "edit": {"en": "Photo editing", "zh": "照片编辑"},
 }
 # The README shows the most-liked TOP entries of each section; pages/<lang>/ holds every entry of every section.
-TOP = 4
+TOP = 2  # entries per section shown in the README; the rest are on the section's page
+SPOT_TOP = 4  # spotlight entries shown in the README
+TAG_TOP = 30  # most used tags listed in the README; all of them are on pages/<lang>/tags.md
 RECENT = 12  # newest entries listed near the top of the README
 PAGE_BYTES = 350_000
 SHOWCASE = ["seedance-seoul-subway-revenge", "wan-time-space-train", "h3-starship-hyperspace-jump", "omni-four-style-progression",
@@ -68,9 +70,9 @@ T = {
         "onsite": "All of this category with previews on [agentcraft.dev]({url})",
         "formerly": "Formerly **Awesome-GPTs**. The original GPTs list lives on in [legacy/awesome-gpts.md](legacy/awesome-gpts.md).",
         "contents": "Contents",
-        "spotlight": "{m} is the newest image model from ByteDance Seed. Here are all {n} of its prompts so far, each with the output, "
+        "spotlight": "{m} is the newest image model from ByteDance Seed. Here are its {k} most liked prompts, each with the output, "
                      "the full prompt and its source.",
-        "spotlight_end": "See them on [agentcraft.dev]({url}) next to [GPT Image 2.6]({gpt}) and [Nano Banana 2.1]({nb}) for comparison.",
+        "spotlight_end": "All {n} are on [agentcraft.dev]({url}), next to [GPT Image 2.6]({gpt}) and [Nano Banana 2.1]({nb}) for comparison.",
         "recent": "Recently added",
         "bymodel": "By model",
         "bymodel_item": "{n} prompts, {g} of them animated GIFs, each with its output and source",
@@ -127,8 +129,8 @@ T = {
         "onsite": "这一类的全部提示词和预览见 [agentcraft.dev]({url})",
         "formerly": "本仓原名 **Awesome-GPTs**，原来的 GPTs 清单保存在 [legacy/awesome-gpts_zh.md](legacy/awesome-gpts_zh.md)。",
         "contents": "目录",
-        "spotlight": "{m} 是字节 Seed 最新的图片模型。下面是目前收到的全部 {n} 条提示词，每条附成图、完整提示词和出处。",
-        "spotlight_end": "在 [agentcraft.dev]({url}) 上可以和 [GPT Image 2.6]({gpt})、[Nano Banana 2.1]({nb}) 对照着看。",
+        "spotlight": "{m} 是字节 Seed 最新的图片模型。下面是点赞最多的 {k} 条提示词，每条附成图、完整提示词和出处。",
+        "spotlight_end": "全部 {n} 条见 [agentcraft.dev]({url})，可以和 [GPT Image 2.6]({gpt})、[Nano Banana 2.1]({nb}) 对照着看。",
         "recent": "最近新增",
         "bymodel": "按模型",
         "bymodel_item": "{n} 条提示词，其中 {g} 条是 GIF 动图，每条附成图和出处",
@@ -321,10 +323,10 @@ def build(lang, videos, images, recipes):
     if spot:
         page = lambda m: f'https://agentcraft.dev/{lang}/prompts/{MODEL_PAGES[m]}/'
         es = sorted(spot[2], key=lambda e: -e["source"].get("likes", 0))
-        out += ['<a id="spotlight"></a>', f'## {spot[0]}', "", t["spotlight"].format(m=spot[0], n=len(es)), ""]
-        for e in es:
+        out += ['<a id="spotlight"></a>', f'## {spot[0]}', "", t["spotlight"].format(m=spot[0], k=min(SPOT_TOP, len(es))), ""]
+        for e in es[:SPOT_TOP]:
             out += spotlight_entry(e, lang, t, loc[e["id"]])
-        out += [t["spotlight_end"].format(url=page(spot[0]), gpt=page("GPT Image 2.6"), nb=page("Nano Banana 2.1")), ""]
+        out += [t["spotlight_end"].format(n=len(es), url=page(spot[0]), gpt=page("GPT Image 2.6"), nb=page("Nano Banana 2.1")), ""]
     out += [
         f'## {t["contents"]}', "",
         *([f'- [{spot[0]}](#spotlight)'] if spot else []),
@@ -379,13 +381,13 @@ def build(lang, videos, images, recipes):
     for e in videos + images + recipes:
         for tg in e["tags"]:
             tags.setdefault(tg, []).append(e)
-    # The full index lives on pages/<lang>/tags.md; the README keeps the tags used three times or more.
+    # The full index lives on pages/<lang>/tags.md; the README keeps the TAG_TOP most used.
     page = [f"# {t['tags']}", "", f"[{t['back']}](../../{t['file']})", ""]
     for tg in sorted(tags):
         links = ", ".join(f'[{e["title"][lang]}]({rel(loc[e["id"]], lang, t)})' for e in tags[tg])
         page.append(f'- <a id="tag-{anchor(tg)}"></a>`{tg}` ({len(tags[tg])}): {links}')
     open(f"pages/{lang}/tags.md", "w", encoding="utf-8").write("\n".join(page) + "\n")
-    common = sorted((tg for tg in tags if len(tags[tg]) >= 3), key=lambda tg: -len(tags[tg]))
+    common = sorted(tags, key=lambda tg: -len(tags[tg]))[:TAG_TOP]
     out += ['<a id="tags"></a>', f'## {t["tags"]}', "",
             " · ".join(f'[`{tg}`](pages/{lang}/tags.md#tag-{anchor(tg)}) {len(tags[tg])}' for tg in common), "",
             f'**[{t["all_tags"].format(n=len(tags))}](pages/{lang}/tags.md)**', ""]
