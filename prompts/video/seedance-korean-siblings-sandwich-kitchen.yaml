@@ -1,0 +1,121 @@
+id: seedance-korean-siblings-sandwich-kitchen
+title:
+  en: Brother eats sandwich as sister reaches in from behind
+  zh: 哥哥吃三明治时妹妹从身后伸手
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- korean
+- family-drama
+- character-consistency
+- multi-scene
+source:
+  name: '@Hope_Ai01 on X'
+  url: https://x.com/Hope_Ai01/status/2120162089880940636
+  credit: Hope_Ai01
+  captured: '2026-11-17'
+  posted: '2026-11-10'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Hope_Ai01/status/2120162089880940636
+notes:
+  en: The prompt fixes each character's age, hair and clothing in a header block and repeats it for every scene, which keeps the same faces and outfits across cuts. Each scene is one readable action with a stated camera move, so the model can hold motion and expression without cutting away.
+  zh: 提示词在开头固定角色的年龄、发型和服装，并在每个分镜中重复，使同一人物在多个镜头中保持一致。每段只描述一个清晰动作并写明镜头运动，画面更容易稳定，表情和动作也更自然。
+prompt: |
+  Create a 30-second ultra-realistic South Korean family drama movie scene. It must look like an actual professionally directed Korean theatrical film, not an AI-generated montage.
+
+  CHARACTERS — KEEP IDENTICAL THROUGHOUT:
+
+  OLDER BROTHER:
+  A 25-year-old Korean man, handsome natural face, short black hair, clean-shaven, wearing a dark navy jacket, white T-shirt and black trousers.
+
+  YOUNGER SISTER:
+  An 11-year-old Korean girl, cute natural appearance, shoulder-length dark brown hair, wearing a pastel pink jacket, white top and blue jeans.
+
+  Maintain exactly the same faces, hairstyles, ages and clothing in all six scenes.
+
+  SCENE 1 — 00:00–00:05
+  MORNING PLAYFUL MOMENT
+
+  Inside a beautiful modern Korean apartment kitchen. Brother is eating breakfast. His little sister suddenly steals the last sandwich from his plate and runs away laughing. Brother looks surprised and smiles.
+
+  Sister dialogue:
+  "오빠, 내 거 줘!"
+  English: Brother, give me mine!
+
+  Camera: Natural medium shot transitioning into a cinematic close-up.
+
+  SCENE 2 — 00:05–00:10
+  BROTHER'S CARE
+
+  Outside their apartment. The little sister struggles with her schoolbag. Her brother gently takes the bag, fixes her jacket and smiles at her. She looks at him happily.
+
+  No dialogue. Natural expressions and beautiful cinematic acting.
+
+  SCENE 3 — 00:10–00:15
+  SIBLING BOND
+
+  Brother and sister walk together through a beautiful autumn street in Seoul. The sister playfully teases her brother. He shakes his head and laughs.
+
+  Brother dialogue:
+  "넌 정말 못 말려."
+  English: You're impossible!
+
+  Camera: Smooth cinematic tracking shot with beautiful autumn leaves.
+
+  SCENE 4 — 00:15–00:20
+  A LITTLE SURPRISE
+
+  Inside a charming gift shop. Brother secretly buys a beautiful teddy bear and gives it to his little sister. She opens the gift and her eyes light up with happiness.
+
+  No dialogue. Capture her genuine excitement and brother's proud smile.
+
+  SCENE 5 — 00:20–00:25
+  BEST FRIENDS
+
+  At a beautiful Korean street-food market at sunset. Brother and sister share delicious Korean snacks, laugh together and playfully compete over the last bite.
+
+  No dialogue. Natural laughter and warm cinematic atmosphere.
+
+  SCENE 6 — 00:25–00:30
+  FOREVER TOGETHER
+
+  Beautiful wide cinematic shot of brother and sister walking hand in hand through a golden sunset park. The sister looks up at her brother and smiles.
+
+  Sister dialogue:
+  "오빠가 최고야!"
+  English: You're the best, brother!
+
+  Camera slowly pulls back. Both characters remain visible.
+
+  Final movie title:
+  MY LITTLE SISTER
+
+  CINEMATIC DIRECTION:
+
+  - Authentic South Korean theatrical movie quality.
+  - Realistic Korean human actors, not animated characters.
+  - Natural facial expressions and body movements.
+  - Consistent faces and clothing across every scene.
+  - Professional anamorphic cinema lens look.
+  - Beautiful natural lighting and cinematic color grading.
+  - Shallow depth of field and realistic skin texture.
+  - Smooth professional camera movements.
+  - Natural Korean lip synchronization.
+  - Beautiful emotional orchestral piano soundtrack.
+  - 24 FPS, 4K quality, vertical 9:16.
+  - Every scene must connect naturally to the next.
+
+  SOUND DESIGN:
+
+  Opening: Soft piano and morning kitchen ambience.
+  Middle: Gentle cinematic orchestral music, natural laughter and Seoul street ambience.
+  Ending: Emotional piano melody with a beautiful cinematic finish.
+
+  NEGATIVE PROMPT:
+
+  No cartoon, no anime, no CGI appearance, no artificial faces, no changing actors, no inconsistent clothing, no distorted hands, no exaggerated expressions, no random extra characters, no horror, no violence, no slideshow, no watermark.
+
+  FINAL REQUIREMENT:
+
+  Exactly THREE spoken dialogues in the entire film. All other scenes must tell the story through natural acting, expressions, gestures and cinematic visuals. Make this feel like a real Korean family movie trailer with professional storytelling and emotional warmth.

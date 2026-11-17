@@ -1,0 +1,30 @@
+id: seedance-seoul-couple-shopping-date
+title:
+  en: Early 2000s DV couple on a sunny shopping street
+  zh: 2000年代初DV风格情侣逛街约会
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- home-video
+- early-2000s
+- couple
+- seoul
+- date-night
+source:
+  name: '@AIwithkhan on X'
+  url: https://x.com/AIwithkhan/status/2105135568078381416
+  credit: AIwithkhan
+  captured: '2026-11-17'
+  posted: '2026-09-30'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithkhan/status/2105135568078381416
+notes:
+  en: Naming the camcorder format and handheld flaws such as autofocus hunting and slight shake defines the look, and a fixed wardrobe list keeps both people consistent across cuts. The explicit exclusion list (music, subtitles, CGI, beauty filters, slow motion) locks the raw home-video feel.
+  zh: 用DV摄像机格式以及自动对焦跳动、轻微抖动等手持瑕疵来定义画面质感，并用固定的服装清单保持两人在各个镜头中的一致。明确列出禁止项（音乐、字幕、CGI、美颜、慢动作）可以锁定原始家庭录像的感觉。
+prompt: |
+  Create a 30-second, 1080p ultra-realistic early-2000s DV camcorder home video of a young Korean couple spending a casual afternoon shopping in Seoul. The girl wears a fitted pastel pink top, cream-white pajama-style pants, white sneakers, and a small shoulder bag, with long dark hair in a loose ponytail. Her boyfriend wears a loose white T-shirt, dark jeans, and white sneakers.
+
+  They walk through shops together, share an orange ice cream, playfully feed each other, and laugh. He notices a cute toy she likes and secretly buys it for her, surprising her outside the store. They then play bowling, teasing each other after their turns. Later, they enter an elevator alone. He gently fixes her ponytail and moves a loose strand of hair from her face. They exchange shy smiles and share a brief natural kiss before laughing as the elevator doors open.
+
+  Keep the same faces, outfits, hairstyles and appearance throughout. Raw handheld DV footage, imperfect framing, autofocus hunting, slight camera shake, faded summer colors, soft digital detail, natural motion blur and authentic early-2000s home-video feel. Natural ambient audio, laughter and conversation. No music, subtitles, cinematic commercial look, CGI, anime, beauty filters or slow motion.

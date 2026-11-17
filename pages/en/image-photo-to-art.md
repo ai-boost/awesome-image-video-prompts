@@ -1,6 +1,6 @@
 # Photo to art
 
-[Back to the list](../../README.md) · All 112 entries
+[Back to the list](../../README.md) · All 113 entries
 
 <a id="gpt-image-photo-to-watercolor-travel"></a>
 ### Travel photo above, same scene as watercolor below
@@ -3355,6 +3355,39 @@ crisp butterfly detailing
 cool watercolor tones contrasted with vivid orange butterflies
 textured watercolor paper and handcrafted mixed-media realism
 Overall, the result should feel poetic, airy, elegant, and premium, with the viewer’s eye drawn first to the realistic face, then to the translucent watercolor overlays and butterflies surrounding the subject.
+```
+
+</details>
+
+<a id="nano-banana-watercolor-keffiyeh-coffee-portrait"></a>
+### Man in red keffiyeh sipping coffee in watercolor
+
+<a href="https://x.com/Faeiz4Ai/status/2121853208205181417"><img src="../../previews/nano-banana-watercolor-keffiyeh-coffee-portrait.jpg" width="360"></a>
+
+The prompt separates the source from the style: the uploaded photo fixes subject, pose and composition, while the attached reference supplies the washes, ink lines and palette. Listing what to keep unchanged, such as identity, clothing and colors, and banning photorealism, 3D and text keeps the result a painting rather than a filtered photo.
+
+Nano Banana 2.1 · Edit · Source: [@Faeiz4Ai on X](https://x.com/Faeiz4Ai/status/2121853208205181417) · 67 likes on 2026-11-17
+
+[`watercolor`](tags.md#tag-watercolor) [`ink-sketch`](tags.md#tag-ink-sketch) [`style-reference`](tags.md#tag-style-reference) [`portrait`](tags.md#tag-portrait)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Transform the uploaded image into an expressive, high-quality watercolor and ink illustration, using the attached reference image as a STRICT VISUAL STYLE REFERENCE.
+
+Preserve the original subject's exact identity, facial features, proportions, expression, pose, clothing, colors, composition, and all distinctive details. Do not alter or redesign the subject.
+
+Apply the reference's artistic aesthetic: expressive transparent watercolor washes, layered pigments, loose spontaneous brushstrokes, delicate black ink sketch lines, organic paint bleeding, irregular contours, artistic splashes, and scattered pigment droplets.
+
+Reproduce the reference's earthy color palette of terracotta, burnt orange, reddish brown, charcoal black, warm beige, ivory, and muted icy blue.
+
+Use a natural textured ivory watercolor paper background, subtle color washes, and expressive unfinished edges that blend organically into the paper.
+
+The final artwork must look like authentic traditional hand-painted watercolor combined with expressive ink drawing, not a photograph with a filter.
+
+STRICT RULE: Original image determines the subject and composition. Reference image determines the artistic style, colors, textures, brushwork, and painting technique.
+
+No photorealism, no 3D, no CGI, no cartoon, no anime, no identity changes, no facial distortion, no added objects, no text, no logos, no watermarks.
 ```
 
 </details>

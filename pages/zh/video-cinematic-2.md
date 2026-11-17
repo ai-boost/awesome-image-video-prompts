@@ -1,6 +1,6 @@
 # 电影感场景与短片
 
-[返回目录](../../README_zh.md) · 全部 170 条 · [1](video-cinematic.md) · **2**
+[返回目录](../../README_zh.md) · 全部 178 条 · [1](video-cinematic.md) · **2**
 
 <a id="seedance-college-lab-zombie-infection"></a>
 ### 大学实验室学生被感染变成丧尸
@@ -699,6 +699,85 @@ Photorealistic live-action horror, authentic Japanese high-school science labora
 
 </details>
 
+<a id="seedance-joyland-last-ride-chase"></a>
+### 午夜雾中废弃游乐园
+
+<a href="https://x.com/zachkry_/status/2120052525374308840"><img src="../../previews/seedance-joyland-last-ride-chase.jpg" width="360"></a>
+
+提示词把30秒拆成带时间码的分段，每段指定独立的镜头运动，并在开头重复少女的校服与面部描述，让角色在切换中保持一致。雾气、闪烁灯光和色调写在场景设定中，使各镜头里的游乐园风格统一。
+
+Seedance 2.5 · 文生视频 · 出处: [@zachkry_ on X](https://x.com/zachkry_/status/2120052525374308840) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`horror`](tags.md#tag-horror) [`thriller`](tags.md#tag-thriller) [`character-consistency`](tags.md#tag-character-consistency)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+THE LAST RIDE – ESCAPE FROM JOKER'S JOYLAND
+Duration: 30 Seconds | Genre: Cinematic Horror Thriller | Setting: Abandoned Joyland Amusement Park at Midnight
+Main Character:
+A young Korean high school girl wearing a traditional Korean school uniform: dark fitted blazer, white collared shirt, neat tie, pleated skirt, knee-high socks, and black school shoes. She has long, dark, slightly messy hair and carries a school backpack. Her facial expressions should show extreme fear, panic, and desperation. Maintain consistent facial features, hairstyle, and clothing throughout the entire video.
+0–5 SECONDS | THE NIGHTMARE BEGINS
+
+Establish an abandoned Joyland amusement park at midnight. Broken carnival rides, a motionless Ferris wheel, flickering neon signs, rusty gates, scattered balloons, and thick ground-level fog create an eerie atmosphere. The Korean schoolgirl runs desperately through the empty park, crying and constantly looking behind her. Her backpack bounces as she runs. A terrifying laugh echoes from somewhere behind her.
+Camera: Cinematic wide establishing shot, followed by a fast handheld tracking shot facing the running girl. Extreme close-up of her trembling eyes and tear-covered face.
+
+5–10 SECONDS | JOKER'S ARRIVAL
+Reveal the Joker standing beside an abandoned carousel. He wears a disturbing clown costume, white makeup, dark exaggerated eyes, and a sinister red smile. Behind him stand his creepy followers dressed in oversized animal mascot costumes: a giant white rabbit with long floppy ears, a creepy brown bear, a fox, and a grey wolf. Their costumes are worn, dirty, and unsettling.
+
+The Joker slowly tilts his head, bursts into sinister laughter, and signals his followers to chase the girl. All the animal mascots suddenly start running toward her.
+
+Camera: Low-angle villain reveal, slow cinematic zoom toward Joker's face, followed by a dramatic whip-pan toward the approaching mascots.
+
+10–15 SECONDS | THE CHASE
+The schoolgirl screams and runs faster between abandoned carnival stalls. The giant rabbit and other animal mascots chase her, laughing hysterically. Their oversized costume heads bounce unnaturally as they run. The girl looks over her shoulder, crying and struggling to breathe.
+
+Camera: Dynamic 360-degree rotating shot around the girl while she runs, fast backward tracking shot, shaky handheld side tracking, and quick close-ups of the chasing rabbit.
+
+15–20 SECONDS | SURROUNDED
+
+An overhead cinematic shot reveals the girl trapped between abandoned amusement rides. She desperately changes direction and runs through a narrow passage. Suddenly, the Joker appears at the far end, slowly walking toward her with a terrifying grin. His animal-costumed followers approach from behind, holding strange oversized carnival props.
+
+Camera: Dramatic overhead shot, Dutch-angle framing, rapid cuts between the girl's terrified expression, Joker's evil smile, and the approaching animal mascots.
+20–25 SECONDS | NO WAY OUT
+
+The girl trips and falls beside an abandoned children's train ride. Her schoolbag slips off her shoulder. She crawls backward on the ground, crying uncontrollably. The giant rabbit slowly approaches her, tilting its oversized head from side to side. The bear and fox stand behind it, laughing in creepy distorted voices. The Joker watches from a distance, enjoying the terrifying moment.
+
+Camera: Ground-level close-up, slow-motion fall, extreme close-up of trembling hands and tearful eyes, followed by a slow push-in toward the rabbit's expressionless mascot face.
+
+25–30 SECONDS | THE FINAL NIGHTMARE
+The girl suddenly gets up and runs toward a dark tunnel underneath the Ferris wheel. The animal mascots sprint after her. The camera performs a fast 360-degree orbit around the running girl before switching to a dramatic POV shot of the rabbit chasing her. The Joker stands in the background, spreading his arms and laughing loudly.
+
+Joker's Dialogue (deep, distorted, sinister voice):
+
+"Run, little girl... the fun has only just begun!"
+
+End with a sudden close-up of the giant rabbit emerging from the darkness, followed by Joker's terrifying laughter and an abrupt cut to complete blackness.
+VISUAL & CINEMATIC DIRECTION:
+
+Ultra-realistic cinematic horror-thriller aesthetic.
+
+Korean schoolgirl with consistent face, uniform, hairstyle, and backpack.
+
+Joker remains the central villain throughout.
+Giant rabbit is the most recognizable and frightening mascot follower.
+
+Realistic running, stumbling, crying, and frightened facial expressions.
+
+Dynamic 360-degree camera rotations and cinematic tracking shots.
+
+Handheld camera movements, Dutch angles, overhead shots, and dramatic POV sequences.
+
+Thick atmospheric fog, flickering carnival lights, deep shadows, eerie green and red lighting.
+
+Distorted laughter, echoing footsteps, heavy breathing, distant carnival music, and suspenseful background sound.
+
+Photorealistic character details, realistic physics, cinematic motion blur, dramatic lighting, and 4K visual quality.
+CONTINUITY REQUIREMENT: Every character must maintain the same appearance throughout the video. The Korean schoolgirl must remain in her school uniform in every scene. No random costume changes, no face changes, no additional characters, and no cartoon-style visuals.
+```
+
+</details>
+
 <a id="seedance-korean-cafeteria-tray-walk"></a>
 ### 学生端着午餐托盘穿过热闹的韩国食堂
 
@@ -829,6 +908,166 @@ Create a cinematic Korean folk-horror ritual inside a dark traditional Korean wo
 The woman suddenly rises unnaturally while the shaman presses a burning talisman against her forehead. A powerful wind tears through the closed room, shaking candles, scattering papers, and whipping her hair and clothing. The talisman catches fire, flames surge, and she collapses onto the wooden floor, completely still. After a tense silence, her eyes reopen normally and the family rushes toward her in relief while the exhausted shaman watches carefully.
 
 End with a wide aftermath shot showing scattered salt, burnt talismans, melted candles, incense smoke, and ritual objects across the floor. Everything appears finished until one untouched talisman begins releasing a faint trail of dark smoke. The camera slowly moves toward it, leaving the supernatural threat unresolved. Realistic Korean folk horror, cinematic lighting, deep shadows, practical fire and smoke, dramatic camera movement, natural acting and sound design, no gore, no subtitles, no watermark, no anime or cartoon style.
+```
+
+</details>
+
+<a id="seedance-korean-pharmacy-horror"></a>
+### 女子拿着处方走进深夜的韩国药店
+
+<a href="https://x.com/AIwithkhan/status/2101329280651391384"><img src="../../previews/seedance-korean-pharmacy-horror.jpg" width="360"></a>
+
+提示词开头先用一句话设定风格和环境（写实韩国恐怖片、冷色荧光灯、空荡的货架），之后按顺序每个镜头只写一个动作，使较长的多段剧情依然清晰。结尾切到固定的监控视角，形成类似监控录像的收束，契合恐怖氛围。
+
+Seedance 2.5 · 文生视频 · 出处: [@AIwithkhan on X](https://x.com/AIwithkhan/status/2101329280651391384) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`horror`](tags.md#tag-horror) [`korean-horror`](tags.md#tag-korean-horror) [`pharmacy`](tags.md#tag-pharmacy) [`night-scene`](tags.md#tag-night-scene)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A girl enters a small late-night medical drug store holding a prescription, tired and slightly anxious; realistic Korean horror, narrow aisles filled with medicine boxes, glass cabinets, cold fluorescent lighting, quiet empty atmosphere.
+She approaches the counter and asks the pharmacist for her medicine while he searches the shelves.
+Her fingers freeze around the prescription; repeated scanner beeps echo through the silent store as the fluorescent lights begin flickering.
+She suddenly stares toward the medicine aisle, sensing something behind her.
+Her fingers begin twitching uncontrollably, slowly curling into unnatural positions.
+She violently convulses against the counter; the pharmacist stumbles backward as medicine bottles fall from the shelves.
+She collapses behind the counter, one arm twitching at an unnatural angle, her limbs becoming rigid and distorted.
+She slowly rises again with wide unfocused eyes, a slack face, bent joints, and unnaturally twisted limbs.
+Her head tilts at a broken angle as she stares directly at the pharmacist without blinking.
+The pharmacist backs away in terror as her arms suddenly bend backward at the elbows.
+Her jaw stretches impossibly wide, revealing an unnatural scream that echoes through the pharmacy.
+She suddenly lunges forward over the counter with explosive speed, forcing the pharmacist to run.
+She vaults over the counter with backward-bending limbs, moving unnaturally fast between the narrow aisles.
+She stands completely still between the medicine shelves, wide unfocused eyes staring toward the entrance.
+A customer enters and freezes when she slowly turns her head toward them.
+Her fingers twitch as her bent joints and distorted limbs begin moving again.
+She suddenly lunges down the aisle, knocking medicine boxes and bottles from the shelves.
+The customer runs toward the exit and trips over a fallen basket.
+The pharmacist grabs a fire extinguisher and pulls the pin with shaking hands.
+White powder blasts into her face; she recoils into a glass medicine cabinet, her limbs folding at unnatural angles.
+She slowly rises from the cloud, powder covering her face, wide unfocused eyes locked on the pharmacist.
+Her jaw drops and stretches impossibly wide again as she suddenly lunges toward him.
+He sprays the extinguisher continuously while backing toward the entrance.
+She crashes through the glass door, her bent limbs twisting unnaturally as shards scatter across the empty nighttime street.
+The pharmacist and customer stare through the shattered doorway in silence.
+Final CCTV angle from inside the medical store; empty aisles, flickering lights, scattered medicine boxes.
+A single medicine box slowly falls from a shelf. Cut to black.
+```
+
+</details>
+
+<a id="seedance-korean-siblings-sandwich-kitchen"></a>
+### 哥哥吃三明治时妹妹从身后伸手
+
+<a href="https://x.com/Hope_Ai01/status/2120162089880940636"><img src="../../previews/seedance-korean-siblings-sandwich-kitchen.jpg" width="360"></a>
+
+提示词在开头固定角色的年龄、发型和服装，并在每个分镜中重复，使同一人物在多个镜头中保持一致。每段只描述一个清晰动作并写明镜头运动，画面更容易稳定，表情和动作也更自然。
+
+Seedance 2.5 · 文生视频 · 出处: [@Hope_Ai01 on X](https://x.com/Hope_Ai01/status/2120162089880940636) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`korean`](tags.md#tag-korean) [`family-drama`](tags.md#tag-family-drama) [`character-consistency`](tags.md#tag-character-consistency) [`multi-scene`](tags.md#tag-multi-scene)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 30-second ultra-realistic South Korean family drama movie scene. It must look like an actual professionally directed Korean theatrical film, not an AI-generated montage.
+
+CHARACTERS — KEEP IDENTICAL THROUGHOUT:
+
+OLDER BROTHER:
+A 25-year-old Korean man, handsome natural face, short black hair, clean-shaven, wearing a dark navy jacket, white T-shirt and black trousers.
+
+YOUNGER SISTER:
+An 11-year-old Korean girl, cute natural appearance, shoulder-length dark brown hair, wearing a pastel pink jacket, white top and blue jeans.
+
+Maintain exactly the same faces, hairstyles, ages and clothing in all six scenes.
+
+SCENE 1 — 00:00–00:05
+MORNING PLAYFUL MOMENT
+
+Inside a beautiful modern Korean apartment kitchen. Brother is eating breakfast. His little sister suddenly steals the last sandwich from his plate and runs away laughing. Brother looks surprised and smiles.
+
+Sister dialogue:
+"오빠, 내 거 줘!"
+English: Brother, give me mine!
+
+Camera: Natural medium shot transitioning into a cinematic close-up.
+
+SCENE 2 — 00:05–00:10
+BROTHER'S CARE
+
+Outside their apartment. The little sister struggles with her schoolbag. Her brother gently takes the bag, fixes her jacket and smiles at her. She looks at him happily.
+
+No dialogue. Natural expressions and beautiful cinematic acting.
+
+SCENE 3 — 00:10–00:15
+SIBLING BOND
+
+Brother and sister walk together through a beautiful autumn street in Seoul. The sister playfully teases her brother. He shakes his head and laughs.
+
+Brother dialogue:
+"넌 정말 못 말려."
+English: You're impossible!
+
+Camera: Smooth cinematic tracking shot with beautiful autumn leaves.
+
+SCENE 4 — 00:15–00:20
+A LITTLE SURPRISE
+
+Inside a charming gift shop. Brother secretly buys a beautiful teddy bear and gives it to his little sister. She opens the gift and her eyes light up with happiness.
+
+No dialogue. Capture her genuine excitement and brother's proud smile.
+
+SCENE 5 — 00:20–00:25
+BEST FRIENDS
+
+At a beautiful Korean street-food market at sunset. Brother and sister share delicious Korean snacks, laugh together and playfully compete over the last bite.
+
+No dialogue. Natural laughter and warm cinematic atmosphere.
+
+SCENE 6 — 00:25–00:30
+FOREVER TOGETHER
+
+Beautiful wide cinematic shot of brother and sister walking hand in hand through a golden sunset park. The sister looks up at her brother and smiles.
+
+Sister dialogue:
+"오빠가 최고야!"
+English: You're the best, brother!
+
+Camera slowly pulls back. Both characters remain visible.
+
+Final movie title:
+MY LITTLE SISTER
+
+CINEMATIC DIRECTION:
+
+- Authentic South Korean theatrical movie quality.
+- Realistic Korean human actors, not animated characters.
+- Natural facial expressions and body movements.
+- Consistent faces and clothing across every scene.
+- Professional anamorphic cinema lens look.
+- Beautiful natural lighting and cinematic color grading.
+- Shallow depth of field and realistic skin texture.
+- Smooth professional camera movements.
+- Natural Korean lip synchronization.
+- Beautiful emotional orchestral piano soundtrack.
+- 24 FPS, 4K quality, vertical 9:16.
+- Every scene must connect naturally to the next.
+
+SOUND DESIGN:
+
+Opening: Soft piano and morning kitchen ambience.
+Middle: Gentle cinematic orchestral music, natural laughter and Seoul street ambience.
+Ending: Emotional piano melody with a beautiful cinematic finish.
+
+NEGATIVE PROMPT:
+
+No cartoon, no anime, no CGI appearance, no artificial faces, no changing actors, no inconsistent clothing, no distorted hands, no exaggerated expressions, no random extra characters, no horror, no violence, no slideshow, no watermark.
+
+FINAL REQUIREMENT:
+
+Exactly THREE spoken dialogues in the entire film. All other scenes must tell the story through natural acting, expressions, gestures and cinematic visuals. Make this feel like a real Korean family movie trailer with professional storytelling and emotional warmth.
 ```
 
 </details>
@@ -1255,6 +1494,47 @@ Duration: 20 seconds.
 Aspect Ratio: 16:9.
 
 Important: Maintain identical character appearances, clothing, facial features, room design, lighting, and yoga mat throughout the entire video. No dialogue, no subtitles, no text, and no watermarks.
+```
+
+</details>
+
+<a id="seedance-motorcycle-rider-panther-encounter"></a>
+### 骑手在山路上停车与黑豹相遇
+
+<a href="https://x.com/itsSaira_1/status/2121817354279510226"><img src="../../previews/seedance-motorcycle-rider-panther-encounter.jpg" width="360"></a>
+
+按时间分段写每个镜头的机位和动作，并用一段角色锁定文字重复服装、发型、摩托车和黑豹的特征，使多个镜头之间的人物和动物保持一致。负面提示词只列出具体的失败形式，而不是描述风格。
+
+Seedance 2.5 · 文生视频 · 出处: [@itsSaira_1 on X](https://x.com/itsSaira_1/status/2121817354279510226) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`motorcycle`](tags.md#tag-motorcycle) [`panther`](tags.md#tag-panther) [`character-consistency`](tags.md#tag-character-consistency)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a hyper-realistic cinematic 4K video in 16:9 aspect ratio, 24 FPS, featuring a beautiful female motorcycle rider on a winding coastal mountain highway.
+
+Scene 1 (0–2 seconds): Begin with a wide cinematic rear tracking shot of a female rider wearing a red and black striped sweater and black pants, riding a powerful black sport motorcycle along a winding mountain coastal highway. Rocky cliffs, metal guardrails, ocean views and several vehicles are visible in the distance. Her long dark hair flows naturally in the wind.
+
+Scene 2 (2–4 seconds): Transition into a dynamic low-angle tracking shot from behind and beside the motorcycle as she accelerates and leans into a sharp road curve. The red LED taillight glows brightly. Other motorcycles and cars travel along the highway. Realistic tire movement, natural road motion and cinematic motion blur.
+
+Scene 3 (4–6 seconds): Cut to a roadside cinematic shot revealing a large, beautiful black panther standing beside the metal guardrail on the rocky roadside. The panther calmly watches the approaching motorcycles. Its muscular body, glossy black fur and realistic facial details are clearly visible.
+
+Scene 4 (6–8 seconds): The female rider notices the panther, gradually slows down and carefully stops her black motorcycle beside it. She turns toward the animal with a surprised but gentle expression. Use a smooth medium-wide camera shot showing both the woman and the panther.
+
+Scene 5 (8–10 seconds): The woman carefully leans toward the panther and slowly extends her right hand. The panther calmly raises one front paw and gently touches her fingers. Capture this emotional interaction with a cinematic close-up, showing realistic hand movement, detailed fur and natural animal behavior.
+
+Scene 6 (10–12 seconds): Show an intimate close-up of the panther gently touching the woman's hand. She looks at the animal with amazement and affection. The panther slowly withdraws its paw and turns its head. Soft wind moves her long hair. Beautiful cinematic depth of field.
+
+Scene 7 (12–15 seconds): Finish with a wide cinematic shot of the coastal highway. The woman returns to her motorcycle and rides away along the winding road while other motorcycles continue ahead. The black panther remains near the roadside. Camera smoothly follows the glowing red taillight as the motorcycle disappears into the scenic distance.
+
+Visual Style: Ultra-photorealistic, Hollywood-style cinematography, natural cloudy daylight, realistic physics, detailed textures, smooth camera transitions, cinematic color grading, professional action-film quality.
+
+Character Consistency: Maintain exactly the same female face, long dark hair, red and black striped sweater, black pants and black sport motorcycle throughout the entire video. Keep the same black panther with consistent body proportions and appearance in every scene.
+
+Negative Prompt: Cartoon, animation, CGI look, unrealistic anatomy, deformed hands, extra fingers, extra limbs, duplicate animals, changing faces, changing clothes, different motorcycles, flickering, unnatural movements, distorted objects, low resolution, excessive motion blur, inconsistent backgrounds.
+
+#AI #AiArt #VisualArt
 ```
 
 </details>
@@ -1883,6 +2163,39 @@ No dialogue, no subtitles, no text. Maintain strong character consistency, natur
 
 </details>
 
+<a id="seedance-pixar-baby-womb-f1-race"></a>
+### 皮克斯风格宝宝在子宫里赢得F1赛车冠军
+
+<a href="https://x.com/Zarnab_with_Ai/status/2120119829294461389"><img src="../../previews/seedance-pixar-baby-womb-f1-race.jpg" width="360"></a>
+
+五个编号分镜每次都重复父母和宝宝的外貌描述，使角色在切换镜头后保持一致。结尾的风格段落写明光影、面料、运镜，并注明无对白，让成片只靠画面叙事。
+
+Seedance 2.5 · 文生视频 · 出处: [@Zarnab_with_Ai on X](https://x.com/Zarnab_with_Ai/status/2120119829294461389) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`pixar-style`](tags.md#tag-pixar-style) [`3d-animation`](tags.md#tag-3d-animation) [`racing`](tags.md#tag-racing) [`family-comedy`](tags.md#tag-family-comedy)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a high-quality cinematic 3D animated Pixar-style comedy short film in vertical 9:16 format.
+
+Scene 1: A beautiful pregnant woman with long, wavy dark brown hair, big expressive blue eyes, wearing a purple and white striped dress, sits comfortably in the passenger seat of a modern car. Her husband, a handsome young man with curly dark hair, wearing a white striped shirt, is driving. The woman gently rests both hands on her pregnant belly and smiles.
+
+Scene 2: Transition into a magical fantasy visualization inside the mother's womb. Reveal a spectacular miniature Formula 1 racing circuit surrounded by glowing orange and red organic tunnels, sparkling particles, dramatic lighting, and winding race tracks.
+
+Scene 3: A cute chubby baby with big blue eyes, wearing a professional red racing suit and a red racing helmet, drives a miniature red Formula 1 Ferrari-style go-kart numbered 1. Show exciting high-speed racing, sharp turns, realistic tire movement, cinematic camera tracking, and dynamic motion blur.
+
+Scene 4: The adorable baby crosses the finish line and wins the race. The baby happily raises a golden trophy while sitting in the red racing car. A checkered racing flag waves in the background, with celebratory lights and confetti.
+
+Scene 5: Cut back to the car interior. The pregnant woman and her husband look at each other and laugh joyfully, sharing a sweet romantic moment while gently touching her belly.
+
+Visual Style: Premium Pixar-inspired 3D animation, adorable character design, expressive facial emotions, ultra-detailed environments, cinematic lighting, smooth animation, vibrant colors, realistic fabric textures, consistent characters throughout all scenes, professional camera movements, high-quality rendering, funny and heartwarming storytelling.
+
+Format: 9:16 vertical, approximately 20–22 seconds, no dialogue, no subtitles, no watermark.
+```
+
+</details>
+
 <a id="seedance-plum-tree-prince-comedy"></a>
 ### 女子摇动梅树,接住掉下来的王子
 
@@ -1942,6 +2255,35 @@ cartoon, anime, CGI look, low quality, blurry face, extra fingers, warped hands,
 
 </details>
 
+<a id="seedance-pregnant-hospital-family-comedy"></a>
+### 孕妇躺在病床上，身旁是超声设备
+
+<a href="https://x.com/Zarnab_with_Ai/status/2120348100263035383"><img src="../../previews/seedance-pregnant-hospital-family-comedy.jpg" width="360"></a>
+
+提示词先写剧情段落，再接一段固定的风格说明（皮克斯风3D、柔光、竖版9:16），并明确要求各镜头中角色外形和服装保持一致，使画面风格在切镜时保持稳定。
+
+Seedance 2.5 · 文生视频 · 出处: [@Zarnab_with_Ai on X](https://x.com/Zarnab_with_Ai/status/2120348100263035383) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`pregnancy`](tags.md#tag-pregnancy) [`hospital`](tags.md#tag-hospital) [`pixar-style`](tags.md#tag-pixar-style) [`family`](tags.md#tag-family)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a heartwarming and emotional 3D animated family comedy story set in a colorful hospital.
+
+A young pregnant woman arrives at the hospital with her husband. The husband is nervous and anxious as doctors examine his wife. Meanwhile, a curious little baby wearing a bright yellow backpack wanders through the hospital corridors, creating funny and unexpected moments.
+
+The story follows the couple's emotional journey, hospital scenes, funny baby reactions, and the excitement of welcoming a newborn. Show the husband waiting anxiously, doctors assisting the mother, and the family experiencing emotional and humorous surprises.
+
+Use expressive facial animations, adorable baby characters, cinematic camera movements, vibrant colorful environments, soft lighting, detailed textures, and high-quality Pixar-style 3D animation.
+
+Maintain consistent character designs, outfits, and appearances throughout all scenes. Create smooth transitions between shots, emotional storytelling, and a satisfying heartwarming ending.
+
+Style: High-quality 3D cartoon animation, cinematic storytelling, family comedy, emotional expressions, 4K detail, vertical 9:16 format.
+```
+
+</details>
+
 <a id="seedance-pregnant-woman-kitchen-tennis-comedy"></a>
 ### 孕妇在豪华厨房切黄瓜
 
@@ -1992,6 +2334,268 @@ Seedance 2.5 · 文生视频 · 出处: [@Aiwithmaha on X](https://x.com/Aiwithm
 
 ```text
 Create a 30-second ultra-realistic cinematic emotional short film in vertical 9:16 format. A young woman wearing a black outfit is cooking delicious spaghetti in her modern kitchen, gently stirring the pasta in a pan over a blue flame. Suddenly, she notices heavy rain falling outside her window and sees a tiny orange-and-white kitten sitting alone in the cold rain. She immediately leaves her cooking, grabs an umbrella, and rushes outside to rescue the helpless kitten. She carefully picks up the frightened, wet kitten and brings it safely inside her warm home. She gently wraps the little kitten in a soft pink towel and lovingly dries its wet fur. Next, she prepares a small pink food bowl filled with delicious cat food and places it in front of the hungry kitten. The kitten happily eats while the woman watches with a warm, emotional smile. Finally, she sits in her cozy kitchen enjoying her spaghetti while the adorable kitten rests peacefully beside her. Use realistic facial expressions, natural movements, beautiful cinematic lighting, emotional storytelling, detailed environments, and heartwarming background music throughout the entire 30-second video.
+```
+
+</details>
+
+<a id="seedance-rainy-bookstore-romance-sequence"></a>
+### 雨天书店橱窗，暖金色灯光
+
+<a href="https://x.com/mimu_ai1/status/2120014240212008995"><img src="../../previews/seedance-rainy-bookstore-romance-sequence.jpg" width="360"></a>
+
+将30秒的片子拆成六个各5秒的时间段，每段都有自己的运镜和声音提示，并在每段重复相同的脸部、发型和服装描述，保持两位主角一致。每句台词都写明说话人和语气，让口型同步有清晰的节拍。
+
+Seedance 2.5 · 参考生视频 · 出处: [@mimu_ai1 on X](https://x.com/mimu_ai1/status/2120014240212008995) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`romance`](tags.md#tag-romance) [`rain`](tags.md#tag-rain) [`bookstore`](tags.md#tag-bookstore) [`dialogue`](tags.md#tag-dialogue)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create an ultra-photorealistic, high-budget Hollywood romantic film sequence featuring a beautiful young woman visits a charming old bookstore on a rainy afternoon. She accidentally meets a mysterious young man when they reach for the same book. Their unexpected encounter develops into a beautiful romantic connection as they share an umbrella, walk through the city and enjoy coffee together.
+
+MAIN CHARACTERS :
+
+1. THE YOUNG WOMAN — FEMALE LEAD
+
+A beautiful adult woman with the exact facial identity, her recognizable facial features, blue eyes, natural skin texture, facial proportions and long, naturally curly light auburn/blonde hair.
+
+Wardrobe:
+She wears an elegant cream-colored tailored coat over a sophisticated neutral-colored blouse, delicate layered gold necklaces, small understated earrings, and beautifully styled natural hair.
+
+Her appearance: Sophisticated, elegant look for a rainy European afternoon. Keep her facial identity, hairstyle, eye color, skin texture, proportions, outfit, and accessories identical in every shot. Performance should be authentic and spontaneous, with subtle romantic expressions.
+
+2. THE YOUNG MAN — MALE LEAD
+
+A handsome adult man in his late twenties or early thirties with naturally styled dark brown hair, warm brown eyes, realistic natural skin texture, attractive but understated facial features, and a charming personality.
+
+Wardrobe:
+An elegant dark charcoal overcoat, A neutral cream or beige sweater, Dark tailored trousers, A sophisticated everyday outfit
+
+His appearance: Natural, approachable, quietly confident look. Keep the same face, hair, proportions, and outfit throughout. Show curiosity, warmth, slight nerves, and growing romantic interest.
+
+IMPORTANT: Both characters must look like real people interacting naturally. Their romantic chemistry should feel spontaneous rather than staged.
+
+3. ENVIRONMENT
+
+A rainy autumn afternoon in an old European city. The main setting is a charming independent bookstore with tall wooden shelves, vintage books, large glass windows, warm golden lighting, wooden floors, cozy reading corners, and a small antique display, lit by soft daylight.
+
+Outside: cobblestone streets, historic stone buildings, small cafés, vintage street lamps, rain-soaked pavement with realistic puddle reflections, elegant storefronts, and a warm, inviting atmosphere.
+
+The final location is a small romantic café with large windows, warm ambient lighting, wooden furniture, coffee cups, soft background activity and gentle rain visible outside.
+
+00:00–00:05 — THE ORDINARY AFTERNOON
+
+Open with a breathtaking cinematic establishing shot of a charming independent bookstore on a rainy afternoon.
+
+Rain gently falls against the large glass windows.
+
+Inside, warm golden light illuminates beautifully arranged wooden bookshelves.
+
+The young woman enters the bookstore and slowly walks between the shelves, browsing through the books.
+
+She notices an interesting hardcover novel on a nearby shelf.
+
+She gently reaches toward it while examining its cover.
+
+The camera slowly moves closer, capturing her natural facial expressions, beautiful curly hair and delicate movements.
+
+She smiles slightly as she discovers the book.
+
+Outside, rain continues falling softly.
+
+Camera: Smooth cinematic dolly-in, wide establishing shot transitioning into an elegant medium shot. Natural shallow depth of field, realistic skin texture, beautiful window reflections and professional romantic movie cinematography.
+
+Sound: Gentle piano music, soft rain against the windows, subtle bookstore ambience and quiet footsteps.
+
+00:05–00:10 — THE UNEXPECTED ENCOUNTER
+
+Suddenly, a handsome young man approaches the same bookshelf from the opposite direction.
+
+He notices the same novel and reaches for it at exactly the same moment as the woman.
+
+Their fingers accidentally touch.
+
+Both characters pause.
+
+The woman slowly looks up.
+
+The man looks directly into her eyes.
+
+They exchange a brief, slightly awkward smile.
+
+The woman gently withdraws her hand while laughing softly.
+
+Dialogue — Woman (slightly embarrassed, smiling):
+
+"Oh, sorry!"
+
+Dialogue — Man (warm, charming voice):
+
+"No, you take it."
+
+The woman looks at him and smiles.
+
+The man gestures toward the book, inviting her to take it.
+
+Camera: Extreme close-up of their hands touching the book, followed by alternating natural facial close-ups, subtle eye contact and a soft cinematic rack focus.
+
+Sound: A gentle musical transition, subtle fabric movement and quiet bookstore ambience.
+
+00:10–00:15 — THE SHARED UMBRELLA
+
+The scene transitions outside the bookstore.
+
+The rain suddenly becomes heavier.
+
+The woman stands near the entrance, looking at the rain while holding the book close to her chest.
+
+The young man steps outside behind her.
+
+He opens a large dark umbrella and notices that she is standing without one.
+
+He approaches her with a gentle smile and slightly tilts the umbrella toward her.
+
+Dialogue — Man (warm, friendly):
+
+"Would you like to share?"
+
+The woman looks at him, briefly hesitates, then smiles.
+
+Dialogue — Woman:
+
+"I'd like that."
+
+He moves beside her, and they begin walking together beneath the umbrella.
+
+The rain falls realistically around them while water reflects the surrounding streetlights and shop windows.
+
+Camera: Cinematic medium two-shot, slow tracking movement, natural character interaction, beautiful reflections and shallow depth of field.
+
+00:15–00:20 — A WALK TO REMEMBER
+
+The couple walks together through a beautiful old European street under the umbrella.
+
+The woman holds her book against her coat while the man carries the umbrella.
+
+They exchange glances and smile.
+
+The woman briefly looks toward him while he says something amusing.
+
+She laughs naturally.
+
+A light breeze moves her curly hair slightly beneath the umbrella.
+
+They pass beautiful cafés, vintage shop windows and warm glowing streetlights.
+
+The camera captures their natural body language and subtle romantic chemistry.
+
+Camera: Smooth side-tracking shot, intimate over-the-shoulder shots, natural profile close-ups and a beautiful wide cinematic street composition.
+
+Sound: Gentle romantic piano, natural footsteps, rain falling against the umbrella and distant city ambience.
+
+00:20–00:25 — AN UNEXPECTED CONNECTION
+
+Transition into a beautiful cozy café.
+
+The couple sits across from each other beside a large window.
+
+Two freshly prepared coffees sit on the small wooden table.
+
+The woman gently holds her coffee cup while listening to the man.
+
+They share a genuine laugh.
+
+The man looks at her with warm interest.
+
+She smiles, then briefly looks outside at the rain.
+
+Dialogue — Woman (gently curious):
+
+"Do you often meet strangers like this?"
+
+Dialogue — Man (smiling):
+
+"Not the ones I'd like to meet again."
+
+The woman looks at him and laughs softly.
+
+Camera: Warm cinematic close-ups, intimate over-the-table composition, gentle focus shifts between the characters, beautiful café lighting and realistic facial expressions.
+
+Sound: Soft piano and strings, quiet café ambience, subtle coffee cup sounds and natural dialogue.
+
+00:25–00:30 — THE BEGINNING OF SOMETHING
+
+The couple leaves the café together.
+
+The rain has finally stopped.
+
+Beautiful golden evening sunlight appears between the old buildings, creating warm reflections across the wet cobblestone street.
+
+They walk side by side.
+
+The woman turns toward him and smiles.
+
+Dialogue — Woman (softly):
+
+"Do you think we'll meet again?"
+
+The man slows down slightly, looks into her eyes and responds with a genuine smile.
+
+Dialogue — Man (warm, sincere):
+
+"I was hoping we would."
+
+The woman laughs softly.
+
+They continue walking together as the camera slowly pulls backward.
+
+End with a breathtaking wide cinematic composition of the two characters walking through the beautiful golden-lit European street.
+
+FINAL ON-SCREEN TITLE:
+"THE MOMENT WE MET"
+
+FINAL TAGLINE:
+"Sometimes, the best stories begin with a stranger."
+
+Camera: Slow cinematic pullback, golden-hour backlighting, natural character movement, beautiful reflections and a gentle romantic fade-out.
+
+Sound: Emotional orchestral piano crescendo followed by a soft musical resolution.
+
+4. TECHNICAL PRODUCTION DIRECTIVES
+
+VIDEO SPECIFICATIONS:
+- Exactly 30 seconds, 16:9 widescreen.
+- 4K UHD and 60 FPS where supported.
+- Ultra-photorealistic, Hollywood-quality live-action footage.
+- Six separate 5-second scenes with seamless continuity.
+
+CINEMATOGRAPHY:
+Professional 35mm/50mm cinema aesthetics, smooth dolly and tracking shots, cinematic close-ups, natural depth of field, realistic motion blur and elegant transitions.
+
+HUMAN PERFORMANCE:
+Natural facial expressions, realistic eye contact, subtle romantic chemistry, authentic smiles, natural gestures, believable body movements and consistent character appearances.
+
+ENVIRONMENT & LIGHTING:
+Realistic rainfall, wet pavement reflections, natural hair and clothing movement, atmospheric mist and detailed environments. Use warm bookstore lighting, cool rainy streets, cozy café illumination and beautiful golden-hour backlighting.
+
+SOUND DESIGN:
+Original romantic piano and orchestral soundtrack, realistic rain, footsteps, bookstore and café ambience, umbrella movement and natural environmental sounds. Keep background music balanced beneath dialogue.
+
+DIALOGUE:
+Natural fluent English with accurate lip-syncing, realistic emotional delivery and natural pauses. Gentle expressive female voice and warm charming male voice. No narrator, overlapping dialogue or subtitles.
+
+STRICT CHARACTER CONSISTENCY:
+- Female lead: Preserve the exact facial identity, blue eyes, curly light auburn/blonde hair, skin texture and proportions from the uploaded portrait.
+- Male lead: Maintain identical facial features, hairstyle and appearance throughout.
+- Both characters must retain identical outfits and accessories in every scene.
+- Maintain consistent props, locations and environmental details.
+
+NEGATIVE PROMPT:
+]No cartoon or anime style, artificial skin, distorted anatomy, extra fingers or limbs, changing faces, inconsistent costumes, unnatural expressions, awkward movements, unrealistic rain, flickering, duplicated characters, abrupt transitions, unwanted text, subtitles or watermarks.
+
+FINAL CREATIVE DIRECTION:
+Create an emotionally engaging, photorealistic Hollywood romantic short film about two strangers experiencing an unexpected connection.Prioritize realistic human performances, natural romantic chemistry, cinematic visuals and seamless continuity. Keep the romance subtle, authentic and emotionally memorable.Every frame should feel like it belongs to a professionally produced romantic movie.
 ```
 
 </details>
@@ -3232,6 +3836,25 @@ Audio: Playful orchestral comedy music, subtle footsteps, soft paper rustling, t
 Consistency requirements: Maintain identical character designs, clothing, hairstyles, facial features, and proportions throughout every shot. Smooth animation, coherent actions, accurate hand movements, no flickering, no extra fingers, no character distortion, and no sudden scene changes.
 
 Format: 16:9, 4K quality, 24 fps, approximately 22 seconds, family-friendly comedic storytelling.
+```
+
+</details>
+
+<a id="seedance-toddler-flour-bag-kitchen-mess"></a>
+### 幼童偷拖面粉袋撒满厨房
+
+<a href="https://x.com/Zarnab_with_Ai/status/2109109590067675629"><img src="../../previews/seedance-toddler-flour-bag-kitchen-mess.jpg" width="360"></a>
+
+按顺序写出十五秒内的动作节拍（偷拿、搬运、撕袋、妈妈转身、宝宝微笑），让喜剧节奏清晰。用皮克斯风格三维动画、暖色阳光、平滑运镜和 9:16 竖屏画幅锁定画面风格。
+
+Seedance 2.5 · 文生视频 · 出处: [@Zarnab_with_Ai on X](https://x.com/Zarnab_with_Ai/status/2109109590067675629) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`3d-animation`](tags.md#tag-3d-animation) [`comedy`](tags.md#tag-comedy) [`kitchen`](tags.md#tag-kitchen) [`family`](tags.md#tag-family)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 15-second vertical 3D animated cinematic comedy video. A young mother is baking in a beautiful, sunlit kitchen when her adorable, mischievous toddler secretly grabs a large paper flour bag. The baby struggles to carry it across the wooden floor, accidentally tearing the bag and spilling white flour everywhere. The mother turns around in surprise, while the baby ends up sitting in a fluffy pile of flour, looking innocent before breaking into a cute smile. Warm golden sunlight, realistic flour particles, expressive cartoon faces, detailed kitchen environment, smooth camera movements, Pixar-style 3D animation, soft cinematic lighting, realistic textures, adorable storytelling, humorous ending, 9:16 aspect ratio, high-quality rendering.
 ```
 
 </details>

@@ -1,0 +1,25 @@
+id: seedance-toddler-flour-bag-kitchen-mess
+title:
+  en: Toddler spills flour bag in sunlit kitchen
+  zh: 幼童偷拖面粉袋撒满厨房
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- 3d-animation
+- comedy
+- kitchen
+- family
+source:
+  name: '@Zarnab_with_Ai on X'
+  url: https://x.com/Zarnab_with_Ai/status/2109109590067675629
+  credit: Zarnab_with_Ai
+  captured: '2026-11-17'
+  posted: '2026-10-11'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Zarnab_with_Ai/status/2109109590067675629
+notes:
+  en: Lists the 15 second beats in order (the grab, the struggle, the tear, the mother's turn and the smile) so the comedy timing is explicit. Pins the look with Pixar style 3D animation, warm sunlight, smooth camera moves and a 9:16 vertical frame.
+  zh: 按顺序写出十五秒内的动作节拍（偷拿、搬运、撕袋、妈妈转身、宝宝微笑），让喜剧节奏清晰。用皮克斯风格三维动画、暖色阳光、平滑运镜和 9:16 竖屏画幅锁定画面风格。
+prompt: |
+  Create a 15-second vertical 3D animated cinematic comedy video. A young mother is baking in a beautiful, sunlit kitchen when her adorable, mischievous toddler secretly grabs a large paper flour bag. The baby struggles to carry it across the wooden floor, accidentally tearing the bag and spilling white flour everywhere. The mother turns around in surprise, while the baby ends up sitting in a fluffy pile of flour, looking innocent before breaking into a cute smile. Warm golden sunlight, realistic flour particles, expressive cartoon faces, detailed kitchen environment, smooth camera movements, Pixar-style 3D animation, soft cinematic lighting, realistic textures, adorable storytelling, humorous ending, 9:16 aspect ratio, high-quality rendering.

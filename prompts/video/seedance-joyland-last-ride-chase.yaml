@@ -1,0 +1,84 @@
+id: seedance-joyland-last-ride-chase
+title:
+  en: Foggy abandoned amusement park at midnight
+  zh: 午夜雾中废弃游乐园
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- horror
+- thriller
+- character-consistency
+source:
+  name: '@zachkry_ on X'
+  url: https://x.com/zachkry_/status/2120052525374308840
+  credit: zachkry_
+  captured: '2026-11-17'
+  posted: '2026-11-10'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/zachkry_/status/2120052525374308840
+notes:
+  en: The prompt splits the 30 second run into timed beats, each with its own camera move, and repeats the schoolgirl's uniform and face description in a continuity block so the character holds across cuts. Fog, flickering lights and colour are specified in the setting line to keep the park consistent from shot to shot.
+  zh: 提示词把30秒拆成带时间码的分段，每段指定独立的镜头运动，并在开头重复少女的校服与面部描述，让角色在切换中保持一致。雾气、闪烁灯光和色调写在场景设定中，使各镜头里的游乐园风格统一。
+prompt: |
+  THE LAST RIDE – ESCAPE FROM JOKER'S JOYLAND
+  Duration: 30 Seconds | Genre: Cinematic Horror Thriller | Setting: Abandoned Joyland Amusement Park at Midnight
+  Main Character:
+  A young Korean high school girl wearing a traditional Korean school uniform: dark fitted blazer, white collared shirt, neat tie, pleated skirt, knee-high socks, and black school shoes. She has long, dark, slightly messy hair and carries a school backpack. Her facial expressions should show extreme fear, panic, and desperation. Maintain consistent facial features, hairstyle, and clothing throughout the entire video.
+  0–5 SECONDS | THE NIGHTMARE BEGINS
+
+  Establish an abandoned Joyland amusement park at midnight. Broken carnival rides, a motionless Ferris wheel, flickering neon signs, rusty gates, scattered balloons, and thick ground-level fog create an eerie atmosphere. The Korean schoolgirl runs desperately through the empty park, crying and constantly looking behind her. Her backpack bounces as she runs. A terrifying laugh echoes from somewhere behind her.
+  Camera: Cinematic wide establishing shot, followed by a fast handheld tracking shot facing the running girl. Extreme close-up of her trembling eyes and tear-covered face.
+
+  5–10 SECONDS | JOKER'S ARRIVAL
+  Reveal the Joker standing beside an abandoned carousel. He wears a disturbing clown costume, white makeup, dark exaggerated eyes, and a sinister red smile. Behind him stand his creepy followers dressed in oversized animal mascot costumes: a giant white rabbit with long floppy ears, a creepy brown bear, a fox, and a grey wolf. Their costumes are worn, dirty, and unsettling.
+
+  The Joker slowly tilts his head, bursts into sinister laughter, and signals his followers to chase the girl. All the animal mascots suddenly start running toward her.
+
+  Camera: Low-angle villain reveal, slow cinematic zoom toward Joker's face, followed by a dramatic whip-pan toward the approaching mascots.
+
+  10–15 SECONDS | THE CHASE
+  The schoolgirl screams and runs faster between abandoned carnival stalls. The giant rabbit and other animal mascots chase her, laughing hysterically. Their oversized costume heads bounce unnaturally as they run. The girl looks over her shoulder, crying and struggling to breathe.
+
+  Camera: Dynamic 360-degree rotating shot around the girl while she runs, fast backward tracking shot, shaky handheld side tracking, and quick close-ups of the chasing rabbit.
+
+  15–20 SECONDS | SURROUNDED
+
+  An overhead cinematic shot reveals the girl trapped between abandoned amusement rides. She desperately changes direction and runs through a narrow passage. Suddenly, the Joker appears at the far end, slowly walking toward her with a terrifying grin. His animal-costumed followers approach from behind, holding strange oversized carnival props.
+
+  Camera: Dramatic overhead shot, Dutch-angle framing, rapid cuts between the girl's terrified expression, Joker's evil smile, and the approaching animal mascots.
+  20–25 SECONDS | NO WAY OUT
+
+  The girl trips and falls beside an abandoned children's train ride. Her schoolbag slips off her shoulder. She crawls backward on the ground, crying uncontrollably. The giant rabbit slowly approaches her, tilting its oversized head from side to side. The bear and fox stand behind it, laughing in creepy distorted voices. The Joker watches from a distance, enjoying the terrifying moment.
+
+  Camera: Ground-level close-up, slow-motion fall, extreme close-up of trembling hands and tearful eyes, followed by a slow push-in toward the rabbit's expressionless mascot face.
+
+  25–30 SECONDS | THE FINAL NIGHTMARE
+  The girl suddenly gets up and runs toward a dark tunnel underneath the Ferris wheel. The animal mascots sprint after her. The camera performs a fast 360-degree orbit around the running girl before switching to a dramatic POV shot of the rabbit chasing her. The Joker stands in the background, spreading his arms and laughing loudly.
+
+  Joker's Dialogue (deep, distorted, sinister voice):
+
+  "Run, little girl... the fun has only just begun!"
+
+  End with a sudden close-up of the giant rabbit emerging from the darkness, followed by Joker's terrifying laughter and an abrupt cut to complete blackness.
+  VISUAL & CINEMATIC DIRECTION:
+
+  Ultra-realistic cinematic horror-thriller aesthetic.
+
+  Korean schoolgirl with consistent face, uniform, hairstyle, and backpack.
+
+  Joker remains the central villain throughout.
+  Giant rabbit is the most recognizable and frightening mascot follower.
+
+  Realistic running, stumbling, crying, and frightened facial expressions.
+
+  Dynamic 360-degree camera rotations and cinematic tracking shots.
+
+  Handheld camera movements, Dutch angles, overhead shots, and dramatic POV sequences.
+
+  Thick atmospheric fog, flickering carnival lights, deep shadows, eerie green and red lighting.
+
+  Distorted laughter, echoing footsteps, heavy breathing, distant carnival music, and suspenseful background sound.
+
+  Photorealistic character details, realistic physics, cinematic motion blur, dramatic lighting, and 4K visual quality.
+  CONTINUITY REQUIREMENT: Every character must maintain the same appearance throughout the video. The Korean schoolgirl must remain in her school uniform in every scene. No random costume changes, no face changes, no additional characters, and no cartoon-style visuals.

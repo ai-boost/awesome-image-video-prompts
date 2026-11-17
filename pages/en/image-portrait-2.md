@@ -1,6 +1,6 @@
 # Portraits
 
-[Back to the list](../../README.md) · All 287 entries · [1](image-portrait.md) · **2** · [3](image-portrait-3.md)
+[Back to the list](../../README.md) · All 288 entries · [1](image-portrait.md) · **2** · [3](image-portrait-3.md)
 
 <a id="gpt-image-damp-hair-beauty-portrait"></a>
 ### Close up beauty portrait with damp hair
@@ -3321,6 +3321,45 @@ Nano Banana Pro · Text-to-image · Source: [@i_am_shruti68 on X](https://x.com/
 
 </details>
 
+<a id="gpt-image-2-6-fur-coat-amg-trunk-night"></a>
+### Woman in fur coat by open AMG trunk
+
+<a href="https://x.com/mehvishs25/status/2122701314350277015"><img src="../../previews/gpt-image-2-6-fur-coat-amg-trunk-night.jpg" width="360"></a>
+
+Naming the uploaded photo as the identity reference, then asking for candid body language and an iPhone direct-flash look, keeps the face consistent while the setting changes. The negative prompt rules out plastic skin, excess blur and stiff posing, the usual failures of this style.
+
+GPT Image 2.6 · Edit · Source: [@mehvishs25 on X](https://x.com/mehvishs25/status/2122701314350277015) · 31 likes on 2026-11-17
+
+[`portrait`](tags.md#tag-portrait) [`street-style`](tags.md#tag-street-style) [`night`](tags.md#tag-night) [`fashion`](tags.md#tag-fashion)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a highly photorealistic vertical 3:4 nighttime fashion photograph, using the uploaded reference image as the exact identity reference for the girl. Preserve her original facial features, face shape, eyes, nose, lips, skin tone, and body proportions without any alterations. She must look exactly like the woman in the reference image.
+
+Scene & Composition:
+
+A stylish European city street at night, with the girl casually posing beside a luxurious black Mercedes-Benz AMG with its trunk open. Capture her in a spontaneous, candid moment rather than a deliberate fashion pose. Her body is angled slightly away from the camera, with one knee gently bent and her weight resting naturally on the opposite leg. One hand rests on the open trunk while the other lightly adjusts her sunglasses.
+
+Outfit & Appearance:
+
+She wears a plush ivory cropped fur coat over a fitted white corset-style top, paired with relaxed dark indigo low-rise jeans. Her hair is exceptionally long, thick, and voluminous, swept dramatically over one shoulder with soft natural movement. A few loose strands frame her face.
+
+Her head is tilted slightly downward, eyes looking away from the camera, with a subtle, relaxed expression and naturally parted lips. Her skin has a warm sun-kissed tone, realistic pores, and a healthy natural sheen. Neat short square French-tip nails complete the look.
+
+Photography & Atmosphere:
+
+The image should resemble an authentic luxury street-style photograph taken spontaneously on an iPhone with direct flash. Bright flash illumination on the girl contrasts with the warm golden glow of European streetlights. In the background, softly illuminated buildings, passing vehicles, and subtle reflections create an atmospheric nighttime city setting.
+
+Add delicate film grain, realistic flash shadows, natural color variations, and slight movement in her hair and distant traffic. Maintain sharp facial details and realistic fabric textures.
+
+Visual Direction: Pinterest-inspired luxury street fashion, understated Y2K aesthetic, candid celebrity street-style photography, natural body language, authentic RAW iPhone photography.
+
+Negative Prompt: Different face, altered identity, changed facial proportions, artificial beauty filter, plastic skin, excessive retouching, CGI appearance, unrealistic body proportions, distorted hands, extra fingers, stiff posing, excessive background blur, oversaturated lighting, cartoon appearance, low resolution.
+```
+
+</details>
+
 <a id="gpt-image-2-6-moonlit-lake-hanfu-portrait"></a>
 ### Woman seated in moonlit lake water
 
@@ -4136,44 +4175,6 @@ GPT Image 2 · Edit · Source: [@harboriis on X](https://x.com/harboriis/status/
 
 ```text
 A fish-eye lens close-up of [your photo as reference] sipping from a teal/turquoise coffee mug, leaning forward intimately toward camera. Shot through or near a round mirror. Retro café interior with glossy teal subway tiles, vintage appliances, pendant lights. Black t-shirt, yellow-tinted round glasses. Warm moody tones.
-```
-
-</details>
-
-<a id="gpt-image-futuristic-office-businesswoman-portrait"></a>
-### Businesswoman portrait in futuristic glass office
-
-<a href="https://x.com/NadzuAI/status/2087901626891940013"><img src="../../previews/gpt-image-futuristic-office-businesswoman-portrait.jpg" width="360"></a>
-
-The prompt stacks wardrobe, setting, lighting and lens cues (soft cinematic light, shallow depth of field, realistic skin texture) and limits the palette to blue and white tones. It also fixes a 4:5 vertical frame and adds no text and no watermark to keep the output clean.
-
-GPT Image 2 · Text-to-image · Source: [@NadzuAI on X](https://x.com/NadzuAI/status/2087901626891940013) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
-
-[`corporate-portrait`](tags.md#tag-corporate-portrait) [`business`](tags.md#tag-business) [`photorealistic`](tags.md#tag-photorealistic) [`futuristic-office`](tags.md#tag-futuristic-office) [`vertical`](tags.md#tag-vertical)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a hyper-realistic HD portrait of a confident young professional businesswoman, elegant modern black blazer over a white blouse, standing in a premium futuristic office with glass walls, subtle AI technology screens and a city skyline in the background. Natural makeup, polished hairstyle, confident expression, professional corporate appearance, cinematic soft lighting, realistic skin texture, shallow depth of field, luxury business atmosphere, sophisticated blue-and-white tones, ultra-detailed, photorealistic, 8K quality, sharp focus, premium LinkedIn and AI startup branding aesthetic, vertical 4:5 composition, no text, no watermark.
-```
-
-</details>
-
-<a id="gpt-image-golden-hour-couple-cinematic-closeup"></a>
-### Golden Hour Couple Close Up at Sunset
-
-<a href="https://x.com/darshal_/status/2049071963520508058"><img src="../../previews/gpt-image-golden-hour-couple-cinematic-closeup.jpg" width="360"></a>
-
-Low sun backlighting with rim light, soft lens flare and shallow depth of field creates a filmic fragrance campaign look. A 50mm lens cue and muted earth tone grading keep skin and hair textures realistic.
-
-GPT Image 2 · Text-to-image · Source: [@darshal_ on X](https://x.com/darshal_/status/2049071963520508058) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
-
-[`couple`](tags.md#tag-couple) [`golden-hour`](tags.md#tag-golden-hour) [`backlight`](tags.md#tag-backlight) [`cinematic`](tags.md#tag-cinematic) [`close-up`](tags.md#tag-close-up)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A cinematic golden-hour close-up of a young couple in an intimate outdoor moment, framed from the chest up. The main focus is a handsome young man with dark brown tousled wavy hair, soft defined jawline, smooth light-tan skin, and a calm, distant expression as he gazes slightly upward and off to the left. He wears a black open-collar button-up shirt with a relaxed, elegant fit. Leaning into him is 1 young woman with long dark brown hair, her face mostly hidden against his shoulder and chest, creating a tender, protective mood; only part of her hair, shoulder, and thin black spaghetti-strap dress are visible. Use warm sunset backlighting with the sun low behind them on the left, creating glowing rim light around their hair and shoulders, soft lens flare, amber highlights, shallow depth of field, and a blurred natural landscape in the background with low hills. The composition should feel romantic, editorial, and filmic, like a luxury fragrance or fashion campaign, with soft skin detail, realistic textures, subtle wind in the hair, muted earth tones, and high-end cinematic color grading. Photorealistic, emotional, intimate, 50mm lens look, ultra-detailed, natural light, soft contrast.
 ```
 
 </details>

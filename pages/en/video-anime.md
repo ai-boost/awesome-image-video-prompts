@@ -1,6 +1,6 @@
 # Anime and animation
 
-[Back to the list](../../README.md) · All 82 entries · **1** · [2](video-anime-2.md)
+[Back to the list](../../README.md) · All 83 entries · **1** · [2](video-anime-2.md)
 
 <a id="seedance-two-friends-bedsheet-ghost-prank"></a>
 ### Phone camera sketch of friends and a bedsheet ghost
@@ -545,6 +545,57 @@ Create a polished 15-second anime sports-game player stats screen opening. Use o
 Use crisp premium game-UI motion, clean 2D anime character animation, subtle depth between Kaze and the interface, and stable legible typography. Keep every panel, icon, label, number, and geometric boundary fixed once revealed. Do not introduce new text, extra characters, additional objects, logos, captions, or UI elements.
 
 Audio: low electronic boot hum, delicate scanning ticks, short confirmation tones as values lock, rising airy wind around the ball, soft cloth movement, and one refined completion chime. No dialogue and no music.
+```
+
+</details>
+
+<a id="wan-ram-rem-macos-desktop"></a>
+### Ram and Rem on a macOS desktop wallpaper
+
+<a href="https://x.com/Mayz1169/status/2100854831837782439"><img src="../../previews/wan-ram-rem-macos-desktop.jpg" width="360"></a>
+
+A reference image fixes the character design, and the prompt then locks the layout: the subject on the right at 35 to 45 percent of the frame, clear space on the left, and a background palette taken from the characters' pink and blue hair. The Japanese menu bar, three folders and Dock list make the result read as a real desktop.
+
+Wan 3.0 · Reference-to-video · Source: [@Mayz1169 on X](https://x.com/Mayz1169/status/2100854831837782439) · 655 likes on 2026-11-17
+
+[`desktop-wallpaper`](tags.md#tag-desktop-wallpaper) [`macos`](tags.md#tag-macos) [`anime`](tags.md#tag-anime)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Using the uploaded image as the subject reference, create a polished 16:9 macOS desktop composition.
+
+Subject:
+Identify the main subject or characters in the reference and preserve their recognizable appearance, facial features, hairstyle, clothing, accessories, proportions, and original visual style. Keep interacting characters together. If the reference is a character design sheet with multiple views of the same character, use only one main view. Remove the original background, reference-sheet panels, captions, and decorative borders.
+
+Composition:
+Place the subject on the RIGHT side, occupying approximately 35–45% of the canvas. Leave generous uncluttered space across the left and center. Keep faces and important gestures fully visible. Preserve the full body when the reference provides it; otherwise, use a natural crop without inventing unseen anatomy. Keep the subject clear of the menu bar and Dock.
+
+Adaptive wallpaper:
+Design a custom background that matches the subject’s colors, personality, clothing, and mood. Combine the broad flowing curves and smooth gradients of classic macOS wallpapers with a palette drawn from the reference.
+
+For soft or gentle subjects, use delicate pastel gradients. For energetic subjects, use restrained vibrant accents. For elegant or mysterious subjects, use rich darker tones with subtle highlights. Make these choices based on the actual reference rather than applying the same palette to every image.
+
+Keep the background simpler and less visually dominant than the subject. Use tonal separation so dark clothing remains visible against dark backgrounds and light hair remains visible against pale backgrounds. Add only a few subtle thematic details when appropriate.
+
+Desktop interface:
+Include a thin translucent macOS menu bar across the top, with the Apple symbol, Finder, and Japanese menu labels:
+ファイル  編集  表示  移動  ウインドウ  ヘルプ
+Place small system status icons and a clock at the upper right.
+
+On the upper left, arrange exactly three modestly sized desktop items in one vertical column:
+• A blue folder labeled “仕事”
+• A blue folder labeled “写真”
+• A screenshot thumbnail labeled “スクリーンショット”
+
+Use consistent spacing and small, readable white labels with subtle shadows.
+
+Add a realistically sized translucent macOS Dock near the bottom center, shifting slightly left if necessary to avoid overlapping the subject. Include Finder, Safari, LINE, Mail, Calendar, Notes, Music, System Settings, followed by a separator, Downloads, and Trash.
+
+Final appearance:
+The result should look like a cohesive personalized Mac desktop screenshot, with a character-inspired wallpaper and clean, believable interface elements. Preserve the reference’s art style rather than converting every subject to anime or photorealism.
+
+No physical laptop, monitor frame, open application windows, extra characters, duplicated subjects, large titles, or additional desktop icons. Render the desktop directly edge to edge in a wide 16:9 image.
 ```
 
 </details>

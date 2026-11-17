@@ -1,0 +1,51 @@
+id: seedance-korean-pharmacy-horror
+title:
+  en: Woman with prescription enters late night Korean pharmacy
+  zh: 女子拿着处方走进深夜的韩国药店
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- horror
+- korean-horror
+- pharmacy
+- night-scene
+source:
+  name: '@AIwithkhan on X'
+  url: https://x.com/AIwithkhan/status/2101329280651391384
+  credit: AIwithkhan
+  captured: '2026-11-17'
+  posted: '2026-09-19'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithkhan/status/2101329280651391384
+notes:
+  en: The prompt opens with a style and location line (realistic Korean horror, cold fluorescent light, empty aisles), then lists one action per beat in order, which keeps a long multi-beat sequence readable. It closes on a fixed CCTV angle, a found-footage style cut that suits the horror tone.
+  zh: 提示词开头先用一句话设定风格和环境（写实韩国恐怖片、冷色荧光灯、空荡的货架），之后按顺序每个镜头只写一个动作，使较长的多段剧情依然清晰。结尾切到固定的监控视角，形成类似监控录像的收束，契合恐怖氛围。
+prompt: |
+  A girl enters a small late-night medical drug store holding a prescription, tired and slightly anxious; realistic Korean horror, narrow aisles filled with medicine boxes, glass cabinets, cold fluorescent lighting, quiet empty atmosphere.
+  She approaches the counter and asks the pharmacist for her medicine while he searches the shelves.
+  Her fingers freeze around the prescription; repeated scanner beeps echo through the silent store as the fluorescent lights begin flickering.
+  She suddenly stares toward the medicine aisle, sensing something behind her.
+  Her fingers begin twitching uncontrollably, slowly curling into unnatural positions.
+  She violently convulses against the counter; the pharmacist stumbles backward as medicine bottles fall from the shelves.
+  She collapses behind the counter, one arm twitching at an unnatural angle, her limbs becoming rigid and distorted.
+  She slowly rises again with wide unfocused eyes, a slack face, bent joints, and unnaturally twisted limbs.
+  Her head tilts at a broken angle as she stares directly at the pharmacist without blinking.
+  The pharmacist backs away in terror as her arms suddenly bend backward at the elbows.
+  Her jaw stretches impossibly wide, revealing an unnatural scream that echoes through the pharmacy.
+  She suddenly lunges forward over the counter with explosive speed, forcing the pharmacist to run.
+  She vaults over the counter with backward-bending limbs, moving unnaturally fast between the narrow aisles.
+  She stands completely still between the medicine shelves, wide unfocused eyes staring toward the entrance.
+  A customer enters and freezes when she slowly turns her head toward them.
+  Her fingers twitch as her bent joints and distorted limbs begin moving again.
+  She suddenly lunges down the aisle, knocking medicine boxes and bottles from the shelves.
+  The customer runs toward the exit and trips over a fallen basket.
+  The pharmacist grabs a fire extinguisher and pulls the pin with shaking hands.
+  White powder blasts into her face; she recoils into a glass medicine cabinet, her limbs folding at unnatural angles.
+  She slowly rises from the cloud, powder covering her face, wide unfocused eyes locked on the pharmacist.
+  Her jaw drops and stretches impossibly wide again as she suddenly lunges toward him.
+  He sprays the extinguisher continuously while backing toward the entrance.
+  She crashes through the glass door, her bent limbs twisting unnaturally as shards scatter across the empty nighttime street.
+  The pharmacist and customer stare through the shattered doorway in silence.
+  Final CCTV angle from inside the medical store; empty aisles, flickering lights, scattered medicine boxes.
+  A single medicine box slowly falls from a shelf. Cut to black.

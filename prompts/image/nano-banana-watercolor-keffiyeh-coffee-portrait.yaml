@@ -1,0 +1,38 @@
+id: nano-banana-watercolor-keffiyeh-coffee-portrait
+title:
+  en: Man in red keffiyeh sipping coffee in watercolor
+  zh: 红格头巾男子饮咖啡的水彩画
+model: Nano Banana 2.1
+mode: image-edit
+category: photo-to-art
+tags:
+- watercolor
+- ink-sketch
+- style-reference
+- portrait
+source:
+  name: '@Faeiz4Ai on X'
+  url: https://x.com/Faeiz4Ai/status/2121853208205181417
+  credit: FAEIZ
+  likes: 67
+  captured: '2026-11-17'
+  posted: '2026-11-15'
+notes:
+  en: 'The prompt separates the source from the style: the uploaded photo fixes subject, pose and composition, while the attached reference supplies the washes, ink lines and palette. Listing what to keep unchanged, such as identity, clothing and colors, and banning photorealism, 3D and text keeps the result a painting rather than a filtered photo.'
+  zh: 提示词把原图和参考图分开：原图决定主体、姿态和构图，参考图提供水彩晕染、墨线和配色。逐项写明要保留的身份、服装和颜色，并禁止照片写实、3D和文字，使结果是手绘画而不是加滤镜的照片。
+prompt: |
+  Transform the uploaded image into an expressive, high-quality watercolor and ink illustration, using the attached reference image as a STRICT VISUAL STYLE REFERENCE.
+
+  Preserve the original subject's exact identity, facial features, proportions, expression, pose, clothing, colors, composition, and all distinctive details. Do not alter or redesign the subject.
+
+  Apply the reference's artistic aesthetic: expressive transparent watercolor washes, layered pigments, loose spontaneous brushstrokes, delicate black ink sketch lines, organic paint bleeding, irregular contours, artistic splashes, and scattered pigment droplets.
+
+  Reproduce the reference's earthy color palette of terracotta, burnt orange, reddish brown, charcoal black, warm beige, ivory, and muted icy blue.
+
+  Use a natural textured ivory watercolor paper background, subtle color washes, and expressive unfinished edges that blend organically into the paper.
+
+  The final artwork must look like authentic traditional hand-painted watercolor combined with expressive ink drawing, not a photograph with a filter.
+
+  STRICT RULE: Original image determines the subject and composition. Reference image determines the artistic style, colors, textures, brushwork, and painting technique.
+
+  No photorealism, no 3D, no CGI, no cartoon, no anime, no identity changes, no facial distortion, no added objects, no text, no logos, no watermarks.

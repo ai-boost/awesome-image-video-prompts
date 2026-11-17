@@ -1,0 +1,159 @@
+id: nano-banana-flipkart-more-to-explore-collage
+title:
+  en: Flipkart campaign poster with walking model and products
+  zh: Flipkart 活动海报，行走模特与商品拼贴
+model: Nano Banana 2.1
+mode: text-to-image
+category: poster
+tags:
+- flipkart
+- collage
+- e-commerce
+- streetwear
+source:
+  name: '@Diplomeme on X'
+  url: https://x.com/Diplomeme/status/2120812720241222007
+  credit: ᴍᴜʀᴘʜʏ
+  likes: 157
+  captured: '2026-11-17'
+  posted: '2026-11-12'
+notes:
+  en: The prompt builds the scene in a fixed layer order (background, colour blob, graphics, cutouts, model, typography) and sets the pose to 80 percent attitude, which keeps the model in motion rather than posing. Fixing the blob at 40 to 60 percent of the frame and tilting the headline 2 to 5 degrees makes the layout repeatable.
+  zh: 提示词按固定顺序分层描述画面（背景、色块、图形、商品、模特、文字），并把模特姿态设为八成态度、两成自然，让人物保持行走而不是摆拍。明确规定黄色色块占画面四到六成、标题轻微旋转两到五度，使版式可以稳定复现。
+prompt: |
+  BRAND NAME = FLIPKART
+  Act as a Senior Social Media Art Director and Digital Collage Artist specializing in bold, high-impact e-commerce advertising campaigns for Instagram and digital platforms.
+  CAMPAIGN TITLE: “MORE TO EXPLORE.”
+  CORE MESSAGE: More choices. More discoveries. More possibilities.
+  PHASE 1: CONCEPTUAL FRAMEWORK
+  Create a dynamic digital collage that merges contemporary lifestyle photography with bold graphic design and playful commercial art direction.
+  The campaign celebrates the excitement of discovering everything in one shopping destination — fashion, electronics, beauty, home, appliances, and everyday essentials.
+  Aesthetic direction:
+  * Contemporary commercial editorial
+  * Youth-driven visual energy
+  * Playful retail storytelling
+  * Bold graphic experimentation
+  * Premium e-commerce advertising
+  Visual language:
+  Torn magazine edges, oversized typography, floating product cutouts, hand-drawn arrows, graphic stickers, paper textures, playful annotations, and bold colour blocking.
+  The final composition should feel like an international creative agency’s retail campaign, combining editorial photography with an energetic digital collage aesthetic.
+  PHASE 2: MODEL & PHOTOGRAPHY
+  * Subject: One stylish, confident Indian young adult model, age 22–28.
+  * Pose Energy: 80% attitude, 20% natural.
+      (Dynamic walking pose, looking toward camera, holding a shopping bag, interacting naturally with products — NEVER static.)
+  * Outfit: Contemporary casual streetwear — oversized blue jacket, clean white innerwear, relaxed-fit trousers, and modern sneakers.
+  * Hero Products: A curated selection of lifestyle shopping categories, including a smartphone, headphones, sneakers, skincare, and a home accessory.
+  * Photography Style: High-end commercial lifestyle photography.
+  * Background Removal: Clean, sharp extraction with realistic edges.
+  * Camera Angle: Slight low angle with natural perspective.
+  * Crop: Full body or 3/4 body, with the model clearly visible.
+  The model must look authentic and photorealistic, with natural skin texture, realistic anatomy, expressive body language, and premium commercial photography quality.
+  PHASE 3: COLOR BLOCKING FOUNDATION
+  * Primary Color Blob:
+      Large organic Flipkart-inspired bright yellow shape (40–60% of frame).
+  * Color Selection:
+      1 dominant vibrant yellow with Flipkart blue and controlled white accents.
+  * Shape Style:
+      Irregular, hand-painted / torn paper (NO perfect geometry).
+  * Texture:
+      Brush grain / noise (15–25% opacity).
+  * Placement:
+      Behind or wrapping around the model and product arrangement, creating a strong visual frame.
+  Use yellow as the dominant visual signature and blue as a contrasting graphic accent.
+  PHASE 4: GRAPHIC ELEMENTS LAYER
+  Add 3–5 abstract elements:
+  Element types:
+  * Hand-drawn shopping arrows and motion indicators.
+  * Product-inspired doodles and sketches.
+  * Irregular circles and organic blobs.
+  * Torn retail magazine fragments.
+  * Graphic stickers and handwritten annotations.
+  Rules:
+  * Colors: 2–3 total (primary + 1–2 accents).
+  * Placement: Asymmetric (top-left + bottom-right bias).
+  * Scale: Small (5%) + medium (15%).
+  * Avoid center clutter.
+  * Keep imperfect, handmade feel.
+  Product cutouts should appear naturally integrated into the composition, with realistic proportions, shadows, and reflections.
+  PHASE 5: TYPOGRAPHY INTEGRATION
+  * Logo:
+      Official Flipkart logo in the upper-left or upper-right (10–15% width). Preserve its accurate original logo proportions, blue-and-yellow identity, and shopping-bag symbol.
+  * Slogan/Headline:
+      “MORE TO EXPLORE.”
+  * Supporting Copy:
+      “Discover more. Shop everything you love.”
+  * Additional Microcopy:
+      “THE EVERYDAY SHOPPING EDIT”
+      “STYLE • TECH • HOME • MORE”
+      “YOUR NEXT DISCOVERY STARTS HERE”
+  * Type Style:
+      Bold sans-serif / grotesk / geometric, inspired by contemporary retail advertising and editorial typography.
+  * Treatment:
+      Mix straight + slight rotation (2–5°). Use oversized typography with deliberate cropping and layered placement.
+  * Hierarchy:
+      Logo → Headline → Supporting copy.
+  Typography must be sharp, correctly spelled, highly legible, and integrated naturally into the collage.
+  PHASE 6: TEXTURE & BACKGROUND
+  * Base Layer:
+      Warm off-white / light grey (NOT pure white).
+  * Color Range:
+      RGB 245–250 (warm neutral).
+  * Texture Options:
+      Recycled magazine paper grain / subtle cardboard texture / analog print noise / torn paper edges.
+  * Rule:
+      Texture should be FELT, not dominant.
+  Maintain strong contrast between the warm neutral background, vibrant yellow colour blocking, blue accents, and product photography.
+  PHASE 7: COMPOSITION RULES
+  * Layout:
+      Asymmetric balance (model off-center).
+  * Breathing Room:
+      15–20% negative space.
+  * Layering Order:
+      Background → Color blob → Graphics → Product cutouts → Model → Typography.
+  * Focal Point:
+      Model + shopping products = 60%.
+      Graphics = 40% support.
+  * Movement:
+      Strong diagonal flow
+      (top-left → bottom-right OR reverse).
+  The composition should communicate variety and discovery without making the poster look like a cluttered product catalogue.
+  PHASE 8: BRAND INTELLIGENCE (AUTO-ADAPT)
+  Adapt energy based on Flipkart’s multi-category e-commerce positioning:
+  → Fashion
+  Contemporary styling, confident poses, expressive fashion photography.
+  → Electronics
+  Sleek product photography, sharp reflections, futuristic graphic accents.
+  → Beauty & Personal Care
+  Clean product arrangements, premium textures, modern beauty editorial styling.
+  → Home & Living
+  Warm lifestyle photography, inviting spaces, tactile product details.
+  → Appliances
+  Bold product silhouettes, clean commercial lighting, strong visual hierarchy.
+  → Everyday Shopping
+  Relatable Indian lifestyle moments, energetic compositions, approachable visual storytelling.
+  Maintain Flipkart’s recognisable yellow-and-blue brand identity while creating a distinctive campaign aesthetic.
+  PHASE 9: SOCIAL MEDIA FOOTER (OPTIONAL)
+  * Bottom strip (8–10% height).
+  * Light neutral background.
+  * CTA: “DISCOVER MORE ON FLIPKART”.
+  * Social handles / icons, if required.
+  * Clean grid layout.
+  * Keep minimal (contrast to collage).
+  TECHNICAL SPECS:
+  * Aspect Ratio: 4:5 (primary) or 1:1.
+  * Resolution: 2400 × 3000px+.
+  * Color Mode: sRGB (Instagram optimized).
+  * Sharpness: High detail, slight grain allowed.
+  * Output Style: Digital collage mimicking analog craft.
+  * Photography Base (before cutout):
+      50mm or 85mm lens, f/2.8, shallow depth of field.
+  FINAL ART DIRECTION:
+  Create a premium, Behance-featured e-commerce SMM campaign that feels like a collaboration between an international creative advertising agency and a leading Indian retail brand.
+  The final artwork must be visually bold, commercially engaging, compositionally sophisticated, and instantly recognisable as a Flipkart campaign.
+  STRICT RULES:
+  * Do not create a generic discount or sale poster.
+  * No fabricated prices, discount percentages, or promotional claims.
+  * No distorted product designs, logos, or brand marks.
+  * Do not alter or recreate the Flipkart logo incorrectly.
+  * Avoid random floating products without visual purpose.
+  * Keep the model and product selection as the primary visual focus.

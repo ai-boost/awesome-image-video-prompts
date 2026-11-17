@@ -1,6 +1,118 @@
 # 动作、追逐与运动
 
-[返回目录](../../README_zh.md) · 全部 233 条 · [1](video-action.md) · [2](video-action-2.md) · **3**
+[返回目录](../../README_zh.md) · 全部 236 条 · [1](video-action.md) · [2](video-action-2.md) · **3**
+
+<a id="seedance-night-rain-loading-door-escape"></a>
+### 女子在昏暗工业走廊中奔跑
+
+<a href="https://x.com/nawalsehar/status/2100082784018821414"><img src="../../previews/seedance-night-rain-loading-door-escape.jpg" width="360"></a>
+
+提示词写明了物理因果（摩擦、背包惯性、重心转移），并给出固定镜头清单（手持、低机位、门特写、静态全景），让模型有清晰的节拍表。声音只限现场声源，让音频与画面保持一致。
+
+Seedance 2.5 · 文生视频 · 出处: [@nawalsehar on X](https://x.com/nawalsehar/status/2100082784018821414) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`action-thriller`](tags.md#tag-action-thriller) [`handheld`](tags.md#tag-handheld) [`night-rain`](tags.md#tag-night-rain) [`diegetic-sound`](tags.md#tag-diegetic-sound)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 30-second ultra-photorealistic live-action action-thriller at night during heavy rain. A young woman trapped inside an old industrial building discovers a partially open mechanical loading door and times her escape as two pursuers close in. She slides beneath the heavy door, struggles with realistic friction and backpack movement, rolls onto the rain-soaked pavement, and escapes into a dark service lane.
+
+Show realistic human biomechanics, inertia, momentum, gravity, friction, center-of-mass shifts, realistic loading-door mechanics, backpack physics, rain and water dynamics, wet-surface traction, vehicle spray, and physically accurate material interactions. Use handheld chase cinematography, low floor-level shots during the escape, close-ups of the mechanical door, exterior tracking shots, and a final static wide shot. Camera movement should have natural operator inertia and subtle handheld shake.
+
+Use only diegetic sound: heavy rain, breathing, footsteps, metal mechanisms, water splashes, distant traffic, echoes, and thunder. Natural nighttime lighting with realistic wet reflections, shadows, depth of field, and motion blur. End with the woman hidden behind a concrete wall as the pursuers run past, followed by an empty rain-soaked street and a cut to black.
+
+No CGI, animation, superhero abilities, impossible parkour, teleportation, weightless objects, exaggerated slow motion, unrealistic physics, distorted anatomy, duplicate characters, text, logos, or watermark.
+```
+
+</details>
+
+<a id="seedance-nova-pulse-zenith-ren"></a>
+### Ren 在红月下斩退两只机械石像鬼
+
+<a href="https://x.com/yourPlugAI/status/2113564718187037043"><img src="../../previews/seedance-nova-pulse-zenith-ren.jpg" width="360"></a>
+
+参考素材表锁定主角与机械兽的造型，时间分段列表则为每一段分别给出画面、动作和声音，逐镜控制节奏、运镜与音效。以 Arcane 和 Guilty Gear Strive 的赛璐璐渲染作为风格参照。
+
+Seedance 2.5 · 参考生视频 · 出处: [@yourPlugAI on X](https://x.com/yourPlugAI/status/2113564718187037043) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`anime`](tags.md#tag-anime) [`cyberpunk`](tags.md#tag-cyberpunk) [`timeline-prompt`](tags.md#tag-timeline-prompt) [`cell-shading`](tags.md#tag-cell-shading)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Nova Pulse: Zenith (ノヴァ・パルス：頂上) ⚡🔴
+@PixVerse 
+
+High above a neon-glowing cyberpunk city under a massive crimson moon, 3D anime hero Ren unleashes high-speed Cyber-Kenjutsu against two mechanical Cyber-Gargoyles. Non-stop 30-second 3D anime gauntlet. 
+
+✨Generated with Seedance 2.5 on PixVerse AI featuring Arcane and Guilty Gear Strive-level 3D cell-shaded animation. 
+
+#PixVerseCPP #PixVerseAI #Seedance25
+
+✨Seedance 2.5 - 30s Master Video Prompt (character sheets attached below)
+
+[ENGINE DIRECTIVE]
+Generate a continuous 30-second hyper-kinetic 3D anime action sequence at 60fps in 16:9 widescreen format. Style: High-end Arcane and Guilty Gear Strive 3D cell-shaded anime animation, glossy textures, intense particle effects, high-frame-rate impact pauses. Maintain 100% strict visual consistency with provided asset sheets: "Ren" (White-haired anime hero in neon blue circuit coat with plasma greatsword) and "Cyber-Gargoyles" (Mechanical beast-warriors). Setting strictly follows "Shattered Anti-Gravity Floating Courtyard". Rapid 2-to-3 second action beats, zero-gravity combat physics, directional camera whip-pans.
+
+[AUDIO DIRECTIVE]
+• MUSIC: Fast-paced cyberpunk metal synth hybrid with heavy guitar riffs, intense electronic risers, and booming sub-bass impacts.
+• SOUND DESIGN: Humming plasma blade hum, laser cannon blasts, whipping energy chain sizzles, shattering stone impacts, and anti-gravity wind roars.
+
+[TIMELINE BREAKDOWN]
+
+00:00 - 00:03 | ZERO-G STANCE & CRIMSON MOON LOCK
+• VISUAL: Low-angle tracking camera panning up from floating stone debris to Ren's ready Kenjutsu stance.
+• ACTION: Ren stands on a hovering stone tile against the giant crimson moon, his Greatsword humming with cyan energy as two Cyber-Gargoyles hover menacingly above him.
+• SOUND: Plasma blade hum, atmospheric anti-gravity drone, mechanical growls, explosive synth intro.
+
+00:03 - 00:06 | AIR-STEPPING & PLASMA BLAST DEFLECTION
+• VISUAL: High-speed upward tracking camera following Ren's aerial movement.
+• ACTION: Cannon-beast fires three high-velocity energy projectiles. Ren air-steps upward through zero-g, deflecting all three shots with his Greatsword into floating rubble, causing explosive cyan particle bursts.
+• SOUND: Cannon FIRING blasts, metallic blade energy deflect CLANGS, explosive rubble SHATTER.
+
+00:06 - 00:09 | PLASMA-CHAIN TRAP & 360-DEGREE SPIN
+• VISUAL: Dynamic orbital tracking camera capturing the mid-air spin.
+• ACTION: Whip-beast snaps dual plasma-chain whips from above. Ren executes a 360-degree mid-air spin, wrapping the energy chains tightly around his Greatsword blade to halt the momentum cold.
+• SOUND: Whip crack SIZZLE, metallic chain binding CLACK, energy tension hum.
+
+00:09 - 00:12 | BOOT PARTICLE BURST & DIAGONAL ARMOR SLICE
+• VISUAL: 0.8-second time-dilation close-up on Ren's boots before launching into a fast tracking slash.
+• ACTION: In hyper-slow motion, Ren channels a blue particle burst into his boots, launching off the trapped chain to deliver a flying diagonal slash that severs the whip-beast's shoulder armor.
+• SOUND: Time-dilation sub-bass DROP, particle boot BURST, high-voltage plasma slash WHOOSH, armor severing CRUNCH.
+
+00:12 - 00:15 | CIRCULAR GRAVITY WAVE & DEBRIS FREEZE
+• VISUAL: Wide impact tracking camera capturing the expanding energy ripple.
+• ACTION: Ren lands on a hovering pillar and plants his sword, unleashing a circular cyan gravity wave that freezes surrounding floating debris in place.
+• SOUND: Sword floor plant THUD, massive gravity shockwave BOOM, crystalline debris freeze chime. 
+
+00:15 - 00:18 | OVERDRIVE IGNITION & BEAM CHARGE
+VISUAL: Close-up camera zooming into Ren's face as his coat circuits ignite.
+ACTION: Seamless transition: Cannon-beast charges its main red beam weapon. Ren closes his eyes for a split second as glowing neon blue circuit lines pulse wildly across his dark coat.
+SOUND: High-voltage beam charge WHINE, coat circuit power-up HUM, fast drum roll.
+
+00:18 - 00:21 | OVERDRIVE DASH & STAR-SHAPED ENERGY GRID
+VISUAL: High-speed multi-angle speed-ramped camera tracking rapid teleportations.
+ACTION: Ren executes an Overdrive Dash, blurring through six rapid directional teleport-slashes that slice through both opponents, leaving a glowing cyan star-shaped energy grid in mid-air.
+SOUND: Rapid teleport WHOOSH-WHOOSH-WHOOSH, high-frequency energy grid SLICE chimes.
+
+00:21 - 00:24 | 3D ANIME IMPACT PAUSE & BLADE SHEATH
+VISUAL: Time-dilation 3D anime impact pause as camera slowly orbits behind Ren.
+ACTION: Time freezes into a dramatic anime impact pause: Ren stands behind both enemies calmly sheathing his plasma blade, as glowing cyan slash-lines expand dangerously across the beasts' armor.
+SOUND: Sub-bass time-freeze DROP, metallic sword sheath CLICK, crackling energy tension.
+
+00:24 - 00:27 | MASSIVE SHOCKWAVE EXPLOSION & DEACTIVATION
+VISUAL: Wide dramatic tracking camera capturing the explosive collapse.
+ACTION: A massive cyan energy shockwave erupts, blasting both Cyber-Gargoyles backward onto a lower floating platform, completely disarmed and deactivated with smoking armor.
+SOUND: Explosive energy shockwave BOOM, heavy armor platform crash THUD, power-down whine.
+
+00:27 - 00:30 | BLADE FLICK & VICTORIOUS SKYLINE ORBIT
+VISUAL: Hero center-framed 360-degree orbital camera settling on Ren against the cyberpunk city.
+ACTION: Ren flicks his Greatsword downward, clearing the remaining plasma trail, as the floating debris gently settles and the camera orbits his victorious stance above the glowing neon metropolis below. CUT TO BLACK at 00:30.
+SOUND: Sword energy flick WHOOSH, settling debris rustle, quiet wind chime, total silence.
+```
+
+</details>
 
 <a id="seedance-nun-demon-cathedral-sword-fight"></a>
 ### 跪地修女手持染血长剑 被恶魔包围
@@ -2174,6 +2286,39 @@ VISUAL REQUIREMENTS: Maintain consistent faces, hairstyles, outfits, and locatio
 
 </details>
 
+<a id="seedance-shadow-empress-corridor"></a>
+### 少女的长影子铺满走廊地面
+
+<a href="https://x.com/Just_sharon7/status/2117969622658117900"><img src="../../previews/seedance-shadow-empress-corridor.jpg" width="360"></a>
+
+按时间轴逐镜头写分镜，固定走廊场景，并锁定角色与怪物外观，使30秒内的场景和人物保持一致。参考图绑定守护者与敌人的造型，音效也与时间点对应。
+
+Seedance 2.5 · 参考生视频 · 出处: [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2117969622658117900) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`supernatural`](tags.md#tag-supernatural) [`shadow-monster`](tags.md#tag-shadow-monster) [`slow-motion`](tags.md#tag-slow-motion) [`korean-setting`](tags.md#tag-korean-setting)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create an extremely intense, photorealistic 30-second Korean supernatural action short film titled "THE SHADOW EMPRESS." The film must feature a terrifying opening within the first second, escalating supernatural horror, explosive shadow-based combat, powerful slow-motion moments, aggressive cinematic camera movements, and an unforgettable final twist. 
+
+The entire sequence takes place inside the same abandoned-looking Korean high school corridor at dusk. Maintain strict character identity, location continuity, lighting consistency, and physically believable supernatural VFX. CHARACTER CONSISTENCY THE HEROINE: 
+
+A beautiful 19-year-old Korean schoolgirl
+pink hair pink dress
+Her personality is quiet, fearless, mysterious, and unnaturally calm. Her eyes transform into brilliant icy electric-pink glowing irises when her powers activate. THE SHADOW GUARDIAN:
+
+hf_20261104_125552_30d014a7-83ec-40fe-9efa-57c34aa71c35
+A terrifying 10-foot-tall humanoid entity formed entirely from dense, liquid-black supernatural shadows. Its body is muscular, fluid, and constantly shifting, with elongated arms, enormous claw-like hands, jagged shoulders, smoke-like tendrils, and two piercing electric-pink eyes. It has no visible human skin or clothing. THE ENEMY:
+
+hf_20261104_125518_1bb32dfe-4b58-4e84-baf6-78164955aca4
+A grotesque 8-foot-tall shadow monster with an unnaturally elongated body, twisted limbs, razor-like claws, a distorted featureless face, and glowing crimson eyes. Its movements are violently fast, animalistic, and unpredictable. Keep the guardian and enemy visually distinct throughout. The guardian has blue eyes and controlled liquid-black movements. The enemy has crimson eyes and chaotic, aggressive movements. ENVIRONMENT An empty Korean high school corridor with pale green walls, classroom doors, Korean classroom signs, fluorescent ceiling lights, large windows, polished tile floors, and scattered school papers. Cold blue dusk light enters through the windows. Fluorescent lights flicker violently during supernatural events. All action takes place in the same corridor. No sudden location changes. SHOT-BY-SHOT ACTION SEQUENCE SHOT 1 — 0:00–0:03 | THE IMPOSSIBLE SHADOW — EXTREME HOOK Camera: Ground-level tracking → violent whip-pan → extreme close-up Open immediately with an extremely unsettling low-angle close-up of the heroine's black shadow stretching across the polished school corridor floor. Within the first 0.5 seconds, her shadow suddenly turns its head 180 degrees, even though the real girl remains completely motionless. The shadow's head snaps toward the camera, and two brilliant electric-pink eyes open inside its darkness. A terrifying bass impact shakes the soundtrack. The heroine freezes mid-step. Her shadow violently detaches from her feet and begins crawling backward across the floor at impossible speed. The camera whips upward to her shocked face. A deep, distorted whisper echoes through the corridor: "Behind you." SHOT 2 — 0:03–0:06 | SOMETHING BREAKS THROUGH Camera: Fast dolly-in → handheld tracking → Dutch angle A classroom door at the far end of the corridor suddenly explodes outward, sending wooden fragments and dust across the floor. A gigantic black creature
+hf_20261104_125518_1bb32dfe-4b58-4e84-baf6-78164955aca4
+crawls through the doorway on all fours, its twisted limbs striking the tiles with violent force. Its crimson eyes ignite. The creature instantly charges toward the heroine at terrifying speed, claws scraping the walls and producing showers of sparks. The camera races backward directly in front of the monster as it accelerates. Ceiling lights burst one after another behind it. The heroine turns slowly toward the approaching creature. SHOT 3 — 0:06–0:09 | THE SHADOW EMPRESS AWAKENS Camera: Extreme eye close-up → low-angle orbit → rapid pullback Extreme macro close-up of the heroine's eyes. Her pupils contract. BOOM. Both irises ignite with blinding electric-pink supernatural energy. Intricate rotating pink sigils appear inside her pupils. Black veins of shadow energy spread across the floor beneath her shoes. Her ponytail and blazer begin floating in an invisible supernatural wind. She slowly raises one hand. The entire corridor darkens as every shadow stretches unnaturally toward her. A massive black silhouette begins rising directly behind her. SHOT 4 — 0:09–0:12 | THE GUARDIAN ERUPTS Camera: Low-angle wide shot → explosive upward tilt → 360° orbit A gigantic 10-foot-tall shadow guardian erupts violently from the floor behind the heroine. Liquid-black tendrils explode outward in every direction. The guardian's enormous shoulders form from swirling darkness. Its elongated arms unfold with terrifying force. Two brilliant electric-pink eyes ignite inside its featureless head. The floor ripples like black water. The monster leaps toward the heroine. The guardian intercepts it with a devastating open-palm strike, sending the creature crashing backward through a row of lockers. Metal doors buckle and debris explodes into the corridor. The heroine remains completely motionless. SHOT 5 — 0:12–0:16 | BRUTAL SUPERNATURAL COMBAT Camera: High-speed tracking → whip-pans → 120 FPS slow-motion effect The enemy instantly recovers and launches a furious counterattack. The shadow guardian and monster collide in an incredibly fast, aggressive supernatural battle. The monster slashes with both claws. The guardian blocks with its massive forearms, producing explosive blue-black energy impacts. Four enormous shadow tendrils erupt from the guardian's back, striking from different directions. The creature dodges one attack, climbs sideways across the corridor wall, and launches itself toward the guardian's head. The guardian catches its arm and violently hurls it across the corridor. Use rapid cuts between wide combat shots, close-ups of claws colliding, and dramatic slow-motion impact frames. Each collision sends rippling black energy across the walls and floor. The heroine walks slowly forward through the destruction, her expression cold and emotionless. SHOT 6 — 0:16–0:20 | THE MONSTER ALMOST REACHES HER Camera: Monster POV → extreme slow-motion → dramatic side-angle The enemy suddenly splits into three shadow afterimages and slips past the guardian. The real creature launches itself directly toward the heroine's face, claws extended. EXTREME SLOW MOTION. Its razor-sharp claws approach within inches of her eyes. Her loose hair strands float backward. She does not blink. At the last possible instant, an enormous liquid-black hand erupts from the floor and catches the creature by its throat, suspending it directly in front of her. The guardian's electric-pink eyes flare brighter. Time returns to normal. A violent shockwave shatters the nearby classroom windows. SHOT 7 — 0:20–0:24 | THE EMPRESS UNLEASHES HER TRUE POWER Camera: Extreme facial close-up → overhead spiral → wide cinematic reveal The heroine slowly tilts her head. Her glowing eyes become almost completely white-pink. She raises two fingers. Every shadow in the entire corridor suddenly comes alive. Dozens of gigantic black tendrils erupt from the walls, ceiling, lockers, and floor. They wrap around the monster's arms, legs, and torso, immobilizing it in midair. The guardian rises behind her, expanding into an enormous terrifying silhouette that fills the corridor. A massive rotating black portal opens beneath the suspended creature, its edges illuminated by violent electric-pink energy. The monster struggles furiously as the portal pulls it downward. SHOT 8 — 0:24–0:27 | DISAPPEAR — THE FINAL STRIKE Camera: Extreme close-up → violent overhead plunge → explosive wide shot Cut to an extreme close-up of the heroine's face. She looks directly at the monster and whispers in Korean: "사라져." (Disappear.) Instantly, the guardian releases an earth-shaking supernatural roar. Its gigantic hand slams the restrained monster directly into the swirling black portal. A colossal circular wave of black-and-pink energy erupts across the corridor. The ceiling lights explode in sequence. The portal violently collapses into a tiny black point and disappears. SUDDEN COMPLETE SILENCE. All supernatural energy vanishes. SHOT 9 — 0:27–0:30 | THE TERRIFYING FINAL TWIST Camera: Slow push-in → ground-level shadow close-up → final eye close-up The heroine stands alone in the damaged corridor. Her glowing eyes gradually return to normal. She adjusts her school backpack and calmly begins walking away. The camera tilts down toward the floor. Her shadow follows her normally for one second. Then suddenly— THE SHADOW STOPS WALKING. It slowly turns its head toward the camera, revealing two glowing electric-pink eyes. The shadow raises one enormous clawed hand and gives a disturbingly gentle wave. Cut to the heroine's face. A tiny, knowing smile appears. HARD CUT TO BLACK. A final deep supernatural heartbeat echoes. CINEMATIC VFX AND ACTION REQUIREMENTS Intensity: Maintain escalating danger and supernatural action throughout all 30 seconds, with no prolonged static shots. Shadow effects: Dense liquid-black shadows with realistic fluid movement, volumetric smoke, tendrils, and physically integrated lighting. Eye effects: Brilliant icy-pink glowing irises with intricate circular supernatural patterns and realistic light spill on the heroine's skin. Combat: Fast, aggressive, clearly readable choreography with powerful impacts, believable weight, destructive environmental interaction, and brief slow-motion emphasis. Guardian movement: Extremely fast, heavy, protective, and controlled. Its movements must feel significantly more powerful than the enemy's. Camera: Rapid dolly movements, dramatic low angles, whip-pans, dynamic tracking, 360-degree orbits, extreme close-ups, and speed ramps. Lighting: Cold cinematic blue tones, deep black shadows, flickering fluorescent lights, strong contrast, and realistic reflections on the polished floor. Slow motion: Use selectively for the monster's near-contact attack, the guardian's interception, and the final portal strike. Return immediately to high-speed action. Continuity: The heroine's appearance, guardian design, enemy design, and corridor layout must remain identical throughout. AUDIO AND MUSIC DESIGN Use an intense cinematic Korean dark-fantasy action score with deep orchestral percussion, aggressive distorted bass, ominous strings, supernatural whisper textures, and powerful impact sounds. Music progression: 0–3s: Immediate terrifying bass hit, reversed whisper, sharp supernatural sting. 3–9s: Rapid heartbeat percussion, rising tension, electrical crackling. 9–16s: Explosive orchestral drums, aggressive low brass, heavy combat impacts. 16–24s: Faster percussion, distorted bass pulses, supernatural roars, intense rising strings. 24–27s: Massive orchestral impact synchronized with the portal strike. 27–30s: Sudden silence, faint unsettling whisper, one final deep heartbeat. Use realistic Korean dialogue, accurate lip synchronization, immersive spatial sound, and no narration. STRICT NEGATIVE PROMPT No cartoon, no anime, no stylized CGI, no plastic-looking skin, no comedic combat, no weak impacts, no slow repetitive attacks, no static camera throughout, no inconsistent guardian size, no changing school uniforms, no changing hairstyles, no changing faces, no extra limbs on the heroine, no duplicated characters, no random students, no daylight exterior, no unrelated locations, no guns, no swords, no fire magic, no purple energy, no oversized text, no subtitles, no watermark, no excessive gore, no broken anatomy, no distorted hands, no floating objects without supernatural cause. FINAL OUTPUT: A coherent, terrifying, extremely intense 30-second Korean supernatural action film featuring an unforgettable moving-shadow opening, explosive guardian manifestation, relentless shadow-monster combat, a near-death slow-motion interception, a devastating dimensional-portal finishing move, and a chilling final shadow-wave twist. Most important direction: The heroine must remain unnaturally calm while her shadow guardian fights with overwhelming ferocity. The contrast between her peaceful expression and the violent supernatural destruction is the film's defining visual identity. #dreamina #dreaminacreators
+```
+
+</details>
+
 <a id="seedance-sharon-taekwondo-arena-duel"></a>
 ### 两名金发女战士在阳光下的石质竞技场中交锋
 
@@ -3773,6 +3918,25 @@ Create a 15-second photorealistic cinematic fantasy action sequence featuring a 
 Visual style: ultra-photorealistic fantasy film, realistic fur and facial details, detailed samurai armor, believable fabric and fur movement, realistic sword physics, atmospheric volumetric moonlight, natural fog, cinematic depth of field, dramatic composition, high-detail bamboo forest, realistic shadows, premium VFX, smooth character animation, dynamic camera movement, epic fantasy adventure atmosphere, 4K detail.
 
 Negative prompt: cartoon, anime, low resolution, plastic fur, deformed face, extra limbs, extra weapons, duplicate characters, distorted hands or paws, inconsistent armor, changing character design, identity drift, floating objects, unrealistic sword movement, excessive motion blur, oversaturated colors, text, subtitles, watermark, logo, frame glitches, unnatural physics.
+```
+
+</details>
+
+<a id="seedance-warrior-faces-zombie-horde-bridge"></a>
+### 女战士在日落大桥上迎战尸潮
+
+<a href="https://x.com/laviniavelle/status/2121460273374802326"><img src="../../previews/seedance-warrior-faces-zombie-horde-bridge.jpg" width="360"></a>
+
+开头先交代场景、主角和威胁，再按顺序描述举枪和冲击波，为模型提供清晰的动作时序。镜头运动、光线和质感等描述词确定了电影感的画面风格。
+
+Seedance 2.5 · 文生视频 · 出处: [@laviniavelle on X](https://x.com/laviniavelle/status/2121460273374802326) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`zombies`](tags.md#tag-zombies) [`plasma-rifle`](tags.md#tag-plasma-rifle) [`energy-blast`](tags.md#tag-energy-blast) [`cinematic`](tags.md#tag-cinematic)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Cinematic action shot in 4K, photorealistic style a fierce East Asian female warrior with long dark hair wearing a tactical black leather jacket stands alone in the middle of a jammed abandoned multi lane bridge resembling the Brooklyn Bridge at sunset with a city skyline in the background Abandoned cars and debris are scattered everywhere with fallen zombies on the ground She faces a massive horde of approaching zombies, suddenly raises a futuristic high-tech sci-fi plasma rifle that glows with intense blue electrical energy rings, and fires a massive expanding shockwave blast that knocks back and clears the zombie horde. Smooth camera movement, dramatic lighting, highly detailed textures, cinematic blockbuster look.
 ```
 
 </details>

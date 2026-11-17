@@ -1,0 +1,66 @@
+id: seedance-elf-morning-routine
+title:
+  en: Elf heroine speeds through morning battle prep montage
+  zh: 精灵女战士快速完成晨间战前准备蒙太奇
+model: Seedance 2.5
+mode: image-to-video
+category: scifi-fantasy
+tags:
+- fantasy
+- montage
+- sound-design
+- character-consistency
+source:
+  name: '@GlitterPixely on X'
+  url: https://x.com/GlitterPixely/status/2102028142294483208
+  credit: Glitter Gal
+  likes: 1542
+  captured: '2026-11-17'
+  posted: '2026-09-21'
+video: https://x.com/GlitterPixely/status/2102028142294483208
+notes:
+  en: A single image reference is locked in a REF block, and a LOCK line keeps face, hair and outfit stable across cuts. Twenty timed beats, each named as a hard cut, plus a listed SFX stack with no music or dialogue let the sound design carry the rhythm.
+  zh: 用 REF 参考块绑定单张图片的角色外观，再用 LOCK 行锁定各镜头中的脸部、发型和服装。二十个带时间码的分镜，每一切都标明为硬切，并列出音效层且不加音乐和台词，让节奏由音效带动。
+prompt: |
+  UPLOAD MAP:
+
+  @Image
+   1 = Character A identity, face, hairstyle, outfit, fantasy animation style
+
+  30 seconds, 16:9, image-to-video, rapid morning-routine micro-cut montage.
+
+  [REF] Preserve
+  @Image
+   1 as Character A: original white-haired elf dragon-slayer, pointed ears, pale hair, face smudges, feathered outfit, soft painterly fantasy animation. No franchise logos or recognizable game symbols.
+
+  [BEATS]
+  Cut 01, 0.0-1.2s: extreme close-up, her eyes snap open as a tiny smoking dragon-scale alarm charm rattles.
+  Cut 02, 1.2-2.2s: she slaps the charm silent without looking; a puff of scale-smoke.
+  Cut 03, 2.2-3.6s: she sits up and throws off a rough blanket; feathers on the outfit bounce.
+  Cut 04, 3.6-5.0s: water splash across her face, droplets catch dawn light.
+  Cut 05, 5.0-6.3s: she drags two quick war-paint smudges under her eyes.
+  Cut 06, 6.3-7.6s: she yanks her braid tight; feathers bounce.
+  Cut 07, 7.6-8.8s: boot hits the floor, buckle snaps shut.
+  Cut 08, 8.8-10.0s: second boot stamps down, shin strap yanks tight.
+  Cut 09, 10.0-11.3s: wrist wrap pulls tight between her teeth.
+  Cut 10, 11.3-12.6s: armor charm clicks onto her shoulder.
+  Cut 11, 12.6-14.0s: belt cinches, small hunting pouch snaps shut.
+  Cut 12, 14.0-15.6s: she grabs toast, takes one serious bite like it is battle prep.
+  Cut 13, 15.6-17.2s: a little map on the table singes at the dragon mark.
+  Cut 14, 17.2-18.6s: she taps the burned mark once and gives a small confirming nod.
+  Cut 15, 18.6-20.2s: she swings her weapon strap over her shoulder.
+  Cut 16, 20.2-21.8s: brief gleam across a plain blade edge, then it slides home. No markings.
+  Cut 17, 21.8-23.4s: feathered cloak settles; she grabs a small pack off a hook.
+  Cut 18, 23.4-25.2s: door bursts open into blinding sunrise.
+  Cut 19, 25.2-27.2s: she steps onto the threshold, dawn wind lifts a few feathers.
+  Cut 20, 27.2-30.0s: held heroic close-up, tiny determined smile, distant dragon shadow crosses the warm sky.
+
+  [CAMERA] Fast clean cuts, snappy close-ups, rostrum-style 2D push-ins and pans. No long slow holds except the final heroic frame. Name every cut as a hard cut, not a morph.
+
+  [LIGHT] warm dawn light, golden dust motes, soft painted rim light, cozy hut interior shifting to bright outdoor glow.
+
+  [AUDIO] No music, no dialogue, no subtitles.
+  Ambience: cozy wooden-hut morning room tone, then outdoor dawn wind.
+  SFX: <alarm rattle, slap, blanket rustle, water splash, braid tug, boot thud, buckle click, leather wrap pull, charm click, pouch snap, toast crunch, map sizzle, strap slap, blade sheath, door creak, distant dragon rumble>
+
+  [LOCK] keep her face, ears, hair, outfit logic, painterly style, and body scale stable across every cut; keep hands simple; no text; no logos; no recognizable game symbols.

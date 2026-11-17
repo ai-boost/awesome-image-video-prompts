@@ -1,6 +1,6 @@
 # Photo realism
 
-[Back to the list](../../README.md) · All 135 entries
+[Back to the list](../../README.md) · All 136 entries
 
 <a id="gpt-image-coca-cola-tanker-leak-mentos-truck-dashcam"></a>
 ### Coca Cola tanker leaking beside Mentos truck
@@ -1865,6 +1865,25 @@ Nano Banana 2 · Text-to-image · Source: [@oye_samia on X](https://x.com/oye_sa
 
 ```text
 bright advertising action shot, dark seamless background, harsh flash, high-speed liquid photography, SUPER wide-angle 12mm lens, beautiful brunette shaking and opening a soda can, powerful jet of liquid with splashes and foam bursting out in a long arc, droplets frozen in the air, large splashes and drops flying straight toward the camera, some motion blur
+```
+
+</details>
+
+<a id="gpt-image-2-6-golden-leaf-boat-sunset"></a>
+### Golden boat with umbrella at sunset
+
+<a href="https://x.com/churvikv/status/2122636815819559091"><img src="../../previews/gpt-image-2-6-golden-leaf-boat-sunset.jpg" width="360"></a>
+
+The prompt lists each element in order (boat, billowing gold cloth, open umbrella, golden leaf, sun on the horizon) and sets the mood and a minimalist composition, so the model keeps every subject in one frame. Water reflections tie the sky colour to the surface.
+
+GPT Image 2.6 · Text-to-image · Source: [@churvikv on X](https://x.com/churvikv/status/2122636815819559091) · 97 likes on 2026-11-17
+
+[`sunset`](tags.md#tag-sunset) [`minimalist`](tags.md#tag-minimalist) [`water-reflection`](tags.md#tag-water-reflection)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A single golden leaf floats gently on calm water, creating soft ripples, with a serene sunset in the background casting warm golden hues across the sky and water, evoking a tranquil and peaceful mood in a minimalist composition.
 ```
 
 </details>

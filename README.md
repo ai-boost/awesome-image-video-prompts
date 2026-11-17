@@ -104,34 +104,34 @@ All 20 are on [agentcraft.dev](https://agentcraft.dev/en/prompts/image/seedream-
 - [Seedream 5.5](#spotlight)
 - [Recently added](#recent)
 - [By model](#bymodel)
-- [Video prompts](#video) (1154 entries)
-  - [Cinematic scenes and short films](#vid-cinematic) (170)
-  - [Action, chases and sports](#vid-action) (233)
-  - [Sci-fi and fantasy](#vid-scifi-fantasy) (99)
-  - [Anime and animation](#vid-anime) (82)
-  - [Ads and product videos](#vid-commercial) (136)
-  - [Dialogue and talking heads](#vid-dialogue) (57)
+- [Video prompts](#video) (1177 entries)
+  - [Cinematic scenes and short films](#vid-cinematic) (178)
+  - [Action, chases and sports](#vid-action) (236)
+  - [Sci-fi and fantasy](#vid-scifi-fantasy) (101)
+  - [Anime and animation](#vid-anime) (83)
+  - [Ads and product videos](#vid-commercial) (137)
+  - [Dialogue and talking heads](#vid-dialogue) (59)
   - [Music and dance](#vid-music-dance) (50)
-  - [Phone footage and vlogs](#vid-vlog) (186)
+  - [Phone footage and vlogs](#vid-vlog) (191)
   - [Nature, travel and aerial](#vid-nature) (12)
-  - [Animals and pets](#vid-animal) (31)
+  - [Animals and pets](#vid-animal) (32)
   - [VFX and transformations](#vid-vfx) (98)
-- [Image prompts](#image) (1439 entries)
-  - [Posters and editorial layouts](#img-poster) (209)
+- [Image prompts](#image) (1453 entries)
+  - [Posters and editorial layouts](#img-poster) (215)
   - [Infographics and slides](#img-infographic) (95)
   - [Phone and UI mockups](#img-ui-mockup) (30)
   - [Product shots and e-commerce](#img-product) (79)
   - [Logos, ads and packaging](#img-brand) (28)
-  - [Photo realism](#img-realism) (135)
-  - [Portraits](#img-portrait) (287)
-  - [Characters and figures](#img-character) (112)
-  - [Illustration](#img-illustration) (121)
+  - [Photo realism](#img-realism) (136)
+  - [Portraits](#img-portrait) (288)
+  - [Characters and figures](#img-character) (113)
+  - [Illustration](#img-illustration) (122)
   - [Comics and storyboards](#img-comic) (21)
-  - [Photo to art](#img-photo-to-art) (112)
+  - [Photo to art](#img-photo-to-art) (113)
   - [Architecture and interiors](#img-architecture) (24)
   - [Maps](#img-map) (15)
-  - [Collage](#img-collage) (106)
-  - [Photo editing](#img-edit) (65)
+  - [Collage](#img-collage) (108)
+  - [Photo editing](#img-edit) (66)
 - [Agent recipes: editing video](#recipes) (5 entries)
 - [Guides and skills](#guides)
 - [3D with agents](#threed)
@@ -141,28 +141,28 @@ All 20 are on [agentcraft.dev](https://agentcraft.dev/en/prompts/image/seedream-
 <a id="recent"></a>
 ## Recently added
 
-- 2026-11-11 · [Slytherin girl smiling in candlelit Hogwarts library](pages/en/image-character.md#seedream-5-5-slytherin-library-smile) · Seedream 5.5
-- 2026-11-11 · [Bald man strides toward camera on Manhattan sidewalk](pages/en/video-action.md#seedance-steadicam-impossible-physics-stunt) · Seedance 2.5
-- 2026-11-11 · [Regency ballroom girl in Claude shirt, Jigglypuff hat](pages/en/video-cinematic.md#omni-regency-ballroom-claude-shirt-jigglypuff) · Gemini Omni Flash
-- 2026-11-11 · [Flat explainer opens on question mark and blank poster](pages/en/video-commercial.md#h3-flat-explainer-question-poster-opening) · MiniMax H3
-- 2026-11-11 · [Pixel claw lifts sleeping woman in pajamas](pages/en/video-commercial.md#wan-pixel-claw-pajama-lift) · Wan 3.0
-- 2026-11-11 · [Three pigs withstand wolf, then reveal housing brand](pages/en/video-commercial.md#h3-three-pigs-housing-brand-reveal) · MiniMax H3
-- 2026-11-11 · [Seated woman on concrete stairs in pantyhose](pages/en/image-portrait.md#gpt-image-seated-woman-concrete-stairs-pantyhose) · GPT Image 2.5
-- 2026-11-11 · [Woman with dried flowers beside a Soviet bus](pages/en/image-portrait.md#seedream-5-5-woman-dried-flowers-soviet-bus) · Seedream 5.5
-- 2026-11-11 · [Woman with pink peony bouquet in doorway](pages/en/image-portrait.md#gpt-image-polaroid-peony-bouquet-doorway) · GPT Image 2.5
-- 2026-11-11 · [Woman winking with peace sign in orange tee](pages/en/image-portrait.md#nano-banana-good-vibes-wink-peace-sign) · Nano Banana 2.1
-- 2026-11-11 · [Woman in blue top and mini skirt at reception](pages/en/image-realism.md#gpt-image-reception-blue-top-mini-skirt) · GPT Image 2.5
-- 2026-11-11 · [Cotton wool felt canal town with lotus blooms](pages/en/image-illustration.md#gpt-image-cotton-wool-felt-canal-town) · GPT Image 2.5
+- 2026-11-17 · [Elf heroine speeds through morning battle prep montage](#seedance-elf-morning-routine) · Seedance 2.5
+- 2026-11-17 · [Ram and Rem on a macOS desktop wallpaper](pages/en/video-anime.md#wan-ram-rem-macos-desktop) · Wan 3.0
+- 2026-11-17 · [Ghost crawls out of TV to steal ice cream](pages/en/video-dialogue.md#wan-ghost-steals-ice-cream-tv) · Wan 3.0
+- 2026-11-17 · [Cat causes chaos through a sleeping house at night](pages/en/video-animal.md#kling-night-cat-chaos-chase) · Kling 4.0
+- 2026-11-17 · [Florence Duomo photo with rubber stamp field notes](pages/en/image-poster.md#gpt-image-florence-stamp-field-notes) · GPT Image 2.5
+- 2026-11-17 · [Spear fighter and brawler on a cracked mosaic arena](pages/en/video-action.md#wan-spear-brawler-mosaic-arena-fight) · Wan 3.0
+- 2026-11-17 · [Forest road photo paired with illustrated version](pages/en/image-poster.md#gpt-image-road-trip-vibes-poster) · GPT Image 2.5
+- 2026-11-17 · [Taj Mahal emerging from a giant T](pages/en/image-poster.md#gpt-image-2-6-taj-mahal-giant-t-poster) · GPT Image 2.6
+- 2026-11-17 · [Flipkart campaign poster with walking model and products](pages/en/image-poster.md#nano-banana-flipkart-more-to-explore-collage) · Nano Banana 2.1
+- 2026-11-17 · [Chunky yellow scarf links two pencil sketched figures](pages/en/image-poster.md#gpt-image-2-6-stay-warm-shared-scarf) · GPT Image 2.6
+- 2026-11-17 · [Two expressive portraits of one curly haired character](pages/en/image-character.md#gpt-image-curly-redhead-two-expressions) · GPT Image 2.5
+- 2026-11-17 · [Golden boat with umbrella at sunset](pages/en/image-realism.md#gpt-image-2-6-golden-leaf-boat-sunset) · GPT Image 2.6
 
 <a id="bymodel"></a>
 ## By model
 
-- [Seedance 2.5](https://agentcraft.dev/en/prompts/video/seedance-2-5/): 659 prompts, each with its output and source
+- [Seedance 2.5](https://agentcraft.dev/en/prompts/video/seedance-2-5/): 678 prompts, each with its output and source
 - [MiniMax H3](https://agentcraft.dev/en/prompts/video/minimax-h3/): 315 prompts, each with its output and source
-- [Wan 3.0](https://agentcraft.dev/en/prompts/video/wan-3-0/): 61 prompts, each with its output and source
-- [Kling 4.0](https://agentcraft.dev/en/prompts/video/kling-4-0/): 37 prompts, each with its output and source
-- [GPT Image 2.6](https://agentcraft.dev/en/prompts/image/gpt-image-2-6/): 98 prompts, 43 of them animated GIFs, each with its output and source
-- [Nano Banana 2.1](https://agentcraft.dev/en/prompts/image/nano-banana-2-1/): 95 prompts, each with its output and source
+- [Wan 3.0](https://agentcraft.dev/en/prompts/video/wan-3-0/): 64 prompts, each with its output and source
+- [Kling 4.0](https://agentcraft.dev/en/prompts/video/kling-4-0/): 38 prompts, each with its output and source
+- [GPT Image 2.6](https://agentcraft.dev/en/prompts/image/gpt-image-2-6/): 107 prompts, 43 of them animated GIFs, each with its output and source
+- [Nano Banana 2.1](https://agentcraft.dev/en/prompts/image/nano-banana-2-1/): 97 prompts, each with its output and source
 - [Seedream 5.5](https://agentcraft.dev/en/prompts/image/seedream-5-5/): 20 prompts, each with its output and source
 
 <a id="video"></a>
@@ -249,7 +249,7 @@ Invisible micro-FPV camera skimming less than an inch above the coarse woven bed
 
 </details>
 
-**[All 170 entries](pages/en/video-cinematic.md)**
+**[All 178 entries](pages/en/video-cinematic.md)**
 
 <a id="vid-action"></a>
 ## Action, chases and sports
@@ -305,7 +305,7 @@ Shot 4: A dramatic, low-angle shot focusing on the basketball hoop as the man, s
 
 </details>
 
-**[All 233 entries](pages/en/video-action.md)**
+**[All 236 entries](pages/en/video-action.md)**
 
 <a id="vid-scifi-fantasy"></a>
 ## Sci-fi and fantasy
@@ -385,32 +385,67 @@ Cinematic sci-fi horror-action short film set in a research laboratory, opens wi
 
 </details>
 
-<a id="seedance-dragon-bakes-bread"></a>
-### A woman teaches a dragon to bake heart-shaped bread
+<a id="seedance-elf-morning-routine"></a>
+### Elf heroine speeds through morning battle prep montage
 
-<a href="https://x.com/ElsaSofia__AI/status/2113089111699673461"><img src="previews/seedance-dragon-bakes-bread.jpg" width="360"></a>
+<a href="https://x.com/GlitterPixely/status/2102028142294483208"><img src="previews/seedance-elf-morning-routine.jpg" width="360"></a>
 
-Short and specific: colours of the dragon, one hard rule (all bread heart-shaped), and a mood word to end on.
+A single image reference is locked in a REF block, and a LOCK line keeps face, hair and outfit stable across cuts. Twenty timed beats, each named as a hard cut, plus a listed SFX stack with no music or dialogue let the sound design carry the rhythm.
 
-Seedance 2.5 · Text-to-video · Source: [@ElsaSofia__AI on X](https://x.com/ElsaSofia__AI/status/2113089111699673461) · 1,430 likes on 2026-10-27
+Seedance 2.5 · Image-to-video · Source: [@GlitterPixely on X](https://x.com/GlitterPixely/status/2102028142294483208) · 1,542 likes on 2026-11-17
 
-[`fantasy`](pages/en/tags.md#tag-fantasy) [`creature`](pages/en/tags.md#tag-creature) [`food`](pages/en/tags.md#tag-food)
+[`fantasy`](pages/en/tags.md#tag-fantasy) [`montage`](pages/en/tags.md#tag-montage) [`sound-design`](pages/en/tags.md#tag-sound-design) [`character-consistency`](pages/en/tags.md#tag-character-consistency)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-Photorealistic medieval fantasy film. Warm sunlight, stone cottage, wooden table, iron grill. Colossal dragon with pale pink-white scales, pink spines and golden eyes. All bread must be heart-shaped. Realistic fire, food textures, natural physics.
-0-5s: Heroine arranges raw heart-shaped dough on the grill. Dragon sniffs eagerly, then blasts enormous flames! Fire engulfs the dough. She jumps back: "Whoa! Easy! You're making bread, not dragon food!"
-5-10s: A charred heart-shaped loaf smokes on the grill. Dragon looks guilty, hiding its head. She shows the burnt bread, then smiles and replaces it: "Look. Just a little flame. Can you do that?"
-10-17s: Dragon carefully releases a tiny steady flame beneath the grill. Heart-shaped dough rises, forming a golden crust. Steam rises as dragon watches nervously.
-17-23s: She cuts open the crispy heart-shaped bread, revealing a soft fluffy center. "You did it! Perfect!" Dragon tries to eat it all. She laughs and feeds it a small piece.
-23-30s: Dragon nuzzles her for affection. She strokes its scales, shares more heart-shaped bread. Dragon closes its eyes happily, tail wagging. Wide sunset shot, warm and healing.
-Cinematic lighting, detailed scales, realistic flames, expressive acting. No subtitles, narration, logos or watermark.
+UPLOAD MAP:
+
+@Image
+ 1 = Character A identity, face, hairstyle, outfit, fantasy animation style
+
+30 seconds, 16:9, image-to-video, rapid morning-routine micro-cut montage.
+
+[REF] Preserve
+@Image
+ 1 as Character A: original white-haired elf dragon-slayer, pointed ears, pale hair, face smudges, feathered outfit, soft painterly fantasy animation. No franchise logos or recognizable game symbols.
+
+[BEATS]
+Cut 01, 0.0-1.2s: extreme close-up, her eyes snap open as a tiny smoking dragon-scale alarm charm rattles.
+Cut 02, 1.2-2.2s: she slaps the charm silent without looking; a puff of scale-smoke.
+Cut 03, 2.2-3.6s: she sits up and throws off a rough blanket; feathers on the outfit bounce.
+Cut 04, 3.6-5.0s: water splash across her face, droplets catch dawn light.
+Cut 05, 5.0-6.3s: she drags two quick war-paint smudges under her eyes.
+Cut 06, 6.3-7.6s: she yanks her braid tight; feathers bounce.
+Cut 07, 7.6-8.8s: boot hits the floor, buckle snaps shut.
+Cut 08, 8.8-10.0s: second boot stamps down, shin strap yanks tight.
+Cut 09, 10.0-11.3s: wrist wrap pulls tight between her teeth.
+Cut 10, 11.3-12.6s: armor charm clicks onto her shoulder.
+Cut 11, 12.6-14.0s: belt cinches, small hunting pouch snaps shut.
+Cut 12, 14.0-15.6s: she grabs toast, takes one serious bite like it is battle prep.
+Cut 13, 15.6-17.2s: a little map on the table singes at the dragon mark.
+Cut 14, 17.2-18.6s: she taps the burned mark once and gives a small confirming nod.
+Cut 15, 18.6-20.2s: she swings her weapon strap over her shoulder.
+Cut 16, 20.2-21.8s: brief gleam across a plain blade edge, then it slides home. No markings.
+Cut 17, 21.8-23.4s: feathered cloak settles; she grabs a small pack off a hook.
+Cut 18, 23.4-25.2s: door bursts open into blinding sunrise.
+Cut 19, 25.2-27.2s: she steps onto the threshold, dawn wind lifts a few feathers.
+Cut 20, 27.2-30.0s: held heroic close-up, tiny determined smile, distant dragon shadow crosses the warm sky.
+
+[CAMERA] Fast clean cuts, snappy close-ups, rostrum-style 2D push-ins and pans. No long slow holds except the final heroic frame. Name every cut as a hard cut, not a morph.
+
+[LIGHT] warm dawn light, golden dust motes, soft painted rim light, cozy hut interior shifting to bright outdoor glow.
+
+[AUDIO] No music, no dialogue, no subtitles.
+Ambience: cozy wooden-hut morning room tone, then outdoor dawn wind.
+SFX: <alarm rattle, slap, blanket rustle, water splash, braid tug, boot thud, buckle click, leather wrap pull, charm click, pouch snap, toast crunch, map sizzle, strap slap, blade sheath, door creak, distant dragon rumble>
+
+[LOCK] keep her face, ears, hair, outfit logic, painterly style, and body scale stable across every cut; keep hands simple; no text; no logos; no recognizable game symbols.
 ```
 
 </details>
 
-**[All 99 entries](pages/en/video-scifi-fantasy.md)**
+**[All 101 entries](pages/en/video-scifi-fantasy.md)**
 
 <a id="vid-anime"></a>
 ## Anime and animation
@@ -537,7 +572,7 @@ No storyboard, reference image, sketch, panels, borders, numbers, arrows, annota
 
 </details>
 
-**[All 82 entries](pages/en/video-anime.md)**
+**[All 83 entries](pages/en/video-anime.md)**
 
 <a id="vid-commercial"></a>
 ## Ads and product videos
@@ -624,7 +659,7 @@ hypnotic, mechanical, intimate.
 
 </details>
 
-**[All 136 entries](pages/en/video-commercial.md)**
+**[All 137 entries](pages/en/video-commercial.md)**
 
 <a id="vid-dialogue"></a>
 ## Dialogue and talking heads
@@ -790,7 +825,7 @@ Natural ambient audio only: faint breeze, distant birds, the small click of the 
 
 </details>
 
-**[All 57 entries](pages/en/video-dialogue.md)**
+**[All 59 entries](pages/en/video-dialogue.md)**
 
 <a id="vid-music-dance"></a>
 ## Music and dance
@@ -1002,7 +1037,7 @@ The realism should come from ordinary surroundings, natural expressions, small a
 
 </details>
 
-**[All 186 entries](pages/en/video-vlog.md)**
+**[All 191 entries](pages/en/video-vlog.md)**
 
 <a id="vid-nature"></a>
 ## Nature, travel and aerial
@@ -1353,7 +1388,7 @@ POV flight from a golden eagle soaring over vast mountainous steppe landscapes. 
 
 </details>
 
-**[All 31 entries](pages/en/video-animal.md)**
+**[All 32 entries](pages/en/video-animal.md)**
 
 <a id="vid-vfx"></a>
 ## VFX and transformations
@@ -1630,7 +1665,7 @@ PHASE 5: MINIMALIST BRANDING.
 
 </details>
 
-**[All 209 entries](pages/en/image-poster.md)**
+**[All 215 entries](pages/en/image-poster.md)**
 
 <a id="img-infographic"></a>
 ## Infographics and slides
@@ -2199,7 +2234,7 @@ Use the uploaded reference image as the exact facial identity reference. Create 
 
 </details>
 
-**[All 135 entries](pages/en/image-realism.md)**
+**[All 136 entries](pages/en/image-realism.md)**
 
 <a id="img-portrait"></a>
 ## Portraits
@@ -2244,7 +2279,7 @@ GPT Image 2 · Edit · Source: [@tadasgedgaudas on X](https://x.com/tadasgedgaud
 
 </details>
 
-**[All 287 entries](pages/en/image-portrait.md)**
+**[All 288 entries](pages/en/image-portrait.md)**
 
 <a id="img-character"></a>
 ## Characters and figures
@@ -2369,7 +2404,7 @@ Final output: one polished square image containing a clearly organized 4×4 grid
 
 </details>
 
-**[All 112 entries](pages/en/image-character.md)**
+**[All 113 entries](pages/en/image-character.md)**
 
 <a id="img-illustration"></a>
 ## Illustration
@@ -2418,7 +2453,7 @@ A crisp, printmaking-like aesthetic with bold outlines and natural deformation. 
 
 </details>
 
-**[All 121 entries](pages/en/image-illustration.md)**
+**[All 122 entries](pages/en/image-illustration.md)**
 
 <a id="img-comic"></a>
 ## Comics and storyboards
@@ -2556,7 +2591,7 @@ Do not change my pet’s appearance. Do not turn it into a different animal, car
 
 </details>
 
-**[All 112 entries](pages/en/image-photo-to-art.md)**
+**[All 113 entries](pages/en/image-photo-to-art.md)**
 
 <a id="img-architecture"></a>
 ## Architecture and interiors
@@ -2751,7 +2786,7 @@ Composition: keep the real person as the central focus, surrounded by chibi stic
 
 </details>
 
-**[All 106 entries](pages/en/image-collage.md)**
+**[All 108 entries](pages/en/image-collage.md)**
 
 <a id="img-edit"></a>
 ## Photo editing
@@ -2834,7 +2869,7 @@ The overall vibe should feel fun, energetic, and feminine.
 
 </details>
 
-**[All 65 entries](pages/en/image-edit.md)**
+**[All 66 entries](pages/en/image-edit.md)**
 
 <a id="recipes"></a>
 ## Agent recipes: editing video
@@ -3005,9 +3040,9 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 <a id="tags"></a>
 ## Browse by tag
 
-[`portrait`](pages/en/tags.md#tag-portrait) 233 · [`fashion`](pages/en/tags.md#tag-fashion) 159 · [`multi-shot`](pages/en/tags.md#tag-multi-shot) 132 · [`anime`](pages/en/tags.md#tag-anime) 128 · [`template`](pages/en/tags.md#tag-template) 125 · [`typography`](pages/en/tags.md#tag-typography) 115 · [`cinematic`](pages/en/tags.md#tag-cinematic) 112 · [`handheld`](pages/en/tags.md#tag-handheld) 105 · [`editorial`](pages/en/tags.md#tag-editorial) 97 · [`golden-hour`](pages/en/tags.md#tag-golden-hour) 92 · [`dialogue`](pages/en/tags.md#tag-dialogue) 91 · [`photorealistic`](pages/en/tags.md#tag-photorealistic) 87 · [`reference-image`](pages/en/tags.md#tag-reference-image) 80 · [`character-consistency`](pages/en/tags.md#tag-character-consistency) 80 · [`christmas`](pages/en/tags.md#tag-christmas) 76 · [`macro`](pages/en/tags.md#tag-macro) 75 · [`fantasy`](pages/en/tags.md#tag-fantasy) 75 · [`photo-edit`](pages/en/tags.md#tag-photo-edit) 69 · [`infographic`](pages/en/tags.md#tag-infographic) 69 · [`storyboard`](pages/en/tags.md#tag-storyboard) 65 · [`vlog`](pages/en/tags.md#tag-vlog) 64 · [`json-prompt`](pages/en/tags.md#tag-json-prompt) 64 · [`selfie`](pages/en/tags.md#tag-selfie) 59 · [`collage`](pages/en/tags.md#tag-collage) 59 · [`action`](pages/en/tags.md#tag-action) 58 · [`reference-images`](pages/en/tags.md#tag-reference-images) 55 · [`miniature`](pages/en/tags.md#tag-miniature) 55 · [`food`](pages/en/tags.md#tag-food) 50 · [`comedy`](pages/en/tags.md#tag-comedy) 49 · [`travel-poster`](pages/en/tags.md#tag-travel-poster) 49
+[`portrait`](pages/en/tags.md#tag-portrait) 237 · [`fashion`](pages/en/tags.md#tag-fashion) 160 · [`multi-shot`](pages/en/tags.md#tag-multi-shot) 133 · [`anime`](pages/en/tags.md#tag-anime) 130 · [`template`](pages/en/tags.md#tag-template) 125 · [`typography`](pages/en/tags.md#tag-typography) 116 · [`cinematic`](pages/en/tags.md#tag-cinematic) 113 · [`handheld`](pages/en/tags.md#tag-handheld) 107 · [`editorial`](pages/en/tags.md#tag-editorial) 98 · [`golden-hour`](pages/en/tags.md#tag-golden-hour) 93 · [`dialogue`](pages/en/tags.md#tag-dialogue) 92 · [`photorealistic`](pages/en/tags.md#tag-photorealistic) 87 · [`character-consistency`](pages/en/tags.md#tag-character-consistency) 85 · [`reference-image`](pages/en/tags.md#tag-reference-image) 81 · [`fantasy`](pages/en/tags.md#tag-fantasy) 76 · [`christmas`](pages/en/tags.md#tag-christmas) 76 · [`macro`](pages/en/tags.md#tag-macro) 75 · [`photo-edit`](pages/en/tags.md#tag-photo-edit) 69 · [`infographic`](pages/en/tags.md#tag-infographic) 69 · [`storyboard`](pages/en/tags.md#tag-storyboard) 65 · [`vlog`](pages/en/tags.md#tag-vlog) 65 · [`json-prompt`](pages/en/tags.md#tag-json-prompt) 64 · [`collage`](pages/en/tags.md#tag-collage) 62 · [`action`](pages/en/tags.md#tag-action) 59 · [`selfie`](pages/en/tags.md#tag-selfie) 59 · [`reference-images`](pages/en/tags.md#tag-reference-images) 55 · [`miniature`](pages/en/tags.md#tag-miniature) 55 · [`comedy`](pages/en/tags.md#tag-comedy) 52 · [`food`](pages/en/tags.md#tag-food) 50 · [`travel-poster`](pages/en/tags.md#tag-travel-poster) 49
 
-**[All 3103 tags](pages/en/tags.md)**
+**[All 3129 tags](pages/en/tags.md)**
 
 <a id="contributing"></a>
 ## Contributing

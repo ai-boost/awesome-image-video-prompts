@@ -1,6 +1,85 @@
 # 动作、追逐与运动
 
-[返回目录](../../README_zh.md) · 全部 233 条 · [1](video-action.md) · **2** · [3](video-action-3.md)
+[返回目录](../../README_zh.md) · 全部 236 条 · [1](video-action.md) · **2** · [3](video-action-3.md)
+
+<a id="h3-armor-hero-ruined-city-sprint"></a>
+### 跑者穿过烟尘弥漫的废城
+
+<a href="https://x.com/FutureVibesAi/status/2084230779622638032"><img src="../../previews/h3-armor-hero-ruined-city-sprint.jpg" width="360"></a>
+
+为每张参考图指定固定角色，Image 1 作为角色，Image 2 作为装甲。动作写成一个不间断的长镜头，按顺序描述冲刺、出拳、飞踢和推进器升空，并明确禁止切镜、慢动作和定格。
+
+MiniMax H3 · 参考生视频 · 出处: [@FutureVibesAi on X](https://x.com/FutureVibesAi/status/2084230779622638032) · 43 赞，统计于 2026-10-29
+
+[`reference-images`](tags.md#tag-reference-images) [`continuous-shot`](tags.md#tag-continuous-shot) [`armor-transformation`](tags.md#tag-armor-transformation) [`chase`](tags.md#tag-chase)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Style: Ultra-realistic live action, IMAX cinematic, photorealistic, Hollywood blockbuster, 4K HDR, 60fps, continuous action shot, no slow motion, no pause, no freeze frame, no music.
+
+Use Image 1 as WEKA (same face, hairstyle, body proportions, green oversized shirt, cargo pants, sneakers).
+Use Image 2 as the transformation armor design (blue metallic armor with gold accents). The armor appears only as modular pieces that attach to WEKA during combat.
+
+Scene:
+A ruined modern city filled with collapsed buildings, broken highways, smoke, dust, scattered burning vehicles, flying debris, dramatic daylight filtering through thick smoke. Several giant beast-like monsters charge through the streets.
+
+The camera immediately follows WEKA sprinting at extreme speed through the destroyed city in one continuous IMAX tracking shot. Dust and debris explode beneath every step.
+
+While still running, glowing blue mechanical armor rapidly deploys onto his right arm. Individual armor plates fly in at high speed and lock perfectly into place with powerful metallic impacts. Without slowing down, WEKA delivers one devastating armored punch into the chest of the nearest monster. The impact creates a massive shockwave, cracked pavement, flying debris, and the monster is violently launched backward, crashing through broken concrete.
+
+Without stopping, WEKA continues sprinting forward. While airborne during a long leap, blue mechanical armor instantly assembles around both legs. Every plate snaps into place seamlessly in midair. The completed armored legs unleash an explosive flying kick that strikes another charging monster with tremendous force, sending it spinning across the ruined street and smashing through wreckage.
+
+Immediately after the kick, additional armor modules rapidly fly toward WEKA from every direction. Helmet, chest, shoulders, back, waist, arms, and legs all attach in perfect synchronization while he remains in motion. Bright blue energy pulses through every armor seam as the transformation completes.
+
+The instant the full armor locks into place, powerful blue energy thrusters ignite from the back and legs. WEKA accelerates upward into the sky above the destroyed city, flying at high speed toward the remaining monsters as dust, sparks, and debris swirl below.
+
+Camera:
+Single uninterrupted continuous shot, dynamic IMAX chase camera with smooth orbit transitions, low-angle tracking, close combat follow shots, realistic handheld vibration during impacts, cinematic motion blur, volumetric smoke, detailed destruction, dramatic lighting, no cuts, no pauses, no dialogue, no subtitles, no watermark.
+```
+
+</details>
+
+<a id="h3-woman-burning-cargo-corridor-fight"></a>
+### 女战士穿过燃烧货舱走廊格斗
+
+<a href="https://x.com/Sogni_Protocol/status/2097952332315050154"><img src="../../previews/h3-woman-burning-cargo-corridor-fight.jpg" width="360"></a>
+
+提示词把动作按顺序写成多个节拍，并放进一个连续手持跟拍镜头里，让模型有清楚的时间线可循。一句台词决定门何时打开，把结尾和对白连在一起，节奏也更易读。
+
+MiniMax H3 · 文生视频 · 出处: [@Sogni_Protocol on X](https://x.com/Sogni_Protocol/status/2097952332315050154) · 40 赞，统计于 2026-10-29
+
+[`fight-choreography`](tags.md#tag-fight-choreography) [`handheld`](tags.md#tag-handheld) [`tracking-shot`](tags.md#tag-tracking-shot) [`lora`](tags.md#tag-lora)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Live-action, cinematic, 16:9, 85mm, shallow depth of field, realistic grounded fight choreography. A woman in her late twenties, short dark hair, grey tactical jacket, steel baton, runs down a burning cargo-ship corridor in one continuous handheld tracking shot. First guard swings a rifle butt, she takes it on the shoulder, breaks his forearm with the baton and shoves him into the wall. Second guard with a knife, she deflects the wrist and drives his head into her knee. Third guard raises a pistol in front of a sealed bulkhead door; she throws the baton into his shin, slaps the gun away, slams him into the door frame and pins him with her forearm across his throat. Tight two-shot, she says "Open it." Only then does he hit the keypad; the door grinds open and white light floods the frame.
+```
+
+</details>
+
+<a id="wan-land-speed-car-mach-1-desert"></a>
+### 未来概念赛车黎明沙漠中冲击马赫1
+
+<a href="https://x.com/AllaAisling/status/2093509473277006226"><img src="../../previews/wan-land-speed-car-mach-1-desert.jpg" width="360"></a>
+
+用时间点式的速度数字（200、400、700 mph）逐段推进紧张感，并在广角航拍与轮胎高度的近景之间切换来表现规模。事件按严格顺序列出，使模型保持连续的镜头序列。
+
+Wan 3.0 · 文生视频 · 出处: [@AllaAisling on X](https://x.com/AllaAisling/status/2093509473277006226) · 40 赞，统计于 2026-10-29
+
+[`land-speed`](tags.md#tag-land-speed) [`vehicle`](tags.md#tag-vehicle) [`sonic-boom`](tags.md#tag-sonic-boom) [`desert`](tags.md#tag-desert)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A futuristic experimental racing vehicle attempts to become the first ground vehicle to maintain Mach 1 across open terrain. Dawn. Engines ignite. The camera follows close behind as the vehicle accelerates across a vast desert. 200 mph. 400 mph. 600 mph. The landscape becomes a blur. Shockwaves begin forming around the body. Warning messages appear throughout the cockpit. The vehicle starts lifting slightly from the ground. Control surfaces struggle to stabilize it. The camera alternates between wide aerial shots and terrifyingly close wheel-level views. 700 mph. 750 mph. Small components begin tearing away from the chassis. The driver refuses to slow down. Mountains ahead approach far too quickly. The speed reaches the critical threshold. A massive sonic boom erupts across the desert. The vehicle becomes unstable. It drifts sideways at incredible speed. The driver fights for control. For several seconds disaster seems inevitable. Then the vehicle stabilizes and continues accelerating. Final shot: the machine races beyond the horizon while the sonic shockwave rolls across the desert behind it. Ultra-realistic cinematic speed record attempt, realistic aerodynamics, overwhelming speed sensation, shockwaves, intense tension, detailed cockpit, IMAX quality, dramatic scale.
+
+Made with Wan 3.0 in
+@openart_ai
+```
+
+</details>
 
 <a id="kling-jaguar-chase-waterfall-pool"></a>
 ### 背包客被美洲豹追逐跳入瀑布池
@@ -4243,118 +4322,6 @@ Show realistic human biomechanics, acceleration, momentum, friction, center-of-m
 Use only diegetic sound: footsteps, breathing, crowd chatter, vendors, bicycles, fabric movement, traffic, and echoing alley footsteps. Natural mixed market lighting, realistic shadows, reflections, depth of field, and motion blur. End on a locked-off shot of the empty alley as her footsteps fade away.
 
 No CGI, animation, superhero movement, impossible parkour, teleportation, unrealistic crowd behavior, distorted anatomy, floating objects, weapons, gore, text, logos, or watermark.
-```
-
-</details>
-
-<a id="seedance-night-rain-loading-door-escape"></a>
-### 女子在昏暗工业走廊中奔跑
-
-<a href="https://x.com/nawalsehar/status/2100082784018821414"><img src="../../previews/seedance-night-rain-loading-door-escape.jpg" width="360"></a>
-
-提示词写明了物理因果（摩擦、背包惯性、重心转移），并给出固定镜头清单（手持、低机位、门特写、静态全景），让模型有清晰的节拍表。声音只限现场声源，让音频与画面保持一致。
-
-Seedance 2.5 · 文生视频 · 出处: [@nawalsehar on X](https://x.com/nawalsehar/status/2100082784018821414) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`action-thriller`](tags.md#tag-action-thriller) [`handheld`](tags.md#tag-handheld) [`night-rain`](tags.md#tag-night-rain) [`diegetic-sound`](tags.md#tag-diegetic-sound)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a 30-second ultra-photorealistic live-action action-thriller at night during heavy rain. A young woman trapped inside an old industrial building discovers a partially open mechanical loading door and times her escape as two pursuers close in. She slides beneath the heavy door, struggles with realistic friction and backpack movement, rolls onto the rain-soaked pavement, and escapes into a dark service lane.
-
-Show realistic human biomechanics, inertia, momentum, gravity, friction, center-of-mass shifts, realistic loading-door mechanics, backpack physics, rain and water dynamics, wet-surface traction, vehicle spray, and physically accurate material interactions. Use handheld chase cinematography, low floor-level shots during the escape, close-ups of the mechanical door, exterior tracking shots, and a final static wide shot. Camera movement should have natural operator inertia and subtle handheld shake.
-
-Use only diegetic sound: heavy rain, breathing, footsteps, metal mechanisms, water splashes, distant traffic, echoes, and thunder. Natural nighttime lighting with realistic wet reflections, shadows, depth of field, and motion blur. End with the woman hidden behind a concrete wall as the pursuers run past, followed by an empty rain-soaked street and a cut to black.
-
-No CGI, animation, superhero abilities, impossible parkour, teleportation, weightless objects, exaggerated slow motion, unrealistic physics, distorted anatomy, duplicate characters, text, logos, or watermark.
-```
-
-</details>
-
-<a id="seedance-nova-pulse-zenith-ren"></a>
-### Ren 在红月下斩退两只机械石像鬼
-
-<a href="https://x.com/yourPlugAI/status/2113564718187037043"><img src="../../previews/seedance-nova-pulse-zenith-ren.jpg" width="360"></a>
-
-参考素材表锁定主角与机械兽的造型，时间分段列表则为每一段分别给出画面、动作和声音，逐镜控制节奏、运镜与音效。以 Arcane 和 Guilty Gear Strive 的赛璐璐渲染作为风格参照。
-
-Seedance 2.5 · 参考生视频 · 出处: [@yourPlugAI on X](https://x.com/yourPlugAI/status/2113564718187037043) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`anime`](tags.md#tag-anime) [`cyberpunk`](tags.md#tag-cyberpunk) [`timeline-prompt`](tags.md#tag-timeline-prompt) [`cell-shading`](tags.md#tag-cell-shading)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Nova Pulse: Zenith (ノヴァ・パルス：頂上) ⚡🔴
-@PixVerse 
-
-High above a neon-glowing cyberpunk city under a massive crimson moon, 3D anime hero Ren unleashes high-speed Cyber-Kenjutsu against two mechanical Cyber-Gargoyles. Non-stop 30-second 3D anime gauntlet. 
-
-✨Generated with Seedance 2.5 on PixVerse AI featuring Arcane and Guilty Gear Strive-level 3D cell-shaded animation. 
-
-#PixVerseCPP #PixVerseAI #Seedance25
-
-✨Seedance 2.5 - 30s Master Video Prompt (character sheets attached below)
-
-[ENGINE DIRECTIVE]
-Generate a continuous 30-second hyper-kinetic 3D anime action sequence at 60fps in 16:9 widescreen format. Style: High-end Arcane and Guilty Gear Strive 3D cell-shaded anime animation, glossy textures, intense particle effects, high-frame-rate impact pauses. Maintain 100% strict visual consistency with provided asset sheets: "Ren" (White-haired anime hero in neon blue circuit coat with plasma greatsword) and "Cyber-Gargoyles" (Mechanical beast-warriors). Setting strictly follows "Shattered Anti-Gravity Floating Courtyard". Rapid 2-to-3 second action beats, zero-gravity combat physics, directional camera whip-pans.
-
-[AUDIO DIRECTIVE]
-• MUSIC: Fast-paced cyberpunk metal synth hybrid with heavy guitar riffs, intense electronic risers, and booming sub-bass impacts.
-• SOUND DESIGN: Humming plasma blade hum, laser cannon blasts, whipping energy chain sizzles, shattering stone impacts, and anti-gravity wind roars.
-
-[TIMELINE BREAKDOWN]
-
-00:00 - 00:03 | ZERO-G STANCE & CRIMSON MOON LOCK
-• VISUAL: Low-angle tracking camera panning up from floating stone debris to Ren's ready Kenjutsu stance.
-• ACTION: Ren stands on a hovering stone tile against the giant crimson moon, his Greatsword humming with cyan energy as two Cyber-Gargoyles hover menacingly above him.
-• SOUND: Plasma blade hum, atmospheric anti-gravity drone, mechanical growls, explosive synth intro.
-
-00:03 - 00:06 | AIR-STEPPING & PLASMA BLAST DEFLECTION
-• VISUAL: High-speed upward tracking camera following Ren's aerial movement.
-• ACTION: Cannon-beast fires three high-velocity energy projectiles. Ren air-steps upward through zero-g, deflecting all three shots with his Greatsword into floating rubble, causing explosive cyan particle bursts.
-• SOUND: Cannon FIRING blasts, metallic blade energy deflect CLANGS, explosive rubble SHATTER.
-
-00:06 - 00:09 | PLASMA-CHAIN TRAP & 360-DEGREE SPIN
-• VISUAL: Dynamic orbital tracking camera capturing the mid-air spin.
-• ACTION: Whip-beast snaps dual plasma-chain whips from above. Ren executes a 360-degree mid-air spin, wrapping the energy chains tightly around his Greatsword blade to halt the momentum cold.
-• SOUND: Whip crack SIZZLE, metallic chain binding CLACK, energy tension hum.
-
-00:09 - 00:12 | BOOT PARTICLE BURST & DIAGONAL ARMOR SLICE
-• VISUAL: 0.8-second time-dilation close-up on Ren's boots before launching into a fast tracking slash.
-• ACTION: In hyper-slow motion, Ren channels a blue particle burst into his boots, launching off the trapped chain to deliver a flying diagonal slash that severs the whip-beast's shoulder armor.
-• SOUND: Time-dilation sub-bass DROP, particle boot BURST, high-voltage plasma slash WHOOSH, armor severing CRUNCH.
-
-00:12 - 00:15 | CIRCULAR GRAVITY WAVE & DEBRIS FREEZE
-• VISUAL: Wide impact tracking camera capturing the expanding energy ripple.
-• ACTION: Ren lands on a hovering pillar and plants his sword, unleashing a circular cyan gravity wave that freezes surrounding floating debris in place.
-• SOUND: Sword floor plant THUD, massive gravity shockwave BOOM, crystalline debris freeze chime. 
-
-00:15 - 00:18 | OVERDRIVE IGNITION & BEAM CHARGE
-VISUAL: Close-up camera zooming into Ren's face as his coat circuits ignite.
-ACTION: Seamless transition: Cannon-beast charges its main red beam weapon. Ren closes his eyes for a split second as glowing neon blue circuit lines pulse wildly across his dark coat.
-SOUND: High-voltage beam charge WHINE, coat circuit power-up HUM, fast drum roll.
-
-00:18 - 00:21 | OVERDRIVE DASH & STAR-SHAPED ENERGY GRID
-VISUAL: High-speed multi-angle speed-ramped camera tracking rapid teleportations.
-ACTION: Ren executes an Overdrive Dash, blurring through six rapid directional teleport-slashes that slice through both opponents, leaving a glowing cyan star-shaped energy grid in mid-air.
-SOUND: Rapid teleport WHOOSH-WHOOSH-WHOOSH, high-frequency energy grid SLICE chimes.
-
-00:21 - 00:24 | 3D ANIME IMPACT PAUSE & BLADE SHEATH
-VISUAL: Time-dilation 3D anime impact pause as camera slowly orbits behind Ren.
-ACTION: Time freezes into a dramatic anime impact pause: Ren stands behind both enemies calmly sheathing his plasma blade, as glowing cyan slash-lines expand dangerously across the beasts' armor.
-SOUND: Sub-bass time-freeze DROP, metallic sword sheath CLICK, crackling energy tension.
-
-00:24 - 00:27 | MASSIVE SHOCKWAVE EXPLOSION & DEACTIVATION
-VISUAL: Wide dramatic tracking camera capturing the explosive collapse.
-ACTION: A massive cyan energy shockwave erupts, blasting both Cyber-Gargoyles backward onto a lower floating platform, completely disarmed and deactivated with smoking armor.
-SOUND: Explosive energy shockwave BOOM, heavy armor platform crash THUD, power-down whine.
-
-00:27 - 00:30 | BLADE FLICK & VICTORIOUS SKYLINE ORBIT
-VISUAL: Hero center-framed 360-degree orbital camera settling on Ren against the cyberpunk city.
-ACTION: Ren flicks his Greatsword downward, clearing the remaining plasma trail, as the floating debris gently settles and the camera orbits his victorious stance above the glowing neon metropolis below. CUT TO BLACK at 00:30.
-SOUND: Sword energy flick WHOOSH, settling debris rustle, quiet wind chime, total silence.
 ```
 
 </details>

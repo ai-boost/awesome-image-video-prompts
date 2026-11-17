@@ -1,0 +1,39 @@
+id: seedance-pixar-baby-womb-f1-race
+title:
+  en: Pixar style baby wins womb F1 race
+  zh: 皮克斯风格宝宝在子宫里赢得F1赛车冠军
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- pixar-style
+- 3d-animation
+- racing
+- family-comedy
+source:
+  name: '@Zarnab_with_Ai on X'
+  url: https://x.com/Zarnab_with_Ai/status/2120119829294461389
+  credit: Zarnab_with_Ai
+  captured: '2026-11-17'
+  posted: '2026-11-10'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Zarnab_with_Ai/status/2120119829294461389
+notes:
+  en: Five numbered scenes each repeat the parents' and baby's appearance, which keeps the characters consistent across cuts. A closing style block with lighting, fabric, camera movement and a no dialogue rule sets the render look and keeps the output to picture only.
+  zh: 五个编号分镜每次都重复父母和宝宝的外貌描述，使角色在切换镜头后保持一致。结尾的风格段落写明光影、面料、运镜，并注明无对白，让成片只靠画面叙事。
+prompt: |
+  Create a high-quality cinematic 3D animated Pixar-style comedy short film in vertical 9:16 format.
+
+  Scene 1: A beautiful pregnant woman with long, wavy dark brown hair, big expressive blue eyes, wearing a purple and white striped dress, sits comfortably in the passenger seat of a modern car. Her husband, a handsome young man with curly dark hair, wearing a white striped shirt, is driving. The woman gently rests both hands on her pregnant belly and smiles.
+
+  Scene 2: Transition into a magical fantasy visualization inside the mother's womb. Reveal a spectacular miniature Formula 1 racing circuit surrounded by glowing orange and red organic tunnels, sparkling particles, dramatic lighting, and winding race tracks.
+
+  Scene 3: A cute chubby baby with big blue eyes, wearing a professional red racing suit and a red racing helmet, drives a miniature red Formula 1 Ferrari-style go-kart numbered 1. Show exciting high-speed racing, sharp turns, realistic tire movement, cinematic camera tracking, and dynamic motion blur.
+
+  Scene 4: The adorable baby crosses the finish line and wins the race. The baby happily raises a golden trophy while sitting in the red racing car. A checkered racing flag waves in the background, with celebratory lights and confetti.
+
+  Scene 5: Cut back to the car interior. The pregnant woman and her husband look at each other and laugh joyfully, sharing a sweet romantic moment while gently touching her belly.
+
+  Visual Style: Premium Pixar-inspired 3D animation, adorable character design, expressive facial emotions, ultra-detailed environments, cinematic lighting, smooth animation, vibrant colors, realistic fabric textures, consistent characters throughout all scenes, professional camera movements, high-quality rendering, funny and heartwarming storytelling.
+
+  Format: 9:16 vertical, approximately 20–22 seconds, no dialogue, no subtitles, no watermark.

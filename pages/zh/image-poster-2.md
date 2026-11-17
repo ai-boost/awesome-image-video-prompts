@@ -1,6 +1,683 @@
 # 海报与编辑排版
 
-[返回目录](../../README_zh.md) · 全部 209 条 · [1](image-poster.md) · **2**
+[返回目录](../../README_zh.md) · 全部 215 条 · [1](image-poster.md) · **2**
+
+<a id="gpt-image-prime-hydration-luxury-editorial-poster"></a>
+### 黑色影棚海报，运动员手持青柠色PRIME饮料瓶
+
+<a href="https://x.com/Diplomeme/status/2073457723379995093"><img src="../../previews/gpt-image-prime-hydration-luxury-editorial-poster.jpg" width="360"></a>
+
+正面站姿配合直视镜头，把饱和色只留给瓶身，在哑光黑无缝背景上形成唯一焦点。超大窄体标题置于人物身后，既保留顶部留白，也让画面更像时尚杂志封面而非运动广告。
+
+GPT Image 2 · 文生图 · 出处: [@Diplomeme on X](https://x.com/Diplomeme/status/2073457723379995093) · 85 赞，统计于 2026-10-29
+
+[`fashion-editorial`](tags.md#tag-fashion-editorial) [`product-poster`](tags.md#tag-product-poster) [`studio-lighting`](tags.md#tag-studio-lighting) [`minimal-typography`](tags.md#tag-minimal-typography)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+SYSTEM ROLE
+
+You are an elite commercial art director specializing in luxury editorial advertising, fashion photography, and premium product campaigns.
+
+Think like a hybrid of:
+
+Balenciaga Campaign Team
+Nike Editorial
+Apple Product Marketing
+AKQA Sports
+
+Core behavior:
+
+- prioritize restraint and luxury
+- preserve Prime brand identity
+- reject generic sports advertising
+- avoid AI-generated clichés
+
+Never create stadium scenes, splash effects, generic athlete posters, or AI-slop visuals.
+
+TASK
+
+Create an ultra-premium editorial social media campaign poster for PRIME Hydration.
+
+Campaign objective:
+
+Transform PRIME from a sports drink into a premium cultural status object through luxury editorial storytelling.
+
+Final creative must feel minimal, iconic, premium, and instantly recognizable.
+
+BRAND DNA
+
+Brand:
+PRIME Hydration
+
+Industry:
+Sports Hydration / Lifestyle Beverage
+
+Core Brand Values:
+
+- performance
+- culture
+- youth
+- hype
+- identity
+- desirability
+
+Brand truth:
+
+PRIME does not simply hydrate.
+
+PRIME signals cultural energy and elite performance.
+
+Psychological positioning:
+
+Hydration as identity.
+
+HERO SUBJECT
+
+Use one elite athlete as the hero.
+
+Athlete characteristics:
+
+- lean muscular physique
+- premium sportswear styling
+- calm intense facial expression
+- direct eye contact
+- silent confidence
+
+Critical:
+
+No action pose.
+
+Stillness must communicate power.
+
+Pose:
+
+Athlete stands front-facing, slightly off-center, body relaxed but powerful, PRIME bottle hanging naturally in one hand near thigh, shoulders squared, chin slightly lowered, eyes locked into camera.
+
+Expression must feel intimidating yet controlled.
+
+PRODUCT HERO
+
+Use PRIME bottle as premium secondary hero.
+
+Bottle details:
+
+- tack sharp focus
+- cold condensation droplets
+- matte bottle texture
+- crisp label readability
+- clean specular highlights
+
+Bottle must feel collectible.
+
+ENVIRONMENT
+
+Create ultra-minimal luxury studio environment.
+
+Scene:
+
+matte black seamless cyclorama studio
+deep negative space
+subtle floor reflection
+clean shadow falloff
+no props
+no sports environment
+
+Environment must feel expensive and silent.
+
+VISUAL COMPOSITION
+
+Platform:
+Instagram SMM
+
+Aspect Ratio:
+4:5 vertical
+
+Resolution:
+1080 x 1350
+
+Composition blueprint:
+
+Top 25%
+Negative space + editorial masthead
+
+Center 60%
+Athlete portrait + bottle
+
+Bottom 15%
+Minimal CTA + brand mark
+
+Composition ratio:
+
+45% negative space
+35% athlete
+20% product + typography
+
+Strong negative space required.
+
+COLOR SYSTEM
+
+Primary:
+
+Matte Black
+White
+
+Secondary:
+
+Deep Gray
+Skin highlights
+
+Accent:
+
+PRIME bottle flavor color only
+
+Color rules:
+
+Black dominates.
+Bottle color becomes visual focal point.
+No extra neon.
+
+TYPOGRAPHY SYSTEM
+
+Use:
+
+oversized condensed sans serif
+luxury editorial spacing
+minimal hierarchy
+massive scale
+
+Typography placement:
+
+large but sparse
+partially cropped
+fashion-magazine style
+
+Headline examples:
+
+PRIME
+
+or
+
+STAY PRIME
+
+or
+
+FUEL DISCIPLINE
+
+Typography must feel premium and iconic.
+
+GRAPHIC DESIGN SYSTEM
+
+Use:
+
+editorial grid
+negative space
+minimal overlays
+clean alignment
+zero clutter
+
+Design language must feel:
+
+luxury
+minimal
+fashion-forward
+timeless
+
+LIGHTING
+
+Use high-fashion studio lighting.
+
+Lighting setup:
+
+hard overhead spotlight
+strong side rim light
+deep controlled shadows
+sharp skin highlights
+precise bottle reflections
+
+Skin texture must remain realistic.
+
+MATERIAL DETAIL
+
+Materials:
+
+matte fabric realism
+natural skin pores
+micro sweat sheen
+condensation droplets
+soft floor reflection
+
+Everything must feel tactile and premium.
+
+ANTI-SLOP NEGATIVES
+
+Avoid:
+
+stadiums
+energy bursts
+splash effects
+cheap neon
+generic sports poses
+messy typography
+AI artifacts
+plastic skin
+
+QUALITY BAR
+
+Balenciaga editorial quality.
+Nike campaign discipline.
+Apple product lighting precision.
+
+Viewer reaction:
+
+"This feels like luxury culture, not a beverage ad."
+```
+
+</details>
+
+<a id="nano-banana-editorial-poster-motion-ghost-figures"></a>
+### 带动态模糊虚影的编辑风人像海报
+
+<a href="https://x.com/CodeByPoonam/status/2107769327751709117"><img src="../../previews/nano-banana-editorial-poster-motion-ghost-figures.jpg" width="360"></a>
+
+先锁定上传照片的人脸特征，再按场景、背景、光线、文字分块写清版式。粗体窄字压在下半身前形成层次，结尾用否定清单排除多余图形和文字。
+
+Nano Banana 2.1 · 上传图改图 · 出处: [@CodeByPoonam on X](https://x.com/CodeByPoonam/status/2107769327751709117) · 83 赞，统计于 2026-10-28
+
+[`editorial-poster`](tags.md#tag-editorial-poster) [`identity-lock`](tags.md#tag-identity-lock) [`typography`](tags.md#tag-typography) [`motion-blur`](tags.md#tag-motion-blur) [`cinematic`](tags.md#tag-cinematic)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Use the uploaded photo of me as the main subject. Keep my face, skin tone, hair and features exactly the same. Recreate the style and layout of the reference poster.
+
+Scene: A vertical 4:5 editorial poster. I stand in the center, facing the camera with a calm, serious expression. My head is slightly tilted. I wear a flowy, elegant midi dress in a deep charcoal navy shade. The fabric has soft natural folds.
+
+Background: A soft blue-grey studio wall with a cinematic teal and navy gradient. Two blurred, motion-smeared figures in dark oversized clothing stand on the left and right edges. They look like long-exposure ghosts. Keep them out of focus.
+
+Lighting: Soft, moody natural light. Gentle rim light on my hair. Muted film tones, fine grain, shallow depth of field. Fashion editorial look.
+
+Text layout:
+- Top center: small, wide-spaced white text "SONI"
+- Center, over the lower body: huge, bold, condensed white sans-serif text "PROMPT". It sits in front of the dress, slightly overlapping me.
+- Just below it: orange handwritten script text "NanoBanana 2.1", slightly tilted
+
+Do not add any arrow, button, oval or pill shape. Do not add any other text, logos or watermarks.
+
+Style: premium magazine poster, clean typography, high contrast text, cinematic, photorealistic, 4:5  aspect ratio
+```
+
+</details>
+
+<a id="chatgpt-queen-acronym-poster-personal"></a>
+### 金色 QUEEN 缩写海报配个人拼贴
+
+<a href="https://www.tiktok.com/@ninersqueen76/video/7686313195148954894"><img src="../../previews/chatgpt-queen-acronym-poster-personal.jpg" width="360"></a>
+
+提示词让模型自行选词并生成缩写，因此每个字母都有一行特质说明。将上传照片设为唯一身份参考，使人脸保持一致，道具和版式则承载人物个性。
+
+ChatGPT · 上传图改图 · 出处: [@ninersqueen76 on TikTok](https://www.tiktok.com/@ninersqueen76/video/7686313195148954894) · 79 赞，统计于 2026-10-30
+
+[`acronym`](tags.md#tag-acronym) [`typography`](tags.md#tag-typography) [`personalized`](tags.md#tag-personalized) [`identity-reference`](tags.md#tag-identity-reference)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Using my uploaded photo as the ONLY identity reference and what you have learned about me through our conversations when available, choose ONE word that best represents who I am, then turn that word into a personalized acronym. Do NOT ask me to choose the word—surprise me. Choose the word independently based entirely on what you know about my personality, humor, interests, hobbies, lifestyle, values, strengths, quirks, boundaries, relationships, things I love, and patterns you have noticed about me. It can be funny, badass, wholesome, chaotic, witchy, sarcastic, slightly unhinged, meaningful, or a mixture—whatever genuinely fits ME. Do not copy or reuse another person’s acronym. Create a detailed cinematic poster featuring me. At the VERY TOP, display my chosen acronym in large, bold letters with a period after EVERY individual letter, including the final letter.
+```
+
+</details>
+
+<a id="gpt-image-humble-pie-pistachio-almond-ad"></a>
+### 女性手持开心果冰淇淋桶的广告海报
+
+<a href="https://x.com/Chaemate_/status/2070802529504420212"><img src="../../previews/gpt-image-humble-pie-pistachio-almond-ad.jpg" width="360"></a>
+
+上传参考照片并逐项列出需要保留的面部特征，人物长相得以稳定，同时只改变服装、姿势和场景。把版面分区写得很具体（左侧标题、右侧中部人物、最右侧叠放的罐装产品），并给出准确文案，让每段文字落在指定位置。
+
+GPT Image 2 · 上传图改图 · 出处: [@Chaemate_ on X](https://x.com/Chaemate_/status/2070802529504420212) · 77 赞，统计于 2026-10-29
+
+[`ice-cream`](tags.md#tag-ice-cream) [`advertising`](tags.md#tag-advertising) [`identity-consistency`](tags.md#tag-identity-consistency) [`typography`](tags.md#tag-typography)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Use my uploaded reference image of Mira as the identity reference. Preserve her face exactly. Do NOT alter her facial identity, facial proportions, eye shape, nose, lips, jawline, eyebrows, skin tone, smile, or recognizable facial features. Maintain perfect identity consistency. Only change hairstyle, outfit, pose, accessories, lighting, and environment.
+
+Create a premium luxury ice cream advertisement for a fictional ice cream brand called Humble Pie in a cinematic commercial style.
+
+Composition
+
+Create a 16:9 landscape composition suitable for a billboard, website hero banner, or premium advertising campaign.
+
+Mira stands on the right side of the frame while the left side contains bold advertising typography and branding.
+
+Pose
+
+Mira is holding an open Humble Pie Pistachio Almond ice cream tub toward the camera with one hand.
+
+The lid is completely removed.
+
+Inside the tub, the ice cream should look freshly packed, with beautiful rounded artisan scoops visible on top, exactly like premium ice cream tubs seen in luxury advertisements.
+
+The surface must NOT look eaten or hollow.
+
+Several smooth, rounded pistachio scoops should be stacked naturally above the rim.
+
+With the other hand, Mira is holding a spoon with one perfectly rounded pistachio ice cream scoop, bringing it toward her mouth.
+
+She has a joyful, energetic expression as if she's about to take the first delicious bite.
+
+Face
+
+Keep Mira's facial identity 100% identical to the reference.
+
+Do not modify:
+
+eye shape
+eyebrow shape
+nose
+lips
+smile
+face proportions
+cheekbones
+jawline
+skin texture
+
+Only improve commercial-quality lighting.
+
+Hairstyle
+
+Give Mira a stylish modern hairstyle.
+
+Loose textured half-up hairstyle with soft volume, face-framing strands, luxurious waves, glossy hair, elegant commercial beauty styling.
+
+Outfit
+
+Dress Mira in a fashion-forward premium outfit.
+
+Color:
+
+Ultra-bright fluorescent chartreuse / electric neon lemon yellow
+
+The color should be extremely vibrant and eye-catching while remaining luxurious.
+
+The outfit should look like premium designer fashion suitable for a luxury lifestyle advertisement.
+
+Accessories
+
+Replace the necklace with a minimal elegant luxury gold necklace.
+
+Simple gold earrings.
+
+Natural makeup.
+
+Product
+
+Brand name:
+
+Humble Pie
+
+Flavor:
+
+Pistachio Almond
+
+The packaging should look premium, modern, minimal, and luxurious.
+
+The large ice cream tub in Mira's hand should clearly display:
+
+Humble Pie
+Pistachio Almond
+Premium Ice Cream
+
+Add realistic pistachios around the product.
+
+Background
+
+Luxury studio environment.
+
+Warm olive-green wall with soft sunlight.
+
+Large tropical leaf shadows.
+
+Soft cinematic lighting.
+
+Premium commercial atmosphere.
+
+Typography
+
+Create a modern advertising layout.
+
+Large headline:
+
+MADE FOR REAL MOMENTS.
+
+Subheadline:
+
+Real ingredients. Unreal indulgence.
+
+Top-left logo:
+
+Humble Pie Ice Cream
+
+Bottom CTA:
+
+SCOOP HAPPINESS
+
+Include small premium feature icons:
+
+Real Ingredients
+No Artificial Flavors
+Made With Love
+Delivered To Your Door
+
+On the right side, showcase multiple Humble Pie flavor tubs stacked vertically.
+
+Lighting
+
+Luxury commercial photography.
+
+Golden-hour sunlight.
+
+Soft rim lighting.
+
+Natural skin tones.
+
+Beautiful highlights.
+
+Subtle shadows.
+
+Ultra-clean reflections.
+
+Camera
+
+Medium shot.
+
+Slight low angle.
+
+85mm commercial lens.
+
+Extremely sharp focus.
+
+Luxury advertising composition.
+
+Style
+
+Apple-level commercial photography.
+
+Luxury FMCG campaign.
+
+Magazine-quality.
+
+High-end product advertising.
+
+Hyper-realistic.
+
+Photorealistic.
+
+Ultra-detailed.
+
+8K.
+
+Award-winning commercial photography.
+
+Perfect typography alignment.
+
+Premium color grading.
+
+Crisp packaging details.
+
+Luxury visual storytelling.
+
+Most Important Instruction: Preserve Mira's facial identity exactly as in the reference image. Do not generate a different woman. Only change the hairstyle, outfit, jewelry, pose, product interaction, background, typography, and commercial styling while keeping her face identical.
+```
+
+</details>
+
+<a id="gpt-image-rainy-day-editorial-poster"></a>
+### 雨天撑伞行人的编辑风海报
+
+<a href="https://x.com/Goodmanprotocol/status/2100508937514897577"><img src="../../previews/gpt-image-rainy-day-editorial-poster.jpg" width="360"></a>
+
+用方括号主题占位让模板可复用，同时限定低饱和色板、22%到30%留白，以及手写笔触标题加衬线小字的字体层级。胶片颗粒与纸张质感带来印刷杂志的味道。
+
+GPT Image 2.5 · 文生图 · 出处: [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2100508937514897577) · 76 赞，统计于 2026-10-28
+
+[`editorial`](tags.md#tag-editorial) [`poster`](tags.md#tag-poster) [`template`](tags.md#tag-template) [`typography`](tags.md#tag-typography) [`film-grain`](tags.md#tag-film-grain)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create one premium 3:4 vertical editorial art poster for [COUNTRY / LOCATION / SUBJECT].
+
+TEXT-TO-IMAGE GENERATION ONLY. Generate the complete artwork from [COUNTRY / LOCATION / SUBJECT] alone. No reference image or additional visual input is required.
+
+Automatically interpret the subject and create a visually compelling composition that reflects its character, atmosphere, appearance, setting, colors, and distinctive visual identity.
+
+LOWER SECTION
+
+Use a refined background palette inspired by [COUNTRY / LOCATION / SUBJECT], using limited low-saturation tones such as misty gray, warm beige, light khaki, cream white, dusty rose, or soft gray-pink, selecting only the colors that naturally suit the subject.
+
+Keep approximately 22–30% continuous negative space. Avoid complicated scenery, excessive objects, sticker-like elements, or meaningless decoration.
+
+TYPOGRAPHY
+
+Create a sophisticated editorial typography system based on the subject.
+
+Automatically generate a short main title inspired by the subject's appearance, mood, action, or personality.
+
+Add one natural 8–16 word English sentence written like a subtle editorial note or magazine caption.
+
+Use a carefully designed hand-drawn or retro bubble-style font for the main title. Use smaller refined typography for supporting text, such as an elegant serif, subtle typewriter style, or delicate book-inspired font.
+
+Create clear hierarchy, breathing room, and intentional spacing. Typography should feel integrated into the artwork rather than simply placed on top.
+
+VISUAL STYLE
+
+Keep the overall palette restrained and cohesive, with subtle film grain, tactile paper texture, and a gentle printed-editorial quality.
+
+Allow slight asymmetry and imperfect positioning to create a sophisticated independent-magazine aesthetic without making the composition messy.
+
+IMPORTANT
+
+Keep the main subject recognizable and naturally proportioned. Do not cartoonize the person or subject.
+
+Avoid:
+multiple mascots, existing animated characters, brand logos, QR codes, watermarks, signatures, gibberish text, incorrect hands, extra limbs, excessive decoration, cheap templates, overly cute styling, or cluttered compositions.
+
+FINAL LOOK
+
+The finished artwork should feel like a premium independent fashion magazine, contemporary art publication, or sophisticated editorial ZINE—minimal, tactile, slightly imperfect, modern, and visually intelligent.
+
+STRICT 3:4 VERTICAL | TEXT-ONLY GENERATION | RESTRAINED COLORS | 22–30% NEGATIVE SPACE | PREMIUM EDITORIAL TYPOGRAPHY | SUBTLE FILM GRAIN & PAPER PRINT TEXTURE.
+
+Generate everything autonomously from [COUNTRY / LOCATION / SUBJECT] alone.
+```
+
+</details>
+
+<a id="gpt-image-red-bull-russian-poster-model-can"></a>
+### 红牛俄语海报，模特手持易拉罐
+
+<a href="https://x.com/codewithhajra/status/2071604951919329794"><img src="../../previews/gpt-image-red-bull-russian-poster-model-can.jpg" width="360"></a>
+
+附上产品原图作为精确参考，锁定罐身的logo、配色和包装；低角度广角配合透视变形，让产品占据前景。要求俄语标题和口号完全清晰、无拼写错误，使排版保持专业广告海报的质感。
+
+GPT Image 2 · 上传图改图 · 出处: [@codewithhajra on X](https://x.com/codewithhajra/status/2071604951919329794) · 75 赞，统计于 2026-10-29
+
+[`red-bull`](tags.md#tag-red-bull) [`poster`](tags.md#tag-poster) [`russian-text`](tags.md#tag-russian-text) [`forced-perspective`](tags.md#tag-forced-perspective) [`product-reference`](tags.md#tag-product-reference)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Use the downloaded product image as an exact reference. Fully preserve the shape, packaging, materials, colors, proportions, logo, and brand elements.
+An ultra-realistic commercial advertising poster. A low-angle wide-angle lens view. A confident, stylish model holding the product, directly facing the camera. The product dominates the foreground due to the forced perspective effect.
+A modern fashion image, with clothing, accessories, and color palette automatically adapting to the product's style and colors. Dynamic energy, premium brand aesthetics, trendy lifestyle content.
+A highly detailed product with realistic textures, reflections, water droplets, and perfectly legible packaging. The background is filled with graphic elements in the brand's colors: graffiti, brush strokes, paint splashes, collage textures, arrows, stars, lightning bolts, stickers, and advertising typography.
+All text in the image must be written in Russian, fully legible, grammatically correct, without spelling errors, random symbols, distorted letters, unreadable words, or AI artifacts. All headlines, slogans, descriptions, flavors, characteristics, and advertising phrases should look like a real professional advertisement.
+The AI automatically adapts fonts, sizes, composition, and text placement to the poster layout.
+Premium magazine design, high contrast, sharp focus, commercial product photography, luxury advertising, fashion editorial, ultra realistic, photorealistic, HDR, 8K.
+Avoid: unreadable text, errors in Russian, AI artifacts, CGI, cartoonish style, distorted product, blurriness, watermarks, and low quality.
+```
+
+</details>
+
+<a id="gpt-image-food-photo-ingredient-sketchbook-poster"></a>
+### 披萨实拍与手绘食材速写手册海报
+
+<a href="https://x.com/Goodmanprotocol/status/2108555814604812483"><img src="../../previews/gpt-image-food-photo-ingredient-sketchbook-poster.jpg" width="360"></a>
+
+提示词把画面按固定比例分成上方真实美食摄影和下方水粉食材手册，并用笔直分隔线隔开。下半部分以居中的小菜品插画、箭头和编号标本组成田野笔记结构，再用长长的避免清单控制画面不杂乱。
+
+GPT Image 2.5 · 文生图 · 出处: [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2108555814604812483) · 67 赞，统计于 2026-10-28
+
+[`food`](tags.md#tag-food) [`poster`](tags.md#tag-poster) [`editorial`](tags.md#tag-editorial) [`sketchbook`](tags.md#tag-sketchbook) [`split-layout`](tags.md#tag-split-layout)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a premium 3:4 vertical editorial food-art poster for [COUNTRY / CITY / LOCAL DISH / FOOD SUBJECT].
+
+TEXT-TO-IMAGE ONLY.
+Generate the entire composition from the written dish or food subject alone. Do not request, upload, use, or depend on any reference image or existing photograph. Automatically identify the dish’s authentic appearance, ingredients, textures, and cultural identity.
+
+CORE CONCEPT:
+Create one elegant travel-food editorial poster combining realistic food photography in the upper section with a handmade ingredient-observation sketchbook in the lower section. Feature ONE recognizable plate or bowl containing a single dish, with at least three visually distinct ingredients.
+
+UPPER SECTION — REALISTIC FOOD PHOTOGRAPHY:
+Occupy approximately 48% of the canvas height. Create a beautifully composed, authentic photographic view of the specified local dish, preserving believable ingredient textures, natural lighting, realistic proportions, and culturally accurate presentation. Use subtle food-magazine color grading and extremely light film grain. Keep the entire plate or bowl visible.
+
+SECTION DIVIDER:
+Separate both sections with a straight, clean horizontal boundary. A very thin warm-ivory paper strip is optional. No gradients, blending, or elements crossing the divider.
+
+LOWER SECTION — INGREDIENT OBSERVATION SHEET:
+Use warm ivory drawing paper with visible fibers, fine grain, faint smudges, and subtle handmade irregularities. Create a sparse, asymmetrical food-field-note composition rather than repeating the full photographic dish.
+
+Place ONE small, simplified but recognizable illustration of the complete dish near the center. Keep it secondary and compact, occupying approximately one-third of the lower section’s width.
+
+Around it, illustrate 3–6 individually selected ingredients inferred from the dish. Use small watercolor specimens, cut-surface studies, herb sketches, grain clusters, sauce swatches, or distinctive ingredient shapes. Arrange them at varied sizes and angles with generous breathing room.
+
+DRAWING STYLE:
+Matte gouache, delicate black-ink outlines, slightly hesitant hand-drawn strokes, dry-brush gaps, uneven pigment coverage, soft watercolor edges, visible paper texture, and restrained natural colors. Keep ingredients recognizable without excessive detail. Add a few fine arrows and small handwritten numbers connecting specimens to the miniature dish.
+
+TYPOGRAPHY:
+Use minimal, understated editorial annotations only when helpful. Short ingredient names or tiny handwritten notes are acceptable. Keep all text small and secondary; avoid unnecessary titles or decorative lettering.
+
+COLOR PALETTE:
+Derive the colors naturally from the dish, balanced by warm cream, muted earth tones, and subtle ink details.
+
+FINAL AESTHETIC:
+Authentic local food photography × handmade ingredient studies × refined travel-food editorial × collectible culinary field notebook.
+
+AVOID:
+Multiple dishes, duplicate plates, mixed meals, inaccurate ingredients, excessive garnish, crowded layouts, gradients, bleeding transitions, glossy digital painting, flat vector infographics, 3D rendering, commercial menu styling, excessive text, logos, watermarks, and interface elements.
+
+FORMAT:
+3:4 vertical portrait, approximately 48% photographic food scene above and 52% illustrated ingredient-observation sheet below, crisp horizontal separation, generous negative space, premium publication quality, ultra-high definition.
+```
+
+</details>
 
 <a id="gpt-image-photo-over-paper-sculpture-editorial-poster"></a>
 ### 上半部原图，下半部纸雕拼贴海报
@@ -590,6 +1267,105 @@ AVOID:
 Unrelated landmarks, distorted roads, oversized vehicles, excessive labels, incorrect text, logos, watermarks, and borders.
 
 FORMAT: Full-bleed 4:5 vertical composition.
+```
+
+</details>
+
+<a id="gpt-image-2-6-tiled-portrait-sticky-notes"></a>
+### 瓷砖墙上的女子与金毛犬
+
+<a href="https://x.com/Maercihh/status/2122671563837436361"><img src="../../previews/gpt-image-2-6-tiled-portrait-sticky-notes.jpg" width="360"></a>
+
+用 JSON 提示词中的 reference_image 字段把人物身份锁定在上传的照片上，同时明确写出 4 列 5 行的网格和缝隙规格，使肖像呈现为瓷砖墙。将每条便签文字拆成数组中的独立条目，便于单独修改手写内容。
+
+GPT Image 2.6 · 上传图改图 · 出处: [@Maercihh on X](https://x.com/Maercihh/status/2122671563837436361) · 41 赞，统计于 2026-11-17
+
+[`tiled-portrait`](tags.md#tag-tiled-portrait) [`sticky-notes`](tags.md#tag-sticky-notes) [`vintage-film`](tags.md#tag-vintage-film)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+{
+  "task": "Transform the uploaded photograph into a cinematic, photorealistic vintage tiled portrait poster.",
+
+  "reference_image": {
+    "source": "Use the user's uploaded photograph as the primary identity reference.",
+    "identity_preservation": "Preserve the person's exact facial identity, facial structure, skin tone, hairstyle, eye shape, and recognizable features.",
+    "gender": "Automatically follow the uploaded subject.",
+    "expression": "Maintain the original expression or create a subtle, confident, natural expression."
+  },
+
+  "composition": {
+    "layout": "Vertical editorial poster.",
+    "structure": "A large rectangular portrait assembled from approximately 4 columns and 5 rows of individual square, slightly irregular ceramic or paper tiles.",
+    "portrait": "The subject occupies the central majority of the composition, visible from the head to the upper torso.",
+    "tile_effect": "Every tile is physically separated by thin, dark, realistic grout lines. Slight variations in alignment, chipped edges, worn corners, and subtle shadows create an authentic handmade tiled-wall appearance.",
+    "continuity": "The portrait must align seamlessly across all tiles, with facial features and body details continuing naturally across tile boundaries."
+  },
+
+  "environment": {
+    "background": "Muted dusty sage-gray textured plaster wall.",
+    "surface": "Aged, slightly weathered surface with subtle imperfections.",
+    "lighting": "Soft natural diffused daylight with gentle shadows."
+  },
+
+  "styling": {
+    "clothing": "Automatically create tasteful, sophisticated clothing that complements the subject's appearance. Prefer vintage-inspired casual or smart-casual styling.",
+    "aesthetic": "Understated vintage editorial photography.",
+    "color_palette": "Muted earthy browns, charcoal, dusty sage, warm beige and subtle faded tones."
+  },
+
+  "personalized_details": {
+    "sticky_notes": {
+      "placement": "Four small yellow handwritten sticky notes positioned around the outer edges of the tiled portrait.",
+      "messages": [
+        "Trust your instincts",
+        "Big decisions",
+        "Make it happen",
+        "Stay fearless"
+      ],
+      "style": "Authentic handwritten black ink, slightly imperfect lettering, naturally curled paper corners and realistic shadows."
+    },
+    "signature": "A tiny handwritten 'prompt by
+@yourusername
+' near the bottom-left tile. Omit if no username is supplied."
+  },
+
+  "photography": {
+    "style": "Ultra-realistic photographic portrait.",
+    "lens": "50mm editorial portrait photography.",
+    "details": "Natural skin texture, realistic hair strands, detailed fabric textures, subtle film grain and authentic photographic imperfections.",
+    "color_grading": "Warm vintage film aesthetic with restrained contrast."
+  },
+
+  "quality_control": {
+    "priority": [
+      "Preserve the uploaded person's identity.",
+      "Keep the face realistic and anatomically accurate.",
+      "Ensure the tile grid is clearly visible.",
+      "Maintain seamless portrait continuity across tiles.",
+      "Keep sticky notes outside the main facial area.",
+      "Avoid excessive AI beautification."
+    ],
+    "avoid": [
+      "Changing facial identity",
+      "Plastic-looking skin",
+      "Artificial facial features",
+      "Broken tile alignment",
+      "Floating tiles",
+      "Excessive decorative elements",
+      "Cartoon or illustrated appearance",
+      "Distorted text",
+      "Watermarks"
+    ]
+  },
+
+  "output": {
+    "aspect_ratio": "3:4",
+    "resolution": "High resolution",
+    "rendering": "Photorealistic vintage editorial poster"
+  }
+}
 ```
 
 </details>

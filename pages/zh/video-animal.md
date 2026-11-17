@@ -1,6 +1,6 @@
 # 动物与萌宠
 
-[返回目录](../../README_zh.md) · 全部 31 条
+[返回目录](../../README_zh.md) · 全部 32 条
 
 <a id="h3-tom-jerry-mac-desktop-icon-chaos"></a>
 ### 汤姆一个个把掉落的桌面图标放回原位
@@ -396,6 +396,25 @@ STEP 2: Use the prompt below (adjust it to your video):
 Only the camera angle and framing change. Make sure every action, movement, timing and performance exactly identical to the original video @ TAG ORIGINAL VIDEO. The action continues seamlessly across every cut."
 
 NOTE: If some scenes didn't work (action was different than original video) simply regenerate the video, that usually fixes the problem.
+```
+
+</details>
+
+<a id="kling-night-cat-chaos-chase"></a>
+### 夜里猫在沉睡的房子里闯祸
+
+<a href="https://x.com/umesh_ai/status/2104595267794460949"><img src="../../previews/kling-night-cat-chaos-chase.jpg" width="360"></a>
+
+整段是一个不切镜的手持长镜头，猫穿过约十个场景，每处都制造一点小混乱，让追逐层层升级。紧贴晃动的跟拍镜头与沉睡静止的环境形成对比，带出动感。
+
+Kling 4.0 · 文生视频 · 出处: [@umesh_ai on X](https://x.com/umesh_ai/status/2104595267794460949) · 322 赞，统计于 2026-11-17
+
+[`cat`](tags.md#tag-cat) [`night`](tags.md#tag-night) [`chase`](tags.md#tag-chase) [`handheld`](tags.md#tag-handheld)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+An amateur handheld recording in third-person perspective rapidly follows a cat through its nighttime adventures in one continuous shot, with no cuts, no stopping, and no pause. The sequence feels like fast-forward, showing all the curious, mischievous, funny, and chaotic things a cat might do while the town, house, garden, and everything around it are half-asleep.The cat races through about ten places a cat would naturally explore at night, each one flowing into the next in a single continuous chase: a quiet bedroom, a dim hallway, a kitchen, a living room, a backyard garden, a fence line, a garage, a rooftop, a tree, and a sleepy street or alley. The camera is shaky and imperfect, always struggling to keep up as it follows close behind. In every location, the cat causes some kind of chaos. In the bedroom it jumps onto furniture and disturbs sleeping people. In the hallway it sends small objects tumbling. In the kitchen it knocks items off the counter. In the living room it darts across shelves and tips things over. In the garden it rustles plants, digs, or startles birds. On the fence it rattles loose objects. In the garage it weaves through clutter and causes things to wobble or fall. On the rooftop it skids across surfaces and startles other animals. In the tree it shakes branches and scatters leaves. In the street or alley it darts through trash, shadows, and unexpected little messes, always leaving brief chaos behind before sprinting onward.The cat behaves like a restless, curious nighttime troublemaker: climbing, leaping, squeezing through gaps, chasing tiny movements, staring at strange things, swatting objects, knocking things over, and vanishing into corners before bursting back out again. Every scene should contain a clear action, reaction, or small disaster caused by the cat.Everything around it feels sleepy and still, with dark houses, quiet gardens, dim windows, silent rooftops, and empty streets. The contrast is that the cat is pure energy, moving so quickly that the world smears into motion blur and fragmented glimpses of chaos. The overall feeling is funny, lively, mischievous, and cinematic, like a whole secret night of cat behavior compressed into one rapid continuous chase.
 ```
 
 </details>

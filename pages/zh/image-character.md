@@ -1,6 +1,6 @@
 # 角色与手办
 
-[返回目录](../../README_zh.md) · 全部 112 条
+[返回目录](../../README_zh.md) · 全部 113 条
 
 <a id="gpt-image-tanjiro-pixel-sprite-sheet-water-attack"></a>
 ### 炭治郎十六帧像素精灵图与水之呼吸攻击
@@ -1173,6 +1173,31 @@ Add tasteful editorial typography:
 “Good Stories, Brighter People”
 
 Make it look like a professional AI character reference sheet created for a film, fashion campaign, or visual storytelling project.
+```
+
+</details>
+
+<a id="gpt-image-curly-redhead-two-expressions"></a>
+### 同一位卷发角色的两幅表情肖像
+
+<a href="https://x.com/Just_Anika_Here/status/2120007952895717808"><img src="../../previews/gpt-image-curly-redhead-two-expressions.jpg" width="360"></a>
+
+两幅肖像重复相同的五官、肤色和发型描述，因此只改变角度与表情时人物身份依然一致。竖向双联排版配合留白的纯白背景，让每幅肖像都能单独作为角色设定图。
+
+GPT Image 2.5 · 文生图 · 出处: [@Just_Anika_Here on X](https://x.com/Just_Anika_Here/status/2120007952895717808) · 129 赞，统计于 2026-11-17
+
+[`character-design`](tags.md#tag-character-design) [`portrait`](tags.md#tag-portrait) [`illustration`](tags.md#tag-illustration) [`expressions`](tags.md#tag-expressions)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+{
+  "aspect_ratio": "9:16",
+  "style": "Premium stylized 2D character illustration, expressive hand-painted animation concept art, painterly digital gouache, soft textured brush strokes, vibrant colors, polished artistic finish",
+  "prompt": "Create a visually striking vertical character illustration featuring TWO expressive portraits of the SAME original young woman, arranged vertically with generous white space between them. Design a completely original and memorable character, not resembling any existing animated movie character or reference character.\n\nCHARACTER DESIGN: A beautiful young woman in her early 20s with warm golden-brown skin, distinctive heart-shaped face, slightly upturned nose, big expressive hazel-green eyes, naturally thick eyebrows, subtle freckles across her cheeks, and a charming wide smile. Her signature hairstyle is a voluminous short curly bob with deep burgundy and dark plum tones, a few loose curls framing her face, and subtle copper highlights. Add small turquoise statement earrings. She should have a distinctive, instantly recognizable personality.\n\nTOP PORTRAIT: A large expressive head-and-shoulders portrait. Her head is tilted slightly sideways, eyes looking upward with a playful surprised expression, raised eyebrows and a big natural smile showing her teeth. Her curly hair has beautiful volume and movement. She wears a vibrant coral-orange top with a small visible neckline.\n\nBOTTOM PORTRAIT: The EXACT SAME character, with identical facial structure, skin tone, hairstyle and identity. Show her in a slightly different three-quarter angle, leaning her head gently to one side, giving a mischievous confident smile with one eyebrow slightly raised. Her expression should feel spontaneous, charming and full of personality. She wears a fresh turquoise-blue outfit.\n\nART DIRECTION: Rich vibrant color palette featuring coral orange, burgundy, plum, turquoise, golden peach and warm cream. Beautifully layered painterly brush strokes, expressive facial details, subtle skin shading, delicate highlights in the eyes, naturally flowing curls and artistic hair texture. Exaggerated but beautifully balanced facial expressions, appealing character proportions and sophisticated animation illustration aesthetics.\n\nCOMPOSITION: Two separate floating bust portraits arranged vertically, both large and clearly visible. Keep the background completely clean warm white with no additional objects. Preserve generous negative space around both portraits. The artwork should feel like a premium animated character design sketchbook brought to life.\n\nQUALITY: Extremely attractive character design, distinctive personality, beautiful color harmony, expressive eyes, rich painterly textures, professional illustration quality, visually engaging at first glance."
+,
+  "negative_prompt": "Exact recreation of reference, Disney character resemblance, Pixar character resemblance, generic cartoon girl, copied hairstyle, identical facial features to reference, photorealism, 3D render, plastic skin, flat colors, dull palette, muddy colors, overly childish proportions, boring expressions, identical poses, inconsistent character identity, different face in second portrait, extra portraits, extra heads, distorted eyes, asymmetrical pupils, deformed facial features, messy composition, background scenery, text, typography, watermark, logo."
+}
 ```
 
 </details>

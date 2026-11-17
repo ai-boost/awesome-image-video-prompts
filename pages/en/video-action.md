@@ -1,6 +1,6 @@
 # Action, chases and sports
 
-[Back to the list](../../README.md) · All 233 entries · **1** · [2](video-action-2.md) · [3](video-action-3.md)
+[Back to the list](../../README.md) · All 236 entries · **1** · [2](video-action-2.md) · [3](video-action-3.md)
 
 <a id="seedance-seoul-subway-revenge"></a>
 ### Seoul subway revenge comedy
@@ -1085,6 +1085,48 @@ Fast, aggressive, cinematic camera movement. Use whip-pans and crash moves only 
 
 [STYLE AND IMAGE QUALITY]
 AAA anime action-RPG cinematic. Highly detailed character designs. Sharp silhouettes. Dynamic anime impact frames without losing temporal continuity. Premium cel-shaded characters combined with physically rich metal, stone, rain, sparks, smoke, and energy. Strong gold-teal versus crimson-black color separation. Wet obsidian reflections. Controlled depth of field. High contrast. Cohesive lighting. Realistic weight and contact in every strike. All destruction must originate from a visible attack or collision. [AUDIO] No music. No dialogue. No narration. No subtitles. No visible text. Use only: rapid blade impacts, metallic astrolabe ring shrieks, clockwork gear rotations, blade whooshes, crimson energy tearing, teal lightning crackle, rain hitting obsidian, footfalls and slides on wet stone, water sprays, stone fractures, debris impacts, and one enormous final detonation in Shot 10. Audio intensity should escalate continuously toward the final collision, with brief impact-focused gaps only when needed to make the next strike readable.
+```
+
+</details>
+
+<a id="wan-spear-brawler-mosaic-arena-fight"></a>
+### Spear fighter and brawler on a cracked mosaic arena
+
+<a href="https://x.com/Dani__oros/status/2084474998459396477"><img src="../../previews/wan-spear-brawler-mosaic-arena-fight.jpg" width="360"></a>
+
+A fixed layout (camera on the south side, fighters on opposite screen sides, no swapping) and a colour lock (cyan for her, ember orange for him) keep the palette and positions consistent across seven shots. Action is written as key poses and impact frames instead of continuous motion, which suits 2D cel animation.
+
+Wan 3.0 · Text-to-video · Source: [@Dani__oros on X](https://x.com/Dani__oros/status/2084474998459396477) · 244 likes on 2026-11-17
+
+[`anime`](tags.md#tag-anime) [`action`](tags.md#tag-action) [`multi-shot`](tags.md#tag-multi-shot) [`2d-animation`](tags.md#tag-2d-animation)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Multi-shot (7 shots).
+TSUBAME (Spear Girl) — 17, lean and small, sharp jawline, short black bob with long straight bangs, fierce dark-teal eyes; sleeveless white gi top with teal trim, black shorts, bandaged forearms and shins, split-toe boots; carries a two-meter spear with a slim leaf-blade head — the spearhead and her motion trails read cyan.
+GARAN (Brawler) — huge, over two meters, slab-muscled, shaved head, heavy brow, small pale eyes; bare-chested with a cracked stone-grey harness strap, massive taped fists, canvas trousers, iron-shod boots. Every slab he rips from the floor glows ember-orange in its tear-lines, and orange dust light clings to his hands.
+
+Style: 2D hand-drawn cel animation, film-grade sakuga action. Clear line art, flat cel shading with hard shadow boundaries; non-photoreal — no pore-level skin, no 3D volumetric render feel. Fighter colors LOCKED: Tsubame = cyan (spear-tip glint, afterimage trails, speed-lines), Garan = ember-orange (molten glow in every floor tear, rubble rim-light). All glows two-tone — white-hot core, saturated colored rim, trailing dust and embers that linger after each impact. World: desaturated slate-grey shattered arena with a huge faded mosaic emblem in the floor, so both hues detonate off it. The nearest glow is the key light — cyan rim on her, orange bounce on him and the rock. Bold corner-to-corner diagonals on action; fast beats drawn as key poses, smear frames, and impact frames — never continuous legible travel. Real mass everywhere: slabs are tons, not props. Camera: animation camerawork — snap-zooms, speed-lines, orbits, held frames, hit-stops all allowed.
+
+⚠️This video has STRICTLY 7 shots — do not add extra shots.
+⚠️SPATIAL LAYOUT (MAIN VIEW = from the SOUTH side, top-down axis west–east; screen-left = west, screen-right = east): Tsubame starts at the west edge facing east (screen-right, toward Garan); Garan stands ~18m east of her, facing west (screen-left, toward her). Her vault path travels west→east, rising diagonally toward the upper frame as she climbs the airborne chunks. 180° LINE: camera stays on the south side all clip — Tsubame on screen-left, Garan on screen-right, no swapping.
+⚠️ACTION VECTORS: (V1, SHOT 2) Garan hurls a car-sized slab two-handed, east→west (screen right→left), at Tsubame's center mass — she slides flat under it; it detonates on the floor west of her. (V2, SHOT 3) Garan's right-arm sweep flings a fan of rubble east→west — she runs into it and vaults the chunks. (V4, SHOT 5) Garan's right backhand sweeps east→west at her head as she reaches the fourth chunk — she plants the spear in the chunk and corkscrews around the shaft past the fist; one shard grazes her LEFT cheek. (V5, SHOT 7) Tsubame's spear thrust travels west→east (screen left→right) through the center of his final slab into Garan's crossed-forearm guard at chest height — he is driven east, heels carving trenches.
+⚠️Continuity across cuts: designs, colors, and arena damage stay identical and only progress, never reset — the left-cheek cut appears in SHOT 5 and persists bleeding a thin line through SHOTS 6–7; rubble and craters only accumulate.
+
+[SHOT 1] · Anticipation (~2s): scale-wide, static with a slow drift — two tiny figures on the vast cracked mosaic. Garan RIPS a car-sized slab out of the floor, orange light flaring in the tear-lines, and shoulders it; across the arena Tsubame drops low, spear leveled flat, one toe carving the dust. Her breathing is even; his grin is wide.
+[SHOT 2] · The slab (~2s): low lateral tracking with her — the slab comes in huge, right→left; she slides flat under its shadow, back scraping sparks, and it detonates behind her in a wall of grey dust with an orange core. She's up and sprinting before the debris lands.
+[SHOT 3] · The scatter (~2.5s): Garan tears the floor again and sweeps his arm — a shotgun fan of rubble fills the air right→left. She doesn't brake; she accelerates INTO it, first vault off the lowest chunk, drawn as anticipation pose → smear → landing pose. Lunge-track, background streaking.
+[SHOT 4] · The staircase (~2.5s, the money shot): low hero-angle orbit rising with her — Tsubame vaults chunk to airborne chunk up the diagonal, each foot-plant cracking the stone she leaves, cyan afterimage stitching one unbroken line through his barrage. Below and ahead, Garan's eyes narrow — he's reading it.
+[SHOT 5] · The backhand (~1.5s, brief slow-mo): his colossal backhand fills the frame right→left — she plants the spear in the fourth chunk and corkscrews around the shaft, the fist parting her hair, a shard opening a thin cut on her left cheek. Blood beads. Snap back to full speed as her feet find the chunk's edge.
+[SHOT 6] · The gate (~1s): held extreme close-up, slow push-in — her eyes only, no blink, cyan spearhead light reflected across them, the cheek-cut's red line sharp against the cel shading. Behind her focus, blurred, Garan heaves the biggest slab of the fight overhead, orange light pouring through its cracks.
+[SHOT 7] · The pierce (~3.5s): he hurls the colossal slab — she dives spear-first off the top chunk, left→right, and PIERCES STRAIGHT THROUGH ITS CENTER: the slab splits into two halves that peel past the camera. All sound — music and SFX — drops dead silent for the half-beat of the pierce; one deep concussive boom resolves it as the spear-tip slams into his crossed-forearm guard. Hit-stop on the impact frame, FX touching all four edges, near-white color-out. Then motion resumes: Garan is driven backward, iron heels carving twin trenches, the floor cratering — and holds his feet. Camera whips with her dive, freezes on the hit-stop, then eases back to a wide: both standing, dust ring expanding, the exchange over but the fight not.
+
+Environmental activity: no bystanders — an empty ruined arena; dust motes and small debris rain steadily after every impact; distant rumble of settling stone.
+Audio: music allowed and scored to the fight; full SFX — stone shear, rubble whistle, the silence-drop and single boom on the pierce.
+
+The two fighters remain two distinct, separate bodies in every frame, even at full contact. Faces, hands, and designs stay on-model start to finish — five-fingered hands with clean articulation, correct limb topology, character designs identical shot to shot. The spear keeps its slim leaf-blade shape and full two-meter length in every frame. Rubble flies on heavy ballistic arcs with real tonnage — each chunk accelerates, hits hard, and stays down; her foot-plants grip and crack the stone they leave (the SHOT 5 slow-mo and SHOT 7 hit-stop are deliberate, intentional holds). Full fluid high-frame-feel animation with a living camera throughout; matte hand-drawn cel surfaces; color stays disciplined to the locked cyan/orange/slate palette. No watermark, no on-screen text, no subtitles.
+15 seconds. 16:9.
 ```
 
 </details>
@@ -3313,85 +3355,6 @@ My first try with Wan 3.0 in
 
 Prompt: A futuristic desert racing vehicle prepares for the most dangerous race ever attempted. The camera begins close to the spinning wheels as engines roar to life. The vehicle launches across a vast desert at extreme speed. Massive dust trails follow behind. Ahead, a chain of dormant volcanoes suddenly awakens. Explosions send ash and rocks into the sky. The racer speeds between collapsing rock formations. Lava begins flowing across the track. The camera alternates between cockpit views and sweeping aerial shots. One volcano erupts directly ahead, throwing giant boulders through the air. The racer dodges debris at the last moment. The ground starts splitting open. A huge canyon forms across the course. The vehicle accelerates toward the edge. The camera slows slightly as it launches across the gap. The racer lands successfully while the terrain behind collapses into lava. The final shot reveals the vehicle racing toward the horizon as multiple volcanoes erupt across the landscape.
 Ultra-realistic cinematic racing sequence, extreme speed, realistic vehicle dynamics, volcanic destruction, dramatic scale, detailed environments, smooth camera work, IMAX quality, epic atmosphere, no text, no watermark.
-```
-
-</details>
-
-<a id="h3-armor-hero-ruined-city-sprint"></a>
-### Runner sprints through smoke-filled ruined city
-
-<a href="https://x.com/FutureVibesAi/status/2084230779622638032"><img src="../../previews/h3-armor-hero-ruined-city-sprint.jpg" width="360"></a>
-
-Each reference image gets a fixed role, Image 1 for the character and Image 2 for the armor. The action is written as one unbroken shot, with each beat (sprint, punch, flying kick, thruster lift-off) described in order and explicit bans on cuts, slow motion and freezes.
-
-MiniMax H3 · Reference-to-video · Source: [@FutureVibesAi on X](https://x.com/FutureVibesAi/status/2084230779622638032) · 43 likes on 2026-10-29
-
-[`reference-images`](tags.md#tag-reference-images) [`continuous-shot`](tags.md#tag-continuous-shot) [`armor-transformation`](tags.md#tag-armor-transformation) [`chase`](tags.md#tag-chase)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Style: Ultra-realistic live action, IMAX cinematic, photorealistic, Hollywood blockbuster, 4K HDR, 60fps, continuous action shot, no slow motion, no pause, no freeze frame, no music.
-
-Use Image 1 as WEKA (same face, hairstyle, body proportions, green oversized shirt, cargo pants, sneakers).
-Use Image 2 as the transformation armor design (blue metallic armor with gold accents). The armor appears only as modular pieces that attach to WEKA during combat.
-
-Scene:
-A ruined modern city filled with collapsed buildings, broken highways, smoke, dust, scattered burning vehicles, flying debris, dramatic daylight filtering through thick smoke. Several giant beast-like monsters charge through the streets.
-
-The camera immediately follows WEKA sprinting at extreme speed through the destroyed city in one continuous IMAX tracking shot. Dust and debris explode beneath every step.
-
-While still running, glowing blue mechanical armor rapidly deploys onto his right arm. Individual armor plates fly in at high speed and lock perfectly into place with powerful metallic impacts. Without slowing down, WEKA delivers one devastating armored punch into the chest of the nearest monster. The impact creates a massive shockwave, cracked pavement, flying debris, and the monster is violently launched backward, crashing through broken concrete.
-
-Without stopping, WEKA continues sprinting forward. While airborne during a long leap, blue mechanical armor instantly assembles around both legs. Every plate snaps into place seamlessly in midair. The completed armored legs unleash an explosive flying kick that strikes another charging monster with tremendous force, sending it spinning across the ruined street and smashing through wreckage.
-
-Immediately after the kick, additional armor modules rapidly fly toward WEKA from every direction. Helmet, chest, shoulders, back, waist, arms, and legs all attach in perfect synchronization while he remains in motion. Bright blue energy pulses through every armor seam as the transformation completes.
-
-The instant the full armor locks into place, powerful blue energy thrusters ignite from the back and legs. WEKA accelerates upward into the sky above the destroyed city, flying at high speed toward the remaining monsters as dust, sparks, and debris swirl below.
-
-Camera:
-Single uninterrupted continuous shot, dynamic IMAX chase camera with smooth orbit transitions, low-angle tracking, close combat follow shots, realistic handheld vibration during impacts, cinematic motion blur, volumetric smoke, detailed destruction, dramatic lighting, no cuts, no pauses, no dialogue, no subtitles, no watermark.
-```
-
-</details>
-
-<a id="h3-woman-burning-cargo-corridor-fight"></a>
-### Woman fights through burning cargo ship corridor
-
-<a href="https://x.com/Sogni_Protocol/status/2097952332315050154"><img src="../../previews/h3-woman-burning-cargo-corridor-fight.jpg" width="360"></a>
-
-The prompt lists the action as ordered beats inside one continuous handheld tracking shot, so the model has a clear sequence to follow. A spoken line gates the door opening, which ties the ending to the dialogue and keeps the timing readable.
-
-MiniMax H3 · Text-to-video · Source: [@Sogni_Protocol on X](https://x.com/Sogni_Protocol/status/2097952332315050154) · 40 likes on 2026-10-29
-
-[`fight-choreography`](tags.md#tag-fight-choreography) [`handheld`](tags.md#tag-handheld) [`tracking-shot`](tags.md#tag-tracking-shot) [`lora`](tags.md#tag-lora)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Live-action, cinematic, 16:9, 85mm, shallow depth of field, realistic grounded fight choreography. A woman in her late twenties, short dark hair, grey tactical jacket, steel baton, runs down a burning cargo-ship corridor in one continuous handheld tracking shot. First guard swings a rifle butt, she takes it on the shoulder, breaks his forearm with the baton and shoves him into the wall. Second guard with a knife, she deflects the wrist and drives his head into her knee. Third guard raises a pistol in front of a sealed bulkhead door; she throws the baton into his shin, slaps the gun away, slams him into the door frame and pins him with her forearm across his throat. Tight two-shot, she says "Open it." Only then does he hit the keypad; the door grinds open and white light floods the frame.
-```
-
-</details>
-
-<a id="wan-land-speed-car-mach-1-desert"></a>
-### Futuristic land speed car chasing Mach 1 at dawn
-
-<a href="https://x.com/AllaAisling/status/2093509473277006226"><img src="../../previews/wan-land-speed-car-mach-1-desert.jpg" width="360"></a>
-
-Numeric speed markers (200 mph, 400 mph, 700 mph) set the escalation beat by beat, and the prompt alternates wide aerial shots with wheel-level close-ups to sell scale. Events are listed in strict order so the model keeps one continuous shot sequence.
-
-Wan 3.0 · Text-to-video · Source: [@AllaAisling on X](https://x.com/AllaAisling/status/2093509473277006226) · 40 likes on 2026-10-29
-
-[`land-speed`](tags.md#tag-land-speed) [`vehicle`](tags.md#tag-vehicle) [`sonic-boom`](tags.md#tag-sonic-boom) [`desert`](tags.md#tag-desert)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A futuristic experimental racing vehicle attempts to become the first ground vehicle to maintain Mach 1 across open terrain. Dawn. Engines ignite. The camera follows close behind as the vehicle accelerates across a vast desert. 200 mph. 400 mph. 600 mph. The landscape becomes a blur. Shockwaves begin forming around the body. Warning messages appear throughout the cockpit. The vehicle starts lifting slightly from the ground. Control surfaces struggle to stabilize it. The camera alternates between wide aerial shots and terrifyingly close wheel-level views. 700 mph. 750 mph. Small components begin tearing away from the chassis. The driver refuses to slow down. Mountains ahead approach far too quickly. The speed reaches the critical threshold. A massive sonic boom erupts across the desert. The vehicle becomes unstable. It drifts sideways at incredible speed. The driver fights for control. For several seconds disaster seems inevitable. Then the vehicle stabilizes and continues accelerating. Final shot: the machine races beyond the horizon while the sonic shockwave rolls across the desert behind it. Ultra-realistic cinematic speed record attempt, realistic aerodynamics, overwhelming speed sensation, shockwaves, intense tension, detailed cockpit, IMAX quality, dramatic scale.
-
-Made with Wan 3.0 in
-@openart_ai
 ```
 
 </details>

@@ -1,6 +1,382 @@
 # Phone footage and vlogs
 
-[Back to the list](../../README.md) · All 186 entries · [1](video-vlog.md) · [2](video-vlog-2.md) · **3**
+[Back to the list](../../README.md) · All 191 entries · [1](video-vlog.md) · [2](video-vlog-2.md) · **3**
+
+<a id="seedance-seoul-lifestyle-day-montage"></a>
+### Seoul lifestyle day from door to skyline
+
+<a href="https://x.com/MissDelulu9/status/2102254554398228983"><img src="../../previews/seedance-seoul-lifestyle-day-montage.jpg" width="360"></a>
+
+A timed beat-by-beat script repeats the same character description in every segment to keep her looks consistent across cuts. Each segment names its camera move (push-in, whip transition, tracking, side tracking, backward and upward pull) and the light shifts from daytime to night for a clear arc.
+
+Seedance 2.5 · Text-to-video · Source: [@MissDelulu9 on X](https://x.com/MissDelulu9/status/2102254554398228983) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`korean-lifestyle`](tags.md#tag-korean-lifestyle) [`seoul`](tags.md#tag-seoul) [`timed-shots`](tags.md#tag-timed-shots) [`character-consistency`](tags.md#tag-character-consistency) [`camera-moves`](tags.md#tag-camera-moves)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 30-second photorealistic, highly entertaining Korean Seoul lifestyle video featuring the SAME adult Korean woman throughout. Keep her face, hairstyle, outfit, accessories and overall appearance perfectly consistent in every shot.
+
+Character: Adult woman with long soft dark hair, natural realistic skin, fresh minimal makeup, expressive eyes and genuinely playful facial expressions.
+
+0–3 sec: She opens her Seoul apartment door confidently, takes one step outside, suddenly realizes she forgot something, freezes with a funny expression, turns around and runs back inside. Fast comedic camera push-in + whip transition.
+
+3–7 sec: She comes running back outside and catches the Seoul bus at the last second. She looks at the camera with a tiny proud smile. Dynamic tracking shot.
+
+7–11 sec: Seoul convenience store  she grabs iced coffee, a cute dessert and snacks. The dessert nearly slips from her hand, but she catches it perfectly and smiles.
+
+11–15 sec: Subway ride through Seoul. She enjoys her dessert by the window, watches the city passing by and makes a playful expression at her reflection.
+
+15–20 sec: Lively Korean street-food market. She tries spicy tteokbokki, reacts dramatically to the heat, laughs and grabs water while her friends tease her.
+
+20–25 sec: Golden-hour Han River. She and her friends ride bicycles together, playfully racing and laughing. Smooth side-tracking camera.
+
+25–30 sec: Nighttime rooftop convenience-store seating. They share snacks and dessert while Seoul glows behind them. Camera smoothly pulls backward and upward, revealing the beautiful Seoul skyline.
+
+Style: Premium Korean lifestyle commercial × cinematic vlog, cute, playful, energetic, natural expressions, smooth camera movement, realistic Seoul locations, beautiful lighting, cinematic daylight-to-night transition, photorealistic 16:9 landscape.
+```
+
+</details>
+
+<a id="seedance-seoul-minidv-restaurant-morning"></a>
+### Young woman reads a Seoul restaurant menu on MiniDV
+
+<a href="https://x.com/Just_sharon7/status/2104819017655648545"><img src="../../previews/seedance-seoul-minidv-restaurant-morning.jpg" width="360"></a>
+
+Realism comes from camera behaviour rather than a filter: the prompt names handheld shake, autofocus hunting, imperfect white balance and DV compression, and splits the 15 seconds into timed beats so the action stays readable. The cool street light against the warm restaurant interior sets the palette.
+
+Seedance 2.5 · Text-to-video · Source: [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2104819017655648545) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`minidv`](tags.md#tag-minidv) [`seoul`](tags.md#tag-seoul) [`handheld`](tags.md#tag-handheld) [`found-footage`](tags.md#tag-found-footage)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+This AI video made me question what “AI-looking” even means anymore.
+
+Seedance 2.5 on @TapNow_AI 
+
+Create a 15-second ultra-realistic early-2000s Sony MiniDV home-video of a young Korean woman stopping at a small neighborhood Korean restaurant during a quiet morning in Seoul.
+
+MAIN SUBJECT
+
+Young Korean woman, 24 years old, naturally attractive with realistic skin texture, minimal makeup, expressive dark-brown eyes and long dark hair worn loosely down.
+
+Preserve her exact identity, facial features, hairstyle, body proportions and appearance throughout the entire video.
+
+OUTFIT
+
+Replace the maroon hoodie with a cozy casual early-2000s outfit:
+
+soft cream cable-knit cardigan
+muted dusty-blue fitted T-shirt underneath
+loose dark-brown straight-leg trousers
+worn white canvas sneakers
+small dark-brown canvas shoulder bag
+simple silver wristwatch
+
+Her clothing should look ordinary, comfortable and naturally lived-in rather than styled for a fashion shoot.
+
+LOCATION — SMALL KOREAN RESTAURANT
+
+A tiny family-run Korean restaurant tucked into an older residential neighborhood in Seoul.
+
+The restaurant feels authentic and modest rather than trendy.
+
+Outside are an aged Korean signboard, slightly faded menu posters, a small standing menu board, plastic beverage crates, potted plants, an old bicycle leaning against the wall and a glass entrance door covered with a few small Korean stickers.
+
+Inside, show glimpses of:
+
+compact wooden tables
+metal chopstick containers
+stainless-steel cups
+tissue boxes
+condiment bottles
+handwritten Korean menu sheets
+an old wall clock
+small refrigerator filled with drinks
+steaming pots behind the counter
+an older Korean woman preparing food
+
+Warm steam occasionally drifts from the kitchen.
+
+The restaurant should feel like a genuine neighborhood place that local residents have visited for years.
+
+LIGHTING & ATMOSPHERE
+
+Quiet early morning in Seoul.
+
+Soft overcast daylight outside has a cool blue-gray tone, while the restaurant interior glows with warm yellow fluorescent and tungsten light.
+
+This creates a cozy contrast between the cool street and warm restaurant.
+
+Muted colors, slightly underexposed shadows, soft highlights and imperfect white balance.
+
+A gentle breeze moves her loose hair and cardigan when she is outside.
+
+The atmosphere is peaceful, nostalgic, comfortable and slightly sleepy.
+
+CAMERA STYLE
+
+Ultra-realistic early-2000s Sony MiniDV home video, filmed casually by another person accompanying her.
+
+Completely candid and unstaged.
+
+Natural handheld operation with:
+
+subtle hand shake
+imperfect framing
+occasional crooked composition
+gentle accidental reframing
+slight autofocus hunting
+small exposure adjustments
+imperfect automatic white balance
+faded MiniDV colors
+soft contrast
+mild highlight blooming
+authentic DV compression
+subtle digital noise
+slight microphone hiss
+occasional autofocus breathing
+
+No stabilization. No cinematic gimbal movement. No modern commercial color grading.
+
+Motion remains fluid and natural at normal real-time speed.
+
+00:00–00:03 — ARRIVING
+
+The camcorder follows slightly behind her as she approaches the tiny neighborhood restaurant.
+
+She notices the faded menu displayed beside the entrance and slows down.
+
+She leans slightly toward it, reading the Korean dishes.
+
+A little steam escapes when another customer opens the restaurant door.
+
+She smiles and quietly says:
+
+WOMAN:
+“아… 배고프다.”
+
+She lightly touches her stomach and looks through the restaurant window.
+00:03–00:06 — LOOKING AT THE MENU
+
+She steps closer to the handwritten menu board.
+
+Her canvas bag slips slightly down her shoulder while she reads.
+
+She casually pushes it back up without looking.
+
+The person filming asks from behind the camcorder:
+
+CAMERA PERSON:
+“뭐 먹을래?”
+
+Without turning around, she continues studying the menu.
+
+WOMAN:
+“잠깐만…”
+
+She points at one item with her finger.
+00:06–00:09 — INSIDE
+
+Natural handheld cut as she pushes open the glass restaurant door.
+
+A small bell above the door jingles.
+The warm restaurant interior contrasts with the cool morning outside.
+
+An older woman behind the counter looks up.
+
+RESTAURANT OWNER:
+“어서 오세요.”
+
+The young woman gives a small polite bow.
+
+WOMAN:
+“안녕하세요.”
+
+She walks toward an empty table.
+
+00:09–00:12 — THE LITTLE ACCIDENT
+
+She sits at the small wooden table and begins removing her shoulder bag.
+
+Without noticing, her elbow lightly bumps the stainless-steel chopstick container.
+It tilts.
+
+She reacts quickly and catches it with both hands just before it falls over.
+
+Her eyes widen for a second.
+She freezes.
+
+Then she slowly looks directly toward the camcorder.
+
+The person filming quietly laughs.
+
+CAMERA PERSON:
+“야…”
+
+She immediately starts laughing too.
+
+WOMAN:
+“안 떨어졌잖아.”
+
+Her expression is playfully defensive and slightly embarrassed.
+
+00:12–00:15 — FOOD ARRIVES
+
+A steaming bowl of kimchi-jjigae is placed in front of her with rice and several small banchan dishes.
+
+Steam rises naturally toward her face.
+
+Her embarrassed expression immediately changes into a delighted smile.
+
+She leans slightly toward the bowl and inhales the aroma.
+
+WOMAN:
+“와… 맛있겠다.”
+She picks up her metal spoon, then briefly looks toward the camcorder with an excited little smile.
+
+The camera accidentally drifts downward toward the steaming stew before casually reframing her face.
+
+End naturally as she begins eating.
+AUDIO
+
+Natural location audio only.
+
+Include:
+
+soft neighborhood traffic, distant bicycle bell, footsteps, restaurant door bell, quiet Korean conversation in the background, kitchen utensils, bubbling stew, plates touching tables, metal chopsticks, refrigerator hum, ventilation fan, chair movement, fabric rustling and subtle MiniDV microphone hiss.
+
+No music. No narration. No artificial sound effects.
+
+MOTION & REALISM
+
+All movement must remain continuous, physically believable and real-time.
+
+The cardigan, hair and shoulder bag should have realistic secondary motion.
+
+Steam from the food should rise irregularly and naturally.
+When she accidentally knocks the chopstick container, it should only tilt slightly and she should realistically catch it—no exaggerated slapstick reaction.
+
+Her expressions should transition naturally:
+
+sleepy curiosity → hunger → concentration → surprise → embarrassment → laughter → excitement when the food arrives.
+
+The humor should come from an extremely ordinary human moment rather than staged comedy.
+
+IMPORTANT
+
+The video should feel like someone found an old MiniDV tape from a casual morning in Seoul around 2003–2005.
+
+Do not make the restaurant luxurious, modern, minimalist or Instagram-style.
+
+Avoid perfect compositions, dramatic cinematic lighting, beauty filters, overly clean skin, exaggerated acting, artificial slow motion, speed ramps, frame skipping, duplicated frames, stop-motion movement or excessive motion blur.
+
+The final glance at the camcorder should feel spontaneous and familiar, as though she is comfortable with the person filming her.
+
+The vintage appearance must come from realistic MiniDV camera behavior, autofocus, automatic exposure, white-balance imperfections, compression and casual handheld operation, not from choppy or artificially degraded motion.
+```
+
+</details>
+
+<a id="seedance-seoul-minidv-teeth-brushing"></a>
+### Seoul 2003 camcorder shot of woman brushing teeth
+
+<a href="https://x.com/AIwithkhan/status/2110223635667439793"><img src="../../previews/seedance-seoul-minidv-teeth-brushing.jpg" width="360"></a>
+
+The prompt pins a dated device and a plain sequence of everyday actions, and describes the camera as a friend's handheld DV recording with autofocus hunting, accidental zooms and no cinematic moves. Named ambient sounds like running water and a shop chime, plus a negative list that bans filters, CGI and posing, keep it reading as found footage.
+
+Seedance 2.5 · Text-to-video · Source: [@AIwithkhan on X](https://x.com/AIwithkhan/status/2110223635667439793) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`dv-camcorder`](tags.md#tag-dv-camcorder) [`daily-life`](tags.md#tag-daily-life) [`found-footage`](tags.md#tag-found-footage)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 30-second,  ultra-realistic Korean home video from around 2003, recorded casually by a friend on an early-2000s consumer DV camcorder. It must feel like raw personal footage of an ordinary morning, never a professionally directed film.
+
+CHARACTER: A young adult Korean woman in her early 20s, natural beauty, realistic skin texture, minimal makeup and long black hair loosely tied in a messy side ponytail. She wears a fitted pastel-blue short top, loose cream pajama-style pants, black sneakers and a simple silver necklace. Keep her face, hairstyle, outfit and proportions consistent throughout.
+
+STORY: She brushes her teeth in a small bathroom, rinses her face and dries it with a towel. She grabs a reusable shopping bag and leaves home to visit a nearby neighborhood shop. She buys fresh bread and a bottle of milk, then walks back home carrying the groceries.
+
+In the kitchen, she places the groceries on the counter and prepares a simple breakfast. She steps onto the balcony, casually waves to a couple of neighbors and waters her potted plants. Some water spills onto the concrete, and she laughs softly before moving a plant into the sunlight.
+
+She returns to the kitchen, pours a glass of milk and eats bread near the open window. Before the video ends, she notices her friend filming, smiles naturally, gives a small wave and says, “Have a nice day!”
+
+CAMERA & FOOTAGE: Raw personal footage casually recorded by a friend on an early-2000s consumer DV camcorder. Authentic 4:3 MiniDV recording, handheld shake, imperfect framing, late camera reactions, accidental zooms, autofocus hunting, exposure fluctuations, soft digital detail, faded colors, mild compression noise, blown highlights and natural motion blur. The operator occasionally frames things awkwardly or misses a moment. No deliberate cinematic compositions, no smooth tracking shots and no professional camera movements.
+
+SETTING: An older Seoul residential neighborhood circa 2003, modest apartment interiors, small kitchens, tiled rooftops, tangled overhead wires, narrow lanes, neighborhood shops and balconies filled with potted plants.
+
+AUDIO: Raw built-in camcorder microphone audio: toothbrush and running water, footsteps, shop door chime, coins, grocery bags rustling, birds, distant scooters, neighbors chatting, watering plants and kitchen sounds. Natural dialogue only. No music or narration.
+
+REALISM & CONTINUITY: Unposed behavior, spontaneous expressions, realistic movement and believable everyday interactions. Maintain consistent character appearance, clothing and surroundings. The entire video should feel like a forgotten home recording made by a friend who happened to capture her morning.
+
+NEGATIVE: No cinematic commercial look, professional lighting, gimbal shots, modern stabilization, artificial VHS effects, beauty filters, plastic skin, CGI, anime, cartoon, exaggerated acting, posing for the camera, changing faces, outfit changes, duplicated objects, distorted hands, morphing objects, teleportation, subtitles, captions, watermark or background music.
+```
+
+</details>
+
+<a id="seedance-seoul-montage-red-tracksuit-alley"></a>
+### Woman in red tracksuit walking Seoul alley
+
+<a href="https://x.com/noorlewisx/status/2101539861085946307"><img src="../../previews/seedance-seoul-montage-red-tracksuit-alley.jpg" width="360"></a>
+
+Timestamped beats give each segment its own location, time of day and outfit, so the montage reads as a sequence of shots. Soft filmic grading, shallow depth of field and smooth tracking moves hold one consistent travel-film look.
+
+Seedance 2.5 · Text-to-video · Source: [@noorlewisx on X](https://x.com/noorlewisx/status/2101539861085946307) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`korea`](tags.md#tag-korea) [`seoul`](tags.md#tag-seoul) [`lifestyle`](tags.md#tag-lifestyle) [`adidas`](tags.md#tag-adidas)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Cinematic 20-second lifestyle montage of a beautiful young Korean woman with long straight black hair and bangs exploring Seoul. Soft filmic color grading, shallow depth of field, natural lighting, warm golden and neon tones, 4K, 24fps, smooth tracking shots.
+0-4s: Dusk, quiet narrow residential alley in Seoul. She walks slowly toward camera wearing a bright red Adidas tracksuit with white stripes, white t-shirt underneath, white wired earphones, looking down at a white iPhone in her hands. Small shops, chalkboard signs, brick walls, warm shop lights in background.
+4-7s: Night. Busy Seoul pedestrian crossing with neon signs, blue city bus, crowds of people. She wears a black Adidas tracksuit with white stripes, turns her head back toward camera and smiles softly while walking.
+7-10s: Night. Crowded traditional Korean street food market, steam rising from stalls, hanging yellow signs in Korean. She wears a cream/beige Adidas tracksuit with black stripes, walks through the aisle, picks up a piece of food and eats it, looking satisfied.
+10-13s: Daytime. Traditional Korean palace with red wooden pillars, green tiled roofs, stone steps (Gyeongbokgung style). She wears a dark green Adidas tracksuit with white stripes, walks up the stairs away from camera then turns her head to look at the architecture.
+13-16s: Golden hour sunset by the Han River. City skyline, N Seoul Tower, long bridge, sunlight reflecting on water. She stands in profile wearing a white Adidas tracksuit with black stripes, long hair blowing in the wind, looking toward the sunset.
+16-20s: Night. Narrow traditional hanok-style street with warm cafe lights and street lamps. She wears a blue Adidas tracksuit with white stripes, laughs and walks/runs forward with a female friend wearing a long beige trench coat. They hold hands then start jogging down the street together. Large bold yellow text “KOREA” fades in over the center of the frame as they walk away from camera.
+
+Mood: dreamy, youthful, warm, slightly nostalgic Korea travel film. No dialogue. Adidas branding visible but natural, not overly promotional.
+```
+
+</details>
+
+<a id="seedance-seoul-neighborhood-walk-corn"></a>
+### Woman with water bottle leaves Seoul home
+
+<a href="https://x.com/AIwithkhan/status/2105860239375638663"><img src="../../previews/seedance-seoul-neighborhood-walk-corn.jpg" width="360"></a>
+
+A reference image locks the character's face and outfit, while the prompt names early 2000s DV traits such as handheld shake, autofocus hunting and mild digital noise so the footage reads as a real home video. Restricting the audio to natural neighborhood sounds and banning music, narration and polished camera moves keeps it believable.
+
+Seedance 2.5 · Reference-to-video · Source: [@AIwithkhan on X](https://x.com/AIwithkhan/status/2105860239375638663) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`home-video`](tags.md#tag-home-video) [`seoul`](tags.md#tag-seoul) [`reference-image`](tags.md#tag-reference-image) [`ambient-audio`](tags.md#tag-ambient-audio)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a ultra-realistic early-2000s consumer DV camcorder home video of a young Korean woman enjoying a simple day in an older Seoul residential neighborhood. Use the attached image as the character reference and keep her face and appearance consistent. She wears a pink fitted crop top, white casual shorts, simple slippers, and a small bracelet, carrying a clear water bottle.
+
+She steps out of her home, closes the door and walks through the quiet neighborhood with the bottle in hand. Along the way, she greets a few friendly neighbors with natural smiles and small waves.
+
+She reaches a neighborhood park and sits on a bench, casually watching children playing football. Suddenly, the football rolls toward her. She picks it up, smiles, kicks it gently back to the children and says, “Enjoy!” The children laugh and continue playing.
+
+She leaves the park and walks down the street, still carrying her water bottle. She stops at a small street vendor selling sweet corn, buys one and happily takes her first bite while walking.
+
+While eating, her water bottle accidentally slips from her hand and falls onto the sidewalk. She pauses, looks down, laughs softly, picks it up, takes another bite of the sweet corn and continues walking home.
+
+Near the end, she walks slowly down the residential lane with the water bottle in one hand and sweet corn in the other, enjoying her snack. She looks toward the camera, smiles naturally and says “Bye bye!”, then walks away.
+
+Use raw early-2000s consumer DV-camera footage: handheld shake, imperfect framing, autofocus hunting, slight exposure shifts, soft digital detail, mild digital noise, natural motion blur and occasional awkward zooms. Authentic home-video feeling, realistic skin, natural expressions and believable movement.
+
+Natural neighborhood audio only: footsteps, birds, distant traffic, children playing football, neighbors talking, bicycle sounds, vendor ambience, water bottle movement and light wind. No music, narration, subtitles, beauty filters, CGI, cinematic commercial look or polished camera movement.
+```
+
+</details>
 
 <a id="seedance-seoul-summer-day-handheld"></a>
 ### Man sits on Seoul rooftop with cold drink

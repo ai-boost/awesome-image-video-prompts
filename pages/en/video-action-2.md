@@ -1,6 +1,85 @@
 # Action, chases and sports
 
-[Back to the list](../../README.md) · All 233 entries · [1](video-action.md) · **2** · [3](video-action-3.md)
+[Back to the list](../../README.md) · All 236 entries · [1](video-action.md) · **2** · [3](video-action-3.md)
+
+<a id="h3-armor-hero-ruined-city-sprint"></a>
+### Runner sprints through smoke-filled ruined city
+
+<a href="https://x.com/FutureVibesAi/status/2084230779622638032"><img src="../../previews/h3-armor-hero-ruined-city-sprint.jpg" width="360"></a>
+
+Each reference image gets a fixed role, Image 1 for the character and Image 2 for the armor. The action is written as one unbroken shot, with each beat (sprint, punch, flying kick, thruster lift-off) described in order and explicit bans on cuts, slow motion and freezes.
+
+MiniMax H3 · Reference-to-video · Source: [@FutureVibesAi on X](https://x.com/FutureVibesAi/status/2084230779622638032) · 43 likes on 2026-10-29
+
+[`reference-images`](tags.md#tag-reference-images) [`continuous-shot`](tags.md#tag-continuous-shot) [`armor-transformation`](tags.md#tag-armor-transformation) [`chase`](tags.md#tag-chase)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Style: Ultra-realistic live action, IMAX cinematic, photorealistic, Hollywood blockbuster, 4K HDR, 60fps, continuous action shot, no slow motion, no pause, no freeze frame, no music.
+
+Use Image 1 as WEKA (same face, hairstyle, body proportions, green oversized shirt, cargo pants, sneakers).
+Use Image 2 as the transformation armor design (blue metallic armor with gold accents). The armor appears only as modular pieces that attach to WEKA during combat.
+
+Scene:
+A ruined modern city filled with collapsed buildings, broken highways, smoke, dust, scattered burning vehicles, flying debris, dramatic daylight filtering through thick smoke. Several giant beast-like monsters charge through the streets.
+
+The camera immediately follows WEKA sprinting at extreme speed through the destroyed city in one continuous IMAX tracking shot. Dust and debris explode beneath every step.
+
+While still running, glowing blue mechanical armor rapidly deploys onto his right arm. Individual armor plates fly in at high speed and lock perfectly into place with powerful metallic impacts. Without slowing down, WEKA delivers one devastating armored punch into the chest of the nearest monster. The impact creates a massive shockwave, cracked pavement, flying debris, and the monster is violently launched backward, crashing through broken concrete.
+
+Without stopping, WEKA continues sprinting forward. While airborne during a long leap, blue mechanical armor instantly assembles around both legs. Every plate snaps into place seamlessly in midair. The completed armored legs unleash an explosive flying kick that strikes another charging monster with tremendous force, sending it spinning across the ruined street and smashing through wreckage.
+
+Immediately after the kick, additional armor modules rapidly fly toward WEKA from every direction. Helmet, chest, shoulders, back, waist, arms, and legs all attach in perfect synchronization while he remains in motion. Bright blue energy pulses through every armor seam as the transformation completes.
+
+The instant the full armor locks into place, powerful blue energy thrusters ignite from the back and legs. WEKA accelerates upward into the sky above the destroyed city, flying at high speed toward the remaining monsters as dust, sparks, and debris swirl below.
+
+Camera:
+Single uninterrupted continuous shot, dynamic IMAX chase camera with smooth orbit transitions, low-angle tracking, close combat follow shots, realistic handheld vibration during impacts, cinematic motion blur, volumetric smoke, detailed destruction, dramatic lighting, no cuts, no pauses, no dialogue, no subtitles, no watermark.
+```
+
+</details>
+
+<a id="h3-woman-burning-cargo-corridor-fight"></a>
+### Woman fights through burning cargo ship corridor
+
+<a href="https://x.com/Sogni_Protocol/status/2097952332315050154"><img src="../../previews/h3-woman-burning-cargo-corridor-fight.jpg" width="360"></a>
+
+The prompt lists the action as ordered beats inside one continuous handheld tracking shot, so the model has a clear sequence to follow. A spoken line gates the door opening, which ties the ending to the dialogue and keeps the timing readable.
+
+MiniMax H3 · Text-to-video · Source: [@Sogni_Protocol on X](https://x.com/Sogni_Protocol/status/2097952332315050154) · 40 likes on 2026-10-29
+
+[`fight-choreography`](tags.md#tag-fight-choreography) [`handheld`](tags.md#tag-handheld) [`tracking-shot`](tags.md#tag-tracking-shot) [`lora`](tags.md#tag-lora)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Live-action, cinematic, 16:9, 85mm, shallow depth of field, realistic grounded fight choreography. A woman in her late twenties, short dark hair, grey tactical jacket, steel baton, runs down a burning cargo-ship corridor in one continuous handheld tracking shot. First guard swings a rifle butt, she takes it on the shoulder, breaks his forearm with the baton and shoves him into the wall. Second guard with a knife, she deflects the wrist and drives his head into her knee. Third guard raises a pistol in front of a sealed bulkhead door; she throws the baton into his shin, slaps the gun away, slams him into the door frame and pins him with her forearm across his throat. Tight two-shot, she says "Open it." Only then does he hit the keypad; the door grinds open and white light floods the frame.
+```
+
+</details>
+
+<a id="wan-land-speed-car-mach-1-desert"></a>
+### Futuristic land speed car chasing Mach 1 at dawn
+
+<a href="https://x.com/AllaAisling/status/2093509473277006226"><img src="../../previews/wan-land-speed-car-mach-1-desert.jpg" width="360"></a>
+
+Numeric speed markers (200 mph, 400 mph, 700 mph) set the escalation beat by beat, and the prompt alternates wide aerial shots with wheel-level close-ups to sell scale. Events are listed in strict order so the model keeps one continuous shot sequence.
+
+Wan 3.0 · Text-to-video · Source: [@AllaAisling on X](https://x.com/AllaAisling/status/2093509473277006226) · 40 likes on 2026-10-29
+
+[`land-speed`](tags.md#tag-land-speed) [`vehicle`](tags.md#tag-vehicle) [`sonic-boom`](tags.md#tag-sonic-boom) [`desert`](tags.md#tag-desert)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A futuristic experimental racing vehicle attempts to become the first ground vehicle to maintain Mach 1 across open terrain. Dawn. Engines ignite. The camera follows close behind as the vehicle accelerates across a vast desert. 200 mph. 400 mph. 600 mph. The landscape becomes a blur. Shockwaves begin forming around the body. Warning messages appear throughout the cockpit. The vehicle starts lifting slightly from the ground. Control surfaces struggle to stabilize it. The camera alternates between wide aerial shots and terrifyingly close wheel-level views. 700 mph. 750 mph. Small components begin tearing away from the chassis. The driver refuses to slow down. Mountains ahead approach far too quickly. The speed reaches the critical threshold. A massive sonic boom erupts across the desert. The vehicle becomes unstable. It drifts sideways at incredible speed. The driver fights for control. For several seconds disaster seems inevitable. Then the vehicle stabilizes and continues accelerating. Final shot: the machine races beyond the horizon while the sonic shockwave rolls across the desert behind it. Ultra-realistic cinematic speed record attempt, realistic aerodynamics, overwhelming speed sensation, shockwaves, intense tension, detailed cockpit, IMAX quality, dramatic scale.
+
+Made with Wan 3.0 in
+@openart_ai
+```
+
+</details>
 
 <a id="kling-jaguar-chase-waterfall-pool"></a>
 ### Backpacker chased by jaguar into waterfall pool
@@ -4218,56 +4297,6 @@ Create an ultra-realistic, live-action cinematic fight scene featuring two 20-ye
 8–10 seconds: She casually fixes her beautiful hair, looks down at him with a cheeky smirk, and says, “Big mistake, buddy.” She turns and walks away confidently while he lies stunned on the ground.
 
 Visual style: Photorealistic live-action, beautiful natural facial details, realistic skin texture, expressive eyes, detailed hair movement, professional martial arts choreography, fast dynamic camera tracking, dramatic cinematic lighting, realistic physics, authentic impact sounds, consistent character appearances, no gore, no supernatural effects, no cartoon visuals. Vertical 9:16 format, exactly 10 seconds.
-```
-
-</details>
-
-<a id="seedance-night-market-pursuit-alley-escape"></a>
-### Woman walks through crowded dusk market street
-
-<a href="https://x.com/aiwithaly/status/2100462425308901480"><img src="../../previews/seedance-night-market-pursuit-alley-escape.jpg" width="360"></a>
-
-The prompt lists the physical beats in order and names specific camera setups (handheld close-ups, low running angles, a locked-off final shot), so the model can cut between them coherently. Limiting the audio to diegetic sources keeps the chase grounded in the scene.
-
-Seedance 2.5 · Text-to-video · Source: [@aiwithaly on X](https://x.com/aiwithaly/status/2100462425308901480) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`urban-chase`](tags.md#tag-urban-chase) [`night-market`](tags.md#tag-night-market) [`handheld`](tags.md#tag-handheld) [`photorealistic`](tags.md#tag-photorealistic)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a 30-second ultra-photorealistic live-action urban chase thriller set in a crowded evening street market. A young woman realizes a stranger is following her, accelerates into a run, weaves naturally through pedestrians and food stalls, ducks behind a market stall, then suddenly changes direction and disappears into a narrow alley just before the follower arrives.
-
-Show realistic human biomechanics, acceleration, momentum, friction, center-of-mass shifts, crowd reactions, fabric and bag physics, realistic object interaction, and natural environmental movement. Use handheld close-ups, over-the-shoulder shots, low running angles, side tracking, a hidden perspective behind the stall, and a tight alley shot with realistic camera inertia and autofocus.
-
-Use only diegetic sound: footsteps, breathing, crowd chatter, vendors, bicycles, fabric movement, traffic, and echoing alley footsteps. Natural mixed market lighting, realistic shadows, reflections, depth of field, and motion blur. End on a locked-off shot of the empty alley as her footsteps fade away.
-
-No CGI, animation, superhero movement, impossible parkour, teleportation, unrealistic crowd behavior, distorted anatomy, floating objects, weapons, gore, text, logos, or watermark.
-```
-
-</details>
-
-<a id="seedance-night-rain-loading-door-escape"></a>
-### Woman runs down dark industrial corridor
-
-<a href="https://x.com/nawalsehar/status/2100082784018821414"><img src="../../previews/seedance-night-rain-loading-door-escape.jpg" width="360"></a>
-
-The prompt spells out physical cause and effect (friction, backpack inertia, center of mass) and gives a fixed shot list of handheld, floor level, door close-up and static wide, so the model has a clear beat sheet. Limiting sound to diegetic sources keeps the audio grounded in the scene.
-
-Seedance 2.5 · Text-to-video · Source: [@nawalsehar on X](https://x.com/nawalsehar/status/2100082784018821414) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`action-thriller`](tags.md#tag-action-thriller) [`handheld`](tags.md#tag-handheld) [`night-rain`](tags.md#tag-night-rain) [`diegetic-sound`](tags.md#tag-diegetic-sound)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a 30-second ultra-photorealistic live-action action-thriller at night during heavy rain. A young woman trapped inside an old industrial building discovers a partially open mechanical loading door and times her escape as two pursuers close in. She slides beneath the heavy door, struggles with realistic friction and backpack movement, rolls onto the rain-soaked pavement, and escapes into a dark service lane.
-
-Show realistic human biomechanics, inertia, momentum, gravity, friction, center-of-mass shifts, realistic loading-door mechanics, backpack physics, rain and water dynamics, wet-surface traction, vehicle spray, and physically accurate material interactions. Use handheld chase cinematography, low floor-level shots during the escape, close-ups of the mechanical door, exterior tracking shots, and a final static wide shot. Camera movement should have natural operator inertia and subtle handheld shake.
-
-Use only diegetic sound: heavy rain, breathing, footsteps, metal mechanisms, water splashes, distant traffic, echoes, and thunder. Natural nighttime lighting with realistic wet reflections, shadows, depth of field, and motion blur. End with the woman hidden behind a concrete wall as the pursuers run past, followed by an empty rain-soaked street and a cut to black.
-
-No CGI, animation, superhero abilities, impossible parkour, teleportation, weightless objects, exaggerated slow motion, unrealistic physics, distorted anatomy, duplicate characters, text, logos, or watermark.
 ```
 
 </details>

@@ -1,0 +1,23 @@
+id: gpt-image-2-6-golden-leaf-boat-sunset
+title:
+  en: Golden boat with umbrella at sunset
+  zh: 日落时带伞的金布小船
+model: GPT Image 2.6
+mode: text-to-image
+category: realism
+tags:
+- sunset
+- minimalist
+- water-reflection
+source:
+  name: '@churvikv on X'
+  url: https://x.com/churvikv/status/2122636815819559091
+  credit: Viki
+  likes: 97
+  captured: '2026-11-17'
+  posted: '2026-11-17'
+notes:
+  en: The prompt lists each element in order (boat, billowing gold cloth, open umbrella, golden leaf, sun on the horizon) and sets the mood and a minimalist composition, so the model keeps every subject in one frame. Water reflections tie the sky colour to the surface.
+  zh: 提示词按顺序列出每个元素（小船、飘动的金色布料、张开的黑伞、金叶、地平线上的太阳），并点明氛围与极简构图，使模型把所有主体放进同一画面。水面倒影把天空的色调延续到水面。
+prompt: |
+  A single golden leaf floats gently on calm water, creating soft ripples, with a serene sunset in the background casting warm golden hues across the sky and water, evoking a tranquil and peaceful mood in a minimalist composition.

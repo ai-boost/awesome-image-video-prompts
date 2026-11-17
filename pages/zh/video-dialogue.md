@@ -1,6 +1,6 @@
 # 对白与口播
 
-[返回目录](../../README_zh.md) · 全部 57 条
+[返回目录](../../README_zh.md) · 全部 59 条
 
 <a id="seedance-cafe-table-multi-angle-reshoot"></a>
 ### 咖啡馆桌边讲话重拍成十三个新机位
@@ -275,6 +275,143 @@ STYLE: single-camera sitcom shot like a documentary crew is present,
 natural performances, no laugh track, muted office color palette,
 slightly soft consumer-camera look, characters occasionally glancing
 at the lens.
+```
+
+</details>
+
+<a id="wan-ghost-steals-ice-cream-tv"></a>
+### 幽灵从电视爬出抢走冰淇淋
+
+<a href="https://x.com/Rosey_watson/status/2122208493793153103"><img src="../../previews/wan-ghost-steals-ice-cream-tv.jpg" width="360"></a>
+
+五个定时段落反复使用女孩、猫和幽灵的固定角色描述，使各镜头之间的外观保持一致。每个段落把镜头运动或灯光变化与台词和音效提示配对，让对话和反转的节奏清晰。
+
+Wan 3.0 · 文生视频 · 出处: [@Rosey_watson on X](https://x.com/Rosey_watson/status/2122208493793153103) · 403 赞，统计于 2026-11-17
+
+[`horror`](tags.md#tag-horror) [`comedy`](tags.md#tag-comedy) [`ghost`](tags.md#tag-ghost) [`cat`](tags.md#tag-cat)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Main Concept: A girl is enjoying her favorite ice cream with her adorable white Persian cat when a terrifying ghost suddenly crawls out of the television. But the ghost doesn't want to haunt her… it wants her ice cream! 👻🍦
+Main Characters
+1\. Girl – UGC Model
+
+A beautiful young adult woman with naturally glowing skin, expressive eyes, long silky hair, and a cozy, stylish red-and-white outfit. Natural makeup, charming personality, and authentic facial expressions.
+
+2\. Cat – The Adorable Sidekick
+
+An exceptionally fluffy, pure-white Persian cat with gorgeous blue eyes, silky fur, and a tiny red bow around its neck. Realistic feline movements and adorable reactions.
+
+3\. Ghost – The Unexpected Villain
+
+A terrifying, photorealistic ghost with pale translucent skin, dark hollow eyes, long messy hair, and creepy supernatural movements. A genuinely frightening appearance with realistic physical interaction.
+
+Scene 1 – The Irresistible Ice Cream (0–6 Seconds)
+
+A beautiful, cozy modern living room at night. Warm golden lighting, a large television playing a movie, and a comfortable sofa.
+
+The girl sits on the sofa with her adorable white Persian cat beside her.
+
+She holds a delicious, premium-looking ice cream tub with a beautiful branded design. She opens the lid, revealing creamy vanilla and chocolate ice cream with rich chocolate swirls.
+
+Extreme macro close-up:
+
+* A spoon slowly scoops through the creamy ice cream.
+
+* Thick chocolate sauce drips naturally.
+
+* A delicious scoop reveals its soft, creamy texture.
+
+* She takes a generous bite and closes her eyes with satisfaction.
+
+She smiles and says naturally:
+
+Girl: "Oh my God! This is SO good!"
+
+Her cat curiously watches the spoon.
+
+Sound: Satisfying lid opening, spoon scraping, creamy bite, and cozy background music.
+
+Scene 2 – Something Is Watching (6–12 Seconds)
+
+Suddenly, the television freezes.
+
+The movie glitches.
+
+The warm lighting slowly fades, replaced by a mysterious deep-red glow.
+
+The girl stops eating.
+
+Her cat raises its ears and stares directly at the television.
+
+A creepy whisper emerges from the screen:
+
+Ghost Whisper: "I... want... some..."
+
+The girl looks confused.
+
+Girl: "What was that?"
+
+The camera slowly pushes toward the television.
+
+Scene 3 – The Ghost Wants Dessert (12–19 Seconds)
+
+Suddenly, two terrifying pale hands emerge from the television screen.
+
+The screen transforms into a realistic liquid-like portal.
+
+A frightening ghost slowly crawls out of the television and lands on the living room floor.
+
+The girl freezes in terror.
+
+Her cat jumps backward with its fur slightly raised.
+
+The ghost slowly turns its head toward the girl.
+
+A terrifying silence.
+
+Then its eyes move toward the ice cream tub.
+
+The ghost points at the ice cream.
+
+Ghost: "GIVE... ME... THAT!"
+
+Scene 4 – The Great Ice Cream Heist (19–25 Seconds)
+
+Instead of attacking the girl, the ghost suddenly rushes forward and snatches the entire ice cream tub from her hands.
+
+The girl screams:
+
+Girl: "HEY! THAT'S MINE!"
+
+The ghost grabs the spoon, takes an enormous scoop of ice cream, and eats it.
+
+Its terrifying expression suddenly changes into pure happiness.
+
+Ghost: "Mmmmm... HEAVEN!"
+
+The ghost quickly turns around, jumps backward into the television, and disappears with the ice cream.
+
+The television flashes.
+
+The room returns to its original warm lighting.
+
+Scene 5 – The Sweetest Twist Ending (25–30 Seconds)
+
+The girl stares at her empty hands in disbelief.
+
+Her cat slowly looks at her, then at the television.
+
+She takes a deep breath.
+
+Girl: "I can't believe I just got robbed by a ghost... for ice cream!"
+
+Suddenly, the television turns on again.
+
+Inside the movie, the ghost appears sitting comfortably, happily eating the ice cream with a spoon.
+
+The ghost looks directly at the camera and gives a satisfied thumbs-up.
 ```
 
 </details>
@@ -2647,6 +2784,251 @@ Seedance 2.5 · 文生视频 · 出处: [@Zyrellix on X](https://x.com/Zyrellix/
 ```text
 A cinematic 30-second short film, photorealistic, Korean riverside picnic aesthetic, late afternoon golden hour fading into night.A young East-Asian woman with a short black bob sits cross-legged on a beige gingham picnic blanket on green grass beside a wide river. Behind her: a long blue bridge, distant city skyline, and a tall tower. She wears an oversized white-and-blue pinstripe shirt, loose black necktie, sheer tulle overskirt, dark mini skirt, white socks, and black loafers. In front of her: a plastic cup of iced cola, a cardboard fried-chicken box, a small fluffy pom-pom, and extra chicken pieces.A chubby gray-and-white tabby cat wearing a knitted beige tiger hat with ears, stripes, and cartoon teeth sits and walks on the blanket.Shot 1 (0–3s): Wide shot. Girl calmly eats a fried chicken drumstick. The cat rolls on its back, then stands and walks toward her, staring at the chicken.Shot 2 (3–6s): Girl looks at the cat and says clearly in English, soft but firm: “No. This is mine.” The cat rears up on hind legs and bats at her arm like a tiny tiger.Shot 3 (6–10s): Wind blows her hair. She flinches, eyes squeezed shut, mouth open in a comic yell as the cat slaps her sleeve, then she sighs and says clearly: “Okay, okay. Eat. Just eat.”
 Shot 4 (10–16s): Cat grabs a drumstick from the box with both paws, sits upright like a person, and nibbles it with eyes half-closed, blissful. Girl watches, then takes another bite of her own chicken.Shot 5 (16–19s): Girl stands up, gathers her tulle skirt, and says clearly: “I’ll come back. Leave it.” She walks out of frame to the left. Cat stays sitting, still holding the drumstick.Shot 6 (19–23s): Time-lapse. Sky turns orange sunset, then deep blue dusk. City lights and bridge lights bloom. Cat finishes eating, flops onto its side, rolls on the blanket, belly up, hat still on.Shot 7 (23–30s): Night. Close-up of the cat sitting neatly on the blanket beside leftover chicken and the cola cup. Soft city bokeh behind. Cat looks slightly guilty, then looks at the empty space where the girl sat, ears drooping. No more dialogue. Soft ambient river wind and distant city hum. End on a still close-up of the tiger-hatted cat.
+```
+
+</details>
+
+<a id="seedance-pink-paint-classroom-chaos"></a>
+### 恶作剧的女学生捂嘴偷笑，站在美术教室里
+
+<a href="https://x.com/ElsaSofia__AI/status/2121784335347171622"><img src="../../previews/seedance-pink-paint-classroom-chaos.jpg" width="360"></a>
+
+按时间段排列的分镜，每个节拍都有自己的机位，并要求每个镜头保持同一张脸、发型、校服和饮料杯，角色在剪切之间因此保持稳定。两句英文台词原样写出，让对白和字幕落在准确的节拍上。
+
+Seedance 2.5 · 文生视频 · 出处: [@ElsaSofia__AI on X](https://x.com/ElsaSofia__AI/status/2121784335347171622) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`korean`](tags.md#tag-korean) [`school-comedy`](tags.md#tag-school-comedy) [`slapstick`](tags.md#tag-slapstick) [`paint`](tags.md#tag-paint)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+THE PINK PAINT CLASSROOM CHAOS — KOREAN SCHOOL COMEDY
+
+Duration: 30.6 seconds
+Aspect Ratio: 16:9
+
+Style: Photorealistic Korean live-action school comedy, cinematic slapstick, realistic physical action.
+
+1. CHARACTER REFERENCE AND CONSISTENCY
+
+Main Girl — Black-haired Student
+
+A young adult Korean female student with shoulder-length straight black hair, soft bangs, and a calm expression. She wears a beige school blazer with a school emblem, a navy V-neck sweater vest, a white collared shirt, a burgundy necktie, a dark navy plaid pleated skirt, white socks, and black loafers.
+
+She carries a light peach-colored drink cup with a green lid and straw. Throughout the chaotic scene, she remains surprisingly calm and keeps drinking her beverage.
+
+Preserve her exact face, black hairstyle, beige blazer, navy vest, tie, skirt, and drink cup in every shot.
+
+Second Girl — Long Brown-haired Student
+
+A young Korean female student with long straight chestnut-brown hair. She wears a white collared shirt with a large dark plaid bow, a dark plaid pleated skirt, white knee-high socks, and black school shoes.
+
+Initially she looks playful and mischievous. During the prank, her white shirt, hair, and body become covered in bright pink paint. Her appearance gradually changes into a completely pink, paint-covered student.
+
+Male Student — Blond-haired Boy
+
+A young Korean male student with short bleached-blond hair, wearing a beige school blazer, navy sweater vest, white shirt, dark tie, and dark trousers. His face and clothing become covered in bright pink paint during the chaos.
+
+Other Students
+
+Several Korean male and female students in matching beige school blazers, navy sweaters, white shirts, ties, and dark plaid skirts or trousers. They watch, laugh, react, and become involved in the classroom chaos.
+
+2. LOCATION AND ENVIRONMENT
+
+A large Korean school art classroom with:
+
+- Green-painted floor.
+- Large wooden worktables and wooden chairs.
+- Whiteboard at the front.
+- Large windows allowing natural daylight.
+- Art easels and painting equipment.
+- A classroom entrance with double doors.
+- Large paint containers and buckets.
+- Brushes, art supplies, and scattered classroom materials.
+
+Bright pink paint spreads across the green floor during the incident. Wooden furniture is moved and overturned during the chaos.
+
+Maintain the same classroom architecture, windows, doors, furniture, and lighting throughout.
+
+3. SHOT-BY-SHOT SEQUENCE
+
+SHOT 1 — 0–1.5 SECONDS: THE MISCHIEVOUS GIRL
+
+Begin with a close-up of the long brown-haired Korean schoolgirl wearing a white shirt and large dark plaid bow.
+
+She stands inside the art classroom, smiling mischievously and covering part of her mouth with one hand as if trying not to laugh.
+
+Other students are visible out of focus behind her. Use a shallow-depth-of-field cinematic close-up.
+
+SHOT 2 — 1.5–3 SECONDS: THE TRAP AT THE DOOR
+
+Cut to a rear wide shot of the classroom entrance.
+
+The black-haired girl wearing a beige school blazer and navy sweater vest walks toward the doorway while calmly drinking from her peach-colored cup through a straw.
+
+A large metal bucket filled with bright pink paint is positioned above the entrance. As she approaches and passes underneath, the bucket begins to fall and tilt.
+
+Show the bucket moving downward above the doorway while the girl continues holding her drink.
+
+SHOT 3 — 3–5 SECONDS: THE PINK PAINT EXPLOSION
+
+Cut to a low-angle shot from inside the classroom.
+
+The pink paint bucket falls and spills its contents dramatically. Bright pink paint splashes across the green classroom floor and nearby students.
+
+The long brown-haired girl and other students react with shock. One student crouches and another falls backward. A large puddle of pink paint spreads across the floor.
+
+Show the bucket tumbling through the air and the pink liquid splashing realistically.
+
+SHOT 4 — 5–7 SECONDS: THE CALM GIRL
+
+Cut to a close-up of the black-haired girl holding her peach-colored drink.
+
+She stands completely calm, takes another sip through the straw, and looks forward with a neutral expression.
+
+She says casually:
+
+"You're welcome."
+
+Keep the English subtitle exactly as shown in the reference style.
+
+The pink paint-covered classroom remains softly visible behind her.
+
+SHOT 5 — 7–10 SECONDS: THE PINK-PAINTED GIRL REACTS
+
+Cut to a close-up of the long brown-haired girl.
+
+Her white school shirt is splattered with bright pink paint, including her shoulder, chest, and hair.
+
+She looks down at the paint on her uniform, then raises her face and shouts angrily with an exaggerated comedic expression.
+
+Her long brown hair and plaid bow remain recognizable despite the paint.
+
+SHOT 6 — 10–13 SECONDS: THE PINK-FACED BOY
+
+Cut to a medium action shot.
+
+A blond-haired male student with his face covered in bright pink paint suddenly charges forward inside the classroom.
+
+The black-haired girl quickly ducks and moves out of his way while still holding her drink cup.
+
+The boy's arms extend outward as he loses control of his movement. Nearby wooden tables and chairs are pushed and disturbed.
+
+Use fast but readable physical comedy.
+
+SHOT 7 — 13–17 SECONDS: CLASSROOM FIGHT AND CHAOS
+
+A wider shot reveals the classroom in complete disorder.
+
+The black-haired girl dodges an approaching student. Another student is knocked backward onto a wooden table, causing it to slide and tip.
+
+Bright pink paint covers a large section of the green floor. Students run and stumble around the room.
+
+The girl continues moving through the chaos while holding her peach-colored drink.
+
+Maintain clear positions and realistic physical movement.
+
+SHOT 8 — 17–20 SECONDS: STUDENTS COLLIDE
+
+Cut to a wide shot near the center of the classroom.
+
+Two female students in beige school blazers and dark plaid skirts collide while struggling with each other. Their feet slide through the pink paint.
+
+One student loses her balance and falls. Their skirts and white socks move naturally during the fall.
+
+Other students react from behind the desks.
+
+SHOT 9 — 20–23 SECONDS: THE BLACK-HAIRED GIRL WATCHES
+
+Cut to a medium shot of the black-haired girl standing near the classroom entrance.
+
+She casually drinks from her peach-colored cup while watching the long brown-haired girl covered in pink paint.
+
+The pink-haired-looking student is down on the floor beside a fallen metal paint container. Bright pink paint is spread across the floor and her clothes.
+
+The black-haired girl remains completely calm.
+
+SHOT 10 — 23–27 SECONDS: THE SAME HAIR COLOR JOKE
+
+Cut to a low-angle medium close-up.
+
+The pink-paint-covered girl is sitting or kneeling on the floor, her long hair completely coated in bright pink paint.
+
+The black-haired girl stands beside her, holding her drink in one hand.
+
+She gently picks up a strand of her own black hair with the other hand and compares it with the pink-painted girl's hair.
+
+She says:
+
+"Wow, our hair's the same color."
+
+Display the English subtitle in the same style as the reference video.
+
+The pink-covered girl looks upward at her while the black-haired girl remains expressionless and casually drinks.
+
+SHOT 11 — 27–30.6 SECONDS: THE FINAL CLASSROOM CHAOS
+
+The black-haired girl calmly walks toward the classroom exit, still holding her drink.
+
+Behind her, the pink-painted girl remains on the floor surrounded by bright pink paint.
+
+Cut to a wide view of the entire classroom. Several students and male classmates are now down on their knees, their hands touching the pink paint spread across the floor.
+
+Some students are covered in pink paint, and the classroom furniture is scattered around.
+
+End with a wide cinematic shot showing the pink-covered classroom, the students kneeling in the mess, and the black-haired girl remaining calm.
+
+4. VISUAL EFFECTS AND PHYSICAL DETAILS
+
+The bright pink paint must look thick, wet, glossy, and realistic.
+
+Show:
+
+- Pink paint splashing from the falling bucket.
+- Paint spreading across the green floor.
+- Pink stains appearing on uniforms, hair, and faces.
+- The metal bucket rolling across the floor.
+- Wooden tables and chairs moving during the chaos.
+- Realistic slipping, falling, and recovering movements.
+
+Do not turn the paint into magical energy or supernatural effects.
+
+5. CAMERA AND CINEMATOGRAPHY
+
+Use photorealistic Korean school-comedy cinematography.
+
+- Close-up of the mischievous brown-haired girl.
+- Rear wide shot of the classroom entrance.
+- Low-angle shot of the falling paint bucket.
+- Close-up of the black-haired girl drinking.
+- Facial close-up of the pink-covered girl.
+- Dynamic medium shots during the classroom chaos.
+- Wide shots showing students and furniture.
+- Final low-angle comparison of black and pink hair.
+- Wide concluding classroom shot.
+
+Use natural daylight from the classroom windows, realistic skin textures, natural hair movement, accurate liquid physics, and cinematic depth of field.
+
+6. AUDIO AND DIALOGUE
+
+Include:
+
+- Quiet classroom ambience.
+- Bucket falling and metal impact.
+- Loud pink paint splashing.
+- Students gasping, laughing, and shouting.
+- Footsteps and sliding shoes on wet paint.
+- Wooden desks and chairs moving.
+- The black-haired girl's calm dialogue: "You're welcome."
+- Final dialogue: "Wow, our hair's the same color."
+
+Preserve these two English lines exactly. No additional narration.
+
+7. STRICT NEGATIVE PROMPT
+
+No zombies, no meteors, no fantasy powers, no blue lightning, no guns, no weapons, no outdoor scenes, no changing classroom layout, no changing school uniforms, no changing character identities, no changing black-haired girl's hairstyle, no changing brown-haired girl's hairstyle, no random hair colors, no additional main characters, no duplicated students, no extra limbs, no distorted faces, no cartoon style, no anime style, no random text, no watermark.
+
+FINAL OUTPUT: A coherent 30.6-second photorealistic Korean school-comedy video. Reproduce the exact progression: mischievous brown-haired girl, black-haired girl entering with her drink, pink paint bucket falling at the classroom entrance, pink paint spreading across the floor, the calm girl saying "You're welcome," the paint-covered students becoming involved in a chaotic classroom fight, the black-haired girl comparing her hair with the pink-covered girl's hair and saying "Wow, our hair's the same color," and the final wide shot of the pink-covered classroom and students on the floor.
 ```
 
 </details>

@@ -1,0 +1,56 @@
+id: gpt-image-2-6-stay-warm-shared-scarf
+title:
+  en: Chunky yellow scarf links two pencil sketched figures
+  zh: 黄色针织围巾连接两个铅笔素描人物
+model: GPT Image 2.6
+mode: text-to-image
+category: poster
+tags:
+- mixed-media
+- fashion-poster
+- knitwear
+- editorial
+source:
+  name: '@MrLarus on X'
+  url: https://x.com/MrLarus/status/2120192333148987761
+  credit: Larus Canus
+  likes: 135
+  captured: '2026-11-17'
+  posted: '2026-11-10'
+notes:
+  en: The prompt sets a photoreal material against graphite line art, so only the scarf looks real while the people stay hand drawn. Naming the accent colour and asking for the fabric to fill 45 to 60 percent of the frame keeps the knit as one bold sculptural shape.
+  zh: 提示词将写实面料与石墨线稿并置，只有围巾呈现真实质感，人物保持手绘风格。指定强调色并让面料占据画面 45 到 60% 的面积，使针织物成为一个醒目的雕塑式主体。
+prompt: |
+  [REALISTIC MATERIAL]: {Silk satin / Chunky knitwear / Sailcloth / Other fabrics}
+
+  [ILLUSTRATED SUBJECT]: {Fashion model / Surfer / Two people / Sailor}
+
+  [VISUAL INTERACTION]: {Describe how the real fabric transforms, flows, wraps around, or interacts with the illustrated subject}
+
+  [ACCENT COLOR]: {Scarlet Red / Cobalt Blue / Butter Yellow / Emerald Green}
+
+  [HEADLINE]: {Short English title, 1–3 words}
+
+  [TAGLINE]: {One short, meaningful English sentence}
+
+  [ASPECT RATIO]: 9:16 vertical
+
+  Create a premium mixed-media editorial poster combining photorealistic fabric photography with elegant hand-drawn pencil illustrations.
+
+  The central concept is a striking collision between 2D sketches and 3D reality. Render the [ILLUSTRATED SUBJECT] as refined black graphite line art with natural proportions, expressive poses, delicate shading, and sophisticated fashion-editorial aesthetics.
+
+  Render the [REALISTIC MATERIAL] with exceptional photographic realism. Preserve authentic fibers, surface texture, folds, thickness, highlights, shadows, and natural material behavior. Use [ACCENT COLOR] as the dominant visual anchor.
+
+  The fabric must physically interact with the illustration through [VISUAL INTERACTION]. Let realistic material emerge from sketched outlines, wrap around illustrated figures, overlap drawn elements, or transform into functional objects. Ensure convincing contact points, perspective, occlusion, and soft cast shadows.
+
+  Composition: Use a warm ivory paper background with subtle texture and generous negative space. Create one bold, sculptural fabric shape occupying approximately 45–60% of the composition. Keep the illustrated subject clearly visible and the visual relationship instantly recognizable.
+
+  Typography: Add [HEADLINE] in large, elegant, high-contrast editorial serif typography, inspired by luxury fashion magazines. Place [TAGLINE] beneath it in smaller refined italic text. Allow subtle interaction between the fabric and typography while keeping all words readable. English text only.
+
+  Lighting: Soft directional studio lighting, realistic material reflections, natural shadow depth, and rich but controlled color contrast.
+
+  The final result should feel like an internationally acclaimed fashion editorial: artistic, tactile, sophisticated, visually surprising, and immediately engaging.
+
+  Avoid: Fully photorealistic people, cartoon characters, cheap CGI textures, floating fabrics without physical connections, cluttered backgrounds, excessive decoration, distorted anatomy, unreadable typography, extra text, logos, watermarks, numbering, and glass effects.
+
+  Key principle: The fabric feels real. The characters remain hand-drawn. Their physical interaction makes the impossible feel believable.

@@ -1,0 +1,35 @@
+id: seedance-pregnant-hospital-family-comedy
+title:
+  en: Pregnant woman resting in hospital bed by ultrasound
+  zh: 孕妇躺在病床上，身旁是超声设备
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- pregnancy
+- hospital
+- pixar-style
+- family
+source:
+  name: '@Zarnab_with_Ai on X'
+  url: https://x.com/Zarnab_with_Ai/status/2120348100263035383
+  credit: Zarnab_with_Ai
+  captured: '2026-11-17'
+  posted: '2026-11-11'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Zarnab_with_Ai/status/2120348100263035383
+notes:
+  en: The prompt uses a story beat paragraph followed by a fixed style block (Pixar-style 3D, soft lighting, vertical 9:16) and an explicit instruction to keep character designs and outfits identical across shots, which keeps the look stable through the cuts.
+  zh: 提示词先写剧情段落，再接一段固定的风格说明（皮克斯风3D、柔光、竖版9:16），并明确要求各镜头中角色外形和服装保持一致，使画面风格在切镜时保持稳定。
+prompt: |
+  Create a heartwarming and emotional 3D animated family comedy story set in a colorful hospital.
+
+  A young pregnant woman arrives at the hospital with her husband. The husband is nervous and anxious as doctors examine his wife. Meanwhile, a curious little baby wearing a bright yellow backpack wanders through the hospital corridors, creating funny and unexpected moments.
+
+  The story follows the couple's emotional journey, hospital scenes, funny baby reactions, and the excitement of welcoming a newborn. Show the husband waiting anxiously, doctors assisting the mother, and the family experiencing emotional and humorous surprises.
+
+  Use expressive facial animations, adorable baby characters, cinematic camera movements, vibrant colorful environments, soft lighting, detailed textures, and high-quality Pixar-style 3D animation.
+
+  Maintain consistent character designs, outfits, and appearances throughout all scenes. Create smooth transitions between shots, emotional storytelling, and a satisfying heartwarming ending.
+
+  Style: High-quality 3D cartoon animation, cinematic storytelling, family comedy, emotional expressions, 4K detail, vertical 9:16 format.

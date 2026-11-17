@@ -104,34 +104,34 @@ Authentic luxury fashion campaign photography, bold editorial framing, natural p
 - [Seedream 5.5](#spotlight)
 - [最近新增](#recent)
 - [按模型](#bymodel)
-- [视频提示词](#video) (1154 条)
-  - [电影感场景与短片](#vid-cinematic) (170)
-  - [动作、追逐与运动](#vid-action) (233)
-  - [科幻与奇幻](#vid-scifi-fantasy) (99)
-  - [动漫与动画](#vid-anime) (82)
-  - [广告与产品](#vid-commercial) (136)
-  - [对白与口播](#vid-dialogue) (57)
+- [视频提示词](#video) (1177 条)
+  - [电影感场景与短片](#vid-cinematic) (178)
+  - [动作、追逐与运动](#vid-action) (236)
+  - [科幻与奇幻](#vid-scifi-fantasy) (101)
+  - [动漫与动画](#vid-anime) (83)
+  - [广告与产品](#vid-commercial) (137)
+  - [对白与口播](#vid-dialogue) (59)
   - [音乐与舞蹈](#vid-music-dance) (50)
-  - [手机实拍与 Vlog](#vid-vlog) (186)
+  - [手机实拍与 Vlog](#vid-vlog) (191)
   - [自然、旅行与航拍](#vid-nature) (12)
-  - [动物与萌宠](#vid-animal) (31)
+  - [动物与萌宠](#vid-animal) (32)
   - [特效与变身转场](#vid-vfx) (98)
-- [图片提示词](#image) (1439 条)
-  - [海报与编辑排版](#img-poster) (209)
+- [图片提示词](#image) (1453 条)
+  - [海报与编辑排版](#img-poster) (215)
   - [信息图与幻灯片](#img-infographic) (95)
   - [手机与界面截图](#img-ui-mockup) (30)
   - [产品图与电商](#img-product) (79)
   - [标志、广告与包装](#img-brand) (28)
-  - [写实照片](#img-realism) (135)
-  - [人像](#img-portrait) (287)
-  - [角色与手办](#img-character) (112)
-  - [插画](#img-illustration) (121)
+  - [写实照片](#img-realism) (136)
+  - [人像](#img-portrait) (288)
+  - [角色与手办](#img-character) (113)
+  - [插画](#img-illustration) (122)
   - [漫画与分镜](#img-comic) (21)
-  - [照片转艺术风格](#img-photo-to-art) (112)
+  - [照片转艺术风格](#img-photo-to-art) (113)
   - [建筑与室内](#img-architecture) (24)
   - [地图](#img-map) (15)
-  - [拼贴](#img-collage) (106)
-  - [照片编辑](#img-edit) (65)
+  - [拼贴](#img-collage) (108)
+  - [照片编辑](#img-edit) (66)
 - [Agent 配方：剪视频](#recipes) (5 条)
 - [指南与 skill](#guides)
 - [用 Agent 做 3D](#threed)
@@ -141,28 +141,28 @@ Authentic luxury fashion campaign photography, bold editorial framing, natural p
 <a id="recent"></a>
 ## 最近新增
 
-- 2026-11-11 · [霍格沃茨图书馆烛光中微笑的斯莱特林少女](pages/zh/image-character.md#seedream-5-5-slytherin-library-smile) · Seedream 5.5
-- 2026-11-11 · [秃头男子在曼哈顿人行道上大步走向镜头](pages/zh/video-action.md#seedance-steadicam-impossible-physics-stunt) · Seedance 2.5
-- 2026-11-11 · [摄政时代舞会少女，穿 Claude 衫、头戴胖丁](pages/zh/video-cinematic.md#omni-regency-ballroom-claude-shirt-jigglypuff) · Gemini Omni Flash
-- 2026-11-11 · [扁平讲解动画开场：问号与空白海报](pages/zh/video-commercial.md#h3-flat-explainer-question-poster-opening) · MiniMax H3
-- 2026-11-11 · [像素机械爪吊起穿睡衣的熟睡女子](pages/zh/video-commercial.md#wan-pixel-claw-pajama-lift) · Wan 3.0
-- 2026-11-11 · [三只小猪挡住狼，结尾亮出住宅品牌](pages/zh/video-commercial.md#h3-three-pigs-housing-brand-reveal) · MiniMax H3
-- 2026-11-11 · [坐在混凝土台阶上的女子](pages/zh/image-portrait.md#gpt-image-seated-woman-concrete-stairs-pantyhose) · GPT Image 2.5
-- 2026-11-11 · [女子手持干花站在苏联公交车旁](pages/zh/image-portrait.md#seedream-5-5-woman-dried-flowers-soviet-bus) · Seedream 5.5
-- 2026-11-11 · [女子站在门口抱着粉色芍药花束](pages/zh/image-portrait.md#gpt-image-polaroid-peony-bouquet-doorway) · GPT Image 2.5
-- 2026-11-11 · [橙色T恤女孩比耶眨眼吐舌](pages/zh/image-portrait.md#nano-banana-good-vibes-wink-peace-sign) · Nano Banana 2.1
-- 2026-11-11 · [穿蓝色上衣和迷你裙的女子站在前台](pages/zh/image-realism.md#gpt-image-reception-blue-top-mini-skirt) · GPT Image 2.5
-- 2026-11-11 · [棉絮毛毡运河小镇与睡莲](pages/zh/image-illustration.md#gpt-image-cotton-wool-felt-canal-town) · GPT Image 2.5
+- 2026-11-17 · [精灵女战士快速完成晨间战前准备蒙太奇](#seedance-elf-morning-routine) · Seedance 2.5
+- 2026-11-17 · [Ram 和 Rem 的 macOS 桌面壁纸](pages/zh/video-anime.md#wan-ram-rem-macos-desktop) · Wan 3.0
+- 2026-11-17 · [幽灵从电视爬出抢走冰淇淋](pages/zh/video-dialogue.md#wan-ghost-steals-ice-cream-tv) · Wan 3.0
+- 2026-11-17 · [夜里猫在沉睡的房子里闯祸](pages/zh/video-animal.md#kling-night-cat-chaos-chase) · Kling 4.0
+- 2026-11-17 · [佛罗伦萨主教座堂照片配橡皮章旅行笔记](pages/zh/image-poster.md#gpt-image-florence-stamp-field-notes) · GPT Image 2.5
+- 2026-11-17 · [长矛战士与巨汉对峙于破裂的马赛克竞技场](pages/zh/video-action.md#wan-spear-brawler-mosaic-arena-fight) · Wan 3.0
+- 2026-11-17 · [森林公路照片与插画版对照海报](pages/zh/image-poster.md#gpt-image-road-trip-vibes-poster) · GPT Image 2.5
+- 2026-11-17 · [泰姬陵与巨型字母T双重曝光海报](pages/zh/image-poster.md#gpt-image-2-6-taj-mahal-giant-t-poster) · GPT Image 2.6
+- 2026-11-17 · [Flipkart 活动海报，行走模特与商品拼贴](pages/zh/image-poster.md#nano-banana-flipkart-more-to-explore-collage) · Nano Banana 2.1
+- 2026-11-17 · [黄色针织围巾连接两个铅笔素描人物](pages/zh/image-poster.md#gpt-image-2-6-stay-warm-shared-scarf) · GPT Image 2.6
+- 2026-11-17 · [同一位卷发角色的两幅表情肖像](pages/zh/image-character.md#gpt-image-curly-redhead-two-expressions) · GPT Image 2.5
+- 2026-11-17 · [日落时带伞的金布小船](pages/zh/image-realism.md#gpt-image-2-6-golden-leaf-boat-sunset) · GPT Image 2.6
 
 <a id="bymodel"></a>
 ## 按模型
 
-- [Seedance 2.5](https://agentcraft.dev/zh/prompts/video/seedance-2-5/): 659 条提示词，每条附成品和出处
+- [Seedance 2.5](https://agentcraft.dev/zh/prompts/video/seedance-2-5/): 678 条提示词，每条附成品和出处
 - [MiniMax H3](https://agentcraft.dev/zh/prompts/video/minimax-h3/): 315 条提示词，每条附成品和出处
-- [Wan 3.0](https://agentcraft.dev/zh/prompts/video/wan-3-0/): 61 条提示词，每条附成品和出处
-- [Kling 4.0](https://agentcraft.dev/zh/prompts/video/kling-4-0/): 37 条提示词，每条附成品和出处
-- [GPT Image 2.6](https://agentcraft.dev/zh/prompts/image/gpt-image-2-6/): 98 条提示词，其中 43 条是 GIF 动图，每条附成图和出处
-- [Nano Banana 2.1](https://agentcraft.dev/zh/prompts/image/nano-banana-2-1/): 95 条提示词，每条附成品和出处
+- [Wan 3.0](https://agentcraft.dev/zh/prompts/video/wan-3-0/): 64 条提示词，每条附成品和出处
+- [Kling 4.0](https://agentcraft.dev/zh/prompts/video/kling-4-0/): 38 条提示词，每条附成品和出处
+- [GPT Image 2.6](https://agentcraft.dev/zh/prompts/image/gpt-image-2-6/): 107 条提示词，其中 43 条是 GIF 动图，每条附成图和出处
+- [Nano Banana 2.1](https://agentcraft.dev/zh/prompts/image/nano-banana-2-1/): 97 条提示词，每条附成品和出处
 - [Seedream 5.5](https://agentcraft.dev/zh/prompts/image/seedream-5-5/): 20 条提示词，每条附成品和出处
 
 <a id="video"></a>
@@ -249,7 +249,7 @@ Invisible micro-FPV camera skimming less than an inch above the coarse woven bed
 
 </details>
 
-**[全部 170 条](pages/zh/video-cinematic.md)**
+**[全部 178 条](pages/zh/video-cinematic.md)**
 
 <a id="vid-action"></a>
 ## 动作、追逐与运动
@@ -305,7 +305,7 @@ Shot 4: A dramatic, low-angle shot focusing on the basketball hoop as the man, s
 
 </details>
 
-**[全部 233 条](pages/zh/video-action.md)**
+**[全部 236 条](pages/zh/video-action.md)**
 
 <a id="vid-scifi-fantasy"></a>
 ## 科幻与奇幻
@@ -385,32 +385,67 @@ Cinematic sci-fi horror-action short film set in a research laboratory, opens wi
 
 </details>
 
-<a id="seedance-dragon-bakes-bread"></a>
-### 女孩教巨龙烤心形面包
+<a id="seedance-elf-morning-routine"></a>
+### 精灵女战士快速完成晨间战前准备蒙太奇
 
-<a href="https://x.com/ElsaSofia__AI/status/2113089111699673461"><img src="previews/seedance-dragon-bakes-bread.jpg" width="360"></a>
+<a href="https://x.com/GlitterPixely/status/2102028142294483208"><img src="previews/seedance-elf-morning-routine.jpg" width="360"></a>
 
-短而具体：龙的配色、一条硬规则（面包全是心形）、最后落一个情绪词。
+用 REF 参考块绑定单张图片的角色外观，再用 LOCK 行锁定各镜头中的脸部、发型和服装。二十个带时间码的分镜，每一切都标明为硬切，并列出音效层且不加音乐和台词，让节奏由音效带动。
 
-Seedance 2.5 · 文生视频 · 出处: [@ElsaSofia__AI on X](https://x.com/ElsaSofia__AI/status/2113089111699673461) · 1,430 赞，统计于 2026-10-27
+Seedance 2.5 · 图生视频 · 出处: [@GlitterPixely on X](https://x.com/GlitterPixely/status/2102028142294483208) · 1,542 赞，统计于 2026-11-17
 
-[`fantasy`](pages/zh/tags.md#tag-fantasy) [`creature`](pages/zh/tags.md#tag-creature) [`food`](pages/zh/tags.md#tag-food)
+[`fantasy`](pages/zh/tags.md#tag-fantasy) [`montage`](pages/zh/tags.md#tag-montage) [`sound-design`](pages/zh/tags.md#tag-sound-design) [`character-consistency`](pages/zh/tags.md#tag-character-consistency)
 
 <details><summary><b>提示词</b></summary>
 
 ```text
-Photorealistic medieval fantasy film. Warm sunlight, stone cottage, wooden table, iron grill. Colossal dragon with pale pink-white scales, pink spines and golden eyes. All bread must be heart-shaped. Realistic fire, food textures, natural physics.
-0-5s: Heroine arranges raw heart-shaped dough on the grill. Dragon sniffs eagerly, then blasts enormous flames! Fire engulfs the dough. She jumps back: "Whoa! Easy! You're making bread, not dragon food!"
-5-10s: A charred heart-shaped loaf smokes on the grill. Dragon looks guilty, hiding its head. She shows the burnt bread, then smiles and replaces it: "Look. Just a little flame. Can you do that?"
-10-17s: Dragon carefully releases a tiny steady flame beneath the grill. Heart-shaped dough rises, forming a golden crust. Steam rises as dragon watches nervously.
-17-23s: She cuts open the crispy heart-shaped bread, revealing a soft fluffy center. "You did it! Perfect!" Dragon tries to eat it all. She laughs and feeds it a small piece.
-23-30s: Dragon nuzzles her for affection. She strokes its scales, shares more heart-shaped bread. Dragon closes its eyes happily, tail wagging. Wide sunset shot, warm and healing.
-Cinematic lighting, detailed scales, realistic flames, expressive acting. No subtitles, narration, logos or watermark.
+UPLOAD MAP:
+
+@Image
+ 1 = Character A identity, face, hairstyle, outfit, fantasy animation style
+
+30 seconds, 16:9, image-to-video, rapid morning-routine micro-cut montage.
+
+[REF] Preserve
+@Image
+ 1 as Character A: original white-haired elf dragon-slayer, pointed ears, pale hair, face smudges, feathered outfit, soft painterly fantasy animation. No franchise logos or recognizable game symbols.
+
+[BEATS]
+Cut 01, 0.0-1.2s: extreme close-up, her eyes snap open as a tiny smoking dragon-scale alarm charm rattles.
+Cut 02, 1.2-2.2s: she slaps the charm silent without looking; a puff of scale-smoke.
+Cut 03, 2.2-3.6s: she sits up and throws off a rough blanket; feathers on the outfit bounce.
+Cut 04, 3.6-5.0s: water splash across her face, droplets catch dawn light.
+Cut 05, 5.0-6.3s: she drags two quick war-paint smudges under her eyes.
+Cut 06, 6.3-7.6s: she yanks her braid tight; feathers bounce.
+Cut 07, 7.6-8.8s: boot hits the floor, buckle snaps shut.
+Cut 08, 8.8-10.0s: second boot stamps down, shin strap yanks tight.
+Cut 09, 10.0-11.3s: wrist wrap pulls tight between her teeth.
+Cut 10, 11.3-12.6s: armor charm clicks onto her shoulder.
+Cut 11, 12.6-14.0s: belt cinches, small hunting pouch snaps shut.
+Cut 12, 14.0-15.6s: she grabs toast, takes one serious bite like it is battle prep.
+Cut 13, 15.6-17.2s: a little map on the table singes at the dragon mark.
+Cut 14, 17.2-18.6s: she taps the burned mark once and gives a small confirming nod.
+Cut 15, 18.6-20.2s: she swings her weapon strap over her shoulder.
+Cut 16, 20.2-21.8s: brief gleam across a plain blade edge, then it slides home. No markings.
+Cut 17, 21.8-23.4s: feathered cloak settles; she grabs a small pack off a hook.
+Cut 18, 23.4-25.2s: door bursts open into blinding sunrise.
+Cut 19, 25.2-27.2s: she steps onto the threshold, dawn wind lifts a few feathers.
+Cut 20, 27.2-30.0s: held heroic close-up, tiny determined smile, distant dragon shadow crosses the warm sky.
+
+[CAMERA] Fast clean cuts, snappy close-ups, rostrum-style 2D push-ins and pans. No long slow holds except the final heroic frame. Name every cut as a hard cut, not a morph.
+
+[LIGHT] warm dawn light, golden dust motes, soft painted rim light, cozy hut interior shifting to bright outdoor glow.
+
+[AUDIO] No music, no dialogue, no subtitles.
+Ambience: cozy wooden-hut morning room tone, then outdoor dawn wind.
+SFX: <alarm rattle, slap, blanket rustle, water splash, braid tug, boot thud, buckle click, leather wrap pull, charm click, pouch snap, toast crunch, map sizzle, strap slap, blade sheath, door creak, distant dragon rumble>
+
+[LOCK] keep her face, ears, hair, outfit logic, painterly style, and body scale stable across every cut; keep hands simple; no text; no logos; no recognizable game symbols.
 ```
 
 </details>
 
-**[全部 99 条](pages/zh/video-scifi-fantasy.md)**
+**[全部 101 条](pages/zh/video-scifi-fantasy.md)**
 
 <a id="vid-anime"></a>
 ## 动漫与动画
@@ -537,7 +572,7 @@ No storyboard, reference image, sketch, panels, borders, numbers, arrows, annota
 
 </details>
 
-**[全部 82 条](pages/zh/video-anime.md)**
+**[全部 83 条](pages/zh/video-anime.md)**
 
 <a id="vid-commercial"></a>
 ## 广告与产品
@@ -624,7 +659,7 @@ hypnotic, mechanical, intimate.
 
 </details>
 
-**[全部 136 条](pages/zh/video-commercial.md)**
+**[全部 137 条](pages/zh/video-commercial.md)**
 
 <a id="vid-dialogue"></a>
 ## 对白与口播
@@ -790,7 +825,7 @@ Natural ambient audio only: faint breeze, distant birds, the small click of the 
 
 </details>
 
-**[全部 57 条](pages/zh/video-dialogue.md)**
+**[全部 59 条](pages/zh/video-dialogue.md)**
 
 <a id="vid-music-dance"></a>
 ## 音乐与舞蹈
@@ -1002,7 +1037,7 @@ The realism should come from ordinary surroundings, natural expressions, small a
 
 </details>
 
-**[全部 186 条](pages/zh/video-vlog.md)**
+**[全部 191 条](pages/zh/video-vlog.md)**
 
 <a id="vid-nature"></a>
 ## 自然、旅行与航拍
@@ -1353,7 +1388,7 @@ POV flight from a golden eagle soaring over vast mountainous steppe landscapes. 
 
 </details>
 
-**[全部 31 条](pages/zh/video-animal.md)**
+**[全部 32 条](pages/zh/video-animal.md)**
 
 <a id="vid-vfx"></a>
 ## 特效与变身转场
@@ -1630,7 +1665,7 @@ PHASE 5: MINIMALIST BRANDING.
 
 </details>
 
-**[全部 209 条](pages/zh/image-poster.md)**
+**[全部 215 条](pages/zh/image-poster.md)**
 
 <a id="img-infographic"></a>
 ## 信息图与幻灯片
@@ -2199,7 +2234,7 @@ Use the uploaded reference image as the exact facial identity reference. Create 
 
 </details>
 
-**[全部 135 条](pages/zh/image-realism.md)**
+**[全部 136 条](pages/zh/image-realism.md)**
 
 <a id="img-portrait"></a>
 ## 人像
@@ -2244,7 +2279,7 @@ GPT Image 2 · 上传图改图 · 出处: [@tadasgedgaudas on X](https://x.com/t
 
 </details>
 
-**[全部 287 条](pages/zh/image-portrait.md)**
+**[全部 288 条](pages/zh/image-portrait.md)**
 
 <a id="img-character"></a>
 ## 角色与手办
@@ -2369,7 +2404,7 @@ Final output: one polished square image containing a clearly organized 4×4 grid
 
 </details>
 
-**[全部 112 条](pages/zh/image-character.md)**
+**[全部 113 条](pages/zh/image-character.md)**
 
 <a id="img-illustration"></a>
 ## 插画
@@ -2418,7 +2453,7 @@ A crisp, printmaking-like aesthetic with bold outlines and natural deformation. 
 
 </details>
 
-**[全部 121 条](pages/zh/image-illustration.md)**
+**[全部 122 条](pages/zh/image-illustration.md)**
 
 <a id="img-comic"></a>
 ## 漫画与分镜
@@ -2556,7 +2591,7 @@ Do not change my pet’s appearance. Do not turn it into a different animal, car
 
 </details>
 
-**[全部 112 条](pages/zh/image-photo-to-art.md)**
+**[全部 113 条](pages/zh/image-photo-to-art.md)**
 
 <a id="img-architecture"></a>
 ## 建筑与室内
@@ -2751,7 +2786,7 @@ Composition: keep the real person as the central focus, surrounded by chibi stic
 
 </details>
 
-**[全部 106 条](pages/zh/image-collage.md)**
+**[全部 108 条](pages/zh/image-collage.md)**
 
 <a id="img-edit"></a>
 ## 照片编辑
@@ -2834,7 +2869,7 @@ The overall vibe should feel fun, energetic, and feminine.
 
 </details>
 
-**[全部 65 条](pages/zh/image-edit.md)**
+**[全部 66 条](pages/zh/image-edit.md)**
 
 <a id="recipes"></a>
 ## Agent 配方：剪视频
@@ -3005,9 +3040,9 @@ ffmpeg -i samples/night-train-ticket.mp4 -filter_complex "
 <a id="tags"></a>
 ## 按标签浏览
 
-[`portrait`](pages/zh/tags.md#tag-portrait) 233 · [`fashion`](pages/zh/tags.md#tag-fashion) 159 · [`multi-shot`](pages/zh/tags.md#tag-multi-shot) 132 · [`anime`](pages/zh/tags.md#tag-anime) 128 · [`template`](pages/zh/tags.md#tag-template) 125 · [`typography`](pages/zh/tags.md#tag-typography) 115 · [`cinematic`](pages/zh/tags.md#tag-cinematic) 112 · [`handheld`](pages/zh/tags.md#tag-handheld) 105 · [`editorial`](pages/zh/tags.md#tag-editorial) 97 · [`golden-hour`](pages/zh/tags.md#tag-golden-hour) 92 · [`dialogue`](pages/zh/tags.md#tag-dialogue) 91 · [`photorealistic`](pages/zh/tags.md#tag-photorealistic) 87 · [`reference-image`](pages/zh/tags.md#tag-reference-image) 80 · [`character-consistency`](pages/zh/tags.md#tag-character-consistency) 80 · [`christmas`](pages/zh/tags.md#tag-christmas) 76 · [`macro`](pages/zh/tags.md#tag-macro) 75 · [`fantasy`](pages/zh/tags.md#tag-fantasy) 75 · [`photo-edit`](pages/zh/tags.md#tag-photo-edit) 69 · [`infographic`](pages/zh/tags.md#tag-infographic) 69 · [`storyboard`](pages/zh/tags.md#tag-storyboard) 65 · [`vlog`](pages/zh/tags.md#tag-vlog) 64 · [`json-prompt`](pages/zh/tags.md#tag-json-prompt) 64 · [`selfie`](pages/zh/tags.md#tag-selfie) 59 · [`collage`](pages/zh/tags.md#tag-collage) 59 · [`action`](pages/zh/tags.md#tag-action) 58 · [`reference-images`](pages/zh/tags.md#tag-reference-images) 55 · [`miniature`](pages/zh/tags.md#tag-miniature) 55 · [`food`](pages/zh/tags.md#tag-food) 50 · [`comedy`](pages/zh/tags.md#tag-comedy) 49 · [`travel-poster`](pages/zh/tags.md#tag-travel-poster) 49
+[`portrait`](pages/zh/tags.md#tag-portrait) 237 · [`fashion`](pages/zh/tags.md#tag-fashion) 160 · [`multi-shot`](pages/zh/tags.md#tag-multi-shot) 133 · [`anime`](pages/zh/tags.md#tag-anime) 130 · [`template`](pages/zh/tags.md#tag-template) 125 · [`typography`](pages/zh/tags.md#tag-typography) 116 · [`cinematic`](pages/zh/tags.md#tag-cinematic) 113 · [`handheld`](pages/zh/tags.md#tag-handheld) 107 · [`editorial`](pages/zh/tags.md#tag-editorial) 98 · [`golden-hour`](pages/zh/tags.md#tag-golden-hour) 93 · [`dialogue`](pages/zh/tags.md#tag-dialogue) 92 · [`photorealistic`](pages/zh/tags.md#tag-photorealistic) 87 · [`character-consistency`](pages/zh/tags.md#tag-character-consistency) 85 · [`reference-image`](pages/zh/tags.md#tag-reference-image) 81 · [`fantasy`](pages/zh/tags.md#tag-fantasy) 76 · [`christmas`](pages/zh/tags.md#tag-christmas) 76 · [`macro`](pages/zh/tags.md#tag-macro) 75 · [`photo-edit`](pages/zh/tags.md#tag-photo-edit) 69 · [`infographic`](pages/zh/tags.md#tag-infographic) 69 · [`storyboard`](pages/zh/tags.md#tag-storyboard) 65 · [`vlog`](pages/zh/tags.md#tag-vlog) 65 · [`json-prompt`](pages/zh/tags.md#tag-json-prompt) 64 · [`collage`](pages/zh/tags.md#tag-collage) 62 · [`action`](pages/zh/tags.md#tag-action) 59 · [`selfie`](pages/zh/tags.md#tag-selfie) 59 · [`reference-images`](pages/zh/tags.md#tag-reference-images) 55 · [`miniature`](pages/zh/tags.md#tag-miniature) 55 · [`comedy`](pages/zh/tags.md#tag-comedy) 52 · [`food`](pages/zh/tags.md#tag-food) 50 · [`travel-poster`](pages/zh/tags.md#tag-travel-poster) 49
 
-**[全部 3103 个标签](pages/zh/tags.md)**
+**[全部 3129 个标签](pages/zh/tags.md)**
 
 <a id="contributing"></a>
 ## 投稿

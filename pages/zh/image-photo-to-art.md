@@ -1,6 +1,6 @@
 # 照片转艺术风格
 
-[返回目录](../../README_zh.md) · 全部 112 条
+[返回目录](../../README_zh.md) · 全部 113 条
 
 <a id="gpt-image-photo-to-watercolor-travel"></a>
 ### 上半旅行照片，下半同一场景水彩画
@@ -3355,6 +3355,39 @@ crisp butterfly detailing
 cool watercolor tones contrasted with vivid orange butterflies
 textured watercolor paper and handcrafted mixed-media realism
 Overall, the result should feel poetic, airy, elegant, and premium, with the viewer’s eye drawn first to the realistic face, then to the translucent watercolor overlays and butterflies surrounding the subject.
+```
+
+</details>
+
+<a id="nano-banana-watercolor-keffiyeh-coffee-portrait"></a>
+### 红格头巾男子饮咖啡的水彩画
+
+<a href="https://x.com/Faeiz4Ai/status/2121853208205181417"><img src="../../previews/nano-banana-watercolor-keffiyeh-coffee-portrait.jpg" width="360"></a>
+
+提示词把原图和参考图分开：原图决定主体、姿态和构图，参考图提供水彩晕染、墨线和配色。逐项写明要保留的身份、服装和颜色，并禁止照片写实、3D和文字，使结果是手绘画而不是加滤镜的照片。
+
+Nano Banana 2.1 · 上传图改图 · 出处: [@Faeiz4Ai on X](https://x.com/Faeiz4Ai/status/2121853208205181417) · 67 赞，统计于 2026-11-17
+
+[`watercolor`](tags.md#tag-watercolor) [`ink-sketch`](tags.md#tag-ink-sketch) [`style-reference`](tags.md#tag-style-reference) [`portrait`](tags.md#tag-portrait)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Transform the uploaded image into an expressive, high-quality watercolor and ink illustration, using the attached reference image as a STRICT VISUAL STYLE REFERENCE.
+
+Preserve the original subject's exact identity, facial features, proportions, expression, pose, clothing, colors, composition, and all distinctive details. Do not alter or redesign the subject.
+
+Apply the reference's artistic aesthetic: expressive transparent watercolor washes, layered pigments, loose spontaneous brushstrokes, delicate black ink sketch lines, organic paint bleeding, irregular contours, artistic splashes, and scattered pigment droplets.
+
+Reproduce the reference's earthy color palette of terracotta, burnt orange, reddish brown, charcoal black, warm beige, ivory, and muted icy blue.
+
+Use a natural textured ivory watercolor paper background, subtle color washes, and expressive unfinished edges that blend organically into the paper.
+
+The final artwork must look like authentic traditional hand-painted watercolor combined with expressive ink drawing, not a photograph with a filter.
+
+STRICT RULE: Original image determines the subject and composition. Reference image determines the artistic style, colors, textures, brushwork, and painting technique.
+
+No photorealism, no 3D, no CGI, no cartoon, no anime, no identity changes, no facial distortion, no added objects, no text, no logos, no watermarks.
 ```
 
 </details>

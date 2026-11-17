@@ -1,0 +1,49 @@
+id: gpt-image-2-6-vintage-radio-torn-paper-collage
+title:
+  en: Vintage radio in torn paper collage
+  zh: 复古收音机撕纸拼贴
+model: GPT Image 2.6
+mode: image-edit
+category: collage
+tags:
+- collage
+- vintage
+- torn-paper
+- mixed-media
+source:
+  name: '@Goodmanprotocol on X'
+  url: https://x.com/Goodmanprotocol/status/2122624949466923407
+  credit: Saul Goodman
+  likes: 46
+  captured: '2026-11-17'
+  posted: '2026-11-17'
+notes:
+  en: Naming the uploaded photo as the primary source keeps the radio recognizable, while a fixed 3:4 frame and a limited beige, charcoal and accent palette hold the look together. Asking for hand-painted elements at about 30 percent of the frame lets the torn paper openings carry the illustration into the photo.
+  zh: 先指定上传照片为主要视觉来源，保证收音机主体清晰可辨；再限定 3:4 竖版以及米色、炭灰和一两个强调色的有限配色，让拼贴风格统一。要求手绘元素约占画面 30%，让撕纸开口把插画自然过渡到照片中。
+prompt: |
+  VINTAGE TORN-PAPER COLLAGE | PHOTOGRAPHIC ART EDITION
+
+  REFERENCE: Use the uploaded photograph as the primary visual source.
+  ASPECT RATIO: Vertical 3:4.
+
+  Transform the photograph into an artistic mixed-media collage poster inspired by vintage travel magazines, handmade paper compositions, and traditional printmaking.
+
+  1. Composition & Structure
+  Preserve the original subject, natural lighting, perspective, horizon, and spatial relationships. Integrate the photograph into an irregular, organically torn-paper shape. Let the torn edges reveal a warm ivory, textured paper background. Make the paper openings asymmetrical, spontaneous, and naturally layered.
+
+  2. Mixed-Media Treatment
+  Combine realistic photography with hand-painted illustrations, simplified black-and-white silhouettes, subtle ink textures, and expressive color blocks. Let the hand-painted elements occupy approximately 30–35% of the composition while keeping the main subject recognizable and photographic.
+
+  3. Visual Elements
+  Extract meaningful details from the original scene, such as roads, trees, rivers, architecture, landscapes, or surrounding objects. Extend selected elements beyond the photographic boundaries using delicate illustrations, vintage cutouts, and contrasting paper fragments. Use a limited palette of warm beige, muted cream, deep charcoal, and one or two rich accent colors.
+
+  4. Paper & Texture
+  Create authentic overlapping paper layers, rough torn edges, subtle shadows, aged paper grain, screen-print imperfections, and slightly faded ink. The composition should feel physically assembled by hand rather than digitally arranged.
+
+  5. Typography & Negative Space
+  Maintain generous areas of empty paper. Add only a tiny, understated English typewriter-style caption if appropriate. Avoid oversized headlines, decorative logos, watermarks, or excessive text.
+
+  6. Overall Aesthetic
+  Achieve the visual character of an independent art magazine, vintage travel editorial, handmade scrapbook, and experimental screen-printed poster. Keep the composition sophisticated, atmospheric, tactile, and visually balanced.
+
+  IMPORTANT: Avoid simply placing the original photograph inside a rectangular frame. The photograph must blend organically into the torn-paper composition, with irregular paper boundaries and illustrated elements creating a seamless visual transition. Preserve the identity and essential details of the original subject.

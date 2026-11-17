@@ -1,6 +1,6 @@
 # 写实照片
 
-[返回目录](../../README_zh.md) · 全部 135 条
+[返回目录](../../README_zh.md) · 全部 136 条
 
 <a id="gpt-image-coca-cola-tanker-leak-mentos-truck-dashcam"></a>
 ### 可口可乐罐车漏液，旁边是Mentos货车
@@ -1865,6 +1865,25 @@ Nano Banana 2 · 文生图 · 出处: [@oye_samia on X](https://x.com/oye_samia/
 
 ```text
 bright advertising action shot, dark seamless background, harsh flash, high-speed liquid photography, SUPER wide-angle 12mm lens, beautiful brunette shaking and opening a soda can, powerful jet of liquid with splashes and foam bursting out in a long arc, droplets frozen in the air, large splashes and drops flying straight toward the camera, some motion blur
+```
+
+</details>
+
+<a id="gpt-image-2-6-golden-leaf-boat-sunset"></a>
+### 日落时带伞的金布小船
+
+<a href="https://x.com/churvikv/status/2122636815819559091"><img src="../../previews/gpt-image-2-6-golden-leaf-boat-sunset.jpg" width="360"></a>
+
+提示词按顺序列出每个元素（小船、飘动的金色布料、张开的黑伞、金叶、地平线上的太阳），并点明氛围与极简构图，使模型把所有主体放进同一画面。水面倒影把天空的色调延续到水面。
+
+GPT Image 2.6 · 文生图 · 出处: [@churvikv on X](https://x.com/churvikv/status/2122636815819559091) · 97 赞，统计于 2026-11-17
+
+[`sunset`](tags.md#tag-sunset) [`minimalist`](tags.md#tag-minimalist) [`water-reflection`](tags.md#tag-water-reflection)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A single golden leaf floats gently on calm water, creating soft ripples, with a serene sunset in the background casting warm golden hues across the sky and water, evoking a tranquil and peaceful mood in a minimalist composition.
 ```
 
 </details>

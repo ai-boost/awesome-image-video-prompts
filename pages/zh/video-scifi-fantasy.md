@@ -1,6 +1,6 @@
 # 科幻与奇幻
 
-[返回目录](../../README_zh.md) · 全部 99 条 · **1** · [2](video-scifi-fantasy-2.md)
+[返回目录](../../README_zh.md) · 全部 101 条 · **1** · [2](video-scifi-fantasy-2.md)
 
 <a id="seedance-lab-containment-breach"></a>
 ### 实验室收容失效，科幻恐怖
@@ -71,6 +71,66 @@ Cinematic sci-fi horror-action short film set in a research laboratory, opens wi
 > **[29-30s]** Final shot: the three survivors lean against the sealed door, breathing hard, alarm lights flashing red across their exhausted faces. Cut to black.
 >
 > Natural diegetic sound throughout — glass shattering, guttural convulsions, screaming, metal impacts, alarm klaxon, heavy breathing — layered with a tense instrumental score building through the fight and easing at the end. No text overlay, no watermark. Natural handheld camera with realistic shake during action, muted clinical color grading.
+```
+
+</details>
+
+<a id="seedance-elf-morning-routine"></a>
+### 精灵女战士快速完成晨间战前准备蒙太奇
+
+<a href="https://x.com/GlitterPixely/status/2102028142294483208"><img src="../../previews/seedance-elf-morning-routine.jpg" width="360"></a>
+
+用 REF 参考块绑定单张图片的角色外观，再用 LOCK 行锁定各镜头中的脸部、发型和服装。二十个带时间码的分镜，每一切都标明为硬切，并列出音效层且不加音乐和台词，让节奏由音效带动。
+
+Seedance 2.5 · 图生视频 · 出处: [@GlitterPixely on X](https://x.com/GlitterPixely/status/2102028142294483208) · 1,542 赞，统计于 2026-11-17
+
+[`fantasy`](tags.md#tag-fantasy) [`montage`](tags.md#tag-montage) [`sound-design`](tags.md#tag-sound-design) [`character-consistency`](tags.md#tag-character-consistency)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+UPLOAD MAP:
+
+@Image
+ 1 = Character A identity, face, hairstyle, outfit, fantasy animation style
+
+30 seconds, 16:9, image-to-video, rapid morning-routine micro-cut montage.
+
+[REF] Preserve
+@Image
+ 1 as Character A: original white-haired elf dragon-slayer, pointed ears, pale hair, face smudges, feathered outfit, soft painterly fantasy animation. No franchise logos or recognizable game symbols.
+
+[BEATS]
+Cut 01, 0.0-1.2s: extreme close-up, her eyes snap open as a tiny smoking dragon-scale alarm charm rattles.
+Cut 02, 1.2-2.2s: she slaps the charm silent without looking; a puff of scale-smoke.
+Cut 03, 2.2-3.6s: she sits up and throws off a rough blanket; feathers on the outfit bounce.
+Cut 04, 3.6-5.0s: water splash across her face, droplets catch dawn light.
+Cut 05, 5.0-6.3s: she drags two quick war-paint smudges under her eyes.
+Cut 06, 6.3-7.6s: she yanks her braid tight; feathers bounce.
+Cut 07, 7.6-8.8s: boot hits the floor, buckle snaps shut.
+Cut 08, 8.8-10.0s: second boot stamps down, shin strap yanks tight.
+Cut 09, 10.0-11.3s: wrist wrap pulls tight between her teeth.
+Cut 10, 11.3-12.6s: armor charm clicks onto her shoulder.
+Cut 11, 12.6-14.0s: belt cinches, small hunting pouch snaps shut.
+Cut 12, 14.0-15.6s: she grabs toast, takes one serious bite like it is battle prep.
+Cut 13, 15.6-17.2s: a little map on the table singes at the dragon mark.
+Cut 14, 17.2-18.6s: she taps the burned mark once and gives a small confirming nod.
+Cut 15, 18.6-20.2s: she swings her weapon strap over her shoulder.
+Cut 16, 20.2-21.8s: brief gleam across a plain blade edge, then it slides home. No markings.
+Cut 17, 21.8-23.4s: feathered cloak settles; she grabs a small pack off a hook.
+Cut 18, 23.4-25.2s: door bursts open into blinding sunrise.
+Cut 19, 25.2-27.2s: she steps onto the threshold, dawn wind lifts a few feathers.
+Cut 20, 27.2-30.0s: held heroic close-up, tiny determined smile, distant dragon shadow crosses the warm sky.
+
+[CAMERA] Fast clean cuts, snappy close-ups, rostrum-style 2D push-ins and pans. No long slow holds except the final heroic frame. Name every cut as a hard cut, not a morph.
+
+[LIGHT] warm dawn light, golden dust motes, soft painted rim light, cozy hut interior shifting to bright outdoor glow.
+
+[AUDIO] No music, no dialogue, no subtitles.
+Ambience: cozy wooden-hut morning room tone, then outdoor dawn wind.
+SFX: <alarm rattle, slap, blanket rustle, water splash, braid tug, boot thud, buckle click, leather wrap pull, charm click, pouch snap, toast crunch, map sizzle, strap slap, blade sheath, door creak, distant dragon rumble>
+
+[LOCK] keep her face, ears, hair, outfit logic, painterly style, and body scale stable across every cut; keep hands simple; no text; no logos; no recognizable game symbols.
 ```
 
 </details>
@@ -2967,6 +3027,27 @@ A dark fantasy action sequence in a gothic castle courtyard during torrential ra
 
 </details>
 
+<a id="seedance-thorn-wood-glass-figure-encounter"></a>
+### 荆棘木人与琉璃人形在旧屋相遇
+
+<a href="https://x.com/itsSaira_1/status/2121100826894590435"><img src="../../previews/seedance-thorn-wood-glass-figure-encounter.jpg" width="360"></a>
+
+先明确两个角色的材质，荆棘枝条与透明琉璃，再按靠近、互动、粉色光芒浮现的顺序写出动作节拍，让模型有清晰的剧情线。结尾用慢速流动运镜和浅景深统一画面的电影质感。
+
+Seedance 2.5 · 文生视频 · 出处: [@itsSaira_1 on X](https://x.com/itsSaira_1/status/2121100826894590435) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`dark-fantasy`](tags.md#tag-dark-fantasy) [`surreal`](tags.md#tag-surreal) [`glass-figure`](tags.md#tag-glass-figure)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A surreal dark-fantasy cinematic scene featuring a mysterious humanoid creature made entirely of twisted branches, roots, and sharp thorns, encountering a beautiful translucent glass-like humanoid figure with an iridescent rainbow sheen inside an abandoned vintage room. The two figures slowly approach and interact with each other, creating an emotional and mysterious atmosphere. A glowing pink energy begins to emerge as the wooden creature reaches toward the transparent figure. Dreamlike movements, intricate organic textures, soft volumetric light, dramatic shadows, shallow depth of field, atmospheric cinematic lighting, photorealistic details, haunting visual storytelling, slow fluid camera movements, ultra-realistic fantasy filmmaking, 4K.
+
+#AIart #AI #Visualart
+```
+
+</details>
+
 <a id="seedance-time-machine-future-scientist"></a>
 ### 科学家站在发光时光机旁的昏暗实验室
 
@@ -3176,90 +3257,6 @@ Seedance 2.5 · 文生视频 · 出处: [@juliaevee on X](https://x.com/juliaeve
 
 ```text
 A cinematic vertical video starting on a dark, stormy rooftop overlooking a sprawling urban city. A woman in a white and beige traditional robe with long dark hair stands watching a majestic, translucent blue water-dragon coiled in the stormy clouds. The dragon lunges towards her, transitioning into a bright, ethereal realm above the clouds where she floats under a brilliant sun. She draws a glowing circle with a brush on parchment, creating a vortex in the clouds, then summons water spirals that shape into a massive crystalline dragon that dives down toward the city below, creating a giant splash through the cloud layer. Photorealistic, high-end VFX, epic fantasy atmosphere, dynamic camera angles, 8k resolution.
-```
-
-</details>
-
-<a id="seedance-wizard-duck-monster-storyboard"></a>
-### 女巫变成鸭子逃离怪物
-
-<a href="https://x.com/AIwithNatalia/status/2089170554725265625"><img src="../../previews/seedance-wizard-duck-monster-storyboard.jpg" width="360"></a>
-
-七段分镜精确到秒，每个剧情节点都有独立的时间段。对白和音效直接写进对应段落，结尾用一行文字卡收束。
-
-Seedance 2.5 · 文生视频 · 出处: [@AIwithNatalia on X](https://x.com/AIwithNatalia/status/2089170554725265625) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`comedy`](tags.md#tag-comedy) [`storyboard`](tags.md#tag-storyboard) [`timed-beats`](tags.md#tag-timed-beats) [`fantasy`](tags.md#tag-fantasy) [`dialogue`](tags.md#tag-dialogue)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-0–3 sec — Hook
-A young wizard stands frozen in a dark forest as a massive monster charges toward her.
-Wizard: “Ten seconds… that’s all I need!”
-
-3–8 sec — The Spell
-She raises her glowing staff and rapidly chants a magical spell. The monster gets closer and closer.
-
-8–12 sec — Countdown
-Monster: “YOU’RE TOO LATE!”
-The wizard finishes the final word: “TRANSFORMUS!”
-
-12–16 sec — Magic Burst
-A huge explosion of purple light fills the screen. Everything goes silent.
-
-16–21 sec — Twist
-The smoke clears. The monster looks confused.
-Instead of the wizard… there’s a tiny, adorable duck standing in her robes.
-
-21–26 sec — Reaction
-The duck looks down at herself, quacks angrily, and smacks the staff with her wing.
-
-26–30 sec — Punchline
-The monster slowly backs away.
-Monster: “...Honestly, I’m scared of her.”
-The duck suddenly starts chasing him.
-SFX: Quack! Quack! Quack!
-End text:
-✨ Never rush a spell. 🦆
-```
-
-</details>
-
-<a id="seedance-wizard-workshop-transformation"></a>
-### 第一人称巫师工坊与发光药剂
-
-<a href="https://x.com/KICHOCHEZI/status/2098432693222715716"><img src="../../previews/seedance-wizard-workshop-transformation.jpg" width="360"></a>
-
-先用 Blender 白模生成参考视频，锁定运镜、动作时序与空间布局，再用参考图定义材质与光线。要求单镜头连续拍摄并且只拿一瓶药剂，可以保持动作与道具稳定。
-
-Seedance 2.5 · 参考生视频 · 出处: [@KICHOCHEZI on X](https://x.com/KICHOCHEZI/status/2098432693222715716)
-
-[`blender`](tags.md#tag-blender) [`white-model`](tags.md#tag-white-model) [`first-person`](tags.md#tag-first-person) [`reference-video`](tags.md#tag-reference-video)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a 12-second single-take white-model animation in Blender based on the supplied wizard workshop reference. Build the stone walls, wooden shelves, arched window, fireplace, books, astronomical instrument and alchemy table filled with potion bottles. Animate a low first-person viewpoint with exactly one right hand holding one potion. Begin with the bottle near the lower-right edge, look around the workshop and toward the window, raise the potion naturally, pause to examine it, then lower it while turning toward the fireplace and glowing reagents. Export the white-model MP4. Then use PixVerse with Seedance 2.5, referencing the Blender video for camera, action and spatial layout and the supplied images for appearance. Preserve the continuous shot and timing while adding weathered stone, carved wood, worn leather, realistic glass, cool window light, warm fireplace illumination, glowing magical liquids, natural flames, embers, sparks and smoke.
-```
-
-</details>
-
-<a id="seedance-woman-castle-doors-floating-islands"></a>
-### 女子推开城堡大门飞入浮岛天空
-
-<a href="https://x.com/laviniavelle/status/2105889515948921057"><img src="../../previews/seedance-woman-castle-doors-floating-islands.jpg" width="360"></a>
-
-提示词按时间顺序写出镜头：昏暗室内、推门露出风景、奔跑、跃起，镜头全程跟随，让模型有清晰的动作节拍可循。结尾的光影与画质词定下电影感的效果。
-
-Seedance 2.5 · 文生视频 · 出处: [@laviniavelle on X](https://x.com/laviniavelle/status/2105889515948921057)
-
-[`fantasy`](tags.md#tag-fantasy) [`castle`](tags.md#tag-castle) [`floating-islands`](tags.md#tag-floating-islands) [`camera-follow`](tags.md#tag-camera-follow)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Cinematic video of a young woman in an elegant white medieval dress opening large wooden doors from a dark castle interior to reveal a breathtaking sunny landscape with lush green fields a lake and distant mountains She runs out across the grassy field towards a large grand castle The camera follows her as she leaps into the air, gracefully floating into a magical fantasy sky filled with floating islands cascading waterfalls above clouds, and a large glowing pink moon in the surreal sky, 8k resolution, ultra detailed, cinematic lighting.
 ```
 
 </details>

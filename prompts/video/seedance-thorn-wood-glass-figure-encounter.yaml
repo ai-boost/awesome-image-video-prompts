@@ -1,0 +1,26 @@
+id: seedance-thorn-wood-glass-figure-encounter
+title:
+  en: Thorned wood figure meets glass figure in abandoned room
+  zh: 荆棘木人与琉璃人形在旧屋相遇
+model: Seedance 2.5
+mode: text-to-video
+category: scifi-fantasy
+tags:
+- dark-fantasy
+- surreal
+- glass-figure
+source:
+  name: '@itsSaira_1 on X'
+  url: https://x.com/itsSaira_1/status/2121100826894590435
+  credit: itsSaira_1
+  captured: '2026-11-17'
+  posted: '2026-11-13'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/itsSaira_1/status/2121100826894590435
+notes:
+  en: Naming each character's material, thorned branches and translucent glass, then giving a timed beat sequence (approach, interaction, pink glow rising) gives the model a clear storyline to follow. Closing with slow fluid camera moves and shallow depth of field keeps the look consistent across the clip.
+  zh: 先明确两个角色的材质，荆棘枝条与透明琉璃，再按靠近、互动、粉色光芒浮现的顺序写出动作节拍，让模型有清晰的剧情线。结尾用慢速流动运镜和浅景深统一画面的电影质感。
+prompt: |
+  A surreal dark-fantasy cinematic scene featuring a mysterious humanoid creature made entirely of twisted branches, roots, and sharp thorns, encountering a beautiful translucent glass-like humanoid figure with an iridescent rainbow sheen inside an abandoned vintage room. The two figures slowly approach and interact with each other, creating an emotional and mysterious atmosphere. A glowing pink energy begins to emerge as the wooden creature reaches toward the transparent figure. Dreamlike movements, intricate organic textures, soft volumetric light, dramatic shadows, shallow depth of field, atmospheric cinematic lighting, photorealistic details, haunting visual storytelling, slow fluid camera movements, ultra-realistic fantasy filmmaking, 4K.
+
+  #AIart #AI #Visualart

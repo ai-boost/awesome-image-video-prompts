@@ -1,0 +1,27 @@
+id: seedance-bedroom-tour-vlog
+title:
+  en: Smartphone room tour vlog with consistent character and cat
+  zh: 手机视角卧室探访 vlog，人物与猫全程一致
+model: Seedance 2.5
+mode: reference-to-video
+category: vlog
+tags:
+- vlog
+- room-tour
+- reference-image
+- lifestyle
+source:
+  name: '@AIwithSynthia on X'
+  url: https://x.com/AIwithSynthia/status/2089681501852237971
+  credit: AIwithSynthia
+  captured: '2026-11-17'
+  posted: '2026-08-18'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithSynthia/status/2089681501852237971
+notes:
+  en: Locks the character to an uploaded reference image and writes the 30 second vlog as a timed shot list. A continuity checklist repeats the shorts, painting, cat and jewelry so the details hold across cuts, and the negative prompt guards against identity drift.
+  zh: 用上传的参考图锁定人物，并按秒写出分镜。连续性清单重复写明短裤、画作、猫和首饰，让细节在切镜后保持一致，负面提示用于防止人物漂移。
+prompt: "Use the uploaded reference image as the exact character reference. Preserve her facial identity, eye color, skin tone, hairstyle, makeup, body proportions, jewelry, and overall appearance consistently throughout the entire video. She wears a fitted white sleeveless crop top with bright orange shorts in exact color  delicate silver jewelry, and casual home footwear. Keep the orange shorts identical in every scene.\n\nCreate a 30-second ultra-realistic lifestyle room-tour vlog filmed with a handheld smartphone. The atmosphere is warm, personal, playful, and authentic, with natural daylight, cozy bedroom lighting, realistic handheld movement, subtle autofocus shifts, and premium creator-quality cinematography.\n\n0–5s — ROOM INTRO\nShe opens the bedroom door and walks in while filming herself. She smiles at the camera and says, “Come, I'll show you my favorite space.” She gives a quick playful spin, revealing her orange shorts.\n\n5–10s — TWO ROOMS\nShe walks through her first room,\
+  \ showing the cozy bed, vanity, shelves, plants, and decorations. She then walks into her second room and says, “I actually have two little spaces.” Smooth transition between the rooms.\n\n10–14s — WALL PAINTING\nShe stops beside a colorful painting hanging on the wall. She points at it, explains that she loves it, then briefly poses beside it. Camera slowly pushes toward the artwork and back to her face.\n\n14–19s — NEW EARRINGS\nShe sits at her vanity, picks up a new pair of earrings, holds them close to the camera for a detailed close-up, then puts them on and checks herself in the mirror. She smiles and says, “These are my new favorites.”\n\n19–23s — ORANGE OBSESSION\nShe opens a small drawer or accessories box and pulls out an orange hairband. She puts it into her hair, looks at herself in the mirror, and laughs. She says, “I think I'm officially obsessed with orange.” Show subtle orange accents throughout the room.\n\n23–27s — CAT MOMENT\nShe walks back toward the bed and notices\
+  \ her cat. She sits down, gently pets it, plays with it using her hand, and laughs naturally as the cat moves around beside her.\n\n27–30s — FINAL BEDROOM SHOT\nShe relaxes on the bed with the cat beside her, looks into the camera, smiles, and gives a small wave. The camera slowly pulls back, revealing the cozy room, wall painting, orange accents, and warm evening light.\n\nStyle: Ultra-realistic lifestyle vlog, authentic creator energy, natural facial expressions, realistic hair and fabric movement, cozy interior cinematography, warm daylight, shallow depth of field, handheld smartphone feel, smooth transitions, 4K HDR, 24fps, \n\nContinuity: Same girl, same face, same hairstyle, same makeup, same orange shorts, same jewelry, same rooms, same painting, same cat, and consistent props throughout.\n\nNegative Prompt: No subtitles, captions, logos, watermarks, text overlays, facial changes, identity drift, outfit changes, color changes to the shorts, duplicate cat, duplicate people, distorted\
+  \ hands, extra fingers, flickering, unrealistic physics, or artificial-looking skin.\n"

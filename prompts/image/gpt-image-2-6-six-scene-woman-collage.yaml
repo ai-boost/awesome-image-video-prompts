@@ -1,0 +1,44 @@
+id: gpt-image-2-6-six-scene-woman-collage
+title:
+  en: Six scene lifestyle collage of one consistent woman
+  zh: 同一女子六场景生活方式拼图
+model: GPT Image 2.6
+mode: text-to-image
+category: collage
+tags:
+- collage
+- lifestyle
+- portrait
+- character-consistency
+source:
+  name: '@john_my07 on X'
+  url: https://x.com/john_my07/status/2122708731809173839
+  credit: Johnn
+  likes: 22
+  captured: '2026-11-17'
+  posted: '2026-11-17'
+notes:
+  en: A fixed physical description repeated in every frame locks the same face across all six shots, while each panel gets its own location, outfit, pose and camera angle for variety. Naming a compact camera model and grain keeps the set looking like one consistent phone photo shoot.
+  zh: 在每个画面中重复固定的外貌描述来锁定同一张脸，同时为六个画面分别设定场景、服装、姿势和机位以保持变化。指定紧凑型相机型号和颗粒感，让整组画面看起来像同一次手机拍摄。
+prompt: |
+  Create an ultra-realistic 6-photo lifestyle collage featuring the exact same exceptionally beautiful 23-year-old woman in a vertical 2-column × 3-row grid. She has warm olive skin, delicate natural freckles, captivating hazel-green eyes, long, thick chocolate-brown hair with voluminous natural waves, full eyebrows, and soft rosy lips. Maintain identical facial identity and recognizable features in every photograph.
+
+  Six Different Scenes:
+
+  1. Cozy Bedroom Portrait: Lying comfortably on white pillows, wearing a modest white sleeveless top, with loose wavy hair spread naturally around her face. An intimate close-up with direct eye contact and soft morning light.
+
+  2. Elegant Café Morning: Sitting beside a large café window wearing a sophisticated white blazer, holding a cappuccino with both hands. Sunglasses resting on her head, looking outside with a subtle smile.
+
+  3. Rooftop Evening: Standing on a rooftop overlooking a beautifully illuminated city at night, wearing an elegant black evening dress with a tasteful neckline. Looking back over her shoulder with warm city lights behind her.
+
+  4. Convertible Road Trip: Sitting in the passenger seat of a luxury convertible, wearing a white linen outfit and dark sunglasses. One hand casually touching her hair as the breeze moves it naturally.
+
+  5. Cozy Home Moment: Sitting on a sofa wearing an oversized cream knit sweater, resting her cheek against one hand with a relaxed, dreamy expression. Soft flowers and warm ambient lighting in the background.
+
+  6. Luxury Bathroom Evening: Relaxing in a beautiful white bathtub surrounded by gentle candlelight and subtle bubbles, wearing a modest, tasteful bath wrap that provides full chest coverage. Her hair is tied in a loose bun, with a few strands framing her face.
+
+  Photography Style: Premium Instagram lifestyle photography, Canon PowerShot G7 X Mark III aesthetic, realistic skin pores, fine hair details, natural facial expressions, cinematic warm lighting, subtle digital grain, realistic shadows, and candid compositions.
+
+  Identity Consistency: The exact same woman must appear in all six frames. Preserve her facial structure, freckles, hazel-green eyes, skin tone, and chocolate-brown hair. Give each photograph a different pose, expression, camera angle, and environment.
+
+  Output: Vertical 3:4 aspect ratio, exactly six equally sized photographs in a clean 2-column × 3-row grid, perfectly aligned, no gutters, no borders, no text, and no watermark. Photorealistic, elegant, glamorous, youthful, and effortlessly stylish.

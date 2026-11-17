@@ -1,6 +1,6 @@
 # Sci-fi and fantasy
 
-[Back to the list](../../README.md) · All 99 entries · **1** · [2](video-scifi-fantasy-2.md)
+[Back to the list](../../README.md) · All 101 entries · **1** · [2](video-scifi-fantasy-2.md)
 
 <a id="seedance-lab-containment-breach"></a>
 ### Lab containment breach, sci-fi horror
@@ -71,6 +71,66 @@ Cinematic sci-fi horror-action short film set in a research laboratory, opens wi
 > **[29-30s]** Final shot: the three survivors lean against the sealed door, breathing hard, alarm lights flashing red across their exhausted faces. Cut to black.
 >
 > Natural diegetic sound throughout — glass shattering, guttural convulsions, screaming, metal impacts, alarm klaxon, heavy breathing — layered with a tense instrumental score building through the fight and easing at the end. No text overlay, no watermark. Natural handheld camera with realistic shake during action, muted clinical color grading.
+```
+
+</details>
+
+<a id="seedance-elf-morning-routine"></a>
+### Elf heroine speeds through morning battle prep montage
+
+<a href="https://x.com/GlitterPixely/status/2102028142294483208"><img src="../../previews/seedance-elf-morning-routine.jpg" width="360"></a>
+
+A single image reference is locked in a REF block, and a LOCK line keeps face, hair and outfit stable across cuts. Twenty timed beats, each named as a hard cut, plus a listed SFX stack with no music or dialogue let the sound design carry the rhythm.
+
+Seedance 2.5 · Image-to-video · Source: [@GlitterPixely on X](https://x.com/GlitterPixely/status/2102028142294483208) · 1,542 likes on 2026-11-17
+
+[`fantasy`](tags.md#tag-fantasy) [`montage`](tags.md#tag-montage) [`sound-design`](tags.md#tag-sound-design) [`character-consistency`](tags.md#tag-character-consistency)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+UPLOAD MAP:
+
+@Image
+ 1 = Character A identity, face, hairstyle, outfit, fantasy animation style
+
+30 seconds, 16:9, image-to-video, rapid morning-routine micro-cut montage.
+
+[REF] Preserve
+@Image
+ 1 as Character A: original white-haired elf dragon-slayer, pointed ears, pale hair, face smudges, feathered outfit, soft painterly fantasy animation. No franchise logos or recognizable game symbols.
+
+[BEATS]
+Cut 01, 0.0-1.2s: extreme close-up, her eyes snap open as a tiny smoking dragon-scale alarm charm rattles.
+Cut 02, 1.2-2.2s: she slaps the charm silent without looking; a puff of scale-smoke.
+Cut 03, 2.2-3.6s: she sits up and throws off a rough blanket; feathers on the outfit bounce.
+Cut 04, 3.6-5.0s: water splash across her face, droplets catch dawn light.
+Cut 05, 5.0-6.3s: she drags two quick war-paint smudges under her eyes.
+Cut 06, 6.3-7.6s: she yanks her braid tight; feathers bounce.
+Cut 07, 7.6-8.8s: boot hits the floor, buckle snaps shut.
+Cut 08, 8.8-10.0s: second boot stamps down, shin strap yanks tight.
+Cut 09, 10.0-11.3s: wrist wrap pulls tight between her teeth.
+Cut 10, 11.3-12.6s: armor charm clicks onto her shoulder.
+Cut 11, 12.6-14.0s: belt cinches, small hunting pouch snaps shut.
+Cut 12, 14.0-15.6s: she grabs toast, takes one serious bite like it is battle prep.
+Cut 13, 15.6-17.2s: a little map on the table singes at the dragon mark.
+Cut 14, 17.2-18.6s: she taps the burned mark once and gives a small confirming nod.
+Cut 15, 18.6-20.2s: she swings her weapon strap over her shoulder.
+Cut 16, 20.2-21.8s: brief gleam across a plain blade edge, then it slides home. No markings.
+Cut 17, 21.8-23.4s: feathered cloak settles; she grabs a small pack off a hook.
+Cut 18, 23.4-25.2s: door bursts open into blinding sunrise.
+Cut 19, 25.2-27.2s: she steps onto the threshold, dawn wind lifts a few feathers.
+Cut 20, 27.2-30.0s: held heroic close-up, tiny determined smile, distant dragon shadow crosses the warm sky.
+
+[CAMERA] Fast clean cuts, snappy close-ups, rostrum-style 2D push-ins and pans. No long slow holds except the final heroic frame. Name every cut as a hard cut, not a morph.
+
+[LIGHT] warm dawn light, golden dust motes, soft painted rim light, cozy hut interior shifting to bright outdoor glow.
+
+[AUDIO] No music, no dialogue, no subtitles.
+Ambience: cozy wooden-hut morning room tone, then outdoor dawn wind.
+SFX: <alarm rattle, slap, blanket rustle, water splash, braid tug, boot thud, buckle click, leather wrap pull, charm click, pouch snap, toast crunch, map sizzle, strap slap, blade sheath, door creak, distant dragon rumble>
+
+[LOCK] keep her face, ears, hair, outfit logic, painterly style, and body scale stable across every cut; keep hands simple; no text; no logos; no recognizable game symbols.
 ```
 
 </details>
@@ -2967,6 +3027,27 @@ A dark fantasy action sequence in a gothic castle courtyard during torrential ra
 
 </details>
 
+<a id="seedance-thorn-wood-glass-figure-encounter"></a>
+### Thorned wood figure meets glass figure in abandoned room
+
+<a href="https://x.com/itsSaira_1/status/2121100826894590435"><img src="../../previews/seedance-thorn-wood-glass-figure-encounter.jpg" width="360"></a>
+
+Naming each character's material, thorned branches and translucent glass, then giving a timed beat sequence (approach, interaction, pink glow rising) gives the model a clear storyline to follow. Closing with slow fluid camera moves and shallow depth of field keeps the look consistent across the clip.
+
+Seedance 2.5 · Text-to-video · Source: [@itsSaira_1 on X](https://x.com/itsSaira_1/status/2121100826894590435) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`dark-fantasy`](tags.md#tag-dark-fantasy) [`surreal`](tags.md#tag-surreal) [`glass-figure`](tags.md#tag-glass-figure)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A surreal dark-fantasy cinematic scene featuring a mysterious humanoid creature made entirely of twisted branches, roots, and sharp thorns, encountering a beautiful translucent glass-like humanoid figure with an iridescent rainbow sheen inside an abandoned vintage room. The two figures slowly approach and interact with each other, creating an emotional and mysterious atmosphere. A glowing pink energy begins to emerge as the wooden creature reaches toward the transparent figure. Dreamlike movements, intricate organic textures, soft volumetric light, dramatic shadows, shallow depth of field, atmospheric cinematic lighting, photorealistic details, haunting visual storytelling, slow fluid camera movements, ultra-realistic fantasy filmmaking, 4K.
+
+#AIart #AI #Visualart
+```
+
+</details>
+
 <a id="seedance-time-machine-future-scientist"></a>
 ### Scientist beside glowing time machine in dark lab
 
@@ -3136,92 +3217,6 @@ Seedance 2.5 · Reference-to-video · Source: [@Just_sharon7 on X](https://x.com
 21–24s: Rooftop terrace garden framed by a rose-covered arbor. An elderly woman in a grey cardigan waters a bed of vivid flowers with a tin can. Behind her, Venice and the domes of St Mark's Basilica glow at sunset over the lagoon while the inverted city hangs overhead. The young woman balances along the stone balustrade, arms out, then jumps down onto the terrace.
 24–27s: She holds out the yellow envelope. The old woman turns, sets down the watering can, and takes it. Both smile warmly at each other. Rose petals drift upward past them, falling toward the inverted sky.
 27–30s: Camera pulls back and rises fast. The whole city folds and rotates until it becomes a top-down aerial of Venice's canals and streets curling into a sphere. The two tiny figures remain on the terrace. Slow fade to warm light.
-```
-
-</details>
-
-<a id="seedance-wasteland-hourglass-hair-morph"></a>
-### Woman standing among giant wasteland hourglasses
-
-<a href="https://x.com/itsSaira_1/status/2106989829108207864"><img src="../../previews/seedance-wasteland-hourglass-hair-morph.jpg" width="360"></a>
-
-Locking the wardrobe in exhaustive detail while the hair change is described as the only morph keeps the character consistent through the transformation. Flat overcast light, a desaturated palette and slow deliberate camera moves set the mood.
-
-Seedance 2.5 · Text-to-video · Source: [@itsSaira_1 on X](https://x.com/itsSaira_1/status/2106989829108207864) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`wasteland`](tags.md#tag-wasteland) [`hourglass`](tags.md#tag-hourglass) [`character-morph`](tags.md#tag-character-morph) [`photorealistic`](tags.md#tag-photorealistic)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Cinematic wide shot of a cracked, dry wasteland under a flat grey overcast sky. Monumental weathered stone hourglasses, some as tall as buildings, stand across the plain; sand pours steadily inside their glass bulbs. A young woman in a muted blue-grey high-collar tunic with white embroidery, a two-tone grey and cream skirt, tall boots, and wide silver cuff bracelets walks toward the nearest hourglass. She stops, looks up at the falling sand, then checks a thick silver wrist device with growing alarm. Her appearance morphs mid-shot: long brown hair with bangs becomes windblown blonde, then a darker brown, while the outfit stays the same. Close-ups show wide eyes and hands pressed to her temples as small dark particles drift in the air. She turns away, then looks back over her shoulder with a faint, knowing smile. Desaturated earth tones, soft diffused light, shallow depth of field on close-ups, photorealistic, filmic, slow deliberate camera moves.
-
-#AIArt #AIContent #CinematicAI
-```
-
-</details>
-
-<a id="seedance-water-dragon-rooftop-brush-vortex"></a>
-### Woman on rooftop summons crystalline water dragon
-
-<a href="https://x.com/juliaevee/status/2110191663666639097"><img src="../../previews/seedance-water-dragon-rooftop-brush-vortex.jpg" width="360"></a>
-
-The prompt reads as a shot list in time order: storm rooftop, a jump into a sunlit cloud realm, then a brush-drawn circle that becomes the vortex. That gives the model a clear chain of cause and effect, and the specific costume and translucent dragon material keep the subject consistent across cuts.
-
-Seedance 2.5 · Text-to-video · Source: [@juliaevee on X](https://x.com/juliaevee/status/2110191663666639097) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`water-dragon`](tags.md#tag-water-dragon) [`fantasy`](tags.md#tag-fantasy) [`vfx`](tags.md#tag-vfx) [`storm`](tags.md#tag-storm)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A cinematic vertical video starting on a dark, stormy rooftop overlooking a sprawling urban city. A woman in a white and beige traditional robe with long dark hair stands watching a majestic, translucent blue water-dragon coiled in the stormy clouds. The dragon lunges towards her, transitioning into a bright, ethereal realm above the clouds where she floats under a brilliant sun. She draws a glowing circle with a brush on parchment, creating a vortex in the clouds, then summons water spirals that shape into a massive crystalline dragon that dives down toward the city below, creating a giant splash through the cloud layer. Photorealistic, high-end VFX, epic fantasy atmosphere, dynamic camera angles, 8k resolution.
-```
-
-</details>
-
-<a id="seedance-wizard-duck-monster-storyboard"></a>
-### Wizard turns into a duck to escape monster
-
-<a href="https://x.com/AIwithNatalia/status/2089170554725265625"><img src="../../previews/seedance-wizard-duck-monster-storyboard.jpg" width="360"></a>
-
-A seven beat storyboard with exact second ranges gives each story step its own time slot. Dialogue lines and SFX cues are written inline, and an end text card closes the clip.
-
-Seedance 2.5 · Text-to-video · Source: [@AIwithNatalia on X](https://x.com/AIwithNatalia/status/2089170554725265625) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`comedy`](tags.md#tag-comedy) [`storyboard`](tags.md#tag-storyboard) [`timed-beats`](tags.md#tag-timed-beats) [`fantasy`](tags.md#tag-fantasy) [`dialogue`](tags.md#tag-dialogue)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-0–3 sec — Hook
-A young wizard stands frozen in a dark forest as a massive monster charges toward her.
-Wizard: “Ten seconds… that’s all I need!”
-
-3–8 sec — The Spell
-She raises her glowing staff and rapidly chants a magical spell. The monster gets closer and closer.
-
-8–12 sec — Countdown
-Monster: “YOU’RE TOO LATE!”
-The wizard finishes the final word: “TRANSFORMUS!”
-
-12–16 sec — Magic Burst
-A huge explosion of purple light fills the screen. Everything goes silent.
-
-16–21 sec — Twist
-The smoke clears. The monster looks confused.
-Instead of the wizard… there’s a tiny, adorable duck standing in her robes.
-
-21–26 sec — Reaction
-The duck looks down at herself, quacks angrily, and smacks the staff with her wing.
-
-26–30 sec — Punchline
-The monster slowly backs away.
-Monster: “...Honestly, I’m scared of her.”
-The duck suddenly starts chasing him.
-SFX: Quack! Quack! Quack!
-End text:
-✨ Never rush a spell. 🦆
 ```
 
 </details>

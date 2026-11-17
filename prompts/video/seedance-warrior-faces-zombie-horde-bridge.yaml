@@ -1,0 +1,25 @@
+id: seedance-warrior-faces-zombie-horde-bridge
+title:
+  en: Warrior faces zombie horde on sunset bridge
+  zh: 女战士在日落大桥上迎战尸潮
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- zombies
+- plasma-rifle
+- energy-blast
+- cinematic
+source:
+  name: '@laviniavelle on X'
+  url: https://x.com/laviniavelle/status/2121460273374802326
+  credit: laviniavelle
+  captured: '2026-11-17'
+  posted: '2026-11-14'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/laviniavelle/status/2121460273374802326
+notes:
+  en: The prompt sets the location, subject and threat in its first sentence, then orders the action as setup, rifle raise and blast, giving the model a clear sequence to follow. Camera, lighting and texture terms such as smooth camera movement and dramatic lighting lock in the cinematic look.
+  zh: 开头先交代场景、主角和威胁，再按顺序描述举枪和冲击波，为模型提供清晰的动作时序。镜头运动、光线和质感等描述词确定了电影感的画面风格。
+prompt: |
+  Cinematic action shot in 4K, photorealistic style a fierce East Asian female warrior with long dark hair wearing a tactical black leather jacket stands alone in the middle of a jammed abandoned multi lane bridge resembling the Brooklyn Bridge at sunset with a city skyline in the background Abandoned cars and debris are scattered everywhere with fallen zombies on the ground She faces a massive horde of approaching zombies, suddenly raises a futuristic high-tech sci-fi plasma rifle that glows with intense blue electrical energy rings, and fires a massive expanding shockwave blast that knocks back and clears the zombie horde. Smooth camera movement, dramatic lighting, highly detailed textures, cinematic blockbuster look.

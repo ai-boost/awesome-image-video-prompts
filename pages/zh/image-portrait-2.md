@@ -1,6 +1,6 @@
 # 人像
 
-[返回目录](../../README_zh.md) · 全部 287 条 · [1](image-portrait.md) · **2** · [3](image-portrait-3.md)
+[返回目录](../../README_zh.md) · 全部 288 条 · [1](image-portrait.md) · **2** · [3](image-portrait-3.md)
 
 <a id="gpt-image-convenience-store-flash-found-photo"></a>
 ### 深夜便利店里的闪光灯随手拍人像
@@ -3290,6 +3290,45 @@ Nano Banana Pro · 文生图 · 出处: [@i_am_shruti68 on X](https://x.com/i_am
 
 </details>
 
+<a id="gpt-image-2-6-fur-coat-amg-trunk-night"></a>
+### 穿米白毛绒外套的女子倚在打开后备箱的黑色奔驰AMG旁
+
+<a href="https://x.com/mehvishs25/status/2122701314350277015"><img src="../../previews/gpt-image-2-6-fur-coat-amg-trunk-night.jpg" width="360"></a>
+
+在提示词中指明上传的参考图作为身份依据，并要求随性的姿态和iPhone直闪效果，既能保持人物面部一致，也能切换场景。负面提示词用于排除塑料皮肤、过度虚化和僵硬摆拍，这些是这类风格最常见的失败点。
+
+GPT Image 2.6 · 上传图改图 · 出处: [@mehvishs25 on X](https://x.com/mehvishs25/status/2122701314350277015) · 31 赞，统计于 2026-11-17
+
+[`portrait`](tags.md#tag-portrait) [`street-style`](tags.md#tag-street-style) [`night`](tags.md#tag-night) [`fashion`](tags.md#tag-fashion)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a highly photorealistic vertical 3:4 nighttime fashion photograph, using the uploaded reference image as the exact identity reference for the girl. Preserve her original facial features, face shape, eyes, nose, lips, skin tone, and body proportions without any alterations. She must look exactly like the woman in the reference image.
+
+Scene & Composition:
+
+A stylish European city street at night, with the girl casually posing beside a luxurious black Mercedes-Benz AMG with its trunk open. Capture her in a spontaneous, candid moment rather than a deliberate fashion pose. Her body is angled slightly away from the camera, with one knee gently bent and her weight resting naturally on the opposite leg. One hand rests on the open trunk while the other lightly adjusts her sunglasses.
+
+Outfit & Appearance:
+
+She wears a plush ivory cropped fur coat over a fitted white corset-style top, paired with relaxed dark indigo low-rise jeans. Her hair is exceptionally long, thick, and voluminous, swept dramatically over one shoulder with soft natural movement. A few loose strands frame her face.
+
+Her head is tilted slightly downward, eyes looking away from the camera, with a subtle, relaxed expression and naturally parted lips. Her skin has a warm sun-kissed tone, realistic pores, and a healthy natural sheen. Neat short square French-tip nails complete the look.
+
+Photography & Atmosphere:
+
+The image should resemble an authentic luxury street-style photograph taken spontaneously on an iPhone with direct flash. Bright flash illumination on the girl contrasts with the warm golden glow of European streetlights. In the background, softly illuminated buildings, passing vehicles, and subtle reflections create an atmospheric nighttime city setting.
+
+Add delicate film grain, realistic flash shadows, natural color variations, and slight movement in her hair and distant traffic. Maintain sharp facial details and realistic fabric textures.
+
+Visual Direction: Pinterest-inspired luxury street fashion, understated Y2K aesthetic, candid celebrity street-style photography, natural body language, authentic RAW iPhone photography.
+
+Negative Prompt: Different face, altered identity, changed facial proportions, artificial beauty filter, plastic skin, excessive retouching, CGI appearance, unrealistic body proportions, distorted hands, extra fingers, stiff posing, excessive background blur, oversaturated lighting, cartoon appearance, low resolution.
+```
+
+</details>
+
 <a id="gpt-image-2-6-moonlit-lake-hanfu-portrait"></a>
 ### 月夜湖畔水中端坐的古风女子
 
@@ -4195,28 +4234,6 @@ Ultra-realistic expressive oil painting portrait of a handsome young man with me
 The artwork features dramatic warm lighting, cinematic shadows, highly detailed brush strokes, painterly texture, rich impasto oil paint style, modern contemporary art aesthetic, realistic facial anatomy, rugged masculine features, soft glowing skin tones, relaxed pose with one arm resting on his knee.
 
 Background is abstract and artistic with rough palette knife textures and mixed earthy colors. Moody luxury vibe, editorial fashion portrait, museum-quality oil painting, ultra-detailed, high contrast, 8k resolution, masterpiece composition.
-```
-
-</details>
-
-<a id="gpt-image-iphone-candid-dusk-street-snapshot"></a>
-### 黄昏街头模糊的 iPhone 抓拍人像
-
-<a href="https://x.com/Ciri_ai/status/2051292618248904809"><img src="../../previews/gpt-image-iphone-candid-dusk-street-snapshot.jpg" width="360"></a>
-
-提示词把画面设定为随手误拍的 iPhone 照片，并明确要求轻微动态模糊和不均匀的自然光。这些瑕疵加上平凡的构图，让模型避开精修棚拍感，得到可信的抓拍效果。
-
-GPT Image 2 · 文生图 · 出处: [@Ciri_ai on X](https://x.com/Ciri_ai/status/2051292618248904809) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-[`iphone-snapshot`](tags.md#tag-iphone-snapshot) [`candid`](tags.md#tag-candid) [`motion-blur`](tags.md#tag-motion-blur) [`natural-light`](tags.md#tag-natural-light) [`lifestyle`](tags.md#tag-lifestyle)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-I want to see what you really look like.
-Draw a snapshot of your everyday life as if it were accidentally taken on an iPhone.
-Make it feel like a very ordinary, imperfect candid shot.
-The photo should have slight motion blur, with uneven, natural lighting.
 ```
 
 </details>

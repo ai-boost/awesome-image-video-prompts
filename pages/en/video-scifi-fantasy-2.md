@@ -1,6 +1,92 @@
 # Sci-fi and fantasy
 
-[Back to the list](../../README.md) · All 99 entries · [1](video-scifi-fantasy.md) · **2**
+[Back to the list](../../README.md) · All 101 entries · [1](video-scifi-fantasy.md) · **2**
+
+<a id="seedance-wasteland-hourglass-hair-morph"></a>
+### Woman standing among giant wasteland hourglasses
+
+<a href="https://x.com/itsSaira_1/status/2106989829108207864"><img src="../../previews/seedance-wasteland-hourglass-hair-morph.jpg" width="360"></a>
+
+Locking the wardrobe in exhaustive detail while the hair change is described as the only morph keeps the character consistent through the transformation. Flat overcast light, a desaturated palette and slow deliberate camera moves set the mood.
+
+Seedance 2.5 · Text-to-video · Source: [@itsSaira_1 on X](https://x.com/itsSaira_1/status/2106989829108207864) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`wasteland`](tags.md#tag-wasteland) [`hourglass`](tags.md#tag-hourglass) [`character-morph`](tags.md#tag-character-morph) [`photorealistic`](tags.md#tag-photorealistic)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Cinematic wide shot of a cracked, dry wasteland under a flat grey overcast sky. Monumental weathered stone hourglasses, some as tall as buildings, stand across the plain; sand pours steadily inside their glass bulbs. A young woman in a muted blue-grey high-collar tunic with white embroidery, a two-tone grey and cream skirt, tall boots, and wide silver cuff bracelets walks toward the nearest hourglass. She stops, looks up at the falling sand, then checks a thick silver wrist device with growing alarm. Her appearance morphs mid-shot: long brown hair with bangs becomes windblown blonde, then a darker brown, while the outfit stays the same. Close-ups show wide eyes and hands pressed to her temples as small dark particles drift in the air. She turns away, then looks back over her shoulder with a faint, knowing smile. Desaturated earth tones, soft diffused light, shallow depth of field on close-ups, photorealistic, filmic, slow deliberate camera moves.
+
+#AIArt #AIContent #CinematicAI
+```
+
+</details>
+
+<a id="seedance-water-dragon-rooftop-brush-vortex"></a>
+### Woman on rooftop summons crystalline water dragon
+
+<a href="https://x.com/juliaevee/status/2110191663666639097"><img src="../../previews/seedance-water-dragon-rooftop-brush-vortex.jpg" width="360"></a>
+
+The prompt reads as a shot list in time order: storm rooftop, a jump into a sunlit cloud realm, then a brush-drawn circle that becomes the vortex. That gives the model a clear chain of cause and effect, and the specific costume and translucent dragon material keep the subject consistent across cuts.
+
+Seedance 2.5 · Text-to-video · Source: [@juliaevee on X](https://x.com/juliaevee/status/2110191663666639097) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`water-dragon`](tags.md#tag-water-dragon) [`fantasy`](tags.md#tag-fantasy) [`vfx`](tags.md#tag-vfx) [`storm`](tags.md#tag-storm)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A cinematic vertical video starting on a dark, stormy rooftop overlooking a sprawling urban city. A woman in a white and beige traditional robe with long dark hair stands watching a majestic, translucent blue water-dragon coiled in the stormy clouds. The dragon lunges towards her, transitioning into a bright, ethereal realm above the clouds where she floats under a brilliant sun. She draws a glowing circle with a brush on parchment, creating a vortex in the clouds, then summons water spirals that shape into a massive crystalline dragon that dives down toward the city below, creating a giant splash through the cloud layer. Photorealistic, high-end VFX, epic fantasy atmosphere, dynamic camera angles, 8k resolution.
+```
+
+</details>
+
+<a id="seedance-wizard-duck-monster-storyboard"></a>
+### Wizard turns into a duck to escape monster
+
+<a href="https://x.com/AIwithNatalia/status/2089170554725265625"><img src="../../previews/seedance-wizard-duck-monster-storyboard.jpg" width="360"></a>
+
+A seven beat storyboard with exact second ranges gives each story step its own time slot. Dialogue lines and SFX cues are written inline, and an end text card closes the clip.
+
+Seedance 2.5 · Text-to-video · Source: [@AIwithNatalia on X](https://x.com/AIwithNatalia/status/2089170554725265625) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`comedy`](tags.md#tag-comedy) [`storyboard`](tags.md#tag-storyboard) [`timed-beats`](tags.md#tag-timed-beats) [`fantasy`](tags.md#tag-fantasy) [`dialogue`](tags.md#tag-dialogue)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+0–3 sec — Hook
+A young wizard stands frozen in a dark forest as a massive monster charges toward her.
+Wizard: “Ten seconds… that’s all I need!”
+
+3–8 sec — The Spell
+She raises her glowing staff and rapidly chants a magical spell. The monster gets closer and closer.
+
+8–12 sec — Countdown
+Monster: “YOU’RE TOO LATE!”
+The wizard finishes the final word: “TRANSFORMUS!”
+
+12–16 sec — Magic Burst
+A huge explosion of purple light fills the screen. Everything goes silent.
+
+16–21 sec — Twist
+The smoke clears. The monster looks confused.
+Instead of the wizard… there’s a tiny, adorable duck standing in her robes.
+
+21–26 sec — Reaction
+The duck looks down at herself, quacks angrily, and smacks the staff with her wing.
+
+26–30 sec — Punchline
+The monster slowly backs away.
+Monster: “...Honestly, I’m scared of her.”
+The duck suddenly starts chasing him.
+SFX: Quack! Quack! Quack!
+End text:
+✨ Never rush a spell. 🦆
+```
+
+</details>
 
 <a id="seedance-wizard-workshop-transformation"></a>
 ### First person wizard workshop with glowing potion

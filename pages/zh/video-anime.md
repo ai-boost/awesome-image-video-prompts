@@ -1,6 +1,6 @@
 # 动漫与动画
 
-[返回目录](../../README_zh.md) · 全部 82 条
+[返回目录](../../README_zh.md) · 全部 83 条 · **1** · [2](video-anime-2.md)
 
 <a id="seedance-two-friends-bedsheet-ghost-prank"></a>
 ### 手机镜头拍下两个朋友和床单鬼的恶作剧
@@ -545,6 +545,57 @@ Create a polished 15-second anime sports-game player stats screen opening. Use o
 Use crisp premium game-UI motion, clean 2D anime character animation, subtle depth between Kaze and the interface, and stable legible typography. Keep every panel, icon, label, number, and geometric boundary fixed once revealed. Do not introduce new text, extra characters, additional objects, logos, captions, or UI elements.
 
 Audio: low electronic boot hum, delicate scanning ticks, short confirmation tones as values lock, rising airy wind around the ball, soft cloth movement, and one refined completion chime. No dialogue and no music.
+```
+
+</details>
+
+<a id="wan-ram-rem-macos-desktop"></a>
+### Ram 和 Rem 的 macOS 桌面壁纸
+
+<a href="https://x.com/Mayz1169/status/2100854831837782439"><img src="../../previews/wan-ram-rem-macos-desktop.jpg" width="360"></a>
+
+先用参考图锁定角色外观，再用提示词固定构图：角色位于画面右侧、占约35%到45%，左侧留白，背景配色取自角色的粉色和蓝色发色。指定日文菜单栏、三个文件夹和程序坞，让画面更像真实的桌面。
+
+Wan 3.0 · 参考生视频 · 出处: [@Mayz1169 on X](https://x.com/Mayz1169/status/2100854831837782439) · 655 赞，统计于 2026-11-17
+
+[`desktop-wallpaper`](tags.md#tag-desktop-wallpaper) [`macos`](tags.md#tag-macos) [`anime`](tags.md#tag-anime)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Using the uploaded image as the subject reference, create a polished 16:9 macOS desktop composition.
+
+Subject:
+Identify the main subject or characters in the reference and preserve their recognizable appearance, facial features, hairstyle, clothing, accessories, proportions, and original visual style. Keep interacting characters together. If the reference is a character design sheet with multiple views of the same character, use only one main view. Remove the original background, reference-sheet panels, captions, and decorative borders.
+
+Composition:
+Place the subject on the RIGHT side, occupying approximately 35–45% of the canvas. Leave generous uncluttered space across the left and center. Keep faces and important gestures fully visible. Preserve the full body when the reference provides it; otherwise, use a natural crop without inventing unseen anatomy. Keep the subject clear of the menu bar and Dock.
+
+Adaptive wallpaper:
+Design a custom background that matches the subject’s colors, personality, clothing, and mood. Combine the broad flowing curves and smooth gradients of classic macOS wallpapers with a palette drawn from the reference.
+
+For soft or gentle subjects, use delicate pastel gradients. For energetic subjects, use restrained vibrant accents. For elegant or mysterious subjects, use rich darker tones with subtle highlights. Make these choices based on the actual reference rather than applying the same palette to every image.
+
+Keep the background simpler and less visually dominant than the subject. Use tonal separation so dark clothing remains visible against dark backgrounds and light hair remains visible against pale backgrounds. Add only a few subtle thematic details when appropriate.
+
+Desktop interface:
+Include a thin translucent macOS menu bar across the top, with the Apple symbol, Finder, and Japanese menu labels:
+ファイル  編集  表示  移動  ウインドウ  ヘルプ
+Place small system status icons and a clock at the upper right.
+
+On the upper left, arrange exactly three modestly sized desktop items in one vertical column:
+• A blue folder labeled “仕事”
+• A blue folder labeled “写真”
+• A screenshot thumbnail labeled “スクリーンショット”
+
+Use consistent spacing and small, readable white labels with subtle shadows.
+
+Add a realistically sized translucent macOS Dock near the bottom center, shifting slightly left if necessary to avoid overlapping the subject. Include Finder, Safari, LINE, Mail, Calendar, Notes, Music, System Settings, followed by a separator, Downloads, and Trash.
+
+Final appearance:
+The result should look like a cohesive personalized Mac desktop screenshot, with a character-inspired wallpaper and clean, believable interface elements. Preserve the reference’s art style rather than converting every subject to anime or photorealism.
+
+No physical laptop, monitor frame, open application windows, extra characters, duplicated subjects, large titles, or additional desktop icons. Render the desktop directly edge to edge in a wide 16:9 image.
 ```
 
 </details>
@@ -4397,40 +4448,4 @@ No scary elements, no distorted faces, no extra fingers, and no character change
 
 </details>
 
-<a id="seedance-ukiyo-e-tokyo-city-scroll"></a>
-### 木版画卷轴展开江户桥景
-
-<a href="https://x.com/tanabe_fragm/status/2088446104287477944"><img src="../../previews/seedance-ukiyo-e-tokyo-city-scroll.jpg" width="360"></a>
-
-每个时间段只用一次缓慢镜头运动和一种命名转场。全局段落锁定配色、纸纹和禁用元素，每段的声音提示与无文字约束让标题只在最后出现。
-
-Seedance 2.5 · 文生视频 · 出处: [@tanabe_fragm on X](https://x.com/tanabe_fragm/status/2088446104287477944)
-
-[`ukiyo-e`](tags.md#tag-ukiyo-e) [`scroll`](tags.md#tag-scroll) [`woodblock`](tags.md#tag-woodblock) [`transition`](tags.md#tag-transition)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-[SUMMARY] 15 seconds, 16:9, 24fps. A Japanese emakimono picture scroll unrolls from right to left, the ukiyo-e woodblock city painted on it comes alive, and the film lands on Mount Fuji with a title on the blank paper. Animated woodblock-print style. One single slow leftward drift carries the entire film. [GLOBAL SETUP] Look and texture: 2D animated Japanese ukiyo-e woodblock print. Flat hand-printed color, visible woodgrain, washi paper fibre showing through every surface, thin sumi-ink outlines, gold-leaf cloud bands, Rinpa-school decorative flatness. Keep the ink lines slightly uneven, the way a hand-cut block prints. Palette: washi ivory, indigo ai-iro, vermilion shu-iro, gold kin-iro, golden-yellow yamabuki-iro, pine-green matsu-midori, sumi black. No other colors. The scroll as an object: the ivory washi paper of the scroll, with its dark wooden roller, stays visible at the top and bottom of the frame from 0 to 2.5s and again from 11.5 to 15.0s. Between 2.5 and 11.5s the camera is inside the painting and the paper edges are out of frame. Camera language: exactly one camera move per time slice, always small amplitude at slow speed. The overall direction of travel is leftward for the whole film. Never combine two camera moves in one slice. No handheld shake. Transitions: use zoom-in transition at 2.5s, ink-wash transition at 5.0s, matching-shape transition at 7.5s, and zoom-out transition at 12.5s. No hard cuts anywhere. Nothing appears out of empty space. Keep the camera's breathing in harmony with the length of each slice and leave enough time for each transition to complete. Forbidden throughout: no subtitles, no background music, no photorealism, no 3D rendering, no CG lighting, no video-game look, no modern buildings, no trains, no cars, no power lines, no neon, no Japanese kanji or kana characters anywhere in the frame, no watermark, no logo, no on-screen text at all before 12.5s, no mosaic, no tiling, no puzzle-piece assembly, no rapid cutting. [TIMELINE] 0-2.5s — The scroll opens Scene: A closed emakimono scroll with a dark wooden roller sits at the right edge of an ivory frame. Action: The scroll unrolls leftward and reveals a painted Nihonbashi Bridge. The painted crowd on the bridge starts to move and walks across it. A painted boat slides out from under the bridge and its flat ink outlines ripple into moving water. Camera: slow leftward drift, small amplitude, following the unrolling paper. Sound: paper rustling, a wooden roller turning, then a low market crowd fading in. Not in this slice: no text, no music, no camera shake. 2.5-5.0s — Into the painting: the food street Transition: zoom-in transition. The camera pushes into the painted surface until the paper edges leave the frame and the painting fills the whole screen. Scene: An open-air Edo food street under fluttering vermilion nobori banners. Action: A chef presses a piece of nigiri sushi between his hands and sets it down on a bare wooden board. Steam lifts from a soba pot as a cook draws noodles out of the water. A customer pulls a noren curtain aside and steps in under it. Camera: slow push in, small amplitude, stopping on the sushi board. Sound: a knife tapping wood, oil sizzling, a pot bubbling, cloth brushing. Not in this slice: no text, no music, no modern kitchen equipment. 5.0-7.5s — The river Transition: ink-wash transition. Sumi ink bleeds across the frame like ink dropped in water, and the river scene emerges out of the bleed. Scene: The Sumida River, an arched wooden bridge, rows of low wooden townhouses on the far bank under gold cloud bands. Action: A boatman pushes his pole and the boat glides forward past the bridge. Cherry blossom petals blow across the water from the right. A woman in a patterned kimono standing on the bridge turns her head and looks toward the camera. Camera: slow leftward tracking shot, small amplitude, keeping pace with the boat. Sound: an oar dipping, wood creaking, water lapping, wind through cherry branches. Not in this slice: no text, no music, no motorboats. 7.5-9.5s — Night, lanterns, kabuki Transition: matching-shape transition. A round pink cherry petal drifting in the previous slice matches into a round red paper lantern in this one. Scene: A night street of two-story wooden machiya townhouses under a deep indigo sky. Action: Red paper lanterns light up one after another down both sides of the street. A kabuki theater curtain sways open at the far end and an actor in bold red kumadori face paint strikes a still mie pose. Camera: slow tilt up, small amplitude, from the lanterns to the sky above the rooftops. Sound: wooden kabuki clappers striking twice, geta sandals on plank streets, a low crowd. Not in this slice: no text, no music, no electric light. 9.5-12.5s — Fireworks and the whole city Continuous from the previous slice, the tilt up carries straight into this one. Scene: Golden fireworks open in the indigo sky above the river. Action: Two fireworks bloom and fall in gold and vermilion. The view widens into one grand bird's-eye folding-screen painting of the whole city of Edo across the full width of the frame: dense wooden rooftops, winding canals, arched bridges, boat traffic, a vermilion torii gate, a temple complex, and the tiered white keep of Edo Castle, with gold-leaf cloud bands drifting between the districts. At 11.5s the ivory washi paper edges of the scroll slide back in at the top and bottom, revealing the whole city to be one continuous painting on one scroll. Camera: slow pull out, large amplitude, one single continuous move. Sound: fireworks booming and crackling far away, the crowd noise widening and thinning into open air. Not in this slice: no text, no music, no shattering or reassembling of the image. 12.5-15.0s — Mount Fuji and the title Transition: zoom-out transition completing into the far end of the scroll. Scene: Snow-capped Mount Fuji stands alone on the right against a gold sky. Wide empty ivory washi paper fills the left half of the frame. Action: Cherry blossom petals drift down across the empty paper. The single large word "EDO" fades in on that empty paper in clean pale sumi-black geometric sans-serif capitals. One beat later the smaller line "NOW CALLED TOKYO" fades in directly beneath it. Both lines are English Latin capitals, spelled exactly as written here, centered on the empty paper, sharp and perfectly legible, with no Japanese characters, no extra words and no misspellings. The two lines are static once they appear and are not re-rendered. Camera: the drift comes to rest and holds perfectly still for the last 1.5 seconds. Sound: a single distant temple bell ringing once, then quiet wind. Not in this slice: no music, no additional text, no camera movement after the title appears. [CLOSING CONSTRAINTS] Throughout the whole film: keep the flat ukiyo-e woodblock look, the washi paper fibre, the seven-color palette and the uneven hand-cut ink lines identical from the first frame to the last. Keep every camera move small in amplitude and slow in speed, and keep the overall direction of travel leftward. Keep all transitions soft, with no hard cuts and nothing appearing out of empty space. Throughout the whole film: no subtitles, no background music, no photorealism, no 3D rendering, no modern objects of any kind, no Japanese kanji or kana characters, no watermark and no logo. On-screen text appears only after 12.5s, only the two English lines specified above.
-```
-
-</details>
-
-<a id="veo-camper-and-bear"></a>
-### 定格动画，露营者和会顶嘴的熊
-
-<a href="https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/media/veo__veo-3__camper.webm"><img src="../../previews/veo-camper-and-bear.jpg" width="360"></a>
-
-整条提示词只有一个形式标签和两句台词，场景交给 Veo 补全。
-
-Veo 3 · 文生视频 · 出处: [Veo 3 prompt guide](https://deepmind.google/models/veo/prompt-guide/)
-
-[`stop-motion`](tags.md#tag-stop-motion) [`dialogue`](tags.md#tag-dialogue) [`comedy`](tags.md#tag-comedy)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Camping (Stop Motion): Camper: "I'm one with nature now!" Bear: "Nature would prefer some personal space."
-```
-
-</details>
+**1** · [2](video-anime-2.md)

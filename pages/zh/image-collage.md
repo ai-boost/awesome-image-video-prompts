@@ -1,6 +1,6 @@
 # 拼贴
 
-[返回目录](../../README_zh.md) · 全部 106 条
+[返回目录](../../README_zh.md) · 全部 108 条
 
 <a id="gpt-image-failed-photos-grid"></a>
 ### 任意角色的九宫格失败抓拍照
@@ -3250,6 +3250,50 @@ Create a photorealistic 2×4 action collage using the reference image, featuring
 
 </details>
 
+<a id="gpt-image-2-6-vintage-radio-torn-paper-collage"></a>
+### 复古收音机撕纸拼贴
+
+<a href="https://x.com/Goodmanprotocol/status/2122624949466923407"><img src="../../previews/gpt-image-2-6-vintage-radio-torn-paper-collage.jpg" width="360"></a>
+
+先指定上传照片为主要视觉来源，保证收音机主体清晰可辨；再限定 3:4 竖版以及米色、炭灰和一两个强调色的有限配色，让拼贴风格统一。要求手绘元素约占画面 30%，让撕纸开口把插画自然过渡到照片中。
+
+GPT Image 2.6 · 上传图改图 · 出处: [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2122624949466923407) · 46 赞，统计于 2026-11-17
+
+[`collage`](tags.md#tag-collage) [`vintage`](tags.md#tag-vintage) [`torn-paper`](tags.md#tag-torn-paper) [`mixed-media`](tags.md#tag-mixed-media)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+VINTAGE TORN-PAPER COLLAGE | PHOTOGRAPHIC ART EDITION
+
+REFERENCE: Use the uploaded photograph as the primary visual source.
+ASPECT RATIO: Vertical 3:4.
+
+Transform the photograph into an artistic mixed-media collage poster inspired by vintage travel magazines, handmade paper compositions, and traditional printmaking.
+
+1. Composition & Structure
+Preserve the original subject, natural lighting, perspective, horizon, and spatial relationships. Integrate the photograph into an irregular, organically torn-paper shape. Let the torn edges reveal a warm ivory, textured paper background. Make the paper openings asymmetrical, spontaneous, and naturally layered.
+
+2. Mixed-Media Treatment
+Combine realistic photography with hand-painted illustrations, simplified black-and-white silhouettes, subtle ink textures, and expressive color blocks. Let the hand-painted elements occupy approximately 30–35% of the composition while keeping the main subject recognizable and photographic.
+
+3. Visual Elements
+Extract meaningful details from the original scene, such as roads, trees, rivers, architecture, landscapes, or surrounding objects. Extend selected elements beyond the photographic boundaries using delicate illustrations, vintage cutouts, and contrasting paper fragments. Use a limited palette of warm beige, muted cream, deep charcoal, and one or two rich accent colors.
+
+4. Paper & Texture
+Create authentic overlapping paper layers, rough torn edges, subtle shadows, aged paper grain, screen-print imperfections, and slightly faded ink. The composition should feel physically assembled by hand rather than digitally arranged.
+
+5. Typography & Negative Space
+Maintain generous areas of empty paper. Add only a tiny, understated English typewriter-style caption if appropriate. Avoid oversized headlines, decorative logos, watermarks, or excessive text.
+
+6. Overall Aesthetic
+Achieve the visual character of an independent art magazine, vintage travel editorial, handmade scrapbook, and experimental screen-printed poster. Keep the composition sophisticated, atmospheric, tactile, and visually balanced.
+
+IMPORTANT: Avoid simply placing the original photograph inside a rectangular frame. The photograph must blend organically into the torn-paper composition, with irregular paper boundaries and illustrated elements creating a seamless visual transition. Preserve the identity and essential details of the original subject.
+```
+
+</details>
+
 <a id="nano-banana-christmas-tree-clipping-mask-collage"></a>
 ### 聖誕樹剪裁蒙版四照片拼貼與貼紙
 
@@ -3585,6 +3629,45 @@ Balanced aesthetic across the grid (feels like a unified Christmas card set)
 Final Deliverable
 
 A 3×3 Instagram-style grid of nine separate 3:4 ratio hyperrealistic Christmas-themed portraits featuring ONLY the dog.
+```
+
+</details>
+
+<a id="gpt-image-2-6-six-scene-woman-collage"></a>
+### 同一女子六场景生活方式拼图
+
+<a href="https://x.com/john_my07/status/2122708731809173839"><img src="../../previews/gpt-image-2-6-six-scene-woman-collage.jpg" width="360"></a>
+
+在每个画面中重复固定的外貌描述来锁定同一张脸，同时为六个画面分别设定场景、服装、姿势和机位以保持变化。指定紧凑型相机型号和颗粒感，让整组画面看起来像同一次手机拍摄。
+
+GPT Image 2.6 · 文生图 · 出处: [@john_my07 on X](https://x.com/john_my07/status/2122708731809173839) · 22 赞，统计于 2026-11-17
+
+[`collage`](tags.md#tag-collage) [`lifestyle`](tags.md#tag-lifestyle) [`portrait`](tags.md#tag-portrait) [`character-consistency`](tags.md#tag-character-consistency)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create an ultra-realistic 6-photo lifestyle collage featuring the exact same exceptionally beautiful 23-year-old woman in a vertical 2-column × 3-row grid. She has warm olive skin, delicate natural freckles, captivating hazel-green eyes, long, thick chocolate-brown hair with voluminous natural waves, full eyebrows, and soft rosy lips. Maintain identical facial identity and recognizable features in every photograph.
+
+Six Different Scenes:
+
+1. Cozy Bedroom Portrait: Lying comfortably on white pillows, wearing a modest white sleeveless top, with loose wavy hair spread naturally around her face. An intimate close-up with direct eye contact and soft morning light.
+
+2. Elegant Café Morning: Sitting beside a large café window wearing a sophisticated white blazer, holding a cappuccino with both hands. Sunglasses resting on her head, looking outside with a subtle smile.
+
+3. Rooftop Evening: Standing on a rooftop overlooking a beautifully illuminated city at night, wearing an elegant black evening dress with a tasteful neckline. Looking back over her shoulder with warm city lights behind her.
+
+4. Convertible Road Trip: Sitting in the passenger seat of a luxury convertible, wearing a white linen outfit and dark sunglasses. One hand casually touching her hair as the breeze moves it naturally.
+
+5. Cozy Home Moment: Sitting on a sofa wearing an oversized cream knit sweater, resting her cheek against one hand with a relaxed, dreamy expression. Soft flowers and warm ambient lighting in the background.
+
+6. Luxury Bathroom Evening: Relaxing in a beautiful white bathtub surrounded by gentle candlelight and subtle bubbles, wearing a modest, tasteful bath wrap that provides full chest coverage. Her hair is tied in a loose bun, with a few strands framing her face.
+
+Photography Style: Premium Instagram lifestyle photography, Canon PowerShot G7 X Mark III aesthetic, realistic skin pores, fine hair details, natural facial expressions, cinematic warm lighting, subtle digital grain, realistic shadows, and candid compositions.
+
+Identity Consistency: The exact same woman must appear in all six frames. Preserve her facial structure, freckles, hazel-green eyes, skin tone, and chocolate-brown hair. Give each photograph a different pose, expression, camera angle, and environment.
+
+Output: Vertical 3:4 aspect ratio, exactly six equally sized photographs in a clean 2-column × 3-row grid, perfectly aligned, no gutters, no borders, no text, and no watermark. Photorealistic, elegant, glamorous, youthful, and effortlessly stylish.
 ```
 
 </details>

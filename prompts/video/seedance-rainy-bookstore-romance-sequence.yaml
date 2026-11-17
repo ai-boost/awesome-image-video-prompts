@@ -1,0 +1,268 @@
+id: seedance-rainy-bookstore-romance-sequence
+title:
+  en: Rainy bookstore window glowing with warm light
+  zh: 雨天书店橱窗，暖金色灯光
+model: Seedance 2.5
+mode: reference-to-video
+category: cinematic
+tags:
+- romance
+- rain
+- bookstore
+- dialogue
+source:
+  name: '@mimu_ai1 on X'
+  url: https://x.com/mimu_ai1/status/2120014240212008995
+  credit: mimu_ai1
+  captured: '2026-11-17'
+  posted: '2026-11-10'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/mimu_ai1/status/2120014240212008995
+notes:
+  en: Breaks the 30 second clip into six timed 5 second scenes, each with its own camera move and sound cue, and repeats the same face, hair and outfit wording in every block to keep both leads consistent. Each line of dialogue is written out with its speaker and tone, which gives the lip sync clear beats.
+  zh: 将30秒的片子拆成六个各5秒的时间段，每段都有自己的运镜和声音提示，并在每段重复相同的脸部、发型和服装描述，保持两位主角一致。每句台词都写明说话人和语气，让口型同步有清晰的节拍。
+prompt: |
+  Create an ultra-photorealistic, high-budget Hollywood romantic film sequence featuring a beautiful young woman visits a charming old bookstore on a rainy afternoon. She accidentally meets a mysterious young man when they reach for the same book. Their unexpected encounter develops into a beautiful romantic connection as they share an umbrella, walk through the city and enjoy coffee together.
+
+  MAIN CHARACTERS :
+
+  1. THE YOUNG WOMAN — FEMALE LEAD
+
+  A beautiful adult woman with the exact facial identity, her recognizable facial features, blue eyes, natural skin texture, facial proportions and long, naturally curly light auburn/blonde hair.
+
+  Wardrobe:
+  She wears an elegant cream-colored tailored coat over a sophisticated neutral-colored blouse, delicate layered gold necklaces, small understated earrings, and beautifully styled natural hair.
+
+  Her appearance: Sophisticated, elegant look for a rainy European afternoon. Keep her facial identity, hairstyle, eye color, skin texture, proportions, outfit, and accessories identical in every shot. Performance should be authentic and spontaneous, with subtle romantic expressions.
+
+  2. THE YOUNG MAN — MALE LEAD
+
+  A handsome adult man in his late twenties or early thirties with naturally styled dark brown hair, warm brown eyes, realistic natural skin texture, attractive but understated facial features, and a charming personality.
+
+  Wardrobe:
+  An elegant dark charcoal overcoat, A neutral cream or beige sweater, Dark tailored trousers, A sophisticated everyday outfit
+
+  His appearance: Natural, approachable, quietly confident look. Keep the same face, hair, proportions, and outfit throughout. Show curiosity, warmth, slight nerves, and growing romantic interest.
+
+  IMPORTANT: Both characters must look like real people interacting naturally. Their romantic chemistry should feel spontaneous rather than staged.
+
+  3. ENVIRONMENT
+
+  A rainy autumn afternoon in an old European city. The main setting is a charming independent bookstore with tall wooden shelves, vintage books, large glass windows, warm golden lighting, wooden floors, cozy reading corners, and a small antique display, lit by soft daylight.
+
+  Outside: cobblestone streets, historic stone buildings, small cafés, vintage street lamps, rain-soaked pavement with realistic puddle reflections, elegant storefronts, and a warm, inviting atmosphere.
+
+  The final location is a small romantic café with large windows, warm ambient lighting, wooden furniture, coffee cups, soft background activity and gentle rain visible outside.
+
+  00:00–00:05 — THE ORDINARY AFTERNOON
+
+  Open with a breathtaking cinematic establishing shot of a charming independent bookstore on a rainy afternoon.
+
+  Rain gently falls against the large glass windows.
+
+  Inside, warm golden light illuminates beautifully arranged wooden bookshelves.
+
+  The young woman enters the bookstore and slowly walks between the shelves, browsing through the books.
+
+  She notices an interesting hardcover novel on a nearby shelf.
+
+  She gently reaches toward it while examining its cover.
+
+  The camera slowly moves closer, capturing her natural facial expressions, beautiful curly hair and delicate movements.
+
+  She smiles slightly as she discovers the book.
+
+  Outside, rain continues falling softly.
+
+  Camera: Smooth cinematic dolly-in, wide establishing shot transitioning into an elegant medium shot. Natural shallow depth of field, realistic skin texture, beautiful window reflections and professional romantic movie cinematography.
+
+  Sound: Gentle piano music, soft rain against the windows, subtle bookstore ambience and quiet footsteps.
+
+  00:05–00:10 — THE UNEXPECTED ENCOUNTER
+
+  Suddenly, a handsome young man approaches the same bookshelf from the opposite direction.
+
+  He notices the same novel and reaches for it at exactly the same moment as the woman.
+
+  Their fingers accidentally touch.
+
+  Both characters pause.
+
+  The woman slowly looks up.
+
+  The man looks directly into her eyes.
+
+  They exchange a brief, slightly awkward smile.
+
+  The woman gently withdraws her hand while laughing softly.
+
+  Dialogue — Woman (slightly embarrassed, smiling):
+
+  "Oh, sorry!"
+
+  Dialogue — Man (warm, charming voice):
+
+  "No, you take it."
+
+  The woman looks at him and smiles.
+
+  The man gestures toward the book, inviting her to take it.
+
+  Camera: Extreme close-up of their hands touching the book, followed by alternating natural facial close-ups, subtle eye contact and a soft cinematic rack focus.
+
+  Sound: A gentle musical transition, subtle fabric movement and quiet bookstore ambience.
+
+  00:10–00:15 — THE SHARED UMBRELLA
+
+  The scene transitions outside the bookstore.
+
+  The rain suddenly becomes heavier.
+
+  The woman stands near the entrance, looking at the rain while holding the book close to her chest.
+
+  The young man steps outside behind her.
+
+  He opens a large dark umbrella and notices that she is standing without one.
+
+  He approaches her with a gentle smile and slightly tilts the umbrella toward her.
+
+  Dialogue — Man (warm, friendly):
+
+  "Would you like to share?"
+
+  The woman looks at him, briefly hesitates, then smiles.
+
+  Dialogue — Woman:
+
+  "I'd like that."
+
+  He moves beside her, and they begin walking together beneath the umbrella.
+
+  The rain falls realistically around them while water reflects the surrounding streetlights and shop windows.
+
+  Camera: Cinematic medium two-shot, slow tracking movement, natural character interaction, beautiful reflections and shallow depth of field.
+
+  00:15–00:20 — A WALK TO REMEMBER
+
+  The couple walks together through a beautiful old European street under the umbrella.
+
+  The woman holds her book against her coat while the man carries the umbrella.
+
+  They exchange glances and smile.
+
+  The woman briefly looks toward him while he says something amusing.
+
+  She laughs naturally.
+
+  A light breeze moves her curly hair slightly beneath the umbrella.
+
+  They pass beautiful cafés, vintage shop windows and warm glowing streetlights.
+
+  The camera captures their natural body language and subtle romantic chemistry.
+
+  Camera: Smooth side-tracking shot, intimate over-the-shoulder shots, natural profile close-ups and a beautiful wide cinematic street composition.
+
+  Sound: Gentle romantic piano, natural footsteps, rain falling against the umbrella and distant city ambience.
+
+  00:20–00:25 — AN UNEXPECTED CONNECTION
+
+  Transition into a beautiful cozy café.
+
+  The couple sits across from each other beside a large window.
+
+  Two freshly prepared coffees sit on the small wooden table.
+
+  The woman gently holds her coffee cup while listening to the man.
+
+  They share a genuine laugh.
+
+  The man looks at her with warm interest.
+
+  She smiles, then briefly looks outside at the rain.
+
+  Dialogue — Woman (gently curious):
+
+  "Do you often meet strangers like this?"
+
+  Dialogue — Man (smiling):
+
+  "Not the ones I'd like to meet again."
+
+  The woman looks at him and laughs softly.
+
+  Camera: Warm cinematic close-ups, intimate over-the-table composition, gentle focus shifts between the characters, beautiful café lighting and realistic facial expressions.
+
+  Sound: Soft piano and strings, quiet café ambience, subtle coffee cup sounds and natural dialogue.
+
+  00:25–00:30 — THE BEGINNING OF SOMETHING
+
+  The couple leaves the café together.
+
+  The rain has finally stopped.
+
+  Beautiful golden evening sunlight appears between the old buildings, creating warm reflections across the wet cobblestone street.
+
+  They walk side by side.
+
+  The woman turns toward him and smiles.
+
+  Dialogue — Woman (softly):
+
+  "Do you think we'll meet again?"
+
+  The man slows down slightly, looks into her eyes and responds with a genuine smile.
+
+  Dialogue — Man (warm, sincere):
+
+  "I was hoping we would."
+
+  The woman laughs softly.
+
+  They continue walking together as the camera slowly pulls backward.
+
+  End with a breathtaking wide cinematic composition of the two characters walking through the beautiful golden-lit European street.
+
+  FINAL ON-SCREEN TITLE:
+  "THE MOMENT WE MET"
+
+  FINAL TAGLINE:
+  "Sometimes, the best stories begin with a stranger."
+
+  Camera: Slow cinematic pullback, golden-hour backlighting, natural character movement, beautiful reflections and a gentle romantic fade-out.
+
+  Sound: Emotional orchestral piano crescendo followed by a soft musical resolution.
+
+  4. TECHNICAL PRODUCTION DIRECTIVES
+
+  VIDEO SPECIFICATIONS:
+  - Exactly 30 seconds, 16:9 widescreen.
+  - 4K UHD and 60 FPS where supported.
+  - Ultra-photorealistic, Hollywood-quality live-action footage.
+  - Six separate 5-second scenes with seamless continuity.
+
+  CINEMATOGRAPHY:
+  Professional 35mm/50mm cinema aesthetics, smooth dolly and tracking shots, cinematic close-ups, natural depth of field, realistic motion blur and elegant transitions.
+
+  HUMAN PERFORMANCE:
+  Natural facial expressions, realistic eye contact, subtle romantic chemistry, authentic smiles, natural gestures, believable body movements and consistent character appearances.
+
+  ENVIRONMENT & LIGHTING:
+  Realistic rainfall, wet pavement reflections, natural hair and clothing movement, atmospheric mist and detailed environments. Use warm bookstore lighting, cool rainy streets, cozy café illumination and beautiful golden-hour backlighting.
+
+  SOUND DESIGN:
+  Original romantic piano and orchestral soundtrack, realistic rain, footsteps, bookstore and café ambience, umbrella movement and natural environmental sounds. Keep background music balanced beneath dialogue.
+
+  DIALOGUE:
+  Natural fluent English with accurate lip-syncing, realistic emotional delivery and natural pauses. Gentle expressive female voice and warm charming male voice. No narrator, overlapping dialogue or subtitles.
+
+  STRICT CHARACTER CONSISTENCY:
+  - Female lead: Preserve the exact facial identity, blue eyes, curly light auburn/blonde hair, skin texture and proportions from the uploaded portrait.
+  - Male lead: Maintain identical facial features, hairstyle and appearance throughout.
+  - Both characters must retain identical outfits and accessories in every scene.
+  - Maintain consistent props, locations and environmental details.
+
+  NEGATIVE PROMPT:
+  ]No cartoon or anime style, artificial skin, distorted anatomy, extra fingers or limbs, changing faces, inconsistent costumes, unnatural expressions, awkward movements, unrealistic rain, flickering, duplicated characters, abrupt transitions, unwanted text, subtitles or watermarks.
+
+  FINAL CREATIVE DIRECTION:
+  Create an emotionally engaging, photorealistic Hollywood romantic short film about two strangers experiencing an unexpected connection.Prioritize realistic human performances, natural romantic chemistry, cinematic visuals and seamless continuity. Keep the romance subtle, authentic and emotionally memorable.Every frame should feel like it belongs to a professionally produced romantic movie.

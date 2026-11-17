@@ -1,6 +1,44 @@
 # Portraits
 
-[Back to the list](../../README.md) · All 287 entries · [1](image-portrait.md) · [2](image-portrait-2.md) · **3**
+[Back to the list](../../README.md) · All 288 entries · [1](image-portrait.md) · [2](image-portrait-2.md) · **3**
+
+<a id="gpt-image-futuristic-office-businesswoman-portrait"></a>
+### Businesswoman portrait in futuristic glass office
+
+<a href="https://x.com/NadzuAI/status/2087901626891940013"><img src="../../previews/gpt-image-futuristic-office-businesswoman-portrait.jpg" width="360"></a>
+
+The prompt stacks wardrobe, setting, lighting and lens cues (soft cinematic light, shallow depth of field, realistic skin texture) and limits the palette to blue and white tones. It also fixes a 4:5 vertical frame and adds no text and no watermark to keep the output clean.
+
+GPT Image 2 · Text-to-image · Source: [@NadzuAI on X](https://x.com/NadzuAI/status/2087901626891940013) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`corporate-portrait`](tags.md#tag-corporate-portrait) [`business`](tags.md#tag-business) [`photorealistic`](tags.md#tag-photorealistic) [`futuristic-office`](tags.md#tag-futuristic-office) [`vertical`](tags.md#tag-vertical)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a hyper-realistic HD portrait of a confident young professional businesswoman, elegant modern black blazer over a white blouse, standing in a premium futuristic office with glass walls, subtle AI technology screens and a city skyline in the background. Natural makeup, polished hairstyle, confident expression, professional corporate appearance, cinematic soft lighting, realistic skin texture, shallow depth of field, luxury business atmosphere, sophisticated blue-and-white tones, ultra-detailed, photorealistic, 8K quality, sharp focus, premium LinkedIn and AI startup branding aesthetic, vertical 4:5 composition, no text, no watermark.
+```
+
+</details>
+
+<a id="gpt-image-golden-hour-couple-cinematic-closeup"></a>
+### Golden Hour Couple Close Up at Sunset
+
+<a href="https://x.com/darshal_/status/2049071963520508058"><img src="../../previews/gpt-image-golden-hour-couple-cinematic-closeup.jpg" width="360"></a>
+
+Low sun backlighting with rim light, soft lens flare and shallow depth of field creates a filmic fragrance campaign look. A 50mm lens cue and muted earth tone grading keep skin and hair textures realistic.
+
+GPT Image 2 · Text-to-image · Source: [@darshal_ on X](https://x.com/darshal_/status/2049071963520508058) · found via [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`couple`](tags.md#tag-couple) [`golden-hour`](tags.md#tag-golden-hour) [`backlight`](tags.md#tag-backlight) [`cinematic`](tags.md#tag-cinematic) [`close-up`](tags.md#tag-close-up)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A cinematic golden-hour close-up of a young couple in an intimate outdoor moment, framed from the chest up. The main focus is a handsome young man with dark brown tousled wavy hair, soft defined jawline, smooth light-tan skin, and a calm, distant expression as he gazes slightly upward and off to the left. He wears a black open-collar button-up shirt with a relaxed, elegant fit. Leaning into him is 1 young woman with long dark brown hair, her face mostly hidden against his shoulder and chest, creating a tender, protective mood; only part of her hair, shoulder, and thin black spaghetti-strap dress are visible. Use warm sunset backlighting with the sun low behind them on the left, creating glowing rim light around their hair and shoulders, soft lens flare, amber highlights, shallow depth of field, and a blurred natural landscape in the background with low hills. The composition should feel romantic, editorial, and filmic, like a luxury fragrance or fashion campaign, with soft skin detail, realistic textures, subtle wind in the hair, muted earth tones, and high-end cinematic color grading. Photorealistic, emotional, intimate, 50mm lens look, ultra-detailed, natural light, soft contrast.
+```
+
+</details>
 
 <a id="gpt-image-ice-blue-hanfu-full-body"></a>
 ### Ice blue sequined hanfu full body portrait

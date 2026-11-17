@@ -1,6 +1,37 @@
 # 广告与产品
 
-[返回目录](../../README_zh.md) · 全部 136 条 · [1](video-commercial.md) · **2**
+[返回目录](../../README_zh.md) · 全部 137 条 · [1](video-commercial.md) · **2**
+
+<a id="seedance-aura-headphones-city-commercial"></a>
+### 白色运动鞋女子穿过繁忙的出租车街道
+
+<a href="https://x.com/AIwithkhan/status/2107081013583089797"><img src="../../previews/seedance-aura-headphones-city-commercial.jpg" width="360"></a>
+
+提示词反复写明固定的人物、服装和耳机外观，并加入一致性要求与反漂移的负面列表，使多个镜头中的形象保持稳定。分段的场景节拍、城市噪音渐隐为音乐的声音提示，以及结尾旁白，为模型提供了清晰的结构。
+
+Seedance 2.5 · 文生视频 · 出处: [@AIwithkhan on X](https://x.com/AIwithkhan/status/2107081013583089797) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`commercial`](tags.md#tag-commercial) [`headphones`](tags.md#tag-headphones) [`city-street`](tags.md#tag-city-street) [`golden-hour`](tags.md#tag-golden-hour)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create an ultra-realistic cinematic commercial for a fictional premium wireless headphone brand called AURA.
+Feature a stylish young woman with long dark hair, natural makeup, a fitted pastel-blue sleeveless top, white denim shorts, oversized cream shirt worn open, white sneakers and a small shoulder bag. Maintain consistent character, outfit and headphone design throughout.
+She walks through a lively downtown street filled with traffic, conversations and city sounds. She puts on the sleek AURA headphones, and the noisy environment instantly fades into a rich, immersive soundtrack.
+As the music builds, she walks through a coffee shop, crosses a busy pedestrian street and enters a modern shopping district. Use smooth tracking shots, low-angle walking shots, facial close-ups, headphone detail shots and cinematic reflections.
+Cut to golden hour as she reaches a rooftop terrace. She adjusts the headphone controls, closes her eyes and enjoys the music while the city glows behind her.
+End with a slow push-in toward the headphones as she turns toward the skyline.
+Voiceover:
+“Your world is full of noise.
+But your moment belongs to you.
+AURA brings every beat, every detail, and every feeling closer.
+Put them on. Find your sound.”
+Style: Premium lifestyle technology commercial, photorealistic, cinematic lighting, realistic skin and hair, natural fabric movement, shallow depth of field, smooth camera motion, sophisticated sound design, warm golden-hour finale.
+Negative: No headphone morphing, identity drift, outfit changes, distorted anatomy, duplicated people, excessive CGI, subtitles, captions, random text, watermark, or inconsistent product design.
+```
+
+</details>
 
 <a id="seedance-automated-fries-factory-potato-conveyor"></a>
 ### 工人将土豆倾倒到工厂传送带上

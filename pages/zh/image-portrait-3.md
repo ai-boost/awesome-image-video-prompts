@@ -1,6 +1,28 @@
 # 人像
 
-[返回目录](../../README_zh.md) · 全部 287 条 · [1](image-portrait.md) · [2](image-portrait-2.md) · **3**
+[返回目录](../../README_zh.md) · 全部 288 条 · [1](image-portrait.md) · [2](image-portrait-2.md) · **3**
+
+<a id="gpt-image-iphone-candid-dusk-street-snapshot"></a>
+### 黄昏街头模糊的 iPhone 抓拍人像
+
+<a href="https://x.com/Ciri_ai/status/2051292618248904809"><img src="../../previews/gpt-image-iphone-candid-dusk-street-snapshot.jpg" width="360"></a>
+
+提示词把画面设定为随手误拍的 iPhone 照片，并明确要求轻微动态模糊和不均匀的自然光。这些瑕疵加上平凡的构图，让模型避开精修棚拍感，得到可信的抓拍效果。
+
+GPT Image 2 · 文生图 · 出处: [@Ciri_ai on X](https://x.com/Ciri_ai/status/2051292618248904809) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`iphone-snapshot`](tags.md#tag-iphone-snapshot) [`candid`](tags.md#tag-candid) [`motion-blur`](tags.md#tag-motion-blur) [`natural-light`](tags.md#tag-natural-light) [`lifestyle`](tags.md#tag-lifestyle)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+I want to see what you really look like.
+Draw a snapshot of your everyday life as if it were accidentally taken on an iPhone.
+Make it feel like a very ordinary, imperfect candid shot.
+The photo should have slight motion blur, with uneven, natural lighting.
+```
+
+</details>
 
 <a id="gpt-image-japanese-fireworks-festival-yukata-portrait"></a>
 ### 日本烟花祭浴衣人像

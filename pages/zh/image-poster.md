@@ -1,6 +1,6 @@
 # 海报与编辑排版
 
-[返回目录](../../README_zh.md) · 全部 209 条 · **1** · [2](image-poster-2.md)
+[返回目录](../../README_zh.md) · 全部 215 条 · **1** · [2](image-poster-2.md)
 
 <a id="gpt-image-flat-vector-city-travel-poster-template"></a>
 ### 适用任意城市的扁平矢量旅行海报模板
@@ -2671,6 +2671,67 @@ Prompt: A highly detailed, cinematic portrait of Tom Cruise, featuring a gritty,
 
 </details>
 
+<a id="gpt-image-florence-stamp-field-notes"></a>
+### 佛罗伦萨主教座堂照片配橡皮章旅行笔记
+
+<a href="https://x.com/MahnoorAi12/status/2101546096153797041"><img src="../../previews/gpt-image-florence-stamp-field-notes.jpg" width="360"></a>
+
+提示词固定了左侧照片与右侧留白纸面的大约五八分割，左侧照片保持原样，橡皮章缩成右下方的小尺寸图案。两到四种专色油墨加上刻意的错版，让图章保留手工刻制感，而不像矢量标志。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@MahnoorAi12 on X](https://x.com/MahnoorAi12/status/2101546096153797041) · 260 赞，统计于 2026-11-17
+
+[`rubber-stamp`](tags.md#tag-rubber-stamp) [`florence`](tags.md#tag-florence) [`travel-notes`](tags.md#tag-travel-notes)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Please create a separate "Rubber Stamp Travel Field Notes Poster" for each photo I upload, outputting each photo individually without collage or multi-image combinations.
+
+Overall, use a 4:3 landscape composition, dividing the frame into left and right regions, but without drawing an obvious dividing line.
+
+The left side takes up about 58% of the frame, faithfully preserving the original photo. Accurately maintain the main subject identity, terrain, architecture, plants, people, spatial relationships, natural lighting and shadows, authentic textures, and the original color atmosphere; apply only restrained art publication-level photo color grading, and add extremely subtle, fine-grained film noise. For layout adaptation, natural cropping is allowed, but do not stretch, distort, shift, replace, or redraw the main subject.
+
+The right side takes up about 42% of the frame, using a warm off-white aged paper as the background. The paper features subtle fibers, natural grain, light usage marks, and a matte texture, while preserving large areas of unprinted paper whitespace, making the blank space an essential part of the layout.
+
+Analyze the original photo and extract the most location-distinctive subject outlines, architectural structures, terrain contours, plant forms, roads, shorelines, or other key visual relationships, compressing them into a small multi-color rubber stamp image.
+
+Do not replicate every single element from the photo item by item. Retain only the minimal information necessary to instantly recognize the original location, subject, and scene relationships. Remove crowds, vehicles, dense windows, repetitive buildings, fragmented vegetation, decorative elements, and irrelevant backgrounds.
+
+The stamp is positioned in the lower-middle of the right-side paper area, occupying only about 30%–38% of the right region's height, with ample whitespace preserved around it. The stamp must not be enlarged into a standard illustration, full landscape painting, or brand logo.
+
+Determine the stamp's organization based on the original photo's composition:
+
+- Iconic architecture: Retain the most distinctive outer contours, roofs, domes, arches, towers, or main structures.
+- Mountain settlements: Compress buildings into a few terraced color blocks aligned along the terrain.
+- Coastal scenery: Retain mountain contours, settlement layers, shorelines, and sparse intermittent water ripples.
+- City panoramas: Retain the main skyline, one iconic building, and one or two layers of distant mountains.
+- Natural landscapes: Retain primary mountain forms, trees, shorelines, or road orientations.
+- Foreground occlusions: If narratively important in the original photo, retain as foreground stamp outlines.
+
+Extract 2–4 spot inks from the original photo. Prioritize desaturated colors like carbon black, deep green, brick red, ochre yellow, slate blue, or taupe brown, but do not force a fixed palette. Preserve the most distinctive color character from the original photo, allowing only a small area of color for visual emphasis.
+
+Render each color as a separately hand-stamped effect:
+
+Authentic rubber stamp carving texture, hand-engraved marks, uneven line widths, contour notches, fractured edges, dry ink shortages, paper show-through, granular ink, uneven pressure, partial ghosting, and about 1–2 mm of subtle misregistration.
+
+Allow natural misalignment between color layers; edges must not be digitally smoothed. The print should resemble a real carved stamp pressed onto aged paper, not a filtered photo, smooth vector illustration, or line-art logo.
+
+Generate text based on the photo's location, theme, and visual imagery:
+
+Location English name
+No. Number
+Three short English keywords
+Gregorian calendar year
+
+Place the text below or adjacent to the stamp in the whitespace, using a small, restrained, slightly mechanically imperfect typewriter font. The typography should evoke a traveler's field record, not an ad headline. Ensure all text is spelled accurately, without adding irrelevant slogans, brands, or decorative copy.
+
+The overall vibe is like field notes kept by an architect, travel writer, or natural observer: quiet, restrained, tactilely real, regionally specific, with handmade imperfections and a collectible feel. The photo handles the on-site record; the stamp captures the most recognizable fragments of memory.
+
+Avoid: Obvious central dividing lines, circular seals, Chinese red stamps, postage stamp perforations, wax seals, sticker collages, tourist souvenir templates, smooth vector logos, generic city icons, full replication of all architecture, dense detailing, childlike craftiness, cartoon style, 3D rendering, plastic textures, glossy digital gradients, oversaturation, excessive text, decorative clutter, and redrawing or altering the left-side original photo.
+```
+
+</details>
+
 <a id="gpt-image-energy-bar-botanical-fmcg-poster"></a>
 ### 橙色背景上倾斜的能量棒与植物线描
 
@@ -3254,6 +3315,124 @@ Include small minimalist typography on one side: [CITY / COUNTRY], [LANDMARK NAM
 Clean negative space, editorial graphic design, museum-quality travel poster aesthetic, elegant composition, understated luxury, vintage screen-print texture, artistic architectural illustration, no people, no photorealistic background, no unnecessary objects, 4:5 vertical composition.
 
 [LANDMARK] reimagined as a collectible minimalist travel-art poster, combining architectural sketching, vintage printmaking, geometric abstract shapes, delicate linework, halftone texture, muted location-inspired colors, and elegant negative space. The landmark remains instantly recognizable but feels like a hand-crafted piece of modern graphic art. Add tiny birds, subtle environmental elements, coordinates, and minimal location typography. Premium editorial aesthetic, artistic, sophisticated, highly shareable, 4:5 vertical.
+```
+
+</details>
+
+<a id="gpt-image-road-trip-vibes-poster"></a>
+### 森林公路照片与插画版对照海报
+
+<a href="https://x.com/harboriis/status/2121992083602833709"><img src="../../previews/gpt-image-road-trip-vibes-poster.jpg" width="360"></a>
+
+提示词把画面拆成上半部分的写实照片和下半部分的插画，并要求两者姿势与构图完全一致，这样两个版本能对齐。同时写明 4:5 版式、画框区域以及标题和副标题，给模型一个具体的海报结构。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@harboriis on X](https://x.com/harboriis/status/2121992083602833709) · 202 赞，统计于 2026-11-17
+
+[`photo-to-illustration`](tags.md#tag-photo-to-illustration) [`split-layout`](tags.md#tag-split-layout) [`editorial-poster`](tags.md#tag-editorial-poster) [`road-trip`](tags.md#tag-road-trip)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Transform the uploaded reference image into a beautiful, premium editorial illustration poster.
+
+Composition: Create a vertical 4:5 split-layout design. The upper half should display the original photograph in its realistic photographic style, preserving the subject's exact appearance, facial features, hairstyle, outfit, pose, and expression.
+
+The lower half should feature a beautifully stylized 2D illustration of the exact same subject, recreating the original photograph's pose, expression, clothing, and composition. Convert the subject into a charming, hand-painted digital illustration with soft brush textures, clean shapes, delicate outlines, warm skin tones, and beautiful artistic details.
+
+Background Design: Transform the original background into a creative illustrated environment. Add minimal geometric architecture, abstract shapes, subtle plants, soft natural elements, and a complementary color palette inspired by the original photograph.
+
+Poster Layout: Place the illustration inside a clean rectangular artwork frame, surrounded by a warm ivory or cream-colored background. Add a large elegant uppercase headline beneath the illustration, with a small complementary subtitle and a subtle decorative line.
+
+Typography: Use thin, sophisticated, widely spaced uppercase lettering. Choose a short title that matches the mood of the photograph, with a smaller minimalist tagline underneath.
+
+Art Direction: Modern Japanese editorial poster design, contemporary lifestyle illustration, soft pastel colors, warm sunlight, minimalist graphic design, artistic storytelling, premium magazine aesthetic.
+
+Important: Maintain the original person's identity and recognizable features. The illustrated version must clearly resemble the person in the original photograph. Keep the top photograph realistic and the bottom illustration artistic. Ensure both versions match perfectly in pose and composition.
+
+High-quality details, balanced layout, elegant negative space, professional art direction, 4:5 portrait poster.
+```
+
+</details>
+
+<a id="gpt-image-2-6-taj-mahal-giant-t-poster"></a>
+### 泰姬陵与巨型字母T双重曝光海报
+
+<a href="https://x.com/Aiwithkami/status/2121660880178106681"><img src="../../previews/gpt-image-2-6-taj-mahal-giant-t-poster.jpg" width="360"></a>
+
+固定模板中的地标、城市和国家占位符，可以让同一结构生成每个目的地的海报。把超大字母的首字母分成深蓝和玫瑰两种色调，并让建筑穿过字母边缘，使双重曝光效果清晰可见。
+
+GPT Image 2.6 · 文生图 · 出处: [@Aiwithkami on X](https://x.com/Aiwithkami/status/2121660880178106681) · 200 赞，统计于 2026-11-17
+
+[`typography`](tags.md#tag-typography) [`double-exposure`](tags.md#tag-double-exposure) [`architecture`](tags.md#tag-architecture) [`poster`](tags.md#tag-poster) [`landmark`](tags.md#tag-landmark)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create an exceptionally sophisticated, contemporary architectural art poster featuring [LANDMARK NAME], [CITY], [COUNTRY].
+
+1. GIANT TYPOGRAPHIC COMPOSITION
+
+Feature one enormous, oversized uppercase letter associated with the destination name as the central graphic element.
+
+The letter should dominate the composition, extending almost across the entire poster.
+
+Use bold, elegant, geometric typography with distinctive curves and negative spaces.
+
+2. LANDMARK INTEGRATION
+
+Seamlessly integrate a highly detailed architectural photograph or realistic architectural illustration of [LANDMARK NAME] into and across the oversized letter.
+
+The landmark should appear to emerge from the typography, partially overlap its boundaries and interact naturally with its shape.
+
+Preserve the landmark’s authentic architectural details, proportions and recognisable silhouette.
+
+Create an artistic double-exposure effect where the architecture and typography become one unified visual composition.
+
+3. DISTINCTIVE COLOUR TREATMENT
+
+Choose a unique colour palette inspired by the destination’s cultural identity, national colours and architectural character.
+
+Use two or three contrasting colours within the oversized typography.
+
+Apply translucent colour overlays across selected sections of the landmark, creating a beautiful combination of architectural photography, coloured light and graphic shapes.
+
+Every new destination must receive a different colour combination. Never repeat palettes.
+
+4. TEXTURE & BACKGROUND
+
+Use a warm ivory, soft white or subtle textured paper background.
+
+Introduce delicate architectural sketch marks, distressed ink textures, faded photographic grain and subtle print imperfections around the central composition.
+
+Keep the surrounding space clean and uncluttered.
+
+5. EDITORIAL TYPOGRAPHY
+
+Include the following information:
+
+[LANDMARK NAME]
+
+[CITY NAME]
+
+[COUNTRY NAME]
+
+Add small vertical typography along one side, geographical coordinates and a subtle destination-inspired tagline.
+
+Use sophisticated editorial typography with carefully balanced spacing.
+
+6. ART DIRECTION
+
+Luxury architectural editorial design, experimental typography, architectural double exposure, contemporary Swiss graphic design, oversized letterforms, cinematic monochromatic photography, translucent colour blocking and minimalist gallery poster aesthetics.
+
+7. FINAL PRESENTATION
+
+Create a visually striking, intellectual and artistic collectible landmark poster.
+
+The architecture must remain recognisable while becoming an integral part of the oversized letter.
+
+Vertical 4:5 composition, premium art-print quality, exceptional visual balance and sophisticated negative space.
+
+Avoid ordinary travel-poster layouts, decorative clutter, excessive colours and generic typography.
 ```
 
 </details>
@@ -4028,6 +4207,160 @@ multi-exposure poster design featuring an Over-sized body young Indian woman por
 
 </details>
 
+<a id="nano-banana-flipkart-more-to-explore-collage"></a>
+### Flipkart 活动海报，行走模特与商品拼贴
+
+<a href="https://x.com/Diplomeme/status/2120812720241222007"><img src="../../previews/nano-banana-flipkart-more-to-explore-collage.jpg" width="360"></a>
+
+提示词按固定顺序分层描述画面（背景、色块、图形、商品、模特、文字），并把模特姿态设为八成态度、两成自然，让人物保持行走而不是摆拍。明确规定黄色色块占画面四到六成、标题轻微旋转两到五度，使版式可以稳定复现。
+
+Nano Banana 2.1 · 文生图 · 出处: [@Diplomeme on X](https://x.com/Diplomeme/status/2120812720241222007) · 157 赞，统计于 2026-11-17
+
+[`flipkart`](tags.md#tag-flipkart) [`collage`](tags.md#tag-collage) [`e-commerce`](tags.md#tag-e-commerce) [`streetwear`](tags.md#tag-streetwear)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+BRAND NAME = FLIPKART
+Act as a Senior Social Media Art Director and Digital Collage Artist specializing in bold, high-impact e-commerce advertising campaigns for Instagram and digital platforms.
+CAMPAIGN TITLE: “MORE TO EXPLORE.”
+CORE MESSAGE: More choices. More discoveries. More possibilities.
+PHASE 1: CONCEPTUAL FRAMEWORK
+Create a dynamic digital collage that merges contemporary lifestyle photography with bold graphic design and playful commercial art direction.
+The campaign celebrates the excitement of discovering everything in one shopping destination — fashion, electronics, beauty, home, appliances, and everyday essentials.
+Aesthetic direction:
+* Contemporary commercial editorial
+* Youth-driven visual energy
+* Playful retail storytelling
+* Bold graphic experimentation
+* Premium e-commerce advertising
+Visual language:
+Torn magazine edges, oversized typography, floating product cutouts, hand-drawn arrows, graphic stickers, paper textures, playful annotations, and bold colour blocking.
+The final composition should feel like an international creative agency’s retail campaign, combining editorial photography with an energetic digital collage aesthetic.
+PHASE 2: MODEL & PHOTOGRAPHY
+* Subject: One stylish, confident Indian young adult model, age 22–28.
+* Pose Energy: 80% attitude, 20% natural.
+    (Dynamic walking pose, looking toward camera, holding a shopping bag, interacting naturally with products — NEVER static.)
+* Outfit: Contemporary casual streetwear — oversized blue jacket, clean white innerwear, relaxed-fit trousers, and modern sneakers.
+* Hero Products: A curated selection of lifestyle shopping categories, including a smartphone, headphones, sneakers, skincare, and a home accessory.
+* Photography Style: High-end commercial lifestyle photography.
+* Background Removal: Clean, sharp extraction with realistic edges.
+* Camera Angle: Slight low angle with natural perspective.
+* Crop: Full body or 3/4 body, with the model clearly visible.
+The model must look authentic and photorealistic, with natural skin texture, realistic anatomy, expressive body language, and premium commercial photography quality.
+PHASE 3: COLOR BLOCKING FOUNDATION
+* Primary Color Blob:
+    Large organic Flipkart-inspired bright yellow shape (40–60% of frame).
+* Color Selection:
+    1 dominant vibrant yellow with Flipkart blue and controlled white accents.
+* Shape Style:
+    Irregular, hand-painted / torn paper (NO perfect geometry).
+* Texture:
+    Brush grain / noise (15–25% opacity).
+* Placement:
+    Behind or wrapping around the model and product arrangement, creating a strong visual frame.
+Use yellow as the dominant visual signature and blue as a contrasting graphic accent.
+PHASE 4: GRAPHIC ELEMENTS LAYER
+Add 3–5 abstract elements:
+Element types:
+* Hand-drawn shopping arrows and motion indicators.
+* Product-inspired doodles and sketches.
+* Irregular circles and organic blobs.
+* Torn retail magazine fragments.
+* Graphic stickers and handwritten annotations.
+Rules:
+* Colors: 2–3 total (primary + 1–2 accents).
+* Placement: Asymmetric (top-left + bottom-right bias).
+* Scale: Small (5%) + medium (15%).
+* Avoid center clutter.
+* Keep imperfect, handmade feel.
+Product cutouts should appear naturally integrated into the composition, with realistic proportions, shadows, and reflections.
+PHASE 5: TYPOGRAPHY INTEGRATION
+* Logo:
+    Official Flipkart logo in the upper-left or upper-right (10–15% width). Preserve its accurate original logo proportions, blue-and-yellow identity, and shopping-bag symbol.
+* Slogan/Headline:
+    “MORE TO EXPLORE.”
+* Supporting Copy:
+    “Discover more. Shop everything you love.”
+* Additional Microcopy:
+    “THE EVERYDAY SHOPPING EDIT”
+    “STYLE • TECH • HOME • MORE”
+    “YOUR NEXT DISCOVERY STARTS HERE”
+* Type Style:
+    Bold sans-serif / grotesk / geometric, inspired by contemporary retail advertising and editorial typography.
+* Treatment:
+    Mix straight + slight rotation (2–5°). Use oversized typography with deliberate cropping and layered placement.
+* Hierarchy:
+    Logo → Headline → Supporting copy.
+Typography must be sharp, correctly spelled, highly legible, and integrated naturally into the collage.
+PHASE 6: TEXTURE & BACKGROUND
+* Base Layer:
+    Warm off-white / light grey (NOT pure white).
+* Color Range:
+    RGB 245–250 (warm neutral).
+* Texture Options:
+    Recycled magazine paper grain / subtle cardboard texture / analog print noise / torn paper edges.
+* Rule:
+    Texture should be FELT, not dominant.
+Maintain strong contrast between the warm neutral background, vibrant yellow colour blocking, blue accents, and product photography.
+PHASE 7: COMPOSITION RULES
+* Layout:
+    Asymmetric balance (model off-center).
+* Breathing Room:
+    15–20% negative space.
+* Layering Order:
+    Background → Color blob → Graphics → Product cutouts → Model → Typography.
+* Focal Point:
+    Model + shopping products = 60%.
+    Graphics = 40% support.
+* Movement:
+    Strong diagonal flow
+    (top-left → bottom-right OR reverse).
+The composition should communicate variety and discovery without making the poster look like a cluttered product catalogue.
+PHASE 8: BRAND INTELLIGENCE (AUTO-ADAPT)
+Adapt energy based on Flipkart’s multi-category e-commerce positioning:
+→ Fashion
+Contemporary styling, confident poses, expressive fashion photography.
+→ Electronics
+Sleek product photography, sharp reflections, futuristic graphic accents.
+→ Beauty & Personal Care
+Clean product arrangements, premium textures, modern beauty editorial styling.
+→ Home & Living
+Warm lifestyle photography, inviting spaces, tactile product details.
+→ Appliances
+Bold product silhouettes, clean commercial lighting, strong visual hierarchy.
+→ Everyday Shopping
+Relatable Indian lifestyle moments, energetic compositions, approachable visual storytelling.
+Maintain Flipkart’s recognisable yellow-and-blue brand identity while creating a distinctive campaign aesthetic.
+PHASE 9: SOCIAL MEDIA FOOTER (OPTIONAL)
+* Bottom strip (8–10% height).
+* Light neutral background.
+* CTA: “DISCOVER MORE ON FLIPKART”.
+* Social handles / icons, if required.
+* Clean grid layout.
+* Keep minimal (contrast to collage).
+TECHNICAL SPECS:
+* Aspect Ratio: 4:5 (primary) or 1:1.
+* Resolution: 2400 × 3000px+.
+* Color Mode: sRGB (Instagram optimized).
+* Sharpness: High detail, slight grain allowed.
+* Output Style: Digital collage mimicking analog craft.
+* Photography Base (before cutout):
+    50mm or 85mm lens, f/2.8, shallow depth of field.
+FINAL ART DIRECTION:
+Create a premium, Behance-featured e-commerce SMM campaign that feels like a collaboration between an international creative advertising agency and a leading Indian retail brand.
+The final artwork must be visually bold, commercially engaging, compositionally sophisticated, and instantly recognisable as a Flipkart campaign.
+STRICT RULES:
+* Do not create a generic discount or sale poster.
+* No fabricated prices, discount percentages, or promotional claims.
+* No distorted product designs, logos, or brand marks.
+* Do not alter or recreate the Flipkart logo incorrectly.
+* Avoid random floating products without visual purpose.
+* Keep the model and product selection as the primary visual focus.
+```
+
+</details>
+
 <a id="nano-banana-vintage-country-travel-poster-template"></a>
 ### 适用于任意国家的复古羊皮纸旅行海报
 
@@ -4360,6 +4693,57 @@ Typography must remain subtle and secondary to the illustration. Use a natural h
 - Subtle, context-aware handwritten typography in the lower panel.
 
 Core principle: The original photograph determines what is depicted. The illustration style determines how the lower half is redrawn. Preserve the source's identity and composition while transforming the lower panel into an elegant, minimalist Japanese illustration poster.
+```
+
+</details>
+
+<a id="gpt-image-2-6-stay-warm-shared-scarf"></a>
+### 黄色针织围巾连接两个铅笔素描人物
+
+<a href="https://x.com/MrLarus/status/2120192333148987761"><img src="../../previews/gpt-image-2-6-stay-warm-shared-scarf.jpg" width="360"></a>
+
+提示词将写实面料与石墨线稿并置，只有围巾呈现真实质感，人物保持手绘风格。指定强调色并让面料占据画面 45 到 60% 的面积，使针织物成为一个醒目的雕塑式主体。
+
+GPT Image 2.6 · 文生图 · 出处: [@MrLarus on X](https://x.com/MrLarus/status/2120192333148987761) · 135 赞，统计于 2026-11-17
+
+[`mixed-media`](tags.md#tag-mixed-media) [`fashion-poster`](tags.md#tag-fashion-poster) [`knitwear`](tags.md#tag-knitwear) [`editorial`](tags.md#tag-editorial)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+[REALISTIC MATERIAL]: {Silk satin / Chunky knitwear / Sailcloth / Other fabrics}
+
+[ILLUSTRATED SUBJECT]: {Fashion model / Surfer / Two people / Sailor}
+
+[VISUAL INTERACTION]: {Describe how the real fabric transforms, flows, wraps around, or interacts with the illustrated subject}
+
+[ACCENT COLOR]: {Scarlet Red / Cobalt Blue / Butter Yellow / Emerald Green}
+
+[HEADLINE]: {Short English title, 1–3 words}
+
+[TAGLINE]: {One short, meaningful English sentence}
+
+[ASPECT RATIO]: 9:16 vertical
+
+Create a premium mixed-media editorial poster combining photorealistic fabric photography with elegant hand-drawn pencil illustrations.
+
+The central concept is a striking collision between 2D sketches and 3D reality. Render the [ILLUSTRATED SUBJECT] as refined black graphite line art with natural proportions, expressive poses, delicate shading, and sophisticated fashion-editorial aesthetics.
+
+Render the [REALISTIC MATERIAL] with exceptional photographic realism. Preserve authentic fibers, surface texture, folds, thickness, highlights, shadows, and natural material behavior. Use [ACCENT COLOR] as the dominant visual anchor.
+
+The fabric must physically interact with the illustration through [VISUAL INTERACTION]. Let realistic material emerge from sketched outlines, wrap around illustrated figures, overlap drawn elements, or transform into functional objects. Ensure convincing contact points, perspective, occlusion, and soft cast shadows.
+
+Composition: Use a warm ivory paper background with subtle texture and generous negative space. Create one bold, sculptural fabric shape occupying approximately 45–60% of the composition. Keep the illustrated subject clearly visible and the visual relationship instantly recognizable.
+
+Typography: Add [HEADLINE] in large, elegant, high-contrast editorial serif typography, inspired by luxury fashion magazines. Place [TAGLINE] beneath it in smaller refined italic text. Allow subtle interaction between the fabric and typography while keeping all words readable. English text only.
+
+Lighting: Soft directional studio lighting, realistic material reflections, natural shadow depth, and rich but controlled color contrast.
+
+The final result should feel like an internationally acclaimed fashion editorial: artistic, tactile, sophisticated, visually surprising, and immediately engaging.
+
+Avoid: Fully photorealistic people, cartoon characters, cheap CGI textures, floating fabrics without physical connections, cluttered backgrounds, excessive decoration, distorted anatomy, unreadable typography, extra text, logos, watermarks, numbering, and glass effects.
+
+Key principle: The fabric feels real. The characters remain hand-drawn. Their physical interaction makes the impossible feel believable.
 ```
 
 </details>
@@ -6489,683 +6873,6 @@ At the top, write the destination name in thin, spaced-out uppercase lettering: 
 Overall mood: Peaceful, poetic, artistic, minimalist, nostalgic, and sophisticated — like a page from a beautifully illustrated travel journal.
 
 Technical details: Square 1:1 composition, crisp fine-line drawing, restrained pastel colours, plenty of cream negative space, no photorealism, no 3D effects, no glossy finish, no heavy shadows, no clutter, and no extra text. Ensure the destination name is spelled correctly.
-```
-
-</details>
-
-<a id="gpt-image-prime-hydration-luxury-editorial-poster"></a>
-### 黑色影棚海报，运动员手持青柠色PRIME饮料瓶
-
-<a href="https://x.com/Diplomeme/status/2073457723379995093"><img src="../../previews/gpt-image-prime-hydration-luxury-editorial-poster.jpg" width="360"></a>
-
-正面站姿配合直视镜头，把饱和色只留给瓶身，在哑光黑无缝背景上形成唯一焦点。超大窄体标题置于人物身后，既保留顶部留白，也让画面更像时尚杂志封面而非运动广告。
-
-GPT Image 2 · 文生图 · 出处: [@Diplomeme on X](https://x.com/Diplomeme/status/2073457723379995093) · 85 赞，统计于 2026-10-29
-
-[`fashion-editorial`](tags.md#tag-fashion-editorial) [`product-poster`](tags.md#tag-product-poster) [`studio-lighting`](tags.md#tag-studio-lighting) [`minimal-typography`](tags.md#tag-minimal-typography)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-SYSTEM ROLE
-
-You are an elite commercial art director specializing in luxury editorial advertising, fashion photography, and premium product campaigns.
-
-Think like a hybrid of:
-
-Balenciaga Campaign Team
-Nike Editorial
-Apple Product Marketing
-AKQA Sports
-
-Core behavior:
-
-- prioritize restraint and luxury
-- preserve Prime brand identity
-- reject generic sports advertising
-- avoid AI-generated clichés
-
-Never create stadium scenes, splash effects, generic athlete posters, or AI-slop visuals.
-
-TASK
-
-Create an ultra-premium editorial social media campaign poster for PRIME Hydration.
-
-Campaign objective:
-
-Transform PRIME from a sports drink into a premium cultural status object through luxury editorial storytelling.
-
-Final creative must feel minimal, iconic, premium, and instantly recognizable.
-
-BRAND DNA
-
-Brand:
-PRIME Hydration
-
-Industry:
-Sports Hydration / Lifestyle Beverage
-
-Core Brand Values:
-
-- performance
-- culture
-- youth
-- hype
-- identity
-- desirability
-
-Brand truth:
-
-PRIME does not simply hydrate.
-
-PRIME signals cultural energy and elite performance.
-
-Psychological positioning:
-
-Hydration as identity.
-
-HERO SUBJECT
-
-Use one elite athlete as the hero.
-
-Athlete characteristics:
-
-- lean muscular physique
-- premium sportswear styling
-- calm intense facial expression
-- direct eye contact
-- silent confidence
-
-Critical:
-
-No action pose.
-
-Stillness must communicate power.
-
-Pose:
-
-Athlete stands front-facing, slightly off-center, body relaxed but powerful, PRIME bottle hanging naturally in one hand near thigh, shoulders squared, chin slightly lowered, eyes locked into camera.
-
-Expression must feel intimidating yet controlled.
-
-PRODUCT HERO
-
-Use PRIME bottle as premium secondary hero.
-
-Bottle details:
-
-- tack sharp focus
-- cold condensation droplets
-- matte bottle texture
-- crisp label readability
-- clean specular highlights
-
-Bottle must feel collectible.
-
-ENVIRONMENT
-
-Create ultra-minimal luxury studio environment.
-
-Scene:
-
-matte black seamless cyclorama studio
-deep negative space
-subtle floor reflection
-clean shadow falloff
-no props
-no sports environment
-
-Environment must feel expensive and silent.
-
-VISUAL COMPOSITION
-
-Platform:
-Instagram SMM
-
-Aspect Ratio:
-4:5 vertical
-
-Resolution:
-1080 x 1350
-
-Composition blueprint:
-
-Top 25%
-Negative space + editorial masthead
-
-Center 60%
-Athlete portrait + bottle
-
-Bottom 15%
-Minimal CTA + brand mark
-
-Composition ratio:
-
-45% negative space
-35% athlete
-20% product + typography
-
-Strong negative space required.
-
-COLOR SYSTEM
-
-Primary:
-
-Matte Black
-White
-
-Secondary:
-
-Deep Gray
-Skin highlights
-
-Accent:
-
-PRIME bottle flavor color only
-
-Color rules:
-
-Black dominates.
-Bottle color becomes visual focal point.
-No extra neon.
-
-TYPOGRAPHY SYSTEM
-
-Use:
-
-oversized condensed sans serif
-luxury editorial spacing
-minimal hierarchy
-massive scale
-
-Typography placement:
-
-large but sparse
-partially cropped
-fashion-magazine style
-
-Headline examples:
-
-PRIME
-
-or
-
-STAY PRIME
-
-or
-
-FUEL DISCIPLINE
-
-Typography must feel premium and iconic.
-
-GRAPHIC DESIGN SYSTEM
-
-Use:
-
-editorial grid
-negative space
-minimal overlays
-clean alignment
-zero clutter
-
-Design language must feel:
-
-luxury
-minimal
-fashion-forward
-timeless
-
-LIGHTING
-
-Use high-fashion studio lighting.
-
-Lighting setup:
-
-hard overhead spotlight
-strong side rim light
-deep controlled shadows
-sharp skin highlights
-precise bottle reflections
-
-Skin texture must remain realistic.
-
-MATERIAL DETAIL
-
-Materials:
-
-matte fabric realism
-natural skin pores
-micro sweat sheen
-condensation droplets
-soft floor reflection
-
-Everything must feel tactile and premium.
-
-ANTI-SLOP NEGATIVES
-
-Avoid:
-
-stadiums
-energy bursts
-splash effects
-cheap neon
-generic sports poses
-messy typography
-AI artifacts
-plastic skin
-
-QUALITY BAR
-
-Balenciaga editorial quality.
-Nike campaign discipline.
-Apple product lighting precision.
-
-Viewer reaction:
-
-"This feels like luxury culture, not a beverage ad."
-```
-
-</details>
-
-<a id="nano-banana-editorial-poster-motion-ghost-figures"></a>
-### 带动态模糊虚影的编辑风人像海报
-
-<a href="https://x.com/CodeByPoonam/status/2107769327751709117"><img src="../../previews/nano-banana-editorial-poster-motion-ghost-figures.jpg" width="360"></a>
-
-先锁定上传照片的人脸特征，再按场景、背景、光线、文字分块写清版式。粗体窄字压在下半身前形成层次，结尾用否定清单排除多余图形和文字。
-
-Nano Banana 2.1 · 上传图改图 · 出处: [@CodeByPoonam on X](https://x.com/CodeByPoonam/status/2107769327751709117) · 83 赞，统计于 2026-10-28
-
-[`editorial-poster`](tags.md#tag-editorial-poster) [`identity-lock`](tags.md#tag-identity-lock) [`typography`](tags.md#tag-typography) [`motion-blur`](tags.md#tag-motion-blur) [`cinematic`](tags.md#tag-cinematic)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Use the uploaded photo of me as the main subject. Keep my face, skin tone, hair and features exactly the same. Recreate the style and layout of the reference poster.
-
-Scene: A vertical 4:5 editorial poster. I stand in the center, facing the camera with a calm, serious expression. My head is slightly tilted. I wear a flowy, elegant midi dress in a deep charcoal navy shade. The fabric has soft natural folds.
-
-Background: A soft blue-grey studio wall with a cinematic teal and navy gradient. Two blurred, motion-smeared figures in dark oversized clothing stand on the left and right edges. They look like long-exposure ghosts. Keep them out of focus.
-
-Lighting: Soft, moody natural light. Gentle rim light on my hair. Muted film tones, fine grain, shallow depth of field. Fashion editorial look.
-
-Text layout:
-- Top center: small, wide-spaced white text "SONI"
-- Center, over the lower body: huge, bold, condensed white sans-serif text "PROMPT". It sits in front of the dress, slightly overlapping me.
-- Just below it: orange handwritten script text "NanoBanana 2.1", slightly tilted
-
-Do not add any arrow, button, oval or pill shape. Do not add any other text, logos or watermarks.
-
-Style: premium magazine poster, clean typography, high contrast text, cinematic, photorealistic, 4:5  aspect ratio
-```
-
-</details>
-
-<a id="chatgpt-queen-acronym-poster-personal"></a>
-### 金色 QUEEN 缩写海报配个人拼贴
-
-<a href="https://www.tiktok.com/@ninersqueen76/video/7686313195148954894"><img src="../../previews/chatgpt-queen-acronym-poster-personal.jpg" width="360"></a>
-
-提示词让模型自行选词并生成缩写，因此每个字母都有一行特质说明。将上传照片设为唯一身份参考，使人脸保持一致，道具和版式则承载人物个性。
-
-ChatGPT · 上传图改图 · 出处: [@ninersqueen76 on TikTok](https://www.tiktok.com/@ninersqueen76/video/7686313195148954894) · 79 赞，统计于 2026-10-30
-
-[`acronym`](tags.md#tag-acronym) [`typography`](tags.md#tag-typography) [`personalized`](tags.md#tag-personalized) [`identity-reference`](tags.md#tag-identity-reference)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Using my uploaded photo as the ONLY identity reference and what you have learned about me through our conversations when available, choose ONE word that best represents who I am, then turn that word into a personalized acronym. Do NOT ask me to choose the word—surprise me. Choose the word independently based entirely on what you know about my personality, humor, interests, hobbies, lifestyle, values, strengths, quirks, boundaries, relationships, things I love, and patterns you have noticed about me. It can be funny, badass, wholesome, chaotic, witchy, sarcastic, slightly unhinged, meaningful, or a mixture—whatever genuinely fits ME. Do not copy or reuse another person’s acronym. Create a detailed cinematic poster featuring me. At the VERY TOP, display my chosen acronym in large, bold letters with a period after EVERY individual letter, including the final letter.
-```
-
-</details>
-
-<a id="gpt-image-humble-pie-pistachio-almond-ad"></a>
-### 女性手持开心果冰淇淋桶的广告海报
-
-<a href="https://x.com/Chaemate_/status/2070802529504420212"><img src="../../previews/gpt-image-humble-pie-pistachio-almond-ad.jpg" width="360"></a>
-
-上传参考照片并逐项列出需要保留的面部特征，人物长相得以稳定，同时只改变服装、姿势和场景。把版面分区写得很具体（左侧标题、右侧中部人物、最右侧叠放的罐装产品），并给出准确文案，让每段文字落在指定位置。
-
-GPT Image 2 · 上传图改图 · 出处: [@Chaemate_ on X](https://x.com/Chaemate_/status/2070802529504420212) · 77 赞，统计于 2026-10-29
-
-[`ice-cream`](tags.md#tag-ice-cream) [`advertising`](tags.md#tag-advertising) [`identity-consistency`](tags.md#tag-identity-consistency) [`typography`](tags.md#tag-typography)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Use my uploaded reference image of Mira as the identity reference. Preserve her face exactly. Do NOT alter her facial identity, facial proportions, eye shape, nose, lips, jawline, eyebrows, skin tone, smile, or recognizable facial features. Maintain perfect identity consistency. Only change hairstyle, outfit, pose, accessories, lighting, and environment.
-
-Create a premium luxury ice cream advertisement for a fictional ice cream brand called Humble Pie in a cinematic commercial style.
-
-Composition
-
-Create a 16:9 landscape composition suitable for a billboard, website hero banner, or premium advertising campaign.
-
-Mira stands on the right side of the frame while the left side contains bold advertising typography and branding.
-
-Pose
-
-Mira is holding an open Humble Pie Pistachio Almond ice cream tub toward the camera with one hand.
-
-The lid is completely removed.
-
-Inside the tub, the ice cream should look freshly packed, with beautiful rounded artisan scoops visible on top, exactly like premium ice cream tubs seen in luxury advertisements.
-
-The surface must NOT look eaten or hollow.
-
-Several smooth, rounded pistachio scoops should be stacked naturally above the rim.
-
-With the other hand, Mira is holding a spoon with one perfectly rounded pistachio ice cream scoop, bringing it toward her mouth.
-
-She has a joyful, energetic expression as if she's about to take the first delicious bite.
-
-Face
-
-Keep Mira's facial identity 100% identical to the reference.
-
-Do not modify:
-
-eye shape
-eyebrow shape
-nose
-lips
-smile
-face proportions
-cheekbones
-jawline
-skin texture
-
-Only improve commercial-quality lighting.
-
-Hairstyle
-
-Give Mira a stylish modern hairstyle.
-
-Loose textured half-up hairstyle with soft volume, face-framing strands, luxurious waves, glossy hair, elegant commercial beauty styling.
-
-Outfit
-
-Dress Mira in a fashion-forward premium outfit.
-
-Color:
-
-Ultra-bright fluorescent chartreuse / electric neon lemon yellow
-
-The color should be extremely vibrant and eye-catching while remaining luxurious.
-
-The outfit should look like premium designer fashion suitable for a luxury lifestyle advertisement.
-
-Accessories
-
-Replace the necklace with a minimal elegant luxury gold necklace.
-
-Simple gold earrings.
-
-Natural makeup.
-
-Product
-
-Brand name:
-
-Humble Pie
-
-Flavor:
-
-Pistachio Almond
-
-The packaging should look premium, modern, minimal, and luxurious.
-
-The large ice cream tub in Mira's hand should clearly display:
-
-Humble Pie
-Pistachio Almond
-Premium Ice Cream
-
-Add realistic pistachios around the product.
-
-Background
-
-Luxury studio environment.
-
-Warm olive-green wall with soft sunlight.
-
-Large tropical leaf shadows.
-
-Soft cinematic lighting.
-
-Premium commercial atmosphere.
-
-Typography
-
-Create a modern advertising layout.
-
-Large headline:
-
-MADE FOR REAL MOMENTS.
-
-Subheadline:
-
-Real ingredients. Unreal indulgence.
-
-Top-left logo:
-
-Humble Pie Ice Cream
-
-Bottom CTA:
-
-SCOOP HAPPINESS
-
-Include small premium feature icons:
-
-Real Ingredients
-No Artificial Flavors
-Made With Love
-Delivered To Your Door
-
-On the right side, showcase multiple Humble Pie flavor tubs stacked vertically.
-
-Lighting
-
-Luxury commercial photography.
-
-Golden-hour sunlight.
-
-Soft rim lighting.
-
-Natural skin tones.
-
-Beautiful highlights.
-
-Subtle shadows.
-
-Ultra-clean reflections.
-
-Camera
-
-Medium shot.
-
-Slight low angle.
-
-85mm commercial lens.
-
-Extremely sharp focus.
-
-Luxury advertising composition.
-
-Style
-
-Apple-level commercial photography.
-
-Luxury FMCG campaign.
-
-Magazine-quality.
-
-High-end product advertising.
-
-Hyper-realistic.
-
-Photorealistic.
-
-Ultra-detailed.
-
-8K.
-
-Award-winning commercial photography.
-
-Perfect typography alignment.
-
-Premium color grading.
-
-Crisp packaging details.
-
-Luxury visual storytelling.
-
-Most Important Instruction: Preserve Mira's facial identity exactly as in the reference image. Do not generate a different woman. Only change the hairstyle, outfit, jewelry, pose, product interaction, background, typography, and commercial styling while keeping her face identical.
-```
-
-</details>
-
-<a id="gpt-image-rainy-day-editorial-poster"></a>
-### 雨天撑伞行人的编辑风海报
-
-<a href="https://x.com/Goodmanprotocol/status/2100508937514897577"><img src="../../previews/gpt-image-rainy-day-editorial-poster.jpg" width="360"></a>
-
-用方括号主题占位让模板可复用，同时限定低饱和色板、22%到30%留白，以及手写笔触标题加衬线小字的字体层级。胶片颗粒与纸张质感带来印刷杂志的味道。
-
-GPT Image 2.5 · 文生图 · 出处: [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2100508937514897577) · 76 赞，统计于 2026-10-28
-
-[`editorial`](tags.md#tag-editorial) [`poster`](tags.md#tag-poster) [`template`](tags.md#tag-template) [`typography`](tags.md#tag-typography) [`film-grain`](tags.md#tag-film-grain)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create one premium 3:4 vertical editorial art poster for [COUNTRY / LOCATION / SUBJECT].
-
-TEXT-TO-IMAGE GENERATION ONLY. Generate the complete artwork from [COUNTRY / LOCATION / SUBJECT] alone. No reference image or additional visual input is required.
-
-Automatically interpret the subject and create a visually compelling composition that reflects its character, atmosphere, appearance, setting, colors, and distinctive visual identity.
-
-LOWER SECTION
-
-Use a refined background palette inspired by [COUNTRY / LOCATION / SUBJECT], using limited low-saturation tones such as misty gray, warm beige, light khaki, cream white, dusty rose, or soft gray-pink, selecting only the colors that naturally suit the subject.
-
-Keep approximately 22–30% continuous negative space. Avoid complicated scenery, excessive objects, sticker-like elements, or meaningless decoration.
-
-TYPOGRAPHY
-
-Create a sophisticated editorial typography system based on the subject.
-
-Automatically generate a short main title inspired by the subject's appearance, mood, action, or personality.
-
-Add one natural 8–16 word English sentence written like a subtle editorial note or magazine caption.
-
-Use a carefully designed hand-drawn or retro bubble-style font for the main title. Use smaller refined typography for supporting text, such as an elegant serif, subtle typewriter style, or delicate book-inspired font.
-
-Create clear hierarchy, breathing room, and intentional spacing. Typography should feel integrated into the artwork rather than simply placed on top.
-
-VISUAL STYLE
-
-Keep the overall palette restrained and cohesive, with subtle film grain, tactile paper texture, and a gentle printed-editorial quality.
-
-Allow slight asymmetry and imperfect positioning to create a sophisticated independent-magazine aesthetic without making the composition messy.
-
-IMPORTANT
-
-Keep the main subject recognizable and naturally proportioned. Do not cartoonize the person or subject.
-
-Avoid:
-multiple mascots, existing animated characters, brand logos, QR codes, watermarks, signatures, gibberish text, incorrect hands, extra limbs, excessive decoration, cheap templates, overly cute styling, or cluttered compositions.
-
-FINAL LOOK
-
-The finished artwork should feel like a premium independent fashion magazine, contemporary art publication, or sophisticated editorial ZINE—minimal, tactile, slightly imperfect, modern, and visually intelligent.
-
-STRICT 3:4 VERTICAL | TEXT-ONLY GENERATION | RESTRAINED COLORS | 22–30% NEGATIVE SPACE | PREMIUM EDITORIAL TYPOGRAPHY | SUBTLE FILM GRAIN & PAPER PRINT TEXTURE.
-
-Generate everything autonomously from [COUNTRY / LOCATION / SUBJECT] alone.
-```
-
-</details>
-
-<a id="gpt-image-red-bull-russian-poster-model-can"></a>
-### 红牛俄语海报，模特手持易拉罐
-
-<a href="https://x.com/codewithhajra/status/2071604951919329794"><img src="../../previews/gpt-image-red-bull-russian-poster-model-can.jpg" width="360"></a>
-
-附上产品原图作为精确参考，锁定罐身的logo、配色和包装；低角度广角配合透视变形，让产品占据前景。要求俄语标题和口号完全清晰、无拼写错误，使排版保持专业广告海报的质感。
-
-GPT Image 2 · 上传图改图 · 出处: [@codewithhajra on X](https://x.com/codewithhajra/status/2071604951919329794) · 75 赞，统计于 2026-10-29
-
-[`red-bull`](tags.md#tag-red-bull) [`poster`](tags.md#tag-poster) [`russian-text`](tags.md#tag-russian-text) [`forced-perspective`](tags.md#tag-forced-perspective) [`product-reference`](tags.md#tag-product-reference)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Use the downloaded product image as an exact reference. Fully preserve the shape, packaging, materials, colors, proportions, logo, and brand elements.
-An ultra-realistic commercial advertising poster. A low-angle wide-angle lens view. A confident, stylish model holding the product, directly facing the camera. The product dominates the foreground due to the forced perspective effect.
-A modern fashion image, with clothing, accessories, and color palette automatically adapting to the product's style and colors. Dynamic energy, premium brand aesthetics, trendy lifestyle content.
-A highly detailed product with realistic textures, reflections, water droplets, and perfectly legible packaging. The background is filled with graphic elements in the brand's colors: graffiti, brush strokes, paint splashes, collage textures, arrows, stars, lightning bolts, stickers, and advertising typography.
-All text in the image must be written in Russian, fully legible, grammatically correct, without spelling errors, random symbols, distorted letters, unreadable words, or AI artifacts. All headlines, slogans, descriptions, flavors, characteristics, and advertising phrases should look like a real professional advertisement.
-The AI automatically adapts fonts, sizes, composition, and text placement to the poster layout.
-Premium magazine design, high contrast, sharp focus, commercial product photography, luxury advertising, fashion editorial, ultra realistic, photorealistic, HDR, 8K.
-Avoid: unreadable text, errors in Russian, AI artifacts, CGI, cartoonish style, distorted product, blurriness, watermarks, and low quality.
-```
-
-</details>
-
-<a id="gpt-image-food-photo-ingredient-sketchbook-poster"></a>
-### 披萨实拍与手绘食材速写手册海报
-
-<a href="https://x.com/Goodmanprotocol/status/2108555814604812483"><img src="../../previews/gpt-image-food-photo-ingredient-sketchbook-poster.jpg" width="360"></a>
-
-提示词把画面按固定比例分成上方真实美食摄影和下方水粉食材手册，并用笔直分隔线隔开。下半部分以居中的小菜品插画、箭头和编号标本组成田野笔记结构，再用长长的避免清单控制画面不杂乱。
-
-GPT Image 2.5 · 文生图 · 出处: [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2108555814604812483) · 67 赞，统计于 2026-10-28
-
-[`food`](tags.md#tag-food) [`poster`](tags.md#tag-poster) [`editorial`](tags.md#tag-editorial) [`sketchbook`](tags.md#tag-sketchbook) [`split-layout`](tags.md#tag-split-layout)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a premium 3:4 vertical editorial food-art poster for [COUNTRY / CITY / LOCAL DISH / FOOD SUBJECT].
-
-TEXT-TO-IMAGE ONLY.
-Generate the entire composition from the written dish or food subject alone. Do not request, upload, use, or depend on any reference image or existing photograph. Automatically identify the dish’s authentic appearance, ingredients, textures, and cultural identity.
-
-CORE CONCEPT:
-Create one elegant travel-food editorial poster combining realistic food photography in the upper section with a handmade ingredient-observation sketchbook in the lower section. Feature ONE recognizable plate or bowl containing a single dish, with at least three visually distinct ingredients.
-
-UPPER SECTION — REALISTIC FOOD PHOTOGRAPHY:
-Occupy approximately 48% of the canvas height. Create a beautifully composed, authentic photographic view of the specified local dish, preserving believable ingredient textures, natural lighting, realistic proportions, and culturally accurate presentation. Use subtle food-magazine color grading and extremely light film grain. Keep the entire plate or bowl visible.
-
-SECTION DIVIDER:
-Separate both sections with a straight, clean horizontal boundary. A very thin warm-ivory paper strip is optional. No gradients, blending, or elements crossing the divider.
-
-LOWER SECTION — INGREDIENT OBSERVATION SHEET:
-Use warm ivory drawing paper with visible fibers, fine grain, faint smudges, and subtle handmade irregularities. Create a sparse, asymmetrical food-field-note composition rather than repeating the full photographic dish.
-
-Place ONE small, simplified but recognizable illustration of the complete dish near the center. Keep it secondary and compact, occupying approximately one-third of the lower section’s width.
-
-Around it, illustrate 3–6 individually selected ingredients inferred from the dish. Use small watercolor specimens, cut-surface studies, herb sketches, grain clusters, sauce swatches, or distinctive ingredient shapes. Arrange them at varied sizes and angles with generous breathing room.
-
-DRAWING STYLE:
-Matte gouache, delicate black-ink outlines, slightly hesitant hand-drawn strokes, dry-brush gaps, uneven pigment coverage, soft watercolor edges, visible paper texture, and restrained natural colors. Keep ingredients recognizable without excessive detail. Add a few fine arrows and small handwritten numbers connecting specimens to the miniature dish.
-
-TYPOGRAPHY:
-Use minimal, understated editorial annotations only when helpful. Short ingredient names or tiny handwritten notes are acceptable. Keep all text small and secondary; avoid unnecessary titles or decorative lettering.
-
-COLOR PALETTE:
-Derive the colors naturally from the dish, balanced by warm cream, muted earth tones, and subtle ink details.
-
-FINAL AESTHETIC:
-Authentic local food photography × handmade ingredient studies × refined travel-food editorial × collectible culinary field notebook.
-
-AVOID:
-Multiple dishes, duplicate plates, mixed meals, inaccurate ingredients, excessive garnish, crowded layouts, gradients, bleeding transitions, glossy digital painting, flat vector infographics, 3D rendering, commercial menu styling, excessive text, logos, watermarks, and interface elements.
-
-FORMAT:
-3:4 vertical portrait, approximately 48% photographic food scene above and 52% illustrated ingredient-observation sheet below, crisp horizontal separation, generous negative space, premium publication quality, ultra-high definition.
 ```
 
 </details>

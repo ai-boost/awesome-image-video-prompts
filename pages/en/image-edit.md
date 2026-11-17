@@ -1,6 +1,6 @@
 # Photo editing
 
-[Back to the list](../../README.md) · All 65 entries
+[Back to the list](../../README.md) · All 66 entries
 
 <a id="nano-banana-charmander-ember-route-101"></a>
 ### Charmander uses Ember on a sunset route
@@ -1156,6 +1156,49 @@ GPT Image 2.6 · Edit · Source: [@Ayu_AI_0912 on X](https://x.com/Ayu_AI_0912/s
 
 ```text
 添付した画像を使ってかっこいいMV風のGIFアニメにして
+```
+
+</details>
+
+<a id="gpt-image-2-6-cat-ear-beanie-duffle-wardrobe"></a>
+### Woman in cat ear beanie and duffle coat
+
+<a href="https://x.com/MoodLock_JP/status/2122675907269984410"><img src="../../previews/gpt-image-2-6-cat-ear-beanie-duffle-wardrobe.jpg" width="360"></a>
+
+The protected wardrobe rule treats each garment as a fixed identity, so exact hex colours, hardware and counts such as three rope toggles and matching buttons are locked while only use and worn position change. Each item is described by its construction and its role in the final outfit, which lets one category be swapped without disturbing the rest.
+
+GPT Image 2.6 · Edit · Source: [@MoodLock_JP on X](https://x.com/MoodLock_JP/status/2122675907269984410) · 7 likes on 2026-11-17
+
+[`wardrobe`](tags.md#tag-wardrobe) [`outfit-swap`](tags.md#tag-outfit-swap) [`cat-ear-beanie`](tags.md#tag-cat-ear-beanie) [`duffle-coat`](tags.md#tag-duffle-coat)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+久々に衣装プロンプト投稿です
+このコートのデザイン好き。
+
+カテゴリごとに交換可能な衣装プロンプトを配布中
+生成環境：ChatGPT Images 2.6
+
+#AIart #プロンプト
+
+PROTECTED WARDROBE RULE — HIGHEST PRIORITY: Treat each garment description below as its immutable final product identity. Preserve construction, parts, hardware, material, pattern, and every registered graphic or marking—its surface, side, orientation, scale, colors, content, spelling, and count. FINAL WORN STATE overrides only the scoped item's use, position, side, orientation, fastening, layering, folds, tucks, knots, and drape. If source prose omits or misclassifies a component required by an explicit selection, that selection corrects only that component. A SOURCE GARMENT label describes the unstyled item, never the completed silhouette. Do not redesign, add, remove, mirror, duplicate, relocate, or redraw protected details.
+
+Wardrobe:
+
+Headwear:
+
+A tall pull-on knit beanie in deep espresso brown (#302A28), with a softly squared crown closed across the top into two pointed, cat-ear-like corners. Fuzzy yarn and raised horizontal knit courses encircle the crown above a broad turned-back cuff; the stretchy opening is brimless. A small muted gray taupe (#8A8379) square patch on the wearer's left front carries a charcoal brown (#49413B) border and subtle circular line ornament.
+
+Outerwear / layers:
+
+A loose, lower-thigh-length hooded duffle-style coat in smoky chocolate brown (#49403D) matte woven fabric, with softly dropped shoulders, roomy long sleeves, a gently flared body and slanted front pockets. A deep attached hood has dark espresso (#2E2825) fuzzy drawcords emerging at its opening and hanging to knotted ends. The broad overlapping front closes with three widely spaced horizontal warm ivory (#E5E1D4) twisted-rope loops engaging elongated brown black (#242322) toggles; the rope mounts have bulky knots and short frayed ends. A supplementary wide buttoned storm overlap, high throat fastening and adjustable sleeve cuffs use matching brown black round buttons. The front continues below the toggles to a straight hem, and the back is plain.
+
+Bottom: Loose knee-length bloomer shorts in dusky olive gray (#666555) matte woven fabric, with a covered elastic pull-on waistband, roomy seat and two voluminous legs. Each leg gathers gently into a narrow inset hem band beneath the softly draped outer section, with a short, densely gathered matching ruffle extending below it around the leg opening.
+
+Legwear: A matching pair of knee-high, footless leg warmers in heathered medium gray (#767773) substantial matte knit. Snug fine-ribbed upper cuffs lead into long, broad vertical-ribbed tubes with matching lower ribbed openings; the generous length can slouch around the ankles over shoe collars. Both ends stretch on without ties or hardware.
+
+Footwear: A pair of chunky platform ankle boots with matte sandy blue gray (#7F8D99) suede uppers, broad rounded closed toes, uninterrupted vamps and enclosed heel counters. Thick chalk white (#F0EDE5) faux fur lines and borders the low ankle openings, dipping at the front and rising at the sides before continuing around the back. The soft wide openings allow a pull-on fit without laces or hardware. Very thick gray (#8B8D8F) platform soles have tall smooth sidewalls, a slim welt line following the curved toe seam and shallow tread with evenly spaced short vertical notches along the bottom perimeter.
 ```
 
 </details>

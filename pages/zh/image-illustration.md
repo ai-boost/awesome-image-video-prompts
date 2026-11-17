@@ -1,6 +1,6 @@
 # 插画
 
-[返回目录](../../README_zh.md) · 全部 121 条
+[返回目录](../../README_zh.md) · 全部 122 条
 
 <a id="nano-banana-map-screenshot-anime-panorama-shibuya"></a>
 ### 由地图截图生成的涩谷十字路口动漫全景
@@ -1127,6 +1127,35 @@ A breathtaking ultra-realistic miniature toy universe where every living toy has
 
 A breathtaking ultra-realistic cinematic scene of a giant human standing above a magical toy universe, carefully observing the tiny toy world below. The man looks amazed and curious as he watches miniature toy cities, toy people, tiny vehicles, colorful houses, and a fantasy toy kingdom built like a living world. Massive scale difference between the human and the miniature world, macro photography perspective, cinematic lighting, warm golden sunlight, realistic textures, shallow depth of field, fantasy atmosphere, ultra detailed, 8K, masterpiece quality.
 Is koo b improve karoo
+```
+
+</details>
+
+<a id="gpt-image-2-6-stained-glass-canal-clock-tower"></a>
+### 彩色玻璃运河豪宅与钟楼日出
+
+<a href="https://x.com/churvikv/status/2122700397856834038"><img src="../../previews/gpt-image-2-6-stained-glass-canal-clock-tower.jpg" width="360"></a>
+
+按区域逐一写明位置与配色（天空、钟楼、宅邸、左右两侧、车辆），让模型按固定版式生成。用铅条彩窗或镶金掐丝珐琅定义材质，并要求厚实的金色凸起轮廓与高反光，形成彩窗质感。
+
+GPT Image 2.6 · 文生图 · 出处: [@churvikv on X](https://x.com/churvikv/status/2122700397856834038) · 77 赞，统计于 2026-11-17
+
+[`stained-glass`](tags.md#tag-stained-glass) [`winter`](tags.md#tag-winter) [`cityscape`](tags.md#tag-cityscape)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Ornate stained-glass and cloisonne enamel artwork, wide 16:9 panoramic composition. Every shape is a glossy jewel-toned enamel panel separated by thick raised gold outlines, like leaded glass or gilt cloisonne, luminous and highly reflective. Full bleed, no frame, no border, no lettering.
+SKY: a radiant pale gold sunrise behind the tower, long sunbeams bursting up and outward in fanning rays. Heavy baroque clouds swirl at both upper corners in deep cobalt, turquoise, emerald and violet glass with gold rims and bright highlights.
+TOWER: centre, a tall baroque clock tower rising in tiers, its domed cupola and lantern in emerald and gold with a gilded spire and cross, glowing windows and gold scrollwork on every level.
+MANSION: beneath it a grand three-storey canal house in vivid emerald green with white and gold pilasters, arched windows, a crimson jewelled medallion above the entrance, a lit doorway with stone steps and amber lanterns. A small figure sits on the steps.
+LEFT: a low arched stone bridge over a side canal, a bare snow-frosted tree, distant gabled houses fading into pale gold mist.
+RIGHT: tall narrow Dutch canal houses in deep blue and plum with glowing ruby-red windows and white-frosted trees, edged in gold.
+CAR: right of centre, a vintage 1930s sedan in deep navy blue with chrome grille, round headlamps, curved fenders and spoked wheels, on the snowy quay.
+BRIDGE: the foreground is an ornate iron footbridge spanning the canal, its railing a lattice of gold quatrefoils and rings on blue-green posts with gold finials, a brick arch beneath.
+WATER: dark canal water churning with restless enamel waves, streaked with long gold reflections and jewel flecks of turquoise, amber and violet.
+SNOW: thick white snow caps the banks, hedges and flower beds, with red and yellow blossoms and ice-tipped grasses poking through at the bottom corners.
+PALETTE: emerald, cobalt, turquoise, violet, ruby red, molten gold, pale gold light, white. Glossy enamel, gold linework.
 ```
 
 </details>

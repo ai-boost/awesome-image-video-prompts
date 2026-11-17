@@ -1,0 +1,89 @@
+id: gpt-image-2-6-taj-mahal-giant-t-poster
+title:
+  en: Taj Mahal emerging from a giant T
+  zh: 泰姬陵与巨型字母T双重曝光海报
+model: GPT Image 2.6
+mode: text-to-image
+category: poster
+tags:
+- typography
+- double-exposure
+- architecture
+- poster
+- landmark
+source:
+  name: '@Aiwithkami on X'
+  url: https://x.com/Aiwithkami/status/2121660880178106681
+  credit: Kami AI
+  likes: 200
+  captured: '2026-11-17'
+  posted: '2026-11-14'
+notes:
+  en: Fixed template slots for landmark, city and country let one structure produce a poster per destination. Splitting the oversized initial into navy and rose tones, and letting the building cross the letter edge, makes the double exposure read clearly.
+  zh: 固定模板中的地标、城市和国家占位符，可以让同一结构生成每个目的地的海报。把超大字母的首字母分成深蓝和玫瑰两种色调，并让建筑穿过字母边缘，使双重曝光效果清晰可见。
+prompt: |
+  Create an exceptionally sophisticated, contemporary architectural art poster featuring [LANDMARK NAME], [CITY], [COUNTRY].
+
+  1. GIANT TYPOGRAPHIC COMPOSITION
+
+  Feature one enormous, oversized uppercase letter associated with the destination name as the central graphic element.
+
+  The letter should dominate the composition, extending almost across the entire poster.
+
+  Use bold, elegant, geometric typography with distinctive curves and negative spaces.
+
+  2. LANDMARK INTEGRATION
+
+  Seamlessly integrate a highly detailed architectural photograph or realistic architectural illustration of [LANDMARK NAME] into and across the oversized letter.
+
+  The landmark should appear to emerge from the typography, partially overlap its boundaries and interact naturally with its shape.
+
+  Preserve the landmark’s authentic architectural details, proportions and recognisable silhouette.
+
+  Create an artistic double-exposure effect where the architecture and typography become one unified visual composition.
+
+  3. DISTINCTIVE COLOUR TREATMENT
+
+  Choose a unique colour palette inspired by the destination’s cultural identity, national colours and architectural character.
+
+  Use two or three contrasting colours within the oversized typography.
+
+  Apply translucent colour overlays across selected sections of the landmark, creating a beautiful combination of architectural photography, coloured light and graphic shapes.
+
+  Every new destination must receive a different colour combination. Never repeat palettes.
+
+  4. TEXTURE & BACKGROUND
+
+  Use a warm ivory, soft white or subtle textured paper background.
+
+  Introduce delicate architectural sketch marks, distressed ink textures, faded photographic grain and subtle print imperfections around the central composition.
+
+  Keep the surrounding space clean and uncluttered.
+
+  5. EDITORIAL TYPOGRAPHY
+
+  Include the following information:
+
+  [LANDMARK NAME]
+
+  [CITY NAME]
+
+  [COUNTRY NAME]
+
+  Add small vertical typography along one side, geographical coordinates and a subtle destination-inspired tagline.
+
+  Use sophisticated editorial typography with carefully balanced spacing.
+
+  6. ART DIRECTION
+
+  Luxury architectural editorial design, experimental typography, architectural double exposure, contemporary Swiss graphic design, oversized letterforms, cinematic monochromatic photography, translucent colour blocking and minimalist gallery poster aesthetics.
+
+  7. FINAL PRESENTATION
+
+  Create a visually striking, intellectual and artistic collectible landmark poster.
+
+  The architecture must remain recognisable while becoming an integral part of the oversized letter.
+
+  Vertical 4:5 composition, premium art-print quality, exceptional visual balance and sophisticated negative space.
+
+  Avoid ordinary travel-poster layouts, decorative clutter, excessive colours and generic typography.
