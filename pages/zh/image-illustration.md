@@ -1,6 +1,6 @@
 # 插画
 
-[返回目录](../../README_zh.md) · 全部 122 条
+[返回目录](../../README_zh.md) · 全部 124 条
 
 <a id="nano-banana-map-screenshot-anime-panorama-shibuya"></a>
 ### 由地图截图生成的涩谷十字路口动漫全景
@@ -228,6 +228,44 @@ Nano Banana 2 · 文生图 · 出处: [@iamsofiaijaz on X](https://x.com/iamsofi
 
 ```text
 Side profile portrait of a young man with short messy hair and round glasses, minimalist black silhouette style, facing left, dramatic lighting, bright yellow background, dynamic black ink splashes and paint streaks exploding from the head and shoulders, abstract motion effect, modern digital illustration, high contrast black and yellow color palette, cinematic composition, sharp details, graphic novel style, paint splatter art, ultra clean background, 4k.
+```
+
+</details>
+
+<a id="gpt-image-2-6-santorini-postcard-blue-domes"></a>
+### 圣托里尼明信片，蓝顶教堂与风车
+
+<a href="https://x.com/Naiknelofar788/status/2124723328414048351"><img src="../../previews/gpt-image-2-6-santorini-postcard-blue-domes.jpg" width="360"></a>
+
+提示词固定了版式结构：顶部标题、沿同一底线排列的 4 到 6 个地标、底部手写城市名，以及角落里一句小字，因此每个城市的明信片都采用相同结构。要求每个城市使用独特的柔和配色，让各地保持辨识度，整体画风也依然淡雅。
+
+GPT Image 2.6 · 文生图 · 出处: [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2124723328414048351) · 222 赞，统计于 2026-11-24
+
+[`travel-postcard`](tags.md#tag-travel-postcard) [`greece`](tags.md#tag-greece) [`pastel`](tags.md#tag-pastel) [`landmarks`](tags.md#tag-landmarks)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create an exceptionally cute, charming and minimalist illustrated travel postcard featuring [CITY], [COUNTRY].
+ART STYLE & COMPOSITION
+A clean, bright white postcard background with a delicate hand-drawn illustration of 4–6 iconic landmarks arranged side by side along a simple horizontal baseline.
+Include the most recognisable architectural landmarks of the destination, illustrated in a playful, slightly imperfect sketch style with fine black outlines, soft pastel watercolour fills and charming architectural details.
+Keep the landmarks simple, recognisable, colourful and beautifully balanced, almost like a little illustrated travel diary.
+COLOUR PALETTE
+Use gentle, cheerful pastel shades inspired by the destination. Soft lavender, peach, butter yellow, powder blue, blush pink and muted coral. Every city should have its own distinctive colour combination.
+TYPOGRAPHY
+At the top, write:
+A LITTLE POSTCARD FROM
+At the bottom, feature the city name in beautiful flowing handwritten script.
+THE LITTLE THOUGHT — SIGNATURE DETAIL
+Place one tiny handwritten sentence in a bottom corner, almost like a personal travel journal note.
+
+Keep this thought small, subtle and intimate.
+FINAL LOOK
+Airy composition, generous white negative space, delicate imperfect ink lines, soft pastel illustrations, whimsical charm and a lovely handmade postcard aesthetic.
+Vertical 4:5 format. Elegant, cute, minimal, nostalgic and timeless.
+No realistic photography, no heavy backgrounds, no excessive decorations, no unnecessary flowers, no clutter, no 3D effects.
+Little thoughts for different destinations
 ```
 
 </details>
@@ -1743,6 +1781,60 @@ Strict restrictions
 No camera movement, no scene cuts, no transitions, no motion blur, no realistic 3D rendering, no smooth vector illustration, no UI, no text, no frame borders, no added structures, and no inconsistent character designs.
 
 The result should resemble a beautifully animated living pixel-art game environment, not a static illustration with simple motion effects.
+```
+
+</details>
+
+<a id="nano-banana-festive-jellyfish-dot-art-caricature"></a>
+### 戴圣诞帽和墨镜的点画水母
+
+<a href="https://x.com/Shinebynous/status/2123418518762717435"><img src="../../previews/nano-banana-festive-jellyfish-dot-art-caricature.jpg" width="360"></a>
+
+五个词各定一项：主体、配饰、节日气氛、媒介和风格，模型据此补全细节。点画这个媒介词让整张图由彩色圆点构成。
+
+Nano Banana 2.1 · 文生图 · 出处: [@Shinebynous on X](https://x.com/Shinebynous/status/2123418518762717435) · 10 赞，统计于 2026-11-24
+
+[`dot-art`](tags.md#tag-dot-art) [`jellyfish`](tags.md#tag-jellyfish) [`christmas`](tags.md#tag-christmas) [`caricature`](tags.md#tag-caricature)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Spectacles festive jellyfish dot-art caricature
+
+1. Made with
+@midjourney
+ 8.2
+2. Made with
+@Kling_ai
+  4
+3. Made with
+@krea_ai
+  3
+4. Made with
+@magnific
+  one
+5. Made with
+@ideogram_ai
+ 4.5
+6. Made with
+@dreamina_ai
+  Seedream 5.5
+7. Made with
+@ChatGPT
+  2.6
+8. Made with
+@recraftai
+  4.1
+9. Made with Microsoft MIA
+10.Made with
+@BlueberryFunded
+ Flux 3
+11. Made with
+@Google
+  Nano Banana 2.1
+12. Made with
+@Alibaba_Qwen
+ Qwen 3.0 pro
 ```
 
 </details>

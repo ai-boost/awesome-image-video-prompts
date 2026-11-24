@@ -1,6 +1,64 @@
 # 动作、追逐与运动
 
-[返回目录](../../README_zh.md) · 全部 236 条 · [1](video-action.md) · **2** · [3](video-action-3.md)
+[返回目录](../../README_zh.md) · 全部 242 条 · [1](video-action.md) · **2** · [3](video-action-3.md)
+
+<a id="h3-ocean-abyss-fall-overhead"></a>
+### 男子仰面下坠穿过珊瑚礁与沉船
+
+<a href="https://x.com/I_Muhammadali44/status/2085234595784773704"><img src="../../previews/h3-ocean-abyss-fall-overhead.jpg" width="360"></a>
+
+固定的俯视镜头加上角色设定图作为唯一身份参考，使下坠保持垂直且面部一致。按顺序列出每个水下场景，让下坠有清晰的空间推进。
+
+MiniMax H3 · 参考生视频 · 出处: [@I_Muhammadali44 on X](https://x.com/I_Muhammadali44/status/2085234595784773704) · 44 赞，统计于 2026-10-29 · 发现于 [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
+
+[`underwater`](tags.md#tag-underwater) [`character-reference`](tags.md#tag-character-reference) [`overhead-camera`](tags.md#tag-overhead-camera) [`anamorphic`](tags.md#tag-anamorphic)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+"Use the uploaded character sheet the ONLY identity reference. Preserve the exact face, hairstyle, body proportions, skin tone, and appearance throughout the video.
+
+The camera remains directly above him looking straight downward during the entire sequence. He falls vertically beneath the camera through an impossible underwater abyss without changing direction.
+He stays on his back facing the lens, both arms reaching upward while bubbles, hair, clothing, and loose fabric stream upward through the water.
+
+He continuously falls through:
+vibrant coral reef, abandoned pirate ship, underwater research station, giant kelp forest
+submerged ancient city, whale migration corridor, volcanic hydrothermal vent field, endless dark ocean trench.
+
+Every level is entered by crashing through ceilings, glass domes, ship decks, coral arches, ruined temples, and collapsing structures. Schools of fish, jellyfish, manta rays, bubbles, seaweed, bioluminescent creatures, and debris flow upward past the camera naturally.
+
+His expressions progress from surprise and panic to determination, breath-holding, fear, exhaustion, and final acceptance while continuously reaching upward for anything that might stop his fall.
+
+24mm anamorphic lens, underwater cinematic lighting, volumetric light rays, realistic water distortion, gentle bloom, film grain, radial motion blur, handheld floating movement.
+
+Audio: Epic orchestral score mixed with deep underwater ambience, whale calls, distant metallic creaks, volcanic rumbles, rushing currents, and a powerful cinematic finale."
+```
+
+</details>
+
+<a id="wan-desert-racer-volcano-canyon-jump"></a>
+### 沙漠赛车在火山爆发与峡谷崩塌中飞驰
+
+<a href="https://x.com/AllaAisling/status/2093393927306928140"><img src="../../previews/wan-desert-racer-volcano-canyon-jump.jpg" width="360"></a>
+
+提示词按时间顺序写成连续的镜头节拍，并明确标出驾驶舱视角与航拍视角的切换，让模型有清晰的时间线可循。开场从旋转的车轮切入，先确立车辆形象，再逐步推进到火山喷发和跨越峡谷的动作。
+
+Wan 3.0 · 文生视频 · 出处: [@AllaAisling on X](https://x.com/AllaAisling/status/2093393927306928140) · 44 赞，统计于 2026-10-29
+
+[`racing`](tags.md#tag-racing) [`volcano`](tags.md#tag-volcano) [`aerial-shot`](tags.md#tag-aerial-shot) [`wan-3`](tags.md#tag-wan-3)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+My first try with Wan 3.0 in
+@openart_ai
+
+
+Prompt: A futuristic desert racing vehicle prepares for the most dangerous race ever attempted. The camera begins close to the spinning wheels as engines roar to life. The vehicle launches across a vast desert at extreme speed. Massive dust trails follow behind. Ahead, a chain of dormant volcanoes suddenly awakens. Explosions send ash and rocks into the sky. The racer speeds between collapsing rock formations. Lava begins flowing across the track. The camera alternates between cockpit views and sweeping aerial shots. One volcano erupts directly ahead, throwing giant boulders through the air. The racer dodges debris at the last moment. The ground starts splitting open. A huge canyon forms across the course. The vehicle accelerates toward the edge. The camera slows slightly as it launches across the gap. The racer lands successfully while the terrain behind collapses into lava. The final shot reveals the vehicle racing toward the horizon as multiple volcanoes erupt across the landscape.
+Ultra-realistic cinematic racing sequence, extreme speed, realistic vehicle dynamics, volcanic destruction, dramatic scale, detailed environments, smooth camera work, IMAX quality, epic atmosphere, no text, no watermark.
+```
+
+</details>
 
 <a id="h3-armor-hero-ruined-city-sprint"></a>
 ### 跑者穿过烟尘弥漫的废城
@@ -2164,6 +2222,27 @@ Ultra-realistic game-engine rendering, 24fps, high detail, realistic NPC/environ
 
 </details>
 
+<a id="seedance-elevator-floor-13-horror-chase"></a>
+### 电梯升至十三层 女子逃离怪物追杀
+
+<a href="https://x.com/AIwithkhan/status/2113993237119844684"><img src="../../previews/seedance-elevator-floor-13-horror-chase.jpg" width="360"></a>
+
+提示词把剧情写成按顺序排列的动作节拍，最后用单独的 STYLE 段落说明写实质感、光线、镜头和声音。金属台灯、手机屏幕等具体道具为模型提供可见的剧情锚点，便于前后镜头保持一致。
+
+Seedance 2.5 · 文生视频 · 出处: [@AIwithkhan on X](https://x.com/AIwithkhan/status/2113993237119844684) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`halloween`](tags.md#tag-halloween) [`horror`](tags.md#tag-horror) [`action`](tags.md#tag-action)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create an ultra-realistic Halloween horror-action video featuring a young adult Korean woman with long black hair, wearing a black crop top, leather jacket, short dark skirt, and black boots. She escapes a mysterious figure during a thunderstorm and enters an abandoned hotel's elevator. The floor display suddenly changes to 13, revealing a blood-stained corridor filled with terrifying creatures. She sprints through dark hallways, smashes a creature with a metal lamp, jumps onto a collapsing balcony, and fights her way toward the exit as monsters chase her. She finally escapes into the rain, only to discover her phone displaying “FLOOR 13.” A monstrous reflection appears behind her before the screen cuts to black.
+
+STYLE: Photorealistic live-action horror, intense action, flickering lights, creepy shadows, realistic creature movements, cinematic camera work, thunder, screams, and suspenseful sound effects. No cartoon, anime, subtitles, or watermark.
+```
+
+</details>
+
 <a id="seedance-fire-fist-purple-dress"></a>
 ### 紫裙女子拳握火焰直冲镜头
 
@@ -2691,6 +2770,43 @@ Cinematic high-end 3D anime action, 30 seconds, 24fps, ultra sharp, no watermark
 20–25s: brief monochrome flash, then they race side by side through rain-streak motion. High kick from the girl hits the helmet in a gold-white burst. Wide shot: both stand on opposite glowing rings, weapons raised, gold sparkles falling.
 
 25–30s ENDING (same as original): overhead crane shot as they dash into the center. Floor cracks like glass. Extreme close clash — cyan vs gold, shards flying, visor splitting. White-out flash. Arena explodes outward: marble cubes, teal glass, smoke and a huge gold-white blast filling the frame. No logo. Hold the explosion.
+```
+
+</details>
+
+<a id="seedance-hooded-swordswoman-wraith-shore"></a>
+### 罩袍女剑客在废墟海岸与幽灵交战
+
+<a href="https://x.com/Viniai_/status/2122916879824306422"><img src="../../previews/seedance-hooded-swordswoman-wraith-shore.jpg" width="360"></a>
+
+用四个定时分镜保持同一女主角、幽灵、场景和色调，并为两个角色配参考图锁定形象。每个镜头写明运镜和冲击节点，单独的声音描述让每次碰撞都落在配乐的爆点上。
+
+Seedance 2.5 · 参考生视频 · 出处: [@Viniai_ on X](https://x.com/Viniai_/status/2122916879824306422) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`dark-fantasy`](tags.md#tag-dark-fantasy) [`sword-fight`](tags.md#tag-sword-fight) [`multi-shot`](tags.md#tag-multi-shot) [`sound-design`](tags.md#tag-sound-design)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Cinematic dark-fantasy battle, 16:9, ~50s, built in 4 shots (12–13s each). Same characters, location and grade in every shot.
+
+CHARACTERS (lock with reference images):
+• HEROINE: young woman, pale skin, long straight black hair, calm cold expression. Layered tattered black hooded cloak, wet and heavy, frayed edges. Wields a very long thin katana (nodachi). Moves low and fast, often crouched or kneeling in water.
+• WRAITH: floating skeletal spirit, bone-white skull, black smoke and torn rags for a body (no legs). Ribcage glows molten orange like embers inside. Rusted chains hang from bony wrists. Long clawed fingers. Leaves a trail of black ash particles. Eyes glow red when enraged.
+
+LOCATION: destroyed shoreline after a war. Ankle-deep grey seawater, wet rocks, broken wooden palisade walls, piles of splintered timber, a wrecked wooden sailing ship on the shore, a tall dark pagoda tower in the distance. Overcast sky with breaking clouds and soft sun rays behind.
+
+LOOK: photoreal, AAA game-cinematic. Desaturated teal-grey grade, crushed blacks, warm orange only from the ribcage glow. Anamorphic lens, shallow depth of field, heavy motion blur, handheld chase camera that whips, dives and orbits with the action. Water spray, ash and splinters in every shot.
+
+SHOT 1 (0–13s): Wide low angle. Heroine kneels in water, sword drawn. The wraith dives at her out of black smoke. She rolls; it smashes through a palisade, wood explodes. It swings its chains, she dodges, they clash. Fast push-in to an extreme close-up of the glowing ribcage as her blade stabs into it, embers burst out.
+
+SHOT 2 (13–26s): The wraith screams, arms spread, and blasts her back. She skids across the water and stops crouched, one hand on the surface. Black ink swirls in a circle around her hand. Front close-up of her face, emotionless. She charges; the camera races low over the water behind her. Mid-air clash, the wraith bursts into black ash and re-forms behind her.
+
+SHOT 3 (26–39s): The wraith hurls a giant ball of spiky black smoke. It hits the water next to her and blasts a huge white water explosion. She stays kneeling, unmoved. Slow-motion close-up of her gripping the sword over her shoulder. She leaps out of the spray and slashes; the wraith spins into a vortex of black smoke. Its skull lunges at the camera, red eyes ignite, red mist behind.
+
+SHOT 4 (39–50s): She leaps high, sword raised, and slams down into a huge splash. Chaotic close fight, black smoke whips past the lens. The wraith rises from wreckage and grows into a giant hulking skeletal demon draped in rags and chains, burning debris behind it. Its eyes flare red. It charges straight at the camera through the water, arms spread wide, chains swinging. Hard cut to black.
+
+SOUND (premium, loud, crisp, full-range, never muffled): deep epic orchestral score with taiko drums and low brass, rising to a huge hit at every clash. Sharp metallic sword swings and ringing steel. Bone and chain clatter. Heavy water splashes and impacts with deep sub-bass booms. Wood cracking and exploding. A distorted demonic wraith scream with a reverb tail. Wind and ash hiss. Wide stereo field, punchy transients, cinema-trailer mix. No dialogue.
 ```
 
 </details>
@@ -4213,115 +4329,6 @@ No modern objects, guns, modern clothing, random costume changes, extra characte
 No exaggerated anime-style effects or cartoon visuals.
 
 IMPORTANT: The scene should feel like an expensive Korean fantasy drama opening sequence. Natalia must appear calm and terrifyingly skilled, as though fighting several powerful mages is barely an inconvenience to her.
-```
-
-</details>
-
-<a id="seedance-neon-breach-cyberpunk-rooftop-chase"></a>
-### 霓虹都市天际线上的屋顶追逐
-
-<a href="https://x.com/Xaroon_x/status/2112430298973503726"><img src="../../previews/seedance-neon-breach-cyberpunk-rooftop-chase.jpg" width="360"></a>
-
-将 30 秒动作拆成五段带时间码的节拍，每段配有独立的镜头运动，并用 @image1 锁定唯一主角，使其面部和服装在各镜头中保持一致。00:27 的音乐切点提示与空间连续性说明，让声音和天桥布局在整段中保持统一。
-
-Seedance 2.5 · 参考生视频 · 出处: [@Xaroon_x on X](https://x.com/Xaroon_x/status/2112430298973503726)
-
-[`cyberpunk`](tags.md#tag-cyberpunk) [`action`](tags.md#tag-action) [`parkour`](tags.md#tag-parkour) [`drones`](tags.md#tag-drones) [`reference-lock`](tags.md#tag-reference-lock)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-NEON BREACH
-
-[ENGINE DIRECTIVE]
-Genre: Cyberpunk action thriller. Duration: exactly 30 seconds. Aspect ratio: 16:9. Target: 60fps where supported. Style: photorealistic Hollywood cinema, heavy rain, neon reflections, volumetric lighting, realistic motion blur and skin texture.
-
-HERO LOCK: @image1 is the only hero. Preserve his exact face, hairstyle, facial hair, skin tone, age, body proportions, outfit and accessories in every shot. No clones, costume changes, new weapons or invented powers.
-
-LOCATION: Halcyon Stack, a rain-soaked futuristic megacity with two 40-story towers connected by a glass skybridge, rooftop machinery, steel gantries and abstract neon signs. Maintain spatial continuity.
-
-ENEMIES: Three red-scanner hunter drones using ramming and taser darts, plus a 3-meter armored enforcer with matte-black plating, hydraulic limbs and a dim blue visor.
-
-CAMERA: Motivated low tracking, lateral pursuit, tactical high angles, over-the-shoulder shots, controlled slow-motion orbit and vertical descending tracking. Natural motion blur. Hero generally travels left to right.
-
-[AUDIO]
-Original pulsing synth bass, industrial percussion, rising tense strings, heavy rain, distant sirens, drone rotors, hydraulic servos, glass shattering, steel groans and cable snaps. Music cuts at 00:27, leaving rain and a soft sustained synth pad.
-
-[TIMELINE]
-
-00:00–00:05 | THE HUNT
-Wide aerial view of neon towers in heavy rain. Camera drops behind @image1 sprinting across a rooftop. Three drones rise and lock on at 00:03. He vaults a ventilation unit.
-
-00:05–00:10 | DRONE ALLEY
-He slides beneath a diving drone, sending it crashing into a wall. He leaps, grabs a second drone and swings it into the third. Both crash through a billboard frame in sparks. He keeps running.
-
-00:10–00:15 | THE ENFORCER
-A massive armored enforcer smashes through a rooftop door. The hero pivots and races onto a transparent glass skybridge, with the city far below. The machine charges after him.
-
-00:15–00:20 | GLASS FLOOR
-The hero ducks a hydraulic punch, shattering the glass floor. Cracks spread beneath the enforcer. In a controlled slow-motion 180-degree orbit, the hero leaps across a 6-meter gap and grabs a swaying steel gantry.
-
-00:20–00:25 | CABLE DROP
-The enforcer lands heavily on the gantry. The hero grabs a maintenance cable and swings down the tower. Bolts shear, metal bends and the gantry collapses. He kicks off the glass facade and lands on a lower rooftop.
-
-00:25–00:30 | FINAL IMAGE
-The enforcer falls through neon-lit rain and impacts the street at 00:27. Silence follows. The hero rises at the rooftop edge and looks back at the shattered skybridge. Camera slowly pulls away, revealing the immense glowing city.
-
-END: Quiet, powerful cinematic composition. No text or logos.
-```
-
-</details>
-
-<a id="seedance-neon-street-martial-arts-fight"></a>
-### 霓虹街头女子击倒男子的格斗场面
-
-<a href="https://x.com/codewithhajra/status/2110290053670814031"><img src="../../previews/seedance-neon-street-martial-arts-fight.jpg" width="360"></a>
-
-按时间段（0到2秒、2到5秒等）拆分动作，把打斗编排成有先后顺序的步骤，模型可以逐步执行。前文写明两位角色的外貌细节，结尾再统一规定画幅、时长和一致性要求，让人物面容与服装在镜头切换中保持稳定。
-
-Seedance 2.5 · 文生视频 · 出处: [@codewithhajra on X](https://x.com/codewithhajra/status/2110290053670814031) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`fight-scene`](tags.md#tag-fight-scene) [`martial-arts`](tags.md#tag-martial-arts) [`neon-street`](tags.md#tag-neon-street) [`timed-beats`](tags.md#tag-timed-beats)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create an ultra-realistic, live-action cinematic fight scene featuring two 20-year-old adults. The girl is exceptionally pretty, with long, glossy dark-brown hair, beautiful expressive eyes, delicate facial features, a charming smile, and a confident, fearless attitude. She wears a stylish black fitted jacket, a cute top, blue jeans, and black boots. The boy is a handsome 20-year-old man with an athletic build, messy dark hair, and a cocky expression.
-
-0–2 seconds: On a neon-lit city street at night, the boy arrogantly blocks her path and suddenly tries to grab her arm. She pulls away instantly, giving him a deadly serious look.
-
-2–5 seconds: He throws a punch. She smoothly dodges, grabs his arm, spins around, and delivers a powerful kick to his stomach, making him stumble backward in shock.
-
-5–8 seconds: Furious, he charges at her again. She ducks his attack, sweeps his legs, and delivers a perfectly timed spinning kick that sends him crashing onto the pavement.
-
-8–10 seconds: She casually fixes her beautiful hair, looks down at him with a cheeky smirk, and says, “Big mistake, buddy.” She turns and walks away confidently while he lies stunned on the ground.
-
-Visual style: Photorealistic live-action, beautiful natural facial details, realistic skin texture, expressive eyes, detailed hair movement, professional martial arts choreography, fast dynamic camera tracking, dramatic cinematic lighting, realistic physics, authentic impact sounds, consistent character appearances, no gore, no supernatural effects, no cartoon visuals. Vertical 9:16 format, exactly 10 seconds.
-```
-
-</details>
-
-<a id="seedance-night-market-pursuit-alley-escape"></a>
-### 黄昏人群中的女子穿行夜市街道
-
-<a href="https://x.com/aiwithaly/status/2100462425308901480"><img src="../../previews/seedance-night-market-pursuit-alley-escape.jpg" width="360"></a>
-
-提示词按顺序列出各个动作节拍，并指定手持特写、低角度跟拍和结尾的固定镜头，便于模型在镜头之间连贯切换。音频只限现场声源，使追逐场景更加真实可信。
-
-Seedance 2.5 · 文生视频 · 出处: [@aiwithaly on X](https://x.com/aiwithaly/status/2100462425308901480) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`urban-chase`](tags.md#tag-urban-chase) [`night-market`](tags.md#tag-night-market) [`handheld`](tags.md#tag-handheld) [`photorealistic`](tags.md#tag-photorealistic)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a 30-second ultra-photorealistic live-action urban chase thriller set in a crowded evening street market. A young woman realizes a stranger is following her, accelerates into a run, weaves naturally through pedestrians and food stalls, ducks behind a market stall, then suddenly changes direction and disappears into a narrow alley just before the follower arrives.
-
-Show realistic human biomechanics, acceleration, momentum, friction, center-of-mass shifts, crowd reactions, fabric and bag physics, realistic object interaction, and natural environmental movement. Use handheld close-ups, over-the-shoulder shots, low running angles, side tracking, a hidden perspective behind the stall, and a tight alley shot with realistic camera inertia and autofocus.
-
-Use only diegetic sound: footsteps, breathing, crowd chatter, vendors, bicycles, fabric movement, traffic, and echoing alley footsteps. Natural mixed market lighting, realistic shadows, reflections, depth of field, and motion blur. End on a locked-off shot of the empty alley as her footsteps fade away.
-
-No CGI, animation, superhero movement, impossible parkour, teleportation, unrealistic crowd behavior, distorted anatomy, floating objects, weapons, gore, text, logos, or watermark.
 ```
 
 </details>

@@ -1,0 +1,43 @@
+id: gpt-image-2-6-santorini-postcard-blue-domes
+title:
+  en: Santorini postcard with blue domes and windmill
+  zh: 圣托里尼明信片，蓝顶教堂与风车
+model: GPT Image 2.6
+mode: text-to-image
+category: illustration
+tags:
+- travel-postcard
+- greece
+- pastel
+- landmarks
+source:
+  name: '@Naiknelofar788 on X'
+  url: https://x.com/Naiknelofar788/status/2124723328414048351
+  credit: simeon-sanai
+  likes: 222
+  captured: '2026-11-24'
+  posted: '2026-11-23'
+notes:
+  en: 'The prompt fixes a strict layout: a top caption, 4 to 6 landmarks on one baseline, a script city name and a single small corner note, so every city gets the same postcard structure. Asking for a distinct pastel palette per city keeps each destination recognisable while the look stays soft.'
+  zh: 提示词固定了版式结构：顶部标题、沿同一底线排列的 4 到 6 个地标、底部手写城市名，以及角落里一句小字，因此每个城市的明信片都采用相同结构。要求每个城市使用独特的柔和配色，让各地保持辨识度，整体画风也依然淡雅。
+prompt: |
+  Create an exceptionally cute, charming and minimalist illustrated travel postcard featuring [CITY], [COUNTRY].
+  ART STYLE & COMPOSITION
+  A clean, bright white postcard background with a delicate hand-drawn illustration of 4–6 iconic landmarks arranged side by side along a simple horizontal baseline.
+  Include the most recognisable architectural landmarks of the destination, illustrated in a playful, slightly imperfect sketch style with fine black outlines, soft pastel watercolour fills and charming architectural details.
+  Keep the landmarks simple, recognisable, colourful and beautifully balanced, almost like a little illustrated travel diary.
+  COLOUR PALETTE
+  Use gentle, cheerful pastel shades inspired by the destination. Soft lavender, peach, butter yellow, powder blue, blush pink and muted coral. Every city should have its own distinctive colour combination.
+  TYPOGRAPHY
+  At the top, write:
+  A LITTLE POSTCARD FROM
+  At the bottom, feature the city name in beautiful flowing handwritten script.
+  THE LITTLE THOUGHT — SIGNATURE DETAIL
+  Place one tiny handwritten sentence in a bottom corner, almost like a personal travel journal note.
+
+  Keep this thought small, subtle and intimate.
+  FINAL LOOK
+  Airy composition, generous white negative space, delicate imperfect ink lines, soft pastel illustrations, whimsical charm and a lovely handmade postcard aesthetic.
+  Vertical 4:5 format. Elegant, cute, minimal, nostalgic and timeless.
+  No realistic photography, no heavy backgrounds, no excessive decorations, no unnecessary flowers, no clutter, no 3D effects.
+  Little thoughts for different destinations

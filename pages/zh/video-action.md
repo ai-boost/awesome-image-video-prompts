@@ -1,6 +1,6 @@
 # 动作、追逐与运动
 
-[返回目录](../../README_zh.md) · 全部 236 条 · **1** · [2](video-action-2.md) · [3](video-action-3.md)
+[返回目录](../../README_zh.md) · 全部 242 条 · **1** · [2](video-action-2.md) · [3](video-action-3.md)
 
 <a id="seedance-seoul-subway-revenge"></a>
 ### 首尔地铁站复仇喜剧
@@ -390,6 +390,39 @@ POSITIVE LOCKS
 
 @ollie
  is the only character and is present in every shot. His proportions, cream neck, dark brown plumage, pale cream wing tips, salmon peach beak and legs, olive iris and crown tuft stay identical across all three attempts, progressively dirtier and more leaf strewn but never redesigned. The green palm fronds stay attached to his wings from the first frame to the last. Every launch carries him off the mountain into open air, and every landing happens in the jungle canopy or forest floor far below the track he ran on. The camera keeps moving in all three shots and always keeps the drop readable under him. Eyes stay natural, no eye glow. Contact shadows read clearly in every shot. The ridge, the three launch heights, the canopy, the rock spire, sky and cloud layer stay the same location and same time of day across all three shots. The flat faced rock spire keeps its face angled toward camera for the final impact. The torn leaf stays across his beak for the entire final close-up. Frame stays clean of text, subtitles, UI, logos and watermarks. Camera cuts only at 0:04.0 and 0:08.5.
+```
+
+</details>
+
+<a id="seedance-hot-sauce-sailor-nyc-fight"></a>
+### 辣酱水手与西装枪手在纽约街头搏斗
+
+<a href="https://x.com/TechieBySA/status/2109346265444024472"><img src="../../previews/seedance-hot-sauce-sailor-nyc-fight.jpg" width="360"></a>
+
+提示词采用带时间码的分段写法，为20秒的片段规定了固定的时间线，并在每一段重复辣酱触发的变化（脸红、冒烟、前臂膨胀），使角色状态前后一致。结尾的风格段用平涂色块、粗黑轮廓和每个镜头都换角度来固定画面风格。
+
+Seedance 2.5 · 文生视频 · 出处: [@TechieBySA on X](https://x.com/TechieBySA/status/2109346265444024472) · 929 赞，统计于 2026-11-24
+
+[`anime`](tags.md#tag-anime) [`action`](tags.md#tag-action) [`fight-scene`](tags.md#tag-fight-scene) [`nyc`](tags.md#tag-nyc)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+"Cinematic anime clip, 20 seconds. Busy NYC street at midday — bright clear sunshine, skyscrapers, yellow taxis, pedestrians scattering, parked cars.
+MAIN CHARACTER 1 — SHORT STOCKY MALE WITH MASSIVELY OVERSIZED FOREARMS: Toothpick in mouth. After hot sauce — face bright red, steam from ears, forearms tripling. Never backing down. Gets pushed back but always comes back harder.
+MAIN CHARACTER 2 — LEAN ATHLETIC MALE IN BLACK SUIT BLACK TIE: Heckler Koch P30L pistol. Completely calm and precise. Switches from gun to hand to hand instantly. Jiu jitsu, elbows, knees, throws — fastest most precise fighter main character 1 has ever faced.
+0:00–0:02 — Already mid fight. Main character 2 firing rapidly — bullets sparking off main character 1's massive forearms. Main character 1 advancing through gunfire not stopping. Main character 2 backing up still firing completely calm. Pedestrians scattering. Taxis screeching to a stop.
+0:02–0:04 — Main character 2's pistol clicking empty. Instantly switching to hand to hand — rapid jiu jitsu combination landing faster than anyone ever has. Main character 1 actually staggering — first time pushed back. Elbow knee throw — main character 1 hitting a parked car hard.
+0:04–0:06 — Main character 1 getting up slowly. Both advancing simultaneously — brutal exchange. Heavy wild punches vs precise deflections and rapid combinations. Both landing hits. Neither going down.
+0:06–0:08 — Main character 2 getting main character 1 in a chokehold from behind — actually holding him straining. Main character 1 reaching into shirt pulling out hot sauce chugging entire bottle mid chokehold. Face turning bright red. Steam blasting from ears. Forearms tripling — chokehold breaking apart by pure expansion. Main character 2 stumbling back.
+0:08–0:11 — Main character 2 seeing the transformation, not panicking, switching tactics — going low, targeting legs, pressure points, technical takedowns. Taking main character 1 down twice with pure technique. Main character 1 getting up both times harder to put down each time.
+0:11–0:14 — Most intense exchange. Main character 2 at absolute maximum — every technique every combination relentless. Main character 1 matching with raw power. Both getting hit. Both refusing to go down. NYC frozen around them.
+0:14–0:15 — Main character 2 throwing fastest combination yet — main character 1 catching his fist mid swing with one massive hand. Stopping it completely. Main character 2 knowing what's coming. One final rapid combination — not enough.
+0:15–0:17 — Main character 1 winding back biggest punch of entire video. Fist connecting with main character 2's chest. Biggest shockwave of video — suit jacket flying off mid air, tie flapping, main character 2 launching down entire NYC street sliding to a stop against a parked car far in the distance.
+0:17–0:18 — Main character 2 sitting up slowly. Straightening his tie calmly. Looking down the street. Nodding once — genuine respect.
+0:18–0:19 — Main character 1 adjusting his cap. Fresh toothpick in mouth. Steam fading. Nodding back once. Neither celebrating.
+0:19–0:20 — Wide from above. NYC street. Pedestrians returning. Two figures at opposite ends. Clear blue sky. Done.
+Cel-shaded 3D anime, Unreal Engine quality, busy NYC street midday bright clear sunshine skyscrapers yellow taxis pedestrians parked cars throughout, bold flat color blocking, hard edge shadows, thick black outlines, vibrant saturated colors, film grain, intense orchestral score never dropping every gunshot cracking sharp every hand to hand impact precise and hard every big punch enormous BOOM building to final punch, camera switching constantly never same angle twice — wide from above, low angles from street, medium side shots, close ups on faces fists and impacts — main character 1 always uploaded sheet toothpick face red after hot sauce steam forearms enormous never backing down.”
 ```
 
 </details>
@@ -3297,64 +3330,6 @@ MiniMax H3 · 参考生视频 · 出处: [@Cia0_exe on X](https://x.com/Cia0_exe
 [环境破坏累积系统] 技能释放过程中暗室环境持续受损且不可恢复：镜1地面石板出现细微电痕→镜2扇面放射电弧击中地面产生焦黑斑点→镜3光刃横斩在地面留下三米长月牙形焦痕→镜4光柱砸地产生蛛网龟裂与环形坑洞→镜5能量盘击中顶部产生圆形焦黑与碎石→镜6旋转漩涡在地面雕刻出螺旋电痕→镜7终极光束贯穿空气产生等离子体灼烧痕迹。所有破坏痕迹在后续镜头中持续可见，终幕镜8中所有痕迹发出微弱余光与角色呼吸同步明灭。
 
 [Typography动态效果宪法] 技能释放时浮现的日文汉字必须带动态效果：浮现时使用0.1秒快速淡入带轻微缩放从80%至100%，停留期间带细微电弧在文字边缘跳动，消散时使用0.2秒向随机方向飞散带动态模糊拖影与粒子消散效果。镜7满屏咒文汉字必须使用3D空间排列，部分文字位于焦前部分位于焦后，制造景深层次感，能量波击碎时文字向镜头方向与远离镜头方向双向飞散，飞散速度各不相同制造视差。所有Typography必须与闪电aura色彩严格同步：冰蓝闪电时使用冰蓝字色，紫蓝能量时使用紫蓝字色，炽白爆发时使用古金字色。
-```
-
-</details>
-
-<a id="h3-ocean-abyss-fall-overhead"></a>
-### 男子仰面下坠穿过珊瑚礁与沉船
-
-<a href="https://x.com/I_Muhammadali44/status/2085234595784773704"><img src="../../previews/h3-ocean-abyss-fall-overhead.jpg" width="360"></a>
-
-固定的俯视镜头加上角色设定图作为唯一身份参考，使下坠保持垂直且面部一致。按顺序列出每个水下场景，让下坠有清晰的空间推进。
-
-MiniMax H3 · 参考生视频 · 出处: [@I_Muhammadali44 on X](https://x.com/I_Muhammadali44/status/2085234595784773704) · 44 赞，统计于 2026-10-29 · 发现于 [SkyNotSilent/awesome-MiniMax-H3-cases](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases)
-
-[`underwater`](tags.md#tag-underwater) [`character-reference`](tags.md#tag-character-reference) [`overhead-camera`](tags.md#tag-overhead-camera) [`anamorphic`](tags.md#tag-anamorphic)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-"Use the uploaded character sheet the ONLY identity reference. Preserve the exact face, hairstyle, body proportions, skin tone, and appearance throughout the video.
-
-The camera remains directly above him looking straight downward during the entire sequence. He falls vertically beneath the camera through an impossible underwater abyss without changing direction.
-He stays on his back facing the lens, both arms reaching upward while bubbles, hair, clothing, and loose fabric stream upward through the water.
-
-He continuously falls through:
-vibrant coral reef, abandoned pirate ship, underwater research station, giant kelp forest
-submerged ancient city, whale migration corridor, volcanic hydrothermal vent field, endless dark ocean trench.
-
-Every level is entered by crashing through ceilings, glass domes, ship decks, coral arches, ruined temples, and collapsing structures. Schools of fish, jellyfish, manta rays, bubbles, seaweed, bioluminescent creatures, and debris flow upward past the camera naturally.
-
-His expressions progress from surprise and panic to determination, breath-holding, fear, exhaustion, and final acceptance while continuously reaching upward for anything that might stop his fall.
-
-24mm anamorphic lens, underwater cinematic lighting, volumetric light rays, realistic water distortion, gentle bloom, film grain, radial motion blur, handheld floating movement.
-
-Audio: Epic orchestral score mixed with deep underwater ambience, whale calls, distant metallic creaks, volcanic rumbles, rushing currents, and a powerful cinematic finale."
-```
-
-</details>
-
-<a id="wan-desert-racer-volcano-canyon-jump"></a>
-### 沙漠赛车在火山爆发与峡谷崩塌中飞驰
-
-<a href="https://x.com/AllaAisling/status/2093393927306928140"><img src="../../previews/wan-desert-racer-volcano-canyon-jump.jpg" width="360"></a>
-
-提示词按时间顺序写成连续的镜头节拍，并明确标出驾驶舱视角与航拍视角的切换，让模型有清晰的时间线可循。开场从旋转的车轮切入，先确立车辆形象，再逐步推进到火山喷发和跨越峡谷的动作。
-
-Wan 3.0 · 文生视频 · 出处: [@AllaAisling on X](https://x.com/AllaAisling/status/2093393927306928140) · 44 赞，统计于 2026-10-29
-
-[`racing`](tags.md#tag-racing) [`volcano`](tags.md#tag-volcano) [`aerial-shot`](tags.md#tag-aerial-shot) [`wan-3`](tags.md#tag-wan-3)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-My first try with Wan 3.0 in
-@openart_ai
-
-
-Prompt: A futuristic desert racing vehicle prepares for the most dangerous race ever attempted. The camera begins close to the spinning wheels as engines roar to life. The vehicle launches across a vast desert at extreme speed. Massive dust trails follow behind. Ahead, a chain of dormant volcanoes suddenly awakens. Explosions send ash and rocks into the sky. The racer speeds between collapsing rock formations. Lava begins flowing across the track. The camera alternates between cockpit views and sweeping aerial shots. One volcano erupts directly ahead, throwing giant boulders through the air. The racer dodges debris at the last moment. The ground starts splitting open. A huge canyon forms across the course. The vehicle accelerates toward the edge. The camera slows slightly as it launches across the gap. The racer lands successfully while the terrain behind collapses into lava. The final shot reveals the vehicle racing toward the horizon as multiple volcanoes erupt across the landscape.
-Ultra-realistic cinematic racing sequence, extreme speed, realistic vehicle dynamics, volcanic destruction, dramatic scale, detailed environments, smooth camera work, IMAX quality, epic atmosphere, no text, no watermark.
 ```
 
 </details>

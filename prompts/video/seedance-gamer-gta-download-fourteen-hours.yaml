@@ -1,0 +1,83 @@
+id: seedance-gamer-gta-download-fourteen-hours
+title:
+  en: Gamer rages at 14 hours of GTA VI download
+  zh: 玩家看到 GTA VI 还要下载 14 小时后崩溃大喊
+model: Seedance 2.5
+mode: reference-to-video
+category: vlog
+tags:
+- found-footage
+- camcorder
+- gaming
+- reference
+source:
+  name: '@Zyvex_0x on X'
+  url: https://x.com/Zyvex_0x/status/2123082883556335933
+  credit: Zyvex_0x
+  captured: '2026-11-24'
+  posted: '2026-11-18'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Zyvex_0x/status/2123082883556335933
+notes:
+  en: Exact timestamps for the timer and the download block make the reveal land on a fixed beat, and the reference screenshot pins the TV interface so the game UI stays static. The camcorder realism comes from a single handheld take, DV noise and the friend's laughter in the mic, while distance and room echo roll off the gamer's voice until he turns to camera.
+  zh: 用精确到秒的倒计时和下载框切换锁定笑点时机，并以参考截图固定电视界面，使游戏画面始终不变。DV 质感来自单镜头手持、噪点，以及朋友在麦克风里的笑声；玩家背对镜头说话时因距离和房间回声而发闷，转向镜头后才变清晰。
+prompt: |
+  👇
+
+  FORMAT: 22 seconds, vertical 9:16, one continuous handheld take, real time, no cuts. Authentic found footage shot on an early-2000s Sony DV tape camcorder: standard definition, soft optics, video noise, interlacing on motion, warm tungsten white balance, limited dynamic range, fine grain. It must feel like a real home clip that leaked online, never like a smartphone video and never like a movie. Where any line below mentions cinema cameras or lenses, this camcorder look overrides it: keep only the realism, physics, skin, texture and consistency requirements. The operator and the camcorder never appear: no hands, no body, no reflections.
+
+  CINEMATIC QUALITY (mandatory, applies to every shot of this video):
+  Generate this video as real live-action footage from a top-budget feature film. It must be indistinguishable from a real camera shoot and never look AI-generated, CGI-plastic or animated. Shot on ARRI Alexa 65 with sharp high-end prime lenses, cinematography in the style of Greig Fraser: motivated natural light, soft realistic shadows, true-to-life exposure, deep but detailed blacks, no blown highlights. 24 fps with natural 180-degree shutter motion blur on all movement. Native high resolution with razor-sharp focus on the subject, crisp micro-contrast and high-frequency detail on every edge, skin pore and surface texture. Subtle organic film-like grain over the whole image, stable across frames. Natural, slightly muted real-world color grade with accurate skin tones. Keep this quality consistent from the first frame to the last, with no flicker, morphing, warping or texture shimmer.
+
+  REFERENCES:
+  - IMAGE 1 (attached PS5 game page screenshot) is the TV screen only. It never affects the people, the room or the camera.
+
+  TV SCREEN: A real 55-inch LCD running a real PlayStation 5 shows IMAGE 1 full screen and static, with its exact left-aligned layout, artwork, colors and fonts: GTA VI icon top-left; "PS5" badge and the title "Grand Theft Auto VI: Ultimate Edition" along the top; the "VI grand theft auto" logo on the left; the description text; the white rounded timer button with a clock icon; the round "..." button; the "Friends Who Play" panel; "Official news"; the illustrated woman and man on the right half against a pink-orange sunset; the "R3 Health / Ratings / Privacy / Terms" bar bottom right. Only the timer button ever changes, in exactly two ways:
+  1. 0.0-3.0s it shows "00:00:06". From 3.0s the digits count down one per second: "00:00:05" at 4.0s, "00:00:04" at 5.0s, "00:00:03" at 6.0s, "00:00:02" at 7.0s, "00:00:01" at 8.0s, "00:00:00" at 9.0s.
+  2. At 10.0s the timer button disappears instantly and in its exact place appears a real PS5 download block: a large white "0%", under it a thin long almost empty progress bar with a tiny white sliver at the left and a dark grey track, and under the bar a small white line "14 hours remaining". Clean PlayStation-style sans-serif, perfectly spelled. It stays static until the end.
+  Filmed off the screen: slight LCD moire and a soft lamp reflection on the glass, but the timer and the download block stay sharp and readable.
+
+  CAMERA: His best friend films one-handed, about two and a half meters behind the gamer and to his right, camcorder held high at head height, angled slightly down. The whole TV is always visible, filling about two thirds of the frame width in the upper half; the gamer kneels low and to the left of the TV center, so his head never covers the timer or the download block. Two clumsy, overshooting zoom-ins: at 8.5s on the timer, and at 10.0s on the download block so "0%" and "14 hours remaining" fill the frame for about one second, then a jerky zoom back out. Amateur camerawork: hand shake, breathing sway, a slightly tilted horizon, late autofocus, auto-exposure pumping when the screen changes. The image shakes harder whenever the operator laughs.
+
+  REALISM: Ordinary people, no model looks. Real skin with pores, oily shine, stubble, sweat. Real physical emotion: a red face, bulging neck veins and spit on screams, wet eyes, a voice that cracks and goes hoarse. Objects have weight: the rug thuds under his fist. Light only from a warm floor lamp and the TV.
+
+  CHARACTERS:
+  - GAMER: about 28, average build, messy dark curly hair, light stubble. A plain black short T-shirt ending at the top of the diaper, NO pants: a bulky white adult diaper of matte cotton-like fabric with side tapes and a printed waistband, worn on bare skin. The diaper is never glowing, shiny, reflective or lit by the screen, only the same soft warm lamp light and shadow as his legs. Bare legs, bare feet. A black over-ear gaming headset. A WHITE PS5 DualSense controller. Obsessed, unhinged, loud, completely serious. A comedic, non-sexual look.
+  - OPERATOR: his best friend, heard only, laughing.
+  - No other people on screen.
+
+  SET (fixed): A small apartment at night. A 55-inch TV on a low dark wooden media stand against a beige wall, a white PS5 standing upright to its right. A warm floor lamp on the left. A grey shaggy rug. At the lower edge of the frame: an open pizza box with one slice of pizza, two unbranded energy drink cans and a bag of chips.
+
+  TIMELINE:
+  0.0-3.0s, THE SETUP: Timer "00:00:06". He kneels on the rug, back to the camera, the white controller gripped in both hands, rocking. The camera dips clumsily to the diaper, then back up to the TV. Operator, laughing: "Bro, are you wearing a diaper?" He, without turning: "I'm not missing a second."
+  3.0-9.0s, THE COUNTDOWN: He screams every number at the TV as it appears, louder each time, shoulders shaking: "SIX!" at 3.0s, "FIVE!" at 4.0s, "FOUR!" at 5.0s, "THREE!" at 6.0s, "TWO!" at 7.0s, "ONE!" at 8.0s. At 9.0s "00:00:00": "ZEROOO!", both arms raised, the controller high above his head.
+  9.0-10.0s, THE BEAT: Arms still raised, he freezes, breathing hard. Silence.
+  10.0-13.5s, THE DOWNLOAD: The download block appears. Zoom-in, then out. His arms sink slowly. Quiet, shaking: "Fourteen... hours?" He turns over his shoulder toward the camera, eyes wide and wet: "FOURTEEN HOURS, BRO!" The operator snorts. He points at the camera: "DON'T laugh."
+  13.5-16.5s, THE EXPLOSION: He turns back to the TV, face red, neck veins out, spit flying, pounding the rug with his free fist: "I WAITED TWELVE YEARS, SONY! TWELVE YEARS!" His voice breaks. The operator cries with laughter, the camera shakes.
+  16.5-22.0s, THE REASON: He goes quiet, slowly lowers himself sideways onto the rug and curls into a fetal position facing the TV, controller hugged to his chest, breathing hard. The download block stays visible above him. Operator, choking: "Bro... you good?" He does not turn his head, hoarse and dead serious: "Fourteen hours. That's why I wore it." The operator bursts out laughing, the camera dips. The picture stays lit to the last frame. End.
+
+  AUDIO & DIALOGUE: All dialogue in casual American English. The whole soundtrack must sound like an unedited real home recording made by the camcorder's built-in mic, never like AI voices, dubbing, ADR, voice-over or text-to-speech. Real people talking over each other in a small room.
+
+  VOICES:
+  - GAMER: a normal young man's mid-low voice, slightly nasal, raspy from shouting, casual American, a bit of mumble in quiet lines. Not a trained actor: uneven rhythm, words running together, real breath noise. His voice reaches the mic from about two and a half meters away and from his back, so it is softer, duller and full of room echo, with the high frequencies rolled off; it gets closer and clearer only when he turns toward the camera at 10.0-13.5s.
+  - OPERATOR: a slightly higher young man's voice, casual, about twenty centimeters from the mic, so it is loud, close, breathy and harsh, with mouth noise. He can barely talk through his own laughter: his words are squeezed out between laughs.
+
+  LINE DELIVERY:
+  - "Bro, are you wearing a diaper?": operator, mid-laugh, the word "diaper" breaking into a snort.
+  - "I'm not missing a second.": gamer, flat, fast, annoyed, not turning his head, almost mumbled.
+  - "SIX!" to "ONE!": each number a real scream, short and sharp, a fast inhale between them, getting louder and more strained each time; from "THREE!" on his voice cracks and distorts the mic.
+  - "ZEROOO!": a long full-chest scream, cracking at the end, heavily clipped.
+  - 9.0-10.0s: no words, only his hard, fast breathing and the PS5 fan.
+  - "Fourteen... hours?": barely above a whisper, shaky, a dry swallow before "hours".
+  - "FOURTEEN HOURS, BRO!": turned toward the camera, closer and clearer, a high desperate yell with a wet, tearful edge.
+  - "DON'T laugh.": gamer, sharp on "DON'T", then low and threatening on "laugh".
+  - "I WAITED TWELVE YEARS, SONY! TWELVE YEARS!": a full rage scream, hoarse, spit in the voice, the second "TWELVE YEARS" cracking and breaking into a sob, heavily clipped, overlapped by the fist thuds.
+  - "Bro... you good?": operator, choking, half a laugh, half concern, wheezing between the words.
+  - "Fourteen hours. That's why I wore it.": gamer, lying on the rug, quiet, hoarse, totally calm and dead serious, slightly muffled by the rug, a small sniff before "That's".
+  - The operator's laughter under everything: real and ugly, snorts, high wheezes, silent shaking laughter with only air, a cough from laughing; at the end an explosive laugh right into the mic that clips.
+
+  ROOM & MIC: Constant faint tape hiss and low room tone. A small carpeted room: short, soft reflections, no big echo. Handling rumble and plastic creaks whenever the camera moves or zooms; a faint zoom motor whine on each zoom. Loud screams clip and crackle. The PS5 fan whirs quietly the whole time, the TV buzzes faintly. The diaper crinkles softly whenever he moves; his knees scrape on the rug; dull heavy thuds of his fist on the rug at 13.5-16.5s; the rustle of his body settling onto the rug. No music, no sound effects that do not come from the room.
+
+  CONTINUITY: The timer reaches "00:00:00" only at 9.0s. The download block appears once at 10.0s and never changes or goes back to the timer. The TV and lamp stay on; the image never goes black. The TV is never fully hidden by his body. He faces the TV except for the turn at 10.0-13.5s. The controller stays in his hands. The headset stays on. The pizza, cans and chips stay in place. T-shirt and diaper the whole time, no pants. He ends lying on the rug.
+
+  NEGATIVE CONSTRAINTS: no cuts, no visible operator, hands, camcorder or phone, no gimbal or smooth movement, no slow motion, no music, no subtitles. No smartphone look, no HDR. TV: no redrawn interface, no centered layout, no different art, no timer jumps, no other numbers, no changing download numbers, no pop-ups, no misspelled or warped text, no screen hidden behind his head, no black screen. No glowing, shiny or lit-up diaper, no colored light on the diaper. No black controller, no pants or shorts, no nudity beyond bare legs. No theatrical acting, no model faces. Audio: no robotic, synthetic or studio-clean voices, no AI narrator tone, no perfect diction, no even volume, no dry close-miked studio voices on the gamer, no lip-sync delay. No other people on screen. No objects appearing or vanishing. No cartoonish, plastic or CGI look, no distorted hands or faces.

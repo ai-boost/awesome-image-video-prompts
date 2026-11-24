@@ -1,0 +1,110 @@
+id: gpt-image-2-6-symbolic-anatomy-flower-poster
+title:
+  en: Pastel flower anatomy poster with photo cutouts
+  zh: 柔彩花卉象征解剖海报，两处照片镂空
+model: GPT Image 2.6
+mode: image-edit
+category: poster
+tags:
+- conceptual-art
+- photo-cutout
+- pastel
+- poster
+source:
+  name: '@Just_sharon7 on X'
+  url: https://x.com/Just_sharon7/status/2124546208442069073
+  credit: Sharon Riley
+  likes: 574
+  captured: '2026-11-24'
+  posted: '2026-11-22'
+notes:
+  en: The prompt splits the subject into a visible photo layer and a symbolic layer, with two asymmetric cutouts from opposite corners that reveal different crops of the same photograph. Naming a fixed palette of ivory, powder blue, sage and apricot keeps the pastel system consistent across both layers.
+  zh: 提示词把主体拆成可见的照片层和象征层，两个对角的非对称镂空分别露出同一张照片的不同局部。指定象牙白、粉蓝、鼠尾草绿和杏色的固定色板，让照片与抽象几何保持同一套柔和色调。
+prompt: |
+  Transform the uploaded photograph into a premium-quality, museum-grade conceptual art poster that investigates what the photographed subject is symbolically made of, rather than what it is physically made of.
+  CENTRAL PHILOSOPHY: "Everything we see is made of things we cannot see."
+  The artwork must reveal the invisible emotional, philosophical, cultural, historical, or existential ingredients that give the photographed subject its meaning.
+  The final composition must feel like a visual dissection of the subject's hidden identity.
+  FORMAT: Vertical 50 × 70 cm, exact 5:7 aspect ratio, 300 DPI, target resolution 5906 × 8268 pixels.
+  1. SUBJECT ANALYSIS — DISCOVER ITS SYMBOLIC INGREDIENTS
+  First, carefully analyze the uploaded photograph.
+  Identify the main subject, its defining characteristics, visual relationships, environment, posture, condition, and emotional atmosphere.
+  Then ask:
+  "If this subject were not made of physical matter, what invisible things would it be made of?"
+  Discover three to five meaningful symbolic ingredients that are specifically connected to the photographed subject.
+  These ingredients may relate to memory, resilience, longing, belonging, contradiction, transformation, time, hope, vulnerability, connection, or other concepts genuinely suggested by the image.
+  Do not automatically use these example concepts.
+  Derive the symbolic ingredients independently from the actual photograph.
+  Avoid obvious, superficial, generic, or interchangeable interpretations.
+  The chosen symbolic ingredients must reveal something thought-provoking about this particular subject.
+  2. MAIN COMPOSITION — THE SYMBOLIC ANATOMY
+  Create a sophisticated abstract composition in which the original photographed subject appears to be constructed from its invisible symbolic ingredients.
+  Translate each selected ingredient into a distinctive visual form.
+  For example:
+  A feeling of resilience might become a geometric structure that remains connected despite visible fractures.
+  A sense of memory might become overlapping translucent forms that preserve traces of earlier shapes.
+  A sense of freedom might become an open curve extending beyond an otherwise rigid geometric boundary.
+  These are conceptual examples, not mandatory visual elements.
+  Create original geometric interpretations based on the actual photograph and its selected symbolic ingredients.
+  The final abstract artwork should feel like the subject has been deconstructed into its invisible components and carefully reassembled.
+  The resulting symbol must remain visually connected to the original subject's defining silhouette, structure, or visual character.
+  3. UPPER-RIGHT CUTOUT — VISIBLE REALITY
+  Introduce an elegant sculptural cutout entering diagonally from the upper-right edge.
+  Through this opening, reveal an authentic, recognizable fragment of the original uploaded photograph.
+  This opening represents the subject's visible physical existence.
+  The photographic fragment should appear intact and realistic.
+  Its contours should subtly transition into the symbolic geometric composition toward the center.
+  4. LOWER-LEFT CUTOUT — THE HIDDEN COMPOSITION
+  Introduce a second sculptural cutout entering from the lower-left edge.
+  Reveal another meaningful portion of the same original photograph.
+  Allow the geometry surrounding this opening to connect visually with the abstract symbolic ingredients.
+  The two cutouts must be asymmetrical, sophisticated, and visually balanced.
+  They should never resemble ordinary photo frames or conventional horizontal panels.
+  Both openings must reveal different portions of the same underlying original photograph.
+  5. SYMBOLIC CONSTRUCTION — MADE OF INVISIBLE THINGS
+  This is the most important creative requirement.
+  The abstract artwork must communicate that the photographed subject is symbolically constructed from the three to five invisible ingredients identified during analysis.
+  Each ingredient should have a unique geometric expression.
+  Use visual relationships between these forms to show how the ingredients interact.
+  Some may overlap, suggesting interconnected experiences.
+  Some may oppose one another, representing internal contradictions.
+  Some may appear incomplete, representing absence or uncertainty.
+  Others may provide structural support, representing the invisible forces that hold the subject together.
+  Avoid creating separate decorative icons for each ingredient.
+  Instead, integrate all ingredients into one unified, recognizable abstract symbol.
+  The viewer should feel that the symbolic ingredients are the actual conceptual building blocks of the subject.
+  6. CONCEPTUAL TYPOGRAPHY — WHAT IS IT MADE OF?
+  Include a small, refined conceptual statement that is automatically adapted to the uploaded photograph.
+  Use this structure:
+  "[SUBJECT] IS MADE OF [SYMBOLIC INGREDIENT 1], [SYMBOLIC INGREDIENT 2], AND [SYMBOLIC INGREDIENT 3]."
+  Replace every placeholder with original, meaningful language derived from the photograph.
+  The statement must describe symbolic composition, never literal physical materials.
+  For example:
+  "A FLOWER IS MADE OF PATIENCE, FRAGILITY, AND THE COURAGE TO BEGIN AGAIN."
+  "A CITY IS MADE OF AMBITION, DISTANCE, AND A MILLION UNFINISHED STORIES."
+  "A TREE IS MADE OF TIME, SILENCE, AND THE ART OF HOLDING ON."
+  These are illustrative examples only.
+  Do not copy these statements unless they genuinely correspond to the uploaded photograph.
+  Generate a fresh, emotionally resonant, philosophically thoughtful statement specifically for the photographed subject.
+  Place this statement discreetly within the poster's negative space, using refined editorial typography.
+  The statement should be short enough to feel poetic, not explanatory.
+  7. LIGHT CONTEMPORARY COLOR SYSTEM
+  Extract the photograph's signature colors and reinterpret them into a restrained, slightly light pastel palette.
+  Use warm ivory, powder blue, muted sage, dusty blush, pale apricot, and soft neutral gray where appropriate.
+  Assign each symbolic ingredient a subtle visual identity through controlled color relationships, geometric characteristics, or material transparency.
+  Avoid excessive color coding or infographic-style labeling.
+  Maintain one harmonious visual composition.
+  8. MATERIALITY & PRINT CHARACTER
+  Create subtle layered-paper depth around the photographic cutouts.
+  Incorporate delicate risograph grain, archival paper texture, soft print imperfections, and extremely restrained analog registration effects.
+  Keep the original photographic fragments sharp, realistic, and recognizable.
+  Maintain clean geometric edges and professional fine-art printing quality.
+  9. FINAL ARTISTIC INTENTION
+  The poster must function as a conceptual portrait of the uploaded subject, whether the subject is a person, animal, object, building, landscape, or natural form.
+  The original photograph shows what the subject looks like.
+  The abstract composition reveals what the subject is symbolically made of.
+  The poetic statement expresses the deeper meaning of its existence.
+  All three elements must communicate one unified artistic idea.
+  The artwork should invite the viewer to reconsider an ordinary visible subject as a complex composition of invisible experiences, emotions, histories, and relationships.
+  Create a minimal, culturally evocative, intellectually engaging contemporary art poster with asymmetric photographic cutouts, symbolic geometric construction, soft pastel colors, and sophisticated editorial typography.
+  No literal material descriptions, no generic motivational quotes, no random geometric decoration, no conventional split-screen panels, no excessive text, no external frame, and no watermark.

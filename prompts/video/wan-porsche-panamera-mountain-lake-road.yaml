@@ -1,0 +1,24 @@
+id: wan-porsche-panamera-mountain-lake-road
+title:
+  en: Blue Porsche Panamera racing a mountain lake road
+  zh: 蓝色保时捷 Panamera 驶过湖畔山路
+model: Wan 3.0
+mode: text-to-video
+category: commercial
+tags:
+- porsche
+- car-commercial
+- mountain-road
+source:
+  name: '@TaliaAariz on X'
+  url: https://x.com/TaliaAariz/status/2106084890370527605
+  credit: Talia
+  likes: 161
+  captured: '2026-11-24'
+  posted: '2026-10-02'
+video: https://x.com/TaliaAariz/status/2106084890370527605
+notes:
+  en: The prompt lists the shots in order (lake road, water parting, cliff trail, lookout) and names visible car details such as the rear emblem and hood badge, so the car stays on-model across cuts. Ending on the parked car at the summit gives the clip a clear final image.
+  zh: 提示词按顺序列出各个镜头节点（湖边公路、水墙分开、崖边小道、观景台），并点明车尾标和引擎盖标等可见细节，让车型在镜头切换中保持一致。结尾给出车停在山顶的定格画面，使片段有明确的收束。
+prompt: |
+  A sleek blue Porsche Panamera speeds along a scenic mountain road beside a vast lake before dramatically driving down a narrow track as giant walls of water part on either side. Dynamic cinematic close-ups highlight the car's spinning wheels, rear "Panamera" emblem, and Porsche hood badge while it hurtles through the parted sea and ascends a dusty cliffside trail. Reaching a circular lookout point high above the water, the luxury car drifts in a cloud of dust near an eagle perched on a rock face. A smiling woman in driving gloves winks from the driver's seat as the eagle takes flight into the open sky, leaving the Porsche parked at the summit overlooking the landscape.

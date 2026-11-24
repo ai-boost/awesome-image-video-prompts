@@ -1,0 +1,30 @@
+id: gpt-image-2-6-zebra-fingerprint-tunnel
+title:
+  en: Zebra walking through a glowing fingerprint tunnel
+  zh: 斑马走进发光的指纹隧道
+model: GPT Image 2.6
+mode: text-to-image
+category: poster
+tags:
+- black-and-white
+- surreal
+- animal
+- fingerprint
+source:
+  name: '@churvikv on X'
+  url: https://x.com/churvikv/status/2123819465796206817
+  credit: Viki
+  likes: 156
+  captured: '2026-11-24'
+  posted: '2026-11-20'
+notes:
+  en: Describing the fingerprint as broken dashes and short bars instead of solid lines gives it a hand painted texture, and echoing the zebra's stripes in those ridges ties subject and frame into one graphic system. A backlit tunnel with a rim light on the ears and flanks keeps the animal a dark silhouette against the glow.
+  zh: 把指纹描述成断续的短条纹而非实线，让它带有手绘质感；斑马条纹与纹路互相呼应，主体和画面成为同一套图形语言。隧道逆光加上耳朵和身体侧面的轮廓光，让动物在光晕前呈现深色剪影。
+prompt: |
+  High-contrast black-and-white conceptual artwork, tall 9:16 vertical composition, mixed-media graphic style. Full bleed edge to edge, no frame, no border, no lettering.
+  BACKGROUND: a rich matte black surface with a fine pebbled leather grain and subtle diagonal texture, deepening to pure black at the corners and edges.
+  FINGERPRINT: one enormous white fingerprint fills the frame as the dominant graphic element, its outline a wide oval, slightly tapering toward the top. It is drawn not as solid lines but as hundreds of broken dashed strokes and short parallel bars with softly rounded ends, hand-painted with slight thickness variation, some strokes irregular and chipped. The ridges sweep in long concentric arches and whorls, curving up over the crown and down both sides, with a dense tight cluster of concentric rings in the centre.
+  TUNNEL: dead centre, the fingerprint ridges part to form a glowing opening — a soft luminous white corridor receding into the distance, its walls a smooth radiant gradient of blurred white and pale grey, brightest at the far end, dissolving into a bright misty haze that halos the centre of the print.
+  ZEBRA: inside that opening walks a single zebra, seen from directly behind, moving away from the viewer toward the light. Its body is compact and symmetrical, coat a crisp pattern of black and white vertical stripes, a dark mane standing up in a short brush between two rounded ears, a long thin tail hanging straight down the middle of its back, hindquarters rounded and hind hooves faintly visible in the haze. Its silhouette is sharp and dark against the glowing tunnel, its stripes echoing the ridges of the fingerprint around it.
+  LIGHT: soft white backlight pouring out from the tunnel mouth onto the zebra, rim-lighting its ears and flanks, a gentle glow bleeding into the surrounding ridges.
+  PALETTE: pure black, charcoal, soft white, pearl grey. Graphic poster feel, minimalist, surreal.

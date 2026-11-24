@@ -1,6 +1,115 @@
 # 动作、追逐与运动
 
-[返回目录](../../README_zh.md) · 全部 236 条 · [1](video-action.md) · [2](video-action-2.md) · **3**
+[返回目录](../../README_zh.md) · 全部 242 条 · [1](video-action.md) · [2](video-action-2.md) · **3**
+
+<a id="seedance-neon-breach-cyberpunk-rooftop-chase"></a>
+### 霓虹都市天际线上的屋顶追逐
+
+<a href="https://x.com/Xaroon_x/status/2112430298973503726"><img src="../../previews/seedance-neon-breach-cyberpunk-rooftop-chase.jpg" width="360"></a>
+
+将 30 秒动作拆成五段带时间码的节拍，每段配有独立的镜头运动，并用 @image1 锁定唯一主角，使其面部和服装在各镜头中保持一致。00:27 的音乐切点提示与空间连续性说明，让声音和天桥布局在整段中保持统一。
+
+Seedance 2.5 · 参考生视频 · 出处: [@Xaroon_x on X](https://x.com/Xaroon_x/status/2112430298973503726)
+
+[`cyberpunk`](tags.md#tag-cyberpunk) [`action`](tags.md#tag-action) [`parkour`](tags.md#tag-parkour) [`drones`](tags.md#tag-drones) [`reference-lock`](tags.md#tag-reference-lock)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+NEON BREACH
+
+[ENGINE DIRECTIVE]
+Genre: Cyberpunk action thriller. Duration: exactly 30 seconds. Aspect ratio: 16:9. Target: 60fps where supported. Style: photorealistic Hollywood cinema, heavy rain, neon reflections, volumetric lighting, realistic motion blur and skin texture.
+
+HERO LOCK: @image1 is the only hero. Preserve his exact face, hairstyle, facial hair, skin tone, age, body proportions, outfit and accessories in every shot. No clones, costume changes, new weapons or invented powers.
+
+LOCATION: Halcyon Stack, a rain-soaked futuristic megacity with two 40-story towers connected by a glass skybridge, rooftop machinery, steel gantries and abstract neon signs. Maintain spatial continuity.
+
+ENEMIES: Three red-scanner hunter drones using ramming and taser darts, plus a 3-meter armored enforcer with matte-black plating, hydraulic limbs and a dim blue visor.
+
+CAMERA: Motivated low tracking, lateral pursuit, tactical high angles, over-the-shoulder shots, controlled slow-motion orbit and vertical descending tracking. Natural motion blur. Hero generally travels left to right.
+
+[AUDIO]
+Original pulsing synth bass, industrial percussion, rising tense strings, heavy rain, distant sirens, drone rotors, hydraulic servos, glass shattering, steel groans and cable snaps. Music cuts at 00:27, leaving rain and a soft sustained synth pad.
+
+[TIMELINE]
+
+00:00–00:05 | THE HUNT
+Wide aerial view of neon towers in heavy rain. Camera drops behind @image1 sprinting across a rooftop. Three drones rise and lock on at 00:03. He vaults a ventilation unit.
+
+00:05–00:10 | DRONE ALLEY
+He slides beneath a diving drone, sending it crashing into a wall. He leaps, grabs a second drone and swings it into the third. Both crash through a billboard frame in sparks. He keeps running.
+
+00:10–00:15 | THE ENFORCER
+A massive armored enforcer smashes through a rooftop door. The hero pivots and races onto a transparent glass skybridge, with the city far below. The machine charges after him.
+
+00:15–00:20 | GLASS FLOOR
+The hero ducks a hydraulic punch, shattering the glass floor. Cracks spread beneath the enforcer. In a controlled slow-motion 180-degree orbit, the hero leaps across a 6-meter gap and grabs a swaying steel gantry.
+
+00:20–00:25 | CABLE DROP
+The enforcer lands heavily on the gantry. The hero grabs a maintenance cable and swings down the tower. Bolts shear, metal bends and the gantry collapses. He kicks off the glass facade and lands on a lower rooftop.
+
+00:25–00:30 | FINAL IMAGE
+The enforcer falls through neon-lit rain and impacts the street at 00:27. Silence follows. The hero rises at the rooftop edge and looks back at the shattered skybridge. Camera slowly pulls away, revealing the immense glowing city.
+
+END: Quiet, powerful cinematic composition. No text or logos.
+```
+
+</details>
+
+<a id="seedance-neon-street-martial-arts-fight"></a>
+### 霓虹街头女子击倒男子的格斗场面
+
+<a href="https://x.com/codewithhajra/status/2110290053670814031"><img src="../../previews/seedance-neon-street-martial-arts-fight.jpg" width="360"></a>
+
+按时间段（0到2秒、2到5秒等）拆分动作，把打斗编排成有先后顺序的步骤，模型可以逐步执行。前文写明两位角色的外貌细节，结尾再统一规定画幅、时长和一致性要求，让人物面容与服装在镜头切换中保持稳定。
+
+Seedance 2.5 · 文生视频 · 出处: [@codewithhajra on X](https://x.com/codewithhajra/status/2110290053670814031) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`fight-scene`](tags.md#tag-fight-scene) [`martial-arts`](tags.md#tag-martial-arts) [`neon-street`](tags.md#tag-neon-street) [`timed-beats`](tags.md#tag-timed-beats)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create an ultra-realistic, live-action cinematic fight scene featuring two 20-year-old adults. The girl is exceptionally pretty, with long, glossy dark-brown hair, beautiful expressive eyes, delicate facial features, a charming smile, and a confident, fearless attitude. She wears a stylish black fitted jacket, a cute top, blue jeans, and black boots. The boy is a handsome 20-year-old man with an athletic build, messy dark hair, and a cocky expression.
+
+0–2 seconds: On a neon-lit city street at night, the boy arrogantly blocks her path and suddenly tries to grab her arm. She pulls away instantly, giving him a deadly serious look.
+
+2–5 seconds: He throws a punch. She smoothly dodges, grabs his arm, spins around, and delivers a powerful kick to his stomach, making him stumble backward in shock.
+
+5–8 seconds: Furious, he charges at her again. She ducks his attack, sweeps his legs, and delivers a perfectly timed spinning kick that sends him crashing onto the pavement.
+
+8–10 seconds: She casually fixes her beautiful hair, looks down at him with a cheeky smirk, and says, “Big mistake, buddy.” She turns and walks away confidently while he lies stunned on the ground.
+
+Visual style: Photorealistic live-action, beautiful natural facial details, realistic skin texture, expressive eyes, detailed hair movement, professional martial arts choreography, fast dynamic camera tracking, dramatic cinematic lighting, realistic physics, authentic impact sounds, consistent character appearances, no gore, no supernatural effects, no cartoon visuals. Vertical 9:16 format, exactly 10 seconds.
+```
+
+</details>
+
+<a id="seedance-night-market-pursuit-alley-escape"></a>
+### 黄昏人群中的女子穿行夜市街道
+
+<a href="https://x.com/aiwithaly/status/2100462425308901480"><img src="../../previews/seedance-night-market-pursuit-alley-escape.jpg" width="360"></a>
+
+提示词按顺序列出各个动作节拍，并指定手持特写、低角度跟拍和结尾的固定镜头，便于模型在镜头之间连贯切换。音频只限现场声源，使追逐场景更加真实可信。
+
+Seedance 2.5 · 文生视频 · 出处: [@aiwithaly on X](https://x.com/aiwithaly/status/2100462425308901480) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`urban-chase`](tags.md#tag-urban-chase) [`night-market`](tags.md#tag-night-market) [`handheld`](tags.md#tag-handheld) [`photorealistic`](tags.md#tag-photorealistic)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 30-second ultra-photorealistic live-action urban chase thriller set in a crowded evening street market. A young woman realizes a stranger is following her, accelerates into a run, weaves naturally through pedestrians and food stalls, ducks behind a market stall, then suddenly changes direction and disappears into a narrow alley just before the follower arrives.
+
+Show realistic human biomechanics, acceleration, momentum, friction, center-of-mass shifts, crowd reactions, fabric and bag physics, realistic object interaction, and natural environmental movement. Use handheld close-ups, over-the-shoulder shots, low running angles, side tracking, a hidden perspective behind the stall, and a tight alley shot with realistic camera inertia and autofocus.
+
+Use only diegetic sound: footsteps, breathing, crowd chatter, vendors, bicycles, fabric movement, traffic, and echoing alley footsteps. Natural mixed market lighting, realistic shadows, reflections, depth of field, and motion blur. End on a locked-off shot of the empty alley as her footsteps fade away.
+
+No CGI, animation, superhero movement, impossible parkour, teleportation, unrealistic crowd behavior, distorted anatomy, floating objects, weapons, gore, text, logos, or watermark.
+```
+
+</details>
 
 <a id="seedance-night-rain-loading-door-escape"></a>
 ### 女子在昏暗工业走廊中奔跑
@@ -2218,6 +2327,65 @@ A 30-second ultra-realistic Hollywood-style sci-fi action sequence set above a v
 
 </details>
 
+<a id="seedance-seoul-alley-thriller-wrong-target"></a>
+### 男子走过雨夜首尔小巷
+
+<a href="https://x.com/Hope_Ai01/status/2122330543719366996"><img src="../../previews/seedance-seoul-alley-thriller-wrong-target.jpg" width="360"></a>
+
+用带时间点的分镜（0到10秒、10到20秒、20到30秒）规定遭遇、打斗和离场的节奏，并在摄影部分写明雨夜灯光。禁止飞踢和特技动作，让打斗保持贴近真实的韩国犯罪片质感。
+
+Seedance 2.5 · 文生视频 · 出处: [@Hope_Ai01 on X](https://x.com/Hope_Ai01/status/2122330543719366996) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`korean-thriller`](tags.md#tag-korean-thriller) [`night-street`](tags.md#tag-night-street) [`rain`](tags.md#tag-rain) [`fight-choreography`](tags.md#tag-fight-choreography)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Title: THE WRONG TARGET
+
+Create an exactly 30-second ultra-realistic Korean action thriller film.
+
+Scene 1 (0–10 seconds): The Encounter
+
+A young Korean man walks alone through a narrow Seoul street at night. Three suspicious men suddenly block his path. One man pushes him and demands his phone. The hero calmly looks at them without saying anything.
+
+Scene 2 (10–20 seconds): The Fight
+
+One attacker throws a punch. The hero dodges and responds with realistic hand-to-hand combat. He blocks attacks, delivers fast punches and uses practical defensive movements. The fight should feel intense, physical and believable, like a professional Korean action movie. No flying kicks or unrealistic stunts.
+
+Scene 3 (20–30 seconds): The Final Move
+
+Two attackers fall back while the third tries to attack from behind. The hero notices him, turns quickly and knocks the attacker off balance. All three retreat. The hero picks up his phone, adjusts his jacket and calmly walks away into the rainy street.
+
+Cinematography:
+
+- Ultra-realistic South Korean crime thriller style.
+- Authentic Korean actors.
+- Dark Seoul alley at night.
+- Rain-soaked streets and cinematic lighting.
+- Fast camera movements during combat.
+- Close-up shots of realistic facial expressions.
+- Wide shots showing complete fight choreography.
+- Smooth transitions and professional editing.
+
+Audio:
+Realistic punches, footsteps, rain ambience and intense cinematic background music.
+
+Important Requirements:
+
+- Exactly 30 seconds.
+- 16:9 widescreen.
+- 4K photorealistic quality.
+- No overacting.
+- No supernatural elements.
+- No cartoon effects.
+- No slow motion except one brief impact moment.
+- Consistent hero appearance throughout.
+- No subtitles, logos or text on screen.
+```
+
+</details>
+
 <a id="seedance-seoul-mall-revenge-comedy"></a>
 ### 首尔购物中心里拿着冰咖啡的女子
 
@@ -2245,6 +2413,50 @@ Shoppers stop and stare. Someone laughs as the man struggles to get up, surround
 She grabs a fresh drink from a nearby café, gives the camera a confident smirk, and walks away while he remains embarrassed on the floor.
 
 Maintain identical faces, hairstyles, outfits, and location throughout. Include believable slapstick physics, expressive reactions, detailed coffee spilling across the floor, scattering baskets, cinematic close-ups, and shocked bystanders. Keep the action non-gory and comedic, with a clearly visible final humiliating landing. Natural mall ambience, footsteps, crowd reactions, and realistic dialogue. Clear white subtitles. No background music or narration.
+```
+
+</details>
+
+<a id="seedance-seoul-night-couple-walk"></a>
+### 夜晚首尔街头挽臂漫步的韩国情侣
+
+<a href="https://x.com/navi_Ai2/status/2122335176286187925"><img src="../../previews/seedance-seoul-night-couple-walk.jpg" width="360"></a>
+
+提示词把30秒拆成三个定时段落，分别对应浪漫、短暂打斗和收尾，让节奏清楚。明确的限制如不要夸张特技、画面不出现字幕、人物脸部和服装保持一致，使画面更写实，角色也更稳定。
+
+Seedance 2.5 · 文生视频 · 出处: [@navi_Ai2 on X](https://x.com/navi_Ai2/status/2122335176286187925) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`korean`](tags.md#tag-korean) [`romance`](tags.md#tag-romance) [`short-film`](tags.md#tag-short-film) [`street-fight`](tags.md#tag-street-fight)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 30-second ultra-realistic Korean romantic action short film.
+
+Scene 1 (0–10 seconds):
+A young Korean couple walks together on a quiet Seoul street at night. They share a natural romantic moment. Suddenly, a stranger approaches and starts bothering the girl. The boyfriend calmly steps forward to protect her.
+
+Scene 2 (10–20 seconds):
+A short, realistic street fight begins. The boyfriend defends himself with natural hand-to-hand combat. Realistic punches, dodging and movements. No exaggerated stunts or superhero action. The girlfriend watches anxiously.
+
+Scene 3 (20–30 seconds):
+The stranger leaves. The boyfriend has a minor injury. His girlfriend gently checks his face. They exchange a small smile, hold hands and walk away together under the streetlights.
+
+Visual Style:
+Authentic Korean cinema, realistic Korean actors, natural facial expressions, subtle romance, cinematic night lighting, realistic Seoul environment, smooth camera movements, professional film cinematography, detailed skin textures, natural body movements.
+
+Audio: Natural city ambience, subtle emotional cinematic background music, realistic sound effects.
+
+Important Requirements:
+
+- Exactly 30 seconds.
+- 16:9 widescreen.
+- No overacting.
+- No exaggerated fighting.
+- No cartoon or anime effects.
+- No subtitles or text on screen.
+- Maintain consistent faces, clothes and characters across all scenes.
+- Professional Korean movie quality.
 ```
 
 </details>
@@ -2594,6 +2806,37 @@ PHYSICS: Grounded Kung Fu choreography, realistic human weight, momentum, impact
 NEGATIVE PROMPT: No slow motion, time-lapse, bullet-time, dreamy effects, superhero movement, unrealistic physics, exaggerated wire-fu, impossible parkour, poor anatomy, distorted face, identity changes, wardrobe changes, CGI artifacts, jitter, ghosting, duplicated limbs, weapon clipping, teleportation, unrealistic explosions, fake glass destruction, continuity errors or video-game movement.
 
 FINAL: 15 seconds, 9:16, 24fps, 4K, photorealistic Hollywood action, cinematic realism, sharp film grain.
+```
+
+</details>
+
+<a id="seedance-station-snatch-gameplay-hud"></a>
+### 游戏风格：女主角走向乡村车站上的通勤者
+
+<a href="https://x.com/AIwithkhan/status/2099464101525393596"><img src="../../previews/seedance-station-snatch-gameplay-hud.jpg" width="360"></a>
+
+提示词用参考图锁定角色，并重复发型、裙子和白鞋等细节，让她在整段追逐中保持一致。带编号的 HUD 事件文字，加上第三人称游戏镜头、运动模糊和镜头晃动，共同营造游戏画面感。
+
+Seedance 2.5 · 参考生视频 · 出处: [@AIwithkhan on X](https://x.com/AIwithkhan/status/2099464101525393596) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`gameplay`](tags.md#tag-gameplay) [`game-hud`](tags.md#tag-game-hud) [`character-consistency`](tags.md#tag-character-consistency) [`japanese-countryside`](tags.md#tag-japanese-countryside)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 30-second ultra-realistic AAA third-person open-world gameplay video set in a beautiful rural Japanese town. Use the attached image only as the reference for the young Korean female character; keep her face, long straight black hair, long flowing skirt, white sneakers, and appearance consistent.
+
+She walks toward a rural train station, notices a commuter's suitcase, and a “△ TAKE” prompt appears. She grabs it, triggering “SUITCASE STOLEN” → “+30 POINTS” → “ALARM RAISED” → “WANTED ★” → “OBJECTIVE: ESCAPE.” She runs away, drops the heavy suitcase (“ITEM DROPPED”), then enters a convenience store and steals a packaged snack: “SNACK STOLEN” → “+20 POINTS” → “ALARM RAISED.”
+
+She escapes the store, knocks over empty delivery cartons (“CHAOS +20”), narrowly avoids a delivery truck (“NEAR MISS +15”), and continues through the village while the commuter chases her. She reaches a pedestrian bridge over a river as the detection meter changes “DETECTION 68%” → “DETECTION 32%” → “DETECTION 0%.” The wanted level clears: “WANTED LEVEL CLEARED” → “+100 ESCAPE BONUS.”
+
+She sits by the river, eats the snack, and calmly looks toward the mountains. Finish with “MISSION COMPLETE”, “STATION SNATCH”, “TOTAL SCORE: 185”, “CHAOS BONUS +50.”
+
+Use an authentic third-person gameplay camera, realistic physics, NPC reactions, natural motion blur, subtle camera shake, detailed Japanese countryside, realistic lighting and AAA game-engine graphics.
+
+HUD must be minimal and event-based. English text only, exact spelling, no gibberish.
+
+Negative: anime, cartoon, animation, illustration, mobile-game graphics, CGI look, cinematic movie shots, excessive violence, gore, distorted anatomy, duplicated characters, changing face/outfit, random text, subtitles, watermark, excessive HUD.
 ```
 
 </details>

@@ -1,0 +1,36 @@
+id: gpt-image-2-6-new-york-travel-poster-taxi
+title:
+  en: New York travel poster with yellow taxi and skyline
+  zh: 纽约复古旅行海报，黄色出租车与天际线
+model: GPT Image 2.6
+mode: text-to-image
+category: poster
+tags:
+- new-york
+- travel-poster
+- line-art
+- vintage
+source:
+  name: '@Aiwithkami on X'
+  url: https://x.com/Aiwithkami/status/2124401464932184540
+  credit: Kami AI
+  likes: 221
+  captured: '2026-11-24'
+  posted: '2026-11-22'
+notes:
+  en: Swap the [CITY / COUNTRY] slot for one city, then name a foreground vehicle and the landmarks to stack in the skyline. The fixed style rules (bold black ink outlines, a limited palette of black, warm white and one or two accents, no gradients or 3D) are what keep the output looking like a single printed poster.
+  zh: 把模板里的 [CITY / COUNTRY] 换成一个城市，再点名前景交通工具和要堆叠进天际线的地标。固定的风格规则（粗黑墨线、黑白暖白加一到两种强调色、不要渐变和 3D）让结果看起来像一张完整印刷的海报。
+prompt: |
+  INTERNATIONAL CITY TRAVEL ART PRINT COLLECTION
+
+  Create a charming, vintage-inspired travel poster featuring [CITY / COUNTRY], illustrated in a distinctive hand-drawn architectural doodle style.
+
+  Showcase the city's most iconic landmarks, buildings, monuments, towers, bridges, and recognizable architectural details, arranged together in a dense yet balanced artistic composition. Incorporate a recognizable local element, such as a vintage car, tram, taxi, bicycle, or public transport, in the foreground.
+
+  Use bold black ink outlines, intricate hand-drawn details, playful geometric patterns, and slightly imperfect sketch-like textures. Add the city name prominently within the illustration using creative hand-lettered typography.
+
+  Present the artwork inside a clean white poster border, surrounded by a vibrant solid-color background that complements the city's identity. Use a limited palette of black, warm white, and one or two bold accent colors.
+
+  Overall aesthetic: Minimalist European travel illustration, retro souvenir poster, whimsical architectural line art, screen-print texture, playful composition, and premium collectible wall-art design.
+
+  Keep the artwork visually cohesive, highly detailed, charming, and instantly recognizable as a celebration of the destination. Avoid photorealism, 3D effects, gradients, and unnecessary decorative elements.

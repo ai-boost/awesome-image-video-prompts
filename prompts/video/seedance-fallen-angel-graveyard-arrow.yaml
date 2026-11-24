@@ -1,0 +1,209 @@
+id: seedance-fallen-angel-graveyard-arrow
+title:
+  en: Fallen angel fires arrow at hooded woman in cemetery
+  zh: 堕落天使在墓地向兜帽女子射出血色箭
+model: Seedance 2.5
+mode: reference-to-video
+category: scifi-fantasy
+tags:
+- gothic
+- dark-fantasy
+- multi-shot
+- angel
+source:
+  name: '@Just_sharon7 on X'
+  url: https://x.com/Just_sharon7/status/2123409308176077171
+  credit: Just_sharon7
+  captured: '2026-11-24'
+  posted: '2026-11-19'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Just_sharon7/status/2123409308176077171
+notes:
+  en: Each reference image is tagged with @Image so the same woman and priest keep their identity across cuts. The seven scenes are timed in seconds with a camera move for every beat, and the closing sound design list tells the model what to hear, which keeps the mood steady.
+  zh: 每个参考图都用 @Image 标注，让女主和牧师在多个镜头里保持同一人物。七个场景按秒分段，每一拍都写明运镜，结尾附上音效列表，让画面与氛围在切换中保持一致。
+prompt: |
+  Female Lead: A beautiful 24-year-old young woman @Image 2, with pale fair skin, delicate facial features, striking blue eyes, and long wavy blonde hair partially hidden beneath a black hood. She wears a long black Victorian gothic-style hooded cloak over an elegant black dress. Around her neck hangs a silver cross pendant featuring a deep-red gemstone. Her expression is mysterious, frightened, and emotionally intense.
+
+  MAKEUP DETAILS:
+
+  Beautiful soft-glam makeup with warm, glowing olive-tan undertones while preserving her naturally fair complexion and realistic skin texture. Subtle golden highlights, softly sculpted cheekbones, defined sharp eyebrows, and beautifully enhanced eyes.
+
+  Soft warm-toned eyeshadow, delicate eyeliner, long curled lashes, and subtle shimmer on the eyelids. Light peachy-pink blush blended naturally across the cheeks, gentle bronzer for a sun-kissed glow, and luminous highlights on the cheekbones, nose bridge, and cupid's bow.
+
+  Full, plump lips with a rosy-pink to soft-red lip tint, finished with high-shine, wet-look glossy lip gloss.
+
+  Fresh, radiant, feminine beauty makeup with a naturally dewy finish. Keep the makeup realistic, elegant, and consistent across every shot, even under the dark gothic lighting.
+
+  Fallen Angel: A handsome yet terrifying supernatural male angel, approximately 28 years old, with extremely pale skin, short messy platinum-white hair, sharp facial features, and piercing eyes.
+
+  He wears a luxurious ivory-white medieval angelic outfit with intricate detailing. Two enormous black feathered wings extend from his back.
+
+  He carries an ancient gothic bow loaded with a supernatural arrow featuring a glowing blood-red crystal arrowhead.
+
+  His presence is intimidating, mysterious, and otherworldly.
+
+  SCENE 1 (0–3 Seconds) — The Haunted Graveyard
+
+  An ancient, abandoned European gothic cemetery stretches beneath a dark, overcast sky.
+
+  The environment is filled with weathered stone gravestones, broken crosses, angel statues, and enormous gothic church towers.
+
+  Thick grey fog spreads across the ground while dark green trees sway gently in the cold wind.
+
+  A young woman @Blonde-Influencer, wearing a flowing black gothic cloak, slowly walks through the center of the cemetery.
+
+  Suddenly, she stops and looks toward the sky.
+
+  A powerful gust of wind dramatically lifts and ripples her long black cloak.
+
+  Camera: Low-angle tracking shot following her movement, transitioning into a slow cinematic upward tilt.
+
+  SCENE 2 (3–6 Seconds) — The Fallen Angel Appears
+
+  Suddenly, a mysterious white-haired fallen angel descends from the dark sky.
+
+  His enormous black feathered wings spread fully outward, creating a terrifying silhouette against the cloudy atmosphere.
+
+  He hovers above a tall stone cross in the cemetery.
+
+  His luxurious white clothing flutters naturally in the strong wind while individual black feathers move realistically.
+
+  The young woman looks up at him in complete shock.
+
+  Behind the angel, an ancient gothic cathedral and fog-covered trees dominate the background.
+
+  Camera: Epic wide cinematic shot with a dramatic low-angle perspective, emphasizing the angel's supernatural presence and enormous wings.
+
+  SCENE 3 (6–9 Seconds) — The Blood Arrow
+
+  The fallen angel raises his ancient gothic bow.
+
+  The weapon is crafted from dark metallic materials, twisted branch-like structures, and glowing red gemstones embedded throughout its surface.
+
+  He aggressively pulls back the bowstring.
+
+  A supernatural arrow materializes, featuring a sharp blood-red crystal arrowhead radiating intense crimson energy.
+
+  His piercing eyes reveal cold determination.
+
+  He aims directly at the young woman @Image 2 standing below.
+
+  Without hesitation, he releases the bowstring.
+
+  The glowing arrow launches forward at tremendous speed, cutting violently through the cold cemetery air.
+
+  A faint red supernatural trail follows its trajectory.
+
+  Camera: Extreme close-up of the intricate gothic bow, dramatic side-angle shot of the angel releasing the arrow, followed by a high-speed tracking shot following the projectile.
+
+  SCENE 4 (9–12 Seconds) — The Terrifying Realization
+
+  The young woman stands motionless in the middle of the cemetery.
+
+  Her black hood frames her pale, beautifully made-up face.
+
+  Suddenly, her blue eyes widen in terror.
+
+  Her glossy lips part slightly as she realizes the supernatural arrow is flying directly toward her.
+
+  Her expression shifts from confusion to overwhelming fear and disbelief.
+
+  The cold wind moves loose strands of her blonde hair across her face.
+
+  Her breathing becomes shallow as the terrifying realization sinks in.
+
+  Camera: Tight cinematic facial close-up with subtle handheld movement, dramatic shallow depth of field, and realistic emotional microexpressions.
+
+  SCENE 5 (12–15 Seconds) — The Mysterious Figures
+
+  Behind the young woman stands an ancient gothic stone archway.
+
+  Inside the dark archway, three mysterious men dressed in black Victorian religious clothing stand silently.
+
+  Their faces are partially concealed by deep shadows.
+
+  None of them move.
+
+  They silently observe the young woman as though they have been expecting this supernatural event.
+
+  Thick fog slowly curls around the stone pillars and spreads across the ground.
+
+  The atmosphere becomes increasingly unsettling.
+
+  Camera: Over-the-shoulder shot from behind the young woman, followed by a slow cinematic zoom toward the three mysterious figures.
+
+  SCENE 6 (15–18 Seconds) — The Supernatural Awakening
+
+  Extreme close-up of the young woman's eyes.
+
+  A mysterious red supernatural reflection suddenly appears within her blue irises.
+
+  Her eyelids slowly close.
+
+  For a brief moment, everything becomes almost completely silent.
+
+  Then she opens her eyes again.
+
+  Her previous expression of terror has vanished.
+
+  Instead, her gaze becomes intensely focused, mysterious, and unnaturally powerful.
+
+  A subtle crimson glow reflects across her pupils, suggesting the awakening of an ancient supernatural force within her.
+
+  Her facial expression remains controlled, calm, and frighteningly intense.
+
+  Camera: Extreme macro close-up of her eyes, slow cinematic push-in, dramatic low-key lighting, realistic iris reflections, and detailed facial textures.
+
+  SCENE 7 (18–20 Seconds) — The Dark Revelation
+
+  The camera suddenly reveals a wide atmospheric view of the cemetery.
+
+  The young woman stands among ancient gravestones, surrounded by rapidly swirling fog.
+
+  Her long black cloak flies dramatically in the powerful supernatural wind.
+
+  The cemetery appears darker and more threatening than before.
+
+  A sharp cinematic cut reveals a handsome young priest @Image 1, dressed in a traditional black clerical outfit with a crisp white priest collar.
+
+  His expression is extremely serious, mysterious, and emotionally restrained.
+
+  An older man stands partially visible behind him, his face obscured by shadows.
+
+  The young priest stares directly ahead, as though he knows a terrifying secret about the fallen angel and the young woman.
+
+  His expression suggests that something far more dangerous is about to happen.
+
+  Camera: Wide atmospheric cemetery shot, followed by a sharp cinematic close-up of the priest's face.
+
+  End on a powerful dramatic bass impact and an abrupt cut to black.
+
+  SOUND DESIGN
+
+  Deep atmospheric supernatural horror music throughout the sequence.
+
+  Distant gothic church bells echoing through the cemetery.
+
+  Cold wind blowing through ancient gravestones and trees.
+
+  Heavy, realistic fluttering sounds from the fallen angel's enormous wings.
+  Deep supernatural low-frequency rumbling during the angel's descent.
+  Sharp metallic bowstring tension and release.
+  Extremely fast arrow whoosh with supernatural energy distortion.
+  Intense heartbeat sounds during the woman's terrifying realization.
+  Sudden near-total silence during her supernatural awakening.
+  Powerful cinematic bass impact during the final revelation.
+  STRICT VISUAL INSTRUCTIONS
+  Character Consistency: Maintain identical character identities, facial structures, hairstyles, eye colors, makeup, outfits, and accessories throughout the entire sequence. Preserve the female lead's exact reference-image identity.
+
+  Fallen Angel Wings: The fallen angel must always have exactly two enormous anatomically consistent black feathered wings. Wings must remain naturally attached to his back, with realistic feather movement, believable joints, and physically accurate motion.
+
+  Environment Consistency: Maintain the same gothic cemetery architecture, ancient cathedral, gravestones, stone crosses, fog distribution, and atmospheric lighting across all scenes.
+
+  Realistic Physics: Use realistic cloth simulation, believable body movement, natural facial expressions, accurate wing motion, and physically consistent arrow trajectories.
+
+  Cinematic Quality: Hollywood-level visual effects, photorealistic skin textures, realistic environmental details, volumetric fog, dramatic shadows, cinematic depth of field, subtle film grain, and sophisticated dark fantasy color grading.
+
+  Avoid: Cartoon physics, distorted faces, inconsistent makeup, extra limbs, duplicated wings, unnatural anatomy, random character changes, flickering costumes, unrealistic movements, inconsistent environments, and excessive artificial-looking visual effects.
+
+  Overall Mood: Mysterious, haunting, supernatural, gothic, emotionally intense, visually spectacular, and deeply unsettling, with the atmosphere of a premium Hollywood dark fantasy movie trailer.

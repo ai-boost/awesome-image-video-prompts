@@ -1,0 +1,84 @@
+id: seedance-dragon-reflection-golden-mirror
+title:
+  en: Dragon meets its reflection in a golden mirror
+  zh: 龙在金色镜子里看见自己的倒影
+model: Seedance 2.5
+mode: text-to-video
+category: scifi-fantasy
+tags:
+- dragon
+- fantasy
+- reflection
+- countryside
+source:
+  name: '@ZunairaSaeedAi on X'
+  url: https://x.com/ZunairaSaeedAi/status/2123257938609586526
+  credit: ZunairaSaeedAi
+  captured: '2026-11-24'
+  posted: '2026-11-19'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/ZunairaSaeedAi/status/2123257938609586526
+notes:
+  en: A timed shot list with a continuity block repeats the character, dress, mirror and meadow in every beat, so the reflection stays tied to the real dragon's pose. Explicit cut and camera cues for each few seconds keep the 30 second sequence in order.
+  zh: 带时间段的分镜清单加上连续性说明，在每个时间段重复角色、服装、镜子和草地的描述，让镜中倒影与真龙的动作保持同步。每段都写明切镜和运镜方式，使 30 秒的顺序不会乱。
+prompt: |
+  Create a 30-second ultra-realistic cinematic fantasy video, 16:9 widescreen, with consistent characters, natural motion, detailed facial expressions, realistic physics, smooth cinematic camera movements, and high-end CGI quality.
+
+  CHARACTER CONSISTENCY:
+
+  A cute small fantasy dragon with pearly white scales, icy blue scales, vivid sapphire-blue crystal spikes along its head, neck and back, two curved horns, bright blue eyes, small sharp teeth, large blue membranous wings, and a long tail. The dragon has an expressive, adorable face and realistic detailed scales.
+
+  A young blonde woman wearing a medieval fantasy dress with a cream-colored blouse, puffed sleeves, and a long dark burgundy-brown skirt. Her hairstyle, face, clothing and proportions must remain consistent throughout the video.
+
+  ENVIRONMENT:
+
+  A beautiful sunlit countryside meadow with vibrant green grass, rolling hills, a low stone wall, a rustic stone cottage in the background, and distant trees. A tall freestanding oval mirror with an ornate antique gold frame and decorative curved feet stands upright on the grass. The mirror is reflective and remains in exactly the same position throughout the scene.
+
+  SHOT-BY-SHOT ACTION AND CAMERA DIRECTIONS:
+
+  0–2 seconds:
+  Begin with a cinematic wide shot of the countryside. The young woman stands beside the tall ornate golden mirror. The blue-and-white crystal dragon walks into the scene from the left, approaching the woman and the mirror. Gentle natural camera movement, realistic walking motion, warm sunlight.
+
+  2–3 seconds:
+  Cut to an extreme close-up of the dragon's face. Its vivid blue eyes look forward with curiosity. Show highly detailed white scales, blue crystalline spikes, subtle breathing, and natural eye movement.
+
+  3–5 seconds:
+  Cut to a frontal medium-wide shot. The dragon lowers its body, spreads both large wings outward, raises its head, and opens its mouth in a dramatic roar. Its wings and body move naturally. The camera captures the full dragon's posture.
+
+  5–7 seconds:
+  Cut to a side close-up. The dragon turns its head toward the woman and releases a powerful bright orange stream of fire from its mouth. The fire extends horizontally across the foreground toward the woman and mirror. The woman reacts in surprise, raising both arms in front of her face and leaning backward. The fire creates realistic orange light, heat distortion, and glowing reflections. Do not show injuries or destruction.
+
+  7–9 seconds:
+  The fire disappears. Cut to a wide side shot of the dragon, the woman, and the standing mirror. The dragon lowers its head and begins moving closer to the mirror. The woman remains beside it. Keep the countryside and cottage consistent.
+
+  9–12 seconds:
+  The dragon slowly approaches the mirror, looking directly at its reflection. Use a medium-wide composition with the dragon in the foreground and the ornate mirror clearly visible. The mirror accurately reflects the dragon's face and body.
+
+  12–14 seconds:
+  Cut to a close shot framed through the golden mirror. Show the dragon's reflection looking back at itself. It blinks slowly, tilts its head slightly, and studies its own face with curiosity. The reflected movements must match the real dragon precisely.
+
+  14–16 seconds:
+  Close-up of the dragon beside the mirror. It turns its head slightly, its blue eyes widen, and it looks fascinated by the reflection. Smooth cinematic camera movement, shallow depth of field, realistic sunlight on the crystal spikes.
+
+  16–18 seconds:
+  Cut to a wider shot showing the dragon and mirror together. The dragon moves its head closer to the mirror, opens its mouth in a playful surprised expression, then relaxes. Keep the woman in the background.
+
+  18–24 seconds:
+  Cinematic medium-wide shot from a slightly low angle. The dragon stands proudly in front of the mirror, gradually raises its head and opens its large blue wings. Warm sunlight shines from behind, creating beautiful rim lighting around the wings, horns, and crystal spikes. The dragon admires its reflection with a proud, curious, playful expression. The camera remains smooth and cinematic, with subtle movement.
+
+  24–26 seconds:
+  Cut to a close-up of the dragon's reflection inside the oval mirror. The dragon gently closes its eyes and leans its face toward the mirror. Its expression becomes peaceful and affectionate.
+
+  26–28 seconds:
+  Extreme close-up through the mirror. The young woman's hand enters gently from the side and touches the dragon's nose with her index finger. The dragon keeps its eyes closed and responds with a soft, affectionate expression. The interaction is gentle, natural, and emotionally warm. Detailed facial animation and realistic contact.
+
+  28–30 seconds:
+  Finish with a wide cinematic shot of the dragon, the young woman, and the ornate mirror together in the sunlit meadow. The dragon stands beside the mirror with its long blue tail extending behind it. The woman stands next to the dragon. The camera gently pulls back, showing the cottage, stone wall, green hills, and warm sunlight. End with a peaceful cinematic fade to black.
+
+  VISUAL STYLE:
+  Photorealistic fantasy CGI, cinematic film quality, realistic textures, detailed dragon scales, expressive blue eyes, realistic wing anatomy, natural character motion, physically accurate reflections, warm daylight, soft shadows, beautiful golden-hour highlights, cinematic depth of field, smooth camera transitions, consistent character identity, high detail.
+
+  STRICT CONTINUITY:
+  The same dragon, woman, dress, mirror, cottage, meadow, lighting direction, and landscape must remain consistent in every shot. The mirror must always reflect the actual dragon in the correct position. The dragon's movements and reflection must synchronize perfectly.
+
+  Do not add extra characters, additional dragons, extra mirrors, scene changes, random objects, text, subtitles, logos, watermarks, inconsistent dragon anatomy, distorted faces, flickering, abrupt camera movements, or unrelated actions. Follow the exact chronological sequence described above.

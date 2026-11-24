@@ -1,0 +1,39 @@
+id: seedance-hot-sauce-sailor-nyc-fight
+title:
+  en: Sailor with hot sauce fights suited gunman in NYC
+  zh: 辣酱水手与西装枪手在纽约街头搏斗
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- anime
+- action
+- fight-scene
+- nyc
+source:
+  name: '@TechieBySA on X'
+  url: https://x.com/TechieBySA/status/2109346265444024472
+  credit: TechieSA
+  likes: 929
+  captured: '2026-11-24'
+  posted: '2026-10-11'
+video: https://x.com/TechieBySA/status/2109346265444024472
+notes:
+  en: The prompt is a timestamped beat sheet that gives the 20 second clip a fixed timeline, and the hot sauce trigger (red face, steam, swollen forearms) is repeated in each beat so the transformation stays consistent. The closing style line pins the look with flat colour blocking, thick outlines and a camera that changes angle on every shot.
+  zh: 提示词采用带时间码的分段写法，为20秒的片段规定了固定的时间线，并在每一段重复辣酱触发的变化（脸红、冒烟、前臂膨胀），使角色状态前后一致。结尾的风格段用平涂色块、粗黑轮廓和每个镜头都换角度来固定画面风格。
+prompt: |
+  "Cinematic anime clip, 20 seconds. Busy NYC street at midday — bright clear sunshine, skyscrapers, yellow taxis, pedestrians scattering, parked cars.
+  MAIN CHARACTER 1 — SHORT STOCKY MALE WITH MASSIVELY OVERSIZED FOREARMS: Toothpick in mouth. After hot sauce — face bright red, steam from ears, forearms tripling. Never backing down. Gets pushed back but always comes back harder.
+  MAIN CHARACTER 2 — LEAN ATHLETIC MALE IN BLACK SUIT BLACK TIE: Heckler Koch P30L pistol. Completely calm and precise. Switches from gun to hand to hand instantly. Jiu jitsu, elbows, knees, throws — fastest most precise fighter main character 1 has ever faced.
+  0:00–0:02 — Already mid fight. Main character 2 firing rapidly — bullets sparking off main character 1's massive forearms. Main character 1 advancing through gunfire not stopping. Main character 2 backing up still firing completely calm. Pedestrians scattering. Taxis screeching to a stop.
+  0:02–0:04 — Main character 2's pistol clicking empty. Instantly switching to hand to hand — rapid jiu jitsu combination landing faster than anyone ever has. Main character 1 actually staggering — first time pushed back. Elbow knee throw — main character 1 hitting a parked car hard.
+  0:04–0:06 — Main character 1 getting up slowly. Both advancing simultaneously — brutal exchange. Heavy wild punches vs precise deflections and rapid combinations. Both landing hits. Neither going down.
+  0:06–0:08 — Main character 2 getting main character 1 in a chokehold from behind — actually holding him straining. Main character 1 reaching into shirt pulling out hot sauce chugging entire bottle mid chokehold. Face turning bright red. Steam blasting from ears. Forearms tripling — chokehold breaking apart by pure expansion. Main character 2 stumbling back.
+  0:08–0:11 — Main character 2 seeing the transformation, not panicking, switching tactics — going low, targeting legs, pressure points, technical takedowns. Taking main character 1 down twice with pure technique. Main character 1 getting up both times harder to put down each time.
+  0:11–0:14 — Most intense exchange. Main character 2 at absolute maximum — every technique every combination relentless. Main character 1 matching with raw power. Both getting hit. Both refusing to go down. NYC frozen around them.
+  0:14–0:15 — Main character 2 throwing fastest combination yet — main character 1 catching his fist mid swing with one massive hand. Stopping it completely. Main character 2 knowing what's coming. One final rapid combination — not enough.
+  0:15–0:17 — Main character 1 winding back biggest punch of entire video. Fist connecting with main character 2's chest. Biggest shockwave of video — suit jacket flying off mid air, tie flapping, main character 2 launching down entire NYC street sliding to a stop against a parked car far in the distance.
+  0:17–0:18 — Main character 2 sitting up slowly. Straightening his tie calmly. Looking down the street. Nodding once — genuine respect.
+  0:18–0:19 — Main character 1 adjusting his cap. Fresh toothpick in mouth. Steam fading. Nodding back once. Neither celebrating.
+  0:19–0:20 — Wide from above. NYC street. Pedestrians returning. Two figures at opposite ends. Clear blue sky. Done.
+  Cel-shaded 3D anime, Unreal Engine quality, busy NYC street midday bright clear sunshine skyscrapers yellow taxis pedestrians parked cars throughout, bold flat color blocking, hard edge shadows, thick black outlines, vibrant saturated colors, film grain, intense orchestral score never dropping every gunshot cracking sharp every hand to hand impact precise and hard every big punch enormous BOOM building to final punch, camera switching constantly never same angle twice — wide from above, low angles from street, medium side shots, close ups on faces fists and impacts — main character 1 always uploaded sheet toothpick face red after hot sauce steam forearms enormous never backing down.”

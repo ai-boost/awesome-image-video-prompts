@@ -1,0 +1,47 @@
+id: kling-lala-cerberus-volcano-spells
+title:
+  en: Lala stands on a plateau above a volcanic caldera
+  zh: 拉拉站在俯瞰破火山口的高台上
+model: Kling 4.0
+mode: reference-to-video
+category: scifi-fantasy
+tags:
+- character-lock
+- spell-battle
+- fantasy
+- volcano
+source:
+  name: '@chatgptpaglu on X'
+  url: https://x.com/chatgptpaglu/status/2118313794384593389
+  credit: yusra.
+  likes: 307
+  captured: '2026-11-24'
+  posted: '2026-11-05'
+video: https://x.com/chatgptpaglu/status/2118313794384593389
+notes:
+  en: Character lock tags each reference image with exact identity and the figures' heights and distance in meters, so the scale between the small heroine and the 5.1m creature holds across shots. A timed beat sheet with second ranges and spoken spell names sets a clear cause and effect order, and the strict rules list blocks common drift such as teleporting or extra creatures.
+  zh: 用 @image 标签锁定每个参考角色的外形，并以米为单位写明人物身高与双方距离，让娇小的主角和 5.1 米的怪物在各镜头中比例保持一致。按秒分段的节拍表加上咒语喊声，让因果顺序清楚，严格规则条目则防止瞬移、多余生物等常见跑偏。
+prompt: |
+  CHARACTER LOCK:
+  @image1
+   = Lala. Preserve exact face, identity, hairstyle, body, outfit and accessories. Her magical doll remains present and subtly responds to her gestures.
+  @image2
+   = Cerberus. Preserve its exact three-headed anatomy, horns, proportions and appearance. Each head moves independently.
+
+  ENVIRONMENT & SCALE: An enormous ancient volcanic caldera with black obsidian rocks, magma fissures, ash, steam and distant mountains. Lala stands on an elevated plateau; Cerberus occupies a lower basin 100 meters away. Lala is 1.7m tall and Cerberus 5.1m. Maintain their scale, distance and positions. Lala never leaves the plateau.
+
+  00–04 | CONFRONTATION: Aerial camera reveals the caldera, Lala on the plateau and aggressive Cerberus in the lower basin. Its three heads roar independently as its paws crush volcanic rocks. Lala remains calm.
+
+  04–07 | DOUBLECAST: Camera orbits Lala as she activates Doublecast through controlled hand gestures. Her doll responds subtly. No spoken announcement.
+
+  07–13 | BLIZZAGA: Lala performs elegant, flowing gestures and shouts 「ブリザガ！」 (Burizaga). A powerful frost wave travels across the battlefield, freezing the basin, rocks and Cerberus. Ice progressively covers its entire body and all three heads, immobilizing it completely. Camera tracks the advancing frost and reveals the frozen beast.
+
+  13–18 | FIRAGA: Lala immediately changes to firm, commanding gestures and shouts 「ファイガ！」 (Faiga). Magma erupts through ground fractures, lava flows across the basin, and existing ice melts into thick steam. The massive ice prison around Cerberus remains intact. Do not free or thaw it.
+
+  18–22 | ELEMENTAL CONVERGENCE: A violent vortex forms around Cerberus. Sharp ice shards and heavy flowing magma converge from multiple directions, violently shattering its ice prison and striking the creature. Keep Cerberus recognizable at the center. No additional spell announcement.
+
+  22–30 | ULTIMA: Lala performs a distinct authoritative gesture and shouts 「アルテマ！」 (Arutema). A colossal black-violet gravitational sphere forms above the basin, distorting space and pulling in ash, ice and debris. It descends and detonates directly over Cerberus. A devastating radial shockwave destroys the basin, displacing magma, ice and massive debris. The explosion remains confined to the lower basin, leaving Lala's elevated plateau outside the main blast. The sphere dissolves into fading particles. End on a wide shot of Lala calmly overlooking the destruction.
+
+  CAMERA & STYLE: Premium live-action fantasy cinema, realistic elemental physics, cinematic lighting and sophisticated VFX. Use aerial wides, medium-full casting shots and dynamic ground-level tracking. Preserve clear geography and cause-and-effect.
+
+  STRICT RULES: Exact identities and anatomy, consistent scale and distance, persistent environmental damage, distinct spell gestures. Cerberus stays frozen until convergence. No teleportation, duplicate characters, extra creatures, disappearing effects, resets, cartoon CGI, random cuts or unrelated dialogue.

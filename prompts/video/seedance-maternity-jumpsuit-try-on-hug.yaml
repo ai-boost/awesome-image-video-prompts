@@ -1,0 +1,29 @@
+id: seedance-maternity-jumpsuit-try-on-hug
+title:
+  en: Pregnant woman tries on jumpsuit then hugs husband
+  zh: 孕妇试穿连体装后与丈夫相拥
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- 3d-animation
+- pixar-style
+- vertical-video
+- pregnancy
+source:
+  name: '@Zarnab_with_Ai on X'
+  url: https://x.com/Zarnab_with_Ai/status/2123018092427292995
+  credit: Zarnab_with_Ai
+  captured: '2026-11-24'
+  posted: '2026-11-18'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Zarnab_with_Ai/status/2123018092427292995
+notes:
+  en: The prompt breaks the story into ordered beats and spells out each wardrobe action, so the try-on and the mirror reveal play out in sequence. Opening with the Pixar style 3D look, warm sunlight and vertical 9:16 framing locks in the visual style and composition.
+  zh: 提示词把故事拆成按顺序排列的镜头节拍，并逐一写明衣柜里的动作，让试穿和照镜子的过程依次呈现。开头就指定皮克斯风格3D画面、暖色阳光和竖屏9:16构图，先锁定画风与取景。
+prompt: |
+  A funny and heartwarming 3D animated comedy featuring a beautiful young pregnant woman with long brown hair, big expressive blue eyes, wearing a black crop top and burgundy maternity pants. She proudly shows off her huge baby bump, then reacts with surprise and frustration as a series of humorous characters appear, including a tiny mustached cartoon man with an oversized round belly and a chubby green furry creature.
+
+  The pregnant woman walks into her bedroom and searches through her wardrobe, looking for a comfortable outfit. She browses different clothes, picks out a beautiful light-blue maternity jumpsuit with a white T-shirt, and tries it on. She admires her new look in the mirror, gently holds her baby bump, and smiles happily. Finally, her handsome husband enters the room, smiles at her, and lovingly embraces her.
+
+  Beautiful modern bedroom, elegant walk-in wardrobe, warm natural sunlight, expressive facial animations, funny reactions, smooth character movements, consistent character designs, cinematic camera angles, high-quality Pixar-style 3D animation, vibrant colors, detailed textures, vertical 9:16 format.

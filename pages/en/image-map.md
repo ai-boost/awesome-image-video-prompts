@@ -1,6 +1,6 @@
 # Maps
 
-[Back to the list](../../README.md) · All 15 entries
+[Back to the list](../../README.md) · All 16 entries
 
 <a id="gpt-image-isometric-anime-world-map-diorama-poster"></a>
 ### Isometric Anime World Map Diorama Poster
@@ -613,6 +613,37 @@ Blend the real city seamlessly with the illustrated map surface so the road appe
 Show large bold typography of "[CITY NAME]" printed directly on the map in the foreground. Use warm golden-hour lighting, shallow depth of field, realistic textures, cinematic shadows, aerial perspective, and photorealistic detail. The overall aesthetic should feel like a premium Instagram travel poster mixed with a miniature diorama.
 
 Aspect ratio 1:1.
+```
+
+</details>
+
+<a id="gpt-image-usa-doodle-travel-map"></a>
+### Doodle travel map of the United States
+
+<a href="https://x.com/Naiknelofar788/status/2093679919473840378"><img src="../../previews/gpt-image-usa-doodle-travel-map.jpg" width="360"></a>
+
+The post is a template with bracketed slots, and this result fills them in for the United States while keeping its structure. The country outline drives the composition and dozens of tiny ink doodles fill it with landmarks, food and wildlife, and the monochrome linework on cream paper keeps that dense detail clean.
+
+GPT Image 2 · Text-to-image · Source: [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2093679919473840378) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`doodle`](tags.md#tag-doodle) [`travel-map`](tags.md#tag-travel-map) [`pen-and-ink`](tags.md#tag-pen-and-ink) [`united-states`](tags.md#tag-united-states)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Doodle Country Illustration [COUNTRY NAME]
+
+Create a charming, highly detailed hand-drawn doodle illustration of [COUNTRY NAME], designed like a whimsical illustrated travel map. Use the recognizable outline/shape of the country as the main composition, filled with dozens of tiny black-ink doodles representing its culture, landscapes, food, architecture, traditions, wildlife, landmarks, and everyday life.
+
+Include iconic elements such as [LANDMARK 1], [LANDMARK 2], [FOOD], [ANIMAL], [TRADITION], [NATURE], [FAMOUS OBJECT], along with small decorative elements scattered naturally throughout the map.
+
+Style: intricate pen-and-ink doodle art, playful hand-drawn lines, tiny illustrations, whimsical details, slightly imperfect sketching, travel-journal aesthetic, monochrome ink with subtle paper texture, white/off-white background, balanced composition, visually rich but clean, no photorealism.
+
+Add the country name “[COUNTRY NAME]” in beautiful hand-lettered typography integrated naturally into the artwork.
+
+Aspect ratio: 4:5 portrait
+Mood: artistic, nostalgic, cozy, adventurous, culturally rich
+Quality: extremely detailed, crisp linework, professional illustrated travel poster.
 ```
 
 </details>

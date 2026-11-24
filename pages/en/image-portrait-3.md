@@ -1,6 +1,69 @@
 # Portraits
 
-[Back to the list](../../README.md) · All 288 entries · [1](image-portrait.md) · [2](image-portrait-2.md) · **3**
+[Back to the list](../../README.md) · All 291 entries · [1](image-portrait.md) · [2](image-portrait-2.md) · **3**
+
+<a id="gpt-image-double-exposure-aviator-fashion-portrait"></a>
+### Double exposure fashion portrait with aviator sunglasses
+
+<a href="https://x.com/Anaya_Ai12/status/2062191518975508678"><img src="../../previews/gpt-image-double-exposure-aviator-fashion-portrait.jpg" width="360"></a>
+
+Pairs a large semi transparent profile with a full body figure to build the double exposure, and locks the identity to the uploaded face. A warm sepia and charcoal grade, a golden light leak in one corner and an 85mm lens cue keep the look cinematic.
+
+GPT Image 2 · Edit · Source: [@Anaya_Ai12 on X](https://x.com/Anaya_Ai12/status/2062191518975508678) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`double-exposure`](tags.md#tag-double-exposure) [`fashion`](tags.md#tag-fashion) [`portrait`](tags.md#tag-portrait) [`sepia`](tags.md#tag-sepia) [`light-leak`](tags.md#tag-light-leak)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A cinematic double-exposure fashion portrait featuring a woman with the uploaded face used 100% as reference, wearing stylish metallic aviator sunglasses. The composition artfully blends a large, semi-transparent close-up profile of her face on the left with her full-body figure standing confidently on the right. She wears an open, light-grey textured corduroy shirt layered over a dark grey fitted t-shirt and dark denim jeans, posing naturally with her hands in her pockets. She has long, flowing dark hair, flawless skin, elegant feminine features, and a confident, sophisticated expression.
+
+The background is a minimalist neutral studio setting, allowing the double-exposure composition to remain the visual focus. The color grading features a sophisticated warm desaturated sepia and charcoal palette, enhanced by a soft golden-orange light-leak flare in the upper-right corner. Professional 85mm lens photography with high-contrast yet soft cinematic lighting accentuates the fabric textures, facial details, and layered portrait effect.
+
+Ultra-realistic skin texture, luxury fashion-editorial aesthetic, premium magazine-cover quality, subtle film grain, cinematic depth, elegant shadows, refined color grading, modern retro-inspired styling, masterpiece composition, ultra-sharp focus, visually striking storytelling, high-end commercial fashion campaign look.
+```
+
+</details>
+
+<a id="gpt-image-fairycore-butterfly-floral-crown-portrait"></a>
+### Fairycore portrait with butterflies and floral crown
+
+<a href="https://x.com/HaniaAi12/status/2062696495741391006"><img src="../../previews/gpt-image-fairycore-butterfly-floral-crown-portrait.jpg" width="360"></a>
+
+The prompt lists concrete hair and gown details such as roses, crystals, feathers and embroidered sheer fabric. It pairs them with a fixed pastel palette and diffused morning light, then closes with photographic terms like bokeh, volumetric lighting and soft focus highlights.
+
+GPT Image 2 · Text-to-image · Source: [@HaniaAi12 on X](https://x.com/HaniaAi12/status/2062696495741391006) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`fairycore`](tags.md#tag-fairycore) [`fantasy-portrait`](tags.md#tag-fantasy-portrait) [`pastel`](tags.md#tag-pastel) [`butterflies`](tags.md#tag-butterflies) [`soft-light`](tags.md#tag-soft-light)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Ultra-realistic ethereal fantasy portrait of a breathtaking young woman with delicate porcelain skin, soft grey-blue eyes, and natural rosy lips. She gazes gently toward the viewer with a serene, dreamy expression, her fingertips lightly touching her chin. Wispy ash-brown hair flows softly in the breeze, styled in a loose romantic updo adorned with pastel blush roses, shimmering crystal ornaments, delicate feathers, and intricate floral accessories. She wears elegant dangling crystal earrings and a translucent, flowing gown made of sheer iridescent fabric embroidered with tiny sparkling flowers.
+
+The scene is bathed in soft diffused morning light, creating a luminous glow around her face and shoulders. Surrounded by floating butterflies, sparkling dust particles, translucent petals, and dreamy floral textures, the background blends pastel lavender, pearl white, blush pink, and silver tones. Cinematic fine-art photography, fairycore aesthetic, enchanted garden atmosphere, magical realism, ultra-detailed skin texture, soft focus highlights, volumetric lighting, bokeh, masterpiece quality, highly detailed, 8K resolution, delicate feminine beauty, romantic fantasy artwork, elegant composition, dreamy color grading, soft glow, celestial ambiance.
+```
+
+</details>
+
+<a id="gpt-image-fisheye-mirror-retro-cafe-portrait"></a>
+### Fisheye mirror portrait in a teal retro cafe
+
+<a href="https://x.com/harboriis/status/2049044698900361241"><img src="../../previews/gpt-image-fisheye-mirror-retro-cafe-portrait.jpg" width="360"></a>
+
+Naming the fisheye lens, the round mirror frame and a close leaning pose gives strong distortion and intimacy. Specific set details such as teal subway tiles, pendant lights and yellow tinted glasses, plus a warm moody tone cue, keep the palette cohesive.
+
+GPT Image 2 · Edit · Source: [@harboriis on X](https://x.com/harboriis/status/2049044698900361241) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`fisheye`](tags.md#tag-fisheye) [`retro-cafe`](tags.md#tag-retro-cafe) [`mirror`](tags.md#tag-mirror) [`portrait`](tags.md#tag-portrait) [`warm-moody`](tags.md#tag-warm-moody)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A fish-eye lens close-up of [your photo as reference] sipping from a teal/turquoise coffee mug, leaning forward intimately toward camera. Shot through or near a round mirror. Retro café interior with glossy teal subway tiles, vintage appliances, pendant lights. Black t-shirt, yellow-tinted round glasses. Warm moody tones.
+```
+
+</details>
 
 <a id="gpt-image-futuristic-office-businesswoman-portrait"></a>
 ### Businesswoman portrait in futuristic glass office

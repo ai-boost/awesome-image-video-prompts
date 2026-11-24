@@ -1,6 +1,59 @@
 # 电影感场景与短片
 
-[返回目录](../../README_zh.md) · 全部 178 条 · [1](video-cinematic.md) · **2**
+[返回目录](../../README_zh.md) · 全部 182 条 · [1](video-cinematic.md) · **2**
+
+<a id="seedance-clown-pumpkin-bat-halloween"></a>
+### 小丑用棒球棒击碎发光南瓜
+
+<a href="https://x.com/iam_mian7/status/2116450954296074371"><img src="../../previews/seedance-clown-pumpkin-bat-halloween.jpg" width="360"></a>
+
+按编号逐步描述动作，并固定中景正面机位，让模型有清晰的时间线。爆裂段明确要求慢动作和真实物理效果，结尾精确指定白色大写字幕，使高潮与收尾更易读。
+
+Seedance 2.5 · 文生视频 · 出处: [@iam_mian7 on X](https://x.com/iam_mian7/status/2116450954296074371) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`halloween`](tags.md#tag-halloween) [`horror`](tags.md#tag-horror) [`slow-motion`](tags.md#tag-slow-motion) [`vfx`](tags.md#tag-vfx)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a hyper-realistic, cinematic Halloween video in vertical 9:16 format, approximately 10 seconds long, with photorealistic 4K quality.
+
+Scene and Environment:
+A dark, spooky forest at night, filled with tall leafless trees, thick atmospheric fog, subtle floating red glowing particles, and dramatic moonlight. In the foreground, place a rustic, weathered wooden table.
+
+Main Character:
+A beautiful young female Halloween clown standing behind the table. She wears an elaborate vintage circus clown costume featuring a black-and-white checkered bodice, red decorative accents, a layered grey tulle skirt, white gloves, and two high curly buns decorated with red roses. Her face has elegant but slightly creepy Halloween clown makeup, with pale skin, dark eyes, and red details.
+
+Action Sequence:
+
+1. The camera remains fixed in a medium-wide frontal shot. The clown enters the scene holding a glowing orange jack-o'-lantern pumpkin. Several red helium balloons float above and behind her.
+
+2. She carefully places the pumpkin on the wooden table, adjusting it with both hands. The pumpkin has a realistically carved, illuminated scary face.
+
+3. She steps back, looks at the pumpkin, and raises her hands with a playful, mischievous expression.
+
+4. A large wooden baseball bat suddenly appears in her hands. She grips it firmly with both hands and prepares to swing.
+
+5. She performs a powerful horizontal baseball swing, striking the pumpkin with full force.
+
+6. On impact, the pumpkin explodes dramatically into hundreds of realistic orange pieces, flying pumpkin seeds, glowing embers, and fiery particles. Create a spectacular cinematic slow-motion explosion with realistic physics.
+
+7. Finish with the clown holding her follow-through batting pose while pumpkin fragments scatter across the wooden table and foreground.
+
+**Final Frame:**
+Display bold, clean white uppercase text at the bottom center:
+
+"HAPPY HALLOWEEN"
+
+Visual Style:
+Ultra-photorealistic cinematic horror fantasy, realistic human anatomy, detailed facial expressions, natural character movement, physically accurate object interactions, dramatic volumetric lighting, atmospheric fog, realistic fire and particle effects, professional Hollywood VFX, sharp details, natural motion blur.
+
+Camera: Fixed frontal camera, medium-wide composition, no cuts, no zooms, consistent character appearance and costume throughout.
+
+Important: No cartoon aesthetics, no animation look, no plastic skin, no character morphing, no extra limbs, no distorted hands, no scene transitions, and no changes to the character's identity.
+```
+
+</details>
 
 <a id="seedance-college-lab-zombie-infection"></a>
 ### 大学实验室学生被感染变成丧尸
@@ -448,6 +501,49 @@ The father discovers the adorable baby sitting safely in a little chair. He look
 Visual Quality: Ultra-detailed 3D animation, realistic knitted fabric, soft baby skin, expressive eyes, natural body movements, cinematic depth of field, warm golden-hour lighting, smooth camera transitions, professional animation, 4K quality, vertical 9:16 aspect ratio.
 
 Important: Maintain consistent baby character design, identical frog hat, clothing, facial features, and nursery environment throughout every scene. Make the story funny, heartwarming, adorable, and highly engaging.
+```
+
+</details>
+
+<a id="seedance-fruit-river-babies-watermelon-boats"></a>
+### 宝宝与兔子乘西瓜船漂过粉色河流
+
+<a href="https://x.com/Zarnab_with_Ai/status/2108504570603491475"><img src="../../previews/seedance-fruit-river-babies-watermelon-boats.jpg" width="360"></a>
+
+提示词把17秒拆成六段带时间码的镜头，每段都有各自的运镜，节奏比一句笼统的推镜更可控。每个场景都重复同样的角色细节（金发宝宝、卷发宝宝、白兔），让角色在切镜后保持一致。
+
+Seedance 2.5 · 文生视频 · 出处: [@Zarnab_with_Ai on X](https://x.com/Zarnab_with_Ai/status/2108504570603491475) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`3d-animation`](tags.md#tag-3d-animation) [`fantasy`](tags.md#tag-fantasy) [`multi-scene`](tags.md#tag-multi-scene) [`pixar-style`](tags.md#tag-pixar-style)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 17-second ultra-detailed, adorable 3D animated cinematic video set in a magical fruit paradise. A beautiful pink river flows through a lush fantasy garden filled with giant strawberries, oversized watermelons, ripe bananas, red apples, and enormous purple and green grape clusters. The sky is bright blue with soft white clouds, and warm sunlight creates a dreamy, colorful atmosphere.
+
+Scene 1 (0–3 seconds): Wide Establishing Shot
+A sparkling pink river flows through the magical fruit garden. Several cute babies and adorable little animals float happily in small boats made from hollowed watermelon halves. The boats gently drift downstream as the camera moves forward, revealing giant fruits, lush green trees, and a beautiful fantasy landscape.
+
+Scene 2 (3–6 seconds): Baby and Bunny Close-Up
+The camera smoothly moves closer to a cute baby with big sparkling blue eyes, soft blonde hair, and chubby cheeks. The baby sits inside a green watermelon boat alongside a fluffy white bunny. The baby smiles excitedly and reaches toward the bunny while the boat gently rocks on the sparkling river. Giant bananas and strawberries fill the background.
+
+Scene 3 (6–9 seconds): Adorable Animal Friends
+A cheerful baby with curly dark hair sits inside another watermelon boat with a tiny gray elephant and fluffy white rabbits. The baby laughs and interacts playfully with the animals. In the background, several cute penguins stand near a giant watermelon, while other baby-filled boats float along the river.
+
+Scene 4 (9–12 seconds): Magical River Journey
+The camera pulls back to reveal a wide, enchanting river filled with multiple watermelon boats carrying adorable babies, rabbits, and other friendly animals. Giant strawberries grow along the riverbanks, enormous grapevines hang overhead, and colorful fruit trees create a magical tunnel. The water ripples naturally as the boats glide smoothly downstream.
+
+Scene 5 (12–15 seconds): Happy Baby Close-Up
+Cut to a close-up of a delighted baby sitting in a watermelon boat beside a fluffy white bunny. The baby laughs joyfully, raises both arms, and leans slightly toward the bunny. The bunny gently moves its ears and nose. Soft sunlight illuminates their faces, creating a heartwarming and playful moment.
+
+Scene 6 (15–17 seconds): Grand Finale
+The camera smoothly pulls back to reveal the entire magical fruit river. Multiple watermelon boats carrying happy babies and adorable animals float peacefully toward the camera. Giant colorful fruits surround the river, creating a spectacular fantasy world. End with a bright, cheerful, storybook-like cinematic composition.
+
+Visual Style: Premium 3D animation, adorable baby characters, Pixar-inspired family-friendly aesthetic, oversized fantasy fruits, expressive faces, soft realistic skin textures, fluffy animal fur, vibrant colors, cinematic lighting, shallow depth of field, smooth camera movements, realistic water ripples, detailed reflections, high-quality rendering, whimsical atmosphere, vertical 9:16 composition, 4K visual quality.
+
+Motion and Consistency: Smooth continuous river movement, naturally drifting watermelon boats, babies making joyful facial expressions and playful gestures, animals moving gently and naturally, subtle camera tracking, seamless scene transitions, consistent character designs, stable anatomy, and no sudden visual distortions.
+
+Audio: Gentle flowing water, soft splashes, cheerful baby giggles, cute animal sounds, and lighthearted magical background music. No dialogue or subtitles.
 ```
 
 </details>
@@ -1277,6 +1373,29 @@ Cornered at the grand staircase, she calmly reveals the diamond and surrenders i
 In the final shot, she smiles knowingly through the glass doors and disappears into the night. The diamond was only a distraction; recovering the stolen painting was her real mission.
 
 Continuity: Keep all faces, outfits, props, and locations consistent. Use clear action geography, believable movements, quick cuts, tracking shots, reflections, and close-ups. Natural gallery ambience, footsteps, glass clinks, radio chatter, and minimal dialogue. No music, narration, subtitles, text, logos, or watermarks. Avoid cartoon physics, teleportation, exaggerated action, and visual inconsistencies.
+```
+
+</details>
+
+<a id="seedance-maternity-jumpsuit-try-on-hug"></a>
+### 孕妇试穿连体装后与丈夫相拥
+
+<a href="https://x.com/Zarnab_with_Ai/status/2123018092427292995"><img src="../../previews/seedance-maternity-jumpsuit-try-on-hug.jpg" width="360"></a>
+
+提示词把故事拆成按顺序排列的镜头节拍，并逐一写明衣柜里的动作，让试穿和照镜子的过程依次呈现。开头就指定皮克斯风格3D画面、暖色阳光和竖屏9:16构图，先锁定画风与取景。
+
+Seedance 2.5 · 文生视频 · 出处: [@Zarnab_with_Ai on X](https://x.com/Zarnab_with_Ai/status/2123018092427292995) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`3d-animation`](tags.md#tag-3d-animation) [`pixar-style`](tags.md#tag-pixar-style) [`vertical-video`](tags.md#tag-vertical-video) [`pregnancy`](tags.md#tag-pregnancy)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A funny and heartwarming 3D animated comedy featuring a beautiful young pregnant woman with long brown hair, big expressive blue eyes, wearing a black crop top and burgundy maternity pants. She proudly shows off her huge baby bump, then reacts with surprise and frustration as a series of humorous characters appear, including a tiny mustached cartoon man with an oversized round belly and a chubby green furry creature.
+
+The pregnant woman walks into her bedroom and searches through her wardrobe, looking for a comfortable outfit. She browses different clothes, picks out a beautiful light-blue maternity jumpsuit with a white T-shirt, and tries it on. She admires her new look in the mirror, gently holds her baby bump, and smiles happily. Finally, her handsome husband enters the room, smiles at her, and lovingly embraces her.
+
+Beautiful modern bedroom, elegant walk-in wardrobe, warm natural sunlight, expressive facial animations, funny reactions, smooth character movements, consistent character designs, cinematic camera angles, high-quality Pixar-style 3D animation, vibrant colors, detailed textures, vertical 9:16 format.
 ```
 
 </details>
@@ -3977,6 +4096,37 @@ Camera Direction: Alternate between extreme close-ups, macro nail-polish shots, 
 Audio: Soft, playful background music with subtle nail-polish brush sounds, gentle tapping on the remote buttons, and cute comedic sound effects during the surprised reaction. No dialogue or subtitles.
 
 Important Requirements: Maintain the same toddler's face, hairstyle, clothing, proportions, and environment throughout the entire video. Preserve the purple glitter nails after they are painted. Keep the animation smooth, visually coherent, adorable, and humorous. Vertical 9:16 composition, high detail, clean rendering, no flickering, no distorted fingers, no extra limbs, no unwanted text, and no watermarks.
+```
+
+</details>
+
+<a id="seedance-toddler-sister-crayon-brother-hug"></a>
+### 姐姐用蜡笔画画，弟弟在旁边爬行
+
+<a href="https://x.com/Zarnab_with_Ai/status/2119258890642833684"><img src="../../previews/seedance-toddler-sister-crayon-brother-hug.jpg" width="360"></a>
+
+提示词把情节写成铺垫、冲突、安抚三段，并指定中景和特写来拍脸部表情，让情绪变化有清晰的时间线。结尾对脸、发型和衣着一致性的要求，加上不要对白和字幕的限制，让镜头之间人物保持稳定，画面也不会出现文字。
+
+Seedance 2.5 · 文生视频 · 出处: [@Zarnab_with_Ai on X](https://x.com/Zarnab_with_Ai/status/2119258890642833684) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`3d-animation`](tags.md#tag-3d-animation) [`toddlers`](tags.md#tag-toddlers) [`emotional-story`](tags.md#tag-emotional-story)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a high-quality cinematic 3D animated cartoon video featuring two adorable toddlers in a cozy, beautifully decorated living room.
+
+A little girl wearing a colorful floral dress with two cute ponytails is sitting on the floor, happily drawing pictures with crayons on a large white sheet of paper. A cute baby boy wearing blue pajamas crawls beside her and watches curiously.
+
+Suddenly, the baby boy playfully grabs her drawing paper and messes up her artwork. The little girl becomes surprised and angry, crossing her arms with an adorable frustrated expression. The baby boy starts crying dramatically.
+
+The little girl notices his tears, gently picks him up, hugs him warmly, and comforts him. The baby gradually stops crying and smiles happily. Finally, both children laugh together while sharing a sweet hug.
+
+Visual Style: Ultra-detailed 3D Pixar-style animation, adorable toddler characters, expressive big eyes, realistic facial expressions, soft cinematic lighting, colorful cozy living room, beautiful textures, smooth natural movements, emotional storytelling, professional animation quality, 4K resolution, vertical 9:16 aspect ratio.
+
+Camera: Smooth cinematic camera movements, medium shots and close-ups to capture facial expressions and emotional reactions.
+
+Important: Maintain consistent character faces, hairstyles, clothing, and body proportions throughout the entire video. No dialogue, no subtitles, no text, no watermark.
 ```
 
 </details>

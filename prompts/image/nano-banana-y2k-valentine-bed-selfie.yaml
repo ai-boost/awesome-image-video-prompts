@@ -1,0 +1,48 @@
+id: nano-banana-y2k-valentine-bed-selfie
+title:
+  en: Y2K selfie on a heart pillow bed
+  zh: 心形抱枕床上的 Y2K 自拍
+model: Nano Banana Pro
+mode: image-edit
+category: portrait
+tags:
+- valentines-day
+- y2k
+- flash-photo
+- selfie
+source:
+  name: '@lexx_aura on X'
+  url: https://x.com/lexx_aura/status/2015409719335326000
+  credit: Lex
+  likes: 301
+  captured: '2026-11-24'
+  posted: '2026-01-25'
+notes:
+  en: Explicit face fidelity and expression locks keep the reference person intact, and a rule against plastic smoothing keeps skin pores visible. The Y2K snapshot look comes from a high angle held above the subject, mixed direct flash with soft pink or red light, and a relaxed, unposed pose.
+  zh: 明确的面部一致性与表情锁定让参考人物保持不变，禁止塑料感磨皮则保留皮肤毛孔。Y2K 快照感来自手持高角度俯拍、直闪与粉红或红色柔光的混合，以及放松随意的姿态。
+prompt: |
+  {
+    "project_type": "image_generation_from_reference",
+    "preservation_constraints": {
+      "facial_fidelity": "100% identical to original (features, bone structure, skin tone)",
+      "expression_lock": true,
+      "texture_quality": "Preserve realistic skin texture and pores; strictly avoid plastic smoothing"
+    },
+    "visual_style": {
+      "aesthetic": "Y2K-style smartphone flash photo",
+      "era": "Early 2000s / Y2K",
+      "lighting": "Direct flash mixed with colored light (soft pink or red)",
+      "color_grading": "True-to-life colors, raw intimate snapshot look"
+    },
+    "composition": {
+      "camera_angle": "High angle (held above)",
+      "setting": "Bed or sofa",
+      "pose": "Lying down, relaxed, playful, unposed moment",
+      "mood": "Confident, self-love, intimate Valentine"
+    },
+    "subject_styling": {
+      "archetype": "Female blogger",
+      "apparel": "Fitted Y2K-inspired top, oversized hoodie or jacket",
+      "makeup": "Glossy lips, subtle shimmer, visible fluffy false eyelashes"
+    }
+  }

@@ -1,0 +1,38 @@
+id: gpt-image-chibi-couple-head-pat
+title:
+  en: Chibi couple in a playful head pat moment
+  zh: Q版情侣玩闹式摸头互动
+model: GPT Image 2
+mode: text-to-image
+category: character
+tags:
+- chibi
+- couple
+- colored-pencil
+- japanese-illustration
+source:
+  name: '@Sairah_0 on X'
+  url: https://x.com/Sairah_0/status/2093929087010246754
+  credit: Sairah_0
+  captured: '2026-11-24'
+  posted: '2026-08-30'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: Replacing the scene slot with one concrete action gives the model a clear pose to draw, while the style block locks in the sketchy colored pencil texture and pastel palette. The plain white background and centered full body framing keep both figures readable with open space around them.
+  zh: 把模板中的场景占位替换为一个具体动作，模型就有明确的姿势可画，风格段落则锁定铅笔蜡笔质感和粉彩配色。纯白背景与居中的全身构图让两个人物清晰可读，四周留有空白。
+prompt: |
+  Create a cute hand-drawn Japanese chibi illustration of two characters interacting in a sweet, playful moment. Use a soft traditional colored-pencil and crayon drawing style, with visible sketchy pencil strokes, slightly rough imperfect outlines, gentle pastel coloring, and a handmade children’s storybook feel. Characters should have oversized heads, tiny bodies, simple oval black eyes, tiny smiling mouths, rosy cheeks, and expressive innocent faces. Give them natural, adorable poses and interactions, with clothing and hairstyles matching the requested scene. Keep the composition clean and minimal on a plain white background, with plenty of negative space. Add small hand-drawn decorative elements such as hearts, sparkles, or motion lines around the characters where appropriate. Soft pastel palette, subtle paper texture, delicate linework, slightly imperfect coloring, cozy wholesome romantic atmosphere, full-body composition, centered characters, high-quality illustration.
+
+  For different scenes
+
+  Replace this part:
+
+  “two characters interacting in a sweet, playful moment”
+
+  with whatever you want, e.g.:
+  •“a couple holding hands while walking”
+  •“a boy surprising a girl with flowers”
+  •“two friends laughing together”
+  •“a couple sitting together under an umbrella”
+  •“a girl teasing a shy boy”
+  •“two characters taking a cute selfie”

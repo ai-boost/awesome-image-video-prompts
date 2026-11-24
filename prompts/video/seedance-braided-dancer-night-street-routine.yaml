@@ -1,0 +1,49 @@
+id: seedance-braided-dancer-night-street-routine
+title:
+  en: Braided dancer performs timed street routine at night
+  zh: 双辫女孩夜间街头按节拍跳街舞
+model: Seedance 2.5
+mode: reference-to-video
+category: music-dance
+tags:
+- street-dance
+- choreography
+- night-street
+- character-reference
+source:
+  name: '@MissDelulu9 on X'
+  url: https://x.com/MissDelulu9/status/2123258038459273373
+  credit: MissDelulu9
+  captured: '2026-11-24'
+  posted: '2026-11-19'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/MissDelulu9/status/2123258038459273373
+notes:
+  en: A single character reference with an explicit list of details to keep locks the face and outfit, and the timed beat sheet gives each move its own window. The fixed low front camera and the instruction to keep the shoes in frame make the footwork readable.
+  zh: 用唯一的角色参考图加上明确的保持清单锁定人脸和服装，并以时间段逐段编排动作，让每个动作对应清楚的节拍。固定的低机位正面镜头并要求鞋子始终在画面内，使脚步动作清晰可读。
+prompt: |
+  Duration: 19 seconds
+  Aspect Ratio: 16:9
+  Style: Photorealistic, cinematic nighttime street photography.
+
+  Use IMAGE 1 as the only character reference. Preserve her exact face, identity, dark brown eyes, two long black braids, gray cropped hoodie, striped sleeves, beige baggy trousers, navy waist wrap, black wrist accessories, and black-and-white sneakers. No appearance or outfit changes.
+
+  ENVIRONMENT: Realistic nighttime city street with illuminated buildings, storefronts, traffic lights, vehicles, and concrete pavement. One dancer only.
+
+  DANCE CHOREOGRAPHY:
+
+  - 00:00–00:02: Start facing camera, rhythmic steps, alternating legs and body bounce.
+  - 00:02–00:04: Knee lift, wide stance, low side lunge.
+  - 00:04–00:06: Hand beside head, other near waist, hip and shoulder movements.
+  - 00:06–00:08: Quick arm gestures, knee bends and rhythmic bouncing.
+  - 00:08–00:10: Hand across chest, weight shifts, sharp shoulder and hip accents.
+  - 00:10–00:12: Slight body lowering, downward arm swing and rhythmic step.
+  - 00:12–00:14: One arm diagonally upward, opposite arm downward, controlled bounce.
+  - 00:14–00:16: Both arms at chest level, elbows outward, quick shoulder movements.
+  - 00:16–00:19: Synchronized arm movements, knee bends, slight turn, finish with crossed arms and a confident final pose.
+
+  MUSIC: Energetic upbeat street dance music, approximately 129 BPM. Synchronize every movement naturally with the beat.
+
+  CAMERA: Vertical full-body shot, slight low angle, front-facing, entire body and shoes visible, stable framing, no cuts or excessive zoom.
+
+  REALISM: Natural anatomy, realistic foot contact, balanced movements, natural braid and clothing motion, cinematic nighttime lighting.

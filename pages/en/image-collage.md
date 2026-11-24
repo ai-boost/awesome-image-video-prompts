@@ -1,6 +1,6 @@
 # Collage
 
-[Back to the list](../../README.md) · All 108 entries
+[Back to the list](../../README.md) · All 109 entries
 
 <a id="gpt-image-failed-photos-grid"></a>
 ### Nine accidental phone snapshots of any character
@@ -299,6 +299,153 @@ Nano Banana 2 · Edit · Source: [@Naiknelofar788 on X](https://x.com/Naiknelofa
     ]
   }
 }
+```
+
+</details>
+
+<a id="gpt-image-2-6-hens-meadow-sticker-card"></a>
+### Hens in a dandelion meadow with six stickers
+
+<a href="https://x.com/Just_sharon7/status/2124824781715624023"><img src="../../previews/gpt-image-2-6-hens-meadow-sticker-card.jpg" width="360"></a>
+
+The prompt splits the card into a locked photo block and a separate sticker brief, so the photo stays untouched while the stickers take one fixed gouache and stencil style. Naming the border, shadow, and keyword line rules gives the six stickers a consistent finish.
+
+GPT Image 2.6 · Edit · Source: [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2124824781715624023) · 342 likes on 2026-11-24
+
+[`scrapbook`](tags.md#tag-scrapbook) [`stickers`](tags.md#tag-stickers) [`chickens`](tags.md#tag-chickens) [`wildflowers`](tags.md#tag-wildflowers)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Based on the uploaded photograph, create a 3:4 vertical memory sticker card, featuring the original photograph in the upper section and six hand-drawn stickers extracted from the photograph in the lower section.
+
+1. Overall Layout
+
+Use warm off-white uncoated paper as the card's background, featuring a delicate, natural paper texture.
+
+Maintain approximately 4–5% continuous margins around all four sides.
+
+Divide the composition into two main sections:
+
+Upper 60%: Display the original uploaded photograph.
+Lower 40%: Arrange six individual hand-drawn stickers inspired by the photograph.
+
+The overall composition should feel clean, spacious, warm, and nostalgic, resembling a collectible scrapbook card or a beautifully curated travel journal.
+
+2. Upper Section — Original Photograph
+
+Preserve the uploaded photograph exactly as it appears, including all original subjects, people, objects, colors, textures, and fine details.
+
+Do not redraw, illustrate, stylize, or apply filters to the original photograph.
+Do not introduce paper grain or artificial textures inside the photograph.
+Maintain the photograph's original aspect ratio.
+Scale proportionally and center it within the upper section.
+Display the complete photograph without stretching, distortion, or cropping important subjects.
+Allow the warm off-white paper background to remain naturally visible around the photograph.
+Do not add decorative frames, adhesive tape, Polaroid borders, or other embellishments.
+
+Directly beneath the photograph, within a narrow strip of exposed paper, place three short English keywords automatically derived from the photograph's content.
+
+Separate the keywords using centered dots:
+
+WORD · WORD · WORD
+
+Use small, understated typography in a subtle, muted color. Display this keyword line only once.
+
+3. Lower Section — Six Hand-Drawn Stickers
+
+Carefully analyze the uploaded photograph and automatically identify exactly six visually distinctive elements that genuinely appear in the original image.
+
+These elements may include:
+
+Main subjects, people, or animals.
+Recognizable objects or accessories.
+Architectural features or building details.
+Plants, flowers, or trees.
+Environmental shapes or landscape features.
+Small but meaningful visual details.
+
+Transform each selected element into an individual hand-drawn collectible sticker.
+
+Sticker Composition:
+
+Create exactly six separate stickers.
+
+Make two or three stickers noticeably larger, while the remaining stickers are smaller.
+
+Arrange them loosely across two rows within the lower section, introducing subtle variations in position, scale, and orientation.
+
+Maintain comfortable spacing between stickers.
+
+Each sticker must remain completely visible, with no overlapping, touching, or connected outlines.
+
+Every sticker should feature:
+
+A thick, irregular warm off-white die-cut border.
+A subtle, flat paper-cut shadow.
+A slightly imperfect handmade silhouette.
+A distinct, recognizable visual connection to the original photograph.
+
+4. Sticker Illustration Style
+
+Reinterpret each selected photographic element using a cohesive combination of:
+
+Opaque gouache painting, handmade paper-cut illustration, and vintage stencil-print aesthetics.
+
+Preserve each element's recognizable silhouette, proportions, and characteristic colors while simplifying its visual details into expressive, flat color shapes.
+
+Artistic Characteristics:
+
+Muted, low-saturation colors with occasional small, vibrant accents.
+Broad, opaque color blocks rather than detailed realistic rendering.
+Slightly clumsy, charming handmade contours.
+Soft, chalky pigment edges.
+Subtle imperfections resembling hand-cut paper.
+Uniform, delicate paper grain across all six illustrations.
+Minimal internal details and simplified shapes.
+
+Subject Simplification:
+
+Plants become rounded, organic clusters.
+Buildings become simplified geometric color planes.
+People and animals become recognizable silhouettes without facial features.
+Small objects retain their essential shapes and defining colors.
+
+All six stickers must share the same illustration style, material texture, visual weight, and handmade character.
+
+5. Restrictions and Visual Consistency
+
+Preserve all existing text within the original photograph exactly as it appears.
+
+Remove or omit any text from the illustrated stickers.
+
+Do not introduce objects that are not visible in the uploaded photograph.
+
+Do not add extra stickers, titles, dates, descriptions, postage stamps, watermarks, signatures, or decorative graphics.
+
+Avoid:
+
+Photographic cutouts disguised as stickers.
+Transparent watercolor effects.
+Visible marker strokes or stripes.
+Intricate line drawings.
+Smooth digital gradients.
+Glossy 3D rendering.
+Excessively precise vector illustrations.
+Artificially perfect outlines.
+Overcrowded arrangements.
+
+6. Final Visual Direction
+
+The finished design should establish a clear visual relationship between two artistic interpretations of the same memory:
+
+Above: The authentic, untouched photograph capturing the original moment.
+
+Below: Six charming, tactile, handmade paper stickers celebrating the photograph's most recognizable details.
+
+The final composition should resemble a thoughtfully designed collectible memory card, combining authentic photography with nostalgic scrapbook illustration.
+
+Output Specifications: 3:4 vertical aspect ratio, high resolution, premium editorial composition, realistic paper materials, precise layout, cohesive muted color palette, crisp photographic details, and beautifully crafted hand-drawn stickers. #DomoAI #DomoAICPP
 ```
 
 </details>

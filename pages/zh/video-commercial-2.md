@@ -1,6 +1,47 @@
 # 广告与产品
 
-[返回目录](../../README_zh.md) · 全部 137 条 · [1](video-commercial.md) · **2**
+[返回目录](../../README_zh.md) · 全部 140 条 · [1](video-commercial.md) · **2**
+
+<a id="seedance-artisan-bakery-donut-commercial"></a>
+### 糕点师将鸡蛋打入面粉碗中
+
+<a href="https://x.com/AIwithAliya/status/2090780603872624826"><img src="../../previews/seedance-artisan-bakery-donut-commercial.jpg" width="360"></a>
+
+按秒分段的分镜加上统一的光线与调色描述，并用素材引用锁定分镜和结尾的包装镜头。声音只写厨房环境音与克制的配乐，使广告语调保持一致。
+
+Seedance 2.5 · 参考生视频 · 出处: [@AIwithAliya on X](https://x.com/AIwithAliya/status/2090780603872624826)
+
+[`commercial`](tags.md#tag-commercial) [`food`](tags.md#tag-food) [`timed-storyboard`](tags.md#tag-timed-storyboard) [`product-reveal`](tags.md#tag-product-reveal)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+follow the storyboard @material:149015 A 30-second cinematic spec commercial / film-style advertisement for a premium artisan bakery brand. High-end food-commercial aesthetic, luxurious and sensory, shot like a short film.
+
+Soft, warm, high-key kitchen lighting with gentle highlights on stainless steel and glossy glaze. Shallow depth of field, slow elegant camera moves, occasional slow-motion, rich color grading (soft pinks, golden dough, deep raspberry red). Ultra-clean, appetizing, almost tactile.
+
+0–6s  
+Medium shot of a striking young female pastry chef in a pale-pink chef’s jacket, matching pink toque, and pink gloves. She stands in a sleek, modern commercial kitchen. She looks down with quiet concentration and cracks a fresh egg into a stainless-steel bowl of flour. Subtle steam and flour dust in the air.
+
+6–11s  
+Tight close-up of the vivid yolk and white pouring into the flour well. Cut to the KitchenAid mixer head descending and beginning to knead. Macro of pale, elastic dough stretching, folding, and becoming silky and glossy.
+
+11–16s  
+Overhead shot of twelve perfectly formed raw ring donuts on a parchment-lined tray. Gloved hands lift the tray with precision. The camera follows as they are carried toward the fryer.
+
+16–22s  
+Donuts lowered into bubbling golden oil. Slow-motion close-up of four donuts frying, edges turning amber. A single donut is lifted on a metal skewer, oil dripping in slow motion. The full basket rises, steam rising, donuts now perfectly golden.
+
+22–26s  
+A warm donut is dipped halfway into a bowl of thick, vibrant raspberry-red glaze. Extreme close-up of the glossy glaze slowly cascading down the sides. Fine white sugar crystals rain onto the wet glaze, catching the light.
+
+26–30s  
+Product reveal. Gloved hands place the last donut into an open kraft bakery box. The camera slowly pulls back and tilts up as the lid is closed, revealing the brand name **MAISON ROSE** in elegant, minimal serif lettering on the lid, with a small rose emblem. The box sits perfectly centered, six glazed donuts visible through a brief moment before the lid settles. Soft light catches the logo. Hold on the branded box as the hero product shot.
+
+Elegant, silent except for implied kitchen sounds and a refined, understated score. Premium, filmic, commercial-grade finish.
+```
+
+</details>
 
 <a id="seedance-aura-headphones-city-commercial"></a>
 ### 白色运动鞋女子穿过繁忙的出租车街道
@@ -955,6 +996,33 @@ The video should feel very fast, playful, trendy, and energetic, with constant m
 Visual direction: extremely fast-paced, energetic commercial, dynamic handheld camera, rapid push-ins, whip pans, quick zooms, snap transitions, lively body movement, punchy timing, vibrant retro aesthetic, cinematic lighting, subtle film grain.
 
 Important: No slow movements, no slow motion, no static shots, no long pauses. Keep the girl actively moving and interacting with the drink throughout the entire 15 seconds.
+```
+
+</details>
+
+<a id="seedance-garage-bmw-rearview-fashion"></a>
+### 黑色宝马后视镜中的女子眼神
+
+<a href="https://x.com/MissDelulu9/status/2122893591681085545"><img src="../../previews/seedance-garage-bmw-rearview-fashion.jpg" width="360"></a>
+
+上传角色设定图锁定人物身份，并重复要求同一辆车、不出现其他人，让每个镜头保持同一人物和同一车辆。七个命名镜头各自配有推进、甩镜、变速或匹配剪辑等运镜词，为模型提供清晰的剪辑顺序。
+
+Seedance 2.5 · 参考生视频 · 出处: [@MissDelulu9 on X](https://x.com/MissDelulu9/status/2122893591681085545) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`fashion`](tags.md#tag-fashion) [`automotive`](tags.md#tag-automotive) [`character-reference`](tags.md#tag-character-reference)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 10-second, 16:9 widescreen cinematic luxury automotive fashion video in Full HD. Use the uploaded character sheet as the exact identity reference. Maintain identical face, hairstyle, body, outfit, and accessories throughout.
+
+Feature the same glossy black modified BMW 318i M40 in every shot. No vehicle changes or extra people.
+
+7 fast cinematic shots: Rearview mirror close-up, driver-seat pose, backseat fashion pose, sitting on hood, overhead roof pose, leaning against open door, and final portrait beside the front wheel.
+
+Style: Luxury fashion editorial, ARRI Alexa look, dramatic industrial parking garage, glossy reflections, cinematic lighting, shallow depth of field.
+
+Camera: Fast push-ins, tracking shots, low-angle orbits, overhead movements, whip pans, speed ramps, and seamless match cuts.
 ```
 
 </details>
@@ -1917,6 +1985,76 @@ Seedance 2.5 · 文生视频 · 出处: [@Lianaalane on X](https://x.com/Lianaal
 ```text
 Create a hyper-realistic cinematic 15-second food video in the exact glossy ultra-detailed commercial style of premium Asian street-food ASMR films, with creamy soft lighting, slow-motion juice drips, rising steam and mouth-watering close-ups.  
 Wooden chopsticks slowly lift a plump white shengjianbao from a black iron pan, black sesame seeds and green onion on top, dough shining under warm light. The bao is torn open in dramatic slow motion as thick golden broth and juicy minced meat filling burst out, sticky amber sauce stretching and cascading downward in long glossy strands while dense white steam swirls upward. Extreme close-up of the savory meatball-like filling as golden liquid continuously drips into a white ceramic spoon, forming perfect heavy droplets. Wide shot of a cast-iron skillet packed with perfectly pleated raw baozi on a gas stove as clear water is poured in, instantly creating thick clouds of steam. Tight shots show the bottoms crisping into golden lace-like crusts while a metal spatula flips them, revealing caramelized crunchy edges. Finished baozi stacked on a blue-and-white plate, one bitten open to reveal steaming pinkish meat and sauce, chopsticks dipping it into dark soy-sesame dipping sauce. Final wide shot of the steaming plate under a warm hanging lamp on a wooden table in a cozy night kitchen, soft steam rising against a dark window with distant city lights.
+```
+
+</details>
+
+<a id="seedance-pink-hoodie-seoul-walk"></a>
+### 粉色蝴蝶结卫衣女孩走在阳光人行道上
+
+<a href="https://x.com/ZaidVex/status/2122541444124885193"><img src="../../previews/seedance-pink-hoodie-seoul-walk.jpg" width="360"></a>
+
+提示词先用独立的人物与服装锁定段落固定形象，再按编号分镜逐段描述，每段只给一种景别。结尾明确禁止面部变形和换装，为每个镜头提供可对照的约束。
+
+Seedance 2.5 · 文生视频 · 出处: [@ZaidVex on X](https://x.com/ZaidVex/status/2122541444124885193) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`korean-fashion`](tags.md#tag-korean-fashion) [`street-fashion`](tags.md#tag-street-fashion) [`character-consistency`](tags.md#tag-character-consistency)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create an ultra-photorealistic, cinematic 30-second Korean street-fashion lifestyle video in vertical 9:16 format, featuring a beautiful young Korean woman with long, flowing black hair, soft natural bangs, delicate facial expressions, and silver hoop earrings.
+
+Character & Outfit (Keep Consistent):
+
+- Oversized pastel pink zip-up hoodie with distinctive navy horizontal stripe and bow-like detailing.
+- White fitted inner top.
+- Dark charcoal-grey pleated mini skirt.
+- White knee-high socks.
+- White chunky sneakers.
+- Long, naturally flowing black hair.
+
+Scene-by-Scene Sequence:
+
+Scene 1 – Beautiful Close-up: Begin with an extreme close-up of her face. She looks gently toward the camera as loose strands of hair move naturally in the breeze.
+
+Scene 2 – Fashion Portrait: Show her standing against a modern grey stone wall with her arms crossed, wearing a relaxed expression.
+
+Scene 3 – Flower Shop: Capture her looking sideways toward a beautiful storefront with warm reflections and soft pink flowers.
+
+Scene 4 – Outfit Showcase: Cinematic close-up of her pink hoodie, navy detailing, white inner top, pleated skirt, and complete outfit.
+
+Scene 5 – Walking in Seoul: Full-body tracking shot of her walking along a beautiful Korean city sidewalk with natural sunlight and urban architecture.
+
+Scene 6 – Natural Portrait: Close-up of her smiling softly while sunlight illuminates her face and hair.
+
+Scene 7 – Street Fashion: Show her walking toward the camera with both hands inside her hoodie pockets.
+
+Scene 8 – Hair Movement: Side-profile shot as she turns her head and her long black hair flows naturally.
+
+Scene 9 – Fashion Poses: She stands casually against a stone wall, changes her pose, and looks directly into the camera.
+
+Scene 10 – Sitting Portrait: Capture her sitting comfortably with her hands gently placed beneath her chin, smiling naturally.
+
+Scene 11 – Final Details: Close-up of her white sneakers walking up outdoor stone steps, followed by a shot of her holding a smartphone and capturing a photograph.
+
+CINEMATIC QUALITY:
+
+- Ultra-photorealistic 4K video.
+- Authentic Korean fashion editorial.
+- Natural daylight and soft cinematic shadows.
+- Realistic skin texture and facial details.
+- Shallow depth of field.
+- Beautiful background bokeh.
+- Smooth handheld camera movements.
+- Mix of close-ups, medium shots, and full-body shots.
+- Natural walking and realistic body movements.
+- Soft pastel pink color grading.
+- Professional DSLR cinematography.
+
+IMPORTANT: Maintain exactly the same character identity, facial features, hairstyle, outfit, and proportions throughout every scene. Avoid facial distortion, clothing changes, artificial movements, and unrealistic transitions.
+
+MOOD: Dreamy Korean street-fashion aesthetic, youthful lifestyle photography, soft romantic atmosphere, and authentic cinematic realism.
 ```
 
 </details>

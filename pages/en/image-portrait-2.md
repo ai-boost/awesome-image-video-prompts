@@ -1,6 +1,60 @@
 # Portraits
 
-[Back to the list](../../README.md) · All 288 entries · [1](image-portrait.md) · **2** · [3](image-portrait-3.md)
+[Back to the list](../../README.md) · All 291 entries · [1](image-portrait.md) · **2** · [3](image-portrait-3.md)
+
+<a id="gpt-image-windswept-meadow-editorial-portrait"></a>
+### Woman in ivory dress among windswept green grass
+
+<a href="https://x.com/MahnoorAi12/status/2101997367641751808"><img src="../../previews/gpt-image-windswept-meadow-editorial-portrait.jpg" width="360"></a>
+
+Layers foreground grass over the subject for depth, then fixes a muted sage and forest green palette, soft overcast light and an 85mm f/1.8 look with film grain. The 1:1 framing places her right of center with open negative space above, which gives the editorial feel.
+
+GPT Image 2.5 · Edit · Source: [@MahnoorAi12 on X](https://x.com/MahnoorAi12/status/2101997367641751808) · 113 likes on 2026-10-28
+
+[`editorial`](tags.md#tag-editorial) [`meadow`](tags.md#tag-meadow) [`film-grain`](tags.md#tag-film-grain) [`fashion`](tags.md#tag-fashion) [`cinematic`](tags.md#tag-cinematic)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A cinematic fashion-editorial portrait of a young East Asian woman standing partially concealed within tall, windswept green grass in an expansive meadow. She wears a loose, flowing off-white or ivory linen dress that moves softly with the breeze, contrasting gently against the rich natural surroundings.
+Her dark hair appears naturally tousled by the wind, with soft strands falling across her face, partially veiling her eyes. Her head is gently lowered, gaze directed downward or slightly to the side, conveying a quiet, dreamy, introspective mood. The tall grass surrounds and partially obscures her figure, creating layered foreground elements, immersive depth, and a sense of visual intimacy.
+Wind moves through the grass with subtle motion blur, while the subject remains sharply focused. The environment feels calm, isolated, and poetic, enhanced by a faint atmospheric haze and a muted palette of sage green, deep forest green, and soft neutral tones. Soft overcast daylight provides diffused, shadowless illumination with smooth tonal transitions, low contrast, gentle highlights, and realistic skin rendering.
+Shallow depth of field produces creamy bokeh and natural background separation, while fine film grain adds an organic editorial texture. Minimalist composition emphasizing solitude and emotional storytelling. Square 1:1 composition, subject positioned slightly right of center with generous negative space above and around her, balanced visual weight, refined framing, sophisticated Korean and Japanese fashion magazine aesthetic, cinematic realism, highly detailed photorealistic photography, 85mm portrait lens, f/1.8, natural lens compression, ultra-realistic skin texture, premium color grading, atmospheric depth, elegant visual storytelling, award-winning editorial photography, masterfully composed, authentic and emotionally resonant.
+```
+
+</details>
+
+<a id="nano-banana-emerald-blazer-fashion-grid-sunglasses"></a>
+### Four pose fashion grid in emerald blazer
+
+<a href="https://x.com/weiinberg/status/2033048967777497600"><img src="../../previews/nano-banana-emerald-blazer-fashion-grid-sunglasses.jpg" width="360"></a>
+
+Uses an uploaded photo as the identity reference and fixes the 2x2 layout, outfit and each of the four poses. Studio lighting positions, camera settings and skin detail cues push the result toward editorial realism.
+
+Nano Banana 2 · Edit · Source: [@weiinberg on X](https://x.com/weiinberg/status/2033048967777497600) · 113 likes on 2026-10-28
+
+[`fashion`](tags.md#tag-fashion) [`studio-portrait`](tags.md#tag-studio-portrait) [`grid-layout`](tags.md#tag-grid-layout) [`identity-reference`](tags.md#tag-identity-reference) [`editorial`](tags.md#tag-editorial)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Use my uploaded photo as the identity reference.
+Create a professional studio fashion photoshoot in a 2×2 grid collage showing four poses of the same person wearing black sunglasses.
+
+Outfit: deep emerald green tailored blazer, cream/off-white dress shirt, black slim trousers, burgundy tie, optional silver watch. Blazer appears differently across frames (worn, draped over shoulder, partially removed, held).
+Background: clean teal-to-turquoise gradient studio backdrop, minimal fashion studio setting.
+Poses:
+1.Close portrait adjusting tie.
+2.Seated editorial pose leaning forward with elbow on knee.
+3.Relaxed pose with vintage camera around neck.
+4.Stylish pose running hand through hair while holding blazer.
+Lighting: professional three-point studio lighting — softbox key light 45° camera left, soft fill light camera right, subtle rim light behind subject.
+Camera: Sony A7R V, 85mm portrait lens, f/2.2, ISO 100, 1/160s, WB 5600K, shallow depth of field, focus on eyes.
+Realism: natural skin pores, hair strands, subtle fabric wrinkles, realistic shadows, lens compression, reflections in sunglasses.
+Output: ultra-realistic GQ/Vogue-style editorial photography, sharp detail, 4K resolution, clean 2×2 grid layout.
+```
+
+</details>
 
 <a id="gpt-image-damp-hair-beauty-portrait"></a>
 ### Close up beauty portrait with damp hair
@@ -4112,69 +4166,6 @@ Camera UI overlays are visible across the LCD screen, including the timestamp �
 The image preserves visible screen pixel structure, slight glare reflections, chromatic softness, and compressed digital texture. Outside the LCD, the surrounding darkness fades smoothly into blur, emphasizing the glowing nostalgic screen.
 
 Shot to resemble an authentic Sony Cyber-shot point-and-shoot camera from the early 2010s using a CCD sensor with vintage digital rendering and imperfect flash exposure.
-```
-
-</details>
-
-<a id="gpt-image-double-exposure-aviator-fashion-portrait"></a>
-### Double exposure fashion portrait with aviator sunglasses
-
-<a href="https://x.com/Anaya_Ai12/status/2062191518975508678"><img src="../../previews/gpt-image-double-exposure-aviator-fashion-portrait.jpg" width="360"></a>
-
-Pairs a large semi transparent profile with a full body figure to build the double exposure, and locks the identity to the uploaded face. A warm sepia and charcoal grade, a golden light leak in one corner and an 85mm lens cue keep the look cinematic.
-
-GPT Image 2 · Edit · Source: [@Anaya_Ai12 on X](https://x.com/Anaya_Ai12/status/2062191518975508678) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-[`double-exposure`](tags.md#tag-double-exposure) [`fashion`](tags.md#tag-fashion) [`portrait`](tags.md#tag-portrait) [`sepia`](tags.md#tag-sepia) [`light-leak`](tags.md#tag-light-leak)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A cinematic double-exposure fashion portrait featuring a woman with the uploaded face used 100% as reference, wearing stylish metallic aviator sunglasses. The composition artfully blends a large, semi-transparent close-up profile of her face on the left with her full-body figure standing confidently on the right. She wears an open, light-grey textured corduroy shirt layered over a dark grey fitted t-shirt and dark denim jeans, posing naturally with her hands in her pockets. She has long, flowing dark hair, flawless skin, elegant feminine features, and a confident, sophisticated expression.
-
-The background is a minimalist neutral studio setting, allowing the double-exposure composition to remain the visual focus. The color grading features a sophisticated warm desaturated sepia and charcoal palette, enhanced by a soft golden-orange light-leak flare in the upper-right corner. Professional 85mm lens photography with high-contrast yet soft cinematic lighting accentuates the fabric textures, facial details, and layered portrait effect.
-
-Ultra-realistic skin texture, luxury fashion-editorial aesthetic, premium magazine-cover quality, subtle film grain, cinematic depth, elegant shadows, refined color grading, modern retro-inspired styling, masterpiece composition, ultra-sharp focus, visually striking storytelling, high-end commercial fashion campaign look.
-```
-
-</details>
-
-<a id="gpt-image-fairycore-butterfly-floral-crown-portrait"></a>
-### Fairycore portrait with butterflies and floral crown
-
-<a href="https://x.com/HaniaAi12/status/2062696495741391006"><img src="../../previews/gpt-image-fairycore-butterfly-floral-crown-portrait.jpg" width="360"></a>
-
-The prompt lists concrete hair and gown details such as roses, crystals, feathers and embroidered sheer fabric. It pairs them with a fixed pastel palette and diffused morning light, then closes with photographic terms like bokeh, volumetric lighting and soft focus highlights.
-
-GPT Image 2 · Text-to-image · Source: [@HaniaAi12 on X](https://x.com/HaniaAi12/status/2062696495741391006) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-[`fairycore`](tags.md#tag-fairycore) [`fantasy-portrait`](tags.md#tag-fantasy-portrait) [`pastel`](tags.md#tag-pastel) [`butterflies`](tags.md#tag-butterflies) [`soft-light`](tags.md#tag-soft-light)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Ultra-realistic ethereal fantasy portrait of a breathtaking young woman with delicate porcelain skin, soft grey-blue eyes, and natural rosy lips. She gazes gently toward the viewer with a serene, dreamy expression, her fingertips lightly touching her chin. Wispy ash-brown hair flows softly in the breeze, styled in a loose romantic updo adorned with pastel blush roses, shimmering crystal ornaments, delicate feathers, and intricate floral accessories. She wears elegant dangling crystal earrings and a translucent, flowing gown made of sheer iridescent fabric embroidered with tiny sparkling flowers.
-
-The scene is bathed in soft diffused morning light, creating a luminous glow around her face and shoulders. Surrounded by floating butterflies, sparkling dust particles, translucent petals, and dreamy floral textures, the background blends pastel lavender, pearl white, blush pink, and silver tones. Cinematic fine-art photography, fairycore aesthetic, enchanted garden atmosphere, magical realism, ultra-detailed skin texture, soft focus highlights, volumetric lighting, bokeh, masterpiece quality, highly detailed, 8K resolution, delicate feminine beauty, romantic fantasy artwork, elegant composition, dreamy color grading, soft glow, celestial ambiance.
-```
-
-</details>
-
-<a id="gpt-image-fisheye-mirror-retro-cafe-portrait"></a>
-### Fisheye mirror portrait in a teal retro cafe
-
-<a href="https://x.com/harboriis/status/2049044698900361241"><img src="../../previews/gpt-image-fisheye-mirror-retro-cafe-portrait.jpg" width="360"></a>
-
-Naming the fisheye lens, the round mirror frame and a close leaning pose gives strong distortion and intimacy. Specific set details such as teal subway tiles, pendant lights and yellow tinted glasses, plus a warm moody tone cue, keep the palette cohesive.
-
-GPT Image 2 · Edit · Source: [@harboriis on X](https://x.com/harboriis/status/2049044698900361241) · found via [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-[`fisheye`](tags.md#tag-fisheye) [`retro-cafe`](tags.md#tag-retro-cafe) [`mirror`](tags.md#tag-mirror) [`portrait`](tags.md#tag-portrait) [`warm-moody`](tags.md#tag-warm-moody)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A fish-eye lens close-up of [your photo as reference] sipping from a teal/turquoise coffee mug, leaning forward intimately toward camera. Shot through or near a round mirror. Retro café interior with glossy teal subway tiles, vintage appliances, pendant lights. Black t-shirt, yellow-tinted round glasses. Warm moody tones.
 ```
 
 </details>

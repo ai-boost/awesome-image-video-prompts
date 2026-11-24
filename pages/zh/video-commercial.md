@@ -1,6 +1,6 @@
 # 广告与产品
 
-[返回目录](../../README_zh.md) · 全部 137 条 · **1** · [2](video-commercial-2.md)
+[返回目录](../../README_zh.md) · 全部 140 条 · **1** · [2](video-commercial-2.md)
 
 <a id="kling-vintage-watch-macro"></a>
 ### 指尖捏着复古腕表的微距镜头
@@ -1560,6 +1560,25 @@ The car continues driving away through the city as the scene gradually becomes d
 
 Visual style: ultra-photorealistic, premium luxury automotive commercial, realistic physics, natural human movement, accurate car proportions, realistic wheel rotation, cinematic depth of field, detailed reflections, high-end color grading, smooth transitions, no cartoon look, no distorted hands, no facial artifacts, no warped car body.
 Camera movement should feel dynamic and confident, matching a real professional automotive commercial rather than slow motion.
+```
+
+</details>
+
+<a id="wan-porsche-panamera-mountain-lake-road"></a>
+### 蓝色保时捷 Panamera 驶过湖畔山路
+
+<a href="https://x.com/TaliaAariz/status/2106084890370527605"><img src="../../previews/wan-porsche-panamera-mountain-lake-road.jpg" width="360"></a>
+
+提示词按顺序列出各个镜头节点（湖边公路、水墙分开、崖边小道、观景台），并点明车尾标和引擎盖标等可见细节，让车型在镜头切换中保持一致。结尾给出车停在山顶的定格画面，使片段有明确的收束。
+
+Wan 3.0 · 文生视频 · 出处: [@TaliaAariz on X](https://x.com/TaliaAariz/status/2106084890370527605) · 161 赞，统计于 2026-11-24
+
+[`porsche`](tags.md#tag-porsche) [`car-commercial`](tags.md#tag-car-commercial) [`mountain-road`](tags.md#tag-mountain-road)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A sleek blue Porsche Panamera speeds along a scenic mountain road beside a vast lake before dramatically driving down a narrow track as giant walls of water part on either side. Dynamic cinematic close-ups highlight the car's spinning wheels, rear "Panamera" emblem, and Porsche hood badge while it hurtles through the parted sea and ascends a dusty cliffside trail. Reaching a circular lookout point high above the water, the luxury car drifts in a cloud of dust near an eagle perched on a rock face. A smiling woman in driving gloves winks from the driver's seat as the eagle takes flight into the open sky, leaving the Porsche parked at the summit overlooking the landscape.
 ```
 
 </details>
@@ -4407,47 +4426,6 @@ Character: woman from @Image 1 — same facial features, same long dark layered 
 [50–60s] CUT 11 — THE LOGO. Still handheld, gently breathing: she turns, looks into the lens, smiling, and RAISES the can toward camera — holding it out at chest-to-shoulder height, FRONT FACE of the label squared to the lens (exactly as in @Image 2), the white "AQUA LAGOON" wordmark and swirl logo centered, sharp and legible at frame center, one long horizontal cyan flare streaking off the aluminum rim, the deep-blue label glowing against the warm cream kitchen. Camera eases in a breath closer and settles. Final frame: her smile behind the can, logo to camera, lime and cherry garnish visible on the counter beside her.
 
 AUDIO: [MUSIC] uplifting swell from Part 1 continues softly under the dive and ice islands, dropping out completely on the return match cut (38s) for total silence, then re-entering warm and soft under the pour and logo shots, resolving on a clean, bright final chord as she raises the can. [SFX] slow-motion water splashes on the dive, glassy bubble hums, wind of flight; on the match cut (38s) all dreamworld sound CUTS DEAD in one frame to sudden dry kitchen silence + fridge hum, bare feet settling, her soft delighted exhale; ice clinking and liquid pouring on Cut 10; under the final logo shot, music plus one soft airy shimmer as the flare crosses the lens. [AMBIENT] vast open-sky airiness with distant cascades in dreamworld; kitchen quiet + fridge hum in real world.
-```
-
-</details>
-
-<a id="seedance-artisan-bakery-donut-commercial"></a>
-### 糕点师将鸡蛋打入面粉碗中
-
-<a href="https://x.com/AIwithAliya/status/2090780603872624826"><img src="../../previews/seedance-artisan-bakery-donut-commercial.jpg" width="360"></a>
-
-按秒分段的分镜加上统一的光线与调色描述，并用素材引用锁定分镜和结尾的包装镜头。声音只写厨房环境音与克制的配乐，使广告语调保持一致。
-
-Seedance 2.5 · 参考生视频 · 出处: [@AIwithAliya on X](https://x.com/AIwithAliya/status/2090780603872624826)
-
-[`commercial`](tags.md#tag-commercial) [`food`](tags.md#tag-food) [`timed-storyboard`](tags.md#tag-timed-storyboard) [`product-reveal`](tags.md#tag-product-reveal)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-follow the storyboard @material:149015 A 30-second cinematic spec commercial / film-style advertisement for a premium artisan bakery brand. High-end food-commercial aesthetic, luxurious and sensory, shot like a short film.
-
-Soft, warm, high-key kitchen lighting with gentle highlights on stainless steel and glossy glaze. Shallow depth of field, slow elegant camera moves, occasional slow-motion, rich color grading (soft pinks, golden dough, deep raspberry red). Ultra-clean, appetizing, almost tactile.
-
-0–6s  
-Medium shot of a striking young female pastry chef in a pale-pink chef’s jacket, matching pink toque, and pink gloves. She stands in a sleek, modern commercial kitchen. She looks down with quiet concentration and cracks a fresh egg into a stainless-steel bowl of flour. Subtle steam and flour dust in the air.
-
-6–11s  
-Tight close-up of the vivid yolk and white pouring into the flour well. Cut to the KitchenAid mixer head descending and beginning to knead. Macro of pale, elastic dough stretching, folding, and becoming silky and glossy.
-
-11–16s  
-Overhead shot of twelve perfectly formed raw ring donuts on a parchment-lined tray. Gloved hands lift the tray with precision. The camera follows as they are carried toward the fryer.
-
-16–22s  
-Donuts lowered into bubbling golden oil. Slow-motion close-up of four donuts frying, edges turning amber. A single donut is lifted on a metal skewer, oil dripping in slow motion. The full basket rises, steam rising, donuts now perfectly golden.
-
-22–26s  
-A warm donut is dipped halfway into a bowl of thick, vibrant raspberry-red glaze. Extreme close-up of the glossy glaze slowly cascading down the sides. Fine white sugar crystals rain onto the wet glaze, catching the light.
-
-26–30s  
-Product reveal. Gloved hands place the last donut into an open kraft bakery box. The camera slowly pulls back and tilts up as the lid is closed, revealing the brand name **MAISON ROSE** in elegant, minimal serif lettering on the lid, with a small rose emblem. The box sits perfectly centered, six glazed donuts visible through a brief moment before the lid settles. Soft light catches the logo. Hold on the branded box as the hero product shot.
-
-Elegant, silent except for implied kitchen sounds and a refined, understated score. Premium, filmic, commercial-grade finish.
 ```
 
 </details>

@@ -10,7 +10,7 @@
 
 <p><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a> <a href="mailto:noahbenjamin1994@gmail.com?subject=Sponsorship%3A%20awesome-image-video-prompts"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?logo=githubsponsors&logoColor=white" alt="Sponsor"></a></p>
 
-<a href="#seedance-seoul-subway-revenge"><img src="previews/seedance-seoul-subway-revenge.gif" height="150"></a> <a href="pages/en/video-scifi-fantasy.md#wan-time-space-train"><img src="previews/wan-time-space-train.gif" height="150"></a> <a href="pages/en/video-scifi-fantasy.md#h3-starship-hyperspace-jump"><img src="previews/h3-starship-hyperspace-jump.gif" height="150"></a> <a href="pages/en/video-vfx.md#omni-four-style-progression"><img src="previews/omni-four-style-progression.gif" height="150"></a> <a href="pages/en/video-cinematic.md#kling-moonlit-garden-run"><img src="previews/kling-moonlit-garden-run.gif" height="150"></a> <a href="pages/en/video-action-3.md#veo-off-road-rally"><img src="previews/veo-off-road-rally.gif" height="150"></a> 
+<a href="#seedance-seoul-subway-revenge"><img src="previews/seedance-seoul-subway-revenge.gif" height="150"></a> <a href="pages/en/video-scifi-fantasy.md#wan-time-space-train"><img src="previews/wan-time-space-train.gif" height="150"></a> <a href="pages/en/video-scifi-fantasy.md#h3-starship-hyperspace-jump"><img src="previews/h3-starship-hyperspace-jump.gif" height="150"></a> <a href="pages/en/video-vfx.md#omni-four-style-progression"><img src="previews/omni-four-style-progression.gif" height="150"></a> <a href="pages/en/video-cinematic.md#kling-moonlit-garden-run"><img src="previews/kling-moonlit-garden-run.gif" height="150"></a> <a href="pages/en/video-action-4.md#veo-off-road-rally"><img src="previews/veo-off-road-rally.gif" height="150"></a> 
 
 </div>
 
@@ -104,33 +104,33 @@ All 20 are on [agentcraft.dev](https://agentcraft.dev/en/prompts/image/seedream-
 - [Seedream 5.5](#spotlight)
 - [Recently added](#recent)
 - [By model](#bymodel)
-- [Video prompts](#video) (1177 entries)
-  - [Cinematic scenes and short films](#vid-cinematic) (178)
-  - [Action, chases and sports](#vid-action) (236)
-  - [Sci-fi and fantasy](#vid-scifi-fantasy) (101)
-  - [Anime and animation](#vid-anime) (83)
-  - [Ads and product videos](#vid-commercial) (137)
+- [Video prompts](#video) (1201 entries)
+  - [Cinematic scenes and short films](#vid-cinematic) (182)
+  - [Action, chases and sports](#vid-action) (242)
+  - [Sci-fi and fantasy](#vid-scifi-fantasy) (105)
+  - [Anime and animation](#vid-anime) (84)
+  - [Ads and product videos](#vid-commercial) (140)
   - [Dialogue and talking heads](#vid-dialogue) (59)
-  - [Music and dance](#vid-music-dance) (50)
-  - [Phone footage and vlogs](#vid-vlog) (191)
+  - [Music and dance](#vid-music-dance) (51)
+  - [Phone footage and vlogs](#vid-vlog) (195)
   - [Nature, travel and aerial](#vid-nature) (12)
-  - [Animals and pets](#vid-animal) (32)
+  - [Animals and pets](#vid-animal) (33)
   - [VFX and transformations](#vid-vfx) (98)
-- [Image prompts](#image) (1453 entries)
-  - [Posters and editorial layouts](#img-poster) (215)
+- [Image prompts](#image) (1472 entries)
+  - [Posters and editorial layouts](#img-poster) (222)
   - [Infographics and slides](#img-infographic) (95)
   - [Phone and UI mockups](#img-ui-mockup) (30)
   - [Product shots and e-commerce](#img-product) (79)
   - [Logos, ads and packaging](#img-brand) (28)
-  - [Photo realism](#img-realism) (136)
-  - [Portraits](#img-portrait) (288)
-  - [Characters and figures](#img-character) (113)
-  - [Illustration](#img-illustration) (122)
+  - [Photo realism](#img-realism) (138)
+  - [Portraits](#img-portrait) (291)
+  - [Characters and figures](#img-character) (115)
+  - [Illustration](#img-illustration) (124)
   - [Comics and storyboards](#img-comic) (21)
-  - [Photo to art](#img-photo-to-art) (113)
+  - [Photo to art](#img-photo-to-art) (114)
   - [Architecture and interiors](#img-architecture) (24)
-  - [Maps](#img-map) (15)
-  - [Collage](#img-collage) (108)
+  - [Maps](#img-map) (16)
+  - [Collage](#img-collage) (109)
   - [Photo editing](#img-edit) (66)
 - [Agent recipes: editing video](#recipes) (5 entries)
 - [Guides and skills](#guides)
@@ -141,28 +141,28 @@ All 20 are on [agentcraft.dev](https://agentcraft.dev/en/prompts/image/seedream-
 <a id="recent"></a>
 ## Recently added
 
-- 2026-11-17 · [Elf heroine speeds through morning battle prep montage](#seedance-elf-morning-routine) · Seedance 2.5
-- 2026-11-17 · [Ram and Rem on a macOS desktop wallpaper](pages/en/video-anime.md#wan-ram-rem-macos-desktop) · Wan 3.0
-- 2026-11-17 · [Ghost crawls out of TV to steal ice cream](pages/en/video-dialogue.md#wan-ghost-steals-ice-cream-tv) · Wan 3.0
-- 2026-11-17 · [Cat causes chaos through a sleeping house at night](pages/en/video-animal.md#kling-night-cat-chaos-chase) · Kling 4.0
-- 2026-11-17 · [Florence Duomo photo with rubber stamp field notes](pages/en/image-poster.md#gpt-image-florence-stamp-field-notes) · GPT Image 2.5
-- 2026-11-17 · [Spear fighter and brawler on a cracked mosaic arena](pages/en/video-action.md#wan-spear-brawler-mosaic-arena-fight) · Wan 3.0
-- 2026-11-17 · [Forest road photo paired with illustrated version](pages/en/image-poster.md#gpt-image-road-trip-vibes-poster) · GPT Image 2.5
-- 2026-11-17 · [Taj Mahal emerging from a giant T](pages/en/image-poster.md#gpt-image-2-6-taj-mahal-giant-t-poster) · GPT Image 2.6
-- 2026-11-17 · [Flipkart campaign poster with walking model and products](pages/en/image-poster.md#nano-banana-flipkart-more-to-explore-collage) · Nano Banana 2.1
-- 2026-11-17 · [Chunky yellow scarf links two pencil sketched figures](pages/en/image-poster.md#gpt-image-2-6-stay-warm-shared-scarf) · GPT Image 2.6
-- 2026-11-17 · [Two expressive portraits of one curly haired character](pages/en/image-character.md#gpt-image-curly-redhead-two-expressions) · GPT Image 2.5
-- 2026-11-17 · [Golden boat with umbrella at sunset](pages/en/image-realism.md#gpt-image-2-6-golden-leaf-boat-sunset) · GPT Image 2.6
+- 2026-11-24 · [Anime maid macOS desktop with app icons](#h3-anime-maid-macos-desktop) · MiniMax H3
+- 2026-11-24 · [Coyote paints fake tunnel on cliff face](#seedance-coyote-fake-tunnel-roller) · Seedance 2.5
+- 2026-11-24 · [Sailor with hot sauce fights suited gunman in NYC](pages/en/video-action.md#seedance-hot-sauce-sailor-nyc-fight) · Seedance 2.5
+- 2026-11-24 · [Pixar style woman with evening items in knolling layout](pages/en/image-poster.md#nano-banana-pixar-knolling-evening-look) · Nano Banana Pro
+- 2026-11-24 · [Pastel flower anatomy poster with photo cutouts](pages/en/image-poster.md#gpt-image-2-6-symbolic-anatomy-flower-poster) · GPT Image 2.6
+- 2026-11-24 · [Hens in a dandelion meadow with six stickers](pages/en/image-collage.md#gpt-image-2-6-hens-meadow-sticker-card) · GPT Image 2.6
+- 2026-11-24 · [Woman in white dress walks through misty jungle](pages/en/video-cinematic.md#kling-jungle-waterfall-30s-journey) · Kling 4.0
+- 2026-11-24 · [Lala stands on a plateau above a volcanic caldera](pages/en/video-scifi-fantasy.md#kling-lala-cerberus-volcano-spells) · Kling 4.0
+- 2026-11-24 · [Y2K selfie on a heart pillow bed](pages/en/image-portrait.md#nano-banana-y2k-valentine-bed-selfie) · Nano Banana Pro
+- 2026-11-24 · [Boy and dog watch mech in snowy forest](pages/en/video-scifi-fantasy.md#wan-mech-portal-boy-dog-snow) · Wan 3.0
+- 2026-11-24 · [Santorini postcard with blue domes and windmill](pages/en/image-illustration.md#gpt-image-2-6-santorini-postcard-blue-domes) · GPT Image 2.6
+- 2026-11-24 · [New York travel poster with yellow taxi and skyline](pages/en/image-poster.md#gpt-image-2-6-new-york-travel-poster-taxi) · GPT Image 2.6
 
 <a id="bymodel"></a>
 ## By model
 
-- [Seedance 2.5](https://agentcraft.dev/en/prompts/video/seedance-2-5/): 678 prompts, each with its output and source
-- [MiniMax H3](https://agentcraft.dev/en/prompts/video/minimax-h3/): 315 prompts, each with its output and source
-- [Wan 3.0](https://agentcraft.dev/en/prompts/video/wan-3-0/): 64 prompts, each with its output and source
-- [Kling 4.0](https://agentcraft.dev/en/prompts/video/kling-4-0/): 38 prompts, each with its output and source
-- [GPT Image 2.6](https://agentcraft.dev/en/prompts/image/gpt-image-2-6/): 107 prompts, 43 of them animated GIFs, each with its output and source
-- [Nano Banana 2.1](https://agentcraft.dev/en/prompts/image/nano-banana-2-1/): 97 prompts, each with its output and source
+- [Seedance 2.5](https://agentcraft.dev/en/prompts/video/seedance-2-5/): 697 prompts, each with its output and source
+- [MiniMax H3](https://agentcraft.dev/en/prompts/video/minimax-h3/): 316 prompts, each with its output and source
+- [Wan 3.0](https://agentcraft.dev/en/prompts/video/wan-3-0/): 66 prompts, each with its output and source
+- [Kling 4.0](https://agentcraft.dev/en/prompts/video/kling-4-0/): 40 prompts, each with its output and source
+- [GPT Image 2.6](https://agentcraft.dev/en/prompts/image/gpt-image-2-6/): 116 prompts, 43 of them animated GIFs, each with its output and source
+- [Nano Banana 2.1](https://agentcraft.dev/en/prompts/image/nano-banana-2-1/): 99 prompts, each with its output and source
 - [Seedream 5.5](https://agentcraft.dev/en/prompts/image/seedream-5-5/): 20 prompts, each with its output and source
 
 <a id="video"></a>
@@ -249,7 +249,7 @@ Invisible micro-FPV camera skimming less than an inch above the coarse woven bed
 
 </details>
 
-**[All 178 entries](pages/en/video-cinematic.md)**
+**[All 182 entries](pages/en/video-cinematic.md)**
 
 <a id="vid-action"></a>
 ## Action, chases and sports
@@ -305,7 +305,7 @@ Shot 4: A dramatic, low-angle shot focusing on the basketball hoop as the man, s
 
 </details>
 
-**[All 236 entries](pages/en/video-action.md)**
+**[All 242 entries](pages/en/video-action.md)**
 
 <a id="vid-scifi-fantasy"></a>
 ## Sci-fi and fantasy
@@ -445,7 +445,7 @@ SFX: <alarm rattle, slap, blanket rustle, water splash, braid tug, boot thud, bu
 
 </details>
 
-**[All 101 entries](pages/en/video-scifi-fantasy.md)**
+**[All 105 entries](pages/en/video-scifi-fantasy.md)**
 
 <a id="vid-anime"></a>
 ## Anime and animation
@@ -499,80 +499,75 @@ Shot 8 (25-30s): Wide two-shot, high angle; the camera quickly pulls back, then 
 
 </details>
 
-<a id="seedance-katsudon-anime-cooking"></a>
-### Katsudon cooked in fast-cut anime style
+<a id="h3-anime-maid-macos-desktop"></a>
+### Anime maid macOS desktop with app icons
 
-<a href="https://x.com/Goodmanprotocol/status/2098845134326808734"><img src="previews/seedance-katsudon-anime-cooking.jpg" width="360"></a>
+<a href="https://x.com/Mayz1169/status/2101711564655255956"><img src="previews/h3-anime-maid-macos-desktop.jpg" width="360"></a>
 
-Opens with an explicit ban on imitating any existing anime, then walks through the recipe step by step so every cut has a job.
+The prompt fixes a 16:9 canvas, puts the subject on the right at 40 to 45 percent of the frame, and lists the 18 icons in an exact 3 by 6 grid so the left side stays free for labels. It also derives the wallpaper palette from the character, so the pink background matches her hair and clothing.
 
-Seedance 2.5 · Text-to-video · Source: [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2098845134326808734) · 4,935 likes on 2026-10-27
+MiniMax H3 · Reference-to-video · Source: [@Mayz1169 on X](https://x.com/Mayz1169/status/2101711564655255956) · 5,165 likes on 2026-11-24
 
-[`anime`](pages/en/tags.md#tag-anime) [`food`](pages/en/tags.md#tag-food) [`fast-cut`](pages/en/tags.md#tag-fast-cut)
+[`desktop-wallpaper`](pages/en/tags.md#tag-desktop-wallpaper) [`macos`](pages/en/tags.md#tag-macos) [`anime`](pages/en/tags.md#tag-anime) [`ui-mockup`](pages/en/tags.md#tag-ui-mockup)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-Create a 30-second fast-paced cinematic Japanese anime cooking video showing the preparation of authentic katsudon, entirely from the text description below.
+1️⃣GPT Image 2.5
 
-IMPORTANT: Do not display, recreate, trace, reference, or imitate any storyboard, sketch, reference image, panel, annotation, or source material. Generate only original anime-style animation.
+Create a polished horizontal 16:9 macOS desktop image using the uploaded image as the subject reference.
 
-STYLE
+SUBJECT
+Identify and preserve the main subject’s recognizable appearance, proportions, colors, clothing, accessories, and original visual style. Preserve anime subjects as anime, illustrated subjects as illustrations, and photographic subjects as photographic.
 
-High-quality Japanese anime film style, cinematic summer lighting, ultra-detailed food textures, realistic cooking physics, visible steam and moisture, shallow depth of field, macro close-ups, smooth camera movement, warm Japanese kitchen atmosphere. Fast rhythmic editing with natural match cuts based on movement, shape, texture, and composition.
+If the reference contains multiple interacting subjects, keep them together. If it is a character design sheet showing multiple views of one character, use only the main front or three-quarter view, without duplicating the character.
 
-TIMELINE
+Separate the subject cleanly from the original background. Exclude reference-sheet panels, captions, borders, and unrelated interface elements.
 
-0–2.5s — Prepare Pork
-Close-up of hands pounding a thick pork loin with a wooden mallet on a cutting board. The meat gradually flattens and its fibers loosen. Sprinkle salt and pepper evenly. Crisp rhythmic impacts.
+COMPOSITION
+Place the subject prominently on the RIGHT side, occupying approximately 40–45% of the canvas. Leave the LEFT side for application icons and keep the middle spacious.
 
-2.5–5s — Bread the Pork
-Quick match cuts: press the pork into flour, dip into beaten egg, then firmly coat with coarse panko breadcrumbs. Show realistic egg dripping and breadcrumbs adhering to the surface.
+Preserve the original pose where practical. Keep faces, important accessories, and visible hands fully inside the frame. Show the full body when the reference supports it; otherwise use a natural crop rather than inventing unseen anatomy. Do not stretch or distort the subject. Keep the menu bar and Dock clear of the face and hands.
 
-5–7.5s — Fry
-Lower the breaded pork into hot golden oil. Intense bubbling surrounds the cutlet as the crust turns golden brown and crispy. Warm cinematic lighting and detailed oil movement.
+ADAPTIVE BACKGROUND
+Create a custom wallpaper that complements the subject’s actual color palette, visual style, and mood. Combine classic macOS-style flowing curves, layered abstract waves, and smooth gradients with colors drawn from the reference.
 
-7.5–9.5s — Slice
-Place the fried tonkatsu on a wooden board. A sharp knife cuts it into even strips. The crispy crust cracks naturally, revealing juicy white pork with gentle steam escaping.
+Choose the palette automatically:
+- Gentle or cute subjects: soft, harmonious pastel tones.
+- Energetic or playful subjects: lively colors with restrained bright accents.
+- Elegant or mysterious subjects: rich, deeper tones with subtle highlights.
+- Natural or minimalist subjects: calm, understated colors and simple shapes.
 
-9.5–12s — Simmer Dashi & Onion
-Thinly sliced onions gently simmer in amber dashi inside a shallow pan. Small bubbles rise while the onions become translucent. Chopsticks gently move them through the broth.
+Do not apply the same blue background to every subject. Use clear tonal separation so the subject remains visible. Keep the left side quiet and sufficiently dark for readable white icon labels. Optional thematic details should be subtle and sparse.
 
-12–14s — Add Tonkatsu
-Place the sliced tonkatsu carefully over the simmering onions using chopsticks. The broth begins soaking into the crispy edges while steam rises.
+LEFT-SIDE APPLICATION ICONS
+Arrange exactly 18 recognizable application shortcuts in a clean grid of THREE columns and SIX rows on the left:
 
-14–16.5s — Pour Egg
-Slowly pour beaten golden egg over the tonkatsu and onions. The egg spreads naturally through the gaps and begins setting around the hot edges.
+Row 1: Google Chrome | Safari | Gmail
+Row 2: YouTube | Spotify | Discord
+Row 3: Slack | Zoom | Microsoft Teams
+Row 4: Notion | Microsoft Word | Microsoft Excel
+Row 5: Instagram | Reddit | Netflix
+Row 6: Steam | Dropbox | Google Drive
 
-16.5–19s — Set the Egg
-Close-up of the egg gently coagulating over low heat. Edges become soft and golden while the center remains glossy, slightly runny, and trembling. No stirring.
+Use accurate recognizable logos, consistent icon sizes, generous spacing, and crisp white English labels beneath each icon. Use macOS-style rounded-square treatments where appropriate. Keep all icons separate from the subject, with no duplicates or missing items.
 
-19–21s — Prepare Rice
-A white ceramic donburi bowl receives a generous mound of steaming Japanese short-grain rice. The rice looks fluffy and slightly glossy.
+MACOS INTERFACE
+Include a thin translucent menu bar across the top:
+Apple symbol, Finder, File, Edit, View, Go, Window, Help.
+Place small system status icons and a clock at the upper right.
 
-21–24s — Assemble
-Carefully slide the egg-and-tonkatsu mixture from the pan onto the rice. The egg settles naturally in a soft wave while dashi lightly absorbs into the rice.
+Add a modest translucent rounded Dock along the bottom center, shifting slightly left if necessary to avoid the subject. Include Finder, Safari, Messages, Mail, Photos, Calendar, System Settings, a separator, Downloads, and Trash.
 
-24–26s — Final Close-Up
-The finished katsudon rests on the counter. Glossy egg slowly settles over the tonkatsu and rice, gently trembling. Slow cinematic push-in.
+FINAL RESULT
+Create a cohesive personalized desktop screenshot with a character-inspired wallpaper, clean English interface elements, and balanced spacing. The subject should feel naturally integrated into the wallpaper rather than pasted onto it.
 
-26–30s — Hero Reveal
-Present the finished katsudon in a traditional blue-and-white ceramic bowl on a wooden surface. Golden egg covers crispy tonkatsu over glossy rice, topped with fresh mitsuba. Steam rises as the camera slowly arcs around the bowl for a beautiful anime-food-film ending.
-
-AUDIO
-
-Bright 1980s-inspired Japanese city-pop instrumental, 110–120 BPM, with subtle koto and light chime percussion. Synchronize realistic ASMR cooking sounds: mallet impacts, knife slicing, frying sizzle, bubbling dashi, chopsticks, egg pouring, steam, and a soft ceramic clink.
-
-End with one delicate wind-chime tone during the final reveal.
-
-NEGATIVE
-
-No storyboard, reference image, sketch, panels, borders, numbers, arrows, annotations, subtitles, captions, UI, logos, or text overlays. No unrelated ingredients or dishes. Katsudon only. Keep the food, hands, utensils, lighting, and environment visually consistent throughout.
+Render the desktop directly edge to edge. No physical computer, monitor bezel, perspective tilt, open application windows, promotional banners, large titles, extra subjects, or additional desktop icons.
 ```
 
 </details>
 
-**[All 83 entries](pages/en/video-anime.md)**
+**[All 84 entries](pages/en/video-anime.md)**
 
 <a id="vid-commercial"></a>
 ## Ads and product videos
@@ -659,7 +654,7 @@ hypnotic, mechanical, intimate.
 
 </details>
 
-**[All 137 entries](pages/en/video-commercial.md)**
+**[All 140 entries](pages/en/video-commercial.md)**
 
 <a id="vid-dialogue"></a>
 ## Dialogue and talking heads
@@ -880,7 +875,7 @@ Only drawings, contour lines and graphic shapes. No text, typography, letters, n
 
 </details>
 
-**[All 50 entries](pages/en/video-music-dance.md)**
+**[All 51 entries](pages/en/video-music-dance.md)**
 
 <a id="vid-vlog"></a>
 ## Phone footage and vlogs
@@ -1037,7 +1032,7 @@ The realism should come from ordinary surroundings, natural expressions, small a
 
 </details>
 
-**[All 191 entries](pages/en/video-vlog.md)**
+**[All 195 entries](pages/en/video-vlog.md)**
 
 <a id="vid-nature"></a>
 ## Nature, travel and aerial
@@ -1369,26 +1364,65 @@ The final frame should closely match the original reference image.
 
 </details>
 
-<a id="kling-eagle-pov-steppe-flight"></a>
-### Golden eagle POV flight over mountain valleys
+<a id="seedance-coyote-fake-tunnel-roller"></a>
+### Coyote paints fake tunnel on cliff face
 
-<a href="https://x.com/higgsfield_ai/status/2019090635408744851"><img src="previews/kling-eagle-pov-steppe-flight.jpg" width="360"></a>
+<a href="https://x.com/itsshara_ai/status/2124695716396507469"><img src="previews/seedance-coyote-fake-tunnel-roller.jpg" width="360"></a>
 
-The camera is locked to the eagle's head, with wing and feather edges kept in frame as a stable anchor. Ground parallax cues (rivers, valleys, peaks) and the constraints on jitter, motion blur and cuts keep the flight physically coherent in one continuous shot.
+The prompt splits the clip into timed segments, each with numbered shots and its own sound list, so pacing and audio cues are set per beat. Repeating the same fixed character descriptions in every segment keeps the coyote and roadrunner consistent across the sequence.
 
-Kling 3.0 · Text-to-video · Source: [@higgsfield_ai on X](https://x.com/higgsfield_ai/status/2019090635408744851) · 2,454 likes on 2026-10-27
+Seedance 2.5 · Text-to-video · Source: [@itsshara_ai on X](https://x.com/itsshara_ai/status/2124695716396507469) · 3,116 likes on 2026-11-24
 
-[`pov`](pages/en/tags.md#tag-pov) [`aerial`](pages/en/tags.md#tag-aerial) [`wildlife`](pages/en/tags.md#tag-wildlife) [`tracking-shot`](pages/en/tags.md#tag-tracking-shot) [`landscape`](pages/en/tags.md#tag-landscape)
+[`animal`](pages/en/tags.md#tag-animal) [`comedy`](pages/en/tags.md#tag-comedy) [`sound-design`](pages/en/tags.md#tag-sound-design) [`multi-clip`](pages/en/tags.md#tag-multi-clip)
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-POV flight from a golden eagle soaring over vast mountainous steppe landscapes. Camera locked to the eagle’s head with clean, precise tracking — stable forward motion, no jitter. The eagle actively flaps its wings, powerful wingbeats transitioning into smooth gliding. Wings and feathers visible at the frame edges, moving naturally in rhythm. Strong ground parallax below: winding rivers, open valleys, rocky peaks. Bright late-afternoon light, crisp air, subtle lens flare. Ultra-wide cinematic perspective, natural motion blur from speed only, realistic flight physics, continuous shot, no cuts.
+Style + characters
+
+Photorealistic live-action wildlife comedy, looks like a real nature documentary but with classic slapstick cartoon gags, ultra-realistic fur and feathers, 16:9 cinematic widescreen, 24fps, bright desert sunlight, warm saturated colors. THE COYOTE: a real scruffy grey-tan desert coyote with big amber eyes and very expressive human-like facial reactions (smug grin, wide-eyed shock, dizzy eyes); he walks on his hind legs when using tools. THE ROADRUNNER: a small fast speckled brown roadrunner bird with a long tail and a crest, always calm, always faster. Location: a red-rock desert canyon land: towering orange sandstone cliffs and mesas, red dirt, dry desert bushes, a straight two-lane desert highway with white lines, a winding river canyon far below, clear blue sky.
+
+Sound (every clip): loud, crisp, full-range comedy sound design, no dialogue: playful mischievous orchestral cartoon chase music with pizzicato strings and brass stings, exaggerated cartoon SFX (zip-run whooshes, slide whistles, boings, comic thuds, dizzy birds tweeting), the roadrunner's quick "meep-meep" call, desert wind, and real heavy impacts with deep sub-bass.
+
+CLIP 1 (0–12s): The fake tunnel
+
+Shot 1: wide shot, the coyote stands on his hind legs at the base of an orange cliff, painting a fake black tunnel entrance on the rock with a long-handled paint roller, painted white road lines leading into it. Shot 2: he steps back proudly with the roller. Shot 3: close-up, the coyote hides behind a rock, peeking out with a sneaky grin. Shot 4: the roadrunner zooms down the road toward the painted tunnel, dust flying. Shot 5: low shot from behind as the roadrunner runs straight into the painted tunnel. Shot 6: reverse shot from inside a real dark tunnel, the roadrunner runs through it and out the other side into daylight.
+Sound: wet paint-roller squishes, a smug humming sting, a sneaky tiptoe pizzicato, a fast zip-run whoosh with "meep-meep", a hollow tunnel echo of running feet, a surprised brass "wah".
+
+CLIP 2 (12–24s): Coyote tries the tunnel
+
+Shot 1: extreme close-up of the coyote's face behind the rock, eyes wide in disbelief, mouth open. Shot 2: he shakes his head, then grins with determination. Shot 3: wide shot, the coyote stands right at the painted tunnel entrance, looking at it, then backs away. Shot 4: low tracking shot, the coyote sprints at full speed toward the tunnel, legs a blur, dust kicking up.
+Sound: a confused slide-whistle, a head-shake rattle, a determined drum roll, a fast whoosh and pattering paws building into a rising crescendo.
+
+CLIP 3 (24–32s): Splat
+
+Shot 1: side shot, the coyote leaps into the painted tunnel and smacks flat into the solid rock wall, body spread out like a pancake. Shot 2: he slowly slides down the rock and flops onto the red dirt, flattened and dazed, the painted road lines next to him. Shot 3: close-up, the coyote with a yellow rope tied around his body, glaring with red angry eyes, holding a spear with a hook, plotting his next plan.
+Sound: a huge comic SPLAT and a deep rock thud, a long squeaky sliding sound down the wall, a soft dusty flop, a tiny dizzy tweet, then an angry growl and an evil brass sting.
+
+CLIP 4 (32–44s): The cliff cable
+
+Shot 1: extreme wide aerial over a deep river canyon, a tiny coyote stands on the cliff edge holding a rope. Shot 2: the coyote attaches himself to a steel cable stretched across the canyon over the desert highway. Shot 3: close-up of a shiny metal pulley clamp sliding onto the thick steel cable with a yellow rope. Shot 4: from the highway below, the coyote dangles from the cable high above the road between two red cliffs. Shot 5: the coyote hangs upside down from the rope above the highway, grinning, waiting. Shot 6: a full-screen comic-book burst frame, a purple explosion shape with a red-yellow spiky border.
+Sound: wind howling over the canyon, a rope creak, a metallic clamp click and a zipline whir, a smug whistle, a growing truck horn in the distance, then a giant comic CRASH-BANG with a cymbal hit.
+
+CLIP 5 (44–52s): The red truck
+
+Shot 1: aerial shot from above, the coyote hangs from the cable over the highway as a big red semi-truck speeds by below. Shot 2: close-up, the coyote tangled in yellow rope, dizzy, little cartoon red trucks and yellow stars spinning around his head. Shot 3: close-up of the red truck's cab window: the roadrunner is calmly sitting in the driver's seat, driving the truck. Shot 4: the roadrunner looks at the camera from the window.
+Sound: a roaring semi-truck pass-by with a loud horn blast, a doppler whoosh, dizzy cartoon tweets and spinning ding-ding sounds, a truck engine idle, and a cheeky "meep-meep".
+
+CLIP 6 (52–68s): The boulder trap
+
+Shot 1: the coyote on a steep red slope pushes a giant round boulder to the edge of a cliff, a small wooden sign planted next to it. Shot 2: he sets up a wooden lever under the boulder and checks it. Shot 3: close-up, the boulder slips and slowly rolls over the coyote, squashing him underneath, only his head sticking out. Shot 4: wide shot, the boulder rolls down the slope, the roadrunner runs ahead on the dirt road far away. Shot 5: the boulder keeps rolling down the dirt trail.
+Sound: heavy grinding rock pushing, coyote grunts, a wooden creak, a gulp, a slow rumbling roll and a heavy squash thud with a comic squeak, a long rolling rumble down the hill, the roadrunner's distant "meep-meep".
+
+CLIP 7 (68–81.5s): The final roll
+
+Shot 1: extreme close-up of the coyote's face, eyes wide, then slowly a huge evil grin. Shot 2: low shot, the coyote stands under the giant boulder, holding it up with one paw, smirking. Shot 3: the boulder tips and rolls onto him, the coyote slides under it. Shot 4: the boulder rolls fast down the slope toward the camera, kicking up dust. Shot 5: final wide shot, the boulder stops on the dirt road and a flattened coyote-shaped imprint is pressed into its surface with little stars around its head, the roadrunner casually runs past.
+Sound: a sly villain brass sting, a grunt of strain, a slow creak and a heavy rolling rumble, a dusty whoosh as the boulder rushes the camera, a deep final THUD, a comic squeak and a sad trombone "wah-wah-wah", then a final "meep-meep" and a zip-run whoosh.
 ```
 
 </details>
 
-**[All 32 entries](pages/en/video-animal.md)**
+**[All 33 entries](pages/en/video-animal.md)**
 
 <a id="vid-vfx"></a>
 ## VFX and transformations
@@ -1665,7 +1699,7 @@ PHASE 5: MINIMALIST BRANDING.
 
 </details>
 
-**[All 215 entries](pages/en/image-poster.md)**
+**[All 222 entries](pages/en/image-poster.md)**
 
 <a id="img-infographic"></a>
 ## Infographics and slides
@@ -2234,7 +2268,7 @@ Use the uploaded reference image as the exact facial identity reference. Create 
 
 </details>
 
-**[All 136 entries](pages/en/image-realism.md)**
+**[All 138 entries](pages/en/image-realism.md)**
 
 <a id="img-portrait"></a>
 ## Portraits
@@ -2279,7 +2313,7 @@ GPT Image 2 · Edit · Source: [@tadasgedgaudas on X](https://x.com/tadasgedgaud
 
 </details>
 
-**[All 288 entries](pages/en/image-portrait.md)**
+**[All 291 entries](pages/en/image-portrait.md)**
 
 <a id="img-character"></a>
 ## Characters and figures
@@ -2404,7 +2438,7 @@ Final output: one polished square image containing a clearly organized 4×4 grid
 
 </details>
 
-**[All 113 entries](pages/en/image-character.md)**
+**[All 115 entries](pages/en/image-character.md)**
 
 <a id="img-illustration"></a>
 ## Illustration
@@ -2453,7 +2487,7 @@ A crisp, printmaking-like aesthetic with bold outlines and natural deformation. 
 
 </details>
 
-**[All 122 entries](pages/en/image-illustration.md)**
+**[All 124 entries](pages/en/image-illustration.md)**
 
 <a id="img-comic"></a>
 ## Comics and storyboards
@@ -2591,7 +2625,7 @@ Do not change my pet’s appearance. Do not turn it into a different animal, car
 
 </details>
 
-**[All 113 entries](pages/en/image-photo-to-art.md)**
+**[All 114 entries](pages/en/image-photo-to-art.md)**
 
 <a id="img-architecture"></a>
 ## Architecture and interiors
@@ -2735,7 +2769,7 @@ Minimalist editorial poster aesthetic, premium print quality, 4:5 aspect ratio.�
 
 </details>
 
-**[All 15 entries](pages/en/image-map.md)**
+**[All 16 entries](pages/en/image-map.md)**
 
 <a id="img-collage"></a>
 ## Collage
@@ -2786,7 +2820,7 @@ Composition: keep the real person as the central focus, surrounded by chibi stic
 
 </details>
 
-**[All 108 entries](pages/en/image-collage.md)**
+**[All 109 entries](pages/en/image-collage.md)**
 
 <a id="img-edit"></a>
 ## Photo editing
@@ -3040,9 +3074,9 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 <a id="tags"></a>
 ## Browse by tag
 
-[`portrait`](pages/en/tags.md#tag-portrait) 237 · [`fashion`](pages/en/tags.md#tag-fashion) 160 · [`multi-shot`](pages/en/tags.md#tag-multi-shot) 133 · [`anime`](pages/en/tags.md#tag-anime) 130 · [`template`](pages/en/tags.md#tag-template) 125 · [`typography`](pages/en/tags.md#tag-typography) 116 · [`cinematic`](pages/en/tags.md#tag-cinematic) 113 · [`handheld`](pages/en/tags.md#tag-handheld) 107 · [`editorial`](pages/en/tags.md#tag-editorial) 98 · [`golden-hour`](pages/en/tags.md#tag-golden-hour) 93 · [`dialogue`](pages/en/tags.md#tag-dialogue) 92 · [`photorealistic`](pages/en/tags.md#tag-photorealistic) 87 · [`character-consistency`](pages/en/tags.md#tag-character-consistency) 85 · [`reference-image`](pages/en/tags.md#tag-reference-image) 81 · [`fantasy`](pages/en/tags.md#tag-fantasy) 76 · [`christmas`](pages/en/tags.md#tag-christmas) 76 · [`macro`](pages/en/tags.md#tag-macro) 75 · [`photo-edit`](pages/en/tags.md#tag-photo-edit) 69 · [`infographic`](pages/en/tags.md#tag-infographic) 69 · [`storyboard`](pages/en/tags.md#tag-storyboard) 65 · [`vlog`](pages/en/tags.md#tag-vlog) 65 · [`json-prompt`](pages/en/tags.md#tag-json-prompt) 64 · [`collage`](pages/en/tags.md#tag-collage) 62 · [`action`](pages/en/tags.md#tag-action) 59 · [`selfie`](pages/en/tags.md#tag-selfie) 59 · [`reference-images`](pages/en/tags.md#tag-reference-images) 55 · [`miniature`](pages/en/tags.md#tag-miniature) 55 · [`comedy`](pages/en/tags.md#tag-comedy) 52 · [`food`](pages/en/tags.md#tag-food) 50 · [`travel-poster`](pages/en/tags.md#tag-travel-poster) 49
+[`portrait`](pages/en/tags.md#tag-portrait) 240 · [`fashion`](pages/en/tags.md#tag-fashion) 162 · [`multi-shot`](pages/en/tags.md#tag-multi-shot) 135 · [`anime`](pages/en/tags.md#tag-anime) 133 · [`template`](pages/en/tags.md#tag-template) 125 · [`typography`](pages/en/tags.md#tag-typography) 117 · [`cinematic`](pages/en/tags.md#tag-cinematic) 113 · [`handheld`](pages/en/tags.md#tag-handheld) 109 · [`editorial`](pages/en/tags.md#tag-editorial) 99 · [`golden-hour`](pages/en/tags.md#tag-golden-hour) 95 · [`dialogue`](pages/en/tags.md#tag-dialogue) 93 · [`character-consistency`](pages/en/tags.md#tag-character-consistency) 87 · [`photorealistic`](pages/en/tags.md#tag-photorealistic) 87 · [`reference-image`](pages/en/tags.md#tag-reference-image) 82 · [`fantasy`](pages/en/tags.md#tag-fantasy) 79 · [`christmas`](pages/en/tags.md#tag-christmas) 78 · [`macro`](pages/en/tags.md#tag-macro) 75 · [`photo-edit`](pages/en/tags.md#tag-photo-edit) 69 · [`infographic`](pages/en/tags.md#tag-infographic) 69 · [`vlog`](pages/en/tags.md#tag-vlog) 67 · [`storyboard`](pages/en/tags.md#tag-storyboard) 66 · [`json-prompt`](pages/en/tags.md#tag-json-prompt) 64 · [`action`](pages/en/tags.md#tag-action) 62 · [`collage`](pages/en/tags.md#tag-collage) 62 · [`selfie`](pages/en/tags.md#tag-selfie) 60 · [`reference-images`](pages/en/tags.md#tag-reference-images) 55 · [`miniature`](pages/en/tags.md#tag-miniature) 55 · [`comedy`](pages/en/tags.md#tag-comedy) 53 · [`food`](pages/en/tags.md#tag-food) 50 · [`travel-poster`](pages/en/tags.md#tag-travel-poster) 50
 
-**[All 3129 tags](pages/en/tags.md)**
+**[All 3158 tags](pages/en/tags.md)**
 
 <a id="contributing"></a>
 ## Contributing

@@ -1,6 +1,6 @@
 # 海报与编辑排版
 
-[返回目录](../../README_zh.md) · 全部 215 条 · **1** · [2](image-poster-2.md)
+[返回目录](../../README_zh.md) · 全部 222 条 · **1** · [2](image-poster-2.md) · [3](image-poster-3.md)
 
 <a id="gpt-image-flat-vector-city-travel-poster-template"></a>
 ### 适用任意城市的扁平矢量旅行海报模板
@@ -464,6 +464,25 @@ Create a luxury minimalist birthday milestone poster featuring a giant 3D number
 
 </details>
 
+<a id="nano-banana-pixar-knolling-evening-look"></a>
+### 皮克斯风格女性角色与夜晚物品整齐排列
+
+<a href="https://x.com/berryxia/status/2004088874684043595"><img src="../../previews/nano-banana-pixar-knolling-evening-look.jpg" width="360"></a>
+
+参考照片决定角色，提示词用固定的物品数量、编号徽章和四个分类标题锁定整齐排列的结构。奢华配色选项给出黑色与24K金的色调。
+
+Nano Banana Pro · 上传图改图 · 出处: [@berryxia on X](https://x.com/berryxia/status/2004088874684043595) · 800 赞，统计于 2026-11-24
+
+[`knolling`](tags.md#tag-knolling) [`pixar-style`](tags.md#tag-pixar-style) [`3d-render`](tags.md#tag-3d-render) [`character-design`](tags.md#tag-character-design)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+📷 核心指令 (Core Instruction)  任务：基于用户提供的参考图片，创作一张超高品质、电影级的3D皮克斯/迪士尼(Pixar/Disney)风格角色拆解艺术海报。将照片中的人物转换为风格化写实的3D动画角色，并将其个人物品以严谨的"Knolling"（整齐排列）艺术风格进行布局展示。  画面比例：16:9 横版 (可根据需求调整为 3:2, 4:5, 1:1) 艺术风格核心：皮克斯"风格化写实主义" (Stylized Realism) — 融合夸张的卡通比例与照片级真实材质光影。 质量标杆：对标《寻梦环游记(Coco)》、《青春变形记(Turning Red)》、《夏日友晴天(Luca)》的官方角色宣传海报。  📷 物品布局 (Item Layout) - Knolling放射式构图 总物品数：30-36件，围绕角色呈90度直角或放射状有序排列。  分类1：时尚穿搭 (Fashion Atelier) - 香槟金标签 - 主服装拆解：衣袖、衣领、布料裁片、内衬等全部分离悬浮。 - 鞋履拆解：鞋底、鞋面、鞋带、鞋跟等分离。 - 随身配饰：腰带、包袋、帽子、围巾等。 *示例：一件风衣可拆解为翻领、肩章、腰带、袖口束带、主衣身等部分。*  分类2：美妆个护 (Beauty Collection) - 玫瑰金标签 - 彩妆：口红（带膏体切面和色号标签）、眼影盘（每格颜色清晰）、粉饼、香水瓶（液体折射清晰可见）。 - 护肤：精华液瓶、面霜罐、美容仪器。 *示例：一瓶香水需展现玻璃瓶身的通透感、液体内部的光线折射以及瓶盖的金属质感。*  分类3：数码生活 (Modern Essentials) - 钢蓝色标签  - 电子设备：带手机壳的智能手机（屏幕需有内容）、无线耳机、智能手表、笔记本/平板电脑、相机。 - 材质要求：金属、玻璃（带折射）、塑料等材质需有正确的粗糙度和反射效果。 *示例：一部相机可拆解为镜头、机身、闪光灯、存储卡、肩带等。*  分类4：个人爱好 (Luxury & Hobbies) - 24K金标签  - 奢华配饰：珠宝首饰（项链、耳环、戒指等，宝石需有色散效果）、品牌包袋（展示内部分隔和五金件）。 - 兴趣爱好：画笔、调色盘、书籍、乐器、运动装备、咖啡用具等。 *示例：一个手办可拆解为头部、身体、四肢、武器、地台等组件。*  每件物品要求： - 渲染质量：与角色同等级别的3D渲染精度。 - 编号标签：带有01-36的圆形编号徽章。 - 材质与阴影：应用PBR材质，投射逼真的软阴影。   📷 爆炸视图技术 (Exploded View Technique)  - 连接线：使用优雅的虚线/实线将悬浮的服装部件连接到角色身上。 - 引导箭头：使用装饰性箭头将物品指向其文字标签。 - 技术注释：   - 材质样本：展示织物、皮革等材质的微距特写方块。   - 材质标签：如"100%真丝"、"意大利小牛皮"。   - 测量标尺：带有厘米(cm)/英寸(in)标记的标尺。  📷 角色拆解艺术 · THE ART OF DECONSTRUCTION 📷"   字体：中文用典雅的衬线体（如方正宋刻本秀楷），英文用Playfair Display，带金箔效果。 - 副标题 (Subtitle)：（主标题下方，飘逸手写体）   "角色本质·艺术拆解 / Character Essence Unveiled"   中英文混排，字体优雅。 - 分类标题 (Category Headers)：（带图标的圆角矩形标签）   "📷 美妆个护"** (玫瑰金)   "📷 数码生活"** (钢蓝色)   "📷 设计元素 (Design Elements)  - 几何框架：使用装饰艺术(Art Deco)风格的六边形/圆形细线框（0.5-1pt粗细）来组织物品群组。 - 测量标尺：沿画面左右边缘放置，营造技术美学感。 - 十字准星：在画面四角和关键焦点处添加。 - 材质样本：在底部展示一排面料/皮革/金属的微距特写方块。 - 信息卡片：带优雅边框的卡片，用于展示物品的详细信息。 - 雷达图：用装饰框包裹的角色属性雷达图，如：优雅★★★★★, 风格★★★★★, 智慧★★★★★。 - 连接线条：使用金色/银色的优雅虚线和装饰性箭头。  📷 背景与氛围 (Background & Atmosphere)  - 背景渐变：从白色到奶油色/香槟色的暖色调渐变，或从浅灰到白色的冷色调渐变。 - 图案叠加：叠加一层低透明度（5-10%）的装饰艺术几何网格或蓝图线条。 - 暗角效果 (Vignette)：轻柔的边缘变暗效果，将焦点引向中心。 - 氛围粒子：柔和的金色散景(Bokeh)光斑和微妙的胶片颗粒(Film Grain)，营造电影感。  📷 清晨6:00 → 📷 创作进行时 → 📷 色彩方案 (Color Palette) - 女性/时尚主题：香槟金(#D4AF37), 玫瑰金(), 奶油色(), 樱花粉()。 - 男性/科技主题**：钢蓝色(#4A90E2#4A4A4A#C0C0C0), 电光蓝(#00D9FF)。 - 正式/奢华主题：纯黑(#000000), 24K金(#FFD700), 深红色(#8B0000), 象牙白(#FFFFF0)。 - 情侣主题：男性一侧使用冷色调，女性一侧使用暖色调，形成对比。  📷 技术规格 (Technical Specifications) 渲染参数 (Rendering) - 引擎：路径追踪(Path Tracing)，等同于Cycles/Arnold/RenderMan级别。 - 采样数：最低4096 SPP (Samples Per Pixel)，确保画面纯净无噪点。 - 光线弹射：12次，以获得准确的全局光照。 - 焦散(Caustics)：开启，用于钻石和玻璃的真实光线折射效果。 - 模型面数：角色多边形数200万以上，确保曲面平滑。 - 毛发：每个角色超过10万根发丝，并经过物理模拟。  PBR材质流程 (Materials - PBR Workflow)  - 皮肤：三层SSS，双层高光。 - 毛发：各向异性着色器，主副双高光。 - 织物：微观编织法线贴图，准确的粗糙度变化。 - 金属*：金属度(Metalness) 1.0，粗糙度(Roughness) 0.1-0.4。 - 玻璃：折射率(IOR) 1.5，钻石IOR 2.42并带色散(Dispersion)。 - 皮革：粗糙度0.6-0.7，带颗粒感的凹凸贴图。  分辨率与输出 (Resolution & Output) - 分辨率：4K (3840×2160) 横版。 - 宽高比：16:9。 - 色深：32-bit浮点，为后期处理提供最大空间。 - 抗锯齿：16x MSAA，边缘锐利清晰。  📷 后期处理 (Post-Processing) - 色彩分级 (Color Grading)：   - 使用电影感LUT，提高暗部，避免纯黑（最低RGB 15,15,15）。   - 温和的S型曲线增强对比度。   - 根据主题调整色温（暖色+200K，冷色-200K）。   - 整体饱和度-5%，重点色彩（如金色）饱和度+10%。 - **特效 (Effects)**：   - **辉光(Bloom)**：为高光区域添加柔和光晕。   - **胶片颗粒(Film Grain)**：模拟柯达Portra 400胶片的有机质感。   - **色差(Chromatic Aberration)**：在边缘添加极细微的色散。   - **暗角(Vignette)**：中等强度的暗角。   - **锐化(Sharpening)**：输出时进行适度锐化。  📷 特殊指令 (Special Instructions)  - **单人角色**：总计约30件物品，聚焦于个人生活方式。 - **情侣角色**：总计约36件物品（每人18件），用爱心符号连接，并使用性别区分的色调。 - **孕妇角色**：包含孕期用品（如托腹油、维生素、B超照片），在腹部附近添加婴儿图标。 - **核心要点**：必须根据参考照片匹配角色的年龄、职业和风格。  📷 质量基准 (Quality Benchmark) 最终成品必须在视觉上无法与皮克斯/迪士尼官方的角色营销海报区分开来，达到博物馆级的照片级3D渲染水准，适用于： - 奢华产品目录 - 高端时尚杂志内页 - 专业艺术品印刷 - 个人摄影作品集 - 品牌营销活动⚙️✨📌🏆
+```
+
+</details>
+
 <a id="gpt-image-portugal-lisbon-double-exposure-poster"></a>
 ### 侧脸人像与里斯本城市融合的葡萄牙旅游海报
 
@@ -690,6 +709,111 @@ perfect alignment,
 no distortion,
 
 high resolution, print-ready
+```
+
+</details>
+
+<a id="gpt-image-2-6-symbolic-anatomy-flower-poster"></a>
+### 柔彩花卉象征解剖海报，两处照片镂空
+
+<a href="https://x.com/Just_sharon7/status/2124546208442069073"><img src="../../previews/gpt-image-2-6-symbolic-anatomy-flower-poster.jpg" width="360"></a>
+
+提示词把主体拆成可见的照片层和象征层，两个对角的非对称镂空分别露出同一张照片的不同局部。指定象牙白、粉蓝、鼠尾草绿和杏色的固定色板，让照片与抽象几何保持同一套柔和色调。
+
+GPT Image 2.6 · 上传图改图 · 出处: [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2124546208442069073) · 574 赞，统计于 2026-11-24
+
+[`conceptual-art`](tags.md#tag-conceptual-art) [`photo-cutout`](tags.md#tag-photo-cutout) [`pastel`](tags.md#tag-pastel) [`poster`](tags.md#tag-poster)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Transform the uploaded photograph into a premium-quality, museum-grade conceptual art poster that investigates what the photographed subject is symbolically made of, rather than what it is physically made of.
+CENTRAL PHILOSOPHY: "Everything we see is made of things we cannot see."
+The artwork must reveal the invisible emotional, philosophical, cultural, historical, or existential ingredients that give the photographed subject its meaning.
+The final composition must feel like a visual dissection of the subject's hidden identity.
+FORMAT: Vertical 50 × 70 cm, exact 5:7 aspect ratio, 300 DPI, target resolution 5906 × 8268 pixels.
+1. SUBJECT ANALYSIS — DISCOVER ITS SYMBOLIC INGREDIENTS
+First, carefully analyze the uploaded photograph.
+Identify the main subject, its defining characteristics, visual relationships, environment, posture, condition, and emotional atmosphere.
+Then ask:
+"If this subject were not made of physical matter, what invisible things would it be made of?"
+Discover three to five meaningful symbolic ingredients that are specifically connected to the photographed subject.
+These ingredients may relate to memory, resilience, longing, belonging, contradiction, transformation, time, hope, vulnerability, connection, or other concepts genuinely suggested by the image.
+Do not automatically use these example concepts.
+Derive the symbolic ingredients independently from the actual photograph.
+Avoid obvious, superficial, generic, or interchangeable interpretations.
+The chosen symbolic ingredients must reveal something thought-provoking about this particular subject.
+2. MAIN COMPOSITION — THE SYMBOLIC ANATOMY
+Create a sophisticated abstract composition in which the original photographed subject appears to be constructed from its invisible symbolic ingredients.
+Translate each selected ingredient into a distinctive visual form.
+For example:
+A feeling of resilience might become a geometric structure that remains connected despite visible fractures.
+A sense of memory might become overlapping translucent forms that preserve traces of earlier shapes.
+A sense of freedom might become an open curve extending beyond an otherwise rigid geometric boundary.
+These are conceptual examples, not mandatory visual elements.
+Create original geometric interpretations based on the actual photograph and its selected symbolic ingredients.
+The final abstract artwork should feel like the subject has been deconstructed into its invisible components and carefully reassembled.
+The resulting symbol must remain visually connected to the original subject's defining silhouette, structure, or visual character.
+3. UPPER-RIGHT CUTOUT — VISIBLE REALITY
+Introduce an elegant sculptural cutout entering diagonally from the upper-right edge.
+Through this opening, reveal an authentic, recognizable fragment of the original uploaded photograph.
+This opening represents the subject's visible physical existence.
+The photographic fragment should appear intact and realistic.
+Its contours should subtly transition into the symbolic geometric composition toward the center.
+4. LOWER-LEFT CUTOUT — THE HIDDEN COMPOSITION
+Introduce a second sculptural cutout entering from the lower-left edge.
+Reveal another meaningful portion of the same original photograph.
+Allow the geometry surrounding this opening to connect visually with the abstract symbolic ingredients.
+The two cutouts must be asymmetrical, sophisticated, and visually balanced.
+They should never resemble ordinary photo frames or conventional horizontal panels.
+Both openings must reveal different portions of the same underlying original photograph.
+5. SYMBOLIC CONSTRUCTION — MADE OF INVISIBLE THINGS
+This is the most important creative requirement.
+The abstract artwork must communicate that the photographed subject is symbolically constructed from the three to five invisible ingredients identified during analysis.
+Each ingredient should have a unique geometric expression.
+Use visual relationships between these forms to show how the ingredients interact.
+Some may overlap, suggesting interconnected experiences.
+Some may oppose one another, representing internal contradictions.
+Some may appear incomplete, representing absence or uncertainty.
+Others may provide structural support, representing the invisible forces that hold the subject together.
+Avoid creating separate decorative icons for each ingredient.
+Instead, integrate all ingredients into one unified, recognizable abstract symbol.
+The viewer should feel that the symbolic ingredients are the actual conceptual building blocks of the subject.
+6. CONCEPTUAL TYPOGRAPHY — WHAT IS IT MADE OF?
+Include a small, refined conceptual statement that is automatically adapted to the uploaded photograph.
+Use this structure:
+"[SUBJECT] IS MADE OF [SYMBOLIC INGREDIENT 1], [SYMBOLIC INGREDIENT 2], AND [SYMBOLIC INGREDIENT 3]."
+Replace every placeholder with original, meaningful language derived from the photograph.
+The statement must describe symbolic composition, never literal physical materials.
+For example:
+"A FLOWER IS MADE OF PATIENCE, FRAGILITY, AND THE COURAGE TO BEGIN AGAIN."
+"A CITY IS MADE OF AMBITION, DISTANCE, AND A MILLION UNFINISHED STORIES."
+"A TREE IS MADE OF TIME, SILENCE, AND THE ART OF HOLDING ON."
+These are illustrative examples only.
+Do not copy these statements unless they genuinely correspond to the uploaded photograph.
+Generate a fresh, emotionally resonant, philosophically thoughtful statement specifically for the photographed subject.
+Place this statement discreetly within the poster's negative space, using refined editorial typography.
+The statement should be short enough to feel poetic, not explanatory.
+7. LIGHT CONTEMPORARY COLOR SYSTEM
+Extract the photograph's signature colors and reinterpret them into a restrained, slightly light pastel palette.
+Use warm ivory, powder blue, muted sage, dusty blush, pale apricot, and soft neutral gray where appropriate.
+Assign each symbolic ingredient a subtle visual identity through controlled color relationships, geometric characteristics, or material transparency.
+Avoid excessive color coding or infographic-style labeling.
+Maintain one harmonious visual composition.
+8. MATERIALITY & PRINT CHARACTER
+Create subtle layered-paper depth around the photographic cutouts.
+Incorporate delicate risograph grain, archival paper texture, soft print imperfections, and extremely restrained analog registration effects.
+Keep the original photographic fragments sharp, realistic, and recognizable.
+Maintain clean geometric edges and professional fine-art printing quality.
+9. FINAL ARTISTIC INTENTION
+The poster must function as a conceptual portrait of the uploaded subject, whether the subject is a person, animal, object, building, landscape, or natural form.
+The original photograph shows what the subject looks like.
+The abstract composition reveals what the subject is symbolically made of.
+The poetic statement expresses the deeper meaning of its existence.
+All three elements must communicate one unified artistic idea.
+The artwork should invite the viewer to reconsider an ordinary visible subject as a complex composition of invisible experiences, emotions, histories, and relationships.
+Create a minimal, culturally evocative, intellectually engaging contemporary art poster with asymmetric photographic cutouts, symbolic geometric construction, soft pastel colors, and sophisticated editorial typography.
+No literal material descriptions, no generic motivational quotes, no random geometric decoration, no conventional split-screen panels, no excessive text, no external frame, and no watermark.
 ```
 
 </details>
@@ -3249,6 +3373,37 @@ No text, no logos, no typography, no borders, no extra objects. Focus entirely o
 
 </details>
 
+<a id="gpt-image-2-6-new-york-travel-poster-taxi"></a>
+### 纽约复古旅行海报，黄色出租车与天际线
+
+<a href="https://x.com/Aiwithkami/status/2124401464932184540"><img src="../../previews/gpt-image-2-6-new-york-travel-poster-taxi.jpg" width="360"></a>
+
+把模板里的 [CITY / COUNTRY] 换成一个城市，再点名前景交通工具和要堆叠进天际线的地标。固定的风格规则（粗黑墨线、黑白暖白加一到两种强调色、不要渐变和 3D）让结果看起来像一张完整印刷的海报。
+
+GPT Image 2.6 · 文生图 · 出处: [@Aiwithkami on X](https://x.com/Aiwithkami/status/2124401464932184540) · 221 赞，统计于 2026-11-24
+
+[`new-york`](tags.md#tag-new-york) [`travel-poster`](tags.md#tag-travel-poster) [`line-art`](tags.md#tag-line-art) [`vintage`](tags.md#tag-vintage)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+INTERNATIONAL CITY TRAVEL ART PRINT COLLECTION
+
+Create a charming, vintage-inspired travel poster featuring [CITY / COUNTRY], illustrated in a distinctive hand-drawn architectural doodle style.
+
+Showcase the city's most iconic landmarks, buildings, monuments, towers, bridges, and recognizable architectural details, arranged together in a dense yet balanced artistic composition. Incorporate a recognizable local element, such as a vintage car, tram, taxi, bicycle, or public transport, in the foreground.
+
+Use bold black ink outlines, intricate hand-drawn details, playful geometric patterns, and slightly imperfect sketch-like textures. Add the city name prominently within the illustration using creative hand-lettered typography.
+
+Present the artwork inside a clean white poster border, surrounded by a vibrant solid-color background that complements the city's identity. Use a limited palette of black, warm white, and one or two bold accent colors.
+
+Overall aesthetic: Minimalist European travel illustration, retro souvenir poster, whimsical architectural line art, screen-print texture, playful composition, and premium collectible wall-art design.
+
+Keep the artwork visually cohesive, highly detailed, charming, and instantly recognizable as a celebration of the destination. Avoid photorealism, 3D effects, gradients, and unnecessary decorative elements.
+```
+
+</details>
+
 <a id="nano-banana-rebel-street-tracksuit-portrait"></a>
 ### 身穿青绿色运动夹克的女子，背后是撕裂的街头海报
 
@@ -4207,6 +4362,82 @@ multi-exposure poster design featuring an Over-sized body young Indian woman por
 
 </details>
 
+<a id="gpt-image-2-6-gta-vi-vice-city-poster"></a>
+### 穿棕榈衬衫的男子，GTA VI海报风
+
+<a href="https://x.com/Goodmanprotocol/status/2123829307579785405"><img src="../../previews/gpt-image-2-6-gta-vi-vice-city-poster.jpg" width="360"></a>
+
+以参考照片的面部为锚定，并写明4:5画幅、堆叠式GTA VI标题、日落配色、天际线和跑车等版式要素，让模型有完整的构图可依。要求字体远离人脸，避免标题遮挡主体。
+
+GPT Image 2.6 · 上传图改图 · 出处: [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2123829307579785405) · 163 赞，统计于 2026-11-24
+
+[`gta-vi`](tags.md#tag-gta-vi) [`vice-city`](tags.md#tag-vice-city) [`poster`](tags.md#tag-poster) [`portrait`](tags.md#tag-portrait)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+GTA VI | BOLD VICE CITY CHARACTER POSTER
+
+Transform the person in the uploaded reference photograph into a stunning Grand Theft Auto VI-inspired character poster, capturing the bold, glamorous, rebellious atmosphere of Vice City and the iconic Rockstar promotional artwork aesthetic.
+
+1. SUBJECT & IDENTITY
+
+Preserve the person's exact facial identity, facial structure, eyes, nose, lips, hairstyle, skin tone, and recognizable features. Maintain natural proportions and realistic anatomy. The person must remain immediately recognizable.
+
+2. EXPRESSION & ATTITUDE
+
+Give the subject a bold, fearless, confident personality.
+
+- Intense, captivating eye contact with the camera.
+- Slightly raised chin and a powerful expression.
+- Effortless charisma with a hint of rebellious attitude.
+- No innocent smiles, shy expressions, or overly cute poses.
+
+3. FASHION & POSE
+
+Choose stylish, luxury Miami-inspired clothing such as a premium open-collar shirt, elegant summer outfit, or fashionable streetwear. Add subtle statement accessories where appropriate. Use a confident, natural pose with slightly angled shoulders, expressive body language, and naturally flowing hair.
+
+4. VICE CITY ENVIRONMENT
+
+Create a vibrant Miami-inspired nighttime or sunset background featuring:
+
+- Tropical palm trees and illuminated skyscrapers.
+- A spectacular pink, purple, and orange sunset.
+- Neon-lit streets and glowing Vice City signs.
+- Luxury sports cars with glossy reflections.
+- A helicopter flying across the skyline.
+- A glamorous tropical nightlife atmosphere.
+
+5. ART STYLE & LIGHTING
+
+Use a premium GTA VI-inspired digital illustration style, combining stylized realism with highly detailed painterly rendering. Add dramatic magenta and purple lighting, warm sunset highlights, deep cinematic shadows, realistic skin textures, and beautiful reflections.
+
+The artwork should resemble high-end video-game promotional art, not generic anime or an ordinary photograph with a filter.
+
+6. GTA VI POSTER DESIGN
+
+Integrate prominent GRAND THEFT AUTO VI typography:
+
+- Recognizable stacked GTA-style lettering.
+- Large VI with a vibrant pink-purple gradient.
+- Bold white lettering with dark outlines.
+- Small Rockstar-inspired yellow star emblem.
+- Keep typography sharp, balanced, and away from the subject's face.
+
+7. FINAL OUTPUT
+
+- Portrait 4:5 aspect ratio.
+- Ultra-detailed, high-resolution artwork.
+- Bold cinematic composition.
+- Vibrant Vice City color palette.
+- Realistic facial identity and anatomy.
+- No watermarks, random text, distorted hands, or unwanted artifacts.
+
+FINAL CREATIVE DIRECTION: The subject should look like the main protagonist of GTA VI — powerful, mysterious, glamorous, fearless, and effortlessly stylish. Combine Rockstar-inspired promotional artwork, luxury Miami fashion, and the rebellious attitude of Vice City into one unforgettable character poster.
+```
+
+</details>
+
 <a id="nano-banana-flipkart-more-to-explore-collage"></a>
 ### Flipkart 活动海报，行走模特与商品拼贴
 
@@ -4357,6 +4588,31 @@ STRICT RULES:
 * Do not alter or recreate the Flipkart logo incorrectly.
 * Avoid random floating products without visual purpose.
 * Keep the model and product selection as the primary visual focus.
+```
+
+</details>
+
+<a id="gpt-image-2-6-zebra-fingerprint-tunnel"></a>
+### 斑马走进发光的指纹隧道
+
+<a href="https://x.com/churvikv/status/2123819465796206817"><img src="../../previews/gpt-image-2-6-zebra-fingerprint-tunnel.jpg" width="360"></a>
+
+把指纹描述成断续的短条纹而非实线，让它带有手绘质感；斑马条纹与纹路互相呼应，主体和画面成为同一套图形语言。隧道逆光加上耳朵和身体侧面的轮廓光，让动物在光晕前呈现深色剪影。
+
+GPT Image 2.6 · 文生图 · 出处: [@churvikv on X](https://x.com/churvikv/status/2123819465796206817) · 156 赞，统计于 2026-11-24
+
+[`black-and-white`](tags.md#tag-black-and-white) [`surreal`](tags.md#tag-surreal) [`animal`](tags.md#tag-animal) [`fingerprint`](tags.md#tag-fingerprint)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+High-contrast black-and-white conceptual artwork, tall 9:16 vertical composition, mixed-media graphic style. Full bleed edge to edge, no frame, no border, no lettering.
+BACKGROUND: a rich matte black surface with a fine pebbled leather grain and subtle diagonal texture, deepening to pure black at the corners and edges.
+FINGERPRINT: one enormous white fingerprint fills the frame as the dominant graphic element, its outline a wide oval, slightly tapering toward the top. It is drawn not as solid lines but as hundreds of broken dashed strokes and short parallel bars with softly rounded ends, hand-painted with slight thickness variation, some strokes irregular and chipped. The ridges sweep in long concentric arches and whorls, curving up over the crown and down both sides, with a dense tight cluster of concentric rings in the centre.
+TUNNEL: dead centre, the fingerprint ridges part to form a glowing opening — a soft luminous white corridor receding into the distance, its walls a smooth radiant gradient of blurred white and pale grey, brightest at the far end, dissolving into a bright misty haze that halos the centre of the print.
+ZEBRA: inside that opening walks a single zebra, seen from directly behind, moving away from the viewer toward the light. Its body is compact and symmetrical, coat a crisp pattern of black and white vertical stripes, a dark mane standing up in a short brush between two rounded ears, a long thin tail hanging straight down the middle of its back, hindquarters rounded and hind hooves faintly visible in the haze. Its silhouette is sharp and dark against the glowing tunnel, its stripes echoing the ridges of the fingerprint around it.
+LIGHT: soft white backlight pouring out from the tunnel mouth onto the zebra, rim-lighting its ears and flanks, a gentle glow bleeding into the surrounding ridges.
+PALETTE: pure black, charcoal, soft white, pearl grey. Graphic poster feel, minimalist, surreal.
 ```
 
 </details>
@@ -6388,493 +6644,4 @@ The final poster must look premium, refined, realistic, and editorial while pres
 
 </details>
 
-<a id="gpt-image-money-heist-particle-cast-poster"></a>
-### 《纸钞屋》主演化为白色粒子肖像
-
-<a href="https://x.com/frametheory058/status/2062366259908575596"><img src="../../previews/gpt-image-money-heist-particle-cast-poster.jpg" width="360"></a>
-
-提示词先指定渲染引擎和点云质感，再把色彩限定为黑色、白色与少量橙色点缀，画面保持单色。左右两侧的细等宽文字只作次要元素，不抢粒子人像的主体。
-
-GPT Image 2 · 上传图改图 · 出处: [@frametheory058 on X](https://x.com/frametheory058/status/2062366259908575596) · 103 赞，统计于 2026-10-29
-
-[`particle-art`](tags.md#tag-particle-art) [`monochrome`](tags.md#tag-monochrome) [`poster`](tags.md#tag-poster) [`fan-art`](tags.md#tag-fan-art)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Transform the uploaded image into a high-contrast monochrome particle-render aesthetic. Subject reconstructed entirely from thousands of tiny glowing white dots and voxel-like particles on a pure black background. Use point-cloud dispersion, volumetric particles, halftone density gradients, and scattered noise trails to define the silhouette. Preserve the original subject composition and pose, but simplify details into clean geometric forms. Style should feel like futuristic AI architecture visualization mixed with experimental generative art.  Visual characteristics:  black background only  white particle clusters forming the subject  subtle floating debris and dissolving particles around edges  sparse orange/red accent particles (very minimal)  cinematic negative space  ultra minimal  soft bloom glow on dense particle areas  depth created through particle density  abstract but recognizable silhouette  no realistic textures  no colors besides black, white, and tiny orange accents  brutalist futuristic design aesthetic  clean composition  vertical poster layout  slight voxel / point-cloud rendering effect  high contrast  generative AI art style  experimental architecture visualization aesthetic  Typography treatment: small thin mono-space typography placed minimally on left and right sides, similar to futuristic design posters, white text only, subtle and secondary to the artwork  Rendering style: octane render, point cloud simulation, particle system render, volumetric dispersion, procedural dots, cinematic lighting, ultra detailed, abstract minimalism  Negative prompt: realistic shading, painterly textures, colorful backgrounds, low contrast, photorealism, messy composition, extra objects, blur, noisy artifacts, low resolution
-```
-
-</details>
-
-<a id="nano-banana-monochrome-tech-product-promo-poster"></a>
-### 单色耳机宣传海报与背景巨型字
-
-<a href="https://x.com/Sheldon056/status/2074697587756806354"><img src="../../previews/nano-banana-monochrome-tech-product-promo-poster.jpg" width="360"></a>
-
-用风格、主体、版式、字体、光影、配色等分区标题拆解需求，并用方括号占位符表示品牌、产品和颜色，方便复用。产品后方放置被裁切的超大背景文字，再让立体主体悬浮其上，形成层次感。
-
-Nano Banana 2 · 文生图 · 出处: [@Sheldon056 on X](https://x.com/Sheldon056/status/2074697587756806354) · 102 赞，统计于 2026-10-29
-
-[`tech-poster`](tags.md#tag-tech-poster) [`product-render`](tags.md#tag-product-render) [`monochrome`](tags.md#tag-monochrome) [`typography`](tags.md#tag-typography) [`social-media`](tags.md#tag-social-media)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Nano Banana 2 on Gemini
-
-Prompt: Create a premium modern tech product promotional social media poster for [BRAND NAME].
-
-TOPIC:
-[PRODUCT NAME]
-
-STYLE & ART DIRECTION:
-
-Modern futuristic tech advertising design
-
-Minimal premium commercial poster aesthetic
-
-Monochromatic color branding
-
-Clean geometric composition
-
-High-end electronic product advertisement
-
-Soft abstract background elements
-
-Instagram and Behance-quality tech campaign style
-
-MAIN SUBJECT:
-
-A large realistic 3D render of [PRODUCT]
-
-Product centered prominently as the hero element
-
-High-detail premium material textures
-
-Soft reflective surfaces
-
-Product slightly floating above the background
-
-Realistic studio product rendering
-
-Strong focus on curves, materials, and lighting
-
-LAYOUT & COMPOSITION:
-
-Centralized symmetrical composition
-
-Giant background typography behind the product
-
-Large cropped bold text integrated into the background
-
-Minimal clean layout with spacious negative space
-
-Simple CTA button at the bottom center
-
-Small social/contact information aligned at the bottom
-
-Abstract geometric overlays in the corners
-
-TEXT & TYPOGRAPHY:
-
-Bold futuristic typography
-
-Large oversized background text
-
-Minimal modern sans-serif fonts
-
-Clean premium branding style
-
-Short high-impact promotional wording
-
-DEPTH & LIGHTING:
-
-Soft cinematic studio lighting
-
-Ambient shadows beneath the product
-
-Smooth reflective highlights
-
-Subtle glow around edges
-
-Premium product render depth
-
-Clean soft shadow gradients
-
-EXTRA DESIGN DETAILS:
-
-Transparent geometric overlays
-
-Rounded modern shapes
-
-Minimal UI-inspired elements
-
-Soft gradients
-
-Futuristic visual identity
-
-Elegant commercial balance
-
-COLOR PALETTE:
-
-[PRIMARY COLOR]
-
-Tonal monochromatic shades
-
-Soft highlights and shadows
-
-White typography accents
-
-QUALITY:
-
-Ultra realistic
-
-High-end product advertisement
-
-Behance-quality composition
-
-Premium studio render quality
-
-Ultra high resolution
-```
-
-</details>
-
-<a id="nano-banana-landmark-photo-geometric-split-poster"></a>
-### 上方地标实拍,下方几何插画的双联海报
-
-<a href="https://www.reddit.com/r/GeminiAI/comments/1x97v1p/turn_landmark_photos_into_geometric_architecture"><img src="../../previews/nano-banana-landmark-photo-geometric-split-poster.jpg" width="360"></a>
-
-画面严格对半分割,上半保留真实照片,下半用少量大色块重绘。跨分界线对齐塔楼和屋顶线,让两半都能认出同一座地标。
-
-Nano Banana 2.1 · 上传图改图 · 出处: [u/Few-Profession421 on Reddit](https://www.reddit.com/r/GeminiAI/comments/1x97v1p/turn_landmark_photos_into_geometric_architecture) · 101 赞，统计于 2026-10-28
-
-[`landmark`](tags.md#tag-landmark) [`split-poster`](tags.md#tag-split-poster) [`geometric`](tags.md#tag-geometric) [`screen-print`](tags.md#tag-screen-print) [`photo-to-illustration`](tags.md#tag-photo-to-illustration)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Using the uploaded photograph of [LANDMARK], [CITY], [COUNTRY], create one premium 3:4 vertical editorial poster.
-Divide the canvas into two exactly equal horizontal halves with a straight central boundary.
-Top 50% — Photography
-Preserve the landmark’s identity, proportions, materials, perspective, surroundings, and natural lighting. Apply restrained editorial color grading. Extend the environment only if necessary; never stretch, distort, or redesign the building.
-Bottom 50% — Geometric illustration
-Reinterpret the same landmark using a few large, cohesive rectangles, circles, triangles, arches, and layered planes. Preserve its distinctive silhouette and structural rhythm. Avoid tiny fragments and generic building symbols.
-Use a restrained palette drawn from the photograph, with subtle paper grain, matte surfaces, and delicate screen-print texture.
-Keep the viewing angle consistent between both halves. Where possible, align signature towers, rooflines, or dominant verticals across the division. Balance the composition with generous negative space.
-No text, numbers, logos, watermarks, borders, added flags, unrelated landmarks, or multiple-photo collages. Output one complete standalone poster.
-```
-
-</details>
-
-<a id="gpt-image-fisheye-wink-canopy-selfie-doodles"></a>
-### 鱼眼广角自拍，条纹遮阳棚下眨眼的涂鸦海报
-
-<a href="https://x.com/j_smeaton99/status/2061275461817450870"><img src="../../previews/gpt-image-fisheye-wink-canopy-selfie-doodles.jpg" width="360"></a>
-
-将镜头设定为手臂伸直的超广角鱼眼自拍，并配合闪光、颗粒感和指定姿势，让画面更像真实快照；逐条列出的手写短语则让涂鸦文字清晰可读。
-
-GPT Image 2 · 文生图 · 出处: [@j_smeaton99 on X](https://x.com/j_smeaton99/status/2061275461817450870) · 95 赞，统计于 2026-10-29
-
-[`fisheye`](tags.md#tag-fisheye) [`selfie`](tags.md#tag-selfie) [`doodles`](tags.md#tag-doodles) [`magazine-cover`](tags.md#tag-magazine-cover)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a hyper-realistic internet-culture editorial poster inspired by chaotic festival selfies, scrapbook doodles, candid flash photography, and modern meme culture.
-
-Main Concept
-
-An absurdly close fisheye-style smartphone selfie of a stylish young woman beneath a colorful outdoor market canopy. The image should feel like a spontaneous viral moment transformed into a premium indie magazine cover—funny, expressive, energetic, and completely unfiltered.
-
-Subject
-
-A trend-forward young woman occupies most of the frame, photographed from arm’s length using an ultra-wide smartphone lens. Her face dominates the composition with realistic fisheye distortion, creating exaggerated perspective around the nose, cheeks, lips, and forehead while maintaining natural facial proportions and believable realism.
-
-Wardrobe
-
-Oversized retro windbreaker
-Teal, cobalt blue, turquoise, and white color-block design
-Casual everyday styling
-Small layered necklaces
-Simple hoop earrings
-No luxury fashion appearance
-Authentic youth-culture street style
-
-Improved Pose
-
-Instead of a purely goofy face, create a more photogenic yet playful candid pose:
-
-One hand resting lightly beneath her chin
-Head tilted slightly toward camera
-Shoulder subtly raised toward face
-Relaxed posture as if joking with friends
-Direct engagement with the camera
-
-Expression
-
-Capture a playful split-second reaction:
-
-One eye closed in an exaggerated wink
-Slightly raised eyebrow on the opposite side
-Soft duck-face pout mixed with a playful smirk
-Cheeks slightly lifted
-Expression feels teasing, funny, and confident rather than awkward
-Natural candid energy, not influencer posing
-
-Camera & Composition
-
-Extreme close-up selfie
-Smartphone held at arm’s length
-Ultra-wide fisheye perspective
-Face occupies approximately 70–80% of frame
-Slight camera tilt for spontaneous energy
-Vertical magazine-cover composition
-Portrait remains the clear focal point
-
-Environment
-
-A vibrant outdoor market or festival scene beneath a striped canopy.
-
-Include:
-
-Teal and cream canopy fabric overhead
-Hanging lanterns
-String lights
-Support poles
-Blurred crowd activity
-Busy but authentic atmosphere
-Background slightly out of focus
-
-Doodle Layer
-
-Surround the portrait with playful marker-style illustrations:
-
-Oversized doodled crown above head
-White lightning bolts
-Hand-drawn stars
-Smiley faces
-Sparkles
-Squiggly energy lines
-Comic-style impact bursts
-Random circled details
-Rough arrows pointing toward expression
-
-Include handwritten notes:
-
-“WHAT WAS THAT?”
-“ZERO CHILL DETECTED”
-“LEGEND IN THE MAKING”
-“100% CHAOS”
-“NOT NORMAL”
-“ON MY OWN WAVE”
-
-Also include:
-
-Cartoon lizard riding a skateboard near one edge
-White sticker-like outlines around doodles
-
-Typography
-
-Imperfect handwritten marker lettering.
-
-Characteristics:
-
-Uneven sizes
-Different angles
-Natural marker texture
-Looks drawn directly onto a printed photograph
-Playful, spontaneous, and readable
-
-Lighting
-
-Strong direct smartphone flash.
-
-Features:
-
-Bright flash highlights
-Slightly overexposed hotspots
-Natural skin texture
-Visible pores and realistic detail
-Authentic social-media snapshot feel
-Mild digital grain
-High contrast
-Crisp focus on face
-
-Color Palette
-
-Teal canopy tones
-Turquoise accents
-Cobalt blue jacket
-Warm natural skin tones
-White doodle outlines
-Red handwritten annotations
-Yellow stars and highlights
-Orange accent doodles
-Sky-blue marker scribbles
-
-Style Keywords
-
-Hyper-realistic photography, viral selfie aesthetic, internet-core, meme-core editorial design, scrapbook collage, youth-culture zine, flash portrait photography, candid reaction image, indie magazine cover, chaotic social-media energy, authentic festival snapshot.
-
-Aspect Ratio: 3:4
-Quality: Ultra-detailed, photorealistic, editorial-grade, realistic smartphone flash photography.
-```
-
-</details>
-
-<a id="gpt-image-red-white-motivational-fashion-poster-triple-portrait"></a>
-### 红白配色励志时尚海报，同一人三种景别
-
-<a href="https://x.com/mehwishkiran07/status/2102714995427737651"><img src="../../previews/gpt-image-red-white-motivational-fashion-poster-triple-portrait.jpg" width="360"></a>
-
-以上传照片锁定身份，并用编号分别指定特写、半身、全身三种景别的位置，让同一人物在海报中分层而不显重复。每段文字都写明位置和字体风格，如单词用深红毛笔体、其余用深色小字，结尾再要求拼写正确。
-
-GPT Image 2.5 · 上传图改图 · 出处: [@mehwishkiran07 on X](https://x.com/mehwishkiran07/status/2102714995427737651) · 92 赞，统计于 2026-10-28
-
-[`fashion-poster`](tags.md#tag-fashion-poster) [`identity-reference`](tags.md#tag-identity-reference) [`typography`](tags.md#tag-typography) [`red-white`](tags.md#tag-red-white) [`triple-portrait`](tags.md#tag-triple-portrait)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-> Use the uploaded reference image as the primary identity reference. Preserve the subject’s exact facial identity, facial structure, skin tone, hairstyle, eyes, nose, lips, jawline, and overall likeness. Create a premium cinematic motivational fashion poster in a vertical 4:5 composition.
-
-The poster features the same person in three integrated appearances/scales:
-
-1. A huge close-up portrait occupying the upper-left and center background, showing the face in sharp detail with a confident, subtle smile and natural realistic skin texture.
-
-2. A large half/full upper-body portrait positioned on the right side, slightly behind the main subject, maintaining the exact same identity and hairstyle.
-
-3. A full-body fashion portrait in the center foreground, walking confidently toward the camera with both hands naturally placed in the trouser pockets.
-
-Create a luxury editorial fashion campaign aesthetic, cinematic photography, ultra-realistic skin texture, realistic hair strands, natural facial proportions, premium studio lighting, sharp focus, sophisticated confident expression.
-
-Outfit: elegant monochromatic white fashion outfit. For the female version, a tailored white blazer, fitted white top, high-waisted white trousers and clean white sneakers. For the male version, a perfectly tailored white blazer, open-collar white shirt, white trousers and clean white sneakers. Add a premium minimalist wristwatch.
-
-Background: dramatic white and deep crimson-red abstract paint splashes, energetic brush strokes, textured grunge effects, dark red metropolitan city skyline silhouettes emerging from the paint, cinematic reflections on a glossy wet floor, strong red atmospheric glow, high contrast between white and crimson.
-
-The composition should feel like a high-end fashion magazine cover mixed with a motivational movie poster. Layer the large portraits naturally into the background without looking duplicated or artificial. Maintain realistic depth, scale, perspective, shadows and lighting consistency across all three versions of the subject.
-
-Add elegant editorial typography integrated into the design:
-
-Top right: SAME
-DREAMS
-BIGGER
-MOVES
-
-Left side: DISCIPLINE
-CREATIVITY
-PROGRESS
-FREEDOM
-
-Large lower-left text:
-VISION
-
-Large handwritten brush-script text on lower-right:
-Better
-
-Under it: THAN
-YESTERDAY
-
-Bottom-left: A
-YOUNG
-MIND
-WITH
-A BIG
-VISION
-
-Bottom-right: GOOD
-IDEAS
-TAKE TIME
-
-Typography should be elegant, editorial, clean and perfectly aligned, with deep red brush lettering for “Better” and subtle black/dark typography for the smaller text.
-
-Overall style: ultra-photorealistic, cinematic, premium luxury fashion campaign, sophisticated editorial composition, dramatic red-and-white color palette, realistic photography, high detail, sharp facial features, natural skin pores, realistic hair, volumetric lighting, glossy reflections, professional art direction, 8K quality, highly polished commercial poster.
-
-Important: Keep the subject’s identity consistent across all three appearances. Do not change the face, age, ethnicity, facial proportions or recognizable features. No extra fingers, distorted hands, duplicated limbs, warped face, unnatural anatomy, blurry face, cartoon appearance or plastic skin. Ensure all typography is correctly spelled and readable.
-```
-
-</details>
-
-<a id="gpt-image-new-york-brooklyn-storybook-poster"></a>
-### 布鲁克林街头仰望发光 NEW YORK 字样的孩子
-
-<a href="https://x.com/Xaroon_x/status/2078485584717271512"><img src="../../previews/gpt-image-new-york-brooklyn-storybook-poster.jpg" width="360"></a>
-
-发光轮廓线与歪斜的手写标题营造童趣, 无需指定具体画风名称。明确全身构图与 3:4 竖版比例, 让画面可直接用作海报。
-
-GPT Image 2 · 文生图 · 出处: [@Xaroon_x on X](https://x.com/Xaroon_x/status/2078485584717271512) · 91 赞，统计于 2026-10-29
-
-[`storybook`](tags.md#tag-storybook) [`glowing-outline`](tags.md#tag-glowing-outline) [`children-illustration`](tags.md#tag-children-illustration) [`new-york`](tags.md#tag-new-york)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-A cute little child in a comfy taxi-yellow hoodie, denim shorts and white sneakers standing on a Brooklyn cobblestone street, looking up at the Brooklyn Bridge, minimalist children's drawing style, thick white lines, glowing contours. At the top of the poster, the city name "NEW YORK" hand-lettered in a cute rounded playful children's font, slightly wobbly like a child's handwriting, with thick glowing white strokes. The bridge's gothic arches and the Manhattan skyline drawn as simple, naive childlike shapes with luminous white outlines. The background is softly blurred with steel-blue and warm brick-red splashes, no architectural detail, only color patches. Floating elements like tiny yellow taxis, drifting pigeons, and small glowing stars add a whimsical touch. Full-body view, warm and simple aesthetic, vertical 3:4 poster.
-```
-
-</details>
-
-<a id="nano-banana-avant-mode-tech-overlay-couture-cover"></a>
-### 前卫白色高定男士与面部追踪界面叠加
-
-<a href="https://x.com/iamrealsnow/status/2052677376128196975"><img src="../../previews/nano-banana-avant-mode-tech-overlay-couture-cover.jpg" width="360"></a>
-
-在时尚肖像上叠加带追踪标签的界面层并加上醒目的刊头字，就成了杂志封面效果。把取景框、网格、条码和标题分别列为独立要素，输出时每个元素都能清楚呈现。
-
-Nano Banana 2 · 文生图 · 出处: [@iamrealsnow on X](https://x.com/iamrealsnow/status/2052677376128196975) · 88 赞，统计于 2026-10-29
-
-[`fashion`](tags.md#tag-fashion) [`editorial`](tags.md#tag-editorial) [`tech-overlay`](tags.md#tag-tech-overlay) [`magazine`](tags.md#tag-magazine)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-.
-Ultra-realistic fashion editorial portrait of a confident man in avant-garde white couture with dramatic structured shoulders, hands reaching toward camera (perspective distortion), intense gaze, long wind-blown messy hair, studio soft lighting, grey textured background, high contrast, Vogue-style.
-Add overlays: face detection box centered on face, thin white frame with corner handles, subtle grid, UI markers, cursor, tracking points, experimental tech overlay, magazine layout with bold text “AVANT MODE”, barcode. Ultra-sharp, cinematic lighting, 8K, professional fashion photography, --ar 3:4 --v 6 --style raw
-```
-
-</details>
-
-<a id="gpt-image-minimalist-ink-sketch-travel-poster"></a>
-### 地标极简钢笔速写旅行海报
-
-<a href="https://x.com/Naiknelofar788/status/2115000503151231060"><img src="../../previews/gpt-image-minimalist-ink-sketch-travel-poster.jpg" width="360"></a>
-
-用地标和目的地占位符让提示词可重复套用。细墨线搭配有限的粉彩色板、象牙白纸面上的干笔色块,并固定标题排版与分隔线。再用不要3D、不要多余文字等排除项保持画面干净。
-
-GPT Image 2.5 · 文生图 · 出处: [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2115000503151231060) · 87 赞，统计于 2026-10-28
-
-[`travel-poster`](tags.md#tag-travel-poster) [`ink-sketch`](tags.md#tag-ink-sketch) [`pastel`](tags.md#tag-pastel) [`minimalist`](tags.md#tag-minimalist) [`template`](tags.md#tag-template)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a beautiful, minimalist hand-drawn travel illustration of [LANDMARK / CITY / COUNTRY], inspired by Japanese architectural sketchbook art and contemporary minimalist travel posters.
-
-Illustration style:
-
-Fine black ink outlines with loose, expressive, imperfect hand-drawn strokes.
-Simplified architectural forms that preserve the destination’s most recognizable features.
-Soft, dry-brush pastel colour patches in the background, with a distressed, textured, almost crayon-like finish.
-A limited palette of muted sage green, dusty pink, pale blue, warm beige, and soft ochre.
-Warm ivory paper background with subtle natural paper grain.
-Delicate sketchy trees, tiny shrubs, birds, distant mountains, clouds, or other location-specific elements.
-Beautiful negative space and an airy, uncluttered composition.
-Artistic imperfections, uneven ink lines, and a handmade illustration aesthetic.
-
-Composition:
-Place the iconic landmark in the lower half of the image, drawn in elegant black ink. Add a few surrounding elements to create a small, atmospheric scene. Behind the architecture, incorporate abstract vertical or irregular pastel brushstrokes that add colour without overpowering the drawing.
-
-Typography:
-At the top, write the destination name in thin, spaced-out uppercase lettering: “[DESTINATION NAME]”. Place the country name directly underneath in smaller, elegant uppercase letters. Add a fine horizontal divider with tiny circular endpoints between the title and subtitle, if appropriate.
-
-Overall mood: Peaceful, poetic, artistic, minimalist, nostalgic, and sophisticated — like a page from a beautifully illustrated travel journal.
-
-Technical details: Square 1:1 composition, crisp fine-line drawing, restrained pastel colours, plenty of cream negative space, no photorealism, no 3D effects, no glossy finish, no heavy shadows, no clutter, and no extra text. Ensure the destination name is spelled correctly.
-```
-
-</details>
-
-**1** · [2](image-poster-2.md)
+**1** · [2](image-poster-2.md) · [3](image-poster-3.md)

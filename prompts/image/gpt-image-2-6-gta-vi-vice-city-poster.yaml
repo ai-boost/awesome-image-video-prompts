@@ -1,0 +1,81 @@
+id: gpt-image-2-6-gta-vi-vice-city-poster
+title:
+  en: Confident man in palm shirt on GTA VI poster
+  zh: 穿棕榈衬衫的男子，GTA VI海报风
+model: GPT Image 2.6
+mode: image-edit
+category: poster
+tags:
+- gta-vi
+- vice-city
+- poster
+- portrait
+source:
+  name: '@Goodmanprotocol on X'
+  url: https://x.com/Goodmanprotocol/status/2123829307579785405
+  credit: Saul Goodman
+  likes: 163
+  captured: '2026-11-24'
+  posted: '2026-11-20'
+notes:
+  en: Anchoring on the reference face and spelling out the poster layout (4:5 frame, stacked GTA VI logo, sunset palette, skyline and car) gives the model a full composition to fill. The instruction to keep typography away from the face stops the logo from covering the subject.
+  zh: 以参考照片的面部为锚定，并写明4:5画幅、堆叠式GTA VI标题、日落配色、天际线和跑车等版式要素，让模型有完整的构图可依。要求字体远离人脸，避免标题遮挡主体。
+prompt: |
+  GTA VI | BOLD VICE CITY CHARACTER POSTER
+
+  Transform the person in the uploaded reference photograph into a stunning Grand Theft Auto VI-inspired character poster, capturing the bold, glamorous, rebellious atmosphere of Vice City and the iconic Rockstar promotional artwork aesthetic.
+
+  1. SUBJECT & IDENTITY
+
+  Preserve the person's exact facial identity, facial structure, eyes, nose, lips, hairstyle, skin tone, and recognizable features. Maintain natural proportions and realistic anatomy. The person must remain immediately recognizable.
+
+  2. EXPRESSION & ATTITUDE
+
+  Give the subject a bold, fearless, confident personality.
+
+  - Intense, captivating eye contact with the camera.
+  - Slightly raised chin and a powerful expression.
+  - Effortless charisma with a hint of rebellious attitude.
+  - No innocent smiles, shy expressions, or overly cute poses.
+
+  3. FASHION & POSE
+
+  Choose stylish, luxury Miami-inspired clothing such as a premium open-collar shirt, elegant summer outfit, or fashionable streetwear. Add subtle statement accessories where appropriate. Use a confident, natural pose with slightly angled shoulders, expressive body language, and naturally flowing hair.
+
+  4. VICE CITY ENVIRONMENT
+
+  Create a vibrant Miami-inspired nighttime or sunset background featuring:
+
+  - Tropical palm trees and illuminated skyscrapers.
+  - A spectacular pink, purple, and orange sunset.
+  - Neon-lit streets and glowing Vice City signs.
+  - Luxury sports cars with glossy reflections.
+  - A helicopter flying across the skyline.
+  - A glamorous tropical nightlife atmosphere.
+
+  5. ART STYLE & LIGHTING
+
+  Use a premium GTA VI-inspired digital illustration style, combining stylized realism with highly detailed painterly rendering. Add dramatic magenta and purple lighting, warm sunset highlights, deep cinematic shadows, realistic skin textures, and beautiful reflections.
+
+  The artwork should resemble high-end video-game promotional art, not generic anime or an ordinary photograph with a filter.
+
+  6. GTA VI POSTER DESIGN
+
+  Integrate prominent GRAND THEFT AUTO VI typography:
+
+  - Recognizable stacked GTA-style lettering.
+  - Large VI with a vibrant pink-purple gradient.
+  - Bold white lettering with dark outlines.
+  - Small Rockstar-inspired yellow star emblem.
+  - Keep typography sharp, balanced, and away from the subject's face.
+
+  7. FINAL OUTPUT
+
+  - Portrait 4:5 aspect ratio.
+  - Ultra-detailed, high-resolution artwork.
+  - Bold cinematic composition.
+  - Vibrant Vice City color palette.
+  - Realistic facial identity and anatomy.
+  - No watermarks, random text, distorted hands, or unwanted artifacts.
+
+  FINAL CREATIVE DIRECTION: The subject should look like the main protagonist of GTA VI — powerful, mysterious, glamorous, fearless, and effortlessly stylish. Combine Rockstar-inspired promotional artwork, luxury Miami fashion, and the rebellious attitude of Vice City into one unforgettable character poster.

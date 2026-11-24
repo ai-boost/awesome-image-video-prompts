@@ -1,0 +1,37 @@
+id: seedance-station-snatch-gameplay-hud
+title:
+  en: Gameplay style walk toward commuter at rural Japanese station
+  zh: 游戏风格：女主角走向乡村车站上的通勤者
+model: Seedance 2.5
+mode: reference-to-video
+category: action
+tags:
+- gameplay
+- game-hud
+- character-consistency
+- japanese-countryside
+source:
+  name: '@AIwithkhan on X'
+  url: https://x.com/AIwithkhan/status/2099464101525393596
+  credit: AIwithkhan
+  captured: '2026-11-24'
+  posted: '2026-09-14'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithkhan/status/2099464101525393596
+notes:
+  en: The prompt pins the character with a reference image and repeats her hair, skirt and sneakers to hold her look across the chase. Named HUD events plus a third person gameplay camera with motion blur and camera shake set the game look.
+  zh: 提示词用参考图锁定角色，并重复发型、裙子和白鞋等细节，让她在整段追逐中保持一致。带编号的 HUD 事件文字，加上第三人称游戏镜头、运动模糊和镜头晃动，共同营造游戏画面感。
+prompt: |
+  Create a 30-second ultra-realistic AAA third-person open-world gameplay video set in a beautiful rural Japanese town. Use the attached image only as the reference for the young Korean female character; keep her face, long straight black hair, long flowing skirt, white sneakers, and appearance consistent.
+
+  She walks toward a rural train station, notices a commuter's suitcase, and a “△ TAKE” prompt appears. She grabs it, triggering “SUITCASE STOLEN” → “+30 POINTS” → “ALARM RAISED” → “WANTED ★” → “OBJECTIVE: ESCAPE.” She runs away, drops the heavy suitcase (“ITEM DROPPED”), then enters a convenience store and steals a packaged snack: “SNACK STOLEN” → “+20 POINTS” → “ALARM RAISED.”
+
+  She escapes the store, knocks over empty delivery cartons (“CHAOS +20”), narrowly avoids a delivery truck (“NEAR MISS +15”), and continues through the village while the commuter chases her. She reaches a pedestrian bridge over a river as the detection meter changes “DETECTION 68%” → “DETECTION 32%” → “DETECTION 0%.” The wanted level clears: “WANTED LEVEL CLEARED” → “+100 ESCAPE BONUS.”
+
+  She sits by the river, eats the snack, and calmly looks toward the mountains. Finish with “MISSION COMPLETE”, “STATION SNATCH”, “TOTAL SCORE: 185”, “CHAOS BONUS +50.”
+
+  Use an authentic third-person gameplay camera, realistic physics, NPC reactions, natural motion blur, subtle camera shake, detailed Japanese countryside, realistic lighting and AAA game-engine graphics.
+
+  HUD must be minimal and event-based. English text only, exact spelling, no gibberish.
+
+  Negative: anime, cartoon, animation, illustration, mobile-game graphics, CGI look, cinematic movie shots, excessive violence, gore, distorted anatomy, duplicated characters, changing face/outfit, random text, subtitles, watermark, excessive HUD.

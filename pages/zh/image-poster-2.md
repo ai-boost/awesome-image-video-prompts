@@ -1,6 +1,495 @@
 # 海报与编辑排版
 
-[返回目录](../../README_zh.md) · 全部 215 条 · [1](image-poster.md) · **2**
+[返回目录](../../README_zh.md) · 全部 222 条 · [1](image-poster.md) · **2** · [3](image-poster-3.md)
+
+<a id="gpt-image-money-heist-particle-cast-poster"></a>
+### 《纸钞屋》主演化为白色粒子肖像
+
+<a href="https://x.com/frametheory058/status/2062366259908575596"><img src="../../previews/gpt-image-money-heist-particle-cast-poster.jpg" width="360"></a>
+
+提示词先指定渲染引擎和点云质感，再把色彩限定为黑色、白色与少量橙色点缀，画面保持单色。左右两侧的细等宽文字只作次要元素，不抢粒子人像的主体。
+
+GPT Image 2 · 上传图改图 · 出处: [@frametheory058 on X](https://x.com/frametheory058/status/2062366259908575596) · 103 赞，统计于 2026-10-29
+
+[`particle-art`](tags.md#tag-particle-art) [`monochrome`](tags.md#tag-monochrome) [`poster`](tags.md#tag-poster) [`fan-art`](tags.md#tag-fan-art)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Transform the uploaded image into a high-contrast monochrome particle-render aesthetic. Subject reconstructed entirely from thousands of tiny glowing white dots and voxel-like particles on a pure black background. Use point-cloud dispersion, volumetric particles, halftone density gradients, and scattered noise trails to define the silhouette. Preserve the original subject composition and pose, but simplify details into clean geometric forms. Style should feel like futuristic AI architecture visualization mixed with experimental generative art.  Visual characteristics:  black background only  white particle clusters forming the subject  subtle floating debris and dissolving particles around edges  sparse orange/red accent particles (very minimal)  cinematic negative space  ultra minimal  soft bloom glow on dense particle areas  depth created through particle density  abstract but recognizable silhouette  no realistic textures  no colors besides black, white, and tiny orange accents  brutalist futuristic design aesthetic  clean composition  vertical poster layout  slight voxel / point-cloud rendering effect  high contrast  generative AI art style  experimental architecture visualization aesthetic  Typography treatment: small thin mono-space typography placed minimally on left and right sides, similar to futuristic design posters, white text only, subtle and secondary to the artwork  Rendering style: octane render, point cloud simulation, particle system render, volumetric dispersion, procedural dots, cinematic lighting, ultra detailed, abstract minimalism  Negative prompt: realistic shading, painterly textures, colorful backgrounds, low contrast, photorealism, messy composition, extra objects, blur, noisy artifacts, low resolution
+```
+
+</details>
+
+<a id="nano-banana-monochrome-tech-product-promo-poster"></a>
+### 单色耳机宣传海报与背景巨型字
+
+<a href="https://x.com/Sheldon056/status/2074697587756806354"><img src="../../previews/nano-banana-monochrome-tech-product-promo-poster.jpg" width="360"></a>
+
+用风格、主体、版式、字体、光影、配色等分区标题拆解需求，并用方括号占位符表示品牌、产品和颜色，方便复用。产品后方放置被裁切的超大背景文字，再让立体主体悬浮其上，形成层次感。
+
+Nano Banana 2 · 文生图 · 出处: [@Sheldon056 on X](https://x.com/Sheldon056/status/2074697587756806354) · 102 赞，统计于 2026-10-29
+
+[`tech-poster`](tags.md#tag-tech-poster) [`product-render`](tags.md#tag-product-render) [`monochrome`](tags.md#tag-monochrome) [`typography`](tags.md#tag-typography) [`social-media`](tags.md#tag-social-media)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Nano Banana 2 on Gemini
+
+Prompt: Create a premium modern tech product promotional social media poster for [BRAND NAME].
+
+TOPIC:
+[PRODUCT NAME]
+
+STYLE & ART DIRECTION:
+
+Modern futuristic tech advertising design
+
+Minimal premium commercial poster aesthetic
+
+Monochromatic color branding
+
+Clean geometric composition
+
+High-end electronic product advertisement
+
+Soft abstract background elements
+
+Instagram and Behance-quality tech campaign style
+
+MAIN SUBJECT:
+
+A large realistic 3D render of [PRODUCT]
+
+Product centered prominently as the hero element
+
+High-detail premium material textures
+
+Soft reflective surfaces
+
+Product slightly floating above the background
+
+Realistic studio product rendering
+
+Strong focus on curves, materials, and lighting
+
+LAYOUT & COMPOSITION:
+
+Centralized symmetrical composition
+
+Giant background typography behind the product
+
+Large cropped bold text integrated into the background
+
+Minimal clean layout with spacious negative space
+
+Simple CTA button at the bottom center
+
+Small social/contact information aligned at the bottom
+
+Abstract geometric overlays in the corners
+
+TEXT & TYPOGRAPHY:
+
+Bold futuristic typography
+
+Large oversized background text
+
+Minimal modern sans-serif fonts
+
+Clean premium branding style
+
+Short high-impact promotional wording
+
+DEPTH & LIGHTING:
+
+Soft cinematic studio lighting
+
+Ambient shadows beneath the product
+
+Smooth reflective highlights
+
+Subtle glow around edges
+
+Premium product render depth
+
+Clean soft shadow gradients
+
+EXTRA DESIGN DETAILS:
+
+Transparent geometric overlays
+
+Rounded modern shapes
+
+Minimal UI-inspired elements
+
+Soft gradients
+
+Futuristic visual identity
+
+Elegant commercial balance
+
+COLOR PALETTE:
+
+[PRIMARY COLOR]
+
+Tonal monochromatic shades
+
+Soft highlights and shadows
+
+White typography accents
+
+QUALITY:
+
+Ultra realistic
+
+High-end product advertisement
+
+Behance-quality composition
+
+Premium studio render quality
+
+Ultra high resolution
+```
+
+</details>
+
+<a id="nano-banana-landmark-photo-geometric-split-poster"></a>
+### 上方地标实拍,下方几何插画的双联海报
+
+<a href="https://www.reddit.com/r/GeminiAI/comments/1x97v1p/turn_landmark_photos_into_geometric_architecture"><img src="../../previews/nano-banana-landmark-photo-geometric-split-poster.jpg" width="360"></a>
+
+画面严格对半分割,上半保留真实照片,下半用少量大色块重绘。跨分界线对齐塔楼和屋顶线,让两半都能认出同一座地标。
+
+Nano Banana 2.1 · 上传图改图 · 出处: [u/Few-Profession421 on Reddit](https://www.reddit.com/r/GeminiAI/comments/1x97v1p/turn_landmark_photos_into_geometric_architecture) · 101 赞，统计于 2026-10-28
+
+[`landmark`](tags.md#tag-landmark) [`split-poster`](tags.md#tag-split-poster) [`geometric`](tags.md#tag-geometric) [`screen-print`](tags.md#tag-screen-print) [`photo-to-illustration`](tags.md#tag-photo-to-illustration)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Using the uploaded photograph of [LANDMARK], [CITY], [COUNTRY], create one premium 3:4 vertical editorial poster.
+Divide the canvas into two exactly equal horizontal halves with a straight central boundary.
+Top 50% — Photography
+Preserve the landmark’s identity, proportions, materials, perspective, surroundings, and natural lighting. Apply restrained editorial color grading. Extend the environment only if necessary; never stretch, distort, or redesign the building.
+Bottom 50% — Geometric illustration
+Reinterpret the same landmark using a few large, cohesive rectangles, circles, triangles, arches, and layered planes. Preserve its distinctive silhouette and structural rhythm. Avoid tiny fragments and generic building symbols.
+Use a restrained palette drawn from the photograph, with subtle paper grain, matte surfaces, and delicate screen-print texture.
+Keep the viewing angle consistent between both halves. Where possible, align signature towers, rooflines, or dominant verticals across the division. Balance the composition with generous negative space.
+No text, numbers, logos, watermarks, borders, added flags, unrelated landmarks, or multiple-photo collages. Output one complete standalone poster.
+```
+
+</details>
+
+<a id="gpt-image-fisheye-wink-canopy-selfie-doodles"></a>
+### 鱼眼广角自拍，条纹遮阳棚下眨眼的涂鸦海报
+
+<a href="https://x.com/j_smeaton99/status/2061275461817450870"><img src="../../previews/gpt-image-fisheye-wink-canopy-selfie-doodles.jpg" width="360"></a>
+
+将镜头设定为手臂伸直的超广角鱼眼自拍，并配合闪光、颗粒感和指定姿势，让画面更像真实快照；逐条列出的手写短语则让涂鸦文字清晰可读。
+
+GPT Image 2 · 文生图 · 出处: [@j_smeaton99 on X](https://x.com/j_smeaton99/status/2061275461817450870) · 95 赞，统计于 2026-10-29
+
+[`fisheye`](tags.md#tag-fisheye) [`selfie`](tags.md#tag-selfie) [`doodles`](tags.md#tag-doodles) [`magazine-cover`](tags.md#tag-magazine-cover)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a hyper-realistic internet-culture editorial poster inspired by chaotic festival selfies, scrapbook doodles, candid flash photography, and modern meme culture.
+
+Main Concept
+
+An absurdly close fisheye-style smartphone selfie of a stylish young woman beneath a colorful outdoor market canopy. The image should feel like a spontaneous viral moment transformed into a premium indie magazine cover—funny, expressive, energetic, and completely unfiltered.
+
+Subject
+
+A trend-forward young woman occupies most of the frame, photographed from arm’s length using an ultra-wide smartphone lens. Her face dominates the composition with realistic fisheye distortion, creating exaggerated perspective around the nose, cheeks, lips, and forehead while maintaining natural facial proportions and believable realism.
+
+Wardrobe
+
+Oversized retro windbreaker
+Teal, cobalt blue, turquoise, and white color-block design
+Casual everyday styling
+Small layered necklaces
+Simple hoop earrings
+No luxury fashion appearance
+Authentic youth-culture street style
+
+Improved Pose
+
+Instead of a purely goofy face, create a more photogenic yet playful candid pose:
+
+One hand resting lightly beneath her chin
+Head tilted slightly toward camera
+Shoulder subtly raised toward face
+Relaxed posture as if joking with friends
+Direct engagement with the camera
+
+Expression
+
+Capture a playful split-second reaction:
+
+One eye closed in an exaggerated wink
+Slightly raised eyebrow on the opposite side
+Soft duck-face pout mixed with a playful smirk
+Cheeks slightly lifted
+Expression feels teasing, funny, and confident rather than awkward
+Natural candid energy, not influencer posing
+
+Camera & Composition
+
+Extreme close-up selfie
+Smartphone held at arm’s length
+Ultra-wide fisheye perspective
+Face occupies approximately 70–80% of frame
+Slight camera tilt for spontaneous energy
+Vertical magazine-cover composition
+Portrait remains the clear focal point
+
+Environment
+
+A vibrant outdoor market or festival scene beneath a striped canopy.
+
+Include:
+
+Teal and cream canopy fabric overhead
+Hanging lanterns
+String lights
+Support poles
+Blurred crowd activity
+Busy but authentic atmosphere
+Background slightly out of focus
+
+Doodle Layer
+
+Surround the portrait with playful marker-style illustrations:
+
+Oversized doodled crown above head
+White lightning bolts
+Hand-drawn stars
+Smiley faces
+Sparkles
+Squiggly energy lines
+Comic-style impact bursts
+Random circled details
+Rough arrows pointing toward expression
+
+Include handwritten notes:
+
+“WHAT WAS THAT?”
+“ZERO CHILL DETECTED”
+“LEGEND IN THE MAKING”
+“100% CHAOS”
+“NOT NORMAL”
+“ON MY OWN WAVE”
+
+Also include:
+
+Cartoon lizard riding a skateboard near one edge
+White sticker-like outlines around doodles
+
+Typography
+
+Imperfect handwritten marker lettering.
+
+Characteristics:
+
+Uneven sizes
+Different angles
+Natural marker texture
+Looks drawn directly onto a printed photograph
+Playful, spontaneous, and readable
+
+Lighting
+
+Strong direct smartphone flash.
+
+Features:
+
+Bright flash highlights
+Slightly overexposed hotspots
+Natural skin texture
+Visible pores and realistic detail
+Authentic social-media snapshot feel
+Mild digital grain
+High contrast
+Crisp focus on face
+
+Color Palette
+
+Teal canopy tones
+Turquoise accents
+Cobalt blue jacket
+Warm natural skin tones
+White doodle outlines
+Red handwritten annotations
+Yellow stars and highlights
+Orange accent doodles
+Sky-blue marker scribbles
+
+Style Keywords
+
+Hyper-realistic photography, viral selfie aesthetic, internet-core, meme-core editorial design, scrapbook collage, youth-culture zine, flash portrait photography, candid reaction image, indie magazine cover, chaotic social-media energy, authentic festival snapshot.
+
+Aspect Ratio: 3:4
+Quality: Ultra-detailed, photorealistic, editorial-grade, realistic smartphone flash photography.
+```
+
+</details>
+
+<a id="gpt-image-red-white-motivational-fashion-poster-triple-portrait"></a>
+### 红白配色励志时尚海报，同一人三种景别
+
+<a href="https://x.com/mehwishkiran07/status/2102714995427737651"><img src="../../previews/gpt-image-red-white-motivational-fashion-poster-triple-portrait.jpg" width="360"></a>
+
+以上传照片锁定身份，并用编号分别指定特写、半身、全身三种景别的位置，让同一人物在海报中分层而不显重复。每段文字都写明位置和字体风格，如单词用深红毛笔体、其余用深色小字，结尾再要求拼写正确。
+
+GPT Image 2.5 · 上传图改图 · 出处: [@mehwishkiran07 on X](https://x.com/mehwishkiran07/status/2102714995427737651) · 92 赞，统计于 2026-10-28
+
+[`fashion-poster`](tags.md#tag-fashion-poster) [`identity-reference`](tags.md#tag-identity-reference) [`typography`](tags.md#tag-typography) [`red-white`](tags.md#tag-red-white) [`triple-portrait`](tags.md#tag-triple-portrait)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+> Use the uploaded reference image as the primary identity reference. Preserve the subject’s exact facial identity, facial structure, skin tone, hairstyle, eyes, nose, lips, jawline, and overall likeness. Create a premium cinematic motivational fashion poster in a vertical 4:5 composition.
+
+The poster features the same person in three integrated appearances/scales:
+
+1. A huge close-up portrait occupying the upper-left and center background, showing the face in sharp detail with a confident, subtle smile and natural realistic skin texture.
+
+2. A large half/full upper-body portrait positioned on the right side, slightly behind the main subject, maintaining the exact same identity and hairstyle.
+
+3. A full-body fashion portrait in the center foreground, walking confidently toward the camera with both hands naturally placed in the trouser pockets.
+
+Create a luxury editorial fashion campaign aesthetic, cinematic photography, ultra-realistic skin texture, realistic hair strands, natural facial proportions, premium studio lighting, sharp focus, sophisticated confident expression.
+
+Outfit: elegant monochromatic white fashion outfit. For the female version, a tailored white blazer, fitted white top, high-waisted white trousers and clean white sneakers. For the male version, a perfectly tailored white blazer, open-collar white shirt, white trousers and clean white sneakers. Add a premium minimalist wristwatch.
+
+Background: dramatic white and deep crimson-red abstract paint splashes, energetic brush strokes, textured grunge effects, dark red metropolitan city skyline silhouettes emerging from the paint, cinematic reflections on a glossy wet floor, strong red atmospheric glow, high contrast between white and crimson.
+
+The composition should feel like a high-end fashion magazine cover mixed with a motivational movie poster. Layer the large portraits naturally into the background without looking duplicated or artificial. Maintain realistic depth, scale, perspective, shadows and lighting consistency across all three versions of the subject.
+
+Add elegant editorial typography integrated into the design:
+
+Top right: SAME
+DREAMS
+BIGGER
+MOVES
+
+Left side: DISCIPLINE
+CREATIVITY
+PROGRESS
+FREEDOM
+
+Large lower-left text:
+VISION
+
+Large handwritten brush-script text on lower-right:
+Better
+
+Under it: THAN
+YESTERDAY
+
+Bottom-left: A
+YOUNG
+MIND
+WITH
+A BIG
+VISION
+
+Bottom-right: GOOD
+IDEAS
+TAKE TIME
+
+Typography should be elegant, editorial, clean and perfectly aligned, with deep red brush lettering for “Better” and subtle black/dark typography for the smaller text.
+
+Overall style: ultra-photorealistic, cinematic, premium luxury fashion campaign, sophisticated editorial composition, dramatic red-and-white color palette, realistic photography, high detail, sharp facial features, natural skin pores, realistic hair, volumetric lighting, glossy reflections, professional art direction, 8K quality, highly polished commercial poster.
+
+Important: Keep the subject’s identity consistent across all three appearances. Do not change the face, age, ethnicity, facial proportions or recognizable features. No extra fingers, distorted hands, duplicated limbs, warped face, unnatural anatomy, blurry face, cartoon appearance or plastic skin. Ensure all typography is correctly spelled and readable.
+```
+
+</details>
+
+<a id="gpt-image-new-york-brooklyn-storybook-poster"></a>
+### 布鲁克林街头仰望发光 NEW YORK 字样的孩子
+
+<a href="https://x.com/Xaroon_x/status/2078485584717271512"><img src="../../previews/gpt-image-new-york-brooklyn-storybook-poster.jpg" width="360"></a>
+
+发光轮廓线与歪斜的手写标题营造童趣, 无需指定具体画风名称。明确全身构图与 3:4 竖版比例, 让画面可直接用作海报。
+
+GPT Image 2 · 文生图 · 出处: [@Xaroon_x on X](https://x.com/Xaroon_x/status/2078485584717271512) · 91 赞，统计于 2026-10-29
+
+[`storybook`](tags.md#tag-storybook) [`glowing-outline`](tags.md#tag-glowing-outline) [`children-illustration`](tags.md#tag-children-illustration) [`new-york`](tags.md#tag-new-york)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A cute little child in a comfy taxi-yellow hoodie, denim shorts and white sneakers standing on a Brooklyn cobblestone street, looking up at the Brooklyn Bridge, minimalist children's drawing style, thick white lines, glowing contours. At the top of the poster, the city name "NEW YORK" hand-lettered in a cute rounded playful children's font, slightly wobbly like a child's handwriting, with thick glowing white strokes. The bridge's gothic arches and the Manhattan skyline drawn as simple, naive childlike shapes with luminous white outlines. The background is softly blurred with steel-blue and warm brick-red splashes, no architectural detail, only color patches. Floating elements like tiny yellow taxis, drifting pigeons, and small glowing stars add a whimsical touch. Full-body view, warm and simple aesthetic, vertical 3:4 poster.
+```
+
+</details>
+
+<a id="nano-banana-avant-mode-tech-overlay-couture-cover"></a>
+### 前卫白色高定男士与面部追踪界面叠加
+
+<a href="https://x.com/iamrealsnow/status/2052677376128196975"><img src="../../previews/nano-banana-avant-mode-tech-overlay-couture-cover.jpg" width="360"></a>
+
+在时尚肖像上叠加带追踪标签的界面层并加上醒目的刊头字，就成了杂志封面效果。把取景框、网格、条码和标题分别列为独立要素，输出时每个元素都能清楚呈现。
+
+Nano Banana 2 · 文生图 · 出处: [@iamrealsnow on X](https://x.com/iamrealsnow/status/2052677376128196975) · 88 赞，统计于 2026-10-29
+
+[`fashion`](tags.md#tag-fashion) [`editorial`](tags.md#tag-editorial) [`tech-overlay`](tags.md#tag-tech-overlay) [`magazine`](tags.md#tag-magazine)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+.
+Ultra-realistic fashion editorial portrait of a confident man in avant-garde white couture with dramatic structured shoulders, hands reaching toward camera (perspective distortion), intense gaze, long wind-blown messy hair, studio soft lighting, grey textured background, high contrast, Vogue-style.
+Add overlays: face detection box centered on face, thin white frame with corner handles, subtle grid, UI markers, cursor, tracking points, experimental tech overlay, magazine layout with bold text “AVANT MODE”, barcode. Ultra-sharp, cinematic lighting, 8K, professional fashion photography, --ar 3:4 --v 6 --style raw
+```
+
+</details>
+
+<a id="gpt-image-minimalist-ink-sketch-travel-poster"></a>
+### 地标极简钢笔速写旅行海报
+
+<a href="https://x.com/Naiknelofar788/status/2115000503151231060"><img src="../../previews/gpt-image-minimalist-ink-sketch-travel-poster.jpg" width="360"></a>
+
+用地标和目的地占位符让提示词可重复套用。细墨线搭配有限的粉彩色板、象牙白纸面上的干笔色块,并固定标题排版与分隔线。再用不要3D、不要多余文字等排除项保持画面干净。
+
+GPT Image 2.5 · 文生图 · 出处: [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2115000503151231060) · 87 赞，统计于 2026-10-28
+
+[`travel-poster`](tags.md#tag-travel-poster) [`ink-sketch`](tags.md#tag-ink-sketch) [`pastel`](tags.md#tag-pastel) [`minimalist`](tags.md#tag-minimalist) [`template`](tags.md#tag-template)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a beautiful, minimalist hand-drawn travel illustration of [LANDMARK / CITY / COUNTRY], inspired by Japanese architectural sketchbook art and contemporary minimalist travel posters.
+
+Illustration style:
+
+Fine black ink outlines with loose, expressive, imperfect hand-drawn strokes.
+Simplified architectural forms that preserve the destination’s most recognizable features.
+Soft, dry-brush pastel colour patches in the background, with a distressed, textured, almost crayon-like finish.
+A limited palette of muted sage green, dusty pink, pale blue, warm beige, and soft ochre.
+Warm ivory paper background with subtle natural paper grain.
+Delicate sketchy trees, tiny shrubs, birds, distant mountains, clouds, or other location-specific elements.
+Beautiful negative space and an airy, uncluttered composition.
+Artistic imperfections, uneven ink lines, and a handmade illustration aesthetic.
+
+Composition:
+Place the iconic landmark in the lower half of the image, drawn in elegant black ink. Add a few surrounding elements to create a small, atmospheric scene. Behind the architecture, incorporate abstract vertical or irregular pastel brushstrokes that add colour without overpowering the drawing.
+
+Typography:
+At the top, write the destination name in thin, spaced-out uppercase lettering: “[DESTINATION NAME]”. Place the country name directly underneath in smaller, elegant uppercase letters. Add a fine horizontal divider with tiny circular endpoints between the title and subtitle, if appropriate.
+
+Overall mood: Peaceful, poetic, artistic, minimalist, nostalgic, and sophisticated — like a page from a beautifully illustrated travel journal.
+
+Technical details: Square 1:1 composition, crisp fine-line drawing, restrained pastel colours, plenty of cream negative space, no photorealism, no 3D effects, no glossy finish, no heavy shadows, no clutter, and no extra text. Ensure the destination name is spelled correctly.
+```
+
+</details>
 
 <a id="gpt-image-prime-hydration-luxury-editorial-poster"></a>
 ### 黑色影棚海报，运动员手持青柠色PRIME饮料瓶
@@ -1402,6 +1891,77 @@ Composition: perfectly centered, square 1080×1080, ultra-clean festive diorama 
 
 </details>
 
+<a id="gpt-image-2-6-concrete-light-character-poster"></a>
+### 混凝土空间里的光，勾出一个巨大的汉字
+
+<a href="https://x.com/MrLarus/status/2125257923131773007"><img src="../../previews/gpt-image-2-6-concrete-light-character-poster.jpg" width="360"></a>
+
+提示词先定整体构图，再让建筑本身镂空成汉字，使光影与墙体共同构成字形，而不是把文字叠在图上。主题、主色和版式留作填空位，同一套艺术指导可以反复套用到不同展览。
+
+GPT Image 2.6 · 文生图 · 出处: [@MrLarus on X](https://x.com/MrLarus/status/2125257923131773007) · 27 赞，统计于 2026-11-24
+
+[`poster`](tags.md#tag-poster) [`typography`](tags.md#tag-typography) [`architecture`](tags.md#tag-architecture) [`light-shadow`](tags.md#tag-light-shadow)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+创作一张具有专业设计工作室水准的东方文化实验性艺术海报。
+
+【展览主题】：____
+【中文主标题】：____
+【英文主标题】：____
+【核心视觉对象】：____
+【视觉创意】：____
+【主色调】：____
+【展览日期及机构】：____
+【策展说明】：____
+【画幅比例】：9:16
+
+一、整体美学与设计语言
+
+融合 Experimental Typography、Expressive Editorial Design、Contemporary Chinese Graphic Design 与高级艺术出版物美学，兼具东方文化气质、现代字体实验性和强烈的艺术表现力。
+
+以艺术化构图为最高优先级，打破传统海报的区块化布局。先建立具有视觉冲击力的整体构图，再将字体、主体、图形和展览信息自然融入其中，而不是按照固定模板填充内容。
+
+二、核心视觉与字体设计
+
+根据主题选择具有代表性的艺术对象，采用真实摄影、艺术绘画或具有物理可信度的立体表现，突出主体的材质、形态、光影与空间层次。
+
+中文标题采用超大尺度的实验性字体，可使用现代高对比宋体、几何字形、狂草书法或空间立体字形。通过极端尺度对比、局部裁切、错位叠压、负空间与透视关系，让文字成为构图本身。
+
+让主体与字体产生具有创意的结构关系，例如建筑镂空构成汉字、舞者动作延续书法笔势、织锦穿越文字结构、飞鸟羽翼与字形交错。避免简单的图文叠加，强调真实的空间互动与视觉融合。
+
+三、实验性艺术编排
+
+采用大胆的非对称构图、开放式网格和富有方向感的视觉动势。根据主题选择对角线、回旋、纵向延伸、空间透视或负空间构图，形成独特的视觉节奏。
+
+搭配优雅的英文衬线字体，灵活运用旋转、断行、错位、纵向排列与边缘裁切。让中英文、数字和主体轮廓形成丰富的尺度、方向与疏密对比。
+
+允许局部文字高度密集，其他区域保持自然留白。网格隐藏于构图秩序之中，而不是直接表现为规则的信息框。
+
+四、信息密度与自由布局
+
+保留展览日期、策展机构、主题说明、中英文短文及必要的专业注释，但不设置固定的信息区域。让文字沿主体轮廓、字体笔画、运动轨迹和自然负空间错落分布，使信息本身参与艺术构图。
+
+信息丰富但不区块化，复杂但不杂乱。避免机械的顶部标题、中部主体、底部信息栏结构，以及标准化页眉页脚、矩形信息框、固定分栏和过多装饰性细线。
+
+五、色彩与材质
+
+采用成熟、克制而富有对比的艺术配色，突出主体真实的材质特征、自然光影、细腻纹理与高级印刷质感。保持色面饱满干净，细节丰富而有秩序，避免廉价 CGI、随机做旧、过度发光与无意义装饰。
+
+六、最终呈现
+
+不同主题保持统一的艺术指导、实验性字体美学、真实材质与精密中英混排，但每张作品必须拥有独立的构图逻辑与视觉创意。
+
+输出高分辨率的完整艺术海报，远看具有强烈的视觉冲击，近看具有丰富的材质细节、准确的文字和精妙的艺术化排版。
+
+避免模板化布局、过度极简、乱码文字、错误字形和无意义的信息堆砌。
+
+让海报不仅是传达展览信息的媒介，更是一件本身就值得被展览的实验性平面设计作品。
+```
+
+</details>
+
 <a id="gpt-image-move-breakdance-poster"></a>
 ### 霹雳舞者穿插于巨型 MOVE 字母之间
 
@@ -2260,6 +2820,73 @@ The image should feel handmade, like carefully assembled colored paper and gouac
 Typography at top left: **« GRENADYE 2026 »** in uppercase geometric sans-serif font, with wide letter spacing, in solid white. Below: **« Ayiti · Haiti »** and **« Jacmel · Port-au-Prince · Cap-Haïtien »** in smaller size, matching white, with airy spacing.
 
 Avoid: photorealism, official FIFA logos, team logos, readable brand signage, overly realistic trophy, overly detailed buildings, heavy outlines, sloppy painting, neon cyberpunk style, dark lighting, excessive gradients, overly busy scene, watermarks, separate postcard-style panels, or a trophy that seems simply pasted onto the image.
+```
+
+</details>
+
+<a id="gpt-image-2-6-kanji-flowers-birds-exhibition-poster"></a>
+### 带仙鹤与巨型汉字的日本艺术展海报
+
+<a href="https://x.com/MrLarus/status/2125241180086763976"><img src="../../previews/gpt-image-2-6-kanji-flowers-birds-exhibition-poster.jpg" width="360"></a>
+
+固定的分段结构（展览主题、中日文标题、配色、展览信息）让模型像填写完整的美术馆海报一样输出。提到浮世绘、琳派和传统颜料色板统一了画风；要求汉字超出画面边缘，使文字比插画更突出。
+
+GPT Image 2.6 · 文生图 · 出处: [@MrLarus on X](https://x.com/MrLarus/status/2125241180086763976) · 9 赞，统计于 2026-11-24
+
+[`japanese-art`](tags.md#tag-japanese-art) [`kanji-typography`](tags.md#tag-kanji-typography) [`exhibition-poster`](tags.md#tag-exhibition-poster) [`traditional-painting`](tags.md#tag-traditional-painting)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+【Exhibition Theme】:
+【Japanese Title】:
+【English Title】:
+【Main Artwork】:
+【Color Palette】:
+【Exhibition Details】:
+【Aspect Ratio】: 9:16
+
+Create a sophisticated Japanese art exhibition poster that combines traditional Japanese painting with contemporary editorial graphic design.
+
+Art Direction
+
+Draw inspiration from ukiyo-e woodblock prints, Rinpa decorative paintings, classical Japanese scrolls and traditional calligraphy. Select the artistic technique most appropriate to the exhibition theme.
+
+Combine intricate classical artwork with bold typography, asymmetrical composition, dramatic scale contrasts and refined museum exhibition layouts.
+
+Composition & Typography
+
+Use oversized Japanese Kanji as a dominant visual element, featuring expressive brush calligraphy or elegant Mincho-style typography.
+
+Integrate the artwork directly into the typography through overlapping, masking, framing, negative space and layered composition. Allow selected characters to extend beyond the poster edges while maintaining readability.
+
+Combine vertical Japanese typography with elegant English serif lettering, fine dividing lines and structured editorial grids.
+
+Traditional Artwork
+
+Create richly detailed traditional illustrations with continuous fine linework, authentic decorative patterns, coherent shapes and layered flat colors.
+
+Maintain a clear visual hierarchy between dominant subjects, supporting illustrations and background details.
+
+Color & Texture
+
+Use a refined palette inspired by traditional Japanese pigments, including indigo, vermilion, ink black, antique gold, muted green and ivory.
+
+Maintain strong color contrasts, subtle washi paper fibers, matte printing textures and delicate woodblock ink details. Avoid excessive aging, stains or artificial distressing.
+
+Exhibition Information
+
+Include a complete museum-style information system: Japanese exhibition title, English title, subtitle, curatorial description, exhibition dates, venue and organizer.
+
+Arrange information with rich but controlled density, precise spacing and clear typographic hierarchy. All text must be meaningful and accurate. Do not invent real institutional affiliations.
+
+Final Output
+
+A visually striking, professionally designed Japanese art exhibition poster that balances classical artistic richness with contemporary typography and editorial sophistication.
+
+Strong thumbnail impact, intricate details upon closer inspection, authentic print aesthetics and complete exhibition information.
+
+No meaningless text, random numbering, watermarks, mockups or CGI effects.
 ```
 
 </details>
@@ -4606,244 +5233,4 @@ Constraints: Use exactly 6 panels and no extra panels. Maintain the same player,
 
 </details>
 
-<a id="gpt-image-velora-parfums-signature-perfume-poster"></a>
-### VELORA 香水海报 戴眼镜模特与金色瓶身
-
-<a href="https://x.com/akkiwani703/status/2049778680969437564"><img src="../../previews/gpt-image-velora-parfums-signature-perfume-poster.jpg" width="360"></a>
-
-提示词用完整的 JSON 结构锁定镜头、光线和配色，并把标题、卖点与香调文字逐条列出，让模型按版式排布文案。指定 85mm 镜头、f/1.6 光圈和低机位，使画面更接近真实的广告大片。
-
-GPT Image 2 · 文生图 · 出处: [@akkiwani703 on X](https://x.com/akkiwani703/status/2049778680969437564) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-[`perfume`](tags.md#tag-perfume) [`poster`](tags.md#tag-poster) [`json-prompt`](tags.md#tag-json-prompt) [`typography`](tags.md#tag-typography)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-{
-  "image_type": "luxury perfume advertisement poster",
-  "resolution": "4K ultra HD (4096x5120)",
-  "aspect_ratio": "portrait (4:5)",
-  "style": {
-    "aesthetic": "high-end fragrance campaign (Tom Ford, Dior inspired)",
-    "tone": "dark luxury, sensual, elegant, powerful",
-    "color_grading": "deep black shadows with rich golden highlights and warm amber glow",
-    "lighting": "cinematic spotlight + golden rim light + soft fill light, dramatic shadows",
-    "contrast": "high cinematic contrast",
-    "depth_of_field": "shallow, sharp focus on face and perfume bottle"
-  },
-  "camera": {
-    "type": "85mm portrait lens",
-    "aperture": "f/1.6",
-    "angle": "slightly low angle, premium perspective",
-    "framing": "model upper body + product foreground"
-  },
-  "subject": {
-    "gender": "female",
-    "age_appearance": "young adult",
-    "expression": "confident, sensual, calm",
-    "styling": {
-      "hair": "voluminous, slightly messy, glossy strands with golden highlights",
-      "makeup": "soft glam, glowing skin, bold lips",
-      "outfit": "brown tailored blazer with patterned silk scarf",
-      "accessory": "thin transparent eyeglasses"
-    }
-  },
-  "product": {
-    "type": "luxury perfume bottle",
-    "brand": "VELORA PARFUMS",
-    "label": "EAU DE PARFUM",
-    "design": "clear crystal glass bottle, golden liquid inside, metallic gold cap",
-    "placement": "bottom center foreground on glossy black marble surface",
-    "effects": "strong reflections, golden glow, subtle condensation, cinematic shine"
-  },
-  "environment": {
-    "background": "dark blurred luxury interior with warm golden light streaks",
-    "surface": "black marble with reflections",
-    "extra_elements": "small flowers near bottle, golden particles, soft smoke"
-  },
-  "typography": {
-    "logo": "V monogram + VELORA PARFUMS",
-    "headline": "Not just a scent, It’s your Signature.",
-    "tagline": "A fragrance that speaks before you do.",
-    "secondary": "Own your essence. Leave a legacy.",
-    "features": [
-      "Long Lasting",
-      "Premium Ingredients",
-      "Crafted with Passion"
-    ],
-    "notes": [
-      "Top: Pear, Bergamot, Pink Pepper",
-      "Heart: Jasmine, Rose, Orris",
-      "Base: Vanilla, Patchouli, Musk"
-    ],
-    "font_style": "luxury serif + elegant handwritten script",
-    "color": "gold metallic",
-    "placement": "top left + mid left + bottom balanced layout"
-  },
-  "post_processing": {
-    "sharpness": "ultra sharp on face and bottle",
-    "glow": "golden cinematic glow",
-    "retouch": "high-end editorial finish",
-    "vignette": "subtle dark vignette"
-  },
-  "mood": "premium luxury perfume campaign, cinematic, bold brand identity",
-  "quality": "hyper-realistic, 4K ultra HD, commercial grade, award-winning fragrance ad"
-}
-```
-
-</details>
-
-<a id="gpt-image-vintage-indonesian-catnip-poster"></a>
-### 复古印尼猫薄荷广告海报,穿裙子的燕尾服猫飞在空中
-
-<a href="https://x.com/NyaiiBubu/status/2053075349424992532"><img src="../../previews/gpt-image-vintage-indonesian-catnip-poster.jpg" width="360"></a>
-
-先叠加年代质感关键词(70年代纸张、做旧印刷、褪色、颗粒、划痕),再配上有趣的主体和带引号的标题文字来锁定字形。列出假产品罐、徽章、价签等广告元素,让版面更像真实的老广告。
-
-GPT Image 2 · 文生图 · 出处: [@NyaiiBubu on X](https://x.com/NyaiiBubu/status/2053075349424992532) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-[`vintage-poster`](tags.md#tag-vintage-poster) [`retro-typography`](tags.md#tag-retro-typography) [`indonesian`](tags.md#tag-indonesian) [`cat`](tags.md#tag-cat) [`distressed-print`](tags.md#tag-distressed-print)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Ultra realistic vintage Indonesian catnip advertisement poster, retro 1970s paper texture, distressed print, faded colors. A black-and-white tuxedo cat wearing cute vintage housewife clothes floating happily in the air after smelling catnip, euphoric expression, swirling catnip leaves, absurd Indonesian meme energy. Bold retro typography: “BIKIN KUCING SENENG FLY!” fake catnip jar product, old-school badges, price tag, nostalgic warung advertisement aesthetic, cinematic lighting, grain, scratches, authentic aged poster look.
-```
-
-</details>
-
-<a id="gpt-image-volumetric-laser-black-stage-poster"></a>
-### 全黑舞台体积激光海报
-
-<a href="https://x.com/zhidawang219555/status/2090246237094310178"><img src="../../previews/gpt-image-volumetric-laser-black-stage-poster.jpg" width="360"></a>
-
-六片体积激光在全黑剧场里分层，每片都写明起点、透视和薄雾厚度。标题与其中一片光面共享透视，脸部只用一道边光，小字留在纯黑负空间。
-
-GPT Image 2 · 文生图 · 出处: [@zhidawang219555 on X](https://x.com/zhidawang219555/status/2090246237094310178) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-[`laser`](tags.md#tag-laser) [`volumetric-light`](tags.md#tag-volumetric-light) [`black-stage`](tags.md#tag-black-stage) [`typography`](tags.md#tag-typography) [`diagonal-composition`](tags.md#tag-diagonal-composition)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-从全黑剧场开始，像切标本一样用六片真实体积激光把空间分层。光面必须有明确起点、透视和薄雾中的厚度，人物站在交汇点，透明道具折射出一小束异色光扇。构图沿左下至右上的对角线推进，脸只用一道克制边光揭示；标题与其中一片光面共享透视，小字留在纯黑负空间。每次替换主题与角色时，不得退化成夜店模板、HUD、霓虹城市或无物理来源的光线。
-```
-
-</details>
-
-<a id="gpt-image-western-chu-overlord-dark-poster"></a>
-### 国风暗黑巨型石刻标题海报
-
-<a href="https://x.com/stellimbris/status/2048633434961072617"><img src="../../previews/gpt-image-western-chu-overlord-dark-poster.jpg" width="360"></a>
-
-纯黑背景上一个巨大的做旧石刻标题撑起整个画面，配合严格的黑白金红配色。标题文字需要自己写进提示词，这张图里模型自行补上了西楚霸王和对应的武将形象。
-
-GPT Image 2 · 文生图 · 出处: [@stellimbris on X](https://x.com/stellimbris/status/2048633434961072617) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-[`chinese-style`](tags.md#tag-chinese-style) [`dark-poster`](tags.md#tag-dark-poster) [`typography`](tags.md#tag-typography) [`cinematic`](tags.md#tag-cinematic) [`texture`](tags.md#tag-texture)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-竖版国风暗黑海报，黑色纯背景，中央巨大的中文标题字，占据画面大部分空间，字体为粗粝做旧的米白色石刻/旧纸质感，带明显颗粒、磨损、裂痕与噪点；整体构图层次丰富，强烈黑白金红对比，东方审美，神秘、压抑、欲望与审判感并存 电影海报质感 高级平面设计，极致细节 纸张纹理 印章落款 小字标语，4K
-```
-
-</details>
-
-<a id="gpt-image-where-is-name-crowd-search-poster"></a>
-### 纽约人群中寻找指定人物的搜寻海报
-
-<a href="https://x.com/icreatelife/status/2046639884421550482"><img src="../../previews/gpt-image-where-is-name-crowd-search-poster.jpg" width="360"></a>
-
-用填入姓名的模板只指定海报形式并可更换城市,由模型自行补全密集人群、路牌和地标。圈出答案和带邮票头像的标题卡都来自搜寻海报这一形式本身。
-
-GPT Image 2 · 文生图 · 出处: [@icreatelife on X](https://x.com/icreatelife/status/2046639884421550482) · 发现于 [ZeroLu/awesome-gpt-image](https://github.com/ZeroLu/awesome-gpt-image)
-
-[`search-poster`](tags.md#tag-search-poster) [`crowd-scene`](tags.md#tag-crowd-scene) [`city`](tags.md#tag-city) [`template`](tags.md#tag-template) [`personalised`](tags.md#tag-personalised)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a "Where is [Your Name]" crowd search poster set in the city of your choosing
-```
-
-</details>
-
-<a id="gpt-image-wildcamp-giant-tent-night-poster"></a>
-### 夜空下大胡子徒步者与巨型橙色帐篷
-
-<a href="https://x.com/Strength04_X/status/2056258909334306897"><img src="../../previews/gpt-image-wildcamp-giant-tent-night-poster.jpg" width="360"></a>
-
-提示词先用帐篷是人三倍高来固定尺度对比，再指定篝火暖光与星空的冷暖反差。每段文字都写明位置和作用：天空中的大标题、底部标语、角落的小字署名。
-
-GPT Image 2 · 文生图 · 出处: [@Strength04_X on X](https://x.com/Strength04_X/status/2056258909334306897) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-[`camping`](tags.md#tag-camping) [`advertising`](tags.md#tag-advertising) [`night-sky`](tags.md#tag-night-sky) [`typography`](tags.md#tag-typography) [`cinematic-lighting`](tags.md#tag-cinematic-lighting)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-An outdoor adventure advertisement poster featuring a rugged bearded man in full hiking gear standing confidently beside a massive orange camping tent three times taller than him, fully pitched in a dramatic forest clearing surrounded by towering pine trees beneath a deep starry night sky. The tent features a bold white “WILDCAMP” logo stitched onto the rainfly. Warm cinematic campfire lighting illuminates the scene with realistic shadows and rich outdoor textures, creating a premium adventure-commercial aesthetic. Large rugged serif typography reading “WILDCAMP” dominates the dark sky area in bold orange lettering, while the tagline “Sleep under the stars.” appears elegantly at the bottom. Small grey text in the top-right corner reads “Designed with GPT Image 2.” Photorealistic, ultra-detailed, cinematic outdoor advertising style with dramatic atmosphere and high-end commercial composition.
-```
-
-</details>
-
-<a id="gpt-image-wuhan-layered-paper-cut-tourism-poster"></a>
-### 武汉江城分层纸雕文旅海报
-
-<a href="https://x.com/Mrpinecone888/status/2086643289525264395"><img src="../../previews/gpt-image-wuhan-layered-paper-cut-tourism-poster.jpg" width="360"></a>
-
-提示词用前景窗口构图并叠加五至七层纹理纸，统一左上光源，让层间阴影真实。配色严格限定，金色只用于视觉焦点。标题、副标题和印章文字逐一写明，并用详细的负面清单排除廉价红金模板、建筑变形和多余文案。
-
-GPT Image 2 · 文生图 · 出处: [@Mrpinecone888 on X](https://x.com/Mrpinecone888/status/2086643289525264395) · 发现于 [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
-
-[`paper-cut`](tags.md#tag-paper-cut) [`layered-diorama`](tags.md#tag-layered-diorama) [`travel-poster`](tags.md#tag-travel-poster) [`chinese-typography`](tags.md#tag-chinese-typography) [`landmark`](tags.md#tag-landmark)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-为原创文旅品牌“鹤望武汉”创作一幅高端分层纸雕插画海报，传播命题为“登楼望江，一眼看见武汉的山水骨架”，3:4 竖版。画面使用前景窗口构图，以五至七层厚纹理纸构成蛇山、黄鹤楼、长江、武汉长江大桥与对岸城市天际线；黄鹤楼位于后景山脊，屋檐层叠、金色琉璃瓦与朱红柱体关系准确，中景长江大桥横向延伸，江面两艘小型轮渡尺度克制，不能把晴川阁与黄鹤楼合并。纸张切边利落，统一左上柔光，层间阴影真实，综合色为黛青、暖米白、朱砂红和少量鎏金黄，金色只用于视觉焦点。主标题“登楼见江城”置于右上大片留白区，两行现代宋体；副标题“从蛇山望向长江的壮阔日常”横排于标题下方；品牌名“鹤望武汉”置于左下纸质印章形品牌位，保持现代而非仿古。规范简体中文、无错字漏字，仅使用中文；禁止廉价红金模板、漫天祥云、古装人物、建筑比例失真、塑料材质、厚重发光描边、知名标识、水印与额外文案。
-```
-
-</details>
-
-<a id="seedream-5-5-print-play-graffiti-collage-poster"></a>
-### PRINT PLAY 涂鸦拼贴海报
-
-<a href="https://seed.bytedance.com/en/seedream5_5"><img src="../../previews/seedream-5-5-print-play-graffiti-collage-poster.jpg" width="360"></a>
-
-三种指定颜色、一种纸张质感、逐字的标语和每个元素的位置，把一种松散的风格变成模型能逐句照做的版面。
-
-Seedream 5.5 · 文生图 · 出处: [ByteDance Seed: Seedream 5.5](https://seed.bytedance.com/en/seedream5_5)
-
-[`seedream`](tags.md#tag-seedream) [`graffiti`](tags.md#tag-graffiti) [`collage`](tags.md#tag-collage) [`typography`](tags.md#tag-typography) [`halftone`](tags.md#tag-halftone)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a graffiti collage poster about collaborative street printing, using lime green, aubergine purple and mint over a gray-white photocopied paper texture. Oversized “PRINT PLAY!” lettering overlaps diagonally. A grayscale printmaker at the upper right holds a roller and print sample, with printing tools and handwritten phrases including “MAKE A MARK” and “PASS IT ON” below. Preserve matte halftone ink, fine grain and legible lettering in a layered, asymmetric composition.
-```
-
-</details>
-
-<a id="seedream-5-5-shakespeare-chronicle-newspaper-page"></a>
-### 莎士比亚文学报，七篇短文环绕插图
-
-<a href="https://seed.bytedance.com/en/seedream5_5"><img src="../../previews/seedream-5-5-shakespeare-chronicle-newspaper-page.jpg" width="360"></a>
-
-报头和大标题逐字给出，版面要求七篇英文短文，小字清晰可读。密集小字是字节为 5.5 列出的三项升级之一。
-
-Seedream 5.5 · 文生图 · 出处: [ByteDance Seed: Seedream 5.5](https://seed.bytedance.com/en/seedream5_5)
-
-[`seedream`](tags.md#tag-seedream) [`newspaper`](tags.md#tag-newspaper) [`small-text`](tags.md#tag-small-text) [`engraving`](tags.md#tag-engraving) [`editorial-layout`](tags.md#tag-editorial-layout)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Design a landscape literary newspaper with the masthead “THE SHAKESPEARE CHRONICLE” and the headline “WILLIAM SHAKESPEARE”. On warm ivory paper, illustrate Shakespeare and the Globe Theatre in black engraving, with muted blue clouds and waves weaving through the page. Arrange seven short articles in English around the illustrations, using bold serif headings and legible small type.
-```
-
-</details>
-
-[1](image-poster.md) · **2**
+[1](image-poster.md) · **2** · [3](image-poster-3.md)

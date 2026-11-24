@@ -1,6 +1,6 @@
 # Cinematic scenes and short films
 
-[Back to the list](../../README.md) · All 178 entries · **1** · [2](video-cinematic-2.md)
+[Back to the list](../../README.md) · All 182 entries · **1** · [2](video-cinematic-2.md)
 
 <a id="h3-character-detail-montage"></a>
 ### Twenty shot character detail montage, face revealed last
@@ -893,6 +893,25 @@ Must-have requirements:
 * No cartoon visuals, no cheap CGI appearance, no text, no logos, no watermark.
 
 Creative goal: Make it feel like a billion-dollar Halloween movie compressed into 15 seconds — beautiful, creepy, magical, unexpected, and impossible to scroll past. 🎃🔥
+```
+
+</details>
+
+<a id="kling-jungle-waterfall-30s-journey"></a>
+### Woman in white dress walks through misty jungle
+
+<a href="https://x.com/alixbuilds/status/2118580185176187124"><img src="../../previews/kling-jungle-waterfall-30s-journey.jpg" width="360"></a>
+
+Timestamped scene beats (0 to 6s, 6 to 12s and so on) give the model a shot by shot structure for a 30 second clip. The Visual Quality tail and a separate negative prompt against cartoon style, distorted faces and extra fingers keep the result photoreal.
+
+Kling 4.0 · Text-to-video · Source: [@alixbuilds on X](https://x.com/alixbuilds/status/2118580185176187124) · 310 likes on 2026-11-24
+
+[`jungle`](tags.md#tag-jungle) [`waterfall`](tags.md#tag-waterfall) [`multi-scene`](tags.md#tag-multi-scene) [`rainbow`](tags.md#tag-rainbow)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create an ultra-realistic cinematic adventure video, exactly 30 seconds long, in vertical 9:16 format. Scene 1 (0–6 seconds): A beautiful young woman wearing an elegant flowing white dress walks through a mysterious tropical jungle. Sunlight shines through giant trees while soft mist floats in the air. Scene 2 (6–12 seconds): She discovers an enormous waterfall hidden behind ancient mountains. Thousands of birds fly across the sky as water crashes dramatically into a crystal-clear lake. Scene 3 (12–18 seconds): She approaches the edge of the lake and touches the water. Magical glowing flowers begin blooming around her feet. Scene 4 (18–24 seconds): The camera rises above the jungle, revealing breathtaking floating islands, multiple waterfalls, colorful birds, and magnificent mountains covered in clouds. Scene 5 (24–30 seconds): A giant rainbow appears above the waterfall. The woman stands peacefully looking at the magical landscape as the camera slowly pulls back into an epic aerial wide shot. Visual Quality: Ultra-photorealistic, cinematic filmmaking, 4K HDR, realistic water simulation, natural human movements, beautiful lighting, detailed environments, smooth camera transitions, professional color grading. Negative Prompt: No cartoon style, no distorted faces, no extra fingers, no unnatural movements, no flickering, no text, no subtitles, no logos, no watermark
 ```
 
 </details>

@@ -1,0 +1,25 @@
+id: kling-jungle-waterfall-30s-journey
+title:
+  en: Woman in white dress walks through misty jungle
+  zh: 身着白裙的女子穿过薄雾丛林
+model: Kling 4.0
+mode: text-to-video
+category: cinematic
+tags:
+- jungle
+- waterfall
+- multi-scene
+- rainbow
+source:
+  name: '@alixbuilds on X'
+  url: https://x.com/alixbuilds/status/2118580185176187124
+  credit: Ali
+  likes: 310
+  captured: '2026-11-24'
+  posted: '2026-11-06'
+video: https://x.com/alixbuilds/status/2118580185176187124
+notes:
+  en: Timestamped scene beats (0 to 6s, 6 to 12s and so on) give the model a shot by shot structure for a 30 second clip. The Visual Quality tail and a separate negative prompt against cartoon style, distorted faces and extra fingers keep the result photoreal.
+  zh: 用带时间码的分镜段落（0到6秒、6到12秒等）为30秒视频提供逐段结构，结尾的画质描述与单独的负面提示词（无卡通风格、无变形面部、无多余手指）共同约束写实效果。
+prompt: |
+  Create an ultra-realistic cinematic adventure video, exactly 30 seconds long, in vertical 9:16 format. Scene 1 (0–6 seconds): A beautiful young woman wearing an elegant flowing white dress walks through a mysterious tropical jungle. Sunlight shines through giant trees while soft mist floats in the air. Scene 2 (6–12 seconds): She discovers an enormous waterfall hidden behind ancient mountains. Thousands of birds fly across the sky as water crashes dramatically into a crystal-clear lake. Scene 3 (12–18 seconds): She approaches the edge of the lake and touches the water. Magical glowing flowers begin blooming around her feet. Scene 4 (18–24 seconds): The camera rises above the jungle, revealing breathtaking floating islands, multiple waterfalls, colorful birds, and magnificent mountains covered in clouds. Scene 5 (24–30 seconds): A giant rainbow appears above the waterfall. The woman stands peacefully looking at the magical landscape as the camera slowly pulls back into an epic aerial wide shot. Visual Quality: Ultra-photorealistic, cinematic filmmaking, 4K HDR, realistic water simulation, natural human movements, beautiful lighting, detailed environments, smooth camera transitions, professional color grading. Negative Prompt: No cartoon style, no distorted faces, no extra fingers, no unnatural movements, no flickering, no text, no subtitles, no logos, no watermark

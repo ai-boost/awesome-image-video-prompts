@@ -1,6 +1,6 @@
 # Cinematic scenes and short films
 
-[Back to the list](../../README.md) · All 178 entries · [1](video-cinematic.md) · **2**
+[Back to the list](../../README.md) · All 182 entries · [1](video-cinematic.md) · **2**
 
 <a id="seedance-clown-pumpkin-bat-halloween"></a>
 ### Clown smashes glowing pumpkin with baseball bat
@@ -501,6 +501,49 @@ The father discovers the adorable baby sitting safely in a little chair. He look
 Visual Quality: Ultra-detailed 3D animation, realistic knitted fabric, soft baby skin, expressive eyes, natural body movements, cinematic depth of field, warm golden-hour lighting, smooth camera transitions, professional animation, 4K quality, vertical 9:16 aspect ratio.
 
 Important: Maintain consistent baby character design, identical frog hat, clothing, facial features, and nursery environment throughout every scene. Make the story funny, heartwarming, adorable, and highly engaging.
+```
+
+</details>
+
+<a id="seedance-fruit-river-babies-watermelon-boats"></a>
+### Babies float in watermelon boats on pink river
+
+<a href="https://x.com/Zarnab_with_Ai/status/2108504570603491475"><img src="../../previews/seedance-fruit-river-babies-watermelon-boats.jpg" width="360"></a>
+
+The prompt splits 17 seconds into six timed scenes, each with its own shot, so the camera moves are paced instead of one vague sweep. Repeating the same character details in every scene (blonde baby, curly-haired baby, white bunny) keeps the cast consistent across cuts.
+
+Seedance 2.5 · Text-to-video · Source: [@Zarnab_with_Ai on X](https://x.com/Zarnab_with_Ai/status/2108504570603491475) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`3d-animation`](tags.md#tag-3d-animation) [`fantasy`](tags.md#tag-fantasy) [`multi-scene`](tags.md#tag-multi-scene) [`pixar-style`](tags.md#tag-pixar-style)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a 17-second ultra-detailed, adorable 3D animated cinematic video set in a magical fruit paradise. A beautiful pink river flows through a lush fantasy garden filled with giant strawberries, oversized watermelons, ripe bananas, red apples, and enormous purple and green grape clusters. The sky is bright blue with soft white clouds, and warm sunlight creates a dreamy, colorful atmosphere.
+
+Scene 1 (0–3 seconds): Wide Establishing Shot
+A sparkling pink river flows through the magical fruit garden. Several cute babies and adorable little animals float happily in small boats made from hollowed watermelon halves. The boats gently drift downstream as the camera moves forward, revealing giant fruits, lush green trees, and a beautiful fantasy landscape.
+
+Scene 2 (3–6 seconds): Baby and Bunny Close-Up
+The camera smoothly moves closer to a cute baby with big sparkling blue eyes, soft blonde hair, and chubby cheeks. The baby sits inside a green watermelon boat alongside a fluffy white bunny. The baby smiles excitedly and reaches toward the bunny while the boat gently rocks on the sparkling river. Giant bananas and strawberries fill the background.
+
+Scene 3 (6–9 seconds): Adorable Animal Friends
+A cheerful baby with curly dark hair sits inside another watermelon boat with a tiny gray elephant and fluffy white rabbits. The baby laughs and interacts playfully with the animals. In the background, several cute penguins stand near a giant watermelon, while other baby-filled boats float along the river.
+
+Scene 4 (9–12 seconds): Magical River Journey
+The camera pulls back to reveal a wide, enchanting river filled with multiple watermelon boats carrying adorable babies, rabbits, and other friendly animals. Giant strawberries grow along the riverbanks, enormous grapevines hang overhead, and colorful fruit trees create a magical tunnel. The water ripples naturally as the boats glide smoothly downstream.
+
+Scene 5 (12–15 seconds): Happy Baby Close-Up
+Cut to a close-up of a delighted baby sitting in a watermelon boat beside a fluffy white bunny. The baby laughs joyfully, raises both arms, and leans slightly toward the bunny. The bunny gently moves its ears and nose. Soft sunlight illuminates their faces, creating a heartwarming and playful moment.
+
+Scene 6 (15–17 seconds): Grand Finale
+The camera smoothly pulls back to reveal the entire magical fruit river. Multiple watermelon boats carrying happy babies and adorable animals float peacefully toward the camera. Giant colorful fruits surround the river, creating a spectacular fantasy world. End with a bright, cheerful, storybook-like cinematic composition.
+
+Visual Style: Premium 3D animation, adorable baby characters, Pixar-inspired family-friendly aesthetic, oversized fantasy fruits, expressive faces, soft realistic skin textures, fluffy animal fur, vibrant colors, cinematic lighting, shallow depth of field, smooth camera movements, realistic water ripples, detailed reflections, high-quality rendering, whimsical atmosphere, vertical 9:16 composition, 4K visual quality.
+
+Motion and Consistency: Smooth continuous river movement, naturally drifting watermelon boats, babies making joyful facial expressions and playful gestures, animals moving gently and naturally, subtle camera tracking, seamless scene transitions, consistent character designs, stable anatomy, and no sudden visual distortions.
+
+Audio: Gentle flowing water, soft splashes, cheerful baby giggles, cute animal sounds, and lighthearted magical background music. No dialogue or subtitles.
 ```
 
 </details>
@@ -1330,6 +1373,29 @@ Cornered at the grand staircase, she calmly reveals the diamond and surrenders i
 In the final shot, she smiles knowingly through the glass doors and disappears into the night. The diamond was only a distraction; recovering the stolen painting was her real mission.
 
 Continuity: Keep all faces, outfits, props, and locations consistent. Use clear action geography, believable movements, quick cuts, tracking shots, reflections, and close-ups. Natural gallery ambience, footsteps, glass clinks, radio chatter, and minimal dialogue. No music, narration, subtitles, text, logos, or watermarks. Avoid cartoon physics, teleportation, exaggerated action, and visual inconsistencies.
+```
+
+</details>
+
+<a id="seedance-maternity-jumpsuit-try-on-hug"></a>
+### Pregnant woman tries on jumpsuit then hugs husband
+
+<a href="https://x.com/Zarnab_with_Ai/status/2123018092427292995"><img src="../../previews/seedance-maternity-jumpsuit-try-on-hug.jpg" width="360"></a>
+
+The prompt breaks the story into ordered beats and spells out each wardrobe action, so the try-on and the mirror reveal play out in sequence. Opening with the Pixar style 3D look, warm sunlight and vertical 9:16 framing locks in the visual style and composition.
+
+Seedance 2.5 · Text-to-video · Source: [@Zarnab_with_Ai on X](https://x.com/Zarnab_with_Ai/status/2123018092427292995) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`3d-animation`](tags.md#tag-3d-animation) [`pixar-style`](tags.md#tag-pixar-style) [`vertical-video`](tags.md#tag-vertical-video) [`pregnancy`](tags.md#tag-pregnancy)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+A funny and heartwarming 3D animated comedy featuring a beautiful young pregnant woman with long brown hair, big expressive blue eyes, wearing a black crop top and burgundy maternity pants. She proudly shows off her huge baby bump, then reacts with surprise and frustration as a series of humorous characters appear, including a tiny mustached cartoon man with an oversized round belly and a chubby green furry creature.
+
+The pregnant woman walks into her bedroom and searches through her wardrobe, looking for a comfortable outfit. She browses different clothes, picks out a beautiful light-blue maternity jumpsuit with a white T-shirt, and tries it on. She admires her new look in the mirror, gently holds her baby bump, and smiles happily. Finally, her handsome husband enters the room, smiles at her, and lovingly embraces her.
+
+Beautiful modern bedroom, elegant walk-in wardrobe, warm natural sunlight, expressive facial animations, funny reactions, smooth character movements, consistent character designs, cinematic camera angles, high-quality Pixar-style 3D animation, vibrant colors, detailed textures, vertical 9:16 format.
 ```
 
 </details>
@@ -4030,6 +4096,37 @@ Camera Direction: Alternate between extreme close-ups, macro nail-polish shots, 
 Audio: Soft, playful background music with subtle nail-polish brush sounds, gentle tapping on the remote buttons, and cute comedic sound effects during the surprised reaction. No dialogue or subtitles.
 
 Important Requirements: Maintain the same toddler's face, hairstyle, clothing, proportions, and environment throughout the entire video. Preserve the purple glitter nails after they are painted. Keep the animation smooth, visually coherent, adorable, and humorous. Vertical 9:16 composition, high detail, clean rendering, no flickering, no distorted fingers, no extra limbs, no unwanted text, and no watermarks.
+```
+
+</details>
+
+<a id="seedance-toddler-sister-crayon-brother-hug"></a>
+### Toddler sister draws with crayons as baby brother crawls
+
+<a href="https://x.com/Zarnab_with_Ai/status/2119258890642833684"><img src="../../previews/seedance-toddler-sister-crayon-brother-hug.jpg" width="360"></a>
+
+The prompt works as a three beat story (setup, conflict, comfort) with a shot plan of medium shots and close ups on faces, so the emotional arc has a clear timeline. The consistency line for faces, hair and clothing plus the explicit no dialogue and no text rule keeps the characters stable across cuts and the clip free of captions.
+
+Seedance 2.5 · Text-to-video · Source: [@Zarnab_with_Ai on X](https://x.com/Zarnab_with_Ai/status/2119258890642833684) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`3d-animation`](tags.md#tag-3d-animation) [`toddlers`](tags.md#tag-toddlers) [`emotional-story`](tags.md#tag-emotional-story)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a high-quality cinematic 3D animated cartoon video featuring two adorable toddlers in a cozy, beautifully decorated living room.
+
+A little girl wearing a colorful floral dress with two cute ponytails is sitting on the floor, happily drawing pictures with crayons on a large white sheet of paper. A cute baby boy wearing blue pajamas crawls beside her and watches curiously.
+
+Suddenly, the baby boy playfully grabs her drawing paper and messes up her artwork. The little girl becomes surprised and angry, crossing her arms with an adorable frustrated expression. The baby boy starts crying dramatically.
+
+The little girl notices his tears, gently picks him up, hugs him warmly, and comforts him. The baby gradually stops crying and smiles happily. Finally, both children laugh together while sharing a sweet hug.
+
+Visual Style: Ultra-detailed 3D Pixar-style animation, adorable toddler characters, expressive big eyes, realistic facial expressions, soft cinematic lighting, colorful cozy living room, beautiful textures, smooth natural movements, emotional storytelling, professional animation quality, 4K resolution, vertical 9:16 aspect ratio.
+
+Camera: Smooth cinematic camera movements, medium shots and close-ups to capture facial expressions and emotional reactions.
+
+Important: Maintain consistent character faces, hairstyles, clothing, and body proportions throughout the entire video. No dialogue, no subtitles, no text, no watermark.
 ```
 
 </details>

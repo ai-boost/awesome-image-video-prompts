@@ -1,6 +1,77 @@
 # 人像
 
-[返回目录](../../README_zh.md) · 全部 288 条 · [1](image-portrait.md) · [2](image-portrait-2.md) · **3**
+[返回目录](../../README_zh.md) · 全部 291 条 · [1](image-portrait.md) · [2](image-portrait-2.md) · **3**
+
+<a id="gpt-image-golden-hour-couple-cinematic-closeup"></a>
+### 日落黄金时刻情侣特写
+
+<a href="https://x.com/darshal_/status/2049071963520508058"><img src="../../previews/gpt-image-golden-hour-couple-cinematic-closeup.jpg" width="360"></a>
+
+低角度夕阳逆光配合轮廓光、柔和镜头光晕与浅景深，营造出电影感的香水广告氛围。50mm 镜头提示与低饱和大地色调让皮肤和发丝质感保持真实。
+
+GPT Image 2 · 文生图 · 出处: [@darshal_ on X](https://x.com/darshal_/status/2049071963520508058) · 发现于 [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`couple`](tags.md#tag-couple) [`golden-hour`](tags.md#tag-golden-hour) [`backlight`](tags.md#tag-backlight) [`cinematic`](tags.md#tag-cinematic) [`close-up`](tags.md#tag-close-up)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A cinematic golden-hour close-up of a young couple in an intimate outdoor moment, framed from the chest up. The main focus is a handsome young man with dark brown tousled wavy hair, soft defined jawline, smooth light-tan skin, and a calm, distant expression as he gazes slightly upward and off to the left. He wears a black open-collar button-up shirt with a relaxed, elegant fit. Leaning into him is 1 young woman with long dark brown hair, her face mostly hidden against his shoulder and chest, creating a tender, protective mood; only part of her hair, shoulder, and thin black spaghetti-strap dress are visible. Use warm sunset backlighting with the sun low behind them on the left, creating glowing rim light around their hair and shoulders, soft lens flare, amber highlights, shallow depth of field, and a blurred natural landscape in the background with low hills. The composition should feel romantic, editorial, and filmic, like a luxury fragrance or fashion campaign, with soft skin detail, realistic textures, subtle wind in the hair, muted earth tones, and high-end cinematic color grading. Photorealistic, emotional, intimate, 50mm lens look, ultra-detailed, natural light, soft contrast.
+```
+
+</details>
+
+<a id="gpt-image-ice-blue-hanfu-full-body"></a>
+### 冰蓝星点襦裙全身人像
+
+<a href="https://x.com/fdtreesky/status/2046508731090018331"><img src="../../previews/gpt-image-ice-blue-hanfu-full-body.jpg" width="360"></a>
+
+提示词按服装细节、材质光影、构图镜头三段书写,明确写出面料层次与亮片刺绣。侧光透过薄纱,加上85mm f/1.8全身构图,让半透明感与织物质感清晰可见。
+
+GPT Image 2 · 文生图 · 出处: [@fdtreesky on X](https://x.com/fdtreesky/status/2046508731090018331) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`hanfu`](tags.md#tag-hanfu) [`fashion`](tags.md#tag-fashion) [`full-body`](tags.md#tag-full-body) [`translucent-fabric`](tags.md#tag-translucent-fabric) [`85mm`](tags.md#tag-85mm)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+[中文]
+服裝細節： 模特兒身穿一套精緻的淡冰藍色齊胸襦裙，採用多層輕盈的薄紗和絲綢歐根紗材質制成。其寬大的、半透明的廣袖上點綴著如繁星般微小的銀色和淺藍色亮片刺繡，在光線下閃爍（具有銀河般的夢幻感）。抹胸位置有複雜的銀色蕾絲和編織紋理細節，腰帶自然垂落。
+
+材質與光影： 畫面呈現 8k 超高分辨率和對織物微距紋理的極致渲染。光線採用柔和的自然側光（丁達爾效應 Typndall Effect），精準地透射過輕薄的紗布，營造出面料的半透明感（Translucency）和流動感。
+
+構圖與鏡頭： 採用 85mm 黄金人像鏡頭效果，f/1.8 大光圈，全身構圖，模特居中站立
+
+[English]
+Clothing details: The model wears an exquisite pale ice blue chest-high ruqun, made of multiple layers of lightweight tulle and silk organza materials. Its wide, translucent broad sleeves are adorned with tiny silver and light blue sequin embroideries like stars, shimmering under the light (with a galaxy-like dreamy feel). The tube top position has complex silver lace and woven texture details, and the belt falls naturally.
+Material and light and shadow: The image presents 8k ultra-high resolution and extreme rendering of macro textures of the fabric. The lighting uses soft natural side light (Tyndall Effect Typndall Effect), accurately transmitting through the light gauze, creating a sense of translucency (Translucency) and fluidity of the fabric.
+Composition and lens: Uses 85mm golden portrait lens effect, f/1.8 large aperture, full-body composition, model standing in the center
+```
+
+</details>
+
+<a id="gpt-image-impasto-oil-portrait-abstract-wall"></a>
+### 抽象墙面前的厚涂油画肖像
+
+<a href="https://x.com/mon010_de/status/2058033940305469461"><img src="../../previews/gpt-image-impasto-oil-portrait-abstract-wall.jpg" width="360"></a>
+
+直接点明油画媒介特征（厚涂、刮刀、可见笔触），并为墙面设定橙、米、深蓝的暖色调。再加入放松的坐姿、侧视目光和层次服饰细节，让人物与绘画质感融为一体。
+
+GPT Image 2 · 文生图 · 出处: [@mon010_de on X](https://x.com/mon010_de/status/2058033940305469461) · 发现于 [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+[`oil-painting`](tags.md#tag-oil-painting) [`impasto`](tags.md#tag-impasto) [`portrait`](tags.md#tag-portrait) [`palette-knife`](tags.md#tag-palette-knife) [`editorial`](tags.md#tag-editorial)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Ultra-realistic expressive oil painting portrait of a handsome young man with medium-length messy blonde hair and sun-kissed skin, sitting casually against a textured abstract wall with orange, beige, and deep blue paint strokes. He is looking sideways with a calm, thoughtful expression. He wears an oversized olive-green satin shirt over a white t-shirt, layered silver necklaces, rings, bracelets, and a luxury wristwatch.
+
+The artwork features dramatic warm lighting, cinematic shadows, highly detailed brush strokes, painterly texture, rich impasto oil paint style, modern contemporary art aesthetic, realistic facial anatomy, rugged masculine features, soft glowing skin tones, relaxed pose with one arm resting on his knee.
+
+Background is abstract and artistic with rough palette knife textures and mixed earthy colors. Moody luxury vibe, editorial fashion portrait, museum-quality oil painting, ultra-detailed, high contrast, 8k resolution, masterpiece composition.
+```
+
+</details>
 
 <a id="gpt-image-iphone-candid-dusk-street-snapshot"></a>
 ### 黄昏街头模糊的 iPhone 抓拍人像

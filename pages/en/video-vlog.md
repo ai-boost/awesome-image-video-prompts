@@ -1,6 +1,6 @@
 # Phone footage and vlogs
 
-[Back to the list](../../README.md) · All 191 entries · **1** · [2](video-vlog-2.md) · [3](video-vlog-3.md)
+[Back to the list](../../README.md) · All 195 entries · **1** · [2](video-vlog-2.md) · [3](video-vlog-3.md)
 
 <a id="seedance-balcony-pool-phone-video-collapse"></a>
 ### Bald man in kiddie pool beside balcony grill
@@ -4384,6 +4384,83 @@ NO AI-SLOP.
 
 </details>
 
+<a id="seedance-gamer-gta-download-fourteen-hours"></a>
+### Gamer rages at 14 hours of GTA VI download
+
+<a href="https://x.com/Zyvex_0x/status/2123082883556335933"><img src="../../previews/seedance-gamer-gta-download-fourteen-hours.jpg" width="360"></a>
+
+Exact timestamps for the timer and the download block make the reveal land on a fixed beat, and the reference screenshot pins the TV interface so the game UI stays static. The camcorder realism comes from a single handheld take, DV noise and the friend's laughter in the mic, while distance and room echo roll off the gamer's voice until he turns to camera.
+
+Seedance 2.5 · Reference-to-video · Source: [@Zyvex_0x on X](https://x.com/Zyvex_0x/status/2123082883556335933) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`found-footage`](tags.md#tag-found-footage) [`camcorder`](tags.md#tag-camcorder) [`gaming`](tags.md#tag-gaming) [`reference`](tags.md#tag-reference)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+👇
+
+FORMAT: 22 seconds, vertical 9:16, one continuous handheld take, real time, no cuts. Authentic found footage shot on an early-2000s Sony DV tape camcorder: standard definition, soft optics, video noise, interlacing on motion, warm tungsten white balance, limited dynamic range, fine grain. It must feel like a real home clip that leaked online, never like a smartphone video and never like a movie. Where any line below mentions cinema cameras or lenses, this camcorder look overrides it: keep only the realism, physics, skin, texture and consistency requirements. The operator and the camcorder never appear: no hands, no body, no reflections.
+
+CINEMATIC QUALITY (mandatory, applies to every shot of this video):
+Generate this video as real live-action footage from a top-budget feature film. It must be indistinguishable from a real camera shoot and never look AI-generated, CGI-plastic or animated. Shot on ARRI Alexa 65 with sharp high-end prime lenses, cinematography in the style of Greig Fraser: motivated natural light, soft realistic shadows, true-to-life exposure, deep but detailed blacks, no blown highlights. 24 fps with natural 180-degree shutter motion blur on all movement. Native high resolution with razor-sharp focus on the subject, crisp micro-contrast and high-frequency detail on every edge, skin pore and surface texture. Subtle organic film-like grain over the whole image, stable across frames. Natural, slightly muted real-world color grade with accurate skin tones. Keep this quality consistent from the first frame to the last, with no flicker, morphing, warping or texture shimmer.
+
+REFERENCES:
+- IMAGE 1 (attached PS5 game page screenshot) is the TV screen only. It never affects the people, the room or the camera.
+
+TV SCREEN: A real 55-inch LCD running a real PlayStation 5 shows IMAGE 1 full screen and static, with its exact left-aligned layout, artwork, colors and fonts: GTA VI icon top-left; "PS5" badge and the title "Grand Theft Auto VI: Ultimate Edition" along the top; the "VI grand theft auto" logo on the left; the description text; the white rounded timer button with a clock icon; the round "..." button; the "Friends Who Play" panel; "Official news"; the illustrated woman and man on the right half against a pink-orange sunset; the "R3 Health / Ratings / Privacy / Terms" bar bottom right. Only the timer button ever changes, in exactly two ways:
+1. 0.0-3.0s it shows "00:00:06". From 3.0s the digits count down one per second: "00:00:05" at 4.0s, "00:00:04" at 5.0s, "00:00:03" at 6.0s, "00:00:02" at 7.0s, "00:00:01" at 8.0s, "00:00:00" at 9.0s.
+2. At 10.0s the timer button disappears instantly and in its exact place appears a real PS5 download block: a large white "0%", under it a thin long almost empty progress bar with a tiny white sliver at the left and a dark grey track, and under the bar a small white line "14 hours remaining". Clean PlayStation-style sans-serif, perfectly spelled. It stays static until the end.
+Filmed off the screen: slight LCD moire and a soft lamp reflection on the glass, but the timer and the download block stay sharp and readable.
+
+CAMERA: His best friend films one-handed, about two and a half meters behind the gamer and to his right, camcorder held high at head height, angled slightly down. The whole TV is always visible, filling about two thirds of the frame width in the upper half; the gamer kneels low and to the left of the TV center, so his head never covers the timer or the download block. Two clumsy, overshooting zoom-ins: at 8.5s on the timer, and at 10.0s on the download block so "0%" and "14 hours remaining" fill the frame for about one second, then a jerky zoom back out. Amateur camerawork: hand shake, breathing sway, a slightly tilted horizon, late autofocus, auto-exposure pumping when the screen changes. The image shakes harder whenever the operator laughs.
+
+REALISM: Ordinary people, no model looks. Real skin with pores, oily shine, stubble, sweat. Real physical emotion: a red face, bulging neck veins and spit on screams, wet eyes, a voice that cracks and goes hoarse. Objects have weight: the rug thuds under his fist. Light only from a warm floor lamp and the TV.
+
+CHARACTERS:
+- GAMER: about 28, average build, messy dark curly hair, light stubble. A plain black short T-shirt ending at the top of the diaper, NO pants: a bulky white adult diaper of matte cotton-like fabric with side tapes and a printed waistband, worn on bare skin. The diaper is never glowing, shiny, reflective or lit by the screen, only the same soft warm lamp light and shadow as his legs. Bare legs, bare feet. A black over-ear gaming headset. A WHITE PS5 DualSense controller. Obsessed, unhinged, loud, completely serious. A comedic, non-sexual look.
+- OPERATOR: his best friend, heard only, laughing.
+- No other people on screen.
+
+SET (fixed): A small apartment at night. A 55-inch TV on a low dark wooden media stand against a beige wall, a white PS5 standing upright to its right. A warm floor lamp on the left. A grey shaggy rug. At the lower edge of the frame: an open pizza box with one slice of pizza, two unbranded energy drink cans and a bag of chips.
+
+TIMELINE:
+0.0-3.0s, THE SETUP: Timer "00:00:06". He kneels on the rug, back to the camera, the white controller gripped in both hands, rocking. The camera dips clumsily to the diaper, then back up to the TV. Operator, laughing: "Bro, are you wearing a diaper?" He, without turning: "I'm not missing a second."
+3.0-9.0s, THE COUNTDOWN: He screams every number at the TV as it appears, louder each time, shoulders shaking: "SIX!" at 3.0s, "FIVE!" at 4.0s, "FOUR!" at 5.0s, "THREE!" at 6.0s, "TWO!" at 7.0s, "ONE!" at 8.0s. At 9.0s "00:00:00": "ZEROOO!", both arms raised, the controller high above his head.
+9.0-10.0s, THE BEAT: Arms still raised, he freezes, breathing hard. Silence.
+10.0-13.5s, THE DOWNLOAD: The download block appears. Zoom-in, then out. His arms sink slowly. Quiet, shaking: "Fourteen... hours?" He turns over his shoulder toward the camera, eyes wide and wet: "FOURTEEN HOURS, BRO!" The operator snorts. He points at the camera: "DON'T laugh."
+13.5-16.5s, THE EXPLOSION: He turns back to the TV, face red, neck veins out, spit flying, pounding the rug with his free fist: "I WAITED TWELVE YEARS, SONY! TWELVE YEARS!" His voice breaks. The operator cries with laughter, the camera shakes.
+16.5-22.0s, THE REASON: He goes quiet, slowly lowers himself sideways onto the rug and curls into a fetal position facing the TV, controller hugged to his chest, breathing hard. The download block stays visible above him. Operator, choking: "Bro... you good?" He does not turn his head, hoarse and dead serious: "Fourteen hours. That's why I wore it." The operator bursts out laughing, the camera dips. The picture stays lit to the last frame. End.
+
+AUDIO & DIALOGUE: All dialogue in casual American English. The whole soundtrack must sound like an unedited real home recording made by the camcorder's built-in mic, never like AI voices, dubbing, ADR, voice-over or text-to-speech. Real people talking over each other in a small room.
+
+VOICES:
+- GAMER: a normal young man's mid-low voice, slightly nasal, raspy from shouting, casual American, a bit of mumble in quiet lines. Not a trained actor: uneven rhythm, words running together, real breath noise. His voice reaches the mic from about two and a half meters away and from his back, so it is softer, duller and full of room echo, with the high frequencies rolled off; it gets closer and clearer only when he turns toward the camera at 10.0-13.5s.
+- OPERATOR: a slightly higher young man's voice, casual, about twenty centimeters from the mic, so it is loud, close, breathy and harsh, with mouth noise. He can barely talk through his own laughter: his words are squeezed out between laughs.
+
+LINE DELIVERY:
+- "Bro, are you wearing a diaper?": operator, mid-laugh, the word "diaper" breaking into a snort.
+- "I'm not missing a second.": gamer, flat, fast, annoyed, not turning his head, almost mumbled.
+- "SIX!" to "ONE!": each number a real scream, short and sharp, a fast inhale between them, getting louder and more strained each time; from "THREE!" on his voice cracks and distorts the mic.
+- "ZEROOO!": a long full-chest scream, cracking at the end, heavily clipped.
+- 9.0-10.0s: no words, only his hard, fast breathing and the PS5 fan.
+- "Fourteen... hours?": barely above a whisper, shaky, a dry swallow before "hours".
+- "FOURTEEN HOURS, BRO!": turned toward the camera, closer and clearer, a high desperate yell with a wet, tearful edge.
+- "DON'T laugh.": gamer, sharp on "DON'T", then low and threatening on "laugh".
+- "I WAITED TWELVE YEARS, SONY! TWELVE YEARS!": a full rage scream, hoarse, spit in the voice, the second "TWELVE YEARS" cracking and breaking into a sob, heavily clipped, overlapped by the fist thuds.
+- "Bro... you good?": operator, choking, half a laugh, half concern, wheezing between the words.
+- "Fourteen hours. That's why I wore it.": gamer, lying on the rug, quiet, hoarse, totally calm and dead serious, slightly muffled by the rug, a small sniff before "That's".
+- The operator's laughter under everything: real and ugly, snorts, high wheezes, silent shaking laughter with only air, a cough from laughing; at the end an explosive laugh right into the mic that clips.
+
+ROOM & MIC: Constant faint tape hiss and low room tone. A small carpeted room: short, soft reflections, no big echo. Handling rumble and plastic creaks whenever the camera moves or zooms; a faint zoom motor whine on each zoom. Loud screams clip and crackle. The PS5 fan whirs quietly the whole time, the TV buzzes faintly. The diaper crinkles softly whenever he moves; his knees scrape on the rug; dull heavy thuds of his fist on the rug at 13.5-16.5s; the rustle of his body settling onto the rug. No music, no sound effects that do not come from the room.
+
+CONTINUITY: The timer reaches "00:00:00" only at 9.0s. The download block appears once at 10.0s and never changes or goes back to the timer. The TV and lamp stay on; the image never goes black. The TV is never fully hidden by his body. He faces the TV except for the turn at 10.0-13.5s. The controller stays in his hands. The headset stays on. The pizza, cans and chips stay in place. T-shirt and diaper the whole time, no pants. He ends lying on the rug.
+
+NEGATIVE CONSTRAINTS: no cuts, no visible operator, hands, camcorder or phone, no gimbal or smooth movement, no slow motion, no music, no subtitles. No smartphone look, no HDR. TV: no redrawn interface, no centered layout, no different art, no timer jumps, no other numbers, no changing download numbers, no pop-ups, no misspelled or warped text, no screen hidden behind his head, no black screen. No glowing, shiny or lit-up diaper, no colored light on the diaper. No black controller, no pants or shorts, no nudity beyond bare legs. No theatrical acting, no model faces. Audio: no robotic, synthetic or studio-clean voices, no AI narrator tone, no perfect diction, no even volume, no dry close-miked studio voices on the gamer, no lip-sync delay. No other people on screen. No objects appearing or vanishing. No cartoonish, plastic or CGI look, no distorted hands or faces.
+```
+
+</details>
+
 <a id="seedance-giant-hand-doll-dress-up-grwm"></a>
 ### Woman in cream pajamas with giant hands framing
 
@@ -4902,140 +4979,6 @@ She looks toward the camera while continuing.
 “My legs are already complaining.”
 
 She laughs, loses her rhythm for a second, then continues.
-```
-
-</details>
-
-<a id="seedance-gym-tape-vlog-week-wrapup"></a>
-### Sweaty idol resting on gym mat after session
-
-<a href="https://x.com/doctorwasif/status/2104187027935973745"><img src="../../previews/seedance-gym-tape-vlog-week-wrapup.jpg" width="360"></a>
-
-Every cut has a timed length and a dialogue line, and the camera is specified in detail (DV 16mm, propped or handheld POV, deliberate flaws like delayed focus and clumsy zooms), so the output reads as real camcorder footage. Ambient-only cuts give the montage room to breathe.
-
-Seedance 2.5 · Text-to-video · Source: [@doctorwasif on X](https://x.com/doctorwasif/status/2104187027935973745) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`vlog`](tags.md#tag-vlog) [`gym`](tags.md#tag-gym) [`camcorder`](tags.md#tag-camcorder) [`handheld-pov`](tags.md#tag-handheld-pov)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-CAMERA/LOOK: DV 16mm tape camcorder, handheld POV by CHASE; sometimes propped on gym mat/bench/shelf. Shaky, imperfect framing, cut-off faces, delayed focus, clumsy zooms, occasional overexposure/flickering auto-exposure. Soft blurry tape texture, faint noise, bloomed gym lights, muted contrast, realistic skin, subtle period timestamp. Camcorder never visible.
-
-STYLE: Reflective end-of-week gym vlog, calm/summary-driven, nostalgic, warm and satisfied with genuine fatigue/pride.
-
-CHASE: Korean idol, 20s; long black hair loosely tied, glowing slightly sweaty skin, big expressive eyes, slim athletic build. Modest long-sleeve athletic top, loose joggers/fitted leggings, fully covered arms/torso, sneakers, towel around neck, no jewelry.
-
-SETTING: Quiet gym mat area after evening session; mirror wall, water bottle, duffel bag, wall clock past closing, soft overhead lights, vent hum.
-
-45s / 13 CUTS:
-
-1 (~3s, propped medium): Sits on mat catching breath, tired smile. “Okay, that's officially the last session of the week.”
-2 (~3s, handheld close): Drinks water. “Push day, legs, core — I actually hit everything I planned.”
-3 (~2.5s, macro): Hands grip condensation-covered bottle. Ambient only.
-4 (~3.5s, handheld montage): Blurry week flashbacks—barbell rack, treadmill display, chalked hands, mirror mid-set; faint laugh, ambient gym sound.
-5 (~3s, propped medium): Stretches overhead. “Leg day still wrecked me the most, not gonna lie.”
-6 (~2.5s, low angle from mat): Laughs, shakes head. “My legs are still shaking a little, actually.”
-7 (~3s, handheld): Looks toward mirror; wandering focus. Ambient only.
-8 (~3s, handheld close): Wipes sweat with towel. “Honestly this was one of the more consistent weeks I've had in a while.”
-9 (~2.5s, macro): Sneakers shift on mat, slightly loose lace. Ambient only.
-10 (~3.5s, propped medium): Sits back, sentimental. “Some days I really didn't want to show up, and I came anyway.”
-11 (~2.5s, handheld): Proud smile, wipes face. “But I'm actually really happy with how this week went.”
-12 (~3s, handheld): Clumsy tilt/zoom as she grabs duffel; zipper/rustling only.
-13 (~4s, arm's-length selfie): Stands and walks toward exit, relaxed wave, dim gym behind. “Alright, resetting this weekend — see you guys next week.”
-
-#Flovaai #Flovacpp
-```
-
-</details>
-
-<a id="seedance-gym-vlog-leg-day-dv-camcorder"></a>
-### Gym vlog of idol shaking after leg day
-
-<a href="https://x.com/QAiStudio/status/2102992059938587000"><img src="../../previews/seedance-gym-vlog-leg-day-dv-camcorder.jpg" width="360"></a>
-
-The prompt is split into CAMERA, LOOK, STYLE and a timed storyboard with inline dialogue. Framing the camera as the character's own POV, with deliberate shake, late focus pulls and cut-off faces, sells the homemade DV look, and banning the camcorder from the frame keeps the illusion intact.
-
-Seedance 2.5 · Text-to-video · Source: [@QAiStudio on X](https://x.com/QAiStudio/status/2102992059938587000) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`dv-tape-look`](tags.md#tag-dv-tape-look) [`handheld-pov`](tags.md#tag-handheld-pov) [`gym-vlog`](tags.md#tag-gym-vlog) [`dialogue-storyboard`](tags.md#tag-dialogue-storyboard)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-**CAMERA:**
-DV 16mm tape camcorder handheld feel. POV of CHASE holding the camera herself, occasionally propping it on a rack or bench. Hand shake, misaligned framing, delayed focus pulls, clumsy zooms, occasional face cut-off framing, imperfect shots. Camcorder never appears on screen.
-
-**LOOK:**
-Soft, slightly blurry tape quality, faint tape noise, bloomed highlights under gym lighting, flickering auto-exposure, muted contrast, realistic skin tones.
-
-**STYLE:**
-Playful, self-deprecating gym-vlog tone — exaggerated complaining, genuine laughs, exhausted-but-amused energy. Quick handheld cuts, slightly wobbly camera movement matching her shaky legs.
-
-**Character**
-
-CHASE — Korean idol in her 20s. Long black hair in a high ponytail, glowing skin with a heavy post-workout sheen, big expressive eyes. Slim athletic build. Modest long-sleeve athletic top, loose joggers/leggings (arms and torso fully covered), sneakers, towel around neck, no jewelry.
-
-**Setting**
-
-A gym in the evening — squat rack, leg press machine, a water fountain across the room, mirror wall, soft overhead lighting.
-
-**Storyboard**
-
-1. *(~2s, propped camera at squat rack, medium shot)* She stands, hands on hips, catching her breath, dramatic exhale. CHASE: "Okay... leg day is not it today."
-
-2. *(~2s, handheld, close on her face)* She winces, shaking out one leg, laughing at herself. CHASE: "Why did I do that many reps—"
-
-3. *(~2s, medium propped shot, leg press machine)* She sits down, pushes through a rep, face straining, then flops back with a groan. CHASE: "Okay that's it, I'm done, I'm so done."
-
-4. *(~1.5s, macro insert, shallow DOF)* Close-up on her hand gripping the machine handle, knuckles slightly tense. No dialogue — ambient gym sound only.
-
-5. *(~2s, handheld, walking, camera wobbling)* She stands up and immediately wobbles, grabbing the rack for balance, bursting into laughter. CHASE: "Wait— okay my legs are literally shaking—"
-
-6. *(~2s, handheld, unsteady walk)* She takes exaggerated, wobbly steps toward the water fountain, camera bouncing with her uneven gait. CHASE (laughing): "This is so embarrassing, someone help me—"
-
-7. *(~1.5s, close handheld, at the fountain)* She leans down for a sip of water, sighs in relief, wipes her mouth with the back of her hand. CHASE: "Okay... water is life right now."
-
-8. *(~2s, arm's-length selfie finish)* She leans against the wall, still catching her breath, grinning tiredly at the lens. CHASE: "Never doing legs again — see you guys, I'm going to go lie down somewhere."
-```
-
-</details>
-
-<a id="seedance-hammock-motorcycle-wash-dv-home-video"></a>
-### Hammock Nap and Motorcycle Wash in Early 2000s DV
-
-<a href="https://x.com/doctorwasif/status/2099836703729172540"><img src="../../previews/seedance-hammock-motorcycle-wash-dv-home-video.jpg" width="360"></a>
-
-A reference image locks identity and outfit, while a nine beat timeline in three to four second slices sets each action. Style is pushed toward raw consumer DV with a ban list (no stabilization, no glamour) and an ambience only audio line.
-
-Seedance 2.5 · Reference-to-video · Source: [@doctorwasif on X](https://x.com/doctorwasif/status/2099836703729172540) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`dv-home-video`](tags.md#tag-dv-home-video) [`timeline`](tags.md#tag-timeline) [`handheld`](tags.md#tag-handheld) [`lo-fi`](tags.md#tag-lo-fi) [`ambient-audio`](tags.md#tag-ambient-audio)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Subject: “<<<image_1>>>” — preserve exact identity, face, skin tone, body proportions, hair, and outfit. Southeast Asian appearance with subtle Korean styling: olive-green faded sleeveless crop top, loose high-waist light-blue jeans, black canvas sneakers, black cord necklace, black wavy hair, side-swept bangs, messy ponytail.
-
-Setting: Quiet early-2000s Southeast Asian residential neighborhood—concrete alley, simple homes, terraces, trees, plants, parked motorcycles, tangled overhead cables. No shops.
-
-Style: Raw early-2000s consumer DV/home-video footage. Heavy handheld shake, imperfect framing, autofocus hunting, lens breathing, exposure shifts, rolling shutter, natural motion blur, faded low-contrast colors, washed highlights, digital noise/compression. No stabilization, beauty filters, cinematic grading, glamour, or posing.
-
-Timeline:
-
-- 00–03: Relaxing in a hammock between trees, dappled sunlight.
-- 03–07: Uses an old Nokia phone, presses keypad, subtle smile; focus hunts.
-- 07–10: Lazily stretches in hammock, phone on stomach, looks at canopy.
-- 10–13: Gets up, pockets phone, walks across yard.
-- 13–16: Crouches beside motorcycle, picks up soapy water and rag.
-- 16–20: Slowly cleans helmet; water drips onto concrete.
-- 20–24: Cleans motorcycle seat, briefly smiles at camera.
-- 24–27: Rinses and wrings rag over bucket.
-- 27–30: Wipes hands on jeans, looks at camera and softly smiles; abrupt cut to black.
-
-Audio: Natural ambience only—birds, breeze, distant motorcycles, chatter, hammock creaks, Nokia keypad clicks, leaves, water, and rag sounds. No music or cinematic effects.
-
-Format: 16:9.
 ```
 
 </details>

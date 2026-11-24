@@ -1,0 +1,24 @@
+id: nano-banana-sunlit-kitchen-coffee-couple
+title:
+  en: Laughing couple making pour over coffee in sunlit kitchen
+  zh: 阳光厨房里一对笑着冲手冲咖啡的情侣
+model: Nano Banana Pro
+mode: text-to-image
+category: realism
+tags:
+- couple
+- coffee
+- candid-photo
+- golden-hour
+source:
+  name: '@iamsofiaijaz on X'
+  url: https://x.com/iamsofiaijaz/status/2022487204791275711
+  credit: Aijaz
+  likes: 31
+  captured: '2026-11-24'
+  posted: '2026-02-14'
+notes:
+  en: Calling the shot candid and specifying shallow depth of field, golden hour light and natural skin textures pushes the model away from posed stock imagery. Concrete light cues like the window glow and drifting dust motes give the scene its warmth.
+  zh: 把画面定为抓拍式并指定浅景深、黄金时刻光线和自然皮肤质感，可以让模型避开摆拍的图库感。窗边光线和空气中飘动的尘埃这类具体光源描述，让画面更有温度。
+prompt: |
+  A close-up, candid photo of a diverse couple laughing together in a cozy sunlit kitchen. They are making coffee, morning light streaming through a window with dust motes dancing in the air. Natural skin textures, shallow depth of field, warm golden hour lighting, cozy aesthetic, high-quality photography.

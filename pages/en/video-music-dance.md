@@ -1,6 +1,6 @@
 # Music and dance
 
-[Back to the list](../../README.md) · All 50 entries
+[Back to the list](../../README.md) · All 51 entries
 
 <a id="h3-pink-panic-punk-mv"></a>
 ### Anime girl in plaid boots slides into punk MV
@@ -1587,6 +1587,49 @@ Change the camera angle to be over the violinist’s shoulder.
 </details>
 
 Inputs: [1](https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/3cYlYfozIFs5_Ngj/gemini-omni__edit-over-multiple-turns-with-consistency__invisible.webm)
+
+<a id="seedance-braided-dancer-night-street-routine"></a>
+### Braided dancer performs timed street routine at night
+
+<a href="https://x.com/MissDelulu9/status/2123258038459273373"><img src="../../previews/seedance-braided-dancer-night-street-routine.jpg" width="360"></a>
+
+A single character reference with an explicit list of details to keep locks the face and outfit, and the timed beat sheet gives each move its own window. The fixed low front camera and the instruction to keep the shoes in frame make the footwork readable.
+
+Seedance 2.5 · Reference-to-video · Source: [@MissDelulu9 on X](https://x.com/MissDelulu9/status/2123258038459273373) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`street-dance`](tags.md#tag-street-dance) [`choreography`](tags.md#tag-choreography) [`night-street`](tags.md#tag-night-street) [`character-reference`](tags.md#tag-character-reference)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Duration: 19 seconds
+Aspect Ratio: 16:9
+Style: Photorealistic, cinematic nighttime street photography.
+
+Use IMAGE 1 as the only character reference. Preserve her exact face, identity, dark brown eyes, two long black braids, gray cropped hoodie, striped sleeves, beige baggy trousers, navy waist wrap, black wrist accessories, and black-and-white sneakers. No appearance or outfit changes.
+
+ENVIRONMENT: Realistic nighttime city street with illuminated buildings, storefronts, traffic lights, vehicles, and concrete pavement. One dancer only.
+
+DANCE CHOREOGRAPHY:
+
+- 00:00–00:02: Start facing camera, rhythmic steps, alternating legs and body bounce.
+- 00:02–00:04: Knee lift, wide stance, low side lunge.
+- 00:04–00:06: Hand beside head, other near waist, hip and shoulder movements.
+- 00:06–00:08: Quick arm gestures, knee bends and rhythmic bouncing.
+- 00:08–00:10: Hand across chest, weight shifts, sharp shoulder and hip accents.
+- 00:10–00:12: Slight body lowering, downward arm swing and rhythmic step.
+- 00:12–00:14: One arm diagonally upward, opposite arm downward, controlled bounce.
+- 00:14–00:16: Both arms at chest level, elbows outward, quick shoulder movements.
+- 00:16–00:19: Synchronized arm movements, knee bends, slight turn, finish with crossed arms and a confident final pose.
+
+MUSIC: Energetic upbeat street dance music, approximately 129 BPM. Synchronize every movement naturally with the beat.
+
+CAMERA: Vertical full-body shot, slight low angle, front-facing, entire body and shoes visible, stable framing, no cuts or excessive zoom.
+
+REALISM: Natural anatomy, realistic foot contact, balanced movements, natural braid and clothing motion, cinematic nighttime lighting.
+```
+
+</details>
 
 <a id="seedance-girl-group-sunset-concert-stage"></a>
 ### Girl group dancing on futuristic sunset concert stage

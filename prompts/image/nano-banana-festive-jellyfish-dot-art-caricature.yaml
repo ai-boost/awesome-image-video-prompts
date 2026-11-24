@@ -1,0 +1,59 @@
+id: nano-banana-festive-jellyfish-dot-art-caricature
+title:
+  en: Jellyfish in Santa hats and sunglasses made of dots
+  zh: 戴圣诞帽和墨镜的点画水母
+model: Nano Banana 2.1
+mode: text-to-image
+category: illustration
+tags:
+- dot-art
+- jellyfish
+- christmas
+- caricature
+source:
+  name: '@Shinebynous on X'
+  url: https://x.com/Shinebynous/status/2123418518762717435
+  credit: Shine by Nous ✨
+  likes: 10
+  captured: '2026-11-24'
+  posted: '2026-11-19'
+notes:
+  en: 'Five words each set one decision: subject, accessory, mood, medium and style, and the model fills in the rest. The medium word dot art makes the whole image build from separate colored points on black.'
+  zh: 五个词各定一项：主体、配饰、节日气氛、媒介和风格，模型据此补全细节。点画这个媒介词让整张图由彩色圆点构成。
+prompt: |
+  Spectacles festive jellyfish dot-art caricature
+
+  1. Made with
+  @midjourney
+   8.2
+  2. Made with
+  @Kling_ai
+    4
+  3. Made with
+  @krea_ai
+    3
+  4. Made with
+  @magnific
+    one
+  5. Made with
+  @ideogram_ai
+   4.5
+  6. Made with
+  @dreamina_ai
+    Seedream 5.5
+  7. Made with
+  @ChatGPT
+    2.6
+  8. Made with
+  @recraftai
+    4.1
+  9. Made with Microsoft MIA
+  10.Made with
+  @BlueberryFunded
+   Flux 3
+  11. Made with
+  @Google
+    Nano Banana 2.1
+  12. Made with
+  @Alibaba_Qwen
+   Qwen 3.0 pro

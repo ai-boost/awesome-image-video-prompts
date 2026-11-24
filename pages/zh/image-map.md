@@ -1,6 +1,6 @@
 # 地图
 
-[返回目录](../../README_zh.md) · 全部 15 条
+[返回目录](../../README_zh.md) · 全部 16 条
 
 <a id="gpt-image-isometric-anime-world-map-diorama-poster"></a>
 ### 等距视角动漫世界地图微缩模型海报
@@ -613,6 +613,37 @@ Blend the real city seamlessly with the illustrated map surface so the road appe
 Show large bold typography of "[CITY NAME]" printed directly on the map in the foreground. Use warm golden-hour lighting, shallow depth of field, realistic textures, cinematic shadows, aerial perspective, and photorealistic detail. The overall aesthetic should feel like a premium Instagram travel poster mixed with a miniature diorama.
 
 Aspect ratio 1:1.
+```
+
+</details>
+
+<a id="gpt-image-usa-doodle-travel-map"></a>
+### 美国涂鸦旅行地图插画
+
+<a href="https://x.com/Naiknelofar788/status/2093679919473840378"><img src="../../previews/gpt-image-usa-doodle-travel-map.jpg" width="360"></a>
+
+这是一个带方括号占位符的模板，本例把国家、地标和食物等槽位替换为美国的内容，并保留了原有结构。国家轮廓决定构图，几十个细小墨线涂鸦填满画面，单色线条配合米色纸面让密集的细节依然清晰。
+
+GPT Image 2 · 文生图 · 出处: [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2093679919473840378) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`doodle`](tags.md#tag-doodle) [`travel-map`](tags.md#tag-travel-map) [`pen-and-ink`](tags.md#tag-pen-and-ink) [`united-states`](tags.md#tag-united-states)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Doodle Country Illustration [COUNTRY NAME]
+
+Create a charming, highly detailed hand-drawn doodle illustration of [COUNTRY NAME], designed like a whimsical illustrated travel map. Use the recognizable outline/shape of the country as the main composition, filled with dozens of tiny black-ink doodles representing its culture, landscapes, food, architecture, traditions, wildlife, landmarks, and everyday life.
+
+Include iconic elements such as [LANDMARK 1], [LANDMARK 2], [FOOD], [ANIMAL], [TRADITION], [NATURE], [FAMOUS OBJECT], along with small decorative elements scattered naturally throughout the map.
+
+Style: intricate pen-and-ink doodle art, playful hand-drawn lines, tiny illustrations, whimsical details, slightly imperfect sketching, travel-journal aesthetic, monochrome ink with subtle paper texture, white/off-white background, balanced composition, visually rich but clean, no photorealism.
+
+Add the country name “[COUNTRY NAME]” in beautiful hand-lettered typography integrated naturally into the artwork.
+
+Aspect ratio: 4:5 portrait
+Mood: artistic, nostalgic, cozy, adventurous, culturally rich
+Quality: extremely detailed, crisp linework, professional illustrated travel poster.
 ```
 
 </details>

@@ -1,0 +1,50 @@
+id: seedance-seoul-night-couple-walk
+title:
+  en: Korean couple walking arm in arm at night
+  zh: 夜晚首尔街头挽臂漫步的韩国情侣
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- korean
+- romance
+- short-film
+- street-fight
+source:
+  name: '@navi_Ai2 on X'
+  url: https://x.com/navi_Ai2/status/2122335176286187925
+  credit: navi_Ai2
+  captured: '2026-11-24'
+  posted: '2026-11-16'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/navi_Ai2/status/2122335176286187925
+notes:
+  en: The prompt splits the 30 seconds into three timed scenes, each with its own beat, so the model paces the romance, the short fight and the resolution. Explicit limits such as no exaggerated stunts, no on-screen text and consistent faces and clothes keep the realism and the characters steady.
+  zh: 提示词把30秒拆成三个定时段落，分别对应浪漫、短暂打斗和收尾，让节奏清楚。明确的限制如不要夸张特技、画面不出现字幕、人物脸部和服装保持一致，使画面更写实，角色也更稳定。
+prompt: |
+  Create a 30-second ultra-realistic Korean romantic action short film.
+
+  Scene 1 (0–10 seconds):
+  A young Korean couple walks together on a quiet Seoul street at night. They share a natural romantic moment. Suddenly, a stranger approaches and starts bothering the girl. The boyfriend calmly steps forward to protect her.
+
+  Scene 2 (10–20 seconds):
+  A short, realistic street fight begins. The boyfriend defends himself with natural hand-to-hand combat. Realistic punches, dodging and movements. No exaggerated stunts or superhero action. The girlfriend watches anxiously.
+
+  Scene 3 (20–30 seconds):
+  The stranger leaves. The boyfriend has a minor injury. His girlfriend gently checks his face. They exchange a small smile, hold hands and walk away together under the streetlights.
+
+  Visual Style:
+  Authentic Korean cinema, realistic Korean actors, natural facial expressions, subtle romance, cinematic night lighting, realistic Seoul environment, smooth camera movements, professional film cinematography, detailed skin textures, natural body movements.
+
+  Audio: Natural city ambience, subtle emotional cinematic background music, realistic sound effects.
+
+  Important Requirements:
+
+  - Exactly 30 seconds.
+  - 16:9 widescreen.
+  - No overacting.
+  - No exaggerated fighting.
+  - No cartoon or anime effects.
+  - No subtitles or text on screen.
+  - Maintain consistent faces, clothes and characters across all scenes.
+  - Professional Korean movie quality.

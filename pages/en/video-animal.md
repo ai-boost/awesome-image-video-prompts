@@ -1,6 +1,6 @@
 # Animals and pets
 
-[Back to the list](../../README.md) · All 32 entries
+[Back to the list](../../README.md) · All 33 entries
 
 <a id="h3-tom-jerry-mac-desktop-icon-chaos"></a>
 ### Tom restores fallen desktop icons one by one
@@ -266,6 +266,64 @@ No camera movement.
 No cuts.
 
 The final frame should closely match the original reference image.
+```
+
+</details>
+
+<a id="seedance-coyote-fake-tunnel-roller"></a>
+### Coyote paints fake tunnel on cliff face
+
+<a href="https://x.com/itsshara_ai/status/2124695716396507469"><img src="../../previews/seedance-coyote-fake-tunnel-roller.jpg" width="360"></a>
+
+The prompt splits the clip into timed segments, each with numbered shots and its own sound list, so pacing and audio cues are set per beat. Repeating the same fixed character descriptions in every segment keeps the coyote and roadrunner consistent across the sequence.
+
+Seedance 2.5 · Text-to-video · Source: [@itsshara_ai on X](https://x.com/itsshara_ai/status/2124695716396507469) · 3,116 likes on 2026-11-24
+
+[`animal`](tags.md#tag-animal) [`comedy`](tags.md#tag-comedy) [`sound-design`](tags.md#tag-sound-design) [`multi-clip`](tags.md#tag-multi-clip)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Style + characters
+
+Photorealistic live-action wildlife comedy, looks like a real nature documentary but with classic slapstick cartoon gags, ultra-realistic fur and feathers, 16:9 cinematic widescreen, 24fps, bright desert sunlight, warm saturated colors. THE COYOTE: a real scruffy grey-tan desert coyote with big amber eyes and very expressive human-like facial reactions (smug grin, wide-eyed shock, dizzy eyes); he walks on his hind legs when using tools. THE ROADRUNNER: a small fast speckled brown roadrunner bird with a long tail and a crest, always calm, always faster. Location: a red-rock desert canyon land: towering orange sandstone cliffs and mesas, red dirt, dry desert bushes, a straight two-lane desert highway with white lines, a winding river canyon far below, clear blue sky.
+
+Sound (every clip): loud, crisp, full-range comedy sound design, no dialogue: playful mischievous orchestral cartoon chase music with pizzicato strings and brass stings, exaggerated cartoon SFX (zip-run whooshes, slide whistles, boings, comic thuds, dizzy birds tweeting), the roadrunner's quick "meep-meep" call, desert wind, and real heavy impacts with deep sub-bass.
+
+CLIP 1 (0–12s): The fake tunnel
+
+Shot 1: wide shot, the coyote stands on his hind legs at the base of an orange cliff, painting a fake black tunnel entrance on the rock with a long-handled paint roller, painted white road lines leading into it. Shot 2: he steps back proudly with the roller. Shot 3: close-up, the coyote hides behind a rock, peeking out with a sneaky grin. Shot 4: the roadrunner zooms down the road toward the painted tunnel, dust flying. Shot 5: low shot from behind as the roadrunner runs straight into the painted tunnel. Shot 6: reverse shot from inside a real dark tunnel, the roadrunner runs through it and out the other side into daylight.
+Sound: wet paint-roller squishes, a smug humming sting, a sneaky tiptoe pizzicato, a fast zip-run whoosh with "meep-meep", a hollow tunnel echo of running feet, a surprised brass "wah".
+
+CLIP 2 (12–24s): Coyote tries the tunnel
+
+Shot 1: extreme close-up of the coyote's face behind the rock, eyes wide in disbelief, mouth open. Shot 2: he shakes his head, then grins with determination. Shot 3: wide shot, the coyote stands right at the painted tunnel entrance, looking at it, then backs away. Shot 4: low tracking shot, the coyote sprints at full speed toward the tunnel, legs a blur, dust kicking up.
+Sound: a confused slide-whistle, a head-shake rattle, a determined drum roll, a fast whoosh and pattering paws building into a rising crescendo.
+
+CLIP 3 (24–32s): Splat
+
+Shot 1: side shot, the coyote leaps into the painted tunnel and smacks flat into the solid rock wall, body spread out like a pancake. Shot 2: he slowly slides down the rock and flops onto the red dirt, flattened and dazed, the painted road lines next to him. Shot 3: close-up, the coyote with a yellow rope tied around his body, glaring with red angry eyes, holding a spear with a hook, plotting his next plan.
+Sound: a huge comic SPLAT and a deep rock thud, a long squeaky sliding sound down the wall, a soft dusty flop, a tiny dizzy tweet, then an angry growl and an evil brass sting.
+
+CLIP 4 (32–44s): The cliff cable
+
+Shot 1: extreme wide aerial over a deep river canyon, a tiny coyote stands on the cliff edge holding a rope. Shot 2: the coyote attaches himself to a steel cable stretched across the canyon over the desert highway. Shot 3: close-up of a shiny metal pulley clamp sliding onto the thick steel cable with a yellow rope. Shot 4: from the highway below, the coyote dangles from the cable high above the road between two red cliffs. Shot 5: the coyote hangs upside down from the rope above the highway, grinning, waiting. Shot 6: a full-screen comic-book burst frame, a purple explosion shape with a red-yellow spiky border.
+Sound: wind howling over the canyon, a rope creak, a metallic clamp click and a zipline whir, a smug whistle, a growing truck horn in the distance, then a giant comic CRASH-BANG with a cymbal hit.
+
+CLIP 5 (44–52s): The red truck
+
+Shot 1: aerial shot from above, the coyote hangs from the cable over the highway as a big red semi-truck speeds by below. Shot 2: close-up, the coyote tangled in yellow rope, dizzy, little cartoon red trucks and yellow stars spinning around his head. Shot 3: close-up of the red truck's cab window: the roadrunner is calmly sitting in the driver's seat, driving the truck. Shot 4: the roadrunner looks at the camera from the window.
+Sound: a roaring semi-truck pass-by with a loud horn blast, a doppler whoosh, dizzy cartoon tweets and spinning ding-ding sounds, a truck engine idle, and a cheeky "meep-meep".
+
+CLIP 6 (52–68s): The boulder trap
+
+Shot 1: the coyote on a steep red slope pushes a giant round boulder to the edge of a cliff, a small wooden sign planted next to it. Shot 2: he sets up a wooden lever under the boulder and checks it. Shot 3: close-up, the boulder slips and slowly rolls over the coyote, squashing him underneath, only his head sticking out. Shot 4: wide shot, the boulder rolls down the slope, the roadrunner runs ahead on the dirt road far away. Shot 5: the boulder keeps rolling down the dirt trail.
+Sound: heavy grinding rock pushing, coyote grunts, a wooden creak, a gulp, a slow rumbling roll and a heavy squash thud with a comic squeak, a long rolling rumble down the hill, the roadrunner's distant "meep-meep".
+
+CLIP 7 (68–81.5s): The final roll
+
+Shot 1: extreme close-up of the coyote's face, eyes wide, then slowly a huge evil grin. Shot 2: low shot, the coyote stands under the giant boulder, holding it up with one paw, smirking. Shot 3: the boulder tips and rolls onto him, the coyote slides under it. Shot 4: the boulder rolls fast down the slope toward the camera, kicking up dust. Shot 5: final wide shot, the boulder stops on the dirt road and a flattened coyote-shaped imprint is pressed into its surface with little stars around its head, the roadrunner casually runs past.
+Sound: a sly villain brass sting, a grunt of strain, a slow creak and a heavy rolling rumble, a dusty whoosh as the boulder rushes the camera, a deep final THUD, a comic squeak and a sad trombone "wah-wah-wah", then a final "meep-meep" and a zip-run whoosh.
 ```
 
 </details>

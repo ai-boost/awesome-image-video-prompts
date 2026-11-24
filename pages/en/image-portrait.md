@@ -1,6 +1,6 @@
 # Portraits
 
-[Back to the list](../../README.md) · All 288 entries · **1** · [2](image-portrait-2.md) · [3](image-portrait-3.md)
+[Back to the list](../../README.md) · All 291 entries · **1** · [2](image-portrait-2.md) · [3](image-portrait-3.md)
 
 <a id="chatgpt-bw-editorial-portrait-hand-on-chin"></a>
 ### Black and white portrait, man with hand on chin
@@ -1293,6 +1293,49 @@ GPT Image 2.5 · Text-to-image · Source: [@chatgptpaglu on X](https://x.com/cha
 
 ```text
 A low-angle, close-up photograph capturing a young woman with wavy brown hair outdoors at dusk. She is wearing a grey cropped t-shirt with a blue and white graphic text that reads 'DESTINED' above 'SET 1958' and black denim bottoms. Her head is tilted, and she is looking directly into the camera lens. The dark blue evening sky serves as the background, with silhouetted tree branches visible at the bottom of the frame. Strong flash lighting is directed from the front, illuminating her face and highlighting strands of her hair. The composition has a grainy film photography aesthetic.
+```
+
+</details>
+
+<a id="nano-banana-y2k-valentine-bed-selfie"></a>
+### Y2K selfie on a heart pillow bed
+
+<a href="https://x.com/lexx_aura/status/2015409719335326000"><img src="../../previews/nano-banana-y2k-valentine-bed-selfie.jpg" width="360"></a>
+
+Explicit face fidelity and expression locks keep the reference person intact, and a rule against plastic smoothing keeps skin pores visible. The Y2K snapshot look comes from a high angle held above the subject, mixed direct flash with soft pink or red light, and a relaxed, unposed pose.
+
+Nano Banana Pro · Edit · Source: [@lexx_aura on X](https://x.com/lexx_aura/status/2015409719335326000) · 301 likes on 2026-11-24
+
+[`valentines-day`](tags.md#tag-valentines-day) [`y2k`](tags.md#tag-y2k) [`flash-photo`](tags.md#tag-flash-photo) [`selfie`](tags.md#tag-selfie)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+{
+  "project_type": "image_generation_from_reference",
+  "preservation_constraints": {
+    "facial_fidelity": "100% identical to original (features, bone structure, skin tone)",
+    "expression_lock": true,
+    "texture_quality": "Preserve realistic skin texture and pores; strictly avoid plastic smoothing"
+  },
+  "visual_style": {
+    "aesthetic": "Y2K-style smartphone flash photo",
+    "era": "Early 2000s / Y2K",
+    "lighting": "Direct flash mixed with colored light (soft pink or red)",
+    "color_grading": "True-to-life colors, raw intimate snapshot look"
+  },
+  "composition": {
+    "camera_angle": "High angle (held above)",
+    "setting": "Bed or sofa",
+    "pose": "Lying down, relaxed, playful, unposed moment",
+    "mood": "Confident, self-love, intimate Valentine"
+  },
+  "subject_styling": {
+    "archetype": "Female blogger",
+    "apparel": "Fitted Y2K-inspired top, oversized hoodie or jacket",
+    "makeup": "Glossy lips, subtle shimmer, visible fluffy false eyelashes"
+  }
+}
 ```
 
 </details>
@@ -2595,6 +2638,51 @@ Nano Banana 2.1 · Text-to-image · Source: [@alicehan_ai on X](https://x.com/al
 
 </details>
 
+<a id="nano-banana-red-cheongsam-paper-cut-shadow-profile"></a>
+### Profile portrait in red cheongsam under paper cutout shadows
+
+<a href="https://x.com/ttmouse/status/2008273570175349157"><img src="../../previews/nano-banana-red-cheongsam-paper-cut-shadow-profile.jpg" width="360"></a>
+
+Gobo lighting through a red paper cutout foreground casts crane and peony shadows across the face, and that projected pattern is the core effect. Naming an 85 to 100mm macro lens, shallow depth of field and backlit vellus hair keeps the skin and light realistic rather than generic.
+
+Nano Banana Pro · Text-to-image · Source: [@ttmouse on X](https://x.com/ttmouse/status/2008273570175349157) · 193 likes on 2026-11-24
+
+[`lunar-new-year`](tags.md#tag-lunar-new-year) [`portrait`](tags.md#tag-portrait) [`cheongsam`](tags.md#tag-cheongsam) [`paper-cut`](tags.md#tag-paper-cut)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+1. 宏观风格与媒介
+- 核心媒介: 高清商业人像摄影 (High-end Commercial Photography)
+- 美学流派: 新中式美学 (New Chinese Style), 节日时尚大片
+
+2. 主体与IP身份
+- 核心主体: 年轻东亚女性侧颜特写 (Close-up profile of young Asian woman)
+- IP/名人锁定: 穿着红色旗袍 (Red Cheongsam), 佩戴珍珠项链与红色花卉耳环
+
+3. 世界逻辑与物理
+- 物理法则: 真实光学投影 (Real optical projection), 面部光影贴合面部起伏
+- 空间构成: 人眼平视视角 (Eye-level), 极近距离接触
+
+4. 数据与信息层
+- 文本提取: 无文本
+- 品牌与符号: 红色剪纸艺术前景 (Red paper-cut art foreground) - 包含仙鹤、蝴蝶与牡丹纹样
+
+5. 材质与纹理
+- 核心材质: 超写实皮肤质感 (Hyper-realistic skin), 哑光卡纸 (Matte cardstock), 温润珍珠
+- 触感细节: 逆光下可见的面部绒毛 (Visible vellus hair backlit), 次表面散射效果 (Subsurface scattering)
+
+6. 光影与氛围
+- 光照模型: Gobo投影布光 (Gobo lighting/Projected shadows) - 复杂的镂空花纹光影投射在人物面部
+- 整体氛围: 金色暖阳侧逆光 (Warm golden hour light), 高饱和度喜庆红调, 梦幻且清晰
+
+7. 技术参数
+- 镜头与渲染: 85mm-100mm 微距镜头 (Macro lens), 浅景深 (Shallow depth of field), 前景虚化 (Bokeh foreground)
+- 构图指令: 框式构图 (Framed composition), --ar 3:4
+```
+
+</details>
+
 <a id="chatgpt-couple-80s-studio-portrait"></a>
 ### Couple posing in a 1980s film studio portrait
 
@@ -3062,6 +3150,37 @@ GPT Image 2 · Text-to-image · Source: [@j_smeaton99 on X](https://x.com/j_smea
 
 ```text
 Extreme wet close-up portrait of a young woman in side profile. Dark, rain-soaked hair naturally clinging to her skin and framing her face. Fine water droplets and a delicate layer of moisture glistening realistically across her cheeks, forehead, and jawline. Striking natural green-hazel eyes as the focal point, featuring subtle authentic reflections and lifelike depth without excessive shine. Soft, hydrated lips with realistic texture and a gentle natural gloss. Smooth skin with visible pores and nuanced facial details for maximum realism. Cinematic soft lighting with cool tones, creating a fresh atmospheric mood. Clean light gray and white bokeh background with shallow depth of field. Ultra-detailed photography, high-end editorial beauty portrait, natural facial proportions, realistic skin rendering, sharp eye focus, professional DSLR quality, photorealistic, 85mm lens, f/1.8, ultra-high resolution.
+```
+
+</details>
+
+<a id="nano-banana-zebra-robe-sofa-editorial"></a>
+### Woman in zebra robe on beige sofa
+
+<a href="https://x.com/MahiraEhan/status/2124749699248738376"><img src="../../previews/nano-banana-zebra-robe-sofa-editorial.jpg" width="360"></a>
+
+Specific material and light cues do the work: the fabric, the pearl necklace, the sofa and a light source from the left are each named. The closing line asking for natural skin texture and subtle analog grain keeps the result from looking over-retouched.
+
+Nano Banana 2.1 · Text-to-image · Source: [@MahiraEhan on X](https://x.com/MahiraEhan/status/2124749699248738376) · 159 likes on 2026-11-24
+
+[`fashion`](tags.md#tag-fashion) [`editorial`](tags.md#tag-editorial) [`portrait`](tags.md#tag-portrait) [`film-grain`](tags.md#tag-film-grain)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Ultra-realistic luxury fashion editorial photograph of a woman as a reference.
+
+Her hair as a reference styled in loose, flowing waves, swept back from her forehead and cascading over her right shoulder. Natural luminous skin with visible pores, delicate microtexture, subtle peach blush and minimal elegant makeup.
+
+She wears a luxurious oversized black-and-white zebra-patterned robe dress made of soft, thick, textured fabric. Deep V-shaped neckline with relaxed off-the-shoulder styling, revealing her collarbones and shoulders. Voluminous long sleeves, loosely draped fabric and a matching belt tied at the waist. A short, elegant necklace of large white pearls rests around her neck.
+
+The woman reclines comfortably on a large beige upholstered sofa with wide, softly padded back cushions. Her body is slightly angled, shoulders relaxed, one arm extended along the sofa while the other rests naturally near her lap. The flowing zebra-patterned fabric covers her legs.
+
+She looks directly into the camera with a calm, confident, slightly serious expression. Relaxed lips, effortless sophisticated pose.
+
+Medium-close portrait, photographed from a slightly elevated frontal angle. Soft natural daylight from the left, warm neutral tones, delicate shadows, realistic fabric texture and subtle highlights on her face and hair as a reference.
+
+Minimalist beige interior, understated luxury atmosphere, intimate high-fashion editorial photography, natural skin texture without excessive retouching, realistic hair strands, subtle analog film grain, refined cinematic composition.
 ```
 
 </details>
@@ -4712,60 +4831,6 @@ Luxury Has No Age
 A confident 16-year-old boy sitting on the roof of a futuristic luxury supercar (Bugatti-inspired, no logos), wearing an expensive black tailored suit, premium designer sneakers, a luxury watch, and stylish sunglasses. Surrounded by luxury shopping bags, high-end fashion accessories, and elegant designer clothing. A modern city skyline with golden sunset lighting in the background. Ultra-realistic, cinematic composition, glossy reflections, shallow depth of field, dramatic lighting, luxury lifestyle, rich colors, 8K, hyper-detailed, magazine cover quality, photorealistic, premium fashion editorial style.
 
 If you could create your dream luxury lifestyle with AI, what would be the first thing you'd add?
-```
-
-</details>
-
-<a id="gpt-image-windswept-meadow-editorial-portrait"></a>
-### Woman in ivory dress among windswept green grass
-
-<a href="https://x.com/MahnoorAi12/status/2101997367641751808"><img src="../../previews/gpt-image-windswept-meadow-editorial-portrait.jpg" width="360"></a>
-
-Layers foreground grass over the subject for depth, then fixes a muted sage and forest green palette, soft overcast light and an 85mm f/1.8 look with film grain. The 1:1 framing places her right of center with open negative space above, which gives the editorial feel.
-
-GPT Image 2.5 · Edit · Source: [@MahnoorAi12 on X](https://x.com/MahnoorAi12/status/2101997367641751808) · 113 likes on 2026-10-28
-
-[`editorial`](tags.md#tag-editorial) [`meadow`](tags.md#tag-meadow) [`film-grain`](tags.md#tag-film-grain) [`fashion`](tags.md#tag-fashion) [`cinematic`](tags.md#tag-cinematic)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-A cinematic fashion-editorial portrait of a young East Asian woman standing partially concealed within tall, windswept green grass in an expansive meadow. She wears a loose, flowing off-white or ivory linen dress that moves softly with the breeze, contrasting gently against the rich natural surroundings.
-Her dark hair appears naturally tousled by the wind, with soft strands falling across her face, partially veiling her eyes. Her head is gently lowered, gaze directed downward or slightly to the side, conveying a quiet, dreamy, introspective mood. The tall grass surrounds and partially obscures her figure, creating layered foreground elements, immersive depth, and a sense of visual intimacy.
-Wind moves through the grass with subtle motion blur, while the subject remains sharply focused. The environment feels calm, isolated, and poetic, enhanced by a faint atmospheric haze and a muted palette of sage green, deep forest green, and soft neutral tones. Soft overcast daylight provides diffused, shadowless illumination with smooth tonal transitions, low contrast, gentle highlights, and realistic skin rendering.
-Shallow depth of field produces creamy bokeh and natural background separation, while fine film grain adds an organic editorial texture. Minimalist composition emphasizing solitude and emotional storytelling. Square 1:1 composition, subject positioned slightly right of center with generous negative space above and around her, balanced visual weight, refined framing, sophisticated Korean and Japanese fashion magazine aesthetic, cinematic realism, highly detailed photorealistic photography, 85mm portrait lens, f/1.8, natural lens compression, ultra-realistic skin texture, premium color grading, atmospheric depth, elegant visual storytelling, award-winning editorial photography, masterfully composed, authentic and emotionally resonant.
-```
-
-</details>
-
-<a id="nano-banana-emerald-blazer-fashion-grid-sunglasses"></a>
-### Four pose fashion grid in emerald blazer
-
-<a href="https://x.com/weiinberg/status/2033048967777497600"><img src="../../previews/nano-banana-emerald-blazer-fashion-grid-sunglasses.jpg" width="360"></a>
-
-Uses an uploaded photo as the identity reference and fixes the 2x2 layout, outfit and each of the four poses. Studio lighting positions, camera settings and skin detail cues push the result toward editorial realism.
-
-Nano Banana 2 · Edit · Source: [@weiinberg on X](https://x.com/weiinberg/status/2033048967777497600) · 113 likes on 2026-10-28
-
-[`fashion`](tags.md#tag-fashion) [`studio-portrait`](tags.md#tag-studio-portrait) [`grid-layout`](tags.md#tag-grid-layout) [`identity-reference`](tags.md#tag-identity-reference) [`editorial`](tags.md#tag-editorial)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Use my uploaded photo as the identity reference.
-Create a professional studio fashion photoshoot in a 2×2 grid collage showing four poses of the same person wearing black sunglasses.
-
-Outfit: deep emerald green tailored blazer, cream/off-white dress shirt, black slim trousers, burgundy tie, optional silver watch. Blazer appears differently across frames (worn, draped over shoulder, partially removed, held).
-Background: clean teal-to-turquoise gradient studio backdrop, minimal fashion studio setting.
-Poses:
-1.Close portrait adjusting tie.
-2.Seated editorial pose leaning forward with elbow on knee.
-3.Relaxed pose with vintage camera around neck.
-4.Stylish pose running hand through hair while holding blazer.
-Lighting: professional three-point studio lighting — softbox key light 45° camera left, soft fill light camera right, subtle rim light behind subject.
-Camera: Sony A7R V, 85mm portrait lens, f/2.2, ISO 100, 1/160s, WB 5600K, shallow depth of field, focus on eyes.
-Realism: natural skin pores, hair strands, subtle fabric wrinkles, realistic shadows, lens compression, reflections in sunglasses.
-Output: ultra-realistic GQ/Vogue-style editorial photography, sharp detail, 4K resolution, clean 2×2 grid layout.
 ```
 
 </details>

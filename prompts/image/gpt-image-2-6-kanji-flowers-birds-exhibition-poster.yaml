@@ -1,0 +1,72 @@
+id: gpt-image-2-6-kanji-flowers-birds-exhibition-poster
+title:
+  en: Japanese exhibition poster with cranes and giant kanji
+  zh: 带仙鹤与巨型汉字的日本艺术展海报
+model: GPT Image 2.6
+mode: text-to-image
+category: poster
+tags:
+- japanese-art
+- kanji-typography
+- exhibition-poster
+- traditional-painting
+source:
+  name: '@MrLarus on X'
+  url: https://x.com/MrLarus/status/2125241180086763976
+  credit: Larus Canus
+  likes: 9
+  captured: '2026-11-24'
+  posted: '2026-11-22'
+notes:
+  en: A fixed brief with labeled sections for theme, titles, palette and dates gives the model a complete museum poster to fill in. Naming ukiyo-e, Rinpa and a pigment palette sets the style, and asking for Kanji that run past the edge keeps the typography dominant over the artwork.
+  zh: 固定的分段结构（展览主题、中日文标题、配色、展览信息）让模型像填写完整的美术馆海报一样输出。提到浮世绘、琳派和传统颜料色板统一了画风；要求汉字超出画面边缘，使文字比插画更突出。
+prompt: |
+  【Exhibition Theme】:
+  【Japanese Title】:
+  【English Title】:
+  【Main Artwork】:
+  【Color Palette】:
+  【Exhibition Details】:
+  【Aspect Ratio】: 9:16
+
+  Create a sophisticated Japanese art exhibition poster that combines traditional Japanese painting with contemporary editorial graphic design.
+
+  Art Direction
+
+  Draw inspiration from ukiyo-e woodblock prints, Rinpa decorative paintings, classical Japanese scrolls and traditional calligraphy. Select the artistic technique most appropriate to the exhibition theme.
+
+  Combine intricate classical artwork with bold typography, asymmetrical composition, dramatic scale contrasts and refined museum exhibition layouts.
+
+  Composition & Typography
+
+  Use oversized Japanese Kanji as a dominant visual element, featuring expressive brush calligraphy or elegant Mincho-style typography.
+
+  Integrate the artwork directly into the typography through overlapping, masking, framing, negative space and layered composition. Allow selected characters to extend beyond the poster edges while maintaining readability.
+
+  Combine vertical Japanese typography with elegant English serif lettering, fine dividing lines and structured editorial grids.
+
+  Traditional Artwork
+
+  Create richly detailed traditional illustrations with continuous fine linework, authentic decorative patterns, coherent shapes and layered flat colors.
+
+  Maintain a clear visual hierarchy between dominant subjects, supporting illustrations and background details.
+
+  Color & Texture
+
+  Use a refined palette inspired by traditional Japanese pigments, including indigo, vermilion, ink black, antique gold, muted green and ivory.
+
+  Maintain strong color contrasts, subtle washi paper fibers, matte printing textures and delicate woodblock ink details. Avoid excessive aging, stains or artificial distressing.
+
+  Exhibition Information
+
+  Include a complete museum-style information system: Japanese exhibition title, English title, subtitle, curatorial description, exhibition dates, venue and organizer.
+
+  Arrange information with rich but controlled density, precise spacing and clear typographic hierarchy. All text must be meaningful and accurate. Do not invent real institutional affiliations.
+
+  Final Output
+
+  A visually striking, professionally designed Japanese art exhibition poster that balances classical artistic richness with contemporary typography and editorial sophistication.
+
+  Strong thumbnail impact, intricate details upon closer inspection, authentic print aesthetics and complete exhibition information.
+
+  No meaningless text, random numbering, watermarks, mockups or CGI effects.

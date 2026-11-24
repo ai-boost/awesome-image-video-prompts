@@ -1,6 +1,6 @@
 # Anime and animation
 
-[Back to the list](../../README.md) · All 83 entries · **1** · [2](video-anime-2.md)
+[Back to the list](../../README.md) · All 84 entries · **1** · [2](video-anime-2.md)
 
 <a id="seedance-two-friends-bedsheet-ghost-prank"></a>
 ### Phone camera sketch of friends and a bedsheet ghost
@@ -45,6 +45,74 @@ Shot 6 (19-22s): Medium close-up, eye level, handheld; the camera heaves with Su
 Shot 7 (22-25s): Insert, close to the lens; the camera jolts once. A single white bedsheet with two black eye holes lowers from above in front of the lens, held by Yuki's hands.
 Yuki's line (flat, deadpan): "Boo."
 Shot 8 (25-30s): Wide two-shot, high angle; the camera quickly pulls back, then spins with them. Sumi, phone in her right hand, yanks the sheet with her left; the sheet tangles around both girls and they spin together, laughing, Yuki's hair now neat. Both thrust V signs at the lens. Sumi's index finger is still reaching for the lens when the clip cuts to black as the fingertip covers it.
+```
+
+</details>
+
+<a id="h3-anime-maid-macos-desktop"></a>
+### Anime maid macOS desktop with app icons
+
+<a href="https://x.com/Mayz1169/status/2101711564655255956"><img src="../../previews/h3-anime-maid-macos-desktop.jpg" width="360"></a>
+
+The prompt fixes a 16:9 canvas, puts the subject on the right at 40 to 45 percent of the frame, and lists the 18 icons in an exact 3 by 6 grid so the left side stays free for labels. It also derives the wallpaper palette from the character, so the pink background matches her hair and clothing.
+
+MiniMax H3 · Reference-to-video · Source: [@Mayz1169 on X](https://x.com/Mayz1169/status/2101711564655255956) · 5,165 likes on 2026-11-24
+
+[`desktop-wallpaper`](tags.md#tag-desktop-wallpaper) [`macos`](tags.md#tag-macos) [`anime`](tags.md#tag-anime) [`ui-mockup`](tags.md#tag-ui-mockup)
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+1️⃣GPT Image 2.5
+
+Create a polished horizontal 16:9 macOS desktop image using the uploaded image as the subject reference.
+
+SUBJECT
+Identify and preserve the main subject’s recognizable appearance, proportions, colors, clothing, accessories, and original visual style. Preserve anime subjects as anime, illustrated subjects as illustrations, and photographic subjects as photographic.
+
+If the reference contains multiple interacting subjects, keep them together. If it is a character design sheet showing multiple views of one character, use only the main front or three-quarter view, without duplicating the character.
+
+Separate the subject cleanly from the original background. Exclude reference-sheet panels, captions, borders, and unrelated interface elements.
+
+COMPOSITION
+Place the subject prominently on the RIGHT side, occupying approximately 40–45% of the canvas. Leave the LEFT side for application icons and keep the middle spacious.
+
+Preserve the original pose where practical. Keep faces, important accessories, and visible hands fully inside the frame. Show the full body when the reference supports it; otherwise use a natural crop rather than inventing unseen anatomy. Do not stretch or distort the subject. Keep the menu bar and Dock clear of the face and hands.
+
+ADAPTIVE BACKGROUND
+Create a custom wallpaper that complements the subject’s actual color palette, visual style, and mood. Combine classic macOS-style flowing curves, layered abstract waves, and smooth gradients with colors drawn from the reference.
+
+Choose the palette automatically:
+- Gentle or cute subjects: soft, harmonious pastel tones.
+- Energetic or playful subjects: lively colors with restrained bright accents.
+- Elegant or mysterious subjects: rich, deeper tones with subtle highlights.
+- Natural or minimalist subjects: calm, understated colors and simple shapes.
+
+Do not apply the same blue background to every subject. Use clear tonal separation so the subject remains visible. Keep the left side quiet and sufficiently dark for readable white icon labels. Optional thematic details should be subtle and sparse.
+
+LEFT-SIDE APPLICATION ICONS
+Arrange exactly 18 recognizable application shortcuts in a clean grid of THREE columns and SIX rows on the left:
+
+Row 1: Google Chrome | Safari | Gmail
+Row 2: YouTube | Spotify | Discord
+Row 3: Slack | Zoom | Microsoft Teams
+Row 4: Notion | Microsoft Word | Microsoft Excel
+Row 5: Instagram | Reddit | Netflix
+Row 6: Steam | Dropbox | Google Drive
+
+Use accurate recognizable logos, consistent icon sizes, generous spacing, and crisp white English labels beneath each icon. Use macOS-style rounded-square treatments where appropriate. Keep all icons separate from the subject, with no duplicates or missing items.
+
+MACOS INTERFACE
+Include a thin translucent menu bar across the top:
+Apple symbol, Finder, File, Edit, View, Go, Window, Help.
+Place small system status icons and a clock at the upper right.
+
+Add a modest translucent rounded Dock along the bottom center, shifting slightly left if necessary to avoid the subject. Include Finder, Safari, Messages, Mail, Photos, Calendar, System Settings, a separator, Downloads, and Trash.
+
+FINAL RESULT
+Create a cohesive personalized desktop screenshot with a character-inspired wallpaper, clean English interface elements, and balanced spacing. The subject should feel naturally integrated into the wallpaper rather than pasted onto it.
+
+Render the desktop directly edge to edge. No physical computer, monitor bezel, perspective tilt, open application windows, promotional banners, large titles, extra subjects, or additional desktop icons.
 ```
 
 </details>
@@ -4385,65 +4453,6 @@ Use only one main action per shot.
 Keep text large and readable.
 Do not overcrowd scenes.
 No character morphing, extra fingers, duplicated objects, inconsistent clothing, flickering, warped fruit, or sudden background changes.
-```
-
-</details>
-
-<a id="seedance-toddler-fruit-names-classroom"></a>
-### Toddler learns fruit names in 3D classroom
-
-<a href="https://x.com/Zarnab_with_Ai/status/2108381024417993043"><img src="../../previews/seedance-toddler-fruit-names-classroom.jpg" width="360"></a>
-
-The prompt splits 20 seconds into eight numbered scenes, each pairing one fruit with one baby reaction and one on-screen word. A closing style block locks character, outfit, camera angle, voiceover and music across all scenes.
-
-Seedance 2.5 · Text-to-video · Source: [@Zarnab_with_Ai on X](https://x.com/Zarnab_with_Ai/status/2108381024417993043) · found via [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`3d-animation`](tags.md#tag-3d-animation) [`kids-education`](tags.md#tag-kids-education) [`multi-scene`](tags.md#tag-multi-scene) [`voiceover`](tags.md#tag-voiceover) [`vertical`](tags.md#tag-vertical)
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create a 20-second ultra-realistic, adorable 3D animated educational video for toddlers. A cute baby girl with big sparkling brown eyes, rosy cheeks, soft brown hair, and a white colorful kids' T-shirt sits at a small table in a beautiful preschool classroom. The classroom features pastel-colored walls, rainbow decorations, clouds, stars, colorful toys, pencils, and soft natural sunlight coming through the window.
-
-Scene 1 – Banana 🍌: A hand gently presents a fresh yellow banana to the baby. She looks at it with curiosity and smiles happily. Display the word “BANANA” in large, colorful, playful 3D letters at the top of the screen, with a banana emoji.
-
-Scene 2 – Apple 🍎: The hand presents a shiny red apple. The baby opens her mouth in excitement and reaches toward the fruit. Display “APPLE” in bright, multicolored 3D letters.
-
-Scene 3 – Orange 🍊: A fresh orange is presented. The baby makes a cute surprised expression with her lips forming an O. Display “ORANGE” in bold, colorful letters.
-
-Scene 4 – Grapes 🍇: Show a bunch of fresh purple grapes on the table. The baby looks down at the grapes and laughs joyfully. Display “GRAPES” in large purple 3D letters.
-
-Scene 5 – Watermelon 🍉: A hand presents a juicy red watermelon slice with black seeds and green rind. The baby smiles excitedly and points toward it. Display “WATERMELON” in bright, playful letters.
-
-Scene 6 – Mango 🥭: Present a ripe golden-yellow mango. The baby opens her mouth with excitement and smiles at the fruit. Display “MANGO” in colorful 3D letters.
-
-Scene 7 – Strawberry 🍓: Show a fresh, bright red strawberry with green leaves. The baby raises her finger happily and smiles. Display “STRAWBERRY” in large, attractive letters.
-
-Scene 8 – Pineapple 🍍: Present a beautiful golden pineapple with green spiky leaves. The baby claps her hands with delight. Display “PINEAPPLE” in colorful 3D letters.
-
-Final Scene: The baby looks directly at the camera, smiles warmly, and gives a cute thumbs-up gesture.
-
-🎨 Visual Style & Animation
-
-Ultra-cute, high-quality 3D animation with a Pixar-inspired aesthetic.
-
-Soft, realistic lighting and vibrant pastel colors.
-
-Adorable facial expressions, natural blinking, and smooth hand movements.
-
-Keep the same baby character, outfit, classroom, and camera angle throughout.
-
-Each fruit must be clearly visible and recognizable.
-
-Display each fruit's English name in large, bold, colorful 3D letters at the top.
-
-Gentle camera movements, smooth transitions, and cheerful children's background music.
-
-Add a friendly female voice pronouncing each fruit's English name clearly.
-
-Vertical 9:16 format, high resolution, suitable for YouTube Shorts and children's educational content.
-
-No scary elements, no distorted faces, no extra fingers, and no character changes.
 ```
 
 </details>

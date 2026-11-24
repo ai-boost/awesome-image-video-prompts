@@ -1,0 +1,65 @@
+id: seedance-korean-kitchen-phone-recording
+title:
+  en: Woman finds old earphones behind fridge
+  zh: 女子在冰箱后找到旧耳机
+model: Seedance 2.5
+mode: reference-to-video
+category: vlog
+tags:
+- handheld
+- phone-footage
+- dialogue
+- reference-image
+source:
+  name: '@Just_sharon7 on X'
+  url: https://x.com/Just_sharon7/status/2098681428280279512
+  credit: Just_sharon7
+  captured: '2026-11-24'
+  posted: '2026-09-12'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Just_sharon7/status/2098681428280279512
+notes:
+  en: A timed shot list with one audio cue per shot gives the clip a clear beat structure. Describing the camera as a casual handheld phone with tilted framing and autofocus shifts makes it read as home footage.
+  zh: 用带时间的分镜和每个镜头的音频提示，让片子有清楚的节奏。把镜头写成随手拿着手机拍的样子，画面歪斜、自动对焦来回切换，就有家庭录像的质感。
+prompt: |
+  A young Korean woman @[Image 1](image_1) is casually organizing her small apartment kitchen and dining area alone. (Image) provides only her face and hairstyle; She is the only person who appears throughout. @[Image 1](image_1)
+  The environment is a compact, lived-in apartment kitchen connected to a small dining space. The room feels naturally cluttered but comfortable: a few grocery bags near the counter, dishes drying beside the sink, a half-open cabinet, a small wooden dining table with a ceramic mug and unopened mail, a dish towel hanging unevenly from the oven handle, a refrigerator covered with a few small magnets and handwritten notes, and a couple of reusable shopping bags resting near the doorway. Warm orange evening sunlight enters through partially open blinds, creating realistic patches of light across the floor and countertops.
+  Her behavior is quiet, casual, and completely unperformed. She is simply doing ordinary household chores when she unexpectedly notices something behind the refrigerator.
+  The sequence should feel like an authentic personal phone recording rather than a professionally produced commercial or cinematic scene.
+  SHOT 1 — 0–2s:
+  She wipes down the kitchen counter with a slightly damp cloth while casually moving a few everyday objects out of the way. The camera is handheld from a slightly low side angle, as if someone casually holding a phone while standing nearby. The framing is imperfect and slightly tilted. She quietly hums under her breath while cleaning.
+  Audio: cloth rubbing against the countertop, faint refrigerator hum, distant neighborhood ambience.
+  SHOT 2 — 2–4s:
+  As she reaches toward the floor to pick up a reusable shopping bag, she notices something small wedged behind the refrigerator. She pauses and leans down to see it better. The camera quickly tilts downward and moves closer with a natural handheld wobble.
+  She quietly says:
+  "어? 저게 뭐야?"
+  ("Huh? What's that?")
+  Audio remains completely live and imperfect.
+  SHOT 3 — 4–6s:
+  She crouches beside the refrigerator and reaches one hand into the narrow gap behind it. She struggles slightly to reach the object, shifting her body and pulling the shopping bag out of the way. Her sweatshirt naturally wrinkles and moves with her body.
+  The camera moves closer from above her shoulder, briefly losing focus before refocusing on her hand.
+  She murmurs:
+  "잠깐만…"
+  ("Wait a second…")
+  SHOT 4 — 6–8s:
+  She finally manages to pull the object free. It is an old pair of wired earphones tangled into a small knot, clearly something she had forgotten months ago. She holds them in front of her and looks genuinely confused for a moment.
+  She turns the earphones over in her fingers, inspecting them naturally.
+  She says softly:
+  "이게 왜 여기 있어?"
+  ("Why is this here?")
+  No exaggerated reaction.
+  SHOT 5 — 8–10s:
+  Close handheld shot from slightly below eye level. She suddenly recognizes the earphones and gives a small, genuine laugh. Her expression changes from confusion to amused realization.
+  She says:
+  "아… 예전에 쓰던 거네."
+  ("Ah… these are the ones I used to use.")
+  The camera gently drifts closer, with realistic smartphone autofocus briefly shifting between her face and the earphones.
+  SHOT 6 — 10–13s:
+  She looks around the messy kitchen and realizes there are still several things left to organize. She gives a tiny tired sigh, places the old earphones on the dining table beside the mug, then picks up the cloth again.
+  She quietly mutters with a faint smile:
+  "정리할 게 왜 이렇게 많아…"
+  ("Why is there so much to clean up…")
+  She immediately continues wiping the counter.
+  SHOT 7 — 13–15s:
+  The camera slowly backs away toward the entrance of the apartment, still handheld and slightly shaky. She continues casually cleaning the kitchen without acknowledging the camera. The warm evening sunlight remains visible through the blinds while the apartment feels naturally quiet and lived-in.
+  The final moment should feel completely ordinary, as though the recording simply happened to capture a tiny unexpected discovery during a normal evening.

@@ -1,6 +1,6 @@
 # 角色与手办
 
-[返回目录](../../README_zh.md) · 全部 113 条
+[返回目录](../../README_zh.md) · 全部 115 条
 
 <a id="gpt-image-tanjiro-pixel-sprite-sheet-water-attack"></a>
 ### 炭治郎十六帧像素精灵图与水之呼吸攻击
@@ -3582,6 +3582,39 @@ Style: Flat vector illustration, thick outlines, white background for each panel
 
 </details>
 
+<a id="gpt-image-chibi-couple-head-pat"></a>
+### Q版情侣玩闹式摸头互动
+
+<a href="https://x.com/Sairah_0/status/2093929087010246754"><img src="../../previews/gpt-image-chibi-couple-head-pat.jpg" width="360"></a>
+
+把模板中的场景占位替换为一个具体动作，模型就有明确的姿势可画，风格段落则锁定铅笔蜡笔质感和粉彩配色。纯白背景与居中的全身构图让两个人物清晰可读，四周留有空白。
+
+GPT Image 2 · 文生图 · 出处: [@Sairah_0 on X](https://x.com/Sairah_0/status/2093929087010246754) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`chibi`](tags.md#tag-chibi) [`couple`](tags.md#tag-couple) [`colored-pencil`](tags.md#tag-colored-pencil) [`japanese-illustration`](tags.md#tag-japanese-illustration)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a cute hand-drawn Japanese chibi illustration of two characters interacting in a sweet, playful moment. Use a soft traditional colored-pencil and crayon drawing style, with visible sketchy pencil strokes, slightly rough imperfect outlines, gentle pastel coloring, and a handmade children’s storybook feel. Characters should have oversized heads, tiny bodies, simple oval black eyes, tiny smiling mouths, rosy cheeks, and expressive innocent faces. Give them natural, adorable poses and interactions, with clothing and hairstyles matching the requested scene. Keep the composition clean and minimal on a plain white background, with plenty of negative space. Add small hand-drawn decorative elements such as hearts, sparkles, or motion lines around the characters where appropriate. Soft pastel palette, subtle paper texture, delicate linework, slightly imperfect coloring, cozy wholesome romantic atmosphere, full-body composition, centered characters, high-quality illustration.
+
+For different scenes
+
+Replace this part:
+
+“two characters interacting in a sweet, playful moment”
+
+with whatever you want, e.g.:
+•“a couple holding hands while walking”
+•“a boy surprising a girl with flowers”
+•“two friends laughing together”
+•“a couple sitting together under an umbrella”
+•“a girl teasing a shy boy”
+•“two characters taking a cute selfie”
+```
+
+</details>
+
 <a id="gpt-image-chibi-fighter-pixel-sprite-sheet"></a>
 ### Q版女学生格斗家像素精灵图
 
@@ -4242,6 +4275,77 @@ GPT Image 2 · 文生图 · 出处: [@0xInk_ on X](https://x.com/0xInk_/status/2
 
 ```text
 Create a full-body character concept illustration of a Happy Samurai: a tall, lean, shirtless wandering samurai standing relaxed against a plain warm off-white background. He wears a vivid red tengu/oni-style mask with an extremely long pointed nose, two tall horns, dark expressive eye openings, and a wide laughing open mouth, giving him a mischievous happy expression. Small purple flowers are tucked near the mask and hair. Pose him in a casual contrapposto stance, one arm draped lazily over a long black sheathed katana or staff balanced horizontally across his shoulders, the weapon stretching far beyond both sides of his body; the right end has a black-and-gold diamond-wrapped handle and dangling tassel, the left end is a dark scabbard with subtle fittings. Dress him in tattered layered samurai clothing: a loose pale gray-blue haori slipping off one shoulder, dark green inner robe panels hanging raggedly, oversized dark blue hakama pants cropped above the ankles, a thick tan rope belt tied in a large knot at the waist, and straw rope sandals on bare feet. Use angular painterly brushwork, high-fashion character design proportions, sharp cel-shaded planes, rough ink-like edges, visible fabric tears and folds, earthy muted colors with strong black accents, minimal ground shadow, and lots of negative space. No text, no border, no watermark.
+```
+
+</details>
+
+<a id="gpt-image-train-yard-fight-board"></a>
+### 动漫打斗短片：角色设定与分镜板
+
+<a href="https://x.com/Strength04_X/status/2093726038400585925"><img src="../../previews/gpt-image-train-yard-fight-board.jpg" width="360"></a>
+
+同一张图里既有角色设定，也有黑底分镜区，两个角色在十二格中保持一致。每格都标注镜头焦距、时间码和动作，模型会按镜头语言逐格排出完整的动作编排。
+
+GPT Image 2 · 文生图 · 出处: [@Strength04_X on X](https://x.com/Strength04_X/status/2093726038400585925) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+[`anime`](tags.md#tag-anime) [`storyboard`](tags.md#tag-storyboard) [`character-design`](tags.md#tag-character-design) [`action`](tags.md#tag-action)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a single vertical anime animation development board for an original high-energy action short film titled "Underground Train Yard Clash."
+
+The final output must be ONE combined image only, clearly divided into 2 sections:
+TOP SECTION: Character design sheet
+BOTTOM SECTION: 12-frame storyboard page
+
+Create fully original anime characters. Do not imitate any existing anime, manga, game, or copyrighted character designs. Keep everything original, cinematic, dynamic, and easy to understand.
+
+STYLE: Premium anime pre-production board, loose pencil sketches mixed with semi-rendered anime keyframes, dramatic lighting, strong contrast, speed lines, impact frames, red panel borders, blue motion arrows, handwritten notes, timing notes, and lens notes.
+
+TOP SECTION — CHARACTER DESIGN SHEET
+Use a light neutral paper-like background.
+
+Fighter A: Young anime street fighter, around 19, messy spiky dark brown hair, sharp hazel eyes, lean muscular build, cocky expression. Outfit: sleeveless zip jacket worn open, fitted tank top underneath, cargo pants, taped ankles, sneakers. Personality: fast, reckless, unpredictable, improvises mid-fight. Show front view, side view, back view, 3/4 view, low crouched dash stance, flying knee pose, wall-rebound kick pose, and a few expressions.
+
+Fighter B: Disciplined rival fighter, around 23, short clean-cut dark hair, calm brown eyes, broad powerful build, focused expression. Outfit: fitted compression long-sleeve, military trousers, heavy boots, forearm wraps. Personality: structured, powerful, shuts down opponents with efficiency. Show front view, side view, back view, 3/4 view, upright guard stance, shoulder block pose, single heavy straight punch pose, and a few expressions.
+
+Add small handwritten design notes and compact anime color swatches.
+
+BOTTOM SECTION — STORYBOARD PAGE
+Use a dark black background for the entire storyboard section. Do not use beige, yellow, or paper-colored background here.
+
+Create 12 cinematic anime storyboard panels in a clean grid. Use red panel borders, blue motion arrows, handwritten camera notes, timing notes, and action notes. Keep both fighters visually consistent.
+
+12 STORYBOARD FRAMES:
+
+➤ Split-screen with thick black divider: Fighter A balancing on top of a stationary train car, arms loose, grinning (upper frame); Fighter B standing on the concrete platform below, arms at his sides, waiting (lower frame).
+
+➤ Split-screen close-ups: Fighter A's sneaker taps the train roof impatiently; Fighter B's forearm wraps tighten as he clenches his fists.
+
+➤ Wide shot of the underground train yard — dim overhead lights, parked train cars, Fighter A drops down from the roof to face Fighter B on the platform.
+
+➤ Fighter A dashes forward and launches a flying knee strike.
+
+➤ Tracking shot of the flying knee closing in fast.
+
+➤ Slow-motion: Fighter B raises his forearm and blocks the knee hard, shockwave of force visible in slow motion.
+
+➤ Fighter B grabs Fighter A mid-air and slams him down onto the concrete platform.
+
+➤ Fighter A bounces up immediately and sprints toward a train car wall.
+
+➤ Fighter A rebounds off the wall and launches a spinning heel kick.
+
+➤ Fighter B side-steps and the kick misses, Fighter A stumbles forward.
+
+➤ Fighter B delivers one single devastating straight punch directly into Fighter A's chest.
+
+➤ Aftermath: Train yard goes quiet. Fighter B stands on the platform, composed. Fighter A is down against the base of the train car, dim lights flickering above, train cars stretching into darkness behind them.
+
+ENVIRONMENT: Underground train yard, dim overhead industrial lights, concrete platform, parked train cars, dark tunnels stretching beyond, dust, scattered gravel, flickering lights.
+
+FINAL GOAL: Make the board clean, readable, cinematic, and production-ready. The top section should clearly show the character designs. The bottom section should clearly show the 12-frame action choreography on a black storyboard background.
 ```
 
 </details>

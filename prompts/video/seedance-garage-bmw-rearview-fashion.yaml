@@ -1,0 +1,32 @@
+id: seedance-garage-bmw-rearview-fashion
+title:
+  en: Woman's eyes in a black BMW rearview mirror
+  zh: 黑色宝马后视镜中的女子眼神
+model: Seedance 2.5
+mode: reference-to-video
+category: commercial
+tags:
+- fashion
+- automotive
+- character-reference
+source:
+  name: '@MissDelulu9 on X'
+  url: https://x.com/MissDelulu9/status/2122893591681085545
+  credit: MissDelulu9
+  captured: '2026-11-24'
+  posted: '2026-11-18'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/MissDelulu9/status/2122893591681085545
+notes:
+  en: An uploaded character sheet locks the identity, and the prompt repeats the same car and no extra people rule so every shot keeps one model and one vehicle. The seven named shots, each paired with a camera move such as push in, whip pan, speed ramp or match cut, give the model a clear edit order.
+  zh: 上传角色设定图锁定人物身份，并重复要求同一辆车、不出现其他人，让每个镜头保持同一人物和同一车辆。七个命名镜头各自配有推进、甩镜、变速或匹配剪辑等运镜词，为模型提供清晰的剪辑顺序。
+prompt: |
+  Create a 10-second, 16:9 widescreen cinematic luxury automotive fashion video in Full HD. Use the uploaded character sheet as the exact identity reference. Maintain identical face, hairstyle, body, outfit, and accessories throughout.
+
+  Feature the same glossy black modified BMW 318i M40 in every shot. No vehicle changes or extra people.
+
+  7 fast cinematic shots: Rearview mirror close-up, driver-seat pose, backseat fashion pose, sitting on hood, overhead roof pose, leaning against open door, and final portrait beside the front wheel.
+
+  Style: Luxury fashion editorial, ARRI Alexa look, dramatic industrial parking garage, glossy reflections, cinematic lighting, shallow depth of field.
+
+  Camera: Fast push-ins, tracking shots, low-angle orbits, overhead movements, whip pans, speed ramps, and seamless match cuts.

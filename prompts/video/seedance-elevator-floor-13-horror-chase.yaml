@@ -1,0 +1,26 @@
+id: seedance-elevator-floor-13-horror-chase
+title:
+  en: Woman escapes monsters after elevator reaches floor 13
+  zh: 电梯升至十三层 女子逃离怪物追杀
+model: Seedance 2.5
+mode: text-to-video
+category: action
+tags:
+- halloween
+- horror
+- action
+source:
+  name: '@AIwithkhan on X'
+  url: https://x.com/AIwithkhan/status/2113993237119844684
+  credit: AIwithkhan
+  captured: '2026-11-24'
+  posted: '2026-10-24'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/AIwithkhan/status/2113993237119844684
+notes:
+  en: The prompt lays out the story as ordered beats of action, then closes with a separate STYLE block for realism, lighting, camera and sound cues. Concrete props like the metal lamp and the phone screen give the model visible story anchors to hold across shots.
+  zh: 提示词把剧情写成按顺序排列的动作节拍，最后用单独的 STYLE 段落说明写实质感、光线、镜头和声音。金属台灯、手机屏幕等具体道具为模型提供可见的剧情锚点，便于前后镜头保持一致。
+prompt: |
+  Create an ultra-realistic Halloween horror-action video featuring a young adult Korean woman with long black hair, wearing a black crop top, leather jacket, short dark skirt, and black boots. She escapes a mysterious figure during a thunderstorm and enters an abandoned hotel's elevator. The floor display suddenly changes to 13, revealing a blood-stained corridor filled with terrifying creatures. She sprints through dark hallways, smashes a creature with a metal lamp, jumps onto a collapsing balcony, and fights her way toward the exit as monsters chase her. She finally escapes into the rain, only to discover her phone displaying “FLOOR 13.” A monstrous reflection appears behind her before the screen cuts to black.
+
+  STYLE: Photorealistic live-action horror, intense action, flickering lights, creepy shadows, realistic creature movements, cinematic camera work, thunder, screams, and suspenseful sound effects. No cartoon, anime, subtitles, or watermark.

@@ -1,6 +1,6 @@
 # 写实照片
 
-[返回目录](../../README_zh.md) · 全部 136 条
+[返回目录](../../README_zh.md) · 全部 138 条
 
 <a id="gpt-image-coca-cola-tanker-leak-mentos-truck-dashcam"></a>
 ### 可口可乐罐车漏液，旁边是Mentos货车
@@ -2488,6 +2488,38 @@ The setting is a brightly lit industrial interior with a high cream-colored ceil
 
 </details>
 
+<a id="nano-banana-valentines-gen-z-bedroom-vlog"></a>
+### Z世代情侣在卧室拍摄情人节vlog
+
+<a href="https://x.com/oggii_0/status/2022330346747154568"><img src="../../previews/nano-banana-valentines-gen-z-bedroom-vlog.jpg" width="360"></a>
+
+提示词用具体道具和单一光源（透过薄纱窗帘的夕阳加上彩灯光晕）锁定场景，再指定35mm镜头和手持手机入镜的画面，让成片有博主自拍般的随拍感。
+
+Nano Banana Pro · 文生图 · 出处: [@oggii_0 on X](https://x.com/oggii_0/status/2022330346747154568) · 51 赞，统计于 2026-11-24
+
+[`valentines-day`](tags.md#tag-valentines-day) [`golden-hour`](tags.md#tag-golden-hour) [`couple`](tags.md#tag-couple) [`lifestyle`](tags.md#tag-lifestyle)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Valentine's moment using Nano Banana Pro on
+@SocialSight
+
+
+Prompt: Create a hyper-realistic, trendy Gen Z Valentine’s Day scene inside a cozy, aesthetic bedroom during late afternoon golden hour.
+The room has soft pastel walls, fairy lights, heart-shaped wall décor, polaroid photos, plush pillows, and scattered fashion magazines. Natural sunlight streams through sheer curtains, casting warm golden light across the space.
+A stylish young couple sits casually on a messy bed covered with white and blush blankets.
+The man wears relaxed streetwear — oversized hoodie, loose jeans, layered chains, soft curls slightly messy.
+The woman wears an oversized pink sweater with knee-high socks, natural dewy makeup, glossy lips, and soft waves in her hair.
+She holds a phone up as if filming a “Get Ready With Me – Valentine Edition” video while he leans in from behind, smiling playfully at the camera. They look relaxed, flirty, and authentic — candid but cinematic.
+Heart-shaped balloons rest on the floor, and a glowing pink LED sign reading “Be Mine” is mounted on the wall.
+Lighting: warm natural golden hour light + soft fairy light glow.
+Lens: 35mm lifestyle lens, shallow depth of field, creamy background blur.
+Style: ultra-detailed, soft skin texture, cozy influencer aesthetic, TikTok vibe, romantic but modern, candid editorial photography.
+```
+
+</details>
+
 <a id="gpt-image-satin-bustier-living-room-selfie"></a>
 ### 身穿缎面抹胸上衣在室内自拍的女性
 
@@ -3201,6 +3233,25 @@ Nano Banana Pro · 文生图 · 出处: [@eachlabs on X](https://x.com/eachlabs/
     }
   ]
 }
+```
+
+</details>
+
+<a id="nano-banana-sunlit-kitchen-coffee-couple"></a>
+### 阳光厨房里一对笑着冲手冲咖啡的情侣
+
+<a href="https://x.com/iamsofiaijaz/status/2022487204791275711"><img src="../../previews/nano-banana-sunlit-kitchen-coffee-couple.jpg" width="360"></a>
+
+把画面定为抓拍式并指定浅景深、黄金时刻光线和自然皮肤质感，可以让模型避开摆拍的图库感。窗边光线和空气中飘动的尘埃这类具体光源描述，让画面更有温度。
+
+Nano Banana Pro · 文生图 · 出处: [@iamsofiaijaz on X](https://x.com/iamsofiaijaz/status/2022487204791275711) · 31 赞，统计于 2026-11-24
+
+[`couple`](tags.md#tag-couple) [`coffee`](tags.md#tag-coffee) [`candid-photo`](tags.md#tag-candid-photo) [`golden-hour`](tags.md#tag-golden-hour)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+A close-up, candid photo of a diverse couple laughing together in a cozy sunlit kitchen. They are making coffee, morning light streaming through a window with dust motes dancing in the air. Natural skin textures, shallow depth of field, warm golden hour lighting, cozy aesthetic, high-quality photography.
 ```
 
 </details>

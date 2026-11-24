@@ -1,6 +1,6 @@
 # 电影感场景与短片
 
-[返回目录](../../README_zh.md) · 全部 178 条 · **1** · [2](video-cinematic-2.md)
+[返回目录](../../README_zh.md) · 全部 182 条 · **1** · [2](video-cinematic-2.md)
 
 <a id="h3-character-detail-montage"></a>
 ### 二十镜头角色细节蒙太奇，最后才露脸
@@ -893,6 +893,25 @@ Must-have requirements:
 * No cartoon visuals, no cheap CGI appearance, no text, no logos, no watermark.
 
 Creative goal: Make it feel like a billion-dollar Halloween movie compressed into 15 seconds — beautiful, creepy, magical, unexpected, and impossible to scroll past. 🎃🔥
+```
+
+</details>
+
+<a id="kling-jungle-waterfall-30s-journey"></a>
+### 身着白裙的女子穿过薄雾丛林
+
+<a href="https://x.com/alixbuilds/status/2118580185176187124"><img src="../../previews/kling-jungle-waterfall-30s-journey.jpg" width="360"></a>
+
+用带时间码的分镜段落（0到6秒、6到12秒等）为30秒视频提供逐段结构，结尾的画质描述与单独的负面提示词（无卡通风格、无变形面部、无多余手指）共同约束写实效果。
+
+Kling 4.0 · 文生视频 · 出处: [@alixbuilds on X](https://x.com/alixbuilds/status/2118580185176187124) · 310 赞，统计于 2026-11-24
+
+[`jungle`](tags.md#tag-jungle) [`waterfall`](tags.md#tag-waterfall) [`multi-scene`](tags.md#tag-multi-scene) [`rainbow`](tags.md#tag-rainbow)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create an ultra-realistic cinematic adventure video, exactly 30 seconds long, in vertical 9:16 format. Scene 1 (0–6 seconds): A beautiful young woman wearing an elegant flowing white dress walks through a mysterious tropical jungle. Sunlight shines through giant trees while soft mist floats in the air. Scene 2 (6–12 seconds): She discovers an enormous waterfall hidden behind ancient mountains. Thousands of birds fly across the sky as water crashes dramatically into a crystal-clear lake. Scene 3 (12–18 seconds): She approaches the edge of the lake and touches the water. Magical glowing flowers begin blooming around her feet. Scene 4 (18–24 seconds): The camera rises above the jungle, revealing breathtaking floating islands, multiple waterfalls, colorful birds, and magnificent mountains covered in clouds. Scene 5 (24–30 seconds): A giant rainbow appears above the waterfall. The woman stands peacefully looking at the magical landscape as the camera slowly pulls back into an epic aerial wide shot. Visual Quality: Ultra-photorealistic, cinematic filmmaking, 4K HDR, realistic water simulation, natural human movements, beautiful lighting, detailed environments, smooth camera transitions, professional color grading. Negative Prompt: No cartoon style, no distorted faces, no extra fingers, no unnatural movements, no flickering, no text, no subtitles, no logos, no watermark
 ```
 
 </details>
@@ -4283,59 +4302,6 @@ Seedance 2.5 · 文生视频 · 出处: [@Dheepanratnam on X](https://x.com/Dhee
 
 ```text
 [SCENE] A 30-second stylised 3D animated short. A handmade clay mug at the back of a kitchen cupboard waits to be chosen, while the perfect porcelain cups at the front are used every day. Warm, funny, quietly moving. 2.35:1.
-```
-
-</details>
-
-<a id="seedance-clown-pumpkin-bat-halloween"></a>
-### 小丑用棒球棒击碎发光南瓜
-
-<a href="https://x.com/iam_mian7/status/2116450954296074371"><img src="../../previews/seedance-clown-pumpkin-bat-halloween.jpg" width="360"></a>
-
-按编号逐步描述动作，并固定中景正面机位，让模型有清晰的时间线。爆裂段明确要求慢动作和真实物理效果，结尾精确指定白色大写字幕，使高潮与收尾更易读。
-
-Seedance 2.5 · 文生视频 · 出处: [@iam_mian7 on X](https://x.com/iam_mian7/status/2116450954296074371) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`halloween`](tags.md#tag-halloween) [`horror`](tags.md#tag-horror) [`slow-motion`](tags.md#tag-slow-motion) [`vfx`](tags.md#tag-vfx)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a hyper-realistic, cinematic Halloween video in vertical 9:16 format, approximately 10 seconds long, with photorealistic 4K quality.
-
-Scene and Environment:
-A dark, spooky forest at night, filled with tall leafless trees, thick atmospheric fog, subtle floating red glowing particles, and dramatic moonlight. In the foreground, place a rustic, weathered wooden table.
-
-Main Character:
-A beautiful young female Halloween clown standing behind the table. She wears an elaborate vintage circus clown costume featuring a black-and-white checkered bodice, red decorative accents, a layered grey tulle skirt, white gloves, and two high curly buns decorated with red roses. Her face has elegant but slightly creepy Halloween clown makeup, with pale skin, dark eyes, and red details.
-
-Action Sequence:
-
-1. The camera remains fixed in a medium-wide frontal shot. The clown enters the scene holding a glowing orange jack-o'-lantern pumpkin. Several red helium balloons float above and behind her.
-
-2. She carefully places the pumpkin on the wooden table, adjusting it with both hands. The pumpkin has a realistically carved, illuminated scary face.
-
-3. She steps back, looks at the pumpkin, and raises her hands with a playful, mischievous expression.
-
-4. A large wooden baseball bat suddenly appears in her hands. She grips it firmly with both hands and prepares to swing.
-
-5. She performs a powerful horizontal baseball swing, striking the pumpkin with full force.
-
-6. On impact, the pumpkin explodes dramatically into hundreds of realistic orange pieces, flying pumpkin seeds, glowing embers, and fiery particles. Create a spectacular cinematic slow-motion explosion with realistic physics.
-
-7. Finish with the clown holding her follow-through batting pose while pumpkin fragments scatter across the wooden table and foreground.
-
-**Final Frame:**
-Display bold, clean white uppercase text at the bottom center:
-
-"HAPPY HALLOWEEN"
-
-Visual Style:
-Ultra-photorealistic cinematic horror fantasy, realistic human anatomy, detailed facial expressions, natural character movement, physically accurate object interactions, dramatic volumetric lighting, atmospheric fog, realistic fire and particle effects, professional Hollywood VFX, sharp details, natural motion blur.
-
-Camera: Fixed frontal camera, medium-wide composition, no cuts, no zooms, consistent character appearance and costume throughout.
-
-Important: No cartoon aesthetics, no animation look, no plastic skin, no character morphing, no extra limbs, no distorted hands, no scene transitions, and no changes to the character's identity.
 ```
 
 </details>

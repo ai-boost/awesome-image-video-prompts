@@ -1,0 +1,25 @@
+id: wan-mech-portal-boy-dog-snow
+title:
+  en: Boy and dog watch mech in snowy forest
+  zh: 男孩和狗在雪林中注视机甲
+model: Wan 3.0
+mode: text-to-video
+category: scifi-fantasy
+tags:
+- mech
+- portal
+- winter-forest
+- dog
+source:
+  name: '@laviniavelle on X'
+  url: https://x.com/laviniavelle/status/2121118690137743382
+  credit: Lavinia
+  likes: 232
+  captured: '2026-11-24'
+  posted: '2026-11-13'
+video: https://x.com/laviniavelle/status/2121118690137743382
+notes:
+  en: The prompt breaks the action into ordered beats with concrete props, such as the red artifact and the blue arc reactor lights, so the mech approach, pickup and portal opening stay in sequence. Describing the cast by costume and breed keeps the boy and the golden retriever consistent across the shot.
+  zh: 提示词把动作拆成有先后顺序的节点，并给出具体道具，如红色神器和胸口的蓝色弧反光，使机甲靠近、拾取和开启传送门的顺序清晰。用服装和犬种描述人物与狗，让两者在镜头中保持一致。
+prompt: |
+  Cinematic action sequence in a snowy pine forest. A young teenage boy in a winter jacket and his golden retriever dog crouch behind a snow-covered rock, watching in awe as a massive, advanced robotic mech suit made of brushed silver metal steps forward. The mech has glowing blue arc reactor lights on its chest and faceplate. It walks past them, approaches a glowing red artifact on the snowy ground, picks it up, and triggers a swirling blue energy portal gateway between the pine trees. High detail, photorealistic visual effects, dramatic cinematic lighting, winter atmosphere, 4k resolution.

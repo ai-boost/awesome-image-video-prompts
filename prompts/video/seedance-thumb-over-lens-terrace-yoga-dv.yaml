@@ -1,0 +1,42 @@
+id: seedance-thumb-over-lens-terrace-yoga-dv
+title:
+  en: Shaky DV clip of terrace yoga with peeking kids
+  zh: 晃动的DV录像：露台瑜伽与偷看的孩子
+model: Seedance 2.5
+mode: image-to-video
+category: vlog
+tags:
+- dv-camcorder
+- vlog
+- yoga
+- found-footage
+source:
+  name: '@doctorwasif on X'
+  url: https://x.com/doctorwasif/status/2122201520599122207
+  credit: doctorwasif
+  captured: '2026-11-24'
+  posted: '2026-11-16'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/doctorwasif/status/2122201520599122207
+notes:
+  en: The prompt fixes identity, outfit and location once, then drives the action with a timed beat sheet so the same woman stays consistent through each move. Raw camcorder cues such as a thumb over the lens, autofocus hunting, exposure pumping and a faded grade, plus an explicit ban on stabilization and cinematic glamour, carry the early-2000s home-video look.
+  zh: 提示词先固定人物身份、服装和场景，再用按秒分段的动作表推进画面，让同一人物在每个动作中保持一致。手指遮镜头、自动对焦摇摆、曝光起伏和褪色画面等DV特征营造早期家用录像感，禁用项则排除防抖和电影质感。
+prompt: |
+  Preserve image’s exact identity, face, hairstyle, skin tone, body proportions, and reference outfit throughout. Authentic early-2000s Southeast Asian/Korean home-video atmosphere.
+
+  Location: Simple residential house terrace with concrete steps, worn yoga mat, low boundary wall, potted plants, tangled overhead wires, soft morning light. No commercial activity.
+
+  - 0–3s: Chaotic handheld camera swings, thumb briefly covers lens. Friend whispers, “Is it recording?”
+  - 3–6s: She sits cross-legged on the mat, closes eyes, breathes calmly.
+  - 6–9s: Raises arms and slowly folds forward into a stretch.
+  - 9–12s: Notices camera, gives a shy finger wave and smile.
+  - 12–16s: Moves into downward dog, naturally adjusting her heels.
+  - 16–22s: Two curious kids peek over the wall, hide, then reappear giggling and waving. She laughs and waves back.
+  - 22–26s: Rolls up mat and sits on the terrace steps.
+  - 26–30s: Holds hot tea, blows on it, takes a sip, smiles directly at camera. Abrupt cut to black.
+
+  Visual style: Extremely raw, shaky handheld early-2000s DV camcorder footage. Unplanned framing, accidental cropping, autofocus hunting, exposure pumping, motion blur, rolling shutter, digital noise, compression artifacts, faded desaturated colors, washed-out highlights. Imperfect amateur home-video realism.
+
+  Audio: Natural ambience only—birds, breeze, distant motorcycles, camera handling, whispered conversation, laughter, children giggling, breathing, mat movement and tea glass clink. No music.
+
+  Strictly avoid: Posing, commercial aesthetics, cinematic glamour, stabilization, perfect composition, modern color grading.

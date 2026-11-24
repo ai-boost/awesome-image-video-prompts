@@ -1,0 +1,56 @@
+id: gpt-image-2-6-gingerbread-cookie-royal-icing-portrait
+title:
+  en: Personalized gingerbread cookie portrait with royal icing outfit
+  zh: 个性化姜饼饼干肖像，皇家糖霜装饰冬季服饰
+model: GPT Image 2.6
+mode: image-edit
+category: photo-to-art
+tags:
+- christmas
+- gingerbread
+- royal-icing
+- personalized
+source:
+  name: '@Goodmanprotocol on X'
+  url: https://x.com/Goodmanprotocol/status/2125200470910402892
+  credit: Saul Goodman
+  likes: 20
+  captured: '2026-11-24'
+  posted: '2026-11-24'
+notes:
+  en: The prompt asks for a full body cookie shaped like the reference subject, then lists each garment with its material so every piece reads as piped royal icing. The reference photo sits as a small inset in the upper left corner, so the transformation appears in the same frame as the result.
+  zh: 提示词要求把参考照片中的人物做成全身姜饼，并逐件列出服装和材质，让每件衣物都呈现为裱花糖霜质感。参考照片以小方框嵌入左上角，在同一画面中展示转换前后的对比。
+prompt: |
+  PERSONALIZED GINGERBREAD COOKIE | 3D ROYAL ICING ART
+
+  Transform the person in the uploaded reference photograph into an exquisitely detailed, handcrafted gingerbread cookie sculpture, preserving their recognizable facial features, hairstyle, and overall appearance.
+
+  1. COOKIE DESIGN & SILHOUETTE
+
+  Create a large, full-body gingerbread cookie shaped precisely like the person, with a beautifully cut silhouette and slightly golden-brown baked edges. The entire figure must be decorated using intricate, professionally piped royal icing, giving it the appearance of an edible miniature sculpture.
+
+  2. OUTFIT & DETAILS
+
+  Dress the character in a cozy winter outfit:
+
+  - A vibrant red knitted beanie with a pom-pom.
+  - A cream-colored cable-knit sweater recreated with detailed ivory royal icing.
+  - A long red, green, cream, and black tartan scarf with realistic plaid patterns and piped fringes.
+  - Black fitted trousers.
+  - Black winter boots decorated with white snow-like icing details.
+
+  3. FACE & HAIR
+
+  Recreate the person's face using smooth, carefully blended icing, maintaining recognizable facial characteristics. Add expressive eyes, delicate eyebrows, a natural smile, and dimensional facial details. Create long, flowing wavy brown hair using individually piped chocolate-colored icing strands.
+
+  4. ARTISTIC EXECUTION
+
+  Make every clothing texture, hair strand, accessory, and facial feature look like meticulously handcrafted royal icing. Use raised piping, dimensional frosting, subtle shadows, and realistic cookie textures. The result should look like an actual edible artisan gingerbread creation rather than a digital illustration.
+
+  5. PHOTOGRAPHY & COMPOSITION
+
+  Place the finished cookie flat on a light beige parchment surface, photographed from a slightly elevated overhead angle. Include a small rectangular inset of the original reference photograph in the upper-left corner to demonstrate the transformation.
+
+  Warm natural lighting, soft shadows, professional food photography, intricate details, sharp focus, realistic baked texture, elegant winter aesthetic.
+
+  Final result: A stunning, photorealistic, personalized gingerbread cookie portrait that looks genuinely handmade by a professional royal icing artist. No text, no watermark.

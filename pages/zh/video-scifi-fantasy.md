@@ -1,6 +1,6 @@
 # 科幻与奇幻
 
-[返回目录](../../README_zh.md) · 全部 101 条 · **1** · [2](video-scifi-fantasy-2.md)
+[返回目录](../../README_zh.md) · 全部 105 条 · **1** · [2](video-scifi-fantasy-2.md)
 
 <a id="seedance-lab-containment-breach"></a>
 ### 实验室收容失效，科幻恐怖
@@ -345,6 +345,66 @@ A desert wasteland filled with decaying mechs and overgrown cables. The camera f
 
 Made in
 @Kling_ai
+```
+
+</details>
+
+<a id="kling-lala-cerberus-volcano-spells"></a>
+### 拉拉站在俯瞰破火山口的高台上
+
+<a href="https://x.com/chatgptpaglu/status/2118313794384593389"><img src="../../previews/kling-lala-cerberus-volcano-spells.jpg" width="360"></a>
+
+用 @image 标签锁定每个参考角色的外形，并以米为单位写明人物身高与双方距离，让娇小的主角和 5.1 米的怪物在各镜头中比例保持一致。按秒分段的节拍表加上咒语喊声，让因果顺序清楚，严格规则条目则防止瞬移、多余生物等常见跑偏。
+
+Kling 4.0 · 参考生视频 · 出处: [@chatgptpaglu on X](https://x.com/chatgptpaglu/status/2118313794384593389) · 307 赞，统计于 2026-11-24
+
+[`character-lock`](tags.md#tag-character-lock) [`spell-battle`](tags.md#tag-spell-battle) [`fantasy`](tags.md#tag-fantasy) [`volcano`](tags.md#tag-volcano)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+CHARACTER LOCK:
+@image1
+ = Lala. Preserve exact face, identity, hairstyle, body, outfit and accessories. Her magical doll remains present and subtly responds to her gestures.
+@image2
+ = Cerberus. Preserve its exact three-headed anatomy, horns, proportions and appearance. Each head moves independently.
+
+ENVIRONMENT & SCALE: An enormous ancient volcanic caldera with black obsidian rocks, magma fissures, ash, steam and distant mountains. Lala stands on an elevated plateau; Cerberus occupies a lower basin 100 meters away. Lala is 1.7m tall and Cerberus 5.1m. Maintain their scale, distance and positions. Lala never leaves the plateau.
+
+00–04 | CONFRONTATION: Aerial camera reveals the caldera, Lala on the plateau and aggressive Cerberus in the lower basin. Its three heads roar independently as its paws crush volcanic rocks. Lala remains calm.
+
+04–07 | DOUBLECAST: Camera orbits Lala as she activates Doublecast through controlled hand gestures. Her doll responds subtly. No spoken announcement.
+
+07–13 | BLIZZAGA: Lala performs elegant, flowing gestures and shouts 「ブリザガ！」 (Burizaga). A powerful frost wave travels across the battlefield, freezing the basin, rocks and Cerberus. Ice progressively covers its entire body and all three heads, immobilizing it completely. Camera tracks the advancing frost and reveals the frozen beast.
+
+13–18 | FIRAGA: Lala immediately changes to firm, commanding gestures and shouts 「ファイガ！」 (Faiga). Magma erupts through ground fractures, lava flows across the basin, and existing ice melts into thick steam. The massive ice prison around Cerberus remains intact. Do not free or thaw it.
+
+18–22 | ELEMENTAL CONVERGENCE: A violent vortex forms around Cerberus. Sharp ice shards and heavy flowing magma converge from multiple directions, violently shattering its ice prison and striking the creature. Keep Cerberus recognizable at the center. No additional spell announcement.
+
+22–30 | ULTIMA: Lala performs a distinct authoritative gesture and shouts 「アルテマ！」 (Arutema). A colossal black-violet gravitational sphere forms above the basin, distorting space and pulling in ash, ice and debris. It descends and detonates directly over Cerberus. A devastating radial shockwave destroys the basin, displacing magma, ice and massive debris. The explosion remains confined to the lower basin, leaving Lala's elevated plateau outside the main blast. The sphere dissolves into fading particles. End on a wide shot of Lala calmly overlooking the destruction.
+
+CAMERA & STYLE: Premium live-action fantasy cinema, realistic elemental physics, cinematic lighting and sophisticated VFX. Use aerial wides, medium-full casting shots and dynamic ground-level tracking. Preserve clear geography and cause-and-effect.
+
+STRICT RULES: Exact identities and anatomy, consistent scale and distance, persistent environmental damage, distinct spell gestures. Cerberus stays frozen until convergence. No teleportation, duplicate characters, extra creatures, disappearing effects, resets, cartoon CGI, random cuts or unrelated dialogue.
+```
+
+</details>
+
+<a id="wan-mech-portal-boy-dog-snow"></a>
+### 男孩和狗在雪林中注视机甲
+
+<a href="https://x.com/laviniavelle/status/2121118690137743382"><img src="../../previews/wan-mech-portal-boy-dog-snow.jpg" width="360"></a>
+
+提示词把动作拆成有先后顺序的节点，并给出具体道具，如红色神器和胸口的蓝色弧反光，使机甲靠近、拾取和开启传送门的顺序清晰。用服装和犬种描述人物与狗，让两者在镜头中保持一致。
+
+Wan 3.0 · 文生视频 · 出处: [@laviniavelle on X](https://x.com/laviniavelle/status/2121118690137743382) · 232 赞，统计于 2026-11-24
+
+[`mech`](tags.md#tag-mech) [`portal`](tags.md#tag-portal) [`winter-forest`](tags.md#tag-winter-forest) [`dog`](tags.md#tag-dog)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Cinematic action sequence in a snowy pine forest. A young teenage boy in a winter jacket and his golden retriever dog crouch behind a snow-covered rock, watching in awe as a massive, advanced robotic mech suit made of brushed silver metal steps forward. The mech has glowing blue arc reactor lights on its chest and faceplate. It walks past them, approaches a glowing red artifact on the snowy ground, picks it up, and triggers a swirling blue energy portal gateway between the pine trees. High detail, photorealistic visual effects, dramatic cinematic lighting, winter atmosphere, 4k resolution.
 ```
 
 </details>
@@ -2046,6 +2106,84 @@ Final output: A photorealistic cinematic fantasy film with realistic physics and
 
 </details>
 
+<a id="seedance-dragon-reflection-golden-mirror"></a>
+### 龙在金色镜子里看见自己的倒影
+
+<a href="https://x.com/ZunairaSaeedAi/status/2123257938609586526"><img src="../../previews/seedance-dragon-reflection-golden-mirror.jpg" width="360"></a>
+
+带时间段的分镜清单加上连续性说明，在每个时间段重复角色、服装、镜子和草地的描述，让镜中倒影与真龙的动作保持同步。每段都写明切镜和运镜方式，使 30 秒的顺序不会乱。
+
+Seedance 2.5 · 文生视频 · 出处: [@ZunairaSaeedAi on X](https://x.com/ZunairaSaeedAi/status/2123257938609586526) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`dragon`](tags.md#tag-dragon) [`fantasy`](tags.md#tag-fantasy) [`reflection`](tags.md#tag-reflection) [`countryside`](tags.md#tag-countryside)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a 30-second ultra-realistic cinematic fantasy video, 16:9 widescreen, with consistent characters, natural motion, detailed facial expressions, realistic physics, smooth cinematic camera movements, and high-end CGI quality.
+
+CHARACTER CONSISTENCY:
+
+A cute small fantasy dragon with pearly white scales, icy blue scales, vivid sapphire-blue crystal spikes along its head, neck and back, two curved horns, bright blue eyes, small sharp teeth, large blue membranous wings, and a long tail. The dragon has an expressive, adorable face and realistic detailed scales.
+
+A young blonde woman wearing a medieval fantasy dress with a cream-colored blouse, puffed sleeves, and a long dark burgundy-brown skirt. Her hairstyle, face, clothing and proportions must remain consistent throughout the video.
+
+ENVIRONMENT:
+
+A beautiful sunlit countryside meadow with vibrant green grass, rolling hills, a low stone wall, a rustic stone cottage in the background, and distant trees. A tall freestanding oval mirror with an ornate antique gold frame and decorative curved feet stands upright on the grass. The mirror is reflective and remains in exactly the same position throughout the scene.
+
+SHOT-BY-SHOT ACTION AND CAMERA DIRECTIONS:
+
+0–2 seconds:
+Begin with a cinematic wide shot of the countryside. The young woman stands beside the tall ornate golden mirror. The blue-and-white crystal dragon walks into the scene from the left, approaching the woman and the mirror. Gentle natural camera movement, realistic walking motion, warm sunlight.
+
+2–3 seconds:
+Cut to an extreme close-up of the dragon's face. Its vivid blue eyes look forward with curiosity. Show highly detailed white scales, blue crystalline spikes, subtle breathing, and natural eye movement.
+
+3–5 seconds:
+Cut to a frontal medium-wide shot. The dragon lowers its body, spreads both large wings outward, raises its head, and opens its mouth in a dramatic roar. Its wings and body move naturally. The camera captures the full dragon's posture.
+
+5–7 seconds:
+Cut to a side close-up. The dragon turns its head toward the woman and releases a powerful bright orange stream of fire from its mouth. The fire extends horizontally across the foreground toward the woman and mirror. The woman reacts in surprise, raising both arms in front of her face and leaning backward. The fire creates realistic orange light, heat distortion, and glowing reflections. Do not show injuries or destruction.
+
+7–9 seconds:
+The fire disappears. Cut to a wide side shot of the dragon, the woman, and the standing mirror. The dragon lowers its head and begins moving closer to the mirror. The woman remains beside it. Keep the countryside and cottage consistent.
+
+9–12 seconds:
+The dragon slowly approaches the mirror, looking directly at its reflection. Use a medium-wide composition with the dragon in the foreground and the ornate mirror clearly visible. The mirror accurately reflects the dragon's face and body.
+
+12–14 seconds:
+Cut to a close shot framed through the golden mirror. Show the dragon's reflection looking back at itself. It blinks slowly, tilts its head slightly, and studies its own face with curiosity. The reflected movements must match the real dragon precisely.
+
+14–16 seconds:
+Close-up of the dragon beside the mirror. It turns its head slightly, its blue eyes widen, and it looks fascinated by the reflection. Smooth cinematic camera movement, shallow depth of field, realistic sunlight on the crystal spikes.
+
+16–18 seconds:
+Cut to a wider shot showing the dragon and mirror together. The dragon moves its head closer to the mirror, opens its mouth in a playful surprised expression, then relaxes. Keep the woman in the background.
+
+18–24 seconds:
+Cinematic medium-wide shot from a slightly low angle. The dragon stands proudly in front of the mirror, gradually raises its head and opens its large blue wings. Warm sunlight shines from behind, creating beautiful rim lighting around the wings, horns, and crystal spikes. The dragon admires its reflection with a proud, curious, playful expression. The camera remains smooth and cinematic, with subtle movement.
+
+24–26 seconds:
+Cut to a close-up of the dragon's reflection inside the oval mirror. The dragon gently closes its eyes and leans its face toward the mirror. Its expression becomes peaceful and affectionate.
+
+26–28 seconds:
+Extreme close-up through the mirror. The young woman's hand enters gently from the side and touches the dragon's nose with her index finger. The dragon keeps its eyes closed and responds with a soft, affectionate expression. The interaction is gentle, natural, and emotionally warm. Detailed facial animation and realistic contact.
+
+28–30 seconds:
+Finish with a wide cinematic shot of the dragon, the young woman, and the ornate mirror together in the sunlit meadow. The dragon stands beside the mirror with its long blue tail extending behind it. The woman stands next to the dragon. The camera gently pulls back, showing the cottage, stone wall, green hills, and warm sunlight. End with a peaceful cinematic fade to black.
+
+VISUAL STYLE:
+Photorealistic fantasy CGI, cinematic film quality, realistic textures, detailed dragon scales, expressive blue eyes, realistic wing anatomy, natural character motion, physically accurate reflections, warm daylight, soft shadows, beautiful golden-hour highlights, cinematic depth of field, smooth camera transitions, consistent character identity, high detail.
+
+STRICT CONTINUITY:
+The same dragon, woman, dress, mirror, cottage, meadow, lighting direction, and landscape must remain consistent in every shot. The mirror must always reflect the actual dragon in the correct position. The dragon's movements and reflection must synchronize perfectly.
+
+Do not add extra characters, additional dragons, extra mirrors, scene changes, random objects, text, subtitles, logos, watermarks, inconsistent dragon anatomy, distorted faces, flickering, abrupt camera movements, or unrelated actions. Follow the exact chronological sequence described above.
+```
+
+</details>
+
 <a id="seedance-dragon-rider-pov-ocean-dive"></a>
 ### 第一人称视角骑乘巨龙俯瞰海崖
 
@@ -2175,6 +2313,209 @@ Seedance 2.5 · 参考生视频 · 出处: [@Just_sharon7 on X](https://x.com/Ju
 
 ```text
 SCENE CONTEXT A girl Image flees something unseen through a glowing forest, trips, falls — and finds an antique mirror that yanks her through into an underwater city. There, mid-float before the great shell palace, she turns her head — a flash of POV shows a colossal mouth opening onto her — and back in the wide frame the whale is already closing its jaw and gliding calmly away. 24 seconds, full realism. ACTIVE REFERENCES — STRICT ROLE HIERARCHY Image HER EXACT FACE — sole source of her identity and features, 100% match, zero drift: a 20-year-old , 163 cm, slim and lightly built. Soft rounded oval face; warm light-beige skin with a golden undertone and real photographic texture — visible pores, small freckles and tiny beauty marks across the cheeks and nose bridge; dark blue almond eyes with a shallow partially hidden upper-lid crease and soft under-eye fullness; thick dark straight brows with individual hairs brushed upward; a small neat nose with narrow straight bridge and softly rounded tip; full lips with a defined cupid's bow, the lower lip fuller, natural rosy tone; softly rounded jaw tapering to a small chin; small silver hoop earrings. Ignore this reference's hair, clothing, car interior and lighting. Face identity comes from this reference in every single frame. Image : CHARACTER SHEET — controls everything: long voluminous wavy blonde hair past the shoulders; neat elven ears with slender pointed tips; a white billowy medieval linen shirt deep plunging scoop neckline that reveals significant cleavage., with puffed sleeves; a brown leather underbust corset; fitted sage-green trousers; tall brown leather boots; brown leather gloves; a forest-green wool hooded cloak clasped at the collar. Does NOT control the face. Image FOREST LOCATION — a misty magical forest: narrow dirt path, giant glowing red mushrooms casting warm orange light, pink flowers, mossy trunks, drifting fog. 100% matches the reference. Image : UNDERWATER CITY LOCATION — the plaza: a colossal ribbed nautilus-shell palace with glowing golden seams, pearl shell houses with warm windows, god rays from above, jellyfish and drifting sea life. 100% matches the reference. FORMAT MODE One continuous shot from 0:00 to 0:19, then TWO HARD CUTS in the finale: a fast POV insert and a return to the previous framing. No fades, no dissolves. Full realism. HER BACKWARD GLANCE — HOW IT MUST LOOK, STRICT Whenever she checks behind her, she does NOT turn toward the camera and does NOT look into the lens. She rotates her head roughly 45° to ONE SIDE and her EYES GO THE SAME WAY her head goes — looking off toward that side of frame, into the fog, then snapping forward again. BANS: no over-the-shoulder look at the lens, no eye contact with the camera, no 180° head turn. SHOT 1 — 0:00–0:01.5 — HER FEET, LOW AND CANTED LOW, near ground level, canted hard — Dutch tilt ~20–25° — framing her BOOTS and lower legs sprinting along the path: soil bursting, cloak hem cracking, mushroom stalks brushing aside, path streaking in motion blur. Handheld, jolting with her rhythm; the pursuer heard far behind in the fog. SHOT 2 — 0:01.5–0:03 — HER FACE, FRIGHTENED Unbroken move: the frame rises and pushes in to her FACE — a tight running close-up travelling with her, still canted, hair whipping. Raw fear: wide eyes, brows drawn, mouth gasping, dirt on her cheek. Twice she performs the 45° glance as specified, eyes going the same way as her head, searching the fog off to that side; then forward again. SHOT 3 — 0:03–0:05 — THE TRIP, WIDE Unbroken: the frame swings out to a WIDE shot of the path — full figure, mushrooms towering, fog closing the depth. Mid-glance her leading boot CATCHES a root — the foot stops dead, momentum throws her forward, and she goes down hard in full view: knees, then hands and shoulder into the dirt, dust and leaf litter bursting up, cloak flying over her. She lands sprawled, chest heaving. SHOT 4 — 0:05–0:09 — THE MIRROR SHE ALMOST IGNORES Unbroken: the camera drifts in from the front, then around to her side, settling into profile with her and the mirror in frame. Fear first, curiosity second: sprawled, she checks behind with the 45° head-and-eyes turn; the crashing is closer. She scrambles up, barely looking ahead — then registers an ornate antique MIRROR against a mossy trunk, filled with cold blue glow unlike the warm mushroom light. Brushing dirt off her sleeve with ONE hand, her eyes stay on the glass. THE MIRROR DOES NOT REFLECT: her reflection NEVER appears, no mirror image of her, no reflection of the forest — the glass is a window filled with its own inner light: fog thinning into deep watery blue, faint caustics, vague luminous silhouettes far in the depth, no sharp image. The blue washes her face. ACTING TASK — HER CHOICE (the work happens in her eyes): glass → a 45° glance into the fog behind → glass again; she registers that nothing of HER answers her movement in it; no time to solve it. She extends ONE FINGER toward the surface. (Safety: gaze always engaged; natural blink cadence.) SHOT 5 — 0:09–0:11 — THE YANK: UNDER A SECOND Her fingertip nears the glass. The light FLARES — the surface SNAPS outward like a whip and SEIZES her hand. INSTANT: she is RIPPED off her feet, jerked forward along her outstretched arm, body whipping horizontal in a single frame, head-first through the glass, boots torn off the ground last, cloak cracking behind her. No build-up, no float — limp as a ragdoll, the mirror doing ALL of it, vector purely FORWARD through the glass plane. Camera: caught off guard WITH her — it WHIPS sideways-and-forward, slings around behind her flying body and punches through the rippling surface on her heels; water and bubbles SLAM across the lens, forest colors ripped into deep blue. NOT her POV. SHOT 6 — 0:11–0:16 — ARRIVAL IN THE PLAZA Same shot, no cut — camera behind her. THE FIRST UNDERWATER FRAME IS THE ARRIVAL FRAME: the portal exits DIRECTLY INTO the plaza of <<<image_4>>>; the colossal nautilus palace is ALREADY in frame, its ribbed pearl wall with glowing golden seams filling the background, sharp and close; shell houses with warm windows border both sides. NO TRAVEL, no approach — the water BRAKES her within a meter or two. HER BODY: horizontal, HEAD-FIRST, back toward the surface, fully passive — arms loose, LEGS STILL AND MOTIONLESS, no kicking, no strokes; thrown cargo, not a swimmer. UNDERWATER PHYSICS, HIGHEST PRIORITY: hair streaming backward in rippling seaweed-like strands, cloak dragging in a heavy water-loaded wave; on stopping, hair and cloak drift forward past her shoulders by inertia. She pivots from horizontal to upright — feet swinging down, legs hanging relaxed — settling into weightless float facing the palace wall. HER HAIR AT REST, STRICT: no parting, no combed order — a loose free-floating mass fanning outward and upward from her whole head, strands crossing over her crown in constant slow chaotic motion, never symmetrical, never still. The cloak billows wide, breathing with the water. SHE CANNOT BREATHE UNDERWATER: cheeks slightly puffed, lips pressed, holding her breath. Bubbles rise from her mouth in small silver clusters climbing upward past her face. ACTING TASK: to ORIENT beneath something impossibly huge — her attention pulls UPWARD: head climbing the glowing houses, up the palace wall, chin lifting, trying to find where the spiral ends. Jellyfish pulse between the houses. SHOT 7 — 0:16–0:19 — SETTLE INTO THE MEDIUM PROFILE FRAME Same shot, no cut. The camera drifts smoothly from behind her around to her side and settles into the framing that holds for the rest of the film: FRAMING LOCK — MEDIUM PROFILE: she is seen from her LEFT SIDE in a medium shot, CHEST-UP ONLY — never full-body, never small in frame; her head and shoulders occupy the lower-left third, elven ear tip clear, hair a floating dark halo, white puffed sleeve and green cloak reading in the frame's bottom, one gloved hand extended forward. Behind and above her, filling the whole background, the giant glowing spiral nautilus palace; pearl shell houses along the lower edge; god rays raking down from the surface; a jellyfish drifting at frame-left; her bubbles rising past her face. She hangs weightless with the faintest sway. SHOT 8 — 0:19–0:21 — SHE TURNS HER HEAD (SAME FRAME) No cut, camera locked in the FRAMING LOCK. She turns her head sharply to look off toward frame-LEFT — a fast, alarmed head turn, eyes going the same direction, brows snapping up, a startled burst of bubbles ripping from her mouth. Her shoulder tenses; nothing else of her moves. She is still only chest-up in frame; the whale is NOT visible yet. HARD CUT. SHOT 9 — 0:21–0:22.5 — POV: THE MOUTH OPENS ON US FIRST-PERSON POV FROM HER EYES — fast and brutal: filling the entire frame, the colossal whale's head rushes in from the left, and the vast baleen MOUTH OPENS WIDE — grooved pale throat pleats stretching, a dark glowing cavern spreading until it swallows the frame edge to edge; water and bubbles ripping past the lens; the scale absolute, the opening several times larger than a human body. Quick — a second and a half, no lingering. The frame goes to the mouth's darkness. HARD CUT. SHOT 10 — 0:22.5–0:24 — BACK TO THE SAME FRAME: THE WHALE MOVES ON Return to the EXACT FRAMING LOCK of Shot 7–8 — same camera position, same background: the glowing spiral palace, the shell houses, the god rays. The girl is no longer there; only her last scattered bubbles rising where she floated. The colossal whale is already in frame with its JAW CLOSED, gliding calmly from LEFT to RIGHT across the plaza — placid, unhurried, indifferent, as if it simply fed on the way past. Its enormous flank sweeps close past the lens: dark iridescent mother-of-pearl skin shifting purple-green-blue like oil on water, scattered glowing teal rings and dotted bioluminescent lines, a tall webbed translucent dorsal fin with visible veining, pectoral and tail fins extending into long flowing translucent ribbon-streamers rippling like silk. TRUE WHALE LOCOMOTION: all thrust from the TAIL — deep lateral sweeps bending the rear third of the body, an S-wave of muscle rolling down the flanks head-to-tail on every beat, mass shifting under the skin, head steady on course, ribbon-fins streaming back like wings. Living muscle, never a rigid sculpture on rails. Its wake rocks the jellyfish and scatters her bubbles. It exits frame-RIGHT. Final beat: the empty plaza, the palace glowing, bubbles dispersing, water settling. END. Exactly ONE creature in the finale, the same individual in the POV and in the return frame — no second creature, no duplicate. No grabbing, no chewing, no thrashing, no blood, no gore — the horror is entirely scale. PHYSICS Forest: real running biomechanics, the head-turns costing her balance, the trip stopping the foot dead while momentum carries her over, a genuine three-point fall, real bodyweight in the scramble up. The yank: whip-crack acceleration, body limp, purely forward. Underwater: everything obeys water — drag on limbs and fabric, slow rebound, no dry-hair or dry-cloth behavior in any frame; the whale moves with true mass and inertia, its bow wave visibly displacing water, bubbles and jellyfish; the jaw opens and closes with weight, not like a trap. LIGHTING Forest: warm orange mushroom glow against cool misty air; the mirror's cold blue the only competing source. Underwater: cool blue depth light with god rays, warm golden light from the shell houses and the palace's glowing seams; caustic ripples crawling over her skin, the white sleeve and the whale's flank; the open mouth in the POV reading as a deep shadowed cavern with faint light only on the throat pleats. Natural exposure, no stylization. MATERIALS Real skin with pores and freckles; individual hair strands, dry and flying in the forest, water-loaded and undulating below; real linen weave, leather grain, heavy wool cloak with true water weight; real soil, moss and mushroom flesh; pearl shell with subsurface glow; the whale's iridescent hide with subsurface shift, skin folds and grooved throat pleats, translucent fin membranes. No plastic skin, no CG sheen. AUDIO — SFX ONLY, NO MUSIC 0:00–0:05: pounding footsteps, ragged breathing, cloak snapping, DISTANT crashing branches and a low guttural monster call rolling through the fog; the trip — scuff, body impact, gasp. 0:05–0:09: panicked breathing, scrambling in dirt, forest ambience, a rising crystalline hum near the glass. 0:09–0:11: a sharp liquid CRACK, one violent water-rush WHOOSH, bubbles slamming the lens; forest sound cutting off dead. 0:11–0:19: muffled underwater ambience, soft bubble streams, distant whale-like calls, faint clicks, a deep resonant hum from the palace. 0:19–0:22.5: a startled bubble burst; a deep swelling RUMBLE from the left; in the POV a roaring water-rush and the wet groan of the opening jaw. 0:22.5–0:24: one soft heavy WHOMP settling, then calm rhythmic tail SWISH, the flank's water-rush passing the lens, fading right into churning wake and settling ambience. No score, no melody anywhere. POSITIVE CONSTRAINTS Continuous shot 0:00–0:19; then exactly TWO HARD CUTS: into the POV insert and back out to the identical framing. No other cuts anywhere. FRAMING LOCK: from 0:16 to the end (except the POV insert) the camera holds the same medium profile framing — she is CHEST-UP, seen from her left side, lower-left of frame, with the glowing spiral palace filling the background. She is never shown full-body in this section, never small in frame, and the camera never moves. The finale order is exact: she turns her head left (chest-up, whale not visible) → HARD CUT to her POV of the mouth opening wide, fast → HARD CUT back to the same framing where the jaw is already closed and the whale glides calmly left to right and exits. Her glances in the forest: ~45° head turns with eyes going the same direction; never toward the lens. The forest pursuer is NEVER shown — distant sound only. The mirror NEVER reflects her or the forest — a lit window, not a reflective surface. Underwater she never swims — legs still and motionless throughout; the palace fills the background from the first underwater frame, no travel. Her hair underwater is a chaotic free-floating mass — never parted, never neat, never still. Face 100% <<<image_1>>> every frame, zero drift; hair, elven ears, wardrobe 100% <<<image_2>>>; forest 100% <<<image_3>>>; plaza and palace 100% <<<image_4>>>. No grabbing, chewing, blood or gore; exactly ONE creature; she is not visible after the POV cut, only her bubbles. Full realism — no animated look, no illustration, no CG gloss, no plastic surfaces. Clean image: no grain, no vignette. She is the only person. No text, no logos, no watermarks. OPTICS STRONG anamorphic lens character: horizontal squeeze and compression, oval elliptical bokeh, horizontally stretched highlights, curved barrel edge distortion, chromatic aberration toward the edges. NO lens flares, NO light streaks, NO floating bokeh circles. Shot 1: canted 20–25°, low on boots. Shot 2: focus locked on her face. Shot 3: wide, deep focus. Shots 4–5: her face and the mirror's glow. Shots 6–8: her in medium profile against the palace, caustics softening the depth. Shot 9 (POV): ultra-wide immersive perspective, the mouth filling the frame. Shot 10: the flank sharp as it sweeps past the lens.
+```
+
+</details>
+
+<a id="seedance-fallen-angel-graveyard-arrow"></a>
+### 堕落天使在墓地向兜帽女子射出血色箭
+
+<a href="https://x.com/Just_sharon7/status/2123409308176077171"><img src="../../previews/seedance-fallen-angel-graveyard-arrow.jpg" width="360"></a>
+
+每个参考图都用 @Image 标注，让女主和牧师在多个镜头里保持同一人物。七个场景按秒分段，每一拍都写明运镜，结尾附上音效列表，让画面与氛围在切换中保持一致。
+
+Seedance 2.5 · 参考生视频 · 出处: [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2123409308176077171) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
+
+[`gothic`](tags.md#tag-gothic) [`dark-fantasy`](tags.md#tag-dark-fantasy) [`multi-shot`](tags.md#tag-multi-shot) [`angel`](tags.md#tag-angel)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Female Lead: A beautiful 24-year-old young woman @Image 2, with pale fair skin, delicate facial features, striking blue eyes, and long wavy blonde hair partially hidden beneath a black hood. She wears a long black Victorian gothic-style hooded cloak over an elegant black dress. Around her neck hangs a silver cross pendant featuring a deep-red gemstone. Her expression is mysterious, frightened, and emotionally intense.
+
+MAKEUP DETAILS:
+
+Beautiful soft-glam makeup with warm, glowing olive-tan undertones while preserving her naturally fair complexion and realistic skin texture. Subtle golden highlights, softly sculpted cheekbones, defined sharp eyebrows, and beautifully enhanced eyes.
+
+Soft warm-toned eyeshadow, delicate eyeliner, long curled lashes, and subtle shimmer on the eyelids. Light peachy-pink blush blended naturally across the cheeks, gentle bronzer for a sun-kissed glow, and luminous highlights on the cheekbones, nose bridge, and cupid's bow.
+
+Full, plump lips with a rosy-pink to soft-red lip tint, finished with high-shine, wet-look glossy lip gloss.
+
+Fresh, radiant, feminine beauty makeup with a naturally dewy finish. Keep the makeup realistic, elegant, and consistent across every shot, even under the dark gothic lighting.
+
+Fallen Angel: A handsome yet terrifying supernatural male angel, approximately 28 years old, with extremely pale skin, short messy platinum-white hair, sharp facial features, and piercing eyes.
+
+He wears a luxurious ivory-white medieval angelic outfit with intricate detailing. Two enormous black feathered wings extend from his back.
+
+He carries an ancient gothic bow loaded with a supernatural arrow featuring a glowing blood-red crystal arrowhead.
+
+His presence is intimidating, mysterious, and otherworldly.
+
+SCENE 1 (0–3 Seconds) — The Haunted Graveyard
+
+An ancient, abandoned European gothic cemetery stretches beneath a dark, overcast sky.
+
+The environment is filled with weathered stone gravestones, broken crosses, angel statues, and enormous gothic church towers.
+
+Thick grey fog spreads across the ground while dark green trees sway gently in the cold wind.
+
+A young woman @Blonde-Influencer, wearing a flowing black gothic cloak, slowly walks through the center of the cemetery.
+
+Suddenly, she stops and looks toward the sky.
+
+A powerful gust of wind dramatically lifts and ripples her long black cloak.
+
+Camera: Low-angle tracking shot following her movement, transitioning into a slow cinematic upward tilt.
+
+SCENE 2 (3–6 Seconds) — The Fallen Angel Appears
+
+Suddenly, a mysterious white-haired fallen angel descends from the dark sky.
+
+His enormous black feathered wings spread fully outward, creating a terrifying silhouette against the cloudy atmosphere.
+
+He hovers above a tall stone cross in the cemetery.
+
+His luxurious white clothing flutters naturally in the strong wind while individual black feathers move realistically.
+
+The young woman looks up at him in complete shock.
+
+Behind the angel, an ancient gothic cathedral and fog-covered trees dominate the background.
+
+Camera: Epic wide cinematic shot with a dramatic low-angle perspective, emphasizing the angel's supernatural presence and enormous wings.
+
+SCENE 3 (6–9 Seconds) — The Blood Arrow
+
+The fallen angel raises his ancient gothic bow.
+
+The weapon is crafted from dark metallic materials, twisted branch-like structures, and glowing red gemstones embedded throughout its surface.
+
+He aggressively pulls back the bowstring.
+
+A supernatural arrow materializes, featuring a sharp blood-red crystal arrowhead radiating intense crimson energy.
+
+His piercing eyes reveal cold determination.
+
+He aims directly at the young woman @Image 2 standing below.
+
+Without hesitation, he releases the bowstring.
+
+The glowing arrow launches forward at tremendous speed, cutting violently through the cold cemetery air.
+
+A faint red supernatural trail follows its trajectory.
+
+Camera: Extreme close-up of the intricate gothic bow, dramatic side-angle shot of the angel releasing the arrow, followed by a high-speed tracking shot following the projectile.
+
+SCENE 4 (9–12 Seconds) — The Terrifying Realization
+
+The young woman stands motionless in the middle of the cemetery.
+
+Her black hood frames her pale, beautifully made-up face.
+
+Suddenly, her blue eyes widen in terror.
+
+Her glossy lips part slightly as she realizes the supernatural arrow is flying directly toward her.
+
+Her expression shifts from confusion to overwhelming fear and disbelief.
+
+The cold wind moves loose strands of her blonde hair across her face.
+
+Her breathing becomes shallow as the terrifying realization sinks in.
+
+Camera: Tight cinematic facial close-up with subtle handheld movement, dramatic shallow depth of field, and realistic emotional microexpressions.
+
+SCENE 5 (12–15 Seconds) — The Mysterious Figures
+
+Behind the young woman stands an ancient gothic stone archway.
+
+Inside the dark archway, three mysterious men dressed in black Victorian religious clothing stand silently.
+
+Their faces are partially concealed by deep shadows.
+
+None of them move.
+
+They silently observe the young woman as though they have been expecting this supernatural event.
+
+Thick fog slowly curls around the stone pillars and spreads across the ground.
+
+The atmosphere becomes increasingly unsettling.
+
+Camera: Over-the-shoulder shot from behind the young woman, followed by a slow cinematic zoom toward the three mysterious figures.
+
+SCENE 6 (15–18 Seconds) — The Supernatural Awakening
+
+Extreme close-up of the young woman's eyes.
+
+A mysterious red supernatural reflection suddenly appears within her blue irises.
+
+Her eyelids slowly close.
+
+For a brief moment, everything becomes almost completely silent.
+
+Then she opens her eyes again.
+
+Her previous expression of terror has vanished.
+
+Instead, her gaze becomes intensely focused, mysterious, and unnaturally powerful.
+
+A subtle crimson glow reflects across her pupils, suggesting the awakening of an ancient supernatural force within her.
+
+Her facial expression remains controlled, calm, and frighteningly intense.
+
+Camera: Extreme macro close-up of her eyes, slow cinematic push-in, dramatic low-key lighting, realistic iris reflections, and detailed facial textures.
+
+SCENE 7 (18–20 Seconds) — The Dark Revelation
+
+The camera suddenly reveals a wide atmospheric view of the cemetery.
+
+The young woman stands among ancient gravestones, surrounded by rapidly swirling fog.
+
+Her long black cloak flies dramatically in the powerful supernatural wind.
+
+The cemetery appears darker and more threatening than before.
+
+A sharp cinematic cut reveals a handsome young priest @Image 1, dressed in a traditional black clerical outfit with a crisp white priest collar.
+
+His expression is extremely serious, mysterious, and emotionally restrained.
+
+An older man stands partially visible behind him, his face obscured by shadows.
+
+The young priest stares directly ahead, as though he knows a terrifying secret about the fallen angel and the young woman.
+
+His expression suggests that something far more dangerous is about to happen.
+
+Camera: Wide atmospheric cemetery shot, followed by a sharp cinematic close-up of the priest's face.
+
+End on a powerful dramatic bass impact and an abrupt cut to black.
+
+SOUND DESIGN
+
+Deep atmospheric supernatural horror music throughout the sequence.
+
+Distant gothic church bells echoing through the cemetery.
+
+Cold wind blowing through ancient gravestones and trees.
+
+Heavy, realistic fluttering sounds from the fallen angel's enormous wings.
+Deep supernatural low-frequency rumbling during the angel's descent.
+Sharp metallic bowstring tension and release.
+Extremely fast arrow whoosh with supernatural energy distortion.
+Intense heartbeat sounds during the woman's terrifying realization.
+Sudden near-total silence during her supernatural awakening.
+Powerful cinematic bass impact during the final revelation.
+STRICT VISUAL INSTRUCTIONS
+Character Consistency: Maintain identical character identities, facial structures, hairstyles, eye colors, makeup, outfits, and accessories throughout the entire sequence. Preserve the female lead's exact reference-image identity.
+
+Fallen Angel Wings: The fallen angel must always have exactly two enormous anatomically consistent black feathered wings. Wings must remain naturally attached to his back, with realistic feather movement, believable joints, and physically accurate motion.
+
+Environment Consistency: Maintain the same gothic cemetery architecture, ancient cathedral, gravestones, stone crosses, fog distribution, and atmospheric lighting across all scenes.
+
+Realistic Physics: Use realistic cloth simulation, believable body movement, natural facial expressions, accurate wing motion, and physically consistent arrow trajectories.
+
+Cinematic Quality: Hollywood-level visual effects, photorealistic skin textures, realistic environmental details, volumetric fog, dramatic shadows, cinematic depth of field, subtle film grain, and sophisticated dark fantasy color grading.
+
+Avoid: Cartoon physics, distorted faces, inconsistent makeup, extra limbs, duplicated wings, unnatural anatomy, random character changes, flickering costumes, unrealistic movements, inconsistent environments, and excessive artificial-looking visual effects.
+
+Overall Mood: Mysterious, haunting, supernatural, gothic, emotionally intense, visually spectacular, and deeply unsettling, with the atmosphere of a premium Hollywood dark fantasy movie trailer.
 ```
 
 </details>
@@ -3004,259 +3345,6 @@ SOUL EXTRACTION: The Reaper's spectral arm passes harmlessly through the female 
 FINAL SEAL: The Shinigami pulls the soul into its open mouth and absorbs it. A massive shockwave erupts across the battlefield. The enemy collapses to their knees, completely immobilized. The woman releases her hand seal, remaining calm and fearless as the gigantic Reaper fades into the drifting dust behind her. End with a dramatic wide shot of the woman standing alone amid the ancient ruins.
 
 VISUAL & AUDIO: Ultra-realistic skin textures, natural hair movement, detailed fabric physics, cinematic lighting, volumetric dust, realistic supernatural effects, dynamic camera movements, and consistent character appearance. No music, narration, subtitles, or additional dialogue. Only natural battlefield sounds, powerful wind, supernatural rumbling, chains, soul extraction effects, and the clearly pronounced Japanese activation phrase. Avoid anime, cartoon visuals, cheap CGI, excessive neon glow, distorted anatomy, inconsistent faces, unrealistic physics, blood, and gore.
-```
-
-</details>
-
-<a id="seedance-sorceress-water-beast-castle-courtyard-rain"></a>
-### 女巫在雨中城堡庭院召唤水兽
-
-<a href="https://x.com/laviniavelle/status/2107333176985317886"><img src="../../previews/seedance-sorceress-water-beast-castle-courtyard-rain.jpg" width="360"></a>
-
-提示词把动作拆成清晰的节拍：现身、闪避、召唤、撞击、消散。开头先定下场景与天气，结尾再补充光线和慢动作流体效果。
-
-Seedance 2.5 · 文生视频 · 出处: [@laviniavelle on X](https://x.com/laviniavelle/status/2107333176985317886) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`dark-fantasy`](tags.md#tag-dark-fantasy) [`action`](tags.md#tag-action) [`water-magic`](tags.md#tag-water-magic) [`gothic`](tags.md#tag-gothic) [`slow-motion`](tags.md#tag-slow-motion)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-A dark fantasy action sequence in a gothic castle courtyard during torrential rain A sorceress with vibrant purple hair rises from a stone fountain Two men with swords attack her She fluidly dodges uses water magic to shield herself, and summons a giant water beast with glowing eyes from the fountain that slams into her attackers She calmly steps out of the fountain raises her hand, and dissolves the water beast into a fine mist of rain. Cinematic lighting slow motion fluid dynamics, 8k resolution.
-```
-
-</details>
-
-<a id="seedance-thorn-wood-glass-figure-encounter"></a>
-### 荆棘木人与琉璃人形在旧屋相遇
-
-<a href="https://x.com/itsSaira_1/status/2121100826894590435"><img src="../../previews/seedance-thorn-wood-glass-figure-encounter.jpg" width="360"></a>
-
-先明确两个角色的材质，荆棘枝条与透明琉璃，再按靠近、互动、粉色光芒浮现的顺序写出动作节拍，让模型有清晰的剧情线。结尾用慢速流动运镜和浅景深统一画面的电影质感。
-
-Seedance 2.5 · 文生视频 · 出处: [@itsSaira_1 on X](https://x.com/itsSaira_1/status/2121100826894590435) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`dark-fantasy`](tags.md#tag-dark-fantasy) [`surreal`](tags.md#tag-surreal) [`glass-figure`](tags.md#tag-glass-figure)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-A surreal dark-fantasy cinematic scene featuring a mysterious humanoid creature made entirely of twisted branches, roots, and sharp thorns, encountering a beautiful translucent glass-like humanoid figure with an iridescent rainbow sheen inside an abandoned vintage room. The two figures slowly approach and interact with each other, creating an emotional and mysterious atmosphere. A glowing pink energy begins to emerge as the wooden creature reaches toward the transparent figure. Dreamlike movements, intricate organic textures, soft volumetric light, dramatic shadows, shallow depth of field, atmospheric cinematic lighting, photorealistic details, haunting visual storytelling, slow fluid camera movements, ultra-realistic fantasy filmmaking, 4K.
-
-#AIart #AI #Visualart
-```
-
-</details>
-
-<a id="seedance-time-machine-future-scientist"></a>
-### 科学家站在发光时光机旁的昏暗实验室
-
-<a href="https://x.com/iam_nafisahmed/status/2088964392528527702"><img src="../../previews/seedance-time-machine-future-scientist.jpg" width="360"></a>
-
-用带时间点的分镜逐拍描述，并写明倒计时与黑场闪白的收尾，让模型有清晰的节奏结构。结尾用真实物理和细微胶片颗粒等词，把画面锁定在实拍电影的质感上。
-
-Seedance 2.5 · 文生视频 · 出处: [@iam_nafisahmed on X](https://x.com/iam_nafisahmed/status/2088964392528527702) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`sci-fi`](tags.md#tag-sci-fi) [`thriller`](tags.md#tag-thriller) [`countdown`](tags.md#tag-countdown) [`time-machine`](tags.md#tag-time-machine)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-He built a machine that could see 10 seconds into the future.
-
-Then he saw himself standing behind him.
-
-Create your version on @budgetpixel  using Seedance 2.5 
-
-Prompt below if you want to make your own.👇
-
-"Create a 10-second photorealistic cinematic sci-fi thriller.
-
-A young scientist stands inside a dark futuristic laboratory beside a glowing experimental time machine. He activates it and sees exactly 10 seconds into the future.
-
-At first, he smiles in amazement as the machine shows the laboratory still intact.
-
-Suddenly, the future image changes.
-
-The same laboratory is now completely destroyed—glass shattered, machines burning, sparks flying, smoke everywhere.
-
-The scientist looks around in panic.
-
-A countdown appears on the machine: 10... 9... 8... 7...
-
-He notices the machine's glowing energy core rapidly overheating.
-
-3... 2... 1...
-
-He realizes the machine is about to explode.
-
-The screen instantly cuts to black as a massive white flash fills the laboratory.
-
-Ultra-photorealistic, cinematic sci-fi thriller, realistic futuristic laboratory, dramatic lighting, realistic fire and sparks, intense suspense, fast pacing, believable technology, realistic physics, cinematic camera movement, premium Hollywood VFX, subtle film grain, highly detailed, 4K.
-
-No subtitles, no logos, no watermark, no cartoon style."
-```
-
-</details>
-
-<a id="seedance-traveler-unicorn-misty-forest"></a>
-### 旅者在晨雾森林遇见独角兽
-
-<a href="https://x.com/juliaevee/status/2105150663047135672"><img src="../../previews/seedance-traveler-unicorn-misty-forest.jpg" width="360"></a>
-
-提示词按顺序铺设场景：先写旅者与服装，再写独角兽的发光特征，最后用蹄子踩踏苔藓这一物理动作触发金光沿小径蔓延并驱散浓雾。结尾指向日出山谷，为视频提供明确的收束画面。
-
-Seedance 2.5 · 文生视频 · 出处: [@juliaevee on X](https://x.com/juliaevee/status/2105150663047135672) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`unicorn`](tags.md#tag-unicorn) [`misty-forest`](tags.md#tag-misty-forest) [`fantasy`](tags.md#tag-fantasy) [`volumetric-light`](tags.md#tag-volumetric-light)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-A young East Asian female traveler wearing an earth-toned, brown wrap tunic robe with a backpack hiking through a misty, dense ancient forest. She encounters a majestic white unicorn with a glowing golden horn, glowing eyes, and golden light woven through its flowing mane. The unicorn steps on the mossy ground, causing veins of golden magical light to spread along the forest trail, clearing the thick fog and opening into a breathtaking view of a lush mountain valley at sunrise. Cinematic 4k, hyper-realistic, volumetric lighting, epic fantasy atmosphere, soft morning sunbeams.
-```
-
-</details>
-
-<a id="seedance-tree-guardian-dark-fantasy-battle"></a>
-### 女子唤醒熔岩树灵对抗恶魔
-
-<a href="https://x.com/itsSaira_1/status/2107685928647160275"><img src="../../previews/seedance-tree-guardian-dark-fantasy-battle.jpg" width="360"></a>
-
-开头先用画幅、镜头、色调和粒子等全局风格词定调，再按被擒、召唤、战斗、平静收尾的顺序写清节拍。快速运镜、慢动作爆炸和骷髅特写等镜头词控制了画面节奏。
-
-Seedance 2.5 · 文生视频 · 出处: [@itsSaira_1 on X](https://x.com/itsSaira_1/status/2107685928647160275) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`dark-fantasy`](tags.md#tag-dark-fantasy) [`battle`](tags.md#tag-battle) [`creature`](tags.md#tag-creature) [`cinematic`](tags.md#tag-cinematic) [`slow-motion`](tags.md#tag-slow-motion)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Cinematic dark fantasy battle, 16:9, photoreal, shallow depth of field, anamorphic lens, moody teal-grey and fiery orange color grade, drifting embers and smoke. A young woman with short wavy brown hair in an emerald green dress is dragged across cracked dark stone floor by a tall horned grey demon. She slams her hand down and glowing white-gold roots erupt from the ground, growing into a towering tree-guardian with a glowing lava-vein bark body and antler-like branches. The tree-guardian fights a horde of grey demon creatures, shoots a massive stream of fire, and gets surrounded by burning demons. Close-ups of a skull-faced demon with molten cracks. Fast dynamic camera, slow-motion fire explosions. Ends with a glowing sphere of woven burning roots, then the woman kneeling on the ground, hands glowing on the floor, calm and powerful.
-
-#AI #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #Visualart
-```
-
-</details>
-
-<a id="seedance-twin-speedsters-empty-city-superpower-short"></a>
-### 两位超速女孩在空城街头相遇
-
-<a href="https://x.com/ai_anelia/status/2112960745168392440"><img src="../../previews/seedance-twin-speedsters-empty-city-superpower-short.jpg" width="360"></a>
-
-把 30 秒拆成每段 4 到 6 秒的时间节拍，每段指定景别和运动，故事从繁忙街头推进到完全寂静。角色块锁定脸部和服装，音频一行把风声和轮胎声渐隐为寂静，并配上对白和渐强配乐。
-
-Seedance 2.5 · 文生视频 · 出处: [@ai_anelia on X](https://x.com/ai_anelia/status/2112960745168392440) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`sci-fi`](tags.md#tag-sci-fi) [`superpower`](tags.md#tag-superpower) [`timed-shots`](tags.md#tag-timed-shots) [`dialogue`](tags.md#tag-dialogue) [`cinematic`](tags.md#tag-cinematic)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Cinematic ultra-realistic sci-fi superpower short film, 16:9, 30 seconds, 24fps, shot like a high-budget streaming drama, bright natural daylight, downtown American-style city with tall glass and stone buildings, palm trees, traffic lights, wide crosswalks and parked cars, shallow depth of field, crisp detail, subtle film grain, natural color grade with warm sunlight and cool shadows.
-Character 1: A young Korean woman in her early 20s, long straight black hair, soft natural makeup, expressive wide eyes, wearing a light-blue open button-up shirt over a fitted white t-shirt, cream trousers and white sneakers. Gentle, curious and a little frightened at the start, slowly turning confident.
-Character 2: A young blonde woman in her mid-20s, wavy shoulder-length hair, calm sharp eyes, wearing a black sweater and blue jeans. Cool, mysterious and fast, with a hint of loneliness behind her eyes.
-Keep both faces, hairstyles and outfits identical in every shot.
-Setting: A busy city intersection that slowly turns completely empty and silent as the story goes on, with wind, dust and loose papers moving through the air.
-0–4s: Wide establishing shot of a sunny downtown street with pedestrians, taxis and cars. The Korean woman stands near a crosswalk. Time seems to slow down; the background blurs into soft motion and her eyes widen in shock as a car speeds straight toward her.
-4–8s: Extreme close-up of her startled face, then she bursts into superhuman speed. Her feet kick up dust and wind, her hair and shirt whip backward, and she weaves between moving cars and people, the city stretching into streaks of motion behind her. Low tracking shot, strong motion blur.
-8–12s: A shockwave of dust rolls across the crosswalk. From the side of the frame, the blonde woman appears running at the same impossible speed. They glance at each other, both stunned. Close-up of the Korean woman whispering: "There's someone else like me?"
-12–18s: They sprint side by side down the wide street, dust clouds exploding behind them, cars frozen in the background like statues. Dynamic side tracking shots, then a low-angle shot as they run past the camera, hair flying, determination on both faces.
-18–22s: The Korean woman launches into a long, graceful leap, gliding through the air above the street, while the blonde woman runs beneath her, hair blowing wildly in the wind. Slow-motion for the leap, cinematic and almost weightless.
-22–26s: Both slow down and come to a stop in the middle of a completely empty street. Papers drift down through the air, the wind fades, the whole city is silent and still around them. Wide shot from behind showing the two small figures in the empty avenue.
-26–30s: Calm close-ups, soft light on their faces. The blonde woman says quietly: "I thought I was the only one." The Korean woman smiles and answers: "So did I." Slow pull-back as they stand together in the empty street, then cut to black.
-Audio: Rushing wind, tire screeches fading into complete silence, a soft heartbeat, light footsteps, a subtle emotional orchestral score building gently, clear natural English dialogue.
-Style: Realistic grounded sci-fi action-drama, smooth physics, natural human movement, emotional performances, non-graphic, no text, no subtitles, no logos, no watermark.
-```
-
-</details>
-
-<a id="seedance-vehicles-transform-into-robots"></a>
-### 银色跑车在城市高速公路上疾驰
-
-<a href="https://x.com/laviniavelle/status/2108404878590857384"><img src="../../previews/seedance-vehicles-transform-into-robots.jpg" width="360"></a>
-
-一个提示词串联了四组载具变形为机器人的场景，每组配有不同环境（城市高速、海岸公路、沙漠、航母甲板），便于模型在环境之间切换。结尾的动态追踪镜头和写实8K渲染风格词，让整段画面保持统一的质感。
-
-Seedance 2.5 · 文生视频 · 出处: [@laviniavelle on X](https://x.com/laviniavelle/status/2108404878590857384)
-
-[`transformation`](tags.md#tag-transformation) [`robots`](tags.md#tag-robots) [`vehicles`](tags.md#tag-vehicles) [`tracking-shot`](tags.md#tag-tracking-shot)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-A silver sports car driving down a city highway smoothly transforms into a giant silver running robot a futuristic neon lit motorcycle on a coastal highway morphs into a running blue cybernetic robot; a camouflage military tank driving across a sandy desert transforms into a walking heavy combat mecha a fighter jet on an aircraft carrier deck unfolds and transforms into a standing robot warrior, sci-fi action style high tech mechanical transformation, dynamic camera tracking shot, cinematic photorealistic 8k render.
-```
-
-</details>
-
-<a id="seedance-venice-inverted-city-envelope-run"></a>
-### 粉发女子奔跑穿过倒置的威尼斯
-
-<a href="https://x.com/Just_sharon7/status/2100541954685895043"><img src="../../previews/seedance-venice-inverted-city-envelope-run.jpg" width="360"></a>
-
-固定的身份描述锁定人脸、发色和服装，分段时间轴列出每个镜头，使同一角色在所有运镜中保持一致。把折叠的城市描述为镜面天花板，并明确人物始终受正常重力，为超现实场景建立清晰的视觉规则。
-
-Seedance 2.5 · 参考生视频 · 出处: [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2100541954685895043) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`surreal`](tags.md#tag-surreal) [`venice`](tags.md#tag-venice) [`character-consistency`](tags.md#tag-character-consistency) [`cinematic`](tags.md#tag-cinematic)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-[Image 1](image_1) is the face and identity reference. A young Korean woman in her early twenties with EXACTLY the face of @[Image 1](image_1) — same facial structure, same features, natural Korean skin, no glasses. Long pastel pink hair, wearing a 1940s teal-orange wool coat-dress with white collar, a brown leather satchel worn cross-body, grey knee socks, black leather shoes, holding a folded yellow envelope. Every shot of her matches @[Image 1](image_1).
-1940s Venice at golden hour. Amber and teal cinematic grade, anamorphic 35mm film look, shallow depth of field, volumetric god rays, fine film grain. Inception-style folding architecture — the Venetian city curls upward and hangs inverted overhead like a mirrored ceiling. The woman always stays under normal gravity while the world folds around her. Continuous camera motion, no hard cuts.
-[TIMELINE PROMPT]
-0–3s: Lateral tracking shot along a stone quay by the Grand Canal at sunset. The young woman @[Image 1](image_1) in a teal coat sprints past camera, clutching a yellow envelope. Above her the entire city hangs upside down, mirrored — a man in a bowler hat walks a dachshund across the inverted street. A red umbrella drifts weightlessly between the two worlds. Pigeons scatter through the amber light.
-3–6s: Camera follows behind her into a narrow Venetian alley, dry leaves swirling in her wake. At the far end the street peels upward into the sky, buildings stacking vertically like a wall of windows. Her footsteps echo between the stone walls.
-6–9s: The camera slowly rolls 90 degrees. The alley wall becomes the ground beneath her feet; she keeps running, unfazed. The roll continues into a wide orbit as she races up a floating spiral stone staircase suspended in mid-air, fragments of terracotta Venetian rooftops rotating around her like a kaleidoscope.
-9–12s: Extreme wide silhouette. She runs across the top of an arched stone bridge over a wide canal against the blazing setting sun. The mirrored city hangs both above and below the arch. On the inverted plane, a lone pedestrian walks the opposite direction. Birds burst across the frame in slow motion.
-12–15s: Low angle looking straight up between two towering building walls, the sky a thin bright strip. She leaps across the vertical chasm, arms spread wide, coat and hair flying, satchel swinging. Camera holds on her against the sky. Wind roars.
-15–18s: Handheld push-in through a crowded 1940s Rialto market street — vendors stacking crates of apples, laundry strung overhead between the buildings. She weaves between blurred foreground shoppers, running away from camera. An apple rolls loose across the cobblestones.
-18–21s: Camera tilts up a grand brick bell tower — a Venetian campanile — as the surrounding city folds and curls around it. The woman appears tiny on the tower ledge, pauses against the sun, then steps off toward the rooftops. Bells begin to ring.
-21–24s: Rooftop terrace garden framed by a rose-covered arbor. An elderly woman in a grey cardigan waters a bed of vivid flowers with a tin can. Behind her, Venice and the domes of St Mark's Basilica glow at sunset over the lagoon while the inverted city hangs overhead. The young woman balances along the stone balustrade, arms out, then jumps down onto the terrace.
-24–27s: She holds out the yellow envelope. The old woman turns, sets down the watering can, and takes it. Both smile warmly at each other. Rose petals drift upward past them, falling toward the inverted sky.
-27–30s: Camera pulls back and rises fast. The whole city folds and rotates until it becomes a top-down aerial of Venice's canals and streets curling into a sphere. The two tiny figures remain on the terrace. Slow fade to warm light.
-```
-
-</details>
-
-<a id="seedance-wasteland-hourglass-hair-morph"></a>
-### 荒原巨型沙漏间伫立的女子
-
-<a href="https://x.com/itsSaira_1/status/2106989829108207864"><img src="../../previews/seedance-wasteland-hourglass-hair-morph.jpg" width="360"></a>
-
-提示词详细锁定服装，并只把发型变化描述为唯一的形象变化，使人物在变换过程中保持一致。阴天平光、低饱和色调和缓慢的镜头运动奠定了氛围。
-
-Seedance 2.5 · 文生视频 · 出处: [@itsSaira_1 on X](https://x.com/itsSaira_1/status/2106989829108207864) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`wasteland`](tags.md#tag-wasteland) [`hourglass`](tags.md#tag-hourglass) [`character-morph`](tags.md#tag-character-morph) [`photorealistic`](tags.md#tag-photorealistic)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Cinematic wide shot of a cracked, dry wasteland under a flat grey overcast sky. Monumental weathered stone hourglasses, some as tall as buildings, stand across the plain; sand pours steadily inside their glass bulbs. A young woman in a muted blue-grey high-collar tunic with white embroidery, a two-tone grey and cream skirt, tall boots, and wide silver cuff bracelets walks toward the nearest hourglass. She stops, looks up at the falling sand, then checks a thick silver wrist device with growing alarm. Her appearance morphs mid-shot: long brown hair with bangs becomes windblown blonde, then a darker brown, while the outfit stays the same. Close-ups show wide eyes and hands pressed to her temples as small dark particles drift in the air. She turns away, then looks back over her shoulder with a faint, knowing smile. Desaturated earth tones, soft diffused light, shallow depth of field on close-ups, photorealistic, filmic, slow deliberate camera moves.
-
-#AIArt #AIContent #CinematicAI
-```
-
-</details>
-
-<a id="seedance-water-dragon-rooftop-brush-vortex"></a>
-### 屋顶白衣女子云端召唤水晶水龙
-
-<a href="https://x.com/juliaevee/status/2110191663666639097"><img src="../../previews/seedance-water-dragon-rooftop-brush-vortex.jpg" width="360"></a>
-
-提示词按时间顺序写成分镜：先定暴风雨屋顶，再过渡到阳光下的云上世界，最后以画圈引出漩涡。这条清晰的因果链让模型有明确的先后顺序，而服饰与半透明龙身的具体描述使主体在镜头切换中保持一致。
-
-Seedance 2.5 · 文生视频 · 出处: [@juliaevee on X](https://x.com/juliaevee/status/2110191663666639097) · 发现于 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)
-
-[`water-dragon`](tags.md#tag-water-dragon) [`fantasy`](tags.md#tag-fantasy) [`vfx`](tags.md#tag-vfx) [`storm`](tags.md#tag-storm)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-A cinematic vertical video starting on a dark, stormy rooftop overlooking a sprawling urban city. A woman in a white and beige traditional robe with long dark hair stands watching a majestic, translucent blue water-dragon coiled in the stormy clouds. The dragon lunges towards her, transitioning into a bright, ethereal realm above the clouds where she floats under a brilliant sun. She draws a glowing circle with a brush on parchment, creating a vortex in the clouds, then summons water spirals that shape into a massive crystalline dragon that dives down toward the city below, creating a giant splash through the cloud layer. Photorealistic, high-end VFX, epic fantasy atmosphere, dynamic camera angles, 8k resolution.
 ```
 
 </details>

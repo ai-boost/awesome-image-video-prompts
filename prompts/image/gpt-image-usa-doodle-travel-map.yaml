@@ -1,0 +1,36 @@
+id: gpt-image-usa-doodle-travel-map
+title:
+  en: Doodle travel map of the United States
+  zh: 美国涂鸦旅行地图插画
+model: GPT Image 2
+mode: text-to-image
+category: map
+tags:
+- doodle
+- travel-map
+- pen-and-ink
+- united-states
+source:
+  name: '@Naiknelofar788 on X'
+  url: https://x.com/Naiknelofar788/status/2093679919473840378
+  credit: Naiknelofar788
+  captured: '2026-11-24'
+  posted: '2026-08-29'
+  via: https://github.com/freestylefly/awesome-gpt-image-2
+notes:
+  en: The post is a template with bracketed slots, and this result fills them in for the United States while keeping its structure. The country outline drives the composition and dozens of tiny ink doodles fill it with landmarks, food and wildlife, and the monochrome linework on cream paper keeps that dense detail clean.
+  zh: 这是一个带方括号占位符的模板，本例把国家、地标和食物等槽位替换为美国的内容，并保留了原有结构。国家轮廓决定构图，几十个细小墨线涂鸦填满画面，单色线条配合米色纸面让密集的细节依然清晰。
+prompt: |
+  Doodle Country Illustration [COUNTRY NAME]
+
+  Create a charming, highly detailed hand-drawn doodle illustration of [COUNTRY NAME], designed like a whimsical illustrated travel map. Use the recognizable outline/shape of the country as the main composition, filled with dozens of tiny black-ink doodles representing its culture, landscapes, food, architecture, traditions, wildlife, landmarks, and everyday life.
+
+  Include iconic elements such as [LANDMARK 1], [LANDMARK 2], [FOOD], [ANIMAL], [TRADITION], [NATURE], [FAMOUS OBJECT], along with small decorative elements scattered naturally throughout the map.
+
+  Style: intricate pen-and-ink doodle art, playful hand-drawn lines, tiny illustrations, whimsical details, slightly imperfect sketching, travel-journal aesthetic, monochrome ink with subtle paper texture, white/off-white background, balanced composition, visually rich but clean, no photorealism.
+
+  Add the country name “[COUNTRY NAME]” in beautiful hand-lettered typography integrated naturally into the artwork.
+
+  Aspect ratio: 4:5 portrait
+  Mood: artistic, nostalgic, cozy, adventurous, culturally rich
+  Quality: extremely detailed, crisp linework, professional illustrated travel poster.

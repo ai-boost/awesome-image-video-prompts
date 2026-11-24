@@ -1,0 +1,28 @@
+id: seedance-pink-ponytail-night-gym-vlog
+title:
+  en: Pastel pink ponytail athlete vlogs night gym workout
+  zh: 粉发女生夜间健身房边练边聊vlog
+model: Seedance 2.5
+mode: text-to-video
+category: vlog
+tags:
+- fitness
+- vlog
+- handheld
+- gym
+source:
+  name: '@Just_sharon7 on X'
+  url: https://x.com/Just_sharon7/status/2104153857542553754
+  credit: Just_sharon7
+  captured: '2026-11-24'
+  posted: '2026-09-27'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Just_sharon7/status/2104153857542553754
+notes:
+  en: A timed six-cut storyboard with quoted dialogue lines and an explicit sound list keeps the clips on beat. Film specs like 35mm anamorphic, halation and exposure flicker, plus deliberate handheld faults such as clipped framing and delayed focus, sell the amateur camcorder look.
+  zh: 用带时间码的六段分镜、引号内的台词和明确的环境音清单来控制节奏。35mm 宽银幕、光晕和曝光闪烁等镜头参数，加上手持抖动、对焦延迟、构图偏移等刻意的瑕疵，做出业余摄像机 vlog 的质感。
+prompt: "Camera Settings: shot on 35mm film, anamorphic 2x squeeze, 2.39:1, oval bokeh, heavy grain, halation on the bulbs. Focal length: 35mm. Aperture: f/2.0. Camera Style: handheld \n\nNatural hand shake, slightly crooked horizons, delayed autofocus, accidental micro-zooms, imperfect reframing, occasional clipped forehead or shoes, brief exposure hunting when she moves beneath overhead lights. \nLOOK\n\nSoft, slightly blurry analog-tape quality, faint video noise, subtle motion smearing, muted contrast, realistic skin tones, blooming fluorescent highlights and occasional auto-exposure flicker. Nothing polished or commercial.\n\nSTYLE\n\nCasual evening functional-training vlog. More energetic and playful than a traditional weights session. CHASE alternates between balance, bodyweight and cardio movements, becoming progressively more out of breath while joking with the camera.\n\nCHARACTER\n\nCHASE — Korean idol new version 20s. Long pastel pink hair tied in a high ponytail, glowing natural\
+  \ skin with a light workout sweat sheen, large expressive eyes and slim athletic build.\n\nShe wears a modest oversized light green long-sleeve performance top, loose white track pants and white training sneakers. Arms and torso remain fully covered. No jewelry.\n\nSETTING\n\nA smaller industrial-style functional training gym at night.\n\nBlack rubber flooring, exposed concrete walls, warm fluorescent ceiling strips, wooden plyometric boxes, battle ropes, medicine balls, rowing machines and a turf training lane. Large windows reveal scattered city lights outside.\n\nA half-full water bottle and small towel sit beside a plyometric box.\n\nBackground gym members occasionally pass naturally without acknowledging the camera.\n\nSTORYBOARD — 15 SECONDS / 6 CUTS\n\nCUT 1 — 0:00–0:01.8 | HANDHELD SELFIE\n\nCHASE walks backward onto the turf while filming herself. The framing wobbles and briefly cuts off the top of her ponytail.\n\nShe points behind herself toward a wooden plyometric box.\n\n\
+  CHASE:\n“Trying something different tonight.”\n\nShe turns the camera too quickly, creating a messy whip-pan.\n\nCUT 2 — 0:01.8–0:04.5 | PROPPED CAMERA — BOX STEP-UPS\n\nCamera sits slightly crooked on a low bench.\n\nCHASE performs alternating step-ups onto a wooden plyometric box — controlled but quick, driving one knee upward at the top of each repetition.\n\nHer ponytail bounces naturally.\n\nCHASE:\n“Why are step-ups already humbling me?”\n\nShe laughs quietly while continuing.\n\nCUT 3 — 0:04.5–0:06.3 | LOW CLOSE-UP\n\nCamera has been repositioned near floor level.\n\nClose-up of her sneakers landing on the rubber flooring as she performs quick alternating toe taps against the box.\n\nAutofocus briefly locks onto the box instead of her shoes.\n\nNo dialogue.\n\nNatural sneaker impacts, distant equipment sounds and her breathing.\n\nCUT 4 — 0:06.3–0:09.4 | PROPPED WIDE — BATTLE ROPES\n\nA slightly badly framed wide shot catches CHASE performing alternating battle-rope waves.\n\nThe\
+  \ ropes ripple heavily across the floor while her shoulders and knees absorb the movement naturally.\n\nAfter several waves she looks toward the camera with a surprised expression.\n\nCHASE:\n“Okay—this escalated fast.”\n\nHer voice carries a small laugh between breaths.\n\nCUT 5 — 0:09.4–0:12.1 | HANDHELD RECOVERY\n\nCHASE grabs the camera immediately after stopping.\n\nThe image shakes noticeably while autofocus searches for her sweaty face.\n\nShe leans against the plyometric box, catching her breath.\n\nCHASE:\n“I said different. Not easier.”\n\nShe gives the camera an exhausted little grin.\n\nCUT 6 — 0:12.1–0:15.0 | FLOOR-LEVEL PROPPED ENDING\n\nCamera sits casually beside her water bottle.\n\nCHASE drops onto the turf, sitting cross-legged and taking a drink of water.\n\nShe looks sideways toward the camera.\n\nCHASE:\n“That’s enough character development for tonight.”\n\nShe laughs, reaches toward the lens—\n\nThe frame shakes as her hand accidentally bumps the camera.\n\nCUT.\n\
+  \nAUDIO\n\nKeep authentic gym ambience throughout: distant footsteps, machines, soft conversations, rope impacts, sneaker squeaks, CHASE's breathing and slight room echo. No polished voice recording. Her dialogue should sound naturally captured through a consumer camcorder microphone.\n"

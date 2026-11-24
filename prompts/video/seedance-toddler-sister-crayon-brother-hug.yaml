@@ -1,0 +1,36 @@
+id: seedance-toddler-sister-crayon-brother-hug
+title:
+  en: Toddler sister draws with crayons as baby brother crawls
+  zh: 姐姐用蜡笔画画，弟弟在旁边爬行
+model: Seedance 2.5
+mode: text-to-video
+category: cinematic
+tags:
+- 3d-animation
+- toddlers
+- emotional-story
+source:
+  name: '@Zarnab_with_Ai on X'
+  url: https://x.com/Zarnab_with_Ai/status/2119258890642833684
+  credit: Zarnab_with_Ai
+  captured: '2026-11-24'
+  posted: '2026-11-08'
+  via: https://github.com/LearnPrompt/awesome-seedance
+video: https://x.com/Zarnab_with_Ai/status/2119258890642833684
+notes:
+  en: The prompt works as a three beat story (setup, conflict, comfort) with a shot plan of medium shots and close ups on faces, so the emotional arc has a clear timeline. The consistency line for faces, hair and clothing plus the explicit no dialogue and no text rule keeps the characters stable across cuts and the clip free of captions.
+  zh: 提示词把情节写成铺垫、冲突、安抚三段，并指定中景和特写来拍脸部表情，让情绪变化有清晰的时间线。结尾对脸、发型和衣着一致性的要求，加上不要对白和字幕的限制，让镜头之间人物保持稳定，画面也不会出现文字。
+prompt: |
+  Create a high-quality cinematic 3D animated cartoon video featuring two adorable toddlers in a cozy, beautifully decorated living room.
+
+  A little girl wearing a colorful floral dress with two cute ponytails is sitting on the floor, happily drawing pictures with crayons on a large white sheet of paper. A cute baby boy wearing blue pajamas crawls beside her and watches curiously.
+
+  Suddenly, the baby boy playfully grabs her drawing paper and messes up her artwork. The little girl becomes surprised and angry, crossing her arms with an adorable frustrated expression. The baby boy starts crying dramatically.
+
+  The little girl notices his tears, gently picks him up, hugs him warmly, and comforts him. The baby gradually stops crying and smiles happily. Finally, both children laugh together while sharing a sweet hug.
+
+  Visual Style: Ultra-detailed 3D Pixar-style animation, adorable toddler characters, expressive big eyes, realistic facial expressions, soft cinematic lighting, colorful cozy living room, beautiful textures, smooth natural movements, emotional storytelling, professional animation quality, 4K resolution, vertical 9:16 aspect ratio.
+
+  Camera: Smooth cinematic camera movements, medium shots and close-ups to capture facial expressions and emotional reactions.
+
+  Important: Maintain consistent character faces, hairstyles, clothing, and body proportions throughout the entire video. No dialogue, no subtitles, no text, no watermark.

@@ -1,0 +1,50 @@
+id: nano-banana-red-cheongsam-paper-cut-shadow-profile
+title:
+  en: Profile portrait in red cheongsam under paper cutout shadows
+  zh: 红色旗袍侧颜人像，剪纸光影投在脸上
+model: Nano Banana Pro
+mode: text-to-image
+category: portrait
+tags:
+- lunar-new-year
+- portrait
+- cheongsam
+- paper-cut
+source:
+  name: '@ttmouse on X'
+  url: https://x.com/ttmouse/status/2008273570175349157
+  credit: ttmouse - 豆爸
+  likes: 193
+  captured: '2026-11-24'
+  posted: '2026-01-05'
+notes:
+  en: Gobo lighting through a red paper cutout foreground casts crane and peony shadows across the face, and that projected pattern is the core effect. Naming an 85 to 100mm macro lens, shallow depth of field and backlit vellus hair keeps the skin and light realistic rather than generic.
+  zh: 用 Gobo 投影布光让前景的红色剪纸图案在脸上投出仙鹤和牡丹的阴影，这是画面的核心效果。配合 85 到 100 毫米微距镜头、浅景深和逆光下的面部绒毛描写，让皮肤和光线显得真实而不是模板化。
+prompt: |
+  1. 宏观风格与媒介
+  - 核心媒介: 高清商业人像摄影 (High-end Commercial Photography)
+  - 美学流派: 新中式美学 (New Chinese Style), 节日时尚大片
+
+  2. 主体与IP身份
+  - 核心主体: 年轻东亚女性侧颜特写 (Close-up profile of young Asian woman)
+  - IP/名人锁定: 穿着红色旗袍 (Red Cheongsam), 佩戴珍珠项链与红色花卉耳环
+
+  3. 世界逻辑与物理
+  - 物理法则: 真实光学投影 (Real optical projection), 面部光影贴合面部起伏
+  - 空间构成: 人眼平视视角 (Eye-level), 极近距离接触
+
+  4. 数据与信息层
+  - 文本提取: 无文本
+  - 品牌与符号: 红色剪纸艺术前景 (Red paper-cut art foreground) - 包含仙鹤、蝴蝶与牡丹纹样
+
+  5. 材质与纹理
+  - 核心材质: 超写实皮肤质感 (Hyper-realistic skin), 哑光卡纸 (Matte cardstock), 温润珍珠
+  - 触感细节: 逆光下可见的面部绒毛 (Visible vellus hair backlit), 次表面散射效果 (Subsurface scattering)
+
+  6. 光影与氛围
+  - 光照模型: Gobo投影布光 (Gobo lighting/Projected shadows) - 复杂的镂空花纹光影投射在人物面部
+  - 整体氛围: 金色暖阳侧逆光 (Warm golden hour light), 高饱和度喜庆红调, 梦幻且清晰
+
+  7. 技术参数
+  - 镜头与渲染: 85mm-100mm 微距镜头 (Macro lens), 浅景深 (Shallow depth of field), 前景虚化 (Bokeh foreground)
+  - 构图指令: 框式构图 (Framed composition), --ar 3:4
