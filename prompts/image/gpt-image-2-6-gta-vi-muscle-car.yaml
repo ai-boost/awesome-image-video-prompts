@@ -1,0 +1,25 @@
+id: gpt-image-2-6-gta-vi-muscle-car
+title:
+  en: Man leans on a purple muscle car at Vice City sunset
+  zh: 男子倚着紫色肌肉车，罪恶都市的日落
+model: GPT Image 2.6
+mode: image-edit
+category: photo-to-art
+tags:
+- gta-vi
+- vice-city
+- photo-to-art
+- car
+- portrait
+source:
+  name: u/Beginning-Willow-801 on Reddit
+  url: https://www.reddit.com/r/promptingmagic/comments/1y27pts/turn_yourself_into_a_gta_character_with_chatgpt
+  credit: Beginning-Willow-801
+  likes: 24
+  captured: '2026-11-27'
+  posted: '2026-11-21'
+notes:
+  en: 'A full-body, slightly low-angle shot is asked for so both the person and the car stay in frame, and the colors are assigned object by object: pink-orange sky, purple bodywork, amber headlights, teal neon. The line that lists face, skin tone, age, hair and build as fixed keeps the face close to the upload. Made in ChatGPT, which has run Images 2.6 since November 4.'
+  zh: 要求全身、略仰视的镜头，人和车都留在画面里；颜色按物件分配：粉橙天空、紫色车身、琥珀色车灯、青色霓虹。最后逐项写明脸、肤色、年龄、发型和体型保持原样，脸更接近上传的照片。在 ChatGPT 里生成，ChatGPT 从 11 月 4 日起用的是 Images 2.6。
+prompt: |
+  Create a vertical 4:5 GTA VI / Vice City-inspired illustration using my uploaded photo as the identity reference for the only subject. Preserve their face, skin tone, age, hair, any facial hair or glasses, and build; avoid beautifying or reshaping. Show the subject leaning casually against a purple vintage muscle car on a palm-lined Vice City street at sunset. Dress them in a black shirt and tan pants. Use a full-body, slightly low-angle shot that keeps both the person and the car visible, with distant Art Deco buildings. Use a pink-orange sky, purple bodywork, amber headlights and teal neon accents. Use a cohesive semi-realistic game-poster illustration throughout: airbrushed gradients, cel shading and glossy highlights. No text, logos, watermarks or inset photos.

@@ -1,6 +1,6 @@
 # 照片转艺术风格
 
-[返回目录](../../README_zh.md) · 全部 114 条
+[返回目录](../../README_zh.md) · 全部 123 条 · **1** · [2](image-photo-to-art-2.md)
 
 <a id="gpt-image-photo-to-watercolor-travel"></a>
 ### 上半旅行照片，下半同一场景水彩画
@@ -3802,6 +3802,177 @@ Convert only her hair, the bowl, and the chopsticks into a 2D hand-drawn anime i
 
 </details>
 
+<a id="gpt-image-2-6-gta-vi-art-deco-hotel"></a>
+### 穿粉色西装的女子站在粉彩装饰艺术风酒店门前
+
+<a href="https://www.reddit.com/r/promptingmagic/comments/1y27pts/turn_yourself_into_a_gta_character_with_chatgpt"><img src="../../previews/gpt-image-2-6-gta-vi-art-deco-hotel.jpg" width="360"></a>
+
+用装饰艺术风酒店的立面代表罪恶都市，只靠建筑和颜色就交代了场景。服装的粉色在配色里再出现一次（腮红粉、蜜桃、薰衣草紫），人物和背景连成一体。在 ChatGPT 里生成，ChatGPT 从 11 月 4 日起用的是 Images 2.6。
+
+GPT Image 2.6 · 上传图改图 · 出处: [u/Beginning-Willow-801 on Reddit](https://www.reddit.com/r/promptingmagic/comments/1y27pts/turn_yourself_into_a_gta_character_with_chatgpt) · 24 赞，统计于 2026-11-27
+
+[`gta-vi`](tags.md#tag-gta-vi) [`vice-city`](tags.md#tag-vice-city) [`photo-to-art`](tags.md#tag-photo-to-art) [`art-deco`](tags.md#tag-art-deco) [`fashion`](tags.md#tag-fashion) [`portrait`](tags.md#tag-portrait)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a vertical 4:5 GTA VI / Vice City-inspired illustration using my uploaded photo as the identity reference for the only subject. Preserve their face, skin tone, age, hair, any facial hair or glasses, and build; avoid beautifying or reshaping. Show the subject on a palm-lined street outside a pastel Art Deco hotel, wearing a pink blazer over a dark top and matching pink trousers. Use a three-quarter-length, eye-level portrait with the hotel's geometric facade and softly glowing entrance behind them. Give the scene a sunset palette of blush pink, peach, lavender and turquoise neon. Use a cohesive semi-realistic game-poster illustration throughout: airbrushed gradients, cel shading and glossy highlights. No text, logos, watermarks or inset photos.
+```
+
+</details>
+
+<a id="gpt-image-2-6-gta-vi-everglades-airboat"></a>
+### 男子清晨驾驶气垫船穿过大沼泽
+
+<a href="https://www.reddit.com/r/promptingmagic/comments/1y27pts/turn_yourself_into_a_gta_character_with_chatgpt"><img src="../../previews/gpt-image-2-6-gta-vi-everglades-airboat.jpg" width="360"></a>
+
+写明了机位（从船前侧方的四分之三视角），脸、握操纵杆的手和部分船身都能入镜。暗橄榄绿和青色配蜜桃金的晨光，和同组的霓虹城市场景拉开了区别。在 ChatGPT 里生成，ChatGPT 从 11 月 4 日起用的是 Images 2.6。
+
+GPT Image 2.6 · 上传图改图 · 出处: [u/Beginning-Willow-801 on Reddit](https://www.reddit.com/r/promptingmagic/comments/1y27pts/turn_yourself_into_a_gta_character_with_chatgpt) · 24 赞，统计于 2026-11-27
+
+[`gta-vi`](tags.md#tag-gta-vi) [`vice-city`](tags.md#tag-vice-city) [`photo-to-art`](tags.md#tag-photo-to-art) [`boat`](tags.md#tag-boat) [`action`](tags.md#tag-action) [`portrait`](tags.md#tag-portrait)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a vertical 4:5 GTA VI / Vice City-inspired illustration using my uploaded photo as the identity reference for the only subject. Preserve their face, skin tone, age, hair, any facial hair or glasses, and build; avoid beautifying or reshaping. Show the subject steering an airboat through the Everglades at dawn, wearing an olive overshirt over a dark T-shirt. Use a three-quarter view from the front side of the boat so their face, hands on the controls and part of the airboat are visible. Surround them with sawgrass, mist and still water, using muted olive and teal against a peach-gold dawn sky. Use a cohesive semi-realistic game-poster illustration throughout: airbrushed gradients, cel shading and glossy highlights. No text, logos, watermarks or inset photos.
+```
+
+</details>
+
+<a id="gpt-image-2-6-gta-vi-muscle-car"></a>
+### 男子倚着紫色肌肉车，罪恶都市的日落
+
+<a href="https://www.reddit.com/r/promptingmagic/comments/1y27pts/turn_yourself_into_a_gta_character_with_chatgpt"><img src="../../previews/gpt-image-2-6-gta-vi-muscle-car.jpg" width="360"></a>
+
+要求全身、略仰视的镜头，人和车都留在画面里；颜色按物件分配：粉橙天空、紫色车身、琥珀色车灯、青色霓虹。最后逐项写明脸、肤色、年龄、发型和体型保持原样，脸更接近上传的照片。在 ChatGPT 里生成，ChatGPT 从 11 月 4 日起用的是 Images 2.6。
+
+GPT Image 2.6 · 上传图改图 · 出处: [u/Beginning-Willow-801 on Reddit](https://www.reddit.com/r/promptingmagic/comments/1y27pts/turn_yourself_into_a_gta_character_with_chatgpt) · 24 赞，统计于 2026-11-27
+
+[`gta-vi`](tags.md#tag-gta-vi) [`vice-city`](tags.md#tag-vice-city) [`photo-to-art`](tags.md#tag-photo-to-art) [`car`](tags.md#tag-car) [`portrait`](tags.md#tag-portrait)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a vertical 4:5 GTA VI / Vice City-inspired illustration using my uploaded photo as the identity reference for the only subject. Preserve their face, skin tone, age, hair, any facial hair or glasses, and build; avoid beautifying or reshaping. Show the subject leaning casually against a purple vintage muscle car on a palm-lined Vice City street at sunset. Dress them in a black shirt and tan pants. Use a full-body, slightly low-angle shot that keeps both the person and the car visible, with distant Art Deco buildings. Use a pink-orange sky, purple bodywork, amber headlights and teal neon accents. Use a cohesive semi-realistic game-poster illustration throughout: airbrushed gradients, cel shading and glossy highlights. No text, logos, watermarks or inset photos.
+```
+
+</details>
+
+<a id="gpt-image-2-6-gta-vi-neon-motorcycle"></a>
+### 穿机车夹克的女子站在雨后霓虹街头的摩托旁
+
+<a href="https://www.reddit.com/r/promptingmagic/comments/1y27pts/turn_yourself_into_a_gta_character_with_chatgpt"><img src="../../previews/gpt-image-2-6-gta-vi-neon-motorcycle.jpg" width="360"></a>
+
+雨后湿滑的路面给青、品红、紫的倒影提供了承载面；脸上一层柔光让人物在暗色街道里依然清楚。在 ChatGPT 里生成，ChatGPT 从 11 月 4 日起用的是 Images 2.6。
+
+GPT Image 2.6 · 上传图改图 · 出处: [u/Beginning-Willow-801 on Reddit](https://www.reddit.com/r/promptingmagic/comments/1y27pts/turn_yourself_into_a_gta_character_with_chatgpt) · 24 赞，统计于 2026-11-27
+
+[`gta-vi`](tags.md#tag-gta-vi) [`vice-city`](tags.md#tag-vice-city) [`photo-to-art`](tags.md#tag-photo-to-art) [`motorcycle`](tags.md#tag-motorcycle) [`neon`](tags.md#tag-neon) [`night`](tags.md#tag-night) [`portrait`](tags.md#tag-portrait)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a vertical 4:5 GTA VI / Vice City-inspired illustration using my uploaded photo as the identity reference for the only subject. Preserve their face, skin tone, age, hair, any facial hair or glasses, and build; avoid beautifying or reshaping. Show the subject leaning beside a motorcycle on a rain-slick Vice City street at night, wearing a teal-and-black biker jacket and dark pants. Use a three-quarter-length shot with the person and part of the motorcycle visible, and neon-lit Art Deco buildings behind them. Use teal, magenta and violet reflections in the wet pavement, with a soft glow on their face. Use a cohesive semi-realistic game-poster illustration throughout: airbrushed gradients, cel shading and glossy highlights. No text, logos, watermarks or inset photos.
+```
+
+</details>
+
+<a id="gpt-image-2-6-gta-vi-nightclub-owner"></a>
+### 男子扮作霓虹夜店老板，半身像
+
+<a href="https://www.reddit.com/r/promptingmagic/comments/1y27pts/turn_yourself_into_a_gta_character_with_chatgpt"><img src="../../previews/gpt-image-2-6-gta-vi-nightclub-owner.jpg" width="360"></a>
+
+用一个身份（自信的夜店老板）代替姿势描述；灯光要求在紫、品红、蓝的环境里给脸补一点暖光，霓虹下肤色仍然自然。在 ChatGPT 里生成，ChatGPT 从 11 月 4 日起用的是 Images 2.6。
+
+GPT Image 2.6 · 上传图改图 · 出处: [u/Beginning-Willow-801 on Reddit](https://www.reddit.com/r/promptingmagic/comments/1y27pts/turn_yourself_into_a_gta_character_with_chatgpt) · 24 赞，统计于 2026-11-27
+
+[`gta-vi`](tags.md#tag-gta-vi) [`vice-city`](tags.md#tag-vice-city) [`photo-to-art`](tags.md#tag-photo-to-art) [`nightclub`](tags.md#tag-nightclub) [`neon`](tags.md#tag-neon) [`portrait`](tags.md#tag-portrait)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a vertical 4:5 GTA VI / Vice City-inspired illustration using my uploaded photo as the identity reference for the only subject. Preserve their face, skin tone, age, hair, any facial hair or glasses, and build; avoid beautifying or reshaping. Show the subject as the confident owner of a neon-lit Vice City nightclub, wearing a black collared shirt. Use a waist-up, eye-level portrait as they stand near the bar, with an atmospheric dance floor and art deco details behind them. Light the scene in electric purple, magenta and blue, with a little warm light on their face. Use a cohesive semi-realistic game-poster illustration throughout: airbrushed gradients, cel shading and glossy highlights. No text, logos, watermarks or inset photos.
+```
+
+</details>
+
+<a id="gpt-image-2-6-gta-vi-ocean-drive-couple"></a>
+### 情侣在日落的海洋大道上散步，GTA VI 风格
+
+<a href="https://www.reddit.com/r/promptingmagic/comments/1y27pts/turn_yourself_into_a_gta_character_with_chatgpt"><img src="../../previews/gpt-image-2-6-gta-vi-ocean-drive-couple.jpg" width="360"></a>
+
+两张照片分别对应 A 和 B，各自固定站位和服装，并要求两人的长相分开保留。结尾那句画风描述（喷枪渐变、赛璐璐阴影、高光）在这组十条里完全一样，所以成图像同一套海报。在 ChatGPT 里生成，ChatGPT 从 11 月 4 日起用的是 Images 2.6。
+
+GPT Image 2.6 · 上传图改图 · 出处: [u/Beginning-Willow-801 on Reddit](https://www.reddit.com/r/promptingmagic/comments/1y27pts/turn_yourself_into_a_gta_character_with_chatgpt) · 24 赞，统计于 2026-11-27
+
+[`gta-vi`](tags.md#tag-gta-vi) [`vice-city`](tags.md#tag-vice-city) [`photo-to-art`](tags.md#tag-photo-to-art) [`couple`](tags.md#tag-couple) [`two-people`](tags.md#tag-two-people)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a vertical 4:5 GTA VI / Vice City-inspired illustration. Use my first uploaded photo as the identity reference for Subject A and my second for Subject B. Preserve each person's face, skin tone, age, hair, any facial hair or glasses, and build. Do not blend or swap their identities. Show both subjects strolling side by side on palm-lined Ocean Drive at sunset, Subject A on the left and Subject B on the right. Dress A in a dark blazer over a light shirt and dark trousers; dress B in a pink blazer and matching trousers over a light top. Use a three-quarter-length, eye-level shot with Art Deco buildings and neon accents behind them. Fill the sky with coral, orange and magenta, with turquoise reflections on the street. Use a cohesive semi-realistic game-poster illustration throughout: airbrushed gradients, cel shading and glossy highlights. No text, logos, watermarks or inset photos.
+```
+
+</details>
+
+<a id="gpt-image-2-6-gta-vi-penthouse-pool"></a>
+### 穿白色亚麻西装的女子在顶层无边泳池边
+
+<a href="https://www.reddit.com/r/promptingmagic/comments/1y27pts/turn_yourself_into_a_gta_character_with_chatgpt"><img src="../../previews/gpt-image-2-6-gta-vi-penthouse-pool.jpg" width="360"></a>
+
+浅色服装配青绿水面和天际线，画面明亮；配色写的是白、水蓝、浅金、柔粉，画面停在日光色调，而那句通用画风描述本身偏向紫色霓虹。在 ChatGPT 里生成，ChatGPT 从 11 月 4 日起用的是 Images 2.6。
+
+GPT Image 2.6 · 上传图改图 · 出处: [u/Beginning-Willow-801 on Reddit](https://www.reddit.com/r/promptingmagic/comments/1y27pts/turn_yourself_into_a_gta_character_with_chatgpt) · 24 赞，统计于 2026-11-27
+
+[`gta-vi`](tags.md#tag-gta-vi) [`vice-city`](tags.md#tag-vice-city) [`photo-to-art`](tags.md#tag-photo-to-art) [`luxury`](tags.md#tag-luxury) [`pool`](tags.md#tag-pool) [`portrait`](tags.md#tag-portrait)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a vertical 4:5 GTA VI / Vice City-inspired illustration using my uploaded photo as the identity reference for the only subject. Preserve their face, skin tone, age, hair, any facial hair or glasses, and build; avoid beautifying or reshaping. Show the subject relaxing beside a luxurious penthouse infinity pool overlooking the Vice City skyline, dressed in a white linen blazer over a light top and matching linen trousers. Use a three-quarter-length, eye-level portrait, with turquoise water and high-rise buildings visible behind them. Set the scene in warm sunset light with a palette of white, aqua, pale gold and soft pink. Use a cohesive semi-realistic game-poster illustration throughout: airbrushed gradients, cel shading and glossy highlights. No text, logos, watermarks or inset photos.
+```
+
+</details>
+
+<a id="gpt-image-2-6-gta-vi-speedboat-couple"></a>
+### 情侣乘快艇疾驰，背后是罪恶都市天际线
+
+<a href="https://www.reddit.com/r/promptingmagic/comments/1y27pts/turn_yourself_into_a_gta_character_with_chatgpt"><img src="../../previews/gpt-image-2-6-gta-vi-speedboat-couple.jpg" width="360"></a>
+
+两人各有动作（A 掌舵，B 靠栏杆站着），机位放在船头前方，两张脸都看得见。船头的浪花是唯一的动感提示，动作一眼能看懂。在 ChatGPT 里生成，ChatGPT 从 11 月 4 日起用的是 Images 2.6。
+
+GPT Image 2.6 · 上传图改图 · 出处: [u/Beginning-Willow-801 on Reddit](https://www.reddit.com/r/promptingmagic/comments/1y27pts/turn_yourself_into_a_gta_character_with_chatgpt) · 24 赞，统计于 2026-11-27
+
+[`gta-vi`](tags.md#tag-gta-vi) [`vice-city`](tags.md#tag-vice-city) [`photo-to-art`](tags.md#tag-photo-to-art) [`couple`](tags.md#tag-couple) [`two-people`](tags.md#tag-two-people) [`boat`](tags.md#tag-boat) [`action`](tags.md#tag-action)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a vertical 4:5 GTA VI / Vice City-inspired illustration. Use my first uploaded photo as the identity reference for Subject A and my second for Subject B. Preserve each person's face, skin tone, age, hair, any facial hair or glasses, and build. Do not blend or swap their identities. Show both subjects aboard a fast-moving speedboat: Subject A is steering at the helm and Subject B is standing safely near the rail. Dress A in a dark casual collared shirt and B in a white jacket over a light top. Use a dynamic three-quarter view from ahead of the boat, with both faces visible, spray at the bow and the Vice City skyline behind them. Use turquoise water, a pink-orange sky and warm sunset highlights. Use a cohesive semi-realistic game-poster illustration throughout: airbrushed gradients, cel shading and glossy highlights. No text, logos, watermarks or inset photos.
+```
+
+</details>
+
+<a id="gpt-image-2-6-gta-vi-yacht-marina"></a>
+### 穿牛仔外套的女子站在游艇码头，黄昏
+
+<a href="https://www.reddit.com/r/promptingmagic/comments/1y27pts/turn_yourself_into_a_gta_character_with_chatgpt"><img src="../../previews/gpt-image-2-6-gta-vi-yacht-marina.jpg" width="360"></a>
+
+提示词固定了取景（七分身、平视），并列出人物身后的东西：游艇、码头棕榈、平静的水面。点名四种颜色（珊瑚、蜜桃、牛仔蓝、青绿），给模型的是具体调色板。在 ChatGPT 里生成，ChatGPT 从 11 月 4 日起用的是 Images 2.6。
+
+GPT Image 2.6 · 上传图改图 · 出处: [u/Beginning-Willow-801 on Reddit](https://www.reddit.com/r/promptingmagic/comments/1y27pts/turn_yourself_into_a_gta_character_with_chatgpt) · 24 赞，统计于 2026-11-27
+
+[`gta-vi`](tags.md#tag-gta-vi) [`vice-city`](tags.md#tag-vice-city) [`photo-to-art`](tags.md#tag-photo-to-art) [`marina`](tags.md#tag-marina) [`portrait`](tags.md#tag-portrait)
+
+<details><summary><b>提示词</b></summary>
+
+```text
+Create a vertical 4:5 GTA VI / Vice City-inspired illustration using my uploaded photo as the identity reference for the only subject. Preserve their face, skin tone, age, hair, any facial hair or glasses, and build; avoid beautifying or reshaping. Show the subject at a luxury yacht marina at sunset, wearing a denim jacket over a dark top and dark pants. Frame them in a three-quarter-length, eye-level portrait, with yachts, dockside palms and calm water behind them. Use a coral and peach sky, deep blue denim and turquoise water reflecting the last warm sunlight. Use a cohesive semi-realistic game-poster illustration throughout: airbrushed gradients, cel shading and glossy highlights. No text, logos, watermarks or inset photos.
+```
+
+</details>
+
 <a id="gpt-image-2-6-gingerbread-cookie-royal-icing-portrait"></a>
 ### 个性化姜饼饼干肖像，皇家糖霜装饰冬季服饰
 
@@ -5024,116 +5195,4 @@ Constraints: No people, no cars, no extra signage beyond the counted Starbucks m
 
 </details>
 
-<a id="gpt-image-storybook-photo-to-handdrawn-portrait"></a>
-### 照片转手绘儿童绘本头像
-
-<a href="https://x.com/Sairah_0/status/2090321208441262454"><img src="../../previews/gpt-image-storybook-photo-to-handdrawn-portrait.jpg" width="360"></a>
-
-先列出必须保留的面部、发型、服装和配饰，再列出禁止照搬的内容，让身份特征保留而画风被重塑。指定水粉、蜡笔、粉彩等媒介和不规则棕色线条，并固定暖色背景，绘本质感更稳定。
-
-GPT Image 2 · 上传图改图 · 出处: [@Sairah_0 on X](https://x.com/Sairah_0/status/2090321208441262454) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-[`storybook`](tags.md#tag-storybook) [`hand-drawn`](tags.md#tag-hand-drawn) [`avatar`](tags.md#tag-avatar) [`gouache`](tags.md#tag-gouache) [`photo-to-illustration`](tags.md#tag-photo-to-illustration)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Use the single uploaded photo as the only visual reference. Transform the person into an adorable hand-drawn 2D children’s storybook character, while keeping their identity immediately recognizable.
-
-Preserve exactly from the photo:
-- Facial features and skin tone
-- Real hairstyle, length, texture, and color
-- Exact clothing, colors, patterns, and layering
-- Glasses, jewelry, headwear, bags, and all visible accessories
-
-Do not invent or copy hairstyles, outfits, accessories, braids, pigtails, bows, bonnets, or headscarves from any reference artwork.
-
-### Character
-Use an oversized rounded head, tiny compact body, short arms, narrow shoulders, soft rounded silhouette, and cute childlike proportions. Keep the head visually dominant. Avoid realistic anatomy.
-
-### Face
-Simplify into tiny dot/oval eyes, minimal nose, tiny smiling mouth, rounded cheeks, and soft peach/pink blush. Keep recognizable facial characteristics. No realistic eyes, detailed lips, anime features, glossy 3D rendering, or heavy shading.
-
-### Hair & Clothing
-Recreate the exact hairstyle and outfit from the uploaded photo, simplified into chunky hand-drawn shapes. Preserve important colors, patterns, jewelry, glasses, and other recognizable details.
-
-### Style
-Handmade 2D picture-book aesthetic using soft gouache, wax crayon, colored pencil, and dry pastel. Use slightly irregular dark-brown linework, subtle paper grain, uneven pigment, soft brush marks, and imperfect painted edges. Avoid clean vector art, CGI, anime, or photorealism.
-
-### Composition
-Square 1:1 portrait, chest/waist-up, centered and facing mostly forward, with balanced negative space. Use a relaxed, charming pose.
-
-### Background
-Simple warm mustard, butter yellow, ochre, or cream background with subtle paper texture. No scenery, objects, text, borders, or distractions.
-
-Final feeling: the same person lovingly redrawn as an extremely cute, warm, wholesome, nostalgic, handcrafted children’s-book character—same identity, same hair, same clothes, same accessories, completely simplified and adorable.
-```
-
-</details>
-
-<a id="gpt-image-vinyl-toy-couple-cafe-diorama"></a>
-### 户外咖啡馆桌边的乙烯基玩具情侣
-
-<a href="https://x.com/AIwithkhan/status/2066858886511161451"><img src="../../previews/gpt-image-vinyl-toy-couple-cafe-diorama.jpg" width="360"></a>
-
-以参考照片为基础，分别描述两个人物的发型、配饰、服装和姿势，让形象在玩具化后依然保留。再用材质词（亮面乙烯基、玩具关节）、场景说明、构图指令和渲染关键词（Octane、Unreal Engine）统一整体效果。
-
-GPT Image 2 · 上传图改图 · 出处: [@AIwithkhan on X](https://x.com/AIwithkhan/status/2066858886511161451) · 发现于 [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
-
-[`3d-toy`](tags.md#tag-3d-toy) [`vinyl-figure`](tags.md#tag-vinyl-figure) [`diorama`](tags.md#tag-diorama) [`cafe`](tags.md#tag-cafe) [`reference-photo`](tags.md#tag-reference-photo)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a highly detailed 3D collectible toy diorama of a stylish young couple sitting at an outdoor café table, inspired by a real-life reference photo. Transform both people into premium designer vinyl figures with smooth glossy plastic surfaces, articulated toy-joint details, oversized expressive eyes, realistic facial features, and fashionable outfits.
-
-The female figure has dark braided hair, black sunglasses, gold earrings, layered gold necklaces, and a white V-neck blouse. She rests her chin on her hand while smiling at her companion. The male figure has thick wavy dark hair, black sunglasses, a white t-shirt, and a silver wristwatch while drinking coffee from a white ceramic cup.
-
-Both figures sit at a wooden café table with coffee cups, saucers, and spoons. The setting is an elegant European-style outdoor café with warm beige architecture, large windows, blue umbrellas, lush green trees, and softly blurred background guests.
-
-Style: Pixar-inspired collectible toy, premium vinyl figure, designer toy aesthetic, ultra-realistic 3D render, glossy plastic texture, toy photography, shallow depth of field, cinematic lighting, warm golden-hour sunlight, photorealistic materials, high-end commercial product photography, sharp focus, ultra detailed, 8K resolution.
-
-Composition: Front-facing medium shot, both characters centered, natural poses, café ambiance, depth and realism, professional advertisement quality.
-
-Render Quality: Octane Render, Unreal Engine 5, ray tracing, global illumination, realistic reflections, HDR lighting, highly detailed textures, collectible figurine showcase.
-```
-
-</details>
-
-<a id="gpt-image-watercolor-travel-journal-postcard"></a>
-### 旅行照片转水彩手账明信片
-
-<a href="https://x.com/zhgqthomas/status/2056633723366568387"><img src="../../previews/gpt-image-watercolor-travel-journal-postcard.jpg" width="360"></a>
-
-叠加钢笔线稿、水彩晕染和米色纸张质感等手账要素，再用可替换的标题、文案、日期和地点邮戳槽位固定明信片版式，并用克制的大地色调统一画面。
-
-GPT Image 2 · 上传图改图 · 出处: [@zhgqthomas on X](https://x.com/zhgqthomas/status/2056633723366568387) · 发现于 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-[`watercolor`](tags.md#tag-watercolor) [`travel-journal`](tags.md#tag-travel-journal) [`postcard`](tags.md#tag-postcard) [`sketchbook`](tags.md#tag-sketchbook) [`photo-to-art`](tags.md#tag-photo-to-art)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-Create a dreamy watercolor travel illustration style from the attached photo. Use hand-painted urban sketchbook aesthetic, delicate ink linework mixed with soft watercolor washes, highly detailed pen-and-ink drawing, loose expressive brush strokes, watercolor bleeding edges, ultra detailed watercolor texture, soft beige paper texture background, architectural sketch style, vintage travel diary and sketchbook traveler aesthetic, travel journal composition, editorial postcard layout, handwritten medium title:[自定义标题]  at top, handwritten notes:[自定义文案] , date: [自定义日期] and location: [自定义地点]  stamps, natural perspective, atmospheric depth, minimalist negative space, muted earthy palette (warm browns, faded greens, cream whites, soft blue accents), quiet, calm, soft, cozy, nostalgic vibes, cinematic slice-of-life mood, poetic composition, mixed urban sketching with Ghibli-inspired realism, vertical poster design, premium art print quality.
-```
-
-</details>
-
-<a id="gpt-image-white-paper-craft-style-conversion"></a>
-### 插画转写实白色纸艺风格
-
-<a href="https://x.com/notoro_ai/status/2052018043883319536"><img src="../../previews/gpt-image-white-paper-craft-style-conversion.jpg" width="360"></a>
-
-先点明实体材质（激光切割厚纸），再补充具体细节：锐利切口、细密折痕、多层景深、纸纤维与自然投影。结尾要求保留原构图和角色，因此只改变媒介。
-
-GPT Image 2 · 上传图改图 · 出处: [@notoro_ai on X](https://x.com/notoro_ai/status/2052018043883319536) · 发现于 [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
-
-[`paper-craft`](tags.md#tag-paper-craft) [`style-conversion`](tags.md#tag-style-conversion) [`white-paper`](tags.md#tag-white-paper) [`layered-depth`](tags.md#tag-layered-depth) [`laser-cut`](tags.md#tag-laser-cut)
-
-<details><summary><b>提示词</b></summary>
-
-```text
-このイラストを非常に精密でリアルな白い紙のペーパークラフト風に変換してください。厚紙をレーザーカットしたようなシャープで正確な切り口、細かい折り目、複数のレイヤーによる豊かな立体感、紙の繊維感と自然な影を高ディテールで表現してください。光の当たり方による紙の白さと微妙なグラデーションを活かし、本物のような立体的なペーパーアート作品のようなリアリティを出して。全体を洗練されていて芸術的な雰囲気に。元のイラストの構図・キャラクターを忠実に維持。
-```
-
-</details>
+**1** · [2](image-photo-to-art-2.md)

@@ -1,0 +1,26 @@
+id: gpt-image-2-6-gta-vi-everglades-airboat
+title:
+  en: Man steers an airboat through the Everglades at dawn
+  zh: 男子清晨驾驶气垫船穿过大沼泽
+model: GPT Image 2.6
+mode: image-edit
+category: photo-to-art
+tags:
+- gta-vi
+- vice-city
+- photo-to-art
+- boat
+- action
+- portrait
+source:
+  name: u/Beginning-Willow-801 on Reddit
+  url: https://www.reddit.com/r/promptingmagic/comments/1y27pts/turn_yourself_into_a_gta_character_with_chatgpt
+  credit: Beginning-Willow-801
+  likes: 24
+  captured: '2026-11-27'
+  posted: '2026-11-21'
+notes:
+  en: The camera position is spelled out (three-quarter view from the front side) so the face, the hands on the controls and part of the boat all show. Muted olive and teal against a peach-gold dawn sets this one apart from the neon city scenes in the same set. Made in ChatGPT, which has run Images 2.6 since November 4.
+  zh: 写明了机位（从船前侧方的四分之三视角），脸、握操纵杆的手和部分船身都能入镜。暗橄榄绿和青色配蜜桃金的晨光，和同组的霓虹城市场景拉开了区别。在 ChatGPT 里生成，ChatGPT 从 11 月 4 日起用的是 Images 2.6。
+prompt: |
+  Create a vertical 4:5 GTA VI / Vice City-inspired illustration using my uploaded photo as the identity reference for the only subject. Preserve their face, skin tone, age, hair, any facial hair or glasses, and build; avoid beautifying or reshaping. Show the subject steering an airboat through the Everglades at dawn, wearing an olive overshirt over a dark T-shirt. Use a three-quarter view from the front side of the boat so their face, hands on the controls and part of the airboat are visible. Surround them with sawgrass, mist and still water, using muted olive and teal against a peach-gold dawn sky. Use a cohesive semi-realistic game-poster illustration throughout: airbrushed gradients, cel shading and glossy highlights. No text, logos, watermarks or inset photos.

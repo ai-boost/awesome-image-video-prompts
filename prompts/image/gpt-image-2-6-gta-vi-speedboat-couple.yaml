@@ -1,0 +1,27 @@
+id: gpt-image-2-6-gta-vi-speedboat-couple
+title:
+  en: Couple on a speeding boat with the Vice City skyline behind
+  zh: 情侣乘快艇疾驰，背后是罪恶都市天际线
+model: GPT Image 2.6
+mode: image-edit
+category: photo-to-art
+tags:
+- gta-vi
+- vice-city
+- photo-to-art
+- couple
+- two-people
+- boat
+- action
+source:
+  name: u/Beginning-Willow-801 on Reddit
+  url: https://www.reddit.com/r/promptingmagic/comments/1y27pts/turn_yourself_into_a_gta_character_with_chatgpt
+  credit: Beginning-Willow-801
+  likes: 24
+  captured: '2026-11-27'
+  posted: '2026-11-21'
+notes:
+  en: Each subject gets a job (A steers, B stands near the rail) and a camera position from ahead of the boat so both faces stay visible. Spray at the bow is the single motion cue, which keeps the action readable. Made in ChatGPT, which has run Images 2.6 since November 4.
+  zh: 两人各有动作（A 掌舵，B 靠栏杆站着），机位放在船头前方，两张脸都看得见。船头的浪花是唯一的动感提示，动作一眼能看懂。在 ChatGPT 里生成，ChatGPT 从 11 月 4 日起用的是 Images 2.6。
+prompt: |
+  Create a vertical 4:5 GTA VI / Vice City-inspired illustration. Use my first uploaded photo as the identity reference for Subject A and my second for Subject B. Preserve each person's face, skin tone, age, hair, any facial hair or glasses, and build. Do not blend or swap their identities. Show both subjects aboard a fast-moving speedboat: Subject A is steering at the helm and Subject B is standing safely near the rail. Dress A in a dark casual collared shirt and B in a white jacket over a light top. Use a dynamic three-quarter view from ahead of the boat, with both faces visible, spray at the bow and the Vice City skyline behind them. Use turquoise water, a pink-orange sky and warm sunset highlights. Use a cohesive semi-realistic game-poster illustration throughout: airbrushed gradients, cel shading and glossy highlights. No text, logos, watermarks or inset photos.

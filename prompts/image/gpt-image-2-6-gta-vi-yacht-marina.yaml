@@ -1,0 +1,25 @@
+id: gpt-image-2-6-gta-vi-yacht-marina
+title:
+  en: Woman in a denim jacket at a yacht marina, golden hour
+  zh: 穿牛仔外套的女子站在游艇码头，黄昏
+model: GPT Image 2.6
+mode: image-edit
+category: photo-to-art
+tags:
+- gta-vi
+- vice-city
+- photo-to-art
+- marina
+- portrait
+source:
+  name: u/Beginning-Willow-801 on Reddit
+  url: https://www.reddit.com/r/promptingmagic/comments/1y27pts/turn_yourself_into_a_gta_character_with_chatgpt
+  credit: Beginning-Willow-801
+  likes: 24
+  captured: '2026-11-27'
+  posted: '2026-11-21'
+notes:
+  en: 'The prompt pins the framing (three-quarter length, eye level) and lists what sits behind the subject: yachts, dockside palms and calm water. Four named colors (coral, peach, denim blue, turquoise) give the model a concrete palette. Made in ChatGPT, which has run Images 2.6 since November 4.'
+  zh: 提示词固定了取景（七分身、平视），并列出人物身后的东西：游艇、码头棕榈、平静的水面。点名四种颜色（珊瑚、蜜桃、牛仔蓝、青绿），给模型的是具体调色板。在 ChatGPT 里生成，ChatGPT 从 11 月 4 日起用的是 Images 2.6。
+prompt: |
+  Create a vertical 4:5 GTA VI / Vice City-inspired illustration using my uploaded photo as the identity reference for the only subject. Preserve their face, skin tone, age, hair, any facial hair or glasses, and build; avoid beautifying or reshaping. Show the subject at a luxury yacht marina at sunset, wearing a denim jacket over a dark top and dark pants. Frame them in a three-quarter-length, eye-level portrait, with yachts, dockside palms and calm water behind them. Use a coral and peach sky, deep blue denim and turquoise water reflecting the last warm sunlight. Use a cohesive semi-realistic game-poster illustration throughout: airbrushed gradients, cel shading and glossy highlights. No text, logos, watermarks or inset photos.

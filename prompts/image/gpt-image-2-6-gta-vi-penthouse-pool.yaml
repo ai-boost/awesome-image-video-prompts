@@ -1,0 +1,26 @@
+id: gpt-image-2-6-gta-vi-penthouse-pool
+title:
+  en: Woman in white linen by a penthouse infinity pool
+  zh: 穿白色亚麻西装的女子在顶层无边泳池边
+model: GPT Image 2.6
+mode: image-edit
+category: photo-to-art
+tags:
+- gta-vi
+- vice-city
+- photo-to-art
+- luxury
+- pool
+- portrait
+source:
+  name: u/Beginning-Willow-801 on Reddit
+  url: https://www.reddit.com/r/promptingmagic/comments/1y27pts/turn_yourself_into_a_gta_character_with_chatgpt
+  credit: Beginning-Willow-801
+  likes: 24
+  captured: '2026-11-27'
+  posted: '2026-11-21'
+notes:
+  en: A light outfit against turquoise water and a skyline gives a high-key image, and the palette (white, aqua, pale gold, soft pink) holds the image in daylight colors, while the shared style line on its own leans toward purple neon. Made in ChatGPT, which has run Images 2.6 since November 4.
+  zh: 浅色服装配青绿水面和天际线，画面明亮；配色写的是白、水蓝、浅金、柔粉，画面停在日光色调，而那句通用画风描述本身偏向紫色霓虹。在 ChatGPT 里生成，ChatGPT 从 11 月 4 日起用的是 Images 2.6。
+prompt: |
+  Create a vertical 4:5 GTA VI / Vice City-inspired illustration using my uploaded photo as the identity reference for the only subject. Preserve their face, skin tone, age, hair, any facial hair or glasses, and build; avoid beautifying or reshaping. Show the subject relaxing beside a luxurious penthouse infinity pool overlooking the Vice City skyline, dressed in a white linen blazer over a light top and matching linen trousers. Use a three-quarter-length, eye-level portrait, with turquoise water and high-rise buildings visible behind them. Set the scene in warm sunset light with a palette of white, aqua, pale gold and soft pink. Use a cohesive semi-realistic game-poster illustration throughout: airbrushed gradients, cel shading and glossy highlights. No text, logos, watermarks or inset photos.

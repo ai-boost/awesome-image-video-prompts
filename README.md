@@ -116,7 +116,7 @@ All 20 are on [agentcraft.dev](https://agentcraft.dev/en/prompts/image/seedream-
   - [Nature, travel and aerial](#vid-nature) (12)
   - [Animals and pets](#vid-animal) (33)
   - [VFX and transformations](#vid-vfx) (98)
-- [Image prompts](#image) (1472 entries)
+- [Image prompts](#image) (1481 entries)
   - [Posters and editorial layouts](#img-poster) (222)
   - [Infographics and slides](#img-infographic) (95)
   - [Phone and UI mockups](#img-ui-mockup) (30)
@@ -127,7 +127,7 @@ All 20 are on [agentcraft.dev](https://agentcraft.dev/en/prompts/image/seedream-
   - [Characters and figures](#img-character) (115)
   - [Illustration](#img-illustration) (124)
   - [Comics and storyboards](#img-comic) (21)
-  - [Photo to art](#img-photo-to-art) (114)
+  - [Photo to art](#img-photo-to-art) (123)
   - [Architecture and interiors](#img-architecture) (24)
   - [Maps](#img-map) (16)
   - [Collage](#img-collage) (109)
@@ -141,18 +141,18 @@ All 20 are on [agentcraft.dev](https://agentcraft.dev/en/prompts/image/seedream-
 <a id="recent"></a>
 ## Recently added
 
+- 2026-11-27 · [Woman in a pink suit outside a pastel Art Deco hotel](pages/en/image-photo-to-art.md#gpt-image-2-6-gta-vi-art-deco-hotel) · GPT Image 2.6
+- 2026-11-27 · [Man steers an airboat through the Everglades at dawn](pages/en/image-photo-to-art.md#gpt-image-2-6-gta-vi-everglades-airboat) · GPT Image 2.6
+- 2026-11-27 · [Man leans on a purple muscle car at Vice City sunset](pages/en/image-photo-to-art.md#gpt-image-2-6-gta-vi-muscle-car) · GPT Image 2.6
+- 2026-11-27 · [Woman in a biker jacket beside a motorcycle on a wet neon street](pages/en/image-photo-to-art.md#gpt-image-2-6-gta-vi-neon-motorcycle) · GPT Image 2.6
+- 2026-11-27 · [Man as a neon nightclub owner, waist-up portrait](pages/en/image-photo-to-art.md#gpt-image-2-6-gta-vi-nightclub-owner) · GPT Image 2.6
+- 2026-11-27 · [Couple strolls palm-lined Ocean Drive at sunset, GTA VI style](pages/en/image-photo-to-art.md#gpt-image-2-6-gta-vi-ocean-drive-couple) · GPT Image 2.6
+- 2026-11-27 · [Woman in white linen by a penthouse infinity pool](pages/en/image-photo-to-art.md#gpt-image-2-6-gta-vi-penthouse-pool) · GPT Image 2.6
+- 2026-11-27 · [Couple on a speeding boat with the Vice City skyline behind](pages/en/image-photo-to-art.md#gpt-image-2-6-gta-vi-speedboat-couple) · GPT Image 2.6
+- 2026-11-27 · [Woman in a denim jacket at a yacht marina, golden hour](pages/en/image-photo-to-art.md#gpt-image-2-6-gta-vi-yacht-marina) · GPT Image 2.6
 - 2026-11-24 · [Anime maid macOS desktop with app icons](#h3-anime-maid-macos-desktop) · MiniMax H3
 - 2026-11-24 · [Coyote paints fake tunnel on cliff face](#seedance-coyote-fake-tunnel-roller) · Seedance 2.5
 - 2026-11-24 · [Sailor with hot sauce fights suited gunman in NYC](pages/en/video-action.md#seedance-hot-sauce-sailor-nyc-fight) · Seedance 2.5
-- 2026-11-24 · [Pixar style woman with evening items in knolling layout](pages/en/image-poster.md#nano-banana-pixar-knolling-evening-look) · Nano Banana Pro
-- 2026-11-24 · [Pastel flower anatomy poster with photo cutouts](pages/en/image-poster.md#gpt-image-2-6-symbolic-anatomy-flower-poster) · GPT Image 2.6
-- 2026-11-24 · [Hens in a dandelion meadow with six stickers](pages/en/image-collage.md#gpt-image-2-6-hens-meadow-sticker-card) · GPT Image 2.6
-- 2026-11-24 · [Woman in white dress walks through misty jungle](pages/en/video-cinematic.md#kling-jungle-waterfall-30s-journey) · Kling 4.0
-- 2026-11-24 · [Lala stands on a plateau above a volcanic caldera](pages/en/video-scifi-fantasy.md#kling-lala-cerberus-volcano-spells) · Kling 4.0
-- 2026-11-24 · [Y2K selfie on a heart pillow bed](pages/en/image-portrait.md#nano-banana-y2k-valentine-bed-selfie) · Nano Banana Pro
-- 2026-11-24 · [Boy and dog watch mech in snowy forest](pages/en/video-scifi-fantasy.md#wan-mech-portal-boy-dog-snow) · Wan 3.0
-- 2026-11-24 · [Santorini postcard with blue domes and windmill](pages/en/image-illustration.md#gpt-image-2-6-santorini-postcard-blue-domes) · GPT Image 2.6
-- 2026-11-24 · [New York travel poster with yellow taxi and skyline](pages/en/image-poster.md#gpt-image-2-6-new-york-travel-poster-taxi) · GPT Image 2.6
 
 <a id="bymodel"></a>
 ## By model
@@ -161,7 +161,7 @@ All 20 are on [agentcraft.dev](https://agentcraft.dev/en/prompts/image/seedream-
 - [MiniMax H3](https://agentcraft.dev/en/prompts/video/minimax-h3/): 316 prompts, each with its output and source
 - [Wan 3.0](https://agentcraft.dev/en/prompts/video/wan-3-0/): 66 prompts, each with its output and source
 - [Kling 4.0](https://agentcraft.dev/en/prompts/video/kling-4-0/): 40 prompts, each with its output and source
-- [GPT Image 2.6](https://agentcraft.dev/en/prompts/image/gpt-image-2-6/): 116 prompts, 43 of them animated GIFs, each with its output and source
+- [GPT Image 2.6](https://agentcraft.dev/en/prompts/image/gpt-image-2-6/): 125 prompts, 43 of them animated GIFs, each with its output and source
 - [Nano Banana 2.1](https://agentcraft.dev/en/prompts/image/nano-banana-2-1/): 99 prompts, each with its output and source
 - [Seedream 5.5](https://agentcraft.dev/en/prompts/image/seedream-5-5/): 20 prompts, each with its output and source
 
@@ -2625,7 +2625,7 @@ Do not change my pet’s appearance. Do not turn it into a different animal, car
 
 </details>
 
-**[All 114 entries](pages/en/image-photo-to-art.md)**
+**[All 123 entries](pages/en/image-photo-to-art.md)**
 
 <a id="img-architecture"></a>
 ## Architecture and interiors
@@ -3074,9 +3074,9 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 <a id="tags"></a>
 ## Browse by tag
 
-[`portrait`](pages/en/tags.md#tag-portrait) 240 · [`fashion`](pages/en/tags.md#tag-fashion) 162 · [`multi-shot`](pages/en/tags.md#tag-multi-shot) 135 · [`anime`](pages/en/tags.md#tag-anime) 133 · [`template`](pages/en/tags.md#tag-template) 125 · [`typography`](pages/en/tags.md#tag-typography) 117 · [`cinematic`](pages/en/tags.md#tag-cinematic) 113 · [`handheld`](pages/en/tags.md#tag-handheld) 109 · [`editorial`](pages/en/tags.md#tag-editorial) 99 · [`golden-hour`](pages/en/tags.md#tag-golden-hour) 95 · [`dialogue`](pages/en/tags.md#tag-dialogue) 93 · [`character-consistency`](pages/en/tags.md#tag-character-consistency) 87 · [`photorealistic`](pages/en/tags.md#tag-photorealistic) 87 · [`reference-image`](pages/en/tags.md#tag-reference-image) 82 · [`fantasy`](pages/en/tags.md#tag-fantasy) 79 · [`christmas`](pages/en/tags.md#tag-christmas) 78 · [`macro`](pages/en/tags.md#tag-macro) 75 · [`photo-edit`](pages/en/tags.md#tag-photo-edit) 69 · [`infographic`](pages/en/tags.md#tag-infographic) 69 · [`vlog`](pages/en/tags.md#tag-vlog) 67 · [`storyboard`](pages/en/tags.md#tag-storyboard) 66 · [`json-prompt`](pages/en/tags.md#tag-json-prompt) 64 · [`action`](pages/en/tags.md#tag-action) 62 · [`collage`](pages/en/tags.md#tag-collage) 62 · [`selfie`](pages/en/tags.md#tag-selfie) 60 · [`reference-images`](pages/en/tags.md#tag-reference-images) 55 · [`miniature`](pages/en/tags.md#tag-miniature) 55 · [`comedy`](pages/en/tags.md#tag-comedy) 53 · [`food`](pages/en/tags.md#tag-food) 50 · [`travel-poster`](pages/en/tags.md#tag-travel-poster) 50
+[`portrait`](pages/en/tags.md#tag-portrait) 247 · [`fashion`](pages/en/tags.md#tag-fashion) 163 · [`multi-shot`](pages/en/tags.md#tag-multi-shot) 135 · [`anime`](pages/en/tags.md#tag-anime) 133 · [`template`](pages/en/tags.md#tag-template) 125 · [`typography`](pages/en/tags.md#tag-typography) 117 · [`cinematic`](pages/en/tags.md#tag-cinematic) 113 · [`handheld`](pages/en/tags.md#tag-handheld) 109 · [`editorial`](pages/en/tags.md#tag-editorial) 99 · [`golden-hour`](pages/en/tags.md#tag-golden-hour) 95 · [`dialogue`](pages/en/tags.md#tag-dialogue) 93 · [`character-consistency`](pages/en/tags.md#tag-character-consistency) 87 · [`photorealistic`](pages/en/tags.md#tag-photorealistic) 87 · [`reference-image`](pages/en/tags.md#tag-reference-image) 82 · [`fantasy`](pages/en/tags.md#tag-fantasy) 79 · [`christmas`](pages/en/tags.md#tag-christmas) 78 · [`macro`](pages/en/tags.md#tag-macro) 75 · [`photo-edit`](pages/en/tags.md#tag-photo-edit) 69 · [`infographic`](pages/en/tags.md#tag-infographic) 69 · [`vlog`](pages/en/tags.md#tag-vlog) 67 · [`storyboard`](pages/en/tags.md#tag-storyboard) 66 · [`action`](pages/en/tags.md#tag-action) 64 · [`json-prompt`](pages/en/tags.md#tag-json-prompt) 64 · [`collage`](pages/en/tags.md#tag-collage) 62 · [`selfie`](pages/en/tags.md#tag-selfie) 60 · [`reference-images`](pages/en/tags.md#tag-reference-images) 55 · [`miniature`](pages/en/tags.md#tag-miniature) 55 · [`comedy`](pages/en/tags.md#tag-comedy) 53 · [`food`](pages/en/tags.md#tag-food) 50 · [`travel-poster`](pages/en/tags.md#tag-travel-poster) 50
 
-**[All 3158 tags](pages/en/tags.md)**
+**[All 3162 tags](pages/en/tags.md)**
 
 <a id="contributing"></a>
 ## Contributing

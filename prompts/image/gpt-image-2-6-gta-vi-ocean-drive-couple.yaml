@@ -1,0 +1,25 @@
+id: gpt-image-2-6-gta-vi-ocean-drive-couple
+title:
+  en: Couple strolls palm-lined Ocean Drive at sunset, GTA VI style
+  zh: 情侣在日落的海洋大道上散步，GTA VI 风格
+model: GPT Image 2.6
+mode: image-edit
+category: photo-to-art
+tags:
+- gta-vi
+- vice-city
+- photo-to-art
+- couple
+- two-people
+source:
+  name: u/Beginning-Willow-801 on Reddit
+  url: https://www.reddit.com/r/promptingmagic/comments/1y27pts/turn_yourself_into_a_gta_character_with_chatgpt
+  credit: Beginning-Willow-801
+  likes: 24
+  captured: '2026-11-27'
+  posted: '2026-11-21'
+notes:
+  en: Two uploads become Subject A and Subject B, each with a fixed side of the frame and a set outfit, and the prompt asks the model to keep the two identities apart. The closing style line (airbrushed gradients, cel shading, glossy highlights) is the same in all ten prompts of this set, so the results look like one series. Made in ChatGPT, which has run Images 2.6 since November 4.
+  zh: 两张照片分别对应 A 和 B，各自固定站位和服装，并要求两人的长相分开保留。结尾那句画风描述（喷枪渐变、赛璐璐阴影、高光）在这组十条里完全一样，所以成图像同一套海报。在 ChatGPT 里生成，ChatGPT 从 11 月 4 日起用的是 Images 2.6。
+prompt: |
+  Create a vertical 4:5 GTA VI / Vice City-inspired illustration. Use my first uploaded photo as the identity reference for Subject A and my second for Subject B. Preserve each person's face, skin tone, age, hair, any facial hair or glasses, and build. Do not blend or swap their identities. Show both subjects strolling side by side on palm-lined Ocean Drive at sunset, Subject A on the left and Subject B on the right. Dress A in a dark blazer over a light shirt and dark trousers; dress B in a pink blazer and matching trousers over a light top. Use a three-quarter-length, eye-level shot with Art Deco buildings and neon accents behind them. Fill the sky with coral, orange and magenta, with turquoise reflections on the street. Use a cohesive semi-realistic game-poster illustration throughout: airbrushed gradients, cel shading and glossy highlights. No text, logos, watermarks or inset photos.

@@ -116,7 +116,7 @@ Authentic luxury fashion campaign photography, bold editorial framing, natural p
   - [自然、旅行与航拍](#vid-nature) (12)
   - [动物与萌宠](#vid-animal) (33)
   - [特效与变身转场](#vid-vfx) (98)
-- [图片提示词](#image) (1472 条)
+- [图片提示词](#image) (1481 条)
   - [海报与编辑排版](#img-poster) (222)
   - [信息图与幻灯片](#img-infographic) (95)
   - [手机与界面截图](#img-ui-mockup) (30)
@@ -127,7 +127,7 @@ Authentic luxury fashion campaign photography, bold editorial framing, natural p
   - [角色与手办](#img-character) (115)
   - [插画](#img-illustration) (124)
   - [漫画与分镜](#img-comic) (21)
-  - [照片转艺术风格](#img-photo-to-art) (114)
+  - [照片转艺术风格](#img-photo-to-art) (123)
   - [建筑与室内](#img-architecture) (24)
   - [地图](#img-map) (16)
   - [拼贴](#img-collage) (109)
@@ -141,18 +141,18 @@ Authentic luxury fashion campaign photography, bold editorial framing, natural p
 <a id="recent"></a>
 ## 最近新增
 
+- 2026-11-27 · [穿粉色西装的女子站在粉彩装饰艺术风酒店门前](pages/zh/image-photo-to-art.md#gpt-image-2-6-gta-vi-art-deco-hotel) · GPT Image 2.6
+- 2026-11-27 · [男子清晨驾驶气垫船穿过大沼泽](pages/zh/image-photo-to-art.md#gpt-image-2-6-gta-vi-everglades-airboat) · GPT Image 2.6
+- 2026-11-27 · [男子倚着紫色肌肉车，罪恶都市的日落](pages/zh/image-photo-to-art.md#gpt-image-2-6-gta-vi-muscle-car) · GPT Image 2.6
+- 2026-11-27 · [穿机车夹克的女子站在雨后霓虹街头的摩托旁](pages/zh/image-photo-to-art.md#gpt-image-2-6-gta-vi-neon-motorcycle) · GPT Image 2.6
+- 2026-11-27 · [男子扮作霓虹夜店老板，半身像](pages/zh/image-photo-to-art.md#gpt-image-2-6-gta-vi-nightclub-owner) · GPT Image 2.6
+- 2026-11-27 · [情侣在日落的海洋大道上散步，GTA VI 风格](pages/zh/image-photo-to-art.md#gpt-image-2-6-gta-vi-ocean-drive-couple) · GPT Image 2.6
+- 2026-11-27 · [穿白色亚麻西装的女子在顶层无边泳池边](pages/zh/image-photo-to-art.md#gpt-image-2-6-gta-vi-penthouse-pool) · GPT Image 2.6
+- 2026-11-27 · [情侣乘快艇疾驰，背后是罪恶都市天际线](pages/zh/image-photo-to-art.md#gpt-image-2-6-gta-vi-speedboat-couple) · GPT Image 2.6
+- 2026-11-27 · [穿牛仔外套的女子站在游艇码头，黄昏](pages/zh/image-photo-to-art.md#gpt-image-2-6-gta-vi-yacht-marina) · GPT Image 2.6
 - 2026-11-24 · [动漫女仆 macOS 桌面与应用图标](#h3-anime-maid-macos-desktop) · MiniMax H3
 - 2026-11-24 · [土狼在悬崖上涂画假隧道](#seedance-coyote-fake-tunnel-roller) · Seedance 2.5
 - 2026-11-24 · [辣酱水手与西装枪手在纽约街头搏斗](pages/zh/video-action.md#seedance-hot-sauce-sailor-nyc-fight) · Seedance 2.5
-- 2026-11-24 · [皮克斯风格女性角色与夜晚物品整齐排列](pages/zh/image-poster.md#nano-banana-pixar-knolling-evening-look) · Nano Banana Pro
-- 2026-11-24 · [柔彩花卉象征解剖海报，两处照片镂空](pages/zh/image-poster.md#gpt-image-2-6-symbolic-anatomy-flower-poster) · GPT Image 2.6
-- 2026-11-24 · [蒲公英草地中的母鸡照片配六张贴纸](pages/zh/image-collage.md#gpt-image-2-6-hens-meadow-sticker-card) · GPT Image 2.6
-- 2026-11-24 · [身着白裙的女子穿过薄雾丛林](pages/zh/video-cinematic.md#kling-jungle-waterfall-30s-journey) · Kling 4.0
-- 2026-11-24 · [拉拉站在俯瞰破火山口的高台上](pages/zh/video-scifi-fantasy.md#kling-lala-cerberus-volcano-spells) · Kling 4.0
-- 2026-11-24 · [心形抱枕床上的 Y2K 自拍](pages/zh/image-portrait.md#nano-banana-y2k-valentine-bed-selfie) · Nano Banana Pro
-- 2026-11-24 · [男孩和狗在雪林中注视机甲](pages/zh/video-scifi-fantasy.md#wan-mech-portal-boy-dog-snow) · Wan 3.0
-- 2026-11-24 · [圣托里尼明信片，蓝顶教堂与风车](pages/zh/image-illustration.md#gpt-image-2-6-santorini-postcard-blue-domes) · GPT Image 2.6
-- 2026-11-24 · [纽约复古旅行海报，黄色出租车与天际线](pages/zh/image-poster.md#gpt-image-2-6-new-york-travel-poster-taxi) · GPT Image 2.6
 
 <a id="bymodel"></a>
 ## 按模型
@@ -161,7 +161,7 @@ Authentic luxury fashion campaign photography, bold editorial framing, natural p
 - [MiniMax H3](https://agentcraft.dev/zh/prompts/video/minimax-h3/): 316 条提示词，每条附成品和出处
 - [Wan 3.0](https://agentcraft.dev/zh/prompts/video/wan-3-0/): 66 条提示词，每条附成品和出处
 - [Kling 4.0](https://agentcraft.dev/zh/prompts/video/kling-4-0/): 40 条提示词，每条附成品和出处
-- [GPT Image 2.6](https://agentcraft.dev/zh/prompts/image/gpt-image-2-6/): 116 条提示词，其中 43 条是 GIF 动图，每条附成图和出处
+- [GPT Image 2.6](https://agentcraft.dev/zh/prompts/image/gpt-image-2-6/): 125 条提示词，其中 43 条是 GIF 动图，每条附成图和出处
 - [Nano Banana 2.1](https://agentcraft.dev/zh/prompts/image/nano-banana-2-1/): 99 条提示词，每条附成品和出处
 - [Seedream 5.5](https://agentcraft.dev/zh/prompts/image/seedream-5-5/): 20 条提示词，每条附成品和出处
 
@@ -2625,7 +2625,7 @@ Do not change my pet’s appearance. Do not turn it into a different animal, car
 
 </details>
 
-**[全部 114 条](pages/zh/image-photo-to-art.md)**
+**[全部 123 条](pages/zh/image-photo-to-art.md)**
 
 <a id="img-architecture"></a>
 ## 建筑与室内
@@ -3074,9 +3074,9 @@ ffmpeg -i samples/night-train-ticket.mp4 -filter_complex "
 <a id="tags"></a>
 ## 按标签浏览
 
-[`portrait`](pages/zh/tags.md#tag-portrait) 240 · [`fashion`](pages/zh/tags.md#tag-fashion) 162 · [`multi-shot`](pages/zh/tags.md#tag-multi-shot) 135 · [`anime`](pages/zh/tags.md#tag-anime) 133 · [`template`](pages/zh/tags.md#tag-template) 125 · [`typography`](pages/zh/tags.md#tag-typography) 117 · [`cinematic`](pages/zh/tags.md#tag-cinematic) 113 · [`handheld`](pages/zh/tags.md#tag-handheld) 109 · [`editorial`](pages/zh/tags.md#tag-editorial) 99 · [`golden-hour`](pages/zh/tags.md#tag-golden-hour) 95 · [`dialogue`](pages/zh/tags.md#tag-dialogue) 93 · [`character-consistency`](pages/zh/tags.md#tag-character-consistency) 87 · [`photorealistic`](pages/zh/tags.md#tag-photorealistic) 87 · [`reference-image`](pages/zh/tags.md#tag-reference-image) 82 · [`fantasy`](pages/zh/tags.md#tag-fantasy) 79 · [`christmas`](pages/zh/tags.md#tag-christmas) 78 · [`macro`](pages/zh/tags.md#tag-macro) 75 · [`photo-edit`](pages/zh/tags.md#tag-photo-edit) 69 · [`infographic`](pages/zh/tags.md#tag-infographic) 69 · [`vlog`](pages/zh/tags.md#tag-vlog) 67 · [`storyboard`](pages/zh/tags.md#tag-storyboard) 66 · [`json-prompt`](pages/zh/tags.md#tag-json-prompt) 64 · [`action`](pages/zh/tags.md#tag-action) 62 · [`collage`](pages/zh/tags.md#tag-collage) 62 · [`selfie`](pages/zh/tags.md#tag-selfie) 60 · [`reference-images`](pages/zh/tags.md#tag-reference-images) 55 · [`miniature`](pages/zh/tags.md#tag-miniature) 55 · [`comedy`](pages/zh/tags.md#tag-comedy) 53 · [`food`](pages/zh/tags.md#tag-food) 50 · [`travel-poster`](pages/zh/tags.md#tag-travel-poster) 50
+[`portrait`](pages/zh/tags.md#tag-portrait) 247 · [`fashion`](pages/zh/tags.md#tag-fashion) 163 · [`multi-shot`](pages/zh/tags.md#tag-multi-shot) 135 · [`anime`](pages/zh/tags.md#tag-anime) 133 · [`template`](pages/zh/tags.md#tag-template) 125 · [`typography`](pages/zh/tags.md#tag-typography) 117 · [`cinematic`](pages/zh/tags.md#tag-cinematic) 113 · [`handheld`](pages/zh/tags.md#tag-handheld) 109 · [`editorial`](pages/zh/tags.md#tag-editorial) 99 · [`golden-hour`](pages/zh/tags.md#tag-golden-hour) 95 · [`dialogue`](pages/zh/tags.md#tag-dialogue) 93 · [`character-consistency`](pages/zh/tags.md#tag-character-consistency) 87 · [`photorealistic`](pages/zh/tags.md#tag-photorealistic) 87 · [`reference-image`](pages/zh/tags.md#tag-reference-image) 82 · [`fantasy`](pages/zh/tags.md#tag-fantasy) 79 · [`christmas`](pages/zh/tags.md#tag-christmas) 78 · [`macro`](pages/zh/tags.md#tag-macro) 75 · [`photo-edit`](pages/zh/tags.md#tag-photo-edit) 69 · [`infographic`](pages/zh/tags.md#tag-infographic) 69 · [`vlog`](pages/zh/tags.md#tag-vlog) 67 · [`storyboard`](pages/zh/tags.md#tag-storyboard) 66 · [`action`](pages/zh/tags.md#tag-action) 64 · [`json-prompt`](pages/zh/tags.md#tag-json-prompt) 64 · [`collage`](pages/zh/tags.md#tag-collage) 62 · [`selfie`](pages/zh/tags.md#tag-selfie) 60 · [`reference-images`](pages/zh/tags.md#tag-reference-images) 55 · [`miniature`](pages/zh/tags.md#tag-miniature) 55 · [`comedy`](pages/zh/tags.md#tag-comedy) 53 · [`food`](pages/zh/tags.md#tag-food) 50 · [`travel-poster`](pages/zh/tags.md#tag-travel-poster) 50
 
-**[全部 3158 个标签](pages/zh/tags.md)**
+**[全部 3162 个标签](pages/zh/tags.md)**
 
 <a id="contributing"></a>
 ## 投稿

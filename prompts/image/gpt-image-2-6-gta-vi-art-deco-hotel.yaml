@@ -1,0 +1,26 @@
+id: gpt-image-2-6-gta-vi-art-deco-hotel
+title:
+  en: Woman in a pink suit outside a pastel Art Deco hotel
+  zh: 穿粉色西装的女子站在粉彩装饰艺术风酒店门前
+model: GPT Image 2.6
+mode: image-edit
+category: photo-to-art
+tags:
+- gta-vi
+- vice-city
+- photo-to-art
+- art-deco
+- fashion
+- portrait
+source:
+  name: u/Beginning-Willow-801 on Reddit
+  url: https://www.reddit.com/r/promptingmagic/comments/1y27pts/turn_yourself_into_a_gta_character_with_chatgpt
+  credit: Beginning-Willow-801
+  likes: 24
+  captured: '2026-11-27'
+  posted: '2026-11-21'
+notes:
+  en: The Art Deco hotel facade stands in for Vice City, so the setting comes from architecture and color alone. The outfit color repeats in the palette (blush pink, peach, lavender), which ties the subject to the background. Made in ChatGPT, which has run Images 2.6 since November 4.
+  zh: 用装饰艺术风酒店的立面代表罪恶都市，只靠建筑和颜色就交代了场景。服装的粉色在配色里再出现一次（腮红粉、蜜桃、薰衣草紫），人物和背景连成一体。在 ChatGPT 里生成，ChatGPT 从 11 月 4 日起用的是 Images 2.6。
+prompt: |
+  Create a vertical 4:5 GTA VI / Vice City-inspired illustration using my uploaded photo as the identity reference for the only subject. Preserve their face, skin tone, age, hair, any facial hair or glasses, and build; avoid beautifying or reshaping. Show the subject on a palm-lined street outside a pastel Art Deco hotel, wearing a pink blazer over a dark top and matching pink trousers. Use a three-quarter-length, eye-level portrait with the hotel's geometric facade and softly glowing entrance behind them. Give the scene a sunset palette of blush pink, peach, lavender and turquoise neon. Use a cohesive semi-realistic game-poster illustration throughout: airbrushed gradients, cel shading and glossy highlights. No text, logos, watermarks or inset photos.

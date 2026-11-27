@@ -1,0 +1,26 @@
+id: gpt-image-2-6-gta-vi-nightclub-owner
+title:
+  en: Man as a neon nightclub owner, waist-up portrait
+  zh: 男子扮作霓虹夜店老板，半身像
+model: GPT Image 2.6
+mode: image-edit
+category: photo-to-art
+tags:
+- gta-vi
+- vice-city
+- photo-to-art
+- nightclub
+- neon
+- portrait
+source:
+  name: u/Beginning-Willow-801 on Reddit
+  url: https://www.reddit.com/r/promptingmagic/comments/1y27pts/turn_yourself_into_a_gta_character_with_chatgpt
+  credit: Beginning-Willow-801
+  likes: 24
+  captured: '2026-11-27'
+  posted: '2026-11-21'
+notes:
+  en: A role (the confident owner) does the work of a pose description, and the lighting line asks for a little warm light on the face inside purple, magenta and blue, which keeps skin tones natural under neon. Made in ChatGPT, which has run Images 2.6 since November 4.
+  zh: 用一个身份（自信的夜店老板）代替姿势描述；灯光要求在紫、品红、蓝的环境里给脸补一点暖光，霓虹下肤色仍然自然。在 ChatGPT 里生成，ChatGPT 从 11 月 4 日起用的是 Images 2.6。
+prompt: |
+  Create a vertical 4:5 GTA VI / Vice City-inspired illustration using my uploaded photo as the identity reference for the only subject. Preserve their face, skin tone, age, hair, any facial hair or glasses, and build; avoid beautifying or reshaping. Show the subject as the confident owner of a neon-lit Vice City nightclub, wearing a black collared shirt. Use a waist-up, eye-level portrait as they stand near the bar, with an atmospheric dance floor and art deco details behind them. Light the scene in electric purple, magenta and blue, with a little warm light on their face. Use a cohesive semi-realistic game-poster illustration throughout: airbrushed gradients, cel shading and glossy highlights. No text, logos, watermarks or inset photos.
