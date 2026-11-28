@@ -440,7 +440,7 @@ Short world-building prompt. One striking detail (`the only footprints in untouc
 
 Veo 3 · Text-to-video · Source: [Veo 3 prompt guide](https://deepmind.google/models/veo/prompt-guide/)
 
-[`world-building`](tags.md#tag-world-building) [`fantasy`](tags.md#tag-fantasy)
+[`veo`](tags.md#tag-veo) [`world-building`](tags.md#tag-world-building) [`fantasy`](tags.md#tag-fantasy)
 
 <details><summary><b>Prompt</b></summary>
 

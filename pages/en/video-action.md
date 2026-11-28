@@ -586,7 +586,7 @@ The prompt runs as a beat by beat sequence: swing, camera locks onto the ball, a
 
 Veo 3.1 · Text-to-video · Source: [@Dheepanratnam on X](https://x.com/Dheepanratnam/status/2032810971140420073) · 666 likes on 2026-10-27
 
-[`sports`](tags.md#tag-sports) [`tracking-shot`](tags.md#tag-tracking-shot) [`storm`](tags.md#tag-storm) [`physics`](tags.md#tag-physics) [`ball-pov`](tags.md#tag-ball-pov)
+[`veo`](tags.md#tag-veo) [`sports`](tags.md#tag-sports) [`tracking-shot`](tags.md#tag-tracking-shot) [`storm`](tags.md#tag-storm) [`physics`](tags.md#tag-physics) [`ball-pov`](tags.md#tag-ball-pov)
 
 <details><summary><b>Prompt</b></summary>
 

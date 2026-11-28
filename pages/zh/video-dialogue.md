@@ -3239,7 +3239,7 @@ Seedance 2.5 · 文生视频 · 出处: [@sakisuta_ on X](https://x.com/sakisuta
 
 Veo 3 · 文生视频 · 出处: [Veo 3 prompt guide](https://deepmind.google/models/veo/prompt-guide/)
 
-[`dialogue`](tags.md#tag-dialogue) [`character`](tags.md#tag-character)
+[`veo`](tags.md#tag-veo) [`dialogue`](tags.md#tag-dialogue) [`character`](tags.md#tag-character)
 
 <details><summary><b>提示词</b></summary>
 

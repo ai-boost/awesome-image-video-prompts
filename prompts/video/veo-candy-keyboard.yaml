@@ -6,6 +6,7 @@ model: Veo 3
 mode: text-to-video
 category: commercial
 tags:
+- veo
 - sfx
 - product
 - whimsical

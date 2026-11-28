@@ -4747,7 +4747,7 @@ QUALITY: Stable identity, consistent wardrobe and weapons, realistic physics, ci
 
 Veo 3 · 文生视频 · 出处: [Veo 3 prompt guide](https://deepmind.google/models/veo/prompt-guide/)
 
-[`action`](tags.md#tag-action) [`handheld`](tags.md#tag-handheld) [`sfx`](tags.md#tag-sfx)
+[`veo`](tags.md#tag-veo) [`action`](tags.md#tag-action) [`handheld`](tags.md#tag-handheld) [`sfx`](tags.md#tag-sfx)
 
 <details><summary><b>提示词</b></summary>
 

@@ -89,7 +89,7 @@ The whole prompt is a format label plus two lines of dialogue. Veo fills in the 
 
 Veo 3 · Text-to-video · Source: [Veo 3 prompt guide](https://deepmind.google/models/veo/prompt-guide/)
 
-[`stop-motion`](tags.md#tag-stop-motion) [`dialogue`](tags.md#tag-dialogue) [`comedy`](tags.md#tag-comedy)
+[`veo`](tags.md#tag-veo) [`stop-motion`](tags.md#tag-stop-motion) [`dialogue`](tags.md#tag-dialogue) [`comedy`](tags.md#tag-comedy)
 
 <details><summary><b>Prompt</b></summary>
 

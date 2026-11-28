@@ -2620,7 +2620,7 @@ A separate `Audio:` line tells the model what the scene should sound like.
 
 Veo 3 · Text-to-video · Source: [Veo 3 prompt guide](https://deepmind.google/models/veo/prompt-guide/)
 
-[`sfx`](tags.md#tag-sfx) [`product`](tags.md#tag-product) [`whimsical`](tags.md#tag-whimsical)
+[`veo`](tags.md#tag-veo) [`sfx`](tags.md#tag-sfx) [`product`](tags.md#tag-product) [`whimsical`](tags.md#tag-whimsical)
 
 <details><summary><b>Prompt</b></summary>
 

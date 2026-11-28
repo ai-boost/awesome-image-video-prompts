@@ -30,7 +30,7 @@ Seedance 2.5 · 文生视频 · 出处: [@tanabe_fragm on X](https://x.com/tanab
 
 Veo 3 · 文生视频 · 出处: [Veo 3 prompt guide](https://deepmind.google/models/veo/prompt-guide/)
 
-[`stop-motion`](tags.md#tag-stop-motion) [`dialogue`](tags.md#tag-dialogue) [`comedy`](tags.md#tag-comedy)
+[`veo`](tags.md#tag-veo) [`stop-motion`](tags.md#tag-stop-motion) [`dialogue`](tags.md#tag-dialogue) [`comedy`](tags.md#tag-comedy)
 
 <details><summary><b>提示词</b></summary>
 

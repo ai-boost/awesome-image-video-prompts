@@ -491,7 +491,7 @@ The prompt starts from an empty set and numbers each object's entrance, so the a
 
 Veo 3.1 · Reference-to-video · Source: [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2029019321364824452) · 582 likes on 2026-10-28
 
-[`product-commercial`](tags.md#tag-product-commercial) [`assembly`](tags.md#tag-assembly) [`skincare`](tags.md#tag-skincare) [`locked-camera`](tags.md#tag-locked-camera) [`sound-design`](tags.md#tag-sound-design)
+[`veo`](tags.md#tag-veo) [`product-commercial`](tags.md#tag-product-commercial) [`assembly`](tags.md#tag-assembly) [`skincare`](tags.md#tag-skincare) [`locked-camera`](tags.md#tag-locked-camera) [`sound-design`](tags.md#tag-sound-design)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -980,7 +980,7 @@ A JSON storyboard splits ten seconds into four timecoded scenes, each with its o
 
 Veo 3.1 · Text-to-video · Source: [@Fujimoto_hina on X](https://x.com/Fujimoto_hina/status/2094644333882540334) · 282 likes on 2026-10-28
 
-[`food-commercial`](tags.md#tag-food-commercial) [`macro`](tags.md#tag-macro) [`morph-transition`](tags.md#tag-morph-transition) [`json-prompt`](tags.md#tag-json-prompt) [`storyboard`](tags.md#tag-storyboard)
+[`veo`](tags.md#tag-veo) [`food-commercial`](tags.md#tag-food-commercial) [`macro`](tags.md#tag-macro) [`morph-transition`](tags.md#tag-morph-transition) [`json-prompt`](tags.md#tag-json-prompt) [`storyboard`](tags.md#tag-storyboard)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -2074,7 +2074,7 @@ The prompt chains four macro stages (slice, zero-gravity vortex, churning cylind
 
 Veo 3.1 · Text-to-video · Source: [@Fujimoto_hina on X](https://x.com/Fujimoto_hina/status/2102063087251853337) · 129 likes on 2026-10-28
 
-[`food`](tags.md#tag-food) [`macro`](tags.md#tag-macro) [`commercial`](tags.md#tag-commercial) [`slow-motion`](tags.md#tag-slow-motion) [`json-prompt`](tags.md#tag-json-prompt)
+[`veo`](tags.md#tag-veo) [`food`](tags.md#tag-food) [`macro`](tags.md#tag-macro) [`commercial`](tags.md#tag-commercial) [`slow-motion`](tags.md#tag-slow-motion) [`json-prompt`](tags.md#tag-json-prompt)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -2592,7 +2592,7 @@ A four-beat sequence runs from sliced fruit to a zero-gravity vortex, the churni
 
 Veo 3.1 · Text-to-video · Source: [@Fujimoto_hina on X](https://x.com/Fujimoto_hina/status/2101697533705920970) · 108 likes on 2026-10-28
 
-[`food`](tags.md#tag-food) [`macro`](tags.md#tag-macro) [`commercial`](tags.md#tag-commercial) [`slow-motion`](tags.md#tag-slow-motion) [`json-prompt`](tags.md#tag-json-prompt)
+[`veo`](tags.md#tag-veo) [`food`](tags.md#tag-food) [`macro`](tags.md#tag-macro) [`commercial`](tags.md#tag-commercial) [`slow-motion`](tags.md#tag-slow-motion) [`json-prompt`](tags.md#tag-json-prompt)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -3053,7 +3053,7 @@ A JSON storyboard splits ten seconds into five two second beats, each with its o
 
 Veo 3.1 · Text-to-video · Source: [@Fujimoto_hina on X](https://x.com/Fujimoto_hina/status/2094803500488372359) · 81 likes on 2026-10-28
 
-[`food`](tags.md#tag-food) [`macro`](tags.md#tag-macro) [`commercial`](tags.md#tag-commercial) [`json-prompt`](tags.md#tag-json-prompt) [`storyboard`](tags.md#tag-storyboard)
+[`veo`](tags.md#tag-veo) [`food`](tags.md#tag-food) [`macro`](tags.md#tag-macro) [`commercial`](tags.md#tag-commercial) [`json-prompt`](tags.md#tag-json-prompt) [`storyboard`](tags.md#tag-storyboard)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -3140,7 +3140,7 @@ A JSON structure splits the clip into labeled stages (setup, banana preparation,
 
 Veo 3.1 · Text-to-video · Source: [@Fujimoto_hina on X](https://x.com/Fujimoto_hina/status/2107732918932328800) · 77 likes on 2026-10-28
 
-[`miniature`](tags.md#tag-miniature) [`macro`](tags.md#tag-macro) [`food`](tags.md#tag-food) [`diorama`](tags.md#tag-diorama) [`json-prompt`](tags.md#tag-json-prompt)
+[`veo`](tags.md#tag-veo) [`miniature`](tags.md#tag-miniature) [`macro`](tags.md#tag-macro) [`food`](tags.md#tag-food) [`diorama`](tags.md#tag-diorama) [`json-prompt`](tags.md#tag-json-prompt)
 
 <details><summary><b>Prompt</b></summary>
 

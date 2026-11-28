@@ -586,7 +586,7 @@ Shot 16 (25-30s): [Low frontal wide, slow push in to medium] She holds the low k
 
 Veo 3.1 · 文生视频 · 出处: [@Dheepanratnam on X](https://x.com/Dheepanratnam/status/2032810971140420073) · 666 赞，统计于 2026-10-27
 
-[`sports`](tags.md#tag-sports) [`tracking-shot`](tags.md#tag-tracking-shot) [`storm`](tags.md#tag-storm) [`physics`](tags.md#tag-physics) [`ball-pov`](tags.md#tag-ball-pov)
+[`veo`](tags.md#tag-veo) [`sports`](tags.md#tag-sports) [`tracking-shot`](tags.md#tag-tracking-shot) [`storm`](tags.md#tag-storm) [`physics`](tags.md#tag-physics) [`ball-pov`](tags.md#tag-ball-pov)
 
 <details><summary><b>提示词</b></summary>
 

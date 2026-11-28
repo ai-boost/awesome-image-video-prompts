@@ -6,6 +6,7 @@ model: Veo 3
 mode: text-to-video
 category: action
 tags:
+- veo
 - action
 - handheld
 - sfx

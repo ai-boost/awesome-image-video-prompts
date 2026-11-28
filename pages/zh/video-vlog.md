@@ -503,7 +503,7 @@ Wan 3.0 · 文生视频 · 出处: [@joshesye on X](https://x.com/joshesye/statu
 
 Veo 3.1 · 图生视频 · 出处: [@HBCoop_ on X](https://x.com/HBCoop_/status/1995206291120087487) · 366 赞，统计于 2026-10-28
 
-[`streamer`](tags.md#tag-streamer) [`neon-lighting`](tags.md#tag-neon-lighting) [`handheld-camera`](tags.md#tag-handheld-camera) [`native-audio`](tags.md#tag-native-audio) [`character-reference`](tags.md#tag-character-reference)
+[`veo`](tags.md#tag-veo) [`streamer`](tags.md#tag-streamer) [`neon-lighting`](tags.md#tag-neon-lighting) [`handheld-camera`](tags.md#tag-handheld-camera) [`native-audio`](tags.md#tag-native-audio) [`character-reference`](tags.md#tag-character-reference)
 
 <details><summary><b>提示词</b></summary>
 

@@ -409,7 +409,7 @@ Original character and world only. No recognizable existing characters, franchis
 
 Veo 3 · 文生视频 · 出处: [Veo 3 prompt guide](https://deepmind.google/models/veo/prompt-guide/)
 
-[`world-building`](tags.md#tag-world-building) [`fantasy`](tags.md#tag-fantasy)
+[`veo`](tags.md#tag-veo) [`world-building`](tags.md#tag-world-building) [`fantasy`](tags.md#tag-fantasy)
 
 <details><summary><b>提示词</b></summary>
 

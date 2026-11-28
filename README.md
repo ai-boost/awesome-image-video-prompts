@@ -1438,7 +1438,7 @@ A bracketed universal template fixes the camera angle, the giant's outfit, locat
 
 Veo 3.1 · Image-to-video · Source: [@MrDavids1 on X](https://x.com/MrDavids1/status/1997581641892446293) · 3,040 likes on 2026-10-27
 
-[`giant`](pages/en/tags.md#tag-giant) [`scale`](pages/en/tags.md#tag-scale) [`cityscape`](pages/en/tags.md#tag-cityscape) [`photorealistic`](pages/en/tags.md#tag-photorealistic) [`template`](pages/en/tags.md#tag-template)
+[`veo`](pages/en/tags.md#tag-veo) [`giant`](pages/en/tags.md#tag-giant) [`scale`](pages/en/tags.md#tag-scale) [`cityscape`](pages/en/tags.md#tag-cityscape) [`photorealistic`](pages/en/tags.md#tag-photorealistic) [`template`](pages/en/tags.md#tag-template)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -3076,7 +3076,7 @@ Recipes for building 3D scenes with coding agents (Blender MCP, three.js) are in
 
 [`portrait`](pages/en/tags.md#tag-portrait) 247 · [`fashion`](pages/en/tags.md#tag-fashion) 163 · [`multi-shot`](pages/en/tags.md#tag-multi-shot) 135 · [`anime`](pages/en/tags.md#tag-anime) 133 · [`template`](pages/en/tags.md#tag-template) 125 · [`typography`](pages/en/tags.md#tag-typography) 117 · [`cinematic`](pages/en/tags.md#tag-cinematic) 113 · [`handheld`](pages/en/tags.md#tag-handheld) 109 · [`editorial`](pages/en/tags.md#tag-editorial) 99 · [`golden-hour`](pages/en/tags.md#tag-golden-hour) 95 · [`dialogue`](pages/en/tags.md#tag-dialogue) 93 · [`character-consistency`](pages/en/tags.md#tag-character-consistency) 87 · [`photorealistic`](pages/en/tags.md#tag-photorealistic) 87 · [`reference-image`](pages/en/tags.md#tag-reference-image) 82 · [`fantasy`](pages/en/tags.md#tag-fantasy) 79 · [`christmas`](pages/en/tags.md#tag-christmas) 78 · [`macro`](pages/en/tags.md#tag-macro) 75 · [`photo-edit`](pages/en/tags.md#tag-photo-edit) 69 · [`infographic`](pages/en/tags.md#tag-infographic) 69 · [`vlog`](pages/en/tags.md#tag-vlog) 67 · [`storyboard`](pages/en/tags.md#tag-storyboard) 66 · [`action`](pages/en/tags.md#tag-action) 64 · [`json-prompt`](pages/en/tags.md#tag-json-prompt) 64 · [`collage`](pages/en/tags.md#tag-collage) 62 · [`selfie`](pages/en/tags.md#tag-selfie) 60 · [`reference-images`](pages/en/tags.md#tag-reference-images) 55 · [`miniature`](pages/en/tags.md#tag-miniature) 55 · [`comedy`](pages/en/tags.md#tag-comedy) 53 · [`food`](pages/en/tags.md#tag-food) 50 · [`travel-poster`](pages/en/tags.md#tag-travel-poster) 50
 
-**[All 3162 tags](pages/en/tags.md)**
+**[All 3163 tags](pages/en/tags.md)**
 
 <a id="contributing"></a>
 ## Contributing

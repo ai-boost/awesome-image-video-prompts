@@ -11,7 +11,7 @@ A bracketed universal template fixes the camera angle, the giant's outfit, locat
 
 Veo 3.1 · Image-to-video · Source: [@MrDavids1 on X](https://x.com/MrDavids1/status/1997581641892446293) · 3,040 likes on 2026-10-27
 
-[`giant`](tags.md#tag-giant) [`scale`](tags.md#tag-scale) [`cityscape`](tags.md#tag-cityscape) [`photorealistic`](tags.md#tag-photorealistic) [`template`](tags.md#tag-template)
+[`veo`](tags.md#tag-veo) [`giant`](tags.md#tag-giant) [`scale`](tags.md#tag-scale) [`cityscape`](tags.md#tag-cityscape) [`photorealistic`](tags.md#tag-photorealistic) [`template`](tags.md#tag-template)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -69,7 +69,7 @@ Start and end frames, both made in Nano Banana Pro, fix the empty room and the f
 
 Veo 3.1 · First & last frame · Source: [@venturetwins on X](https://x.com/venturetwins/status/1992725268855968071) · 1,986 likes on 2026-10-27
 
-[`time-lapse`](tags.md#tag-time-lapse) [`interior-design`](tags.md#tag-interior-design) [`construction`](tags.md#tag-construction) [`start-end-frames`](tags.md#tag-start-end-frames) [`nano-banana-pro`](tags.md#tag-nano-banana-pro)
+[`veo`](tags.md#tag-veo) [`time-lapse`](tags.md#tag-time-lapse) [`interior-design`](tags.md#tag-interior-design) [`construction`](tags.md#tag-construction) [`start-end-frames`](tags.md#tag-start-end-frames) [`nano-banana-pro`](tags.md#tag-nano-banana-pro)
 
 <details><summary><b>Prompt</b></summary>
 
@@ -872,7 +872,7 @@ A structured JSON prompt with separate look, camera and continuity fields keeps 
 
 Veo 3.1 · Text-to-video · Source: [u/ThinkDiffusion on Reddit](https://www.reddit.com/r/comfyui/comments/1pic471/product_ads_with_veo_31_in_comfyui) · 84 likes on 2026-10-29
 
-[`json-prompt`](tags.md#tag-json-prompt) [`single-take`](tags.md#tag-single-take) [`surreal-morph`](tags.md#tag-surreal-morph) [`fashion-ad`](tags.md#tag-fashion-ad)
+[`veo`](tags.md#tag-veo) [`json-prompt`](tags.md#tag-json-prompt) [`single-take`](tags.md#tag-single-take) [`surreal-morph`](tags.md#tag-surreal-morph) [`fashion-ad`](tags.md#tag-fashion-ad)
 
 <details><summary><b>Prompt</b></summary>
 

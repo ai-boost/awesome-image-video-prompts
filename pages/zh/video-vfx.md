@@ -11,7 +11,7 @@
 
 Veo 3.1 · 图生视频 · 出处: [@MrDavids1 on X](https://x.com/MrDavids1/status/1997581641892446293) · 3,040 赞，统计于 2026-10-27
 
-[`giant`](tags.md#tag-giant) [`scale`](tags.md#tag-scale) [`cityscape`](tags.md#tag-cityscape) [`photorealistic`](tags.md#tag-photorealistic) [`template`](tags.md#tag-template)
+[`veo`](tags.md#tag-veo) [`giant`](tags.md#tag-giant) [`scale`](tags.md#tag-scale) [`cityscape`](tags.md#tag-cityscape) [`photorealistic`](tags.md#tag-photorealistic) [`template`](tags.md#tag-template)
 
 <details><summary><b>提示词</b></summary>
 
@@ -69,7 +69,7 @@ Photorealistic, ultra-detailed fluid physics, perfect motion blur only on moving
 
 Veo 3.1 · 首尾帧 · 出处: [@venturetwins on X](https://x.com/venturetwins/status/1992725268855968071) · 1,986 赞，统计于 2026-10-27
 
-[`time-lapse`](tags.md#tag-time-lapse) [`interior-design`](tags.md#tag-interior-design) [`construction`](tags.md#tag-construction) [`start-end-frames`](tags.md#tag-start-end-frames) [`nano-banana-pro`](tags.md#tag-nano-banana-pro)
+[`veo`](tags.md#tag-veo) [`time-lapse`](tags.md#tag-time-lapse) [`interior-design`](tags.md#tag-interior-design) [`construction`](tags.md#tag-construction) [`start-end-frames`](tags.md#tag-start-end-frames) [`nano-banana-pro`](tags.md#tag-nano-banana-pro)
 
 <details><summary><b>提示词</b></summary>
 
@@ -872,7 +872,7 @@ FINAL LOOK: Premium, surreal, energetic, highly stylized 3D cel animation that f
 
 Veo 3.1 · 文生视频 · 出处: [u/ThinkDiffusion on Reddit](https://www.reddit.com/r/comfyui/comments/1pic471/product_ads_with_veo_31_in_comfyui) · 84 赞，统计于 2026-10-29
 
-[`json-prompt`](tags.md#tag-json-prompt) [`single-take`](tags.md#tag-single-take) [`surreal-morph`](tags.md#tag-surreal-morph) [`fashion-ad`](tags.md#tag-fashion-ad)
+[`veo`](tags.md#tag-veo) [`json-prompt`](tags.md#tag-json-prompt) [`single-take`](tags.md#tag-single-take) [`surreal-morph`](tags.md#tag-surreal-morph) [`fashion-ad`](tags.md#tag-fashion-ad)
 
 <details><summary><b>提示词</b></summary>
 

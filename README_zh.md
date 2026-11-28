@@ -1438,7 +1438,7 @@ Sound: a sly villain brass sting, a grunt of strain, a slow creak and a heavy ro
 
 Veo 3.1 · 图生视频 · 出处: [@MrDavids1 on X](https://x.com/MrDavids1/status/1997581641892446293) · 3,040 赞，统计于 2026-10-27
 
-[`giant`](pages/zh/tags.md#tag-giant) [`scale`](pages/zh/tags.md#tag-scale) [`cityscape`](pages/zh/tags.md#tag-cityscape) [`photorealistic`](pages/zh/tags.md#tag-photorealistic) [`template`](pages/zh/tags.md#tag-template)
+[`veo`](pages/zh/tags.md#tag-veo) [`giant`](pages/zh/tags.md#tag-giant) [`scale`](pages/zh/tags.md#tag-scale) [`cityscape`](pages/zh/tags.md#tag-cityscape) [`photorealistic`](pages/zh/tags.md#tag-photorealistic) [`template`](pages/zh/tags.md#tag-template)
 
 <details><summary><b>提示词</b></summary>
 
@@ -3076,7 +3076,7 @@ ffmpeg -i samples/night-train-ticket.mp4 -filter_complex "
 
 [`portrait`](pages/zh/tags.md#tag-portrait) 247 · [`fashion`](pages/zh/tags.md#tag-fashion) 163 · [`multi-shot`](pages/zh/tags.md#tag-multi-shot) 135 · [`anime`](pages/zh/tags.md#tag-anime) 133 · [`template`](pages/zh/tags.md#tag-template) 125 · [`typography`](pages/zh/tags.md#tag-typography) 117 · [`cinematic`](pages/zh/tags.md#tag-cinematic) 113 · [`handheld`](pages/zh/tags.md#tag-handheld) 109 · [`editorial`](pages/zh/tags.md#tag-editorial) 99 · [`golden-hour`](pages/zh/tags.md#tag-golden-hour) 95 · [`dialogue`](pages/zh/tags.md#tag-dialogue) 93 · [`character-consistency`](pages/zh/tags.md#tag-character-consistency) 87 · [`photorealistic`](pages/zh/tags.md#tag-photorealistic) 87 · [`reference-image`](pages/zh/tags.md#tag-reference-image) 82 · [`fantasy`](pages/zh/tags.md#tag-fantasy) 79 · [`christmas`](pages/zh/tags.md#tag-christmas) 78 · [`macro`](pages/zh/tags.md#tag-macro) 75 · [`photo-edit`](pages/zh/tags.md#tag-photo-edit) 69 · [`infographic`](pages/zh/tags.md#tag-infographic) 69 · [`vlog`](pages/zh/tags.md#tag-vlog) 67 · [`storyboard`](pages/zh/tags.md#tag-storyboard) 66 · [`action`](pages/zh/tags.md#tag-action) 64 · [`json-prompt`](pages/zh/tags.md#tag-json-prompt) 64 · [`collage`](pages/zh/tags.md#tag-collage) 62 · [`selfie`](pages/zh/tags.md#tag-selfie) 60 · [`reference-images`](pages/zh/tags.md#tag-reference-images) 55 · [`miniature`](pages/zh/tags.md#tag-miniature) 55 · [`comedy`](pages/zh/tags.md#tag-comedy) 53 · [`food`](pages/zh/tags.md#tag-food) 50 · [`travel-poster`](pages/zh/tags.md#tag-travel-poster) 50
 
-**[全部 3162 个标签](pages/zh/tags.md)**
+**[全部 3163 个标签](pages/zh/tags.md)**
 
 <a id="contributing"></a>
 ## 投稿

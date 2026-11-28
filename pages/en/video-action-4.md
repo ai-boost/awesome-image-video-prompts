@@ -209,7 +209,7 @@ A play-by-play for an 8-second action beat. It also asks for unbranded vehicles,
 
 Veo 3 · Text-to-video · Source: [Veo 3 prompt guide](https://deepmind.google/models/veo/prompt-guide/)
 
-[`action`](tags.md#tag-action) [`handheld`](tags.md#tag-handheld) [`sfx`](tags.md#tag-sfx)
+[`veo`](tags.md#tag-veo) [`action`](tags.md#tag-action) [`handheld`](tags.md#tag-handheld) [`sfx`](tags.md#tag-sfx)
 
 <details><summary><b>Prompt</b></summary>
 

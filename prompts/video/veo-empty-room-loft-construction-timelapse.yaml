@@ -6,6 +6,7 @@ model: Veo 3.1
 mode: keyframes-to-video
 category: vfx
 tags:
+- veo
 - time-lapse
 - interior-design
 - construction

@@ -503,7 +503,7 @@ The prompt describes a medium close-up with pulsing neon light and a handheld mi
 
 Veo 3.1 · Image-to-video · Source: [@HBCoop_ on X](https://x.com/HBCoop_/status/1995206291120087487) · 366 likes on 2026-10-28
 
-[`streamer`](tags.md#tag-streamer) [`neon-lighting`](tags.md#tag-neon-lighting) [`handheld-camera`](tags.md#tag-handheld-camera) [`native-audio`](tags.md#tag-native-audio) [`character-reference`](tags.md#tag-character-reference)
+[`veo`](tags.md#tag-veo) [`streamer`](tags.md#tag-streamer) [`neon-lighting`](tags.md#tag-neon-lighting) [`handheld-camera`](tags.md#tag-handheld-camera) [`native-audio`](tags.md#tag-native-audio) [`character-reference`](tags.md#tag-character-reference)
 
 <details><summary><b>Prompt</b></summary>
 

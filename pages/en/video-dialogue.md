@@ -3239,7 +3239,7 @@ Character first (hat, beard, pipe), then the spoken line in quotes. Veo 3 lip-sy
 
 Veo 3 · Text-to-video · Source: [Veo 3 prompt guide](https://deepmind.google/models/veo/prompt-guide/)
 
-[`dialogue`](tags.md#tag-dialogue) [`character`](tags.md#tag-character)
+[`veo`](tags.md#tag-veo) [`dialogue`](tags.md#tag-dialogue) [`character`](tags.md#tag-character)
 
 <details><summary><b>Prompt</b></summary>
 

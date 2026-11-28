@@ -491,7 +491,7 @@ Ultra detailed, 8K, razor sharp, perfectly aligned, symmetrical composition, lux
 
 Veo 3.1 · 参考生视频 · 出处: [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2029019321364824452) · 582 赞，统计于 2026-10-28
 
-[`product-commercial`](tags.md#tag-product-commercial) [`assembly`](tags.md#tag-assembly) [`skincare`](tags.md#tag-skincare) [`locked-camera`](tags.md#tag-locked-camera) [`sound-design`](tags.md#tag-sound-design)
+[`veo`](tags.md#tag-veo) [`product-commercial`](tags.md#tag-product-commercial) [`assembly`](tags.md#tag-assembly) [`skincare`](tags.md#tag-skincare) [`locked-camera`](tags.md#tag-locked-camera) [`sound-design`](tags.md#tag-sound-design)
 
 <details><summary><b>提示词</b></summary>
 
@@ -980,7 +980,7 @@ wan3.0 效果👇
 
 Veo 3.1 · 文生视频 · 出处: [@Fujimoto_hina on X](https://x.com/Fujimoto_hina/status/2094644333882540334) · 282 赞，统计于 2026-10-28
 
-[`food-commercial`](tags.md#tag-food-commercial) [`macro`](tags.md#tag-macro) [`morph-transition`](tags.md#tag-morph-transition) [`json-prompt`](tags.md#tag-json-prompt) [`storyboard`](tags.md#tag-storyboard)
+[`veo`](tags.md#tag-veo) [`food-commercial`](tags.md#tag-food-commercial) [`macro`](tags.md#tag-macro) [`morph-transition`](tags.md#tag-morph-transition) [`json-prompt`](tags.md#tag-json-prompt) [`storyboard`](tags.md#tag-storyboard)
 
 <details><summary><b>提示词</b></summary>
 
@@ -2074,7 +2074,7 @@ SEE BEYOND
 
 Veo 3.1 · 文生视频 · 出处: [@Fujimoto_hina on X](https://x.com/Fujimoto_hina/status/2102063087251853337) · 129 赞，统计于 2026-10-28
 
-[`food`](tags.md#tag-food) [`macro`](tags.md#tag-macro) [`commercial`](tags.md#tag-commercial) [`slow-motion`](tags.md#tag-slow-motion) [`json-prompt`](tags.md#tag-json-prompt)
+[`veo`](tags.md#tag-veo) [`food`](tags.md#tag-food) [`macro`](tags.md#tag-macro) [`commercial`](tags.md#tag-commercial) [`slow-motion`](tags.md#tag-slow-motion) [`json-prompt`](tags.md#tag-json-prompt)
 
 <details><summary><b>提示词</b></summary>
 
@@ -2592,7 +2592,7 @@ Rise above the city. Buildings flatten into letter stems, bridges bend into curv
 
 Veo 3.1 · 文生视频 · 出处: [@Fujimoto_hina on X](https://x.com/Fujimoto_hina/status/2101697533705920970) · 108 赞，统计于 2026-10-28
 
-[`food`](tags.md#tag-food) [`macro`](tags.md#tag-macro) [`commercial`](tags.md#tag-commercial) [`slow-motion`](tags.md#tag-slow-motion) [`json-prompt`](tags.md#tag-json-prompt)
+[`veo`](tags.md#tag-veo) [`food`](tags.md#tag-food) [`macro`](tags.md#tag-macro) [`commercial`](tags.md#tag-commercial) [`slow-motion`](tags.md#tag-slow-motion) [`json-prompt`](tags.md#tag-json-prompt)
 
 <details><summary><b>提示词</b></summary>
 
@@ -3053,7 +3053,7 @@ ONE SLOW COMPLETE FAN ROTATION → ONE NEW HALLOWEEN OUTFIT.
 
 Veo 3.1 · 文生视频 · 出处: [@Fujimoto_hina on X](https://x.com/Fujimoto_hina/status/2094803500488372359) · 81 赞，统计于 2026-10-28
 
-[`food`](tags.md#tag-food) [`macro`](tags.md#tag-macro) [`commercial`](tags.md#tag-commercial) [`json-prompt`](tags.md#tag-json-prompt) [`storyboard`](tags.md#tag-storyboard)
+[`veo`](tags.md#tag-veo) [`food`](tags.md#tag-food) [`macro`](tags.md#tag-macro) [`commercial`](tags.md#tag-commercial) [`json-prompt`](tags.md#tag-json-prompt) [`storyboard`](tags.md#tag-storyboard)
 
 <details><summary><b>提示词</b></summary>
 
@@ -3140,7 +3140,7 @@ Veo 3.1 · 文生视频 · 出处: [@Fujimoto_hina on X](https://x.com/Fujimoto_
 
 Veo 3.1 · 文生视频 · 出处: [@Fujimoto_hina on X](https://x.com/Fujimoto_hina/status/2107732918932328800) · 77 赞，统计于 2026-10-28
 
-[`miniature`](tags.md#tag-miniature) [`macro`](tags.md#tag-macro) [`food`](tags.md#tag-food) [`diorama`](tags.md#tag-diorama) [`json-prompt`](tags.md#tag-json-prompt)
+[`veo`](tags.md#tag-veo) [`miniature`](tags.md#tag-miniature) [`macro`](tags.md#tag-macro) [`food`](tags.md#tag-food) [`diorama`](tags.md#tag-diorama) [`json-prompt`](tags.md#tag-json-prompt)
 
 <details><summary><b>提示词</b></summary>
 
